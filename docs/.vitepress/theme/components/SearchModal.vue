@@ -145,7 +145,7 @@ onMounted(async () => {
   try {
     // Use indirect import to prevent Vite resolving this at build time.
     // pagefind.js is generated post-build and doesn't exist during compilation.
-    const importPath = '/eba/pagefind/pagefind.js'
+    const importPath = '/pagefind/pagefind.js'
     pagefind = await new Function('path', 'return import(path)')(importPath)
     await pagefind.init()
   } catch {

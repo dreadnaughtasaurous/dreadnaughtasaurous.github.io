@@ -95,7 +95,7 @@ const topicList = [
 
 onMounted(async () => {
   try {
-    const importPath = '/eba/pagefind/pagefind.js'
+    const importPath = '/pagefind/pagefind.js'
     pagefind = await new Function('path', 'return import(path)')(importPath)
     await pagefind.init()
   } catch (e) {
