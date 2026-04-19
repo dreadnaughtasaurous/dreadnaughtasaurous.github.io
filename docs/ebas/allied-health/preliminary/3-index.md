@@ -1,0 +1,23 @@
+---
+title: '3. Index'
+eba: 'Allied Health Professionals 2021-2026'
+topics: ['leave', 'annual-leave', 'parental-leave', 'study-leave']
+---
+
+# 3. Index
+
+
+
+References are to page numbers.
+
+Dental Prosthetists Translation Arrangements, A Absences on Defence Leave, 155 Designated Work Groups, 189 Accident Pay, 70 Dispute Resolution Procedure, 22 Accrued Days Off, 84 Advertising Vacancies, 182 E AHP1 Abolition of Grade 1 Years 1 And 7, 207 Employers covered, 200 Allied Health Manager Structure, 171 Ending Employment During Parental Leave, 56 Allowances Related to Overtime, 72 Examination Leave, 161 Allowances Tables, 225 Annual Leave, 102 F Anti-Discrimination, 12 Family Violence Leave, 117 B Fitness for Work, 113 Fixed Term Employment, 45 Backfill, 179 Flexible Working Arrangements, 184 Best Practice Employment Commitment, 166 Full-Time Employment, 37 Biometric Timekeeping, 89 Blood Donors Leave, 152 G Breaks, 86 Breastfeeding, 138 Gender Transition Leave, 156
+
+C H
+
+Cashing Out of Annual Leave, 106 Higher Duties Allowance, 73 Casual Conversion, 40 Higher Qualifications Allowance, 72 Casual Employment, 39 Hours of Work, 82 Casual Employment – Caring Responsibilities, HSRs, 190 Ceremonial Leave, 154 I Certificate of Service, 289 Incidence & Coverage, 11 Change of Shift Allowance, 77 Incident Reporting, Investigation and Prevention, Classification and Reclassification, 170 189 Classification Definitions, 237 Increases to Allowances, 71 Classifications Definitions and Wages, 168 Independent Dispute Resolution Panel, 25 Commencement Date and Period of Operation, Individual Flexibility Arrangement, 14 11 Industry OHS Working Group, 187 Compassionate Leave, 119 In-Service Education and Training, 161 Consultation, 16 Consultation about Changes to Rosters or Hours J of Work, 21 Jury Service, 154 Contractors and Labour Hire, 183 Copy of Agreement, 12 L D Laundry Allowance, 80 Lead Apron Allowance, 80 Damaged Clothing Allowance, 81 Leave to Engage in Emergency Relief Activities, Daylight Savings, 97 Definitions, 10 Letter of Offer, 49, 288
+
+Long Service Leave, 138 Right to Disconnect, 83 Roster, 88 M S Make-up Time, 98 Managing Conduct and Performance, 31 Safe Rostering and Fatigue, 178 Salary Packaging, 69 N Shift Work Allowance, 76 No Extra Claims, 12 Skills and Incentive Payment, 65 Sleepover Allowance, 77 O Sole Allowance, 71 Special Disaster Leave, 155 Occupational Violence and Aggression Study Leave, 160 Prevention and Management, 191 Superannuation, 67 OHS Preliminary, 186 Supervision and Management, 174 OHS Risk Management, 188 Supervisor Allowance, 81 Overtime, 90 T P Termination of Employment, 49 Parental Leave, 121 Top of Band Payment, 63 Part-Time Employment, 37 Trainee Supervision, 174 Patience in Bargaining Payment, 63 Transfer of Business, 14 Payment of Wages, 66, 67 Transition to Retirement, 60 Performance Management, 29 Travel – Payment, 78 Personal/Carers Leave, 109 Travelling Allowance, 77 Pre-Adoption Leave, 121 Travelling and Relocation, 79 Pre-Natal Leave, 121 Types of Employment, 36 Professional Development Leave, 158 Public Holidays, 99 U Purchased Leave, 108 Uniform Allowance, 80 R Union Matters, 162
+
+Rates for Saturdays and Sundays, 90 W Reasonable Adjustments, 116 Recall – No Return to Workplace, 95 Wage Increases, 62 Recall – Return to Workplace, 95 Wage Rates, 202 Redundancy, 50 Workers' Compensation, Rehabilitation and Redundancy and Related Entitlements, 56 Return To Work, 194 Relationship To Previous Industrial Instruments, Working Away From Home, 80 12 Working from Home, 184 Replacement Positions, 182 Workload Allocation and Safe Staffing, 176 Rest Period After Overtime/Recall – Ten Hour Break, 96
+
+

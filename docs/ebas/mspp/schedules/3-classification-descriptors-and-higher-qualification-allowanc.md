@@ -1,0 +1,1102 @@
+---
+title: '3. Classification Descriptors And Higher Qualification Allowanc'
+eba: 'Medical Scientists, Pharm & Psych 2021-2025'
+topics: ['schedules', 'classifications', 'allowances', 'remuneration', 'rates', 'pay-rates', 'shift-allowances', 'on-call', 'higher-qualifications', 'salary-circular', 'circular 873']
+---
+
+# Schedule 3 - Allowances & Other Payments · Medical Scientists, Pharm & Psych EBA
+
+
+
+::: info Related pay information
+- [Rates of Pay (Schedule 2)](/ebas/mspp/schedules/2-rates-of-pay-and-allowances)
+:::
+
+::: tip Source: Salary Circular 873 (1 July 2025)
+
+The allowance tables below are sourced from Salary Circular 873. Part-time and casual employees receive amounts on a pro-rata basis where indicated. See the referenced clauses for full eligibility criteria.
+:::
+
+## Allowances by Profession
+### Pharmacists
+#### Higher Qualifications Allowance
+
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$52.30</td>
+<td class="pt-rate">$53.35</td>
+<td class="pt-rate">$54.45</td>
+<td class="pt-rate">$55.50</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma, Fellowship Diploma, Post Grad Dip</td>
+<td class="pt-rate">$85.00</td>
+<td class="pt-rate">$86.70</td>
+<td class="pt-rate">$88.45</td>
+<td class="pt-rate">$90.20</td>
+</tr>
+<tr>
+<td class="pt-class">MA, M Sc, M Psych</td>
+<td class="pt-rate">$98.10</td>
+<td class="pt-rate">$100.05</td>
+<td class="pt-rate">$102.05</td>
+<td class="pt-rate">$104.10</td>
+</tr>
+<tr>
+<td class="pt-class">Ph.D, D Sc</td>
+<td class="pt-rate">$130.80</td>
+<td class="pt-rate">$133.40</td>
+<td class="pt-rate">$136.10</td>
+<td class="pt-rate">$138.80</td>
+</tr>
+</tbody>
+</table>
+
+#### On Call Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">On-Call Allowance</td>
+<td class="pt-rate">$46.90</td>
+<td class="pt-rate">$47.80</td>
+<td class="pt-rate">$48.80</td>
+<td class="pt-rate">$49.75</td>
+</tr>
+<tr>
+<td class="pt-class">On-Call Allowance (public holidays)</td>
+<td class="pt-rate">$93.75</td>
+<td class="pt-rate">$95.65</td>
+<td class="pt-rate">$97.55</td>
+<td class="pt-rate">$99.50</td>
+</tr>
+</tbody>
+</table>
+
+#### Change of Roster
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Change of Roster 7 days or less</td>
+<td class="pt-rate">$61.85</td>
+<td class="pt-rate">$63.10</td>
+<td class="pt-rate">$64.35</td>
+<td class="pt-rate">$65.60</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Roster 8 - 14 days notice</td>
+<td class="pt-rate">$30.90</td>
+<td class="pt-rate">$31.55</td>
+<td class="pt-rate">$32.15</td>
+<td class="pt-rate">$32.80</td>
+</tr>
+</tbody>
+</table>
+
+#### Shift Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Morning Shift</td>
+<td class="pt-rate">$28.20</td>
+<td class="pt-rate">$31.55</td>
+<td class="pt-rate">$32.15</td>
+<td class="pt-rate">$32.80</td>
+</tr>
+<tr>
+<td class="pt-class">Afternoon Shift</td>
+<td class="pt-rate">$50.90</td>
+<td class="pt-rate">$51.90</td>
+<td class="pt-rate">$52.95</td>
+<td class="pt-rate">$54.00</td>
+</tr>
+<tr>
+<td class="pt-class">Night Shift</td>
+<td class="pt-rate">$92.40</td>
+<td class="pt-rate">$94.25</td>
+<td class="pt-rate">$96.15</td>
+<td class="pt-rate">$98.05</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Shift</td>
+<td class="pt-rate">$66.55</td>
+<td class="pt-rate">$67.90</td>
+<td class="pt-rate">$69.25</td>
+<td class="pt-rate">$70.65</td>
+</tr>
+</tbody>
+</table>
+
+### Medical Scientists, Audiologists, Clinical Perfusionists & Dietitians (as applicable)
+#### Change of Roster
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Change of Roster 7 days or less</td>
+<td class="pt-rate">$61.85</td>
+<td class="pt-rate">$63.10</td>
+<td class="pt-rate">$64.35</td>
+<td class="pt-rate">$65.60</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Roster 8 - 14 days notice</td>
+<td class="pt-rate">$30.90</td>
+<td class="pt-rate">$31.55</td>
+<td class="pt-rate">$32.15</td>
+<td class="pt-rate">$32.80</td>
+</tr>
+</tbody>
+</table>
+
+#### Higher Qualifications Allowance (Scientists)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$53.60</td>
+<td class="pt-rate">$54.65</td>
+<td class="pt-rate">$55.75</td>
+<td class="pt-rate">$56.85</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$87.05</td>
+<td class="pt-rate">$88.80</td>
+<td class="pt-rate">$90.60</td>
+<td class="pt-rate">$92.40</td>
+</tr>
+<tr>
+<td class="pt-class">MA, M Sc, M App. Sc., MAIP</td>
+<td class="pt-rate">$100.45</td>
+<td class="pt-rate">$102.50</td>
+<td class="pt-rate">$104.55</td>
+<td class="pt-rate">$106.60</td>
+</tr>
+<tr>
+<td class="pt-class">FAACB, FAIMLS, Ph.D, D Sc, FAIP, FIMLS, FHGSA</td>
+<td class="pt-rate">$133.95</td>
+<td class="pt-rate">$136.65</td>
+<td class="pt-rate">$139.35</td>
+<td class="pt-rate">$142.15</td>
+</tr>
+</tbody>
+</table>
+
+#### Higher Qualifications Allowance (Audiologists)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$53.60</td>
+<td class="pt-rate">$54.65</td>
+<td class="pt-rate">$55.75</td>
+<td class="pt-rate">$56.85</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$87.05</td>
+<td class="pt-rate">$88.80</td>
+<td class="pt-rate">$90.60</td>
+<td class="pt-rate">$92.40</td>
+</tr>
+<tr>
+<td class="pt-class">M.Aud, M Sc, M App. Sc.</td>
+<td class="pt-rate">$100.45</td>
+<td class="pt-rate">$102.50</td>
+<td class="pt-rate">$104.55</td>
+<td class="pt-rate">$106.60</td>
+</tr>
+<tr>
+<td class="pt-class">Ph.D, D Sc</td>
+<td class="pt-rate">$133.95</td>
+<td class="pt-rate">$136.65</td>
+<td class="pt-rate">$139.35</td>
+<td class="pt-rate">$142.15</td>
+</tr>
+</tbody>
+</table>
+
+#### Higher Qualifications Allowance (Cardiovascular Perfusionists)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$53.60</td>
+<td class="pt-rate">$54.65</td>
+<td class="pt-rate">$55.75</td>
+<td class="pt-rate">$56.85</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$87.05</td>
+<td class="pt-rate">$88.80</td>
+<td class="pt-rate">$90.60</td>
+<td class="pt-rate">$92.40</td>
+</tr>
+<tr>
+<td class="pt-class">MAACB, M Sc, M App. Sc., MAIP,</td>
+<td class="pt-rate">$100.45</td>
+<td class="pt-rate">$102.50</td>
+<td class="pt-rate">$104.55</td>
+<td class="pt-rate">$106.60</td>
+</tr>
+<tr>
+<td class="pt-class">FAACB, FAIMLS, Ph.D, D Sc, FAIP, FIMLS</td>
+<td class="pt-rate">$133.95</td>
+<td class="pt-rate">$136.65</td>
+<td class="pt-rate">$139.35</td>
+<td class="pt-rate">$142.15</td>
+</tr>
+</tbody>
+</table>
+
+#### Higher Qualifications Allowance (Clinical Perfusionists) (Royal Children's Hospital Only)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$53.70</td>
+<td class="pt-rate">$54.80</td>
+<td class="pt-rate">$55.90</td>
+<td class="pt-rate">$57.00</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$87.00</td>
+<td class="pt-rate">$88.70</td>
+<td class="pt-rate">$90.50</td>
+<td class="pt-rate">$92.30</td>
+</tr>
+<tr>
+<td class="pt-class">MAACB, M Sc, M App. Sc., MAIP,</td>
+<td class="pt-rate">$100.50</td>
+<td class="pt-rate">$102.50</td>
+<td class="pt-rate">$104.60</td>
+<td class="pt-rate">$106.70</td>
+</tr>
+<tr>
+<td class="pt-class">FAACB, FAIMLS, Ph.D, D Sc, FAIP, FIMLS</td>
+<td class="pt-rate">$134.00</td>
+<td class="pt-rate">$136.70</td>
+<td class="pt-rate">$139.40</td>
+<td class="pt-rate">$142.20</td>
+</tr>
+</tbody>
+</table>
+
+#### Higher Qualifications Allowance (Dietitians)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$52.60</td>
+<td class="pt-rate">$53.65</td>
+<td class="pt-rate">$54.70</td>
+<td class="pt-rate">$55.80</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$85.50</td>
+<td class="pt-rate">$87.20</td>
+<td class="pt-rate">$88.95</td>
+<td class="pt-rate">$90.70</td>
+</tr>
+<tr>
+<td class="pt-class">M Sc</td>
+<td class="pt-rate">$98.65</td>
+<td class="pt-rate">$100.60</td>
+<td class="pt-rate">$102.60</td>
+<td class="pt-rate">$104.65</td>
+</tr>
+<tr>
+<td class="pt-class">Ph.D, D Sc</td>
+<td class="pt-rate">$131.50</td>
+<td class="pt-rate">$134.15</td>
+<td class="pt-rate">$136.80</td>
+<td class="pt-rate">$139.55</td>
+</tr>
+</tbody>
+</table>
+
+#### On Call Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">On-Call Allowance</td>
+<td class="pt-rate">$46.90</td>
+<td class="pt-rate">$47.80</td>
+<td class="pt-rate">$48.80</td>
+<td class="pt-rate">$49.75</td>
+</tr>
+<tr>
+<td class="pt-class">On-Call Allowance (public holidays)</td>
+<td class="pt-rate">$93.75</td>
+<td class="pt-rate">$95.65</td>
+<td class="pt-rate">$97.55</td>
+<td class="pt-rate">$99.50</td>
+</tr>
+</tbody>
+</table>
+
+#### Sole Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Sole Allowance</td>
+<td class="pt-rate">$57.70</td>
+<td class="pt-rate">$58.85</td>
+<td class="pt-rate">$60.00</td>
+<td class="pt-rate">$61.20</td>
+</tr>
+</tbody>
+</table>
+
+#### Shift Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Morning Shift</td>
+<td class="pt-rate">$28.85</td>
+<td class="pt-rate">$29.45</td>
+<td class="pt-rate">$30.05</td>
+<td class="pt-rate">$30.65</td>
+</tr>
+<tr>
+<td class="pt-class">Afternoon Shift</td>
+<td class="pt-rate">$50.90</td>
+<td class="pt-rate">$51.90</td>
+<td class="pt-rate">$52.95</td>
+<td class="pt-rate">$54.00</td>
+</tr>
+<tr>
+<td class="pt-class">Night Shift</td>
+<td class="pt-rate">$92.40</td>
+<td class="pt-rate">$94.25</td>
+<td class="pt-rate">$96.15</td>
+<td class="pt-rate">$98.05</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Shift</td>
+<td class="pt-rate">$66.55</td>
+<td class="pt-rate">$67.90</td>
+<td class="pt-rate">$69.25</td>
+<td class="pt-rate">$70.65</td>
+</tr>
+</tbody>
+</table>
+
+### Psychologists
+#### Change of Roster
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Change of Roster 7 days or less</td>
+<td class="pt-rate">$61.85</td>
+<td class="pt-rate">$63.10</td>
+<td class="pt-rate">$64.35</td>
+<td class="pt-rate">$65.60</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Roster 8 - 14 days notice</td>
+<td class="pt-rate">$30.90</td>
+<td class="pt-rate">$31.55</td>
+<td class="pt-rate">$32.15</td>
+<td class="pt-rate">$32.80</td>
+</tr>
+</tbody>
+</table>
+
+#### Lodging Deductions & Rent Deductions (weekly)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Trainees</td>
+<td class="pt-rate">$10.25</td>
+<td class="pt-rate">$10.46</td>
+<td class="pt-rate">$10.67</td>
+<td class="pt-rate">$10.88</td>
+</tr>
+<tr>
+<td class="pt-class">Others</td>
+<td class="pt-rate">$22.54</td>
+<td class="pt-rate">$22.99</td>
+<td class="pt-rate">$23.45</td>
+<td class="pt-rate">$23.92</td>
+</tr>
+<tr>
+<td class="pt-class">Self-contained furnished accommodation</td>
+<td class="pt-rate">$34.83</td>
+<td class="pt-rate">$35.53</td>
+<td class="pt-rate">$36.24</td>
+<td class="pt-rate">$36.97</td>
+</tr>
+<tr>
+<td class="pt-class">Cafeteria Rates</td>
+<td class="pt-rate">$14.38</td>
+<td class="pt-rate">$14.67</td>
+<td class="pt-rate">$14.96</td>
+<td class="pt-rate">$15.26</td>
+</tr>
+</tbody>
+</table>
+
+#### Higher Qualifications Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$50.30</td>
+<td class="pt-rate">$51.30</td>
+<td class="pt-rate">$52.30</td>
+<td class="pt-rate">$53.35</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$81.70</td>
+<td class="pt-rate">$83.35</td>
+<td class="pt-rate">$85.00</td>
+<td class="pt-rate">$86.70</td>
+</tr>
+<tr>
+<td class="pt-class">MA, M Sc, M Psych</td>
+<td class="pt-rate">$94.30</td>
+<td class="pt-rate">$96.15</td>
+<td class="pt-rate">$98.10</td>
+<td class="pt-rate">$100.05</td>
+</tr>
+<tr>
+<td class="pt-class">Ph.D, D Sc</td>
+<td class="pt-rate">$125.70</td>
+<td class="pt-rate">$128.25</td>
+<td class="pt-rate">$130.80</td>
+<td class="pt-rate">$133.40</td>
+</tr>
+</tbody>
+</table>
+
+#### Shift Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Morning Shift</td>
+<td class="pt-rate">$28.85</td>
+<td class="pt-rate">$29.45</td>
+<td class="pt-rate">$30.05</td>
+<td class="pt-rate">$30.65</td>
+</tr>
+<tr>
+<td class="pt-class">Afternoon Shift</td>
+<td class="pt-rate">$50.90</td>
+<td class="pt-rate">$51.90</td>
+<td class="pt-rate">$52.95</td>
+<td class="pt-rate">$54.00</td>
+</tr>
+<tr>
+<td class="pt-class">Night Shift</td>
+<td class="pt-rate">$92.40</td>
+<td class="pt-rate">$94.25</td>
+<td class="pt-rate">$96.15</td>
+<td class="pt-rate">$98.05</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Shift</td>
+<td class="pt-rate">$66.55</td>
+<td class="pt-rate">$67.90</td>
+<td class="pt-rate">$69.25</td>
+<td class="pt-rate">$70.65</td>
+</tr>
+</tbody>
+</table>
+
+#### CATT On-Call Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">CATT On-Call Allowance</td>
+<td class="pt-rate">$149.85</td>
+<td class="pt-rate">$152.85</td>
+<td class="pt-rate">$155.90</td>
+<td class="pt-rate">$159.05</td>
+</tr>
+</tbody>
+</table>
+
+### Medical Physicists
+#### Higher Qualifications Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Graduate Certificate</td>
+<td class="pt-rate">$53.60</td>
+<td class="pt-rate">$54.65</td>
+<td class="pt-rate">$55.75</td>
+<td class="pt-rate">$56.85</td>
+</tr>
+<tr>
+<td class="pt-class">Graduate Diploma</td>
+<td class="pt-rate">$87.05</td>
+<td class="pt-rate">$88.80</td>
+<td class="pt-rate">$90.60</td>
+<td class="pt-rate">$92.40</td>
+</tr>
+<tr>
+<td class="pt-class">MA, M Sc, M Psych</td>
+<td class="pt-rate">$100.45</td>
+<td class="pt-rate">$102.50</td>
+<td class="pt-rate">$104.55</td>
+<td class="pt-rate">$106.60</td>
+</tr>
+<tr>
+<td class="pt-class">Ph.D, D Sc</td>
+<td class="pt-rate">$133.95</td>
+<td class="pt-rate">$136.65</td>
+<td class="pt-rate">$139.35</td>
+<td class="pt-rate">$142.15</td>
+</tr>
+</tbody>
+</table>
+
+#### Shift Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Morning Shift</td>
+<td class="pt-rate">$33.50</td>
+<td class="pt-rate">$34.15</td>
+<td class="pt-rate">$34.85</td>
+<td class="pt-rate">$35.55</td>
+</tr>
+<tr>
+<td class="pt-class">Afternoon Shift</td>
+<td class="pt-rate">$50.90</td>
+<td class="pt-rate">$51.90</td>
+<td class="pt-rate">$52.95</td>
+<td class="pt-rate">$54.00</td>
+</tr>
+<tr>
+<td class="pt-class">Night Shift</td>
+<td class="pt-rate">$112.90</td>
+<td class="pt-rate">$115.15</td>
+<td class="pt-rate">$117.45</td>
+<td class="pt-rate">$119.80</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Shift</td>
+<td class="pt-rate">$66.55</td>
+<td class="pt-rate">$67.90</td>
+<td class="pt-rate">$69.25</td>
+<td class="pt-rate">$70.65</td>
+</tr>
+</tbody>
+</table>
+
+#### On Call Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">On-Call Allowance</td>
+<td class="pt-rate">$46.90</td>
+<td class="pt-rate">$47.80</td>
+<td class="pt-rate">$48.80</td>
+<td class="pt-rate">$49.75</td>
+</tr>
+<tr>
+<td class="pt-class">On-Call Allowance (public holidays)</td>
+<td class="pt-rate">$93.75</td>
+<td class="pt-rate">$95.65</td>
+<td class="pt-rate">$97.55</td>
+<td class="pt-rate">$99.50</td>
+</tr>
+</tbody>
+</table>
+
+#### Change of Roster
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Change of Roster 7 days or less</td>
+<td class="pt-rate">$61.85</td>
+<td class="pt-rate">$63.10</td>
+<td class="pt-rate">$64.35</td>
+<td class="pt-rate">$65.60</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Roster 8 - 14 days notice</td>
+<td class="pt-rate">$30.90</td>
+<td class="pt-rate">$31.55</td>
+<td class="pt-rate">$32.15</td>
+<td class="pt-rate">$32.80</td>
+</tr>
+</tbody>
+</table>
+
+#### Sole Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Sole Allowance</td>
+<td class="pt-rate">$67.00</td>
+<td class="pt-rate">$68.35</td>
+<td class="pt-rate">$69.75</td>
+<td class="pt-rate">$71.15</td>
+</tr>
+</tbody>
+</table>
+
+### Genetic Counsellors
+#### Higher Qualifications Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Masters</td>
+<td class="pt-rate">$99.95</td>
+<td class="pt-rate">$101.90</td>
+<td class="pt-rate">$103.95</td>
+<td class="pt-rate">$106.05</td>
+</tr>
+<tr>
+<td class="pt-class">Ph.D</td>
+<td class="pt-rate">$133.25</td>
+<td class="pt-rate">$135.90</td>
+<td class="pt-rate">$138.60</td>
+<td class="pt-rate">$141.40</td>
+</tr>
+</tbody>
+</table>
+
+#### Change of Roster
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Change of Roster 7 days or less</td>
+<td class="pt-rate">$61.85</td>
+<td class="pt-rate">$63.10</td>
+<td class="pt-rate">$64.35</td>
+<td class="pt-rate">$65.60</td>
+</tr>
+<tr>
+<td class="pt-class">Change of Roster 8 - 14 days notice</td>
+<td class="pt-rate">$30.90</td>
+<td class="pt-rate">$31.55</td>
+<td class="pt-rate">$32.15</td>
+<td class="pt-rate">$32.80</td>
+</tr>
+</tbody>
+</table>
+
+### Other Allowances
+#### Annual Leave Loading
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Weekly Salary Exceeds Grade 3 Year 2 scientist rate)</td>
+<td class="pt-rate">$2,039.80</td>
+<td class="pt-rate">$2,080.60</td>
+<td class="pt-rate">$2,122.20</td>
+<td class="pt-rate">$2,164.60</td>
+</tr>
+<tr>
+<td class="pt-class">Loading Amount (5 weeks annual leave)</td>
+<td class="pt-rate">$1,784.80</td>
+<td class="pt-rate">$1,820.50</td>
+<td class="pt-rate">$1,856.90</td>
+<td class="pt-rate">$1,894.00</td>
+</tr>
+</tbody>
+</table>
+
+#### Meal Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">After 1 hour of overtime</td>
+<td class="pt-rate">$14.64</td>
+<td class="pt-rate">$14.93</td>
+<td class="pt-rate">$15.23</td>
+<td class="pt-rate">$15.53</td>
+</tr>
+<tr>
+<td class="pt-class">After 4 hour of overtime (additional)</td>
+<td class="pt-rate">$10.10</td>
+<td class="pt-rate">$10.30</td>
+<td class="pt-rate">$10.51</td>
+<td class="pt-rate">$10.72</td>
+</tr>
+<tr>
+<td class="pt-class">After 2 hours of recall</td>
+<td class="pt-rate">$14.13</td>
+<td class="pt-rate">$14.41</td>
+<td class="pt-rate">$14.70</td>
+<td class="pt-rate">$14.99</td>
+</tr>
+<tr>
+<td class="pt-class">After 4 hours of recall (additional)</td>
+<td class="pt-rate">$9.74</td>
+<td class="pt-rate">$9.94</td>
+<td class="pt-rate">$10.13</td>
+<td class="pt-rate">$10.34</td>
+</tr>
+</tbody>
+</table>
+
+#### Uniform Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Per day (or part thereof)</td>
+<td class="pt-rate">$1.33</td>
+<td class="pt-rate">$1.35</td>
+<td class="pt-rate">$1.38</td>
+<td class="pt-rate">$1.41</td>
+</tr>
+<tr>
+<td class="pt-class">Per week</td>
+<td class="pt-rate">$6.53</td>
+<td class="pt-rate">$6.66</td>
+<td class="pt-rate">$6.79</td>
+<td class="pt-rate">$6.93</td>
+</tr>
+</tbody>
+</table>
+
+#### Laundry Allowance
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Description</th>
+<th class="pt-rate">1 Dec 2021</th>
+<th class="pt-rate">1 Dec 2022</th>
+<th class="pt-rate">1 Dec 2023</th>
+<th class="pt-rate">1 Dec 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">Per day (or part thereof)</td>
+<td class="pt-rate">$0.31</td>
+<td class="pt-rate">$0.31</td>
+<td class="pt-rate">$0.32</td>
+<td class="pt-rate">$0.32</td>
+</tr>
+<tr>
+<td class="pt-class">Per week</td>
+<td class="pt-rate">$1.58</td>
+<td class="pt-rate">$1.61</td>
+<td class="pt-rate">$1.64</td>
+<td class="pt-rate">$1.68</td>
+</tr>
+</tbody>
+</table>
+
+### Other Payments
+#### Annual Skills and Incentive Payment (All Classifications except Psychologists)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Period</th>
+<th class="pt-rate">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">1 December 2021 (FFPPOA)</td>
+<td class="pt-rate">$1,000.00</td>
+</tr>
+<tr>
+<td class="pt-class">1 December 2022 (FFPPOA)</td>
+<td class="pt-rate">$1,000.00</td>
+</tr>
+<tr>
+<td class="pt-class">1 December 2023 (FFPPOA)</td>
+<td class="pt-rate">$1,000.00</td>
+</tr>
+<tr>
+<td class="pt-class">1 December 2024 (FFPPOA)</td>
+<td class="pt-rate">$1,000.00</td>
+</tr>
+</tbody>
+</table>
+
+#### Annual Retention Payment (Psychologists only)
+<table class="pay-table">
+<thead>
+<tr>
+<th class="pt-class">Period</th>
+<th class="pt-rate">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pt-class">1 November 2021 (FFPPOA)</td>
+<td class="pt-rate">$1,500.00</td>
+</tr>
+<tr>
+<td class="pt-class">1 November 2022 (FFPPOA)</td>
+<td class="pt-rate">$1,800.00</td>
+</tr>
+<tr>
+<td class="pt-class">1 November 2023 (FFPPOA)</td>
+<td class="pt-rate">$2,000.00</td>
+</tr>
+<tr>
+<td class="pt-class">1 November 2024 (FFPPOA)</td>
+<td class="pt-rate">$2,000.00</td>
+</tr>
+</tbody>
+</table>
+
+
+

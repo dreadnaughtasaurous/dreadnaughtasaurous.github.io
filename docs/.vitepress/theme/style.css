@@ -1,0 +1,564 @@
+/* =============================================
+   EBA Wiki — Custom Global Styles
+   ============================================= */
+
+/* =============================================
+   Pay Rates Page — Pay Card Components
+   ============================================= */
+
+.pay-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  background: var(--vp-c-bg-soft);
+  transition: box-shadow 0.15s;
+}
+
+.pay-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.dark .pay-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.pay-card h3 {
+  margin: 0 0 0.15rem 0;
+  font-size: 1rem;
+  color: var(--vp-c-brand-1);
+  border: none;
+  padding: 0;
+}
+
+.pay-card .pay-card-sub {
+  font-size: 0.82rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 0.6rem 0;
+}
+
+.pay-card .pay-card-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.pay-card .pay-card-links a {
+  display: inline-block;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  padding: 0.3rem 0.65rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none;
+  border: 1px solid var(--vp-c-brand-2);
+  transition: background 0.15s;
+}
+
+.pay-card .pay-card-links a:hover {
+  background: var(--vp-c-brand-2);
+  text-decoration: none;
+}
+
+/* Pill badges */
+.pill {
+  display: inline-block;
+  background: var(--vp-c-default-soft);
+  color: var(--vp-c-text-2);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  margin-right: 0.3rem;
+}
+
+.pill-eba {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+
+.clause-meta {
+  margin-bottom: 1rem;
+}
+
+/* =============================================
+   Custom container: note (mirrors MkDocs style)
+   ============================================= */
+
+.vp-doc .custom-block.note {
+  border-left: 4px solid var(--vp-c-default-3);
+  background-color: var(--vp-c-default-soft);
+  padding: 12px 16px;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+.vp-doc .custom-block.note .custom-block-title {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+/* Make info admonition float right like MkDocs inline end style */
+.vp-doc .custom-block.info.inline-end {
+  float: right;
+  max-width: 280px;
+  margin: 0 0 1rem 1.5rem;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 640px) {
+  .vp-doc .custom-block.info.inline-end {
+    float: none;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+/* =============================================
+   PayTable component — tabbed year switching
+   ============================================= */
+
+.pay-table-tabs {
+  margin: 1.2rem 0;
+}
+
+.pay-tab-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.pay-tab-btn {
+  padding: 0.35rem 0.85rem;
+  font-size: 0.83rem;
+  font-weight: 500;
+  border: 1px solid var(--vp-c-divider);
+  border-bottom: 1px solid var(--vp-c-divider);
+  border-radius: 4px 4px 0 0;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.pay-tab-btn:hover {
+  background: var(--vp-c-default-soft);
+  color: var(--vp-c-text-1);
+}
+
+.pay-tab-btn.active {
+  background: var(--vp-c-bg);
+  color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-divider);
+  border-bottom-color: var(--vp-c-bg);
+  font-weight: 600;
+  position: relative;
+  z-index: 1;
+}
+
+/* =============================================
+   Pay Table — shared wrapper (raw HTML tables)
+   ============================================= */
+
+.pay-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.2rem 0;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
+.pay-table-wrap table {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  border-radius: 0;
+  min-width: 480px;
+}
+
+/* Remove double border from VitePress default table styles */
+.vp-doc .pay-table-wrap table {
+  display: table;
+  width: 100%;
+}
+
+.vp-doc .pay-table-wrap tr:last-child td {
+  border-bottom: none;
+}
+
+/* Group header rows */
+.vp-doc .pay-table-wrap tr.pt-group td {
+  background: var(--vp-c-default-soft);
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  letter-spacing: 0.03em;
+  padding: 0.4rem 0.75rem;
+}
+
+/* Classification column */
+.vp-doc .pay-table-wrap td.pt-class,
+.vp-doc .pay-table-wrap th.pt-class {
+  text-align: left;
+  min-width: 200px;
+}
+
+/* Pay code column */
+.vp-doc .pay-table-wrap td.pt-code,
+.vp-doc .pay-table-wrap th.pt-code {
+  text-align: left;
+  white-space: nowrap;
+  min-width: 80px;
+  color: var(--vp-c-text-2);
+  font-size: 0.85rem;
+  font-family: monospace;
+}
+
+/* Rate columns */
+.vp-doc .pay-table-wrap td.pt-rate,
+.vp-doc .pay-table-wrap th.pt-rate {
+  text-align: right;
+  white-space: nowrap;
+  min-width: 90px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Header styling */
+.vp-doc .pay-table-wrap thead th {
+  background: var(--vp-c-bg-soft);
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-bottom: 2px solid var(--vp-c-divider);
+}
+
+/* Override VitePress default table top margin inside pay tables */
+.vp-doc .pay-table-wrap table {
+  margin-top: 0 !important;
+  display: table;
+}
+
+/* Wide pay tables — horizontal scroll on small screens */
+.vp-doc .pay-table-wide {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0;
+}
+
+.vp-doc .pay-table-wide table {
+  min-width: 900px;
+}
+
+/* =============================================
+   Sticky header row for tall pay tables
+   ============================================= */
+
+.pay-table-wrap {
+  max-height: 600px;   /* Cap height — user scrolls inside */
+  overflow-y: auto;
+  overflow-x: auto;
+  position: relative;
+}
+
+.vp-doc .pay-table-wrap thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--vp-c-bg-soft);
+  box-shadow: 0 1px 0 var(--vp-c-divider);
+}
+
+/* =============================================
+   Allow header text to wrap in pay tables
+   (overrides white-space: nowrap on th.pt-rate)
+   ============================================= */
+
+.vp-doc .pay-table-wrap thead th.pt-rate {
+  white-space: normal;
+  word-break: break-word;
+  min-width: 80px;
+  max-width: 110px;
+  text-align: center;
+}
+
+/* =============================================
+   Homepage — Hero & Card Grid
+   ============================================= */
+
+.home-wrapper {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+/* Two-column hero — text left, image right */
+.home-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2.5rem 0 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.home-hero-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+  border: none;
+}
+
+.home-subtitle {
+  font-size: 1rem;
+  color: var(--vp-c-text-2);
+  max-width: 520px;
+  margin: 0 0 1.5rem;
+  line-height: 1.7;
+}
+
+.home-hero-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.home-btn {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.home-btn-primary {
+  background: var(--vp-c-brand-1);
+  color: #fff;
+}
+
+.home-btn-primary:hover {
+  background: var(--vp-c-brand-2);
+  text-decoration: none;
+}
+
+.home-btn-secondary {
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-divider);
+}
+
+.home-btn-secondary:hover {
+  background: var(--vp-c-bg-muted);
+  text-decoration: none;
+}
+
+/* Image column */
+.home-hero-image {
+  flex-shrink: 0;
+  width: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Matches FMHY .image-container */
+.home-hero-image .image-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 280px;
+}
+
+/* Ambient backlight glow behind the image — soft radial gradient */
+.home-hero-image .image-bg {
+  position: absolute;
+  inset: -20px;
+  border-radius: 50%;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(219, 27, 82, 0.10) 0%,
+    rgba(180, 27, 100, 0.08) 40%,
+    rgba(69, 45, 111, 0.10) 65%,
+    transparent 85%
+  );
+  filter: blur(36px);
+  z-index: 0;
+  transition: opacity 0.3s;
+}
+
+.home-hero-image .image-src {
+  position: relative;
+  z-index: 1;
+  width: 220px;
+  height: 220px;
+  object-fit: contain;
+  filter:
+    drop-shadow(-16px 0 28px rgba(219, 27, 82, 0.45))
+    drop-shadow(-8px 0 18px rgba(219, 27, 82, 0.3))
+    drop-shadow(0 0 28px rgba(160, 27, 96, 0.25))
+    drop-shadow(8px 0 18px rgba(69, 45, 111, 0.3))
+    drop-shadow(16px 0 28px rgba(69, 45, 111, 0.45));
+  transition: filter 0.3s;
+}
+
+.home-hero-image .image-src:hover {
+  filter:
+    drop-shadow(-18px 0 34px rgba(219, 27, 82, 0.58))
+    drop-shadow(-9px 0 22px rgba(219, 27, 82, 0.4))
+    drop-shadow(0 0 34px rgba(160, 27, 96, 0.35))
+    drop-shadow(9px 0 22px rgba(69, 45, 111, 0.4))
+    drop-shadow(18px 0 34px rgba(69, 45, 111, 0.58));
+}
+
+/* Section labels */
+.home-section-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--vp-c-text-2);
+  margin: 2rem 0 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+/* Card grid — matches FMHY 4-column feature grid */
+.home-card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.home-card-grid--slim {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.home-card {
+  display: block;
+  border: 1px solid var(--vp-c-bg-soft);
+  border-radius: 12px;
+  background-color: var(--vp-c-bg-soft);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.25s, background 0.25s;
+}
+
+.home-card:hover {
+  border-color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.home-card .box {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  height: 100%;
+  min-height: 192px;
+}
+
+.home-card .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  width: 48px;
+  height: 48px;
+  font-size: 24px;
+  transition: background-color 0.25s;
+}
+
+.home-card .title {
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  color: var(--vp-c-text-1);
+  border: none;
+  margin: 0 0 8px;
+  padding: 0;
+}
+
+.home-card .details {
+  flex-grow: 1;
+  padding-top: 8px;
+  line-height: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+  border-top: 1px solid var(--vp-c-divider);
+  margin: 0;
+}
+
+.home-disclaimer {
+  margin-top: 2.5rem;
+  padding: 0.85rem 1.1rem;
+  border-radius: 6px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  font-size: 0.82rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+}
+
+/* Responsive — collapse to single column on tablet */
+@media (max-width: 768px) {
+  .home-hero {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .home-subtitle {
+    margin: 0 auto 1.5rem;
+  }
+
+  .home-hero-actions {
+    justify-content: center;
+  }
+
+  .home-hero-image {
+    width: 200px;
+  }
+
+  .home-hero-image .image-container {
+    width: 200px;
+    height: 200px;
+  }
+
+  .home-hero-image .image-src {
+    width: 160px;
+    height: 160px;
+  }
+
+  .home-card-grid,
+  .home-card-grid--slim {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .home-card-grid,
+  .home-card-grid--slim {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Navbar logo size */
+.VPNavBarTitle .logo {
+  height: 60px;
+  width: auto;
+}
