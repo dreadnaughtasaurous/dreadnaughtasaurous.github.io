@@ -461,7 +461,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Has Managers Admin', link: '/ebas/has-managers-admin',
+    text: 'Health Allied & Managers Admin', link: '/ebas/has-managers-admin',
     collapsed: true,
     items: [
     { text: 'Common Terms', link: '/ebas/has-managers-admin/common-terms', collapsed: true, items: [
@@ -1144,7 +1144,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Mspp', link: '/ebas/mspp',
+    text: 'Medical Scientists, Pharmacists & Psychologists', link: '/ebas/mspp',
     collapsed: true,
     items: [
     { text: 'Accident Pay Allowances', link: '/ebas/mspp/accident-pay-allowances', collapsed: true, items: [
