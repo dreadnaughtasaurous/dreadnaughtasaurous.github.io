@@ -38,6 +38,14 @@ jobs:
         run: npm run docs:build
         working-directory: docs
 
+      - name: Patch Pagefind attributes
+        run: node scripts/patch-pagefind.mjs
+        working-directory: docs
+
+      - name: Index with Pagefind
+        run: npx pagefind --site .vitepress/dist
+        working-directory: docs
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
