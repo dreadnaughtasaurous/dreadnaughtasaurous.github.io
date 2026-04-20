@@ -9,6 +9,7 @@
     "docs:index": "vitepress build . && node scripts/patch-pagefind.mjs && pagefind --site .vitepress/dist --output-path .vitepress/dist/pagefind"
   },
   "devDependencies": {
+    "markdownlint-cli2": "^0.22.0",
     "pagefind": "^1.3.0",
     "vitepress": "^1.6.4"
   },
