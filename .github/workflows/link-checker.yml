@@ -1,0 +1,43 @@
+name: Check for Broken Links
+
+on:
+  schedule:
+    - cron: '0 22 * * 0'  # Every Monday 8:00 AM AEST (UTC+10) = Sunday 22:00 UTC
+  workflow_dispatch:        # Enables manual trigger from GitHub Actions tab
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: docs/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: docs
+
+      - name: Build VitePress
+        run: npm run docs:build
+        working-directory: docs
+
+      - name: Check links with Lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --base https://dreadnaughtasaurous.github.io
+            --accept 200,206,429
+            --exclude-mail
+            --exclude 'localhost'
+            --exclude 'pagefind'
+            --timeout 30
+            --max-retries 3
+            --verbose
+            './docs/.vitepress/dist/**/*.html'
+          fail: true
