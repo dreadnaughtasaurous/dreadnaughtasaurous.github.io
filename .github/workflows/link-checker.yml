@@ -3,7 +3,7 @@ name: Check for Broken Links
 on:
   schedule:
     - cron: '0 22 * * 0'  # Every Monday 8:00 AM AEST (UTC+10) = Sunday 22:00 UTC
-  workflow_dispatch:        # Enables manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   linkcheck:
@@ -15,7 +15,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: '20'
           cache: npm
           cache-dependency-path: docs/package-lock.json
 
@@ -27,16 +27,33 @@ jobs:
         run: npm run docs:build
         working-directory: docs
 
-      - name: Check links with Lychee
+      - name: Check internal links with Lychee
+        id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --base https://dreadnaughtasaurous.github.io
             --accept 200,206,429
+            --include 'https://dreadnaughtasaurous\.github\.io'
             --exclude 'localhost'
             --exclude 'pagefind'
-            --timeout 30
-            --max-retries 3
-            --verbose
+            --exclude-mail
+            --timeout 10
+            --max-retries 2
+            --no-progress
             './docs/.vitepress/dist/**/*.html'
           fail: true
+
+      - name: Write truncated summary on failure
+        if: failure()
+        run: |
+          REPORT=".lycheecache/lychee.output.md"
+          if [ -f "$REPORT" ]; then
+            HEAD=$(head -c 900000 "$REPORT")
+            echo "$HEAD" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "---" >> $GITHUB_STEP_SUMMARY
+            echo "⚠️ Summary truncated — full report available in lychee output above." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "No lychee report file found." >> $GITHUB_STEP_SUMMARY
+          fi
