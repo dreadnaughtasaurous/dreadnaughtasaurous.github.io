@@ -1,6 +1,6 @@
 const sidebar = [
   {
-    text: 'Allied Health', link: '/ebas/allied-health',
+    text: '🤝 Allied Health', link: '/ebas/allied-health',
     collapsed: true,
     items: [
     { text: 'Allowances', link: '/ebas/allied-health/allowances', collapsed: true, items: [
@@ -155,7 +155,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Biomedical Engineers', link: '/ebas/biomedical-engineers',
+    text: '🔬 Biomedical Engineers', link: '/ebas/biomedical-engineers',
     collapsed: true,
     items: [
     { text: 'Allowances', link: '/ebas/biomedical-engineers/allowances', collapsed: true, items: [
@@ -277,7 +277,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Childrens Services', link: '/ebas/childrens-services',
+    text: '👶 Childrens Services', link: '/ebas/childrens-services',
     collapsed: true,
     items: [
     { text: 'Application Operation', link: '/ebas/childrens-services/application-operation', collapsed: true, items: [
@@ -338,7 +338,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Doctors In Training', link: '/ebas/doctors-in-training',
+    text: '🎓 Doctors In Training', link: '/ebas/doctors-in-training',
     collapsed: true,
     items: [
     { text: 'Accommodation', link: '/ebas/doctors-in-training/accommodation', collapsed: true, items: [
@@ -461,7 +461,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Health Allied & Managers Admin', link: '/ebas/has-managers-admin',
+    text: '💼 Health Allied & Managers Admin', link: '/ebas/has-managers-admin',
     collapsed: true,
     items: [
     { text: 'Common Terms', link: '/ebas/has-managers-admin/common-terms', collapsed: true, items: [
@@ -683,7 +683,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Medical Specialists', link: '/ebas/medical-specialists',
+    text: '🩺 Medical Specialists', link: '/ebas/medical-specialists',
     collapsed: true,
     items: [
     { text: 'Accommodation', link: '/ebas/medical-specialists/accommodation', collapsed: true, items: [
@@ -790,7 +790,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Mental Health', link: '/ebas/mental-health',
+    text: '🧠 Mental Health', link: '/ebas/mental-health',
     collapsed: true,
     items: [
     { text: 'Common Terms', link: '/ebas/mental-health/common-terms', collapsed: true, items: [
@@ -1144,7 +1144,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Medical Scientists, Pharmacists & Psychologists', link: '/ebas/mspp',
+    text: '🧪 Medical Scientists, Pharmacists & Psychologists', link: '/ebas/mspp',
     collapsed: true,
     items: [
     { text: 'Accident Pay Allowances', link: '/ebas/mspp/accident-pay-allowances', collapsed: true, items: [
@@ -1291,7 +1291,7 @@ const sidebar = [
     ]
   },
   {
-    text: 'Nurses Midwives', link: '/ebas/nurses-midwives',
+    text: '💗 Nurses and Midwives', link: '/ebas/nurses-midwives',
     collapsed: true,
     items: [
     { text: 'Allowances', link: '/ebas/nurses-midwives/allowances', collapsed: true, items: [
