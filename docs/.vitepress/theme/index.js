@@ -5,6 +5,8 @@ import PayTable from './components/PayTable.vue'
 import { h } from 'vue'
 import SearchPage from './components/SearchPage.vue'
 import SearchModal from './components/SearchModal.vue'
+import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
+import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 
 export default {
   extends: DefaultTheme,
@@ -14,6 +16,7 @@ export default {
     })
   },
   enhanceApp({ app }) {
+    app.use(NolebaseGitChangelogPlugin)
     app.component('SearchPage', SearchPage)
     app.component('SearchModal', SearchModal)
     app.component('PayTable', PayTable)

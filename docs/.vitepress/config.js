@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import sidebar from './sidebar.js'
+import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 
 export default defineConfig({
   base: '/',
@@ -9,6 +10,16 @@ export default defineConfig({
 
   // Tell Vite not to bundle pagefind — it's generated post-build
   vite: {
+    plugins: [
+      GitChangelog({
+        repoURL: () => 'https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io',
+      }),
+      GitChangelogMarkdownSection({
+        sections: {
+          disableContributors: true,
+        },
+      }),
+    ],
     build: {
       rollupOptions: {
         external: ['/pagefind/pagefind.js'],
@@ -30,12 +41,18 @@ export default defineConfig({
     logo: '/nav-logo.png',
     outline: { level: [2, 3] },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Pay Rates', link: '/pay-rates' },
-      { text: 'EBAs', link: '/ebas/' },
-      { text: 'Topics', link: '/topics/' },
-      { text: 'Archive', link: '/archive/' },
-      { text: 'How to use', link: '/about/how-to-search/' },
+      { text: '🏠 Home',      link: '/' },
+      { text: '💰 Pay Rates', link: '/pay-rates' },
+      { text: '📄 EBAs',      link: '/ebas/' },
+      { text: '🏷️ Topics',    link: '/topics/' },
+      {
+        text: 'More',
+        items: [
+          { text: '🗄️ Archive',    link: '/archive/' },
+          { text: '❓ How to Use', link: '/about/how-to-search/' },
+          { text: '📋 Changelog',  link: '/changelog' },
+        ]
+      },
     ],
     sidebar,
     editLink: {
