@@ -33,7 +33,6 @@ jobs:
           args: >-
             --base https://dreadnaughtasaurous.github.io
             --accept 200,206,429
-            --exclude-mail
             --exclude 'localhost'
             --exclude 'pagefind'
             --timeout 30
