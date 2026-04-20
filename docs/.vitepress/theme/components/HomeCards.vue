@@ -10,7 +10,7 @@
         </p>
         <div class="home-hero-actions">
           <a href="/pay-rates" class="home-btn home-btn-primary">💰 Pay Rates</a>
-          <a href="/topics" class="home-btn home-btn-secondary">🏷️ Browse by Topic</a>
+          <a href="/topics/" class="home-btn home-btn-secondary">🏷️ Browse by Topic</a>
           <a href="/about/how-to-search" class="home-btn home-btn-secondary">🔍 How to Search</a>
         </div>
       </div>
