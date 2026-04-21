@@ -7,7 +7,7 @@ topics: []
 # Transport
 
 
-- [86. Travelling Transport and Fares](86-travelling-transport-and-fares/)
-- [87. Reimbursement of Road Tolls](87-reimbursement-of-road-tolls/)
+- [86. Travelling Transport and Fares](./transport/86-travelling-transport-and-fares/)
+- [87. Reimbursement of Road Tolls](./transport/87-reimbursement-of-road-tolls/)
 
 

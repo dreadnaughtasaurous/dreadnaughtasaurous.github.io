@@ -7,6 +7,6 @@ topics: []
 # Resources
 
 
-- [220. Uniforms and Protective Clothing](220-uniforms-and-protective-clothing/)
+- [220. Uniforms and Protective Clothing](./resources/220-uniforms-and-protective-clothing/)
 
 

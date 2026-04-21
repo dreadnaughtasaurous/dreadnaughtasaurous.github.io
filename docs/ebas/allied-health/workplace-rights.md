@@ -7,7 +7,7 @@ topics: []
 # Workplace Rights
 
 
-- [95. Working from Home](95-working-from-home/)
-- [96. Flexible Working Arrangements](96-flexible-working-arrangements/)
+- [95. Working from Home](./workplace-rights/95-working-from-home/)
+- [96. Flexible Working Arrangements](./workplace-rights/96-flexible-working-arrangements/)
 
 
