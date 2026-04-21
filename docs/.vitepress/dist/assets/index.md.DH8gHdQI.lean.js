@@ -1,1 +1,0 @@
-import{_ as a,o as i,c as r,a3 as s}from"./chunks/framework.CjquFG0V.js";const m=JSON.parse('{"title":"Converted Md","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function n(l,e,o,c,h,d){return i(),r("div",null,[...e[0]||(e[0]=[s("",7)])])}const f=a(t,[["render",n]]);export{m as __pageData,f as default};
