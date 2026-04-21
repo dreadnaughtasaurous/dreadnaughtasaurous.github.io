@@ -1,7 +1,7 @@
 ---
 title: 'Education Pd'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['education-pd']
+topics: ['education', 'professional-development']
 ---
 
 # Education Pd

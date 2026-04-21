@@ -1,7 +1,7 @@
 ---
 title: '99B. Examination Leave Rpn And Pen'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'preliminary', 'education-pd']
+topics: ['leave', 'preliminary', 'education']
 ---
 
 # 99B. Examination Leave Rpn And Pen

@@ -1,7 +1,7 @@
 ---
 title: '59. Continuing Medical Education Leave'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'employment', 'preliminary', 'education-pd']
+topics: ['leave', 'employment', 'preliminary', 'professional-development']
 ---
 
 # 59. Continuing Medical Education Leave

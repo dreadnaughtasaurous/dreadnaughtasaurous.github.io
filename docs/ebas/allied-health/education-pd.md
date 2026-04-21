@@ -1,7 +1,7 @@
 ---
 title: 'Education Pd'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['education-pd']
+topics: ['education', 'professional-development']
 ---
 
 # Education Pd

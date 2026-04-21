@@ -1,7 +1,7 @@
 ---
 title: 'Education Pd'
 eba: 'Mental Health Services 2024-2028'
-topics: ['education-pd']
+topics: ['education', 'professional-development']
 ---
 
 # Education Pd

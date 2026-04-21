@@ -1,7 +1,7 @@
 ---
 title: '33. Hours Of Work'
 eba: 'Doctors in Training 2022-2026'
-topics: ['education-pd', 'hours', 'employment', 'preliminary']
+topics: ['education', 'professional-development', 'hours', 'employment', 'preliminary']
 ---
 
 # 33. Hours Of Work

@@ -1,7 +1,7 @@
 ---
 title: '140. Health Professionals Medicare Study Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'study-leave', 'preliminary', 'education-pd']
+topics: ['leave', 'study-leave', 'preliminary', 'education']
 ---
 
 # 140. Health Professionals Medicare Study Leave

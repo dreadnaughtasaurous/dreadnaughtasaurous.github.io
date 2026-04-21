@@ -1,7 +1,7 @@
 ---
 title: '219. Education And Training Royal Children S Hospital'
 eba: 'Mental Health Services 2024-2028'
-topics: ['education-pd']
+topics: ['education', 'professional-development']
 ---
 
 # 219. Education And Training Royal Children S Hospital

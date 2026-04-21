@@ -1,7 +1,7 @@
 ---
 title: '99. Professional Development Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'education-pd']
+topics: ['leave', 'professional-development']
 ---
 
 # 99. Professional Development Leave

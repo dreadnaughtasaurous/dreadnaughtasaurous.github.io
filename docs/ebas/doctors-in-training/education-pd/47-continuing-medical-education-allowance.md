@@ -1,7 +1,7 @@
 ---
 title: '47. Continuing Medical Education Allowance'
 eba: 'Doctors in Training 2022-2026'
-topics: ['allowances', 'employment', 'preliminary', 'education-pd']
+topics: ['allowances', 'employment', 'preliminary', 'professional-development']
 ---
 
 # 47. Continuing Medical Education Allowance

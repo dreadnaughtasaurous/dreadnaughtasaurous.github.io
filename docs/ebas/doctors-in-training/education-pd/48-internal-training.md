@@ -1,7 +1,7 @@
 ---
 title: '48. Internal Training'
 eba: 'Doctors in Training 2022-2026'
-topics: ['ohs', 'education-pd']
+topics: ['ohs', 'education']
 ---
 
 # 48. Internal Training

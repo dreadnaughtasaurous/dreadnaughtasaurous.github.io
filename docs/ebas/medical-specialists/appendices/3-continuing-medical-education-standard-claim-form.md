@@ -1,7 +1,7 @@
 ---
 title: '3. Continuing Medical Education Standard Claim Form'
 eba: 'Medical Specialists 2022-2026'
-topics: ['appendices', 'education-pd', 'forms']
+topics: ['appendices', 'professional-development', 'forms']
 ---
 
 # 3. Continuing Medical Education Standard Claim Form

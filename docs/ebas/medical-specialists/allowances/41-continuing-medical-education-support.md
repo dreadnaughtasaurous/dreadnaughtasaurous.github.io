@@ -1,7 +1,7 @@
 ---
 title: '41. Continuing Medical Education Support'
 eba: 'Medical Specialists 2022-2026'
-topics: ['employment', 'preliminary', 'education-pd']
+topics: ['employment', 'preliminary', 'professional-development']
 ---
 
 # 41. Continuing Medical Education Support

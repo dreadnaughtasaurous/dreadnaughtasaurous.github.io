@@ -1,7 +1,7 @@
 ---
 title: 'Education Pd'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['education-pd']
+topics: ['education', 'professional-development']
 ---
 
 # Education Pd

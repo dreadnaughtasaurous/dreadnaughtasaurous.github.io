@@ -1,7 +1,7 @@
 ---
 title: '14. Professional Development Expenses Standard Claim Form'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['schedules', 'education-pd']
+topics: ['schedules', 'professional-development']
 ---
 
 # 14. Professional Development Expenses Standard Claim Form

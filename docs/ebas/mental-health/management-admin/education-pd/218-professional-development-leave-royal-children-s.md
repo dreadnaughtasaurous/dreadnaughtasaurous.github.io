@@ -1,7 +1,7 @@
 ---
 title: '218. Professional Development Leave Royal Children S'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'education-pd']
+topics: ['leave', 'professional-development']
 ---
 
 # 218. Professional Development Leave Royal Children S

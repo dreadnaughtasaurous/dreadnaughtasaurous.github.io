@@ -1,7 +1,7 @@
 ---
 title: '16. Educational Incentive Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['allowances', 'employment', 'education-pd']
+topics: ['allowances', 'employment', 'education', 'professional-development']
 ---
 
 # 16. Educational Incentive Allowance

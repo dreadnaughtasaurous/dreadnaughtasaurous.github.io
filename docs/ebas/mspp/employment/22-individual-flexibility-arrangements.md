@@ -1,7 +1,7 @@
 ---
 title: '22. Individual Flexibility Arrangements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['education-pd', 'leave', 'hours', 'wages', 'higher-duties']
+topics: ['education', 'professional-development', 'leave', 'hours', 'wages', 'higher-duties']
 ---
 
 # 22. Individual Flexibility Arrangements

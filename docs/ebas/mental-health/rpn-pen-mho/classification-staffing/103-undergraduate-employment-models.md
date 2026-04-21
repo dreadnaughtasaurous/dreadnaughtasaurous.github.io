@@ -1,7 +1,7 @@
 ---
 title: '103. Undergraduate Employment Models'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary', 'definitions', 'education-pd']
+topics: ['preliminary', 'definitions', 'education']
 ---
 
 # 103. Undergraduate Employment Models

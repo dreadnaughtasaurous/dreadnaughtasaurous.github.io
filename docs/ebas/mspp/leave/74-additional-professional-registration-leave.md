@@ -1,7 +1,7 @@
 ---
 title: '74. Additional Professional Registration Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['education-pd', 'leave', 'employment', 'preliminary']
+topics: ['professional-development', 'leave', 'employment', 'preliminary']
 ---
 
 # 74. Additional Professional Registration Leave

@@ -1,7 +1,7 @@
 ---
 title: 'Education Pd'
 eba: 'Doctors in Training 2022-2026'
-topics: ['education-pd', 'training']
+topics: ['education', 'professional-development', 'training']
 ---
 
 # Education Pd

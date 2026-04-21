@@ -1,7 +1,7 @@
 ---
 title: '142. Discipline Specific Supervision Only Llews'
 eba: 'Mental Health Services 2024-2028'
-topics: ['discipline', 'education-pd']
+topics: ['discipline', 'education']
 ---
 
 # 142. Discipline Specific Supervision Only Llews

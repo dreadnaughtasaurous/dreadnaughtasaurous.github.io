@@ -1,7 +1,7 @@
 ---
 title: '75. Reimbursement Of Professional Development Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['education-pd', 'leave', 'allowances', 'travel']
+topics: ['professional-development', 'leave', 'allowances', 'travel']
 ---
 
 # 75. Reimbursement Of Professional Development Leave

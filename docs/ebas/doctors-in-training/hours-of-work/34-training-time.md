@@ -1,7 +1,7 @@
 ---
 title: '34. Training Time'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'rosters', 'education-pd', 'preliminary']
+topics: ['hours', 'rosters', 'education', 'professional-development', 'preliminary']
 ---
 
 # 34. Training Time

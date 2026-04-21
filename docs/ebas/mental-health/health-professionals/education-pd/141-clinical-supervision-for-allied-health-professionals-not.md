@@ -1,7 +1,7 @@
 ---
 title: '141. Clinical Supervision For Allied Health Professionals Not'
 eba: 'Mental Health Services 2024-2028'
-topics: ['education-pd']
+topics: ['education']
 ---
 
 # 141. Clinical Supervision For Allied Health Professionals Not
