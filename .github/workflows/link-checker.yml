@@ -35,6 +35,8 @@ jobs:
             --base https://dreadnaughtasaurous.github.io
             --accept 200,206,429
             --include 'https://dreadnaughtasaurous\.github\.io'
+            --exclude '\.html$'
+            --exclude '/assets/'
             --exclude 'localhost'
             --exclude 'pagefind'
             --exclude '^mailto:'
