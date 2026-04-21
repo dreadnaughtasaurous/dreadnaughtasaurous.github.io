@@ -40,6 +40,9 @@ jobs:
             --exclude 'localhost'
             --exclude 'pagefind'
             --exclude '^mailto:'
+            --exclude 'github\.com'
+            --exclude 'fonts\.googleapis\.com'
+            --exclude 'fonts\.gstatic\.com'
             --timeout 10
             --max-retries 2
             --no-progress
