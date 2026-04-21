@@ -37,7 +37,7 @@ jobs:
             --include 'https://dreadnaughtasaurous\.github\.io'
             --exclude 'localhost'
             --exclude 'pagefind'
-            --exclude-mail
+            --exclude '^mailto:'
             --timeout 10
             --max-retries 2
             --no-progress
