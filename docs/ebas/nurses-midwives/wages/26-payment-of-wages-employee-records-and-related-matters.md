@@ -80,7 +80,7 @@ After receiving a request from an Employee (or a former Employee) for a copy or 
 
 **(b)** The Employer will notify the Employee of the adjustment being processed and provide the date of payment and any payment identification details.
 
-**(c)** This clause 26.4 will not apply where:
+**(c)** This [clause 26.4](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters) will not apply where:
 
 **(i)** the Employer and Employee are in genuine dispute as to whether the monies are owed to the Employee;
 
@@ -90,7 +90,7 @@ After receiving a request from an Employee (or a former Employee) for a copy or 
 
 **26.5** Unresolved Employee requests
 
-**(a)** Where the Employee has requested the correction of an underpayment as a result of an error as described at subclause 26.4(a) and, by the end of the next business day, the request is unresolved:
+**(a)** Where the Employee has requested the correction of an underpayment as a result of an error as described at [subclause 26.4(a)](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters) and, by the end of the next business day, the request is unresolved:
 
 **(i)** The Employee may notify a grievance in accordance with [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) of this Agreement, and:
 

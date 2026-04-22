@@ -12,9 +12,9 @@ Note: To be read in conjunction with common provisions located at [clause 29](/e
 
 **74.1** Delays in processing pay
 
-**(a)** Subject to clauses 74.1(b) and 74.2, if an Employee is kept waiting for longer than the close of business on the business day following notification by the Employee to Payroll of an underpayment or non-payment under [clauses 29.3](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and) – 29.5, the Employee will be paid overtime rates for the duration of the period until such moneys owing are paid with a minimum payment of two hours and a maximum payment of seven hours and 36 minutes per day.
+**(a)** Subject to [clauses 74.1(b)](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions) and 74.2, if an Employee is kept waiting for longer than the close of business on the business day following notification by the Employee to Payroll of an underpayment or non-payment under [clauses 29.3](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and) – 29.5, the Employee will be paid overtime rates for the duration of the period until such moneys owing are paid with a minimum payment of two hours and a maximum payment of seven hours and 36 minutes per day.
 
-**(b)** Clause 74.1 operates subject to:
+**(b)** [Clause 74.1](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions) operates subject to:
 
 **(i)** the underpayment is 5% or more of the remuneration owed under [clauses 29.3](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and) – 29.4 or 29.5.
 
@@ -24,13 +24,13 @@ Note: To be read in conjunction with common provisions located at [clause 29](/e
 
 **(d)** the Employer will notify the Employee of the adjustment being processed and provide the date of payment and any payment identification details
 
-**(e)** the Employer has fulfilled their obligations under clause 74.1 if payment has been processed by close of business on the next business day following notification by the Employee of an underpayment as described in clause 74.1(b)(i).
+**(e)** the Employer has fulfilled their obligations under [clause 74.1](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions) if payment has been processed by close of business on the next business day following notification by the Employee of an underpayment as described in [clause 74.1(b)(i)](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions).
 
 **(f)** it is both parties’ obligation to complete and forward the timesheet for processing in accordance with the internal processes.
 
-**(g)** Where an underpayment or non-payment arises as a result of Employee error the penalty under clause 74.1 does not apply. However, upon notification, the Employer will make its best endeavours to make the payment owing as soon as possible.
+**(g)** Where an underpayment or non-payment arises as a result of Employee error the penalty under [clause 74.1](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions) does not apply. However, upon notification, the Employer will make its best endeavours to make the payment owing as soon as possible.
 
-**74.2** Clause 74.1 will not come into effect if any unforeseen event or circumstance outside the control of the Employer frustrates the Employer's ability to meet the requirements of this clause.
+**74.2** [Clause 74.1](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions) will not come into effect if any unforeseen event or circumstance outside the control of the Employer frustrates the Employer's ability to meet the requirements of this clause.
 
 **74.3** Overpayments
 

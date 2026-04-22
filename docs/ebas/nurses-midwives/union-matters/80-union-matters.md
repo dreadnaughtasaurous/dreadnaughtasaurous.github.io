@@ -36,7 +36,7 @@ The Employer will ensure that:
 
 Note: Additional rights of HSRs are contained in the OHS Act.
 
-**(a)** In this clause 80.4:
+**(a)** In this [clause 80.4](/ebas/nurses-midwives/union-matters/80-union-matters):
 
 **(i)** Representative means a Union Delegate, or a HSR;
 
@@ -126,7 +126,7 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 
 Note: Where a Union Delegate is also appointed a HSR under the OHS Act, they may be entitled to additional training in accordance with the OHS Act.
 
-**(a)** Subject to the conditions in this clause 80.9, Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days' paid leave per calendar year per Employee.
+**(a)** Subject to the conditions in this [clause 80.9](/ebas/nurses-midwives/union-matters/80-union-matters), Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days' paid leave per calendar year per Employee.
 
 **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 
@@ -188,23 +188,23 @@ Note: Where a Union Delegate is also appointed a HSR under the OHS Act, they may
 
 **(iii)** Working cooperatively to address instances of contact inconsistent with the ‘Right to Disconnect’ clause (see [clause 52](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect));
 
-**(iv)** Discuss the Employer’s activities to promote secure employment (see subclause 87.2(e));
+**(iv)** Discuss the Employer’s activities to promote secure employment (see [subclause 87.2(e)](/ebas/nurses-midwives/classification-staffing/87-secure-employment-agency-staff-and-bank-employees));
 
 **(v)** Receiving reports on the following:
 
 **(A)** Unresolved Employee requests to rectify underpayments (see [clause 26.5](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters));
 
-**(B)** The progress of transition to permanent night shift arrangements (see subclause 42A.3(e));
+**(B)** The progress of transition to permanent night shift arrangements (see [subclause 42A.3(e)](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift));
 
 **(C)** Evaluation of permanent night shift to ensure no unintended consequences (see [clause 42A.7](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift));
 
 **(D)** Evaluation of other night shift arrangements to ensure no unintended consequences (see [clause 42B.4](/ebas/nurses-midwives/hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night));
 
-**(E)** The positions that are not rostered (see subclause 45.10(c));
+**(E)** The positions that are not rostered (see [subclause 45.10(c)](/ebas/nurses-midwives/hours-of-work/45-rosters));
 
-**(F)** The results of a review of arrangements for contacting Employee’s out of hours to determine availability (see subclause 52.3(b)); and
+**(F)** The results of a review of arrangements for contacting Employee’s out of hours to determine availability (see [subclause 52.3(b)](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect)); and
 
-**(G)** Manual handling where those reports are not provided to an OHS Committee (see subclause 99.8(c)).
+**(G)** Manual handling where those reports are not provided to an OHS Committee (see [subclause 99.8(c)](/ebas/nurses-midwives/ohs/99-ohs-risk-management)).
 
 **80.11** Central Implementation Committee
 
@@ -218,7 +218,7 @@ that cannot be resolved at the local level, without limiting the Dispute Resolut
 
 **(b)** The CIC will continue to operate throughout the life of the Agreement.
 
-**(c)** Each Employer will make available to the CIC information reasonably necessary to fulfil the objectives in subclauses 80.11(a)(i) and (ii) above.
+**(c)** Each Employer will make available to the CIC information reasonably necessary to fulfil the objectives in [subclauses 80.11(a)(i)](/ebas/nurses-midwives/union-matters/80-union-matters) and (ii) above.
 
 **80.12** The parties agree the following matters will form part of the work of the CIC during the life of the Agreement:
 

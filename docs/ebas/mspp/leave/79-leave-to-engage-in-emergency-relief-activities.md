@@ -8,7 +8,7 @@ topics: ['leave', 'preliminary']
 
 
 
-Employees who are members of the CFA, SES or a similar organisation may be released from duty without loss of pay to attend emergency situations requiring the attendance of the Employee. The Employer may refuse time release where the Employee’s absence will adversely impact the capacity of the health service to maintain services. This clause 79 is in addition to any entitlement to unpaid community service leave under the NES.
+Employees who are members of the CFA, SES or a similar organisation may be released from duty without loss of pay to attend emergency situations requiring the attendance of the Employee. The Employer may refuse time release where the Employee’s absence will adversely impact the capacity of the health service to maintain services. This [clause 79](/ebas/mspp/leave/79-leave-to-engage-in-emergency-relief-activities) is in addition to any entitlement to unpaid community service leave under the NES.
 
 Plain language terms: emergency leave, disaster volunteer.
 

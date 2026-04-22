@@ -12,7 +12,7 @@ topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']
 
 **65.2** When Compassionate leave is available
 
-Compassionate leave may be available under this clause 65 to an Employee for each occasion (a "permissible occasion") when:
+Compassionate leave may be available under this [clause 65](/ebas/nurses-midwives/leave/65-compassionate-leave) to an Employee for each occasion (a "permissible occasion") when:
 
 **(a)** the Employee has a miscarriage;
 
@@ -32,7 +32,7 @@ Compassionate leave may be available under this clause 65 to an Employee for eac
 
 **65.5** Employees other than casual Employees (applicable from 24 June 2024)
 
-The provisions of clauses 65.6 to 65.8 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in clause 65.9.
+The provisions of [clauses 65.6](/ebas/nurses-midwives/leave/65-compassionate-leave) to 65.8 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in [clause 65.9](/ebas/nurses-midwives/leave/65-compassionate-leave).
 
 **65.6** An Employee is entitled to four days' paid leave, on each permissible occasion.
 
@@ -48,7 +48,7 @@ The provisions of clauses 65.6 to 65.8 apply to all Employees other than casual 
 
 **65.9** Casual Employees (applicable from 24 June 2024)
 
-Subject to the evidence requirements described at clause 65.10, a casual Employee is entitled to four days' unpaid compassionate leave on each permissible occasion. Unpaid compassion leave under this clause may be taken as:
+Subject to the evidence requirements described at [clause 65.10](/ebas/nurses-midwives/leave/65-compassionate-leave), a casual Employee is entitled to four days' unpaid compassionate leave on each permissible occasion. Unpaid compassion leave under this clause may be taken as:
 
 **(a)** a single continuous period;
 

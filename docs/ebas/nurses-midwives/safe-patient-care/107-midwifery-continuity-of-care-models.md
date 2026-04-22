@@ -22,11 +22,11 @@ Nothing in this clause permits variations inconsistent with the minimum ratio re
 
 **(ii)** MAPS – caseload of antenatal, postnatal and domiciliary care provision, provided that the following sub-clauses do not apply to a MAPS model:
 
-**(A)** subclause 107.3(d)(i);
+**(A)** [subclause 107.3(d)(i)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models);
 
-**(B)** clause 107.7A (Commuted loading review); and
+**(B)** [clause 107.7](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models)A (Commuted loading review); and
 
-**(C)** subclause 107.4(d) (caseload).
+**(C)** [subclause 107.4(d)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) (caseload).
 
 **107.3** Introducing a Midwifery Continuity of Care Model
 
@@ -76,7 +76,7 @@ The guidelines for Midwifery Continuity of Care Models are as follows:
 
 **(a)** Models should aim for continuity of care including pregnancy care, labour and birth care, post-natal and community care.
 
-**(b)** Changes to employment patterns (including hours) will be agreed as part of the consideration of a proposal and entitlements will apply in accordance with the new pattern of work (including hours), and this clause 107. For midwives not entering the model, existing work patterns (including hours) and entitlements will continue unless otherwise agreed between the Employer and the midwife.
+**(b)** Changes to employment patterns (including hours) will be agreed as part of the consideration of a proposal and entitlements will apply in accordance with the new pattern of work (including hours), and this [clause 107](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models). For midwives not entering the model, existing work patterns (including hours) and entitlements will continue unless otherwise agreed between the Employer and the midwife.
 
 **(c)** Where the model is not embedded within a full maternity service (i.e. a major regional or metropolitan health service) it is recognised there may not be on-site back up from other suitably qualified and skilled midwives (including midwives not participating in the model). In these circumstances, the LHAC Proposal and consultation must address appropriate back up and support at all times, including the ability to hand over to other suitably qualified and skilled midwives (including midwives not participating in the model). For example, the arrangements should include suitable provisions consistent with the operation of the model to provide back-up, support and relief for circumstances such as meal breaks, emergency assistance, birthing assistance etc.
 
@@ -152,7 +152,7 @@ In the first six months of this Agreement, the VHIA, on behalf of the Employers,
 
 **(g)** annual leave loading paid as "projected roster".
 
-If the review shows that a loading of greater than 32% more properly reflects the above entitlements otherwise payable, the higher rate will be payable effective 1 May 2024. A dispute that cannot be resolved between the ANMF and the VHIA about this review will be managed in accordance with subclause 14.1(e).
+If the review shows that a loading of greater than 32% more properly reflects the above entitlements otherwise payable, the higher rate will be payable effective 1 May 2024. A dispute that cannot be resolved between the ANMF and the VHIA about this review will be managed in accordance with [subclause 14.1(e)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
 
 **107.7B** Midwives not in the model
 
@@ -160,7 +160,7 @@ Participation in the model for midwifery staff is voluntary. Subject to operatio
 
 **107.6** Advertising Positions in the Model
 
-Once a proposal has been implemented by an Employer in accordance with this clause, the Employer will be entitled to advertise for new Employee midwives to participate exclusively in the model(s) and subclause 107.7(a) above will not apply, i.e. the newly employed midwives would not be able to elect to cease participating in the model.
+Once a proposal has been implemented by an Employer in accordance with this clause, the Employer will be entitled to advertise for new Employee midwives to participate exclusively in the model(s) and [subclause 107.7(a)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) above will not apply, i.e. the newly employed midwives would not be able to elect to cease participating in the model.
 
 **107.7** Evaluation
 
@@ -176,9 +176,9 @@ For the purpose of [clause 41A](/ebas/nurses-midwives/allowances/41A-change-of-w
 
 **107.9** Dispute Resolution
 
-**(a)** In the event of any dispute arising between an Employer and the ANMF relating to the continuation or implementation of midwifery continuity of care models, the review at clause 107.7 above, and this clause, it will in the first instance be referred to the ANMF/VHIA/DOH for consideration and consultation.
+**(a)** In the event of any dispute arising between an Employer and the ANMF relating to the continuation or implementation of midwifery continuity of care models, the review at [clause 107.7](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) above, and this clause, it will in the first instance be referred to the ANMF/VHIA/DOH for consideration and consultation.
 
-**(b)** In the event the dispute is unable to be resolved in accordance with subclause 107.9(a) above, it will be processed as a collective dispute in accordance with the Dispute Resolution Procedure of this Agreement.
+**(b)** In the event the dispute is unable to be resolved in accordance with [subclause 107.9(a)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) above, it will be processed as a collective dispute in accordance with the Dispute Resolution Procedure of this Agreement.
 
 [Appendix 1](/ebas/mental-health/schedules/01-list-of-employers) – List of Employers 227
 

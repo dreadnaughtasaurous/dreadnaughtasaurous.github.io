@@ -10,7 +10,7 @@ topics: ['leave', 'staffing', 'workload', 'classifications']
 
 **34.1** Purpose In order to maintain safe staffing and workload levels and appropriate clinical standards, the Employer will Backfill an Absence or, where that is not possible, prioritise work in accordance with this clause.
 
-**34.2** Definitions In this clause 34:
+**34.2** Definitions In this [clause 34](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences):
 
 **a.** Backfill means the replacement of an absent Employee at the same classification and time fraction or, where the replacement Employee is classified at a higher grade than the absent Employee, the replacement Employee’s higher rate.
 
@@ -20,9 +20,9 @@ topics: ['leave', 'staffing', 'workload', 'classifications']
 
 **d.** Unplanned Absence is any Absence of an Employee, where:
 
-**(i)** In the case of a shift worker or rostered weekend worker under clause 34.4, the Absence was not known in advance, or
+**(i)** In the case of a shift worker or rostered weekend worker under [clause 34.4](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences), the Absence was not known in advance, or
 
-**(ii)** In the case of all other Employees under clause 34.5, it was not known in advance it would be for two (2) or more calendar weeks.
+**(ii)** In the case of all other Employees under [clause 34.5](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences), it was not known in advance it would be for two (2) or more calendar weeks.
 
 **(iii)** Examples of an Unplanned Absence may include personal leave, resignation or termination of employment resulting in a vacancy or late approved leave.
 
@@ -30,7 +30,7 @@ topics: ['leave', 'staffing', 'workload', 'classifications']
 
 **a.** The Employer will Backfill a Planned Absence from the first day of the absence except as provided at 34.3b below.
 
-**b.** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under clause 34.7 below.
+**b.** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under [clause 34.7](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences) below.
 
 **34.4** Unplanned Absences – shift workers and rostered weekend workers Where a shift worker or rostered weekend worker is on an unplanned absence, the Employer will backfill the absent Employee for the duration of the absence save that:
 
@@ -50,7 +50,7 @@ topics: ['leave', 'staffing', 'workload', 'classifications']
 
 **a.** The Employer will Backfill an Unplanned Absence of two weeks or more.
 
-**b.** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under clause 34.7 below.
+**b.** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under [clause 34.7](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences) below.
 
 **34.6** Backfill with existing staff where reasonable The Employer will Backfill by offering existing part time staff and, where necessary, casual staff (which may include bank staff) additional shifts in the first instance.
 
@@ -64,7 +64,7 @@ topics: ['leave', 'staffing', 'workload', 'classifications']
 
 **(iii)** other Employees will not unreasonably be required to work overtime to complete their own work and the work of the absent Employee.
 
-**b.** Prioritised work arrangements made under subclause 34.7a shall be provided in writing to Employees in the service/department of the absent Employee and available for inspection by the Union upon request.
+**b.** Prioritised work arrangements made under [subclause 34.7](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences)a shall be provided in writing to Employees in the service/department of the absent Employee and available for inspection by the Union upon request.
 
 **c.** If overtime is worked, the provisions of [clause 59](/ebas/mspp/hours-of-work/59-overtime) – Overtime will apply.
 
@@ -74,7 +74,7 @@ topics: ['leave', 'staffing', 'workload', 'classifications']
 
 **34.8** Relevant Information
 
-**a.** The matters in this clause are directly relevant to workload and the Employer will provide information to the Workplace Implementation and Compliance Committee as required by subclause 17.10 of this Agreement
+**a.** The matters in this clause are directly relevant to workload and the Employer will provide information to the Workplace Implementation and Compliance Committee as required by [subclause 17.10](/ebas/mspp/union-rights/17-union-rights) of this Agreement
 
 **b.** In the event that a WICC has not been established and there is a dispute with respect to this clause, the Employer will provide relevant information that will provide clarification of the workload or staffing issues. Information that could be relevant is outlined at [clause 17.10c](/ebas/mspp/union-rights/17-union-rights).
 

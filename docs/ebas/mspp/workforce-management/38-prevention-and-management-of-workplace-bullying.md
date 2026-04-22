@@ -86,7 +86,7 @@ topics: ['ohs']
 
 **(ii)** Appoint an investigator following timely consultation with the representative of the Employee parties, including the Union, where relevant. The Employer may appoint an investigator without consultation where no response is received from the Union within 5 days following the Union being notified.
 
-**b.** Consultation in this clause 38.6 has its ordinary meaning and does not refer to consultation as set out at [clause 30](/ebas/mspp/employment/30-consultation) and shall be conducted efficiently having regard for the health and safety of the Employees.
+**b.** Consultation in this [clause 38.6](/ebas/mspp/workforce-management/38-prevention-and-management-of-workplace-bullying) has its ordinary meaning and does not refer to consultation as set out at [clause 30](/ebas/mspp/employment/30-consultation) and shall be conducted efficiently having regard for the health and safety of the Employees.
 
 **38.7** More information Further information about workplace bullying and principles to manage and resolve bullying matters can be found at:
 

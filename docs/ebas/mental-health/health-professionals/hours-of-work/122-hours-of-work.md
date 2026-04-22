@@ -22,7 +22,7 @@ topics: ['hours', 'shift-work']
 
 **122.3** For all purposes the hourly rate is deemed to be the weekly rate prescribed by [clause 143](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages) (Classification and Wages) divided by 38, provided that where the averaging system is used by full-time Employees, an Employee’s ordinary wage for ordinary hours is deemed to be the weekly rate prescribed in [clause 143](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages) (Classification and Wages), and shall be paid each week even though more or less than 38 ordinary hours are worked in that week. NOTE: An Employee shall accrue a credit for each day in which they work ordinary hours in excess of the daily average of seven hours 36 minutes. The credit is carried forward so that in each cycle an accrued day off is paid.
 
-**122.4** All paid leave accrues the credit provided for by clause 122.3 above.
+**122.4** All paid leave accrues the credit provided for by [clause 122.3](/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work) above.
 
 **122.5** A paid leave day shall be identical to a worked day.
 

@@ -32,7 +32,7 @@ topics: ['staffing', 'workload']
 
 **78.4** Raising Workload Management Concerns
 
-**(a)** Where an Employee believes that the Employer requires the Employee to perform work in a manner that is inconsistent with this Clause 78 - Workload Management, the Employee should raise the concerns with their immediate supervisor or line manager in the first instance and seek to resolve the issue.
+**(a)** Where an Employee believes that the Employer requires the Employee to perform work in a manner that is inconsistent with this [Clause 78](/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management) - Workload Management, the Employee should raise the concerns with their immediate supervisor or line manager in the first instance and seek to resolve the issue.
 
 **(b)** If no resolution can be achieved, the Employee may:
 

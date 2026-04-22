@@ -62,7 +62,7 @@ topics: ['hours', 'shift-work', 'allowances', 'preliminary']
 
 **(v)** one or more Employees swap shifts between themselves on an ad hoc basis, and the swap(s) is approved by the Employer in writing. Health & Allied Services and Dental Assistants only
 
-**(c)** Where a department has established a self-rostering system, and an Employee chooses their own shifts from a genuine choice of shifts, the Employee will receive a fixed payment of two change of shift allowances per pay period (fortnight) and subclause 45.5(a) will not apply. This clause does not apply where an Employee chooses their own shifts from a genuine choice of shifts and the shifts chosen by the Employee do not involve a change of shift as defined by subclause 45.5(a).
+**(c)** Where a department has established a self-rostering system, and an Employee chooses their own shifts from a genuine choice of shifts, the Employee will receive a fixed payment of two change of shift allowances per pay period (fortnight) and [subclause 45.5(a)](/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments) will not apply. This clause does not apply where an Employee chooses their own shifts from a genuine choice of shifts and the shifts chosen by the Employee do not involve a change of shift as defined by [subclause 45.5(a)](/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments).
 
 **(d)** An Employee employed in the public sector as of 11 June 2002, who receives change of shift allowances per pay period (fortnight) on the basis of an historical agreement that exceeds the entitlement arising from these provisions, such Employee will be maintained at that entitlement for the duration of this agreement.
 

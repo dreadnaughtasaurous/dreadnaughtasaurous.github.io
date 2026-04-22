@@ -10,9 +10,9 @@ topics: ['preliminary']
 
 **50A.1** It is acknowledged that biometric timekeeping is one way to provide accurate data for payroll purposes.
 
-**50A.2** For Employers others than those referred to at subclauses 50A.4 and 50A.5 below, where an Employee has a genuine difficulty in complying with biometric timekeeping requirements, including where the Employee holds privacy concerns, the Employer can only refuse an alternative timekeeping method for the reasons set out in subclause 50A.3.
+**50A.2** For Employers others than those referred to at [subclauses 50A.4](/ebas/allied-health/hours-of-work/50A-biometric-timekeeping) and 50A.5 below, where an Employee has a genuine difficulty in complying with biometric timekeeping requirements, including where the Employee holds privacy concerns, the Employer can only refuse an alternative timekeeping method for the reasons set out in [subclause 50A.3](/ebas/allied-health/hours-of-work/50A-biometric-timekeeping).
 
-**50A.3** In the circumstances in subclause 50A.2, the Employer can only refuse an alternative timekeeping method if it:
+**50A.3** In the circumstances in [subclause 50A.2](/ebas/allied-health/hours-of-work/50A-biometric-timekeeping), the Employer can only refuse an alternative timekeeping method if it:
 
 **(a)** will result in an unreasonable additional cost to the Employer; and
 

@@ -10,21 +10,21 @@ topics: ['discipline', 'union-matters']
 
 **16.1** Application
 
-**(a)** Except as provided at subclause 16.1(e), where an Employer has concerns about:
+**(a)** Except as provided at [subclause 16.1(e)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance), where an Employer has concerns about:
 
 **(i)** the Conduct of an Employee; or
 
 **(ii)** a Performance issue that may constitute Misconduct; the following procedure must apply for the Employer to be able to take disciplinary action.
 
-**(b)** There are two (2) steps in a disciplinary process under this clause 16 as follows:
+**(b)** There are two (2) steps in a disciplinary process under this [clause 16](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) as follows:
 
 **(i)** investigative procedure; and
 
 **(ii)** disciplinary procedure.
 
-**(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause 16.
+**(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this [clause 16](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance).
 
-**(d)** The Employer will deal with and notify the Employee in accordance with subclause 16.3(b) as soon as practicable following the Employer becoming aware of the alleged concerns at subclause 16.1(a).
+**(d)** The Employer will deal with and notify the Employee in accordance with [subclause 16.3(b)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 16.1(a)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance).
 
 **(e)** Exception - Employees who have not completed a minimum period of employment with their Employer Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at section 383 of
 
@@ -38,7 +38,7 @@ the Act, and the Employer is considering the termination of the Employee's emplo
 
 **(iv)** meet with the Employee (and, where relevant, their representative); and
 
-**(v)** consider any explanation by the Employee including any matters raised in mitigation before making a decision to terminate the employment. The terms of subclauses 16.3 to 16.5 inclusive do not apply to Employees within the scope of the exception in this subclause 16.1(e).
+**(v)** consider any explanation by the Employee including any matters raised in mitigation before making a decision to terminate the employment. The terms of [subclauses 16.3](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) to 16.5 inclusive do not apply to Employees within the scope of the exception in this [subclause 16.1(e)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance).
 
 **16.2** Definitions
 
@@ -58,7 +58,7 @@ the Act, and the Employer is considering the termination of the Employee's emplo
 
 **(iv)** the Employee being intoxicated at work;
 
-**(v)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment. Subclauses 16.2(d)(iii) to 16.2(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
+**(v)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment. [Subclauses 16.2(d)(iii)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) to 16.2(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
 
 **16.3** Investigative procedure
 
@@ -88,11 +88,11 @@ the Act, and the Employer is considering the termination of the Employee's emplo
 
 **(vii)** take reasonable steps to investigate the Employee’s response.
 
-**(c)** Where the Employer has complied with subclause 16.3(b)(i) to (vi) and the Employee does not dispute the concerns, the Employee may opt to decline in writing the opportunity to be interviewed.
+**(c)** Where the Employer has complied with [subclause 16.3(b)(i) to (vi)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) and the Employee does not dispute the concerns, the Employee may opt to decline in writing the opportunity to be interviewed.
 
 **(d)** Where the Employee opts to decline the opportunity to be interviewed, subclause
 
-**16.4** still applies (including that an Employee may still raise matters under subclause 16.4(c) including matters in mitigation if a disciplinary procedure is proposed).
+**16.4** still applies (including that an Employee may still raise matters under [subclause 16.4(c)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) including matters in mitigation if a disciplinary procedure is proposed).
 
 **16.4** Procedure to address misconduct or serious misconduct
 
@@ -104,7 +104,7 @@ the Act, and the Employer is considering the termination of the Employee's emplo
 
 **(ii)** meet with the Employee, except where the Employee declines; and
 
-**(iii)** provide the Employee with a reasonable opportunity to provide information about the matters in subclause 16.4(c) including a reasonable time to respond.
+**(iii)** provide the Employee with a reasonable opportunity to provide information about the matters in [subclause 16.4(c)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) including a reasonable time to respond.
 
 **(c)** In considering whether to take disciplinary action, the Employer will consider:
 
@@ -116,19 +116,19 @@ the Act, and the Employer is considering the termination of the Employee's emplo
 
 **16.5** Possible outcomes
 
-**(a)** Where, after following the procedure in this clause 16, it is determined based on evidence that the Employee has engaged in Misconduct or Serious Misconduct and that disciplinary action is warranted, the Employer may take disciplinary action, which shall be recorded on the Employee's personnel file, as follows:
+**(a)** Where, after following the procedure in this [clause 16](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance), it is determined based on evidence that the Employee has engaged in Misconduct or Serious Misconduct and that disciplinary action is warranted, the Employer may take disciplinary action, which shall be recorded on the Employee's personnel file, as follows:
 
-**(i)** where the Performance or Conduct issue constitutes Misconduct but does not constitute Serious Misconduct, disciplinary action will be taken in accordance with the following steps: A. counsel the Employee; B. give the Employee a first written warning in the event that the Employee has been counselled within the previous 12 months for that course of Conduct or Performance issue. The Employer may also give the Employee a first written warning where the seriousness of the conduct is such that counselling the Employee under subclause 16.5(a)(i)A is not appropriate; C. give the Employee a second written warning in the event that the Employee has previously been given a first warning within
+**(i)** where the Performance or Conduct issue constitutes Misconduct but does not constitute Serious Misconduct, disciplinary action will be taken in accordance with the following steps: A. counsel the Employee; B. give the Employee a first written warning in the event that the Employee has been counselled within the previous 12 months for that course of Conduct or Performance issue. The Employer may also give the Employee a first written warning where the seriousness of the conduct is such that counselling the Employee under [subclause 16.5(a)(i)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance)A is not appropriate; C. give the Employee a second written warning in the event that the Employee has previously been given a first warning within
 
 the previous 12 months for that course of Conduct or Performance issue; D. give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18 month period for that course of Conduct or Performance issue; and E. terminate the Employee’s employment with notice in the case of an Employee who repeats a course of Conduct or Performance issue for which a final warning was given in the preceding 18 months;
 
-**(ii)** where the Performance or Conduct issue constitutes Serious Misconduct: A. terminate the Employee’s employment without notice; or B. alternatively, issue the Employee with a final warning without following the steps in subclauses 16.5(a)(i) above.
+**(ii)** where the Performance or Conduct issue constitutes Serious Misconduct: A. terminate the Employee’s employment without notice; or B. alternatively, issue the Employee with a final warning without following the steps in [subclauses 16.5(a)(i)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) above.
 
 **(b)** The Employer’s decision and a summary of its reasons will be notified to the Employee and their representative in writing.
 
 **(c)** If after any warning or counselling, a period of 12 or 18 months elapses (as relevant) without the Employee repeating a course of Conduct or Performance issue for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning, and all adverse reports relating to the warning or counselling must be removed from the Employee's personnel file.
 
-**16.6** Disputes A dispute over the clause 16 (including subclause 16.5) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
+**16.6** Disputes A dispute over the [clause 16](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) (including [subclause 16.5](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
 OF EMPLOYMENT
 

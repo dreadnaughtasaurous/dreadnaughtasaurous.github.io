@@ -12,7 +12,7 @@ topics: ['wages', 'employment', 'termination']
 
 **3.2** In order to terminate the employment of an Employee, the Employer will give 4 weeks written notice, or pay one month’s wages in lieu of notice.
 
-**3.3** The period of notice in subclause 3.2 will be increased by one week if the Employee is over 45 years of age and has completed at least 2 years continuous service with the Employer at the end of the day the notice is given.
+**3.3** The period of notice in [subclause 3.2](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer) will be increased by one week if the Employee is over 45 years of age and has completed at least 2 years continuous service with the Employer at the end of the day the notice is given.
 
 **3.4** For the purposes of this clause:
 
@@ -24,7 +24,7 @@ topics: ['wages', 'employment', 'termination']
 
 **3.6** The Employer must not terminate the Employee’s employment unless:
 
-**(a)** the time between giving the notice and the day of the termination is at least the period (the minimum period of notice) worked out under this clause 3; or
+**(a)** the time between giving the notice and the day of the termination is at least the period (the minimum period of notice) worked out under this [clause 3](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer); or
 
 **(b)** the Employer has paid the Employee payment in lieu of notice of at least the amount the Employer would have been liable to pay the Employee at the full rate of pay for the hours he or she would have worked had the employment continued until the end of the minimum period of notice;
 

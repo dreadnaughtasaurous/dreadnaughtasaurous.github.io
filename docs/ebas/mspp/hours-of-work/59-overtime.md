@@ -34,7 +34,7 @@ Provisions additional to those prescribed by this clause apply at the following 
 
 **d.** If on the instructions of their Employer such an Employee resumes or continues work without having had such ten consecutive hours off duty they shall be paid at the rate of double time until they are released from duty for such rest period and they shall then be entitled to be absent until they have had ten consecutive hours off duty without loss of pay for rostered ordinary hours occurring during such absence.
 
-**e.** Subject to clause 59.4, overtime shall be paid wherever work is performed in addition to the full time rostered shift length for that work area. Where full time Employees in a particular work area work 8 hours per shift, overtime will be payable where a part time Employee in that same area works beyond 8 hours in a shift. Where full time Employees work 10 hours per shift, overtime will be payable where a part-time Employee works beyond 10 hours.
+**e.** Subject to [clause 59.4](/ebas/mspp/hours-of-work/59-overtime), overtime shall be paid wherever work is performed in addition to the full time rostered shift length for that work area. Where full time Employees in a particular work area work 8 hours per shift, overtime will be payable where a part time Employee in that same area works beyond 8 hours in a shift. Where full time Employees work 10 hours per shift, overtime will be payable where a part-time Employee works beyond 10 hours.
 
 **f.** Only authorised overtime shall be paid for, and the following rates of overtime shall apply (other than to casual Employees):
 
@@ -42,7 +42,7 @@ Provisions additional to those prescribed by this clause apply at the following 
 
 **(ii)** outside a spread of twelve hours from the commencement of the rostered period of duty - 200% of the ordinary hourly rate.
 
-**(iii)** except as provided for in clause 59.4 overtime shall be paid for and an Employee shall not be allowed to take time off in lieu thereof.
+**(iii)** except as provided for in [clause 59.4](/ebas/mspp/hours-of-work/59-overtime) overtime shall be paid for and an Employee shall not be allowed to take time off in lieu thereof.
 
 **(iv)** Entitlement to overtime paid on weekends is found in [clause 56.3](/ebas/mspp/hours-of-work/56-shift-work).
 
@@ -56,9 +56,9 @@ Provisions additional to those prescribed by this clause apply at the following 
 
 **(iv)** Public Holidays – 312.5% of the ordinary hourly rate.
 
-**h.** For the purpose of this clause 59, Ordinary Hourly Rate means 1/38th of the Employee’s weekly wage (including Higher Qualifications Allowance which forms part of the Employee’s base salary for all purposes, where there is an entitlement), as prescribed in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances) of this Agreement.
+**h.** For the purpose of this [clause 59](/ebas/mspp/hours-of-work/59-overtime), Ordinary Hourly Rate means 1/38th of the Employee’s weekly wage (including Higher Qualifications Allowance which forms part of the Employee’s base salary for all purposes, where there is an entitlement), as prescribed in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances) of this Agreement.
 
-**i.** If due to organisational or institutional circumstances, difficulties arise from the requirement in clause 59.2f that overtime will only be paid if the Employee is requested or directed by the Employer to perform overtime work, the Union or the Employer affected may refer the matter to FWC for resolution in accordance with the Disputes Settling Procedures at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
+**i.** If due to organisational or institutional circumstances, difficulties arise from the requirement in [clause 59.2](/ebas/mspp/hours-of-work/59-overtime)f that overtime will only be paid if the Employee is requested or directed by the Employer to perform overtime work, the Union or the Employer affected may refer the matter to FWC for resolution in accordance with the Disputes Settling Procedures at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
 
 **59.3** Protocol for payment of unauthorised overtime Overtime worked that could not be authorised in advance will be paid if it meets the following criteria:
 

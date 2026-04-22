@@ -12,7 +12,7 @@ For the purpose of this clause only, a Weekend Worker is an Employee who works o
 
 **56.1** An Employee will be entitled to paid time off (or penalty payments for time worked) in respect of public holidays in accordance with this clause.
 
-**56.2** Subject to clause 56.4, the public holidays to which this clause applies are the days determined under Victorian law as public holidays in respect of the following occasions:
+**56.2** Subject to [clause 56.4](/ebas/nurses-midwives/leave/56-public-holidays), the public holidays to which this clause applies are the days determined under Victorian law as public holidays in respect of the following occasions:
 
 **(a)** New Year's Day, Australia Day, Christmas Day and Boxing Day; and
 
@@ -22,17 +22,17 @@ For the purpose of this clause only, a Weekend Worker is an Employee who works o
 
 **(d)** the Friday before the AFL Grand Final;
 
-**(e)** any additional public holiday declared or prescribed in Victoria or a locality in respect of occasions other than those set out in subclause 56.2(a); and
+**(e)** any additional public holiday declared or prescribed in Victoria or a locality in respect of occasions other than those set out in [subclause 56.2(a)](/ebas/nurses-midwives/leave/56-public-holidays); and
 
-**(f)** If a day or days are not determined in respect of any of the occasions in subclause 56.2(a), (b) or (c) under Victorian law in any year, the public holiday for that occasion will be the day or date upon which the public holiday was observed in the previous year.
+**(f)** If a day or days are not determined in respect of any of the occasions in [subclause 56.2(a)](/ebas/nurses-midwives/leave/56-public-holidays), (b) or (c) under Victorian law in any year, the public holiday for that occasion will be the day or date upon which the public holiday was observed in the previous year.
 
 **56.3** Applicability of penalty payments for some public holidays falling on a weekend
 
 When Christmas Day, Australia Day, Boxing Day, or New Year's Day (Actual Day) is a Saturday or a Sunday, and a substitute or additional holiday is determined under Victorian law on another day in respect of any of those occasions (Other Day):
 
-**(a)** Weekend Workers and casual Employees will receive penalty payments pursuant to clause 56.5 for time worked on the Actual Day or on the Other Day (as defined) if the Employee does not work ordinary hours on the Actual Day; and
+**(a)** Weekend Workers and casual Employees will receive penalty payments pursuant to [clause 56.5](/ebas/nurses-midwives/leave/56-public-holidays) for time worked on the Actual Day or on the Other Day (as defined) if the Employee does not work ordinary hours on the Actual Day; and
 
-**(a)** all other Employees will receive penalty payments pursuant to clause 56.5 for time worked on the Other Day (as defined).
+**(a)** all other Employees will receive penalty payments pursuant to [clause 56.5](/ebas/nurses-midwives/leave/56-public-holidays) for time worked on the Other Day (as defined).
 
 **56.4** Substitution of one public holiday for another
 
@@ -44,13 +44,13 @@ When Christmas Day, Australia Day, Boxing Day, or New Year's Day (Actual Day) is
 
 **56.5** Penalty Payments in respect of public holidays
 
-**(a)** An Employee, other than a casual Employee, who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to clause 56.3) will be entitled to be paid;
+**(a)** An Employee, other than a casual Employee, who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to [clause 56.3](/ebas/nurses-midwives/leave/56-public-holidays)) will be entitled to be paid;
 
 **(i)** 200% (based on 1/38th of the weekly salary set out in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances)) for the time worked on a public holiday Monday to Friday; or
 
 **(ii)** 250% (based on 1/38th of the weekly salary set out in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) for the time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates in [clause 48](/ebas/nurses-midwives/hours-of-work/48-special-rates-for-saturdays-and-sundays) (Special Rates for Saturday and Sunday)).
 
-**(b)** A casual Employee who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to clause 56.3) will be entitled to be paid inclusive of the casual loading;
+**(b)** A casual Employee who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to [clause 56.3](/ebas/nurses-midwives/leave/56-public-holidays)) will be entitled to be paid inclusive of the casual loading;
 
 **(i)** 250% (based on 1/38th of the weekly salary set out in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances)) for time worked on a public holiday Monday to Friday; or
 
@@ -86,21 +86,21 @@ Where a public holiday occurs on a day that a part-time or full-time Employee wo
 
 **56.9** Public holidays occurring on rostered days off
 
-**(a)** Subject to subclauses 56.9(c) and (d), a full-time Employee will receive a sum equal to a day's ordinary pay for public holidays that occur on their rostered day off.
+**(a)** Subject to [subclauses 56.9(c)](/ebas/nurses-midwives/leave/56-public-holidays) and (d), a full-time Employee will receive a sum equal to a day's ordinary pay for public holidays that occur on their rostered day off.
 
-**(b)** Subject to subclauses 56.9(c) and (d), if a public holiday is a part-day public holiday then subclause 56.9(a) will apply on a pro rata basis for the number of ordinary hours on the part-day public holiday.
+**(b)** Subject to [subclauses 56.9(c)](/ebas/nurses-midwives/leave/56-public-holidays) and (d), if a public holiday is a part-day public holiday then [subclause 56.9(a)](/ebas/nurses-midwives/leave/56-public-holidays) will apply on a pro rata basis for the number of ordinary hours on the part-day public holiday.
 
-**(c)** Subject to subclause 56.9(d), if a public holiday falls on Saturday or Sunday then subclause 56.9(a) will only apply to Weekend Workers.
+**(c)** Subject to [subclause 56.9(d)](/ebas/nurses-midwives/leave/56-public-holidays), if a public holiday falls on Saturday or Sunday then [subclause 56.9(a)](/ebas/nurses-midwives/leave/56-public-holidays) will only apply to Weekend Workers.
 
 **(d)** Where on each occasion an Other Day (as defined) applies as a public holiday in respect of that occasion, and:
 
-**(i)** the Employee is rostered off for both the Actual Day and the Other Day (as defined), then only one day's payment will be made under subclause 56.9(a); or
+**(i)** the Employee is rostered off for both the Actual Day and the Other Day (as defined), then only one day's payment will be made under [subclause 56.9(a)](/ebas/nurses-midwives/leave/56-public-holidays); or
 
-**(ii)** the Employee works only on one of either the Actual Day or the Other Day (as defined), and receives penalty rates for the day worked, the Employee will not receive a payment under subclause 56.9(a) in respect of the day not worked.
+**(ii)** the Employee works only on one of either the Actual Day or the Other Day (as defined), and receives penalty rates for the day worked, the Employee will not receive a payment under [subclause 56.9(a)](/ebas/nurses-midwives/leave/56-public-holidays) in respect of the day not worked.
 
 **56.10** Additional entitlement for part-time Employees rostered off duty
 
-NOTE: This clause operates in addition to clause 56.8 for part-time employees.
+NOTE: This clause operates in addition to [clause 56.8](/ebas/nurses-midwives/leave/56-public-holidays) for part-time employees.
 
 The entitlement to public holiday benefits for a part-time Employee who is rostered off duty on the day on which a public holiday occurs is to be determined as follows:
 
@@ -126,7 +126,7 @@ Average Hours Shift Length Base Payment Penalty Payment
 
 **56.11** Recall on a public holiday
 
-A benefit arising from clause 56.8, 56.9, or 56.10 will not be diminished where an Employee is required to, and does, perform recall work on that day in accordance with subclause 49.2(a)(v).
+A benefit arising from [clause 56.8](/ebas/nurses-midwives/leave/56-public-holidays), 56.9, or 56.10 will not be diminished where an Employee is required to, and does, perform recall work on that day in accordance with [subclause 49.2(a)(v)](/ebas/nurses-midwives/hours-of-work/49-overtime).
 
 **56.12** Annual leave on a public holiday
 

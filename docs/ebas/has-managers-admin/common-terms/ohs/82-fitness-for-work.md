@@ -18,9 +18,9 @@ PART J – OCCUPATONAL HEALTH AND SAFETY AND RELATED MATTERS
 
 **82.2** Addressing concerns about Fitness for Work
 
-**(a)** In the event the Employee's manager forms a reasonable belief (as defined at subclause 82.2(b) below that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that employees can safely undertake and sustain work.
+**(a)** In the event the Employee's manager forms a reasonable belief (as defined at [subclause 82.2(b)](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) below that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that employees can safely undertake and sustain work.
 
-**(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 82.2(b) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+**(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this [clause 82.2(b)](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
 
 **(c)** In this clause treating medical practitioner may, where relevant, also include programs such as the ‘Mind Your Head’ program, or a psychologist.
 
@@ -58,7 +58,7 @@ writing, the concerns and information that form the basis of the reasonable beli
 
 **(iii)** meet with the Employee to discuss any report.
 
-**82.4** Information to Employee before IME Before the Employee attends an IME under subclause 82.3 above, the Employee will be provided with a copy of:
+**82.4** Information to Employee before IME Before the Employee attends an IME under [subclause 82.3](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) above, the Employee will be provided with a copy of:
 
 **(a)** the name of the proposed IME: and
 
@@ -70,17 +70,17 @@ writing, the concerns and information that form the basis of the reasonable beli
 
 **(b)** request to meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting.
 
-**82.6** Relationship to WIRC This subclause 82 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+**82.6** Relationship to WIRC This [subclause 82](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
 
 **82.7** Safe Work Environment is paramount
 
 PART J – OCCUPATONAL HEALTH AND SAFETY AND RELATED MATTERS
 
-**82.8** Nothing in this clause 82 prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
+**82.8** Nothing in this [clause 82](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
 
 **82.9** Reasonable Adjustments
 
-**(a)** Where Employees have a disability (whether permanent or temporary) the Employer is required to make reasonable adjustments to enable the Employee to continue to perform their duties, subject to subclause 82.9(b) below.
+**(a)** Where Employees have a disability (whether permanent or temporary) the Employer is required to make reasonable adjustments to enable the Employee to continue to perform their duties, subject to [subclause 82.9(b)](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) below.
 
 **(b)** An Employer is not required to make reasonable adjustments if the Employee could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 

@@ -18,9 +18,9 @@ This clause does not apply to recall work performed under [clause 51](/ebas/nurs
 
 **(b)** if an Employee is required by the Employer to resume or to continue to work without having had 10 consecutive hours off duty, the Employee will be paid at the rate of double time until released from duty for 10 consecutive hours, without loss of pay for rostered ordinary hours occurring during such absence.
 
-**53.3** If the requirements at clause 53.2 result in an Employee commencing ordinary hours with 3 or fewer hours remaining in their rostered shift, the Employee will be paid for the entire rostered shift without any requirement to attend for duty.
+**53.3** If the requirements at [clause 53.2](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall) result in an Employee commencing ordinary hours with 3 or fewer hours remaining in their rostered shift, the Employee will be paid for the entire rostered shift without any requirement to attend for duty.
 
-**53.4** The Employer is not to change an Employee’s rostered shift/s to avoid the requirements at clause 53.2.
+**53.4** The Employer is not to change an Employee’s rostered shift/s to avoid the requirements at [clause 53.2](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall).
 
 Plain language terms: 10 hour break, fatigue break, rest between shifts.
 

@@ -18,7 +18,7 @@ topics: ['hours', 'shift-work', 'breaks', 'on-call']
 
 **(a)** Employees who are not relieved from night duty (and on-call) during the rostered meal break will be granted a meal break of not less than 20 minutes, to be commenced after completing three hours and not more than five hours of duty. Such meal break will be counted as time worked.
 
-**(b)** The arrangement in subclause 50.4(a) may also be adopted in any case where there is mutual agreement between the Employer and Employee.
+**(b)** The arrangement in [subclause 50.4(a)](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks) may also be adopted in any case where there is mutual agreement between the Employer and Employee.
 
 Plain language terms: meal break, lunch break.
 

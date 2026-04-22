@@ -10,21 +10,21 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 
 **24.1** Arrangement This clause is arranged as follows:
 
-**(a)** Arrangement (subclause 24.1),
+**(a)** Arrangement ([subclause 24.1](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
 
-**(b)** Definitions (subclause 24.2),
+**(b)** Definitions ([subclause 24.2](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
 
-**(c)** Redeployment (subclause 24.3),
+**(c)** Redeployment ([subclause 24.3](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
 
-**(d)** Support to Affected Employees (subclause 24.4),
+**(d)** Support to Affected Employees ([subclause 24.4](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
 
-**(e)** Salary maintenance (subclause 24.5),
+**(e)** Salary maintenance ([subclause 24.5](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
 
-**(f)** Relocation (subclause 24.7),
+**(f)** Relocation ([subclause 24.7](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
 
-**(g)** Employment terminates due to redundancy (subclause 24.8), and
+**(g)** Employment terminates due to redundancy ([subclause 24.8](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)), and
 
-**(h)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 24.9)
+**(h)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 24.9](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements))
 
 **24.2** Definitions For the purpose of this clause:
 
@@ -48,7 +48,7 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 
 **(c)** Consultation is as defined at [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation) of this Agreement.
 
-**(d)** Continuity of Service means that the service of the Affected Employee is treated as unbroken and that the cap on the transfer of personal leave at subclause 54.7 does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
+**(d)** Continuity of Service means that the service of the Affected Employee is treated as unbroken and that the cap on the transfer of personal leave at [subclause 54.7](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave) does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
 **(e)** Reasonable Distance means a distance that has regard to the Affected Employee’s original work location, current home address, capacity of the Affected Employee to travel, additional travelling time, effects on the personal circumstances of the Affected Employee, including family commitments and responsibilities and other matters raised by the Affected Employee, or assistance provided by their Employer.
 
@@ -68,7 +68,7 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 
 **(ii)** details of the redeployment process;
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 24.3(f), and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 24.3(f)](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements), and
 
 **(iv)** the Affected Employee’s rights and obligations.
 
@@ -92,7 +92,7 @@ The Employer needs fewer employees to do particular work and roles are being res
 
 **(iii)** actively monitoring and exploring appropriate redeployment opportunities and working with the appointed case manager.
 
-**(d)** Rejecting a Comparable Role Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined), the Affected Employee may be ineligible for a departure package referred to at subclause 24.8.
+**(d)** Rejecting a Comparable Role Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined), the Affected Employee may be ineligible for a departure package referred to at [subclause 24.8](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements).
 
 **(e)** Temporary alternative duties
 
@@ -184,7 +184,7 @@ An Affected Employee is not entitled to the relocation allowance if the site or 
 
 **(b)** provides Continuity of Service;
 
-**(c)** where the Comparable Role results in a loss of income, salary maintenance at subclause 24.5 will apply; and
+**(c)** where the Comparable Role results in a loss of income, salary maintenance at [subclause 24.5](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements) will apply; and
 
 **(d)** where relevant, is consistent with the financial and other support provided to an internal redeployee, the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 

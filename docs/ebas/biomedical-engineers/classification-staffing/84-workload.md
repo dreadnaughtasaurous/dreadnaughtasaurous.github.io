@@ -22,7 +22,7 @@ topics: ['hours', 'overtime', 'staffing', 'workload']
 
 **(b)** However, the Employer may require the Employee to work reasonable overtime hours (in which case the provisions of [clause 46](/ebas/biomedical-engineers/hours-of-work/46-overtime) – Overtime will apply).
 
-**(c)** The Employee may refuse to work overtime hours if the request is unreasonable (see subclause 46.2).
+**(c)** The Employee may refuse to work overtime hours if the request is unreasonable (see [subclause 46.2](/ebas/biomedical-engineers/hours-of-work/46-overtime)).
 
 **84.3** Safe Staffing The Employer will ensure that it is sufficiently staffed and resourced so as to enable each Employee to:
 
@@ -48,14 +48,14 @@ topics: ['hours', 'overtime', 'staffing', 'workload']
 
 **(b)** In the event an individual Employee, or group of Employees, believes their workload is unreasonable, they may make a written request for a workload review:
 
-**(i)** following consultation with the Employer pursuant to subclause 84.5(a); or
+**(i)** following consultation with the Employer pursuant to [subclause 84.5(a)](/ebas/biomedical-engineers/classification-staffing/84-workload); or
 
 **(ii)** at any time; which sets out details of the Employee/s workload and the reasons why the workload is considered unreasonable.
 
 **(c)** The Employer will meet with the Employee/s to discuss the request as soon as practicable and within 21 days of the written request.
 
-**(d)** The Employer and Employee/s will do all that is reasonable to resolve the workload issue. In doing so, the Employer will have regard to the allocation of work requirements at subclause 84.4.
+**(d)** The Employer and Employee/s will do all that is reasonable to resolve the workload issue. In doing so, the Employer will have regard to the allocation of work requirements at [subclause 84.4](/ebas/biomedical-engineers/classification-staffing/84-workload).
 
-**(e)** If, following a meeting at subclause 84.5(c), the workload issue is not resolved, the Employee/s or Employer may refer it to the dispute resolution procedure in this Agreement ([clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)).
+**(e)** If, following a meeting at [subclause 84.5(c)](/ebas/biomedical-engineers/classification-staffing/84-workload), the workload issue is not resolved, the Employee/s or Employer may refer it to the dispute resolution procedure in this Agreement ([clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)).
 
 

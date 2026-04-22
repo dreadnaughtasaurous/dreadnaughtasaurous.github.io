@@ -46,11 +46,11 @@ Examples: 1. A full-time Employee may work 3 days per week and have 2 days of ac
 
 **(ii)** where LSL is taken or paid out in lieu on termination, the Employee will be paid LSL hours at the applicable classification, and at the preserved hours, prior to the post transition role until the preserved LSL hours are exhausted unless: **(A)** if the Employee’s hourly wage rate in the post transition role over time exceeds the wage rate of the pre-transition role, the higher wage rate will be used to calculate LSL. Examples:
 
-1.  An Employee’s hourly rate of pay is reduced under this subclause 20.4b from $35 to $30. When the Employee takes LSL their LSL will be paid at the rate of $35 per hour until the preserved LSL is exhausted.
+1.  An Employee’s hourly rate of pay is reduced under this [subclause 20.4](/ebas/mspp/employment/20-transition-to-retirement)b from $35 to $30. When the Employee takes LSL their LSL will be paid at the rate of $35 per hour until the preserved LSL is exhausted.
 
-2.  An Employee’s hours of work are reduced under this subclause 20.4b from 32 hours per week to 24 hours per week. When the Employee takes LSL they will be paid for 32 hours of LSL per week until the preserved LSL is exhausted.
+2.  An Employee’s hours of work are reduced under this [subclause 20.4](/ebas/mspp/employment/20-transition-to-retirement)b from 32 hours per week to 24 hours per week. When the Employee takes LSL they will be paid for 32 hours of LSL per week until the preserved LSL is exhausted.
 
-3.  An Employee’s hourly rate of pay is reduced under this subclause 20.4b from $40 to $35 and their hours of work from 38 to 30 hours per week. When the Employee takes LSL it will be paid at the rate of $40 per hour and they will be paid for 38 hours of LSL per week until the preserved LSL is exhausted.
+3.  An Employee’s hourly rate of pay is reduced under this [subclause 20.4](/ebas/mspp/employment/20-transition-to-retirement)b from $40 to $35 and their hours of work from 38 to 30 hours per week. When the Employee takes LSL it will be paid at the rate of $40 per hour and they will be paid for 38 hours of LSL per week until the preserved LSL is exhausted.
 
 Plain language terms: phased retirement, winding down, TTR.
 

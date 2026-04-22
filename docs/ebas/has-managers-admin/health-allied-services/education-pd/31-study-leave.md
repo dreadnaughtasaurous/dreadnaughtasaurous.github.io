@@ -44,7 +44,7 @@ SECTION 2 – HEALTH & ALLIED SERVICES EMPLOYEES AND DENTAL ASSISTANTS
 
 **(b)** Where the number of staff seeking to take study leave at any one time causes operational difficulties, the Employer and Employee(s) concerned will seek to reach agreement at a local level about the timeframe in which the leave is taken.
 
-**(c)** Any dispute arising under this clause 31 will be resolved in accordance with [clause 17](/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv) (Dispute Resolution Procedure).
+**(c)** Any dispute arising under this [clause 31](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave) will be resolved in accordance with [clause 17](/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv) (Dispute Resolution Procedure).
 
 **31.5** Temporary changes to existing contract to undertake study or employment opportunities
 

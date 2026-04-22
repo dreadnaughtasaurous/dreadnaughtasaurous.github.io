@@ -8,7 +8,7 @@ topics: ['employment', 'classifications']
 
 
 
-An Employer may employ casual Employees in any classification in this Agreement subject to this clause. A Casual Employee includes a Locum Pharmacist as defined in subclause 25.1 or 25.4.
+An Employer may employ casual Employees in any classification in this Agreement subject to this clause. A Casual Employee includes a Locum Pharmacist as defined in [subclause 25.1 or 25.4](/ebas/mspp/employment/25-casual-employment).
 
 **25.1** Casual Employment
 
@@ -22,7 +22,7 @@ An Employer may employ casual Employees in any classification in this Agreement 
 
 **a.** The minimum period of engagement of a Casual Employee is three (3) hours per day.
 
-**b.** Except for the provisions of clause 25.5 and as provided in [clause 67.1b](/ebas/mspp/leave/67-long-service-leave), a Casual Employee is not entitled to Annual Leave, Long Service Leave, or Personal Leave
+**b.** Except for the provisions of [clause 25.5](/ebas/mspp/employment/25-casual-employment) and as provided in [clause 67.1b](/ebas/mspp/leave/67-long-service-leave), a Casual Employee is not entitled to Annual Leave, Long Service Leave, or Personal Leave
 
 **25.3** Casual Conversion
 
@@ -34,9 +34,9 @@ An Employer may employ casual Employees in any classification in this Agreement 
 
 **d.** Where such a conversion occurs, the Employee will be provided with a Letter of Appointment setting out the revised employment arrangements, including any period/s of casual employment with the Employer.
 
-**e.** Casual loading will cease and, subject to subclause 25.2b, any benefits relating to permanent employment will commence at the time of appointment to permanent status.
+**e.** Casual loading will cease and, subject to [subclause 25.2](/ebas/mspp/employment/25-casual-employment)b, any benefits relating to permanent employment will commence at the time of appointment to permanent status.
 
-**f.** This clause 25.3 is in addition to any requirement or entitlement to offer or request casual conversion under the Act.
+**f.** This [clause 25.3](/ebas/mspp/employment/25-casual-employment) is in addition to any requirement or entitlement to offer or request casual conversion under the Act.
 
 3453-8976-3100v1PART 4: EMPLOYMENT RELATIONSHIP AND RELATED ARRANGEMENTS
 

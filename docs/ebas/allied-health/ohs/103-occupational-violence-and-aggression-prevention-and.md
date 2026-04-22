@@ -30,9 +30,9 @@ topics: ['ohs', 'preliminary']
 
 **(ii)** the WorkSafe Guidance note relevant to occupational violence and aggression.
 
-**(e)** In developing or reviewing an action plan the Employer will consult with HSRs, the Union and affected Employees to identify any gaps having regard for the requirements at subclause 103.2(c).
+**(e)** In developing or reviewing an action plan the Employer will consult with HSRs, the Union and affected Employees to identify any gaps having regard for the requirements at [subclause 103.2(c)](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and).
 
-**(f)** The Employer will designate an Occupational Health and Safety committee (which may be an existing committee) as responsible for overseeing the actions required by this clause 103.
+**(f)** The Employer will designate an Occupational Health and Safety committee (which may be an existing committee) as responsible for overseeing the actions required by this [clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and).
 
 **(g)** Upon written request of the Union, an Employer will provide to the Union the following written information within four (4) weeks:
 
@@ -40,13 +40,13 @@ topics: ['ohs', 'preliminary']
 
 **(ii)** the name of the Committee responsible for oversight of occupational violence and aggression issues including the contact details of the Committee chair;
 
-**(iii)** where the Committee at subclause 103.2(g)(ii) establishes a sub- committee or working party for the purpose of giving effect to the obligations under this clause 103, the name of the sub-committee or working party and the contact details of the Chair;
+**(iii)** where the Committee at [subclause 103.2(g)(ii)](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and) establishes a sub- committee or working party for the purpose of giving effect to the obligations under this [clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and), the name of the sub-committee or working party and the contact details of the Chair;
 
 **(iv)** details of the Employer’s program / system for addressing occupational violence and aggression including relevant policies; and
 
 **(v)** other material relevant to the Employer’s program / system for addressing occupational violence and aggression and / or action plan.
 
-**(h)** Upon request by the Union, the Employer will invite the Union to attend and participate in meetings of the relevant committee established or convened for the purpose of giving effect to this clause 103.
+**(h)** Upon request by the Union, the Employer will invite the Union to attend and participate in meetings of the relevant committee established or convened for the purpose of giving effect to this [clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and).
 
 **103.3** Employers with Existing Policies An Employer who, at the time this Agreement comes into operation, has policies that directly address the prevention and management of occupational violence and aggression will:
 
@@ -60,7 +60,7 @@ topics: ['ohs', 'preliminary']
 
 **(e)** upon request, meet with the Union or other Employee representative for consultation regarding the policies, their application and implementation.
 
-**103.4** Nothing in this clause 103 limits an Employer from doing anything to support the reduction and prevention of occupational violence and aggression.
+**103.4** Nothing in this [clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and) limits an Employer from doing anything to support the reduction and prevention of occupational violence and aggression.
 
 **103.5** Key Principles In developing, reviewing and implementing policies, the following matters will be considered:
 
@@ -88,7 +88,7 @@ topics: ['ohs', 'preliminary']
 
 **(a)** The Employer will undertake regular (at least six-monthly) audits of their occupational violence and aggression management strategy, considering any relevant plan developed by the Union to prevent violence and aggression, in consultation with HSRs and clinical care staff.
 
-**(b)** The Employer will provide the results of such audits and the action plan to their HSRs and, upon request, Job Representatives, for review and discussion at the Committee or working group referred to at subclause 103.2(f).
+**(b)** The Employer will provide the results of such audits and the action plan to their HSRs and, upon request, Job Representatives, for review and discussion at the Committee or working group referred to at [subclause 103.2(f)](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and).
 
 **(c)** Further external developments regarding the prevention and management of occupational violence and aggression will occur during the life of the Agreement. They may include but not be limited to:
 
@@ -100,7 +100,7 @@ topics: ['ohs', 'preliminary']
 
 **103.7** OVA Reporting
 
-**(a)** The Employer will make the following information available to the Occupational Health and Safety committee referred to in subclause 103.2(f):
+**(a)** The Employer will make the following information available to the Occupational Health and Safety committee referred to in [subclause 103.2(f)](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and):
 
 **(i)** the number of code grey, code black and other alerts relating to risk of violence;
 

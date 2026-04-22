@@ -38,7 +38,7 @@ topics: ['leave', 'wages', 'preliminary']
 
 **(c)** Where an adjustment is made to the Doctor’s pay to reflect an error arising from another pay period (such as overpayment or an entitlement to an additional payment) the Doctor will be advised in writing.
 
-**(d)** Note: in the event of a proposed deduction for an overpayment, please see clause 46, Recovery of Overpayments.
+**(d)** Note: in the event of a proposed deduction for an overpayment, please see [clause 46](/ebas/doctors-in-training/remuneration/46-recovery-of-overpayments), Recovery of Overpayments.
 
 **(e)** Payslips are important to ensuring that Doctors can be satisfied they are being paid correctly. Where a Doctor has a query about the content of their payslip, the Doctor may:
 

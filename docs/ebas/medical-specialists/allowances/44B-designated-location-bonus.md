@@ -14,11 +14,11 @@ topics: ['allowances']
 
 **(b)** A Designated Location Bonus is payable to a Doctor employed at a Designated Location, subject to the conditions and eligibility terms set out in this clause after the completion of each Eligible Year of Employment.
 
-**(c)** In this clause 44B.:
+**(c)** In this [clause 44B](/ebas/medical-specialists/allowances/44B-designated-location-bonus).:
 
-**(i)** Designated Location means the Employers listed in subclause 44B.4of this clause
+**(i)** Designated Location means the Employers listed in [subclause 44B.4](/ebas/medical-specialists/allowances/44B-designated-location-bonus)of this clause
 
-**(ii)** ‘employed at a Designated Location’ means employed at that Designated Location listed at subclause 44B.4 by the Employer who is either named as the Designated Location or who operates the Designated Location.
+**(ii)** ‘employed at a Designated Location’ means employed at that Designated Location listed at [subclause 44B.4](/ebas/medical-specialists/allowances/44B-designated-location-bonus) by the Employer who is either named as the Designated Location or who operates the Designated Location.
 
 **(iii)** Eligible Year of Employment means the twelve month period between anniversary dates of commencement at the Designated Location.
 

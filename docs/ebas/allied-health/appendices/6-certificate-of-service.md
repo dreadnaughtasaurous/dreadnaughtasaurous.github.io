@@ -31,7 +31,7 @@ I, Stuart McCullough, Chief Executive Officer of VHIA (88 Maribyrnong Street, Fo
 
 2.  The relevant base rate of pay determined under paragraph 1 will be distributed to relevant Employers by the VHIA and a copy of the same information will be provided to the Health Services Union Victoria No. 3 Branch.
 
-3.  Where an Employee who is at least 18 years of age and is covered by the Agreement terminates the employment without giving the Notice of Termination required by clause 24.4 of the Agreement, then the Employer may deduct from wages due to the employee under the Agreement an amount that is no more than one week’s wages for the Employee.
+3.  Where an Employee who is at least 18 years of age and is covered by the Agreement terminates the employment without giving the Notice of Termination required by [clause 24.4](/ebas/allied-health/employment/24-termination-of-employment) of the Agreement, then the Employer may deduct from wages due to the employee under the Agreement an amount that is no more than one week’s wages for the Employee.
 
 These undertakings are provided on the basis of issues raised by the Fair Work Commission in the application before the Fair Work Commission. Date: 15 December 2022 \`\`\`
 

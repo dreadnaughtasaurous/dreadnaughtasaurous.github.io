@@ -50,7 +50,7 @@ topics: ['disputes', 'staffing', 'workload', 'classifications']
 
 **k.** Lawyers and paid agents, who are not direct employees of the HSU, VHIA, Department of Health or an employer will not be given permission to appear before the Panel, except where the Panel determines it is appropriate having regard to the principles of this clause including natural justice under 12.2g.
 
-**l.** A party to a dispute that is being dealt with under this clause shall not make an application to the FWC for it to deal with the same dispute, other than an application made under clause 12.5l. Nothing prevents an application to the FWC where the Panel ceases to deal with a dispute without having made a determination.
+**l.** A party to a dispute that is being dealt with under this clause shall not make an application to the FWC for it to deal with the same dispute, other than an application made under [clause 12.5](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl)l. Nothing prevents an application to the FWC where the Panel ceases to deal with a dispute without having made a determination.
 
 **12.3** Functions of the Panel Chair
 

@@ -25,7 +25,7 @@ CHILDREN’S HOSPITAL GENERAL EMPLOYMENT 1. Definitions and Interpretation 1.1 A
 
     \(c\) These terms are subject to authorisation and other requirements in accordance with the relevant provisions of the Act.
 
-2.  Personal Leave In lieu of the provisions of subclause 64.3e of the Agreement, (Personal Leave) the following provision will apply: EMPLOYMENT
+2.  Personal Leave In lieu of the provisions of [subclause 64.3](/ebas/mspp/leave/64-personal-carer-s-leave)e of the Agreement, (Personal Leave) the following provision will apply: EMPLOYMENT
 
 EMPLOYMENT
 
@@ -47,9 +47,9 @@ EMPLOYMENT
 
 1.  Annual Leave An Employee can elect to convert the 17.5% leave loading into annual leave credits, provided: (a) the Employee advises the Hospital in writing not less than four (4) weeks prior to the accrual of the annual leave; and (b) the leave credits are taken by the Employee within six months after the date upon which the right to such holiday accrues.
 
-2.  Professional Development Leave 5.1 In addition to the provisions of clause 73 of the Agreement, the following provisions shall apply. 5.2 In recognition of the importance of ongoing professional development, an Employee may seek approval for 5 days paid professional leave per year, to attend a conference, seminar, workshop etc. approved by the Hospital. 5.3 Professional Development leave is cumulative over a two (2) year period.
+2.  Professional Development Leave 5.1 In addition to the provisions of [clause 73](/ebas/mspp/leave/73-professional-development-leave) of the Agreement, the following provisions shall apply. 5.2 In recognition of the importance of ongoing professional development, an Employee may seek approval for 5 days paid professional leave per year, to attend a conference, seminar, workshop etc. approved by the Hospital. 5.3 Professional Development leave is cumulative over a two (2) year period.
 
-3.  Dispute Settling Any dispute arising in relation to this schedule shall be dealt with in accordance with Clause 11 of the Agreement.
+3.  Dispute Settling Any dispute arising in relation to this schedule shall be dealt with in accordance with [Clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of the Agreement.
 
 4.  Rehabilitation 7.1 Relationship with the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic) The provisions of this clause shall be read and interpreted wholly in conjunction with the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic) or its successors at law. 7.2 Introduction (a) The parties are committed to achieving a healthy and safe work environment for all Employees and will seek, as far as is practicable, to ensure the prevention of workplace injury and illness.
 
@@ -114,7 +114,7 @@ EMPLOYMENT
                        environment; or;
               (iii)    have any ramifications likely to affect industrial harmony.
 
-7.5 Return to Work (a) Unless otherwise agreed with the Employee, or the Employee resigns from their position, the following principles will apply to the return to work of injured Employees. (b) Consistent with the advice of the Employee's treating practitioner and/or rehabilitation provider, the return to work aspect of rehabilitation should initially aim to return injured Employees to their original duties, position and work location. (c) The Health Service will, save where clause 11 of this Agreement is invoked, retain an injured Employee's pre-injury position for 12 months and if within that period an injured Employee's treating practitioner deems that the Employee is capable of returning to their pre injury duties, that position will be made available.
+7.5 Return to Work (a) Unless otherwise agreed with the Employee, or the Employee resigns from their position, the following principles will apply to the return to work of injured Employees. (b) Consistent with the advice of the Employee's treating practitioner and/or rehabilitation provider, the return to work aspect of rehabilitation should initially aim to return injured Employees to their original duties, position and work location. (c) The Health Service will, save where [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of this Agreement is invoked, retain an injured Employee's pre-injury position for 12 months and if within that period an injured Employee's treating practitioner deems that the Employee is capable of returning to their pre injury duties, that position will be made available.
 
       (d)     Where the Employee's incapacity has extended beyond 12 months and the
               Employee's pre-injury position has been permanently filled and the injured

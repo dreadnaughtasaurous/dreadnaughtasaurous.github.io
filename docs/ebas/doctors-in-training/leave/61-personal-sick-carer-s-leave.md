@@ -62,11 +62,11 @@ topics: ['leave', 'personal-leave', 'preliminary']
 
 **(b)** When practical, the Doctor must give the Health Service prior notice of their intended absence due to carer’s leave. If not practical to provide prior notice, the Doctor should, where possible give notice by telephone at the first opportunity on the day of the absence beginning. Notice should otherwise be given in accordance with section 107(2)(a) of the Act.
 
-**(c)** Notice for the purposes of this subclause 61.5 means estimated date of absence, estimated length of absence, the name of the person to be cared for and their relationship to the Doctor.
+**(c)** Notice for the purposes of this [subclause 61.5](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave) means estimated date of absence, estimated length of absence, the name of the person to be cared for and their relationship to the Doctor.
 
 **61.6** Unpaid Carer's Leave
 
-Where a Doctor has exhausted all paid personal/carer’s leave entitlements, he/she is entitled to take unpaid carer’s leave to provide care and support in the circumstances outlined in subclauses 61.1(a)(ii), 61.1(a)(iii) or 61.1(a)(iv). The Health Service and the Doctor will agree on the period. In the absence of agreement the Doctor is entitled to take up to two days' unpaid carer’s leave per occasion.
+Where a Doctor has exhausted all paid personal/carer’s leave entitlements, he/she is entitled to take unpaid carer’s leave to provide care and support in the circumstances outlined in [subclauses 61.1(a)(ii)](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave), 61.1(a)(iii) or 61.1(a)(iv). The Health Service and the Doctor will agree on the period. In the absence of agreement the Doctor is entitled to take up to two days' unpaid carer’s leave per occasion.
 
 **61.7** Absence on Public Holidays
 
@@ -74,11 +74,11 @@ If the period during which a Doctor takes paid personal/carer’s leave includes
 
 **61.8** Transfer of Accrued Personal/Carer’s Leave
 
-**(a)** Other than those Doctors described at subclause 61.9 below, a Doctor appointed to a Health Service:
+**(a)** Other than those Doctors described at [subclause 61.9](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave) below, a Doctor appointed to a Health Service:
 
 **(i)** up to five weeks after his or her termination of appointment at another Hospital or community health centre, not including any period of paid leave, or
 
-**(ii)** up to twenty-four months after his or her termination of employment at another Health Service or community health centre where the Doctor was absent from employment due to the birth or adoption of a child for the period consistent with Long Parental Leave (subclause 67.2(g)) (and provided the Doctor provides evidence that would satisfy a reasonable person as to the reason for the break in employment was consistent with this subclause),
+**(ii)** up to twenty-four months after his or her termination of employment at another Health Service or community health centre where the Doctor was absent from employment due to the birth or adoption of a child for the period consistent with Long Parental Leave ([subclause 67.2(g)](/ebas/doctors-in-training/leave/67-parental-leave)) (and provided the Doctor provides evidence that would satisfy a reasonable person as to the reason for the break in employment was consistent with this subclause),
 
 must be credited up to 168 days of the Doctor’s accumulated personal/carer’s leave.
 
@@ -106,6 +106,6 @@ must be credited up to 168 days of the Doctor’s accumulated personal/carer’s
 
 **(b)** The Health Service and the Doctor will agree on the period for which the Doctor will be entitled to be unavailable to attend work. In the absence of agreement, the Doctor is entitled to be unavailable to attend work for up to two days per occasion. The Casual Doctor is not entitled to any payment for the period of non-attendance.
 
-**(c)** The Health Service will require the Casual Doctor to provide satisfactory evidence to support the taking of leave pursuant to this subclause 61.10.
+**(c)** The Health Service will require the Casual Doctor to provide satisfactory evidence to support the taking of leave pursuant to this [subclause 61.10](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave).
 
 

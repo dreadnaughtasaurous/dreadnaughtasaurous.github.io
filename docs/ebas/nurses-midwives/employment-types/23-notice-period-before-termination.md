@@ -12,7 +12,7 @@ topics: ['leave', 'long-service-leave', 'employment', 'termination']
 
 **(a)** An Employer may terminate the employment of an Employee by providing four weeks' notice in writing.
 
-**(b)** The notice required by subclause 23.1(a) will be increased by one week if the Employee is over 45 years of age and has completed more than two years' continuous service.
+**(b)** The notice required by [subclause 23.1(a)](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination) will be increased by one week if the Employee is over 45 years of age and has completed more than two years' continuous service.
 
 **(c)** Continuous service for the purpose of this clause has the same meaning as it does under [clause 70](/ebas/nurses-midwives/leave/70-long-service-leave) (Long Service Leave) and will include prior continuous service preceding a transfer of business, except in respect of any period of continuous service for which notice has already been given or paid.
 
@@ -26,9 +26,9 @@ topics: ['leave', 'long-service-leave', 'employment', 'termination']
 
 **(e)** An Employee may terminate their employment by providing four weeks' notice to the Employer in writing. Subject to additional financial obligations imposed on the Employer by any legislation, if an Employee fails to give four weeks' notice and the Employer had not agreed to a shorter period of notice, the Employer will have the right to deduct one week's wages due to the Employee provided that the deduction is not unreasonable in the circumstances.
 
-**(f)** Subclauses 23.1(a) to (d) do not affect an Employer's right to terminate an Employee's employment without notice for serious misconduct.
+**(f)** [Subclauses 23.1(a) to (d)](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination) do not affect an Employer's right to terminate an Employee's employment without notice for serious misconduct.
 
-**(g)** Subclauses 23.1(a) to (e) do not apply to:
+**(g)** [Subclauses 23.1(a) to (e)](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination) do not apply to:
 
 **(i)** Employees engaged under a fixed term contract;
 

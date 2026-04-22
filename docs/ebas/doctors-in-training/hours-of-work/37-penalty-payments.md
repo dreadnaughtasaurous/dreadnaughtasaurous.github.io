@@ -8,13 +8,13 @@ topics: ['hours', 'overtime', 'shift-work']
 
 
 
-**37.1** The provisions of this clause 37 are to be read in conjunction with subclauses 42.7(d) and 42.7(e) (Rate of Pay).
+**37.1** The provisions of this [clause 37](/ebas/doctors-in-training/hours-of-work/37-penalty-payments) are to be read in conjunction with [subclauses 42.7(d)](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases) and 42.7(e) (Rate of Pay).
 
 **37.2** Saturday and Sunday Work
 
 **(a)** Any ordinary hours performed between midnight Friday and midnight Sunday must be paid at 150% of the Doctor’s ordinary hourly rate of pay.
 
-**(b)** For hours worked between midnight Friday and midnight Sunday that are in excess of ordinary hours pursuant to subclause 33.1, overtime rates pursuant to subclause
+**(b)** For hours worked between midnight Friday and midnight Sunday that are in excess of ordinary hours pursuant to [subclause 33.1](/ebas/doctors-in-training/hours-of-work/33-hours-of-work), overtime rates pursuant to subclause
 
 **36.2** must be paid.
 

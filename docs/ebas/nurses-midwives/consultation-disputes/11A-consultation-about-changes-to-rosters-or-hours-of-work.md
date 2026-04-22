@@ -8,7 +8,7 @@ topics: ['hours', 'rosters', 'consultation']
 
 
 
-This clause 11A applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute a ‘Major Change’ in accordance with subclause 11.2(c).
+This [clause 11A](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute a ‘Major Change’ in accordance with [subclause 11.2(c)](/ebas/nurses-midwives/consultation-disputes/11-consultation).
 
 **11A.1** Where an Employer proposes to change an Employee's regular roster or ordinary hours of work, the Employer must:
 
@@ -34,11 +34,11 @@ This clause 11A applies where a change to regular rosters or ordinary hours of w
 
 **11A.4** The Employer must give prompt and genuine consideration to matters raised about the change by the relevant employees and consider health and safety impacts including fatigue.
 
-**11A.5** In this term relevant employees means the Employee or Employees who may be affected by a change referred to in clause 11A.1.
+**11A.5** In this term relevant employees means the Employee or Employees who may be affected by a change referred to in [clause 11A.1](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work).
 
-**11A.6** The requirement to consult under this clause 11A does not apply to an Employee where the change to an Employee's regular roster or ordinary hours of work is as a consequence of that Employee's irregular, sporadic or unpredictable working hours, self-rostering or, where permitted, a rotating roster.
+**11A.6** The requirement to consult under this [clause 11A](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work) does not apply to an Employee where the change to an Employee's regular roster or ordinary hours of work is as a consequence of that Employee's irregular, sporadic or unpredictable working hours, self-rostering or, where permitted, a rotating roster.
 
-**11A.7** The provisions of this clause 11A are to be read in conjunction with the terms of the engagement between the Employer and Employee, and other Agreement provisions concerning the scheduling of work and notice requirements.
+**11A.7** The provisions of this [clause 11A](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work) are to be read in conjunction with the terms of the engagement between the Employer and Employee, and other Agreement provisions concerning the scheduling of work and notice requirements.
 
 Plain language terms: rostering, shift roster, duty roster, roster changes.
 

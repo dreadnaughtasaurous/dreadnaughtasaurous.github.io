@@ -20,7 +20,7 @@ topics: ['leave', 'personal-leave', 'employment', 'preliminary']
 
 **63.3** A casual Employee is not entitled to any payment for the period of non- attendance.
 
-**63.4** An Employer must not fail to re-engage a casual Employee because the Employee accessed the entitlements provided for in this clause 63. The rights of the Employer to engage or not to engage a casual Employee are otherwise not affected.
+**63.4** An Employer must not fail to re-engage a casual Employee because the Employee accessed the entitlements provided for in this [clause 63](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities). The rights of the Employer to engage or not to engage a casual Employee are otherwise not affected.
 
 Plain language terms: casual.
 

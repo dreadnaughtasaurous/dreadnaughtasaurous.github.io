@@ -22,11 +22,11 @@ topics: ['leave', 'hours', 'overtime', 'flexible-work']
 
 **(v)** leave loading; and
 
-**(b)** the arrangement meets the genuine needs of the Employer and Employee in relation to one (1) or more of the matters mentioned in subclause 66.1(a); and
+**(b)** the arrangement meets the genuine needs of the Employer and Employee in relation to one (1) or more of the matters mentioned in [subclause 66.1(a)](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements); and
 
 **(c)** the arrangement is genuinely agreed by the Employer and Employee.
 
-**66.2** The Employee may appoint a representative for the purposes of the procedure in this clause 66, including the Union. Except as provided in subclause 66.5(c), the arrangement must not require the approval or consent of a person other than the Employer and the individual Employee.
+**66.2** The Employee may appoint a representative for the purposes of the procedure in this [clause 66](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements), including the Union. Except as provided in [subclause 66.5(c)](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements), the arrangement must not require the approval or consent of a person other than the Employer and the individual Employee.
 
 **66.3** The Employer must ensure that the terms of the individual flexibility arrangement:
 

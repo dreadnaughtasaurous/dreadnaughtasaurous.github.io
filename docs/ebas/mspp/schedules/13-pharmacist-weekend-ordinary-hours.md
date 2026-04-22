@@ -17,7 +17,7 @@ The schedule body below is rendered in a monospaced block to preserve the column
 
 ENTITLEMENTS – AUSTIN HEALTH, EASTERN HEALTH, ALFRED HEALTH, PETER MACCALLUM CANCER INSTITUTE, ROYAL VICTORIAN EYE AND EAR HOSPITAL, MELBOURNE HEALTH, WESTERN HEALTH, NORTHERN HEALTH, ROYAL WOMEN’S HO
 
-1.  Royal Women’s Hospital and The Royal Children’s Hospital 3.1 Redundancy (a) Where the Health Service have made a definite decision that they no longer wish the work the Employee has been doing, to be done by anyone, and that decision may lead to termination of employment, they shall hold discussions in accordance with clause 30 of this Agreement with the Employees directly affected and, their representatives which may include the Union. This will apply where the possible termination is not due to the ordinary and customary turnover of labour. (b) Where redeployment opportunities do not exist and an Employee is made compulsorily redundant, they will receive the following :
+1.  Royal Women’s Hospital and The Royal Children’s Hospital 3.1 Redundancy (a) Where the Health Service have made a definite decision that they no longer wish the work the Employee has been doing, to be done by anyone, and that decision may lead to termination of employment, they shall hold discussions in accordance with [clause 30](/ebas/mspp/employment/30-consultation) of this Agreement with the Employees directly affected and, their representatives which may include the Union. This will apply where the possible termination is not due to the ordinary and customary turnover of labour. (b) Where redeployment opportunities do not exist and an Employee is made compulsorily redundant, they will receive the following :
 
               (i)      A payment calculated as per Victorian Government policy for
                        Targeted Separation Packages as at the time of termination.
@@ -93,7 +93,7 @@ ENTITLEMENTS – AUSTIN HEALTH, EASTERN HEALTH, ALFRED HEALTH, PETER MACCALLUM C
               classification of employment without consultation with Employees and the
               Employee representatives, which may include the Union.
 
-5.3 Redundancy and Redeployment Implementation (a) Where a position has been declared redundant by the Employer at a date and time specified by the Employer and alternative redeployment opportunities have not been identified by the Employer by the end of the redeployment period, the Affected Employee shall be offered separation payments in accordance with clause 32.6(a) .
+5.3 Redundancy and Redeployment Implementation (a) Where a position has been declared redundant by the Employer at a date and time specified by the Employer and alternative redeployment opportunities have not been identified by the Employer by the end of the redeployment period, the Affected Employee shall be offered separation payments in accordance with [clause 32.6(a)](/ebas/mspp/employment/32-redundancy-and-associated-entitlements) .
 
        (b)    where an Employee whose position has been declared redundant elects to
               discontinue the 13-week redeployment period provided for by this clause,
@@ -212,7 +212,7 @@ Print Print Name:……………………………….. Name:………………�
 
 Date: …………………………… Date:…………………………………………
 
-Withdrawal from this Agreement: In accordance with clause 4 & 5 of Schedule 13 I advise that I wish to withdraw from this Pharmacist Ordinary Hours on a Weekend Roster Agreement and hereby give 28 days notice of the effective date of my withdrawal.
+Withdrawal from this Agreement: In accordance with [clause 4](/ebas/mspp/schedules/4-alfred-health-general-conditions) & 5 of Schedule 13 I advise that I wish to withdraw from this Pharmacist Ordinary Hours on a Weekend Roster Agreement and hereby give 28 days notice of the effective date of my withdrawal.
 
 Signed ………………………………………………………………..
 

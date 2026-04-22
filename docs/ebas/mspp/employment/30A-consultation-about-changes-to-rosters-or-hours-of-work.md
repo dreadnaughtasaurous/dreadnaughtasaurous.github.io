@@ -8,7 +8,7 @@ topics: ['hours', 'rosters', 'consultation', 'union-matters']
 
 
 
-This clause 30A applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute ‘Major Change’ in accordance with subclause 30.2c.
+This [clause 30A](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute ‘Major Change’ in accordance with [subclause 30.2](/ebas/mspp/employment/30-consultation)c.
 
 **a.** Where an Employer proposes to change an Employee’s regular roster or ordinary hours of work, the Employer must consult with the Employee or Employees affected and their Union or representatives, if any, about the proposed change.
 

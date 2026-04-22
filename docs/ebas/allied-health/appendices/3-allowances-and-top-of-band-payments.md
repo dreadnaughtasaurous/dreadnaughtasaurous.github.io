@@ -1108,7 +1108,7 @@ The tables below are sourced from Salary Circular 877. Shift allowances vary by 
 <td class="pt-rate">$277.04</td>
 </tr>
 <tr class="pt-group">
-<td colspan="2">Preserved Chief and Deputy Chief Rates of Pay - per sub-clause 28.5 of the Agreement</td>
+<td colspan="2">Preserved Chief and Deputy Chief Rates of Pay - per sub-[clause 28.5](/ebas/allied-health/wages/28-wages-and-wage-increases) of the Agreement</td>
 </tr>
 <tr>
 <td class="pt-class">Chief Grade 2, Year 2</td>

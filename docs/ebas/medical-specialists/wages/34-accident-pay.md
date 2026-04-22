@@ -42,7 +42,7 @@ Injury has the same meaning and application as applying under the WIRC Act. No i
 
 **(i)** for the first five normal working days of incapacity, except where a Doctor contracts an infectious disease in the course of duty and is entitled to receive workers compensation (in which case the Doctor will receive accident pay from the first day of incapacity);
 
-**(ii)** to any incapacity occurring during the first two weeks of employment, unless incapacity continues beyond this time. Subject to subclauses 34.2(b)(i) and 34.4 accident pay will only apply to the period of incapacity after the first two weeks of employment;
+**(ii)** to any incapacity occurring during the first two weeks of employment, unless incapacity continues beyond this time. Subject to [subclauses 34.2(b)(i)](/ebas/medical-specialists/wages/34-accident-pay) and 34.4 accident pay will only apply to the period of incapacity after the first two weeks of employment;
 
 **(iii)** to industrial diseases contracted by a gradual process or injuries subject to recurrence, aggravation or acceleration (as determined by the WIRC Act) unless the Doctor has been employed with the Health Service at the time of the incapacity for a minimum period of one month.
 
@@ -64,7 +64,7 @@ Injury has the same meaning and application as applying under the WIRC Act. No i
 
 **34.4** Termination of employment
 
-**(a)** Subject to subclauses 34.3, 34.4(c) and 34.4(d) of this Agreement, a Doctor's entitlement to accident pay will continue on termination of employment by his or her Health Service, if the Doctor was incapacitated and receiving accident pay at the date of termination.
+**(a)** Subject to [subclauses 34.3](/ebas/medical-specialists/wages/34-accident-pay), 34.4(c) and 34.4(d) of this Agreement, a Doctor's entitlement to accident pay will continue on termination of employment by his or her Health Service, if the Doctor was incapacitated and receiving accident pay at the date of termination.
 
 **(b)** A Doctor with partial incapacity will continue to receive accident pay from their Health Service on termination of his or her employment if:
 

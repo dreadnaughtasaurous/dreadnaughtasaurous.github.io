@@ -12,7 +12,7 @@ topics: ['leave', 'long-service-leave', 'wages', 'employment', 'termination']
 
 **(a)** An Employer may terminate the employment of an Employee by providing 4 weeks' notice in writing.
 
-**(b)** The notice required by sub-clause 28.1(a) will be increased by 1 week if the Employee is over 45 years of age and has completed more than 2 years of continuous service.
+**(b)** The notice required by sub-[clause 28.1(a)](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment) will be increased by 1 week if the Employee is over 45 years of age and has completed more than 2 years of continuous service.
 
 **(c)** Continuous service for the purpose of this clause has the same meaning as it does under [clause 47](/ebas/mental-health/common-terms/leave/47-long-service-leave) (Long Service Leave) and will include prior continuous service preceding a transfer of business, except in respect of any period of continuous service for which notice has already been given or paid.
 
@@ -26,9 +26,9 @@ topics: ['leave', 'long-service-leave', 'wages', 'employment', 'termination']
 
 **(e)** An Employee may terminate their employment by providing 4 weeks' notice to the Employer in writing. Subject to additional financial obligations imposed on the Employer by any legislation, if an Employee fails to give the required notice and the Employer had not agreed to a shorter notice period, the Employer has a right to deduct no more than one week’s wage due to the Employee provided that the deduction is not unreasonable in the circumstances.
 
-**28.2** Sub-clauses 28.1 and 28.3 above do not affect an Employer's right to terminate any Employee without notice for serious misconduct.
+**28.2** Sub-[clauses 28.1](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment) and 28.3 above do not affect an Employer's right to terminate any Employee without notice for serious misconduct.
 
-**28.3** Sub-clause 28.1 - above of this Agreement does not apply:
+**28.3** Sub-[clause 28.1](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment) - above of this Agreement does not apply:
 
 **(a)** to an Employee engaged under a fixed term contract
 

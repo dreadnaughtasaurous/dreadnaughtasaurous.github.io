@@ -8,7 +8,7 @@ topics: ['flexible-work', 'preliminary']
 
 
 
-**79.1** If any of the circumstances set out in subclause 79.2 below apply to an Employee, the Employee may ask the Employer for a change in working arrangements because of those circumstances:
+**79.1** If any of the circumstances set out in [subclause 79.2](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) below apply to an Employee, the Employee may ask the Employer for a change in working arrangements because of those circumstances:
 
 **79.2** The Employee
 
@@ -24,9 +24,9 @@ topics: ['flexible-work', 'preliminary']
 
 **(f)** provides care or support to a member of the Employee’s immediate family, or a member of the member of the Employee’s household, who requires care or support because the member is experiencing violence from the member’s family.
 
-**79.3** A request made under subclause 79.1 may include, but is not limited to, changes in hours of work, changes in patterns of work or changes in the location of work.
+**79.3** A request made under [subclause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) may include, but is not limited to, changes in hours of work, changes in patterns of work or changes in the location of work.
 
-**79.4** An Employee is not entitled to make a request under subclause 79.1 unless:
+**79.4** An Employee is not entitled to make a request under [subclause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) unless:
 
 **(a)** for an Employee, other than a casual Employee, they have completed at least 12 months continuous service with the Employer immediately before making the request; or
 
@@ -36,13 +36,13 @@ topics: ['flexible-work', 'preliminary']
 
 **(ii)** have a reasonable expectation of continuing engagement by the Employer on a regular and systematic basis.
 
-**79.5** A request made under subclause 79.1 must be in writing and set out:
+**79.5** A request made under [subclause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) must be in writing and set out:
 
 **(a)** details of the change in working arrangements sought by the Employee; and
 
 **(b)** the reasons for the change.
 
-**79.6** Before responding to a request made under subclause 79.1, the Employer must discuss the request with the Employee and genuinely try to reach agreement on a change in working arrangements that will reasonably accommodate the Employee’s circumstances having regard to:
+**79.6** Before responding to a request made under [subclause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements), the Employer must discuss the request with the Employee and genuinely try to reach agreement on a change in working arrangements that will reasonably accommodate the Employee’s circumstances having regard to:
 
 **(a)** the needs of the Employee arising from their circumstances;
 
@@ -50,13 +50,13 @@ topics: ['flexible-work', 'preliminary']
 
 **(c)** any reasonable grounds for refusing the request.
 
-**79.7** The Employer must respond to a request made under subclause 79.1 within 21 days, stating whether or not the request is granted.
+**79.7** The Employer must respond to a request made under [subclause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) within 21 days, stating whether or not the request is granted.
 
-**79.8** The Employer may refuse a request made under subclause 79.1 on reasonable business grounds.
+**79.8** The Employer may refuse a request made under [subclause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) on reasonable business grounds.
 
-**79.9** If the Employer refuses a request made by an Employee under clause 79.1, or if the change in working arrangements differs from that initially requested by the employee, the written response provided under subclause 79.7 must include the reasons for such a refusal, including the business ground or grounds for the refusal and how the ground or grounds apply.
+**79.9** If the Employer refuses a request made by an Employee under [clause 79.1](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements), or if the change in working arrangements differs from that initially requested by the employee, the written response provided under [subclause 79.7](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) must include the reasons for such a refusal, including the business ground or grounds for the refusal and how the ground or grounds apply.
 
-**79.10** If the Employer and Employee could not agree on a change in working arrangements under subclause 79.6, then the written response under subclause 79.7 must:
+**79.10** If the Employer and Employee could not agree on a change in working arrangements under [subclause 79.6](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements), then the written response under [subclause 79.7](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements) must:
 
 **(a)** state whether or not there are any changes in working arrangements that the Employer can offer the Employee so as to better accommodate the Employee’s circumstances; and
 

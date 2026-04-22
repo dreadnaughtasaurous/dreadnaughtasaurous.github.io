@@ -12,7 +12,7 @@ topics: ['preliminary', 'staffing']
 
 **(a)** A Community Workload Management System (CWMS) agreed between the Employer and Unions is to be operated and maintained by each Employer via the local Mental Health Workplace Implementation Committee (MHWIC).
 
-**(b)** The CWMS must operate in accordance with the CWMS principles at subclause 60.3.
+**(b)** The CWMS must operate in accordance with the CWMS principles at [subclause 60.3](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms).
 
 **(c)** The parties will cooperate through the MHICC to replace the existing CWMS referred to at 60.1(a) with a generic electronic CWMS system as soon as practicable and no later than the end of 2027.
 
@@ -32,9 +32,9 @@ topics: ['preliminary', 'staffing']
 
 **(c)** Where, after the steps outlined in 60.2(b), a member of the local MHIIC is not satisfied that actions are sufficient to satisfy the CWMS principles, the local MHIIC will genuinely attempt to resolve concerns through discussion.
 
-**(d)** No party to the local MHICC or person covered by the Agreement will be prejudiced as a result of either the provision of data or the discussions under this sub-clause 60.2 or initiate a dispute where 60.2(c) is being complied with.
+**(d)** No party to the local MHICC or person covered by the Agreement will be prejudiced as a result of either the provision of data or the discussions under this sub-[clause 60.2](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) or initiate a dispute where 60.2(c) is being complied with.
 
-**(e)** For the avoidance of doubt, clause 60.2 does not prevent an Employee or their representative enforcing their rights in accordance with clause 60.8.
+**(e)** For the avoidance of doubt, [clause 60.2](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) does not prevent an Employee or their representative enforcing their rights in accordance with [clause 60.8](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms).
 
 **60.3** CWMS Principles
 
@@ -46,7 +46,7 @@ topics: ['preliminary', 'staffing']
 
 **(b)** All tasks assigned to an Employee, including caseload allocation and fixed and variable clinical and organisational commitments, must be capable of being completed within the Employee's normal ordinary weekly or fortnightly hours of duty.
 
-**60.4** Exceptions to clauses 60.3(a)
+**60.4** Exceptions to [clauses 60.3(a)](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms)
 
 **(a)** Clinicians in a Community Mental Health Team in training positions, graduate positions, project positions or newly appointed staff on designated orientation periods will have direct clinical commitment hours of less than 60 % for a time limited period as part of their position work plan arrangements, and in line with their skill level and /or orientation needs.
 
@@ -56,7 +56,7 @@ topics: ['preliminary', 'staffing']
 
 **60.3** above) at 40% or above must maintain the status quo.
 
-**60.6** Variation The CWMS Principles at clause 60.3(a) may be varied by agreement between the Unions and the Employer to deal with peculiar, localised need where evidenced. This will be recorded in writing as a local agreement signed by the parties.
+**60.6** Variation The CWMS Principles at [clause 60.3(a)](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) may be varied by agreement between the Unions and the Employer to deal with peculiar, localised need where evidenced. This will be recorded in writing as a local agreement signed by the parties.
 
 **60.7** Definitions
 
@@ -98,7 +98,7 @@ Column A Column B Time for documentation requirements, such as, Staff/Profession
 
 **(c)** The period of time referred to in 60.8(a) will reduce to one month following the end of the reporting period once the electronic reporting tool referred to in 60.1(c) is implemented.
 
-**(d)** Subclause 60.8(b) will not apply where:
+**(d)** [Subclause 60.8(b)](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) will not apply where:
 
 **(i)** the Employee does not complete the tool.
 
@@ -126,6 +126,6 @@ Column A Column B Time for documentation requirements, such as, Staff/Profession
 
 **60.12** Application of the Dispute Clause
 
-**60.13** The Disputes clause of this Agreement applies to this clause, including whether a review is warranted for a particular Employer and in respect of sub-clause 60.8.
+**60.13** The Disputes clause of this Agreement applies to this clause, including whether a review is warranted for a particular Employer and in respect of sub-[clause 60.8](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms).
 
 

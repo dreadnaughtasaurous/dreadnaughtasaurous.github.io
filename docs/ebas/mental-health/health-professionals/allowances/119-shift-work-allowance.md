@@ -8,7 +8,7 @@ topics: ['hours', 'shift-work', 'allowances']
 
 
 
-**119.1** Definitions In this clause 119:
+**119.1** Definitions In this [clause 119](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance):
 
 **(a)** Morning shift means any shift that commences between 6:00 p.m. and 6:30 a.m.
 

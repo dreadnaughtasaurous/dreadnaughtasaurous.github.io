@@ -8,11 +8,11 @@ topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 
 
 
-The purpose of this clause 12 is to provide for the timely, constructive resolution of disputes, where possible, within the work place or where necessary, at the Fair Work Commission.
+The purpose of this [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) is to provide for the timely, constructive resolution of disputes, where possible, within the work place or where necessary, at the Fair Work Commission.
 
 **12.1** Resolution of disputes and grievances
 
-**(a)** For the purpose of this clause 12, a dispute includes a grievance.
+**(a)** For the purpose of this [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure), a dispute includes a grievance.
 
 **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
 
@@ -42,7 +42,7 @@ The purpose of this clause 12 is to provide for the timely, constructive resolut
 
 **(iii)** has not unreasonably failed to comply with a direction by the Health Service to perform other available work that is safe and appropriate for the Doctor to perform.
 
-**(d)** No Party to a dispute or person covered by the Agreement will be prejudiced with respect to the resolution of the dispute by continuing work under this subclause 12.2(b).
+**(d)** No Party to a dispute or person covered by the Agreement will be prejudiced with respect to the resolution of the dispute by continuing work under this [subclause 12.2(b)](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure).
 
 **12.3** Dispute settlement facilitation
 
@@ -62,11 +62,11 @@ The purpose of this clause 12 is to provide for the timely, constructive resolut
 
 **(ii)** if the dispute is still unresolved, by discussions between the Doctor/s and more senior managers.
 
-Nothing in this clause 12.4 prevents the Parties from conducting their discussions in writing, subject to clause 12.4.
+Nothing in this [clause 12.4](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) prevents the Parties from conducting their discussions in writing, subject to [clause 12.4](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure).
 
-**(b)** The discussions at subclause 12.4(a) will take place within fourteen days or such other period as mutually agreed having regard to the remaining length of the Doctor’s contract of employment, and save that agreement will not be unreasonably withheld.
+**(b)** The discussions at [subclause 12.4(a)](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) will take place within fourteen days or such other period as mutually agreed having regard to the remaining length of the Doctor’s contract of employment, and save that agreement will not be unreasonably withheld.
 
-**(c)** Where a Party believes the requirements of this clause 12.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+**(c)** Where a Party believes the requirements of this [clause 12.4](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 
 **(d)** If a dispute cannot be resolved at the workplace in a reasonable time period having regard to the remaining length of the Doctor’s contract of employment, it may be referred by a party to the dispute or representative to the FWC for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
@@ -92,9 +92,9 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 
 **(b)** The FWC member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
 
-**(c)** If the dispute resolution procedure results in a finding by the FWC that a breach of the Savings provision of this Agreement has occurred, the parties agree that the order of the FWC under this subclause 12.7 will be to restore all rights and entitlements affected by the breach to the state which would have prevailed if the breach had not occurred.
+**(c)** If the dispute resolution procedure results in a finding by the FWC that a breach of the Savings provision of this Agreement has occurred, the parties agree that the order of the FWC under this [subclause 12.7](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) will be to restore all rights and entitlements affected by the breach to the state which would have prevailed if the breach had not occurred.
 
-**(d)** Subject to subclause 12.7(e) below, a decision of the FWC is binding upon the persons covered by this Agreement.
+**(d)** Subject to [subclause 12.7(e)](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) below, a decision of the FWC is binding upon the persons covered by this Agreement.
 
 **(e)** An appeal lies to a Full Bench of the FWC, with the leave of the Full Bench, against a determination of a single member of the FWC made pursuant to this clause.
 
@@ -102,7 +102,7 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 
 **(a)** Subject to any agreement between the parties to the dispute in relation to a particular dispute or grievance and the provisions of this clause, in dealing with a dispute or grievance through conciliation or arbitration, the FWC will conduct the matter in accordance with sections 577, 578 and Subdivision B of Division 3 of Part 5-1 of the Act.
 
-**(b)** For the avoidance of doubt, nothing in this clause 12 affects the operation of section 596 of the Act.
+**(b)** For the avoidance of doubt, nothing in this [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) affects the operation of section 596 of the Act.
 
 Plain language terms: dispute, grievance, FWC dispute.
 

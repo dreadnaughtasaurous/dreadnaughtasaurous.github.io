@@ -8,7 +8,7 @@ topics: ['allowances', 'uniforms']
 
 
 
-For the purposes of this clause 37, uniform means such specific apparel as may be required by the Employer.
+For the purposes of this [clause 37](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing), uniform means such specific apparel as may be required by the Employer.
 
 **37.1** Where an Employer requires an Employee to wear a uniform the Employer must reimburse the Employee for the cost of purchasing such uniform, unless the uniform is paid for by the Employer.
 
@@ -18,7 +18,7 @@ For the purposes of this clause 37, uniform means such specific apparel as may b
 
 **(b)** the Employer will replace uniforms where necessary on a fair ‘wear and tear’ basis.
 
-**37.3** Notwithstanding subclause 37.1, the Employer may, by agreement with the Employee, pay a uniform allowance at the daily or weekly rate set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) (whichever is the lesser amount in total) when the Employee is expected to provide their own uniform.
+**37.3** Notwithstanding [subclause 37.1](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing), the Employer may, by agreement with the Employee, pay a uniform allowance at the daily or weekly rate set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) (whichever is the lesser amount in total) when the Employee is expected to provide their own uniform.
 
 **37.4** When such Employee’s uniform is not laundered by or at the expense of the Employer, the Employee will be paid a laundry allowance at the daily or weekly rate set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates), (whichever is the lesser amount in total).
 

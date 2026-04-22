@@ -12,7 +12,7 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'employmen
 
 **(a)** The ordinary hours of work for full-time and part-time Doctors must be worked in accordance with the roster or rosters.
 
-**(b)** Rosters must be prepared taking into account work that should be completed in rostered working hours including theatre preparation, preparation for ward rounds, completing discharge summaries and (for Registrars only) Training Time in accordance with subclause 34.5.
+**(b)** Rosters must be prepared taking into account work that should be completed in rostered working hours including theatre preparation, preparation for ward rounds, completing discharge summaries and (for Registrars only) Training Time in accordance with [subclause 34.5](/ebas/doctors-in-training/hours-of-work/34-training-time).
 
 **35.2** Roster Posting
 
@@ -22,7 +22,7 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'employmen
 
 **35.3** Roster Design – Safe Hours of Work
 
-**(a)** The provisions of this subclause 35.3 are to be read in conjunction with [clause 41](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review) (Workload Management and Review).
+**(a)** The provisions of this [subclause 35.3](/ebas/doctors-in-training/hours-of-work/35-rosters) are to be read in conjunction with [clause 41](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review) (Workload Management and Review).
 
 **(b)** The Health Service must not roster or arrange work hours in a way that causes an excessive or unsafe work pattern to exist and shall apply a framework to consider safe working hours.
 
@@ -30,7 +30,7 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'employmen
 
 **(d)** The National Code of Practice – Hours of Work, Shiftwork and Rostering for Hospital Doctors in creating rosters is the recommended framework under which to consider safe working hours issues and will be considered by Health Services in meeting their obligations under this clause.
 
-**(e)** At the request of the Ambassador or other authorised representative of the Association, the Health Service will meet to discuss Roster Design – Safe Hours of Work under this clause 35.3
+**(e)** At the request of the Ambassador or other authorised representative of the Association, the Health Service will meet to discuss Roster Design – Safe Hours of Work under this [clause 35.3](/ebas/doctors-in-training/hours-of-work/35-rosters)
 
 **(f)** It is recognised that unrostered overtime can impact safe hours of work. In addition to raising any concerns about safe hours of work as a result of unrostered overtime with the Employer, Doctors will submit timesheets (or equivalent) with any unrostered overtime within the timeframe required by the Health Service.
 
@@ -38,9 +38,9 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'employmen
 
 **(a)** A Doctor may make a specific request concerning an upcoming roster period. Such request must be made in writing to the Health Service at least one week prior to the date on which the roster must be posted.
 
-**(b)** On receipt of a request made pursuant to subclause 35.4(a) above, the Health Service must consult with the Doctor and other Doctors on the roster to try and accommodate all such requests.
+**(b)** On receipt of a request made pursuant to [subclause 35.4(a)](/ebas/doctors-in-training/hours-of-work/35-rosters) above, the Health Service must consult with the Doctor and other Doctors on the roster to try and accommodate all such requests.
 
-**(c)** The final roster will be determined by the Health Service in consideration of all requests received pursuant to subclause 35.4(a) above. The Health Service must advise the Doctors involved of the reasons for its determination where requests have not been satisfied.
+**(c)** The final roster will be determined by the Health Service in consideration of all requests received pursuant to [subclause 35.4(a)](/ebas/doctors-in-training/hours-of-work/35-rosters) above. The Health Service must advise the Doctors involved of the reasons for its determination where requests have not been satisfied.
 
 **35.5** Roster Change
 
@@ -52,11 +52,11 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'employmen
 
 **(ii)** 8 to 14 days' notice, 2.5 per cent of the Doctor's ordinary weekly rate of pay for the rostered hours worked per shift.
 
-**(c)** Where the Doctor is part-time and has agreed to work shift(s) in addition to those rostered, the Doctor is not entitled to the allowance in subclause 35.5(b) above
+**(c)** Where the Doctor is part-time and has agreed to work shift(s) in addition to those rostered, the Doctor is not entitled to the allowance in [subclause 35.5(b)](/ebas/doctors-in-training/hours-of-work/35-rosters) above
 
 **(d)** In the circumstances described at (b) (Change of Roster), the Health Service will consult with the Doctor whose roster is being amended to consider the circumstances including the amount of notice, workload impact, the responsibilities of the Doctor (including family responsibilities).
 
-**35.6** For the purposes of this clause 35, an unforeseen medical emergency or disaster situation is not planned leave nor providing a replacement for an unplanned absence.
+**35.6** For the purposes of this [clause 35](/ebas/doctors-in-training/hours-of-work/35-rosters), an unforeseen medical emergency or disaster situation is not planned leave nor providing a replacement for an unplanned absence.
 
 **35.7** A Doctor may request in writing to alter the roster. The roster may then be altered by agreement with the Health Service.
 

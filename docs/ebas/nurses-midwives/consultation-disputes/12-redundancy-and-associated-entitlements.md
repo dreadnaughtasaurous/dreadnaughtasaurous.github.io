@@ -12,25 +12,25 @@ topics: ['employment', 'redundancy', 'consultation', 'disputes']
 
 This clause is arranged as follows:
 
-**(a)** Arrangement (clause 12.1);
+**(a)** Arrangement ([clause 12.1](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
 
-**(b)** Definitions (clause 12.2);
+**(b)** Definitions ([clause 12.2](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
 
-**(c)** Redeployment (clause 12.3);
+**(c)** Redeployment ([clause 12.3](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
 
-**(d)** Support to Affected Employees (clause 12.4);
+**(d)** Support to Affected Employees ([clause 12.4](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
 
-**(e)** Salary maintenance (clause 12.5);
+**(e)** Salary maintenance ([clause 12.5](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
 
-**(f)** Relocation (clause 12.6);
+**(f)** Relocation ([clause 12.6](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
 
-**(g)** Employment terminates due to redundancy (clause 12.7); and
+**(g)** Employment terminates due to redundancy ([clause 12.7](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements)); and
 
-**(h)** Exception to application of Victorian Government's policy with respect to severance pay (clause 12.8).
+**(h)** Exception to application of Victorian Government's policy with respect to severance pay ([clause 12.8](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements)).
 
 **12.2** Definitions
 
-**(a)** Affected Employee for this clause 12 means an Employee whose role will be redundant.
+**(a)** Affected Employee for this [clause 12](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) means an Employee whose role will be redundant.
 
 **(b)** Comparable Role means an ongoing role that:
 
@@ -58,7 +58,7 @@ This clause is arranged as follows:
 
 **(d)** Continuity of Service at 12.8 means that the service of the Employee is treated as unbroken and that the cap on the transfer of personal leave at [clause 61.8](/ebas/nurses-midwives/leave/61-personal-leave) does not apply. However, continuity of service is broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
-**(e)** Level for the purposes of this clause 12 means a weekly salary in Schedule 2 that is at least equal to or higher than the weekly salary in Schedule 2 for the Role the Employee held immediately prior to redundancy.
+**(e)** Level for the purposes of this [clause 12](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) means a weekly salary in Schedule 2 that is at least equal to or higher than the weekly salary in Schedule 2 for the Role the Employee held immediately prior to redundancy.
 
 **(f)** Reasonable Distance means a distance that has regard to the Employee's original work location, current home address, capacity of the Employee to travel,
 
@@ -84,7 +84,7 @@ The Affected Employee must be advised in writing of:
 
 **(ii)** details of the redeployment process;
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 12.3(g); and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 12.3(g)](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements); and
 
 **(iv)** the Affected Employee's rights and obligations.
 
@@ -114,7 +114,7 @@ The Employee must actively participate in the redeployment process including:
 
 **(e)** Rejecting a Comparable Role
 
-Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined), the Affected Employee may be ineligible for a departure package referred to at clause 12.7.
+Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined), the Affected Employee may be ineligible for a departure package referred to at [clause 12.7](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements).
 
 **(f)** Temporary alternative duties
 
@@ -236,7 +236,7 @@ The Victorian Government's policy with respect to public sector redundancy and t
 
 **(ii)** provides Continuity of Service; and
 
-**(iii)** where the Comparable Role results in a loss of income, salary maintenance at clause 12.5 will apply; and
+**(iii)** where the Comparable Role results in a loss of income, salary maintenance at [clause 12.5](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) will apply; and
 
 **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee,
 

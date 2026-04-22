@@ -68,13 +68,13 @@ and Regular Casual Employees
 
 **67.4** Entitlement
 
-**a.** Subject to clause 67.6, Employees covered by the part are entitled to:
+**a.** Subject to [clause 67.6](/ebas/mspp/leave/67-long-service-leave), Employees covered by the part are entitled to:
 
 **(i)** 26 weeks' long service leave with Pay on completion of fifteen years of Continuous Service; and
 
 **(ii)** thereafter 8.6667 weeks' long service leave with Pay on completion of each additional five years of Continuous Service.
 
-**b.** Subject to clause 67.6c and 67.6d, an entitlement under clause 67.4a(i) may be taken in advance on a pro rata basis if the Employee has accrued Continuous Service of at least:
+**b.** Subject to [clause 67.6](/ebas/mspp/leave/67-long-service-leave)c and 67.6d, an entitlement under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)a(i) may be taken in advance on a pro rata basis if the Employee has accrued Continuous Service of at least:
 
 **(i)** 10 years as at the date on which this Agreement is approved by the Fair Work Commission; or
 
@@ -102,13 +102,13 @@ and Regular Casual Employees
 
 3453-8976-3100v1PART 8: LEAVE OF ABSENCE AND PUBLIC HOLIDAYS
 
-**(vii)** in the case of unpaid absences not otherwise referenced in this subclause, subject to clause 67.9: **(A)** any unpaid leave that is authorised in advance in writing by the Employer to count as service; or **(B)** up to (but not including) \[the commencement date of this Agreement\], any unpaid absence from work of not more than fourteen days in any year on account of illness or injury; or **(C)** on and from \[the commencement date of this Agreement\]: (1) any period of unpaid leave taken on account of illness or injury; (2) a period of Parental Leave, including Parental Leave that is extended under [clause 70.10](/ebas/allied-health/leave/70-parental-leave) and 70.11; and (3) the first 52 weeks of any other type of unpaid leave not specifically referenced in this subclause 67.5a(vii); and
+**(vii)** in the case of unpaid absences not otherwise referenced in this subclause, subject to [clause 67.9](/ebas/mspp/leave/67-long-service-leave): **(A)** any unpaid leave that is authorised in advance in writing by the Employer to count as service; or **(B)** up to (but not including) \[the commencement date of this Agreement\], any unpaid absence from work of not more than fourteen days in any year on account of illness or injury; or **(C)** on and from \[the commencement date of this Agreement\]: (1) any period of unpaid leave taken on account of illness or injury; (2) a period of Parental Leave, including Parental Leave that is extended under [clause 70.10](/ebas/allied-health/leave/70-parental-leave) and 70.11; and (3) the first 52 weeks of any other type of unpaid leave not specifically referenced in this [subclause 67.5](/ebas/mspp/leave/67-long-service-leave)a(vii); and
 
 **(viii)** periods of regular and systematic casual employment with an Employer, Statutory Body, Institution or the Australian Red Cross Blood Service (however titled) in Victoria, including prior service as an Other Casual Employee, save that if long service leave was already taken or paid in lieu in respect of any such period, no further benefit to long service leave will arise in respect of that period.
 
 **b.** Periods that do not break Continuous Service, but do not count towards Continuous Service Unless otherwise agreed in writing in advance between the Employer and Employee, the following periods do not break Continuous Service but do not count towards an employee's Continuous Service for the purpose of calculating the employee's long service leave entitlement:
 
-**(i)** any authorised period of unpaid leave not referred to in sub-clause 67.5a;
+**(i)** any authorised period of unpaid leave not referred to in sub-[clause 67.5](/ebas/mspp/leave/67-long-service-leave)a;
 
 **(ii)** subject to the requirements of the Act, any interruption arising directly or indirectly from an industrial dispute;
 
@@ -124,7 +124,7 @@ and Regular Casual Employees
 
 **67.6** Taking of leave
 
-**a.** When leave is to be taken Long service leave will be granted by the Employer within six months from the date of the entitlement arising under clause 67.4asave that:
+**a.** When leave is to be taken Long service leave will be granted by the Employer within six months from the date of the entitlement arising under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)asave that:
 
 **(i)** long service leave may be postponed to a mutually agreeable date;
 
@@ -136,27 +136,27 @@ and Regular Casual Employees
 
 **(i)** If an Employee has completed ten years' Continuous Service, an Employer may, by agreement, grant long service leave in advance on a pro rata basis.
 
-**(ii)** Supplementary to subclause 67.6c(i) and subject to subclause 67.6c(iii): **(A)** if a full-time Employee, part-time Employee, or Locum Pharmacist requests to take long service leave under clause 67.4b, the Employer must grant the Employee's request to take long service leave as soon as practicable unless the Employer has reasonable business grounds for refusing the request; and/or **(B)** for a Regular Casual Employee, an Employer may, by agreement with the Employee, grant long service leave in advance on a pro rata basis at any time.
+**(ii)** Supplementary to [subclause 67.6](/ebas/mspp/leave/67-long-service-leave)c(i) and subject to [subclause 67.6](/ebas/mspp/leave/67-long-service-leave)c(iii): **(A)** if a full-time Employee, part-time Employee, or Locum Pharmacist requests to take long service leave under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)b, the Employer must grant the Employee's request to take long service leave as soon as practicable unless the Employer has reasonable business grounds for refusing the request; and/or **(B)** for a Regular Casual Employee, an Employer may, by agreement with the Employee, grant long service leave in advance on a pro rata basis at any time.
 
 3453-8976-3100v1PART 8: LEAVE OF ABSENCE AND PUBLIC HOLIDAYS
 
-**(iii)** If an Employee takes long service leave in advance and the Employee's employment ends before the entitlement to the leave would otherwise have accrued: **(A)** the Employer may, from whatever amount is payable to the Employee upon termination, deduct the amount paid to the Employee for the leave in respect of which the Employee was not entitled, if: (1) in the case of a full-time Employee, part-time Employee, or Locum Pharmacist, the termination was for serious and wilful misconduct; or (2) in the case of a Regular Casual Employee, the Employee had accrued less than 7 years' Continuous Service with the Employer as at the termination date; and **(B)** where such a deduction is made, the relevant period of service will not count as a period in respect of which long service leave has already been taken (or paid in lieu) for the purpose of clause 67.5aabove (Periods that count towards Continuous Service).
+**(iii)** If an Employee takes long service leave in advance and the Employee's employment ends before the entitlement to the leave would otherwise have accrued: **(A)** the Employer may, from whatever amount is payable to the Employee upon termination, deduct the amount paid to the Employee for the leave in respect of which the Employee was not entitled, if: (1) in the case of a full-time Employee, part-time Employee, or Locum Pharmacist, the termination was for serious and wilful misconduct; or (2) in the case of a Regular Casual Employee, the Employee had accrued less than 7 years' Continuous Service with the Employer as at the termination date; and **(B)** where such a deduction is made, the relevant period of service will not count as a period in respect of which long service leave has already been taken (or paid in lieu) for the purpose of [clause 67.5](/ebas/mspp/leave/67-long-service-leave)aabove (Periods that count towards Continuous Service).
 
 **d.** Flexible taking of leave An Employee may, subject to approval by the Employer, convert their long service leave entitlement by taking double the period of approved long service leave at half Pay.
 
 **67.7** Payment on termination of employment
 
-**a.** Interpretation For the purposes of this clause 67.7, termination of employment has its ordinary meaning, provided that:
+**a.** Interpretation For the purposes of this [clause 67.7](/ebas/mspp/leave/67-long-service-leave), termination of employment has its ordinary meaning, provided that:
 
 **(i)** it is taken to occur upon conversion from full-time or part-time employment to casual employment; and
 
 **(ii)** it is not taken to occur at the cessation of each shift as a casual Employee.
 
-**b.** Basic entitlement at termination of employment Except where an election is made under clause 67.7cbelow, an Employee is entitled to payment in lieu of untaken long service leave upon termination of employment if, as at the termination date one of the following applies (where multiple options apply to an Employee, the higher benefit will be applied):
+**b.** Basic entitlement at termination of employment Except where an election is made under [clause 67.7](/ebas/mspp/leave/67-long-service-leave)cbelow, an Employee is entitled to payment in lieu of untaken long service leave upon termination of employment if, as at the termination date one of the following applies (where multiple options apply to an Employee, the higher benefit will be applied):
 
-**(i)** the Employee has accrued a full long service leave entitlement under clause 67.4aabove, in which case the entitlement shall be calculated at one thirtieth of the period of Continuous Service; or
+**(i)** the Employee has accrued a full long service leave entitlement under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)aabove, in which case the entitlement shall be calculated at one thirtieth of the period of Continuous Service; or
 
-**(ii)** the Employee has an entitlement to pro rata long service leave under clause 67.4band was not terminated for serious and wilful misconduct, in which case the entitlement shall be calculated at one thirtieth of the period of Continuous Service; or
+**(ii)** the Employee has an entitlement to pro rata long service leave under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)band was not terminated for serious and wilful misconduct, in which case the entitlement shall be calculated at one thirtieth of the period of Continuous Service; or
 
 **(iii)** in the case of a Regular Casual Employee, the Employee has accrued at least 7 years' Continuous Service with the Employer, in
 
@@ -166,27 +166,27 @@ which case the entitlement shall be calculated in accordance with the LSL Act.
 
 **c.** Election for payment of entitlement or transfer of entitlement at termination
 
-**(i)** This subclause applies to the following Employees: **(A)** Full-time Employees, part-time Employees and Locum Pharmacists who have an entitlement to be paid pro rata long service leave under clause 67.4b(who therefore have less than fifteen years' accrued Continuous Service with an Employer); and **(B)** Regular Casual Employees who have at least seven years' accrued Continuous Service with an Employer.
+**(i)** This subclause applies to the following Employees: **(A)** Full-time Employees, part-time Employees and Locum Pharmacists who have an entitlement to be paid pro rata long service leave under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)b(who therefore have less than fifteen years' accrued Continuous Service with an Employer); and **(B)** Regular Casual Employees who have at least seven years' accrued Continuous Service with an Employer.
 
-**(ii)** An Employee to whom subclause 67.7c(i) applies who intends to be re-employed by another Institution or Statutory Body, may: **(A)** request in writing that payment for accrued long service leave be deferred until after the Employee’s allowable period of absence (as defined above) has expired; and **(B)** where the Employee notifies the initial Employer in writing within the allowable period of absence that the Employee has been employed by such an employer, and the re- employment meets the criteria set out in in subclause 67.7c(iv)below, the initial Employer is no longer required to make payment to the Employee in respect of such service.
+**(ii)** An Employee to whom [subclause 67.7](/ebas/mspp/leave/67-long-service-leave)c(i) applies who intends to be re-employed by another Institution or Statutory Body, may: **(A)** request in writing that payment for accrued long service leave be deferred until after the Employee’s allowable period of absence (as defined above) has expired; and **(B)** where the Employee notifies the initial Employer in writing within the allowable period of absence that the Employee has been employed by such an employer, and the re- employment meets the criteria set out in in [subclause 67.7](/ebas/mspp/leave/67-long-service-leave)c(iv)below, the initial Employer is no longer required to make payment to the Employee in respect of such service.
 
-**(iii)** Where the notice referred to at 67.7c(ii)(B). is not provided prior to or within the allowable period of absence the Employer will, upon the expiration of the allowable period of absence, make payment in lieu of long service leave as per subclause 67.7b
+**(iii)** Where the notice referred to at 67.7c(ii)(B). is not provided prior to or within the allowable period of absence the Employer will, upon the expiration of the allowable period of absence, make payment in lieu of long service leave as per [subclause 67.7](/ebas/mspp/leave/67-long-service-leave)b
 
 **(iv)** For the purposes of this subclause, re-employment by another Institution or Statutory Body means employment other than as a Other Casual Employee.
 
-**d.** Payment in lieu of long service leave on the death of an Employee Where an Employee dies while still in the employ of the Employer, payment in lieu of long service leave will be made to the Employee’s personal representative in accordance with clause 67.7babove.
+**d.** Payment in lieu of long service leave on the death of an Employee Where an Employee dies while still in the employ of the Employer, payment in lieu of long service leave will be made to the Employee’s personal representative in accordance with [clause 67.7](/ebas/mspp/leave/67-long-service-leave)babove.
 
-**e.** No entitlement arising for periods of leave already taken For the removal of doubt, where an Employee makes an election under clause 67.7c such that their previous Service is recognised by the new Employer, the Employee’s previous Employer is no longer liable to make any payment in lieu of that employee’s service.
+**e.** No entitlement arising for periods of leave already taken For the removal of doubt, where an Employee makes an election under [clause 67.7](/ebas/mspp/leave/67-long-service-leave)c such that their previous Service is recognised by the new Employer, the Employee’s previous Employer is no longer liable to make any payment in lieu of that employee’s service.
 
 **67.8** Public holidays See also [clause 80](/ebas/mspp/leave/80-public-holidays)(Public Holidays). Long service leave is inclusive of any public holiday occurring during the period when leave is taken.
 
-**67.9** Transitional Arrangements for Parental Leave taken after 1 November 2018 and before the commencement date of this Agreement Note 1: Unpaid Parental Leave taken prior to 1 November 2018 does not count as Continuous Service unless otherwise agreed, per clause 67.5a(vii)(A).
+**67.9** Transitional Arrangements for Parental Leave taken after 1 November 2018 and before the commencement date of this Agreement Note 1: Unpaid Parental Leave taken prior to 1 November 2018 does not count as Continuous Service unless otherwise agreed, per [clause 67.5](/ebas/mspp/leave/67-long-service-leave)a(vii)(A).
 
 3453-8976-3100v1PART 8: LEAVE OF ABSENCE AND PUBLIC HOLIDAYS
 
-Note 2: Unpaid Parental Leave taken after the commencement date of this Agreement will constitute Continuous Service, per clause 67.5a(vii)(C)(2)).
+Note 2: Unpaid Parental Leave taken after the commencement date of this Agreement will constitute Continuous Service, per [clause 67.5](/ebas/mspp/leave/67-long-service-leave)a(vii)(C)(2)).
 
-**a.** As an exception to clause 67.5a, an Employee who took a period of unpaid Parental Leave that included any part of the period between 1 November 2018 and the commencement date of this agreement (inclusive) may make an application to the Employer to have that service recognised for Long Service Leave purposes. The Employer will approve the application and update the Employee's Long Service Leave record.
+**a.** As an exception to [clause 67.5](/ebas/mspp/leave/67-long-service-leave)a, an Employee who took a period of unpaid Parental Leave that included any part of the period between 1 November 2018 and the commencement date of this agreement (inclusive) may make an application to the Employer to have that service recognised for Long Service Leave purposes. The Employer will approve the application and update the Employee's Long Service Leave record.
 
 **b.** An Employee electing to make an application under 67.9amust make the application to the Employer no later than 6 months of the following (whichever occurs last):
 
@@ -194,7 +194,7 @@ Note 2: Unpaid Parental Leave taken after the commencement date of this Agreemen
 
 **(ii)** the date on which the Employee returns to work after the qualifying period of unpaid Parental Leave.
 
-**c.** This clause 67.9 shall also apply to an Employee in respect of a former Employer if the Employee took a qualifying unpaid period of Parental Leave under this clause while employed by that former Employer.
+**c.** This [clause 67.9](/ebas/mspp/leave/67-long-service-leave) shall also apply to an Employee in respect of a former Employer if the Employee took a qualifying unpaid period of Parental Leave under this clause while employed by that former Employer.
 
 **67.10** Entitlement Save for the matters set out in this part, Other Casual Employees shall be entitled to long service leave with ordinary pay in accordance with the LSL Act.
 
@@ -208,7 +208,7 @@ Note 2: Unpaid Parental Leave taken after the commencement date of this Agreemen
 
 **(ii)** the Employer otherwise has reasonable business grounds for refusing the request.
 
-**c.** Employees should seek independent advice regarding the taxation and superannuation implications of seeking payment under this subclause 67.11a . The Employer will not be held responsible in any way for the cost or outcome of any such advice.
+**c.** Employees should seek independent advice regarding the taxation and superannuation implications of seeking payment under this [subclause 67.11](/ebas/mspp/leave/67-long-service-leave)a . The Employer will not be held responsible in any way for the cost or outcome of any such advice.
 
 **d.** The Employer, if requested by the Employee, will provide information as to the amount of tax the Employer intends to deduct where payment of long service leave is sought under this subclause.
 
@@ -232,17 +232,17 @@ Note 2: Unpaid Parental Leave taken after the commencement date of this Agreemen
 
 **67.15** Concurrent Service
 
-**a.** Subject to subclause 67.15b, concurrent service with two or more Employers remains separate and distinct.
+**a.** Subject to [subclause 67.15](/ebas/mspp/leave/67-long-service-leave)b, concurrent service with two or more Employers remains separate and distinct.
 
 **b.** If a full-time Employee, part-time Employee, Locum Pharmacist or Regular Casual Employee who was employed with an Employer (the first Employer) becomes employed by another employer (the new Employer) in an equivalent role, but retains concurrent employment with the first Employer as a casual Employee, then the Employee's service with the first Employer may transfer to the new Employer (despite the Employee remaining employed with the first Employer), if:
 
-**(i)** the Employee does not have an entitlement to take long service leave under clause 67.4a;
+**(i)** the Employee does not have an entitlement to take long service leave under [clause 67.4](/ebas/mspp/leave/67-long-service-leave)a;
 
 **(ii)** the Employee has not already taken or been paid in lieu of long service leave in respect of the relevant period; and
 
-**(iii)** either: **(A)** the Employee notifies the first Employer of the transfer in accordance with sub-clause 67.7c(Election for payment of entitlement or transfer of entitlement at termination); or **(B)** the second Employer otherwise confirms in writing to the first Employer that the period of service has been so recognised (for the removal of doubt, if the second Employer determines to recognise the Employee's service with the first Employer, it must provide written notification of its determination to the first Employer).
+**(iii)** either: **(A)** the Employee notifies the first Employer of the transfer in accordance with sub-[clause 67.7](/ebas/mspp/leave/67-long-service-leave)c(Election for payment of entitlement or transfer of entitlement at termination); or **(B)** the second Employer otherwise confirms in writing to the first Employer that the period of service has been so recognised (for the removal of doubt, if the second Employer determines to recognise the Employee's service with the first Employer, it must provide written notification of its determination to the first Employer).
 
-**c.** If a full-time Employee, part-time Employee, Locum Pharmacist or Regular Casual Employee's long service leave entitlement is transferred in accordance with subclause 67.15b:
+**c.** If a full-time Employee, part-time Employee, Locum Pharmacist or Regular Casual Employee's long service leave entitlement is transferred in accordance with [subclause 67.15](/ebas/mspp/leave/67-long-service-leave)b:
 
 **(i)** the first Employer will no longer be liable for the service, and the long service leave liability for the service as a full-time Employee, part- time Employee, Locum Pharmacist or Regular Casual Employee with the first Employer will transfer to the new Employer;
 
@@ -250,7 +250,7 @@ Note 2: Unpaid Parental Leave taken after the commencement date of this Agreemen
 
 **(ii)** any casual service that occurs with the first Employer after the transfer referred to in (i)above will be considered separate and distinct service on and from the date on which the Employee commenced employment with the new Employer, provided that: **(A)** the qualifying period required to accrue an entitlement to long service leave with the first Employer does not reset (that is, the Employee's prior service with the first Employer can be counted when calculating any future entitlement to long service leave with the first Employer); **(B)** no benefit to long service leave will arise with the first Employer in respect of the prior period of employment with the first Employer; and **(C)** the Employee's prior service with the first Employer is disregarded when calculating the Employee's normal weekly hours with the first Employer (e.g. for the purpose of sections 16 and 17 of the LSL Act).
 
-**(iii)** If the Employee is not entitled to transfer their service from the first Employer to the new Employer, or does not take the steps required in sub-clause 67.7cwithin the allowable period of absence, the first Employer will make payment in lieu of long service leave for the Continuous Service with the first Employer in accordance with clause 67.7b(Basic entitlement at termination of employment). Example 1: A part-time Employee is employed at the same time by Employer 1, and Employer 2. The part-time Employee accrues service towards long service leave at each of Employer 1 and Employer 2. If the Employee had been employed by Employer 1 for 11 years and Employer 2 for 6 years, the Employee can take LSL from Employer 1, but would need to continue working at Employer 2 until sufficient Continuous Service had accrued. If the Employee resigned from both Employer 1 and Employer 2, and went to work for Employer 3, the Employee could:
+**(iii)** If the Employee is not entitled to transfer their service from the first Employer to the new Employer, or does not take the steps required in sub-[clause 67.7](/ebas/mspp/leave/67-long-service-leave)cwithin the allowable period of absence, the first Employer will make payment in lieu of long service leave for the Continuous Service with the first Employer in accordance with [clause 67.7](/ebas/mspp/leave/67-long-service-leave)b(Basic entitlement at termination of employment). Example 1: A part-time Employee is employed at the same time by Employer 1, and Employer 2. The part-time Employee accrues service towards long service leave at each of Employer 1 and Employer 2. If the Employee had been employed by Employer 1 for 11 years and Employer 2 for 6 years, the Employee can take LSL from Employer 1, but would need to continue working at Employer 2 until sufficient Continuous Service had accrued. If the Employee resigned from both Employer 1 and Employer 2, and went to work for Employer 3, the Employee could:
 
 **(a)** transfer the 6 years' service with Employer 2 to Employer 3; and
 
@@ -264,7 +264,7 @@ Note 2: Unpaid Parental Leave taken after the commencement date of this Agreemen
 
 **67.16** Savings
 
-**a.** (a) Clauses 67.7c, 67.8, 67.9band 67.15band 67.15cshall not apply to a Regular Casual Employee, unless the Industrial Division of the Magistrates Court provides an opinion that determines generally the rights of applicable Employees under this Agreement under sub-section 23(2) of the LSL Act that the long service leave entitlements provided by this Agreement are more favourable than those provided by the LSL Act.
+**a.** (a) [Clauses 67.7](/ebas/mspp/leave/67-long-service-leave)c, 67.8, 67.9band 67.15band 67.15cshall not apply to a Regular Casual Employee, unless the Industrial Division of the Magistrates Court provides an opinion that determines generally the rights of applicable Employees under this Agreement under sub-section 23(2) of the LSL Act that the long service leave entitlements provided by this Agreement are more favourable than those provided by the LSL Act.
 
 **b.** (b) The HSU and VHIA must make an application to the Magistrates Court under section 24 of the LSL Act for an opinion referred to in section 67.16a as soon as reasonably practicable after the Agreement has been approved by the Fair Work Commission.
 

@@ -8,51 +8,51 @@ topics: ['leave', 'parental-leave', 'employment', 'preliminary']
 
 
 
-This clause 70 deals with parental leave, including paid parental leave. The issue of superannuation and parental leave (both paid and unpaid) is addressed at subclause 30.6.
+This [clause 70](/ebas/allied-health/leave/70-parental-leave) deals with parental leave, including paid parental leave. The issue of superannuation and parental leave (both paid and unpaid) is addressed at [subclause 30.6](/ebas/allied-health/wages/30-superannuation).
 
-**70.1** Structure of clause This clause 70 is structured as follows:
+**70.1** Structure of clause This [clause 70](/ebas/allied-health/leave/70-parental-leave) is structured as follows:
 
-**(a)** Structure of clause: subclause 70.1;
+**(a)** Structure of clause: [subclause 70.1](/ebas/allied-health/leave/70-parental-leave);
 
-**(b)** Definitions: subclause 70.2;
+**(b)** Definitions: [subclause 70.2](/ebas/allied-health/leave/70-parental-leave);
 
-**(c)** Long parental leave – unpaid: subclause 70.3;
+**(c)** Long parental leave – unpaid: [subclause 70.3](/ebas/allied-health/leave/70-parental-leave);
 
-**(d)** Short parental leave – unpaid: subclause 70.4;
+**(d)** Short parental leave – unpaid: [subclause 70.4](/ebas/allied-health/leave/70-parental-leave);
 
-**(e)** Hospitalised children – agreement to not take unpaid Parental Leave: subclause 70.5
+**(e)** Hospitalised children – agreement to not take unpaid Parental Leave: [subclause 70.5](/ebas/allied-health/leave/70-parental-leave)
 
-**(f)** Flexible Parental Leave – unpaid: subclause 70.6;
+**(f)** Flexible Parental Leave – unpaid: [subclause 70.6](/ebas/allied-health/leave/70-parental-leave);
 
-**(g)** Paid parental leave: subclause 70.7;
+**(g)** Paid parental leave: [subclause 70.7](/ebas/allied-health/leave/70-parental-leave);
 
-**(h)** Notice and evidence requirements: subclause 70.8;
+**(h)** Notice and evidence requirements: [subclause 70.8](/ebas/allied-health/leave/70-parental-leave);
 
-**(i)** Parental leave associated with the birth of a Child – additional provisions: subclause 70.9;
+**(i)** Parental leave associated with the birth of a Child – additional provisions: [subclause 70.9](/ebas/allied-health/leave/70-parental-leave);
 
-**(j)** Unpaid pre-adoption leave: subclause 70.10;
+**(j)** Unpaid pre-adoption leave: [subclause 70.10](/ebas/allied-health/leave/70-parental-leave);
 
-**(k)** Where placement does not proceed or continue: subclause 70.11;
+**(k)** Where placement does not proceed or continue: [subclause 70.11](/ebas/allied-health/leave/70-parental-leave);
 
-**(l)** Special maternity leave: subclause 70.12;
+**(l)** Special maternity leave: [subclause 70.12](/ebas/allied-health/leave/70-parental-leave);
 
-**(m)** Variation of period of unpaid parental leave (up to 12 months): subclause 70.13;
+**(m)** Variation of period of unpaid parental leave (up to 12 months): [subclause 70.13](/ebas/allied-health/leave/70-parental-leave);
 
-**(n)** Right to request extension of period of unpaid parental leave beyond 12 months: subclause 70.14;
+**(n)** Right to request extension of period of unpaid parental leave beyond 12 months: [subclause 70.14](/ebas/allied-health/leave/70-parental-leave);
 
-**(o)** Parental leave and other entitlements: subclause 70.15;
+**(o)** Parental leave and other entitlements: [subclause 70.15](/ebas/allied-health/leave/70-parental-leave);
 
-**(p)** Transfer to a safe job and ionising radiation: subclause 70.16;
+**(p)** Transfer to a safe job and ionising radiation: [subclause 70.16](/ebas/allied-health/leave/70-parental-leave);
 
-**(q)** Returning to work after a period of parental leave: subclause 70.17;
+**(q)** Returning to work after a period of parental leave: [subclause 70.17](/ebas/allied-health/leave/70-parental-leave);
 
-**(r)** Replacement Employees: subclause 70.18;
+**(r)** Replacement Employees: [subclause 70.18](/ebas/allied-health/leave/70-parental-leave);
 
-**(s)** Communication during parental leave – organisational change: subclause 70.19; and
+**(s)** Communication during parental leave – organisational change: [subclause 70.19](/ebas/allied-health/leave/70-parental-leave); and
 
-**(t)** Keeping in touch days: subclause 70.20. Other provisions associated with parental leave are also included in this Agreement. Specifically, prenatal leave at [clause 68](/ebas/allied-health/leave/68-pre-natal-leave), flexible working arrangements which includes the right to request to return from parental leave on a part-time basis at [clause 96](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements), leave to attend interviews and examinations relevant to adoption leave (pre-adoption leave) at [clause 69](/ebas/allied-health/leave/69-pre-adoption-leave), breastfeeding at [clause 71](/ebas/allied-health/leave/71-breastfeeding) and ending employment during parental leave at [clause 26](/ebas/allied-health/employment/26-ending-employment-during-parental-leave).
+**(t)** Keeping in touch days: [subclause 70.20](/ebas/allied-health/leave/70-parental-leave). Other provisions associated with parental leave are also included in this Agreement. Specifically, prenatal leave at [clause 68](/ebas/allied-health/leave/68-pre-natal-leave), flexible working arrangements which includes the right to request to return from parental leave on a part-time basis at [clause 96](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements), leave to attend interviews and examinations relevant to adoption leave (pre-adoption leave) at [clause 69](/ebas/allied-health/leave/69-pre-adoption-leave), breastfeeding at [clause 71](/ebas/allied-health/leave/71-breastfeeding) and ending employment during parental leave at [clause 26](/ebas/allied-health/employment/26-ending-employment-during-parental-leave).
 
-**70.2** Definitions For the purposes of this clause 70:
+**70.2** Definitions For the purposes of this [clause 70](/ebas/allied-health/leave/70-parental-leave):
 
 **(a)** Child means:
 
@@ -62,23 +62,23 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(iii)** as the case requires, includes a Stillborn Child.
 
-**(b)** Continuous Service includes continuous service with one and the same Employer or continuous service with more than one employer including Institutions or Statutory Bodies (as defined at subclauses 72.2(b) and (h) and includes any period of employment that would count as service under the Act.
+**(b)** Continuous Service includes continuous service with one and the same Employer or continuous service with more than one employer including Institutions or Statutory Bodies (as defined at [subclauses 72.2(b)](/ebas/allied-health/leave/72-long-service-leave) and (h) and includes any period of employment that would count as service under the Act.
 
 **(c)** Eligible Casual Employee means an Employee employed by the Employer in casual employment on a regular and systematic basis for a sequence of periods of employment during a period of at least 12 months and who has, but for the birth or expected birth of a Child or the decision to adopt a Child, a reasonable expectation of continuing engagement by the Employer on a regular and systematic basis.
 
-**(d)** Eligible Employee for the purposes of this clause 70 means an Employee who has at least six (6) months’ Continuous Service or an Eligible Casual Employee as defined above.
+**(d)** Eligible Employee for the purposes of this [clause 70](/ebas/allied-health/leave/70-parental-leave) means an Employee who has at least six (6) months’ Continuous Service or an Eligible Casual Employee as defined above.
 
 **(e)** Employee Couple has the same meaning as under the Act.
 
-**(f)** Flexible Parental Leave means the 30 days’ unpaid parental leave an Eligible Employee may take under subclause 70.6 as part of their 52 weeks' entitlement of Parental Leave.
+**(f)** Flexible Parental Leave means the 30 days’ unpaid parental leave an Eligible Employee may take under [subclause 70.6](/ebas/allied-health/leave/70-parental-leave) as part of their 52 weeks' entitlement of Parental Leave.
 
-**(g)** Long Parental Leave means the 52 weeks’ parental leave an Eligible Employee may take under subclause 70.3.
+**(g)** Long Parental Leave means the 52 weeks’ parental leave an Eligible Employee may take under [subclause 70.3](/ebas/allied-health/leave/70-parental-leave).
 
 **(h)** Notional Flexible Period is the period during which the Eligible Employee would be on Flexible Parental Leave if the Eligible Employee took leave for all of the Eligible Employee's notified flexible days in a single continuous period.
 
-**(i)** Short Parental Leave means the up to eight (8) weeks’ concurrent parental leave an Eligible Employee may take under subclause 70.4 (Short Parental Leave – Unpaid).
+**(i)** Short Parental Leave means the up to eight (8) weeks’ concurrent parental leave an Eligible Employee may take under [subclause 70.4](/ebas/allied-health/leave/70-parental-leave) (Short Parental Leave – Unpaid).
 
-**(j)** Stillbirth means the delivery of a Stillborn Child (as defined in subclause 4.22).
+**(j)** Stillbirth means the delivery of a Stillborn Child (as defined in [subclause 4.22](/ebas/allied-health/preliminary/4-definitions)).
 
 **70.3** Long Parental Leave – Unpaid
 
@@ -88,23 +88,23 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(ii)** the Eligible Employee has or will have a responsibility for the care of the Child, or in the case of a Stillbirth, the Eligible Employee would have had a responsibility for the care of the Child if the Child had been born alive.
 
-**(b)** Except as provided at subclause 70.6 (Flexible Parental Leave - Unpaid) and subclause 70.20 (Keeping in Touch Days), the Eligible Employee must take the leave in a single continuous period.
+**(b)** Except as provided at [subclause 70.6](/ebas/allied-health/leave/70-parental-leave) (Flexible Parental Leave - Unpaid) and [subclause 70.20](/ebas/allied-health/leave/70-parental-leave) (Keeping in Touch Days), the Eligible Employee must take the leave in a single continuous period.
 
-**(c)** Where an Eligible Employee is a member of an Employee Couple, except as provided at subclauses 70.6 (Flexible Parental leave - Unpaid and 70.4 (Short Parental Leave – Unpaid), parental leave must be taken by only one (1) parent of an Employee Couple at a time in a single continuous period.
+**(c)** Where an Eligible Employee is a member of an Employee Couple, except as provided at [subclauses 70.6](/ebas/allied-health/leave/70-parental-leave) (Flexible Parental leave - Unpaid and 70.4 (Short Parental Leave – Unpaid), parental leave must be taken by only one (1) parent of an Employee Couple at a time in a single continuous period.
 
 **(d)** Each member of an Employee Couple may take a separate period of up to 12 months of Long Parental Leave. The period of Long Parental Leave will be reduced by any period of Short Parental Leave taken by the Eligible Employee.
 
-**(e)** Subject to subclause 70.3(f), an Eligible Employee may be able to extend a period of unpaid parental leave in accordance with subclause 70.13 (Variation of period of unpaid parental leave – up to 12 months).
+**(e)** Subject to [subclause 70.3(f)](/ebas/allied-health/leave/70-parental-leave), an Eligible Employee may be able to extend a period of unpaid parental leave in accordance with [subclause 70.13](/ebas/allied-health/leave/70-parental-leave) (Variation of period of unpaid parental leave – up to 12 months).
 
 **(f)** An Eligible Employee’s entitlement to Long Parental Leave (other than Flexible Parental Leave) will end on the first day that the Eligible Employee takes Flexible Parental Leave. This means that if an Eligible Employee intends on taking a period of continuous unpaid parental leave they must do so before they take any Flexible Parental Leave.
 
 **70.4** Short Parental Leave – Unpaid
 
-**(a)** This subclause 70.4 applies to an Eligible Employee who is a member of an Employee Couple.
+**(a)** This [subclause 70.4](/ebas/allied-health/leave/70-parental-leave) applies to an Eligible Employee who is a member of an Employee Couple.
 
 **(b)** An Eligible Employee who is not at that point taking Long Parental Leave, may take up to eight (8) weeks’ leave concurrently with any parental leave taken by the other member of the Employee Couple. Short Parental Leave may be taken in separate periods but, unless the Employer agrees, each period must not be shorter than two (2) weeks.
 
-**(c)** The period of Short Parental Leave will be deducted from the period of Long Parental Leave to which the Eligible Employee is entitled under subclause 70.3 (if applicable).
+**(c)** The period of Short Parental Leave will be deducted from the period of Long Parental Leave to which the Eligible Employee is entitled under [subclause 70.3](/ebas/allied-health/leave/70-parental-leave) (if applicable).
 
 **70.5** Hospitalised children – agreement to not take unpaid Parental Leave
 
@@ -112,7 +112,7 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(i)** a Child is required to remain in hospital after the Child's birth, or is hospitalised immediately after the Child's birth, including because: A. the Child was born prematurely; B. the Child developed a complication or contracted an illness during the child's period of gestation or at birth; or C. the Child developed a complication or contracted an illness following the Child's birth; and
 
-**(ii)** an Employee, whether before or after the birth of the Child, gives notice in accordance with subclause 70.8 of the taking of a period of unpaid parental leave (the original leave period) in relation to the Child; then the Employee may agree with their Employer that the Employee will not take unpaid parental leave for a period (the permitted work period) while the Child remains in hospital.
+**(ii)** an Employee, whether before or after the birth of the Child, gives notice in accordance with [subclause 70.8](/ebas/allied-health/leave/70-parental-leave) of the taking of a period of unpaid parental leave (the original leave period) in relation to the Child; then the Employee may agree with their Employer that the Employee will not take unpaid parental leave for a period (the permitted work period) while the Child remains in hospital.
 
 **(b)** If the Employee and Employer so agree, then the following rules have effect:
 
@@ -120,7 +120,7 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(ii)** the permitted work period does not break the continuity of the original leave period; and
 
-**(iii)** the Employee is taken to have advised the Employer, for the purposes of subclause 70.8(b), of an end date for the original leave period that is the date on which that period would end if it were extended by a period equal to the permitted work period.
+**(iii)** the Employee is taken to have advised the Employer, for the purposes of [subclause 70.8(b)](/ebas/allied-health/leave/70-parental-leave), of an end date for the original leave period that is the date on which that period would end if it were extended by a period equal to the permitted work period.
 
 **(c)** The permitted work period must start after the birth of the Child.
 
@@ -132,19 +132,19 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(iii)** if the Child dies before being discharged, the end of the day the Child dies.
 
-**(e)** Only one period may be agreed to under subclause 70.5(a) for which the Employee will not take unpaid parental leave in relation to the Child.
+**(e)** Only one period may be agreed to under [subclause 70.5(a)](/ebas/allied-health/leave/70-parental-leave) for which the Employee will not take unpaid parental leave in relation to the Child.
 
 **(f)** The Employee must, if required by the Employer, give the Employer evidence (including without limitation, a medical certificate) that would satisfy a reasonable person of either or both of the following:
 
-**(i)** that subclause 70.5(a)(i) applies in relation to the child;
+**(i)** that [subclause 70.5(a)(i)](/ebas/allied-health/leave/70-parental-leave) applies in relation to the child;
 
 **(ii)** that the Employee is fit for work.
 
 **70.6** Flexible Parental Leave - Unpaid
 
-**(a)** An Eligible Employee may take up to 30 days of their Parental Leave entitlement (Flexible Parental Leave) during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child if the requirements of this subclause 70.6 are satisfied in relation to the leave.
+**(a)** An Eligible Employee may take up to 30 days of their Parental Leave entitlement (Flexible Parental Leave) during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child if the requirements of this [subclause 70.6](/ebas/allied-health/leave/70-parental-leave) are satisfied in relation to the leave.
 
-**(b)** The number of days of Flexible Parental Leave that the Eligible Employee takes must not be more than the number of flexible days notified to the Employer under subclause 70.8(f)(iii) (subject to any agreement under subclause 70.8(f)(iv)).
+**(b)** The number of days of Flexible Parental Leave that the Eligible Employee takes must not be more than the number of flexible days notified to the Employer under [subclause 70.8(f)(iii)](/ebas/allied-health/leave/70-parental-leave) (subject to any agreement under [subclause 70.8(f)(iv)](/ebas/allied-health/leave/70-parental-leave)).
 
 **(c)** An Eligible Employee must take the Flexible Parental Leave as:
 
@@ -152,9 +152,9 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(ii)** separate periods of one (1) or more days each.
 
-**(d)** An Eligible Employee may take the Flexible Parental Leave whether or not they have taken unpaid Parental Leave under this clause 70.
+**(d)** An Eligible Employee may take the Flexible Parental Leave whether or not they have taken unpaid Parental Leave under this [clause 70](/ebas/allied-health/leave/70-parental-leave).
 
-**(e)** An Eligible Employee may take Flexible Parental Leave after taking one (1) or more periods of unpaid Parental Leave under this clause 70 only if the total of those periods (disregarding any extension under subclause 70.13 or 70.14) is no longer than 12 months, less the employee's Notional Flexible Period, provided that the calculation for the Employee’s Notional Flexible Period is based on the assumption that:
+**(e)** An Eligible Employee may take Flexible Parental Leave after taking one (1) or more periods of unpaid Parental Leave under this [clause 70](/ebas/allied-health/leave/70-parental-leave) only if the total of those periods (disregarding any extension under [subclause 70.13 or 70.14](/ebas/allied-health/leave/70-parental-leave)) is no longer than 12 months, less the employee's Notional Flexible Period, provided that the calculation for the Employee’s Notional Flexible Period is based on the assumption that:
 
 **(i)** the Eligible Employee ordinarily works each day that is not a Saturday or Sunday; and
 
@@ -162,15 +162,15 @@ This clause 70 deals with parental leave, including paid parental leave. The iss
 
 **(f)** A member of an Employee Couple (the first employee) may take Flexible Parental Leave on the same day as the other member of the Employee Couple (the other employee) is taking unpaid Parental Leave only if the total of all periods of unpaid parental leave the first employee takes at the same time as the other employee is no longer than eight (8) weeks.
 
-**70.7** Paid Parental Leave See also subclause 30.6 (Superannuation during parental leave – from 1 July 2022).
+**70.7** Paid Parental Leave See also [subclause 30.6](/ebas/allied-health/wages/30-superannuation) (Superannuation during parental leave – from 1 July 2022).
 
 **(a)** An Eligible Employee commencing parental leave is entitled to paid parental leave on the following basis from 7 July 2022 onwards:
 
 **(i)** a Primary Carer taking Long Parental Leave will be entitled to fourteen (14) weeks’ paid parental leave or twenty-eight (28) week’s paid parental leave on half pay, provided that the Long Parental Leave is taken contemporaneously with the birth or placement of the Child; and
 
-**(ii)** a non-Primary Carer taking Short Parental Leave will be entitled to two (2) weeks’ paid parental leave; save that an Eligible Employee is not entitled to both paid Long Parental Leave and paid Short Parental Leave in respect of the same birth or adoption. Primary Carer in this subclause 70.7(a) means the person who has responsibility for the care of the Child. Only one (1) person can be the Child's Primary Carer on a particular day.
+**(ii)** a non-Primary Carer taking Short Parental Leave will be entitled to two (2) weeks’ paid parental leave; save that an Eligible Employee is not entitled to both paid Long Parental Leave and paid Short Parental Leave in respect of the same birth or adoption. Primary Carer in this [subclause 70.7(a)](/ebas/allied-health/leave/70-parental-leave) means the person who has responsibility for the care of the Child. Only one (1) person can be the Child's Primary Carer on a particular day.
 
-**(b)** Subclause 70.7(a) is subject to subclause 70.5, in which case the Employee taking Long or Short Parental Leave may agree with the Employer that the Employee will not take Long or Short Parental Leave during the permitted work period while the Child remains hospitalised.
+**(b)** [Subclause 70.7(a)](/ebas/allied-health/leave/70-parental-leave) is subject to [subclause 70.5](/ebas/allied-health/leave/70-parental-leave), in which case the Employee taking Long or Short Parental Leave may agree with the Employer that the Employee will not take Long or Short Parental Leave during the permitted work period while the Child remains hospitalised.
 
 **(c)** Payment Payment for paid parental leave will be based on the Employee’s ordinary time rate of pay provided in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) and the higher qualifications allowance (if applicable) and will be based on the following:
 
@@ -190,17 +190,17 @@ For example, such leave may be paid in smaller amounts over a longer period, con
 
 **(g)** In the absence of agreement, such leave will be paid during the ordinary pay periods corresponding with the period of the leave.
 
-**(h)** The paid parental leave prescribed by this subclause 70.7 will be concurrent with any relevant unpaid entitlement prescribed by the NES/this Agreement.
+**(h)** The paid parental leave prescribed by this [subclause 70.7](/ebas/allied-health/leave/70-parental-leave) will be concurrent with any relevant unpaid entitlement prescribed by the NES/this Agreement.
 
 **70.8** Notice and evidence requirements
 
-**(a)** Subject to subclause 70.8(f) (Notice – Flexible Parental Leave - Unpaid), an Eligible Employee must give to the Employer:
+**(a)** Subject to [subclause 70.8(f)](/ebas/allied-health/leave/70-parental-leave) (Notice – Flexible Parental Leave - Unpaid), an Eligible Employee must give to the Employer:
 
 **(i)** at least 10 weeks written notice, or if that is not practicable as soon as practicable, of the intention to take parental leave, including the proposed start and end dates; or
 
-**(ii)** if the parental leave is to be taken in separate periods of concurrent leave under subclause 70.4(b) and the leave is not the first of those leave periods of concurrent leave, then only notice of at least four (4) weeks before starting the period of concurrent leave is required, or if that is not practicable give written notice as soon as practicable, save that if the Eligible Employee gave written notice of the separate periods of concurrent leave in the notice provided under subclause 70.8(a)(i), there is no requirement for the Eligible Employee to give notice in accordance with this subclause 70.8(a)(ii).
+**(ii)** if the parental leave is to be taken in separate periods of concurrent leave under [subclause 70.4(b)](/ebas/allied-health/leave/70-parental-leave) and the leave is not the first of those leave periods of concurrent leave, then only notice of at least four (4) weeks before starting the period of concurrent leave is required, or if that is not practicable give written notice as soon as practicable, save that if the Eligible Employee gave written notice of the separate periods of concurrent leave in the notice provided under [subclause 70.8(a)(i)](/ebas/allied-health/leave/70-parental-leave), there is no requirement for the Eligible Employee to give notice in accordance with this [subclause 70.8(a)(ii)](/ebas/allied-health/leave/70-parental-leave).
 
-**(b)** Subject to clause 70.8(f) (Notice – Flexible Parental Leave - Unpaid), at least four (4) weeks before the intended commencement of parental leave, or if that is not practicable as soon as practicable, the Eligible Employee must confirm in writing the intended start and end dates of the parental leave, or advise the Employer of any changes to the notice provided in subclause 70.8(a), unless it is not practicable to do so. This does not apply to a notice for a period of concurrent leave period referred to in subclause 70.8 that already requires four (4) weeks’ notice.
+**(b)** Subject to [clause 70.8(f)](/ebas/allied-health/leave/70-parental-leave) (Notice – Flexible Parental Leave - Unpaid), at least four (4) weeks before the intended commencement of parental leave, or if that is not practicable as soon as practicable, the Eligible Employee must confirm in writing the intended start and end dates of the parental leave, or advise the Employer of any changes to the notice provided in [subclause 70.8(a)](/ebas/allied-health/leave/70-parental-leave), unless it is not practicable to do so. This does not apply to a notice for a period of concurrent leave period referred to in [subclause 70.8](/ebas/allied-health/leave/70-parental-leave) that already requires four (4) weeks’ notice.
 
 **(c)** Where requested by the Employer, the Eligible Employee will also provide particulars of any period of partner (or like authorised) leave sought.
 
@@ -212,15 +212,15 @@ date of birth); and B. if relevant, that their Child was stillborn (including wi
 
 **(ii)** in the case of adoption-related leave, the commencement of the placement (or expected day of placement) of the Child and that the Child will be under 16 years of age as at the day of placement or expected day of placement.
 
-**(e)** An Employee will not be in breach of this subclause 70.8 if failure to give the stipulated notice is occasioned by the birth of the Child or placement occurring earlier than the expected date or in other unexpected circumstances. In these circumstances the notice and evidence requirements of this subclause 70.8 should be provided as soon as reasonably practicable.
+**(e)** An Employee will not be in breach of this [subclause 70.8](/ebas/allied-health/leave/70-parental-leave) if failure to give the stipulated notice is occasioned by the birth of the Child or placement occurring earlier than the expected date or in other unexpected circumstances. In these circumstances the notice and evidence requirements of this [subclause 70.8](/ebas/allied-health/leave/70-parental-leave) should be provided as soon as reasonably practicable.
 
 **(f)** Notice requirements - Flexible Parental Leave - Unpaid
 
-**(i)** If an Employee wishes to take unpaid Flexible Parental Leave, the Employee must give notice to the Employer as follows: A. where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under subclauses 70.3 or 70.4 (the original leave); i. at the same time as the Employee gives notice in accordance with subclause 70.8(a) in relation to the original leave, unless subclause 70.8(f)(i)A.ii below applies; or ii. if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with subclause 70.8(a) in relation to the first of those periods of leave; or B. otherwise - at least 10 weeks before starting the Flexible Parental Leave.
+**(i)** If an Employee wishes to take unpaid Flexible Parental Leave, the Employee must give notice to the Employer as follows: A. where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under [subclauses 70.3 or 70.4](/ebas/allied-health/leave/70-parental-leave) (the original leave); i. at the same time as the Employee gives notice in accordance with [subclause 70.8(a)](/ebas/allied-health/leave/70-parental-leave) in relation to the original leave, unless [subclause 70.8(f)(i)](/ebas/allied-health/leave/70-parental-leave)A.ii below applies; or ii. if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 70.8(a)](/ebas/allied-health/leave/70-parental-leave) in relation to the first of those periods of leave; or B. otherwise - at least 10 weeks before starting the Flexible Parental Leave.
 
-**(ii)** If the Employer agrees, the notice may be given at a later time than that specified in subclause 70.8(f)(i).
+**(ii)** If the Employer agrees, the notice may be given at a later time than that specified in [subclause 70.8(f)(i)](/ebas/allied-health/leave/70-parental-leave).
 
-**(iii)** The notice under subclause 70.8(f)(i) must specify the total number of days (Flexible Days) of Flexible Parental Leave that the Employee intends to take in relation to the Child.
+**(iii)** The notice under [subclause 70.8(f)(i)](/ebas/allied-health/leave/70-parental-leave) must specify the total number of days (Flexible Days) of Flexible Parental Leave that the Employee intends to take in relation to the Child.
 
 **(iv)** If the Employer agrees, the Employee may: A. reduce the number of flexible days, including by reducing the number of flexible days to zero; or B. increase the number of flexible days, but not so as to increase the number of flexible days above 30.
 
@@ -236,11 +236,11 @@ date of birth); and B. if relevant, that their Child was stillborn (including wi
 
 **(i)** Where a pregnant Eligible Employee continues to work during the six (6) week period immediately prior to the expected date of birth, the Employer may require the Eligible Employee to provide a medical certificate stating that they are fit for work and, if so, whether it is inadvisable for them to continue in their present position because of illness or risks arising out of the Eligible Employee’s pregnancy or hazards connected with the position.
 
-**(ii)** Where a request is made under subclause 70.9(b)(i) and an Eligible Employee: A. does not provide the Employer with the requested certificate within seven (7) days of the request; or B. within seven (7) days after the request gives the Employer a medical certificate stating that the Eligible Employee is not fit for work;
+**(ii)** Where a request is made under [subclause 70.9(b)(i)](/ebas/allied-health/leave/70-parental-leave) and an Eligible Employee: A. does not provide the Employer with the requested certificate within seven (7) days of the request; or B. within seven (7) days after the request gives the Employer a medical certificate stating that the Eligible Employee is not fit for work;
 
 **(iii)** the Employer may require the Eligible Employee to commence their parental leave as soon as practicable.
 
-**(iv)** Where a request is made under subclause 70.9(b)(i) and an Eligible Employee provides a medical certificate that states that the Eligible Employee is fit for work but it is inadvisable for the Eligible Employee to continue in their present position during a stated period, subclause 70.16 (Transfer to a safe job) will apply.
+**(iv)** Where a request is made under [subclause 70.9(b)(i)](/ebas/allied-health/leave/70-parental-leave) and an Eligible Employee provides a medical certificate that states that the Eligible Employee is fit for work but it is inadvisable for the Eligible Employee to continue in their present position during a stated period, [subclause 70.16](/ebas/allied-health/leave/70-parental-leave) (Transfer to a safe job) will apply.
 
 **70.10** Pre-adoption leave Employees’ entitlement to pre-adoption leave is set out at [clause 69](/ebas/allied-health/leave/69-pre-adoption-leave) (Pre- adoption leave).
 
@@ -248,7 +248,7 @@ date of birth); and B. if relevant, that their Child was stillborn (including wi
 
 **(a)** Where the placement of the Child for adoption with an Eligible Employee does not proceed or continue, the Eligible Employee will notify the Employer immediately.
 
-**(b)** Where the Eligible Employee had, at the time, started a period of adoption-related leave in relation to the placement, the Eligible Employee’s entitlement to adoption-related leave is not affected, except where the Employer gives written notice under subclause 70.11(c).
+**(b)** Where the Eligible Employee had, at the time, started a period of adoption-related leave in relation to the placement, the Eligible Employee’s entitlement to adoption-related leave is not affected, except where the Employer gives written notice under [subclause 70.11(c)](/ebas/allied-health/leave/70-parental-leave).
 
 **(c)** The Employer may give the Eligible Employee written notice that, from a stated day no earlier than four (4) weeks after the day the notice is given, any untaken long adoption-related leave is cancelled with effect from that day.
 
@@ -260,7 +260,7 @@ date of birth); and B. if relevant, that their Child was stillborn (including wi
 
 **(i)** An Eligible Employee is entitled to a period of unpaid special leave if they are not fit for work during that period because: A. they have a pregnancy-related illness affecting them; or B. all of the following apply: i. they have been pregnant; and ii. the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child; and iii. the birth is not a Stillbirth.
 
-**(ii)** An Eligible Employee who has an entitlement to personal leave may, in this subclause 70.12(a).
+**(ii)** An Eligible Employee who has an entitlement to personal leave may, in this [subclause 70.12(a)](/ebas/allied-health/leave/70-parental-leave).
 
 **(iii)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child, the Eligible Employee is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
 
@@ -268,30 +268,30 @@ date of birth); and B. if relevant, that their Child was stillborn (including wi
 
 **(i)** An Eligible Employee is entitled to a period of paid special leave if their pregnancy terminates at or after the completion of 20 weeks’ gestation or the Eligible Employee gives birth but the baby subsequently dies.
 
-**(ii)** Paid special leave is paid leave up to the amount of paid leave available under subclause 70.7(a)(i) (plus superannuation) based on the amount of leave taken, in circumstances where the Employee intended to take long parental leave at the time of birth or placement.
+**(ii)** Paid special leave is paid leave up to the amount of paid leave available under [subclause 70.7(a)(i)](/ebas/allied-health/leave/70-parental-leave) (plus superannuation) based on the amount of leave taken, in circumstances where the Employee intended to take long parental leave at the time of birth or placement.
 
 Examples:
 
 1.  An Employee who takes six (6) weeks paid special leave will be paid six (6) weeks.
-2.  An Employee who takes 16 weeks will be paid the full amount of paid leave available under subclause 70.7(a)(i) (14 weeks).
+2.  An Employee who takes 16 weeks will be paid the full amount of paid leave available under [subclause 70.7(a)(i)](/ebas/allied-health/leave/70-parental-leave) (14 weeks).
 
-**(iii)** Paid special leave is in addition to any unpaid special leave taken under subclause 70.12(a)(i).
+**(iii)** Paid special leave is in addition to any unpaid special leave taken under [subclause 70.12(a)(i)](/ebas/allied-health/leave/70-parental-leave).
 
-**(iv)** Paid leave available under subclause 70.7(a)(ii) will also apply in these circumstances.
+**(iv)** Paid leave available under [subclause 70.7(a)(ii)](/ebas/allied-health/leave/70-parental-leave) will also apply in these circumstances.
 
-**(c)** Evidence If an Eligible Employee takes leave under this subclause 70.12 the Employer may require the Eligible Employee to provide evidence that would satisfy a reasonable person of the matters referred to in subclause 70.12(a)(i) or 70.12(b)(i) or to provide a certificate from a registered medical practitioner. The Eligible Employee must give notice to the Employer as soon as practicable, advising the Employer of the period or the expected period of the leave under this provision.
+**(c)** Evidence If an Eligible Employee takes leave under this [subclause 70.12](/ebas/allied-health/leave/70-parental-leave) the Employer may require the Eligible Employee to provide evidence that would satisfy a reasonable person of the matters referred to in [subclause 70.12(a)(i) or 70.12(b)(i)](/ebas/allied-health/leave/70-parental-leave) or to provide a certificate from a registered medical practitioner. The Eligible Employee must give notice to the Employer as soon as practicable, advising the Employer of the period or the expected period of the leave under this provision.
 
 **70.13** Variation of period of unpaid parental leave (up to 12 months)
 
 **(a)** Where an Eligible Employee has:
 
-**(i)** given notice of the taking of a period of Long Parental Leave under subclause 70.3;
+**(i)** given notice of the taking of a period of Long Parental Leave under [subclause 70.3](/ebas/allied-health/leave/70-parental-leave);
 
 **(ii)** the length of this period of Long Parental Leave as notified to the Employer is less than the Eligible Employee’s available entitlement to Long Parental Leave;
 
 **(iii)** commenced the period of Long Parental Leave; and
 
-**(iv)** not taken a period of Flexible Parental Leave – Unpaid; the Eligible Employee may change the period of parental leave on one occasion. Any change is to be notified (including the new end date for the leave) as soon as possible but no less than four (4) weeks prior to the commencement of the changed arrangements. Nothing in this subclause 70.13 detracts from the basic entitlement in subclause 70.3 (Long Parental Leave – Unpaid) or subclause
+**(iv)** not taken a period of Flexible Parental Leave – Unpaid; the Eligible Employee may change the period of parental leave on one occasion. Any change is to be notified (including the new end date for the leave) as soon as possible but no less than four (4) weeks prior to the commencement of the changed arrangements. Nothing in this [subclause 70.13](/ebas/allied-health/leave/70-parental-leave) detracts from the basic entitlement in [subclause 70.3](/ebas/allied-health/leave/70-parental-leave) (Long Parental Leave – Unpaid) or subclause
 
 **70.14** (Right to request an extension of period of unpaid parental leave beyond 12 months).
 
@@ -299,7 +299,7 @@ Examples:
 
 **70.14** Right to request an extension of period of unpaid parental leave beyond 12 months
 
-**(a)** An Eligible Employee entitled to Long Parental Leave pursuant to the provisions of subclause 70.3 may request the Employer to allow the Eligible Employee to extend the period of Long Parental Leave by a further continuous period of up to 12 months immediately following the end of the available parental leave.
+**(a)** An Eligible Employee entitled to Long Parental Leave pursuant to the provisions of [subclause 70.3](/ebas/allied-health/leave/70-parental-leave) may request the Employer to allow the Eligible Employee to extend the period of Long Parental Leave by a further continuous period of up to 12 months immediately following the end of the available parental leave.
 
 **(b)** Request to be in writing
 
@@ -315,11 +315,11 @@ The request must be in writing and must be given to the Employer at least four (
 
 **(g)** Employee Couples Where a member of an Employee Couple is requesting an extension to a period of Long Parental Leave in relation to a Child:
 
-**(i)** the request must specify: A. any amount of Long Parental Leave that the other member of the Employee Couple has taken, or will have taken in relation to the Child before the extension starts; B. if the other member of the Employee Couple has given notice of an intention to take Flexible Parental Leave - Unpaid (in accordance with subclause 70.8(f), the request must specify the number of flexible days that will not have been taken when the period of extended leave commences;
+**(i)** the request must specify: A. any amount of Long Parental Leave that the other member of the Employee Couple has taken, or will have taken in relation to the Child before the extension starts; B. if the other member of the Employee Couple has given notice of an intention to take Flexible Parental Leave - Unpaid (in accordance with [subclause 70.8(f)](/ebas/allied-health/leave/70-parental-leave), the request must specify the number of flexible days that will not have been taken when the period of extended leave commences;
 
-**(ii)** the period of extension cannot exceed 12 months, less any period: A. of Long Parental Leave (other than Flexible Parental Leave - Unpaid) that the other member of the Employee Couple has taken, or will have taken, in relation to the Child before the extension starts; and B. equal to the other member’s Notional Flexible Period (if subclause 70.14(g)(i)B. applies above); and
+**(ii)** the period of extension cannot exceed 12 months, less any period: A. of Long Parental Leave (other than Flexible Parental Leave - Unpaid) that the other member of the Employee Couple has taken, or will have taken, in relation to the Child before the extension starts; and B. equal to the other member’s Notional Flexible Period (if [subclause 70.14(g)(i)](/ebas/allied-health/leave/70-parental-leave)B. applies above); and
 
-**(iii)** the amount of Long Parental Leave to which the other member of the Employee Couple is entitled under subclause 70.3 in relation to the Child is reduced by the period of the extension.
+**(iii)** the amount of Long Parental Leave to which the other member of the Employee Couple is entitled under [subclause 70.3](/ebas/allied-health/leave/70-parental-leave) in relation to the Child is reduced by the period of the extension.
 
 **(h)** No extension beyond 24 months An Eligible Employee is not entitled to extend the period of Long Parental Leave beyond 24 months after the date of birth or day of placement of the Child.
 
@@ -335,11 +335,11 @@ The request must be in writing and must be given to the Employer at least four (
 
 **(b)** Paid no safe job leave If:
 
-**(i)** subclause 70.16(a) applies to a pregnant Eligible Employee but there is no appropriate safe job available;
+**(i)** [subclause 70.16(a)](/ebas/allied-health/leave/70-parental-leave) applies to a pregnant Eligible Employee but there is no appropriate safe job available;
 
 **(ii)** the Eligible Employee is entitled to Long Parental Leave; and
 
-**(iii)** the Eligible Employee has complied with the notice of intended start and end dates of leave and evidence requirements under subclause 70.8 for taking Long Parental Leave; then the Eligible Employee is entitled to paid no safe job leave for the risk period.
+**(iii)** the Eligible Employee has complied with the notice of intended start and end dates of leave and evidence requirements under [subclause 70.8](/ebas/allied-health/leave/70-parental-leave) for taking Long Parental Leave; then the Eligible Employee is entitled to paid no safe job leave for the risk period.
 
 **(c)** If the Eligible Employee takes paid no safe job leave for the risk period, the Employer must pay the Eligible Employee at the Eligible Employee’s ordinary hours rate of pay for the Eligible Employee's ordinary hours of work in the risk period.
 
@@ -357,13 +357,13 @@ then the Eligible Employee is not entitled to paid no safe job leave and the Emp
 
 **(g)** Unpaid no safe job leave If:
 
-**(i)** subclause 70.16(a) applies to a pregnant Employee but there is no appropriate safe job available;
+**(i)** [subclause 70.16(a)](/ebas/allied-health/leave/70-parental-leave) applies to a pregnant Employee but there is no appropriate safe job available;
 
 **(ii)** the Employee will not be entitled to Long Parental Leave as at the expected date of birth; and
 
 **(iii)** the Employee has given the Employer evidence that would satisfy a reasonable person of the pregnancy if required by the Employer (which may include a requirement to provide a medical certificate); then the Employee is entitled to unpaid no safe job leave for the risk period.
 
-**(h)** Ionising Radiation This subclause 70.16(h) does not diminish any prescribed safety standard.
+**(h)** Ionising Radiation This [subclause 70.16(h)](/ebas/allied-health/leave/70-parental-leave) does not diminish any prescribed safety standard.
 
 **(i)** Where an Employee is pregnant and their role includes duties that expose them to ionising radiation, at any time during the pregnancy the Employee may request a temporary modification to those duties or other mitigation (for example, additional protection) to avoid exposure to ionising radiation, including where the level of exposure is within the relevant safe exposure standard.
 
@@ -371,7 +371,7 @@ then the Eligible Employee is not entitled to paid no safe job leave and the Emp
 
 **(iii)** In the event of a dispute, [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement applies.
 
-**(iv)** The Union or other representative may represent the Employee at any time, including the meeting referred to at subclause 70.16(h)(ii)B above.
+**(iv)** The Union or other representative may represent the Employee at any time, including the meeting referred to at [subclause 70.16(h)(ii)](/ebas/allied-health/leave/70-parental-leave)B above.
 
 **70.17** Returning to work after a period of parental leave
 
@@ -379,15 +379,15 @@ then the Eligible Employee is not entitled to paid no safe job leave and the Emp
 
 **(b)** An Eligible Employee will be entitled to return:
 
-**(i)** unless subclause 70.17(b)(ii) or subclause 70.17(b)(iii) applies, to the position which they held immediately before proceeding on parental leave;
+**(i)** unless [subclause 70.17(b)(ii)](/ebas/allied-health/leave/70-parental-leave) or [subclause 70.17(b)(iii)](/ebas/allied-health/leave/70-parental-leave) applies, to the position which they held immediately before proceeding on parental leave;
 
-**(ii)** if the Eligible Employee was promoted or voluntarily transferred to a new position (other than to a safe job pursuant to subclause 70.16), to the new position;
+**(ii)** if the Eligible Employee was promoted or voluntarily transferred to a new position (other than to a safe job pursuant to [subclause 70.16](/ebas/allied-health/leave/70-parental-leave)), to the new position;
 
-**(iii)** if subclause 70.17(b)(ii) does not apply, and the Eligible Employee began working part-time because of the pregnancy of the Eligible Employee, or their Spouse, to the position held immediately before starting to work part- time.
+**(iii)** if [subclause 70.17(b)(ii)](/ebas/allied-health/leave/70-parental-leave) does not apply, and the Eligible Employee began working part-time because of the pregnancy of the Eligible Employee, or their Spouse, to the position held immediately before starting to work part- time.
 
-**(c)** Subclause 70.17(b) is not to result in the Eligible Employee being returned to the safe job to which the Eligible Employee was transferred under subclause 70.16. In such circumstances, the Eligible Employee will be entitled to return to the position held immediately before the transfer.
+**(c)** [Subclause 70.17(b)](/ebas/allied-health/leave/70-parental-leave) is not to result in the Eligible Employee being returned to the safe job to which the Eligible Employee was transferred under [subclause 70.16](/ebas/allied-health/leave/70-parental-leave). In such circumstances, the Eligible Employee will be entitled to return to the position held immediately before the transfer.
 
-**(d)** Where the relevant former position (per subclauses 70.17(b) and 70.17(c) above) no longer exists, an Eligible Employee is entitled to return to an available position for which the Eligible Employee is qualified and suited nearest in status and pay to that of their pre-parental leave position.
+**(d)** Where the relevant former position (per [subclauses 70.17(b)](/ebas/allied-health/leave/70-parental-leave) and 70.17(c) above) no longer exists, an Eligible Employee is entitled to return to an available position for which the Eligible Employee is qualified and suited nearest in status and pay to that of their pre-parental leave position.
 
 **(e)** The Employer must not fail to re-engage an Eligible Employee because:
 
@@ -395,19 +395,19 @@ then the Eligible Employee is not entitled to paid no safe job leave and the Emp
 
 **(ii)** the Eligible Employee is or has been immediately absent on parental leave.
 
-**(f)** The rights of the Employer in relation to engagement and re-engagement of casual Employees are not affected, other than in accordance with this clause 70.
+**(f)** The rights of the Employer in relation to engagement and re-engagement of casual Employees are not affected, other than in accordance with this [clause 70](/ebas/allied-health/leave/70-parental-leave).
 
 **(g)** Stillbirth or death of child – cancelling leave or returning to work
 
 **(i)** In the event of a Stillbirth, or if a Child dies during the 24-month period starting on the child's date of birth, then an Eligible Employee who is entitled to a period of parental leave in relation to the Child may: A. before the period of leave starts, give their Employer written notice cancelling the leave; or B. if the period of leave has started, give their Employer written notice that the Employee wishes to return to work on a specified day (which must be at least four (4) weeks after the date on which the Employer receives the notice).
 
-**(ii)** Where notice under subclause 70.17(g)(i) is given, the Employee's entitlement to Parental Leave in relation to the Child ends: A. if the action is taken under subclause 70.17(g)(i)A, immediately after the cancellation of the leave; or B. if the action is taken under subclause 70.17(g)(i)B, immediately before the specified day.
+**(ii)** Where notice under [subclause 70.17(g)(i)](/ebas/allied-health/leave/70-parental-leave) is given, the Employee's entitlement to Parental Leave in relation to the Child ends: A. if the action is taken under [subclause 70.17(g)(i)](/ebas/allied-health/leave/70-parental-leave)A, immediately after the cancellation of the leave; or B. if the action is taken under [subclause 70.17(g)(i)](/ebas/allied-health/leave/70-parental-leave)B, immediately before the specified day.
 
-**(iii)** This subclause 70.17(g) does not limit subclause 70.13(b) (dealing with the Employee varying the period of unpaid parental leave with the agreement of the Employer).
+**(iii)** This [subclause 70.17(g)](/ebas/allied-health/leave/70-parental-leave) does not limit [subclause 70.13(b)](/ebas/allied-health/leave/70-parental-leave) (dealing with the Employee varying the period of unpaid parental leave with the agreement of the Employer).
 
 **(h)** Employee who ceases to have responsibility for care of Child
 
-**(i)** This subclause 70.17(h) applies to an Employee who has taken unpaid Parental Leave in relation to a Child if the Employee ceases to have any responsibility for the care of the Child for a reason other than because: A. of a Stillbirth; or B. the Child dies during the 24-month period starting on the child's date of birth.
+**(i)** This [subclause 70.17(h)](/ebas/allied-health/leave/70-parental-leave) applies to an Employee who has taken unpaid Parental Leave in relation to a Child if the Employee ceases to have any responsibility for the care of the Child for a reason other than because: A. of a Stillbirth; or B. the Child dies during the 24-month period starting on the child's date of birth.
 
 **(ii)** The Employer may give the Employee written notice requiring the Employee to return to work on a specified day.
 
@@ -425,25 +425,25 @@ then the Eligible Employee is not entitled to paid no safe job leave and the Emp
 
 **(a)** Where an Eligible Employee is on parental leave and the Employer proposes a change or makes a decision that will have a significant effect within the meaning of [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation) of this Agreement on the Eligible Employee’s pre- parental leave position and/or on the status, pay or location of the Eligible Employee’s pre-parental leave position, the Employer will comply with the requirements of [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation) which include but are not limited to providing:
 
-**(i)** information in accordance with subclause 13.4; and
+**(i)** information in accordance with [subclause 13.4](/ebas/allied-health/consultation-disputes/13-consultation); and
 
-**(ii)** an opportunity for discussions with the Eligible Employee and, where relevant, the Eligible Employee’s representative in accordance with subclause 13.6.
+**(ii)** an opportunity for discussions with the Eligible Employee and, where relevant, the Eligible Employee’s representative in accordance with [subclause 13.6](/ebas/allied-health/consultation-disputes/13-consultation).
 
 **(b)** The Eligible Employee will endeavour to take reasonable steps to inform the Employer about any significant matter that arises whilst the Eligible Employee is taking parental leave that will affect the Eligible Employee’s decision regarding the duration of parental leave to be taken, whether the Eligible Employee intends
 
 to return to work and whether the Eligible Employee intends to request to return to work on a part-time basis.
 
-**(c)** The Eligible Employee will also notify the Employer of changes of address or other contact details which might affect the Employer’s capacity to comply with subclause 70.19.
+**(c)** The Eligible Employee will also notify the Employer of changes of address or other contact details which might affect the Employer’s capacity to comply with [subclause 70.19](/ebas/allied-health/leave/70-parental-leave).
 
 **(d)** The Eligible Employee’s pre-parental leave position is:
 
-**(i)** unless subclause 70.19(d)(ii) below applies, the position the Eligible Employee held before starting parental leave;
+**(i)** unless [subclause 70.19(d)(ii)](/ebas/allied-health/leave/70-parental-leave) below applies, the position the Eligible Employee held before starting parental leave;
 
 **(ii)** if, before starting parental leave, the Eligible Employee: A. was transferred to a safe job because of their pregnancy; or B. reduced their working hours due to their pregnancy; the position the Eligible Employee held immediately before that transfer or reduction.
 
 **70.20** Keeping in touch days
 
-**(a)** This clause 70 does not prevent an Eligible Employee from performing work for the Employer on a keeping in touch day while the Eligible Employee is taking Parental Leave. If the Eligible Employee does so, the performance of that work does not break the continuity of the period of Parental Leave.
+**(a)** This [clause 70](/ebas/allied-health/leave/70-parental-leave) does not prevent an Eligible Employee from performing work for the Employer on a keeping in touch day while the Eligible Employee is taking Parental Leave. If the Eligible Employee does so, the performance of that work does not break the continuity of the period of Parental Leave.
 
 **(b)** Any day or part of a day on which the Eligible Employee performs work for the Employer during the period of leave is a keeping in touch day if:
 
@@ -453,19 +453,19 @@ to return to work and whether the Eligible Employee intends to request to return
 
 **(iii)** the day is not within: A. if the Eligible Employee suggested or requested that they perform work for the Employer on that day – 14 days after the date of birth, or day of placement, of the Child to which the period of leave relates; or B. otherwise – 42 days after the date of birth, or day of placement, of the Child; and
 
-**(iv)** the Eligible Employee has not already performed work for the Employer or another entity on ten days during the period of leave that were keeping in touch days, subject to subclause 70.20(e)(ii).
+**(iv)** the Eligible Employee has not already performed work for the Employer or another entity on ten days during the period of leave that were keeping in touch days, subject to [subclause 70.20(e)(ii)](/ebas/allied-health/leave/70-parental-leave).
 
-**(c)** The duration of the work the Eligible Employee performs on that day is not relevant for the purposes of this subclause 70.20(b).
+**(c)** The duration of the work the Eligible Employee performs on that day is not relevant for the purposes of this [subclause 70.20(b)](/ebas/allied-health/leave/70-parental-leave).
 
 **(d)** The Employer must not exert undue influence or undue pressure on an Eligible Employee to consent to a keeping in touch day.
 
-**(e)** For the purposes of subclause 70.20(b)(iv) the following will be treated as two (2) separate periods of unpaid parental leave (meaning that an Eligible Employee can work up to ten (10) keeping in touch days during each period of leave):
+**(e)** For the purposes of [subclause 70.20(b)(iv)](/ebas/allied-health/leave/70-parental-leave) the following will be treated as two (2) separate periods of unpaid parental leave (meaning that an Eligible Employee can work up to ten (10) keeping in touch days during each period of leave):
 
-**(i)** a period of Long Parental Leave taken during the Eligible Employee’s available parental leave period under subclause 70.3 (Long Parental Leave – Unpaid) and 70.13 (Variation of period of unpaid parental leave (up to 12 months)); and
+**(i)** a period of Long Parental Leave taken during the Eligible Employee’s available parental leave period under [subclause 70.3](/ebas/allied-health/leave/70-parental-leave) (Long Parental Leave – Unpaid) and 70.13 (Variation of period of unpaid parental leave (up to 12 months)); and
 
-**(ii)** an extension of the period of Long Parental Leave under subclause 70.14 (Right to request an extension of period of unpaid parental leave beyond 12 months).
+**(ii)** an extension of the period of Long Parental Leave under [subclause 70.14](/ebas/allied-health/leave/70-parental-leave) (Right to request an extension of period of unpaid parental leave beyond 12 months).
 
-**(f)** Subclause 70.20(a) does not apply in relation to the Eligible Employee on and after the first day on which the Employee takes flexible unpaid parental leave in relation to the Child.
+**(f)** [Subclause 70.20(a)](/ebas/allied-health/leave/70-parental-leave) does not apply in relation to the Eligible Employee on and after the first day on which the Employee takes flexible unpaid parental leave in relation to the Child.
 
 Plain language terms: maternity, paternity, baby leave.
 

@@ -24,7 +24,7 @@ topics: ['wages', 'superannuation']
 
 **e.** An Employee may sacrifice part of their salary as an Employer contribution to superannuation.
 
-**f.** Where an Employee sacrifices part of their salary pursuant to clause 54.1e the Superannuation Guarantee Charge (SGC) contribution by the Employer will be calculated on the Employee’s pre-salary sacrifice rate of pay.
+**f.** Where an Employee sacrifices part of their salary pursuant to [clause 54.1](/ebas/mspp/classification-salaries/54-superannuation)e the Superannuation Guarantee Charge (SGC) contribution by the Employer will be calculated on the Employee’s pre-salary sacrifice rate of pay.
 
 **g.** Where pursuant to [clause 51.5](/ebas/mspp/classification-salaries/51-salaries-and-allowances) (Salary Packaging) of this Agreement, an Employee packages part of their salary, the Employee’s SGC contribution shall be calculated on the pre-packaged rate of pay.
 
@@ -40,7 +40,7 @@ topics: ['wages', 'superannuation']
 
 **c.** Where an Employee fails to elect a superannuation fund within 4 weeks of commencing employment the default Fund will be HESTA. Provided that where an Employee is already a member of another Fund, from 1 November 2021 the default Fund will be the stapled default Fund as set out in the Superannuation Guarantee (Administration) Act 1992 as amended.
 
-**d.** Each Employee shall be eligible to receive contributions from the date of commencing employment, notwithstanding the date the membership application prescribed in clause 54.2b was forwarded to the Fund.
+**d.** Each Employee shall be eligible to receive contributions from the date of commencing employment, notwithstanding the date the membership application prescribed in [clause 54.2](/ebas/mspp/classification-salaries/54-superannuation)b was forwarded to the Fund.
 
 **54.3** Employer Contributions On Behalf Of Each Employee
 
@@ -50,7 +50,7 @@ topics: ['wages', 'superannuation']
 
 **c.** Such contributions shall be made monthly by the last day of the month following, the total of the weekly contribution amounts accruing in the previous month in respect of each Employee.
 
-**d.** The Fund and the amount of contributions paid in accordance with this clause and clause 54.1e shall be included in pay advice notices provided by the Employer to each Employee.
+**d.** The Fund and the amount of contributions paid in accordance with this clause and [clause 54.1](/ebas/mspp/classification-salaries/54-superannuation)e shall be included in pay advice notices provided by the Employer to each Employee.
 
 **e.** Contributions shall continue to be paid in accordance with this clause during any period in respect of which any Employee is entitled to receive accident pay in accordance with [clause 90](/ebas/mspp/accident-pay-allowances/90-accident-pay) (Accident Pay).
 

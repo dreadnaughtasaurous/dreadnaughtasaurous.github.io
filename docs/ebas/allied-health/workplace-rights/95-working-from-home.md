@@ -20,6 +20,6 @@ topics: ['preliminary']
 
 **95.3** Where an application is made in accordance with the Employer’s policy such a request will not be unreasonably refused by the Employer.
 
-**95.4** Nothing in this clause 95 limits the right of an Employee to request a flexible working arrangement under [clause 96](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements) of this Agreement.
+**95.4** Nothing in this [clause 95](/ebas/allied-health/workplace-rights/95-working-from-home) limits the right of an Employee to request a flexible working arrangement under [clause 96](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements) of this Agreement.
 
 

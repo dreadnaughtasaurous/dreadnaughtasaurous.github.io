@@ -40,13 +40,13 @@ Note: This clause does not apply to casual Employees. The entitlements of casual
 
 **(c)** In normal circumstances an Employee must not take personal leave under this clause to care for someone where another person has taken leave to care for the same person.
 
-**(d)** Personal Leave to Attend Appointments Notwithstanding subclause 38A.3(a), an Employee may use up to five days personal leave, in aggregate, in any year of service on account of a disability or where the Employee is required to attend a registered health practitioner or diagnostic appointment. 38A.4. Evidence requirements – Sick Leave
+**(d)** Personal Leave to Attend Appointments Notwithstanding [subclause 38A.3(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave), an Employee may use up to five days personal leave, in aggregate, in any year of service on account of a disability or where the Employee is required to attend a registered health practitioner or diagnostic appointment. 38A.4. Evidence requirements – Sick Leave
 
-**(a)** An Employee taking sick leave will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury or, in the case of leave taken to attend an appointment (see subclause 38A.3(d)) evidence of attendance.
+**(a)** An Employee taking sick leave will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury or, in the case of leave taken to attend an appointment (see [subclause 38A.3(d)](/ebas/mental-health/common-terms/leave/38A-personal-leave)) evidence of attendance.
 
 **(b)** Exception to evidence requirement-single day absences
 
-**(i)** An Employee may be absent for a single day without evidence of personal illness or injury as required at clause 38A.4(a) above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to the health service procedure set out at subclause 38A.5(a) below.
+**(i)** An Employee may be absent for a single day without evidence of personal illness or injury as required at [clause 38A.4(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave) above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to the health service procedure set out at [subclause 38A.5(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave) below.
 
 **(ii)** An Employee classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement may be absent through personal illness or injury on one day in addition to the entitlement at 38A.4(b)(i) in any one year of service without having to provide evidence to the Employer. 38A.5. Notice requirements
 
@@ -54,7 +54,7 @@ Note: This clause does not apply to casual Employees. The entitlements of casual
 
 **(b)** The Employer will inform Employees of the procedure for notification by Employees of their inability to attend work due to illness or injury, such notifications will be registered, detailing the time of notification and the name of the Employee.
 
-**(c)** Failure to provide notice of absence Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee's lack of notification as required by clause 38A.5. (a) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given. 38A.6. Evidence Requirements - Carers Leave
+**(c)** Failure to provide notice of absence Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee's lack of notification as required by [clause 38A.5](/ebas/mental-health/common-terms/leave/38A-personal-leave). (a) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given. 38A.6. Evidence Requirements - Carers Leave
 
 **(a)** Evidence requirements The Employee must, if required by the Employer, establish by production of a Proof of Attendance or statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either:
 
@@ -84,17 +84,17 @@ includes providing care or support to a member of the Employee’s immediate fam
 
 **(ii)** subject to 38A.9(d) below: **(A)** a Council in Victoria as defined in the Local Government Act 2020 (Vic); or **(B)** a public health service in another State or Territory.
 
-**(b)** Allowable Period Continuity of service will be deemed to be unbroken where the period of absence is equal to or less than an Employee’s Allowable Period of Absence (as defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) between an engagement with one employer named in subclause 38A.9(a) and another. An absence in excess of the Allowable Period of Absence (defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) will exclude the Employee from any benefit under 38A.9.
+**(b)** Allowable Period Continuity of service will be deemed to be unbroken where the period of absence is equal to or less than an Employee’s Allowable Period of Absence (as defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) between an engagement with one employer named in [subclause 38A.9(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave) and another. An absence in excess of the Allowable Period of Absence (defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) will exclude the Employee from any benefit under 38A.9.
 
 **(c)** Exception to Allowable Period Where any Employee for the sole purpose of undertaking is, with the written approval of the Employer, absent without pay for up to but not exceeding 104 weeks, such absence will not be deemed to have broken continuity of service but will not be counted as service for the purpose of establishing entitlement to personal leave portability·
 
-**(d)** Additional transfer limitations For the purposes of subclause 38A.9(a)(ii), the portability of accrued untaken personal leave with a Council in Victoria, or a public health service in another State or Territory is subject to the following additional matters:
+**(d)** Additional transfer limitations For the purposes of [subclause 38A.9(a)(ii)](/ebas/mental-health/common-terms/leave/38A-personal-leave), the portability of accrued untaken personal leave with a Council in Victoria, or a public health service in another State or Territory is subject to the following additional matters:
 
 **(i)** portability will only apply on the first occasion that the Employee commences employment with an Employer on or after 20 May 2025; and
 
 **(ii)** portability will only apply where the break between ceasing employment with the relevant Council or interstate public health service, and commencing employment with an Employer, is no more than the greater of two months or the Allowable Period of Absence.
 
-**(iii)** once interstate accrual of personal leave is recognised in accordance with this clause, portability of that leave accrual will continue to be applicable subject to clause 38A.9.
+**(iii)** once interstate accrual of personal leave is recognised in accordance with this clause, portability of that leave accrual will continue to be applicable subject to [clause 38A.9](/ebas/mental-health/common-terms/leave/38A-personal-leave).
 
 **(e)** Evidence Requirements: The Employer may require an Employee to produce a written statement from their previous employer specifying the amount of accrued untaken personal leave standing to the credit of such Employee at the time of leaving that previous employment.
 

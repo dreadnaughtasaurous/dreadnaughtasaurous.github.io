@@ -38,7 +38,7 @@ performance at work. Therefore, the Employer is committed to providing support t
 
 **e.** An Employee experiencing family violence may raise the issue with their immediate supervisor, Family Violence contacts, union delegate or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Employee chooses not to see the Human Resources or Family Violence contact.
 
-**f.** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with clause 82.5 and clause 82.6.
+**f.** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with [clause 82.5](/ebas/mspp/leave/82-family-violence-leave) and [clause 82.6](/ebas/mspp/leave/82-family-violence-leave).
 
 **g.** The Employer will develop guidelines to supplement this clause and which details the appropriate action to be taken in the event that an Employee reports family violence.
 
@@ -48,9 +48,9 @@ performance at work. Therefore, the Employer is committed to providing support t
 
 3453-8976-3100v1PART 8: LEAVE OF ABSENCE AND PUBLIC HOLIDAYS
 
-**b.** An Employee who supports a person experiencing family violence may utilise their personal/carer’s leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with clause 82.4a from an Employee seeking to utilise their personal/carer’s leave entitlement.
+**b.** An Employee who supports a person experiencing family violence may utilise their personal/carer’s leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [clause 82.4](/ebas/mspp/leave/82-family-violence-leave)a from an Employee seeking to utilise their personal/carer’s leave entitlement.
 
-**c.** Employees who are not eligible for leave under this clause 82 may be entitled to unpaid family and domestic violence in accordance with the NES.
+**c.** Employees who are not eligible for leave under this [clause 82](/ebas/mspp/leave/82-family-violence-leave) may be entitled to unpaid family and domestic violence in accordance with the NES.
 
 **82.6** Individual Support
 

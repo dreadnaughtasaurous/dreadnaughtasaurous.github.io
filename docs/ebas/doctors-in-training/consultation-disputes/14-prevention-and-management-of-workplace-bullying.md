@@ -132,7 +132,7 @@ Where the Employer decides to appoint an external investigator, the Employer sha
 
 **(b)** appoint an investigator following timely consultation with the representative of the employee parties, including the Association, where relevant. The Employer may appoint an investigator without consultation where no response is received from the Union within 5 days following the Association being notified.
 
-Consultation in this clause 14.7 has its ordinary meaning and does not refer to consultation as set out at [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) and shall be conducted efficiently having regard for the health and safety of the employees.
+Consultation in this [clause 14.7](/ebas/doctors-in-training/consultation-disputes/14-prevention-and-management-of-workplace-bullying) has its ordinary meaning and does not refer to consultation as set out at [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) and shall be conducted efficiently having regard for the health and safety of the employees.
 
 **14.8** More information
 

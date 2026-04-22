@@ -12,7 +12,7 @@ topics: ['leave', 'hours']
 
 **4.2** ADO means accrued day off.
 
-**4.3** Adoption or Adopt for the purposes of this Agreement and the NES includes the placement of a child with an Eligible Employee (as defined in subclause 70.2(d)) prior to the relevant government department (currently the Department of Families, Fairness and Housing) seeking a permanent care order for the child.
+**4.3** Adoption or Adopt for the purposes of this Agreement and the NES includes the placement of a child with an Eligible Employee (as defined in [subclause 70.2(d)](/ebas/allied-health/leave/70-parental-leave)) prior to the relevant government department (currently the Department of Families, Fairness and Housing) seeking a permanent care order for the child.
 
 **4.4** Agreement means the Allied Health Professionals (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2026.
 
@@ -32,7 +32,7 @@ topics: ['leave', 'hours']
 
 **4.12** EO Act means the Equal Opportunity Act 2010 (Vic).
 
-**4.13** Experience is as defined at subclause 85.12(a).
+**4.13** Experience is as defined at [subclause 85.12(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages).
 
 **4.14** FFPPOA means the first full pay period on or after.
 
@@ -66,7 +66,7 @@ topics: ['leave', 'hours']
 
 **4.24** VHIA means the Employer’s Representative, the Victorian Hospitals’ Industrial Association.
 
-**4.25** WIC means Workplace Implementation Committee established under subclause 83.2.
+**4.25** WIC means Workplace Implementation Committee established under [subclause 83.2](/ebas/allied-health/union-matters/83-union-matters).
 
 **4.26** WIRC Act means the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or if applicable in the particular situation the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic).
 

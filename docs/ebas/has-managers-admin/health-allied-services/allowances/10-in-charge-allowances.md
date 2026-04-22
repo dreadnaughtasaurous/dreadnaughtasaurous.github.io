@@ -16,7 +16,7 @@ In charge of 10 to 29 other 10% Employees
 
 In charge of 30 or more Employees 15%
 
-**10.2** Provided that subclause 10.1 does not apply to the following classifications of Employee:
+**10.2** Provided that [subclause 10.1](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime) does not apply to the following classifications of Employee:
 
 **(a)** Chef Grade A
 

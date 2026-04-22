@@ -22,9 +22,9 @@ topics: ['hours', 'rosters', 'wages', 'higher-duties']
 
 **(c)** not experience a financial detriment as a result of performing Higher Duties
 
-**51.3** When calculating the period of consecutive working days prescribed in subclause 51.1(a), rostered days off do not contribute to the calculation, and do not break the period of consecutive shifts.
+**51.3** When calculating the period of consecutive working days prescribed in [subclause 51.1(a)](/ebas/doctors-in-training/allowances/51-higher-duties), rostered days off do not contribute to the calculation, and do not break the period of consecutive shifts.
 
-**51.4** Subject to subclause 51.2(c), where a HMO/MO works in a designated Registrar role for a period less than outlined in clause 51.1, they will be entitled to be paid at the minimum rate of a first year Registrar, but will not be entitled to any further benefits or allowances of a Registrar.
+**51.4** Subject to [subclause 51.2(c)](/ebas/doctors-in-training/allowances/51-higher-duties), where a HMO/MO works in a designated Registrar role for a period less than outlined in [clause 51.1](/ebas/doctors-in-training/allowances/51-higher-duties), they will be entitled to be paid at the minimum rate of a first year Registrar, but will not be entitled to any further benefits or allowances of a Registrar.
 
 Plain language terms: acting up, HDA.
 

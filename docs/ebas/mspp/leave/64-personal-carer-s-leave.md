@@ -42,7 +42,7 @@ topics: ['leave', 'personal-leave', 'employment']
 
 **(ii)** 136 hours and 48 minutes will be available per annum in the second, third and fourth years of Service; or
 
-**(iii)** 190 hours will be available in the fifth and following years of Service. In this clause 64.3 ‘years of Service’ includes Recognised Prior Service for the purposes of determining an Employee’s rate of personal/carer’s leave accrual.
+**(iii)** 190 hours will be available in the fifth and following years of Service. In this [clause 64.3](/ebas/mspp/leave/64-personal-carer-s-leave) ‘years of Service’ includes Recognised Prior Service for the purposes of determining an Employee’s rate of personal/carer’s leave accrual.
 
 **c.** Paid personal/carer’s leave applies on a pro rata basis for part time Employees.
 

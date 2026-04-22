@@ -42,7 +42,7 @@ topics: ['employment']
 
 **(k)** a copy of the Clinical Escalation Pathway (however titled or styled).
 
-**27.3** During a Rotation, the orientation described in subclause 27.1 is the responsibility of the Rotation Hospital. Doctors are responsible for ensuring that they request appropriate information and clarification when required.
+**27.3** During a Rotation, the orientation described in [subclause 27.1](/ebas/doctors-in-training/doctor-employment/27-orientation-on-appointment) is the responsibility of the Rotation Hospital. Doctors are responsible for ensuring that they request appropriate information and clarification when required.
 
 Plain language terms: orientation.
 

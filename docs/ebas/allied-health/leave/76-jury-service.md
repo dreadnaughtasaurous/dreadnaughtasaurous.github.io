@@ -8,7 +8,7 @@ topics: ['leave']
 
 
 
-NOTE: this clause 76 applies to all Employees
+NOTE: this [clause 76](/ebas/allied-health/leave/76-jury-service) applies to all Employees
 
 **76.1** An Employee required to attend for jury service will be reimbursed by the Employer an amount equal to the difference between:
 

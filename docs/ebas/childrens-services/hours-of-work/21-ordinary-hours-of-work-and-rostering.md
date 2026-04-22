@@ -42,7 +42,7 @@ b\. An employee appointed as the Educational Leader will be entitled to a minimu
 
 NOTE 1: Educational leader is defined in Regulation 118 of the *Education and Care Services National Regulations (2011)*.
 
-NOTE 2: The entitlements at clauses 21.5(a) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
+NOTE 2: The entitlements at [clauses 21.5(a)](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
 
 \[21.5(b) renumbered as 21.5(c) by [PR723626](https://www.fwc.gov.au/documents/awardsandorders/html/PR723626.htm), [PR724049](https://www.fwc.gov.au/documents/awardsandorders/html/PR724049.htm) ppc 01Nov20\]
 
@@ -92,7 +92,7 @@ b\.
 
   1.  Make-up time
 
-An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in clause 21.3 at the ordinary rate of pay.
+An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in [clause 21.3](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) at the ordinary rate of pay.
 
 1.  Hours of work---out-of-school hours care, preschools and kindergartens
 

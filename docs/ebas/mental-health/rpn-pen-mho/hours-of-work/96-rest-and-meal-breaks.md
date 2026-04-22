@@ -10,7 +10,7 @@ topics: ['leave', 'hours', 'shift-work', 'breaks']
 
 **96.1** Rest Intervals At a time, suitable to the Employer two rest intervals of 10 minutes each shall be given to all Employees during each day or rostered shift and shall be counted as time worked.
 
-**96.2** Meal breaks Except as provided for in clause 96.2(b) and (c), a meal break of not less than 30 minutes and not more than 60 minutes shall be provided to each Employee during a shift. The meal break shall not be counted as time worked.
+**96.2** Meal breaks Except as provided for in [clause 96.2(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks) and (c), a meal break of not less than 30 minutes and not more than 60 minutes shall be provided to each Employee during a shift. The meal break shall not be counted as time worked.
 
 **(a)** Employees are entitled to leave the ward/unit area during their meal break.
 

@@ -8,7 +8,7 @@ topics: ['hours', 'overtime', 'rosters', 'staffing', 'workload']
 
 
 
-**41.1** The provisions of this clause are to be read in conjunction with subclause 35.3 (Roster Design – Safe Hours of Work).
+**41.1** The provisions of this clause are to be read in conjunction with [subclause 35.3](/ebas/doctors-in-training/hours-of-work/35-rosters) (Roster Design – Safe Hours of Work).
 
 **41.2** Safe Workload
 

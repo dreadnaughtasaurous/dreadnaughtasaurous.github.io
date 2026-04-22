@@ -36,29 +36,29 @@ Personal/carer's leave whilst on annual leave
 
 **(b)** An agreement must state the amount of leave to be taken in advance and the date on which leave is to commence
 
-NOTE: An example of the type of agreement required by subclause 47.7 is set out at [Appendix 6](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance) – Agreement to Take Annual Leave in Advance. There is no requirement to use the form of agreement set out at [Appendix 6](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance) – Agreement to Take Annual Leave in Advance.
+NOTE: An example of the type of agreement required by [subclause 47.7](/ebas/medical-specialists/leave/47-annual-leave) is set out at [Appendix 6](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance) – Agreement to Take Annual Leave in Advance. There is no requirement to use the form of agreement set out at [Appendix 6](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance) – Agreement to Take Annual Leave in Advance.
 
 **(c)** The Health Service must keep a copy of any agreement under subclause
 
 **47.7** as a record.
 
-**(d)** If, on the termination of the Doctor’s employment, the Doctor has not accrued an entitlement to all of a period of paid annual leave already taken in accordance with an agreement under subclause 47.7, the Health Service may deduct from any money due to the Doctor on termination an amount equal to the amount that was paid to the Doctor in respect of any part of the period of annual leave taken in advance to which an entitlement has not been accrued.
+**(d)** If, on the termination of the Doctor’s employment, the Doctor has not accrued an entitlement to all of a period of paid annual leave already taken in accordance with an agreement under [subclause 47.7](/ebas/medical-specialists/leave/47-annual-leave), the Health Service may deduct from any money due to the Doctor on termination an amount equal to the amount that was paid to the Doctor in respect of any part of the period of annual leave taken in advance to which an entitlement has not been accrued.
 
 **47.8** Cashing out of annual leave
 
-**(a)** Paid annual leave must not be cashed out except in accordance with an agreement under subclause 47.8.
+**(a)** Paid annual leave must not be cashed out except in accordance with an agreement under [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave).
 
-**(b)** Each cashing out of a particular amount of paid annual leave must be the subject of a separate agreement under subclause 47.8.
+**(b)** Each cashing out of a particular amount of paid annual leave must be the subject of a separate agreement under [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave).
 
 **(c)** A Health Service and a Doctor may agree in writing to the cashing out of a particular amount of accrued paid annual leave by the employee.
 
-**(d)** An agreement under subclause 47.8. must state:
+**(d)** An agreement under [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave). must state:
 
 **(i)** the amount of leave to be cashed out and the payment to be made to the Doctor for it; and
 
 **(ii)** the date on which the payment is to be made.
 
-**(e)** An agreement under subclause 47.8 must be signed by the Health Service.
+**(e)** An agreement under [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave) must be signed by the Health Service.
 
 **(f)** The payment must not be less than the amount that would have been payable had the Doctor taken the leave at the time the payment is made.
 
@@ -70,11 +70,11 @@ NOTE: An example of the type of agreement required by subclause 47.7 is set out 
 
 **47.8** as an employee record.
 
-NOTE 1: Under section 344 of the Act, an employer must not exert undue influence or undue pressure on an employee to make, or not make, an agreement under subclause 47.8.
+NOTE 1: Under section 344 of the Act, an employer must not exert undue influence or undue pressure on an employee to make, or not make, an agreement under [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave).
 
-NOTE 2: Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under subclause 47.8.
+NOTE 2: Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave).
 
-NOTE 3: An example of the type of agreement required by subclause 47.8 is set out at form of agreement set out at [Appendix 7](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave)—Agreement to Cash Out Annual Leave.
+NOTE 3: An example of the type of agreement required by [subclause 47.8](/ebas/medical-specialists/leave/47-annual-leave) is set out at form of agreement set out at [Appendix 7](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave)—Agreement to Cash Out Annual Leave.
 
 **47.9** Excessive annual leave accruals: general provision
 
@@ -86,19 +86,19 @@ NOTE 3: An example of the type of agreement required by subclause 47.8 is set ou
 
 **(b)** If a Doctor has an excessive leave accrual, the Health Service or the Doctor may seek to confer with the other and genuinely try to reach agreement on how to reduce or eliminate the excessive leave accrual.
 
-**(c)** Subclause 47.10 sets out how a Health Service may direct a Doctor who has an excessive annual leave accrual to take paid annual leave.
+**(c)** [Subclause 47.10](/ebas/medical-specialists/leave/47-annual-leave) sets out how a Health Service may direct a Doctor who has an excessive annual leave accrual to take paid annual leave.
 
-**(d)** Subclause 47.11 sets out how a Doctor who has an excessive leave accrual may require a Health Service to grant paid annual leave requested by the Doctor.
+**(d)** [Subclause 47.11](/ebas/medical-specialists/leave/47-annual-leave) sets out how a Doctor who has an excessive leave accrual may require a Health Service to grant paid annual leave requested by the Doctor.
 
 **47.10** Excessive annual leave accruals: Managing excess leave
 
-**(a)** If a Health Service has genuinely tried to reach agreement with a Doctor under subclause 47.9(b) but agreement is not reached (including because the Doctor refuses to confer), the Health Service may require the Doctor by a notice in writing to take one or more periods of paid annual leave. Any discussions should take into account the Doctor’s workload and the availability of suitable relief staff.
+**(a)** If a Health Service has genuinely tried to reach agreement with a Doctor under [subclause 47.9(b)](/ebas/medical-specialists/leave/47-annual-leave) but agreement is not reached (including because the Doctor refuses to confer), the Health Service may require the Doctor by a notice in writing to take one or more periods of paid annual leave. Any discussions should take into account the Doctor’s workload and the availability of suitable relief staff.
 
-**(b)** However, the requirement by the Health Service under subclause 47.10(a):
+**(b)** However, the requirement by the Health Service under [subclause 47.10(a)](/ebas/medical-specialists/leave/47-annual-leave):
 
-**(i)** is of no effect if the doctor has made a request for leave in accordance with subclause 47.10 and such request has been declined in the previous 12 months; and
+**(i)** is of no effect if the doctor has made a request for leave in accordance with [subclause 47.10](/ebas/medical-specialists/leave/47-annual-leave) and such request has been declined in the previous 12 months; and
 
-**(ii)** is of no effect if it would result at any time in the Doctor’s remaining accrued entitlement to paid annual leave being less than 6 weeks when any other paid annual leave arrangements (whether made under subclauses 47.9, 47.10, or 47.11 or otherwise agreed by the Health Service and Doctor) are taken into account; and
+**(ii)** is of no effect if it would result at any time in the Doctor’s remaining accrued entitlement to paid annual leave being less than 6 weeks when any other paid annual leave arrangements (whether made under [subclauses 47.9](/ebas/medical-specialists/leave/47-annual-leave), 47.10, or 47.11 or otherwise agreed by the Health Service and Doctor) are taken into account; and
 
 **(iii)** must not require the Doctor to take any period of paid annual leave of less than one week; and
 
@@ -106,27 +106,27 @@ NOTE 3: An example of the type of agreement required by subclause 47.8 is set ou
 
 **(v)** must not be inconsistent with any leave arrangement agreed by the Health Service and Doctor.
 
-**(c)** The Doctor must take paid annual leave in accordance with a notice under subclause 47.9(a) that is in effect.
+**(c)** The Doctor must take paid annual leave in accordance with a notice under [subclause 47.9(a)](/ebas/medical-specialists/leave/47-annual-leave) that is in effect.
 
-**(d)** A Doctor to whom a notice has been given under subclause 47.10(a) may request to take a period of paid annual leave as if the notice had not been given.
+**(d)** A Doctor to whom a notice has been given under [subclause 47.10(a)](/ebas/medical-specialists/leave/47-annual-leave) may request to take a period of paid annual leave as if the notice had not been given.
 
-NOTE 1: Paid annual leave arising from a request mentioned in clause 47.10(d) may result in the direction ceasing to have effect. See subclause 47.11(b)(i).
+NOTE 1: Paid annual leave arising from a request mentioned in [clause 47.10(d)](/ebas/medical-specialists/leave/47-annual-leave) may result in the direction ceasing to have effect. See [subclause 47.11(b)(i)](/ebas/medical-specialists/leave/47-annual-leave).
 
 NOTE 2: Under section 88(2) of the Act, the Health Service must not unreasonably refuse to agree to a request by the Doctor to take paid annual leave.
 
 **47.11** Excessive annual leave accruals: request by Doctor for leave
 
-**(a)** If a Doctor has genuinely tried to reach agreement with a Health Service under subclause 47.9(b) but agreement is not reached (including because the Health Service refuses to confer), the Doctor may give a written notice to the Health Service requesting to take one or more periods of paid annual leave.
+**(a)** If a Doctor has genuinely tried to reach agreement with a Health Service under [subclause 47.9(b)](/ebas/medical-specialists/leave/47-annual-leave) but agreement is not reached (including because the Health Service refuses to confer), the Doctor may give a written notice to the Health Service requesting to take one or more periods of paid annual leave.
 
-**(b)** However, a Doctor may only give a notice to the Health Service under subclause 47.11(a) if:
+**(b)** However, a Doctor may only give a notice to the Health Service under [subclause 47.11(a)](/ebas/medical-specialists/leave/47-annual-leave) if:
 
 **(i)** the Doctor has had an excessive leave accrual for more than 3 months at the time of giving the notice; and
 
-**(ii)** the Doctor has not been given a direction under subclause 47.10(a)that, when any other paid annual leave arrangements (whether made under subclause 47.9, 47.10, or 47.11 or otherwise agreed by the Health Service and Doctor) are taken into account, would eliminate the Doctor’s excessive leave accrual.
+**(ii)** the Doctor has not been given a direction under [subclause 47.10(a)](/ebas/medical-specialists/leave/47-annual-leave)that, when any other paid annual leave arrangements (whether made under [subclause 47.9](/ebas/medical-specialists/leave/47-annual-leave), 47.10, or 47.11 or otherwise agreed by the Health Service and Doctor) are taken into account, would eliminate the Doctor’s excessive leave accrual.
 
-**(c)** A notice given by a Doctor under subclause 47.10(a) must not:
+**(c)** A notice given by a Doctor under [subclause 47.10(a)](/ebas/medical-specialists/leave/47-annual-leave) must not:
 
-**(i)** if granted, result in the employee’s remaining accrued entitlement to paid annual leave being at any time less than 6 weeks when any other paid annual leave arrangements (whether made under subclause 47.9, 47.10, or 47.11 or otherwise agreed by the Health Service and Doctor) are taken into account; or
+**(i)** if granted, result in the employee’s remaining accrued entitlement to paid annual leave being at any time less than 6 weeks when any other paid annual leave arrangements (whether made under [subclause 47.9](/ebas/medical-specialists/leave/47-annual-leave), 47.10, or 47.11 or otherwise agreed by the Health Service and Doctor) are taken into account; or
 
 **(ii)** provide for the Doctor to take any period of paid annual leave of less than one week; or
 
@@ -134,9 +134,9 @@ NOTE 2: Under section 88(2) of the Act, the Health Service must not unreasonably
 
 **(iv)** be inconsistent with any leave arrangement agreed by the Health Service and Doctor.
 
-**(d)** A Doctor is not entitled to request by a notice under subclause 47.11(a) more than 5 weeks’ paid annual leave in any period of 12 months.
+**(d)** A Doctor is not entitled to request by a notice under [subclause 47.11(a)](/ebas/medical-specialists/leave/47-annual-leave) more than 5 weeks’ paid annual leave in any period of 12 months.
 
-**(e)** The Health Service must grant paid annual leave requested by a notice under subclause 47.11(a).
+**(e)** The Health Service must grant paid annual leave requested by a notice under [subclause 47.11(a)](/ebas/medical-specialists/leave/47-annual-leave).
 
 Plain language terms: holidays, vacation.
 

@@ -22,7 +22,7 @@ C. dies, or
 
 **(ii)** a Stillborn Child is born, where the Stillborn Child would have been a member of the Doctor’s immediate family, or a member of the Doctor’s household, if the Stillborn Child had been born alive; or
 
-**(iii)** a Doctor, or a Doctor’s spouse or de facto partner, has a miscarriage. This sub-clause 50.1 does not apply if the miscarriage results in a Stillborn Child.
+**(iii)** a Doctor, or a Doctor’s spouse or de facto partner, has a miscarriage. This sub-[clause 50.1](/ebas/medical-specialists/leave/50-compassionate-leave) does not apply if the miscarriage results in a Stillborn Child.
 
 **(b)** If the permissible occasion is the contraction or development of a personal illness, or the sustaining of a personal injury, the Doctor may take the compassionate leave for that occasion at any time while the illness or injury persists.
 

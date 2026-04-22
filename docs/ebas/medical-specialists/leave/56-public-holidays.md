@@ -14,7 +14,7 @@ A Doctor shall be entitled to paid time off (or penalty payments for time worked
 
 **56.2** Public Holidays
 
-**(a)** Subject to subclauses 56.4, 56.5 and 56.6, the public holidays to which this clause applies are the days determined under Victorian law as public holidays in respect of the following occasions:
+**(a)** Subject to [subclauses 56.4](/ebas/medical-specialists/leave/56-public-holidays), 56.5 and 56.6, the public holidays to which this clause applies are the days determined under Victorian law as public holidays in respect of the following occasions:
 
 **(i)** New Year’s Day, Australia Day, Christmas Day and Boxing Day; and
 
@@ -32,9 +32,9 @@ A Doctor shall be entitled to paid time off (or penalty payments for time worked
 
 determined under Victorian law on another day in respect of any of those occasions (Other Day):
 
-**(i)** Weekend Workers shall receive penalty payments pursuant to subclause 56.8 for time worked on the Actual Day or on the Other Day if the Doctor does not work ordinary hours on the Actual Day; and
+**(i)** Weekend Workers shall receive penalty payments pursuant to [subclause 56.8](/ebas/medical-specialists/leave/56-public-holidays) for time worked on the Actual Day or on the Other Day if the Doctor does not work ordinary hours on the Actual Day; and
 
-**(ii)** All other Doctors will receive penalty payments pursuant to subclause 56.8 for time worked on the Other Day.
+**(ii)** All other Doctors will receive penalty payments pursuant to [subclause 56.8](/ebas/medical-specialists/leave/56-public-holidays) for time worked on the Other Day.
 
 **(b)** For the purpose of this clause only, a Weekend Worker is a Doctor who works ordinary hours on a Saturday or Sunday.
 
@@ -54,7 +54,7 @@ determined under Victorian law on another day in respect of any of those occasio
 
 **(a)** Saved Provisions
 
-**(i)** The following Health Services have provisions contained in Pre- 2013 Collective Agreements which substitute specified public holidays for a Christmas / New Year closedown for Clinical Academics and these provisions will be considered in the course of the Review to be conducted in accordance with subclause 7.5:
+**(i)** The following Health Services have provisions contained in Pre- 2013 Collective Agreements which substitute specified public holidays for a Christmas / New Year closedown for Clinical Academics and these provisions will be considered in the course of the Review to be conducted in accordance with [subclause 7.5](/ebas/medical-specialists/preliminary/7-saving-of-local-agreements):
 
 A. Austin Health;
 
@@ -68,7 +68,7 @@ D. Western Health.
 
 **(i)** A Clinical Academic and Health Service may agree to substitute the Melbourne Cup, Labour Day and Queen's Birthday public holidays for a five (5) day Christmas / New Year close down period that includes Christmas Day and Boxing Day.
 
-**(ii)** Where a Clinical Academic and Health Service agree to the substitution under subclause 56.5(b)(i), the agreement will be
+**(ii)** Where a Clinical Academic and Health Service agree to the substitution under [subclause 56.5(b)(i)](/ebas/medical-specialists/leave/56-public-holidays), the agreement will be
 
 reduced to writing and a copy provided to the affected Clinical Academic.
 
@@ -112,23 +112,23 @@ Health Service must pay the Doctor at the Doctor’s base rate of pay for the Do
 
 **56.8** Penalty Payments in Respect of Public Holidays
 
-**(a)** A Doctor who is requested to and does work on a day or part-day that is a public holiday (or where Christmas Day, Boxing Day, New Year’s Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to subclause 56.3) is entitled to be paid for the time worked:
+**(a)** A Doctor who is requested to and does work on a day or part-day that is a public holiday (or where Christmas Day, Boxing Day, New Year’s Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to [subclause 56.3](/ebas/medical-specialists/leave/56-public-holidays)) is entitled to be paid for the time worked:
 
 **(i)** at the rate of 250%; or,
 
 **(ii)** by mutual agreement, at single time and have 1.5 days added to their annual leave.
 
-**(b)** An Internal Locum who is requested to and does work on a day or part-day that is a public holiday (or where Christmas Day, Boxing Day, New Year’s Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to subclause 56.3) is entitled to be paid for the time worked at the rate of 275%.
+**(b)** An Internal Locum who is requested to and does work on a day or part-day that is a public holiday (or where Christmas Day, Boxing Day, New Year’s Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to [subclause 56.3](/ebas/medical-specialists/leave/56-public-holidays)) is entitled to be paid for the time worked at the rate of 275%.
 
 **56.9** Public Holidays occurring on rostered days off or day off
 
-**(a)** Subject to subclause 56.9(b), a Full-time Doctor will receive a sum equal to one (1) day’s ordinary pay for public holidays that occur on their rostered day off or other day off.
+**(a)** Subject to [subclause 56.9(b)](/ebas/medical-specialists/leave/56-public-holidays), a Full-time Doctor will receive a sum equal to one (1) day’s ordinary pay for public holidays that occur on their rostered day off or other day off.
 
 **(b)** Where on each occasion an Other Day (as defined) applies as a public holiday in respect of that occasion, and:
 
-**(i)** the Doctor is rostered off for both the Actual Day and the Other Day (as defined), then only one day’s payment will be made under subclause 56.9(a); or
+**(i)** the Doctor is rostered off for both the Actual Day and the Other Day (as defined), then only one day’s payment will be made under [subclause 56.9(a)](/ebas/medical-specialists/leave/56-public-holidays); or
 
-**(ii)** the Doctor works only on one of either the Actual Day or the Other Day (as defined), and receives penalty rates for the day worked, the Doctor will not receive a payment under subclause 56.9(a) in respect of the day not worked.
+**(ii)** the Doctor works only on one of either the Actual Day or the Other Day (as defined), and receives penalty rates for the day worked, the Doctor will not receive a payment under [subclause 56.9(a)](/ebas/medical-specialists/leave/56-public-holidays) in respect of the day not worked.
 
 **56.10** Annual leave on a public holiday
 

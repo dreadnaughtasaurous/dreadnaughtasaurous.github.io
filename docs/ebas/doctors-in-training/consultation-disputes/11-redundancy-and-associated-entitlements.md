@@ -12,25 +12,25 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 
 This clause is arranged as follows:
 
-**(a)** Arrangement (subclause 11.1),
+**(a)** Arrangement ([subclause 11.1](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
 
-**(b)** Definitions (subclause 11.2),
+**(b)** Definitions ([subclause 11.2](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
 
-**(c)** Redeployment (subclause 11.3),
+**(c)** Redeployment ([subclause 11.3](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
 
-**(d)** Support to Affected Doctors (subclause 11.4),
+**(d)** Support to Affected Doctors ([subclause 11.4](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
 
-**(e)** Salary maintenance (subclause 11.5),
+**(e)** Salary maintenance ([subclause 11.5](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
 
-**(f)** Relocation (subclause 11.6),
+**(f)** Relocation ([subclause 11.6](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
 
-**(g)** Employment terminates due to redundancy (subclause 11.7), and
+**(g)** Employment terminates due to redundancy ([subclause 11.7](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)), and
 
-**(h)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 11.8).
+**(h)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 11.8](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)).
 
 **11.2** Definitions
 
-**(a)** Affected Doctor for this clause 11 means a Doctor whose role will be redundant.
+**(a)** Affected Doctor for this [clause 11](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) means a Doctor whose role will be redundant.
 
 **(b)** Comparable Role means an on-going role that:
 
@@ -42,7 +42,7 @@ A. in the same clinical specialty as that of the Affected Doctor’s former posi
 
 B. in a clinical specialty acceptable to the Affected Doctor; or
 
-C. a position that with the reasonable support described at subclause 11.3(g), the Affected Doctor could undertake; and
+C. a position that with the reasonable support described at [subclause 11.3(g)](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements), the Affected Doctor could undertake; and
 
 **(iii)** is the same Classification / Pay Point as the Affected Doctor’s redundant position;
 
@@ -56,11 +56,11 @@ C. a position that with the reasonable support described at subclause 11.3(g), t
 
 **(c)** Consultation is as defined at [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) (Consultation) of this Agreement.
 
-**(d)** Continuity of Service at clause 11.8 means that the service of the Doctor is treated as unbroken and that the cap on the transfer of personal leave at subclause
+**(d)** Continuity of Service at [clause 11.8](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) means that the service of the Doctor is treated as unbroken and that the cap on the transfer of personal leave at subclause
 
 **61.8** does not apply. However, Continuity of Service is not broken where a Health Service pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
-**(e)** Classification / Pay Point for the purposes of this clause 11 means a weekly salary in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions) that is at least equal to or higher than the weekly salary in
+**(e)** Classification / Pay Point for the purposes of this [clause 11](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) means a weekly salary in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions) that is at least equal to or higher than the weekly salary in
 
 **(f)** Reasonable Distance means a distance that has regard to the Doctor’s original work location, current home address, capacity of the Doctor to travel, additional travelling time, effects on the personal circumstances of the Affected Doctor, including family commitments and responsibilities and other matters raised by the Doctor, or assistance provided by their Health Service.
 
@@ -84,7 +84,7 @@ The Affected Doctor must be advised in writing of:
 
 **(ii)** details of the redeployment process;
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 11.3(g); and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 11.3(g)](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements); and
 
 **(iv)** the Affected Doctor’s rights and obligations.
 
@@ -112,7 +112,7 @@ The Doctor must actively participate in the redeployment process including:
 
 **(e)** Rejecting a Comparable Role
 
-Where an Affected Doctor rejects an offer of redeployment to a Comparable Role (as defined), the Affected Doctor may be ineligible for a departure package referred to at subclause 11.7.
+Where an Affected Doctor rejects an offer of redeployment to a Comparable Role (as defined), the Affected Doctor may be ineligible for a departure package referred to at [subclause 11.7](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements).
 
 **(f)** Temporary alternative duties
 
@@ -234,7 +234,7 @@ Sector Workplace Relations Policies 2015, as amended or replaced from time to ti
 
 **(ii)** provides Continuity of Service; and
 
-**(iii)** where the Comparable Role results in a loss of income, salary maintenance at subclause 11.5 will apply; and
+**(iii)** where the Comparable Role results in a loss of income, salary maintenance at [subclause 11.5](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) will apply; and
 
 **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee;
 

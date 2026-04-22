@@ -22,7 +22,7 @@ topics: ['wages', 'accident-pay']
 
 **104.4** Return to Work
 
-**(a)** This subclause 104.4 shall apply to an Employee not performing their normal duties due to a work related injury to which the WIRC Act applies.
+**(a)** This [subclause 104.4](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to) shall apply to an Employee not performing their normal duties due to a work related injury to which the WIRC Act applies.
 
 **(b)** The Employer will appoint a Return to Work Co-ordinator who will have sufficient knowledge of occupational rehabilitation legislation, regulations and guidelines to undertake the task.
 

@@ -46,6 +46,6 @@ topics: ['leave', 'public-holidays', 'allowances']
 
 **133.4** Savings Provision
 
-**133.5** Despite clause 133.1, existing arrangements for periods of on-call for CATT type duties below 12 hours that existed prior to 29 September 2001 may continue.
+**133.5** Despite [clause 133.1](/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances), existing arrangements for periods of on-call for CATT type duties below 12 hours that existed prior to 29 September 2001 may continue.
 
 

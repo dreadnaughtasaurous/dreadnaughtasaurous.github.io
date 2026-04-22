@@ -8,7 +8,7 @@ topics: ['hours', 'rosters', 'right-to-disconnect']
 
 
 
-**21A.1** Clause 21A provides for the exercise of an employee's right to disconnect under section 333M of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
+**21A.1** [Clause 21A](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect) provides for the exercise of an employee's right to disconnect under section 333M of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 
 NOTE:
 
@@ -26,7 +26,7 @@ NOTE:
 >
 > \(e\) The general protections in Part 3--1 of the [Act](http://www.legislation.gov.au/Series/C2009A00028) prohibit an employer taking adverse action against an employee because of the employee's right to disconnect under section 333M of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 
-**21A.2** Clause 21A applies from the following dates:
+**21A.2** [Clause 21A](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect) applies from the following dates:
 
 i\. 26 August 2024---for employers that are not small business employers on this date and their employees.
 

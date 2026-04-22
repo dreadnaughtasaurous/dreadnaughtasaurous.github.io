@@ -14,6 +14,6 @@ topics: ['preliminary']
 
 **6.3** This Agreement is not intended to exclude any part of the NES or to provide any entitlement which is detrimental to an Employee's entitlement under the NES. For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to an Employee.
 
-**6.4** Nothing in this Agreement, including [clause 9](/ebas/allied-health/preliminary/9-no-extra-claims) (No Extra Claims), is intended to prevent the concurrent operation of the Safe Patient Care Act and this Agreement unless either of the conditions in subclauses 105.1(a) or 105.1(b) (Interaction with Safe Patient Care Act) of this Agreement are met.
+**6.4** Nothing in this Agreement, including [clause 9](/ebas/allied-health/preliminary/9-no-extra-claims) (No Extra Claims), is intended to prevent the concurrent operation of the Safe Patient Care Act and this Agreement unless either of the conditions in [subclauses 105.1(a) or 105.1(b)](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act) (Interaction with Safe Patient Care Act) of this Agreement are met.
 
 

@@ -38,7 +38,7 @@ This clause does not apply to casual Employees. The entitlements of casual Emplo
 
 **(a)** General
 
-An Employee may take personal leave for the reasons described at subclause 55.2 above and 55.3(b) below.
+An Employee may take personal leave for the reasons described at [subclause 55.2](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) above and 55.3(b) below.
 
 **(b)** Personal Leave to Attend Registered Health Practitioner Appointments
 
@@ -48,13 +48,13 @@ An Employee may take personal leave for the reasons described at subclause 55.2 
 
 **(c)** Evidence requirements
 
-**(i)** An Employee taking sick leave in accordance with sub- clause 55.2 will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes: **(A)** a medical certificate from a registered health practitioner; or **(B)** a Statutory Declaration signed by the Employee with respect to absences on three occasions in any one year not exceeding three consecutive working days each.
+**(i)** An Employee taking sick leave in accordance with sub- [clause 55.2](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes: **(A)** a medical certificate from a registered health practitioner; or **(B)** a Statutory Declaration signed by the Employee with respect to absences on three occasions in any one year not exceeding three consecutive working days each.
 
-**(ii)** Evidence requirements for sick leave taken in accordance with sub-clause 55.3(b) is dealt with at sub-clause 55.3(b)(ii)
+**(ii)** Evidence requirements for sick leave taken in accordance with sub-[clause 55.3(b)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) is dealt with at sub-[clause 55.3(b)(ii)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave)
 
-**(d)** Exception to evidence requirement – single day absences An Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at subclause 55.3(e) below.
+**(d)** Exception to evidence requirement – single day absences An Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at [subclause 55.3(e)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) below.
 
-**(i)** An Employee other than those listed at subclauses 55.3(d)(ii)-(iii): **(A)** may be absent through personal illness or injury for one day without furnishing evidence on not more than three (3) occasions in any one year of service; and, **(B)** where the Employees do not utilise the single day absences referred to in subclause 55.3(d)(i)((A)) for a period of five years, an additional 5 days’ personal/carer’s leave will be added to the Employee’s accrued entitlement.
+**(i)** An Employee other than those listed at [subclauses 55.3(d)(ii)-(iii)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave): **(A)** may be absent through personal illness or injury for one day without furnishing evidence on not more than three (3) occasions in any one year of service; and, **(B)** where the Employees do not utilise the single day absences referred to in [subclause 55.3(d)(i)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave)((A)) for a period of five years, an additional 5 days’ personal/carer’s leave will be added to the Employee’s accrued entitlement.
 
 **(ii)** Dental Assistants employed by DHSV or Ballarat Health Service may be absent through personal illness or injury for one day without furnishing evidence on not more than five (5) occasions in any one year of service
 
@@ -84,7 +84,7 @@ An Employee may take personal leave for the reasons described at subclause 55.2 
 
 **(c)** Unpaid leave where accruals exhausted
 
-**(i)** Where an Employee has exhausted all paid personal/carer’s leave entitlements, the Employee is entitled to take unpaid carer’s leave to provide care and support in the circumstances outlined in subclause 55.4(a) and where they continue to meet the notice requirements at subclause 55.4(b).
+**(i)** Where an Employee has exhausted all paid personal/carer’s leave entitlements, the Employee is entitled to take unpaid carer’s leave to provide care and support in the circumstances outlined in [subclause 55.4(a)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) and where they continue to meet the notice requirements at [subclause 55.4(b)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave).
 
 **(ii)** The Employer and the Employee will agree on the period. In the absence of agreement the Employee is entitled to take up to two (2) days' unpaid carer’s leave per occasion.
 
@@ -116,7 +116,7 @@ An Employee may take personal leave for the reasons described at subclause 55.2 
 
 **55.8** Casual Employment – Caring Responsibilities
 
-**(a)** Subject to the evidentiary and notice requirements that apply to Carer's Leave under clause 55.4, a casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to provide care or support to a member of the Employee's immediate family or household because of:
+**(a)** Subject to the evidentiary and notice requirements that apply to Carer's Leave under [clause 55.4](/ebas/has-managers-admin/common-terms/leave/55-personal-leave), a casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to provide care or support to a member of the Employee's immediate family or household because of:
 
 **(i)** a personal illness, or personal injury, affecting them; or
 

@@ -10,7 +10,7 @@ topics: ['hours', 'shift-work', 'staffing']
 
 Note: This clause does not apply to casual Employees. It is the intent of this provision to maximise the use of permanent night shift employees. 90A.1. Permanent Night Shift Employment
 
-**(a)** In this clause, a permanent night shift employee means a full or part-time Employee who only works on night shift subject to the provisions of clause 90A.6.
+**(a)** In this clause, a permanent night shift employee means a full or part-time Employee who only works on night shift subject to the provisions of [clause 90A.6](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift).
 
 **(b)** Utilisation of permanent night shift employees will be the preferred approach to staffing at night wherever possible. 90A.2. Permanent Night Shift Employment – Employee Request
 
@@ -34,7 +34,7 @@ Note: This clause does not apply to casual Employees. It is the intent of this p
 
 **(b)** Employees at (iii) above will, where practicable, be offered night shifts in accordance with their expressed amount of desired night shift, in respect to that ward or unit.
 
-**(c)** Following the process described at subclause 90A.3(a), the Employer will seek expressions of interest from Employees with respect to the remaining night shifts necessary to meet the night shift staffing requirements for that ward or unit before 4 months after the commencement of the Agreement.
+**(c)** Following the process described at [subclause 90A.3(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift), the Employer will seek expressions of interest from Employees with respect to the remaining night shifts necessary to meet the night shift staffing requirements for that ward or unit before 4 months after the commencement of the Agreement.
 
 **(d)** In responding to expressions of interest, subject to any skill mix or ANUM requirements, full or part time staff for whom the ward is their Base Ward/Unit will be preferred in determining permanent night shift status.
 
@@ -46,7 +46,7 @@ Note: This clause does not apply to casual Employees. It is the intent of this p
 
 **(b)** Where this is not practicable and it is necessary to roster the Employee to shifts other than night shift for the purpose of providing education, this will occur without loss of income to the Employee.
 
-**(c)** Nothing in this clause is intended to alter an Employer's rights regarding undertaking performance management in accordance with [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) to support Employees. Performance management has the same meaning as set out at subclauses 24.6(b) and (c) of this Agreement. 90A.6. Other provisions
+**(c)** Nothing in this clause is intended to alter an Employer's rights regarding undertaking performance management in accordance with [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) to support Employees. Performance management has the same meaning as set out at [subclauses 24.6(b)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) and (c) of this Agreement. 90A.6. Other provisions
 
 **(a)** Unless 90A.6(b) applies, where an Employer seeks to end an Employee’s status as a permanent night shift employee, the provisions of 18 (Consultation) shall apply and a notice period of not less than 8 weeks will be provided.
 

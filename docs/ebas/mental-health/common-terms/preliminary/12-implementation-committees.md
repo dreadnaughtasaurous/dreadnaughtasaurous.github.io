@@ -60,11 +60,11 @@ topics: ['preliminary']
 
 **(ii)** Engagement with respect to climate change and sustainability activities (where there is not an alternative local mechanism);
 
-**(iii)** Review DWG lists provided in accordance with subclause 69E.1
+**(iii)** Review DWG lists provided in accordance with [subclause 69E.1](/ebas/mental-health/common-terms/ohs/69E-hsrs)
 
 **(iv)** Working cooperatively to address instances of contact inconsistent with the 'Right to Disconnect' clause (see [clauses 36](/ebas/mental-health/common-terms/allowances/36-right-to-disconnect) and 96B.3)
 
-**(v)** Discuss the Employer's activities to promote secure employment (see subclause 25.4);
+**(v)** Discuss the Employer's activities to promote secure employment (see [subclause 25.4](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment));
 
 **(vi)** Receiving reports on the following: **(A)** Unresolved Employee requests to rectify underpayments **(B)** The progress of transition to permanent night shift arrangements **(C)** Evaluation of permanent night shift to ensure no unintended consequences **(D)** Evaluation of other night shift arrangements to ensure no unintended consequences **(E)** The positions that are not rostered: **(F)** The results of a review of arrangements for contacting Employee's out of hours to determine availability; and **(G)** Manual handling where those reports are not provided to an OHS Committee.
 

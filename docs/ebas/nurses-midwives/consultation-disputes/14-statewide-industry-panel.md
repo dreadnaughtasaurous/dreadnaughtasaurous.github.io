@@ -14,9 +14,9 @@ The Statewide Industry Panel (Panel) can undertake the following functions:
 
 **(a)** Determine applications regarding classifications where:
 
-**(i)** an Employee's position or the position the Employer proposes to create is not subject to an existing classification in the Agreement or previous determination of the Statewide Classification Committee (see clause 14.3);
+**(i)** an Employee's position or the position the Employer proposes to create is not subject to an existing classification in the Agreement or previous determination of the Statewide Classification Committee (see [clause 14.3](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel));
 
-**(ii)** there is a dispute about an existing classification under this Agreement (see clause 14.4) which may include the categorisation of the Campus or health service;
+**(ii)** there is a dispute about an existing classification under this Agreement (see [clause 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel)) which may include the categorisation of the Campus or health service;
 
 **(b)** Determine disputes that arise under [clause 11B](/ebas/nurses-midwives/consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and) (No amalgamation of wards without agreement of the Unions and Employer);
 
@@ -46,13 +46,13 @@ The Statewide Industry Panel (Panel) can undertake the following functions:
 
 **(g)** The Parties to an application to the Panel bear their own costs (save for the chairperson).
 
-**(h)** The Panel shall be responsible for determining its own procedure, provided that the procedure shall be consistent with the requirements of this clause 14, and shall adopt an inquisitorial procedure (rather than an adversarial procedure).
+**(h)** The Panel shall be responsible for determining its own procedure, provided that the procedure shall be consistent with the requirements of this [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), and shall adopt an inquisitorial procedure (rather than an adversarial procedure).
 
 **14.3** Application to Panel where not subject to an existing classification
 
-**(a)** Where the circumstances in subclause 14.1(a)(i) arise, a written notification to the Panel will be made as follows:
+**(a)** Where the circumstances in [subclause 14.1(a)(i)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) arise, a written notification to the Panel will be made as follows:
 
-**(i)** By the Employer within 14 days of the matter arising under subclause 14.1(a)(i);
+**(i)** By the Employer within 14 days of the matter arising under [subclause 14.1(a)(i)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel);
 
 **(ii)** By the Employee and/or their representative (such as the ANMF) where:
 
@@ -62,11 +62,11 @@ The Statewide Industry Panel (Panel) can undertake the following functions:
 
 **(C)** the Employer and the Employee (and the Employee’s representative) have met and discussed the proposed application and the outcome of the discussion confirmed in writing; and
 
-**(D)** the Employer and Employee (and their representatives where relevant) have cooperated to ensure a meeting occurs within 28 days of subclause 14.3(a)(ii)(A).
+**(D)** the Employer and Employee (and their representatives where relevant) have cooperated to ensure a meeting occurs within 28 days of [subclause 14.3(a)(ii)(A)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
 
-**(iii)** Where an Employer fails to cooperate and meet as required at subclauses 14.3(a)(ii)(C) or (ii)(D), this does not prevent an Employee making an application to the Panel.
+**(iii)** Where an Employer fails to cooperate and meet as required at [subclauses 14.3(a)(ii)(C)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) or (ii)(D), this does not prevent an Employee making an application to the Panel.
 
-**(iv)** Where an Employee (or representative) fails to cooperate and meet as required at subclauses 14.3(a)(ii)(C) or (ii)(D), this will result in the Panel not dealing with the application until that meeting occurs.
+**(iv)** Where an Employee (or representative) fails to cooperate and meet as required at [subclauses 14.3(a)(ii)(C)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) or (ii)(D), this will result in the Panel not dealing with the application until that meeting occurs.
 
 **(b)** Where an application is received, the Chairperson will notify the applicable Union/s and VHIA in writing.
 
@@ -80,7 +80,7 @@ The Statewide Industry Panel (Panel) can undertake the following functions:
 
 **14.5** Materials to be provided to the Panel for classification applications
 
-Where an application to the Panel is made under clauses 14.3 or 14.4:
+Where an application to the Panel is made under [clauses 14.3 or 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel):
 
 **(a)** the Employer will provide the following materials (where available) as soon as practicable:
 
@@ -102,29 +102,29 @@ Where an application to the Panel is made under clauses 14.3 or 14.4:
 
 **(ii)** objective observations on any differences between the role and that described in the position description; and
 
-**(iii)** the Employer's response, if any, to the existing Employee's outline at subclauses 14.5(b)(i) and (ii).
+**(iii)** the Employer's response, if any, to the existing Employee's outline at [subclauses 14.5(b)(i)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) and (ii).
 
 **14.6** Role of the Panel in considering an application
 
 **(a)** In considering an application, the Panel will:
 
-**(i)** in the case of an application under clause 14.3, utilise available research-based skill matrices and other relevant material;
+**(i)** in the case of an application under [clause 14.3](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), utilise available research-based skill matrices and other relevant material;
 
-**(ii)** in the case of an application under clauses 14.3 or 14.4, determine classification applications by the inherent requirements of the position, not those of the individual;
+**(ii)** in the case of an application under [clauses 14.3 or 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), determine classification applications by the inherent requirements of the position, not those of the individual;
 
-**(iii)** in the case of an application under clause 14.4, apply the classification descriptors of the Agreement;
+**(iii)** in the case of an application under [clause 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), apply the classification descriptors of the Agreement;
 
-**(iv)** in the case of an application under subclause 14.1(b), have regard to the DOH's Guidelines which will reflect historical and contemporary practice standards; and
+**(iv)** in the case of an application under [subclause 14.1(b)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), have regard to the DOH's Guidelines which will reflect historical and contemporary practice standards; and
 
-**(v)** in the case of an application under subclause 14.1(a) or (b), consider any materials submitted by or on behalf of the DOH.
+**(v)** in the case of an application under [subclause 14.1(a)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) or (b), consider any materials submitted by or on behalf of the DOH.
 
-**(b)** The Panel may otherwise inform itself in any manner it sees fit including, in the case of a classification application under clause 14.3 or 14.4, by seeking the views of an expert advisor (who is not an Employee of the health service subject of the application) agreed to by the Panel to provide clinical expertise in an area of nursing or midwifery practice in relation to the classification matter under consideration.
+**(b)** The Panel may otherwise inform itself in any manner it sees fit including, in the case of a classification application under [clause 14.3 or 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), by seeking the views of an expert advisor (who is not an Employee of the health service subject of the application) agreed to by the Panel to provide clinical expertise in an area of nursing or midwifery practice in relation to the classification matter under consideration.
 
 **(c)** The Employer or VHIA and the Employee/s and/or the ANMF can advocate to the Panel.
 
-**(d)** The Panel will determine applications by majority, with written reasons to be prepared by the Chairperson (including any dissenting decision or a summary of any dissenting decision) and provided to the parties. In the case of an application under clauses 14.3 or 14.4, the Panel may determine to support the re-grading or substitute a different grade to the role.
+**(d)** The Panel will determine applications by majority, with written reasons to be prepared by the Chairperson (including any dissenting decision or a summary of any dissenting decision) and provided to the parties. In the case of an application under [clauses 14.3 or 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), the Panel may determine to support the re-grading or substitute a different grade to the role.
 
-**(e)** A determination of the Panel will be considered binding unless either the Unions or VHIA make an application to have the determination reviewed by the Commission within 14 days of receiving written determination. For the avoidance of doubt, no activity under clause 14.9 constitutes a determination for the purposes of subclause 14.6(e).
+**(e)** A determination of the Panel will be considered binding unless either the Unions or VHIA make an application to have the determination reviewed by the Commission within 14 days of receiving written determination. For the avoidance of doubt, no activity under [clause 14.9](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) constitutes a determination for the purposes of [subclause 14.6(e)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
 
 **(f)** An application to the Commission will include the application, determination, written reasons and supporting material.
 
@@ -138,7 +138,7 @@ Where an application to the Panel is made under clauses 14.3 or 14.4:
 
 **(a)** The ANMF and VHIA recognise that the Victorian Government, represented by the DOH, has an implied right to have its interests heard and considered in decisions of the Panel.
 
-**(b)** If a matter before the Panel under subclauses 14.1(a) or (b) may result in a requirement for additional funding to a hospital or health service (beyond what is currently provided under regular State budget mechanisms), the Chairperson will ensure that:
+**(b)** If a matter before the Panel under [subclauses 14.1(a)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) or (b) may result in a requirement for additional funding to a hospital or health service (beyond what is currently provided under regular State budget mechanisms), the Chairperson will ensure that:
 
 **(i)** the DOH has a fair opportunity to be heard by the Panel; and
 
@@ -148,14 +148,14 @@ Where an application to the Panel is made under clauses 14.3 or 14.4:
 
 **(a)** The Panel will notify the Employer (and Employee where applicable) of the outcome of the application in writing within 14 days of the decision.
 
-**(b)** In the case of an application under subclause 14.1(a), the determined grade will apply from the date of the application or a later date determined by the Panel.
+**(b)** In the case of an application under [subclause 14.1(a)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), the determined grade will apply from the date of the application or a later date determined by the Panel.
 
 **(c)** Until the determination of the Panel, the existing grade (where relevant) will continue to apply.
 
-**(d)** In the case of an application under clause 14.3, where the Panel or, on review, the Commission determines that a lower classification applies, the Employee will have their current salary maintained.
+**(d)** In the case of an application under [clause 14.3](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel), where the Panel or, on review, the Commission determines that a lower classification applies, the Employee will have their current salary maintained.
 
 **14.9** Development and finalisation of Classification descriptors
 
-The classification work referred to in subclauses 14.9(a)(ii) and (iii) of the 2020 Agreement will be finalised in accordance with clause 14.9 of the 2020 Agreement.
+The classification work referred to in [subclauses 14.9(a)(ii)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) and (iii) of the 2020 Agreement will be finalised in accordance with [clause 14.9](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) of the 2020 Agreement.
 
 

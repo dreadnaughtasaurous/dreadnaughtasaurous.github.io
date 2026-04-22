@@ -8,9 +8,9 @@ topics: ['hours', 'overtime', 'rosters', 'breaks']
 
 
 
-**55.1** When overtime, including recall, is necessary the Employee will have at least 10 consecutive hours off duty between all bodies of work, subject to subclauses 55.3 and 55.4 below.
+**55.1** When overtime, including recall, is necessary the Employee will have at least 10 consecutive hours off duty between all bodies of work, subject to [subclauses 55.3](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break) and 55.4 below.
 
-**55.2** Release from duty An Employee who works so much overtime or recall between the end of the Employee's previous ordinary hours and the start of the next period of ordinary hours, that the Employee would not have at least 10 consecutive hours off duty between the end of the overtime or recall and the start of the next rostered period of ordinary hours will, subject to this clause 55, be released after completion of such overtime or recall worked until the Employee has had 10 consecutive hours off duty without loss of pay for rostered ordinary hours occurring during such absence.
+**55.2** Release from duty An Employee who works so much overtime or recall between the end of the Employee's previous ordinary hours and the start of the next period of ordinary hours, that the Employee would not have at least 10 consecutive hours off duty between the end of the overtime or recall and the start of the next rostered period of ordinary hours will, subject to this [clause 55](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break), be released after completion of such overtime or recall worked until the Employee has had 10 consecutive hours off duty without loss of pay for rostered ordinary hours occurring during such absence.
 
 **55.3** Work without release from duty
 
@@ -22,7 +22,7 @@ sustenance matters. The Employee will not resume work of their own volition wher
 
 **55.4** Exception – recall work continuous with next rostered shift
 
-**(a)** Subclauses 55.1 to 55.3 do not apply where:
+**(a)** [Subclauses 55.1](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break) to 55.3 do not apply where:
 
 **(i)** despite the recall, the Employee has had at least 10 consecutive hours off duty between their rostered periods of ordinary duty;
 
@@ -30,7 +30,7 @@ sustenance matters. The Employee will not resume work of their own volition wher
 
 **(iii)** the Employee does not work more than two (2) hours recall.
 
-**(b)** Where subclause 55.4(a) applies, even though the recall is continuous with the next period of ordinary hours, an Employee will be entitled to a minimum three (3) hour payment for the recall at the applicable overtime rates, and payment for the full period of ordinary hours. The Employee will also be entitled without loss of pay to attend to ablution and sustenance matters.
+**(b)** Where [subclause 55.4(a)](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break) applies, even though the recall is continuous with the next period of ordinary hours, an Employee will be entitled to a minimum three (3) hour payment for the recall at the applicable overtime rates, and payment for the full period of ordinary hours. The Employee will also be entitled without loss of pay to attend to ablution and sustenance matters.
 
 Plain language terms: OT, extra hours, double time.
 

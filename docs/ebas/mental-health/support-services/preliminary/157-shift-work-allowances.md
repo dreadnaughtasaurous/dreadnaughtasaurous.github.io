@@ -8,7 +8,7 @@ topics: ['hours', 'shift-work']
 
 
 
-**157.1** Definitions In this clause 157:
+**157.1** Definitions In this [clause 157](/ebas/mental-health/support-services/preliminary/157-shift-work-allowances):
 
 **(a)** Morning shift means any shift that commences between 6:00 p.m. and 6:30 a.m.
 

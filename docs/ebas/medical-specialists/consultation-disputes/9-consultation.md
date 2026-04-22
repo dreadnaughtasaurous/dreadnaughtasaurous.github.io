@@ -20,7 +20,7 @@ Nothing in this clause limits the Health Service’s obligations to consult with
 
 **9.2** Definitions
 
-Under this clause 9:
+Under this [clause 9](/ebas/medical-specialists/consultation-disputes/9-consultation):
 
 **(a)** Consultation means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
@@ -66,7 +66,7 @@ Under this clause 9:
 
 Step Action Timeframe
 
-1.  Health Service provides change impact statement and other written material required by subclause 9.4
+1.  Health Service provides change impact statement and other written material required by [subclause 9.4](/ebas/medical-specialists/consultation-disputes/9-consultation)
 
 2.  Written response from Doctors 14 days of step 1 and/or Association
 
@@ -100,7 +100,7 @@ Step Action Timeframe
 
 **(ix)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Health Service to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
 
-**(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with subclause 9.4 will be raised as soon as practicable and before step 2.
+**(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with [subclause 9.4](/ebas/medical-specialists/consultation-disputes/9-consultation) will be raised as soon as practicable and before step 2.
 
 **9.5** Doctor / Association response (step 2)
 
@@ -128,7 +128,7 @@ The Affected Doctor/s, the Association and other representative (where relevant)
 
 **9.9** Outcome of consultation (step 6)
 
-The Health Service will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause 9.8, and will advise the affected Doctors, the Association and other nominated representatives (if any) in writing of the outcome of Consultation including:
+The Health Service will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [subclause 9.8](/ebas/medical-specialists/consultation-disputes/9-consultation), and will advise the affected Doctors, the Association and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 **(a)** whether the Health Service intends to proceed with the change proposal;
 

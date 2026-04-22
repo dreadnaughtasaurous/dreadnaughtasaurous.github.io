@@ -12,7 +12,7 @@ This clause does not apply to casuals and Employees above the level of RPN5
 
 **94.1** Posting of Roster
 
-**(a)** Subject to clause 94.10 (employees not required to have a roster), the ordinary hours of duty for full time and part time Employees shall be worked according to a written roster that will:
+**(a)** Subject to [clause 94.10](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) (employees not required to have a roster), the ordinary hours of duty for full time and part time Employees shall be worked according to a written roster that will:
 
 **(i)** be of at least 28 days duration
 
@@ -36,7 +36,7 @@ This clause does not apply to casuals and Employees above the level of RPN5
 
 **(c)** allocate a RPN to be in charge if applicable; and
 
-**(d)** not change without at least fourteen days’ notice of a change in roster other than in an emergency situation external to the employer, subject to clause 94.3 below.
+**(d)** not change without at least fourteen days’ notice of a change in roster other than in an emergency situation external to the employer, subject to [clause 94.3](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) below.
 
 **(e)** Provide an Employee who works 0.8 EFT or more with two consecutive days off per week. Nothing in this subclause (e) is intended to:
 
@@ -50,19 +50,19 @@ This clause does not apply to casuals and Employees above the level of RPN5
 
 **94.4** Roster Not Posted at least 28 days before it comes into operation
 
-**(a)** Where a roster is not posted 28 days in advance as required by clause 94.1, each shift in the roster that is worked with less than 28 days' notice shall attract a change of roster allowance as prescribed at subclause 94.8(ii) (change of roster allowance).
+**(a)** Where a roster is not posted 28 days in advance as required by [clause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters), each shift in the roster that is worked with less than 28 days' notice shall attract a change of roster allowance as prescribed at [subclause 94.8(ii)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) (change of roster allowance).
 
-Example: A roster for a ward was posted 25 days before coming into effect, rather than 28 days as required by clause 94.1. A change of roster is payable for those shifts worked on the roster with less than 28 days' notice.
+Example: A roster for a ward was posted 25 days before coming into effect, rather than 28 days as required by [clause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters). A change of roster is payable for those shifts worked on the roster with less than 28 days' notice.
 
-**(b)** The provisions of subclause 94.1 do not apply where:
+**(b)** The provisions of [subclause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) do not apply where:
 
 **(i)** In respect of a shift that the Employee agrees to work as an additional shift under the supplementary roster
 
-**(ii)** In respect of a shift that the Employee works that already attracts the Change of Roster allowance under clause 94.8 (change of roster allowance);
+**(ii)** In respect of a shift that the Employee works that already attracts the Change of Roster allowance under [clause 94.8](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) (change of roster allowance);
 
 **(iii)** The shift was not rostered in advance because the Employee swapped shifts by agreement with another Employee; or
 
-**(iv)** The roster is varied in accordance with this Agreement, for example clauses 94.6 and 94.8.
+**(iv)** The roster is varied in accordance with this Agreement, for example [clauses 94.6](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) and 94.8.
 
 **94.5** Roster Arrangements
 
@@ -88,17 +88,17 @@ Example: A roster for a ward was posted 25 days before coming into effect, rathe
 
 **94.6** Fixed Rosters
 
-**(a)** An Employee, by making a written request to the Employer, may have a roster fixed by mutual agreement (subject to the other provisions of this Agreement) in lieu of the provisions of subclauses 94.1 to 94.2 save that:
+**(a)** An Employee, by making a written request to the Employer, may have a roster fixed by mutual agreement (subject to the other provisions of this Agreement) in lieu of the provisions of [subclauses 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) to 94.2 save that:
 
 **(i)** an Employer will not unreasonably refuse a request for a fixed roster agreement where the Employee can demonstrate a regular and systematic pattern of work (as defined below); **(A)** regular and systematic pattern of work means working set days or shifts in a demonstrable pattern over the preceding six months (recognising that additional ordinary shifts may be worked around that fixed pattern); but **(B)** does not include shifts worked because the Employee who usually works them is on extended leave.
 
 **(ii)** where a fixed roster agreement is made, the Employer will provide the Employee with an amended Letter of Appointment detailing the fixed roster agreement which will be consistent with the regular and systematic pattern of work described at (A) and (B) above; and
 
-**(iii)** where the Employer proposes to change the Employee's fixed roster agreement, the terms of subclause 18 (Consultation) or [clause 19](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work) (Consultation about changes to rosters or hours or work) will apply, depending on the circumstances.
+**(iii)** where the Employer proposes to change the Employee's fixed roster agreement, the terms of [subclause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation) or [clause 19](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work) (Consultation about changes to rosters or hours or work) will apply, depending on the circumstances.
 
 **(b)** A written request for a fixed roster may be made in circumstances where the Employer is proposing to alter, or has recently altered, the Employee's regular and systematic pattern of work.
 
-**(c)** An Employee may end the fixed roster agreement at any time by giving written notice to the Employer. In such a case the roster for the Employee will be set according to the provisions of subclauses 94.1 to 94.2 above from the commencement of the next full roster period being not less than five clear days after the written notice is received.
+**(c)** An Employee may end the fixed roster agreement at any time by giving written notice to the Employer. In such a case the roster for the Employee will be set according to the provisions of [subclauses 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) to 94.2 above from the commencement of the next full roster period being not less than five clear days after the written notice is received.
 
 **94.7** On-Call Rosters The intent of this subclause is to ensure Employees have a reasonably predictable pattern of work during the on-call roster period. This clause does not apply to casual Employees, DON’s or Deputy DON’s.
 
@@ -114,27 +114,27 @@ Example: A roster for a ward was posted 25 days before coming into effect, rathe
 
 **(d)** On-call/recall payments are located at 91 and [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances).
 
-**94.8** Change of Roster Allowance If the Employer changes an Employee's roster or planned on call roster once set in accordance with subclauses 94.1 or 94.7(on-call roster), other than as excepted in 94.2(d), the Change of Roster Allowance will apply in relation to each change as follows:
+**94.8** Change of Roster Allowance If the Employer changes an Employee's roster or planned on call roster once set in accordance with [subclauses 94.1 or 94.7](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters)(on-call roster), other than as excepted in 94.2(d), the Change of Roster Allowance will apply in relation to each change as follows:
 
 **(i)** 7 days' or less notice, the applicable rate in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances),
 
 **(ii)** 8 to 14 days' notice, the applicable rate in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances). This allowance is not payable to a part-time Employee for an additional shift worked unless the circumstances described in subclause 95 (Supplementary Roster) apply.
 
-**(b)** If an additional shift is worked by a part-time Employee other than under the supplementary roster, it attracts the Change of Roster Allowance as described at subclause 94.8(ii) above,
+**(b)** If an additional shift is worked by a part-time Employee other than under the supplementary roster, it attracts the Change of Roster Allowance as described at [subclause 94.8(ii)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) above,
 
-**(c)** This clause 94.8 does not apply to those circumstances covered by [clause 84A](/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance) (Change of Ward Allowance) unless the start and/or finish time on the Employee’s roster, in relation to ordinary hours, also change
+**(c)** This [clause 94.8](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) does not apply to those circumstances covered by [clause 84A](/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance) (Change of Ward Allowance) unless the start and/or finish time on the Employee’s roster, in relation to ordinary hours, also change
 
 **94.9** Rosters which include work on public holiday
 
 **(a)** Employers must implement a policy or procedure for the issuance and finalisation of rosters which cover the performance of work on a public holiday under the Act.
 
-**(b)** The policy / procedure referenced at subclause 94.9(a) above should:
+**(b)** The policy / procedure referenced at [subclause 94.9(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) above should:
 
 **(i)** set out the process for an Employee to request not to work on a public holiday they are requested to work; and
 
 **(ii)** set out the process for the Employer to provide a written response to an Employee's request not to work on a public holiday they are requested to work
 
-**(c)** An Employer who receives a request under subclause 94.9(b)(i) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must consider when determining whether a request is not reasonable include:
+**(c)** An Employer who receives a request under [subclause 94.9(b)(i)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must consider when determining whether a request is not reasonable include:
 
 **(i)** whether the Employee has clearly explained a reason for refusing to work on the relevant public holiday
 
@@ -162,11 +162,11 @@ Example: A roster for a ward was posted 25 days before coming into effect, rathe
 
 **(i)** the Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at subclause above; or
 
-**(ii)** the Employer has determined that a request was not reasonable (taking into account the factors in subclause 94.9(c)), the Employer may require the Employee to work on the relevant public holiday(s).
+**(ii)** the Employer has determined that a request was not reasonable (taking into account the factors in [subclause 94.9(c)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters)), the Employer may require the Employee to work on the relevant public holiday(s).
 
 **94.10** Employees not required to have a roster
 
-**(a)** The requirement to have a roster at clause 94.1 and payments for failing to post a roster at clauses 94.1 and 94.6 do not apply to those Employees who are genuinely not required to work in accordance with a roster. Whether an Employee is genuinely not required to work in accordance with a roster shall be determined on the circumstances including:
+**(a)** The requirement to have a roster at [clause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) and payments for failing to post a roster at [clauses 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) and 94.6 do not apply to those Employees who are genuinely not required to work in accordance with a roster. Whether an Employee is genuinely not required to work in accordance with a roster shall be determined on the circumstances including:
 
 **(i)** The nature of the role and the environment in which it operates
 
@@ -174,11 +174,11 @@ Example: A roster for a ward was posted 25 days before coming into effect, rathe
 
 **(iii)** That the Employee’s work hours are set or self-directed.
 
-**(b)** This clause 94.10 does not limit an Employer’s obligations in respect to on-call rosters.
+**(b)** This [clause 94.10](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) does not limit an Employer’s obligations in respect to on-call rosters.
 
 **(c)** By not later than 6 months after the commencement of the Agreement the Employer will provide the WIC with a list of existing Employee positions it says do not work in accordance with a roster. Any disputes about whether such Employees are genuinely not required to work in accordance with a roster (for the purposes of subclause (a) above) that are not resolved at the WIC will be referred to the Central Implementation Committee.
 
-**(d)** Where the Employer is proposing to create a position to which this clause 94.10 applies, this information will be included in the change impact statement required under [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation).
+**(d)** Where the Employer is proposing to create a position to which this [clause 94.10](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) applies, this information will be included in the change impact statement required under [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation).
 
 Plain language terms: rostering, shift roster, duty roster, roster changes.
 

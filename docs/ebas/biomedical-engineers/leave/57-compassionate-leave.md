@@ -10,7 +10,7 @@ topics: ['leave', 'compassionate-leave']
 
 **57.1** When Compassionate Leave is Available
 
-**(a)** Compassionate leave may be available to an Employee under this clause 57:
+**(a)** Compassionate leave may be available to an Employee under this [clause 57](/ebas/biomedical-engineers/leave/57-compassionate-leave):
 
 **(i)** if a member of the Employee’s Immediate Family or household: **(A)** contracts or develops a personal illness or sustains a personal injury that poses a serious threat to their life; **(B)** dies;
 
@@ -34,7 +34,7 @@ topics: ['leave', 'compassionate-leave']
 
 **(c)** An Employee may take unpaid additional compassionate leave by agreement with the Employer.
 
-**57.3** Casual Employees Subject to the evidence requirements described at subclause 57.4, a casual Employee is entitled to two (2) days unpaid compassionate leave on each permissible occasion. Unpaid compassionate leave under this clause may be taken as:
+**57.3** Casual Employees Subject to the evidence requirements described at [subclause 57.4](/ebas/biomedical-engineers/leave/57-compassionate-leave), a casual Employee is entitled to two (2) days unpaid compassionate leave on each permissible occasion. Unpaid compassionate leave under this clause may be taken as:
 
 **(a)** a single continuous period,
 

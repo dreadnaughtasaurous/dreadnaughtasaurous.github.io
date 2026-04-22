@@ -8,7 +8,7 @@ topics: ['employment', 'preliminary']
 
 
 
-This clause 28C applies to full-time, part-time and fixed term Employees. It does not apply to casual Employees.
+This [clause 28C](/ebas/allied-health/wages/28C-skills-and-incentive-payment) applies to full-time, part-time and fixed term Employees. It does not apply to casual Employees.
 
 **28C.1** Full-time Employees (including the amount for fixed-term Employees who work full-time hours) will be entitled to an annual Skills and Incentive payment in accordance with the following table:
 
@@ -16,6 +16,6 @@ Payment Eligibility Date Payable Amount
 
 Once this Agreement comes into operation Employee employed on $500 following the approval of this Agreement by 1 March 2022 the Commission in accordance with the Act Employee employed on $750 FFPPOA 1 March 2023 1 March 2023 Employee employed on $750 FFPPOA 1 March 2024 1 March 2024 Employee employed on $1000 FFPPOA 1 March 2025 1 March 2025
 
-**28C.2** The payment amounts at subclause 28C.1 will be paid pro rata for part-time Employees (including fixed-term Employees who work part-time hours).
+**28C.2** The payment amounts at [subclause 28C.1](/ebas/allied-health/wages/28C-skills-and-incentive-payment) will be paid pro rata for part-time Employees (including fixed-term Employees who work part-time hours).
 
 

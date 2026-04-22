@@ -36,7 +36,7 @@ topics: ['leave', 'public-holidays', 'allowances']
 
 **(b)** An Employee, other than a casual, who works so much overtime between the termination of their previous rostered shift an the commencement of their next rostered shift, that they would not have a 10-hour break shall be released after completion of such recall worked until they have had a 10-hour break. The Employee shall not suffer any loss of pay for rostered ordinary hours occurring during such absence.
 
-**(c)** If, on the instructions of the Employer, an Employee resumes or continues work without having had a 10-hour break in accordance with clause 168.4(b)\[183.2(d)\], they shall be paid at the rate of double time until they are released from duty for such rest period. The Employee shall then be entitled to be absent until they have had a 10-hour break. The Employee shall not suffer any loss of pay for rostered ordinary hours occurring during such absence.
+**(c)** If, on the instructions of the Employer, an Employee resumes or continues work without having had a 10-hour break in accordance with [clause 168.4(b)](/ebas/mental-health/support-services/preliminary/168-on-call-recall)\[183.2(d)\], they shall be paid at the rate of double time until they are released from duty for such rest period. The Employee shall then be entitled to be absent until they have had a 10-hour break. The Employee shall not suffer any loss of pay for rostered ordinary hours occurring during such absence.
 
 **168.5** Transport following Recall
 

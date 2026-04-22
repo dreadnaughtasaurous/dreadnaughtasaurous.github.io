@@ -8,7 +8,7 @@ topics: ['wages', 'accident-pay', 'preliminary']
 
 
 
-**33.1** An Employer will be required to pay, and an Employee will be entitled to receive, accident pay in accordance with this clause 33.
+**33.1** An Employer will be required to pay, and an Employee will be entitled to receive, accident pay in accordance with this [clause 33](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility).
 
 **33.2** Definitions
 
@@ -38,7 +38,7 @@ week together with the average weekly amount they are earning;
 
 **(a)** Subject to the terms of this clause, an Employee covered by the Agreement will, upon receiving payment of weekly compensation and continuing to receive such payment for incapacity under the WIRC Act, be paid accident pay by their Employer who is liable to pay compensation under the WIRC Act, which liability may be discharged by another person on behalf of the Employer, provided that:
 
-**(i)** Accident pay will not apply to any incapacity occurring during the first two weeks of employment unless such incapacity continues beyond the first two weeks and then, subject to subclause 33.6(b) and to the maximum period of payment prescribed elsewhere herein, accident pay will apply only to the period of incapacity after the first two weeks.
+**(i)** Accident pay will not apply to any incapacity occurring during the first two weeks of employment unless such incapacity continues beyond the first two weeks and then, subject to [subclause 33.6(b)](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility) and to the maximum period of payment prescribed elsewhere herein, accident pay will apply only to the period of incapacity after the first two weeks.
 
 **(ii)** Accident pay will only be payable to an Employee whilst that Employee remains in the employment of the Employer by whom they were employed at the time of the incapacity and then only for such period as they received a weekly payment under the WIRC Act. Provided that if an Employee who is partially incapacitated cannot obtain suitable employment from their Employer but such alternative employment is available with another Employer then the relevant amount of accident pay will still be payable.
 
@@ -88,7 +88,7 @@ the Employee fails to commence the work, accident pay will cease from the date o
 
 **33.16** Commencement
 
-This clause 33 will only apply in respect of incapacity arising from an injury occurring or recurring on or after 3 March 1975 or, in the case of Section 3 Employees employed by Royal Women’s Hospital or Royal Children’s Hospital, 22 September 1975.
+This [clause 33](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility) will only apply in respect of incapacity arising from an injury occurring or recurring on or after 3 March 1975 or, in the case of Section 3 Employees employed by Royal Women’s Hospital or Royal Children’s Hospital, 22 September 1975.
 
 Plain language terms: workers comp top-up, accident makeup pay.
 

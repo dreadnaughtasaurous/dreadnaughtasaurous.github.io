@@ -44,7 +44,7 @@ topics: ['hours', 'overtime', 'preliminary', 'definitions']
 
 **89.5** Reasonable overtime
 
-**(a)** In determining whether overtime is "reasonable overtime" for the purposes of subclause 89.1(b), the following must be taken into account:
+**(a)** In determining whether overtime is "reasonable overtime" for the purposes of [subclause 89.1(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime), the following must be taken into account:
 
 **(i)** any risk to Employee health and safety from working the additional hours
 
@@ -68,7 +68,7 @@ topics: ['hours', 'overtime', 'preliminary', 'definitions']
 
 **89.6** Approval of Overtime
 
-**(a)** A request or direction made by the manager of the ward/team that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether clause 89.6(b) is complied with.
+**(a)** A request or direction made by the manager of the ward/team that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether [clause 89.6(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime) is complied with.
 
 **(b)** An Employer may create policies and procedures regarding the process the nurse in manager of the ward/team is required to undertake prior to approving overtime.
 
@@ -82,13 +82,13 @@ topics: ['hours', 'overtime', 'preliminary', 'definitions']
 
 **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee, including the return journey where the Employee's vehicle remains at the workplace.
 
-**(b)** Where overtime is a result of a double shift, the provisions at subclause 89.9 below (Additional Provisions for Double Shifts) also apply.
+**(b)** Where overtime is a result of a double shift, the provisions at [subclause 89.9](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime) below (Additional Provisions for Double Shifts) also apply.
 
 **89.9** Additional Provisions for Double Shifts
 
 **(a)** A double shift occurs where a non-casual Employee has worked 14 or more continuous hours (inclusive of any paid or unpaid breaks).
 
-**(b)** An Employee who works a double shift will be entitled to overtime for the time worked in addition to the Employee's rostered shift length in accordance with subclause 89.3.
+**(b)** An Employee who works a double shift will be entitled to overtime for the time worked in addition to the Employee's rostered shift length in accordance with [subclause 89.3](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime).
 
 **(c)** If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
 

@@ -14,7 +14,7 @@ topics: ['ohs', 'preliminary']
 
 **(b)** Arrangement of this Part K This part is arranged as follows:
 
-**(i)** OHS Preliminary (clause 69 )
+**(i)** OHS Preliminary ([clause 69](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence) )
 
 **(ii)** OHS Working Group ([clause 69A](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group))
 
@@ -34,9 +34,9 @@ topics: ['ohs', 'preliminary']
 
 **(x)** Hazardous Weather Conditions (see [clause 69G](/ebas/mental-health/common-terms/ohs/69G-hazardous-weather-conditions))
 
-**(xi)** Workers’ Compensation, Rehabilitation and Return to Work (Clause 69H)
+**(xi)** Workers’ Compensation, Rehabilitation and Return to Work ([Clause 69H](/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work))
 
-**(xii)** Prevention of Gendered Violence Including Sexual Harassment (clause 69I).
+**(xii)** Prevention of Gendered Violence Including Sexual Harassment ([clause 69I](/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment)).
 
 **(c)** Definitions For the purposes of this Part K of this Agreement:
 

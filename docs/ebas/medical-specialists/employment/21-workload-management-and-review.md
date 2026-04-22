@@ -40,7 +40,7 @@ The Health Service and Doctor shall consult regularly regarding the Doctor’s w
 
 **(iv)** Practice in a Distant Location – including time taken to travel to and from the distant location.
 
-**(v)** Clinical Support Time including Clinical Support Duties as defined at subclause 18.2.
+**(v)** Clinical Support Time including Clinical Support Duties as defined at [subclause 18.2](/ebas/medical-specialists/employment/18-clinical-support-time).
 
 **(b)** The Health Service and Doctor shall calculate the hours required to perform the tasks and responsibilities set out in writing. This includes taking into account that some aspects of the routine workload occur more frequently than others.
 

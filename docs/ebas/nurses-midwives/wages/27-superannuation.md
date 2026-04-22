@@ -54,9 +54,9 @@ Superannuation contributions paid by the Employer will be calculated and paid on
 
 **(c)** any additional amounts consistent with the trust deed of the superannuation fund; and
 
-**(d)** parental leave (paid and unpaid) in accordance with clause 27.6.
+**(d)** parental leave (paid and unpaid) in accordance with [clause 27.6](/ebas/nurses-midwives/wages/27-superannuation).
 
-Note: Superannuation contributions during a period of worker's compensation leave taken after 1 July 2026 are set out at clause 27.8.
+Note: Superannuation contributions during a period of worker's compensation leave taken after 1 July 2026 are set out at [clause 27.8](/ebas/nurses-midwives/wages/27-superannuation).
 
 **27.6** Superannuation during parental leave
 
@@ -72,7 +72,7 @@ The Employer will make superannuation contributions throughout any period of par
 
 **(iii)** Where, during a period of parental leave, the Employer also pays the Employee ordinary time earnings relating to that period, the superannuation contribution will be calculated in accordance with (a) and (b) above, less any superannuation payment made by the Employer in respect of those ordinary time earnings.
 
-**(c)** Information regarding superannuation contributions under this clause 27.6 will be included on a payslip or Employee portal at the same time as it would if the Employee was not on parental leave.
+**(c)** Information regarding superannuation contributions under this [clause 27.6](/ebas/nurses-midwives/wages/27-superannuation) will be included on a payslip or Employee portal at the same time as it would if the Employee was not on parental leave.
 
 **27.7** Timing of Superannuation contributions
 

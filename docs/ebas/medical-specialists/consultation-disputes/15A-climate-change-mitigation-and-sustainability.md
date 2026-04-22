@@ -28,7 +28,7 @@ The parties acknowledge that:
 
 **(ii)** At a local workplace level through:
 
-A. the WIC (see subclause 62.10) where it is in operation; and/or
+A. the WIC (see [subclause 62.10](/ebas/medical-specialists/union-matters/62-union-matters)) where it is in operation; and/or
 
 B. a local body established for the purpose of consulting over environmental sustainability and climate change (however described).
 

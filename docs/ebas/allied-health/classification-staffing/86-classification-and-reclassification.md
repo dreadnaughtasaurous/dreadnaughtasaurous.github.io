@@ -18,9 +18,9 @@ topics: ['preliminary']
 
 **86.5** Where an Employee believes that the work performed and required by their position is better described by another classification with a higher rate of pay, the Employee may seek reclassification by notifying the Employer in writing, addressing why they believe another classification better describes the work performed and required by their position, having regard to both the current and proposed classification. The Employee’s Manager may also make the reclassification request.
 
-**86.6** The Employer will provide a written response to the requested reclassification within four (4) weeks. Where the Employer, in accordance with subclause 86.2, does not believe the work performed and required by the Employee’s position is better described by another classification, the Employer will provide the reasons for this, having regard to both the current and proposed classification.
+**86.6** The Employer will provide a written response to the requested reclassification within four (4) weeks. Where the Employer, in accordance with [subclause 86.2](/ebas/allied-health/classification-staffing/86-classification-and-reclassification), does not believe the work performed and required by the Employee’s position is better described by another classification, the Employer will provide the reasons for this, having regard to both the current and proposed classification.
 
-**86.7** Where the Employer determines, in accordance with subclause 86.5 and 86.6, that another classification better describes the work performed and required by the Employee’s position, the reclassification will take effect from the earlier of:
+**86.7** Where the Employer determines, in accordance with [subclause 86.5](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) and 86.6, that another classification better describes the work performed and required by the Employee’s position, the reclassification will take effect from the earlier of:
 
 **(a)** where it can reasonably be determined, the date on which the Employee’s work was better described by another classification; or
 

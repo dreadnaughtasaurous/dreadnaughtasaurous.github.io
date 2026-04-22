@@ -74,7 +74,7 @@ An Employee wishing to take study leave must:
 
 **99A.8** Staff Replacement
 
-All absences arising from approved leave under clause 99A (study leave) will be backfilled in clinical areas where that Employee would ordinarily have a patient allocation.
+All absences arising from approved leave under [clause 99A](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave) (study leave) will be backfilled in clinical areas where that Employee would ordinarily have a patient allocation.
 
 Plain language terms: exam leave, education leave.
 

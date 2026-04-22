@@ -16,7 +16,7 @@ The ordinary hours of full time work will be 38 hours per week or an average of 
 
 **(b)** Registrars
 
-**(i)** The ordinary hours of full-time work will be 38 hours plus five reasonable additional hours of Training Time (as defined at subclause 3.1(kk)) equalling 43 hours per week or an average of 43 hours per week over a period of up to four weeks.
+**(i)** The ordinary hours of full-time work will be 38 hours plus five reasonable additional hours of Training Time (as defined at [subclause 3.1(kk)](/ebas/doctors-in-training/preliminary/3-definitions)) equalling 43 hours per week or an average of 43 hours per week over a period of up to four weeks.
 
 **(ii)** The arrangement of hours for Registrars is a long-standing industry arrangement that ensures Registrars have access to Training Time.
 
@@ -36,7 +36,7 @@ The ordinary hours of full time work will be 38 hours per week or an average of 
 
 **(ii)** a genuine medical emergency or disaster situation exists.
 
-**(b)** A Doctor who has exceeded, or is likely to exceed, the hours of work prescribed in subclause 33.2 as a result of the performance of unrostered overtime, the Doctor should, as soon as practicable, alert the Employer in accordance with subclause 41.2(b).
+**(b)** A Doctor who has exceeded, or is likely to exceed, the hours of work prescribed in [subclause 33.2](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) as a result of the performance of unrostered overtime, the Doctor should, as soon as practicable, alert the Employer in accordance with [subclause 41.2(b)](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review).
 
 **(c)** A Health Service will not be in breach of this clause where the Doctor applies for unrostered overtime after the relevant period expires.
 
@@ -52,13 +52,13 @@ Full-time HMOs, MOs and SMOs must not be rostered for duty for less than four ho
 
 **33.5** Averaging does not apply to overtime
 
-Averaging of hours under this clause must not be utilised to reduce or avoid an entitlement prescribed in subclause 36.2 (Overtime Entitlement).
+Averaging of hours under this clause must not be utilised to reduce or avoid an entitlement prescribed in [subclause 36.2](/ebas/doctors-in-training/hours-of-work/36-overtime) (Overtime Entitlement).
 
 **33.6** Breaks Between Ordinary Rostered Shifts
 
 **(a)** Doctors must be free from duty for at least 10 hours between rostered ordinary shifts.
 
-**(b)** To support clause 33.6(a), a Health Service should avoid rostering a Doctor for ordinary duty and standby On-Call consecutively (without a break) except where the period of standby On-Call and ordinary duty, taken together, do not exceed the maximum hours at 33.3. If it is unavoidable and does occur, the terms of 33.6(e) apply.
+**(b)** To support [clause 33.6(a)](/ebas/doctors-in-training/hours-of-work/33-hours-of-work), a Health Service should avoid rostering a Doctor for ordinary duty and standby On-Call consecutively (without a break) except where the period of standby On-Call and ordinary duty, taken together, do not exceed the maximum hours at 33.3. If it is unavoidable and does occur, the terms of 33.6(e) apply.
 
 **(c)** Doctors should be free from duty for at least forty-eight (48) hours when moving from night shifts to any other shift arrangement. If working a single night shift, Doctors must be free for at least twenty-three (23) hours.
 

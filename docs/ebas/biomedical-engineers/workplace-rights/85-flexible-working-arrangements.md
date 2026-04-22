@@ -16,7 +16,7 @@ Other entitlements relevant to family and domestic violence can be found at [cla
 
 **(a)** full-time or part-time Employee with at least 12 months continuous service; or
 
-**(b)** casual Employee (as defined by subclause 20.1) who have been employed on a regular and systematic basis, and who has been employed on that basis for a sequence of periods of employment during a period of at least 12 months, and has a reasonable expectation of continuing employment by the Employer on a regular and systematic basis.
+**(b)** casual Employee (as defined by [subclause 20.1](/ebas/biomedical-engineers/employment/20-casual-employment)) who have been employed on a regular and systematic basis, and who has been employed on that basis for a sequence of periods of employment during a period of at least 12 months, and has a reasonable expectation of continuing employment by the Employer on a regular and systematic basis.
 
 **85.3** The specified circumstances are if the Employee:
 
@@ -36,7 +36,7 @@ Other entitlements relevant to family and domestic violence can be found at [cla
 
 **85.4** Making a request
 
-**(a)** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at subclause 85.3.
+**(a)** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at [subclause 85.3](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements).
 
 **(b)** A request for a flexible work arrangement includes (but is not limited to) a request to work part-time upon return to work after taking leave for the birth or adoption of a child to assist the Employee to care for the child (which may, for example, include a reduction in existing part-time hours).
 
@@ -56,9 +56,9 @@ Other entitlements relevant to family and domestic violence can be found at [cla
 
 **(iii)** the Employer has had regard to the consequences of the refusal for the Employee; and
 
-**(iv)** the refusal is on Reasonable Business Grounds. Note: The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request (see subclause 4.15(b)).
+**(iv)** the refusal is on Reasonable Business Grounds. Note: The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request (see [subclause 4.15(b)](/ebas/biomedical-engineers/preliminary/4-definitions)).
 
-**(c)** An Employee or Employer may choose to be represented at a meeting under clause 85.5(b)(i)(A) by a representative including a Union or employer organisation.
+**(c)** An Employee or Employer may choose to be represented at a meeting under [clause 85.5(b)(i)(A)](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements) by a representative including a Union or employer organisation.
 
 **(d)** The response must:
 
@@ -76,7 +76,7 @@ Other entitlements relevant to family and domestic violence can be found at [cla
 
 **(iii)** either: **(A)** set out the changes (other than the requested change) in the Employee’s working arrangements that would accommodate, to any extent, the circumstances of the Employee and that the Employer would be willing to make; or **(B)** state that there are no such changes; and
 
-**(iv)** set out the effect of subclause 85.6, including if a dispute is referred to the Commission.
+**(iv)** set out the effect of [subclause 85.6](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements), including if a dispute is referred to the Commission.
 
 **85.6** Dispute Resolution The dispute resolution procedure in the Agreement will apply to any grievance/dispute arising in relation to a request for flexible working arrangements.
 

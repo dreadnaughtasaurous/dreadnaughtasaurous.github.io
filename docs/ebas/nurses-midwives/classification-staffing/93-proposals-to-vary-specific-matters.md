@@ -12,7 +12,7 @@ topics: ['hours', 'allowances']
 
 **(a)** This clause will apply to any proposal by an Employer or Employees to:
 
-**(i)** implement an alternate Four Clear Days Allowance (see clause 41C.);
+**(i)** implement an alternate Four Clear Days Allowance (see [clause 41C](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance).);
 
 **(ii)** implement alternative hours of work at [clause 42](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) (Hours of Work), (excepting [clauses 42.2](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), 42.3, and 42.4); or
 
@@ -34,7 +34,7 @@ In this clause:
 
 **93.3** Written proposal (complying and non-complying proposal)
 
-The Employer will provide a written proposal to the Affected Employees and, at the same time, the Secretary of the ANMF. The proposal will address, where relevant, the considerations referred to in clause 93.9 below.
+The Employer will provide a written proposal to the Affected Employees and, at the same time, the Secretary of the ANMF. The proposal will address, where relevant, the considerations referred to in [clause 93.9](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) below.
 
 **93.4** Meaning of Complying Proposal
 
@@ -44,11 +44,11 @@ In this clause, a complying proposal is a proposal that:
 
 **(b)** would, upon implementation, be compliant with the ratios prescribed by Divisions 1, 2 and 3 in Part 2 the Safe Patient Care Act; and
 
-**(c)** is not a non-complying proposal as described at clause 93.7 below.
+**(c)** is not a non-complying proposal as described at [clause 93.7](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) below.
 
 **93.5** Consultation period – complying proposal
 
-A maximum of three weeks from the date of provision of the information in clause 93.3 will be provided for consultation.
+A maximum of three weeks from the date of provision of the information in [clause 93.3](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) will be provided for consultation.
 
 **93.6** Implementing a complying proposal
 
@@ -62,11 +62,11 @@ Should there be concern as to the 'genuine' nature of the agreement of the affec
 
 **(c)** Exception – flexible work arrangement
 
-The requirement at subclause 93.6(a) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of clause 16 (Flexible Working Arrangements). Following the consultation period at clause 93.5, a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period.
+The requirement at [subclause 93.6(a)](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of [clause 16](/ebas/nurses-midwives/consultation-disputes/16-flexible-working-arrangements) (Flexible Working Arrangements). Following the consultation period at [clause 93.5](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters), a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period.
 
 **93.7** Meaning of Non-Complying Proposal
 
-In this clause, a non-complying proposal is a proposal about a matter at subclause 93.1(a) that:
+In this clause, a non-complying proposal is a proposal about a matter at [subclause 93.1(a)](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) that:
 
 **(a)** is not EFT neutral;
 
@@ -86,7 +86,7 @@ In this clause, a non-complying proposal is a proposal about a matter at subclau
 
 **93.9** Considerations
 
-The following are considerations, where relevant, that must be addressed in relation to a proposal referred to in clause 93.1:
+The following are considerations, where relevant, that must be addressed in relation to a proposal referred to in [clause 93.1](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters):
 
 **(a)** patient profile – consideration of patient case mix, age of patient, complexity, length of stay and throughput of patients in the clinical setting e.g. emergency admissions, elective admissions and transfers to/from critical care areas;
 

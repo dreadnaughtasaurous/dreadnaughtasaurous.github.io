@@ -18,11 +18,11 @@ responsibility includes compliance with Occupational Health and Safety legislati
 
 **64.2** Addressing concerns about Fitness for Work
 
-**(a)** In the event an Employee’s manager forms a Reasonable Belief as defined at subclause 64.2(b) below that an Employee is unfit to perform their duties, the Employer will discuss their concerns with the Employee in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
+**(a)** In the event an Employee’s manager forms a Reasonable Belief as defined at [subclause 64.2(b)](/ebas/allied-health/leave/64-fitness-for-work) below that an Employee is unfit to perform their duties, the Employer will discuss their concerns with the Employee in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
 
-**(b)** In this clause 64 Reasonable Belief means a belief a reasonable person would hold based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 64 permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+**(b)** In this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) Reasonable Belief means a belief a reasonable person would hold based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
 
-**(c)** In this clause 64 Treating Medical Practitioner may, where relevant, include a psychologist.
+**(c)** In this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) Treating Medical Practitioner may, where relevant, include a psychologist.
 
 **(d)** The Employer will:
 
@@ -54,7 +54,7 @@ responsibility includes compliance with Occupational Health and Safety legislati
 
 **(b)** Before the Employee attends an IME the Employer will provide the Employee with the name of the proposed IME.
 
-**(c)** If the Employee has concerns regarding the impartiality of the proposed IME notified in subclause 64.4(b), within three (3) business days or reasonable longer period to allow the Employee to consult with their Treating Medical Practitioner, the Employee will:
+**(c)** If the Employee has concerns regarding the impartiality of the proposed IME notified in [subclause 64.4(b)](/ebas/allied-health/leave/64-fitness-for-work), within three (3) business days or reasonable longer period to allow the Employee to consult with their Treating Medical Practitioner, the Employee will:
 
 **(i)** provide reasoning for their concerns, and
 
@@ -76,7 +76,7 @@ responsibility includes compliance with Occupational Health and Safety legislati
 
 **(ii)** request to meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting and represent the Employee.
 
-**64.5** Where the Employee attends a medical practitioner under either subclause 64.3 or 64.4 above, the Employer will:
+**64.5** Where the Employee attends a medical practitioner under either [subclause 64.3 or 64.4](/ebas/allied-health/leave/64-fitness-for-work) above, the Employer will:
 
 **(a)** provide to the Employee a copy of any correspondence (including any supporting material) proposed to be provided to the medical practitioner and any resulting report;
 
@@ -88,13 +88,13 @@ responsibility includes compliance with Occupational Health and Safety legislati
 
 **(e)** reimburse the Employee for any other reasonable costs incurred by the Employee in attending the medical practitioner, including the travel allowance in [clause 41](/ebas/allied-health/allowances/41-travelling-allowance) (Travelling Allowance).
 
-**64.6** Nothing in this clause 64 prevents an Employer from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
+**64.6** Nothing in this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) prevents an Employer from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
 
-**64.7** The Employer will respect an Employee’s privacy and ensure that any personal information provided by the Employee or a medical practitioner under this clause 64 is kept confidential.
+**64.7** The Employer will respect an Employee’s privacy and ensure that any personal information provided by the Employee or a medical practitioner under this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) is kept confidential.
 
-**64.8** The Employer must only seek information regarding the Employee’s capacity to work related to the concerns at subclause 64.2(a), including from any medical practitioner an Employee attends under subclause 64.3 or 64.4, and will not request confidential medical information under subclause 64.2, 64.3 and 64.4.
+**64.8** The Employer must only seek information regarding the Employee’s capacity to work related to the concerns at [subclause 64.2(a)](/ebas/allied-health/leave/64-fitness-for-work), including from any medical practitioner an Employee attends under [subclause 64.3 or 64.4](/ebas/allied-health/leave/64-fitness-for-work), and will not request confidential medical information under [subclause 64.2](/ebas/allied-health/leave/64-fitness-for-work), 64.3 and 64.4.
 
-**64.9** This clause 64. does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+**64.9** This [clause 64](/ebas/allied-health/leave/64-fitness-for-work). does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
 
 Plain language terms: fit for duty, medical assessment.
 

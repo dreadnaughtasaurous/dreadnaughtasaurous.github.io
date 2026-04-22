@@ -14,7 +14,7 @@ topics: ['ohs']
 
 **(b)** Each Doctor is responsible for ensuring that they are fit to perform their duties without risk to the safety, health and well-being of themselves and others within the workplace. This responsibility includes compliance with reasonable measures put in place by the Health Service and any related occupational health and safety requirements.
 
-**(c)** In the event the Doctor’s Health Service forms a reasonable belief as defined at subclause 51.1(d) below that a Doctor may be unfit to perform their duties, the Health Service will discuss their concerns with the Doctor in a timely manner to promote physical, mental and emotional health so that Doctors can safely undertake and sustain work.
+**(c)** In the event the Doctor’s Health Service forms a reasonable belief as defined at [subclause 51.1(d)](/ebas/medical-specialists/leave/51-fitness-for-work) below that a Doctor may be unfit to perform their duties, the Health Service will discuss their concerns with the Doctor in a timely manner to promote physical, mental and emotional health so that Doctors can safely undertake and sustain work.
 
 **(d)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities.
 
@@ -40,7 +40,7 @@ practitioner, and the Health Service will provide to the Doctor, in writing, the
 
 **(j)** If, on receipt of the report, the Health Service continues to have a reasonable belief that the Doctor is unfit for duty, or the Doctor does not provide a report from the treating medical practitioner, the Health Service may require the Doctor to attend an independent medical practitioner.
 
-**(k)** Where the Doctor attends a medical practitioner under either subclauses 51.1(g) or (j) above, the Health Service will:
+**(k)** Where the Doctor attends a medical practitioner under either [subclauses 51.1(g)](/ebas/medical-specialists/leave/51-fitness-for-work) or (j) above, the Health Service will:
 
 **(i)** provide to the Doctor a copy of any correspondence to the medical practitioner and any resulting report;
 
@@ -60,13 +60,13 @@ practitioner, and the Health Service will provide to the Doctor, in writing, the
 
 the Doctor will be paid the ordinary rate of pay for reasonable time taken to travel to and from the appointment and the time taken for the appointment.
 
-**(m)** Nothing in this clause 51 prevents a Health Service from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
+**(m)** Nothing in this [clause 51](/ebas/medical-specialists/leave/51-fitness-for-work) prevents a Health Service from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
 
-**(n)** The Health Service will respect a Doctor’s privacy and ensure that any personal information provided by the Doctor or a medical practitioner under this clause 51 is kept confidential.
+**(n)** The Health Service will respect a Doctor’s privacy and ensure that any personal information provided by the Doctor or a medical practitioner under this [clause 51](/ebas/medical-specialists/leave/51-fitness-for-work) is kept confidential.
 
 **51.2** Reasonable Adjustments
 
-**(a)** Where Doctors have a disability (whether permanent or temporary) the Health Service is required to make reasonable adjustments to enable the Doctor to continue to perform their duties, subject to subclause 51.2(b) below.
+**(a)** Where Doctors have a disability (whether permanent or temporary) the Health Service is required to make reasonable adjustments to enable the Doctor to continue to perform their duties, subject to [subclause 51.2(b)](/ebas/medical-specialists/leave/51-fitness-for-work) below.
 
 **(b)** A Health Service is not required to make reasonable adjustments if the Doctor could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 

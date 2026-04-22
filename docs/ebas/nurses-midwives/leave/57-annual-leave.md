@@ -32,7 +32,7 @@ Example: If a part-time Employee who works 24 hours in a week that includes a we
 
 If an Employee was accruing six weeks of annual leave as at 30 June 2022 (or would have been but for the operation of a Flexible Working Arrangement, Individual Flexible Working Arrangement/s, or an absence from work on parental leave), the Employee will continue to accrue six weeks of annual leave unless or until:
 
-**(A)** the arrangement at subclauses 57.1(a) or (b) is more beneficial for the Employee;
+**(A)** the arrangement at [subclauses 57.1(a)](/ebas/nurses-midwives/leave/57-annual-leave) or (b) is more beneficial for the Employee;
 
 **(B)** the Employee changes Employers;
 
@@ -82,17 +82,17 @@ If an Employee was accruing six weeks of annual leave as at 30 June 2022 (or wou
 
 **(C)** whether previous leave applications for the same high demand period were or were not successful.
 
-Example: A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are 'high demand periods' for that ward within the meaning of this subclause 57.2(f)) and the NUM/MUM must publish the information specified above at subclauses 57.2(g)(i)(A) to (C) and, when determining the applications, apply the considerations at subclause 57.2(f)(ii).
+Example: A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are 'high demand periods' for that ward within the meaning of this [subclause 57.2(f)](/ebas/nurses-midwives/leave/57-annual-leave)) and the NUM/MUM must publish the information specified above at [subclauses 57.2(g)(i)(A) to (C)](/ebas/nurses-midwives/leave/57-annual-leave) and, when determining the applications, apply the considerations at [subclause 57.2(f)(ii)](/ebas/nurses-midwives/leave/57-annual-leave).
 
 **57.3** Excess annual leave accruals – general provision
 
-**(a)** An Employee has an excess leave accrual where the Employee has two years or more of annual leave entitlement accrued in accordance with this clause 57.
+**(a)** An Employee has an excess leave accrual where the Employee has two years or more of annual leave entitlement accrued in accordance with this [clause 57](/ebas/nurses-midwives/leave/57-annual-leave).
 
 **(b)** If an Employee has an excess leave accrual, the Employer or the Employee may seek to confer with the other and genuinely try to reach agreement on how to reduce or eliminate the excess leave accrual.
 
 'Genuinely trying to reach agreement' will include:
 
-**(i)** providing the Employee a reasonable opportunity to submit a plan to reduce the leave to not less than eight (8) weeks within six months, subject to subclause 57.3(b)(ii) below; and
+**(i)** providing the Employee a reasonable opportunity to submit a plan to reduce the leave to not less than eight (8) weeks within six months, subject to [subclause 57.3(b)(ii)](/ebas/nurses-midwives/leave/57-annual-leave) below; and
 
 **(ii)** the Employer not unreasonably refusing to agree to a leave reduction plan which includes saving leave for an extended vacation within 12 months of the date of agreement to the leave reduction plan.
 
@@ -102,9 +102,9 @@ Example: A ward generally receives more applications for annual leave over schoo
 
 **(a)** Direction by Employer
 
-Where the Employer has genuinely tried to reach agreement with an Employee under subclause 57.4(b) but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
+Where the Employer has genuinely tried to reach agreement with an Employee under [subclause 57.4(b)](/ebas/nurses-midwives/leave/57-annual-leave) but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
 
-However, in directing that the Employee take leave under this subclause 57.4(a):
+However, in directing that the Employee take leave under this [subclause 57.4(a)](/ebas/nurses-midwives/leave/57-annual-leave):
 
 **(i)** the Employee cannot be directed to reduce the accrued leave to less than eight (8) weeks;
 
@@ -124,13 +124,13 @@ Where the Employer issues a direction to the Employee to take paid annual leave 
 
 **(c)** Request by Employee for Leave
 
-If the Employee has genuinely tried to reach agreement with the Employer under subclause 57.4(b) but agreement is not reached (including because the Employer refuses to confer), the Employee may give a written notice to the Employer requesting to take one or more periods of paid annual leave.
+If the Employee has genuinely tried to reach agreement with the Employer under [subclause 57.4(b)](/ebas/nurses-midwives/leave/57-annual-leave) but agreement is not reached (including because the Employer refuses to confer), the Employee may give a written notice to the Employer requesting to take one or more periods of paid annual leave.
 
 However, a notice under this subclause:
 
 **(i)** may only be given if the Employee has had an excess leave accrual for more than 6 months at the time of giving the notice;
 
-**(ii)** may only be given if the Employee has not been given a direction under subclause 57.4(a) that, when any other paid annual leave arrangements are taken into account would eliminate the Employee's excess accrual;
+**(ii)** may only be given if the Employee has not been given a direction under [subclause 57.4(a)](/ebas/nurses-midwives/leave/57-annual-leave) that, when any other paid annual leave arrangements are taken into account would eliminate the Employee's excess accrual;
 
 **(iii)** must not, if granted, result in the Employee's remaining accrued entitlement to paid annual leave being, at any time, less than 6 weeks when other paid annual leave arrangements are taken into account;
 
@@ -140,11 +140,11 @@ However, a notice under this subclause:
 
 **(vi)** must not be inconsistent with any leave arrangement agreed by the Employer and Employee; and
 
-**(vii)** must not be for more than 1 full year's entitlement to annual leave as prescribed by clause 57.1 above.
+**(vii)** must not be for more than 1 full year's entitlement to annual leave as prescribed by [clause 57.1](/ebas/nurses-midwives/leave/57-annual-leave) above.
 
 **(d)** Where the Employee requests leave by notice
 
-Where the Employee gives written notice to the Employer to take one or more periods of paid annual leave in accordance with subclause 57.4(c), the Employer must grant paid annual leave requested by the notice under subclause 57.4(c).
+Where the Employee gives written notice to the Employer to take one or more periods of paid annual leave in accordance with [subclause 57.4(c)](/ebas/nurses-midwives/leave/57-annual-leave), the Employer must grant paid annual leave requested by the notice under [subclause 57.4(c)](/ebas/nurses-midwives/leave/57-annual-leave).
 
 **(e)** Disputes regarding excess annual leave
 
@@ -156,7 +156,7 @@ Without limiting the Dispute Resolution Procedure of the Agreement, either an Em
 
 **(iii)** a dispute about whether a direction to take leave complies with the clause; or
 
-**(iv)** a dispute about a leave reduction plan referenced in subclauses 57.4(b) and (c).
+**(iv)** a dispute about a leave reduction plan referenced in [subclauses 57.4(b)](/ebas/nurses-midwives/leave/57-annual-leave) and (c).
 
 **57.5** Short periods of annual leave
 
@@ -180,7 +180,7 @@ See also [clauses 61](/ebas/nurses-midwives/leave/61-personal-leave) (Personal L
 
 **(iii)** Where an Employee takes other leave during annual leave, any annual leave loading received for a period that is no longer annual leave is taken to have been paid in advance as required in clause
 
-**57.7** (Payment for leave) or may be deducted from any payment required to be made under subclause 57.11(a) (Effect of termination on annual leave).
+**57.7** (Payment for leave) or may be deducted from any payment required to be made under [subclause 57.11(a)](/ebas/nurses-midwives/leave/57-annual-leave) (Effect of termination on annual leave).
 
 **57.7** Payment for leave
 
@@ -212,15 +212,15 @@ See also [clauses 61](/ebas/nurses-midwives/leave/61-personal-leave) (Personal L
 
 **(E)** RIPRN allowance ([clause 32](/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance)).
 
-**(b)** From 1 June 2024, leave loading under subclause 57.7(a)(i) is payable on:
+**(b)** From 1 June 2024, leave loading under [subclause 57.7(a)(i)](/ebas/nurses-midwives/leave/57-annual-leave) is payable on:
 
 **(i)** a maximum of 190 hours in respect of any year of employment, and
 
 **(ii)** the Employee's weekly ordinary pay subject to the cap (as defined).
 
-**57.9** The cap under subclause 57.8(b)(ii) is the weekly rate prescribed by this Agreement for a NM5C.
+**57.9** The cap under [subclause 57.8(b)(ii)](/ebas/nurses-midwives/leave/57-annual-leave) is the weekly rate prescribed by this Agreement for a NM5C.
 
-**57.10** To determine which payments the Employee would have received had the Employee not been on leave for the purpose of subclause 57.8(a)(ii), this will be done either by:
+**57.10** To determine which payments the Employee would have received had the Employee not been on leave for the purpose of [subclause 57.8(a)(ii)](/ebas/nurses-midwives/leave/57-annual-leave), this will be done either by:
 
 **(a)** the projected roster, being the roster the Employee would have worked had they not been on leave; or
 

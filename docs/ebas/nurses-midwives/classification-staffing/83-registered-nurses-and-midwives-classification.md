@@ -12,19 +12,19 @@ Part 1 – General
 
 **83.1** Scope
 
-This clause 83 is split into 4 parts:
+This [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) is split into 4 parts:
 
-**(a)** Part 1 (clauses 83.1 - 82.3) explains the scope of this clause and the applicable definitions;
+**(a)** Part 1 ([clauses 83.1](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 82.3) explains the scope of this clause and the applicable definitions;
 
-**(b)** Part 2 (clauses 83.3) sets out the classification descriptors for Registered Nurses and Registered Midwives;
+**(b)** Part 2 ([clauses 83.3](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification)) sets out the classification descriptors for Registered Nurses and Registered Midwives;
 
-**(c)** Part 3 (clauses 83.4 - 83.6) sets out the application process for Clinical Nurse/Midwife Specialist positions, the transfer arrangements of CNS/CMS status to a new Employer, and when the requirements of continuing to meet the CNS/CMS criteria must occur; and
+**(c)** Part 3 ([clauses 83.4](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.6) sets out the application process for Clinical Nurse/Midwife Specialist positions, the transfer arrangements of CNS/CMS status to a new Employer, and when the requirements of continuing to meet the CNS/CMS criteria must occur; and
 
-**(d)** Part 4 (clauses 83.7 - 83.38) sets out the grades to the classifications set out in Part 2.
+**(d)** Part 4 ([clauses 83.7](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38) sets out the grades to the classifications set out in Part 2.
 
 **83.2** General Definitions
 
-In this clause 83:
+In this [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification):
 
 **(a)** Basic Training means training for initial registration as a Registered Nurse, or where the Employee is not a Registered Nurse, an undergraduate degree in Midwifery.
 
@@ -372,7 +372,7 @@ Senior Midwife (a) Senior Midwife means an Employee who is a Registered Midwife 
 
 **(ii)** The Employee’s current Grade.
 
-**(c)** Where the Employer appoints a Senior Midwife to replace an existing Senior Midwife covered by (e)(ii), above, the Employer will retain the existing classification unless the role is substantially altered, in which case consultation under clause 11 shall occur. A dispute that cannot be resolved through consultation will be referred to the CIC, and if not resolved [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) will apply.
+**(c)** Where the Employer appoints a Senior Midwife to replace an existing Senior Midwife covered by (e)(ii), above, the Employer will retain the existing classification unless the role is substantially altered, in which case consultation under [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) shall occur. A dispute that cannot be resolved through consultation will be referred to the CIC, and if not resolved [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) will apply.
 
 Liaison Midwife - Classification
 
@@ -410,7 +410,7 @@ From 17 May 2024, the process for applications for Clinical Nurse/Midwife Specia
 
 **(e)** some health agencies (for example, where service delivery is similar across the facility) may wish to operate with an "umbrella" committee for the purpose of interviews;
 
-**(f)** the successful applicant will be notified in writing within seven days. The pay office will be informed of the new classification at the same time, which will apply from the FFPPOOA the date of application, subject to clause 83.5;
+**(f)** the successful applicant will be notified in writing within seven days. The pay office will be informed of the new classification at the same time, which will apply from the FFPPOOA the date of application, subject to [clause 83.5](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification);
 
 **(g)** if the applicant is unsuccessful they are to be notified of the outcome within seven days of the interview. An explanation will be given to the applicant as to the reasons for the decision;
 
@@ -422,13 +422,13 @@ From 17 May 2024, the process for applications for Clinical Nurse/Midwife Specia
 
 **(a)** Any requirements to continue to meet the Clinical Nurse/Midwife Specialist criteria (as set out in [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria)) will occur during rostered time.
 
-**(b)** Disputes regarding the relevance of Clinical Nurse/Midwife Specialist qualifications that cannot be resolved will be referred to the Central Implementation Committee and, if not resolved, will be dealt with under clause 14 (Statewide Industry Panel).
+**(b)** Disputes regarding the relevance of Clinical Nurse/Midwife Specialist qualifications that cannot be resolved will be referred to the Central Implementation Committee and, if not resolved, will be dealt with under [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (Statewide Industry Panel).
 
 **83.6** Transfer of CNS/CMS status
 
 **(a)** Where a person appointed as a CNS or CMS by an Employer commences employment with another Employer within the same specialty, the new Employer will:
 
-**(i)** advise the CNS/CMS of the next advertisement period referred to in subclause 83.4(a); and
+**(i)** advise the CNS/CMS of the next advertisement period referred to in [subclause 83.4(a)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification); and
 
 **(ii)** where an application is made for the next advertisement period and is successful, the Employee will be paid as a CNS/CMS back to the date of commencement in the new role.
 
@@ -448,7 +448,7 @@ The Nursing and Midwifery career structure is divided into four streams as follo
 
 **(d)** the Quality, Clinical Risk, Governance, Education and Development stream (QRED) which comprises those classifications principally engaged in clinical support, clinical development, education, risk management and governance.
 
-Each stream contains grades, and in some cases sub-grades. Application of these grades/sub-grades are set out in clauses 83.10 - 83.38.
+Each stream contains grades, and in some cases sub-grades. Application of these grades/sub-grades are set out in [clauses 83.10](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38.
 
 Employees will have the most appropriate classification and grade within their stream applied to their employment.
 
@@ -466,7 +466,7 @@ Employees will have the most appropriate classification and grade within their s
 
 **(b)** For the first 12 months after completion of a Re-entry Course or Supervised Experience, where such course or experience is required by the Nursing and Midwifery Board of Australia, the Employee will be paid at the rate appropriate to their Years of Experience, but no higher than RN/RM3.
 
-**(c)** After completion of 12 months' Experience in accordance with subclause 83.9(b) a nurse (upon sufficient proof to support a claim for incremental advancement) will be paid at the rate appropriate to their Years of Experience.
+**(c)** After completion of 12 months' Experience in accordance with [subclause 83.9(b)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) a nurse (upon sufficient proof to support a claim for incremental advancement) will be paid at the rate appropriate to their Years of Experience.
 
 **83.10** QRED 1
 

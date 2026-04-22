@@ -16,13 +16,13 @@ topics: ['employment']
 
 **(c)** for a fixed period,
 
-which in each case can be terminated earlier than the relevant expiration date in accordance with subclauses 21.6(c) or (d).
+which in each case can be terminated earlier than the relevant expiration date in accordance with [subclauses 21.6(c)](/ebas/nurses-midwives/employment-types/21-fixed-term-employment) or (d).
 
-**21.2** Subject to clause 21.4, fixed term employment will not be used to fill an ongoing position.
+**21.2** Subject to [clause 21.4](/ebas/nurses-midwives/employment-types/21-fixed-term-employment), fixed term employment will not be used to fill an ongoing position.
 
 **21.3** Limitations on the use of fixed term contracts
 
-**(a)** Subject to subclause 21.3(b), the following limitations apply to the use of fixed term contracts:
+**(a)** Subject to [subclause 21.3(b)](/ebas/nurses-midwives/employment-types/21-fixed-term-employment), the following limitations apply to the use of fixed term contracts:
 
 **(i)** the fixed term contract will not be for an employment term of longer than 2 years, including any extensions or renewals;
 
@@ -90,13 +90,13 @@ Note: In this context, backfill to support flexible working arrangements does no
 
 **(b)** An Employer must specify the rationale for fixed term employment, in the Employee’s Letter of Appointment.
 
-**(c)** An Employee may terminate the fixed term employment by the giving of notice in accordance with subclause 23.1(e) of this Agreement. No notice is required when the contract has reached its expiry date.
+**(c)** An Employee may terminate the fixed term employment by the giving of notice in accordance with [subclause 23.1(e)](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination) of this Agreement. No notice is required when the contract has reached its expiry date.
 
-**(d)** An Employer may terminate a fixed term Employee in accordance with subclauses 15.5(a)(i)(E), 15.5(a)(ii)(A) or 23.1(f).
+**(d)** An Employer may terminate a fixed term Employee in accordance with [subclauses 15.5(a)(i)(E)](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance), 15.5(a)(ii)(A) or 23.1(f).
 
 **21.7** Disputes under this clause
 
-All disputes raised under this clause 21 are to be dealt with in accordance with [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) (Dispute Resolution Procedure).
+All disputes raised under this [clause 21](/ebas/nurses-midwives/employment-types/21-fixed-term-employment) are to be dealt with in accordance with [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) (Dispute Resolution Procedure).
 
 **21.8** Graduates and Nurses/Midwives undertaking Post Graduate Studies
 

@@ -12,25 +12,25 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 
 This clause is arranged as follows:
 
-**(a)** Arrangement (subclause 10.1),
+**(a)** Arrangement ([subclause 10.1](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)),
 
-**(b)** Definitions (subclause 10.2),
+**(b)** Definitions ([subclause 10.2](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)),
 
-**(c)** Redeployment (subclause 10.3),
+**(c)** Redeployment ([subclause 10.3](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)),
 
-**(d)** Support to Affected Doctors (subclause 10.4),
+**(d)** Support to Affected Doctors ([subclause 10.4](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)),
 
-**(e)** Salary maintenance (subclause 10.5),
+**(e)** Salary maintenance ([subclause 10.5](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)),
 
-**(f)** Relocation (subclause 10.6),
+**(f)** Relocation ([subclause 10.6](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)),
 
-**(g)** Employment terminates due to redundancy (subclause 10.7), and
+**(g)** Employment terminates due to redundancy ([subclause 10.7](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)), and
 
-**(h)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 10.8).
+**(h)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 10.8](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements)).
 
 **10.2** Definitions
 
-**(a)** Affected Doctor for this clause 10 means a Doctor whose role will be redundant.
+**(a)** Affected Doctor for this [clause 10](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements) means a Doctor whose role will be redundant.
 
 **(b)** Comparable Role means an on-going role that:
 
@@ -42,7 +42,7 @@ A. in the same clinical specialty as that of the Affected Doctor’s former posi
 
 B. in a clinical specialty acceptable to the Affected Doctor; or
 
-C. a position that with the reasonable support described at subclause 10.3(g), the Affected Doctor could undertake; and
+C. a position that with the reasonable support described at [subclause 10.3(g)](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements), the Affected Doctor could undertake; and
 
 **(iii)** is the same Classification / Pay Point as the Affected Doctor’s redundant position;
 
@@ -56,9 +56,9 @@ C. a position that with the reasonable support described at subclause 10.3(g), t
 
 **(c)** Consultation is as defined at [clause 9](/ebas/medical-specialists/consultation-disputes/9-consultation) (Consultation) of this Agreement.
 
-**(d)** Continuity of Service at subclause 10.8 means that the service of the Doctor is treated as unbroken and that the cap on the transfer of personal leave at subclause 49.4 does not apply. However, continuity of service is not broken where a Health Service pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
+**(d)** Continuity of Service at [subclause 10.8](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements) means that the service of the Doctor is treated as unbroken and that the cap on the transfer of personal leave at [subclause 49.4](/ebas/medical-specialists/leave/49-personal-carer-s-leave) does not apply. However, continuity of service is not broken where a Health Service pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
-**(e)** Classification / Pay Point for the purposes of this clause 10 means a weekly salary in [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) that is at least equal to or higher than the weekly salary in [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) for the Role of the Doctor held immediately prior to redundancy
+**(e)** Classification / Pay Point for the purposes of this [clause 10](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements) means a weekly salary in [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) that is at least equal to or higher than the weekly salary in [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) for the Role of the Doctor held immediately prior to redundancy
 
 **(f)** Reasonable Distance means a distance that has regard to the Doctor’s original work location, current home address, capacity of the Doctor to travel, additional travelling time, effects on the personal circumstances of the Affected Doctor, including family commitments and responsibilities and other matters raised by the Doctor, or assistance provided by their Health Service.
 
@@ -82,7 +82,7 @@ The Affected Doctor must be advised in writing of:
 
 **(ii)** details of the redeployment process,
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 10.3(g), and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 10.3(g)](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements), and
 
 **(iv)** the Affected Doctor’s rights and obligations.
 
@@ -110,7 +110,7 @@ The Doctor must actively participate in the redeployment process including:
 
 **(e)** Rejecting a Comparable Role
 
-Where an Affected Doctor rejects an offer of redeployment to a Comparable Role (as defined), the Affected Doctor may be ineligible for a departure package referred to at subclause 10.7.
+Where an Affected Doctor rejects an offer of redeployment to a Comparable Role (as defined), the Affected Doctor may be ineligible for a departure package referred to at [subclause 10.7](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements).
 
 **(f)** Temporary alternative duties
 
@@ -230,7 +230,7 @@ The Victorian Government’s policy with respect to public sector redundancy and
 
 **(ii)** provides continuity of service; and
 
-**(iii)** where the Comparable Role results in a loss of income, salary maintenance at subclause 10.5 will apply; and
+**(iii)** where the Comparable Role results in a loss of income, salary maintenance at [subclause 10.5](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements) will apply; and
 
 **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee;
 

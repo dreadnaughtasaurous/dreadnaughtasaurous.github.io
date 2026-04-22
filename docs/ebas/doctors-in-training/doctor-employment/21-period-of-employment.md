@@ -18,9 +18,9 @@ This clause does not apply to casual employees.
 
 **21.2** Minimum period of employment – exception
 
-The restrictions in the above subclause 21.1(a) do not apply to:
+The restrictions in the above [subclause 21.1(a)](/ebas/doctors-in-training/doctor-employment/21-period-of-employment) do not apply to:
 
-**(a)** Medical Officers, Senior Medical Officers or Casual Doctors as defined in subclauses 3.1(w), 3.1(ff) and 19.1 of this Agreement; or
+**(a)** Medical Officers, Senior Medical Officers or Casual Doctors as defined in [subclauses 3.1(w)](/ebas/doctors-in-training/preliminary/3-definitions), 3.1(ff) and 19.1 of this Agreement; or
 
 **(b)** facilitate placements arranged by a Specialist Medical College or at the request of the Doctor to meet Specialist Medical College training requirements; or
 
@@ -28,11 +28,11 @@ The restrictions in the above subclause 21.1(a) do not apply to:
 
 **21.3** Effect of Certain Absences on Period of Employment
 
-**(a)** Where a Doctor is engaged for a period under this clause and is absent for a continuous period exceeding three months from employment as a result of Parental Leave (see [clause 67](/ebas/doctors-in-training/leave/67-parental-leave)), Family Violence Leave (see [clause 71](/ebas/doctors-in-training/leave/71-family-violence-leave)) or Carer’s Leave (see [clause 61](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave)), the provisions of subclauses 21.3(b)(i) and (b)(ii) shall apply.
+**(a)** Where a Doctor is engaged for a period under this clause and is absent for a continuous period exceeding three months from employment as a result of Parental Leave (see [clause 67](/ebas/doctors-in-training/leave/67-parental-leave)), Family Violence Leave (see [clause 71](/ebas/doctors-in-training/leave/71-family-violence-leave)) or Carer’s Leave (see [clause 61](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave)), the provisions of [subclauses 21.3(b)(i)](/ebas/doctors-in-training/doctor-employment/21-period-of-employment) and (b)(ii) shall apply.
 
 **(b)** Extension of contract – Parental Leave, Carer’s Leave and Family Violence
 
-**(i)** Prior to the scheduled commencement of a period of Parental Leave exceeding three months, the Health Service shall offer to vary the period of the contract to accommodate the length of the Parental Leave and the length of the remaining period of the existing contract. Where a Doctor exercises the right to request additional Parental Leave either under subclause 67.12 and the Health Service agrees, or further period of Parental Leave under [clause 67](/ebas/doctors-in-training/leave/67-parental-leave) (in the event of additional pregnancy), the Health Service shall offer to further vary the period of the contract to accommodate for the length of the further period of Parental Leave.
+**(i)** Prior to the scheduled commencement of a period of Parental Leave exceeding three months, the Health Service shall offer to vary the period of the contract to accommodate the length of the Parental Leave and the length of the remaining period of the existing contract. Where a Doctor exercises the right to request additional Parental Leave either under [subclause 67.12](/ebas/doctors-in-training/leave/67-parental-leave) and the Health Service agrees, or further period of Parental Leave under [clause 67](/ebas/doctors-in-training/leave/67-parental-leave) (in the event of additional pregnancy), the Health Service shall offer to further vary the period of the contract to accommodate for the length of the further period of Parental Leave.
 
 Example A Doctor commenced in February and has a contract that ends in February the following year. The Doctor commences 12 months parental leave in September. Prior to commencing parental leave the Health Service shall offer the Doctor a variation to their contract. The variation provides for the Doctor to extend their employment for the period of 12 months parental leave and to return to work at the cessation of the parental leave and complete the remaining 5 months of their initial contract term representing the period between September and February that had not been completed prior to the absence on parental leave.
 

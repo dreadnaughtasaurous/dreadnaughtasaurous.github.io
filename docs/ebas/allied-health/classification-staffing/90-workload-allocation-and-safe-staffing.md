@@ -50,7 +50,7 @@ topics: ['hours', 'staffing', 'workload']
 
 **(vii)** duties related to the supervision, training and/or teaching of students. In doing so, the Employer will have regard to the Employee’s skills, abilities, capacity, experience, and any appropriate clinical guidelines for the profession and/or specialisation of the Employee.
 
-**(b)** The reference to ‘all aspects of their position (including meeting any targets or key performance indicators (KPIs)) during their ordinary hours’ in subclause 90.3(a) excludes unpaid work such as (but not limited to):
+**(b)** The reference to ‘all aspects of their position (including meeting any targets or key performance indicators (KPIs)) during their ordinary hours’ in [subclause 90.3(a)](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) excludes unpaid work such as (but not limited to):
 
 **(i)** working before or after rostered ordinary hours;
 
@@ -66,9 +66,9 @@ topics: ['hours', 'staffing', 'workload']
 
 **(b)** The Employer will not require work to be undertaken beyond an Employee’s ordinary hours of work, except where the overtime is reasonable (see [clause 52](/ebas/allied-health/hours-of-work/52-overtime) (Overtime)).
 
-**(c)** Notwithstanding subclause 90.5(b), an Employee will not generally be required to regularly undertake work beyond their ordinary hours of work.
+**(c)** Notwithstanding [subclause 90.5(b)](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing), an Employee will not generally be required to regularly undertake work beyond their ordinary hours of work.
 
-**(d)** Nothing in this clause 90 stops an Employee from agreeing to work overtime.
+**(d)** Nothing in this [clause 90](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) stops an Employee from agreeing to work overtime.
 
 **90.6** Consultation, Review and Disputes
 
@@ -80,20 +80,20 @@ topics: ['hours', 'staffing', 'workload']
 
 **(i)** consult with the Employee/s and the Union (where the Union has requested the workload review or the Employee/s are being represented by the Union);
 
-**(ii)** as part of that consultation, discuss and review the written work allocation required by subclause 90.4(c), including whether it is accurate;
+**(ii)** as part of that consultation, discuss and review the written work allocation required by [subclause 90.4(c)](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing), including whether it is accurate;
 
-**(iii)** set out in writing any duties and responsibilities not in the written work allocation required by subclause 90.4(c) and the estimated time necessary for the Employee to complete all their duties and responsibilities; and
+**(iii)** set out in writing any duties and responsibilities not in the written work allocation required by [subclause 90.4(c)](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) and the estimated time necessary for the Employee to complete all their duties and responsibilities; and
 
 **(iv)** where it is identified that the Employee is unable to complete all their work during their ordinary hours, the Employer will in writing: A. amend the Employee’s work allocation (including the estimated time to complete the tasks), to ensure the Employee can perform all aspects of their position during their ordinary work hours; B. set out any other steps to address the workload issue; and C. set out the process used to monitor workload.
 
 **(d)** Staffing and Collective workload issues In the event that a staffing issue or a collective workload issue is raised by an Employee/s and/or representative (including the Union), the Employer will consult with affected Employee/s and the representative (including the Union) and take appropriate steps to address any issues. To inform the consultation the Employer will provide relevant information requested by an Employee/s and/or representative (including the Union) that will provide clarification of the workload or staffing issues.
 
-**(e)** If, following consultation under subclause 90.6(c) or (d), the workload or staffing issue is not resolved, any party may refer it to either:
+**(e)** If, following consultation under [subclause 90.6(c)](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) or (d), the workload or staffing issue is not resolved, any party may refer it to either:
 
 **(i)** the dispute resolution procedure in this Agreement ([clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)); or
 
 **(ii)** the Independent Disputes Resolution Panel ([clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel))
 
-**90.7** Information – Workplace Implementation Committee The matters in this clause 90 are directly relevant to workload and the Employer will provide information to the Workplace Implementation Committee as required Saf e Ro ster ing and F atigu e by subclause 83.2.
+**90.7** Information – Workplace Implementation Committee The matters in this [clause 90](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) are directly relevant to workload and the Employer will provide information to the Workplace Implementation Committee as required Saf e Ro ster ing and F atigu e by [subclause 83.2](/ebas/allied-health/union-matters/83-union-matters).
 
 

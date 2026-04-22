@@ -12,7 +12,7 @@ This clause does not apply to a DON or Deputy DON.
 
 **34.1** Definitions
 
-In this clause 34:
+In this [clause 34](/ebas/nurses-midwives/allowances/34-shift-allowance):
 
 **(a)** Morning shift means any shift that commences between 6:00 p.m. and 6:30 a.m.
 
@@ -24,7 +24,7 @@ In this clause 34:
 
 **34.2** Application
 
-Where a shift meets more than one definition as set out at clause 34.1, the Employee will be paid one shift allowance only, with the higher shift allowance applying where the rates differ.
+Where a shift meets more than one definition as set out at [clause 34.1](/ebas/nurses-midwives/allowances/34-shift-allowance), the Employee will be paid one shift allowance only, with the higher shift allowance applying where the rates differ.
 
 **34.3** Allowances
 

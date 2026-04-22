@@ -28,11 +28,11 @@ professional development/training and all necessary documentation within the nor
 
 **(iii)** Clause 102A.1 Replacing Unplanned Absences – bed based services and Clause 102A.3 Use of bank or agency staff.
 
-**102.3** Exception to Staffing Profile Requirement If the Employer has made a reasonable effort in accordance with sub-clause 102.2 the Employer will not be considered to be in breach of sub-clause 102.1 where:
+**102.3** Exception to Staffing Profile Requirement If the Employer has made a reasonable effort in accordance with sub-[clause 102.2](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) the Employer will not be considered to be in breach of sub-[clause 102.1](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) where:
 
 **(a)** Additional nursing staff are not available; or
 
-**(b)** Nursing staff are redeployed, to another area with a greater clinical need (insofar as reasonable efforts per clause 102.2 have been made in both areas and have been unsuccessful); or
+**(b)** Nursing staff are redeployed, to another area with a greater clinical need (insofar as reasonable efforts per [clause 102.2](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) have been made in both areas and have been unsuccessful); or
 
 **(c)** Beds are closed by the Employer and therefore unavailable to be occupied, subject to consultation with Unions in accordance with [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation); or
 
@@ -66,11 +66,11 @@ professional development/training and all necessary documentation within the nor
 
 **(a)** The premise behind a patient/client being placed in a HDU is that a 'significant risk' or 'significant disruption' exists. The description of 'significant' is to be considered in the context of the normal level or levels of acuity within the main ward environment of the in-patient unit.
 
-**(b)** The staffing allocation in clause 102.4 includes High Dependency Units.
+**(b)** The staffing allocation in [clause 102.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) includes High Dependency Units.
 
 **(c)** Each Employer who operates a ICA will be required to adhere to health and safety standards and requirements for Employees working within a ICA.
 
-**(d)** Within the staffing allocation referred to in clause 102.4, the following numbers of nursing staff will be rostered to the ICA: Number of beds Minimum Number of Nurses for ICA 1-2 beds 1 nurse 3-5 beds 2 nurses 6-7 beds 3 nurses 8-9 beds 4 nurses 10 beds or more 1 nurse per 2 beds
+**(d)** Within the staffing allocation referred to in [clause 102.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management), the following numbers of nursing staff will be rostered to the ICA: Number of beds Minimum Number of Nurses for ICA 1-2 beds 1 nurse 3-5 beds 2 nurses 6-7 beds 3 nurses 8-9 beds 4 nurses 10 beds or more 1 nurse per 2 beds
 
 **(e)** Local ICA policies and/or agreements shall include (but are not limited to) the following health and safety principles:
 

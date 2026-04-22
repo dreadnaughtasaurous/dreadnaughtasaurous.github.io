@@ -30,9 +30,9 @@ topics: ['hours', 'rosters', 'on-call']
 
 **50.2** Altering a roster
 
-**(a)** A roster set in accordance with subclause 50.1 will only be altered by the Employer to enable the functions of the Employer to be carried on where another Employee is absent from duty pursuant to:
+**(a)** A roster set in accordance with [subclause 50.1](/ebas/allied-health/hours-of-work/50-roster) will only be altered by the Employer to enable the functions of the Employer to be carried on where another Employee is absent from duty pursuant to:
 
-**(i)** the reasons specified at subclause 62.3(a)(i) and (ii) (Personal Leave (including Carer’s Leave));
+**(i)** the reasons specified at [subclause 62.3(a)(i)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) and (ii) (Personal Leave (including Carer’s Leave));
 
 **(ii)** [Clause 67](/ebas/allied-health/leave/67-compassionate-leave) – compassionate leave;
 
@@ -42,11 +42,11 @@ topics: ['hours', 'rosters', 'on-call']
 
 **(v)** resignation of an Employee where the Employee has not provided notice to the Employer; or due to any pressing emergency.
 
-**(b)** Where the Employer changes an Employee’s roster once set in accordance with subclause 50.1 without at least seven (7) days’ notice, other than as excepted at subclause 50.2(c) below, the Employee will be paid the Change of Roster Allowance as follows in relation to each change :
+**(b)** Where the Employer changes an Employee’s roster once set in accordance with [subclause 50.1](/ebas/allied-health/hours-of-work/50-roster) without at least seven (7) days’ notice, other than as excepted at [subclause 50.2(c)](/ebas/allied-health/hours-of-work/50-roster) below, the Employee will be paid the Change of Roster Allowance as follows in relation to each change :
 
 **(i)** 2.5% of the AHP1 Grade 1, Year 2 rate.
 
-**(c)** The Change of Roster Allowance at subclause 50.2(b) is not payable where:
+**(c)** The Change of Roster Allowance at [subclause 50.2(b)](/ebas/allied-health/hours-of-work/50-roster) is not payable where:
 
 **(i)** the change to the roster was the result of an emergency situation external to the Employer;
 

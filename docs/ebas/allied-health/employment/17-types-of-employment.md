@@ -34,7 +34,7 @@ topics: ['employment']
 
 **(ii)** [Clause 48](/ebas/allied-health/hours-of-work/48-accrued-days-off) – Accrued Days Off;
 
-**(iii)** [Clause 52](/ebas/allied-health/hours-of-work/52-overtime) – Overtime; shall apply to the Employee’s employment with the Employer as though the positions were one (1) position. This includes the limits for ordinary hours as provided by subclauses 47.1 and 47.2 (a maximum of eight (8) ordinary hours, or by agreement up to ten (10) ordinary hours, per shift).
+**(iii)** [Clause 52](/ebas/allied-health/hours-of-work/52-overtime) – Overtime; shall apply to the Employee’s employment with the Employer as though the positions were one (1) position. This includes the limits for ordinary hours as provided by [subclauses 47.1](/ebas/allied-health/hours-of-work/47-hours-of-work) and 47.2 (a maximum of eight (8) ordinary hours, or by agreement up to ten (10) ordinary hours, per shift).
 
 **(d)** the positions will be considered one (1) position for the purposes of accrual and access to leave under this Agreement and the NES, and the following :
 
@@ -50,6 +50,6 @@ topics: ['employment']
 
 **17.6** Where an Employee holds more than one (1) position under more than one (1) enterprise agreement but the positions can fall within the scope of the Agreement the Employee (or representative) may, where they believe that the positions could be consolidated into a single position, request that this occur. The Employer can only refuse the request on reasonable business grounds.
 
-**17.7** Where an Employee holds more than one (1) position, including a position under another enterprise agreement, nothing in this clause 17 limits the ability of the Employee to dispute whether that position should be covered by this Agreement.
+**17.7** Where an Employee holds more than one (1) position, including a position under another enterprise agreement, nothing in this [clause 17](/ebas/allied-health/employment/17-types-of-employment) limits the ability of the Employee to dispute whether that position should be covered by this Agreement.
 
 

@@ -16,7 +16,7 @@ topics: ['employment', 'preliminary']
 
 where the contract contains clear terms as to when a contract is at an end such as starting and finishing dates.
 
-**c.** In the normal course, a fixed term contract will not exceed 12 months save that this does not prevent a subsequent fixed term contract being offered where it complies with this clause 26.
+**c.** In the normal course, a fixed term contract will not exceed 12 months save that this does not prevent a subsequent fixed term contract being offered where it complies with this [clause 26](/ebas/mspp/employment/26-fixed-term-employment).
 
 **d.** Subject to clause e, fixed term employment will not be used to fill an ongoing position.
 

@@ -10,7 +10,7 @@ topics: ['preliminary', 'definitions']
 
 **51A.1** Definition
 
-In this clause 51A, Treating Practitioner means any AHPRA Registered Health Practitioner relevant to the fitness for work concern including, where relevant, an AHPRA-registered health practitioner delivering a program (such as the Nursing and Midwifery Health Program Victoria) attended by the Employee, or a psychologist.
+In this [clause 51A](/ebas/mental-health/common-terms/leave/51A-fitness-for-work), Treating Practitioner means any AHPRA Registered Health Practitioner relevant to the fitness for work concern including, where relevant, an AHPRA-registered health practitioner delivering a program (such as the Nursing and Midwifery Health Program Victoria) attended by the Employee, or a psychologist.
 
 **51A.2** Fit for Work
 
@@ -22,7 +22,7 @@ put in place by the Employer and any related occupational health and safety requ
 
 **51A.3** Addressing concerns about Fitness for Work
 
-**(a)** In the event the Employee's manager forms a reasonable belief (as defined at subclause 51A.3(b) below) that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
+**(a)** In the event the Employee's manager forms a reasonable belief (as defined at [subclause 51A.3(b)](/ebas/mental-health/common-terms/leave/51A-fitness-for-work) below) that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
 
 **(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause permits an Employer to act contrary to the Health Records Act 2001 (Vic).
 
@@ -58,7 +58,7 @@ The Employer will:
 
 **(iii)** meet with the Employee to discuss any report.
 
-**(d)** Information to Employee before IME Before the Employee attends an IME under subclause 51A.3(c) above, the Employee will be provided with a copy of:
+**(d)** Information to Employee before IME Before the Employee attends an IME under [subclause 51A.3(c)](/ebas/mental-health/common-terms/leave/51A-fitness-for-work) above, the Employee will be provided with a copy of:
 
 **(i)** the name of the proposed IME; and
 
@@ -72,10 +72,10 @@ The Employer will:
 
 **(f)** Relationship to WIRC
 
-**(i)** This sub-clause 51A.4 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim will be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+**(i)** This sub-[clause 51A.4](/ebas/mental-health/common-terms/leave/51A-fitness-for-work) does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim will be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
 
-**(g)** Relationship to Personal Leave The processes in this clause 51A do not apply to a period of personal leave under clause 38A (Personal Leave) of this Agreement.
+**(g)** Relationship to Personal Leave The processes in this [clause 51A](/ebas/mental-health/common-terms/leave/51A-fitness-for-work) do not apply to a period of personal leave under [clause 38A](/ebas/mental-health/common-terms/leave/38A-personal-leave) (Personal Leave) of this Agreement.
 
-**(h)** Safe Work Environment is paramount Nothing in this clause 51A prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
+**(h)** Safe Work Environment is paramount Nothing in this [clause 51A](/ebas/mental-health/common-terms/leave/51A-fitness-for-work) prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
 
 

@@ -19,10 +19,10 @@ Attachment 1
 
 Rostering Protocols Exemption Agreement
 
-I, the above named employee make this Agreement with my Employer following my request to commence working ordinary hours on weekends made in accordance with Clause 57.5 of the Public Health Sector (Medical Scientists, Pharmacists & Psychologists) Single Interest Enterprise Agreement 2021 - 2025. The agreed details of an exemption/s from the rostering protocols contained in clauses 57.1a and/or 57.1b are as follows:
+I, the above named employee make this Agreement with my Employer following my request to commence working ordinary hours on weekends made in accordance with [Clause 57.5](/ebas/mspp/hours-of-work/57-employee-rosters) of the Public Health Sector (Medical Scientists, Pharmacists & Psychologists) Single Interest Enterprise Agreement 2021 - 2025. The agreed details of an exemption/s from the rostering protocols contained in [clauses 57.1](/ebas/mspp/hours-of-work/57-employee-rosters)a and/or 57.1b are as follows:
 
 Signed by the Employee Signed by the Employer
 
-Withdrawal from this Agreement: In accordance with clause 57.5c I advise that I wish to withdraw from this Roster Protocols Exemption Agreement and hereby give 28 days notice of the effective date of my withdrawal. \`\`\`
+Withdrawal from this Agreement: In accordance with [clause 57.5](/ebas/mspp/hours-of-work/57-employee-rosters)c I advise that I wish to withdraw from this Roster Protocols Exemption Agreement and hereby give 28 days notice of the effective date of my withdrawal. \`\`\`
 
 

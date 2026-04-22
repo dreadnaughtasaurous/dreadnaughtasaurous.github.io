@@ -30,7 +30,7 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **(f)** provides care or support to a member of the Employee’s Immediate Family, who requires care or support because the member is experiencing violence or abuse from the member’s family.
 
-**96.4** A specified Employee may request the Employer for a change in working arrangements relating to the circumstances at subclause 96.3.
+**96.4** A specified Employee may request the Employer for a change in working arrangements relating to the circumstances at [subclause 96.3](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements).
 
 **96.5** A request for a flexible work arrangement includes (but is not limited to) a request to work part-time upon return to work after taking leave for the birth or adoption of a child to assist the Employee to care for the child.
 
@@ -50,7 +50,7 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **(c)** reasons for a refusal on reasonable business grounds.
 
-**96.11** An Employee or Employer may choose to be represented at a meeting under subclause 96.10 by a representative including a Union or VHIA.
+**96.11** An Employee or Employer may choose to be represented at a meeting under [subclause 96.10](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements) by a representative including a Union or VHIA.
 
 **96.12** The dispute resolution procedure in the Agreement will apply to any dispute/grievance arising in relation to a request for flexible working arrangements, including a refusal on reasonable business grounds.
 

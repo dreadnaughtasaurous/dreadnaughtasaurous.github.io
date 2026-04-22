@@ -8,7 +8,7 @@ topics: ['leave', 'professional-development']
 
 
 
-Other than subclause 99.8 , this clause does not apply to casual Employees.
+Other than [subclause 99.8](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave) , this clause does not apply to casual Employees.
 
 **99.1** Professional Development Leave
 
@@ -36,13 +36,13 @@ Other than subclause 99.8 , this clause does not apply to casual Employees.
 
 **99.2** Amount of professional development leave
 
-**(a)** Full-time Employees are entitled to five days' paid professional development leave (as defined in subclause 99.1.
+**(a)** Full-time Employees are entitled to five days' paid professional development leave (as defined in [subclause 99.1](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave).
 
-**(b)** Part-time Employees who work a minimum of three shifts per week are entitled to five days' paid professional development leave (as defined in subclause 99.1. All other part-time Employees are entitled to two days paid professional leave.
+**(b)** Part-time Employees who work a minimum of three shifts per week are entitled to five days' paid professional development leave (as defined in [subclause 99.1](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave). All other part-time Employees are entitled to two days paid professional leave.
 
 **(c)** An Employee who is a Nurse Practitioner will be entitled to a further 10 hours of paid professional development leave per annum.
 
-**(d)** Other than in accordance with sub-clause 99.2(e)below, professional development leave does not accumulate from year to year.
+**(d)** Other than in accordance with sub-[clause 99.2(e)](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave)below, professional development leave does not accumulate from year to year.
 
 **(e)** Employees may access all or part of a subsequent year’s entitlement during one year. The entitlement for the subsequent year will reduce accordingly.
 
@@ -78,6 +78,6 @@ development leave is to undertake home study, the Employee's application will de
 
 **(a)** Any education or training deemed compulsory or mandatory by the Employer will occur within an Employee's paid time, and overtime applies where it would otherwise apply. No deduction will be made to an Employee's annual professional development leave for mandatory training.
 
-**99.9** Staff Replacement All absences resulting from approved leave under clause 99 (professional development leave) will be back-filled in clinical areas where that Employee would ordinarily have a patient allocation.
+**99.9** Staff Replacement All absences resulting from approved leave under [clause 99](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave) (professional development leave) will be back-filled in clinical areas where that Employee would ordinarily have a patient allocation.
 
 

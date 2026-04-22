@@ -32,7 +32,7 @@ topics: ['union-matters']
 
 **j.** explore the development of a clinical governance structure for psychology services.
 
-**k.** As part of the new Agreement, the parties have agreed to preference secure modes of employment over insecure modes of employment. In that regard, Employers may need to review existing supplementary labour to support secure modes of employment, including the establishment of casual relief banks. In conducting that review, Employers are to report through clause 17.10, the steps in which it will take to ensure supplementary labour is sufficient to support the preference of secure modes of employment.
+**k.** As part of the new Agreement, the parties have agreed to preference secure modes of employment over insecure modes of employment. In that regard, Employers may need to review existing supplementary labour to support secure modes of employment, including the establishment of casual relief banks. In conducting that review, Employers are to report through [clause 17.10](/ebas/mspp/union-rights/17-union-rights), the steps in which it will take to ensure supplementary labour is sufficient to support the preference of secure modes of employment.
 
 **l.** The Committee will schedule a minimum of six meetings per year.
 

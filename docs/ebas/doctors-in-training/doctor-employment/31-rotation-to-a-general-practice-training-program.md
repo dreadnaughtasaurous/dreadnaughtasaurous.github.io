@@ -42,9 +42,9 @@ topics: ['hours', 'rosters', 'employment', 'consultation']
 
 **(c)** for all work-related travel required by the practice.
 
-**31.8** Payment must only be made pursuant to subclause 31.7 if travel is undertaken by the Doctor.
+**31.8** Payment must only be made pursuant to [subclause 31.7](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program) if travel is undertaken by the Doctor.
 
-**31.9** For the purpose of this clause 31, the Parent Hospital will be the Hospital from which the Doctor is rotated (refer [clause 3](/ebas/doctors-in-training/preliminary/3-definitions) definitions). In the event that a Doctor commences the first ever term in Victoria on Rotation the Parent Hospital shall be that Hospital to which the Doctor was appointed.
+**31.9** For the purpose of this [clause 31](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program), the Parent Hospital will be the Hospital from which the Doctor is rotated (refer [clause 3](/ebas/doctors-in-training/preliminary/3-definitions) definitions). In the event that a Doctor commences the first ever term in Victoria on Rotation the Parent Hospital shall be that Hospital to which the Doctor was appointed.
 
 **31.10** The Parent Hospital must ensure continuity of employment conditions are met by maintaining such records as are required under this Agreement.
 
@@ -60,11 +60,11 @@ topics: ['hours', 'rosters', 'employment', 'consultation']
 
 whichever is the greater.
 
-**(b)** Out of hours pursuant to subclause 31.12(a) above shall mean outside the hours of
+**(b)** Out of hours pursuant to [subclause 31.12(a)](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program) above shall mean outside the hours of
 
 **8.00** a.m. to 6.00 p.m. Monday to Friday and 8.00 a.m. to 12.00 noon Saturday.
 
-**(c)** The application of this subclause 31.12 shall exclude the Doctor from any entitlement to the On-call ([clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call)) or Recall ([clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace)) provisions of this Agreement.
+**(c)** The application of this [subclause 31.12](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program) shall exclude the Doctor from any entitlement to the On-call ([clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call)) or Recall ([clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace)) provisions of this Agreement.
 
 Plain language terms: GP rotation, GP training.
 

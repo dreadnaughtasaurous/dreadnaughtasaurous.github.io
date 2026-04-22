@@ -46,6 +46,6 @@ this end, Employers will consult with Employees and their representatives around
 
 **(b)** The considerations at (iii) above will include the frequency of safe patient and manual handlings training
 
-**(c)** A report regarding manual handling incidents/injuries, which will include the data collected at clause 69B.12(a)(i) above, will be provided to the Unions and the relevant OHS consultative committee on an annual basis.
+**(c)** A report regarding manual handling incidents/injuries, which will include the data collected at [clause 69B.12(a)(i)](/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management) above, will be provided to the Unions and the relevant OHS consultative committee on an annual basis.
 
 

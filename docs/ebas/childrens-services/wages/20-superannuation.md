@@ -12,7 +12,7 @@ topics: ['leave', 'wages', 'superannuation', 'preliminary']
 
 a\. The [\[NES\]{.underline}](https://www.fwc.gov.au/documents/awards/resources/nes.pdf) and Superannuation legislation, including the *Superannuation Guarantee (Administration) Act 1992* (Cth), the *Superannuation Guarantee Charge Act 1992* (Cth), the *Superannuation Industry (Supervision) Act 1993* (Cth) and the *Superannuation (Resolution of Complaints) Act 1993* (Cth), deal with the superannuation rights and obligations of employers and employees.
 
-b\. The rights and obligations in clause 20 supplement those in superannuation legislation and the [\[NES\]{.underline}](https://www.fwc.gov.au/documents/awards/resources/nes.pdf).
+b\. The rights and obligations in [clause 20](/ebas/childrens-services/wages/20-superannuation) supplement those in superannuation legislation and the [\[NES\]{.underline}](https://www.fwc.gov.au/documents/awards/resources/nes.pdf).
 
 NOTE: Under superannuation legislation:
 
@@ -38,7 +38,7 @@ An employer must make such superannuation contributions to a superannuation fund
 
 2.  Superannuation fund
 
-Unless, to comply with superannuation legislation, the employer is required to make the superannuation contributions provided for in clause 20.1(a) to another superannuation fund, the employer must make the superannuation contributions provided for in clause 20.1(a) and pay any amount authorised under clauses 20.3(a) or 20.3(b) to one of the following superannuation funds or its successor, provided that, in respect of new employees, the fund is able to accept new beneficiaries:
+Unless, to comply with superannuation legislation, the employer is required to make the superannuation contributions provided for in [clause 20.1(a)](/ebas/childrens-services/wages/20-superannuation) to another superannuation fund, the employer must make the superannuation contributions provided for in [clause 20.1(a)](/ebas/childrens-services/wages/20-superannuation) and pay any amount authorised under [clauses 20.3(a) or 20.3(b)](/ebas/childrens-services/wages/20-superannuation) to one of the following superannuation funds or its successor, provided that, in respect of new employees, the fund is able to accept new beneficiaries:
 
 a\. HESTA Super Fund;
 
@@ -76,7 +76,7 @@ j\. a superannuation fund or scheme which the employee is a defined benefit memb
 
 1.  Absence from work
 
-Subject to the governing rules of the relevant superannuation fund, the employer must also make the superannuation contributions provided for in clause 20.1(a) and pay the amount authorised under clauses 20.3(a) or (b):
+Subject to the governing rules of the relevant superannuation fund, the employer must also make the superannuation contributions provided for in [clause 20.1(a)](/ebas/childrens-services/wages/20-superannuation) and pay the amount authorised under [clauses 20.3(a)](/ebas/childrens-services/wages/20-superannuation) or (b):
 
 a\. **Paid leave**---while the employee is on any paid leave;
 

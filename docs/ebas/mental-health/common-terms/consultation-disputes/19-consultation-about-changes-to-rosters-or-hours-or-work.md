@@ -8,7 +8,7 @@ topics: ['hours', 'rosters', 'consultation']
 
 
 
-This clause 19 applies where a change to regular rosters or ordinary hours of work (which may impact upon an employee, particularly in relation to their family and caring responsibilities) does not constitute 'Major Change' in accordance with subclause 18.2(c).
+This [clause 19](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon an employee, particularly in relation to their family and caring responsibilities) does not constitute 'Major Change' in accordance with [subclause 18.2(c)](/ebas/mental-health/common-terms/consultation-disputes/18-consultation).
 
 **19.1** Where an Employer proposes to change an Employee's regular roster or ordinary hours of work, the Employer must:
 
@@ -34,11 +34,11 @@ This clause 19 applies where a change to regular rosters or ordinary hours of wo
 
 **19.4** The Employer must give prompt and genuine consideration to matters raised about the change by the relevant employees and consider health and safety impacts including fatigue.
 
-**19.5** In this term relevant employees means the Employee or Employees who may be affected by a change referred to in clause 19.1.
+**19.5** In this term relevant employees means the Employee or Employees who may be affected by a change referred to in [clause 19.1](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work).
 
-**19.6** The requirement to consult under this clause 19 does not apply to an Employee where the change to an Employee's regular roster or ordinary hours of work is as a consequence of that Employee's irregular, sporadic or unpredictable working hours, self-rostering or, where permitted, a rotating roster.
+**19.6** The requirement to consult under this [clause 19](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work) does not apply to an Employee where the change to an Employee's regular roster or ordinary hours of work is as a consequence of that Employee's irregular, sporadic or unpredictable working hours, self-rostering or, where permitted, a rotating roster.
 
-**19.7** The provisions of this clause 19 are to be read in conjunction with the terms of the engagement between the Employer and Employee, and other Agreement provisions concerning the scheduling of work and notice requirements.
+**19.7** The provisions of this [clause 19](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work) are to be read in conjunction with the terms of the engagement between the Employer and Employee, and other Agreement provisions concerning the scheduling of work and notice requirements.
 
 Plain language terms: roster change, hours change consultation.
 

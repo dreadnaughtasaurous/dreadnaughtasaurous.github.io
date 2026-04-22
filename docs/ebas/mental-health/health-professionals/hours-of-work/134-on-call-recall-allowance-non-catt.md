@@ -32,7 +32,7 @@ topics: ['leave', 'public-holidays', 'allowances']
 
 **134.3** Recall – Without Return to Workplace
 
-**(a)** Where recall to duty can be managed without the Employee returning to the workplace (for example by telephone), clause 134.2 will not apply and such Employee will be paid a minimum of one hour of overtime for such recall work.
+**(a)** Where recall to duty can be managed without the Employee returning to the workplace (for example by telephone), [clause 134.2](/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt) will not apply and such Employee will be paid a minimum of one hour of overtime for such recall work.
 
 **(b)** For subsequent recalls beyond the first hour, the Employee will be paid a minimum of one hour of overtime, but multiple recalls within a discrete hour will not attract additional overtime.
 

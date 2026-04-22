@@ -16,7 +16,7 @@ topics: ['leave', 'hours', 'overtime', 'shift-work', 'breaks', 'preliminary']
 
 \[22.1(c) substituted by [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm) ppc 02Nov12\]
 
-c\. Notwithstanding clause 22.1(a), where an employee is required to remain on the employer's premises, the employee will be entitled to a paid meal break of not less than 20 minutes or more than 30 minutes. This paid meal break is to be counted as time worked. By agreement with the employer an employee may leave the premises during the meal break, however, such time away from the premises will not be counted as time worked and nor will any payment be made for such time.
+c\. Notwithstanding [clause 22.1(a)](/ebas/childrens-services/hours-of-work/22-breaks), where an employee is required to remain on the employer's premises, the employee will be entitled to a paid meal break of not less than 20 minutes or more than 30 minutes. This paid meal break is to be counted as time worked. By agreement with the employer an employee may leave the premises during the meal break, however, such time away from the premises will not be counted as time worked and nor will any payment be made for such time.
 
 1.  Rest pauses
 

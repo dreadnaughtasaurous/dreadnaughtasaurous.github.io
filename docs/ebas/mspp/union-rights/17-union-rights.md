@@ -30,7 +30,7 @@ topics: ['union-matters']
 
 **17.4** Delegates and HSRs NOTE: Additional rights of HSRs are contained in the OHS Act.
 
-**a.** In this subclause 17.4 Representative means a Union Delegate or HSR.
+**a.** In this [subclause 17.4](/ebas/mspp/union-rights/17-union-rights) Representative means a Union Delegate or HSR.
 
 **b.** A Representative is entitled to reasonable time release from duty to:
 
@@ -60,7 +60,7 @@ topics: ['union-matters']
 
 **17.9** Union Training NOTE: an HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
 
-**a.** Subject to the conditions in this subclause 17.9, Employees selected by their Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
+**a.** Subject to the conditions in this [subclause 17.9](/ebas/mspp/union-rights/17-union-rights), Employees selected by their Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 
 **b.** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 
@@ -112,11 +112,11 @@ topics: ['union-matters']
 
 **(viii)** Overtime
 
-**d.** Priority items for consideration by the WICC will include Agreement compliance and the matters arising under [clause 82](/ebas/mspp/leave/82-family-violence-leave) (Family Violence); clause 17 (Union Rights) and other matters that may be identified by the parties as being of relevance.
+**d.** Priority items for consideration by the WICC will include Agreement compliance and the matters arising under [clause 82](/ebas/mspp/leave/82-family-violence-leave) (Family Violence); [clause 17](/ebas/mspp/union-rights/17-union-rights) (Union Rights) and other matters that may be identified by the parties as being of relevance.
 
 **e.** Each Employer shall report and review all DWGs to ensure that all workplaces are mapped, known and have Employee elected and trained HSRs to ensure improvements in workplace safety.
 
-**17.11** The exercise of any right of entry conferred by clause 17 which involves entry to premises for a purpose referred to in s.481 of the Act, or to hold discussions of a kind referred to in s.484 of the Act, will be in accordance with the requirements of Part 3-4 of Chapter 3 of the Act.
+**17.11** The exercise of any right of entry conferred by [clause 17](/ebas/mspp/union-rights/17-union-rights) which involves entry to premises for a purpose referred to in s.481 of the Act, or to hold discussions of a kind referred to in s.484 of the Act, will be in accordance with the requirements of Part 3-4 of Chapter 3 of the Act.
 
 RELATED ARRANGEMENTS
 

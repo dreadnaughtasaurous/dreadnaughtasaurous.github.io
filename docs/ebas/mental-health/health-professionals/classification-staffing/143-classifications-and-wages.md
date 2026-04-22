@@ -28,7 +28,7 @@ topics: ['wages', 'classifications']
 
 **143.5** Entry Level – New Graduate – Rural and Regional Health Services
 
-**(a)** This clause 143.5 applies to Employees employed in a Rural or Regional Health Service.
+**(a)** This [clause 143.5](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages) applies to Employees employed in a Rural or Regional Health Service.
 
 **(b)** An Employee who holds:
 

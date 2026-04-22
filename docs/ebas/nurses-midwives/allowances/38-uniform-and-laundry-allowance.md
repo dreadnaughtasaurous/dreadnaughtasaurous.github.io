@@ -18,6 +18,6 @@ topics: ['allowances']
 
 **38.5** Where an Employer provides an Employee with Uniforms, all articles so provided remain the property of the Employer.
 
-**38.6** For the purposes of this clause 38, Uniform means such apparel as may be required by the Employer.
+**38.6** For the purposes of this [clause 38](/ebas/nurses-midwives/allowances/38-uniform-and-laundry-allowance), Uniform means such apparel as may be required by the Employer.
 
 

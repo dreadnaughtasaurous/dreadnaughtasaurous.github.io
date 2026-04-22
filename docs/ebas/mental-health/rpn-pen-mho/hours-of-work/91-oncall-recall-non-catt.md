@@ -36,15 +36,15 @@ topics: ['leave', 'public-holidays', 'allowances']
 
 **(c)** Each period of recall under this clause within an on-call period will stand alone, provided that:
 
-**(i)** only the first period of recall within an on-call period will result in a lower overtime penalty (if applicable under subclause 91.2); and
+**(i)** only the first period of recall within an on-call period will result in a lower overtime penalty (if applicable under [subclause 91.2](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt)); and
 
 **(ii)** consecutive periods of on-call will be treated as a single period of on- call for the purposes of (i) above.
 
-**(d)** Subclause 91.2(b) above will not apply when overtime is continuous with the completion or commencement of that Employer’s rostered shift.
+**(d)** [Subclause 91.2(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt) above will not apply when overtime is continuous with the completion or commencement of that Employer’s rostered shift.
 
 **(e)** The time spent travelling to and from the place of duty will be deemed to be time worked.
 
-**(f)** From FFPPOOA 20 May 2025, if an Employee is recalled and is subsequently not required to commence work the Employee is entitled to the minimum payment at clause 91.1 above.
+**(f)** From FFPPOOA 20 May 2025, if an Employee is recalled and is subsequently not required to commence work the Employee is entitled to the minimum payment at [clause 91.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt) above.
 
 **(g)** An Employee who is recalled to work outside ordinary rostered hours and who uses their own vehicle for transport from home to place of work and return shall receive the Vehicle Allowance.
 

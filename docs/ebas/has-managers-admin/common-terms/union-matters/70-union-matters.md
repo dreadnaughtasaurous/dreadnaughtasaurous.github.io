@@ -28,11 +28,11 @@ topics: ['union-matters']
 
 **(c)** An Employer will advise the HWU of the date, time and location of orientation/induction programs not less than 14 days prior to the orientation/induction program.
 
-**(d)** Those covered by this Agreement acknowledge the increasing role that technology plays in orientation / induction. Where an Employer conducts online orientation/induction, the Employer shall provide to the HWU alternative means by which the HWU can access new Employees, provided that such access is consistent with this subclause 70.3.
+**(d)** Those covered by this Agreement acknowledge the increasing role that technology plays in orientation / induction. Where an Employer conducts online orientation/induction, the Employer shall provide to the HWU alternative means by which the HWU can access new Employees, provided that such access is consistent with this [subclause 70.3](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters).
 
 **70.4** Delegates and HSRs NOTE: Additional rights of HSRs are contained in the OHS Act.
 
-**(a)** In this subclause 70.4(a) Representative means a HWU Delegate, or HSR.
+**(a)** In this [subclause 70.4(a)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters) Representative means a HWU Delegate, or HSR.
 
 **(b)** A Representative is entitled to reasonable time release from duty to:
 
@@ -52,11 +52,11 @@ include other facilities as necessary to enable them to perform their functions 
 
 **70.5** Noticeboard
 
-**(a)** A noticeboard for the HWU’s use will be readily accessible in each ward/unit/work area where persons eligible to be members of the HWU are employed, unless otherwise agreed by the AIC referred to in subclause 70.10.
+**(a)** A noticeboard for the HWU’s use will be readily accessible in each ward/unit/work area where persons eligible to be members of the HWU are employed, unless otherwise agreed by the AIC referred to in [subclause 70.10](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters).
 
 **(b)** The HWU and members covered by this Agreement will, during the life of this Agreement, consult over the development of an electronic noticeboard managed by the HWU.
 
-**(c)** Where an Employer cannot facilitate noticeboards pursuant to subclause 70.5(a) as they operate in a building that is not owned by the Employer, the Employer and HWU will, as soon as reasonably practicable, implement an electronic noticeboard or other mutually agreed arrangement to give effect to subclause 70.5(a); this may include, but is not limited to:
+**(c)** Where an Employer cannot facilitate noticeboards pursuant to [subclause 70.5(a)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters) as they operate in a building that is not owned by the Employer, the Employer and HWU will, as soon as reasonably practicable, implement an electronic noticeboard or other mutually agreed arrangement to give effect to [subclause 70.5(a)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters); this may include, but is not limited to:
 
 **(i)** Centralised noticeboard(s) (e.g. a noticeboard in the staff cafeteria, but not in each ward/unit/work area);
 
@@ -76,7 +76,7 @@ fulfilling their duties as an official of the HWU Branch Committee of Management
 
 **70.9** Union Training NOTE: an HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
 
-**(a)** Subject to the conditions in this subclause 70.9, Employees selected by the HWU to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
+**(a)** Subject to the conditions in this [subclause 70.9](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters), Employees selected by the HWU to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 
 **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 
@@ -90,7 +90,7 @@ fulfilling their duties as an official of the HWU Branch Committee of Management
 
 **(iii)** the application is made as early as practicable and not less than two (2) weeks before the training.
 
-**(e)** The Employee will be paid their ‘ordinary pay’ (as defined at clause 53.6(b)(Annual Leave)) for normal rostered hours (set out in [Schedules 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) and 3B), but excluding shift work, overtime and other allowances.
+**(e)** The Employee will be paid their ‘ordinary pay’ (as defined at [clause 53.6(b)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave)(Annual Leave)) for normal rostered hours (set out in [Schedules 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) and 3B), but excluding shift work, overtime and other allowances.
 
 **(f)** Leave in accordance with this clause may include necessary travelling time in normal hours immediately before or after the course.
 
@@ -112,7 +112,7 @@ Employer. Having regard for the size and location, an AIC may be appropriate at 
 
 **(b)** Priority items for consideration by the AIC will include the matters arising under:
 
-**(i)** Union Matters (Section 1, Clause 70)
+**(i)** Union Matters (Section 1, [Clause 70](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters))
 
 **(ii)** Designated Working Groups (Section 1, [Clause 80.2](/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety))
 
@@ -156,7 +156,7 @@ Employer. Having regard for the size and location, an AIC may be appropriate at 
 
 **(iv)** The Employee will be expected to maintain confidentiality on matters pertaining to their substantive work with the Employer and the secondment with the HWU.
 
-**(v)** The Employer and the Union will not require the Employee to divulge information that may cause the Employee to breach subclause 70.11(c)(iv).
+**(v)** The Employer and the Union will not require the Employee to divulge information that may cause the Employee to breach [subclause 70.11(c)(iv)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters).
 
 Plain language terms: union rep, delegate, union representative, right of entry.
 

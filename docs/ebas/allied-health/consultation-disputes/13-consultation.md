@@ -8,31 +8,31 @@ topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 
 
 
-Nothing in this clause 13 limits the Employer’s obligations to consult with HSRs under the OHS Act.
+Nothing in this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) limits the Employer’s obligations to consult with HSRs under the OHS Act.
 
 **13.1** Consultation regarding Major Change
 
-**(a)** Where an Employer proposes a Major Change that may have a Significant Effect on an Employee or Employees, the Employer will consult with the Affected Employee/s, the Union, and the Employee’s other chosen representative (where relevant) through the steps set out below in this clause 13 before the proposed Major Change (including part of a Major Change) occurs.
+**(a)** Where an Employer proposes a Major Change that may have a Significant Effect on an Employee or Employees, the Employer will consult with the Affected Employee/s, the Union, and the Employee’s other chosen representative (where relevant) through the steps set out below in this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) before the proposed Major Change (including part of a Major Change) occurs.
 
 **(b)** Consultation requires the Employer to take reasonable steps to consult with Employees who are absent on leave including on workers compensation or parental leave.
 
 **(c)** The Employer will take reasonable steps to ensure Employees, HSRs (where relevant) and the Union can participate effectively in the Consultation process.
 
-**(d)** With respect to the process set out in this clause 13:
+**(d)** With respect to the process set out in this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation):
 
-**(i)** a Major Change (including part of a Major Change) must not be implemented prior to the steps in subclauses 13.4 to 13.9 being completed, other than by agreement with the Affected Employee/s and Union; and
+**(i)** a Major Change (including part of a Major Change) must not be implemented prior to the steps in [subclauses 13.4](/ebas/allied-health/consultation-disputes/13-consultation) to 13.9 being completed, other than by agreement with the Affected Employee/s and Union; and
 
-**(ii)** the process in this clause 13 will not be used to prevent or frustrate Major Change, save that a party raising a dispute alleging non-compliance with this clause 13 does not, of itself, indicate the party is trying to prevent or frustrate Major Change.
+**(ii)** the process in this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) will not be used to prevent or frustrate Major Change, save that a party raising a dispute alleging non-compliance with this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) does not, of itself, indicate the party is trying to prevent or frustrate Major Change.
 
-**(e)** An Employer shall complete each step prior to proceeding to the next step in this process save that nothing prevents an Employer from progressing where the Employer has complied with the relevant requirements of this clause 13 and the Affected Employee/s, the Union, and/or the Employee’s other chosen representative (where relevant) have chosen not to participate / respond, despite being given a reasonable opportunity to do so.
+**(e)** An Employer shall complete each step prior to proceeding to the next step in this process save that nothing prevents an Employer from progressing where the Employer has complied with the relevant requirements of this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) and the Affected Employee/s, the Union, and/or the Employee’s other chosen representative (where relevant) have chosen not to participate / respond, despite being given a reasonable opportunity to do so.
 
-**13.2** Definitions Under this clause 13:
+**13.2** Definitions Under this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation):
 
 **(a)** Consultation means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
 **(b)** Affected Employee means an Employee on whom a major workplace change may have a Significant Effect.
 
-**(c)** Major Change means a change in the Employer’s program, production, organisation (including workforce size), physical workplace, structure, technology, or a change in workplace arrangements (for example, the introduction of an on call roster, after hours or weekend roster, or how work is organised). A Major Change that may have a Significant Effect, regardless of whether it is permanent or temporary requires Consultation under this clause 13.
+**(c)** Major Change means a change in the Employer’s program, production, organisation (including workforce size), physical workplace, structure, technology, or a change in workplace arrangements (for example, the introduction of an on call roster, after hours or weekend roster, or how work is organised). A Major Change that may have a Significant Effect, regardless of whether it is permanent or temporary requires Consultation under this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation).
 
 **(d)** Significant Effect includes but is not limited to:
 
@@ -78,7 +78,7 @@ Nothing in this clause 13 limits the Employer’s obligations to consult with HS
 
 Step Action Timeframe
 
-1.  Employer provides Change Impact Statement Starting point of (CIS) and other written material required by consultation subclause 13.4
+1.  Employer provides Change Impact Statement Starting point of (CIS) and other written material required by consultation [subclause 13.4](/ebas/allied-health/consultation-disputes/13-consultation)
 
 2.  Written response from Employee/s and/or Union 14 days after step 1
 
@@ -92,7 +92,7 @@ Step Action Timeframe
 
 **13.4** Change Impact Statement (CIS) (Step 1)
 
-**(a)** Prior to Consultation required by this clause 13, the Employer will provide Affected Employee/s and Union with a written Change Impact Statement (CIS) setting out all relevant information including:
+**(a)** Prior to Consultation required by this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation), the Employer will provide Affected Employee/s and Union with a written Change Impact Statement (CIS) setting out all relevant information including:
 
 **(i)** the details of proposed change;
 
@@ -114,7 +114,7 @@ Step Action Timeframe
 
 **(x)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence, relates directly to a performance/conduct issue or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
 
-**(b)** Concerns as to whether the Change Impact Statement (CIS) complies with subclause 13.4 will be raised as soon as reasonably practicable, which may be at a time after step 2 has been completed.
+**(b)** Concerns as to whether the Change Impact Statement (CIS) complies with [subclause 13.4](/ebas/allied-health/consultation-disputes/13-consultation) will be raised as soon as reasonably practicable, which may be at a time after step 2 has been completed.
 
 **(c)** Where the Union requests a meeting prior to the step 2 to clarify the proposed change or to obtain any of the information required to be provided as part of step 1 or step 2, the Employer will meet with the Union in a reasonable timeframe.
 
@@ -138,7 +138,7 @@ Step Action Timeframe
 
 **13.9** Outcome of Consultation (step 6)
 
-**(a)** The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause 13.8,
+**(a)** The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [subclause 13.8](/ebas/allied-health/consultation-disputes/13-consultation),
 
 and will advise the Affected Employee/s, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
@@ -150,39 +150,39 @@ and will advise the Affected Employee/s, the Union and other nominated represent
 
 **(iv)** a summary of how matters that have been raised by Affected Employee/s, the Union and their representatives, including any alternative proposal, have been taken into account.
 
-**(b)** Where a party notifies or escalates a dispute (including to the Commission) within seven (7) days of the written advice, subclause 13.10(b) applies.
+**(b)** Where a party notifies or escalates a dispute (including to the Commission) within seven (7) days of the written advice, [subclause 13.10(b)](/ebas/allied-health/consultation-disputes/13-consultation) applies.
 
 **13.10** Consultation disputes
 
-**(a)** Any dispute regarding the obligations under this clause 13 will be dealt with under the Dispute Resolution Procedure at [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement.
+**(a)** Any dispute regarding the obligations under this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) will be dealt with under the Dispute Resolution Procedure at [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement.
 
-**(b)** Where a consultation dispute is raised in accordance with [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of the Agreement, the obligations at subclause 14.2 apply including:
+**(b)** Where a consultation dispute is raised in accordance with [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of the Agreement, the obligations at [subclause 14.2](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) apply including:
 
 **(i)** the parties to the dispute and their representatives must genuinely attempt to resolve the dispute through the processes set out in [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) and must cooperate to ensure that these processes are carried out expeditiously; and
 
-**(ii)** while the dispute resolution procedure is being conducted work will continue normally according to the usual practice that existed before the dispute, until the dispute is resolved (meaning the Major Change is not to be implemented while the dispute is unresolved, subject to subclause 13.10(d)).
+**(ii)** while the dispute resolution procedure is being conducted work will continue normally according to the usual practice that existed before the dispute, until the dispute is resolved (meaning the Major Change is not to be implemented while the dispute is unresolved, subject to [subclause 13.10(d)](/ebas/allied-health/consultation-disputes/13-consultation)).
 
-**(c)** Where an Employer has implemented a change and a dispute is notified alleging the Employer’s failure to consult in accordance with clause 13, the Employer will reverse the change and restore the status quo that existed before the change was implemented, except where:
+**(c)** Where an Employer has implemented a change and a dispute is notified alleging the Employer’s failure to consult in accordance with [clause 13](/ebas/allied-health/consultation-disputes/13-consultation), the Employer will reverse the change and restore the status quo that existed before the change was implemented, except where:
 
-**(i)** the Employer: A. disputes the alleged failure to consult in accordance with clause 13; and B. makes an application to the Commission in accordance with subclause 13.10(d) within seven (7) days of the dispute being notified;
+**(i)** the Employer: A. disputes the alleged failure to consult in accordance with [clause 13](/ebas/allied-health/consultation-disputes/13-consultation); and B. makes an application to the Commission in accordance with [subclause 13.10(d)](/ebas/allied-health/consultation-disputes/13-consultation) within seven (7) days of the dispute being notified;
 
-**(ii)** in which case the requirement to reverse the change does not apply until the matter is dealt with under subclause 13.10(d); or
+**(ii)** in which case the requirement to reverse the change does not apply until the matter is dealt with under [subclause 13.10(d)](/ebas/allied-health/consultation-disputes/13-consultation); or
 
-**(iii)** the Employer has completed step 6 of the consultation process and issued the written notification in subclause 13.9(a) and the Affected
+**(iii)** the Employer has completed step 6 of the consultation process and issued the written notification in [subclause 13.9(a)](/ebas/allied-health/consultation-disputes/13-consultation) and the Affected
 
 Employee/s, the Union, and/or the Employee’s other chosen representative (where relevant) have not notified or escalated a dispute (including to the Commission) within seven (7) days of this written notification; or
 
 **(iv)** the Affected Employee/s and the Union agree in writing the change is not required to be reversed.
 
-**(d)** A party may seek an interim decision or, by agreement with the parties to the dispute, a recommendation of the Commission, in accordance with subclause 14.2(e), including where an Employer has made an application referred to in subclause 13.10(c)(i) regarding the reversal of an implemented Major Change (in whole or part) while the dispute is being resolved. The Commission may consider:
+**(d)** A party may seek an interim decision or, by agreement with the parties to the dispute, a recommendation of the Commission, in accordance with [subclause 14.2(e)](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure), including where an Employer has made an application referred to in [subclause 13.10(c)(i)](/ebas/allied-health/consultation-disputes/13-consultation) regarding the reversal of an implemented Major Change (in whole or part) while the dispute is being resolved. The Commission may consider:
 
 **(i)** the impact of reversing and not reversing the change on the Employer and Affected Employees;
 
-**(ii)** whether the Employer has complied with the steps at subclauses 13.4 to
+**(ii)** whether the Employer has complied with the steps at [subclauses 13.4](/ebas/allied-health/consultation-disputes/13-consultation) to
 
 **13.9** of this Agreement;
 
-**(iii)** whether a party to the dispute has complied with subclause 14.2; and
+**(iii)** whether a party to the dispute has complied with [subclause 14.2](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure); and
 
 **(iv)** any other matter the Commission considers relevant. Consult ation about Ch ang es to Ro ster s o r Hour s of Work
 

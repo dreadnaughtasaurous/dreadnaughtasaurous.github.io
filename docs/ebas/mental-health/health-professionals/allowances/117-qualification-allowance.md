@@ -8,7 +8,7 @@ topics: ['allowances', 'preliminary', 'classifications']
 
 
 
-NOTE: see subclause 9.1(kk) (Definitions) regarding the interpretation of relevance.
+NOTE: see [subclause 9.1(kk)](/ebas/mental-health/common-terms/preliminary/9-definitions) (Definitions) regarding the interpretation of relevance.
 
 **117.1** Entitlement
 

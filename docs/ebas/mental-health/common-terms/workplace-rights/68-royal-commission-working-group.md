@@ -44,7 +44,7 @@ topics: ['consultation']
 
 **(d)** Considering and responding to any specific requests from Department of Health during the process.
 
-**68.5** Implementation In addition to the Objectives listed at clause 68.4 the RCWG will consider how it could assist in supporting the implementation of the Royal Commission recommendations.
+**68.5** Implementation In addition to the Objectives listed at [clause 68.4](/ebas/mental-health/common-terms/workplace-rights/68-royal-commission-working-group) the RCWG will consider how it could assist in supporting the implementation of the Royal Commission recommendations.
 
 **68.6** Variation of Agreement For the avoidance of doubt, the collaboration contained within this clause would occur prior to, and does not replace or imply support for any formal process for varying the agreement under Part 2–4 of the Act.
 

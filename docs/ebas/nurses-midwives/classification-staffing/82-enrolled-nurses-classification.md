@@ -12,17 +12,17 @@ Part 1 – Scope
 
 **82.1** Scope
 
-This clause 82 is split into 5 parts:
+This [clause 82](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) is split into 5 parts:
 
-**(a)** Part 1 (clause 82.1 - 82.2) explains the scope of this clause and the applicable definitions;
+**(a)** Part 1 ([clause 82.1](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) - 82.2) explains the scope of this clause and the applicable definitions;
 
-**(b)** Part 2 (clauses 82.3 - 82.6) sets out the classifications and classification descriptors for Enrolled Nurses;
+**(b)** Part 2 ([clauses 82.3](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) - 82.6) sets out the classifications and classification descriptors for Enrolled Nurses;
 
-**(c)** Part 3 (clause 82.7) sets out the translation arrangements for Enrolled Nurses employed as at 31 March 2012;
+**(c)** Part 3 ([clause 82.7](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification)) sets out the translation arrangements for Enrolled Nurses employed as at 31 March 2012;
 
-**(d)** Part 4 (clauses 82.10 - 82.14) describes the recruitment and appointment process for Enrolled Nurses; and
+**(d)** Part 4 ([clauses 82.10](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) - 82.14) describes the recruitment and appointment process for Enrolled Nurses; and
 
-**(e)** Part 5 (clauses 82.15 - 82.18) sets out the process for Enrolled Nurses to advance to EN3, including the advancement criteria and competency standards.
+**(e)** Part 5 ([clauses 82.15](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) - 82.18) sets out the process for Enrolled Nurses to advance to EN3, including the advancement criteria and competency standards.
 
 **82.2** Definitions
 
@@ -60,13 +60,13 @@ completion of each year of experience thereafter the Employee will progress to t
 
 **82.5** Enrolled Nurse Level 3 (EN3)
 
-**(a)** EN3.1 applies to an Enrolled Nurse who does not hold a NMBA approved qualification in administration of medicines but who meets the criteria in clause 82.15.
+**(a)** EN3.1 applies to an Enrolled Nurse who does not hold a NMBA approved qualification in administration of medicines but who meets the criteria in [clause 82.15](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification).
 
-**(b)** EN3.2 applies to an Enrolled Nurse with an Administration of Medication Scope of up to four routes and who meets the criteria in clause 82.15.
+**(b)** EN3.2 applies to an Enrolled Nurse with an Administration of Medication Scope of up to four routes and who meets the criteria in [clause 82.15](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification).
 
-**(c)** EN3.3 applies to an Enrolled Nurse who holds a NMBA approved qualification in administration of medicines with an Administration of Medication Scope of up to five routes and who meets the criteria in clause 82.15.
+**(c)** EN3.3 applies to an Enrolled Nurse who holds a NMBA approved qualification in administration of medicines with an Administration of Medication Scope of up to five routes and who meets the criteria in [clause 82.15](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification).
 
-**(d)** From 1 September 2024, an Enrolled Nurse working in aged care who has responsibility for supervising other Employees will be classified at EN3 in accordance with clause 82.5, provided that clause 82.15 does not apply unless the Enrolled Nurse was already an EN3 as at 17 May 2024, or meets the criteria at clause 82.16.
+**(d)** From 1 September 2024, an Enrolled Nurse working in aged care who has responsibility for supervising other Employees will be classified at EN3 in accordance with [clause 82.5](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification), provided that [clause 82.15](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) does not apply unless the Enrolled Nurse was already an EN3 as at 17 May 2024, or meets the criteria at [clause 82.16](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification).
 
 **82.6** Enrolled Nurse Level 3 (savings provisions)
 
@@ -78,7 +78,7 @@ completion of each year of experience thereafter the Employee will progress to t
 
 Part 3 – Translation Arrangements
 
-**82.7** The translation arrangements in clause 82.4 of the 2016 Agreement continue to apply to Enrolled Nurses employed as at 31 March 2012.
+**82.7** The translation arrangements in [clause 82.4](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) of the 2016 Agreement continue to apply to Enrolled Nurses employed as at 31 March 2012.
 
 **82.8** Prior to 31 August 2024, each Employer will ensure that an EN with supervisory responsibility, who is not classified at EN3, is notified in writing of whether the Employer:
 
@@ -92,7 +92,7 @@ Part 4 – Recruitment and appointment to EN (new or vacant positions)
 
 **82.10** An Employer may advertise an EN vacancy as an EN1, EN2 or EN3 position, dependent upon the role.
 
-**82.11** A position will be advertised at EN3 where the work to be performed by the successful applicant is intended to include four or more of the criteria in clause 82.16.
+**82.11** A position will be advertised at EN3 where the work to be performed by the successful applicant is intended to include four or more of the criteria in [clause 82.16](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification).
 
 **82.12** Appointment of an EN1 will only occur where the successful applicant does not hold a NMBA approved qualification in administration of medicines.
 
@@ -130,7 +130,7 @@ Part 5 – Advancement to Enrolled Nurse Level 3
 
 **82.16** Advanced Enrolled Nurse Level 3 Competency Standards:
 
-The following are examples of competency standards that meet the criteria in subclause 82.15(b)(i) above.
+The following are examples of competency standards that meet the criteria in [subclause 82.15(b)(i)](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification) above.
 
 Note: Employers, Employees, the VHIA and Unions recognise that additional opportunities may exist that are comparable in terms of skill or responsibility to those below. A lack of opportunity to meet sufficient standards is not to be used as a rationale for denying an Employee classification at EN3.
 

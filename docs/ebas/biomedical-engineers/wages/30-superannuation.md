@@ -44,7 +44,7 @@ trade unions and half of the trustee board to be comprised of representatives of
 
 **(b)** any additional amounts consistent with the trust deed of the superannuation fund; and
 
-**(c)** a period of paid parental leave until the FFPPOOA the commencement of this Agreement in accordance with subclause 30.5(c) of the 2022 Agreement, after which superannuation shall be paid on parental leave (paid and unpaid) in accordance with subclause 30.6.
+**(c)** a period of paid parental leave until the FFPPOOA the commencement of this Agreement in accordance with [subclause 30.5(c)](/ebas/biomedical-engineers/wages/30-superannuation) of the 2022 Agreement, after which superannuation shall be paid on parental leave (paid and unpaid) in accordance with [subclause 30.6](/ebas/biomedical-engineers/wages/30-superannuation).
 
 **30.5** Voluntary Employee Contributions
 
@@ -52,7 +52,7 @@ trade unions and half of the trustee board to be comprised of representatives of
 
 **(b)** An Employee may adjust the amount the Employer authorises the Employer to pay from their wages from the first of the month following the giving of three (3) months’ written notice to the Employer.
 
-**(c)** The Employer must pay the amount authorised under subclauses 30.5(a) or (b) no later than 28 days after the end of the month in which the authorised deduction was made.
+**(c)** The Employer must pay the amount authorised under [subclauses 30.5(a)](/ebas/biomedical-engineers/wages/30-superannuation) or (b) no later than 28 days after the end of the month in which the authorised deduction was made.
 
 **30.6** Superannuation during parental leave - from the FFPPOOA the commencement of this Agreement
 
@@ -62,7 +62,7 @@ trade unions and half of the trustee board to be comprised of representatives of
 
 **(i)** the Employee's ordinary time earnings as defined in the Superannuation Guarantee (Administration) Act 1992 (Cth) calculated on the Employee's pre- salary packaging earnings and any additional amounts consistent with the trust deed of the superannuation fund over 26 full pay periods (that is over 52 weeks) immediately prior to commencing parental leave and divided by 52 (Weekly Parental Leave Super Contribution);
 
-**(ii)** the Weekly Parental Leave Super Contribution will be paid during each week of Parental Leave (both paid and unpaid) save that: **(A)** the Employee will receive a pro rata payment for a period less than one (1) week; and **(B)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under subclause 26.1, the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
+**(ii)** the Weekly Parental Leave Super Contribution will be paid during each week of Parental Leave (both paid and unpaid) save that: **(A)** the Employee will receive a pro rata payment for a period less than one (1) week; and **(B)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under [subclause 26.1](/ebas/biomedical-engineers/wages/26-wages-and-allowances), the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
 
 Plain language terms: super, SG.
 

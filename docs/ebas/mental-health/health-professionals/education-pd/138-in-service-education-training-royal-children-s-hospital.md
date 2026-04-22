@@ -8,7 +8,7 @@ topics: ['education']
 
 
 
-**138.1** Sub-clause 138.2 below applies to the following Health Service only:
+**138.1** Sub-[clause 138.2](/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital) below applies to the following Health Service only:
 
 **(a)** Royal Children’s Hospital.
 

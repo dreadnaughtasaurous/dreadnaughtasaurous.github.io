@@ -78,7 +78,7 @@ d\.
 
 \[10.5(a) varied by [PR723880](https://www.fwc.gov.au/documents/awardsandorders/html/PR723880.htm); substituted by [PR733842](https://www.fwc.gov.au/documents/awardsandorders/html/PR733842.htm) from 27Sep21\]
 
-a\. A casual employee must be paid the hourly rate payable for a full-time employee for the relevant classification in clause 14---Minimum wages plus a casual loading of 25% for each ordinary hour worked.
+a\. A casual employee must be paid the hourly rate payable for a full-time employee for the relevant classification in [clause 14](/ebas/childrens-services/wages/14-minimum-wages)---Minimum wages plus a casual loading of 25% for each ordinary hour worked.
 
 \[10.5(b) substituted by [PR733842](https://www.fwc.gov.au/documents/awardsandorders/html/PR733842.htm) from 27Sep21\]
 

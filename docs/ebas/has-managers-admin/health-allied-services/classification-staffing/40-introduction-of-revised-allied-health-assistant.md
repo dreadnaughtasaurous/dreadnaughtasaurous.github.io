@@ -32,6 +32,6 @@ SECTION 2 – HEALTH & ALLIED SERVICES EMPLOYEES AND DENTAL ASSISTANTS
 
 **(a)** The VHIA and HWU (together with equal representation from their respective memberships) will undertake a review of the Allied Health Assistant structure to examine duties associated with the Certificate IV in Training & Assessment and other emerging Allied Health Assistant duties and responsibilities (including NDIS).
 
-**(b)** The review process in clause 40.4(a) will commence in 2022 and will include consultation with Allied Health Assistant Victorian Network (AHAVN).
+**(b)** The review process in [clause 40.4(a)](/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant) will commence in 2022 and will include consultation with Allied Health Assistant Victorian Network (AHAVN).
 
 

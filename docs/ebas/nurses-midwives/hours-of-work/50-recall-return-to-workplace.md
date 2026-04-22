@@ -14,15 +14,15 @@ topics: ['hours', 'overtime']
 
 **50.3** From 24 June 2024, each period of recall under this clause within an on-call period will stand alone, provided that:
 
-**(a)** only the first period of recall within an on-call period will result in a lower overtime penalty (if applicable under subclause 49.2(c)); and
+**(a)** only the first period of recall within an on-call period will result in a lower overtime penalty (if applicable under [subclause 49.2(c)](/ebas/nurses-midwives/hours-of-work/49-overtime)); and
 
 **(b)** consecutive periods of on-call will be treated as a single period of on-call for the purposes of (a) above.
 
-**50.4** Clause 50.2 above will not apply when overtime is continuous with the completion or commencement of that Employee's rostered shift.
+**50.4** [Clause 50.2](/ebas/nurses-midwives/hours-of-work/50-recall-return-to-workplace) above will not apply when overtime is continuous with the completion or commencement of that Employee's rostered shift.
 
 **50.5** The time spent travelling to and from the place of duty will be deemed to be time worked.
 
-**50.6** From 8 July 2024, if an Employee is recalled and is subsequently not required to commence work the Employee is entitled to the minimum payment at clause 50.1 above.
+**50.6** From 8 July 2024, if an Employee is recalled and is subsequently not required to commence work the Employee is entitled to the minimum payment at [clause 50.1](/ebas/nurses-midwives/hours-of-work/50-recall-return-to-workplace) above.
 
 **50.7** Emergency on-call/recall
 

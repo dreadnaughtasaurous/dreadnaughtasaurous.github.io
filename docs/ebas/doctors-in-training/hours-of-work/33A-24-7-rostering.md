@@ -30,7 +30,7 @@ with these shifts typically not exceeding 10 hours each.
 
 with these shifts typically being at least 12 hours (excluding meal break) but no greater than 14 hours each.
 
-**33A.3** Notwithstanding the typical shift lengths described at subclause 33A.2 shifts will not exceed the limit set out at subclause 33.3.
+**33A.3** Notwithstanding the typical shift lengths described at [subclause 33A.2](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering) shifts will not exceed the limit set out at [subclause 33.3](/ebas/doctors-in-training/hours-of-work/33-hours-of-work).
 
 **33A.4** Nothing in this term prevents other shift configurations (such as "saddle" shifts).
 

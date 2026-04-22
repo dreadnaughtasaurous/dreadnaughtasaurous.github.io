@@ -16,7 +16,7 @@ For the purpose of this clause only, the following definitions apply:
 
 **(a)** Salary or Wage means the Doctor’s salary or wage (including allowances) at the time leave is taken;
 
-**(b)** Service means, subject to subclause 57.2(c) of this Agreement, service from the date of first entering employment with the Health Service or Statutory Body (whether or not such Health Service or Statutory Body has been
+**(b)** Service means, subject to [subclause 57.2(c)](/ebas/medical-specialists/leave/57-sabbatical-leave) of this Agreement, service from the date of first entering employment with the Health Service or Statutory Body (whether or not such Health Service or Statutory Body has been
 
 transmitted from one Health Service to another during the period such employment), and includes all periods of paid leave including all periods during which the Doctor was serving in Her Majesty’s Forces or was made available by the Health Service or Statutory Body for National Duty
 
@@ -40,13 +40,13 @@ In calculating such aggregate service:
 
 **(d)** Sabbatical Advisory Committee means a committee whose terms of reference include the function of providing advice in relation to Applications for Sabbatical Leave;
 
-**(e)** Health Service has the same meaning as subclause 3.1(u) of this Agreement;
+**(e)** Health Service has the same meaning as [subclause 3.1(u)](/ebas/medical-specialists/preliminary/3-definitions) of this Agreement;
 
 **(f)** Application for Sabbatical Leave means an application made pursuant to this clause.
 
 **57.2** General Terms
 
-**(a)** Subject to the provisions set out in subclause 57.3 of this Agreement, a Doctor may make an Application for Sabbatical Leave after the completion of the Relevant Period where:
+**(a)** Subject to the provisions set out in [subclause 57.3](/ebas/medical-specialists/leave/57-sabbatical-leave) of this Agreement, a Doctor may make an Application for Sabbatical Leave after the completion of the Relevant Period where:
 
 **(i)** the sole purpose of the Sabbatical Leave is to undertake a course of study or research related to his or her work; and
 
@@ -60,11 +60,11 @@ In calculating such aggregate service:
 
 **(a)** Service with the same Employer for a period exceeding six years
 
-**(i)** A Doctor who has been in the service of the same Health Service for the Relevant Period specified in subclause 57.1(c)(i) of this Agreement is entitled to a maximum of 26 weeks’ leave of absence on full salary or wages for the purposes of undertaking a period of approved Sabbatical Leave in accordance with this clause.
+**(i)** A Doctor who has been in the service of the same Health Service for the Relevant Period specified in [subclause 57.1(c)(i)](/ebas/medical-specialists/leave/57-sabbatical-leave) of this Agreement is entitled to a maximum of 26 weeks’ leave of absence on full salary or wages for the purposes of undertaking a period of approved Sabbatical Leave in accordance with this clause.
 
 **(b)** Service across multiple employers for a period exceeding six years
 
-**(i)** A Doctor who is and has been in the service of one or more Health Services (including any Statutory Body directly associated with such Health Service or Health Services) for the Relevant Period specified in subclause 57.1(c)(i) of this Agreement, is entitled to a maximum of 26 weeks’ leave of absence on full salary or wages.
+**(i)** A Doctor who is and has been in the service of one or more Health Services (including any Statutory Body directly associated with such Health Service or Health Services) for the Relevant Period specified in [subclause 57.1(c)(i)](/ebas/medical-specialists/leave/57-sabbatical-leave) of this Agreement, is entitled to a maximum of 26 weeks’ leave of absence on full salary or wages.
 
 Example: A Doctor was employed at Hospital A as a Medical Specialist for five years before terminating and immediately commencing a new role at Hospital B as a Medical Specialist.
 
@@ -72,13 +72,13 @@ The Doctor, upon commencing at Hospital B will be have to complete a further thr
 
 **(c)** Where Sabbatical Leave is less than 26 weeks duration
 
-**(i)** Subject to subclause 57.357.2(b), where a Doctor proceeds on Sabbatical Leave of less than 26 weeks’ duration, the Doctor will be deemed to have received his/her full entitlement under this clause and he/she will not be entitled to claim an entitlement representing (in part or in whole) the balance of the 26 weeks (if any).
+**(i)** Subject to [subclause 57.357](/ebas/medical-specialists/leave/57-sabbatical-leave).2(b), where a Doctor proceeds on Sabbatical Leave of less than 26 weeks’ duration, the Doctor will be deemed to have received his/her full entitlement under this clause and he/she will not be entitled to claim an entitlement representing (in part or in whole) the balance of the 26 weeks (if any).
 
-**(ii)** The absence of a Doctor on Sabbatical Leave will be prima facie evidence that he/she has received his/her full entitlement under this clause. Where Sabbatical Leave is taken in two periods of 13 weeks as allowed under subclause 57.2(b), the provisions of this clause will apply to each 13 week period.
+**(ii)** The absence of a Doctor on Sabbatical Leave will be prima facie evidence that he/she has received his/her full entitlement under this clause. Where Sabbatical Leave is taken in two periods of 13 weeks as allowed under [subclause 57.2(b)](/ebas/medical-specialists/leave/57-sabbatical-leave), the provisions of this clause will apply to each 13 week period.
 
 **(d)** Calculation of Relevant Period following Sabbatical Leave
 
-**(i)** Where a Doctor has proceeded on Sabbatical Leave, a subsequent Relevant Period as specified in subclause 57.1(c) of this Agreement, will not commence to run until the date of the Doctor’s return to duty following Sabbatical Leave.
+**(i)** Where a Doctor has proceeded on Sabbatical Leave, a subsequent Relevant Period as specified in [subclause 57.1(c)](/ebas/medical-specialists/leave/57-sabbatical-leave) of this Agreement, will not commence to run until the date of the Doctor’s return to duty following Sabbatical Leave.
 
 **(ii)** Provided that where by mutual agreement a Doctor has delayed the taking of Sabbatical Leave, that period of service between the end of the Relevant Period and the taking of such leave will be included as part of a subsequent Relevant Period.
 
@@ -92,7 +92,7 @@ The Doctor, upon commencing at Hospital B will be have to complete a further thr
 
 **57.5** Response of the Health Service
 
-**(a)** Where a Doctor has made an Application for Sabbatical Leave in accordance with subclause 57.4, the Employer will, within three months of the written application being received, notify the Doctor in writing whether their Application for Sabbatical Leave has been:
+**(a)** Where a Doctor has made an Application for Sabbatical Leave in accordance with [subclause 57.4](/ebas/medical-specialists/leave/57-sabbatical-leave), the Employer will, within three months of the written application being received, notify the Doctor in writing whether their Application for Sabbatical Leave has been:
 
 **(i)** approved as requested; or
 

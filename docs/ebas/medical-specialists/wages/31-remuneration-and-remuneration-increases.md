@@ -18,11 +18,11 @@ topics: ['wages', 'preliminary']
 
 **31.2** The increases in rates of pay and other monetary entitlements specified in this Agreement have been agreed on the understanding that they will be the increases actually paid to the Doctors during the life of this Agreement. Where a Doctor’s remuneration has been negotiated as an annualised salary, the increase will apply to this annualised rate.
 
-**31.3** Existing work-related allowances will increase in accordance with the salary increases in subclause 31.1 above.
+**31.3** Existing work-related allowances will increase in accordance with the salary increases in [subclause 31.1](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases) above.
 
 **31.4** The weekly rates of pay and allowances for the life of this Agreement are set out in [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances).
 
-**31.5** The increases in subclause 31.1 will not apply to private practice bonuses except where these have been included in a rolled up or annualised salary arrangement.
+**31.5** The increases in [subclause 31.1](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases) will not apply to private practice bonuses except where these have been included in a rolled up or annualised salary arrangement.
 
 **31.6** Patience in bargaining payment
 
@@ -34,7 +34,7 @@ At the commencement of this Agreement, all Existing Doctors will receive a once 
 
 **(i)** the Health Service may pay, and the Doctor may accept, the amount specified in the Contract as at 1 March 2022; and
 
-**(ii)** the Health Service must increase the actual contracted rate of pay in accordance with the percentage increases specified on the relevant dates as stated in subclauses 31.1; but
+**(ii)** the Health Service must increase the actual contracted rate of pay in accordance with the percentage increases specified on the relevant dates as stated in [subclauses 31.1](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases); but
 
 **(iii)** the Health Service must not pay, and the Doctor must not seek or accept, any increase in the rates of pay or monetary payments as specified in the Contract as at 1 March 2022 which exceed the percentage increase in the rates of pay or monetary payments specified in this clause to apply at various times under this Agreement, and to the extent that the Contract otherwise provides, the Contract is unenforceable and of no effect.
 
@@ -74,7 +74,7 @@ in the rates of pay specified in this clause and [Appendix 2](/ebas/medical-spec
 
 **31.11** General Rule
 
-**(a)** Except as provided in subclauses 31.7, 31.8, 31.9 and 31.10, it is a requirement of this Agreement that while this Agreement is in operation:
+**(a)** Except as provided in [subclauses 31.7](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases), 31.8, 31.9 and 31.10, it is a requirement of this Agreement that while this Agreement is in operation:
 
 **(i)** the Health Services must pay to all Doctors the rates of pay specified in Part 1 of [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) and all other monetary payments required to be paid under this Agreement for the performance of all work to which this Agreement applies;
 

@@ -8,7 +8,7 @@ topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 
 
 
-Nothing in this clause 30 limits the Employer’s obligations to consult with HSRs under the OHS Act.
+Nothing in this [clause 30](/ebas/mspp/employment/30-consultation) limits the Employer’s obligations to consult with HSRs under the OHS Act.
 
 **30.1** Consultation regarding Major Change
 
@@ -20,9 +20,9 @@ Nothing in this clause 30 limits the Employer’s obligations to consult with HS
 
 **d.** An employer will provide reasonable resources (ie paid time for Union representatives, access to email, photocopying and meeting rooms) necessary to ensure that Employees and Union representatives can participate effectively in the consultation process.
 
-**e.** Major Change includes (but is not limited to) technological change as defined and referred to at subclause 30.2c below.
+**e.** Major Change includes (but is not limited to) technological change as defined and referred to at [subclause 30.2](/ebas/mspp/employment/30-consultation)c below.
 
-**30.2** Definitions Under this clause 30:
+**30.2** Definitions Under this [clause 30](/ebas/mspp/employment/30-consultation):
 
 **a.** Consultation means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
@@ -78,7 +78,7 @@ Consultation includes an opportunity for affected Employees and the Union to pro
 
 regard for all the circumstances including the complexity of the change proposed, and the need for Employees and their representative to meet with each other and consider and discuss the Employer’s proposal.
 
-**c.** The following table describes the relevant steps for the Consultation process. Step Action 1. Employer provides Change Impact Statement and other written material required by subclause 30.4. Employees and/or Union may request any additional information or material relevant to the proposed change. 2. Written response from Employees and / or Union
+**c.** The following table describes the relevant steps for the Consultation process. Step Action 1. Employer provides Change Impact Statement and other written material required by [subclause 30.4](/ebas/mspp/employment/30-consultation). Employees and/or Union may request any additional information or material relevant to the proposed change. 2. Written response from Employees and / or Union
 
 1.  Consultation Meeting/s convened
 
@@ -138,7 +138,7 @@ regard for all the circumstances including the complexity of the change proposed
 
 **30.8** Alternative proposal (step 5) The Affected Employee/s, the Union and other representative (where relevant) may submit alternative proposal(s) which will take into account the intended objective and benefits of the proposal. Alternative proposals should be submitted in a timely manner so that unreasonable delay may be avoided.
 
-**30.9** Outcome of Consultation (step 6) The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-clause 30.8 and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+**30.9** Outcome of Consultation (step 6) The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-[clause 30.8](/ebas/mspp/employment/30-consultation) and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 **a.** whether the Employer intends to proceed with the change proposal;
 

@@ -78,7 +78,7 @@ topics: ['leave']
 
 **(b)** Time off must be taken at a time or times agreed by the Employee and Employer.
 
-**(c)** Time in lieu in this subclause 72.8 is on the basis of time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
+**(c)** Time in lieu in this [subclause 72.8](/ebas/biomedical-engineers/education-pd/72-professional-development-leave) is on the basis of time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
 
 **72.9** Report Back An Employee may be required to provide a reasonable report back on a seminar or conference, provided they are:
 

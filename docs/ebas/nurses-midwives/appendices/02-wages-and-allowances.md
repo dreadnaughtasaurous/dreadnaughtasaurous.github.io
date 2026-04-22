@@ -4483,7 +4483,7 @@ The pay tables below are sourced from Salary Circular 870. Rates shown are weekl
 <tr>
 <td class="pt-class">Telephone Allowance (fortnightly)</td>
 <td class="pt-rate">$20.22</td>
-<td class="pt-rate">The telephone allowance in the 2020 Agreement does not apply from 1 May 2024 and has been included in the On Call Allowance rates- see subclause 33.2(d)</td>
+<td class="pt-rate">The telephone allowance in the 2020 Agreement does not apply from 1 May 2024 and has been included in the On Call Allowance rates- see [subclause 33.2(d)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime)</td>
 </tr>
 </tbody>
 </table></div>

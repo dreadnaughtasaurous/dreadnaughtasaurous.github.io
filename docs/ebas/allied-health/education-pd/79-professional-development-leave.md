@@ -50,7 +50,7 @@ Example: An Employee may use their professional development leave to attend 14 h
 
 **(a)** Day for the purposes of professional development leave is the Employee's usual shift length on the day the leave is taken. For example, a night shift worker who takes a day of professional development leave for a 10-hour night shift is entitled to 10 hours' payment.
 
-**(b)** In circumstances where an Employee takes professional development leave on a day the Employee would not otherwise work, see subclause 79.8.
+**(b)** In circumstances where an Employee takes professional development leave on a day the Employee would not otherwise work, see [subclause 79.8](/ebas/allied-health/education-pd/79-professional-development-leave).
 
 **79.5** Accumulation of Professional Development Leave The leave is cumulative over two (2) calendar years.
 
@@ -66,7 +66,7 @@ Example: An Employee may use their professional development leave to attend 14 h
 
 **(iii)** where the leave is taken to attend a conference or seminar, the name, venue and date/time.
 
-**(c)** For the avoidance of doubt, only professional development activities that an Employee makes an application for in accordance with this subclause 79.6 which are approved can be deducted from the Employee’s Professional Development Leave entitlement.
+**(c)** For the avoidance of doubt, only professional development activities that an Employee makes an application for in accordance with this [subclause 79.6](/ebas/allied-health/education-pd/79-professional-development-leave) which are approved can be deducted from the Employee’s Professional Development Leave entitlement.
 
 **79.7** Response to Application
 
@@ -84,9 +84,9 @@ Example: An Employee may use their professional development leave to attend 14 h
 
 weekends, ADOs or after hours) then the Employer will provide time off in lieu for the period of the course.
 
-**(b)** Time in lieu in this subclause 79.8 is on the basis of time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
+**(b)** Time in lieu in this [subclause 79.8](/ebas/allied-health/education-pd/79-professional-development-leave) is on the basis of time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
 
-**(c)** Instead of time in lieu in accordance with this subclause 79.8, the Employer and Employee may mutually agree to the Employee being paid for the period at the Employee’s ordinary time rate of pay.
+**(c)** Instead of time in lieu in accordance with this [subclause 79.8](/ebas/allied-health/education-pd/79-professional-development-leave), the Employer and Employee may mutually agree to the Employee being paid for the period at the Employee’s ordinary time rate of pay.
 
 **79.9** Report Back An Employee may be required to report back on a seminar or conference, provided they are allocated sufficient time during their ordinary hours of work to prepare for and deliver this.
 

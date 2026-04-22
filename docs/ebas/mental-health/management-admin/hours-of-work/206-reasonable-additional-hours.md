@@ -8,7 +8,7 @@ topics: ['hours', 'overtime']
 
 
 
-**206.1** Subject to clause 206.2, an Employer may require an Employee to work reasonable additional hours at the appropriate overtime rate as defined in clause 203 (Overtime) of Section 5.
+**206.1** Subject to [clause 206.2](/ebas/mental-health/management-admin/hours-of-work/206-reasonable-additional-hours), an Employer may require an Employee to work reasonable additional hours at the appropriate overtime rate as defined in [clause 203](/ebas/mental-health/management-admin/hours-of-work/203-overtime) (Overtime) of Section 5.
 
 **206.2** An Employee may refuse to work overtime in circumstances where the working of such overtime would result in the Employee working hours which are unreasonable having regard to:
 

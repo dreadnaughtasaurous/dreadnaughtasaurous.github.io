@@ -30,7 +30,7 @@ Note: This clause does not apply to casual Employees. 38D.1. Basic Entitlement t
 
 If an Employee was accruing 6 weeks annual leave as at 30 June 2022 (or would have been but for the operation of an arrangement under [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements) or [clause 66](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements) (Individual Flexible Working Arrangements) or an absence from work on parental leave), the Employee will continue to accrue six weeks of annual leave unless or until:
 
-**(i)** the arrangement at sub-clause 38D.2(a) or (b) is more beneficial for the Employee
+**(i)** the arrangement at sub-[clause 38D.2(a)](/ebas/mental-health/common-terms/leave/38D-annual-leave) or (b) is more beneficial for the Employee
 
 **(ii)** the Employee changes Employers
 
@@ -68,17 +68,17 @@ If an Employee was accruing 6 weeks annual leave as at 30 June 2022 (or would ha
 
 **(C)** whether previous leave applications for the same high-demand period were or were not successful.
 
-Example – A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are ‘high demand periods’ for that ward within the meaning of this sub clause 38D.4 and the Manager must publish the information specified above at 38D.4(i) to (iii) and, when determining the applications, apply the considerations at 38D.4(iv).
+Example – A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are ‘high demand periods’ for that ward within the meaning of this sub [clause 38D.4](/ebas/mental-health/common-terms/leave/38D-annual-leave) and the Manager must publish the information specified above at 38D.4(i) to (iii) and, when determining the applications, apply the considerations at 38D.4(iv).
 
 Short periods of annual leave Paid annual leave under this clause can be taken in periods less than an Employee’s ordinary fortnight (short period), including single days in which case any notice period may be waived by agreement. 38D.5. Payment for leave
 
-**(a)** Employees will receive their ordinary pay and any amount required by clause 38D.7 (Annual leave loading or penalties) during periods of annual leave. Ordinary pay for the purposes of this clause means remuneration for the Employee’s normal weekly number of hours of work calculated at the ordinary time rate of pay provided that:
+**(a)** Employees will receive their ordinary pay and any amount required by [clause 38D.7](/ebas/mental-health/common-terms/leave/38D-annual-leave) (Annual leave loading or penalties) during periods of annual leave. Ordinary pay for the purposes of this clause means remuneration for the Employee’s normal weekly number of hours of work calculated at the ordinary time rate of pay provided that:
 
 **(i)** where an Employee has performed higher duties for an aggregate period of three months or more in a twelve (12) month period, ordinary pay will be adjusted proportionally to reflect the period during which higher duties were performed; and
 
 **(ii)** normal weekly hours for a part time Employee who performs additional shifts will reflect the additional hours worked over the 12 month period.
 
-**(b)** Payment for paid annual leave will be in advance for the period of such leave except for a short period (as defined in clause 38D.5). 38D.6. Annual leave loading or penalties
+**(b)** Payment for paid annual leave will be in advance for the period of such leave except for a short period (as defined in [clause 38D.5](/ebas/mental-health/common-terms/leave/38D-annual-leave)). 38D.6. Annual leave loading or penalties
 
 **(a)** In addition to ordinary pay (as defined) an Employee will receive the higher of:
 
@@ -86,15 +86,15 @@ Short periods of annual leave Paid annual leave under this clause can be taken i
 
 **(ii)** the payments listed below which the Employee would have received had the Employee not been on leave, for each week of leave: **(A)** shift work allowances ([clauses 84](/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances), 119, 157 & 194). **(B)** rates for Saturday, Sunday ([clause 83](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work), 130, 177, 209); **(C)** qualification allowance ([clause 81](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance) & 117); **(D)** uniform allowances ([clause 86](/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance) & 121).
 
-**(b)** Leave loading under sub-clause 38D.7(a)(i) is payable on:
+**(b)** Leave loading under sub-[clause 38D.7(a)(i)](/ebas/mental-health/common-terms/leave/38D-annual-leave) is payable on:
 
 **(i)** a maximum of 190 hours in respect of any year of employment, and
 
 **(ii)** the Employee’s weekly ordinary pay subject to the cap (as defined); and
 
-**(iii)** the cap under sub-clause 38D.7(b)(ii) is the relevant ‘Annual Leave Loading Cap’ contained within [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) where applicable.
+**(iii)** the cap under sub-[clause 38D.7(b)(ii)](/ebas/mental-health/common-terms/leave/38D-annual-leave) is the relevant ‘Annual Leave Loading Cap’ contained within [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) where applicable.
 
-**(c)** To determine which payments the Employee would have received had the Employee not been on leave for the purpose of sub-clause 38D.7(a)(ii), this will be done either by:
+**(c)** To determine which payments the Employee would have received had the Employee not been on leave for the purpose of sub-[clause 38D.7(a)(ii)](/ebas/mental-health/common-terms/leave/38D-annual-leave), this will be done either by:
 
 **(iv)** the projected roster, being the roster the Employee would have worked had they not been on leave, or
 
@@ -120,7 +120,7 @@ If an Employee takes paid annual leave during a period that includes a public ho
 
 **(a)** General provision
 
-**(i)** An Employee has an excess leave accrual where the Employee has two years or more of annual leave entitlement accrued in accordance with this clause 38D.
+**(i)** An Employee has an excess leave accrual where the Employee has two years or more of annual leave entitlement accrued in accordance with this [clause 38D](/ebas/mental-health/common-terms/leave/38D-annual-leave).
 
 **(ii)** If an Employee has an excess leave accrual, the Employer or the Employee may seek to confer with the other and genuinely try to reach agreement on how to reduce or eliminate the excess leave accrual.
 
@@ -132,13 +132,13 @@ If an Employee takes paid annual leave during a period that includes a public ho
 
 **(b)** Excess Annual leave accruals – no agreement reached
 
-**(i)** Direction by Employer Where the Employer has genuinely tried to reach agreement with an Employee under clause 38D.10(a) but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
+**(i)** Direction by Employer Where the Employer has genuinely tried to reach agreement with an Employee under [clause 38D.10(a)](/ebas/mental-health/common-terms/leave/38D-annual-leave) but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
 
-**(i)** However, in directing that the Employee take leave under this subclause 38D.10(b): **(A)** the Employee cannot be directed to reduce the accrued leave to less than eight (8) weeks **(B)** the Employer cannot require an Employee to take any period of paid annual leave of less than one week **(C)** the Employer cannot require the Employee to take a period of paid annual leave beginning less than 8 weeks or more than 12 months after the direction is given; and **(D)** the direction must not be inconsistent with any leave arrangement agreed by the Employer and Employee.
+**(i)** However, in directing that the Employee take leave under this [subclause 38D.10(b)](/ebas/mental-health/common-terms/leave/38D-annual-leave): **(A)** the Employee cannot be directed to reduce the accrued leave to less than eight (8) weeks **(B)** the Employer cannot require an Employee to take any period of paid annual leave of less than one week **(C)** the Employer cannot require the Employee to take a period of paid annual leave beginning less than 8 weeks or more than 12 months after the direction is given; and **(D)** the direction must not be inconsistent with any leave arrangement agreed by the Employer and Employee.
 
 **(iii)** Where the Employer issues a Direction Where the Employer issues a direction to the Employee to take paid annual leave in accordance with paragraph (a): **(A)** the Employee must take paid annual leave in accordance with that direction; and **(B)** the Employee may request to take a period of paid annual leave as if the direction had not been given.
 
-**(iv)** Request by Employee for Leave If the Employee has genuinely tried to reach agreement with the Employer under subclause 38D.10(a)(ii) but agreement is not reached (including because the Employer refuses to confer) the Employee may give a written notice to the Employer requesting to take one or more periods of paid annual leave. However, a notice under this subclause 38D.10: **(A)** may only be given if the Employee has had an excess leave accrual for more than 6 months at the time of giving the notice **(B)** may only be given if the Employee has not been given a direction under subclause 38D.10 that, when any other paid annual leave arrangements are taken into account would eliminate the Employee's excess accrual **(C)** must not, if granted, result in the Employee's remaining accrued entitlement to paid annual leave being, at any time, less than 6 weeks when other paid annual leave arrangements are taken into account
+**(iv)** Request by Employee for Leave If the Employee has genuinely tried to reach agreement with the Employer under [subclause 38D.10(a)(ii)](/ebas/mental-health/common-terms/leave/38D-annual-leave) but agreement is not reached (including because the Employer refuses to confer) the Employee may give a written notice to the Employer requesting to take one or more periods of paid annual leave. However, a notice under this [subclause 38D.10](/ebas/mental-health/common-terms/leave/38D-annual-leave): **(A)** may only be given if the Employee has had an excess leave accrual for more than 6 months at the time of giving the notice **(B)** may only be given if the Employee has not been given a direction under [subclause 38D.10](/ebas/mental-health/common-terms/leave/38D-annual-leave) that, when any other paid annual leave arrangements are taken into account would eliminate the Employee's excess accrual **(C)** must not, if granted, result in the Employee's remaining accrued entitlement to paid annual leave being, at any time, less than 6 weeks when other paid annual leave arrangements are taken into account
 
 **(D)** must not provide for the employee to take any period of paid annual leave of less than one week **(E)** must not provide for the employee to take a period of paid annual leave beginning less than 8 weeks or more than 12 months, after the notice is given **(F)** must not be inconsistent with any leave arrangement agreed by the Employer and Employee; and **(G)** must not be for more than 1 full year's entitlement to annual leave as prescribed by 38D.1 and 38D.2 above.
 
@@ -168,7 +168,7 @@ Where the Employee gives written notice to the Employer to take one or more peri
 
 **(c)** Payments made in accordance with this clause extinguish an Employee's right to access annual leave or receive further payment for the period of annual leave paid out.
 
-**38D.12** Part-time Employees – cashing out of annual leave where contracted EFT fraction has reduced A part-time Employee that has reduced their EFT fraction, may request to cash out accrued annual leave in conjunction with taking a period of annual leave so that the total payment for the period is equivalent to the previous EFT fraction. The request and any agreement must comply with the requirements of clause 38D.11 above save that:
+**38D.12** Part-time Employees – cashing out of annual leave where contracted EFT fraction has reduced A part-time Employee that has reduced their EFT fraction, may request to cash out accrued annual leave in conjunction with taking a period of annual leave so that the total payment for the period is equivalent to the previous EFT fraction. The request and any agreement must comply with the requirements of [clause 38D.11](/ebas/mental-health/common-terms/leave/38D-annual-leave) above save that:
 
 **(a)** the requirement that paid annual leave must not be cashed out if the cashing out would result in the Employee’s remaining accrued entitlement to paid leave being less than six weeks calculated using the new EFT fraction; and
 

@@ -8,7 +8,7 @@ topics: ['leave', 'employment', 'preliminary']
 
 
 
-**62.1** Subject to the evidentiary and notice requirements that apply to carer's leave under clause 61.6, a casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to provide care or support to a member of the Employee's Immediate family or household because of:
+**62.1** Subject to the evidentiary and notice requirements that apply to carer's leave under [clause 61.6](/ebas/nurses-midwives/leave/61-personal-leave), a casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to provide care or support to a member of the Employee's Immediate family or household because of:
 
 **(a)** a personal illness, or personal injury, affecting them;
 

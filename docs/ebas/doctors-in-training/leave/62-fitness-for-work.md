@@ -38,7 +38,7 @@ topics: ['ohs']
 
 **(j)** If, on receipt of the report, the Health Service continues to have a reasonable belief that the Doctor is unfit for duty, or the Doctor does not provide a report from the treating medical practitioner, the Health Service may require the Doctor to attend an independent medical practitioner.
 
-**(k)** Where the Doctor attends a medical practitioner under either subclauses 62.1(g) or
+**(k)** Where the Doctor attends a medical practitioner under either [subclauses 62.1(g)](/ebas/doctors-in-training/leave/62-fitness-for-work) or
 
 **(j)** above, the Health Service will:
 
@@ -60,13 +60,13 @@ topics: ['ohs']
 
 the Doctor will be paid the ordinary rate of pay for reasonable time taken to travel to and from the appointment and the time taken for the appointment.
 
-**(m)** Nothing in this clause 62 prevents a Health Service from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
+**(m)** Nothing in this [clause 62](/ebas/doctors-in-training/leave/62-fitness-for-work) prevents a Health Service from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
 
-**(n)** The Health Service will respect a Doctor’s privacy and ensure that any personal information provided by the Doctor or a medical practitioner under this clause 62 is kept confidential.
+**(n)** The Health Service will respect a Doctor’s privacy and ensure that any personal information provided by the Doctor or a medical practitioner under this [clause 62](/ebas/doctors-in-training/leave/62-fitness-for-work) is kept confidential.
 
 **62.2** Reasonable Adjustments
 
-**(a)** Where Doctors have a disability (whether permanent or temporary) the Health Service is required to make reasonable adjustments to enable the Doctor to continue to perform their duties, subject to subclause 62.2(b) below.
+**(a)** Where Doctors have a disability (whether permanent or temporary) the Health Service is required to make reasonable adjustments to enable the Doctor to continue to perform their duties, subject to [subclause 62.2(b)](/ebas/doctors-in-training/leave/62-fitness-for-work) below.
 
 **(b)** A Health Service is not required to make reasonable adjustments if the Doctor could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 

@@ -66,7 +66,7 @@ topics: ['hours', 'staffing', 'workload']
 
 **33.5** Dispute Settlement In the event of a dispute arising over the provisions of this clause, either party may choose to have the dispute resolved pursuant to the provisions of [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) – Dispute Settling Procedures or [clause 12](/ebas/mspp/disputes/12-independent-dispute-resolution-panel) – Independent Disputes Resolution Procedure.
 
-**33.6** Information – Workplace Implementation and Compliance Committee The matters in this clause are directly relevant to workload and the Employer will provide information to the Workplace Implementation and Compliance Committee as required by subclause 17.10 of this Agreement.
+**33.6** Information – Workplace Implementation and Compliance Committee The matters in this clause are directly relevant to workload and the Employer will provide information to the Workplace Implementation and Compliance Committee as required by [subclause 17.10](/ebas/mspp/union-rights/17-union-rights) of this Agreement.
 
 Plain language terms: reasonable workload, workload management.
 

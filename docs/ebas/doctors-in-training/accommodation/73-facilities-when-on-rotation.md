@@ -60,11 +60,11 @@ The Rotation Hospital must respect the privacy of a Doctor's room and, provided 
 
 **73.6** Routine inspection and maintenance
 
-The provisions of subclause 73.5 do not apply to the routine maintenance of Doctors' rooms or routine inspections of which notice has been given.
+The provisions of [subclause 73.5](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation) do not apply to the routine maintenance of Doctors' rooms or routine inspections of which notice has been given.
 
 **73.7** Accommodation for Spouse
 
-A Doctor with a Spouse (as defined in subclause 67.2(g)) and/or a child or children to whom the Doctor is their Primary Carer may request spousal or family quarters if required to be on Rotation to a Rotation Hospital for in excess of six weeks. This entitlement is subject to the availability of spousal or family quarters.
+A Doctor with a Spouse (as defined in [subclause 67.2(g)](/ebas/doctors-in-training/leave/67-parental-leave)) and/or a child or children to whom the Doctor is their Primary Carer may request spousal or family quarters if required to be on Rotation to a Rotation Hospital for in excess of six weeks. This entitlement is subject to the availability of spousal or family quarters.
 
 Plain language terms: rotation accommodation.
 

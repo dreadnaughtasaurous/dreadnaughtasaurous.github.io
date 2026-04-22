@@ -38,11 +38,11 @@ save that, in the case of Fractional Doctors and Internal Locum Doctors, any ave
 
 **(a)** Doctors are entitled to:
 
-**(i)** six months' long service leave with Pay on completion of fifteen years of Continuous Service (as defined at subclause 55.3(a)(ii)); and
+**(i)** six months' long service leave with Pay on completion of fifteen years of Continuous Service (as defined at [subclause 55.3(a)(ii)](/ebas/medical-specialists/leave/55-long-service-leave)); and
 
-**(ii)** thereafter an additional two months' long service leave with Pay on completion of each additional five years of Continuous Service (as defined at subclause 55.3(a)(ii)).
+**(ii)** thereafter an additional two months' long service leave with Pay on completion of each additional five years of Continuous Service (as defined at [subclause 55.3(a)(ii)](/ebas/medical-specialists/leave/55-long-service-leave)).
 
-**(b)** Subject to subclause 55.4(d), the entitlement under subclause 55.2(a) may be taken in advance on a pro rata basis if the Doctor has accrued Continuous Service of at least:
+**(b)** Subject to [subclause 55.4(d)](/ebas/medical-specialists/leave/55-long-service-leave), the entitlement under [subclause 55.2(a)](/ebas/medical-specialists/leave/55-long-service-leave) may be taken in advance on a pro rata basis if the Doctor has accrued Continuous Service of at least:
 
 **(i)** 10 years; or
 
@@ -64,7 +64,7 @@ B. such longer period of absence equivalent to and for the purpose of parental l
 
 **(ii)** Continuous Service means continuous service with the same Health Service plus any prior continuous service of six months or more with one or more Institutions or Statutory Bodies directly associated with such Institutions.
 
-**(iii)** Continuous Internal Locum Employment means, for the purpose of subclause 55.3(b), a period or periods of employment as an Internal Locum Doctor) with the same Health Service that are taken to be continuous, because one of the following applies:
+**(iii)** Continuous Internal Locum Employment means, for the purpose of [subclause 55.3(b)](/ebas/medical-specialists/leave/55-long-service-leave), a period or periods of employment as an Internal Locum Doctor) with the same Health Service that are taken to be continuous, because one of the following applies:
 
 A. the period starting at the end of a particular instance of employment and ending at the start of another
 
@@ -80,7 +80,7 @@ E. the Doctor and Health Service agreed, before the start of an absence, to trea
 
 **(b)** Periods that count towards Continuous Service
 
-Service or prior service during the following periods will be deemed to be continuous and will count as Continuous Service for the purpose of subclause 55.2(a):
+Service or prior service during the following periods will be deemed to be continuous and will count as Continuous Service for the purpose of [subclause 55.2(a)](/ebas/medical-specialists/leave/55-long-service-leave):
 
 **(i)** an absence from work on any form of paid leave (e.g. annual leave, personal leave, long service leave and paid parental leave);
 
@@ -100,7 +100,7 @@ B. the Doctor has not received payment for their long service leave benefit for 
 
 **(vii)** in the case of Doctors who commenced employment with a Victorian public Health Service after 30 November 2008, their prior service with an interstate government health service, provided that the break between ceasing employment with the interstate government health service, and commencing employment with the Victorian public Health Service, is no more than two calendar months ;
 
-**(viii)** in the case of unpaid absences not otherwise referenced in this subclause, subject to subclause 55.6:
+**(viii)** in the case of unpaid absences not otherwise referenced in this subclause, subject to [subclause 55.6](/ebas/medical-specialists/leave/55-long-service-leave):
 
 A. any unpaid leave that is authorised in advance in writing by the Health Service to count as service; or
 
@@ -110,7 +110,7 @@ C. on and from the commencement date of this Agreement:
 
 1\) any period of unpaid leave taken on account of illness or injury;
 
-2\) a period of Parental Leave, including Parental Leave that is extended under subclause 54.12; and
+2\) a period of Parental Leave, including Parental Leave that is extended under [subclause 54.12](/ebas/medical-specialists/leave/54-parental-leave); and
 
 3\) the first 52 weeks of any other type of unpaid leave not specifically referenced in this subclause; and
 
@@ -118,7 +118,7 @@ C. on and from the commencement date of this Agreement:
 
 A. periods of Continuous Casual Employment with the current Health Service (whether or not in a role covered by this Agreement); and
 
-B. prior Continuous Casual Employment of six months or more that was with one or more Institutions (or Statutory Bodies directly associated with such Institutions), subject to subclauses 55.5(c) and 55.9(a), including any such periods of employment under the DIT Agreement,
+B. prior Continuous Casual Employment of six months or more that was with one or more Institutions (or Statutory Bodies directly associated with such Institutions), subject to [subclauses 55.5(c)](/ebas/medical-specialists/leave/55-long-service-leave) and 55.9(a), including any such periods of employment under the DIT Agreement,
 
 save that if long service leave was already taken or paid in lieu in respect of any period referred to above, no further benefit to long service leave will arise in respect of that period.
 
@@ -126,7 +126,7 @@ save that if long service leave was already taken or paid in lieu in respect of 
 
 Unless otherwise agreed in writing in advance between the Health Service and Doctor, the following periods do not break Continuous Service but do not count towards a Doctor's Continuous Service for the purpose of calculating the Doctor's long service leave entitlement:
 
-**(i)** any authorised period of unpaid leave not referred to in subclause 55.3(b) (including any Parental Leave not covered by subclause 55.3(b)(i) 55.3(b)(viii)
+**(i)** any authorised period of unpaid leave not referred to in [subclause 55.3(b)](/ebas/medical-specialists/leave/55-long-service-leave) (including any Parental Leave not covered by [subclause 55.3(b)(i)](/ebas/medical-specialists/leave/55-long-service-leave) 55.3(b)(viii)
 
 **(ii)** subject to the requirements of the Act, any interruption arising directly or indirectly from an industrial dispute;
 
@@ -138,7 +138,7 @@ Unless otherwise agreed in writing in advance between the Health Service and Doc
 
 **(vi)** any absence that is greater than the Allowable Period of Absence that arises due to delays in obtaining the Doctor's specialist registration through AHPRA;
 
-**(vii)** any periods of up to 24 months' unpaid leave that are taken for parental leave purposes, but that do not constitute Parental Leave (and which are not covered by subclause 55.3(b)(i) and (b)(viii)(viii); and
+**(vii)** any periods of up to 24 months' unpaid leave that are taken for parental leave purposes, but that do not constitute Parental Leave (and which are not covered by [subclause 55.3(b)(i)](/ebas/medical-specialists/leave/55-long-service-leave) and (b)(viii)(viii); and
 
 **(viii)** Service that lasts less than six months with the Department, any Hospital, Benevolent Home, Community Health Centre, Society or Association that is registered under the Health Services Act.
 
@@ -154,7 +154,7 @@ The onus of proving a sufficient aggregate of service to support a claim for any
 
 **(a)** When leave is to be taken
 
-A Doctor who is eligible to take long service leave under subclause 55.2(a) must be granted long service leave within six months of the date eligibility arose. By agreement, the taking of the leave may be postponed to such a date mutually agreed.
+A Doctor who is eligible to take long service leave under [subclause 55.2(a)](/ebas/medical-specialists/leave/55-long-service-leave) must be granted long service leave within six months of the date eligibility arose. By agreement, the taking of the leave may be postponed to such a date mutually agreed.
 
 **(b)** How leave is to be taken
 
@@ -182,15 +182,15 @@ C. in any other way agreed between the Doctor and the Health Service.
 
 **(i)** If a Doctor has completed ten years' Continuous Service, a Health Service may, by agreement with the Doctor, grant long service leave in advance on a pro rata basis. The Health Service will not unreasonably withhold agreement.
 
-**(ii)** Supplementary to subclause 55.4(c)(i), if a Doctor requests to take long service leave on a pro rata basis under subclause 55.2(b), the Health Service must grant the Doctor's request to take long service leave as soon as practicable after receiving the request unless the Health Service has reasonable business grounds for refusing the request.
+**(ii)** Supplementary to [subclause 55.4(c)(i)](/ebas/medical-specialists/leave/55-long-service-leave), if a Doctor requests to take long service leave on a pro rata basis under [subclause 55.2(b)](/ebas/medical-specialists/leave/55-long-service-leave), the Health Service must grant the Doctor's request to take long service leave as soon as practicable after receiving the request unless the Health Service has reasonable business grounds for refusing the request.
 
 **(e)** Flexible taking of leave: double leave at half pay
 
 **(i)** A Health Service may approve an application by a Doctor to take double the period of long service leave at half pay.
 
-**(ii)** Doctors should seek independent advice regarding the taxation and superannuation implications of seeking payment under this subclause 55.4(e). The Health Service will not be held responsible in any way for the cost or outcome of any such advice.
+**(ii)** Doctors should seek independent advice regarding the taxation and superannuation implications of seeking payment under this [subclause 55.4(e)](/ebas/medical-specialists/leave/55-long-service-leave). The Health Service will not be held responsible in any way for the cost or outcome of any such advice.
 
-**(iii)** The Health Service, if requested by the Doctor, will provide information as to the amount of tax the Health Service intends to deduct where payment of long service leave is sought under subclause 55.4(e)(i).
+**(iii)** The Health Service, if requested by the Doctor, will provide information as to the amount of tax the Health Service intends to deduct where payment of long service leave is sought under [subclause 55.4(e)(i)](/ebas/medical-specialists/leave/55-long-service-leave).
 
 **(iv)** If granting the request under this subclause would result in an additional cost to the Health Service, the Health Service may refuse the Doctor's request.
 
@@ -200,25 +200,25 @@ C. in any other way agreed between the Doctor and the Health Service.
 
 **(a)** Basic entitlement at termination of employment
 
-Except where an election is made under subclause 55.5(b) below, a Doctor with an entitlement to long service leave under subclause 55.2 is entitled to
+Except where an election is made under [subclause 55.5(b)](/ebas/medical-specialists/leave/55-long-service-leave) below, a Doctor with an entitlement to long service leave under [subclause 55.2](/ebas/medical-specialists/leave/55-long-service-leave) is entitled to
 
 payment in lieu of untaken long service leave upon termination of employment, calculated one thirtieth of the period of Continuous Service.
 
 **(b)** Election for payment of entitlement or transfer of entitlement at termination
 
-**(i)** A Doctor who has an entitlement to take long service leave on a pro rata basis under subclause 55.2(b) (who therefore has less than 15 years' continuous service) and who intends to be re- employed by another Institution or Statutory Body may:
+**(i)** A Doctor who has an entitlement to take long service leave on a pro rata basis under [subclause 55.2(b)](/ebas/medical-specialists/leave/55-long-service-leave) (who therefore has less than 15 years' continuous service) and who intends to be re- employed by another Institution or Statutory Body may:
 
 A. request in writing that payment for accrued long service leave be deferred until after the Doctor’s Allowable Period of Absence (as defined above) has expired; and
 
 B. where the Doctor notifies the initial Health Service in writing within the Allowable Period of Absence that the Doctor has been employed as a Doctor by another Institution or Statutory Body, the initial Health Service is no longer required to make payment to the Doctor in respect of such service.
 
-**(ii)** Where the notice referred to at 55.5(b)(i)B is not provided prior to or within the Allowable Period of Absence, the Health Service will, upon the expiration of the allowable period of absence, make payment in lieu of long service leave as per subclause 55.5(a).
+**(ii)** Where the notice referred to at 55.5(b)(i)B is not provided prior to or within the Allowable Period of Absence, the Health Service will, upon the expiration of the allowable period of absence, make payment in lieu of long service leave as per [subclause 55.5(a)](/ebas/medical-specialists/leave/55-long-service-leave).
 
-**(iii)** For the removal of doubt, a Doctor who has an entitlement to take long service leave under subclause 55.2(a) may not make an election under this clause in respect of that entitlement.
+**(iii)** For the removal of doubt, a Doctor who has an entitlement to take long service leave under [subclause 55.2(a)](/ebas/medical-specialists/leave/55-long-service-leave) may not make an election under this clause in respect of that entitlement.
 
 **(c)** Payment in lieu of long service leave on the death of a Doctor
 
-Where a Doctor who has an entitlement to long service leave (or pro rata long service leave) under subclause 55.2 dies while still in the employ of the Health Service, payment in lieu of long service leave will be made to the Doctor’s personal representative equal to that in subclause 55.5(a) above.
+Where a Doctor who has an entitlement to long service leave (or pro rata long service leave) under [subclause 55.2](/ebas/medical-specialists/leave/55-long-service-leave) dies while still in the employ of the Health Service, payment in lieu of long service leave will be made to the Doctor’s personal representative equal to that in [subclause 55.5(a)](/ebas/medical-specialists/leave/55-long-service-leave) above.
 
 **55.6** Public holidays
 
@@ -226,19 +226,19 @@ Long service leave is inclusive of (not additional to) Public Holidays that occu
 
 **55.7** Transitional Arrangements for Parental Leave taken after 1 November 2018 and before the commencement date of this Agreement
 
-Note 1: Unpaid Parental Leave taken prior to 1 November 2018 does not count as Continuous Service unless otherwise agreed, per subclause 54.5(e).
+Note 1: Unpaid Parental Leave taken prior to 1 November 2018 does not count as Continuous Service unless otherwise agreed, per [subclause 54.5(e)](/ebas/medical-specialists/leave/54-parental-leave).
 
-Note 2: Unpaid Parental Leave taken after the commencement date of this Agreement will constitute Continuous Service, per subclause 54.5(e).
+Note 2: Unpaid Parental Leave taken after the commencement date of this Agreement will constitute Continuous Service, per [subclause 54.5(e)](/ebas/medical-specialists/leave/54-parental-leave).
 
-**(a)** As an exception to subclause 55.3(b), a Doctor who took a period of unpaid Parental Leave that included any part of the period between 1 November 2018 and the commencement date of this Agreement (inclusive) may make an application to the Health Service to have that service recognised for Long Service Leave purposes. The Health Service will approve the application and provide to the Doctor an updated Certificate of Service reflecting the adjusted service arrangements.
+**(a)** As an exception to [subclause 55.3(b)](/ebas/medical-specialists/leave/55-long-service-leave), a Doctor who took a period of unpaid Parental Leave that included any part of the period between 1 November 2018 and the commencement date of this Agreement (inclusive) may make an application to the Health Service to have that service recognised for Long Service Leave purposes. The Health Service will approve the application and provide to the Doctor an updated Certificate of Service reflecting the adjusted service arrangements.
 
-**(b)** A Doctor electing to make an application under subclause 55.7(a) must make the application to the Health Service no later than 6 months of the following (whichever occurs last):
+**(b)** A Doctor electing to make an application under [subclause 55.7(a)](/ebas/medical-specialists/leave/55-long-service-leave) must make the application to the Health Service no later than 6 months of the following (whichever occurs last):
 
 **(i)** the date on which this Agreement commences; or
 
 **(ii)** the date on which the Doctor returns to work after the qualifying period of unpaid Parental Leave
 
-**(c)** This subclause 55.7 shall also apply to a Doctor in respect of a former Health Service if the Doctor took a qualifying unpaid period of Parental Leave under this clause while employed by that former Health Service.
+**(c)** This [subclause 55.7](/ebas/medical-specialists/leave/55-long-service-leave) shall also apply to a Doctor in respect of a former Health Service if the Doctor took a qualifying unpaid period of Parental Leave under this clause while employed by that former Health Service.
 
 **55.8** Records
 

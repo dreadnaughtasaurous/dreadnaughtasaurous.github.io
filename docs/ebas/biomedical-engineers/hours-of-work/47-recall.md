@@ -10,11 +10,11 @@ topics: ['hours', 'overtime', 'rosters', 'on-call']
 
 **47.1** Recall – return to workplace
 
-**(a)** An Employee who is recalled to work during an off duty period where that work is not continuous with the next succeeding rostered period of duty will be paid overtime for a minimum of three hours pay at the overtime rate as defined in clause 46 of this Agreement.
+**(a)** An Employee who is recalled to work during an off duty period where that work is not continuous with the next succeeding rostered period of duty will be paid overtime for a minimum of three hours pay at the overtime rate as defined in [clause 46](/ebas/biomedical-engineers/hours-of-work/46-overtime) of this Agreement.
 
 **(b)** An Employee recalled to work will not be required to work the full three hours if the work to be performed is completed in a shorter period.
 
-**(c)** Clause 47.1(a) will not apply when overtime is continuous with completion or commencement of ordinary working time.
+**(c)** [Clause 47.1(a)](/ebas/biomedical-engineers/hours-of-work/47-recall) will not apply when overtime is continuous with completion or commencement of ordinary working time.
 
 **47.2** Time in lieu
 

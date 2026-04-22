@@ -30,7 +30,7 @@ topics: ['preliminary']
 
 **(j)** CME Support Entitlement means the amount of funding support for CME that a Doctor is entitled to in a Financial Year, calculated in accordance with
 
-subclause 41.1(a) (for a Full-time Doctor) or subclause 41.1(c) (for a Fractional Doctor).
+[subclause 41.1(a)](/ebas/medical-specialists/allowances/41-continuing-medical-education-support) (for a Full-time Doctor) or [subclause 41.1(c)](/ebas/medical-specialists/allowances/41-continuing-medical-education-support) (for a Fractional Doctor).
 
 **(k)** Doctor–
 
@@ -66,9 +66,9 @@ C. required to serve on the Executive Management Team of the Health Service; or
 
 D. demonstrated leadership in the activities of a national and/or international learned College or Society within their discipline.
 
-**(r)** Fractional Doctor means a Doctor engaged on a fractional basis in accordance with subclause 16.2.
+**(r)** Fractional Doctor means a Doctor engaged on a fractional basis in accordance with [subclause 16.2](/ebas/medical-specialists/employment/16-types-of-employment).
 
-**(s)** Full-time Doctor means a Doctor engaged on a Full-Time basis in accordance with subclause 16.1(a).
+**(s)** Full-time Doctor means a Doctor engaged on a Full-Time basis in accordance with [subclause 16.1(a)](/ebas/medical-specialists/employment/16-types-of-employment).
 
 **(t)** FWC means the Fair Work Commission.
 
@@ -88,7 +88,7 @@ D. demonstrated leadership in the activities of a national and/or international 
 
 **(x)** HSR means a health and safety representative (including a deputy health and safety representative) elected under the OHS Act.
 
-**(y)** Internal Locum means a Doctor engaged on a casual basis in accordance with subclause 16.4.
+**(y)** Internal Locum means a Doctor engaged on a casual basis in accordance with [subclause 16.4](/ebas/medical-specialists/employment/16-types-of-employment).
 
 **(z)** Institution means any hospital, health service (whether or not listed in [Appendix 1](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services)) or benevolent home, community health centre, Society or Association registered pursuant to the Health Services Act.
 

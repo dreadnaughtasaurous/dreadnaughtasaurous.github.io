@@ -24,7 +24,7 @@ This clause only applies to full-time and part-time Employees.
 
 **(iii)** any other amounts payable under the Employee's contract of employment.
 
-**(d)** Subclauses 23.1(a) 23.1(b) and 23.1(c) do not affect an Employer's right to terminate an Employee's employment without notice for serious misconduct (as defined for the purposes of the Act).
+**(d)** [Subclauses 23.1(a)](/ebas/biomedical-engineers/employment/23-termination-of-employment) 23.1(b) and 23.1(c) do not affect an Employer's right to terminate an Employee's employment without notice for serious misconduct (as defined for the purposes of the Act).
 
 **(e)** Time off work during notice period Where an Employer has given notice of termination to an Employee, an Employee will be allowed up to one day’s time off without loss of pay for the purpose of seeking other employment. The time off shall be taken at times that are convenient to the Employee after consultation with the Employer.
 

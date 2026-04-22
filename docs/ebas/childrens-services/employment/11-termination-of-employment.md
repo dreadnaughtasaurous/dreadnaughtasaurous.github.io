@@ -48,7 +48,7 @@ f\. Any deduction made under paragraph (d) must not be unreasonable in the circu
 
 Where an employer has given notice of termination to an employee, the employee must be allowed time off without loss of pay of up to one day for the purpose of seeking other employment.
 
-1.  The time off under clause 11.2 is to be taken at times that are convenient to the employee after consultation with the employer.
+1.  The time off under [clause 11.2](/ebas/childrens-services/employment/11-termination-of-employment) is to be taken at times that are convenient to the employee after consultation with the employer.
 
 Plain language terms: resignation, notice, dismissal.
 

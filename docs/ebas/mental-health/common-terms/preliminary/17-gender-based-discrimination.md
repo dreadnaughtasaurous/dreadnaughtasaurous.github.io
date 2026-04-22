@@ -30,7 +30,7 @@ topics: ['preliminary', 'discrimination']
 
 **(iii)** the VHIA.
 
-**(iv)** The GBSC may, by unanimous agreement of its sitting members, also include other health sector unions who are not covered by this Agreement to meet the objectives at clause 17.
+**(iv)** The GBSC may, by unanimous agreement of its sitting members, also include other health sector unions who are not covered by this Agreement to meet the objectives at [clause 17](/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination).
 
 **17.5** The Employers’ gender equity activities, including Audit and Action Plan will be a standing agenda item at WIC meetings.
 

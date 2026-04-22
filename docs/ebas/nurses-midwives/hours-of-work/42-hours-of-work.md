@@ -22,7 +22,7 @@ topics: ['hours', 'shift-work']
 
 **(i)** any shift length or combination provided that the length of any ordinary shift will not exceed ten hours; or
 
-**(ii)** in shifts of up to 12 hours in accordance with a 12 hour shift agreement under clause 42.8.
+**(ii)** in shifts of up to 12 hours in accordance with a 12 hour shift agreement under [clause 42.8](/ebas/nurses-midwives/hours-of-work/42-hours-of-work).
 
 **42.2** Work for each shift will be continuous except as provided at [clause 44](/ebas/nurses-midwives/hours-of-work/44-breaks) (Breaks).
 
@@ -30,7 +30,7 @@ topics: ['hours', 'shift-work']
 
 **42.4** The hours of work in this clause will be the maximum ordinary hours for a shift.
 
-**42.5** In the case of the health services or Campuses named at clause 42.6 below, or any successor or amalgamation of these health service or Campuses, hours of work for full-time and part-time Employees will be performed as follows:
+**42.5** In the case of the health services or Campuses named at [clause 42.6](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) below, or any successor or amalgamation of these health service or Campuses, hours of work for full-time and part-time Employees will be performed as follows:
 
 **(a)** for a shift other than a night shift, 8 hours;
 
@@ -104,15 +104,15 @@ topics: ['hours', 'shift-work']
 
 **(ff)** Casterton Memorial Hospital.
 
-**42.7** Employers named at subclauses 42.6(cc), (dd), (ee) and (ff) will implement the hours of work above as follows:
+**42.7** Employers named at [subclauses 42.6(cc)](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), (dd), (ee) and (ff) will implement the hours of work above as follows:
 
-**(a)** The Employers whose Campuses are named at subclauses 42.6(cc), (dd), (ee) and (ff) will implement the hours of work as soon as practicable but not later than 1 January 2025.
+**(a)** The Employers whose Campuses are named at [subclauses 42.6(cc)](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), (dd), (ee) and (ff) will implement the hours of work as soon as practicable but not later than 1 January 2025.
 
-**(b)** In the event of any dispute arising regarding Employee support for the new hours of work at subclauses 42.6(cc), (dd), (ee) and (ff), the matter will be dealt
+**(b)** In the event of any dispute arising regarding Employee support for the new hours of work at [subclauses 42.6(cc)](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), (dd), (ee) and (ff), the matter will be dealt
 
 with in accordance with [clause 93.8](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) (Implementation of a non-complying proposal).
 
-**(c)** Nothing in this clause 42.7 requires the implementation of the hours at clause
+**(c)** Nothing in this [clause 42.7](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) requires the implementation of the hours at clause
 
 **42.5** where the Employee does not work on a 24/7 ward.
 
@@ -120,9 +120,9 @@ with in accordance with [clause 93.8](/ebas/nurses-midwives/classification-staff
 
 **(e)** An Employer will not require an Employee to reduce their contracted hours directly or indirectly as a result of the change to hours of work.
 
-**(f)** The process of implementation of the hours of work arrangements at clause 42.5 must also comply with [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation).
+**(f)** The process of implementation of the hours of work arrangements at [clause 42.5](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) must also comply with [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation).
 
-**(g)** Notwithstanding anything else in this clause, in the event an Employer, because of recruitment difficulties, is unable to implement the hours of work arrangement by the date specified in clause 42.7 despite taking all reasonable and practical steps to comply, the Employer will notify the Unions and the VHIA in writing. Either the Unions or the VHIA may refer the matter to the Commission who may do one or more of the following:
+**(g)** Notwithstanding anything else in this clause, in the event an Employer, because of recruitment difficulties, is unable to implement the hours of work arrangement by the date specified in [clause 42.7](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) despite taking all reasonable and practical steps to comply, the Employer will notify the Unions and the VHIA in writing. Either the Unions or the VHIA may refer the matter to the Commission who may do one or more of the following:
 
 **(i)** extend the implementation date by up to six (6) months; and/or
 

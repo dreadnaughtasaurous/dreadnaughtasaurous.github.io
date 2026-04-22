@@ -8,7 +8,7 @@ topics: ['preliminary']
 
 
 
-**65.1** Where an Employee has a Disability (whether permanent or temporary) the Employer is required to make Reasonable Adjustments to enable the Employee to continue to perform their duties, subject to subclause 65.2 below.
+**65.1** Where an Employee has a Disability (whether permanent or temporary) the Employer is required to make Reasonable Adjustments to enable the Employee to continue to perform their duties, subject to [subclause 65.2](/ebas/allied-health/leave/65-reasonable-adjustments) below.
 
 **65.2** An Employer is not required to make Reasonable Adjustments if the Employee could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the Reasonable Adjustments are made.
 

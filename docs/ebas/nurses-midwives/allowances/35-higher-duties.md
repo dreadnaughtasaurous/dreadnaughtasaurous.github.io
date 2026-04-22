@@ -10,7 +10,7 @@ topics: ['hours', 'shift-work', 'wages', 'preliminary']
 
 **35.1** General entitlement to higher duties payment – Registered Nurse or Midwife
 
-**(a)** Subject to clauses 35.2, 35.3, 35.4 and 35.5, a Registered Nurse or Midwife engaged on duties attracting a higher Level, grade or sub-grade than the Level, grade or sub-grade in which the Employee is ordinarily employed:
+**(a)** Subject to [clauses 35.2](/ebas/nurses-midwives/allowances/35-higher-duties), 35.3, 35.4 and 35.5, a Registered Nurse or Midwife engaged on duties attracting a higher Level, grade or sub-grade than the Level, grade or sub-grade in which the Employee is ordinarily employed:
 
 **(i)** in any one shift for more than two hours will be paid for the full shift at the minimum rate for that higher Level, grade or sub-grade; or
 
@@ -46,7 +46,7 @@ paid at the minimum rate for that classification only where she/he is engaged fo
 
 **(b)** A Registered Nurse or Registered Midwife who is not an ANUM or AMUM, who is required to act in charge of a ward or unit during an off duty period of a NUM/MUM, will be paid at the Nurse Manager grade applicable to the substantive position (be it NM 2, NM 3 or NM 4) for the entire shift unless:
 
-**(i)** in the case of a 24 hour a day, seven day per week Ward or Unit that is compliant with subclause 90.2(a)(i);
+**(i)** in the case of a 24 hour a day, seven day per week Ward or Unit that is compliant with [subclause 90.2(a)(i)](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above);
 
 **(ii)** the ANUM/AMUM in whose place the Registered Nurse or Registered Midwife acts, is on any form of leave; or
 

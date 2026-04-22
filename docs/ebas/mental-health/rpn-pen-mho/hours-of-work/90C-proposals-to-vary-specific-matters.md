@@ -24,7 +24,7 @@ topics: ['hours', 'shift-work', 'allowances', 'staffing']
 
 **(a)** Affected Employee means an Employee in the ward, unit or program to which the proposal relates.
 
-**(b)** EFT neutral means there is no reduction in nursing hours in a ward, unit or program as a result of the proposal. 90C.3. Written proposal (complying and non-complying proposal) The Employer will provide a written proposal to the Affected Employees and, at the same time, both the Secretary of the ANMF and State Secretary of HACSU. The proposal will address, where relevant, the considerations referred to in clause 90C.9 below.
+**(b)** EFT neutral means there is no reduction in nursing hours in a ward, unit or program as a result of the proposal. 90C.3. Written proposal (complying and non-complying proposal) The Employer will provide a written proposal to the Affected Employees and, at the same time, both the Secretary of the ANMF and State Secretary of HACSU. The proposal will address, where relevant, the considerations referred to in [clause 90C.9](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters) below.
 
 90C.4. Meaning of Complying Proposal
 
@@ -32,9 +32,9 @@ In this clause, a complying proposal is a proposal that:
 
 **(a)** is EFT neutral
 
-**(b)** is not a non-complying proposal as described at clause 90C.7 below. 90C.5. Consultation period – complying proposal
+**(b)** is not a non-complying proposal as described at [clause 90C.7](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters) below. 90C.5. Consultation period – complying proposal
 
-A maximum of three weeks from the date of provision of the information in clause 90C.3will be provided for consultation.
+A maximum of three weeks from the date of provision of the information in [clause 90C.3](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters)will be provided for consultation.
 
 90C.6. Implementing a complying proposal
 
@@ -46,7 +46,7 @@ A maximum of three weeks from the date of provision of the information in clause
 
 90C.5, a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period. 90C.7. Meaning of Non-Complying Proposal
 
-In this clause, a non-complying proposal is a proposal about a matter at subclause 90C.1(a) that:
+In this clause, a non-complying proposal is a proposal about a matter at [subclause 90C.1(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters) that:
 
 **(a)** is not EFT neutral
 

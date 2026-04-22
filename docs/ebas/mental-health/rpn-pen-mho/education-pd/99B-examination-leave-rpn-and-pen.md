@@ -44,6 +44,6 @@ A day for the purposes of examination leave is the Employee's normal shift lengt
 
 **99B.6** Staff Replacement
 
-All absences resulting from approved leave under clauses 99B (examination leave) will be backfilled in clinical areas where that Employee would ordinarily have a patient allocation.
+All absences resulting from approved leave under [clauses 99B](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen) (examination leave) will be backfilled in clinical areas where that Employee would ordinarily have a patient allocation.
 
 

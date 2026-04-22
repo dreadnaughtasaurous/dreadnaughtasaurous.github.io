@@ -16,7 +16,7 @@ The provisions of this Part K of the Agreement will be read and interpreted in c
 
 This part is arranged as follows:
 
-**(a)** OHS Preliminary (clause 97);
+**(a)** OHS Preliminary ([clause 97](/ebas/nurses-midwives/ohs/97-ohs-preliminary));
 
 **(b)** OHS Working Group ([clause 98](/ebas/allied-health/ohs/98-industry-ohs-working-group));
 
@@ -28,7 +28,7 @@ This part is arranged as follows:
 
 **(f)** HSRs ([clause 102](/ebas/allied-health/ohs/102-hsrs));
 
-**(g)** Occupational Violence and Aggression Prevention and Management (clause 103); and
+**(g)** Occupational Violence and Aggression Prevention and Management ([clause 103](/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and)); and
 
 **(h)** Workers' Compensation, Rehabilitation and Return To Work ([clause 104](/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work)).
 

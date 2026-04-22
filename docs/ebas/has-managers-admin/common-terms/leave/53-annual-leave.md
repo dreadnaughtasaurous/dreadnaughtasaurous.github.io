@@ -24,7 +24,7 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 **(a)** An Employee who is a weekend worker who works for more than four ordinary hours on 10 or more weekends is entitled to an additional week’s annual leave on the same terms and conditions.
 
-**(b)** Where an Employee who is weekend worker does not meet the 10 weekend threshold in clause 53.4(a), they will accrue additional annual leave at the rate of one tenth of a week for each weekend worked, up to a maximum of one week in a year.
+**(b)** Where an Employee who is weekend worker does not meet the 10 weekend threshold in [clause 53.4(a)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave), they will accrue additional annual leave at the rate of one tenth of a week for each weekend worked, up to a maximum of one week in a year.
 
 **(c)** The provisions of this clause have the same effect and give an Employee an entitlement to annual leave that is the same as the entitlement of the Employee under the NES relating to shiftworkers under section 87(1)(b)(ii) of the Act.
 
@@ -40,7 +40,7 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 **(c)** If the period during which an Employee takes paid annual leave includes a period of any other leave (other than unpaid parental leave), or a period of absence from employment in accordance with [clauses 62](/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency), 63, and 64, and the Employee is taken not to be on paid annual leave for the period of that other leave or absence.
 
-**(d)** The amount of annual leave loading or penalties paid to an Employee in accordance with subclause 53.7 in respect of a period of annual leave that is subsequently converted to another type of leave will be deducted from any future entitlement under subclause
+**(d)** The amount of annual leave loading or penalties paid to an Employee in accordance with [subclause 53.7](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) in respect of a period of annual leave that is subsequently converted to another type of leave will be deducted from any future entitlement under subclause
 
 **53.1** or payment upon termination of employment, where applicable.
 
@@ -58,11 +58,11 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 **(d)** The Employer will pay each Manager or Administrative Worker in advance before the commencement of a period of annual leave, his or her ordinary pay for the leave period.
 
-**(e)** Notwithstanding subclause 53.6(d) above, Managers or Administrative Workers employed by Royal Women’s Hospital or Royal Children’s Hospital will be required to give four weeks written notice of a request for payment in advance. Such payment will only be made by the Employer where the period of annual leave exceeds two weeks in aggregate.
+**(e)** Notwithstanding [subclause 53.6(d)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) above, Managers or Administrative Workers employed by Royal Women’s Hospital or Royal Children’s Hospital will be required to give four weeks written notice of a request for payment in advance. Such payment will only be made by the Employer where the period of annual leave exceeds two weeks in aggregate.
 
 **53.7** Annual Leave Loading Health and Allied Services Employees
 
-**(a)** In addition to the ordinary pay as described in subclause 53.6, Health and Allied Services Employees (other than Dental Assistants employed by DHSV or Ballarat Health Service) will receive either:
+**(a)** In addition to the ordinary pay as described in [subclause 53.6](/ebas/has-managers-admin/common-terms/leave/53-annual-leave), Health and Allied Services Employees (other than Dental Assistants employed by DHSV or Ballarat Health Service) will receive either:
 
 **(i)** over Agreement payments for ordinary hours of work (where applicable);
 
@@ -76,9 +76,9 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 **(v)** annual leave loading equal to 17.5% of his or her wage, for his or her normal weekly hours, calculated at the ordinary time rate of pay, whichever is the higher.
 
-**(b)** Dental Assistants employed by DHSV or Ballarat Health Service are not eligible for payment of annual leave loading in addition to the ordinary pay as described in subclause 53.7 as the rates of pay for Dental Assistants employed by DHSV or Ballarat Health Service are inclusive of annual leave loading. Manager and Administrative Workers
+**(b)** Dental Assistants employed by DHSV or Ballarat Health Service are not eligible for payment of annual leave loading in addition to the ordinary pay as described in [subclause 53.7](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) as the rates of pay for Dental Assistants employed by DHSV or Ballarat Health Service are inclusive of annual leave loading. Manager and Administrative Workers
 
-**(c)** In addition to the ordinary pay as described in subclause 53.6, Manager and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital will receive either:
+**(c)** In addition to the ordinary pay as described in [subclause 53.6](/ebas/has-managers-admin/common-terms/leave/53-annual-leave), Manager and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital will receive either:
 
 **(i)** Shift work allowances as set out in Section 1, subclauses
 
@@ -92,13 +92,13 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 Effective Date Weekly Rate of Pay (FFPPOA) $1,973.19 1 July 2021 $2,012.65 1 July 2022 $2,052.91 1 July 2023 $2,093.97 1 July 2024
 
-**(e)** In addition to the ordinary pay as described in subclause 53.6, Manager and Administrative Workers employed by Royal Women’s Hospital or Royal Children’s Hospital will receive:
+**(e)** In addition to the ordinary pay as described in [subclause 53.6](/ebas/has-managers-admin/common-terms/leave/53-annual-leave), Manager and Administrative Workers employed by Royal Women’s Hospital or Royal Children’s Hospital will receive:
 
 **(i)** an amount of 17.5% loading on 4 weeks ordinary pay; or
 
 **(ii)** in the case of a shift worker, a payment in accordance with the following formula: penalties paid during the period of accrual, divided by the hours of work during the same period, multiplied by 52.
 
-**(f)** The amount in respect of subclause 53.7(e) above will be paid on the Employee’s anniversary date.
+**(f)** The amount in respect of [subclause 53.7(e)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) above will be paid on the Employee’s anniversary date.
 
 **53.8** Annual leave in advance
 
@@ -110,7 +110,7 @@ Effective Date Weekly Rate of Pay (FFPPOA) $1,973.19 1 July 2021 $2,012.65 1 Jul
 
 **(i)** the employment of the Employee is terminated before he or she has completed the year of employment in respect of which such annual leave has been taken; and
 
-**(ii)** the sum paid by the Employer to the Employee as ordinary pay for the annual leave so taken exceeds the sum that the Employer is required to pay to the Employee under subclauses 53.6 and 53.7 then the Employer will not be liable to make any payment to the Employee under subclause 53.6 or 53.7 and will be entitled to deduct the amount of such excess from any remuneration payable to the Employee upon termination of employment.
+**(ii)** the sum paid by the Employer to the Employee as ordinary pay for the annual leave so taken exceeds the sum that the Employer is required to pay to the Employee under [subclauses 53.6](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) and 53.7 then the Employer will not be liable to make any payment to the Employee under [subclause 53.6 or 53.7](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) and will be entitled to deduct the amount of such excess from any remuneration payable to the Employee upon termination of employment.
 
 **53.9** Cashing out of annual leave
 

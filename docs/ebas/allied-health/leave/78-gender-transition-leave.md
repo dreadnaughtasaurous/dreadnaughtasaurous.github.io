@@ -8,13 +8,13 @@ topics: ['leave', 'preliminary']
 
 
 
-Note: In this clause 78, ‘up to’ refers to the total amount of Gender Transition Leave an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than four (4) weeks paid leave and 48 weeks unpaid leave. That is where the Employee qualifies in accordance with this clause 78 for four (4) weeks paid and 48 weeks unpaid Gender Transition Leave, the Employer must provide them with four (4) weeks paid and 48 weeks unpaid Gender Transition Leave.
+Note: In this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave), ‘up to’ refers to the total amount of Gender Transition Leave an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than four (4) weeks paid leave and 48 weeks unpaid leave. That is where the Employee qualifies in accordance with this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave) for four (4) weeks paid and 48 weeks unpaid Gender Transition Leave, the Employer must provide them with four (4) weeks paid and 48 weeks unpaid Gender Transition Leave.
 
 **78.1** The Employer encourages a culture that is supportive of transgender and gender diverse Employees and recognises the importance of providing a safe environment for Employees undertaking gender transition.
 
 **78.2** Gender Transition refers to the process where a transgender Employee commences living as a member of another gender. This is sometimes referred to ‘affirming’ their gender. This may occur through medical, social or legal changes.
 
-**78.3** Employees may give effect to their transition in a number of ways and are not required to be undergoing specific types of changes, such as surgery, to access leave under this clause 78.
+**78.3** Employees may give effect to their transition in a number of ways and are not required to be undergoing specific types of changes, such as surgery, to access leave under this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave).
 
 **78.4** Amount of gender transition leave An Employee (other than a Casual Employee) who commences living as a member of another gender is entitled to Gender Transition Leave for the purpose of supporting the Employee’s transition as follows:
 
@@ -22,7 +22,7 @@ Note: In this clause 78, ‘up to’ refers to the total amount of Gender Transi
 
 **(b)** up to 48 weeks of unpaid leave.
 
-**78.5** The Gender Transition Leave entitlements outlined in subclause 78.4(a) are available to be taken by the Employee within the first 52 weeks after they commence living as a member of another gender.
+**78.5** The Gender Transition Leave entitlements outlined in [subclause 78.4(a)](/ebas/allied-health/leave/78-gender-transition-leave) are available to be taken by the Employee within the first 52 weeks after they commence living as a member of another gender.
 
 **78.6** Essential gender affirmation procedures may include:
 
@@ -40,7 +40,7 @@ Note: In this clause 78, ‘up to’ refers to the total amount of Gender Transi
 
 **78.8** Gender Transition Leave may be taken as consecutive, single or part days as agreed with the Employer.
 
-**78.9** Leave under this clause 78 will not accrue from year to year and cannot be cashed out on termination of employment.
+**78.9** Leave under this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave) will not accrue from year to year and cannot be cashed out on termination of employment.
 
 **78.10** Gender Transition Leave – Casual employees Casual Employees are entitled to access unpaid leave of up to 52 continuous weeks duration for gender transition purposes.
 
@@ -50,7 +50,7 @@ Note: In this clause 78, ‘up to’ refers to the total amount of Gender Transi
 
 **(b)** An Employee seeking to access Gender Transition Leave may be required to provide suitable supporting documentation or evidence of their attendance at essential gender affirmation procedures. This may be in the form of a document issued by a Registered Health Practitioner, a lawyer, or a State, Territory or Federal government organisation, a State, Territory or Commonwealth statutory declaration or other suitable supporting documentation.
 
-**(c)** For the purpose of this clause 78, Registered Health Practitioner has the same meaning as set out in [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
+**(c)** For the purpose of this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave), Registered Health Practitioner has the same meaning as set out in [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
 
 DEVELOPMENT
 

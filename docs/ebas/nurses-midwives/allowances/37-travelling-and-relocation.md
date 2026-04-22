@@ -22,7 +22,7 @@ For the avoidance of doubt, the travel will occur within paid time.
 
 **(i)** reasonable accommodation, food and drinks; or
 
-**(ii)** if any of the benefits described in clause 37.3(a)(i) cannot be provided, payment of an equivalent allowance covering each benefit that is not provided. The allowance(s) will be calculated as follows:
+**(ii)** if any of the benefits described in [clause 37.3(a)(i)](/ebas/nurses-midwives/allowances/37-travelling-and-relocation) cannot be provided, payment of an equivalent allowance covering each benefit that is not provided. The allowance(s) will be calculated as follows:
 
 **(A)** at the maximum applicable rate determined by the ATO for the relevant benefit (i.e. food, drink and/or accommodation expenses) from time to time; or
 
@@ -36,15 +36,15 @@ Note: For vehicle allowances, see [clause 36](/ebas/nurses-midwives/allowances/3
 
 **(b)** where travel time increases by 15 minutes or greater (to and return) be paid an allowance equal to the Employee's ordinary rate for the additional time spent when compared to the Employee's travel time to the Base Employment Campus.
 
-Nothing in this clause 37.4 prevents an Employer requiring the travel to occur within the rostered shift.
+Nothing in this [clause 37.4](/ebas/nurses-midwives/allowances/37-travelling-and-relocation) prevents an Employer requiring the travel to occur within the rostered shift.
 
 **37.5** Where an Employee is required by the Employer to permanently relocate from their Base Employment Campus to another Campus as a result of redundancy, the Employee will be reimbursed for additional travel costs (where applicable) in accordance with [clause 12.6](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) of this Agreement (Relocation).
 
 For the avoidance of doubt, nothing in this clause limits the obligations regarding redundancy contained at [clause 12](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) of this Agreement.
 
-**37.6** Where an Employee's position is required by the Employer to permanently relocate from their Base Employment Campus to another Campus and the Employee's position is not redundant, the Employee will be reimbursed for additional travel costs (where applicable) in accordance with subclauses 12.6(b)-(f) of this Agreement.
+**37.6** Where an Employee's position is required by the Employer to permanently relocate from their Base Employment Campus to another Campus and the Employee's position is not redundant, the Employee will be reimbursed for additional travel costs (where applicable) in accordance with [subclauses 12.6(b)-(f)](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) of this Agreement.
 
-For the avoidance of doubt, where this is a result of a Major Change, as defined in clause 11.2, the terms of [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) will apply, save that the Employer will not be required to take additional steps to mitigate or avert the cost of the relocation.
+For the avoidance of doubt, where this is a result of a Major Change, as defined in [clause 11.2](/ebas/nurses-midwives/consultation-disputes/11-consultation), the terms of [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) will apply, save that the Employer will not be required to take additional steps to mitigate or avert the cost of the relocation.
 
 **37.7** This clause does not apply to:
 
@@ -54,7 +54,7 @@ For the avoidance of doubt, where this is a result of a Major Change, as defined
 
 **(c)** Casuals; or
 
-**(d)** in the case of clauses 37.3 and 37.6, the Stand Alone Community Health Centres specified in [Appendix 1](/ebas/mental-health/schedules/01-list-of-employers) of this Agreement.
+**(d)** in the case of [clauses 37.3](/ebas/nurses-midwives/allowances/37-travelling-and-relocation) and 37.6, the Stand Alone Community Health Centres specified in [Appendix 1](/ebas/mental-health/schedules/01-list-of-employers) of this Agreement.
 
 **37.8** Special provisions relating to particular travel
 

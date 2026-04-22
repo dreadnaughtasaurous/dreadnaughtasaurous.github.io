@@ -24,6 +24,6 @@ will be paid a weekly Manager Allowance equivalent to 2.5% of the minimum weekly
 
 **(b)** the Doctor receives additional paid hours as compensation for their management role, and the total of this amount is more than the relevant rate set out in Part 1 of [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) of the Agreement
 
-the Doctor will be entitled under this Agreement to receive the contracted rate of pay, or the sum calculated in accordance with subclause 44A.1, whichever is the higher.
+the Doctor will be entitled under this Agreement to receive the contracted rate of pay, or the sum calculated in accordance with [subclause 44A.1](/ebas/medical-specialists/allowances/44A-manager-allowance), whichever is the higher.
 
 

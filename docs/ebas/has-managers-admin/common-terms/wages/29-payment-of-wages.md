@@ -26,9 +26,9 @@ topics: ['wages', 'preliminary', 'classifications']
 
 PART C – TYPES OF EMPLOYMENT AND TERMINATION OF EMPLOYMENT
 
-**(d)** If the Employer does not take the action required under subclause 29.3(b) and subclause 29.3(c) above, the Employee will be paid a penalty payment of 20% of the underpayment, calculated on a daily basis from the date of the entitlement arising until all such moneys are paid. In addition, the Employer will meet any associated banking or other fees/penalties incurred by the Employee as a consequence of the error where those fees exceed the 20% penalty payment.
+**(d)** If the Employer does not take the action required under [subclause 29.3(b)](/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce) and [subclause 29.3(c)](/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce) above, the Employee will be paid a penalty payment of 20% of the underpayment, calculated on a daily basis from the date of the entitlement arising until all such moneys are paid. In addition, the Employer will meet any associated banking or other fees/penalties incurred by the Employee as a consequence of the error where those fees exceed the 20% penalty payment.
 
-**(e)** Subclause 29.3(d) will not come into effect:
+**(e)** [Subclause 29.3(d)](/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce) will not come into effect:
 
 **(i)** if the payment of wages or other monies owed falls on a public holiday, until the expiration of such public holiday; or
 

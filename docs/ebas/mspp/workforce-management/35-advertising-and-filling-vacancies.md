@@ -8,7 +8,7 @@ topics: ['staffing']
 
 
 
-**35.1** Subject clause 35.3, each vacancy that arises will be filled by the Employer.
+**35.1** Subject [clause 35.3](/ebas/mspp/workforce-management/35-advertising-and-filling-vacancies), each vacancy that arises will be filled by the Employer.
 
 **35.2** The process for advertising a vacant position will be as follows:
 

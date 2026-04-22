@@ -12,13 +12,13 @@ topics: ['employment']
 
 **(a)** is made an offer of employment on the basis that the Employer makes no firm advance commitment to continuing and indefinite work (e.g. relief work such as replacing an Employee on an unplanned absence); and
 
-**(b)** is paid in accordance with clause 19.5 of this Agreement; and
+**(b)** is paid in accordance with [clause 19.5](/ebas/nurses-midwives/employment-types/19-casual-employment) of this Agreement; and
 
 **(c)** accepts the offer of employment on that basis; and
 
 **(d)** is an Employee as a result of that acceptance;
 
-**19.2** When determining whether an Employer has made an offer of employment in accordance with subclause 19.1(a) above, regard is to be had to the Act which presently provides for consideration of the following indicia:
+**19.2** When determining whether an Employer has made an offer of employment in accordance with [subclause 19.1(a)](/ebas/nurses-midwives/employment-types/19-casual-employment) above, regard is to be had to the Act which presently provides for consideration of the following indicia:
 
 **(a)** the "real substance, practical reality and a true nature of the employment relationship", including whether a firm advanced commitment has arisen by reason of:
 

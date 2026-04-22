@@ -8,7 +8,7 @@ topics: ['wages', 'classifications', 'preliminary']
 
 
 
-1.  The definitions of the classification levels in clause 14---Minimum wages are contained in [Schedule B](/ebas/childrens-services/schedules/b-classification-structure)---Classification Structure.
+1.  The definitions of the classification levels in [clause 14](/ebas/childrens-services/wages/14-minimum-wages)---Minimum wages are contained in [Schedule B](/ebas/childrens-services/schedules/b-classification-structure)---Classification Structure.
 
 Plain language terms: levels, grades, classification structure.
 

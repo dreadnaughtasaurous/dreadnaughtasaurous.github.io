@@ -22,7 +22,7 @@ topics: ['leave', 'public-holidays', 'hours', 'on-call']
 
 **(ii)** The allowance shall be 5% in respect to any other 12-hour period or
 
-**(iii)** A Provisional Psychologist Grade 1 Year 1 - 3 shall who is rostered on-call shall be paid on-call allowances in accordance with clause 60.1a of this Agreement.
+**(iii)** A Provisional Psychologist Grade 1 Year 1 - 3 shall who is rostered on-call shall be paid on-call allowances in accordance with [clause 60.1](/ebas/mspp/hours-of-work/60-on-call-re-call)a of this Agreement.
 
 **(iv)** Where a Psychologist’s base rate of pay is less than the rate prescribed for all other Employees in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances), the Psychologist will receive the allowance identified for all other employees.
 
@@ -42,7 +42,7 @@ topics: ['leave', 'public-holidays', 'hours', 'on-call']
 
 **c.** If on the instructions of their Employer such an Employee resumes or continues work without having had such ten consecutive hours off duty they shall be paid at the rate of double time until they are released from duty for such rest period and they shall then be entitled to be absent until they have had ten consecutive hours off duty without loss of pay for rostered ordinary hours occurring during such absence. No Employee shall present for duty on a voluntary basis unless they have had ten consecutive hours (within the meaning of this clause) off duty.
 
-**d.** In the event of any Employee being recalled to duty during an off duty period where such recall is not continuous with the next succeeding rostered period of duty, such Employee shall be paid a minimum of three hours pay consistent with clause 60.2a above.
+**d.** In the event of any Employee being recalled to duty during an off duty period where such recall is not continuous with the next succeeding rostered period of duty, such Employee shall be paid a minimum of three hours pay consistent with [clause 60.2](/ebas/mspp/hours-of-work/60-on-call-re-call)a above.
 
 **e.** In the event of any Employee finishing any period of recall at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer shall provide adequate transport free of cost to the Employee.
 
@@ -50,7 +50,7 @@ topics: ['leave', 'public-holidays', 'hours', 'on-call']
 
 **60.3** Recall without returning to the workplace
 
-**a.** Where recall to duty can be managed without the Employee returning to the workplace, for example by telephone, clause 60.1 will not apply and an Employee is recalled to duty by telephone, such an Employee shall be paid a minimum of one hour’s overtime for such recall work.
+**a.** Where recall to duty can be managed without the Employee returning to the workplace, for example by telephone, [clause 60.1](/ebas/mspp/hours-of-work/60-on-call-re-call) will not apply and an Employee is recalled to duty by telephone, such an Employee shall be paid a minimum of one hour’s overtime for such recall work.
 
 **b.** For subsequent recalls beyond the first hour, the Employee will be paid a minimum of one hour's overtime provided that multiple recalls within a discrete hour will not attract an additional payment.
 
@@ -58,7 +58,7 @@ topics: ['leave', 'public-holidays', 'hours', 'on-call']
 
 **60.4** Remote On-Call Health services may negotiate local arrangements for remote on-call for Medical Scientists and Medical Physicists. In the event of a Medical Scientist or Medical Physicist being recalled to duty by telephone during an off-duty period and such an
 
-Employee discharges their duties without returning to the workplace, the provisions of clauses 60.1a, 60.2 and 60.3 shall apply.
+Employee discharges their duties without returning to the workplace, the provisions of [clauses 60.1](/ebas/mspp/hours-of-work/60-on-call-re-call)a, 60.2 and 60.3 shall apply.
 
 **60.5** Crisis Assessment Treatment Team (CATT) On-Call Allowances And Arrangements – Psychiatric Services (CATT only)
 
@@ -88,7 +88,7 @@ Employee discharges their duties without returning to the workplace, the provisi
 
 **(ii)** are rostered to be on-call for a minimum of two (2) days in every four week cycle over twelve (12) cycles in an anniversary year; such Employee shall receive up to an additional five days leave per anniversary year in accordance with sub-clause c.
 
-**c.** An Employee who is regularly rostered to be on-call in accordance with clauses 60.6b(i) and 60.6b(ii) can accrue such leave on a pro rata basis in accordance with the table below: No. of 4 week roster cycles on call No. of Additional Days Leave Less than 4 0 4 but less than 6 1 6 but less than 8 2 8 but less than 10 3 10 but less than 12 4
+**c.** An Employee who is regularly rostered to be on-call in accordance with [clauses 60.6](/ebas/mspp/hours-of-work/60-on-call-re-call)b(i) and 60.6b(ii) can accrue such leave on a pro rata basis in accordance with the table below: No. of 4 week roster cycles on call No. of Additional Days Leave Less than 4 0 4 but less than 6 1 6 but less than 8 2 8 but less than 10 3 10 but less than 12 4
 
 No. of 4 week roster cycles on call No. of Additional Days Leave 12 or more 5
 

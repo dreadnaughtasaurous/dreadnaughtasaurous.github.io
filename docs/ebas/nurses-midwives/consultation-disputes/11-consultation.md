@@ -8,7 +8,7 @@ topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 
 
 
-Nothing in this clause 11 limits the Employer's obligations to consult with HSRs under the OHS Act.
+Nothing in this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) limits the Employer's obligations to consult with HSRs under the OHS Act.
 
 **11.1** Consultation regarding Major Change
 
@@ -20,7 +20,7 @@ Nothing in this clause 11 limits the Employer's obligations to consult with HSRs
 
 **11.2** Definitions
 
-Under this clause 11:
+Under this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation):
 
 **(a)** Consultation means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
@@ -66,7 +66,7 @@ Under this clause 11:
 
 Step Action Timeframe
 
-1.  Employer provides change impact statement and other written material required by clause 11.4
+1.  Employer provides change impact statement and other written material required by [clause 11.4](/ebas/nurses-midwives/consultation-disputes/11-consultation)
 
 2.  Written response from Employees and/or Union 14 days of step 1
 
@@ -102,7 +102,7 @@ Step Action Timeframe
 
 **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
 
-**(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with clause 11.4 will be raised as soon as practicable and before step 2.
+**(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with [clause 11.4](/ebas/nurses-midwives/consultation-disputes/11-consultation) will be raised as soon as practicable and before step 2.
 
 **11.5** Employee/Union response (step 2)
 
@@ -130,7 +130,7 @@ The Affected Employee/s, the Union and other representative/s (where relevant) m
 
 **11.9** Outcome of consultation (step 6)
 
-The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under clause 11.8, and will advise the affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [clause 11.8](/ebas/nurses-midwives/consultation-disputes/11-consultation), and will advise the affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 **(a)** whether the Employer intends to proceed with the change proposal;
 
@@ -140,7 +140,7 @@ The Employer will give prompt and genuine consideration to matters arising from 
 
 **(d)** a summary of how matters that have been raised by Affected Employees, the Union and their representatives, including any alternative proposal, have been taken into account.
 
-Note: In the case of proposal concerning the amalgamation of wards, please refer to clause 11B.
+Note: In the case of proposal concerning the amalgamation of wards, please refer to [clause 11B](/ebas/nurses-midwives/consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and).
 
 **11.10** Consultation disputes
 

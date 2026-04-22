@@ -52,6 +52,6 @@ B. included in any applicable Health Service specific Schedule, where relevant a
 
 **(a)** prior to its implementation, be agreed between the Health Service and a majority of its relevant Doctors; and
 
-**(b)** not offend any of the requirements at clauses 7.4(a) to (d) above.
+**(b)** not offend any of the requirements at [clauses 7.4(a) to (d)](/ebas/medical-specialists/preliminary/7-saving-of-local-agreements) above.
 
 

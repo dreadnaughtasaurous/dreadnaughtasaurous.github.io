@@ -30,6 +30,6 @@ topics: ['preliminary']
 
 **(b)** For the first 12 months after completion of a Re-entry Course or Supervised Experience, where such course or experience is required by the NMBA, the Employee shall be paid at the rate appropriate to their years of experience, but no higher than RPN 2, Year 3.
 
-**(c)** After completion of 12 months' experience in accordance with clause 105.4(b), a nurse (upon sufficient proof to support a claim for incremental advancement) shall be paid at the rate appropriate to their years of experience.
+**(c)** After completion of 12 months' experience in accordance with [clause 105.4(b)](/ebas/mental-health/rpn-pen-mho/classification-staffing/105-commencing-grades-nursing), a nurse (upon sufficient proof to support a claim for incremental advancement) shall be paid at the rate appropriate to their years of experience.
 
 

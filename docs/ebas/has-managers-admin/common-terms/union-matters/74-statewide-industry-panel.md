@@ -34,7 +34,7 @@ topics: ['disputes', 'preliminary', 'classifications']
 
 **(f)** The Parties to an application to the Panel bear their own costs (save for the chairperson).
 
-**(g)** The Panel shall be responsible for determining its own procedure, provided that the procedure shall be consistent with the requirements of this clause 74, and shall adopt an inquisitorial procedure (rather than an adversarial procedure).
+**(g)** The Panel shall be responsible for determining its own procedure, provided that the procedure shall be consistent with the requirements of this [clause 74](/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel), and shall adopt an inquisitorial procedure (rather than an adversarial procedure).
 
 **74.3** Application to Panel where there is a dispute regarding an existing classification
 
@@ -84,7 +84,7 @@ topics: ['disputes', 'preliminary', 'classifications']
 
 **(e)** A determination of the Panel will be considered binding unless either the HWU or VHIA make an application to have the determination reviewed by the Commission within 14 days of receiving written determination. For the avoidance of doubt, no activity under clause
 
-74.5(b) constitutes a determination for the purposes of subclause 74.5(d).
+74.5(b) constitutes a determination for the purposes of [subclause 74.5(d)](/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel).
 
 **(f)** An application to the Commission will include the application, determination, written reasons and supporting material.
 

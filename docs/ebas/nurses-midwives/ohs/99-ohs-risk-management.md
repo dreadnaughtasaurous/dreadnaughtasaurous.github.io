@@ -16,7 +16,7 @@ topics: ['consultation', 'ohs']
 
 **99.4** Central Building Consultative Committee
 
-Note: Nothing in this clause 99.4 limits the Employer’s obligations to consult with HSRs under the OHS Act
+Note: Nothing in this [clause 99.4](/ebas/nurses-midwives/ohs/99-ohs-risk-management) limits the Employer’s obligations to consult with HSRs under the OHS Act
 
 **(a)** Where an employer is proposing to undertake construction of a new or significantly changed work area or areas, including construction of a new facility, the employer will establish a central building consultative committee for the purpose of consulting with HSRs and the Unions.
 
@@ -32,7 +32,7 @@ Note: Nothing in this clause 99.4 limits the Employer’s obligations to consult
 
 **(ii)** walkthroughs of the site at key stages of development.
 
-**(f)** The Employer will notify the Union of the expected timeline for the events listed in subclause 99.4(e) as soon as possible to facilitate participation. The Unions will cooperate to ensure such consultation occurs without undue delay to the construction and/or commissioning.
+**(f)** The Employer will notify the Union of the expected timeline for the events listed in [subclause 99.4(e)](/ebas/nurses-midwives/ohs/99-ohs-risk-management) as soon as possible to facilitate participation. The Unions will cooperate to ensure such consultation occurs without undue delay to the construction and/or commissioning.
 
 **99.5** This Agreement recognises that hazards include, but are not limited to:
 

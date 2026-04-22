@@ -30,7 +30,7 @@ topics: ['union-matters']
 
 **63.4** Delegates and Occupational Health & Safety Representatives NOTE: Additional rights of HSRs and Deputy HSRs are contained in the OHS Act.
 
-**(a)** In this subclause 63.4
+**(a)** In this [subclause 63.4](/ebas/mental-health/common-terms/workplace-rights/63-union-matters)
 
 **(i)** Representative means a Union Delegate, Deputy HSR or HSR
 

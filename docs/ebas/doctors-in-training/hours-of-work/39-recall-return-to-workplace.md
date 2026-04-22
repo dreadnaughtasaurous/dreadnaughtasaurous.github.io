@@ -8,7 +8,7 @@ topics: ['hours', 'rosters', 'on-call', 'allowances']
 
 
 
-**39.1** The provisions of this clause 39 are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-Call) and [clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle) (Travelling Allowance – Use of Private Motor Vehicle)
+**39.1** The provisions of this [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace) are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-Call) and [clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle) (Travelling Allowance – Use of Private Motor Vehicle)
 
 **39.2** Entitlement
 

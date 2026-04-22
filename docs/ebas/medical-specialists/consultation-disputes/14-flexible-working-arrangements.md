@@ -24,7 +24,7 @@ topics: ['flexible-work', 'preliminary']
 
 **(f)** provides care or support to a member of the Doctor’s immediate family, or a member of the Doctor’s household, who requires care or support because the member is experiencing violence or abuse from the member’s family.
 
-**14.3** Changes in working arrangements may include, but are not limited to, hours of work, patterns of work and location of work (including in accordance with subclause 54.2(a)).
+**14.3** Changes in working arrangements may include, but are not limited to, hours of work, patterns of work and location of work (including in accordance with [subclause 54.2(a)](/ebas/medical-specialists/leave/54-parental-leave)).
 
 **14.4** The request must be in writing, set out details of the change sought and the reasons for the change.
 

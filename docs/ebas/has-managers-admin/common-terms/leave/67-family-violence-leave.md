@@ -34,7 +34,7 @@ is committed to providing support to staff that experience family violence.
 
 **(vi)** in any other way controls or dominates the family member and causes that family member to feel fear for the safety or wellbeing of that family member or another person; or
 
-**(vii)** behaviour by a person that causes a child to hear or witness, or otherwise be exposed to the effects of, behaviour referred to in subclause 67.2(a) above.
+**(vii)** behaviour by a person that causes a child to hear or witness, or otherwise be exposed to the effects of, behaviour referred to in [subclause 67.2(a)](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave) above.
 
 **67.3** Eligibility
 
@@ -56,7 +56,7 @@ legislation. No information will be kept on an Employee’s personnel file witho
 
 **(e)** An Employee experiencing family violence may raise the issue with their immediate supervisor, Family Violence contacts, union delegate or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Employee chooses not to see the Human Resources or Family Violence contact.
 
-**(f)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with subclause 67.5 and subclause 67.6.
+**(f)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with [subclause 67.5](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave) and [subclause 67.6](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave).
 
 **(g)** The Employer will develop guidelines to supplement this clause and which details the appropriate action to be taken in the event that an employee reports family violence.
 
@@ -64,7 +64,7 @@ legislation. No information will be kept on an Employee’s personnel file witho
 
 **(a)** An Employee experiencing family violence will have access to 20 days per year of paid special leave (pro-rata for part-time Employees) for counselling appointments, medical appointments, legal proceedings or appointments with a legal practitioner, and other activities related to, and as a consequent of, family violence (this leave is not cumulative but if the leave is exhausted consideration will be given to providing additional leave). This leave will be in addition to existing leave entitlements and may be taken as consecutive or single days or as a fraction of a day and can be taken without prior approval.
 
-**(b)** An Employee who supports a person experiencing family violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with subclause 67.4(a) from an Employee seeking to utilise their personal/carer’s leave entitlement.
+**(b)** An Employee who supports a person experiencing family violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [subclause 67.4(a)](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave) from an Employee seeking to utilise their personal/carer’s leave entitlement.
 
 **67.6** Individual Support
 

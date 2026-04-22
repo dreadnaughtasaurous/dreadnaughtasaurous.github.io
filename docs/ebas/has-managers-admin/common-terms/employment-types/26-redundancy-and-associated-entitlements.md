@@ -10,27 +10,27 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 
 **26.1** Arrangement This clause is arranged as follows:
 
-**(a)** Arrangement (subclause 26.1),
+**(a)** Arrangement ([subclause 26.1](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(b)** Definitions (subclause 26.2),
+**(b)** Definitions ([subclause 26.2](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(c)** Redeployment (subclause 26.3),
+**(c)** Redeployment ([subclause 26.3](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(d)** Support to Affected Employees (subclause 26.4),
+**(d)** Support to Affected Employees ([subclause 26.4](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(e)** Salary maintenance (subclause 26.5),
+**(e)** Salary maintenance ([subclause 26.5](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(f)** Relocation (subclause 26.6),
+**(f)** Relocation ([subclause 26.6](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(g)** Employee leaving during redundancy notice period (subclause 26.7),
+**(g)** Employee leaving during redundancy notice period ([subclause 26.7](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
 
-**(h)** Employment terminates due to redundancy (subclause 26.8), and
+**(h)** Employment terminates due to redundancy ([subclause 26.8](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)), and
 
-**(i)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 26.9)
+**(i)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 26.9](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu))
 
 **26.2** Definitions
 
-**(a)** Affected Employee for this clause 26 means an Employee whose role will be redundant.
+**(a)** Affected Employee for this [clause 26](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu) means an Employee whose role will be redundant.
 
 **(b)** Comparable role means an on-going role that:
 
@@ -56,7 +56,7 @@ PART C – TYPES OF EMPLOYMENT AND TERMINATION OF EMPLOYMENT
 
 **(c)** Consultation is as defined at [clause 16](/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation) (Consultation) of this Agreement.
 
-**(d)** Continuity of Service means that the service of the Employee is treated as unbroken and that the cap on the transfer of personal leave at subclause 55.6 does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
+**(d)** Continuity of Service means that the service of the Employee is treated as unbroken and that the cap on the transfer of personal leave at [subclause 55.6](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
 **(e)** Reasonable Distance means a distance that has regard to the Employee’s original work location, current home address, capacity of the Employee to travel, additional travelling time, effects on the personal circumstances of the affected Employee, including family commitments and responsibilities and other matters raised by the Employee, or assistance provided by their Employer.
 
@@ -82,7 +82,7 @@ months or shorter period where there has been a variation in the Employee’s co
 
 **(ii)** details of the redeployment process,
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 26.3(g), and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 26.3(g)](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu), and
 
 **(iv)** the Affected Employee’s rights and obligations.
 
@@ -100,7 +100,7 @@ months or shorter period where there has been a variation in the Employee’s co
 
 **(iii)** actively monitoring and exploring appropriate redeployment opportunities and working with the appointed case manager.
 
-**(e)** Rejecting a comparable role Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at subclause 26.7.
+**(e)** Rejecting a comparable role Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at [subclause 26.7](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu).
 
 **(f)** Temporary alternative duties
 
@@ -190,7 +190,7 @@ An Affected Employee is entitled to relocation allowance where permanent or temp
 
 **(a)** An employee given notice of termination in circumstances of redundancy may terminate their employment during the minimum period of notice prescribed in Section 2 [clause 5](/ebas/allied-health/preliminary/5-incidence-coverage) and Section 3 [clause 3](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement) of this Agreement.
 
-**(b)** The employee will remain entitled to receive the severance benefits they would have received under clause 26.8 had they remained in employment until the expiry of the notice.
+**(b)** The employee will remain entitled to receive the severance benefits they would have received under [clause 26.8](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu) had they remained in employment until the expiry of the notice.
 
 **(c)** However, the employee is not entitled to be paid for any part of the period of notice remaining after the employee ceased to be employed.
 
@@ -206,7 +206,7 @@ result of redundancy are set out in the Public Sector Workplace Relations Polici
 
 **(b)** provides continuity of service; and
 
-**(c)** where the comparable role results in a loss of income, salary maintenance at subclause 26.5 will apply; and
+**(c)** where the comparable role results in a loss of income, salary maintenance at [subclause 26.5](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu) will apply; and
 
 **(d)** where relevant, consistent with the financial and other support provided to an internal redeployee; the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 

@@ -24,7 +24,7 @@ topics: ['leave', 'annual-leave', 'hours', 'shift-work']
 
 **a.** If an Employer has genuinely tried to reach agreement with an Employee, but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
 
-**b.** However, in directing that the Employee take leave under this subclause 62.2a:
+**b.** However, in directing that the Employee take leave under this [subclause 62.2](/ebas/mspp/leave/62-excess-annual-leave)a:
 
 **(i)** the Employee cannot be directed to reduce the accrued leave to less than eight (8) weeks;
 

@@ -22,11 +22,11 @@ topics: ['leave', 'hours', 'overtime', 'flexible-work']
 
 **(v)** leave loading; and
 
-**(b)** the arrangement meets the genuine needs of the Employer and Employee in relation to one (1) or more of the matters mentioned in subclause 12.1(a); and
+**(b)** the arrangement meets the genuine needs of the Employer and Employee in relation to one (1) or more of the matters mentioned in [subclause 12.1(a)](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement); and
 
 **(c)** the arrangement is genuinely agreed by the Employer and Employee.
 
-**12.2** The Employee may appoint a representative for the purposes of the procedure in this clause 12, including the Union. Except as provided in subclause 12.5(c), the arrangement must not require the approval or consent of a person other than the Employer and the individual Employee.
+**12.2** The Employee may appoint a representative for the purposes of the procedure in this [clause 12](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement), including the Union. Except as provided in [subclause 12.5(c)](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement), the arrangement must not require the approval or consent of a person other than the Employer and the individual Employee.
 
 **12.3** The Employer must ensure that the terms of the individual flexibility arrangement:
 

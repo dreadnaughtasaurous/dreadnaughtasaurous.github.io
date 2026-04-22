@@ -18,7 +18,7 @@ Nothing in this clause limits the Employer’s obligations to consult with HSRs 
 
 **(c)** The Employer will take reasonable steps to ensure Employees, HSRs (where relevant) and the Unions can participate effectively in the Consultation process.
 
-**18.2** Definitions Under this clause 18
+**18.2** Definitions Under this [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation)
 
 **(a)** Consultation means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
@@ -64,7 +64,7 @@ Nothing in this clause limits the Employer’s obligations to consult with HSRs 
 
 Step Action
 
-1.  Employer provides change impact statement and other written material required by subclause 18.4
+1.  Employer provides change impact statement and other written material required by [subclause 18.4](/ebas/mental-health/common-terms/consultation-disputes/18-consultation)
 
 2.  Written response from Employees and / or union.
 
@@ -96,7 +96,7 @@ Step Action
 
 **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 or other legislation.
 
-**(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with clause 18.4 will be raised as soon as practicable and before step 2.
+**(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with [clause 18.4](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) will be raised as soon as practicable and before step 2.
 
 **18.5** Employee / Union response (step 2) Following receipt of the change impact statement, Affected Employees and / or the Union may respond in writing to any matter arising from the proposed change.
 
@@ -116,7 +116,7 @@ Step Action
 
 **18.8** Alternative proposal (step 5) The Affected Employee/s, the Union and other representative (where relevant) may submit alternative proposal(s) which will take into account the intended objective and benefits of the proposal. Alternative proposals should be submitted in a timely manner so that unreasonable delay may be avoided.
 
-**18.9** Outcome of Consultation (step 6) The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-clause 18.8, and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+**18.9** Outcome of Consultation (step 6) The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-[clause 18.8](/ebas/mental-health/common-terms/consultation-disputes/18-consultation), and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 **(a)** whether the Employer intends to proceed with the change proposal
 

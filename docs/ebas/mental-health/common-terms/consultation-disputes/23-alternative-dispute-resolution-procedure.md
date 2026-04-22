@@ -50,7 +50,7 @@ topics: ['wages', 'disputes', 'union-matters', 'classifications']
 
 **(l)** A party to a dispute that is being dealt with under this clause shall not make an application to the FWC for it to deal with the same dispute, other than an
 
-application made under clause 23.5(k)-23.5(l). Nothing prevents an application to the FWC where the Panel ceases to deal with a dispute without having made a determination.
+application made under [clause 23.5(k)](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure)-23.5(l). Nothing prevents an application to the FWC where the Panel ceases to deal with a dispute without having made a determination.
 
 **23.3** Functions of the Panel Chair
 
@@ -68,13 +68,13 @@ application made under clause 23.5(k)-23.5(l). Nothing prevents an application t
 
 **(b)** If the provisions of [clause 22.4](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) (Discussion of dispute at workplace) or [Clause 22.2](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) (Obligations of this Agreement) have not been complied with prior to the application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
 
-**(c)** For the purpose of this subclause, an attempt to resolve the dispute means the exchange and consideration of the documents referred to in sub-clause 23.4(f)(iii) to 23.4(f)(vii).
+**(c)** For the purpose of this subclause, an attempt to resolve the dispute means the exchange and consideration of the documents referred to in sub-[clause 23.4(f)(iii)](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure) to 23.4(f)(vii).
 
 **(d)** In the absence of a Position Description, the Employer and Employee will co- operate to ensure a position description is developed within 8 weeks of a request.
 
 **(e)** The Employer will provide a response to the document referred to 23.4(f)(vi) within 4 weeks of it being received.
 
-**(f)** To be considered, applications to the Panel under subclause 23.1(a) must include the following:
+**(f)** To be considered, applications to the Panel under [subclause 23.1(a)](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure) must include the following:
 
 **(i)** Name of Applicant and contact details
 
@@ -108,7 +108,7 @@ application made under clause 23.5(k)-23.5(l). Nothing prevents an application t
 
 **(ii)** apply the provisions of the Agreement; and
 
-**(iii)** in the case of submissions under clause 23.5(f) below consider any materials submitted by or on behalf of the Department.
+**(iii)** in the case of submissions under [clause 23.5(f)](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure) below consider any materials submitted by or on behalf of the Department.
 
 **(b)** Subject to the provisions of this clause, proceedings of the Panel shall be conducted as informally as possible and undertaken with all possible expediency.
 

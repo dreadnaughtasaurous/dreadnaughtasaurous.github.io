@@ -32,7 +32,7 @@ topics: ['wages', 'preliminary', 'discrimination']
 
 **(iii)** Identifying the extent to which the wage rates of Section 3 Employees in this Agreement would need to be adjusted to maintain relativity with the HPSS Award both at the time the Agreement commenced and the time the Decision is delivered
 
-**(iv)** Identifying all possible options in relation to a gender equity wage uplift for Section 3 Employees, having regard to each of the considerations at clause 143A.3; and
+**(iv)** Identifying all possible options in relation to a gender equity wage uplift for Section 3 Employees, having regard to each of the considerations at [clause 143A.3](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review); and
 
 **(v)** Jointly presenting a range of options as identified in clause (iv) to the Victorian Government for consideration and approval.
 
@@ -68,7 +68,7 @@ group will meet on a fortnightly basis to progress the outcomes listed above and
 
 **(a)** No Employee will experience a diminution of any entitlements they held immediately before the outcome of this review and subsequent consideration and approval of a Government approved gender equity uplift proposal.
 
-**(b)** Nothing in this clause 143A is intended to affect the obligations of Employers under s 206 of the FW Act. For the avoidance of doubt, should increases to the Award which exceed Agreement rates take effect before the gender equity wage uplift for section 3 is determined under this clause 143A, Employers are required to immediately ensure compliance with such increases as required under s 206 of the FW Act.
+**(b)** Nothing in this [clause 143A](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review) is intended to affect the obligations of Employers under s 206 of the FW Act. For the avoidance of doubt, should increases to the Award which exceed Agreement rates take effect before the gender equity wage uplift for section 3 is determined under this [clause 143A](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review), Employers are required to immediately ensure compliance with such increases as required under s 206 of the FW Act.
 
 **143A.7** Variation of agreement The parties will give consideration to formally varying the Agreement in accordance with Part 2-4 of the Act to reflect any approved gender equity uplift for Section 3 Employees which applies in accordance with 143A.5(a). For the avoidance of doubt, such a variation is not a requirement and does not otherwise affect the binding nature of the agreement described at 143A.5(a).
 

@@ -28,7 +28,7 @@ topics: ['leave', 'annual-leave', 'hours', 'overtime']
 
 **(b)** if the Employer is aware that the Employee has, or reasonably should be aware that the Employee may have, limited understanding of written English, take reasonable steps (including providing a translation in an appropriate language) to ensure that the Employee understands the proposal.
 
-**11.4** The Employee may appoint a representative for the purposes of the procedure in this clause, including the Union. Except as provided in subclause 11.6(c), the arrangement must not require the approval or consent of a person other than the Employer and the individual Employee.
+**11.4** The Employee may appoint a representative for the purposes of the procedure in this clause, including the Union. Except as provided in [subclause 11.6(c)](/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements), the arrangement must not require the approval or consent of a person other than the Employer and the individual Employee.
 
 **11.5** The Employer must ensure that the terms of the IFA:
 

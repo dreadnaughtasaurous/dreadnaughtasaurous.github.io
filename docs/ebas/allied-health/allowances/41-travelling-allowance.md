@@ -32,14 +32,14 @@ Ordinary car Rotary engine car
 
 **(a)** provided with transport by the Employer and the Employer will be responsible for the cost; or
 
-**(b)** where the Employee agrees to use their own vehicle, receive the allowance at subclause 41.1 for each kilometre travelled on Employer business.
+**(b)** where the Employee agrees to use their own vehicle, receive the allowance at [subclause 41.1](/ebas/allied-health/allowances/41-travelling-allowance) for each kilometre travelled on Employer business.
 
 **41.4** Reimbursement
 
 **(a)** Approved fares incurred by an Employee in the performance of their duty will be reimbursed by the Employer.
 
-**(b)** Any road tolls reasonably incurred by an Employee when using the Employee’s own vehicle under subclause 41.2 or 41.3, will be reimbursed by the Employer upon the production of appropriate evidence.
+**(b)** Any road tolls reasonably incurred by an Employee when using the Employee’s own vehicle under [subclause 41.2 or 41.3](/ebas/allied-health/allowances/41-travelling-allowance), will be reimbursed by the Employer upon the production of appropriate evidence.
 
-**41.5** Parking An Employee undertaking travel under this clause 41 will be reimbursed for the cost of parking if that cost is incurred as a result of that travel.
+**41.5** Parking An Employee undertaking travel under this [clause 41](/ebas/allied-health/allowances/41-travelling-allowance) will be reimbursed for the cost of parking if that cost is incurred as a result of that travel.
 
 

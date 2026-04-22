@@ -14,11 +14,11 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'prelimina
 
 **(b)** Training Time must be:
 
-**(i)** rostered within an applicable roster period in a period of five hours per week, unless otherwise agreed in accordance with subclause 34.2(a) below;
+**(i)** rostered within an applicable roster period in a period of five hours per week, unless otherwise agreed in accordance with [subclause 34.2(a)](/ebas/doctors-in-training/hours-of-work/34-training-time) below;
 
 **(ii)** rostered in blocks of no less than 30 minutes duration on each occasion;
 
-**(iii)** published in accordance with subclause 34.5;
+**(iii)** published in accordance with [subclause 34.5](/ebas/doctors-in-training/hours-of-work/34-training-time);
 
 **(iv)** arranged in a manner that assists in the provision of Training Time where the Doctor is rostered on nights or weekends.
 
@@ -32,13 +32,13 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'prelimina
 
 **34.2** Other arrangements by agreement
 
-**(a)** Where there is a demonstrable benefit to the Registrar to arrange Training Time in a manner other than that prescribed in subclause 34.1(b)(i) above, Training Time may be arranged in a manner other than 5 hours per week, as follows:
+**(a)** Where there is a demonstrable benefit to the Registrar to arrange Training Time in a manner other than that prescribed in [subclause 34.1(b)(i)](/ebas/doctors-in-training/hours-of-work/34-training-time) above, Training Time may be arranged in a manner other than 5 hours per week, as follows:
 
 **(i)** a Registrar may agree to accumulate a portion of their weekly Training Time to be utilised in a larger block; and
 
 **(ii)** at all times, Training Time must be arranged in an agreed manner that ensures the quantum of Training Time is not less than what the Registrar
 
-would have received if their Training Time was arranged as prescribed in subclause 34.1(b)(i) above.
+would have received if their Training Time was arranged as prescribed in [subclause 34.1(b)(i)](/ebas/doctors-in-training/hours-of-work/34-training-time) above.
 
 **(b)** Following reaching agreement in accordance with this subclause, the Health Service must provide the Registrar with a written schedule of activities that meet the forms and schedule (including dates and times) of Training Time to be undertaken by the Registrar.
 
@@ -46,7 +46,7 @@ would have received if their Training Time was arranged as prescribed in subclau
 
 **(a)** Any change to rostered Training Time shall be recorded in writing by the Health Service with that written record being available for inspection.
 
-**(b)** Any concerns about compliance with the principles set out in this clause may be referred to the Agreement Implementation Committee established in accordance with subclause 76.10 and any dispute will be dealt with in accordance with clause 12 (Dispute Resolution).
+**(b)** Any concerns about compliance with the principles set out in this clause may be referred to the Agreement Implementation Committee established in accordance with [subclause 76.10](/ebas/doctors-in-training/union-matters/76-union-matters) and any dispute will be dealt with in accordance with [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) (Dispute Resolution).
 
 **34.4** Forms of Training Time
 
@@ -66,7 +66,7 @@ would have received if their Training Time was arranged as prescribed in subclau
 
 **34.5** Rostering of Training Time
 
-**(a)** Training Time must be published on the document that is relied upon by all clinical and non-clinical staff within the Health Service to identify Registrars’ hours of work, such as a Roster in accordance with subclause 35.1 (Roster Hours) or in another agreed document in accordance with subclauses (b)-(d) below.
+**(a)** Training Time must be published on the document that is relied upon by all clinical and non-clinical staff within the Health Service to identify Registrars’ hours of work, such as a Roster in accordance with [subclause 35.1](/ebas/doctors-in-training/hours-of-work/35-rosters) (Roster Hours) or in another agreed document in accordance with subclauses (b)-(d) below.
 
 **(b)** In circumstances where the current rostering technology does not allow Training Time to be adequately published in the roster, another agreed document may be utilised provided the document is relied upon by clinical and non-clinical staff within the Health Service to identify a Registrar’s hours of work.
 

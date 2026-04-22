@@ -18,7 +18,7 @@ topics: ['preliminary']
 
 **(b)** for medico legal purposes, to disclose any information to the Health Service relating to the mental or physical condition of a Health Service patient or former patient.
 
-**23.4** The Doctor should ensure that work performed outside of their employing Health Service does not result in an overall or unsafe work pattern for that Doctor pursuant to subclause 35.3.
+**23.4** The Doctor should ensure that work performed outside of their employing Health Service does not result in an overall or unsafe work pattern for that Doctor pursuant to [subclause 35.3](/ebas/doctors-in-training/hours-of-work/35-rosters).
 
 **23.5** The Doctor will ensure that to the extent that it is practicable to do so time sheets (or equivalent) reflecting time worked (including any overtime) are submitted within the timeframe required by the Health Service.
 

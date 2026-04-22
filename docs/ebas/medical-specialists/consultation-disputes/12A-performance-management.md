@@ -20,9 +20,9 @@ topics: ['discipline']
 
 **12A.2** Application of this clause
 
-**(a)** Where an Employer wishes to deal with performance issues of a Doctor, they will be dealt with in accordance with this clause 12A.
+**(a)** Where an Employer wishes to deal with performance issues of a Doctor, they will be dealt with in accordance with this [clause 12A](/ebas/medical-specialists/consultation-disputes/12A-performance-management).
 
-**(b)** Where an Employer has concerns about a performance issue that may constitute misconduct, they will be dealt with in accordance with [clause 12](/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline) (Discipline). Where this occurs, the performance management process in subclauses 12A.4(c), (d) and (e) will still apply where appropriate.
+**(b)** Where an Employer has concerns about a performance issue that may constitute misconduct, they will be dealt with in accordance with [clause 12](/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline) (Discipline). Where this occurs, the performance management process in [subclauses 12A.4(c)](/ebas/medical-specialists/consultation-disputes/12A-performance-management), (d) and (e) will still apply where appropriate.
 
 **12A.3** Informal
 
@@ -30,7 +30,7 @@ Where the Employer or the Employee has concerns about an Employee’s performanc
 
 **12A.4** Formal
 
-**(a)** Where the Employee’s work performance is not at an acceptable standard following the process in subclause 12A.2or it was not appropriate to deal with the concerns informally, the Employer may initiate a formal performance management process.
+**(a)** Where the Employee’s work performance is not at an acceptable standard following the process in [subclause 12A.2](/ebas/medical-specialists/consultation-disputes/12A-performance-management)or it was not appropriate to deal with the concerns informally, the Employer may initiate a formal performance management process.
 
 **(b)** The Employer will provide to the Employee in writing:
 
@@ -50,7 +50,7 @@ Where the Employer or the Employee has concerns about an Employee’s performanc
 
 **(d)** Where, having considered the Employee’s response, the Employer reasonably believes, based on the Employee’s performance, that a performance management plan is appropriate, the Employer will:
 
-**(i)** provide the performance management plan to the Employee in writing following the consultation referred to at subclause 12A.4(c)(iv) above, identifying which aspects of the Employee’s performance are unsatisfactory and the required level of performance which must be reasonable; and
+**(i)** provide the performance management plan to the Employee in writing following the consultation referred to at [subclause 12A.4(c)(iv)](/ebas/medical-specialists/consultation-disputes/12A-performance-management) above, identifying which aspects of the Employee’s performance are unsatisfactory and the required level of performance which must be reasonable; and
 
 **(ii)** provide the Employee with a reasonable opportunity to address any concerns over a reasonable time.
 

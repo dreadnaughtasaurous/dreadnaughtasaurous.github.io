@@ -14,7 +14,7 @@ Hospital
 
 **217.2** In the four (4) weeks prior to the commencement of a given financial year (Department Heads), and within 12 weeks of employment and on the anniversary of the appointment thereafter (all other Employees), the Employee and the Divisional Director/Department Head are to negotiate agreed performance measures for the succeeding 18-month period.
 
-**217.3** For the purposes of clause 217.2 above, the Employer’s “Performance Development and Staff Appraisal Scheme” shall be applied, save where there is mutual agreement to use an alternative format.
+**217.3** For the purposes of [clause 217.2](/ebas/mental-health/management-admin/education-pd/217-individual-performance-measures-royal-children-s) above, the Employer’s “Performance Development and Staff Appraisal Scheme” shall be applied, save where there is mutual agreement to use an alternative format.
 
 **217.4** Individual performance measures may include: a) balancing budgets b) achieving given targets c) levels of absenteeism d) occupational health and safety e) data entry requirements f) documentation requirements g) punctuality h) percentage of patient-related work i) categories of work, levels of classification j) research; and k) conferences.
 

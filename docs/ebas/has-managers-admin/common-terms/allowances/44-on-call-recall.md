@@ -30,7 +30,7 @@ The on call allowances in [Schedule 2C](/ebas/has-managers-admin/schedules/2c-al
 
 **(b)** If, on the instructions of the Employer, an Employee resumes or continues work without having had a 10-hour break they will be paid at the rate of 200% (based on 1/38th of the weekly salary set out in such rest period. The Employee will then be entitled to be absent until they have had a 10-hour break. The Employee will not suffer any loss of pay for rostered ordinary hours occurring during such absence.
 
-**44.6** Recall – Telephone Allowance Managers and Administrative Workers only Notwithstanding clause 44.2, where recall to duty can be managed without a Manager or Administrative Worker having to return to their workplace,
+**44.6** Recall – Telephone Allowance Managers and Administrative Workers only Notwithstanding [clause 44.2](/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary), where recall to duty can be managed without a Manager or Administrative Worker having to return to their workplace,
 
 such as by telephone, such Employee will be paid a minimum of one hour’s overtime, provided that multiple recalls within a discrete hour will not attract additional payment.
 

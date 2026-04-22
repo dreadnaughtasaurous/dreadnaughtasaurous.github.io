@@ -10,9 +10,9 @@ topics: ['preliminary']
 
 This Agreement covers:
 
-**(a)** the Employers as defined in subclause 4.1(t) (Definitions);
+**(a)** the Employers as defined in [subclause 4.1(t)](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions);
 
-**(b)** all Employees as defined in subclause 4.1(s) (Definitions); and
+**(b)** all Employees as defined in [subclause 4.1(s)](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions); and
 
 **(c)** if they are named by the Commission as covered by the Agreement, each of the Unions as bargaining representatives for this Agreement.
 

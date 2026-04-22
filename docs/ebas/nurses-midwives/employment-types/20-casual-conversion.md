@@ -18,13 +18,13 @@ topics: ['employment', 'casual-conversion']
 
 **(iii)** all of the following apply:
 
-**(A)** the Employee has not, at any time during the period referred to in subclause 20.1(a)(ii), refused an offer for casual conversion made to the Employee;
+**(A)** the Employee has not, at any time during the period referred to in [subclause 20.1(a)(ii)](/ebas/nurses-midwives/employment-types/20-casual-conversion), refused an offer for casual conversion made to the Employee;
 
-**(B)** the Employer has not, at any time during that period, given the Employee a notice in accordance with subclause 20.4(a);
+**(B)** the Employer has not, at any time during that period, given the Employee a notice in accordance with [subclause 20.4(a)](/ebas/nurses-midwives/employment-types/20-casual-conversion);
 
-**(C)** the Employer has not, at any time during that period, given a response to the Employee under clause 20.2 refusing a previous request made under this clause;
+**(C)** the Employer has not, at any time during that period, given a response to the Employee under [clause 20.2](/ebas/nurses-midwives/employment-types/20-casual-conversion) refusing a previous request made under this clause;
 
-**(D)** the request is not made during the period of 21 days after the period referred to in subclause 20.1(a)(i).
+**(D)** the request is not made during the period of 21 days after the period referred to in [subclause 20.1(a)(i)](/ebas/nurses-midwives/employment-types/20-casual-conversion).
 
 **(b)** The request must:
 
@@ -32,15 +32,15 @@ topics: ['employment', 'casual-conversion']
 
 **(ii)** be a request for the Employee to convert:
 
-**(A)** for an Employee that has worked the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in subclause 20.1(a)(ii) – to full-time employment; or
+**(A)** for an Employee that has worked the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in [subclause 20.1(a)(ii)](/ebas/nurses-midwives/employment-types/20-casual-conversion) – to full-time employment; or
 
-**(B)** for an Employee that has worked less than the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in subclause 20.1(a)(ii) – to part-time employment that is consistent with the regular pattern of hours or shifts worked during that period; and
+**(B)** for an Employee that has worked less than the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in [subclause 20.1(a)(ii)](/ebas/nurses-midwives/employment-types/20-casual-conversion) – to part-time employment that is consistent with the regular pattern of hours or shifts worked during that period; and
 
 **(iii)** be given to the Employer.
 
 **20.2** Employer must give a response
 
-The Employer must give the Employee a written response to the request made under clause 20.1 within 21 days after the request is given to the Employer, stating whether the Employer grants or refuses the request.
+The Employer must give the Employee a written response to the request made under [clause 20.1](/ebas/nurses-midwives/employment-types/20-casual-conversion) within 21 days after the request is given to the Employer, stating whether the Employer grants or refuses the request.
 
 **20.3** Refusals of requests
 
@@ -52,7 +52,7 @@ The Employer must give the Employee a written response to the request made under
 
 **(iii)** the reasonable grounds are based on facts that are known, or reasonably foreseeable, at the time of refusing the request.
 
-**(b)** Without limiting subclause 20.3(a), reasonable grounds for refusing a request include the following:
+**(b)** Without limiting [subclause 20.3(a)](/ebas/nurses-midwives/employment-types/20-casual-conversion), reasonable grounds for refusing a request include the following:
 
 **(i)** it would require a significant adjustment to the Employee’s hours of work in order for the Employee to be employed as a full-time Employee or part-time Employee;
 
@@ -70,7 +70,7 @@ which cannot be accommodated within the days or times the Employee is available 
 
 **(v)** granting the request would not comply with a recruitment or selection process required by or under a law of the Commonwealth or a State or a Territory.
 
-**(c)** If the Employer refuses the request, the written response under clause 20.2 must include details of the reasons for the refusal.
+**(c)** If the Employer refuses the request, the written response under [clause 20.2](/ebas/nurses-midwives/employment-types/20-casual-conversion) must include details of the reasons for the refusal.
 
 **20.4** Grants of requests
 
@@ -82,17 +82,17 @@ which cannot be accommodated within the days or times the Employee is available 
 
 **(iii)** the day the Employee's conversion to full-time or part-time employment takes effect.
 
-**(b)** However, the Employer must discuss with the Employee the matters the Employer intends to specify for the purposes of subclause 20.4(a)(i)-(iii) before giving the notice.
+**(b)** However, the Employer must discuss with the Employee the matters the Employer intends to specify for the purposes of [subclause 20.4(a)(i)-(iii)](/ebas/nurses-midwives/employment-types/20-casual-conversion) before giving the notice.
 
-**(c)** The day specified for the purposes of subclause 20.4(a)(iii) must be the first day of the Employee's first full pay period that starts after the day the notice is given, unless the Employee and Employer agree to another day.
+**(c)** The day specified for the purposes of [subclause 20.4(a)(iii)](/ebas/nurses-midwives/employment-types/20-casual-conversion) must be the first day of the Employee's first full pay period that starts after the day the notice is given, unless the Employee and Employer agree to another day.
 
-**(d)** To avoid doubt, the notice may be included in the written response under clause 20.2.
+**(d)** To avoid doubt, the notice may be included in the written response under [clause 20.2](/ebas/nurses-midwives/employment-types/20-casual-conversion).
 
 **20.5** Effect of conversion
 
-**(a)** An Employee is taken, on and after the day specified in a notice for the purposes of subclause 20.4(a)(iii), to be a full-time Employee or a part-time Employee of the Employer.
+**(a)** An Employee is taken, on and after the day specified in a notice for the purposes of [subclause 20.4(a)(iii)](/ebas/nurses-midwives/employment-types/20-casual-conversion), to be a full-time Employee or a part-time Employee of the Employer.
 
-**(b)** Casual loading will cease, and, subject to [clause 70.6](/ebas/nurses-midwives/leave/70-long-service-leave), any benefits relating to permanent employment will commence on the day specified in a notice for the purposes of subclause 20.4(a)(iii).
+**(b)** Casual loading will cease, and, subject to [clause 70.6](/ebas/nurses-midwives/leave/70-long-service-leave), any benefits relating to permanent employment will commence on the day specified in a notice for the purposes of [subclause 20.4(a)(iii)](/ebas/nurses-midwives/employment-types/20-casual-conversion).
 
 Plain language terms: casual to permanent, conversion to permanent.
 

@@ -8,7 +8,7 @@ topics: ['allowances', 'preliminary', 'classifications']
 
 
 
-**87.1** Subject to clause 87.2 below, a MHO who is appointed as a 'Senior' will have their classification preceded by the word 'Senior' and paid an allowance of 10% to be calculated upon the base rate payable in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) in addition to any other allowance to which the Employee is entitled.
+**87.1** Subject to [clause 87.2](/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho) below, a MHO who is appointed as a 'Senior' will have their classification preceded by the word 'Senior' and paid an allowance of 10% to be calculated upon the base rate payable in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) in addition to any other allowance to which the Employee is entitled.
 
 **87.2** Appointment to a classification preceded by the word 'Senior' will only be made where the work performed by such person represents a net addition to the work value of the substantive role in a similar area or areas. Indicative of a net addition to work value may include the performance of additional duties or functions, the assignment of a special project or an increased emphasis on the performance of core functions already undertaken by Employees in that classification.
 

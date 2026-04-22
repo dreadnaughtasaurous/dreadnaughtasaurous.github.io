@@ -12,7 +12,7 @@ topics: ['employment', 'staffing']
 
 **77.2** Vacancies
 
-**(a)** Where available hours of no greater than sixteen (16) hours a week arise within a department through the vacating of all or part of an existing position, the Employer may, as an alternative to advertising at 77.2(b) to 77.2(d),invite expressions of interest from part-time or casual Employees within the department. Where the process set out at sub-clause 77.2(a) is not utilised, the responsible manager will initiate action to advertise the vacant position or available hours, internally at first instance and then externally if necessary, immediately after receiving notice of resignation
+**(a)** Where available hours of no greater than sixteen (16) hours a week arise within a department through the vacating of all or part of an existing position, the Employer may, as an alternative to advertising at 77.2(b) to 77.2(d),invite expressions of interest from part-time or casual Employees within the department. Where the process set out at sub-[clause 77.2(a)](/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment) is not utilised, the responsible manager will initiate action to advertise the vacant position or available hours, internally at first instance and then externally if necessary, immediately after receiving notice of resignation
 
 **(b)** Where a vacancy arises within a department, the responsible manager will initiate action to advertise the vacant position or available hours, internally at first instance and then externally if necessary, immediately after receiving notice of resignation.
 
@@ -36,12 +36,12 @@ topics: ['employment', 'staffing']
 
 **77.4** Promotion of Full-Time employment
 
-**(a)** Within 3 months of the commencement date of this Agreement, Employers will write to all Employees who are contracted to work a minimum of 37 hours per week, or 74 hours per fortnight, to offer a conversion to Full-Time employment in accordance with subclause 20 (Full-time Employment).
+**(a)** Within 3 months of the commencement date of this Agreement, Employers will write to all Employees who are contracted to work a minimum of 37 hours per week, or 74 hours per fortnight, to offer a conversion to Full-Time employment in accordance with [subclause 20](/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance) (Full-time Employment).
 
-**(b)** Where an Employee declines the offer to convert to Full-Time employment under subclause 77.4(a), that response will be provided to the Employer in writing.
+**(b)** Where an Employee declines the offer to convert to Full-Time employment under [subclause 77.4(a)](/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment), that response will be provided to the Employer in writing.
 
 **(c)** Where a conversion to Full-Time employment occurs, the Employer will provided the Employee with a Letter of Appointment setting out the revised employment arrangement.
 
-**(d)** Nothing within this clause 77.4 will prevent an Employee from making a request to convert to Full-Time employment after the commencement date of this Agreement. These requests will be dealt with in accordance with [Clause 22](/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours) (Part-Time Review of Hours).
+**(d)** Nothing within this [clause 77.4](/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment) will prevent an Employee from making a request to convert to Full-Time employment after the commencement date of this Agreement. These requests will be dealt with in accordance with [Clause 22](/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours) (Part-Time Review of Hours).
 
 

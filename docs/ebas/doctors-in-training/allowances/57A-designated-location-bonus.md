@@ -14,7 +14,7 @@ topics: ['allowances']
 
 **(b)** A Designated Location Bonus is payable to a Doctor employed at a Designated Location, subject to the conditions and eligibility terms set out in this clause after the completion of each Eligible Year of Employment.
 
-**(c)** In this clause 57A:
+**(c)** In this [clause 57A](/ebas/doctors-in-training/allowances/57A-designated-location-bonus):
 
 **(i)** Designated Location means the Employers listed in 57A.4 of this clause
 

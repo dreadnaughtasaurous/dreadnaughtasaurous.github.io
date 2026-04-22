@@ -8,7 +8,7 @@ topics: ['hours', 'on-call', 'allowances']
 
 
 
-**40.1** The provisions of this clause 40 are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-call).
+**40.1** The provisions of this [clause 40](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours) are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-call).
 
 **40.2** The Health Service must have mandatory Protocols in operation that govern the use of telephone consultations with Doctors who are on-call. The Protocols must ensure:
 

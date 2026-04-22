@@ -14,7 +14,7 @@ physical or mental disability, marital status, family responsibilities, pregnanc
 
 **10.2** Accordingly, in fulfilling their obligations under the Agreement, those covered by the Agreement must make every reasonable endeavour to ensure that neither the Agreement provisions nor their operation are directly or indirectly unlawfully discriminatory in their effects.
 
-**10.3** Nothing in this clause 10 is to be taken to affect:
+**10.3** Nothing in this [clause 10](/ebas/allied-health/preliminary/10-anti-discrimination) is to be taken to affect:
 
 **(a)** any different treatment (or treatment having different effects) which is specifically exempted under Commonwealth or Victorian anti-discrimination legislation;
 

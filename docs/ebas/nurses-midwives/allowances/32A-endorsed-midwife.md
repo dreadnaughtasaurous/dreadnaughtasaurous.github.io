@@ -24,6 +24,6 @@ An Endorsed Midwife is a Midwife who:
 
 **32A.3** Interaction between Qualification Allowance and Endorsed Midwife Allowance
 
-An Endorsed Midwife who is in receipt of an allowance under this clause 32A is not precluded from receiving a Qualification Allowance under [clause 31](/ebas/nurses-midwives/allowances/31-qualification-allowance) in addition.
+An Endorsed Midwife who is in receipt of an allowance under this [clause 32A](/ebas/nurses-midwives/allowances/32A-endorsed-midwife) is not precluded from receiving a Qualification Allowance under [clause 31](/ebas/nurses-midwives/allowances/31-qualification-allowance) in addition.
 
 

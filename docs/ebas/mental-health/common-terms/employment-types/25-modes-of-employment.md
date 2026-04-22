@@ -24,7 +24,7 @@ topics: ['hours', 'employment', 'classifications']
 
 **(d)** Where a part-time Employee has an entitlement to leave under this Agreement, the part-time Employee will be paid according to the number of hours the Employee would have worked on the day/s on which the leave was taken.
 
-**(e)** Notwithstanding the above, a part-time MHO employed on a regular basis for four hours or less per week shall be paid in accordance with clause 25.3.
+**(e)** Notwithstanding the above, a part-time MHO employed on a regular basis for four hours or less per week shall be paid in accordance with [clause 25.3](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment).
 
 **(f)** Where a full-time Employee converts from full-time to part-time, the Employer shall not reduce the total EFT of the Employee’s workplace as a result of the conversion to part-time.
 
@@ -42,9 +42,9 @@ topics: ['hours', 'employment', 'classifications']
 
 **(i)** is an Employee who:
 
-**(A)** is made an offer of employment on the basis that the Employer makes no firm advance commitment to continuing and indefinite work (e.g. relief such as replacing an employee on an unplanned absence); and **(B)** accepts the offer of employment on that basis **(C)** is paid in accordance with sub-clause 25.4(e) and (f) of this Agreement; and **(D)** is an Employee as a result of that acceptance.
+**(A)** is made an offer of employment on the basis that the Employer makes no firm advance commitment to continuing and indefinite work (e.g. relief such as replacing an employee on an unplanned absence); and **(B)** accepts the offer of employment on that basis **(C)** is paid in accordance with sub-[clause 25.4(e)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment) and (f) of this Agreement; and **(D)** is an Employee as a result of that acceptance.
 
-**(c)** When determining whether an Employer has made an offer of employment in accordance with subclause 25.4(b)(i)(A), regard is to be had to the Act which presently provides for consideration of the following indicia:
+**(c)** When determining whether an Employer has made an offer of employment in accordance with [subclause 25.4(b)(i)(A)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment), regard is to be had to the Act which presently provides for consideration of the following indicia:
 
 **(i)** the "real substance, practical reality and a true nature of the employment relationship", including whether a firm advanced commitment has arisen by reason of:
 
@@ -118,7 +118,7 @@ topics: ['hours', 'employment', 'classifications']
 
 **(j)** In terms of Employees covered by Section 2 of the Agreement, any casual replacement shift shall be of the same shift length as the shift that is being replaced. Additional casual Employees for unexpected periods of peak workload may be of shorter duration.
 
-**(k)** Further to clause 25.4(j), it is acknowledged that in the event of logistical difficulties such as late notification of personal leave or genuine inability to obtain an agency/bank nurse for a full shift replacement then the full shift replacement may not be able to occur.
+**(k)** Further to [clause 25.4(j)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment), it is acknowledged that in the event of logistical difficulties such as late notification of personal leave or genuine inability to obtain an agency/bank nurse for a full shift replacement then the full shift replacement may not be able to occur.
 
 **(l)** A casual Employee may convert to a full time or part time Employee in accordance with [clause 26](/ebas/mental-health/common-terms/employment-types/26-casual-conversion) below.
 
@@ -136,7 +136,7 @@ topics: ['hours', 'employment', 'classifications']
 
 **25.6** Limitations on the use of fixed term contracts
 
-**(a)** Subject to subclause 25.6(b), the following limitations apply to the use of fixed term contracts:
+**(a)** Subject to [subclause 25.6(b)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment), the following limitations apply to the use of fixed term contracts:
 
 **(i)** the fixed term contract will not be for an employment term of longer than 2 years, including any extensions or renewals
 

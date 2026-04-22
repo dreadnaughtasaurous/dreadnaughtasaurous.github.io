@@ -18,7 +18,7 @@ topics: ['employment']
 
 **19.5** A casual Doctor is entitled to the following:
 
-**(a)** unpaid carer's leave for carer’s responsibilities (subclause 61.10);
+**(a)** unpaid carer's leave for carer’s responsibilities ([subclause 61.10](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave));
 
 **(b)** unpaid family violence leave ([clause 71](/ebas/doctors-in-training/leave/71-family-violence-leave));
 
@@ -30,9 +30,9 @@ topics: ['employment']
 
 **(f)** applicable penalty payments for work performed on a public holiday ([clause 63](/ebas/doctors-in-training/leave/63-public-holidays));
 
-**(g)** payments for shift work (subclauses 37.3 and 37.5);
+**(g)** payments for shift work ([subclauses 37.3](/ebas/doctors-in-training/hours-of-work/37-penalty-payments) and 37.5);
 
-**(h)** Saturdays and Sundays (subclause 37.2); and
+**(h)** Saturdays and Sundays ([subclause 37.2](/ebas/doctors-in-training/hours-of-work/37-penalty-payments)); and
 
 **(i)** overtime ([clause 36](/ebas/doctors-in-training/hours-of-work/36-overtime)).
 
@@ -56,7 +56,7 @@ topics: ['employment']
 
 **(i)** period of employment ([clause 21](/ebas/doctors-in-training/doctor-employment/21-period-of-employment));
 
-**(j)** flexible working arrangements (other than Doctors prescribed at subclause 15.2(b)) ([clause 15](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements));
+**(j)** flexible working arrangements (other than Doctors prescribed at [subclause 15.2(b)](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements)) ([clause 15](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements));
 
 **(k)** payment for public holiday penalties where the Doctor doesn’t perform work on that day ([clause 63](/ebas/doctors-in-training/leave/63-public-holidays));
 

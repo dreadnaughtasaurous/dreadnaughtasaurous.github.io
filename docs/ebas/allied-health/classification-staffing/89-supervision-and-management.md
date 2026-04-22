@@ -12,11 +12,11 @@ topics: ['preliminary']
 
 **(a)** The Employer will ensure that all Employees receive clinical supervision as follows:
 
-**(i)** for Grade / Level / Class 1 and 2 Employees, in accordance with subclauses 89.2 and 89.3 below; and
+**(i)** for Grade / Level / Class 1 and 2 Employees, in accordance with [subclauses 89.2](/ebas/allied-health/classification-staffing/89-supervision-and-management) and 89.3 below; and
 
-**(ii)** for Grade / Level / Class 3 Employees and above, in accordance with subclause 89.4 below.
+**(ii)** for Grade / Level / Class 3 Employees and above, in accordance with [subclause 89.4](/ebas/allied-health/classification-staffing/89-supervision-and-management) below.
 
-**(b)** In this clause 89, clinical supervision refers to structured professional support, such as:
+**(b)** In this [clause 89](/ebas/allied-health/classification-staffing/89-supervision-and-management), clinical supervision refers to structured professional support, such as:
 
 **(i)** the provision of advice and feedback on clinical matters relating to their profession;
 
@@ -34,25 +34,25 @@ topics: ['preliminary']
 
 **89.3** Transitional provisions – Grade / Level / Class 1 and 2 Employees
 
-**(a)** Implementation of subclause 89.2 will be as follows:
+**(a)** Implementation of [subclause 89.2](/ebas/allied-health/classification-staffing/89-supervision-and-management) will be as follows:
 
-**(i)** where an Employer has the arrangement in subclause 89.2 in place for all or some Employees at the time this Agreement commences operation, it will be maintained;
+**(i)** where an Employer has the arrangement in [subclause 89.2](/ebas/allied-health/classification-staffing/89-supervision-and-management) in place for all or some Employees at the time this Agreement commences operation, it will be maintained;
 
-**(ii)** where the Employer has the resources that could provide the clinical supervision described at subclause 89.2 to all or some Employees at the time this Agreement commences operation, it shall do so within 6 months subject to subclause 89.3(b);
+**(ii)** where the Employer has the resources that could provide the clinical supervision described at [subclause 89.2](/ebas/allied-health/classification-staffing/89-supervision-and-management) to all or some Employees at the time this Agreement commences operation, it shall do so within 6 months subject to [subclause 89.3(b)](/ebas/allied-health/classification-staffing/89-supervision-and-management);
 
-**(iii)** where the Employer does not have the resources that could provide the clinical supervision described at subclause 89.2 to all or some Employees at the time this Agreement commences operation, the Employer will implement such supervision when it is reasonably practicable to do so. The Allied Health Professionals Research and Practice Centre (however titled) will review, advise and assist the Employer with implementing such clinical supervision (including through networks across health services).
+**(iii)** where the Employer does not have the resources that could provide the clinical supervision described at [subclause 89.2](/ebas/allied-health/classification-staffing/89-supervision-and-management) to all or some Employees at the time this Agreement commences operation, the Employer will implement such supervision when it is reasonably practicable to do so. The Allied Health Professionals Research and Practice Centre (however titled) will review, advise and assist the Employer with implementing such clinical supervision (including through networks across health services).
 
 **(b)** Where, at any time, an Employer does not provide the supervision at subclause
 
 **89.2** for an Employee/s, it must ensure that these Employees receive clinical supervision by a qualified and clinically appropriate Allied Health Professional.
 
-**(c)** Where because of exceptional circumstances both the Employee and Employer wish to apply an alternative to best meet the principles at subclause 89.2 or 89.3(b):
+**(c)** Where because of exceptional circumstances both the Employee and Employer wish to apply an alternative to best meet the principles at [subclause 89.2 or 89.3(b)](/ebas/allied-health/classification-staffing/89-supervision-and-management):
 
 **(i)** the Employer will notify the Union in writing (with a copy to the Employee);
 
 **(ii)** the parties will meet to discuss the matter; and
 
-**(iii)** in the event that the parties cannot agree, the matter is referred to either: A. the dispute resolution procedure in this Agreement (clause 14); or B. the Independent Dispute Resolution Panel ([clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel)).
+**(iii)** in the event that the parties cannot agree, the matter is referred to either: A. the dispute resolution procedure in this Agreement ([clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)); or B. the Independent Dispute Resolution Panel ([clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel)).
 
 **89.4** Grade / Level / Class 3 Employee and above
 
@@ -64,7 +64,7 @@ topics: ['preliminary']
 
 **(ii)** Doctor of Medicine.
 
-**(c)** Where the Employer employs less than 25 Employees covered by this Agreement, the Employer will do what is required by subclause 89.4(a) and (b) where practicable.
+**(c)** Where the Employer employs less than 25 Employees covered by this Agreement, the Employer will do what is required by [subclause 89.4(a)](/ebas/allied-health/classification-staffing/89-supervision-and-management) and (b) where practicable.
 
 **89.5** Director/Deputy Director of Allied Health
 
@@ -78,6 +78,6 @@ topics: ['preliminary']
 
 **(ii)** the Victorian Government has providing funding to an Employer for a Director/Deputy Director of Allied Health position; the positions will be maintained during the life of this Agreement.
 
-**89.6** Definition of Allied Health Professional In this clause 89, Allied Health Professional means an employee working in a profession covered by this Agreement, a Dietitian, an Audiologist, or a Psychologist.
+**89.6** Definition of Allied Health Professional In this [clause 89](/ebas/allied-health/classification-staffing/89-supervision-and-management), Allied Health Professional means an employee working in a profession covered by this Agreement, a Dietitian, an Audiologist, or a Psychologist.
 
 

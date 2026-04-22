@@ -10,25 +10,25 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **32.1** Arrangement This clause is arranged as follows:
 
-**a.** Arrangement (subclause 32.1),
+**a.** Arrangement ([subclause 32.1](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)),
 
-**b.** Definitions (subclause 32.2),
+**b.** Definitions ([subclause 32.2](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)),
 
-**c.** Redeployment (subclause 32.3),
+**c.** Redeployment ([subclause 32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)),
 
-**d.** Support to Affected Employees (subclause 32.4),
+**d.** Support to Affected Employees ([subclause 32.4](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)),
 
-**e.** Salary maintenance (subclause 32.4b),
+**e.** Salary maintenance ([subclause 32.4](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)b),
 
-**f.** Relocation (subclause 32.5);
+**f.** Relocation ([subclause 32.5](/ebas/mspp/employment/32-redundancy-and-associated-entitlements));
 
-**g.** Employment terminates due to Redundancy (Termination) (subclause 32.6); and
+**g.** Employment terminates due to Redundancy (Termination) ([subclause 32.6](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)); and
 
-**h.** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 36.7).
+**h.** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 36.7](/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances)).
 
 **32.2** Definitions
 
-**a.** Affected Employee for this clause 32.2 means an Employee who is proposed to be made redundant or who as a result of a process under this clause agrees to relocate from their Base Employment Campus and that relocation to the alternative campus is in excess of a reasonable distance.
+**a.** Affected Employee for this [clause 32.2](/ebas/mspp/employment/32-redundancy-and-associated-entitlements) means an Employee who is proposed to be made redundant or who as a result of a process under this clause agrees to relocate from their Base Employment Campus and that relocation to the alternative campus is in excess of a reasonable distance.
 
 **b.** Base Employment Campus means a Campus of the Employer at which the Employee ordinarily starts and finishes work.
 
@@ -36,7 +36,7 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **(i)** is the same occupation as that of the Affected Employee’s redundant position or if not, is in an occupation acceptable to the Affected Employee; and
 
-**(ii)** is any of the following: **(A)** in the same professional discipline as that of the Affected Employee’s former position; **(B)** other professional discipline acceptable to the Affected Employee; or **(C)** a position that with the reasonable support described at subclause 32.3c, the Affected Employee could undertake;
+**(ii)** is any of the following: **(A)** in the same professional discipline as that of the Affected Employee’s former position; **(B)** other professional discipline acceptable to the Affected Employee; or **(C)** a position that with the reasonable support described at [subclause 32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)c, the Affected Employee could undertake;
 
 **(iii)** is the same grade as the Affected Employee’s redundant position; and
 
@@ -58,13 +58,13 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **e.** Continuity of Service for the purposes of this subclause (including subclause
 
-**32.7** (a) (ii)) means that the service of the Employee is treated as unbroken and that the cap on the transfer of personal leave at subclause 64.3c does not apply even where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
+**32.7** (a) (ii)) means that the service of the Employee is treated as unbroken and that the cap on the transfer of personal leave at [subclause 64.3](/ebas/mspp/leave/64-personal-carer-s-leave)c does not apply even where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
 **f.** Calculation of continuous service shall be the same as for Long Service Leave under this Agreement.
 
 **g.** Reasonable Distance means a distance that has regard to the Employee’s original work location, current home address, capacity of the Employee to travel additional travelling time, effects on the personal circumstances of the affected Employee, including family commitments and responsibilities and other matters raised by the Employee, or assistance provided by their Employer.
 
-**h.** Redeployment period means a period of 13 weeks from the time the Employer notifies the Affected Employee in writing that consultation under clause 32.3b is complete and that the redeployment period has begun.
+**h.** Redeployment period means a period of 13 weeks from the time the Employer notifies the Affected Employee in writing that consultation under [clause 32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)b is complete and that the redeployment period has begun.
 
 **i.** Redundancy means the Employer no longer requires the Affected Employee’s job to be performed by anyone because of changes in the operational requirements of the Employer’s enterprise.
 
@@ -84,7 +84,7 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **(ii)** details of the redeployment process,
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 32.3c below, and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)c below, and
 
 **(iv)** the Affected Employee’s rights and obligations.
 
@@ -102,7 +102,7 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **f.** Rejecting a comparable role
 
-**(i)** Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at subclause 32.6d.
+**(i)** Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at [subclause 32.6](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)d.
 
 **(ii)** In such cases the Employer and the Employee or the Employee’s representative shall discuss the Affected Employee’s decision before the Employer decides its response.
 
@@ -166,7 +166,7 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **32.5** Relocation
 
-**a.** Employer to advise in writing of relocation As soon as practicable but no less than seven (7) days after a decision is made by the Employer to require an Employee to change their Base Employment Campus either temporarily (if agreed under subclause 32.3g) or permanently the Employer will advise the Affected Employee in writing of the decision, the proposed timing of the relocation and any other alternatives available to the Affected Employee. In addition, the Employer will:
+**a.** Employer to advise in writing of relocation As soon as practicable but no less than seven (7) days after a decision is made by the Employer to require an Employee to change their Base Employment Campus either temporarily (if agreed under [subclause 32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)g) or permanently the Employer will advise the Affected Employee in writing of the decision, the proposed timing of the relocation and any other alternatives available to the Affected Employee. In addition, the Employer will:
 
 **(i)** ensure the relocation is a Reasonable Distance, unless otherwise agreed;
 
@@ -180,7 +180,7 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 
 **d.** Payment
 
-**(i)** The Employer will pay the Affected Employee a relocation allowance up to $1900.00 based on the written estimate of the Affected Employee referred to at subclause 32.5c where the Employer accepts that estimate represents the additional cost to the Affected Employee. The allowance shall be paid as a lump sum.
+**(i)** The Employer will pay the Affected Employee a relocation allowance up to $1900.00 based on the written estimate of the Affected Employee referred to at [subclause 32.5](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)c where the Employer accepts that estimate represents the additional cost to the Affected Employee. The allowance shall be paid as a lump sum.
 
 **(ii)** When considering the Affected Employee’s estimate, the Employer may have regard to the Reasonable Distance.
 
@@ -212,7 +212,7 @@ An Affected Employee is not entitled to the relocation allowance if the site or 
 
 **(ii)** provides continuity of service; and
 
-**(iii)** where the comparable role results in a loss of income, salary maintenance at subclause 32.4b will apply; and
+**(iii)** where the comparable role results in a loss of income, salary maintenance at [subclause 32.4](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)b will apply; and
 
 **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee, the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 

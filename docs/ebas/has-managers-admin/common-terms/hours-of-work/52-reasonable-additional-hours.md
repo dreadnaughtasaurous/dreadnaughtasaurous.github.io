@@ -8,7 +8,7 @@ topics: ['hours', 'overtime']
 
 
 
-**52.1** Subject to subclause 52.2, an Employer may require an Employee to work reasonable additional hours at the appropriate overtime rate as defined in [clause 25](/ebas/has-managers-admin/common-terms/employment-types/25-fixed-term-employment) of Section 2 (Overtime) and [clause 10](/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment) of Section 3 (Overtime) of the Agreement.
+**52.1** Subject to [subclause 52.2](/ebas/has-managers-admin/common-terms/hours-of-work/52-reasonable-additional-hours), an Employer may require an Employee to work reasonable additional hours at the appropriate overtime rate as defined in [clause 25](/ebas/has-managers-admin/common-terms/employment-types/25-fixed-term-employment) of Section 2 (Overtime) and [clause 10](/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment) of Section 3 (Overtime) of the Agreement.
 
 **52.2** An Employee may refuse to work overtime in circumstances where the working of such overtime would result in the Employee working hours which are unreasonable having regard to:
 
@@ -26,7 +26,7 @@ topics: ['hours', 'overtime']
 
 **(g)** the nature of the Employee’s role, and the Employee’s level of responsibility;
 
-**(h)** whether the additional hours are in accordance with an averaging arrangement agreed to by the Employer and Employee under clause 22 of Section 2 and [clause 7](/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation) of Section 3 (Hours of Work); and any other relevant matter.
+**(h)** whether the additional hours are in accordance with an averaging arrangement agreed to by the Employer and Employee under [clause 22](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work) of Section 2 and [clause 7](/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation) of Section 3 (Hours of Work); and any other relevant matter.
 
 PART G – LEAVE AND PUBLIC HOLIDAYS
 

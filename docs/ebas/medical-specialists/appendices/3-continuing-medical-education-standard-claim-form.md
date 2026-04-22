@@ -13,7 +13,7 @@ Formatting note
 The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and forms. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
 
 
-\`\`\`text The following standard claim form (or online equivalent) for Continuing Medical Education reimbursement can be used by a Health Service in accordance with subclause 41.4(a).
+\`\`\`text The following standard claim form (or online equivalent) for Continuing Medical Education reimbursement can be used by a Health Service in accordance with [subclause 41.4(a)](/ebas/medical-specialists/allowances/41-continuing-medical-education-support).
 
 Any additional information required by the Health Service must be kept to a minimum.
 

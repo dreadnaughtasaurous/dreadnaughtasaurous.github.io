@@ -22,7 +22,7 @@ The weekly salaries and allowances over the life of the Agreement (incorporating
 
 **26.2** The above rates of pay will only come into operation on the approval of this Agreement by the Commission in accordance with the Act.
 
-**26.3** All monetary based allowances (e.g. meal allowance) in this Agreement shall be adjusted by the same percentage amount and from the same dates as the percentage movement in wages specified in subclause 26.1.
+**26.3** All monetary based allowances (e.g. meal allowance) in this Agreement shall be adjusted by the same percentage amount and from the same dates as the percentage movement in wages specified in [subclause 26.1](/ebas/biomedical-engineers/wages/26-wages-and-allowances).
 
 **26.4** Cash Payments
 
@@ -32,7 +32,7 @@ The weekly salaries and allowances over the life of the Agreement (incorporating
 
 **(c)** Entitlement
 
-**(i)** The payments at subclauses 26.4(a) and 26.4(b) will be made on a pro-rata basis for part-time and casual Employees as follows:
+**(i)** The payments at [subclauses 26.4(a)](/ebas/biomedical-engineers/wages/26-wages-and-allowances) and 26.4(b) will be made on a pro-rata basis for part-time and casual Employees as follows:
 
 **(ii)** Part-time Employee – the Employee’s contracted hours, save that where the part-time Employee’s ordinary hours fluctuate because the Employee works additional ordinary shifts (but excluding a permanent variation) an average of the Employee’s ordinary hours over: **(A)** the preceding 12 months; or **(B)** the Employee’s period of service where the Employee has less than 12 months service; will apply where this is more favourable to the Employee; or
 

@@ -18,7 +18,7 @@ topics: ['hours', 'employment']
 
 3453-8976-3100v1PART 4: EMPLOYMENT RELATIONSHIP AND RELATED ARRANGEMENTS
 
-**e.** This clause 21 is in addition to any entitlement to request flexible working arrangements under the Act or [clause 27](/ebas/mspp/employment/27-flexible-working-arrangements).
+**e.** This [clause 21](/ebas/mspp/employment/21-request-to-reduce-ordinary-hours) is in addition to any entitlement to request flexible working arrangements under the Act or [clause 27](/ebas/mspp/employment/27-flexible-working-arrangements).
 
 Plain language terms: reduce hours request.
 

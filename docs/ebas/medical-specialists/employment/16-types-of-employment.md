@@ -12,7 +12,7 @@ Doctors will be employed in Full-time or Fractional Employment.
 
 **16.1** Full-Time Employment
 
-**(a)** A Full-time Doctor is one who is engaged to work 38 hours per week or an average of 38 hours as per subclause 28.1 (Hours of Work), plus reasonable additional hours.
+**(a)** A Full-time Doctor is one who is engaged to work 38 hours per week or an average of 38 hours as per [subclause 28.1](/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors) (Hours of Work), plus reasonable additional hours.
 
 **(b)** Provided a Full-time Doctor is ready, willing and able to work full-time hours, the Doctor will be paid the weekly salary appropriate to the Doctor’s classification.
 
@@ -36,7 +36,7 @@ B. undertaking a specified task which is funded for a specified period;
 
 C. for the first year of employment with the Health Service.
 
-**(ii)** In addition to subclause 16.3(i) above, a Health Service may offer a Doctor a fixed term of employment where:
+**(ii)** In addition to [subclause 16.3(i)](/ebas/medical-specialists/employment/16-types-of-employment) above, a Health Service may offer a Doctor a fixed term of employment where:
 
 A. the Doctor’s employment is dependent upon their holding of an appropriate immigration visa – in such case, the Health Service may offer the Doctor a period of employment commensurate with the term of the visa held; or
 
@@ -44,7 +44,7 @@ B. the Doctor holds limited registration to practise as a medical practitioner, 
 
 **(d)** Nothing in this clause disrupts existing fixed term or maximum term contracts that exist at the commencement date of this Agreement.
 
-**(e)** This clause should be read in conjunction with subclause 54.2(a).
+**(e)** This clause should be read in conjunction with [subclause 54.2(a)](/ebas/medical-specialists/leave/54-parental-leave).
 
 **16.4** Internal Locum
 

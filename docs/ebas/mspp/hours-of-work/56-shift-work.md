@@ -22,19 +22,19 @@ topics: ['hours', 'shift-work', 'allowances']
 
 **b.** Provided further that in the case of an Employee who changes from working on one shift to working on another shift, the time of commencement of which differs by four hours or more from that of the first, they shall be paid an amount equal to the change of shift allowance in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances) on the occasion of each such change in addition to any amount payable under the preceding provisions of this clause.
 
-**c.** Clause 56.1b above does not apply either where the Employee requests a change to the roster which creates a change of shift as described in 56.1b or where the Employee has 48 hours off duty between successive shifts.
+**c.** [Clause 56.1](/ebas/mspp/hours-of-work/56-shift-work)b above does not apply either where the Employee requests a change to the roster which creates a change of shift as described in 56.1b or where the Employee has 48 hours off duty between successive shifts.
 
 **d.** The allowances payable pursuant to this clause shall be calculated to the nearest 5 cents, portions of a cent being disregarded.
 
 **e.** Shift Work allowances are set out in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances).
 
-**f.** In the case of Pharmacists, the hours for morning shift allowance shall be those as set out at 56.2 until FFPPOA 1 December 2022 after which they shall be as per this clause 56.1.
+**f.** In the case of Pharmacists, the hours for morning shift allowance shall be those as set out at 56.2 until FFPPOA 1 December 2022 after which they shall be as per this [clause 56.1](/ebas/mspp/hours-of-work/56-shift-work).
 
 **56.2** Pharmacists
 
 **a.** Until the FFPPOA 1 December 2022, in addition to any other rates prescribed in this Agreement, a Pharmacist whose rostered hours of ordinary duty commence between 6.30am and 8.00am shall be paid the morning shift allowance in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances).
 
-**b.** Effective from the FFPPOA 1 December 2022, the full terms of 56.1 will apply, save that, in the event that there are local arrangements for a Pharmacist to commence between 6.30am and 8.00am, as provided in clause 56.2a, and the Pharmacist is better off overall under that arrangement then the span and penalty at clause 56.1 would not apply. That is, the local arrangement would continue to apply to that Pharmacist.
+**b.** Effective from the FFPPOA 1 December 2022, the full terms of 56.1 will apply, save that, in the event that there are local arrangements for a Pharmacist to commence between 6.30am and 8.00am, as provided in [clause 56.2](/ebas/mspp/hours-of-work/56-shift-work)a, and the Pharmacist is better off overall under that arrangement then the span and penalty at [clause 56.1](/ebas/mspp/hours-of-work/56-shift-work) would not apply. That is, the local arrangement would continue to apply to that Pharmacist.
 
 **56.3** Saturday and Sunday Work - All Employees Except Pharmacists
 
@@ -50,7 +50,7 @@ topics: ['hours', 'shift-work', 'allowances']
 
 **a.** Where a Pharmacist Employee is required to work on a Saturday or Sunday they shall be paid at the rate of double time.
 
-**b.** Where a Pharmacist performs ordinary hours on a Saturday or Sunday in accordance with [clause 55.1](/ebas/mspp/hours-of-work/55-hours-of-work)(d), the rates at clause 56.3(b) apply.
+**b.** Where a Pharmacist performs ordinary hours on a Saturday or Sunday in accordance with [clause 55.1](/ebas/mspp/hours-of-work/55-hours-of-work)(d), the rates at [clause 56.3(b)](/ebas/mspp/hours-of-work/56-shift-work) apply.
 
 Plain language terms: shift penalty, shift loading, afternoon shift, night shift.
 

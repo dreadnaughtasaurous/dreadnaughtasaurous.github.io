@@ -22,7 +22,7 @@ topics: ['hours', 'wages', 'accident-pay', 'preliminary']
 
 **(c)** Ordinary time earnings excludes additional remuneration by way of shift premiums, overtime payments, special rates or other similar payments.
 
-**(d)** Suitable Employment for the purposes of this clause 32 has the same meaning as the definition in the WIRC Act.
+**(d)** Suitable Employment for the purposes of this [clause 32](/ebas/biomedical-engineers/wages/32-accident-make-up-pay) has the same meaning as the definition in the WIRC Act.
 
 **32.3** Maximum payment The maximum period or aggregate of periods of accident make-up pay to be made by an Employer will be a total of 39 weeks for any one injury.
 

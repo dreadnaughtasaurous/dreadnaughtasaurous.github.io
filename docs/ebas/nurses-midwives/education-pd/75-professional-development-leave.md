@@ -8,7 +8,7 @@ topics: ['leave', 'professional-development', 'staffing']
 
 
 
-Other than clause 75.8, this clause does not apply to casual Employees.
+Other than [clause 75.8](/ebas/nurses-midwives/education-pd/75-professional-development-leave), this clause does not apply to casual Employees.
 
 **75.1** Professional Development Leave
 
@@ -28,7 +28,7 @@ Other than clause 75.8, this clause does not apply to casual Employees.
 
 **75.2** Amount of professional development leave
 
-**(a)** All Employees are entitled to five days' paid professional development leave (as defined in subclause 75.1(b)).
+**(a)** All Employees are entitled to five days' paid professional development leave (as defined in [subclause 75.1(b)](/ebas/nurses-midwives/education-pd/75-professional-development-leave)).
 
 **(b)** An Employee who is a Nurse Practitioner will be entitled to a further 10 hours of paid professional development leave per annum.
 

@@ -8,7 +8,7 @@ topics: ['hours', 'overtime', 'staffing', 'workload']
 
 
 
-This clause concerns overtime. Obligations regarding overtime are also contained in clause 90 (Workload Allocation and Safe Staffing).
+This clause concerns overtime. Obligations regarding overtime are also contained in [clause 90](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) (Workload Allocation and Safe Staffing).
 
 **52.1** General The Employer must not request or require an Employee to work overtime hours unless the overtime hours is reasonable.
 
@@ -34,29 +34,29 @@ This clause concerns overtime. Obligations regarding overtime are also contained
 
 **(ix)** how frequently an Employee is required to perform overtime; and
 
-**(x)** any other relevant matter; subject to subclause 52.2(b).
+**(x)** any other relevant matter; subject to [subclause 52.2(b)](/ebas/allied-health/hours-of-work/52-overtime).
 
-**(b)** The relevance of the factors at subclause 52.2(a) and the weight to be given to each of them will vary according to the particular circumstances, namely:
+**(b)** The relevance of the factors at [subclause 52.2(a)](/ebas/allied-health/hours-of-work/52-overtime) and the weight to be given to each of them will vary according to the particular circumstances, namely:
 
 **(i)** in some cases it will require a balancing exercise between the factors;
 
-**(ii)** in some cases, a single factor will be of great importance and outweigh all others. One specific circumstance where this is the case is where an Employee’s personal circumstances (subclause 52.2(a)(ii)) require them to provide care for or look after a member of their immediate family or household during the time the Employer wants them to perform overtime. A request to perform overtime in this circumstance will be unreasonable and the Employee may refuse to work it.
+**(ii)** in some cases, a single factor will be of great importance and outweigh all others. One specific circumstance where this is the case is where an Employee’s personal circumstances ([subclause 52.2(a)(ii)](/ebas/allied-health/hours-of-work/52-overtime)) require them to provide care for or look after a member of their immediate family or household during the time the Employer wants them to perform overtime. A request to perform overtime in this circumstance will be unreasonable and the Employee may refuse to work it.
 
-**52.3** Overtime - meaning Overtime, other than for casual Employees (see subclause 52.7), means work that is performed:
+**52.3** Overtime - meaning Overtime, other than for casual Employees (see [subclause 52.7](/ebas/allied-health/hours-of-work/52-overtime)), means work that is performed:
 
 **(a)** in excess of ordinary hours of work on any one shift;
 
 **(b)** in excess of the full-time ordinary hours described at [clause 47](/ebas/allied-health/hours-of-work/47-hours-of-work) (Hours of Work), save for the exception at [clause 56](/ebas/allied-health/hours-of-work/56-daylight-savings) relating to time worked during the daylight savings change over period; and/or
 
-**(c)** where a part-time Employee is directed to work additional hours but excluding an offer of additional ordinary hours as described at subclause 19.4 (Additional Ordinary Hours for Part Time Employees by Agreement only).
+**(c)** where a part-time Employee is directed to work additional hours but excluding an offer of additional ordinary hours as described at [subclause 19.4](/ebas/allied-health/employment/19-part-time-employment) (Additional Ordinary Hours for Part Time Employees by Agreement only).
 
 **52.4** Overtime – Submitting Timesheets (or Equivalent) Where Required
 
 **(a)** Where required by the Employer, Employees will submit timesheets (or equivalent) with any overtime within the timeframe required by the Employer or, where that is not practicable, as soon as practicable.
 
-**(b)** Where overtime is worked but not submitted within the time required by subclause 52.4(a) and was not authorised in accordance with subclause 52.5(a) or (b), the Employee will be paid overtime subject to providing reasonable evidence of the hours worked to the Employer.
+**(b)** Where overtime is worked but not submitted within the time required by [subclause 52.4(a)](/ebas/allied-health/hours-of-work/52-overtime) and was not authorised in accordance with [subclause 52.5(a)](/ebas/allied-health/hours-of-work/52-overtime) or (b), the Employee will be paid overtime subject to providing reasonable evidence of the hours worked to the Employer.
 
-**(c)** Where overtime is worked but not submitted within the time required at subclause 52.4(a) above, the Employer may seek an explanation and take reasonable steps to ensure an Employee is able to submit within the time required at subclause 52.4(a) above.
+**(c)** Where overtime is worked but not submitted within the time required at [subclause 52.4(a)](/ebas/allied-health/hours-of-work/52-overtime) above, the Employer may seek an explanation and take reasonable steps to ensure an Employee is able to submit within the time required at [subclause 52.4(a)](/ebas/allied-health/hours-of-work/52-overtime) above.
 
 **52.5** Meaning of ‘Authorised’
 
@@ -72,13 +72,13 @@ This clause concerns overtime. Obligations regarding overtime are also contained
 
 **(v)** the Employee completes seeing a patient where this commenced during ordinary hours and continues beyond the Employee’s ordinary hours.
 
-**(b)** To ensure certainty as to when overtime is authorised, the Employer will develop and publish written protocols consistent with subclause 52.5 and [clause 90](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) describing:
+**(b)** To ensure certainty as to when overtime is authorised, the Employer will develop and publish written protocols consistent with [subclause 52.5](/ebas/allied-health/hours-of-work/52-overtime) and [clause 90](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) describing:
 
 **(i)** work that, because of its nature, is overtime authorised in advance if it cannot be completed within ordinary hours and is completed in overtime; and
 
-**(ii)** for matters that are not authorised in advance through a protocol or not authorised in accordance with subclause 52.5(a): A. how and from whom authorisation can be obtained; and / or B. when an Employee should not undertake the work.
+**(ii)** for matters that are not authorised in advance through a protocol or not authorised in accordance with [subclause 52.5(a)](/ebas/allied-health/hours-of-work/52-overtime): A. how and from whom authorisation can be obtained; and / or B. when an Employee should not undertake the work.
 
-**(c)** Matters the protocols referred to at subclause 52.5(b) will address include but may not be limited to:
+**(c)** Matters the protocols referred to at [subclause 52.5(b)](/ebas/allied-health/hours-of-work/52-overtime) will address include but may not be limited to:
 
 **(i)** time spent completing work allocated to an Employee that cannot be completed during their ordinary hours being authorised overtime, except in the circumstances indicated in the protocols where the Employee should not complete the allocated work;
 
@@ -92,15 +92,15 @@ This clause concerns overtime. Obligations regarding overtime are also contained
 
 **(d)** Where overtime is worked it will be paid, including when it is not authorised:
 
-**(i)** under subclause 52.5(a); or
+**(i)** under [subclause 52.5(a)](/ebas/allied-health/hours-of-work/52-overtime); or
 
-**(ii)** in accordance with the protocols in subclause 52.5(b);
+**(ii)** in accordance with the protocols in [subclause 52.5(b)](/ebas/allied-health/hours-of-work/52-overtime);
 
-save that the Employer may take reasonable action to limit the need for future overtime by addressing the Employee's workload issues or through other appropriate measures including but not limited to steps required to satisfy clause 90 of this Agreement.
+save that the Employer may take reasonable action to limit the need for future overtime by addressing the Employee's workload issues or through other appropriate measures including but not limited to steps required to satisfy [clause 90](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing) of this Agreement.
 
 **(e)** An Employer may create policies and /or procedures, consistent with the provisions of this Agreement, regarding the process the manager or supervisor is required to undertake prior to approving overtime. If a manager / supervisor approves an Employee’s overtime and it is inconsistent with the Employer’s polices / procedures, the Employee will still be paid for the overtime worked.
 
-**52.6** Payment of Authorised Overtime and Recall to Duty Authorised overtime and recall to duty for Employees, other than for casual Employees (see subclause 52.7), are to be paid at the rate of time and a half (150%) for the first two (2) hours and double time (200%) thereafter, save that authorised overtime and recall to duty:
+**52.6** Payment of Authorised Overtime and Recall to Duty Authorised overtime and recall to duty for Employees, other than for casual Employees (see [subclause 52.7](/ebas/allied-health/hours-of-work/52-overtime)), are to be paid at the rate of time and a half (150%) for the first two (2) hours and double time (200%) thereafter, save that authorised overtime and recall to duty:
 
 **(a)** outside the spread of twelve hours from the commencement of the last period of ordinary duty will be paid at the rate of double time (200%);
 
@@ -108,7 +108,7 @@ save that the Employer may take reasonable action to limit the need for future o
 
 **(c)** on a public holiday will be paid at the rate of double time and a half (250%);
 
-**(d)** outside the spread of twelve hours from the commencement of work by an Employee rostered to work broken shifts will be paid at the rate of double time (200%). Only one penalty rate in this subclause 52.6 applies to a period of overtime or recall an Employee performs, that being the highest penalty rate that is applicable to that overtime or recall. See also subclause 47.8.
+**(d)** outside the spread of twelve hours from the commencement of work by an Employee rostered to work broken shifts will be paid at the rate of double time (200%). Only one penalty rate in this [subclause 52.6](/ebas/allied-health/hours-of-work/52-overtime) applies to a period of overtime or recall an Employee performs, that being the highest penalty rate that is applicable to that overtime or recall. See also [subclause 47.8](/ebas/allied-health/hours-of-work/47-hours-of-work).
 
 **52.7** Casual Overtime
 
@@ -126,7 +126,7 @@ save that the Employer may take reasonable action to limit the need for future o
 
 **(iii)** on a public holiday will be paid at the rate of triple time and one eighth (312.5%);
 
-**(iv)** outside the spread of twelve hours from the commencement of work by an Employee rostered to work broken shifts will be paid at the rate of double time and a half (250%). Only one penalty rate in this subclause 52.7(b) applies to a period of overtime a casual Employee performs, that being the highest penalty rate that is applicable to that overtime. See also subclause 47.8.
+**(iv)** outside the spread of twelve hours from the commencement of work by an Employee rostered to work broken shifts will be paid at the rate of double time and a half (250%). Only one penalty rate in this [subclause 52.7(b)](/ebas/allied-health/hours-of-work/52-overtime) applies to a period of overtime a casual Employee performs, that being the highest penalty rate that is applicable to that overtime. See also [subclause 47.8](/ebas/allied-health/hours-of-work/47-hours-of-work).
 
 **52.8** Minimum payment in certain circumstances Note: Minimum payment for recall is dealt with in [clause 53](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace). Where an Employee performs overtime, including rostered overtime, on a day that they do not otherwise perform work, such an Employee will be paid by the Employer a minimum of three (3) hours’ pay at the applicable overtime rates.
 
@@ -138,11 +138,11 @@ Examples: 1. An Employee performs three (3) hours of overtime outside the spread
 
 **(b)** Time off in lieu of overtime will be taken at a time mutually agreed between the Employer and the Employee, provided the Employer will not unreasonably refuse to agree to a request by an Employee to take time off in lieu at a specific time and that the accrual of such time off will not extend beyond a 28 day period, unless otherwise agreed.
 
-**(c)** Where the time off in lieu of overtime is not taken within 28 days, the overtime worked will be paid in the next pay period, unless agreement has been reached under subclause 52.9(b).
+**(c)** Where the time off in lieu of overtime is not taken within 28 days, the overtime worked will be paid in the next pay period, unless agreement has been reached under [subclause 52.9(b)](/ebas/allied-health/hours-of-work/52-overtime).
 
 **(d)** The Employer will record time off in lieu arrangements.
 
-**(e)** If, on the termination of the Employee’s employment, time off for overtime worked by the Employee to which subclause 52.9 applies has not been taken, the
+**(e)** If, on the termination of the Employee’s employment, time off for overtime worked by the Employee to which [subclause 52.9](/ebas/allied-health/hours-of-work/52-overtime) applies has not been taken, the
 
 Employer must pay the Employee for the overtime at the overtime rate applicable to the overtime when worked.
 

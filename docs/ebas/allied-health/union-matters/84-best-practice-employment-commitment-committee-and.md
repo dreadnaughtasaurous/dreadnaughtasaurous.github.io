@@ -34,11 +34,11 @@ Classification Review
 
 **(h)** develop Pastoral Carer (Spiritual Carer) and Diversional Therapist classifications;
 
-**(i)** review of meal breaks for Employees rostered for shift duty at subclause 49.1(a)(ii);
+**(i)** review of meal breaks for Employees rostered for shift duty at [subclause 49.1(a)(ii)](/ebas/allied-health/hours-of-work/49-breaks);
 
 **(j)** develop workforce survey in relation to the use of Contractors and Labour Hire as described at [clause 94](/ebas/allied-health/classification-staffing/94-contractors-and-labour-hire); and
 
-**(k)** discuss arrangements for building increased relief staff size, which could include sector-wide or internal relief bank/s as described at subclause 91.8(c).
+**(k)** discuss arrangements for building increased relief staff size, which could include sector-wide or internal relief bank/s as described at [subclause 91.8(c)](/ebas/allied-health/classification-staffing/91-backfill).
 
 **84.2** The Committee will schedule a minimum of six (6) meetings per year.
 
@@ -46,7 +46,7 @@ Classification Review
 
 **84.4** Classification Review
 
-**(a)** During the life of this Agreement the Allied Health Professionals Research and Practice Centre (however titled) will review and propose amendments to the following classifications, and their rates of pay (subject to subclause 84.4(b)):
+**(a)** During the life of this Agreement the Allied Health Professionals Research and Practice Centre (however titled) will review and propose amendments to the following classifications, and their rates of pay (subject to [subclause 84.4(b)](/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and)):
 
 **(i)** Community Development Worker;
 
@@ -70,7 +70,7 @@ Classification Review
 
 **(c)** The Union, VHIA and the Department will develop Terms of Reference, within one (1) year of this Agreement coming into effect that will:
 
-**(i)** reflect subclause 84.4(a) and (b);
+**(i)** reflect [subclause 84.4(a)](/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and) and (b);
 
 **(ii)** have regard to the Health Promotion Officer (Practitioner) classification; and
 

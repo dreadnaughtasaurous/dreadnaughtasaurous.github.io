@@ -12,7 +12,7 @@ topics: ['hours', 'breaks', 'flexible-work']
 
 **71.2** Place to express or feed The Employer will also provide a comfortable place, other than a bathroom, that is shielded from view and free from intrusion from co-workers and the public, which may be used by an Employee to express breast milk or breastfeed a child in privacy.
 
-**71.3** Storage Appropriate refrigeration will be available in proximity to the area referred to in subclause 71.2 for breast milk storage. Responsibility for labelling, storage and use lies with the Employee.
+**71.3** Storage Appropriate refrigeration will be available in proximity to the area referred to in [subclause 71.2](/ebas/allied-health/leave/71-breastfeeding) for breast milk storage. Responsibility for labelling, storage and use lies with the Employee.
 
 Plain language terms: lactation, pumping, expressing milk.
 

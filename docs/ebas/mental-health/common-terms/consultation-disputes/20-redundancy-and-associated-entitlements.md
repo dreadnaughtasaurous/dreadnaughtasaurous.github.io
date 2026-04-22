@@ -12,25 +12,25 @@ A former section 97 Employee will not be entitled to the benefit of any entitlem
 
 **20.1** Arrangement This clause is arranged as follows:
 
-**(a)** Arrangement (subclause 20.1),
+**(a)** Arrangement ([subclause 20.1](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
 
-**(b)** Definitions (subclause 20.2),
+**(b)** Definitions ([subclause 20.2](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
 
-**(c)** Redeployment (subclause 20.3),
+**(c)** Redeployment ([subclause 20.3](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
 
-**(d)** Support to affected Employees (subclause 20.4),
+**(d)** Support to affected Employees ([subclause 20.4](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
 
-**(e)** Salary maintenance (subclause 20.6),
+**(e)** Salary maintenance ([subclause 20.6](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
 
-**(f)** Relocation (subclause 20.7),
+**(f)** Relocation ([subclause 20.7](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
 
-**(g)** Employment terminates due to redundancy (subclause 20.8)
+**(g)** Employment terminates due to redundancy ([subclause 20.8](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements))
 
-**(h)** Exception to application of Victorian Government’s Policy with respect to severance pay (subclause 20.9)
+**(h)** Exception to application of Victorian Government’s Policy with respect to severance pay ([subclause 20.9](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements))
 
 **20.2** Definitions
 
-**(a)** Affected Employee for this clause 20 means an Employee whose role will be redundant.
+**(a)** Affected Employee for this [clause 20](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements) means an Employee whose role will be redundant.
 
 **(b)** Comparable Role means an on-going role that:
 
@@ -50,7 +50,7 @@ A former section 97 Employee will not be entitled to the benefit of any entitlem
 
 **(c)** Consultation is as defined at [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation) of this Agreement.
 
-**(d)** Continuity of Service means that the service of the Affected Employee is treated as unbroken and that the cap on the transfer of personal leave at subclause 38A.9(b) does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
+**(d)** Continuity of Service means that the service of the Affected Employee is treated as unbroken and that the cap on the transfer of personal leave at [subclause 38A.9(b)](/ebas/mental-health/common-terms/leave/38A-personal-leave) does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
 **(e)** Reasonable Distance shall have regard to the Affected Employee’s original work location, current home address, capacity of the Affected Employee to travel, additional travelling time, effects on the personal circumstances of the Affected Employee, including family commitments and responsibilities and other matters raised by the Affected Employee, or assistance provided by their Employer.
 
@@ -72,7 +72,7 @@ A former section 97 Employee will not be entitled to the benefit of any entitlem
 
 **(ii)** details of the redeployment process,
 
-**(iii)** the reasonable support that will be provided in accordance with subclause 20.3(g), and
+**(iii)** the reasonable support that will be provided in accordance with [subclause 20.3(g)](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements), and
 
 **(iv)** the Affected Employee’s rights and obligations.
 
@@ -94,7 +94,7 @@ Example: The Employer needs fewer employees to do particular work and roles are 
 
 **(iii)** actively monitoring and exploring appropriate redeployment opportunities and working with the appointed case manager.
 
-**(e)** Rejecting a Comparable Role Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at clause 20.8.
+**(e)** Rejecting a Comparable Role Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at [clause 20.8](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements).
 
 **(f)** Temporary alternative duties An Affected Employee awaiting redeployment may be transferred to temporary alternative duties within the same campus, or where part of the Employee’s existing employment conditions (or by agreement) at another campus. Such temporary duties will be in accordance with the Affected Employee’s skills, experience, clinical area and profession.
 
@@ -196,7 +196,7 @@ An Affected Employee is entitled to relocation allowance where permanent or temp
 
 **(ii)** provides Continuity of Service
 
-**(iii)** where the comparable role results in a loss of income, salary maintenance at subclause 20.6 will apply; and
+**(iii)** where the comparable role results in a loss of income, salary maintenance at [subclause 20.6](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements) will apply; and
 
 **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 

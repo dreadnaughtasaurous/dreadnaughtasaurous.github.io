@@ -10,7 +10,7 @@ topics: ['flexible-work', 'preliminary']
 
 **65.1** The Act entitles a specified Employee to request flexible working arrangements in specified circumstances.
 
-**65.2** For the purposes of this clause 65, a long term casual Employee means a casual Employee (as defined in [clause 25.4](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment)(b)) that has been employed by the Employer on a regular and systematic basis.
+**65.2** For the purposes of this [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements), a long term casual Employee means a casual Employee (as defined in [clause 25.4](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment)(b)) that has been employed by the Employer on a regular and systematic basis.
 
 **65.3** A specified Employee is a:
 
@@ -36,7 +36,7 @@ topics: ['flexible-work', 'preliminary']
 
 **(g)** provides care or support to a member of the Employee’s immediate family or household, who requires care or support because the member is experiencing family and domestic violence.
 
-**65.6** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at subclause 65.4.
+**65.6** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at [subclause 65.4](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements).
 
 **65.7** A request for a flexible work arrangement includes (but is not limited to) a request to work part-time upon return to work after taking leave for the birth or adoption of a child to assist the Employee to care for the child (which may, for example, include a reduction in existing part-time hours).
 
@@ -46,7 +46,7 @@ topics: ['flexible-work', 'preliminary']
 
 **65.10** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the NES. Note: The assertion of an inherent requirement does not, by itself, mean that this is a reasonable business ground to refuse a request for a flexible working arrangement.
 
-**65.11** Without limiting what are reasonable business grounds for the purposes of clause 65.10, reasonable business grounds include the following:
+**65.11** Without limiting what are reasonable business grounds for the purposes of [clause 65.10](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements), reasonable business grounds include the following:
 
 **(a)** that the new working arrangements requested by the Employee would be too costly for the Employer
 
@@ -66,7 +66,7 @@ topics: ['flexible-work', 'preliminary']
 
 **(c)** where there are no such changes available as contemplated by 65.12(b), state that there are no such changes; and
 
-**(d)** their right for the dispute to be resolved at the workplace level or by arbitration in accordance with clause 65.17 below.
+**(d)** their right for the dispute to be resolved at the workplace level or by arbitration in accordance with [clause 65.17](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) below.
 
 **65.13** Where a request for flexible work arrangements is made, the Employer must meet with the Employee to discuss:
 
@@ -76,7 +76,7 @@ topics: ['flexible-work', 'preliminary']
 
 **(c)** reasons for a refusal on reasonable business grounds.
 
-**65.14** At a meeting under clause 65.13, the Employer must genuinely try to reach agreement on a change in working arrangements that will reasonably accommodate the Employee's circumstances having regard to:
+**65.14** At a meeting under [clause 65.13](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements), the Employer must genuinely try to reach agreement on a change in working arrangements that will reasonably accommodate the Employee's circumstances having regard to:
 
 **(a)** the needs of the Employee arising from the circumstances
 
@@ -86,15 +86,15 @@ topics: ['flexible-work', 'preliminary']
 
 **(d)** any reasonable grounds for refusing the request.
 
-**65.15** An Employee or Employer may choose to be represented at a meeting under subclause 65.13 by a representative including a Union or employer organisation.
+**65.15** An Employee or Employer may choose to be represented at a meeting under [subclause 65.13](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) by a representative including a Union or employer organisation.
 
-**65.16** If the Employer and the Employee reached an agreement under clause 65.13 on a change in working arrangements that differs from that initially requested by the Employee, the Employer must provide the Employee with a written response to their request setting out the agreed change(s) in working arrangements.
+**65.16** If the Employer and the Employee reached an agreement under [clause 65.13](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) on a change in working arrangements that differs from that initially requested by the Employee, the Employer must provide the Employee with a written response to their request setting out the agreed change(s) in working arrangements.
 
 **65.17** The Dispute Resolution Procedure in this Agreement will apply to any grievance / dispute arising in relation to a request for flexible working arrangements. Without limiting the Dispute Resolution Procedure in the Agreement at first instance, the Employer and Employee will attempt to resolve the dispute at the workplace level through discussion before it is referred to the FWC.
 
-**65.18** For the avoidance of doubt, clause 65.17 applies to the Employee in the event the Employer refuses their request, or 21 days have passed since their making the request and the Employer has not provided them with a written response under this Agreement.
+**65.18** For the avoidance of doubt, [clause 65.17](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) applies to the Employee in the event the Employer refuses their request, or 21 days have passed since their making the request and the Employer has not provided them with a written response under this Agreement.
 
-**65.19** Other entitlements relevant to family and domestic violence can be found at clause 45.
+**65.19** Other entitlements relevant to family and domestic violence can be found at [clause 45](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave).
 
 Plain language terms: flex work, flexible hours, work from home, WFH.
 

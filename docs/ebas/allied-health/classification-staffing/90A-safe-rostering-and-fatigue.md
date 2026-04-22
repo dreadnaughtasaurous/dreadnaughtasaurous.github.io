@@ -26,8 +26,8 @@ described), Employees will ensure that the number of changes to the Employee’s
 
 **90A.3** Safety and Leave The Employer recognises the benefits of ensuring that Employees balance their professional and personal lives and are committed to ensuring this occurs. This includes that Employees receive annual leave as required by [clause 59](/ebas/allied-health/leave/59-annual-leave) (Annual leave). Specifically, [clause 59](/ebas/allied-health/leave/59-annual-leave) prescribes:
 
-**(a)** that an Employer must not unreasonably refuse requests for annual leave (see subclause 59.3(b)); and
+**(a)** that an Employer must not unreasonably refuse requests for annual leave (see [subclause 59.3(b)](/ebas/allied-health/leave/59-annual-leave)); and
 
-**(b)** a procedure for handling excessive annual leave accruals (see subclause 59.7).
+**(b)** a procedure for handling excessive annual leave accruals (see [subclause 59.7](/ebas/allied-health/leave/59-annual-leave)).
 
 

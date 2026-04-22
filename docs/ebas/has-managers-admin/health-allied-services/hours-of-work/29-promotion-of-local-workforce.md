@@ -12,7 +12,7 @@ topics: ['education', 'professional-development']
 
 **(a)** restricting (but not prohibiting) the use of subclass 457 (Temporary Work (Skilled) Visa) and subclass 417 (Working Holiday Visa) in classifications covered by this Agreement;
 
-**(b)** the measures detailed in subclause 33.2 (Workforce Skills, Capability and Mobility Committee.
+**(b)** the measures detailed in [subclause 33.2](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility) (Workforce Skills, Capability and Mobility Committee.
 
 PART G – EDUCATION AND PROFESSIONAL DEVELOPMENT
 

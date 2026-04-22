@@ -16,11 +16,11 @@ topics: ['hours', 'overtime', 'employment', 'preliminary']
 
 **(i)** transfer of business under [clause 11](/ebas/allied-health/preliminary/11-transfer-of-business);
 
-**(ii)** termination of employment under [clause 24](/ebas/allied-health/employment/24-termination-of-employment) (see subclause 24.2);
+**(ii)** termination of employment under [clause 24](/ebas/allied-health/employment/24-termination-of-employment) (see [subclause 24.2](/ebas/allied-health/employment/24-termination-of-employment));
 
 **(iii)** calculating a severance payment upon redundancy under [clause 25](/ebas/allied-health/employment/25-redundancy-and-related-entitlements);
 
-**(iv)** the rate of personal leave accrual at subclause 62.1 save that the Employer is not required to credit the Employee with leave for the period they were engaged as a casual;
+**(iv)** the rate of personal leave accrual at [subclause 62.1](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) save that the Employer is not required to credit the Employee with leave for the period they were engaged as a casual;
 
 **(v)** parental leave under [clause 70](/ebas/allied-health/leave/70-parental-leave);
 
@@ -36,7 +36,7 @@ topics: ['hours', 'overtime', 'employment', 'preliminary']
 
 **20.3** Minimum engagement The minimum period of engagement of a casual Employee is three (3) hours per ordinary shift.
 
-**20.4** Payments A casual Employee will be paid for all work, other than for overtime (see subclause 52.7 for casual overtime provisions), performed on a:
+**20.4** Payments A casual Employee will be paid for all work, other than for overtime (see [subclause 52.7](/ebas/allied-health/hours-of-work/52-overtime) for casual overtime provisions), performed on a:
 
 **(a)** weekday an amount equal to 1/38th of the weekly wage appropriate to the Employee's classification per hour plus 25%;
 
@@ -48,7 +48,7 @@ topics: ['hours', 'overtime', 'employment', 'preliminary']
 
 **20.6** The provisions of [clause 24](/ebas/allied-health/employment/24-termination-of-employment) (Termination of Employment), [clause 59](/ebas/allied-health/leave/59-annual-leave) (Annual Leave), and [clause 62](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) (Personal/Carer’s Leave) except in so far as it expressly applies to casual Employees, will not apply in the case of a casual Employee.
 
-**20.7** The list in subclause 20.4 is not intended to be exhaustive and relevant clauses should be referred to in order to determine any casual entitlement.
+**20.7** The list in [subclause 20.4](/ebas/allied-health/employment/20-casual-employment) is not intended to be exhaustive and relevant clauses should be referred to in order to determine any casual entitlement.
 
 Plain language terms: casual.
 

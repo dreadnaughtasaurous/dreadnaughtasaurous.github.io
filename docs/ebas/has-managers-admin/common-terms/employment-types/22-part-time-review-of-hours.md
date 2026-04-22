@@ -12,7 +12,7 @@ topics: ['employment', 'termination']
 
 PART C – TYPES OF EMPLOYMENT AND TERMINATION OF EMPLOYMENT
 
-**22.2** Where the Employer makes the request under subclause 22.1, at the time of making the request the Employer will also notify the Employee in writing of their obligations under this subclause.
+**22.2** Where the Employer makes the request under [subclause 22.1](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work), at the time of making the request the Employer will also notify the Employee in writing of their obligations under this subclause.
 
 **22.3** An Employee will not be considered to be regularly and systematically rostered if the shifts the Employee has been working are replacing an absent Employee (for example parental leave, long service leave, workers’ compensation or personal leave) or a temporary flexible work arrangement.
 

@@ -18,7 +18,7 @@ in place by the Employer and any related occupational health and safety requirem
 
 **55.2** Addressing concerns about Fitness for Work
 
-**(a)** In the event the Employee's manager forms a reasonable belief (as defined at subclause 55.2(b) below) that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that employees can safely undertake and sustain work.
+**(a)** In the event the Employee's manager forms a reasonable belief (as defined at [subclause 55.2(b)](/ebas/biomedical-engineers/leave/55-fitness-for-work) below) that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that employees can safely undertake and sustain work.
 
 **(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause permits an Employer to act contrary to the Health Records Act 2001 (Vic).
 
@@ -60,7 +60,7 @@ in place by the Employer and any related occupational health and safety requirem
 
 **55.5** Selecting an IME The Employer will ensure that the medical practitioner appointed to conduct an IME is appropriately qualified to assess the Employee’s fitness for duty.
 
-**55.6** Information to Employee before IME Before the Employee attends an IME under subclause 55.4 above, the Employee will be provided with a copy of:
+**55.6** Information to Employee before IME Before the Employee attends an IME under [subclause 55.4](/ebas/biomedical-engineers/leave/55-fitness-for-work) above, the Employee will be provided with a copy of:
 
 **(a)** the name of the proposed IME; and
 
@@ -72,13 +72,13 @@ in place by the Employer and any related occupational health and safety requirem
 
 **(b)** request to meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting.
 
-**55.8** Relationship to WIRC This clause 55 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+**55.8** Relationship to WIRC This [clause 55](/ebas/biomedical-engineers/leave/55-fitness-for-work) does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
 
-**55.9** Safe Work Environment is paramount Nothing in this clause 55 prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
+**55.9** Safe Work Environment is paramount Nothing in this [clause 55](/ebas/biomedical-engineers/leave/55-fitness-for-work) prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
 
 **55.10** Reasonable Adjustments
 
-**(a)** Where Employees have a Disability (whether permanent or temporary) the Employer is required to make Reasonable Adjustments to enable the Employee to continue to perform their duties, subject to subclause 55.10(b) below.
+**(a)** Where Employees have a Disability (whether permanent or temporary) the Employer is required to make Reasonable Adjustments to enable the Employee to continue to perform their duties, subject to [subclause 55.10(b)](/ebas/biomedical-engineers/leave/55-fitness-for-work) below.
 
 **(b)** An Employer is not required to make Reasonable Adjustments if the Employee could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 

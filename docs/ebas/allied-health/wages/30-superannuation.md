@@ -8,9 +8,9 @@ topics: ['wages', 'superannuation', 'preliminary']
 
 
 
-The subject of superannuation is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This clause 30 is ancillary to and supplements those provisions.
+The subject of superannuation is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This [clause 30](/ebas/allied-health/wages/30-superannuation) is ancillary to and supplements those provisions.
 
-**30.1** Definitions In this clause 30:
+**30.1** Definitions In this [clause 30](/ebas/allied-health/wages/30-superannuation):
 
 **(a)** Default Fund means the Aware Super (or any successor) while it provides a “MySuper product” as defined by the Act.
 
@@ -44,7 +44,7 @@ The subject of superannuation is dealt with extensively by federal legislation w
 
 **(ii)** any additional amounts consistent with the trust deed of the superannuation fund; and
 
-**(iii)** a period of paid parental leave until 6 July 2022 in accordance with subclause 30.5(b) of the 2020 Agreement, after which superannuation shall be paid on parental leave (paid and unpaid) in accordance with subclause 30.6.
+**(iii)** a period of paid parental leave until 6 July 2022 in accordance with [subclause 30.5(b)](/ebas/allied-health/wages/30-superannuation) of the 2020 Agreement, after which superannuation shall be paid on parental leave (paid and unpaid) in accordance with [subclause 30.6](/ebas/allied-health/wages/30-superannuation).
 
 **30.5** Employee Contributions Subject to the terms of the relevant trust deed of the superannuation fund, an Employee may make additional contributions to their chosen superannuation
 
@@ -58,7 +58,7 @@ fund and upon receiving written authorisation from the Employee, the Employer wi
 
 **(i)** the Employee will receive a pro rata payment for a period less than one (1) week; and
 
-**(ii)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under subclause 28.1, the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
+**(ii)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under [subclause 28.1](/ebas/allied-health/wages/28-wages-and-wage-increases), the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
 
 Plain language terms: super, SG.
 

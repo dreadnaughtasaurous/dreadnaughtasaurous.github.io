@@ -14,7 +14,7 @@ This clause does not apply to recall work performed under sub-[clause 91.3](/eba
 
 **93.2** Exception
 
-**(a)** An Employee who works so much overtime that the Employee would not have had at least 10 hours continuously off in accordance with clause 93.1 will be released after completion of the period of duty until the Employees has had 10 consecutive hours off duty. Such a release will be without loss of pay for rostered ordinary hours occurring during such an absence.
+**(a)** An Employee who works so much overtime that the Employee would not have had at least 10 hours continuously off in accordance with [clause 93.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall) will be released after completion of the period of duty until the Employees has had 10 consecutive hours off duty. Such a release will be without loss of pay for rostered ordinary hours occurring during such an absence.
 
 **(b)** If an Employee is required by the Employer to attend for, or to continue to work, without having had 10 consecutive hours off duty, the Employee will be paid at the rate of double time until released from duty for 10 consecutive hours off duty, without loss of pay for the rostered hours occurring during such absence.
 

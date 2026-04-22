@@ -8,7 +8,7 @@ topics: ['employment', 'preliminary']
 
 
 
-**24.1** The provisions of this clause 24 are to be read in conjunction with [clause 9](/ebas/doctors-in-training/preliminary/9-nature-of-relationship) (Nature of Relationships), the relevant definitions in [clause 3](/ebas/doctors-in-training/preliminary/3-definitions) (Parent Hospital, Rotation Hospital, Rotation) and the allowances in [clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances) (Rotation Allowances).
+**24.1** The provisions of this [clause 24](/ebas/doctors-in-training/doctor-employment/24-rotations-between-hospitals) are to be read in conjunction with [clause 9](/ebas/doctors-in-training/preliminary/9-nature-of-relationship) (Nature of Relationships), the relevant definitions in [clause 3](/ebas/doctors-in-training/preliminary/3-definitions) (Parent Hospital, Rotation Hospital, Rotation) and the allowances in [clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances) (Rotation Allowances).
 
 **24.2** A Parent Hospital may rotate a Doctor to work at another Hospital (the Rotation Hospital) as part of their structured training program or to meet service demands. For the duration of any such Rotation, the Doctor remains an Employee of the Parent Hospital.
 
@@ -40,7 +40,7 @@ For example: Final shift ceases at Hospital 1 on Saturday at 10:00pm; Whole Cale
 
 **24.6** The Parent Hospital must not rotate a Doctor to a Rotation Hospital that does not make available to Doctors a library and other usual study aids of a standard acceptable to the Post Graduate Medical Council of Victoria.
 
-**24.7** During the period of Rotation, the Rotation Hospital is responsible for the payment of wages and entitlements accruing to the Doctor under the Agreement. This is an administrative arrangement between Hospitals and does not affect the Doctor’s employment status under subclause 24.2 above.
+**24.7** During the period of Rotation, the Rotation Hospital is responsible for the payment of wages and entitlements accruing to the Doctor under the Agreement. This is an administrative arrangement between Hospitals and does not affect the Doctor’s employment status under [subclause 24.2](/ebas/doctors-in-training/doctor-employment/24-rotations-between-hospitals) above.
 
 **24.8** The Rotation Hospital and the Parent Hospital may agree either:
 
@@ -48,7 +48,7 @@ For example: Final shift ceases at Hospital 1 on Saturday at 10:00pm; Whole Cale
 
 **(b)** that the Rotation Hospital remits payment of all wages and entitlements in respect of the Doctor to the Parent Hospital based on timesheets and other information provided to the Parent Hospital by the Rotation Hospital.
 
-**24.9** Provided that where the arrangement at subclause 24.8(a) above is effected, service and the accrual of leave will continue unaffected with the Parent Hospital, subject to appropriate reductions for accrued entitlements utilised or the occasion of unpaid leave that would normally affect service.
+**24.9** Provided that where the arrangement at [subclause 24.8(a)](/ebas/doctors-in-training/doctor-employment/24-rotations-between-hospitals) above is effected, service and the accrual of leave will continue unaffected with the Parent Hospital, subject to appropriate reductions for accrued entitlements utilised or the occasion of unpaid leave that would normally affect service.
 
 Plain language terms: hospital rotation.
 

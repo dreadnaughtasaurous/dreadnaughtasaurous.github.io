@@ -40,7 +40,7 @@ To this end, the Agreement recognises that Employers and Employees must cooperat
 
 **(a)** The parties agree that the HWU will negotiate Designated Work Groups and conduct elections for HSRs in accordance with the provisions of the OHS Act.
 
-**(b)** To facilitate the operation of subclause 80.2(a), Employers will provide to the HWU on a biannual basis:
+**(b)** To facilitate the operation of [subclause 80.2(a)](/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety), Employers will provide to the HWU on a biannual basis:
 
 **(i)** a list of Designated Work Groups (as defined under the OHS Act as amended from time to time); and
 

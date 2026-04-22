@@ -26,7 +26,7 @@ topics: ['hours', 'employment', 'classifications']
 
 **(c)** starting and finishing times each day.
 
-**21.4** Any agreed variation to the regular pattern of work prescribed at subclause 21.3, including a variation as a result of an offer made pursuant to subclause 21.10(a), will be recorded in writing.
+**21.4** Any agreed variation to the regular pattern of work prescribed at [subclause 21.3](/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance), including a variation as a result of an offer made pursuant to [subclause 21.10(a)](/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance), will be recorded in writing.
 
 **21.5** Regular part-time Employees will be paid 1/38th of the weekly wage rate for their classification pursuant to [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or [Schedule 3B](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers). All leave entitlements will accrue on a pro-rata basis.
 
@@ -36,7 +36,7 @@ topics: ['hours', 'employment', 'classifications']
 
 **21.8** Any period of annual leave or personal leave will accrue according to the ordinary hours of work in accordance with the NES.
 
-**21.9** Notwithstanding the above, a part-time Employee who is employed on a regular basis for four hours or less per week will be paid according to clause 23 (Casual Employment).
+**21.9** Notwithstanding the above, a part-time Employee who is employed on a regular basis for four hours or less per week will be paid according to [clause 23](/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv) (Casual Employment).
 
 **21.10** Additional hours
 

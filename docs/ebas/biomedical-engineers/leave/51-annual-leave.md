@@ -24,13 +24,13 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 **(i)** An Employee who is rostered on-call for more than four (4) hours on 10 or more weekends per annum will be entitled to an additional 38 hours annual leave (pro rata for part-time Employees).
 
-**(ii)** This entitlement is in addition to the Weekend Worker entitlement provided by subclause 51.3(b), but both entitlements cannot be claimed for the same bodies of work.
+**(ii)** This entitlement is in addition to the Weekend Worker entitlement provided by [subclause 51.3(b)](/ebas/biomedical-engineers/leave/51-annual-leave), but both entitlements cannot be claimed for the same bodies of work.
 
 **(b)** Weekend Worker
 
 **(i)** An Employee who is a Weekend Worker who works for more than four ordinary hours on 10 or more weekends per year of continuous service is entitled to an additional 38 hours annual leave.
 
-**(ii)** Where an Employee who is a Weekend Worker does not meet the 10 weekend threshold in subclause 51.3(b)(i) above, they will accrue additional annual leave at the rate of one tenth of a week (3.8 hours) for each weekend worked, up to a maximum of one week (38 hours) in a year.
+**(ii)** Where an Employee who is a Weekend Worker does not meet the 10 weekend threshold in [subclause 51.3(b)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) above, they will accrue additional annual leave at the rate of one tenth of a week (3.8 hours) for each weekend worked, up to a maximum of one week (38 hours) in a year.
 
 **(iii)** The provisions of this clause have the same effect and give an Employee an entitlement to annual leave that is the same as the entitlement of the Employee under the NES relating to shiftworkers under section 87(1)(b)(ii) of the Act. For the purposes of the NES only, a shiftworker is an Employee who is regularly rostered to work Sundays and public holidays.
 
@@ -38,7 +38,7 @@ topics: ['leave', 'annual-leave', 'hours', 'employment']
 
 **(v)** A Weekend Worker whose employment is terminated at the end of a period of employment which is less than one year computed from the date of commencement of the employment, or the date upon which the Employee last became entitled to annual leave from the Employer, will be paid in addition to any other amounts due to the Employee, an amount equal to 1/48th of his or her ordinary pay in respect of that period of employment.
 
-**(vi)** This entitlement is additional to the On-Call 10 or more weekends entitlement provided by subclause 51.3(a), but both entitlements cannot be claimed for the same bodies of work.
+**(vi)** This entitlement is additional to the On-Call 10 or more weekends entitlement provided by [subclause 51.3(a)](/ebas/biomedical-engineers/leave/51-annual-leave), but both entitlements cannot be claimed for the same bodies of work.
 
 **51.4** Leave to be taken Except as provided for by [clause 52](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave) (Cashing Out of Annual Leave) payment shall not be made or accepted in lieu of annual leave.
 
@@ -66,7 +66,7 @@ weeks’ notice. In such situations, an Employer will make genuine attempts to r
 
 **(ii)** In determining applications for high-demand periods, the Employer will consider all the circumstances including but not limited to: **(A)** the Employer's operational needs; **(B)** the Employee's family responsibilities; and **(C)** whether previous leave applications for the same high demand period were or were not successful.
 
-Example: A department generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are ‘high demand periods’ for that department within the meaning of this subclause 51.5(d) and the Employer must publish the information specified above at subclause 51.5(d)(i) and, when determining the applications, apply the considerations at subclause 51.5(d)(ii).
+Example: A department generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are ‘high demand periods’ for that department within the meaning of this [subclause 51.5(d)](/ebas/biomedical-engineers/leave/51-annual-leave) and the Employer must publish the information specified above at [subclause 51.5(d)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) and, when determining the applications, apply the considerations at [subclause 51.5(d)(ii)](/ebas/biomedical-engineers/leave/51-annual-leave).
 
 **51.6** Leave in advance
 
@@ -92,39 +92,39 @@ Example: A department generally receives more applications for annual leave over
 
 **(b)** Shiftworkers
 
-**(i)** A shiftworker will be paid the higher of: **(A)** the 17.5% allowance prescribed in subclause 51.8(a); or **(B)** the weekend and shift penalties the Employee would have received had they not been on leave during the relevant period.
+**(i)** A shiftworker will be paid the higher of: **(A)** the 17.5% allowance prescribed in [subclause 51.8(a)](/ebas/biomedical-engineers/leave/51-annual-leave); or **(B)** the weekend and shift penalties the Employee would have received had they not been on leave during the relevant period.
 
 **51.9** Leave paid on termination If, when the employment of an Employee ends, the Employee has a period of untaken accrued annual leave, the Employer must pay the Employee the amount that would have been payable to the Employee had they taken the period of accrued annual leave, including any annual leave loading.
 
 **51.10** Excess Annual Leave
 
-**(a)** An Employee has an excessive leave accrual if the Employee has accrued more than 8 weeks’ paid annual leave (or 10 weeks’ paid annual leave for a Weekend Worker, as defined by subclause 51.2).
+**(a)** An Employee has an excessive leave accrual if the Employee has accrued more than 8 weeks’ paid annual leave (or 10 weeks’ paid annual leave for a Weekend Worker, as defined by [subclause 51.2](/ebas/biomedical-engineers/leave/51-annual-leave)).
 
 **(b)** If an Employee has an excessive leave accrual, the Employer or the Employee may seek to confer with the other and genuinely try to reach agreement on how to reduce or eliminate the excessive leave accrual.
 
 **(c)** Direction by Employer that leave be taken
 
-**(i)** If an Employer has genuinely tried to reach agreement with an Employee under subclause 51.10(b) but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
+**(i)** If an Employer has genuinely tried to reach agreement with an Employee under [subclause 51.10(b)](/ebas/biomedical-engineers/leave/51-annual-leave) but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
 
-**(ii)** However, a direction by the Employer under subclause 51.10(c)(i): **(A)** is of no effect if it would result at any time in the Employee’s remaining accrued entitlement to paid annual leave being less than 6 weeks when any other paid annual leave arrangements are taken into account; and **(B)** must not require the Employee to take any period of paid annual leave of less than one week; and **(C)** must not require the Employee to take a period of paid annual leave beginning less than 8 weeks, or more than 12 months, after the direction is given; and **(D)** must not be inconsistent with any leave arrangement agreed by the Employer and Employee.
+**(ii)** However, a direction by the Employer under [subclause 51.10(c)(i)](/ebas/biomedical-engineers/leave/51-annual-leave): **(A)** is of no effect if it would result at any time in the Employee’s remaining accrued entitlement to paid annual leave being less than 6 weeks when any other paid annual leave arrangements are taken into account; and **(B)** must not require the Employee to take any period of paid annual leave of less than one week; and **(C)** must not require the Employee to take a period of paid annual leave beginning less than 8 weeks, or more than 12 months, after the direction is given; and **(D)** must not be inconsistent with any leave arrangement agreed by the Employer and Employee.
 
-**(iii)** The Employee must take paid annual leave in accordance with a direction under subclause 51.10(c)(i) that is in effect.
+**(iii)** The Employee must take paid annual leave in accordance with a direction under [subclause 51.10(c)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) that is in effect.
 
-**(iv)** An Employee to whom a direction has been given under clause 51.10(c)(i) may request to take a period of paid annual leave as if the direction had not been given. NOTE: the Employer must not unreasonably refuse to agree to a request by the Employee to take paid annual leave.
+**(iv)** An Employee to whom a direction has been given under [clause 51.10(c)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) may request to take a period of paid annual leave as if the direction had not been given. NOTE: the Employer must not unreasonably refuse to agree to a request by the Employee to take paid annual leave.
 
 **(d)** Request by Employee for leave
 
-**(i)** If an Employee has genuinely tried to reach agreement with an Employer under subclause 51.10(b) but agreement is not reached (including because
+**(i)** If an Employee has genuinely tried to reach agreement with an Employer under [subclause 51.10(b)](/ebas/biomedical-engineers/leave/51-annual-leave) but agreement is not reached (including because
 
 the Employer refuses to confer), the Employee may give a written notice to the Employer requesting to take one or more periods of paid annual leave.
 
-**(ii)** However, an Employee may only give a notice to the Employer under subclause 51.10(d)(i) if: **(A)** the Employee has had an excessive leave accrual for more than 6 months at the time of giving the notice; and **(B)** the Employee has not been given a direction under subclause 51.10(c)(i) that, when any other paid annual leave arrangements are taken into account, would eliminate the Employee’s excessive leave accrual.
+**(ii)** However, an Employee may only give a notice to the Employer under [subclause 51.10(d)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) if: **(A)** the Employee has had an excessive leave accrual for more than 6 months at the time of giving the notice; and **(B)** the Employee has not been given a direction under [subclause 51.10(c)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) that, when any other paid annual leave arrangements are taken into account, would eliminate the Employee’s excessive leave accrual.
 
-**(iii)** A notice given by an Employee under subclause 51.10(d)(i) must not: **(A)** if granted, result in the Employee’s remaining accrued entitlement to paid annual leave being at any time less than 6 weeks when any other paid annual leave arrangements are taken into account; or **(B)** provide for the Employee to take any period of paid annual leave of less than one week; or **(C)** provide for the Employee to take a period of paid annual leave beginning less than 8 weeks, or more than 12 months, after the notice is given; or **(D)** be inconsistent with any leave arrangement agreed by the Employer and Employee.
+**(iii)** A notice given by an Employee under [subclause 51.10(d)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) must not: **(A)** if granted, result in the Employee’s remaining accrued entitlement to paid annual leave being at any time less than 6 weeks when any other paid annual leave arrangements are taken into account; or **(B)** provide for the Employee to take any period of paid annual leave of less than one week; or **(C)** provide for the Employee to take a period of paid annual leave beginning less than 8 weeks, or more than 12 months, after the notice is given; or **(D)** be inconsistent with any leave arrangement agreed by the Employer and Employee.
 
-**(iv)** An Employee is not entitled to request by a notice under subclause 51.10(d)(i) more than 4 weeks’ paid annual leave (or 5 weeks’ paid annual leave for a Weekend Worker, as defined by subclause 51.2) in any period of 12 months.
+**(iv)** An Employee is not entitled to request by a notice under [subclause 51.10(d)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) more than 4 weeks’ paid annual leave (or 5 weeks’ paid annual leave for a Weekend Worker, as defined by [subclause 51.2](/ebas/biomedical-engineers/leave/51-annual-leave)) in any period of 12 months.
 
-**(v)** The Employer must grant paid annual leave requested by a notice under subclause 51.10(d)(i).
+**(v)** The Employer must grant paid annual leave requested by a notice under [subclause 51.10(d)(i)](/ebas/biomedical-engineers/leave/51-annual-leave).
 
 **51.11** Employee not taken to be on paid annual leave at certain times
 
@@ -136,7 +136,7 @@ the Employer refuses to confer), the Employee may give a written notice to the E
 
 **(ii)** If the Employer so requires, the Employee must give the Employer evidence that would satisfy a reasonable person that the other leave taken is for a reason specified in [clause 54.1](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave) (Personal/Carers Leave) or [clause 57](/ebas/biomedical-engineers/leave/57-compassionate-leave) (Compassionate Leave) of this Agreement, as the case may be. An Employee is not entitled to take leave under [clause 54.1](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave) or [clause 57](/ebas/biomedical-engineers/leave/57-compassionate-leave) unless they comply with any such requirement. Where an Employee complies with these provisions the number of days specified in the required evidence shall be deducted from any personal/carer’s leave entitlement standing to the Employee’s credit, and shall be re-credited to their annual leave entitlement.
 
-**(iii)** The amount of annual leave loading received for any period of annual leave converted to any other form of leave in accordance with clause 51.11(b)(i) shall be deducted from any future entitlement to annual leave loading, or if the Employee resigns, from termination pay.
+**(iii)** The amount of annual leave loading received for any period of annual leave converted to any other form of leave in accordance with [clause 51.11(b)(i)](/ebas/biomedical-engineers/leave/51-annual-leave) shall be deducted from any future entitlement to annual leave loading, or if the Employee resigns, from termination pay.
 
 Plain language terms: holidays, vacation.
 

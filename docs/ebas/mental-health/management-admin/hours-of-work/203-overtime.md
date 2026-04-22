@@ -26,7 +26,7 @@ topics: ['hours', 'overtime', 'wages', 'preliminary']
 
 **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee.
 
-**(b)** Where overtime is a result of a double shift, the provisions at subclause 203.5\[224.5\] below (Additional Provisions for Double Shifts) also apply.
+**(b)** Where overtime is a result of a double shift, the provisions at [subclause 203.5](/ebas/mental-health/management-admin/hours-of-work/203-overtime)\[224.5\] below (Additional Provisions for Double Shifts) also apply.
 
 **203.5** Additional Provisions for Double Shifts If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
 

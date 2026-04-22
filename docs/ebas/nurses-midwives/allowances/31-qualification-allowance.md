@@ -20,9 +20,9 @@ Note: See [clause 4.2](/ebas/allied-health/preliminary/4-definitions) (Definitio
 
 **(iii)** a Certificate IV in Training and Assessment.
 
-**(b)** In the case of the entitlement under subclause 31.1(a)(ii), the qualification allowance will be payable after one year of experience in an area where the qualification is relevant.
+**(b)** In the case of the entitlement under [subclause 31.1(a)(ii)](/ebas/nurses-midwives/allowances/31-qualification-allowance), the qualification allowance will be payable after one year of experience in an area where the qualification is relevant.
 
-**(c)** In the case of the entitlement under subclause 31.1(a)(iii), the qualification allowance will be payable only where the Employee is required by their Employer to hold a Certificate IV in Training and Assessment (or equivalent).
+**(c)** In the case of the entitlement under [subclause 31.1(a)(iii)](/ebas/nurses-midwives/allowances/31-qualification-allowance), the qualification allowance will be payable only where the Employee is required by their Employer to hold a Certificate IV in Training and Assessment (or equivalent).
 
 **31.2** One Qualification Allowance Only
 
@@ -32,7 +32,7 @@ An Employee holding more than one qualification is entitled to one qualification
 
 **(a)** An Employer must maintain a work system that requests the submission of evidence and records the qualification/s held by the Employee who commences after this Agreement comes into operation.
 
-**(b)** Where an Employee who commences after this Agreement comes into operation holds a relevant qualification as described at clause 31.1, the Employee will be entitled to payment from the commencement of Employment except where the Employee did not advise the Employer of the relevant qualification in accordance with the Employer’s work system including the provision of evidence.
+**(b)** Where an Employee who commences after this Agreement comes into operation holds a relevant qualification as described at [clause 31.1](/ebas/nurses-midwives/allowances/31-qualification-allowance), the Employee will be entitled to payment from the commencement of Employment except where the Employee did not advise the Employer of the relevant qualification in accordance with the Employer’s work system including the provision of evidence.
 
 **(c)** The exception at (b) does not apply where:
 
@@ -44,9 +44,9 @@ An Employee holding more than one qualification is entitled to one qualification
 
 **(a)** An Employee claiming an entitlement to a qualification allowance must provide to the Employer evidence of that Employee holding the qualification for which the entitlement is claimed.
 
-**(b)** An Employee claiming an entitlement to a qualification allowance will receive a substantive written response from the Employer (confirming its applicability or otherwise) within 28 days of the Employee complying with subclause 31.4(a).
+**(b)** An Employee claiming an entitlement to a qualification allowance will receive a substantive written response from the Employer (confirming its applicability or otherwise) within 28 days of the Employee complying with [subclause 31.4(a)](/ebas/nurses-midwives/allowances/31-qualification-allowance).
 
-**(c)** An Employee will meet the evidence requirements described in subclause 31.4(a) when they have provided the Employer with evidence from the education/training provider that would satisfy a reasonable person that the Employee has obtained the qualification for which the allowance is claimed, for example:
+**(c)** An Employee will meet the evidence requirements described in [subclause 31.4(a)](/ebas/nurses-midwives/allowances/31-qualification-allowance) when they have provided the Employer with evidence from the education/training provider that would satisfy a reasonable person that the Employee has obtained the qualification for which the allowance is claimed, for example:
 
 **(i)** the award of the qualification;
 

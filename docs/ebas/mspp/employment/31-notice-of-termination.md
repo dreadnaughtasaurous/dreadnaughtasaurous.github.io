@@ -38,7 +38,7 @@ topics: ['employment', 'termination', 'preliminary']
 
 3453-8976-3100v1PART 4: EMPLOYMENT RELATIONSHIP AND RELATED ARRANGEMENTS
 
-**b.** If an Employee fails to give the notice specified in clause 31.2a the Employer has the right to withhold monies due to the Employee to a maximum amount equal to the amount the Employee would have received under clause 31.1d.
+**b.** If an Employee fails to give the notice specified in [clause 31.2](/ebas/mspp/employment/31-notice-of-termination)a the Employer has the right to withhold monies due to the Employee to a maximum amount equal to the amount the Employee would have received under [clause 31.1](/ebas/mspp/employment/31-notice-of-termination)d.
 
 **31.3** Job Search Entitlement Where an Employer has given notice of termination to an Employee, an Employee shall be allowed up to one day’s time off without loss of pay for the purpose of seeking other employment. The time off shall be taken at times that are convenient to the Employee after consultation with the Employer.
 

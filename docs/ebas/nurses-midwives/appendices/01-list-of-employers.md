@@ -13,7 +13,7 @@ Formatting note
 The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and classification grids. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
 
 
-\`\`\`text 105. Interaction with the Safe Patient Care Act 105.1 The provisions in clauses 105.3 to 105.6 (inclusive) below will commence operation if either of the following conditions are met:
+\`\`\`text 105. Interaction with the Safe Patient Care Act 105.1 The provisions in [clauses 105.3](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act) to 105.6 (inclusive) below will commence operation if either of the following conditions are met:
 
            (a)         the Safe Patient Care Act is repealed or otherwise ceases to operate as a law of
                        the State of Victoria; or
@@ -92,7 +92,7 @@ Appendix 1 – List of Employers
                        105.1 or 105.2 will be subject to the Dispute Resolution Procedure in this
                        Agreement or otherwise be subject to review.
 
-105.3 If either of the conditions in subclauses 105.1(a) or (b) are met:
+105.3 If either of the conditions in [subclauses 105.1(a)](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act) or (b) are met:
 
            (a)         sections 3, 4 and 5 of Part 1, Part 2 and Schedules 1, 2 and 3 of the Safe
                        Patient Care Act and any associated regulations as in force immediately prior to:
@@ -131,11 +131,11 @@ Appendix 1 – List of Employers 221
 
 Appendix 1 – List of Employers
 
-105.4 For the purposes of this clause 105, 'Safe Patient Care Act as incorporated' means those parts of the Safe Patient Care Act and associated regulations incorporated pursuant to clause 105.3.
+105.4 For the purposes of this [clause 105](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act), 'Safe Patient Care Act as incorporated' means those parts of the Safe Patient Care Act and associated regulations incorporated pursuant to [clause 105.3](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act).
 
-105.5 The terms of the Safe Patient Care Act as incorporated into this Agreement pursuant to clause 105.3, will operate in conjunction with the terms of the Agreement, provided that where there is an inconsistency between the Safe Patient Care Act as incorporated and other provisions of this Agreement, the terms of the Safe Patient Care Act as incorporated, will prevail.
+105.5 The terms of the Safe Patient Care Act as incorporated into this Agreement pursuant to [clause 105.3](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act), will operate in conjunction with the terms of the Agreement, provided that where there is an inconsistency between the Safe Patient Care Act as incorporated and other provisions of this Agreement, the terms of the Safe Patient Care Act as incorporated, will prevail.
 
-105.6 Any dispute as to how any provision of the Safe Patient Care Act as incorporated, operates or operates in conjunction with the Agreement, may be progressed through clause 13 (Dispute Resolution Procedure) of this Agreement. In exercising its powers in relation to such a dispute under clause 13, the Commission:
+105.6 Any dispute as to how any provision of the Safe Patient Care Act as incorporated, operates or operates in conjunction with the Agreement, may be progressed through [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) (Dispute Resolution Procedure) of this Agreement. In exercising its powers in relation to such a dispute under [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure), the Commission:
 
            (a)          must take into account the objects of the Safe Patient Care Act as incorporated
                         pursuant to clause 105.3;

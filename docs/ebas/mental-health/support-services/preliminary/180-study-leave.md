@@ -28,7 +28,7 @@ topics: ['leave', 'study-leave', 'preliminary', 'education']
 
 **180.8** In all circumstances, the leave will be made available to the Employee(s) in the year in which application is made.
 
-**180.9** Any dispute arising under this clause 180 shall be resolved in accordance with the Dispute Settling Procedures.
+**180.9** Any dispute arising under this [clause 180](/ebas/mental-health/support-services/preliminary/180-study-leave) shall be resolved in accordance with the Dispute Settling Procedures.
 
 **180.10** Paid study leave pursuant to this clause does not accumulate from year to year.
 

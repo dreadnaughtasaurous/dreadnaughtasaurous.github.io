@@ -24,7 +24,7 @@ topics: ['discipline', 'union-matters', 'preliminary']
 
 **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 
-**(d)** The Employer will notify the Employee in accordance with subclause 18.3(b) as soon as practicable following the Employer becoming aware of the alleged concerns at subclause 18.1(a).
+**(d)** The Employer will notify the Employee in accordance with [subclause 18.3(b)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 18.1(a)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance).
 
 **(e)** Exception – Employees who have not completed a minimum period of employment with their Employer Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at within the Act unless amended) and the Employer is considering the termination of the Employee's employment, the Employer will:
 
@@ -36,7 +36,7 @@ topics: ['discipline', 'union-matters', 'preliminary']
 
 **(iv)** meet with the Employee (and, where relevant, their chosen representative); and
 
-**(v)** consider any explanation by the Employee including any matters raised in mitigation before making a decision to terminate the employment. The terms of clause 18.3 to 18.5 inclusive do not apply to Employees within the scope of the exception in this clause 18.1(e).
+**(v)** consider any explanation by the Employee including any matters raised in mitigation before making a decision to terminate the employment. The terms of [clause 18.3](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) to 18.5 inclusive do not apply to Employees within the scope of the exception in this [clause 18.1(e)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance).
 
 **18.2** Definitions
 
@@ -62,7 +62,7 @@ PART B – CONSULTATION, DISPUTE RESOLUTION AND DISCIPLNE
 
 **(v)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the employee's contract of employment.
 
-**(e)** Subclauses 18.2(d)(iii)-(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
+**(e)** [Subclauses 18.2(d)(iii)-(d)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
 
 **18.3** Investigative procedure
 
@@ -82,9 +82,9 @@ PART B – CONSULTATION, DISPUTE RESOLUTION AND DISCIPLNE
 
 **(vi)** take reasonable steps to investigate the Employee’s response.
 
-**(c)** Where the Employer has complied with subclause 18.3(b)(i)-(b)(iv) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
+**(c)** Where the Employer has complied with [subclause 18.3(b)(i)-(b)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance)(iv) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
 
-**(d)** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under clause 18.4(c) including matters in mitigation if a disciplinary procedure (see clause 18.4) is proposed.
+**(d)** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under [clause 18.4(c)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) including matters in mitigation if a disciplinary procedure (see [clause 18.4](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance)) is proposed.
 
 **18.4** Procedure to address poor Performance or Misconduct
 
@@ -96,7 +96,7 @@ PART B – CONSULTATION, DISPUTE RESOLUTION AND DISCIPLNE
 
 **(i)** notify the Employee in writing of the outcome of the investigation process, including the basis of any conclusion; and
 
-**(ii)** provide the Employee with a reasonable opportunity to provide information about the matters in clause 18.4(c).
+**(ii)** provide the Employee with a reasonable opportunity to provide information about the matters in [clause 18.4(c)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance).
 
 **(c)** In considering whether to take disciplinary action, the Employer will consider:
 
@@ -116,35 +116,35 @@ PART B – CONSULTATION, DISPUTE RESOLUTION AND DISCIPLNE
 
 PART B – CONSULTATION, DISPUTE RESOLUTION AND DISCIPLNE
 
-**(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in subclause 18.5(a)(i) above.
+**(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in [subclause 18.5(a)(i)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) above.
 
 **(b)** The Employer’s decision and a summary of its reasons will be notified to the Employee in writing.
 
 **(c)** If after any warning or counselling, a period of 12 months elapses (as relevant) without the Employee repeating a course of Conduct for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning.
 
-**18.6** Disputes A dispute over the clause (including subclause 18.7) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
+**18.6** Disputes A dispute over the clause (including [subclause 18.7](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
 **18.7** Performance Management
 
-**(a)** Nothing in this clause 18 will prevent the Employer from undertaking performance management to support Employees.
+**(a)** Nothing in this [clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) will prevent the Employer from undertaking performance management to support Employees.
 
-**(b)** In this clause 18, performance management includes reasonable actions to address performance by identifying performance deficits, the Employer's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Employee may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
+**(b)** In this [clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance), performance management includes reasonable actions to address performance by identifying performance deficits, the Employer's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Employee may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
 
-**(c)** In this clause 18, performance management does not include sanctions in addition to those set out at clause 18.5 above.
+**(c)** In this [clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance), performance management does not include sanctions in addition to those set out at [clause 18.5](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) above.
 
 **18.8** Equal Opportunity when managing conduct and performance of people with disabilities
 
 **(a)** Where an Employee has a Disability, the Employer is required to:
 
-**(i)** make reasonable adjustments to enable the employee to participate in processes to manage conduct and performance in accordance with this Clause 18; and
+**(i)** make reasonable adjustments to enable the employee to participate in processes to manage conduct and performance in accordance with this [Clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance); and
 
-**(ii)** consider the Employer’s obligations under the Equal Opportunity Act 2010 in making a determination under this clause 18.
+**(ii)** consider the Employer’s obligations under the Equal Opportunity Act 2010 in making a determination under this [clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance).
 
 **(b)** An Employer is not required to make reasonable adjustments if the Employee could not or cannot adequately participate in the
 
 PART B – CONSULTATION, DISPUTE RESOLUTION AND DISCIPLNE
 
-processes to manage conduct and performance in accordance with this Clause 18 even after the adjustments are made.
+processes to manage conduct and performance in accordance with this [Clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) even after the adjustments are made.
 
 **(c)** Disability has the same meaning as section 4 of the Equal Opportunity Act 2010.
 

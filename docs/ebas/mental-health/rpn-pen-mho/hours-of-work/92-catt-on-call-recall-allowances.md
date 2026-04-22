@@ -48,6 +48,6 @@ topics: ['leave', 'public-holidays', 'allowances']
 
 **92.4** Savings Provision
 
-**(a)** Despite clause 92.1, existing arrangements for periods of on-call for CATT type duties below 12 hours that existed prior to 29 September 2001 may continue.
+**(a)** Despite [clause 92.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances), existing arrangements for periods of on-call for CATT type duties below 12 hours that existed prior to 29 September 2001 may continue.
 
 

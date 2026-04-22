@@ -14,8 +14,8 @@ topics: ['hours', 'rosters', 'employment']
 
 **(a)** Either the Employer or the Employee may request that the ADO not be taken in the four week roster cycle, and the other party must not unreasonably refuse to agree to the request.
 
-**(b)** Where an ADO is deferred in accordance with subclause 41.2(a) no more than 2 ADOs can be deferred at any one time unless otherwise agreed between the Employee and Employer.
+**(b)** Where an ADO is deferred in accordance with [subclause 41.2(a)](/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off) no more than 2 ADOs can be deferred at any one time unless otherwise agreed between the Employee and Employer.
 
-**(c)** Upon termination of employment, any untaken ADOs must be taken within the notice period prescribed by subclause 23.1. If this is not practicable, the Employee will be paid the untaken ADOs at the Employee’s ordinary time rate of pay.
+**(c)** Upon termination of employment, any untaken ADOs must be taken within the notice period prescribed by [subclause 23.1](/ebas/biomedical-engineers/employment/23-termination-of-employment). If this is not practicable, the Employee will be paid the untaken ADOs at the Employee’s ordinary time rate of pay.
 
 

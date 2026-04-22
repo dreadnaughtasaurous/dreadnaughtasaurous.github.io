@@ -26,9 +26,9 @@ topics: ['hours', 'rosters']
 
 **46.5** Nothing in this clause prevents an Employer from operating an electronic supplementary roster that:
 
-**(a)** meets the objectives of clause 46.2; and
+**(a)** meets the objectives of [clause 46.2](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts); and
 
-**(b)** meets the objectives of clause 46.2 in part and by agreement with the Central Implementation Committee at [clause 80.11](/ebas/nurses-midwives/union-matters/80-union-matters) save that if the Central Implementation Committee is unable to reach agreement regarding the proposed electronic roster, the matter will be referred to a mediator for resolution.
+**(b)** meets the objectives of [clause 46.2](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts) in part and by agreement with the Central Implementation Committee at [clause 80.11](/ebas/nurses-midwives/union-matters/80-union-matters) save that if the Central Implementation Committee is unable to reach agreement regarding the proposed electronic roster, the matter will be referred to a mediator for resolution.
 
 **46.6** A contract of employment that requires an Employee be available for extra shifts does not override this provision.
 

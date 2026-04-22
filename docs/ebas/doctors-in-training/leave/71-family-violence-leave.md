@@ -8,7 +8,7 @@ topics: ['leave', 'family-violence-leave', 'preliminary']
 
 
 
-NOTE: Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in subclause 61.2.
+NOTE: Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [subclause 61.2](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave).
 
 **71.1** General Principle
 
@@ -34,7 +34,7 @@ For the purposes of this clause, family violence is as defined by the Family Vio
 
 **(vi)** in any other way controls or dominates the family member and causes that family member to feel fear for the safety or wellbeing of that family member or another person; or
 
-**(b)** behaviour by a person that causes a child to hear or witness, or otherwise be exposed to the effects of, behaviour referred to in subclause 71.2(a) above.
+**(b)** behaviour by a person that causes a child to hear or witness, or otherwise be exposed to the effects of, behaviour referred to in [subclause 71.2(a)](/ebas/doctors-in-training/leave/71-family-violence-leave) above.
 
 **71.3** Eligibility
 
@@ -54,7 +54,7 @@ For the purposes of this clause, family violence is as defined by the Family Vio
 
 **(e)** A Doctor experiencing family violence may raise the issue with their immediate supervisor, Family Violence contacts, Ambassador or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Doctor chooses not to see the Human Resources or Family Violence contact.
 
-**(f)** Where requested by a Doctor, the Human Resources contact will liaise with the Doctor’s manager on the Doctor’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with subclause 71.5 and subclause 71.6.
+**(f)** Where requested by a Doctor, the Human Resources contact will liaise with the Doctor’s manager on the Doctor’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with [subclause 71.5](/ebas/doctors-in-training/leave/71-family-violence-leave) and [subclause 71.6](/ebas/doctors-in-training/leave/71-family-violence-leave).
 
 **(g)** The Health Service will develop guidelines to supplement this clause and which details the appropriate action to be taken in the event that a Doctor reports family violence.
 
@@ -62,7 +62,7 @@ For the purposes of this clause, family violence is as defined by the Family Vio
 
 **(a)** A Doctor experiencing family violence will have access to 20 days per year of paid special leave (pro-rata for part time Doctors) following an event of family violence and for related purposes such as counselling appointments, medical appointments, legal proceedings or appointments with a legal practitioner and other activities related to, and as a consequence of, family violence (this leave is not cumulative but if the leave is exhausted consideration will be given to providing additional leave). This leave will be in addition to existing leave entitlements and may be taken as consecutive or single days or as a fraction of a day and can be taken without prior approval.
 
-**(b)** A Doctor who supports a person experiencing family violence may utilise their personal/carer's leave entitlement to accompany them to court, to hospital, or to care for children. The Health Service may require evidence consistent with subclause 71.4(a) from a Doctor seeking to utilise their personal/carer’s leave entitlement.
+**(b)** A Doctor who supports a person experiencing family violence may utilise their personal/carer's leave entitlement to accompany them to court, to hospital, or to care for children. The Health Service may require evidence consistent with [subclause 71.4(a)](/ebas/doctors-in-training/leave/71-family-violence-leave) from a Doctor seeking to utilise their personal/carer’s leave entitlement.
 
 **71.6** Individual Support
 

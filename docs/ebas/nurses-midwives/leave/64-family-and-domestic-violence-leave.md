@@ -52,7 +52,7 @@ Leave for family and domestic violence purposes is available to all Employees, i
 
 **(f)** An Employee experiencing family and domestic violence may raise the issue with their immediate supervisor, Family Violence contacts, Union delegate or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Employee chooses not to see the Human Resources or Family Violence contact.
 
-**(g)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf and will make a recommendation on the most appropriate form of support to provide in accordance with clause 64.5 and clause 64.6 below.
+**(g)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf and will make a recommendation on the most appropriate form of support to provide in accordance with [clause 64.5](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave) and [clause 64.6](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave) below.
 
 **(h)** The Employer will develop guidelines to supplement this clause and which details the appropriate action to be taken in the event that an Employee reports family and domestic violence.
 
@@ -68,7 +68,7 @@ Leave for family and domestic violence purposes is available to all Employees, i
 
 **64.6** Leave for Casual Employees (applicable from 24 June 2024)
 
-**(a)** Casual Employees are entitled to up to 10 days’ paid family and domestic violence leave (non-cumulative) per calendar year in accordance with clause 64. Paid family and domestic violence leave is available in full at the start of each 12-month period of the Employee’s employment, in line with an Employee's anniversary date. In addition to up to 10 days’ paid family and domestic violence leave, casual employees are entitled to up to 10 days’ unpaid family and domestic violence leave per calendar year.
+**(a)** Casual Employees are entitled to up to 10 days’ paid family and domestic violence leave (non-cumulative) per calendar year in accordance with [clause 64](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave). Paid family and domestic violence leave is available in full at the start of each 12-month period of the Employee’s employment, in line with an Employee's anniversary date. In addition to up to 10 days’ paid family and domestic violence leave, casual employees are entitled to up to 10 days’ unpaid family and domestic violence leave per calendar year.
 
 **(b)** The Employer may use its discretion to grant further family and domestic violence leave to a casual Employee experiencing family and domestic violence on a case-by-case basis.
 

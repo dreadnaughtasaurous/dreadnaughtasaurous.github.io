@@ -24,7 +24,7 @@ topics: ['leave']
 
 3453-8976-3100v1PART 8: LEAVE OF ABSENCE AND PUBLIC HOLIDAYS
 
-**b.** The Gender Transition Leave entitlements outlined in clause 85.2a are available to be taken by the Employee within the first 52 weeks after they commence living as a member of another gender.
+**b.** The Gender Transition Leave entitlements outlined in [clause 85.2](/ebas/mspp/leave/85-gender-transition-leave)a are available to be taken by the Employee within the first 52 weeks after they commence living as a member of another gender.
 
 **c.** Essential gender affirmation procedures may include:
 

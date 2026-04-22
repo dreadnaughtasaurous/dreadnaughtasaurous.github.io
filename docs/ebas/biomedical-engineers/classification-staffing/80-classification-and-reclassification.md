@@ -24,9 +24,9 @@ topics: ['preliminary']
 
 **(a)** Where an Employee believes that the work performed and required by their position is better described by another classification with a higher rate of pay, the Employee may seek reclassification by notifying the Employer in writing, addressing why they believe another classification better describes the work performed and required by their position, having regard to both the current and proposed classification. The Employee’s Manager may also make the reclassification request.
 
-**(b)** The Employer will provide a written response to the requested reclassification within four (4) weeks. Where the Employer, in accordance with subclause 80.1, does not believe the work performed and required by the Employee’s position is better described by another classification, the Employer will provide the reasons for this, having regard to both the current and proposed classification.
+**(b)** The Employer will provide a written response to the requested reclassification within four (4) weeks. Where the Employer, in accordance with [subclause 80.1](/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification), does not believe the work performed and required by the Employee’s position is better described by another classification, the Employer will provide the reasons for this, having regard to both the current and proposed classification.
 
-**(c)** Where the Employer determines, in accordance with subclauses 80.4(a) and 80.4(b), that another classification better describes the work performed and required by the Employee’s position, the reclassification will take effect from the earlier of:
+**(c)** Where the Employer determines, in accordance with [subclauses 80.4(a)](/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification) and 80.4(b), that another classification better describes the work performed and required by the Employee’s position, the reclassification will take effect from the earlier of:
 
 **(i)** where it can reasonably be determined, the date on which the Employee’s work was better described by another classification; or
 
@@ -36,6 +36,6 @@ topics: ['preliminary']
 
 **(e)** Nothing in this clause prevents an Employer from clarifying the requirements of an Employee’s role where an Employer becomes aware an Employee is performing work that is not required by their position.
 
-**(f)** Either the Employee or Employer may refer a request for reclassification to the dispute settlement procedure in [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement or if unable to be resolved, the Alternative Dispute Resolution Panel (clause 0).
+**(f)** Either the Employee or Employer may refer a request for reclassification to the dispute settlement procedure in [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement or if unable to be resolved, the Alternative Dispute Resolution Panel ([clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel)).
 
 

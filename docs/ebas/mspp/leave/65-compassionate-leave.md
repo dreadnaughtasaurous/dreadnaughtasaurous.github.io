@@ -24,7 +24,7 @@ topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']
 
 **65.2** Unpaid Compassionate leave
 
-**a.** Where an Employee has exhausted all entitlements under clause 65.1, an Employee may take up to 4 days unpaid Compassionate Leave. Additional unpaid leave may then be taken by agreement with the Employer.
+**a.** Where an Employee has exhausted all entitlements under [clause 65.1](/ebas/mspp/leave/65-compassionate-leave), an Employee may take up to 4 days unpaid Compassionate Leave. Additional unpaid leave may then be taken by agreement with the Employer.
 
 **b.** A casual Employee may take 2 days unpaid Compassionate Leave per occasion when:
 

@@ -10,7 +10,7 @@ topics: ['employment']
 
 This clause does not apply to casual Employees
 
-**33.1** The parties are committed to providing opportunities for Employees to build their skills and capacity and subsequently improve workforce mobility within the classifications provided in this Agreement in accordance with this Clause 33.
+**33.1** The parties are committed to providing opportunities for Employees to build their skills and capacity and subsequently improve workforce mobility within the classifications provided in this Agreement in accordance with this [Clause 33](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility).
 
 **33.2** Workforce Skills, Capability and Mobility Committee
 

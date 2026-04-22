@@ -42,7 +42,7 @@ The NES contains applicable terms regarding parental leave including terms regar
 
 **(iii)** as the case requires, includes a Stillborn Child.
 
-**c.** Flexible Parental Leave means 30 days' unpaid parental which an Employee may take under subclause 70.8 as part of their 52 weeks' entitlement of Parental Leave.
+**c.** Flexible Parental Leave means 30 days' unpaid parental which an Employee may take under [subclause 70.8](/ebas/mspp/leave/70-parental-leave) as part of their 52 weeks' entitlement of Parental Leave.
 
 **d.** For the purposes of this clause, Service (which includes Recognised Prior Service), is as defined in clause 9aa of this Agreement.
 
@@ -96,7 +96,7 @@ carer leave sought or taken by their spouse and that for the period of primary c
 
 **f.** Where an Employee continues to work within the six week period immediately prior to the expected date of birth of the child or is on paid leave under 70.14b an Employer may require the Employee to provide a medical certificate stating that they are fit to work on normal duties.
 
-**g.** If a statement is not provided then the Employer will make all practical efforts to remedy the unsafe situation and if this is not possible, the Employee will be offered a safe, alternate position in accordance with sub-clause 70.14 herein.
+**g.** If a statement is not provided then the Employer will make all practical efforts to remedy the unsafe situation and if this is not possible, the Employee will be offered a safe, alternate position in accordance with sub-[clause 70.14](/ebas/mspp/leave/70-parental-leave) herein.
 
 **70.5** Special Maternity Leave and Personal Leave
 
@@ -110,7 +110,7 @@ carer leave sought or taken by their spouse and that for the period of primary c
 
 **c.** An Employee must give notice of taking unpaid special maternity leave as soon as practicable (which may be a time after the leave has started) and advise their Employer of the period or expected period of the leave.
 
-**d.** An Employee who has given their Employer notice under 70.5c must, if required by the Employer, give the Employer evidence that would satisfy a reasonable person that the leave is taken for a reason specified in clause 70.5a. An Employer may require the evidence to be a medical certificate.
+**d.** An Employee who has given their Employer notice under 70.5c must, if required by the Employer, give the Employer evidence that would satisfy a reasonable person that the leave is taken for a reason specified in [clause 70.5](/ebas/mspp/leave/70-parental-leave)a. An Employer may require the evidence to be a medical certificate.
 
 **e.** Where special maternity leave is granted under this subclause, during the period of leave an Employee may return to work at any time, as agreed between the Employer and the Employee provided that time does not exceed four weeks from the recommencement date desired by the Employee.
 
@@ -126,9 +126,9 @@ carer leave sought or taken by their spouse and that for the period of primary c
 
 **(ii)** written notification of the dates on which they propose to start and finish the period of secondary carer leave; and
 
-**(iii)** a statutory declaration stating: **(A)** except in relation to leave taken simultaneously with the child’s primary carer under clause 70.3h or clause 70.8, that they will take the period of Parental Leave to become the primary care-giver of a child; **(B)** particulars of any period of Primary Carer Leave sought or taken by their spouse; and **(C)** that for the period of Secondary Carer Leave they will not engage in any conduct inconsistent with their contract of employment.
+**(iii)** a statutory declaration stating: **(A)** except in relation to leave taken simultaneously with the child’s primary carer under [clause 70.3](/ebas/mspp/leave/70-parental-leave)h or [clause 70.8](/ebas/mspp/leave/70-parental-leave), that they will take the period of Parental Leave to become the primary care-giver of a child; **(B)** particulars of any period of Primary Carer Leave sought or taken by their spouse; and **(C)** that for the period of Secondary Carer Leave they will not engage in any conduct inconsistent with their contract of employment.
 
-**b.** The Employee will not be in breach of this clause 70.6 if the failure to give the required period of notice is because of the birth occurring earlier than expected, the death of the mother of the child, or other compelling circumstances.
+**b.** The Employee will not be in breach of this [clause 70.6](/ebas/mspp/leave/70-parental-leave) if the failure to give the required period of notice is because of the birth occurring earlier than expected, the death of the mother of the child, or other compelling circumstances.
 
 **70.7** Adoption Leave
 
@@ -150,7 +150,7 @@ carer leave sought or taken by their spouse and that for the period of primary c
 
 **(i)** that the child is an eligible child, whether the Employee is taking short or long adoption leave or both and the particulars of any other authorised leave to be taken because of the placement;
 
-**(ii)** except in relation to leave taken simultaneously with the child’s other adoptive parent under clause 70.3h or clause 70.8 that the Employee is seeking adoption leave to become the primary care-giver of the child;
+**(ii)** except in relation to leave taken simultaneously with the child’s other adoptive parent under [clause 70.3](/ebas/mspp/leave/70-parental-leave)h or [clause 70.8](/ebas/mspp/leave/70-parental-leave) that the Employee is seeking adoption leave to become the primary care-giver of the child;
 
 **(iii)** particulars of any period of adoption leave sought or taken by the Employee’s spouse; and
 
@@ -168,7 +168,7 @@ carer leave sought or taken by their spouse and that for the period of primary c
 
 **a.** An Employee may take up to 30 days of Parental Leave entitlement (Flexible Parental Leave) during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child if the requirements of this sub-clause are satisfied in relation to the leave.
 
-**b.** The number of days of Flexible Parental Leave that the Employee takes must not be more than the number of flexible days notified to the Employer under sub-clause 70.9 (subject to any agreement under sub-clause 70.9d).
+**b.** The number of days of Flexible Parental Leave that the Employee takes must not be more than the number of flexible days notified to the Employer under sub-[clause 70.9](/ebas/mspp/leave/70-parental-leave) (subject to any agreement under sub-[clause 70.9](/ebas/mspp/leave/70-parental-leave)d).
 
 **(i)** An Employee must take the Flexible Parental Leave as:
 
@@ -176,9 +176,9 @@ carer leave sought or taken by their spouse and that for the period of primary c
 
 **(iii)** separate periods of one or more days each.
 
-**c.** An Employee may take the Flexible Long Parental Leave whether or not they have taken unpaid Parental Leave under subclause 70.4.
+**c.** An Employee may take the Flexible Long Parental Leave whether or not they have taken unpaid Parental Leave under [subclause 70.4](/ebas/mspp/leave/70-parental-leave).
 
-**d.** An Employee may take Flexible Parental Leave after taking one or more periods of unpaid Primary Carer’s Leave only if the total of those periods (disregarding any extension under sub-clause 70.10 or 70.11) is no longer
+**d.** An Employee may take Flexible Parental Leave after taking one or more periods of unpaid Primary Carer’s Leave only if the total of those periods (disregarding any extension under sub-[clause 70.10 or 70.11](/ebas/mspp/leave/70-parental-leave)) is no longer
 
 3453-8976-3100v1PART 8: LEAVE OF ABSENCE AND PUBLIC HOLIDAYS
 
@@ -218,7 +218,7 @@ than 12 months, less the Employee's Notional Flexible Period, provided that the 
 
 **70.10** Variation Of Period Of Parental Leave Up to 12 months
 
-**a.** Unless agreed otherwise between the Employer and Employee, where an Employee takes leave under clause 70.4 for less than the available period, the Employee may notify to their Employer to extend the period of parental leave within the available period on one occasion. Any such change must be notified in writing at least four weeks prior to the commencement of the changed arrangements. The notice must specify the new intended end date of the parental leave. Any further period of leave must be by agreement.
+**a.** Unless agreed otherwise between the Employer and Employee, where an Employee takes leave under [clause 70.4](/ebas/mspp/leave/70-parental-leave) for less than the available period, the Employee may notify to their Employer to extend the period of parental leave within the available period on one occasion. Any such change must be notified in writing at least four weeks prior to the commencement of the changed arrangements. The notice must specify the new intended end date of the parental leave. Any further period of leave must be by agreement.
 
 **b.** If the Employer agrees, an Employee whose period of unpaid parental leave has started may reduce the period of unpaid Parental Leave they take (including any extension agreed under 70.11).
 
@@ -242,7 +242,7 @@ than 12 months, less the Employee's Notional Flexible Period, provided that the 
 
 **(i)** An Employee must confirm to the Employer their return to work after a period of Parental Leave at least four weeks prior to the end of the leave, or where that is not practicable, as soon as practicable.
 
-**(ii)** Subject to clause 70.12a(iii), an Employee will be entitled to the position which they held immediately before proceeding on Parental Leave \[which shall include Parental Leave extended in accordance with clause 70.11 in the case of an Employee transferred to a safe job pursuant to 70.14 or who reduced their working hours because of their pregnancy, the Employee will be entitled to return to the position they held immediately before such transfer or reduction.
+**(ii)** Subject to [clause 70.12](/ebas/mspp/leave/70-parental-leave)a(iii), an Employee will be entitled to the position which they held immediately before proceeding on Parental Leave \[which shall include Parental Leave extended in accordance with clause 70.11 in the case of an Employee transferred to a safe job pursuant to 70.14 or who reduced their working hours because of their pregnancy, the Employee will be entitled to return to the position they held immediately before such transfer or reduction.
 
 **(iii)** Where such position no longer exists but there are other positions available which the Employee is qualified for and is capable of performing, the Employee will be entitled to a position as nearly comparable in status and pay to that of their former position.
 
@@ -268,7 +268,7 @@ A request to return to work part-time must be made as soon as possible but no le
 
 **b.** Where an Employee not then on Parental leave is suffering from an illness whether related or not to pregnancy an Employee may take any paid Personal Leave to which she is entitled and/or unpaid Personal Leave in accordance with the relevant Personal Leave provisions.
 
-**c.** Employees who take leave under clause 70.13a may with the agreement of their employer:
+**c.** Employees who take leave under [clause 70.13](/ebas/mspp/leave/70-parental-leave)a may with the agreement of their employer:
 
 **(i)** take a period of annual leave, long service leave or ADOs as part of, or in addition to any period of parental leave.
 

@@ -8,11 +8,11 @@ topics: ['ohs']
 
 
 
-**97.1** Relationship to legislation The provisions of this Part L of the Agreement shall be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to in this subclause 97.1, the legislation prevails to the extent of any inconsistency.
+**97.1** Relationship to legislation The provisions of this Part L of the Agreement shall be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to in this [subclause 97.1](/ebas/allied-health/ohs/97-ohs-preliminary), the legislation prevails to the extent of any inconsistency.
 
 **97.2** Arrangement of this Part L This part L is arranged as follows:
 
-**(a)** OHS Preliminary (clause 97);
+**(a)** OHS Preliminary ([clause 97](/ebas/allied-health/ohs/97-ohs-preliminary));
 
 **(b)** Industry OHS Working Group ([clause 98](/ebas/allied-health/ohs/98-industry-ohs-working-group));
 
@@ -24,7 +24,7 @@ topics: ['ohs']
 
 **(f)** HSRs ([clause 102](/ebas/allied-health/ohs/102-hsrs));
 
-**(g)** Occupational Violence and Aggression Prevention and Management (clause 103);
+**(g)** Occupational Violence and Aggression Prevention and Management ([clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and));
 
 **(h)** Workers' Compensation, Rehabilitation and Return to Work ([clause 104](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to));
 

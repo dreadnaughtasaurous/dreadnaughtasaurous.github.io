@@ -22,11 +22,11 @@ topics: ['hours', 'shift-work', 'employment', 'classifications']
 
 **55.2** Arrangement of hours for seven day shift workers Subject to the roster provisions 80 hours may be worked in any two consecutive weeks, provided that no more than 6 shifts can be rostered or worked consecutively in any one week without the Employee being rostered off for a minimum of 24 hours.
 
-**55.3** Nine day fortnight Notwithstanding anything else in this clause, with the agreement of the Employer, a full- time Employee may work nine (9) days within a fortnight with a tenth day as a non-paid day and four rostered days off. Such Employees will not access the ADO provisions outlined in clause 55.4 below and will work longer shifts to allow for the completion of 76 hours in a fortnight. Hours worked in addition to 76 hours per fortnight will be paid as overtime under [clause 59](/ebas/mspp/hours-of-work/59-overtime).
+**55.3** Nine day fortnight Notwithstanding anything else in this clause, with the agreement of the Employer, a full- time Employee may work nine (9) days within a fortnight with a tenth day as a non-paid day and four rostered days off. Such Employees will not access the ADO provisions outlined in [clause 55.4](/ebas/mspp/hours-of-work/55-hours-of-work) below and will work longer shifts to allow for the completion of 76 hours in a fortnight. Hours worked in addition to 76 hours per fortnight will be paid as overtime under [clause 59](/ebas/mspp/hours-of-work/59-overtime).
 
 **55.4** Accrued Days Off (ADO)
 
-**a.** An Accrued Day Off (ADO) is to accrue for each full-time Employee in accordance with clause 55.4b below.
+**a.** An Accrued Day Off (ADO) is to accrue for each full-time Employee in accordance with [clause 55.4](/ebas/mspp/hours-of-work/55-hours-of-work)b below.
 
 **b.** Payment for ordinary hours will be for 7 hours 36 minutes each day worked with 24 minutes each day of ordinary duty being accrued towards one paid day off per four week period.
 

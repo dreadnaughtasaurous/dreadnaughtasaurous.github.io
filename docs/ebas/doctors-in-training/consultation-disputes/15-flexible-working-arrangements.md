@@ -12,7 +12,7 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **15.2** The specified Doctors are:
 
-**(a)** full time or part time Doctors with at least 12 months’ continuous service (calculated in accordance with subclauses 68.3 to 68.5); and
+**(a)** full time or part time Doctors with at least 12 months’ continuous service (calculated in accordance with [subclauses 68.3](/ebas/doctors-in-training/leave/68-long-service-leave) to 68.5); and
 
 **(b)** long term casual Doctor with a reasonable expectation of continuing employment by the Health Service on a regular and systematic basis.
 
@@ -48,7 +48,7 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **(c)** reasons for a refusal on reasonable business grounds.
 
-**15.10** A Doctor or Health Service may choose to be represented at a meeting under subclause 15.9 by a representative including the Association or employer organisation.
+**15.10** A Doctor or Health Service may choose to be represented at a meeting under [subclause 15.9](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements) by a representative including the Association or employer organisation.
 
 **15.11** The dispute resolution procedure in this Agreement will apply to any dispute / grievance arising in relation to a request for flexible working arrangements.
 

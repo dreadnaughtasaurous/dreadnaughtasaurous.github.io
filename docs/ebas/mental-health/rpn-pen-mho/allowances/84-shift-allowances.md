@@ -20,7 +20,7 @@ This clause shall not apply to an Employee over the level of RPN5 if they are no
 
 **(d)** Sunday night shift means a shift worked by a full-time or part-time Employee that commences on Sunday and concludes on Monday.
 
-**84.2** Application Where a shift meets more than one definition as set out in clause 84.1, the Employee will be paid one shift allowance only, with the higher shift allowance where the rates differ.
+**84.2** Application Where a shift meets more than one definition as set out in [clause 84.1](/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances), the Employee will be paid one shift allowance only, with the higher shift allowance where the rates differ.
 
 **84.3** Allowances In addition to any other rates prescribed elsewhere in this Agreement. The Employee will receive the following allowances where an Employee works:
 

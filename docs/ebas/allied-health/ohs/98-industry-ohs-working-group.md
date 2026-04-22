@@ -20,7 +20,7 @@ topics: ['ohs', 'workers-comp']
 
 **(e)** workplace bullying.
 
-**98.2** The proactive cooperation described at subclause 98.1 with respect to the priorities identified above, will seek to achieve the following:
+**98.2** The proactive cooperation described at [subclause 98.1](/ebas/allied-health/ohs/98-industry-ohs-working-group) with respect to the priorities identified above, will seek to achieve the following:
 
 **(a)** in the case of safe patient and manual handling processes, reduction of musculoskeletal injuries by identifying requirements for safe patient and manual handling programs including recommendation of principles and practices to prevent and reduce the associated risks;
 

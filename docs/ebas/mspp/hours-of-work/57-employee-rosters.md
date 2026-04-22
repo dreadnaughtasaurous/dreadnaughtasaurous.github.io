@@ -20,13 +20,13 @@ topics: ['hours', 'rosters', 'on-call']
 
 **(iv)** Time off duty; shall be posted at least 28 days before it comes into operation in a conspicuous and readily accessible place.
 
-**b.** The roster shall not change without at least fourteen days' notice of a change in roster except in the case of sickness or other emergency, subject to subclause 57.2 below.
+**b.** The roster shall not change without at least fourteen days' notice of a change in roster except in the case of sickness or other emergency, subject to [subclause 57.2](/ebas/mspp/hours-of-work/57-employee-rosters) below.
 
 **c.** Nothing in this clause precludes an Employer also issuing the roster or the on- call roster in electronic form.
 
 **57.2** Change of Roster
 
-**a.** Where an Employer changes the Employee’s roster once set in accordance with subclause 57.1a (other than as excepted in subclause 57.1b) the Change of Roster Allowance will apply in relation to each change as follows:
+**a.** Where an Employer changes the Employee’s roster once set in accordance with [subclause 57.1](/ebas/mspp/hours-of-work/57-employee-rosters)a (other than as excepted in [subclause 57.1](/ebas/mspp/hours-of-work/57-employee-rosters)b) the Change of Roster Allowance will apply in relation to each change as follows:
 
 **(i)** 7 days or less notice; The higher Change of Roster allowance as described in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances).
 
@@ -44,9 +44,9 @@ topics: ['hours', 'rosters', 'on-call']
 
 **(ii)** Take into account health and welfare of Employees and any issues or concerns expressed by an Employee in relation to these.
 
-**(iii)** Subject to subclause 57.4 and the Employer’s operational requirements, minimise weekend work (including on call and recall).
+**(iii)** Subject to [subclause 57.4](/ebas/mspp/hours-of-work/57-employee-rosters) and the Employer’s operational requirements, minimise weekend work (including on call and recall).
 
-**d.** The provisions of [clause 24](/ebas/mspp/employment/24-part-time-employment) (Part Time Employment) and this clause 57 apply to part time Employees.
+**d.** The provisions of [clause 24](/ebas/mspp/employment/24-part-time-employment) (Part Time Employment) and this [clause 57](/ebas/mspp/hours-of-work/57-employee-rosters) apply to part time Employees.
 
 **57.4** Rostering Protocols The following protocols will be applied in every roster:
 
@@ -54,7 +54,7 @@ topics: ['hours', 'rosters', 'on-call']
 
 **(i)** exceptional circumstances, or
 
-**(ii)** as per subclause 57.5 (Roster Exemption Agreement) below.
+**(ii)** as per [subclause 57.5](/ebas/mspp/hours-of-work/57-employee-rosters) (Roster Exemption Agreement) below.
 
 **b.** RDOs shall be rostered on consecutive days at a minimum of once in each fortnight.
 
@@ -68,7 +68,7 @@ topics: ['hours', 'rosters', 'on-call']
 
 **57.5** Rostering Protocols Exemption Agreement
 
-**a.** An Employee may request and an Employer may agree to a roster pattern that is inconsistent with the rostering protocols at subclauses 57.4a and / or 57.4c where:
+**a.** An Employee may request and an Employer may agree to a roster pattern that is inconsistent with the rostering protocols at [subclauses 57.4](/ebas/mspp/hours-of-work/57-employee-rosters)a and / or 57.4c where:
 
 **(i)** the request is at the initiative of the Employee, providing that Employee has no less than 6 months employment with the Employer;
 
@@ -80,11 +80,11 @@ topics: ['hours', 'rosters', 'on-call']
 
 **c.** An Employee may unilaterally withdraw from the Roster Exemption Agreement by giving notice to the Employer in writing.
 
-**d.** An Employee who withdraws from a Roster Exemption Agreement will revert to a roster without exemptions from the requirements of subclause 57.4a. and 57.5c. The Employer may determine the date of effect of the termination of the Rostering Protocols Exemption Agreement provided that the date may not be more than 28 days after the date of notice by the Employee.
+**d.** An Employee who withdraws from a Roster Exemption Agreement will revert to a roster without exemptions from the requirements of [subclause 57.4](/ebas/mspp/hours-of-work/57-employee-rosters)a. and 57.5c. The Employer may determine the date of effect of the termination of the Rostering Protocols Exemption Agreement provided that the date may not be more than 28 days after the date of notice by the Employee.
 
 **e.** An Employee who has withdrawn from a Roster Exemption Agreement may at any time afterwards request another Rostering Protocols Exemption Agreement.
 
-**f.** A Rostering Protocols Exemption Agreement must comply with the provisions of this clause to make any such arrangement compliant with subclause 57.4.
+**f.** A Rostering Protocols Exemption Agreement must comply with the provisions of this clause to make any such arrangement compliant with [subclause 57.4](/ebas/mspp/hours-of-work/57-employee-rosters).
 
 **g.** An Employer cannot request or direct an Employee to enter into (or agree) to a Rostering Protocols Exemption Agreement in accordance with this clause.
 

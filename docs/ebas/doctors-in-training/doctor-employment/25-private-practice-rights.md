@@ -16,7 +16,7 @@ topics: ['employment']
 
 **25.2** Doctors may by agreement be on loan to other bodies or practitioners. Agreement must be reached between the Health Service, the Doctor and the other body.
 
-**25.3** The above subclause 25.2 applies to Doctors seconded for service with the Australian Defence Force but does not apply to service under the Defence Act 1903.
+**25.3** The above [subclause 25.2](/ebas/doctors-in-training/doctor-employment/25-private-practice-rights) applies to Doctors seconded for service with the Australian Defence Force but does not apply to service under the Defence Act 1903.
 
 Plain language terms: private practice.
 

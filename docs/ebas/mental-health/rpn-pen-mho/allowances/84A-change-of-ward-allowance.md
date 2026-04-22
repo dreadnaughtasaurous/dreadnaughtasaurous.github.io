@@ -50,6 +50,6 @@ Example: An Employee is contracted to work on Ward A on some days, and Ward B on
 
 **84A.4** Anti-avoidance Employers must not seek to circumvent this provision by, for example, defining multiple wards as one ward, declaring Employees to be part of a pool arrangement or Multi Base Ward Employee contrary to their wishes, amalgamating cost centres, or not rostering to a ward, unit, clinical section or department where that would ordinarily be the case.
 
-**84A.5** Additional Provisions Additional provisions apply where an Employee redeploys to a Campus that is not their Base Employment Campus (See [clause 82](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance) Traveling and Relocation Allowance), or the redeployment is as a result of the Employee being an Affected Employee (see clause 20.2(a)).
+**84A.5** Additional Provisions Additional provisions apply where an Employee redeploys to a Campus that is not their Base Employment Campus (See [clause 82](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance) Traveling and Relocation Allowance), or the redeployment is as a result of the Employee being an Affected Employee (see [clause 20.2(a)](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)).
 
 

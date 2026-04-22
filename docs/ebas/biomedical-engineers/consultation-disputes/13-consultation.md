@@ -8,7 +8,7 @@ topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 
 
 
-Nothing in this clause 13 limits the Employer's obligations to consult with HSRs under the OHS Act.
+Nothing in this [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation) limits the Employer's obligations to consult with HSRs under the OHS Act.
 
 **13.1** Consultation regarding Major Change
 
@@ -18,7 +18,7 @@ Nothing in this clause 13 limits the Employer's obligations to consult with HSRs
 
 **(c)** The Employer will take reasonable steps to ensure Employees, HSRs (where relevant) and the Union can participate effectively in the Consultation process.
 
-**13.2** Definitions Under this clause 13:
+**13.2** Definitions Under this [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation):
 
 **(a)** Consultation means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
@@ -64,7 +64,7 @@ Nothing in this clause 13 limits the Employer's obligations to consult with HSRs
 
 Step Action Timeframe
 
-1.  Employer provides change impact statement and other written material required by subclause 13.4
+1.  Employer provides change impact statement and other written material required by [subclause 13.4](/ebas/biomedical-engineers/consultation-disputes/13-consultation)
 
 2.  Written response from Employees and/or Union 14 days of step 1
 
@@ -100,7 +100,7 @@ Step Action Timeframe
 
 **(x)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk, or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
 
-**(b)** Concerns as to whether the CIS complies with subclause 13.4 will be raised as soon as practicable and before step 2.
+**(b)** Concerns as to whether the CIS complies with [subclause 13.4](/ebas/biomedical-engineers/consultation-disputes/13-consultation) will be raised as soon as practicable and before step 2.
 
 **13.5** Employee/Union response (step 2) Following receipt of the CIS, Affected Employees and / or the Union may respond in writing to any matter arising from the proposed change.
 
@@ -122,7 +122,7 @@ Step Action Timeframe
 
 **13.9** Outcome of consultation (step 6)
 
-**(a)** The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause 13.8, and will advise the affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+**(a)** The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [subclause 13.8](/ebas/biomedical-engineers/consultation-disputes/13-consultation), and will advise the affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 **(i)** whether the Employer intends to proceed with the change proposal;
 
@@ -134,7 +134,7 @@ Step Action Timeframe
 
 **13.10** Consultation disputes Any dispute regarding the obligations under this clause will be dealt with under the Dispute Resolution Procedure at [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement.
 
-13A Consultation about Changes to Rosters or Hours of Work This clause 13A applies where a change to regular rosters or ordinary hours of work (which may impact upon an employee, particularly in relation to their family and caring responsibilities) does not constitute a ‘Major Change’ in accordance with subclause 13.2(c).
+13A Consultation about Changes to Rosters or Hours of Work This clause 13A applies where a change to regular rosters or ordinary hours of work (which may impact upon an employee, particularly in relation to their family and caring responsibilities) does not constitute a ‘Major Change’ in accordance with [subclause 13.2(c)](/ebas/biomedical-engineers/consultation-disputes/13-consultation).
 
 **13A.1** Where an Employer proposes to change an Employee's regular roster or ordinary hours of work, the Employer must consult with the Employee or Employees affected and their representatives, if any, about the proposed change.
 

@@ -10,7 +10,7 @@ topics: ['leave', 'hours', 'shift-work']
 
 **164.1** The ordinary hours of work for a full-time Employee shall be 38 hours, or an average of 38 hours, per week.
 
-**164.2** For the purposes of clause 164.1, the ordinary hours an Employee works in a week are taken to include any hours of authorised leave, or absence, whether paid or unpaid, that the Employee takes in a week.
+**164.2** For the purposes of [clause 164.1](/ebas/mental-health/support-services/preliminary/164-hours-of-work), the ordinary hours an Employee works in a week are taken to include any hours of authorised leave, or absence, whether paid or unpaid, that the Employee takes in a week.
 
 **164.3** The working week shall commence at midnight on a Sunday.
 

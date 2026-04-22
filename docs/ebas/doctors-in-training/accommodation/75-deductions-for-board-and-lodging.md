@@ -8,7 +8,7 @@ topics: ['employment', 'preliminary', 'accommodation']
 
 
 
-**75.1** The provisions of this clause 75 are to be read in conjunction with [clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances) (Rotation Allowances).
+**75.1** The provisions of this [clause 75](/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging) are to be read in conjunction with [clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances) (Rotation Allowances).
 
 **75.2** Where the Rotation Hospital provides board and lodging, the Doctor’s wage rate will be reduced by the amounts set out in the table in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions), Part 3 (Deductions for board and lodging).
 
@@ -16,7 +16,7 @@ topics: ['employment', 'preliminary', 'accommodation']
 
 **75.4** Health Services will not charge additional amounts for services provided that would be expected to be provided as part of the Doctor's board.
 
-**75.5** A Doctor may request in writing accommodation of a higher standard than provided in subclause 73.1 above, in which case the rental and other charges must be fixed by the Rotation Hospital but must not exceed prevailing market rates.
+**75.5** A Doctor may request in writing accommodation of a higher standard than provided in [subclause 73.1](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation) above, in which case the rental and other charges must be fixed by the Rotation Hospital but must not exceed prevailing market rates.
 
 Plain language terms: board and lodging, accommodation deduction.
 

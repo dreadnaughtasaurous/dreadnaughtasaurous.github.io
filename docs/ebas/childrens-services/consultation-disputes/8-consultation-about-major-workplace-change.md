@@ -25,7 +25,7 @@ topics: ['hours', 'employment', 'termination', 'consultation']
 
     c\. commence discussions as soon as practicable after a definite decision has been made.
 
-2.  For the purposes of the discussion under clause 8.1(b), the employer must give in writing to the affected employees and their representatives (if any) all relevant information about the changes including:
+2.  For the purposes of the discussion under [clause 8.1(b)](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change), the employer must give in writing to the affected employees and their representatives (if any) all relevant information about the changes including:
 
     a\. their nature; and
 
@@ -33,11 +33,11 @@ topics: ['hours', 'employment', 'termination', 'consultation']
 
     c\. any other matters likely to affect employees.
 
-3.  Clause 8.2 does not require an employer to disclose any confidential information if its disclosure would be contrary to the employer's interests.
+3.  [Clause 8.2](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change) does not require an employer to disclose any confidential information if its disclosure would be contrary to the employer's interests.
 
-4.  The employer must promptly consider any matters raised by the employees or their representatives about the changes in the course of the discussion under clause 8.1(b).
+4.  The employer must promptly consider any matters raised by the employees or their representatives about the changes in the course of the discussion under [clause 8.1(b)](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change).
 
-5.  In clause 8:
+5.  In [clause 8](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change):
 
 **significant effects**, on employees, includes any of the following:
 
@@ -55,7 +55,7 @@ f\. the need for employees to be retrained or transferred to other work or locat
 
 g\. job restructuring.
 
-1.  Where this award makes provision for alteration of any of the matters defined at clause 8.5, such alteration is taken not to have significant effect.
+1.  Where this award makes provision for alteration of any of the matters defined at [clause 8.5](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change), such alteration is taken not to have significant effect.
 
 Plain language terms: major change consultation, restructure consultation.
 

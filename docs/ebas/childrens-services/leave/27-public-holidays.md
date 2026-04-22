@@ -16,7 +16,7 @@ topics: ['leave', 'annual-leave', 'public-holidays', 'hours', 'rosters', 'employ
 
 4.  Additional arrangements for full-time employees
 
-a\. A full-time employee whose rostered day off falls on a public holiday must, subject to clause 27.2, either:
+a\. A full-time employee whose rostered day off falls on a public holiday must, subject to [clause 27.2](/ebas/childrens-services/leave/27-public-holidays), either:
 
     i.  be paid an extra day's pay;
 
@@ -24,7 +24,7 @@ a\. A full-time employee whose rostered day off falls on a public holiday must, 
 
     iii. receive an additional day's annual leave.
 
-b\. If a public holiday is a part-day public holiday, then clause 27.4(a) applies on a pro-rata basis for the number of ordinary hours on the part-day public holiday.
+b\. If a public holiday is a part-day public holiday, then [clause 27.4(a)](/ebas/childrens-services/leave/27-public-holidays) applies on a pro-rata basis for the number of ordinary hours on the part-day public holiday.
 
 \[27.4(b) renumbered as 27.4(c) and varied by [PR747480](https://www.fwc.gov.au/documents/awardsandorders/html/pr747480.htm) ppc 14Nov22\]
 

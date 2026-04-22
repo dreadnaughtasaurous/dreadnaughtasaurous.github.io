@@ -10,7 +10,7 @@ topics: ['preliminary']
 
 **27.1** Eligibility To be eligible for a Top of Band Payment:
 
-**(a)** An Employee must have been classified at the highest pay point within their class (see subclause 27.2(d)) for one full anniversary period; and
+**(a)** An Employee must have been classified at the highest pay point within their class (see [subclause 27.2(d)](/ebas/biomedical-engineers/wages/27-top-of-band-payment)) for one full anniversary period; and
 
 **(b)** The Employee must have given satisfactory performance over the preceding 12 months.
 

@@ -32,9 +32,9 @@ topics: ['hours', 'shift-work', 'breaks', 'preliminary']
 
 **58.4** Meetings and training
 
-**a.** Other than in exceptional circumstances, the Employer shall not require an Employee to attend staff meetings or mandatory training (including professional development training) or undertake other work requirements during the meals breaks specified in clause 58.1.
+**a.** Other than in exceptional circumstances, the Employer shall not require an Employee to attend staff meetings or mandatory training (including professional development training) or undertake other work requirements during the meals breaks specified in [clause 58.1](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals).
 
-**b.** Where due to exceptional circumstances an Employer requires an Employee to attend a meeting or training, or undertake work requirements during a meal break, the Employee shall be afforded another meal break of equal duration immediately before or after the meeting, or be paid their meal break i.e receive the additional payment for not being relieved of duty provided for in clause 58.1.
+**b.** Where due to exceptional circumstances an Employer requires an Employee to attend a meeting or training, or undertake work requirements during a meal break, the Employee shall be afforded another meal break of equal duration immediately before or after the meeting, or be paid their meal break i.e receive the additional payment for not being relieved of duty provided for in [clause 58.1](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals).
 
 **58.5** Rest Intervals At a time suitable to the Employer, two rest periods - each of ten minutes duration - shall be given to each Employee during each eight hour period of duty and shall be counted as time worked.
 

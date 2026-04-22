@@ -40,7 +40,7 @@ topics: ['consultation', 'union-matters']
 
 **62.6** The policy will have considered relevant risk assessments, in particular where circumstances require nursing care to be provided in an alternative environment, and relevant legislation, regulations or guidelines.
 
-**62.7** The policy will encapsulate the principles set out in subclause 62.4 above and contain specific information which sets out the following:
+**62.7** The policy will encapsulate the principles set out in [subclause 62.4](/ebas/mental-health/common-terms/staffing/62-demand-escalation-policy) above and contain specific information which sets out the following:
 
 **(a)** the trigger point(s) for the activation of the policy, noting that these trigger points should act as an early warning system
 

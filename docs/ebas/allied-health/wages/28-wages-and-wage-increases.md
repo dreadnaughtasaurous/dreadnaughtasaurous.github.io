@@ -24,7 +24,7 @@ topics: ['wages']
 
 **28.4** To reduce the likelihood of undertakings required to be given to the Commission, some rates of pay have had additional minor increases applied to them above the Award wage. These are identified in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) of the Agreement with an asterisk symbol.
 
-**28.5** Translation of some Chief and Deputy Chief rates An Employee who, immediately prior to the commencement of this Agreement, held a position that subclause 28.4 of the 2020 Agreement applied to because they were classified under the 2011 Agreement at:
+**28.5** Translation of some Chief and Deputy Chief rates An Employee who, immediately prior to the commencement of this Agreement, held a position that [subclause 28.4](/ebas/allied-health/wages/28-wages-and-wage-increases) of the 2020 Agreement applied to because they were classified under the 2011 Agreement at:
 
 **(a)** Chief Grade 2 and the Employee was at the Year 2 increment;
 

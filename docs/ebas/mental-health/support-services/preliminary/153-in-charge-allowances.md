@@ -10,7 +10,7 @@ topics: ['allowances']
 
 **153.1** An Employee shall be paid an In-charge Allowance where they are appointed or delegated to exercise control over other Employees, as follows: Extent of control: % Allowance In charge of 1 to 9 other Employees 7% In charge of 10 to 29 other Employees 10% In charge of 30 or more Employees 15%
 
-**153.2** Provided that clause 153.1 does not apply to the following classifications of Employee:
+**153.2** Provided that [clause 153.1](/ebas/mental-health/support-services/preliminary/153-in-charge-allowances) does not apply to the following classifications of Employee:
 
 **(a)** General Service Supervisor
 

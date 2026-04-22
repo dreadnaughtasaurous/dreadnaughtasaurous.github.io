@@ -36,7 +36,7 @@ topics: ['union-matters']
 
 **78.4** Delegates and HSRs NOTE: Additional rights of HSRs are contained in the OHS Act.
 
-**(a)** In this subclause 78.4:
+**(a)** In this [subclause 78.4](/ebas/biomedical-engineers/union-matters/78-union-matters):
 
 **(i)** Representative means a Union Delegate, or HSR;
 
@@ -88,7 +88,7 @@ topics: ['union-matters']
 
 **78.9** Union Training NOTE: Where a Union Delegate is also appointed as an HSR under the OHS Act, they may be entitled to additional training in accordance with the OHS Act.
 
-**(a)** Subject to the conditions in this subclause 78.9, Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
+**(a)** Subject to the conditions in this [subclause 78.9](/ebas/biomedical-engineers/union-matters/78-union-matters), Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 
 **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 
@@ -120,7 +120,7 @@ topics: ['union-matters']
 
 **(iii)** to deal with any local disputes that may arise, without limiting the Dispute Resolution Procedure in this Agreement.
 
-**(b)** Priority items for consideration by the WIC will include the matters arising under [clause 56](/ebas/biomedical-engineers/leave/56-family-violence-leave) (Family Violence) and this clause 78 (Union Matters).
+**(b)** Priority items for consideration by the WIC will include the matters arising under [clause 56](/ebas/biomedical-engineers/leave/56-family-violence-leave) (Family Violence) and this [clause 78](/ebas/biomedical-engineers/union-matters/78-union-matters) (Union Matters).
 
 Plain language terms: union rep, delegate.
 

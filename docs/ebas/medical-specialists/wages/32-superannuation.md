@@ -42,7 +42,7 @@ Superannuation contributions paid by the Employer will be calculated and paid on
 
 **(b)** any additional amounts consistent with the trust deed of the superannuation fund; and
 
-**(c)** any payment for a period of paid parental leave under subclause 54.5.
+**(c)** any payment for a period of paid parental leave under [subclause 54.5](/ebas/medical-specialists/leave/54-parental-leave).
 
 **32.6** Superannuation during parental leave – from 11 April 2022
 
@@ -54,7 +54,7 @@ From 11 April 2022, the Employer will make superannuation contributions througho
 
 **(i)** The Doctor will receive a pro-rata payment for a period less than one (1) week; and
 
-**(ii)** where, during the period of parental leave (either paid or unpaid), the Doctor’s rate of pay increases under subclause 31.1, the Doctor’s pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
+**(ii)** where, during the period of parental leave (either paid or unpaid), the Doctor’s rate of pay increases under [subclause 31.1](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases), the Doctor’s pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
 
 Plain language terms: super, SG.
 

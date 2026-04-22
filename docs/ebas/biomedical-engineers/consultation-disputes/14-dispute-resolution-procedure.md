@@ -10,7 +10,7 @@ topics: ['leave', 'disputes', 'preliminary']
 
 **14.1** Resolution of disputes and grievances
 
-**(a)** For the purpose of this clause 14, a dispute includes a grievance.
+**(a)** For the purpose of this [clause 14](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure), a dispute includes a grievance.
 
 **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
 
@@ -56,11 +56,11 @@ topics: ['leave', 'disputes', 'preliminary']
 
 **(ii)** if the dispute is still unresolved, by discussions between the Employee/s and more senior managers.
 
-**(b)** Nothing in this clause 14.4 prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to clause 14.2.
+**(b)** Nothing in this [clause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to [clause 14.2](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure).
 
-**(c)** The discussions at subclause 14.4(a) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
+**(c)** The discussions at [subclause 14.4(a)](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
 
-**(d)** Where a Party believes the requirements of this clause 14.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+**(d)** Where a Party believes the requirements of this [clause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 
 **(e)** If a dispute cannot be resolved at the workplace it may be referred by a Party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
@@ -84,7 +84,7 @@ topics: ['leave', 'disputes', 'preliminary']
 
 **(b)** The Commission member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
 
-**(c)** Subject to subclause 14.7(d) below, a decision of the Commission is binding upon the persons covered by this Agreement.
+**(c)** Subject to [subclause 14.7(d)](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) below, a decision of the Commission is binding upon the persons covered by this Agreement.
 
 **(d)** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 
@@ -118,7 +118,7 @@ topics: ['leave', 'disputes', 'preliminary']
 
 **(f)** The parties to an application to the Panel bear their own costs (save for the Chair).
 
-**(g)** The Panel shall be responsible for determining its own procedure, provided that it applies the rules of natural justice and procedural fairness and be consistent with the requirements of clause 14 (Dispute Resolution Procedure).
+**(g)** The Panel shall be responsible for determining its own procedure, provided that it applies the rules of natural justice and procedural fairness and be consistent with the requirements of [clause 14](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) (Dispute Resolution Procedure).
 
 **(h)** The Panel shall apply an inquisitorial procedure, rather than an adversarial one.
 
@@ -132,7 +132,7 @@ topics: ['leave', 'disputes', 'preliminary']
 
 **(k)** Lawyers and paid agents, who are not direct employees of the Union, VHIA, Department or an Employer may not be given permission to appear before the Panel.
 
-**(l)** A party to a dispute that is being dealt with under this clause shall not make an application to the Commission for it to deal with the same dispute, other than an application made under subclause 14.8(j) – (n). Nothing prevents an application to
+**(l)** A party to a dispute that is being dealt with under this clause shall not make an application to the Commission for it to deal with the same dispute, other than an application made under [subclause 14.8(j)](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) – (n). Nothing prevents an application to
 
 the Commission where the Panel ceases to deal with a dispute without having made a determination (including situations where an applicant has discontinued or withdrawn their matter).
 
@@ -148,9 +148,9 @@ the Commission where the Panel ceases to deal with a dispute without having made
 
 **14A.4** Application to Panel to deal with a dispute
 
-**(a)** Either an Employer or an Employee/s (or their representatives) may make an application to the Panel to determine a dispute only where the Parties have attempted to resolve the dispute at the workplace as described at subclause 14.4 of the Agreement.
+**(a)** Either an Employer or an Employee/s (or their representatives) may make an application to the Panel to determine a dispute only where the Parties have attempted to resolve the dispute at the workplace as described at [subclause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) of the Agreement.
 
-**(b)** If the provisions of subclause 14.4 (Discussion of dispute at workplace) or clause
+**(b)** If the provisions of [subclause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) (Discussion of dispute at workplace) or clause
 
 **14.2** (Obligations) have not been complied with prior to the application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
 

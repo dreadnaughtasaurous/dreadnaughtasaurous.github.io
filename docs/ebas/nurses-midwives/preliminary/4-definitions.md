@@ -70,7 +70,7 @@ For reference, a list of Campuses as at the date of this Agreement is at [Append
 
 **(i)** registered in Division 2 Enrolled Nurses of the Register of Nurses of the Nursing and Midwifery Board of Australia established by the Health Practitioner Regulation National Law Act 2009 with a standard condition "may practise only in the area of mothercraft nursing"; or
 
-**(ii)** with an equivalent qualification and role as described in subclause 4.1(u)(i) above, including an early parenting practitioner employed in an Early Parenting Centre who is not a nurse,
+**(ii)** with an equivalent qualification and role as described in [subclause 4.1(u)(i)](/ebas/nurses-midwives/preliminary/4-definitions) above, including an early parenting practitioner employed in an Early Parenting Centre who is not a nurse,
 
 but excludes a person employed solely or predominantly in the provision of Public Mental Health Services.
 
@@ -110,7 +110,7 @@ Example: A Registered or Enrolled Nurse who works in an ED Hub in an Emergency D
 
 **(ee)** Kin of a person is another person who is related to the first person according to Aboriginal or Torres Strait Islander kinship rules and kinship has a corresponding meaning.
 
-**(ff)** Level for the purposes of this clause 4 means a role in which the weekly salary in Schedule 2 for that role is at least equal to or comparable to the weekly salary
+**(ff)** Level for the purposes of this [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) means a role in which the weekly salary in Schedule 2 for that role is at least equal to or comparable to the weekly salary
 
 Part A - Preliminary
 
@@ -154,7 +154,7 @@ Part A - Preliminary
 
 **(vv)** VHIA means the Victorian Hospitals' Industrial Association.
 
-**(ww)** WIC means the Workplace Implementation Committee referenced at clause 80.10.
+**(ww)** WIC means the Workplace Implementation Committee referenced at [clause 80.10](/ebas/nurses-midwives/union-matters/80-union-matters).
 
 **(xx)** WIRC Act means the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or if applicable in the particular situation the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic).
 

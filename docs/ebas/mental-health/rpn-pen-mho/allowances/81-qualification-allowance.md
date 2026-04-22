@@ -20,9 +20,9 @@ Note: see sub-[clause 9.1](/ebas/mental-health/common-terms/preliminary/9-defini
 
 **(iii)** a Certificate IV in Training and Assessment.
 
-**(b)** In the case of the entitlement under subclause 81.1(a)(ii), the qualification allowance will be payable after one year of experience in an area where the qualification is relevant.
+**(b)** In the case of the entitlement under [subclause 81.1(a)(ii)](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance), the qualification allowance will be payable after one year of experience in an area where the qualification is relevant.
 
-**(c)** In the case of the entitlement under subclause 81.1(a)(iii), the qualification allowance will be payable only where the Employee is required by their Employer to hold a Certificate IV in Training and Assessment (or equivalent).
+**(c)** In the case of the entitlement under [subclause 81.1(a)(iii)](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance), the qualification allowance will be payable only where the Employee is required by their Employer to hold a Certificate IV in Training and Assessment (or equivalent).
 
 **81.2** One Qualification Allowance Only
 
@@ -32,7 +32,7 @@ An Employee who has more than one qualification is entitled to one qualification
 
 **(a)** An Employer must maintain a work system that requests the submission of evidence and records the qualification/s held by the Employee who commences after this Agreement comes into operation.
 
-**(b)** Where an Employee who commences after this Agreement comes into operation holds a relevant qualification as described at clause 81.1, the Employee will be entitled to payment from the commencement of Employment except where the Employee did not advise the Employer of the relevant qualification in accordance with the Employer’s work system including the provision of evidence.
+**(b)** Where an Employee who commences after this Agreement comes into operation holds a relevant qualification as described at [clause 81.1](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance), the Employee will be entitled to payment from the commencement of Employment except where the Employee did not advise the Employer of the relevant qualification in accordance with the Employer’s work system including the provision of evidence.
 
 **(c)** The exception at (b) does not apply where:
 
@@ -44,9 +44,9 @@ An Employee who has more than one qualification is entitled to one qualification
 
 **(a)** An Employee claiming an entitlement to a qualification allowance must provide to the Employer evidence of that Employee having the qualification for which the entitlement is claimed.
 
-**(b)** An Employee claiming an entitlement to a qualification allowance will receive a substantive written response from the Employer (confirming its applicability or otherwise) within 28 days of the Employee complying with subclause 81.4(a).
+**(b)** An Employee claiming an entitlement to a qualification allowance will receive a substantive written response from the Employer (confirming its applicability or otherwise) within 28 days of the Employee complying with [subclause 81.4(a)](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance).
 
-**(c)** An Employee will meet the evidence requirements described in subclause 81.4(a) when they have provided the Employer with evidence from the education / training provider that would satisfy a reasonable person that the Employee has obtained the qualification for which the allowance is claimed, for example:
+**(c)** An Employee will meet the evidence requirements described in [subclause 81.4(a)](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance) when they have provided the Employer with evidence from the education / training provider that would satisfy a reasonable person that the Employee has obtained the qualification for which the allowance is claimed, for example:
 
 **(i)** the award of the qualification; or
 

@@ -30,7 +30,7 @@ A written agreement must comply with the following terms:
 
 **59.2** Part-time Employees – cashing out of annual leave where contracted EFT fraction has reduced
 
-A part-time Employee that has reduced their EFT fraction, may request to cash out accrued annual leave in conjunction with taking a period of annual leave so that the total payment for the period is equivalent to the previous EFT fraction. The request and any agreement must comply with the requirements of clause 59.1 above save that:
+A part-time Employee that has reduced their EFT fraction, may request to cash out accrued annual leave in conjunction with taking a period of annual leave so that the total payment for the period is equivalent to the previous EFT fraction. The request and any agreement must comply with the requirements of [clause 59.1](/ebas/nurses-midwives/leave/59-cashing-out-of-annual-leave) above save that:
 
 **(a)** the requirement that paid annual leave must not be cashed out if the cashing out would result in the Employee's remaining accrued entitlement to paid leave being less than six weeks calculated using the new EFT fraction; and
 

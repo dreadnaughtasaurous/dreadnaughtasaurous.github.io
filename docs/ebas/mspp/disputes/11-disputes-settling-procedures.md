@@ -10,7 +10,7 @@ topics: ['leave', 'parental-leave', 'disputes', 'union-matters']
 
 **11.1** Resolution of disputes and grievances
 
-**a.** For the purpose of this clause 11, a dispute includes a grievance.
+**a.** For the purpose of this [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at), a dispute includes a grievance.
 
 **b.** This dispute resolution procedure will apply to any dispute arising in relation to:
 
@@ -58,11 +58,11 @@ topics: ['leave', 'parental-leave', 'disputes', 'union-matters']
 
 **(iii)** if the dispute is still unresolved, by discussions between the Employee/s (and/or representative) and more senior managers.
 
-**b.** Nothing in this clause 11.4 prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to 11.2.
+**b.** Nothing in this [clause 11.4](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to 11.2.
 
-**c.** The discussions at subclause 11.4a will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
+**c.** The discussions at [subclause 11.4](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at)a will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
 
-**d.** Where a Party believes the requirements of this clause 11.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable (and preferably before an appearance at the FWC).
+**d.** Where a Party believes the requirements of this [clause 11.4](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) have not been complied with, they will notify the other of their concern in writing as soon as practicable (and preferably before an appearance at the FWC).
 
 **e.** If a dispute cannot be resolved at the workplace it may be referred by a party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
@@ -86,7 +86,7 @@ topics: ['leave', 'parental-leave', 'disputes', 'union-matters']
 
 **b.** The Commission member that conciliated the dispute will not arbitrate the dispute if a party objects to the member doing so.
 
-**c.** Subject to subclause 11.7d below, a decision of the Commission is binding upon the persons covered by this Agreement.
+**c.** Subject to [subclause 11.7](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at)d below, a decision of the Commission is binding upon the persons covered by this Agreement.
 
 **d.** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 
@@ -94,7 +94,7 @@ topics: ['leave', 'parental-leave', 'disputes', 'union-matters']
 
 **a.** Subject to any agreement between the parties to the dispute in relation to a particular dispute or grievance and the provisions of this clause, in dealing with a dispute or grievance through conciliation or arbitration, the Commission may conduct the matter in accordance with sections 577, 578 and Subdivision B of Division 3 of Part 5-1 of the Act.
 
-**b.** For the avoidance of doubt, nothing in this clause 11 affects the operation of s.596 of the Act.
+**b.** For the avoidance of doubt, nothing in this [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) affects the operation of s.596 of the Act.
 
 Plain language terms: dispute resolution, grievance, FWC dispute.
 

@@ -10,17 +10,17 @@ topics: ['hours', 'overtime', 'rosters', 'preliminary']
 
 The purpose of this clause is to ensure that all time worked is paid and that timesheets (or equivalent) are submitted within the time required by the Health Service to ensure that Health Services have information relevant to the provision of safe hours.
 
-**36.1** The provisions of this clause 36 are to be read in conjunction with [clause 33](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) (Hours of Work).
+**36.1** The provisions of this [clause 36](/ebas/doctors-in-training/hours-of-work/36-overtime) are to be read in conjunction with [clause 33](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) (Hours of Work).
 
 **36.2** Definition
 
-**(a)** Hours worked in excess of ordinary hours per week pursuant to subclause 33.1 will be deemed overtime.
+**(a)** Hours worked in excess of ordinary hours per week pursuant to [subclause 33.1](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) will be deemed overtime.
 
 **(b)** Overtime may be either rostered or unrostered.
 
 **36.3** Overtime rates
 
-Where Doctor works overtime the Health Service must, subject to subclauses 36.4 (Part-time doctors) and 36.5 (Conversion of overtime to personal / carer’s leave) pay the Doctor overtime rates as follows:
+Where Doctor works overtime the Health Service must, subject to [subclauses 36.4](/ebas/doctors-in-training/hours-of-work/36-overtime) (Part-time doctors) and 36.5 (Conversion of overtime to personal / carer’s leave) pay the Doctor overtime rates as follows:
 
 For overtime worked on Full-time and part- Casual overtime time overtime rate rate1
 
@@ -44,7 +44,7 @@ A part-time Doctor directed by a Health Service to work rostered hours in excess
 
 **36.5** Conversion of overtime to personal / carer’s leave
 
-Overtime may be converted into carer’s leave in accordance with subclause 61.3(c)
+Overtime may be converted into carer’s leave in accordance with [subclause 61.3(c)](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave)
 
 **36.6** Approval and Payment of Overtime
 

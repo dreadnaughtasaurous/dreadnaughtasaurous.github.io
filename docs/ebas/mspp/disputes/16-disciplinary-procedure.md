@@ -24,13 +24,13 @@ topics: ['discipline', 'union-matters']
 
 **c.** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 
-**d.** The Employer will notify the Employee in accordance with sub-clause 16.3b as soon as practicable following the Employer becoming aware of concerns set out at sub-clause 16.1a.
+**d.** The Employer will notify the Employee in accordance with sub-[clause 16.3](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)b as soon as practicable following the Employer becoming aware of concerns set out at sub-[clause 16.1](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)a.
 
 **16.2** Definitions
 
 **a.** Performance means the manner in which the Employee fulfils their job requirements. The level of performance is determined by an Employee’s knowledge, skills, qualifications, abilities and the requirements of the role.
 
-**b.** Where there are concerns regarding Performance that does not meet the definition of Misconduct at subclause 16.2d, [clause 15](/ebas/allied-health/consultation-disputes/15-performance-management) will apply.
+**b.** Where there are concerns regarding Performance that does not meet the definition of Misconduct at [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d, [clause 15](/ebas/allied-health/consultation-disputes/15-performance-management) will apply.
 
 **c.** Conduct means the manner in which the Employee behaviour impacts on their work.
 
@@ -52,11 +52,11 @@ Performance issue can be considered Misconduct where, despite all reasonably pra
 
 **(iii)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment, save for exemptions under the OHS Act and the Act.
 
-**g.** Subclauses 16.2f(i)-16.2f(iii) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
+**g.** [Subclauses 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)f(i)-16.2f(iii) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
 
 **16.3** Investigative procedure
 
-**a.** The purpose of an investigative procedure is to conclude whether, on balance, concerns regarding Conduct (or a Performance matter that meets the definition of Misconduct in clause 16.2d) are well-founded and supported by evidence. An investigation procedure must be fair including proper regard to procedural fairness.
+**a.** The purpose of an investigative procedure is to conclude whether, on balance, concerns regarding Conduct (or a Performance matter that meets the definition of Misconduct in [clause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d) are well-founded and supported by evidence. An investigation procedure must be fair including proper regard to procedural fairness.
 
 **b.** The Employer will:
 
@@ -72,21 +72,21 @@ Performance issue can be considered Misconduct where, despite all reasonably pra
 
 **(vi)** take reasonable steps to investigate the Employee’s response.
 
-**c.** Where the Employer has complied with subclauses 16.3b(i)-b(iv) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
+**c.** Where the Employer has complied with [subclauses 16.3](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)b(i)-b(iv) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
 
-**d.** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under subclause 16.4c, including matters in mitigation if a disciplinary procedure (see subclause 16.4) is proposed.
+**d.** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under [subclause 16.4](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)c, including matters in mitigation if a disciplinary procedure (see [subclause 16.4](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)) is proposed.
 
 **e.** The Employer shall not de-identify complainants other than in exceptional circumstances where there is a risk to the personal safety of the complainant if their identity were disclosed.
 
 **16.4** Disciplinary Procedure
 
-**a.** This procedure applies if, following the investigation: the Employer reasonably considers that the Employee’s Conduct (or a Performance matter that meets the definition of Misconduct in subclause 16.2d) may warrant disciplinary steps being taken.
+**a.** This procedure applies if, following the investigation: the Employer reasonably considers that the Employee’s Conduct (or a Performance matter that meets the definition of Misconduct in [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d) may warrant disciplinary steps being taken.
 
 **b.** The Employer will:
 
 **(i)** notify the Employee in writing of the outcome of the investigation process, including providing a copy of the report and the basis of any conclusion; and
 
-**(ii)** provide the Employee with a reasonable opportunity to address the matters in subclause 16.4c
+**(ii)** provide the Employee with a reasonable opportunity to address the matters in [subclause 16.4](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)c
 
 **c.** In considering whether to take disciplinary action, the Employer will consider:
 
@@ -98,13 +98,13 @@ Performance issue can be considered Misconduct where, despite all reasonably pra
 
 **16.5** Possible outcomes
 
-**a.** Where it is determined that after following the procedures in this clause 16 that disciplinary action is warranted, the Employer may take any of the following steps depending on the seriousness of the Conduct or Performance and shall be recorded on the Employee’s personnel file:
+**a.** Where it is determined that after following the procedures in this [clause 16](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels) that disciplinary action is warranted, the Employer may take any of the following steps depending on the seriousness of the Conduct or Performance and shall be recorded on the Employee’s personnel file:
 
 **(i)** where the Performance or Conduct issue does not constitute Serious Misconduct: **(A)** counsel the Employee; **(B)** give the Employee a first written warning; **(C)** give the Employee a second written warning in the event that the Employee has previously been given a first warning within the previous 12 months for that course of conduct; **(D)** give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18 month period for that course of conduct; or
 
 **(E)** terminate the Employee’s employment on notice in the case of an Employee who repeats a course of conduct for which a final warning was given in the preceding 18 months;
 
-**(ii)** for Serious Misconduct: **(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in subclauses 16.5a(i)(A)- (i)(D)
+**(ii)** for Serious Misconduct: **(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in [subclauses 16.5](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)a(i)(A)- (i)(D)
 
 **b.** The Employer’s decision and a summary of its reasons will be notified to the Employee in writing.
 
@@ -112,7 +112,7 @@ Performance issue can be considered Misconduct where, despite all reasonably pra
 
 **16.6** Disputes
 
-**a.** A dispute over clause 16 (including subclause 16.7) is to be dealt with in accordance with the Dispute Resolution Procedure set out at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
+**a.** A dispute over [clause 16](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels) (including [subclause 16.7](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)) is to be dealt with in accordance with the Dispute Resolution Procedure set out at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
 
 **16.7** Exception – Employees who have not completed a minimum period of employment with their Employer
 
@@ -128,7 +128,7 @@ Performance issue can be considered Misconduct where, despite all reasonably pra
 
 **(v)** consider any explanation by the Employee, including any matters raised in mitigation, before making a decision to terminate the employment.
 
-**b.** The terms of subclauses 16.3 to 16.5 inclusive do not apply to Employees within the scope of the exception in this subclause 16.7.
+**b.** The terms of [subclauses 16.3](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels) to 16.5 inclusive do not apply to Employees within the scope of the exception in this [subclause 16.7](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels).
 
 Plain language terms: discipline, misconduct.
 

@@ -30,13 +30,13 @@ topics: ['hours', 'rosters', 'preliminary']
 
 **(a)** Employers must implement a policy or procedure for the issuance and finalisation of rosters which cover the performance of work on a public holiday under the Act.
 
-**(b)** The policy/procedure referenced at subclause 201A.5(a)above should:
+**(b)** The policy/procedure referenced at [subclause 201A.5(a)](/ebas/mental-health/management-admin/hours-of-work/201A-rosters)above should:
 
 **(i)** set out the process for an Employee to request not to work on a public holiday they are requested to work; and
 
 **(ii)** set out the process for the Employer to provide a written response to an Employee's request not to work on a public holiday they are requested to work
 
-**(c)** An Employer who receives a request under subclause 201A.5(b)(i) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must consider when determining whether a request is not reasonable include:
+**(c)** An Employer who receives a request under [subclause 201A.5(b)(i)](/ebas/mental-health/management-admin/hours-of-work/201A-rosters) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must consider when determining whether a request is not reasonable include:
 
 **(i)** whether the Employee has clearly explained a reason for refusing to work on the relevant public holiday
 
@@ -62,9 +62,9 @@ topics: ['hours', 'rosters', 'preliminary']
 
 **(d)** Where the Employer has requested an Employee to work any public holiday(s) and either:
 
-**(i)** the Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at subclause 201A.5(b)) above; or
+**(i)** the Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at [subclause 201A.5(b)](/ebas/mental-health/management-admin/hours-of-work/201A-rosters)) above; or
 
-**(ii)** the Employer has determined that a request was not reasonable (taking into account the factors in subclause 201A.5(c) the Employer may require the Employee to work on the relevant public holiday(s).
+**(ii)** the Employer has determined that a request was not reasonable (taking into account the factors in [subclause 201A.5(c)](/ebas/mental-health/management-admin/hours-of-work/201A-rosters) the Employer may require the Employee to work on the relevant public holiday(s).
 
 Plain language terms: rostering, shift roster, duty roster, roster changes.
 

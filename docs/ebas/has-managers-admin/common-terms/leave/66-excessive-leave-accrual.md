@@ -42,15 +42,15 @@ leave as a way of dealing with the accrual of excessive paid annual leave.
 
 **(a)** Where agreement cannot be reached in accordance with 66.1(c), the Employee may give a written notice to the Employer requesting to take one or more periods of annual leave.
 
-**(b)** However, an Employee may only give a notice to the Employer under clause 66.3(a) if:
+**(b)** However, an Employee may only give a notice to the Employer under [clause 66.3(a)](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual) if:
 
-**(i)** the Employee has had an excessive leave accrual, as deemed by subclause 66.1(b), for more than 6 months at the time of giving the notice; and
+**(i)** the Employee has had an excessive leave accrual, as deemed by [subclause 66.1(b)](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual), for more than 6 months at the time of giving the notice; and
 
 **(ii)** the Employee has not been given a direction under clause
 
 **63.2** that, when any other paid annual leave arrangements are taken into account, would eliminate the Employee’s excessive leave accrual.
 
-**(c)** A notice given by an Employee under clause 66.3(a) must not:
+**(c)** A notice given by an Employee under [clause 66.3(a)](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual) must not:
 
 **(i)** if granted, reduce the Employee’s accrued leave to less than six weeks; or
 
@@ -60,7 +60,7 @@ leave as a way of dealing with the accrual of excessive paid annual leave.
 
 **(iv)** be with any leave arrangement agreed by the employer and the employee.
 
-**(d)** An employee is not entitled to request by a notice under clause 66.3(a) more than 4 weeks’ paid annual leave (or 5 weeks’ paid annual leave for a weekend worker) in any period of 12 months.
+**(d)** An employee is not entitled to request by a notice under [clause 66.3(a)](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual) more than 4 weeks’ paid annual leave (or 5 weeks’ paid annual leave for a weekend worker) in any period of 12 months.
 
 **66.4** Disputes regarding excess annual leave Without limiting the Dispute Resolution Procedure of the Agreement, either an Employee or Employer (or their representative/s) may refer a dispute about the following matters to the Commission:
 

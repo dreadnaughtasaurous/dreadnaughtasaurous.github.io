@@ -8,11 +8,11 @@ topics: ['preliminary']
 
 
 
-**(a)** Subject to subclause 8(b), until the nominal expiry date of this Agreement, a Health Service, Doctor or Doctor organisation covered by this Agreement must not pursue any extra claims.
+**(a)** Subject to [subclause 8(b)](/ebas/medical-specialists/preliminary/8-no-extra-claims), until the nominal expiry date of this Agreement, a Health Service, Doctor or Doctor organisation covered by this Agreement must not pursue any extra claims.
 
 **(b)** Subclause (a) does not limit:
 
-**(i)** the resolution of an issue, that is not also a collective issue affecting more than one Doctor, arising under an individual Doctor's contract of employment by the Health Service and the Doctor in a manner consistent with subclause 31.11(a); or
+**(i)** the resolution of an issue, that is not also a collective issue affecting more than one Doctor, arising under an individual Doctor's contract of employment by the Health Service and the Doctor in a manner consistent with [subclause 31.11(a)](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases); or
 
 **(ii)** the Health Service’s capacity to introduce change at the workplace, subject to meeting its requirements to consult; or
 

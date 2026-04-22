@@ -10,7 +10,7 @@ topics: ['hours', 'rosters']
 
 This clause does not apply to casual Employees, DONs or Deputy DONs.
 
-**45.1** Subject to clause 45.10, the ordinary hours of full-time and part-time Employees will be worked according to a written roster that will:
+**45.1** Subject to [clause 45.10](/ebas/nurses-midwives/hours-of-work/45-rosters), the ordinary hours of full-time and part-time Employees will be worked according to a written roster that will:
 
 **(a)** be of at least 28 days duration;
 
@@ -46,19 +46,19 @@ See [clause 44](/ebas/nurses-midwives/hours-of-work/44-breaks) for further infor
 
 **45.3** Roster not posted at least 28 days before it comes into operation
 
-**(a)** From 8 July 2024, where a roster is not posted 28 days in advance as required by clause 45.1, each shift in the roster that is worked with less than 28 days' notice shall attract a change of roster allowance as prescribed at subclause 45.8(ii).
+**(a)** From 8 July 2024, where a roster is not posted 28 days in advance as required by [clause 45.1](/ebas/nurses-midwives/hours-of-work/45-rosters), each shift in the roster that is worked with less than 28 days' notice shall attract a change of roster allowance as prescribed at [subclause 45.8(ii)](/ebas/nurses-midwives/hours-of-work/45-rosters).
 
-Example: A roster for a ward was posted 25 days before coming into effect, rather than 28 days as required by clause 45.1. A change of roster is payable for those shifts worked on the roster with less than 28 days' notice.
+Example: A roster for a ward was posted 25 days before coming into effect, rather than 28 days as required by [clause 45.1](/ebas/nurses-midwives/hours-of-work/45-rosters). A change of roster is payable for those shifts worked on the roster with less than 28 days' notice.
 
-**(b)** The provisions of subclause 45.3(a) do not apply where:
+**(b)** The provisions of [subclause 45.3(a)](/ebas/nurses-midwives/hours-of-work/45-rosters) do not apply where:
 
 **(i)** In respect of a shift that the Employee agrees to work as an additional shift under the supplementary roster;
 
-**(ii)** In respect of a shift that the Employee works that already attracts the Change of Roster allowance under clause 45.8;
+**(ii)** In respect of a shift that the Employee works that already attracts the Change of Roster allowance under [clause 45.8](/ebas/nurses-midwives/hours-of-work/45-rosters);
 
 **(iii)** The shift was not rostered in advance because the Employee swapped shifts by agreement with another Employee; or
 
-**(iv)** The roster is varied in accordance with this Agreement, for example clauses 45.5 or 45.8.
+**(iv)** The roster is varied in accordance with this Agreement, for example [clauses 45.5 or 45.8](/ebas/nurses-midwives/hours-of-work/45-rosters).
 
 **45.4** Breaks between Rostered Shifts
 
@@ -66,7 +66,7 @@ The roster or rosters will be drawn up so as to provide at least eight hours bet
 
 **45.5** Fixed Rosters
 
-**(a)** An Employee, by making a written request to the Employer, may have a roster fixed by mutual agreement (subject to the other provisions of this Agreement) in lieu of the provisions of clauses 45.1 to 45.2 save that:
+**(a)** An Employee, by making a written request to the Employer, may have a roster fixed by mutual agreement (subject to the other provisions of this Agreement) in lieu of the provisions of [clauses 45.1](/ebas/nurses-midwives/hours-of-work/45-rosters) to 45.2 save that:
 
 **(i)** an Employer will not unreasonably refuse a request for a fixed roster agreement where the Employee can demonstrate a regular and systematic pattern of work (as defined below);
 
@@ -80,7 +80,7 @@ The roster or rosters will be drawn up so as to provide at least eight hours bet
 
 **(b)** A written request for a fixed roster may be made in circumstances where the Employer is proposing to alter, or has recently altered, the Employee’s regular and systematic pattern of work.
 
-**(c)** An Employee may end the fixed roster agreement at any time by giving written notice to the Employer. In such a case, the roster for the Employee will be set according to the provisions of clauses 45.1 to 45.2 above from the commencement of the next full roster period being not less than five clear days after the written notice is received.
+**(c)** An Employee may end the fixed roster agreement at any time by giving written notice to the Employer. In such a case, the roster for the Employee will be set according to the provisions of [clauses 45.1](/ebas/nurses-midwives/hours-of-work/45-rosters) to 45.2 above from the commencement of the next full roster period being not less than five clear days after the written notice is received.
 
 **45.6** Replacing unplanned absences
 
@@ -114,13 +114,13 @@ The intent of this clause is to ensure Employees have a reasonably predictable p
 
 **(ii)** posted at least 28 days before it comes into operation in each work location where it can be readily seen by Employees and representatives of the Employees, including the Union, without notice.
 
-**(c)** Nothing in this clause prevents an Employer placing an Employee on call in circumstances where the requirement for the Employee to be rostered on call was not known at the time the roster was released, save that where this occurs, the allowance at clause 45.8 applies.
+**(c)** Nothing in this clause prevents an Employer placing an Employee on call in circumstances where the requirement for the Employee to be rostered on call was not known at the time the roster was released, save that where this occurs, the allowance at [clause 45.8](/ebas/nurses-midwives/hours-of-work/45-rosters) applies.
 
 **(d)** On-call/recall payments are located at [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances).
 
 **45.8** Change of Roster Allowance
 
-**(a)** If the Employer changes an Employee's roster or planned on call roster once set in accordance with clauses 45.1 or 45.7, other than as excepted in subclause 45.2(d), the Change of Roster Allowance will apply in relation to each change as follows:
+**(a)** If the Employer changes an Employee's roster or planned on call roster once set in accordance with [clauses 45.1 or 45.7](/ebas/nurses-midwives/hours-of-work/45-rosters), other than as excepted in [subclause 45.2(d)](/ebas/nurses-midwives/hours-of-work/45-rosters), the Change of Roster Allowance will apply in relation to each change as follows:
 
 **(i)** 7 days' or less notice, the applicable rate in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances), Part 2; and
 
@@ -128,21 +128,21 @@ The intent of this clause is to ensure Employees have a reasonably predictable p
 
 This allowance is not payable to a part-time Employee for an additional shift worked unless the circumstances described in [clause 46.4](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts) (Supplementary Roster and Additional Shifts) apply.
 
-**(b)** If an additional shift is worked by a part-time Employee other than under the supplementary roster, it attracts the Change of Roster Allowance as described at subclause 45.8(a)(ii) above.
+**(b)** If an additional shift is worked by a part-time Employee other than under the supplementary roster, it attracts the Change of Roster Allowance as described at [subclause 45.8(a)(ii)](/ebas/nurses-midwives/hours-of-work/45-rosters) above.
 
-**(c)** This clause 45.8 does not apply to those circumstances covered by [clause 41A](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance) (Change of Ward Allowance) unless the start and/or finish time on the Employee’s roster, in relation to ordinary hours, also change.
+**(c)** This [clause 45.8](/ebas/nurses-midwives/hours-of-work/45-rosters) does not apply to those circumstances covered by [clause 41A](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance) (Change of Ward Allowance) unless the start and/or finish time on the Employee’s roster, in relation to ordinary hours, also change.
 
 **45.9** Rosters which include work on public holidays
 
 **(a)** Employers must implement a policy or procedure for the issuance and finalisation of rosters which cover the performance of work on a public holiday under the Act.
 
-**(b)** The policy / procedure referenced at subclause 45.9(a) above should:
+**(b)** The policy / procedure referenced at [subclause 45.9(a)](/ebas/nurses-midwives/hours-of-work/45-rosters) above should:
 
 **(i)** set out the process for an Employee to request not to work on a public holiday they are requested to work; and
 
 **(ii)** set out the process for the Employer to provide a written response to an Employee's request not to work on a public holiday they are requested to work.
 
-**(c)** An Employer who receives a request under subclause 45.9(b)(i) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must consider when determining whether a request is not reasonable include:
+**(c)** An Employer who receives a request under [subclause 45.9(b)(i)](/ebas/nurses-midwives/hours-of-work/45-rosters) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must consider when determining whether a request is not reasonable include:
 
 **(i)** whether the Employee has clearly explained a reason for refusing to work on the relevant public holiday;
 
@@ -168,15 +168,15 @@ This allowance is not payable to a part-time Employee for an additional shift wo
 
 **(d)** Where the Employer has requested an Employee to work any public holiday(s) and either:
 
-**(i)** the Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at subclause 45.9(a) above; or
+**(i)** the Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at [subclause 45.9(a)](/ebas/nurses-midwives/hours-of-work/45-rosters) above; or
 
-**(ii)** the Employer has determined that a request was not reasonable (taking into account the factors in subclause 45.9(c)),
+**(ii)** the Employer has determined that a request was not reasonable (taking into account the factors in [subclause 45.9(c)](/ebas/nurses-midwives/hours-of-work/45-rosters)),
 
 the Employer may require the Employee to work on the relevant public holiday(s).
 
 **45.10** Employees not required to have a roster
 
-**(a)** The requirement to have a roster at clause 45.1 and payments for failing to post a roster at clause 45.3 do not apply to those Employees who are genuinely not required to work in accordance with a roster. Whether an Employee is genuinely not required to work in accordance with a roster shall be determined on the circumstances including:
+**(a)** The requirement to have a roster at [clause 45.1](/ebas/nurses-midwives/hours-of-work/45-rosters) and payments for failing to post a roster at [clause 45.3](/ebas/nurses-midwives/hours-of-work/45-rosters) do not apply to those Employees who are genuinely not required to work in accordance with a roster. Whether an Employee is genuinely not required to work in accordance with a roster shall be determined on the circumstances including:
 
 **(i)** The nature of the role and the environment in which it operates;
 
@@ -184,13 +184,13 @@ the Employer may require the Employee to work on the relevant public holiday(s).
 
 **(iii)** That the Employee’s work hours are set or self-directed.
 
-**(b)** This clause 45.10 does not limit an Employer’s obligations in respect to on-call rosters.
+**(b)** This [clause 45.10](/ebas/nurses-midwives/hours-of-work/45-rosters) does not limit an Employer’s obligations in respect to on-call rosters.
 
 **(c)** By not later than 1 November 2024 the Employer will provide the WIC with a list of existing Employee positions it says do not work in accordance with a roster. Any disputes about whether such Employees are genuinely not required to work
 
 in accordance with a roster (for the purposes of subclause (a) above) that are not resolved at the WIC will be referred to the Central Implementation Committee.
 
-**(d)** Where the Employer is proposing to create a position to which this clause 45.10 applies, this information will be included in the change impact statement required under [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation).
+**(d)** Where the Employer is proposing to create a position to which this [clause 45.10](/ebas/nurses-midwives/hours-of-work/45-rosters) applies, this information will be included in the change impact statement required under [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation).
 
 Plain language terms: rostering, shift roster, duty roster, roster changes.
 

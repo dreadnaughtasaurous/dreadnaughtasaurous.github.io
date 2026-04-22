@@ -44,15 +44,15 @@ topics: ['preliminary']
 
 **(p)** Social Work; and
 
-**(q)** Speech Pathology; an Employee who would have been a Chief (as defined in the 2011 Agreement) classified two (2) grades or more below that of another Chief position (that is either in the therapy stream or the radiation related stream) in the employ of the same Employer under the 2011 Agreement, will be reclassified as described at subclause 87.3 (Reclassification) below.
+**(q)** Speech Pathology; an Employee who would have been a Chief (as defined in the 2011 Agreement) classified two (2) grades or more below that of another Chief position (that is either in the therapy stream or the radiation related stream) in the employ of the same Employer under the 2011 Agreement, will be reclassified as described at [subclause 87.3](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure) (Reclassification) below.
 
 **87.3** Reclassification
 
-**(a)** This clause 87 is to have the same effect as subclause 29.1 of the 2011 Agreement, subclause 86.3 of the 2016 Agreement and subclause 86.3 of the 2020 Agreement.
+**(a)** This [clause 87](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure) is to have the same effect as [subclause 29.1](/ebas/allied-health/wages/29-payment-of-wages) of the 2011 Agreement, [subclause 86.3](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2016 Agreement and [subclause 86.3](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2020 Agreement.
 
-**(b)** The Grade 6 Allied Health Manager has no impact on reclassification under this clause 87.
+**(b)** The Grade 6 Allied Health Manager has no impact on reclassification under this [clause 87](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure).
 
-**(c)** A translation table intending to give effect to subclause 87.3(a) taking into account the AHP1 classification structure is outlined as follows (different FTE numbers AHP apply to Orthotics/Prosthetics): 2011 Agreement 2016 Agreement, 2020 Agreement, and this Agreement
+**(c)** A translation table intending to give effect to [subclause 87.3(a)](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure) taking into account the AHP1 classification structure is outlined as follows (different FTE numbers AHP apply to Orthotics/Prosthetics): 2011 Agreement 2016 Agreement, 2020 Agreement, and this Agreement
 
 Allied Health Chief Staff Reclassification Staff Equivalent translation Manager (AHM)
 
@@ -68,7 +68,7 @@ Chief 40 – 85 FTE AHP Reclassification is not AHM Grade 40 – 85 FTE AHP Recl
 
 Chief 86 or more FTE Reclassification is not AHM Grade 86 or more FTE AHP Reclassification is not Grade 5 AHP and/or at applicable as there 6 and/or 91 or more applicable. least 91 other staff can be no allied Chief other staff two Grades or more above the Chief Grade 5
 
-In the table above: • AHP means Employees covered by this Agreement, the 2011 Agreement, the 2016 Agreement and/or the 2020 Agreement; • Chief means a Chief as defined in the 2011 Agreement; • 2011 Agreement, 2016 Agreement, 2020 Agreement and Agreement has the same meaning as in [clause 4](/ebas/allied-health/preliminary/4-definitions); and • FTE means Full-Time Employees, which is determined in accordance with subclause 86.1 of the 2020 Agreement, subclause 86.1 of the 2016 Agreement and/or subclause 29.1 of the 2011 Agreement.
+In the table above: • AHP means Employees covered by this Agreement, the 2011 Agreement, the 2016 Agreement and/or the 2020 Agreement; • Chief means a Chief as defined in the 2011 Agreement; • 2011 Agreement, 2016 Agreement, 2020 Agreement and Agreement has the same meaning as in [clause 4](/ebas/allied-health/preliminary/4-definitions); and • FTE means Full-Time Employees, which is determined in accordance with [subclause 86.1](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2020 Agreement, [subclause 86.1](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2016 Agreement and/or [subclause 29.1](/ebas/allied-health/wages/29-payment-of-wages) of the 2011 Agreement.
 
 **87.4** Management Arrangement
 

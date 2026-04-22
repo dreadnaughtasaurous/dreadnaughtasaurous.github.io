@@ -30,6 +30,6 @@ topics: ['preliminary']
 
 **10.3** The Committee will comprise nominated representatives from the union, the VHIA and DH (as required). The Committee may, by agreement, establish subgroups or delegate individual matters to a relevant health service(s) as required.
 
-**10.4** The Committee members may agree to engage a mediator to facilitate the resolution of disputes where the parties are unable to reach an agreement on the matters provided for in clause 10.1.
+**10.4** The Committee members may agree to engage a mediator to facilitate the resolution of disputes where the parties are unable to reach an agreement on the matters provided for in [clause 10.1](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime).
 
 

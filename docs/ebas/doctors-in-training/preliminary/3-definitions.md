@@ -42,11 +42,11 @@ topics: ['preliminary']
 
 **(iii)** Experience as a Registrar while performing Higher Duties pursuant to [clause 51](/ebas/doctors-in-training/allowances/51-higher-duties) (Higher Duties) will be counted as Experience for the purpose of the above where the Higher Duties period is continuous with a subsequent appointment to a Registrar position.
 
-**(iv)** Where a Doctor performs Higher Duties as a Registrar pursuant to [clause 51](/ebas/doctors-in-training/allowances/51-higher-duties) (Higher Duties) but the Higher Duties period is not continuous with a subsequent appointment to a Registrar position, the hours worked as a Registrar will contribute to the calculation of progression in accordance with subclause 3.1(m)(i) in their first year of appointment as a Registrar.
+**(iv)** Where a Doctor performs Higher Duties as a Registrar pursuant to [clause 51](/ebas/doctors-in-training/allowances/51-higher-duties) (Higher Duties) but the Higher Duties period is not continuous with a subsequent appointment to a Registrar position, the hours worked as a Registrar will contribute to the calculation of progression in accordance with [subclause 3.1(m)(i)](/ebas/doctors-in-training/preliminary/3-definitions) in their first year of appointment as a Registrar.
 
-**(v)** Where a Registrar moves from one recognised Speciality stream to another, he or she will not progress to the next higher annual incremental level for a further period of 12 months (refer subclause 3.1(bb))
+**(v)** Where a Registrar moves from one recognised Speciality stream to another, he or she will not progress to the next higher annual incremental level for a further period of 12 months (refer [subclause 3.1(bb)](/ebas/doctors-in-training/preliminary/3-definitions))
 
-**(vi)** Where a Doctor is absent for a period of Parental Leave pursuant to subclause 67.3 (Long Parental Leave Unpaid) or 67.4 (Short Parental Leave Unpaid), the period of Parental Leave should not be considered in the calculation of the average hours worked per week in a year
+**(vi)** Where a Doctor is absent for a period of Parental Leave pursuant to [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave) (Long Parental Leave Unpaid) or 67.4 (Short Parental Leave Unpaid), the period of Parental Leave should not be considered in the calculation of the average hours worked per week in a year
 
 **(n)** FWC means the Fair Work Commission.
 
@@ -68,7 +68,7 @@ topics: ['preliminary']
 
 **(s)** Hourly Rate for Hospital Medical Officers, Medical Officers and Senior Medical Officers means 1/38th of the relevant weekly rate.
 
-**(t)** Hourly Rate for Registrars means 1/43rd of the relevant weekly rate as the ordinary hours of work for Registrars are made up of 38 hours of ordinary duty plus 5 reasonable additional hours of training time, equalling 43 hours per week or an average of 43 hours per week for up to 4 weeks pursuant to subclause 34.
+**(t)** Hourly Rate for Registrars means 1/43rd of the relevant weekly rate as the ordinary hours of work for Registrars are made up of 38 hours of ordinary duty plus 5 reasonable additional hours of training time, equalling 43 hours per week or an average of 43 hours per week for up to 4 weeks pursuant to [subclause 34](/ebas/doctors-in-training/hours-of-work/34-training-time).
 
 **(u)** HSR means a health and safety representative (including a deputy health and safety representative) elected under the OHS Act.
 
@@ -84,7 +84,7 @@ topics: ['preliminary']
 
 **(aa)** Parent Hospital means a Hospital that employs a Doctor, typically on a one year contract from the first week of February, on the understanding that the Doctor may be directed to work at a Rotation Hospital in order to meet the requirements of a structured training program OR to meet service demands. Separate campuses of amalgamated health services are deemed to be the one Parent Hospital.
 
-**(bb)** Registrar means a Doctor who is either appointed to an accredited Specialist training position (refer subclause 42.7(c)) or who holds a position designated as such by the Health Service.
+**(bb)** Registrar means a Doctor who is either appointed to an accredited Specialist training position (refer [subclause 42.7(c)](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases)) or who holds a position designated as such by the Health Service.
 
 **(cc)** Regulations means the Fair Work Regulations, as varied from time to time, and any successor to those Regulations
 
@@ -108,7 +108,7 @@ topics: ['preliminary']
 
 **(iii)** whose heart has not beaten since delivery.
 
-**(kk)** Training Time means a rostered period of time available to Registrars for five hours per week dedicated for training which is free from service calls, with the exception of calls about genuine medical emergencies or disaster situations. Forms of Training Time are set out in subclause 34.4.
+**(kk)** Training Time means a rostered period of time available to Registrars for five hours per week dedicated for training which is free from service calls, with the exception of calls about genuine medical emergencies or disaster situations. Forms of Training Time are set out in [subclause 34.4](/ebas/doctors-in-training/hours-of-work/34-training-time).
 
 **(ll)** VHIA means the Victorian Hospitals’ Industrial Association.
 

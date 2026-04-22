@@ -38,7 +38,7 @@ topics: ['professional-development', 'leave']
 
 **c.** An Employee may utilise Professional Development Leave for part of a single day.
 
-**d.** The leave in clause 73.2a is cumulative over two calendar years.
+**d.** The leave in [clause 73.2](/ebas/mspp/leave/73-professional-development-leave)a is cumulative over two calendar years.
 
 **e.** Professional development leave may be utilised for learning activities including but not limited to research, home study, and attendance at conferences and seminars.
 
@@ -60,7 +60,7 @@ topics: ['professional-development', 'leave']
 
 **h.** Where an application for Professional Development Leave which is approved by the Employer covers a period where the Employee would be rostered off (e.g. on weekends, ADOs or after hours), the Employer will provide time in lieu for the period of the course.
 
-**i.** For the purposes of clause 73.3h, time in lieu means time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
+**i.** For the purposes of [clause 73.3](/ebas/mspp/leave/73-professional-development-leave)h, time in lieu means time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
 
 **j.** Any dispute about the reasonableness of withholding of approval of Professional Development Leave shall be dealt with under [Clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) – Dispute Settling Procedure.
 

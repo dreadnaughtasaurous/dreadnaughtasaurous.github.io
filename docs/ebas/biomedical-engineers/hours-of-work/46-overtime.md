@@ -58,7 +58,7 @@ topics: ['hours', 'overtime']
 
 **(c)** The following clause does not apply to Employees at Barwon Health, Latrobe Regional Health and Western Health Overtime shall be paid wherever work is performed in addition to the full-time rostered shift length for that work area. Where full time Employees in a particular work area work 8 hours per shift, overtime will be payable where a part time Employee in that same work area works beyond 8 hours in a shift. Where full time Employee work 10 hours per shift, overtime will be payable where a part-time Employee works beyond 10 hours.
 
-**46.4** Time in Lieu Except as provided for in subclauses 46.4(a) and 46.4(b) below, overtime shall be paid for and an Employee shall not be allowed to take time off in lieu thereof.
+**46.4** Time in Lieu Except as provided for in [subclauses 46.4(a)](/ebas/biomedical-engineers/hours-of-work/46-overtime) and 46.4(b) below, overtime shall be paid for and an Employee shall not be allowed to take time off in lieu thereof.
 
 **(a)** Other than the Royal Children’s Hospital and the Royal Women’s Hospital: An Employee who is classified as a Class 4 or 5 may elect, in lieu of payment of overtime, to take time off equivalent to the time worked at a time mutually agreed between the Employer and the Employee.
 

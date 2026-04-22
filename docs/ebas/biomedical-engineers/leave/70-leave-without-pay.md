@@ -8,13 +8,13 @@ topics: ['leave', 'employment', 'preliminary']
 
 
 
-**70.1** Definitions For the purposes of this clause 70 only, continuous service includes:
+**70.1** Definitions For the purposes of this [clause 70](/ebas/biomedical-engineers/leave/70-leave-without-pay) only, continuous service includes:
 
 **(a)** continuous service with one and the same Employer, or
 
-**(b)** continuous service with more than one Employer including institutions or statutory bodies (as defined at subclause 63.1(e) and (j)), and
+**(b)** continuous service with more than one Employer including institutions or statutory bodies (as defined at [subclause 63.1(e)](/ebas/biomedical-engineers/leave/63-long-service-leave) and (j)), and
 
-**(c)** an allowable period of absence (as defined at subclause 63.1(a)).
+**(c)** an allowable period of absence (as defined at [subclause 63.1(a)](/ebas/biomedical-engineers/leave/63-long-service-leave)).
 
 **70.2** Leave without pay for research or study
 

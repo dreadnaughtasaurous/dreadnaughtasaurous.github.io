@@ -22,7 +22,7 @@ topics: ['ohs', 'workers-comp']
 
 **(vi)** psychological injury.
 
-**(b)** The proactive cooperation described at clause 69A(a) with respect to the priorities identified above, will seek to achieve the following:
+**(b)** The proactive cooperation described at [clause 69A(a)](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group) with respect to the priorities identified above, will seek to achieve the following:
 
 **(i)** In the case of safe patient and manual handling processes, reduction of musculoskeletal injuries by identifying requirements for safe patient and manual handling programs including recommendation of principles and practices to prevent and reduce the associated risks
 

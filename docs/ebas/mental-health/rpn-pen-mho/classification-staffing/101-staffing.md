@@ -12,7 +12,7 @@ topics: ['staffing']
 
 **(a)** Each Employer must employ a full-time Mental Health Director of Nursing, classified in accordance with this agreement.
 
-**(b)** Where not already the case, from 1 July 2026, the Director of Nursing role will not have operational responsibility for bed based or community services to enable the prioritisation of the completion of those responsibilities included in subclause 108.16(c). The following positions may report operationally to the position: Nurse Practitioners, Clinical Nurse Consultants, Senior Psychiatric Nurse, and other equivalent mental health nursing roles.
+**(b)** Where not already the case, from 1 July 2026, the Director of Nursing role will not have operational responsibility for bed based or community services to enable the prioritisation of the completion of those responsibilities included in [subclause 108.16(c)](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications). The following positions may report operationally to the position: Nurse Practitioners, Clinical Nurse Consultants, Senior Psychiatric Nurse, and other equivalent mental health nursing roles.
 
 **(c)** The Employer and Unions may agree in writing to vary the restriction in 101.1(b). This agreement may vary the restriction in 101.1(b) for an agreed period of time to enable employers to realign the Director of Nursing workload to release them from any operational responsibilities to ensure they can meet the responsibilities included in 108.16(c).
 
@@ -36,7 +36,7 @@ topics: ['staffing']
 
 **(c)** Subclause (a) does not require the appointment of a Nurse Unit Manager in a CCU or CRP (however titled),where a NUM is not appointed as at 1 July 2016.
 
-**(d)** Nothing in sub-clause (c) above will limit, or in any way change, the Employer’s obligations under clause 101.4 below.
+**(d)** Nothing in sub-clause (c) above will limit, or in any way change, the Employer’s obligations under [clause 101.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) below.
 
 **101.4** Registered Psychiatric Nurse - Associate Nurse Unit Managers
 
@@ -56,11 +56,11 @@ topics: ['staffing']
 
 **(v)** Where less than four EFT of ANUMs are permanently appointed due to recruitment difficulties or delays or to circumstances beyond an Employer's control, a Registered Psychiatric Nurse, other than an ANUM, may be required to act in charge during the off-duty period of a NUM (which event will be the exception to the rule). Such a Registered Psychiatric Nurse shall be paid at the minimum rate for the Nurse Unit Manager for the entire shift.
 
-**(vi)** Sub-clause 101.4(c)(v) does not apply to a RPN who is required to act in charge in the following circumstances: **(A)** Where an ANUM in whose place the RPN acts, is on any form of leave; or **(B)** For a reasonable period during which a replacement ANUM is sought to be employed to fill a vacancy created by the termination of employment of an ANUM in whose place the RPN acts.
+**(vi)** Sub-[clause 101.4(c)(v)](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) does not apply to a RPN who is required to act in charge in the following circumstances: **(A)** Where an ANUM in whose place the RPN acts, is on any form of leave; or **(B)** For a reasonable period during which a replacement ANUM is sought to be employed to fill a vacancy created by the termination of employment of an ANUM in whose place the RPN acts.
 
 **(vii)** In the circumstances set out in 101.4(c)(vi)(A) or 101.4(c)(vi)(B) the RPN acting in charge shall be paid at the minimum rate applicable to the ANUM position which would normally be in charge of that shift.
 
-**(viii)** If, despite having taken reasonable and practical steps to fill the ANUM positions, an Employer experiences difficulty in recruiting Employees to the permanent ANUM position in order to comply with this clause 101.4, the Employer will contact the relevant workplace delegates and their unions and agree on alternative arrangements.
+**(viii)** If, despite having taken reasonable and practical steps to fill the ANUM positions, an Employer experiences difficulty in recruiting Employees to the permanent ANUM position in order to comply with this [clause 101.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing), the Employer will contact the relevant workplace delegates and their unions and agree on alternative arrangements.
 
 **101.5** RPN4 - ECT Nurse (Electroconvulsive Therapy Nurse)
 
@@ -114,7 +114,7 @@ topics: ['staffing']
 
 **(i)** The Parties agree to assist in facilitating over the life of the agreement an increase of up to 15% of community mental health staff to be RPN2, PEN or MHO.
 
-**(ii)** In relation to sub-clause (a)\[(a)\] above the: **(A)** RPN 2 placement shall be a training position and shall comply with the criteria outlined in sub-clause 101.11 below. **(B)** PEN role shall be appropriate to level and experience. Where medication qualification exists, this should be taken into account in role description and work allocated.
+**(ii)** In relation to sub-clause (a)\[(a)\] above the: **(A)** RPN 2 placement shall be a training position and shall comply with the criteria outlined in sub-[clause 101.11](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) below. **(B)** PEN role shall be appropriate to level and experience. Where medication qualification exists, this should be taken into account in role description and work allocated.
 
 **(iii)** MHO role shall be consistent with current classification and role description, that is will not include clinical interventions or treatment provided by RPN/ PEN/ Health Professionals but will provide a support role.
 

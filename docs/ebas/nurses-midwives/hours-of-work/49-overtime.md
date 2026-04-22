@@ -32,7 +32,7 @@ Note: See [clause 33](/ebas/nurses-midwives/allowances/33-allowances-related-to-
 
 **(b)** Overtime is also as provided at [clause 53](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall) (Rest Period after Overtime/Recall).
 
-**(c)** Overtime (including for a double shift as defined at subclause 49.6(c)) is to be paid as follows:
+**(c)** Overtime (including for a double shift as defined at [subclause 49.6(c)](/ebas/nurses-midwives/hours-of-work/49-overtime)) is to be paid as follows:
 
 **(i)** Monday to Friday (inclusive) – time and half for the first two hours, double time thereafter;
 
@@ -60,7 +60,7 @@ An Employee working overtime will take a paid rest break of 20 minutes after eac
 
 **49.3** Reasonable overtime
 
-**(a)** In determining whether overtime is "reasonable overtime" for the purposes of clause 49.1, the following must be taken into account:
+**(a)** In determining whether overtime is "reasonable overtime" for the purposes of [clause 49.1](/ebas/nurses-midwives/hours-of-work/49-overtime), the following must be taken into account:
 
 **(i)** any risk to Employee health and safety from working the additional hours;
 
@@ -84,7 +84,7 @@ An Employee working overtime will take a paid rest break of 20 minutes after eac
 
 **49.4** Approval of Overtime
 
-**(a)** A request or direction made by the nurse or midwife in charge of the ward that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether subclause 49.4(b) is complied with.
+**(a)** A request or direction made by the nurse or midwife in charge of the ward that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether [subclause 49.4(b)](/ebas/nurses-midwives/hours-of-work/49-overtime) is complied with.
 
 **(b)** An Employer may create policies and procedures regarding the process the nurse or midwife in charge of the ward is required to undertake prior to approving overtime.
 
@@ -96,13 +96,13 @@ An Employee may, with the consent of the Employer, elect to take time off in lie
 
 **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee, including the return journey where the Employee's vehicle remains at the workplace.
 
-**(b)** Where overtime is a result of a double shift, the provisions at subclause 49.6(c) below (Additional Provisions for Double Shifts) also apply.
+**(b)** Where overtime is a result of a double shift, the provisions at [subclause 49.6(c)](/ebas/nurses-midwives/hours-of-work/49-overtime) below (Additional Provisions for Double Shifts) also apply.
 
 **(c)** Additional Provisions for Double Shifts
 
 **(i)** A double shift occurs where a non-casual Employee has worked 14 or more continuous hours (inclusive of any paid or unpaid breaks).
 
-**(ii)** An Employee who works a double shift will be entitled to overtime in accordance with subclause 49.2(c).
+**(ii)** An Employee who works a double shift will be entitled to overtime in accordance with [subclause 49.2(c)](/ebas/nurses-midwives/hours-of-work/49-overtime).
 
 **(iii)** If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
 

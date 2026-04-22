@@ -18,7 +18,7 @@ topics: ['preliminary']
 
 **86.2** An Employee is entitled to make a request to WFH in accordance with the Employer’s policy.
 
-**86.3** Where an application is made in accordance with the Employer’s policy, such a request will not be unreasonably refused by the Employer. Without limiting subclauses 86.1 or 86.3, an Employer may refuse an Employee’s request to WFH on Reasonable Business Grounds.
+**86.3** Where an application is made in accordance with the Employer’s policy, such a request will not be unreasonably refused by the Employer. Without limiting [subclauses 86.1 or 86.3](/ebas/biomedical-engineers/workplace-rights/86-working-from-home), an Employer may refuse an Employee’s request to WFH on Reasonable Business Grounds.
 
 **86.4** Nothing in this clause limits the right of an Employee to request a flexible working arrangement under [clause 85](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements) of this Agreement.
 

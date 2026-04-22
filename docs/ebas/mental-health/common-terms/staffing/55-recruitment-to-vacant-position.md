@@ -10,7 +10,7 @@ topics: ['employment', 'termination', 'staffing']
 
 **55.1** The process for advertising and filling vacancies will be as follows:
 
-**(a)** Each bed-based service subject to subclause 102.1 –, will have a staffing profile based on EFT of nurses.
+**(a)** Each bed-based service subject to [subclause 102.1](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) –, will have a staffing profile based on EFT of nurses.
 
 **(b)** Where a vacancy arises within an existing staffing profile, the responsible manager will initiate action to advertise the vacant position internally and/or externally after receiving notice of the resignation/termination.
 

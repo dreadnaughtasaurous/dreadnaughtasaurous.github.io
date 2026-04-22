@@ -12,7 +12,7 @@ topics: ['wages', 'employment', 'preliminary']
 
 **85.2** The weekly full-time wage rates applicable to each classification during the period that this Agreement operates are set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) (Wage Rates).
 
-**85.3** Appointment to a wage point will be based on the Employee’s Experience as defined at subclause 85.12(a) below.
+**85.3** Appointment to a wage point will be based on the Employee’s Experience as defined at [subclause 85.12(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) below.
 
 Example 1: A Physiotherapist with two (2) completed years’ Experience at AHP1 Grade 2 is classified as an AHP1 Grade 2, Year 3. They terminate their employment and commence with a new Employer as a Physiotherapist Grade 2. The Physiotherapist’s previous AHP1 Grade 2 experience means they commence the new employment at AHP1 Grade 2 Year 3. Example 2: A Grade 3 Nuclear Medicine Technologist (NMT) has 10 years’ Experience at Grade 3 and is classified as an AHP1 Grade 3, Year 4. The Grade 3 position is made redundant and the NMT agrees to be redeployed to a Grade 2 position. Due to the NMT’s Grade 3 experience, the NMT will be employed as an AHP1 Grade 2, Year 4 after redeployment. Nine (9) months after the redeployment, the NMT is appointed to a Grade 3 position. The NMT’s previous Grade 3 experience means they are employed as a AHP1 Grade 3, Year 4. Example 3: A Medical Imaging Technologist (MIT) is classified as a Level 7 MIT for six (6) years under a private Radiography enterprise agreement. This Level 7 MIT classification is the equivalent of AHP1 Grade 4 in this Agreement. This MIT is then employed by an Employer covered by this Agreement as a Grade 4 MIT. The Employee’s previous experience at a level equivalent to AHP1 Grade 4 under this Agreement means they commence the new employment at AHP1 Grade 4 Year 4.
 
@@ -32,7 +32,7 @@ Example 1: A Physiotherapist with two (2) completed years’ Experience at AHP1 
 
 **85.7** Entry Level – New Graduate – Rural, Regional and Community Health Centres/Services
 
-**(a)** This subclause 85.7 applies to Employees employed in a Rural or Regional Health Service or in a Community Health Centre/Service.
+**(a)** This [subclause 85.7](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) applies to Employees employed in a Rural or Regional Health Service or in a Community Health Centre/Service.
 
 **(b)** An Employee who holds:
 
@@ -60,9 +60,9 @@ Example 1: A Physiotherapist with two (2) completed years’ Experience at AHP1 
 
 **(ii)** Dental Prosthetist will cease being an AHP2 classification and become an AHP1 classification.
 
-**(b)** Translation arrangements for the changes in subclause 85.11(a) are in Appendix 2 Part B and Part C of this Agreement.
+**(b)** Translation arrangements for the changes in [subclause 85.11(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) are in Appendix 2 Part B and Part C of this Agreement.
 
-**85.12** Definitions In this clause 85:
+**85.12** Definitions In this [clause 85](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages):
 
 **(a)** Experience means experience in the Employee’s profession at an equivalent or higher classification obtained within the last five (5) years at any workplace, excluding any unpaid leave provisions in the Agreement (or any previous applicable instrument).
 

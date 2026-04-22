@@ -56,7 +56,7 @@ An Employee may use up to five days' personal leave, in aggregate, in any year o
 
 **(c)** Evidence requirements
 
-An Employee taking sick leave will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury, in the case of leave taken to attend an appointment (see subclause 61.5(b)) evidence of attendance. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes:
+An Employee taking sick leave will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury, in the case of leave taken to attend an appointment (see [subclause 61.5(b)](/ebas/nurses-midwives/leave/61-personal-leave)) evidence of attendance. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes:
 
 **(i)** a medical certificate from a Registered Health Practitioner; or
 
@@ -64,7 +64,7 @@ An Employee taking sick leave will give the Employer evidence that would satisfy
 
 **(d)** Exception to evidence requirement – single day absences
 
-An Employee may be absent for a single day without evidence of personal illness or injury as required at subclause 0 above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at subclause 61.5(e) below.
+An Employee may be absent for a single day without evidence of personal illness or injury as required at subclause 0 above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at [subclause 61.5(e)](/ebas/nurses-midwives/leave/61-personal-leave) below.
 
 **(e)** Notice requirements
 
@@ -74,7 +74,7 @@ An Employee may be absent for a single day without evidence of personal illness 
 
 **(f)** Failure to provide notice of absence
 
-Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee's lack of notice as required by this subclause 61.5(e) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given.
+Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee's lack of notice as required by this [subclause 61.5(e)](/ebas/nurses-midwives/leave/61-personal-leave) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given.
 
 **61.6** Carer's leave
 
@@ -86,7 +86,7 @@ The Employee must, if required by the Employer, establish by production of a sta
 
 **(ii)** an unexpected emergency,
 
-that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member experiencing family violence as described at subclause 64.5(b).
+that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member experiencing family violence as described at [subclause 64.5(b)](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave).
 
 **(b)** Notice requirements
 
@@ -134,27 +134,27 @@ If the period during which an Employee takes paid personal leave includes a day 
 
 **(ix)** the Australian Red Cross Blood Service;
 
-**(x)** subject to subclause 61.8(d):
+**(x)** subject to [subclause 61.8(d)](/ebas/nurses-midwives/leave/61-personal-leave):
 
 **(A)** a Council in Victoria as defined in the Local Government Act 2020 (Vic); or
 
 **(B)** a public health service in another State or Territory,
 
-transfers to an (or another) Employer, the Employer will credit accumulated personal leave to such an Employee in their new employment. The Employer may require an Employee to produce a written statement from their previous employing Institution specifying the amount of accumulated personal leave standing to the credit of such Employee at the time of leaving that previous employment. Where an Employee transfers to an (or another) Employer and remains engaged on casual bank/or as a casual Employee with their previous Employer, the new Employer will not exclude the Employee from any benefit under this clause 61.8.
+transfers to an (or another) Employer, the Employer will credit accumulated personal leave to such an Employee in their new employment. The Employer may require an Employee to produce a written statement from their previous employing Institution specifying the amount of accumulated personal leave standing to the credit of such Employee at the time of leaving that previous employment. Where an Employee transfers to an (or another) Employer and remains engaged on casual bank/or as a casual Employee with their previous Employer, the new Employer will not exclude the Employee from any benefit under this [clause 61.8](/ebas/nurses-midwives/leave/61-personal-leave).
 
-**(b)** Continuity of service will be deemed to be unbroken where the period of absence is equal to or less than an Employee's Allowable Period of Absence between an engagement with one employer named in subclause 61.8(a) and another. An absence in excess of the Allowable Period of Absence will operate so as to exclude the Employee from any benefit under this clause 61.8.
+**(b)** Continuity of service will be deemed to be unbroken where the period of absence is equal to or less than an Employee's Allowable Period of Absence between an engagement with one employer named in [subclause 61.8(a)](/ebas/nurses-midwives/leave/61-personal-leave) and another. An absence in excess of the Allowable Period of Absence will operate so as to exclude the Employee from any benefit under this [clause 61.8](/ebas/nurses-midwives/leave/61-personal-leave).
 
 **(c)** Provided further that where any Employee for the sole purpose of undertaking a course of study related to nursing or midwifery is, with the written approval of the Employer, absent without pay for up to but not exceeding 104 weeks, such absence will not be deemed to have broken continuity of service but will not be
 
 counted as service for the purpose of establishing entitlement to personal leave portability.
 
-**(d)** For the purposes of subclause 61.8(a), the portability of accrued untaken personal leave with a Council in Victoria, or a public health service in another State or Territory is subject to the following additional matters:
+**(d)** For the purposes of [subclause 61.8(a)](/ebas/nurses-midwives/leave/61-personal-leave), the portability of accrued untaken personal leave with a Council in Victoria, or a public health service in another State or Territory is subject to the following additional matters:
 
 **(i)** portability will only apply on the first occasion that the Employee commences employment with an Employer after 8 July 2024; and
 
 **(ii)** portability will only apply where the break between ceasing employment with the relevant Council or interstate public health service, and commencing employment with an Employer, is no more than the greater of two months or the Allowable Period of Absence.
 
-**(iii)** once interstate accrual of personal leave is recognised in accordance with this clause, portability of that leave accrual will continue to be applicable subject to clause 61.8.
+**(iii)** once interstate accrual of personal leave is recognised in accordance with this clause, portability of that leave accrual will continue to be applicable subject to [clause 61.8](/ebas/nurses-midwives/leave/61-personal-leave).
 
 **61.9** Termination of Employment while on Personal Leave
 

@@ -22,7 +22,7 @@ topics: ['preliminary']
 
 **(i)** the absence was for the purpose of carrying out duties or exercising rights as an Officer or delegate of the Association; or
 
-**(ii)** the Doctor applied for leave before the absence referred to in subclause 78.1(e)(i) above and the Health Service unreasonably refused or withheld consent for the leave.
+**(ii)** the Doctor applied for leave before the absence referred to in [subclause 78.1(e)(i)](/ebas/doctors-in-training/union-matters/78-health-service-obligations) above and the Health Service unreasonably refused or withheld consent for the leave.
 
 **(f)** The Officer, delegate or member of the Association has done or proposes to do an act or thing which is lawful for the purpose of furthering or protecting the industrial interests of the Association or its members. The act or thing must be done within the limits of authority expressly conferred on the Doctor by the Association in accordance with the rules of the Association.
 

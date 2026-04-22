@@ -26,7 +26,7 @@ topics: ['hours', 'employment']
 
 **(iii)** the actual starting and finishing times each day.
 
-**(b)** The Employer will ensure that the Employee’s letter of offer required to be provided in accordance with [clause 23](/ebas/allied-health/employment/23-letter-of-offer) and [Appendix 5](/ebas/allied-health/appendices/5-letter-of-offer) includes the agreed information in subclauses 19.3(a)(i) to (iii).
+**(b)** The Employer will ensure that the Employee’s letter of offer required to be provided in accordance with [clause 23](/ebas/allied-health/employment/23-letter-of-offer) and [Appendix 5](/ebas/allied-health/appendices/5-letter-of-offer) includes the agreed information in [subclauses 19.3(a)(i) to (iii)](/ebas/allied-health/employment/19-part-time-employment).
 
 **(c)** Any variation to the regular pattern of work must be by agreement between the Employer and the Employee and will be recorded in writing.
 
@@ -46,21 +46,21 @@ topics: ['hours', 'employment']
 
 **(a)** Where over a period of 26 weeks or more a part-time Employee regularly and systematically works more than their contracted hours, the Employer or the Employee may request in writing a contract variation reflecting that the Employee’s hours have increased on a permanent basis (including conversion to a full-time Employee). Such a request will not be unreasonably refused by the Employer.
 
-**(b)** Where the Employer makes the request under subclause 19.5(a), at the time of making the request the Employer will also notify the Employee in writing of their obligations under this subclause 19.5.
+**(b)** Where the Employer makes the request under [subclause 19.5(a)](/ebas/allied-health/employment/19-part-time-employment), at the time of making the request the Employer will also notify the Employee in writing of their obligations under this [subclause 19.5](/ebas/allied-health/employment/19-part-time-employment).
 
 **(c)** An Employee will not be considered to be regularly and systematically rostered if the shifts the Employee has been working are replacing an absent Employee (for example parental leave, long service leave, workers’ compensation or personal leave) or a temporary flexible work arrangement.
 
-**(d)** A written response will be provided no later than 21 days from the date of a request (by either an Employee or Employer) If the Employee fails to give the Employer a written response in accordance with this subclause 19.5(d), the Employee is deemed to have provided a response declining the offer.
+**(d)** A written response will be provided no later than 21 days from the date of a request (by either an Employee or Employer) If the Employee fails to give the Employer a written response in accordance with this [subclause 19.5(d)](/ebas/allied-health/employment/19-part-time-employment), the Employee is deemed to have provided a response declining the offer.
 
 **(e)** Where the request is refused by the Employer:
 
 **(i)** the written response will include reasons for the refusal;
 
-**(ii)** an Employee may request that the Employer provides any evidence relied upon in making a determination under this subclause 19.5; and
+**(ii)** an Employee may request that the Employer provides any evidence relied upon in making a determination under this [subclause 19.5](/ebas/allied-health/employment/19-part-time-employment); and
 
 **(iii)** where a dispute arises in relation to the response by the Employer it will be dealt with in accordance with [Clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) (Dispute Resolution Procedure).
 
-**(f)** Where the request is granted the Employee will be provided with a variation by the Employer setting out the revised employment arrangements reflecting those hours worked on a regular and systematic basis as described in subclauses 19.5(a) and (c) above or as otherwise agreed.
+**(f)** Where the request is granted the Employee will be provided with a variation by the Employer setting out the revised employment arrangements reflecting those hours worked on a regular and systematic basis as described in [subclauses 19.5(a)](/ebas/allied-health/employment/19-part-time-employment) and (c) above or as otherwise agreed.
 
 **19.6** Entitlements
 

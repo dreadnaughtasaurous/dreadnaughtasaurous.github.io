@@ -8,7 +8,7 @@ topics: ['leave', 'preliminary']
 
 
 
-Note: In this clause 77, ‘up to’ refers to the total amount of paid special disaster leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than three (3) days leave. That is where the Employee qualifies in accordance with this clause 77 for three (3) days paid special disaster leave, the Employer must provide them with three (3) days paid special disaster leave.
+Note: In this [clause 77](/ebas/allied-health/leave/77-special-disaster-leave), ‘up to’ refers to the total amount of paid special disaster leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than three (3) days leave. That is where the Employee qualifies in accordance with this [clause 77](/ebas/allied-health/leave/77-special-disaster-leave) for three (3) days paid special disaster leave, the Employer must provide them with three (3) days paid special disaster leave.
 
 **77.1** An Employee is entitled to paid special disaster leave of up to three (3) days per calendar year. An Employee may take special disaster leave where:
 

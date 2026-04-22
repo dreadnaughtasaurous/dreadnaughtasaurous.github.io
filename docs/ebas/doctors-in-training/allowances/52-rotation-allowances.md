@@ -22,13 +22,13 @@ topics: ['allowances', 'employment']
 
 **(i)** on commencement of the Rotation; and then
 
-**(ii)** once every three weeks over the 13 week period of Rotation for other than Mildura (refer subclause 52.3(a) below for entitlements when on Rotation to Mildura)
+**(ii)** once every three weeks over the 13 week period of Rotation for other than Mildura (refer [subclause 52.3(a)](/ebas/doctors-in-training/allowances/52-rotation-allowances) below for entitlements when on Rotation to Mildura)
 
 **52.3** Mildura
 
-**(a)** In the case of the Doctor being rotated to Mildura, instead of the entitlement described in subclause 52.2 above, the Doctor must receive a return economy class airfare every four weeks of a 13 week Rotation.
+**(a)** In the case of the Doctor being rotated to Mildura, instead of the entitlement described in [subclause 52.2](/ebas/doctors-in-training/allowances/52-rotation-allowances) above, the Doctor must receive a return economy class airfare every four weeks of a 13 week Rotation.
 
-**(b)** To be eligible for the Travelling Allowance under subclause 52.3(b) above, the Doctor must undertake the travel to and from the city of the Parent Hospital at the relevant times.
+**(b)** To be eligible for the Travelling Allowance under [subclause 52.3(b)](/ebas/doctors-in-training/allowances/52-rotation-allowances) above, the Doctor must undertake the travel to and from the city of the Parent Hospital at the relevant times.
 
 **52.4** Tasmania
 

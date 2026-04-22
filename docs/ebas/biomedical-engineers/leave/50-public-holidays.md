@@ -22,9 +22,9 @@ topics: ['leave', 'public-holidays', 'preliminary']
 
 **(i)** pay the Employee at the Employee's ordinary time rate of pay for the Employee’s ordinary hours of work on the day or part-day that the Employee is absent from their employment;
 
-**(ii)** continue to accrue leave on the ordinary hours of work on the day or part day that the Employee is absent from their employment; Note: If the Employee does not have ordinary hours of work on the public holiday, the employee is not entitled to payment under the NES (subject to subclause 50.6). For example, the Employee is not entitled to payment if the Employee is a casual employee who is not rostered on for the public holiday, or is a part-time employee whose part-time hours do not include the day of the week on which the public holiday occurs.
+**(ii)** continue to accrue leave on the ordinary hours of work on the day or part day that the Employee is absent from their employment; Note: If the Employee does not have ordinary hours of work on the public holiday, the employee is not entitled to payment under the NES (subject to [subclause 50.6](/ebas/biomedical-engineers/leave/50-public-holidays)). For example, the Employee is not entitled to payment if the Employee is a casual employee who is not rostered on for the public holiday, or is a part-time employee whose part-time hours do not include the day of the week on which the public holiday occurs.
 
-**(d)** The provisions of subclause 50.1(c) apply where the Employee is absent from their employment for part of their ordinary hours on the day or part-day that is a public holiday.
+**(d)** The provisions of [subclause 50.1(c)](/ebas/biomedical-engineers/leave/50-public-holidays) apply where the Employee is absent from their employment for part of their ordinary hours on the day or part-day that is a public holiday.
 
 Example 1:
 
@@ -44,7 +44,7 @@ not recalled to work by the Employer. They will also accrue leave on what would 
 
 **(c)** Melbourne Cup Day or in lieu of Melbourne Cup, some other day as determined in a particular locality; and
 
-**(d)** Any additional public holiday declared or prescribed in Victoria or a locality in respect of any occasion other than those set out in clause 50.2(a)– 50.2(c) above.
+**(d)** Any additional public holiday declared or prescribed in Victoria or a locality in respect of any occasion other than those set out in [clause 50.2(a)](/ebas/biomedical-engineers/leave/50-public-holidays)– 50.2(c) above.
 
 **50.3** Public holidays in lieu Where Christmas Day, Australia Day, Boxing Day or New Year’s Day (Actual Day) is a Saturday or Sunday, and a substitute holiday/day in lieu is determined under Victorian law on another day in respect of those occasions (Other Day) the public holiday benefits will be observed on the other day, For the avoidance of doubt the public holiday benefits will be observed on the day determined under Victorian law for each occasion not the Actual Day.
 
@@ -52,7 +52,7 @@ not recalled to work by the Employer. They will also accrue leave on what would 
 
 **(a)** An Employer and Employee may agree to substitute another day for a day that would otherwise be a public holiday under the NES or this Agreement.
 
-**(b)** An agreement pursuant to subclause 50.4(a) shall be recorded in writing and a copy given to the Employee.
+**(b)** An agreement pursuant to [subclause 50.4(a)](/ebas/biomedical-engineers/leave/50-public-holidays) shall be recorded in writing and a copy given to the Employee.
 
 **50.5** Public holiday benefit for time worked on a public holiday
 
@@ -66,17 +66,17 @@ not recalled to work by the Employer. They will also accrue leave on what would 
 
 **50.6** Public holiday benefit for public holiday occurring on Employee’s rostered day off
 
-**(a)** Subject to subclause 50.6(c), where a public holiday is observed on a full-time Employee’s rostered day off the full-time Employee shall be entitled to receive one day’s pay in addition to the weekly wage or one day off at a time convenient to the Employer without loss of pay in lieu thereof.
+**(a)** Subject to [subclause 50.6(c)](/ebas/biomedical-engineers/leave/50-public-holidays), where a public holiday is observed on a full-time Employee’s rostered day off the full-time Employee shall be entitled to receive one day’s pay in addition to the weekly wage or one day off at a time convenient to the Employer without loss of pay in lieu thereof.
 
-**(b)** Subject to subclause 50.6(c), where a public holiday is observed on a part-time Employee’s rostered day off the Employer must review the roster pattern of the Employee over the preceding six months. If the review shows that the Employee has worked over 50% or more on the days which the particular public holiday is observed, the Employee shall be entitled to receive a pro-rata payment according to the following formula. Example:
+**(b)** Subject to [subclause 50.6(c)](/ebas/biomedical-engineers/leave/50-public-holidays), where a public holiday is observed on a part-time Employee’s rostered day off the Employer must review the roster pattern of the Employee over the preceding six months. If the review shows that the Employee has worked over 50% or more on the days which the particular public holiday is observed, the Employee shall be entitled to receive a pro-rata payment according to the following formula. Example:
 
 Average Applicable Base Total Penalty Hours Shift Length Payment Payment 24 hours X 8 hours 5.05 hours Times by 1 5.05 38 hours
 
 NOTE: The above is an illustrative example only. To calculate the average weekly hours Employers must review the rosters over the previous six months. In addition, the shift length used in the calculation should be appropriate to the shift that is normally worked by the Employee.
 
-**(c)** If a public holiday is observed on a Saturday or Sunday then subclauses 50.6(a) and 50.6(b) will only apply for weekend workers. For the purpose of this clause a weekend worker is an Employee who regularly works ordinary hours on a Saturday or Sunday.
+**(c)** If a public holiday is observed on a Saturday or Sunday then [subclauses 50.6(a)](/ebas/biomedical-engineers/leave/50-public-holidays) and 50.6(b) will only apply for weekend workers. For the purpose of this clause a weekend worker is an Employee who regularly works ordinary hours on a Saturday or Sunday.
 
-**(d)** Rostered day off for a Biomedical Engineer for the purpose of this clause is a day in which the Employee is not rostered for duty for the relevant roster period. This is distinct from clause 50.1 in which an Employee is normally rostered but given the day off.
+**(d)** Rostered day off for a Biomedical Engineer for the purpose of this clause is a day in which the Employee is not rostered for duty for the relevant roster period. This is distinct from [clause 50.1](/ebas/biomedical-engineers/leave/50-public-holidays) in which an Employee is normally rostered but given the day off.
 
 Plain language terms: public holiday pay.
 

@@ -24,7 +24,7 @@ topics: ['hours', 'overtime', 'wages', 'preliminary']
 
 **169.8** Overtime shall be so arranged that, where reasonably practicable, the Employee who performs overtime shall have 10 consecutive hours off duty between the work of successive periods of duty.
 
-**169.9** In addition to clause 169.4 above, an Employee, other than a casual, who works so much overtime between the end of their agreed ordinary hours of duty and the start of their next succeeding period of duty that they would not have a 10-hour break between those times, shall be released after completion of such overtime worked until they have had a 10-hour break, without loss of pay for ordinary hours occurring during such absence.
+**169.9** In addition to [clause 169.4](/ebas/mental-health/support-services/preliminary/169-overtime) above, an Employee, other than a casual, who works so much overtime between the end of their agreed ordinary hours of duty and the start of their next succeeding period of duty that they would not have a 10-hour break between those times, shall be released after completion of such overtime worked until they have had a 10-hour break, without loss of pay for ordinary hours occurring during such absence.
 
 **169.10** If on the instructions of the Employer such an Employee resumes or continues work without having had ten consecutive hours off duty the Employee shall be paid at the rate of double time until they are released from duty for such rest period and the Employee shall then be entitled to be absent until they have had ten consecutive hours off duty without loss of pay for rostered ordinary hours occurring during such absence.
 
@@ -36,7 +36,7 @@ topics: ['hours', 'overtime', 'wages', 'preliminary']
 
 **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee.
 
-**(b)** Where overtime is a result of a double shift, the provisions at subclause 169.14 below (Additional Provisions for Double Shifts) also apply.
+**(b)** Where overtime is a result of a double shift, the provisions at [subclause 169.14](/ebas/mental-health/support-services/preliminary/169-overtime) below (Additional Provisions for Double Shifts) also apply.
 
 **169.14** Additional Provisions for Double Shifts If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
 

@@ -10,7 +10,7 @@ topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']
 
 **44.1** An Employer may use its discretion to grant paid and/or unpaid compassionate leave to relatives not covered by the definition of Immediate Family.
 
-**44.2** What is Compassionate Leave? Compassionate leave will be available under this clause 44 to an Employee for each occasion (a “permissible occasion”) when:
+**44.2** What is Compassionate Leave? Compassionate leave will be available under this [clause 44](/ebas/mental-health/common-terms/leave/44-compassionate-leave) to an Employee for each occasion (a “permissible occasion”) when:
 
 **(a)** a member of the Employee’s Immediate Family or household:
 
@@ -24,7 +24,7 @@ topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']
 
 **44.3** If the permissible occasion is the contraction or development of a personal illness, or the sustaining of a personal injury, the Employee may take the compassionate leave for that occasion at any time while the illness or injury persists.
 
-**44.4** Employees other than casual Employees The provisions of clauses 44.5 to 44.7 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in clause 44.8.
+**44.4** Employees other than casual Employees The provisions of [clauses 44.5](/ebas/mental-health/common-terms/leave/44-compassionate-leave) to 44.7 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in [clause 44.8](/ebas/mental-health/common-terms/leave/44-compassionate-leave).
 
 **44.5** An Employee is entitled to up to 4 ordinary days’ paid leave, on each permissible occasion.
 

@@ -74,6 +74,6 @@ ENTITLEMENTS – AUSTIN HEALTH, EASTERN HEALTH, ALFRED HEALTH, PETER MACCALLUM C
        (d)      Retraining shall be provided to the extent that it would normally be provided
                 to any new employee in that position.
 
-2.3 Redeployment If at any time during the redeployment period it is agreed that it is unlikely that the affected Employee will be successfully redeployed, the affected Employee may accept a redundancy package referred to in clause 32.6(a) of this Agreement. In addition an employee who has elected to discontinue a period of redeployment shall be entitled to a lump sum amount equal to the unexpired portion of the redeployment period. \`\`\`
+2.3 Redeployment If at any time during the redeployment period it is agreed that it is unlikely that the affected Employee will be successfully redeployed, the affected Employee may accept a redundancy package referred to in [clause 32.6(a)](/ebas/mspp/employment/32-redundancy-and-associated-entitlements) of this Agreement. In addition an employee who has elected to discontinue a period of redeployment shall be entitled to a lump sum amount equal to the unexpired portion of the redeployment period. \`\`\`
 
 

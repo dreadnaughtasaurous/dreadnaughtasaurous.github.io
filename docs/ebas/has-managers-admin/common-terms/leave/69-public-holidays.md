@@ -80,7 +80,7 @@ topics: ['leave', 'public-holidays', 'preliminary']
 
 **69.4** Additional Days
 
-**(a)** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in subclauses 69.2 and
+**(a)** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in [subclauses 69.2](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) and
 
 **69.3** above, those days will constitute additional holidays for the purposes of the Agreement.
 
@@ -88,13 +88,13 @@ topics: ['leave', 'public-holidays', 'preliminary']
 
 **(a)** An Employer and their Employees may agree to substitute another day for any prescribed in this clause. For this purpose the consent of the majority of affected Employees will constitute agreement.
 
-**(b)** An agreement pursuant to subclause 69.5(a) will be recorded in writing and be available to every affected Employee.
+**(b)** An agreement pursuant to [subclause 69.5(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) will be recorded in writing and be available to every affected Employee.
 
-**(c)** The HWU will be informed of an agreement made in accordance with subclause 69.5(a) and will have seven days in which to refuse to
+**(c)** The HWU will be informed of an agreement made in accordance with [subclause 69.5(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) and will have seven days in which to refuse to
 
-accept it. The HWU will not unreasonably refuse to accept an agreement made under subclause 69.5(a) .
+accept it. The HWU will not unreasonably refuse to accept an agreement made under [subclause 69.5(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) .
 
-**(d)** If the HWU refuses to accept an agreement made under subclause 69.5(a), the parties will seek to resolve the matter in accordance with [clause 17](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure) (Dispute Resolution Procedure) of this Agreement.
+**(d)** If the HWU refuses to accept an agreement made under [subclause 69.5(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays), the parties will seek to resolve the matter in accordance with [clause 17](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure) (Dispute Resolution Procedure) of this Agreement.
 
 **69.6** Substitution of religious public holidays
 
@@ -104,7 +104,7 @@ accept it. The HWU will not unreasonably refuse to accept an agreement made unde
 
 **69.7** Substitution of public holidays during NAIDOC week
 
-**(a)** Where an Employer receives a request to substitute a public holiday in accordance with clause 69.5 of this Agreement for a day during NAIDOC week, the Employer will consider all the circumstances including:
+**(a)** Where an Employer receives a request to substitute a public holiday in accordance with [clause 69.5](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) of this Agreement for a day during NAIDOC week, the Employer will consider all the circumstances including:
 
 **(i)** any reason identified by the Employee with respect to the request; and
 
@@ -124,15 +124,15 @@ accept it. The HWU will not unreasonably refuse to accept an agreement made unde
 
 This clause does not apply to casual employees
 
-**(a)** An Employee who is not ordinarily required to work on the day on which a public holiday is observed will not be entitled to the Rostered Off Benefit provided in clause 69.10.
+**(a)** An Employee who is not ordinarily required to work on the day on which a public holiday is observed will not be entitled to the Rostered Off Benefit provided in [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays).
 
-**(b)** In determining whether an Employee is ordinarily required to work on the day on which a public holiday is observed, the Employer will review the Employee’s roster pattern over the preceding six-month period. If the rosters show that the Employee has worked 50% or more of the days on which a particular public holiday falls, the Employee will be entitled to receive the Rostered Off Benefit for that public holiday (see clause 69.10).
+**(b)** In determining whether an Employee is ordinarily required to work on the day on which a public holiday is observed, the Employer will review the Employee’s roster pattern over the preceding six-month period. If the rosters show that the Employee has worked 50% or more of the days on which a particular public holiday falls, the Employee will be entitled to receive the Rostered Off Benefit for that public holiday (see [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays)).
 
-Example 1: A full-time or part-time employee who only works Monday to Friday will not receive a Rostered Off Benefit for a public holidays that occur on a Saturday or Sunday. Example 2: A full-time employee works a rotating roster and has worked more than 50% of Saturdays in the preceding 6-month period. The employee is rostered to work Monday to Friday in a week where a public holiday falls on the Saturday. The employee will receive the Rostered Off Benefit at clause 69.10 in addition to their contracted hours for that week (i.e. 38 hours of ordinary pay plus the equivalent of 1.5 days’ ordinary pay or TOIL or Annual Leave credit).
+Example 1: A full-time or part-time employee who only works Monday to Friday will not receive a Rostered Off Benefit for a public holidays that occur on a Saturday or Sunday. Example 2: A full-time employee works a rotating roster and has worked more than 50% of Saturdays in the preceding 6-month period. The employee is rostered to work Monday to Friday in a week where a public holiday falls on the Saturday. The employee will receive the Rostered Off Benefit at [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) in addition to their contracted hours for that week (i.e. 38 hours of ordinary pay plus the equivalent of 1.5 days’ ordinary pay or TOIL or Annual Leave credit).
 
 **69.10** Rostered Off Benefit
 
-**(a)** Subject to subclauses 69.9(a) and 69.9(b), a full-time or part-time Employee will receive a sum equal to 150% (based on 1/38th of the weekly salary set out in [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or [Schedule 3B](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers)) for public holidays that occur on the Employee’s Rostered Day Off, or, if the Employer and Employee so agree:
+**(a)** Subject to [subclauses 69.9(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) and 69.9(b), a full-time or part-time Employee will receive a sum equal to 150% (based on 1/38th of the weekly salary set out in [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or [Schedule 3B](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers)) for public holidays that occur on the Employee’s Rostered Day Off, or, if the Employer and Employee so agree:
 
 **(i)** the Employee may take one day and one half off in lieu within four weeks of the public holiday; or
 
@@ -142,13 +142,13 @@ Example 1: A full-time or part-time employee who only works Monday to Friday wil
 
 **(a)** If an Employee is absent from their employment on a day or part-day that is a public holiday, the Employer must pay the Employee at the Employee’s base rate of pay for the Employee’s ordinary hours of work on the day or part-day.
 
-**(a)** For the purposes of subclause 69.11(a) absent from employment means that the employee was rostered to work on the day that the public holiday was observed but was given the day off by the Employer.
+**(a)** For the purposes of [subclause 69.11(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) absent from employment means that the employee was rostered to work on the day that the public holiday was observed but was given the day off by the Employer.
 
-Example: A part-time employee works an 8-hour shift on every Monday, Wednesday and Friday. The employer confirms that the employee is not required to work their rostered Friday shift due to a public holiday on that day. The employee will receive the entitlement of one day’s pay in accordance with clause 69.11.
+Example: A part-time employee works an 8-hour shift on every Monday, Wednesday and Friday. The employer confirms that the employee is not required to work their rostered Friday shift due to a public holiday on that day. The employee will receive the entitlement of one day’s pay in accordance with [clause 69.11](/ebas/has-managers-admin/common-terms/leave/69-public-holidays).
 
 **69.12** Public holidays and Accrued Days Off Where an Employee’s accrued day off falls on a public holiday, another day will be determined by the Employer to be taken in lieu thereof, within the same 4-week cycle (where practicable).
 
-**(a)** a particular public holiday falls, the Employee will be entitled to receive the ‘rostered off' benefit for that public holiday (see subclause 69.10).
+**(a)** a particular public holiday falls, the Employee will be entitled to receive the ‘rostered off' benefit for that public holiday (see [subclause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays)).
 
 PART H – UNION AND OTHER RESOURCES
 

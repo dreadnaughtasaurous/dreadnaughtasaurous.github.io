@@ -52,7 +52,7 @@ Any deductions from an Employee’s pay must be in accordance with section 324 o
 
 **(c)** The Employer will notify the Employee of the adjustment being processed and provide the date of payment and any payment identification details.
 
-**(d)** This subclause 29.6 will not apply where:
+**(d)** This [subclause 29.6](/ebas/biomedical-engineers/wages/29-payment-of-wages) will not apply where:
 
 **(i)** the Employer and Employee are in genuine dispute as to whether the monies are owed to the Employee;
 

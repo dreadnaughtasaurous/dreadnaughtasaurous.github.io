@@ -22,7 +22,7 @@ NOTE: family member is defined in section 8 of the Family Violence Protection Ac
 
 **(e)** Employees who are experiencing family and domestic violence that access paid family violence leave during a period of other paid leave, such as paid personal/carer’s leave, are not taken to be on paid personal/carer’s leave for the period of the paid family and domestic violence leave.
 
-**(f)** An Employee who supports a person experiencing family and domestic violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with clause 45.6(a) from an Employee seeking to utilise their personal/carer’s leave entitlement.
+**(f)** An Employee who supports a person experiencing family and domestic violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [clause 45.6(a)](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave) from an Employee seeking to utilise their personal/carer’s leave entitlement.
 
 **45.2** Definition of Family and Domestic Violence
 
@@ -58,7 +58,7 @@ NOTE: family member is defined in section 8 of the Family Violence Protection Ac
 
 **(f)** An Employee experiencing family and domestic violence may raise the issue with their immediate supervisor, Family Violence contacts, union delegate or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Employee chooses not to see the Human Resources or Family Violence contact.
 
-**(g)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with clause 45.5 and clause 45.7.
+**(g)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with [clause 45.5](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave) and [clause 45.7](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave).
 
 **(h)** The Employer will maintain guidelines to supplement this clause. These guidelines will include the appropriate action to be taken in the event that an Employee reports family violence.
 
@@ -68,7 +68,7 @@ NOTE: family member is defined in section 8 of the Family Violence Protection Ac
 
 **(b)** Pro rata entitlements for part-time Employees will continue to apply in relation to an Employee’s paid family and domestic violence leave entitlement provided that the pro-rata arrangements results in at least 10 days paid family and domestic violence leave being available in the calendar year.
 
-**(c)** An Employee who supports a person experiencing family violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with clause 45.4(a) from an Employee seeking to utilise their personal leave entitlement.
+**(c)** An Employee who supports a person experiencing family violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [clause 45.4(a)](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave) from an Employee seeking to utilise their personal leave entitlement.
 
 **45.6** Leave for Casual Employees
 

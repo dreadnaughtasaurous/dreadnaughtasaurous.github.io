@@ -10,7 +10,7 @@ topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 
 **22.1** Resolution of disputes and grievances
 
-**(a)** For the purpose of this clause 22, a dispute includes a grievance.
+**(a)** For the purpose of this [clause 22](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure), a dispute includes a grievance.
 
 **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
 
@@ -56,11 +56,11 @@ topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 
 **(ii)** if the dispute is still unresolved, by discussions between the Employee/s and more senior managers.
 
-Nothing in this clause 22.4 prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to clause 22.2.
+Nothing in this [clause 22.4](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to [clause 22.2](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure).
 
-**(b)** The discussions at subclause 22.4(a)will take place within fourteen days or such longer period as mutually agreed. Discussions will be in person or, by agreement of the parties, telephone, written or electronic correspondence, save that agreement will not be unreasonably withheld.
+**(b)** The discussions at [subclause 22.4(a)](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure)will take place within fourteen days or such longer period as mutually agreed. Discussions will be in person or, by agreement of the parties, telephone, written or electronic correspondence, save that agreement will not be unreasonably withheld.
 
-**(c)** Where a Party believes the requirements of this clause 22.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+**(c)** Where a Party believes the requirements of this [clause 22.4](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 
 **(d)** If a dispute cannot be resolved at the workplace it may be referred by a party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
@@ -84,7 +84,7 @@ Nothing in this clause 22.4 prevents the Parties from agreeing, at any time, to 
 
 **(b)** The Commission member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
 
-**(c)** Subject to subclause 22.7(d) below, a decision of the Commission is binding upon the persons covered by this Agreement.
+**(c)** Subject to [subclause 22.7(d)](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) below, a decision of the Commission is binding upon the persons covered by this Agreement.
 
 **(d)** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 

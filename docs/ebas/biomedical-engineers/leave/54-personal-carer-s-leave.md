@@ -48,7 +48,7 @@ The provisions of this clause apply to full-time and part-time Employees. See su
 
 **(i)** An Employee taking sick leave will, as soon as reasonably practicable, give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes: **(A)** a medical certificate from a Registered Health Practitioner; or **(B)** Commonwealth or Victorian Statutory Declaration signed by the Employee.
 
-**(ii)** Exception to evidence requirement – absences without evidence as required at subclause 54.4(a)(i) **(A)** Excluding Employees at the Royal Children’s Hospital and the Royal Women’s Hospital An Employee may be absent for a single day or part thereof without evidence of personal illness or injury on not more than three occasions per year of service. **(B)** Employees at the Royal Children’s Hospital and the Royal Women’s Hospital only An Employee may be absent on six (6) days per year of service (either as single days or as two days at a time) without evidence of personal illness or injury. If the Employee is not absent as provided in clause 54.4(a)(ii)(B) above, they will be credited with one (1) day of annual leave for every two (2) days of personal leave not taken and the Employee' sick leave balance shall be reduced in a proportion of two to one, for each additional days leave so credited. However, if the Employee advises the Employer (in writing) not less than four (4) weeks prior to the conclusion of any one year, they may elect to retain the unused sick leave as accrued sick leave entitlements.
+**(ii)** Exception to evidence requirement – absences without evidence as required at [subclause 54.4(a)(i)](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave) **(A)** Excluding Employees at the Royal Children’s Hospital and the Royal Women’s Hospital An Employee may be absent for a single day or part thereof without evidence of personal illness or injury on not more than three occasions per year of service. **(B)** Employees at the Royal Children’s Hospital and the Royal Women’s Hospital only An Employee may be absent on six (6) days per year of service (either as single days or as two days at a time) without evidence of personal illness or injury. If the Employee is not absent as provided in [clause 54.4(a)(ii)(B)](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave) above, they will be credited with one (1) day of annual leave for every two (2) days of personal leave not taken and the Employee' sick leave balance shall be reduced in a proportion of two to one, for each additional days leave so credited. However, if the Employee advises the Employer (in writing) not less than four (4) weeks prior to the conclusion of any one year, they may elect to retain the unused sick leave as accrued sick leave entitlements.
 
 **(b)** Notice requirements An Employee should inform the Employer of their absence at least two hours prior to the commencement of duty on the first day of absence, or otherwise as soon as reasonably practicable (which may be a time after the leave has started), and advise of the duration or estimated duration of the absence.
 
@@ -74,13 +74,13 @@ The provisions of this clause apply to full-time and part-time Employees. See su
 
 **(a)** Entitlement - Employees at the Royal Children’s Hospital and the Royal Women’s Hospital only
 
-**(i)** For the purposes of this subclause 54.7(a), allowable period of absence means: **(A)** five weeks in addition to the total period of annual leave, long service leave and/or personal/carers leave which the Employee actually receives on termination or for which they are paid in lieu; and **(B)** any unpaid absence of up to 52 weeks taken for the sole purpose of undertaking a course of study related to their employment.
+**(i)** For the purposes of this [subclause 54.7(a)](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave), allowable period of absence means: **(A)** five weeks in addition to the total period of annual leave, long service leave and/or personal/carers leave which the Employee actually receives on termination or for which they are paid in lieu; and **(B)** any unpaid absence of up to 52 weeks taken for the sole purpose of undertaking a course of study related to their employment.
 
 **(ii)** Where an Employee is or has been in the service of an institution or statutory body recognised under the Nurses (Victorian Health Services) Award 2000, and commences employment with an (or another) Employer before the end of the allowable period of absence, the Employer will credit the Employee’s accumulated personal leave from the previous employer up to a maximum of 1368 hours to the Employee in their new employment.
 
 **(b)** Entitlement - Excluding Employees at the Royal Children’s Hospital and the Royal Women’s Hospital
 
-**(i)** Where an Employee is or has been in the service of another employer specified at subclause 54.7(b)(ii), and commences employment with an (or another) Employer, the Employer will credit the Employee’s accumulated personal leave from the previous employer up to a maximum of 2128 hours to the Employee in their new employment as accumulated personal/carer’s leave.
+**(i)** Where an Employee is or has been in the service of another employer specified at [subclause 54.7(b)(ii)](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave), and commences employment with an (or another) Employer, the Employer will credit the Employee’s accumulated personal leave from the previous employer up to a maximum of 2128 hours to the Employee in their new employment as accumulated personal/carer’s leave.
 
 **(ii)** The specified employers are: **(A)** Albury Wodonga Health (Wodonga Hospital);
 
@@ -90,7 +90,7 @@ The provisions of this clause apply to full-time and part-time Employees. See su
 
 **54.8** Casual Employees – Caring responsibilities
 
-**(a)** Subject to the evidence and notice requirements that apply to carer’s leave under subclause 54.5, a Casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to care or support a member of their Immediate Family or household because of:
+**(a)** Subject to the evidence and notice requirements that apply to carer’s leave under [subclause 54.5](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave), a Casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to care or support a member of their Immediate Family or household because of:
 
 **(i)** a personal illness, or personal injury, affecting them;
 

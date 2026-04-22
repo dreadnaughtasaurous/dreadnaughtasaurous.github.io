@@ -24,17 +24,17 @@ topics: ['hours', 'shift-work', 'rosters', 'preliminary']
 
 **88.4** Alterations to ordinary hours of work
 
-**(a)** The obligations as they apply to a particular Employer under sub-clauses 88.1 to
+**(a)** The obligations as they apply to a particular Employer under sub-[clauses 88.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work) to
 
 **88.2** may be varied by agreement between the Employer and the affected Employee/s for the following reasons:
 
-**(i)** the majority of Employees seek shifts that are contrary to the 8:8:10 roster described in sub-clause 88.2 above; or
+**(i)** the majority of Employees seek shifts that are contrary to the 8:8:10 roster described in sub-[clause 88.2](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work) above; or
 
 **(ii)** to allow for the continuation of current arrangements with respect to 'hours of work'; or
 
 **(iii)** in accordance with an individual flexibility agreement or flexible working arrangement.
 
-**(b)** Arrangements adopted in accordance with sub-clause 88.4(a)(i) or 88.4(a)(ii) above must not result, on balance, in a reduction in the overall terms and conditions of employment of the Employee to whom the proposed arrangements would apply.
+**(b)** Arrangements adopted in accordance with sub-[clause 88.4(a)(i) or 88.4(a)(ii)](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work) above must not result, on balance, in a reduction in the overall terms and conditions of employment of the Employee to whom the proposed arrangements would apply.
 
 **(c)** Any agreement under this clause will be recorded in writing and copies shall be provided to Employees to whom the arrangements apply.
 

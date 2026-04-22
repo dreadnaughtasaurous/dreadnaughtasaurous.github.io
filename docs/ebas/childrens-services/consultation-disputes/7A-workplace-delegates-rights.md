@@ -8,11 +8,11 @@ topics: ['hours', 'rosters', 'employment', 'consultation', 'union-matters', 'del
 
 
 
-**7A.1** Clause 7A provides for the exercise of the rights of workplace delegates set out in section 350C of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
+**7A.1** [Clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) provides for the exercise of the rights of workplace delegates set out in section 350C of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 
-NOTE: Under section 350C(4) of the [Act](http://www.legislation.gov.au/Series/C2009A00028), the employer is taken to have afforded a workplace delegate the rights mentioned in section 350C(3) if the employer has complied with clause 7A.
+NOTE: Under section 350C(4) of the [Act](http://www.legislation.gov.au/Series/C2009A00028), the employer is taken to have afforded a workplace delegate the rights mentioned in section 350C(3) if the employer has complied with [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights).
 
-**7A.2** In clause 7A:
+**7A.2** In [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights):
 
 a\. **employer** means the employer of the workplace delegate;
 
@@ -47,7 +47,7 @@ h\. any process or procedure within an award, enterprise agreement or policy of 
 
     7A.6 Entitlement to reasonable communication
 
-a\. A workplace delegate may communicate with eligible employees for the purpose of representing their industrial interests under clause 7A.5. This includes discussing membership of the delegate's organisation and representation with eligible employees.
+a\. A workplace delegate may communicate with eligible employees for the purpose of representing their industrial interests under [clause 7A.5](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights). This includes discussing membership of the delegate's organisation and representation with eligible employees.
 
 i\. A workplace delegate may communicate with eligible employees during working hours or work breaks, or before or after work.
 
@@ -98,7 +98,7 @@ o\. The workplace delegate must, within 7 days after the day on which the traini
 
     7A.9 Exercise of entitlements under clause 7A
 
-a\. A workplace delegate's entitlements under clause 7A are subject to the conditions that the workplace delegate must, when exercising those entitlements:
+a\. A workplace delegate's entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) are subject to the conditions that the workplace delegate must, when exercising those entitlements:
 
     i.  comply with their duties and obligations as an employee;
 
@@ -113,9 +113,9 @@ a\. A workplace delegate's entitlements under clause 7A are subject to the condi
     iv. not hinder, obstruct or prevent eligible employees exercising
         their rights to freedom of association.
 
-p\. Clause 7A does not require the employer to provide a workplace delegate with access to electronic means of communication in a way that provides individual contact details for eligible employees.
+p\. [Clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) does not require the employer to provide a workplace delegate with access to electronic means of communication in a way that provides individual contact details for eligible employees.
 
-q\. Clause 7A does not require an eligible employee to be represented by a workplace delegate without the employee's agreement.
+q\. [Clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) does not require an eligible employee to be represented by a workplace delegate without the employee's agreement.
 
 NOTE: Under section 350A of the [Act](http://www.legislation.gov.au/Series/C2009A00028), the employer must not:
 
@@ -123,7 +123,7 @@ NOTE: Under section 350A of the [Act](http://www.legislation.gov.au/Series/C20
 
 \(b\) knowingly or recklessly make a false or misleading representation to a workplace delegate; or
 
-\(c\) unreasonably hinder, obstruct or prevent the exercise of the rights of a workplace delegate under the [Act](http://www.legislation.gov.au/Series/C2009A00028) or clause 7A.
+\(c\) unreasonably hinder, obstruct or prevent the exercise of the rights of a workplace delegate under the [Act](http://www.legislation.gov.au/Series/C2009A00028) or [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights).
 
 Plain language terms: delegate rights, union delegate.
 

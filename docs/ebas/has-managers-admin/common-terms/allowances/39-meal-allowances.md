@@ -12,7 +12,7 @@ topics: ['hours', 'overtime', 'shift-work', 'allowances']
 
 **39.2** Where such overtime exceeds 4 hours Monday to Friday (inclusive), or 9 hours on a Saturday/Sunday, the Employer will either supply the Employee with a further adequate meal or pay a further meal allowance.
 
-**39.3** The provisions of subclause 39.1 and subclause 39.2 will not apply where the Employee could reasonably return home for a meal within the period allowed.
+**39.3** The provisions of [subclause 39.1](/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure) and [subclause 39.2](/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure) will not apply where the Employee could reasonably return home for a meal within the period allowed.
 
 **39.4** The meal allowances payable over the life of this Agreement are set out in [Schedule 2C](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services) and [Schedule 3C](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers) (as applicable).
 

@@ -8,7 +8,7 @@ topics: ['hours', 'shift-work']
 
 
 
-**194.1** Definitions In this clause 194:
+**194.1** Definitions In this [clause 194](/ebas/mental-health/management-admin/allowances/194-shift-work-allowances):
 
 **(a)** Morning shift means any shift that commences between 6:00 p.m. and 6:30 a.m.
 
@@ -54,7 +54,7 @@ In addition to any other rates prescribed elsewhere in this Agreement, the Emplo
 
 **(a)** Provided further that in the case of an Employee who changes from working on one shift to working on another shift, the time of commencement of which differs by four hours or more than from that of the first, shall be paid the 'Change of Shift Allowance' in Schedule 2on the occasion of each such change in addition to any amount payable under the preceding provisions of this clause.
 
-**(b)** Notwithstanding the provisions of clause 194.4(a) \[215.4(a)\] above, the change of shift allowance is not payable where the Employer agrees to a request in writing made on behalf of one or more Employees for changes in shifts.
+**(b)** Notwithstanding the provisions of [clause 194.4(a)](/ebas/mental-health/management-admin/allowances/194-shift-work-allowances) \[215.4(a)\] above, the change of shift allowance is not payable where the Employer agrees to a request in writing made on behalf of one or more Employees for changes in shifts.
 
 **(c)** Change of shift allowance is not payable where a single Employee holds two contemporaneous different contracted positions with the same Employer and moving between those positions results in a change of shift pattern which would ordinarily invoke a change of shift allowance payment.
 
