@@ -44,7 +44,7 @@ The NES contains applicable terms regarding parental leave including terms regar
 
 **c.** Flexible Parental Leave means 30 days' unpaid parental which an Employee may take under [subclause 70.8](/ebas/mspp/leave/70-parental-leave) as part of their 52 weeks' entitlement of Parental Leave.
 
-**d.** For the purposes of this clause, Service (which includes Recognised Prior Service), is as defined in clause 9aa of this Agreement.
+**d.** For the purposes of this clause, Service (which includes Recognised Prior Service), is as defined in [clause 9](/ebas/mspp/operation/9-definitions) of this Agreement.
 
 **e.** For the purposes of this clause, spouse includes a person to whom the Employee is married and de facto partner, former spouse or former de facto partner. The Employee’s “de facto partner” means a person who lives with the Employee as husband, wife or same sex partner on a bona fide domestic basis, although not legally married to the Employee.
 

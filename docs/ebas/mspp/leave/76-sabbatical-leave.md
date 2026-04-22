@@ -12,7 +12,7 @@ topics: ['leave', 'sabbatical-leave', 'wages']
 
 **a.** Sabbatical Leave is only available by mutual agreement between the Employee and the Employer.
 
-**b.** Subject to the provisions set out in [clause 76.3](/ebas/mspp/leave/76-sabbatical-leave) of this Agreement, Sabbatical Leave is only available for an Employee who is classified at Grade 3 level or higher, after the completion of a period of six years' continuous service, as defined in clause 9aa.
+**b.** Subject to the provisions set out in [clause 76.3](/ebas/mspp/leave/76-sabbatical-leave) of this Agreement, Sabbatical Leave is only available for an Employee who is classified at Grade 3 level or higher, after the completion of a period of six years' continuous service, as defined in [clause 9](/ebas/mspp/operation/9-definitions).
 
 **76.2** Definitions For the purpose of this clause only, the following definitions apply:
 
