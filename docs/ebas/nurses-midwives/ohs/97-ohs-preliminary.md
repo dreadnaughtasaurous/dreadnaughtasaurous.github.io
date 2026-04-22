@@ -1,10 +1,10 @@
 ---
-title: '97. Ohs Preliminary'
+title: '97. OH&S Preliminary'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs']
 ---
 
-# 97. Ohs Preliminary
+# 97. OH&S Preliminary
 
 
 

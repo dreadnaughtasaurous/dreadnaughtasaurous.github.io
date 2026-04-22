@@ -1,10 +1,10 @@
 ---
-title: '102. Hsrs'
+title: '102. Health & Safety Representitives'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs']
 ---
 
-# 102. Hsrs
+# 102. Health & Safety Representitives
 
 
 

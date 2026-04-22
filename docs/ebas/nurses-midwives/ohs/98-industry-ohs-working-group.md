@@ -1,10 +1,10 @@
 ---
-title: '98. Industry Ohs Working Group'
+title: '98. Industry OH&S Working Group'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs', 'workers-comp']
 ---
 
-# 98. Industry Ohs Working Group
+# 98. Industry OH&S Working Group
 
 
 

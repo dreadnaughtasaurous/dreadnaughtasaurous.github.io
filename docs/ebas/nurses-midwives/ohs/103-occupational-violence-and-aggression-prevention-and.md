@@ -1,14 +1,10 @@
 ---
-title: '103. Occupational Violence And Aggression Prevention And'
+title: '103. Occupational Violence & Aggression Prevention and Management'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs', 'preliminary']
 ---
 
-# 103. Occupational Violence And Aggression Prevention And
-
-
-
-Management
+# 103. Occupational Violence and Aggression Prevention and Management
 
 **103.1** Prevention and Management of Occupational Violence and Aggression
 

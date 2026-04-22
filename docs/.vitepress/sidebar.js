@@ -109,16 +109,16 @@ const sidebar = [
         { text: '78. Gender Transition Leave', link: '/ebas/allied-health/leave/78-gender-transition-leave' }
       ] },
     { text: 'Occupational Health & Safety', link: '/ebas/allied-health/ohs', collapsed: true, items: [
-        { text: '100. Incident Reporting Investigation And Prevention', link: '/ebas/allied-health/ohs/100-incident-reporting-investigation-and-prevention' },
+        { text: '97. OH&S Preliminary', link: '/ebas/allied-health/ohs/97-ohs-preliminary' },
+        { text: '98. Industry OH&S Working Group', link: '/ebas/allied-health/ohs/98-industry-ohs-working-group' },
+        { text: '99. OH&S Risk Management', link: '/ebas/allied-health/ohs/99-ohs-risk-management' },
+        { text: '100. Incident Reporting Investigation and Prevention', link: '/ebas/allied-health/ohs/100-incident-reporting-investigation-and-prevention' },
         { text: '101. Designated Work Groups', link: '/ebas/allied-health/ohs/101-designated-work-groups' },
-        { text: '102. Hsrs', link: '/ebas/allied-health/ohs/102-hsrs' },
-        { text: '103. Occupational Violence And Aggression Prevention And', link: '/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and' },
-        { text: '104. Workers Compensation Rehabilitation And Return To', link: '/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to' },
+        { text: '102. Health & Safety Representitives', link: '/ebas/allied-health/ohs/102-hsrs' },
+        { text: '103. Occupational Violence & Aggression Prevention and Management', link: '/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and' },
+        { text: '104. Workers Compensation Rehabilitation and Return To Work', link: '/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to' },
         { text: '105. Home Visit Safety', link: '/ebas/allied-health/ohs/105-home-visit-safety' },
-        { text: '106. Facilities', link: '/ebas/allied-health/ohs/106-facilities' },
-        { text: '97. Ohs Preliminary', link: '/ebas/allied-health/ohs/97-ohs-preliminary' },
-        { text: '98. Industry Ohs Working Group', link: '/ebas/allied-health/ohs/98-industry-ohs-working-group' },
-        { text: '99. Ohs Risk Management', link: '/ebas/allied-health/ohs/99-ohs-risk-management' }
+        { text: '106. Facilities', link: '/ebas/allied-health/ohs/106-facilities' }
       ] },
     { text: 'Preliminary', link: '/ebas/allied-health/preliminary', collapsed: true, items: [
         { text: '1. Agreement Title', link: '/ebas/allied-health/preliminary/1-agreement-title' },
@@ -1421,15 +1421,15 @@ const sidebar = [
         { text: '74A. Foster And Kinship Care', link: '/ebas/nurses-midwives/leave/74A-foster-and-kinship-care' }
       ] },
     { text: 'Occupational Health & Safety', link: '/ebas/nurses-midwives/ohs', collapsed: true, items: [
+        { text: '97. OH&S Preliminary', link: '/ebas/nurses-midwives/ohs/97-ohs-preliminary' },
+        { text: '98. Industry OH&S Working Group', link: '/ebas/nurses-midwives/ohs/98-industry-ohs-working-group' },
+        { text: '99. OH&S Risk Management', link: '/ebas/nurses-midwives/ohs/99-ohs-risk-management' },
         { text: '100. Incident Reporting Investigation And Prevention', link: '/ebas/nurses-midwives/ohs/100-incident-reporting-investigation-and-prevention' },
         { text: '101. Designated Work Groups', link: '/ebas/nurses-midwives/ohs/101-designated-work-groups' },
         { text: '102. Hsrs', link: '/ebas/nurses-midwives/ohs/102-hsrs' },
-        { text: '103. Occupational Violence And Aggression Prevention And', link: '/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and' },
-        { text: '104. Workers Compensation Rehabilitation And Return To Work', link: '/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work' },
-        { text: '104A. Prevention Of Gendered Violence Including Sexual', link: '/ebas/nurses-midwives/ohs/104A-prevention-of-gendered-violence-including-sexual' },
-        { text: '97. Ohs Preliminary', link: '/ebas/nurses-midwives/ohs/97-ohs-preliminary' },
-        { text: '98. Industry Ohs Working Group', link: '/ebas/nurses-midwives/ohs/98-industry-ohs-working-group' },
-        { text: '99. Ohs Risk Management', link: '/ebas/nurses-midwives/ohs/99-ohs-risk-management' }
+        { text: '103. Occupational Violence & Aggression Prevention and Management', link: '/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and' },
+        { text: '104. Workers Compensation Rehabilitation and Return To Work', link: '/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work' },
+        { text: '104A. Prevention Of Gendered Violence Including Sexual Harassment', link: '/ebas/nurses-midwives/ohs/104A-prevention-of-gendered-violence-including-sexual' }
       ] },
     { text: 'Preliminary', link: '/ebas/nurses-midwives/preliminary', collapsed: true, items: [
         { text: '10. Anti Discrimination', link: '/ebas/nurses-midwives/preliminary/10-anti-discrimination' },

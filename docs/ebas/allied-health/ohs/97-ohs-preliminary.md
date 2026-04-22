@@ -1,10 +1,10 @@
 ---
-title: '97. Ohs Preliminary'
+title: '97. OH&S Preliminary'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs']
 ---
 
-# 97. Ohs Preliminary
+# 97. OH&S Preliminary
 
 
 

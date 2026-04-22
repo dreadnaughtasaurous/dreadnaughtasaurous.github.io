@@ -1,10 +1,10 @@
 ---
-title: '99. Ohs Risk Management'
+title: '99. OH&S Risk Management'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'ohs']
 ---
 
-# 99. Ohs Risk Management
+# 99. OH&S Risk Management
 
 
 

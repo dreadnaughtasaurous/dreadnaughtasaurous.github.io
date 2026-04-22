@@ -1,14 +1,10 @@
 ---
-title: '103. Occupational Violence And Aggression Prevention And'
+title: '103. Occupational Violence & Aggression Prevention and Management'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs', 'preliminary']
 ---
 
-# 103. Occupational Violence And Aggression Prevention And
-
-
-
-Management
+# 103. Occupational Violence & Aggression Prevention and Management
 
 **103.1** Prevention and Management of Occupational Violence and Aggression Employees are entitled to be provided a workplace free of occupational violence and aggression (OVA).
 

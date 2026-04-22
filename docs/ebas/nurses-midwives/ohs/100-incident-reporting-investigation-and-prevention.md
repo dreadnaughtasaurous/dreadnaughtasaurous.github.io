@@ -1,10 +1,10 @@
 ---
-title: '100. Incident Reporting Investigation And Prevention'
+title: '100. Incident Reporting Investigation and Prevention'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']
 ---
 
-# 100. Incident Reporting Investigation And Prevention
+# 100. Incident Reporting Investigation and Prevention
 
 
 

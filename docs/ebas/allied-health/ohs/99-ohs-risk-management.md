@@ -1,10 +1,10 @@
 ---
-title: '99. Ohs Risk Management'
+title: '99. OH&S Risk Management'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['consultation', 'ohs']
 ---
 
-# 99. Ohs Risk Management
+# 99. OH&S Risk Management
 
 
 

@@ -1,10 +1,10 @@
 ---
-title: '104. Workers Compensation Rehabilitation And Return To Work'
+title: '104. Workers Compensation Rehabilitation and Return To Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs', 'workers-comp']
 ---
 
-# 104. Workers Compensation Rehabilitation And Return To Work
+# 104. Workers Compensation Rehabilitation and Return To Work
 
 
 
