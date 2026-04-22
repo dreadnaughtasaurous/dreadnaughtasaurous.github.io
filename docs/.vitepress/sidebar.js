@@ -182,7 +182,9 @@ const sidebar = [
       ] },
     { text: 'Consultation Disputes', link: '/ebas/biomedical-engineers/consultation-disputes', collapsed: true, items: [
         { text: '13. Consultation', link: '/ebas/biomedical-engineers/consultation-disputes/13-consultation' },
+        { text: '13A. Consultation about Changes to Rosters or Hours of Work', link: '/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work' },
         { text: '14. Dispute Resolution Procedure', link: '/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure' },
+        { text: '14A. Alternative Dispute Resolution Procedure', link: '/ebas/biomedical-engineers/consultation-disputes/14A-alternative-dispute-resolution-procedure' },
         { text: '15. Performance Management', link: '/ebas/biomedical-engineers/consultation-disputes/15-performance-management' },
         { text: '16. Discipline', link: '/ebas/biomedical-engineers/consultation-disputes/16-discipline' }
       ] },
