@@ -1,10 +1,10 @@
 ---
-title: 'Education Pd'
+title: 'Education & Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['education', 'professional-development']
 ---
 
-# Education Pd
+# Education & Professional Development
 
 
 - [77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only)](./education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)

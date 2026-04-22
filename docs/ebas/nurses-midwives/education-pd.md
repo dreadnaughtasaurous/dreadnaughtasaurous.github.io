@@ -1,10 +1,10 @@
 ---
-title: 'Education Pd'
+title: 'Education & Professional Development'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['education', 'professional-development']
 ---
 
-# Education Pd
+# Education & Professional Development
 
 
 - [75. Professional Development Leave](./education-pd/75-professional-development-leave/)

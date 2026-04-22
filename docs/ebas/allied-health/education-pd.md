@@ -1,10 +1,10 @@
 ---
-title: 'Education Pd'
+title: 'Education & Professional Development'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['education', 'professional-development']
 ---
 
-# Education Pd
+# Education & Professional Development
 
 
 - [79. Professional Development Leave](./education-pd/79-professional-development-leave/)

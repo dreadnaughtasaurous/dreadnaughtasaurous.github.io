@@ -1,10 +1,10 @@
 ---
-title: 'Ohs'
+title: 'Occupational Health & Safety'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs', 'definitions']
 ---
 
-# Ohs
+# Occupational Health & Safety
 
 
 - [69. Occupational Health and Safety / Workplace Violence](./ohs/69-occupational-health-and-safety-workplace-violence/)

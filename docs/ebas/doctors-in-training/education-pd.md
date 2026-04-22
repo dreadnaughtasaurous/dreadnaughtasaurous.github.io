@@ -1,10 +1,10 @@
 ---
-title: 'Education Pd'
+title: 'Education & Professional Development'
 eba: 'Doctors in Training 2022-2026'
 topics: ['education', 'professional-development', 'training']
 ---
 
-# Education Pd
+# Education & Professional Development
 
 
 - [47. Continuing medical education allowance](./education-pd/47-continuing-medical-education-allowance/)

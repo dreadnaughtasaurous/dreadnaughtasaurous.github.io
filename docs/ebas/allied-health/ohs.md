@@ -1,10 +1,10 @@
 ---
-title: 'Ohs'
+title: 'Occupational Health & Safety'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs']
 ---
 
-# Ohs
+# Occupational Health & Safety
 
 
 - [97. OHS Preliminary](./ohs/97-ohs-preliminary/)

@@ -1,10 +1,10 @@
 ---
-title: 'Ohs'
+title: 'Occupational Health & Safety'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['ohs', 'definitions']
 ---
 
-# Ohs
+# Occupational Health & Safety
 
 
 - [80. Occupational Health & Safety](./ohs/80-occupational-health-safety/)

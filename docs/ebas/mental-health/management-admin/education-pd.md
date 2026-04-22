@@ -1,10 +1,10 @@
 ---
-title: 'Education Pd'
+title: 'Education & Professional Development'
 eba: 'Mental Health Services 2024-2028'
 topics: ['education', 'professional-development']
 ---
 
-# Education Pd
+# Education & Professional Development
 
 
 - [214. Study Leave](./education-pd/214-study-leave/)

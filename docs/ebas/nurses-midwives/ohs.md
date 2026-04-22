@@ -1,10 +1,10 @@
 ---
-title: 'Ohs'
+title: 'Occupational Health & Safety'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs']
 ---
 
-# Ohs
+# Occupational Health & Safety
 
 
 - [97. OHS Preliminary](./ohs/97-ohs-preliminary/)

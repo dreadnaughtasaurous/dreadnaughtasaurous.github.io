@@ -50,7 +50,7 @@ const sidebar = [
         { text: '15. Performance Management', link: '/ebas/allied-health/consultation-disputes/15-performance-management' },
         { text: '16. Managing Conduct And Performance', link: '/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance' }
       ] },
-    { text: 'Education Pd', link: '/ebas/allied-health/education-pd', collapsed: true, items: [
+    { text: 'Education & Professional Development', link: '/ebas/allied-health/education-pd', collapsed: true, items: [
         { text: '79. Professional Development Leave', link: '/ebas/allied-health/education-pd/79-professional-development-leave' },
         { text: '80. Study Leave', link: '/ebas/allied-health/education-pd/80-study-leave' },
         { text: '81. Examination Leave', link: '/ebas/allied-health/education-pd/81-examination-leave' },
@@ -108,7 +108,7 @@ const sidebar = [
         { text: '77. Special Disaster Leave', link: '/ebas/allied-health/leave/77-special-disaster-leave' },
         { text: '78. Gender Transition Leave', link: '/ebas/allied-health/leave/78-gender-transition-leave' }
       ] },
-    { text: 'Ohs', link: '/ebas/allied-health/ohs', collapsed: true, items: [
+    { text: 'Occupational Health & Safety', link: '/ebas/allied-health/ohs', collapsed: true, items: [
         { text: '100. Incident Reporting Investigation And Prevention', link: '/ebas/allied-health/ohs/100-incident-reporting-investigation-and-prevention' },
         { text: '101. Designated Work Groups', link: '/ebas/allied-health/ohs/101-designated-work-groups' },
         { text: '102. Hsrs', link: '/ebas/allied-health/ohs/102-hsrs' },
@@ -186,7 +186,7 @@ const sidebar = [
         { text: '15. Performance Management', link: '/ebas/biomedical-engineers/consultation-disputes/15-performance-management' },
         { text: '16. Discipline', link: '/ebas/biomedical-engineers/consultation-disputes/16-discipline' }
       ] },
-    { text: 'Education Pd', link: '/ebas/biomedical-engineers/education-pd', collapsed: true, items: [
+    { text: 'Education & Professional Development', link: '/ebas/biomedical-engineers/education-pd', collapsed: true, items: [
         { text: '71. Supporting Professional Development', link: '/ebas/biomedical-engineers/education-pd/71-supporting-professional-development' },
         { text: '72. Professional Development Leave', link: '/ebas/biomedical-engineers/education-pd/72-professional-development-leave' },
         { text: '73. Study Leave', link: '/ebas/biomedical-engineers/education-pd/73-study-leave' },
@@ -395,7 +395,7 @@ const sidebar = [
         { text: '31. Rotation To A General Practice Training Program', link: '/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program' },
         { text: '32. Transition To Retirement', link: '/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement' }
       ] },
-    { text: 'Education Pd', link: '/ebas/doctors-in-training/education-pd', collapsed: true, items: [
+    { text: 'Education & Professional Development', link: '/ebas/doctors-in-training/education-pd', collapsed: true, items: [
         { text: '47. Continuing Medical Education Allowance', link: '/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance' },
         { text: '48. Internal Training', link: '/ebas/doctors-in-training/education-pd/48-internal-training' },
         { text: '49. Examination Leave', link: '/ebas/doctors-in-training/education-pd/49-examination-leave' },
@@ -527,7 +527,7 @@ const sidebar = [
         { text: '68. Cultural And Ceremonial Leave', link: '/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave' },
         { text: '69. Public Holidays', link: '/ebas/has-managers-admin/common-terms/leave/69-public-holidays' }
       ] },
-        { text: 'Ohs', link: '/ebas/has-managers-admin/common-terms/ohs', collapsed: true, items: [
+        { text: 'Occupational Health & Safety', link: '/ebas/has-managers-admin/common-terms/ohs', collapsed: true, items: [
         { text: '80. Occupational Health Safety', link: '/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety' },
         { text: '81. Oh S Department Placement', link: '/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement' },
         { text: '82. Fitness For Work', link: '/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work' }
@@ -599,7 +599,7 @@ const sidebar = [
         { text: '46. Clinical Services Enhancement Job Rotation', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/46-clinical-services-enhancement-job-rotation' },
         { text: '47. Review Of Pharmacy Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure' }
       ] },
-        { text: 'Education Pd', link: '/ebas/has-managers-admin/health-allied-services/education-pd', collapsed: true, items: [
+        { text: 'Education & Professional Development', link: '/ebas/has-managers-admin/health-allied-services/education-pd', collapsed: true, items: [
         { text: '30. Staff Appraisal', link: '/ebas/has-managers-admin/health-allied-services/education-pd/30-staff-appraisal' },
         { text: '31. Study Leave', link: '/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave' },
         { text: '32. Technology In Cleaning', link: '/ebas/has-managers-admin/health-allied-services/education-pd/32-technology-in-cleaning' }
@@ -644,7 +644,7 @@ const sidebar = [
         { text: '16. Worker Wellbeing And Employment Support Officers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers' },
         { text: '17. Translation Of Managers And Administrative Workers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers' }
       ] },
-        { text: 'Education Pd', link: '/ebas/has-managers-admin/managers-admin/education-pd', collapsed: true, items: [
+        { text: 'Education & Professional Development', link: '/ebas/has-managers-admin/managers-admin/education-pd', collapsed: true, items: [
         { text: '12. Study Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave' },
         { text: '13. Examination Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/13-examination-leave' },
         { text: '14. Education And Training', link: '/ebas/has-managers-admin/managers-admin/education-pd/14-education-and-training' },
@@ -844,7 +844,7 @@ const sidebar = [
         { text: '51A. Fitness For Work', link: '/ebas/mental-health/common-terms/leave/51A-fitness-for-work' },
         { text: '51B. Climate Change Mitigation And Sustainability', link: '/ebas/mental-health/common-terms/leave/51B-climate-change-mitigation-and-sustainability' }
       ] },
-        { text: 'Ohs', link: '/ebas/mental-health/common-terms/ohs', collapsed: true, items: [
+        { text: 'Occupational Health & Safety', link: '/ebas/mental-health/common-terms/ohs', collapsed: true, items: [
         { text: '69. Occupational Health And Safety Workplace Violence', link: '/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence' },
         { text: '69A. Industry Ohs Working Group', link: '/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group' },
         { text: '69B. Ohs Risk Management', link: '/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management' },
@@ -922,7 +922,7 @@ const sidebar = [
         { text: '144A. Staffing', link: '/ebas/mental-health/health-professionals/classification-staffing/144A-staffing' },
         { text: '145. Trainee Supervision', link: '/ebas/mental-health/health-professionals/classification-staffing/145-trainee-supervision' }
       ] },
-        { text: 'Education Pd', link: '/ebas/mental-health/health-professionals/education-pd', collapsed: true, items: [
+        { text: 'Education & Professional Development', link: '/ebas/mental-health/health-professionals/education-pd', collapsed: true, items: [
         { text: '136. Professional Development Leave', link: '/ebas/mental-health/health-professionals/education-pd/136-professional-development-leave' },
         { text: '137. Examination Leave', link: '/ebas/mental-health/health-professionals/education-pd/137-examination-leave' },
         { text: '138. In Service Education Training Royal Children S Hospital', link: '/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital' },
@@ -972,7 +972,7 @@ const sidebar = [
         { text: '221. Classifications', link: '/ebas/mental-health/management-admin/classification-staffing/221-classifications' },
         { text: '222. Chief Executive Officers', link: '/ebas/mental-health/management-admin/classification-staffing/222-chief-executive-officers' }
       ] },
-        { text: 'Education Pd', link: '/ebas/mental-health/management-admin/education-pd', collapsed: true, items: [
+        { text: 'Education & Professional Development', link: '/ebas/mental-health/management-admin/education-pd', collapsed: true, items: [
         { text: '214. Study Leave', link: '/ebas/mental-health/management-admin/education-pd/214-study-leave' },
         { text: '215. Examination Leave', link: '/ebas/mental-health/management-admin/education-pd/215-examination-leave' },
         { text: '216. Staff Appraisal', link: '/ebas/mental-health/management-admin/education-pd/216-staff-appraisal' },
@@ -1017,7 +1017,7 @@ const sidebar = [
         { text: '191. Overpayment Of Wages Royal Children S Hospital', link: '/ebas/mental-health/management-admin/wages/191-overpayment-of-wages-royal-children-s-hospital' }
       ] }
       ] },
-    { text: 'Rpn Pen Mho', link: '/ebas/mental-health/rpn-pen-mho', collapsed: true, items: [
+    { text: 'Registered & Enrolled Psychiatric Nurses and Mental Health Officers', link: '/ebas/mental-health/rpn-pen-mho', collapsed: true, items: [
         { text: 'Allowances', link: '/ebas/mental-health/rpn-pen-mho/allowances', collapsed: true, items: [
         { text: '75. Change Of Shift Allowance Pen And Mho', link: '/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho' },
         { text: '76. Childcare Reimbursement', link: '/ebas/mental-health/rpn-pen-mho/allowances/76-childcare-reimbursement' },
@@ -1046,7 +1046,7 @@ const sidebar = [
         { text: '109. Psychiatric Enrolled Nurse Classifications', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/109-psychiatric-enrolled-nurse-classifications' },
         { text: '110. Mental Health Officers Classifications', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/110-mental-health-officers-classifications' }
       ] },
-        { text: 'Education Pd', link: '/ebas/mental-health/rpn-pen-mho/education-pd', collapsed: true, items: [
+        { text: 'Education & Professional Development', link: '/ebas/mental-health/rpn-pen-mho/education-pd', collapsed: true, items: [
         { text: '100. Clinical Supervision', link: '/ebas/mental-health/rpn-pen-mho/education-pd/100-clinical-supervision' },
         { text: '99. Professional Development Leave', link: '/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave' },
         { text: '99A. Study Leave', link: '/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave' },
@@ -1355,7 +1355,7 @@ const sidebar = [
         { text: '16A. Individual Flexible Working Arrangements', link: '/ebas/nurses-midwives/consultation-disputes/16A-individual-flexible-working-arrangements' },
         { text: '16B. Climate Change Mitigation And Sustainability', link: '/ebas/nurses-midwives/consultation-disputes/16B-climate-change-mitigation-and-sustainability' }
       ] },
-    { text: 'Education Pd', link: '/ebas/nurses-midwives/education-pd', collapsed: true, items: [
+    { text: 'Education & Professional Development', link: '/ebas/nurses-midwives/education-pd', collapsed: true, items: [
         { text: '75. Professional Development Leave', link: '/ebas/nurses-midwives/education-pd/75-professional-development-leave' },
         { text: '76. Study Leave', link: '/ebas/nurses-midwives/education-pd/76-study-leave' },
         { text: '77. Examination Leave', link: '/ebas/nurses-midwives/education-pd/77-examination-leave' },
@@ -1420,7 +1420,7 @@ const sidebar = [
         { text: '74. Jury Service', link: '/ebas/nurses-midwives/leave/74-jury-service' },
         { text: '74A. Foster And Kinship Care', link: '/ebas/nurses-midwives/leave/74A-foster-and-kinship-care' }
       ] },
-    { text: 'Ohs', link: '/ebas/nurses-midwives/ohs', collapsed: true, items: [
+    { text: 'Occupational Health & Safety', link: '/ebas/nurses-midwives/ohs', collapsed: true, items: [
         { text: '100. Incident Reporting Investigation And Prevention', link: '/ebas/nurses-midwives/ohs/100-incident-reporting-investigation-and-prevention' },
         { text: '101. Designated Work Groups', link: '/ebas/nurses-midwives/ohs/101-designated-work-groups' },
         { text: '102. Hsrs', link: '/ebas/nurses-midwives/ohs/102-hsrs' },
