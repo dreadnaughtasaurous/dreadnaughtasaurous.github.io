@@ -16,7 +16,7 @@ topics: ['hours', 'shift-work', 'wages', 'preliminary']
 
 **(ii)** for two hours or less, only the time so worked will be paid for at that higher Level, grade or sub-grade.
 
-**(b)** Level for the purposes of this clause 0 means a role in which the weekly salary in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) for that role is higher than the Employee's normal role.
+**(b)** Level for the purposes of this ([clause 35](/ebas/nurses-midwives/allowances/35-higher-duties)) means a role in which the weekly salary in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) for that role is higher than the Employee's normal role.
 
 **35.2** General entitlement to higher duties allowance – Enrolled Nurse
 
