@@ -1039,6 +1039,7 @@ const sidebar = [
         { text: 'Classification Staffing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing', collapsed: true, items: [
         { text: '101. Staffing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing' },
         { text: '102. Workload Management', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management' },
+        { text: '102A. Staff Replacement', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement' },
         { text: '103. Undergraduate Employment Models', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/103-undergraduate-employment-models' },
         { text: '104. Classification Structures', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/104-classification-structures' },
         { text: '105. Commencing Grades Nursing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/105-commencing-grades-nursing' },
@@ -1064,6 +1065,7 @@ const sidebar = [
         { text: '91. Oncall Recall Non Catt', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt' },
         { text: '92. Catt On Call Recall Allowances', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances' },
         { text: '93. Ten Hour Break Between Overtime Recall', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall' },
+        { text: '93A. Four Clear Days Allowance', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/93A-four-clear-days-allowance' },
         { text: '94. Rosters', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters' },
         { text: '95. Supplementary Roster', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster' },
         { text: '95A. Right To Disconnect Supplementary Roster', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster' },

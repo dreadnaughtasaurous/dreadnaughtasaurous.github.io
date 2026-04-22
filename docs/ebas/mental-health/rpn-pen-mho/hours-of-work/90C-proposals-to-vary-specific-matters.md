@@ -12,7 +12,7 @@ topics: ['hours', 'shift-work', 'allowances', 'staffing']
 
 **(a)** This clause will apply to any proposal by an Employer or Employees to:
 
-**(i)** implement an alternate Four Clear Days Allowance (see clause 93A);
+**(i)** implement an alternate Four Clear Days Allowance (see [clause 93A](/ebas/mental-health/rpn-pen-mho/hours-of-work/93A-four-clear-days-allowance));
 
 **(ii)** amend the existing staffing profile (other than that contained at clause (102.5(e)(ii)); or
 
@@ -42,7 +42,7 @@ A maximum of three weeks from the date of provision of the information in [claus
 
 **(b)** Disputes Should there be concern as to the 'genuine' nature of the agreement of the affected Employee, or agreement being unreasonably withheld, either party may progress such concerns through the Dispute Resolution Procedure within seven days of the view of the Affected Employees being determined. While the Dispute Resolution Procedure is being conducted work will continue normally according to the usual practice that existed before the dispute, until the dispute is resolved.
 
-**(c)** Exception – flexible work arrangement The requirement at subclause 92C.6(a) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements). Following the consultation period at clause
+**(c)** Exception – flexible work arrangement The requirement at [subclause 90C.6(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements). Following the consultation period at clause
 
 90C.5, a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period. 90C.7. Meaning of Non-Complying Proposal
 
@@ -62,7 +62,7 @@ In this clause, a non-complying proposal is a proposal about a matter at [subcla
 
 **(c)** Where the Employee(s) do not agree with an Employer's proposal, a secret ballot of affected Employees will be conducted. If the ballot does not endorse the proposed change, then the proposal will not proceed.
 
-**(d)** Before voting for a permanent 12-hour shift arrangement, Employees must have adequate time to read and discuss the full 12-hour shift trial final evaluation report. 90C.9. Considerations The following are considerations, where relevant, that must be addressed in relation to a proposal referred to in clause 92C.1:
+**(d)** Before voting for a permanent 12-hour shift arrangement, Employees must have adequate time to read and discuss the full 12-hour shift trial final evaluation report. 90C.9. Considerations The following are considerations, where relevant, that must be addressed in relation to a proposal referred to in [clause 90C.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters):
 
 **(a)** consumer/patient profile – consideration of consumer/patient acuity/clinical context, age of the patient, complexity, length of stay and throughput of patients in the clinical setting e.g. emergency admissions, planned admissions and transfers to/from intensive care areas
 
