@@ -46,9 +46,7 @@ Subject to the conditions set out in this clause, an Employee may take paid pers
 
 **(a)** General
 
-An Employee may take personal leave for the reasons described at subclause
-
-**61.3** above and 61.5(b) below.
+An Employee may take personal leave for the reasons described at subclause 61.3 above and 61.5(b) below.
 
 **(b)** Personal Leave to Attend Appointments
 
@@ -64,7 +62,7 @@ An Employee taking sick leave will give the Employer evidence that would satisfy
 
 **(d)** Exception to evidence requirement – single day absences
 
-An Employee may be absent for a single day without evidence of personal illness or injury as required at subclause 0 above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at [subclause 61.5(e)](/ebas/nurses-midwives/leave/61-personal-leave) below.
+An Employee may be absent for a single day without evidence of personal illness or injury as required at [subclause 61.5(c)](/ebas/nurses-midwives/leave/61-personal-leave) above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at [subclause 61.5(e)](/ebas/nurses-midwives/leave/61-personal-leave) below.
 
 **(e)** Notice requirements
 

@@ -76,7 +76,7 @@ Example: An Employee whose average hours are 0.6EFT is rostered to work from 9.3
 
 **56.7** Accrued days off on public holidays
 
-See also clause 0 (Accrued Days Off).
+See also [clause 43](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off) (Accrued Days Off).
 
 Where a public holiday or part-day public holiday falls on a day upon which a full-time Employee would ordinarily have been required to be on duty, but the Employee is on an accrued day off, another day or part day will be determined by the Employer to be taken by the Employee in lieu of the public holiday or part-day public holiday, such day to be within the same work cycle where practical.
 

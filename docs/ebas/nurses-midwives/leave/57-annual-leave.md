@@ -236,7 +236,7 @@ See also [clauses 61](/ebas/nurses-midwives/leave/61-personal-leave) (Personal L
 
 **57.12** ADOs and annual leave
 
-See clause 0 (Accrued Days Off).
+See [clause 43](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off) (Accrued Days Off).
 
 Plain language terms: holidays, vacation, recreation leave, holiday pay.
 

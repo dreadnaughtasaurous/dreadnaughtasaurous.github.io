@@ -248,7 +248,7 @@ registered midwife of the child as having been delivered); or
 
 **(A)** where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under [clauses 68.3 or 68.4](/ebas/nurses-midwives/leave/68-parental-leave) (the original leave);
 
-1\) at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the original leave, unless subclause 2) below applies; or
+1\) at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the original leave, unless [subclause 2](/ebas/nurses-midwives/leave/68-parental-leave)) below applies; or
 
 2\) if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the first of those periods of leave; or
 
