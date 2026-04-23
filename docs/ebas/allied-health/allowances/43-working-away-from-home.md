@@ -18,6 +18,8 @@ topics: ['leave', 'public-holidays', 'allowances', 'travel']
 
 **(b)** pay for all reasonably incurred expenses in respect to fares, meals and accommodation.
 
-**43.2** Exception Subject to [subclause 43.1](/ebas/allied-health/allowances/43-working-away-from-home), this [clause 43](/ebas/allied-health/allowances/43-working-away-from-home) does not apply where an Employee voluntarily chooses for personal reasons to stay in the location prior to or after the day on which the Employee is required to work by the Employer.
+**43.2 Exception** 
+
+Subject to [subclause 43.1](/ebas/allied-health/allowances/43-working-away-from-home), this [clause 43](/ebas/allied-health/allowances/43-working-away-from-home) does not apply where an Employee voluntarily chooses for personal reasons to stay in the location prior to or after the day on which the Employee is required to work by the Employer.
 
 

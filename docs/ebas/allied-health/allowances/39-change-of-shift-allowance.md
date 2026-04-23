@@ -1,18 +1,22 @@
 ---
 title: '39. Change Of Shift Allowance'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'shift-work', 'allowances']
+topics: ['hours', 'shift-work', 'allowances',]
 ---
 
 # 39. Change Of Shift Allowance
 
 
 
-**39.1** An Employee who changes from working on one shift (first shift) to working on another shift (second shift) and the time of commencement of the second shift differs by four (4) hours or more from the first shift, will be paid a change of shift allowance of the amount specified in [Appendix 3](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments) of this Agreement for each such change except as provided at [subclauses 39.2](/ebas/allied-health/allowances/39-change-of-shift-allowance) and 39.3 below.
+**39.1** An Employee who changes from working on one shift (**first shift**) to working on another shift (**second shift**) and the time of commencement of the second shift differs by four (4) hours or more from the first shift, will be paid a change of shift allowance of the amount specified in [Appendix 3](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments) of this Agreement for each such change except as provided at [subclauses 39.2](/ebas/allied-health/allowances/39-change-of-shift-allowance) and 39.3 below.
 
-**39.2** Exception – two contracted positions The change of shift allowance is not payable where an Employee holds two (2) contemporaneous, contracted, different positions with the same Employer and moving between those positions results in a change of shift pattern that would ordinarily invoke a change of shift allowance payment.
+**39.2 Exception – two contracted positions** 
 
-**39.3** Exceptions – Employee requests change and 2 weeks off duty The change of shift allowance is not payable where:
+The change of shift allowance is not payable where an Employee holds two (2) contemporaneous, contracted, different positions with the same Employer and moving between those positions results in a change of shift pattern that would ordinarily invoke a change of shift allowance payment.
+
+**39.3 Exceptions – Employee requests change and 2 weeks off duty** 
+
+The change of shift allowance is not payable where:
 
 **(a)** the Employee requests a change to the roster which creates a change of shift as described in [subclause 39.1](/ebas/allied-health/allowances/39-change-of-shift-allowance); or
 

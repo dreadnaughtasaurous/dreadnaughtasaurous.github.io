@@ -19,7 +19,7 @@ const sidebar = [
         { text: '44. Uniform And Laundry Allowance', link: '/ebas/allied-health/allowances/44-uniform-and-laundry-allowance' },
         { text: '44A. Lead Apron Allowance', link: '/ebas/allied-health/allowances/44A-lead-apron-allowance' },
         { text: '45. Damaged Clothing Allowance', link: '/ebas/allied-health/allowances/45-damaged-clothing-allowance' },
-        { text: '46. Supervisor Allowance Medical Technician And Renal', link: '/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal' }
+        { text: '46. Supervisor Allowance Medical Technician And Renal Dialysis Technician (Clinical Renal Physiologist) Only', link: '/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal' }
       ] },
     { text: 'Appendices', link: '/ebas/allied-health/appendices', collapsed: true, items: [
         { text: '1. List Of Employers', link: '/ebas/allied-health/appendices/1-list-of-employers' },

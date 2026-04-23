@@ -16,12 +16,12 @@ topics: ['allowances']
 
 **35.4** The higher qualifications allowance is to be paid during all periods of leave except sick leave beyond 21 days and long service leave.
 
-**35.5** Definitions
+**35.5 Definitions**
 
-**(a)** A post graduate qualification includes a qualification that has been assessed as a Bachelor Honours Degree, Graduate Certificate, Graduate Diploma or Masters Degree (or equivalent to any of these) under the Australian Qualifications Framework level 8 or 9 criteria.
+**(a)** A **post graduate qualification** includes a qualification that has been assessed as a Bachelor Honours Degree, Graduate Certificate, Graduate Diploma or Masters Degree (or equivalent to any of these) under the Australian Qualifications Framework level 8 or 9 criteria.
 
-**(b)** A doctorate includes a qualification that has been assessed as a Doctorate (or equivalent) under the Australian Qualifications Framework level 10 criteria.
+**(b)** A **doctorate** includes a qualification that has been assessed as a Doctorate (or equivalent) under the Australian Qualifications Framework level 10 criteria.
 
-**(c)** For the avoidance of doubt, additional post graduate qualification in [subclause 35.1](/ebas/allied-health/allowances/35-higher-qualifications-allowance) means a post graduate qualification held by the Employee that is in addition to the minimum qualification that is required to enable them entry into the relevant profession under the Agreement. It is not a post graduate qualification held by an Employee that is the only qualification they hold that allows them entry into the profession under the Agreement.
+**(c)** For the avoidance of doubt, **additional post graduate qualification** in [subclause 35.1](/ebas/allied-health/allowances/35-higher-qualifications-allowance) means a post graduate qualification held by the Employee that is in addition to the minimum qualification that is required to enable them entry into the relevant profession under the Agreement. It is not a post graduate qualification held by an Employee that is the only qualification they hold that allows them entry into the profession under the Agreement.
 
 

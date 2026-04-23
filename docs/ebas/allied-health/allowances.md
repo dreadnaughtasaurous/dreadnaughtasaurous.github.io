@@ -22,6 +22,6 @@ topics: ['allowances']
 - [44. Uniform and Laundry Allowance](./allowances/44-uniform-and-laundry-allowance/)
 - [44A. Lead Apron Allowance](./allowances/44A-lead-apron-allowance/)
 - [45. Damaged Clothing Allowance](./allowances/45-damaged-clothing-allowance/)
-- [46. Supervisor Allowance – Medical Technician and Renal](./allowances/46-supervisor-allowance-medical-technician-and-renal/)
+- [46. Supervisor Allowance – Medical Technician and Renal Dialysis Technician (Clinical Renal Physiologist) Only](./allowances/46-supervisor-allowance-medical-technician-and-renal/)
 
 

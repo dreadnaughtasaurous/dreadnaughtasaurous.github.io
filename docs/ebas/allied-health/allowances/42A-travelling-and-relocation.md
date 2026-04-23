@@ -8,17 +8,17 @@ topics: ['hours', 'shift-work', 'allowances', 'travel']
 
 
 
-This clause concerns payment only and is not intended to exclude the requirements of [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation) or 25 (Redundancy and Related Entitlements) or create a new right to be directed to work at another location.
+*This clause concerns payment only and is not intended to exclude the requirements of [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation) or 25 (Redundancy and Related Entitlements) or create a new right to be directed to work at another location.*
 
-**42A.1** In this [clause 42A](/ebas/allied-health/allowances/42A-travelling-and-relocation) Base Employment Campus means a Campus of the Employer at which the Employee ordinarily starts and finishes work.
+**42A.1** In this [clause 42A](/ebas/allied-health/allowances/42A-travelling-and-relocation) **Base Employment Campus** means a Campus of the Employer at which the Employee ordinarily starts and finishes work.
 
-**42A.2** Where an Employee is required by the Employer to temporarily relocate from their Base Employment Campus to another Campus during a shift, the Employee will be paid the travel allowance at [subclause 41.1](/ebas/allied-health/allowances/41-travelling-allowance). For the avoidance of doubt, the travel will occur within paid time.
+**42A.2** Where an Employee is required by the Employer to temporarily relocate from their Base Employment Campus to another Campus **during** a shift, the Employee will be paid the travel allowance at [subclause 41.1](/ebas/allied-health/allowances/41-travelling-allowance). 
+
+For the avoidance of doubt, the travel will occur within paid time.
 
 **42A.3** Where an Employee is required by the Employer to temporarily relocate from their Base Employment Campus to another Campus prior to a shift, the Employee will:
 
-**(a)** be reimbursed for any additional travelling cost to the Employee (where applicable) excluding time spent travelling (which is addressed at subclause
-
-**42A.6** below); and
+**(a)** be reimbursed for any additional travelling cost to the Employee (where applicable) excluding time spent travelling (which is addressed at [subclause 42A.6](/ebas/allied-health/allowances/42A-travelling-and-relocation) below); and
 
 **(b)** where travel time increases by 15 minutes or greater (to and return) be paid an allowance equal to the Employee's ordinary rate for the additional time spent when compared to the Employee's travel time to the Base Employment Campus. Nothing in this [subclause 42A.6](/ebas/allied-health/allowances/42A-travelling-and-relocation) prevents an Employer requiring the travel to occur within the rostered shift.
 
