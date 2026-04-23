@@ -366,7 +366,7 @@ Senior Midwife
 
 Senior Midwife (a) Senior Midwife means an Employee who is a Registered Midwife appointed as the senior midwifery officer, however titled, and who is responsible for midwives, operationally and/or professionally, within the maternity service/division.
 
-**(b)** A Senior Midwife appointed in accordance with clause 90A will be paid at the greater of:
+**(b)** A Senior Midwife appointed in accordance with [clause 90A](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) will be paid at the greater of:
 
 **(i)** the NM8C Grade; or
 
@@ -376,7 +376,7 @@ Senior Midwife (a) Senior Midwife means an Employee who is a Registered Midwife 
 
 Liaison Midwife - Classification
 
-Liaison Midwife (a) A Liaison Midwife, listed at clause 90A.2, provides clinical midwifery leadership across maternity services of more than one health service to:
+Liaison Midwife (a) A Liaison Midwife, listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife), provides clinical midwifery leadership across maternity services of more than one health service to:
 
 **(i)** strengthen clinical governance;
 
@@ -386,11 +386,11 @@ Liaison Midwife (a) A Liaison Midwife, listed at clause 90A.2, provides clinical
 
 **(iv)** foster a culture of continuous improvement.
 
-**(b)** A Liaison Midwife not listed at clause 90A.2 must:
+**(b)** A Liaison Midwife not listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) must:
 
 **(i)** meet the definition of Clinical Midwife Consultant D; or
 
-**(i)** be performing a comparable role to that of a Liaison Midwife appointed under clause 90A.2,
+**(i)** be performing a comparable role to that of a Liaison Midwife appointed under [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife),
 
 to be paid as such.
 
@@ -578,7 +578,7 @@ A Registered Nurse who at the direction of the Employer undertakes exclusively c
 
 **(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant D and paid as such.
 
-**(b)** A Liaison Midwife listed at clause 90A.2 will be classified as a Clinical Midwife Consultant D.
+**(b)** A Liaison Midwife listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) will be classified as a Clinical Midwife Consultant D.
 
 **83.27** CAPR 6
 

@@ -1340,6 +1340,7 @@ const sidebar = [
         { text: '88. Not Used', link: '/ebas/nurses-midwives/classification-staffing/88-not-used' },
         { text: '89. Deputy Director Of Nursing', link: '/ebas/nurses-midwives/classification-staffing/89-deputy-director-of-nursing' },
         { text: '90. Staffing Anum Amum And Above', link: '/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above' },
+        { text: '90A. Senior Midwife And Liaison Midwife', link: '/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife' },
         { text: '91. Aged Care', link: '/ebas/nurses-midwives/classification-staffing/91-aged-care' },
         { text: '92. Demand Escalation Policy', link: '/ebas/nurses-midwives/classification-staffing/92-demand-escalation-policy' },
         { text: '93. Proposals To Vary Specific Matters', link: '/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters' },
