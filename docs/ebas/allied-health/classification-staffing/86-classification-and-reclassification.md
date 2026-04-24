@@ -10,7 +10,7 @@ topics: ['preliminary']
 
 **86.1** All Employees will be paid the applicable rate of pay for their grade and classification as set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) (Wage Rates).
 
-**86.2** The grades and classifications of all Employees (including a reclassification request) will be determined in accordance with the classification definitions in performed, eligibility, levels of responsibility, skill and experience for the classifications under this Agreement. An Employee’s classification is not determined by the Employee’s performance in the position or the staffing profile in the area/department.
+**86.2** The grades and classifications of all Employees (including a reclassification request) will be determined in accordance with the classification definitions in [Appendix 4](/ebas/allied-health/appendices/4-classification-definitions) (Classification Definitions) which describe matters including the work performed, eligibility, levels of responsibility, skill and experience for the classifications under this Agreement. An Employee’s classification is not determined by the Employee’s performance in the position or the staffing profile in the area/department.
 
 **86.3** Employers will, in the Employee’s letter of offer, advise the Employee in writing of their classification under this Agreement as per [clause 23](/ebas/allied-health/employment/23-letter-of-offer) (Letter of Offer).
 
@@ -22,9 +22,8 @@ topics: ['preliminary']
 
 **86.7** Where the Employer determines, in accordance with [subclause 86.5](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) and 86.6, that another classification better describes the work performed and required by the Employee’s position, the reclassification will take effect from the earlier of:
 
-**(a)** where it can reasonably be determined, the date on which the Employee’s work was better described by another classification; or
-
-**(b)** the date the written reclassification request was submitted.
+- **(a)** where it can reasonably be determined, the date on which the Employee’s work was better described by another classification; or
+- **(b)** the date the written reclassification request was submitted.
 
 **86.8** At any time, either the Employee or Employer may refer a request for reclassification to the dispute settlement procedure in [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of this Agreement.
 
