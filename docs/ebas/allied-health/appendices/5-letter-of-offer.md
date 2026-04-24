@@ -1,18 +1,21 @@
 ---
-title: '5. Letter Of Offer'
+title: 'Appendix 5 – Letter of Offer - Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 
-# 5. Letter Of Offer
+## Appendix 5 – Letter of Offer - Allied Health EBA
 
+The Letter of Offer must contain the following information:
 
-
-Formatting note
-
-The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and forms. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
-
-
-`text The letter of offer will include the following information: 1. the name of the Employer; 2. the Employee's classification, increment and job title; 3. the location/s where the Employee is to be situated; 4. the Employee’s mode of employment (whether full-time, part-time, fixed term or casual etc); 5. the name of this Agreement, which contains the Employee’s terms and conditions of employment; 6. the Employee’s fortnightly hours (full or part-time Employees) and that additional ordinary time shifts may be worked by a part-time Employee by mutual agreement with the Employer; 7. that shifts will be worked in accordance with a roster; 8. for part-time Employees: a. the agreed upon: i. regular pattern of work, specifying at least the hours worked each day; ii. which days of the week the Employee will work; iii. the actual starting and finishing times each day; b. that payment of additional shifts will not be at casual rates; and c. that any variation to the regular pattern of work must be by agreement between the Employer and the Employee and will be recorded in writing; 9. a statement to the effect that employment is ongoing unless a genuine fixed term appointment is proposed, and, where a genuine fixed term is proposed, the reason the role is genuine fixed term employment, the duration of the fixed term and the rights of an incumbent Employee (if relevant); 10. the date of commencement; 11. acknowledgment and details (where applicable) of prior service/entitlements to personal leave, long service etc.; 12. relevant allowances payable; and 13. other information as required depending on the nature of the position.`
+1. The name of the Employer.
+2. The name of the Employee.
+3. The commencement date of employment.
+4. The classification of the Employee and the applicable rate of pay.
+5. The ordinary hours of work, including the days and times the Employee is required to work.
+6. Whether the position is full-time, part-time or casual.
+7. The location of the workplace.
+8. The duration of any probationary period.
+9. Any other terms and conditions of employment applicable to the Employee.
 
 
