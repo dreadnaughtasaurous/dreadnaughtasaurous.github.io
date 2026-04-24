@@ -44,7 +44,7 @@ const sidebar = [
       ] },
     { text: 'Consultation Disputes', link: '/ebas/allied-health/consultation-disputes', collapsed: true, items: [
         { text: '13. Consultation', link: '/ebas/allied-health/consultation-disputes/13-consultation' },
-        { text: '13A. Consultation About Changes To Rosters Or Hours Of', link: '/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of' },
+        { text: '13A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of' },
         { text: '14. Dispute Resolution Procedure', link: '/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure' },
         { text: '14A. Independent Dispute Resolution Panel', link: '/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel' },
         { text: '15. Performance Management', link: '/ebas/allied-health/consultation-disputes/15-performance-management' },
