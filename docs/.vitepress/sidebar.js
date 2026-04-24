@@ -169,9 +169,9 @@ const sidebar = [
       ] },
     { text: 'Appendices', link: '/ebas/biomedical-engineers/appendices', collapsed: true, items: [
         { text: '1. List Of Employers', link: '/ebas/biomedical-engineers/appendices/1-list-of-employers' },
-        { text: '2. Wage Rates', link: '/ebas/biomedical-engineers/appendices/2-wage-rates' },
-        { text: '3. Allowances And Top Of Band Payments', link: '/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments' },
-        { text: '4. Classification Definitions', link: '/ebas/biomedical-engineers/appendices/4-classification-definitions' }
+        { text: '2. Salaries & Allowances', link: '/ebas/biomedical-engineers/appendices/2-wage-rates' },
+        { text: '3. Fixed Term Contract Conversion', link: '/ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion' },
+        { text: '4. Certificate of Service', link: '/ebas/biomedical-engineers/appendices/4-certificate-of-service' }
       ] },
     { text: 'Classification Staffing', link: '/ebas/biomedical-engineers/classification-staffing', collapsed: true, items: [
         { text: '80. Classification And Reclassification', link: '/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification' },
