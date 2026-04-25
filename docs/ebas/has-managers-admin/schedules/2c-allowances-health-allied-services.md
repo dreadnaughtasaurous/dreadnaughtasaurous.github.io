@@ -1,10 +1,10 @@
 ---
-title: '2C. Allowances Health Allied Services'
+title: 'Schedule 2C - Allowances (Health & Allied Services): Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'experience-payments', 'salary-circular']
 ---
 
-# Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin EBA
+# Schedule 2C - Allowances (Health & Allied Services): Health Allied & Managers Admin EBA
 
 
 

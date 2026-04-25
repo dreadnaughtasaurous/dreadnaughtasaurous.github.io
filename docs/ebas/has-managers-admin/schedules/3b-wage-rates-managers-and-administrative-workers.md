@@ -1,10 +1,10 @@
 ---
-title: '3B. Wage Rates Managers And Administrative Workers'
+title: 'Schedule 3B - Wage Rates (Managers and Administrative Workers): Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular']
 ---
 
-# Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin EBA
+# Schedule 3B - Wage Rates (Managers and Administrative Workers): Health Allied & Managers Admin EBA
 
 
 
