@@ -1,10 +1,10 @@
 ---
-title: '2. Specialists Remuneration And Allowances'
+title: 'Appendix 2 - Specialists Remuneration and Allowances: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'pay-rates', 'wages', 'allowances', 'remuneration', 'salary', 'rates', 'penalty-rates', 'hourly-rates', 'classification']
 ---
 
-# Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists EBA
+# Appendix 2 - Specialists Remuneration and Allowances: Medical Specialists EBA
 
 
 ::: info

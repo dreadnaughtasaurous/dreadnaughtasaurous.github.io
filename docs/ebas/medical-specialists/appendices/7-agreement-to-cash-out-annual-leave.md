@@ -1,47 +1,89 @@
 ---
-title: '7. Agreement To Cash Out Annual Leave'
+title: 'Appendix 7 – Agreement to Cash Out Annual Leave: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
 
-# 7. Agreement To Cash Out Annual Leave
+# Appendix 7 – Agreement to Cash Out Annual Leave: Medical Specialists EBA
 
+<div style="border: 1px solid #333; padding: 1.5rem 2rem 2rem 2rem; margin-bottom: 2rem;">
 
+<p style="text-align: center;"><strong>Agreement to Cash Out Annual Leave</strong></p>
 
-Formatting note
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 180px;">Name of employee:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap;">Name of employer:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and forms. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
+<p><strong>The employer and employee agree to the employee cashing out a particular amount of the employee's accrued paid annual leave:</strong></p>
 
+<p>The amount of leave to be cashed out is: <span style="display: inline-block; border-bottom: 1px solid #333; width: 60px;">&nbsp;</span> hours/days</p>
 
-\`\`\`text Agreement to Cash Out Annual Leave
+<p>The payment to be made to the employee for the leave is: $<span style="display: inline-block; border-bottom: 1px solid #333; width: 100px;">&nbsp;</span> subject to deduction of income tax/after deduction of income tax <em>(strike out where not applicable)</em></p>
 
-Name of employee: ***\_**\_**\_**\_**\_**\_***\_\_\_
+<p>The payment will be made to the employee on: <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / 20<span style="display: inline-block; border-bottom: 1px solid #333; width: 30px;">&nbsp;</span></p>
 
-Name of employer: ***\_**\_**\_**\_**\_**\_***\_\_\_
+<br/>
 
-The employer and employee agree to the employee cashing out a particular amount of the employee’s accrued paid annual leave:
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 200px;">Signature of employee:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-The amount of leave to be cashed out is: \_\_\_\_ hours/days
+<p>Date signed: <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / 20<span style="display: inline-block; border-bottom: 1px solid #333; width: 30px;">&nbsp;</span></p>
 
-The payment to be made to the employee for the leave is: $***\_*** subject to deduction of income tax/after deduction of income tax (strike out where not applicable)
+<br/>
 
-The payment will be made to the employee on: ***/***/20\_\_\_
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 0.5rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 260px;">Name of employer representative:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap;">Signature of employer representative:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-Signature of employee: ***\_**\_**\_**\_**\_***\_\_\_\_\_
+<p>Date signed: <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / 20<span style="display: inline-block; border-bottom: 1px solid #333; width: 30px;">&nbsp;</span></p>
 
-Date signed: ***/***/20\_\_\_
+<br/>
 
-Name of employer representative: ***\_**\_**\_**\_**\_***\_\_\_\_\_
+<div style="margin-left: 1.5rem;">
 
-Signature of employer representative: ***\_**\_**\_**\_**\_***\_\_\_\_\_
+<p><em>Include if the employee is under 18 years of age:</em></p>
 
-Date signed: ***/***/20\_\_\_
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 0.5rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 220px;">Name of parent/guardian:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap;">Signature of parent/guardian:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-          Include if the employee is under 18 years of age:
-          Name of parent/guardian: ________________________________________
-          Signature of parent/guardian: ________________________________________
-          Date signed: ___/___/20___
+<p>Date signed: <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / <span style="display: inline-block; border-bottom: 1px solid #333; width: 40px;">&nbsp;</span> / 20<span style="display: inline-block; border-bottom: 1px solid #333; width: 30px;">&nbsp;</span></p>
 
-\`\`\`
+</div>
+
+</div>
 
 

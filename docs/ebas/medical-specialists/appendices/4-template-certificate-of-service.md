@@ -1,58 +1,132 @@
 ---
-title: '4. Template Certificate Of Service'
+title: 'Appendix 4 – Template Certificate of Service: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 
-# 4. Template Certificate Of Service
+# Appendix 4 – Template Certificate of Service: Medical Specialists EBA
 
+<div style="border: 1px solid #333; padding: 1.5rem 2rem 2rem 2rem; margin-bottom: 2rem;">
 
+<p style="text-align: center;"><strong>Certificate of Service</strong></p>
 
-Formatting note
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0;">(Name of Institution)</td>
+      <td style="padding: 0.4rem 0; text-align: right;">(Date)</td>
+    </tr>
+  </tbody>
+</table>
 
-The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and forms. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 0.5rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 180px;">This is to certify that</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 140px; text-align: right;">(Name of Doctor)</td>
+    </tr>
+  </tbody>
+</table>
 
+<p>was employed by this Institution/Society/Board (the Health Service) for the period:</p>
 
-\`\`\`text Certificate of Service
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; white-space: nowrap; width: 50px;">From</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 220px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 1rem; white-space: nowrap; width: 20px;">To</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-(Name of Institution) (Date)
+<p>During the above period, the Doctor was employed in a role or classification covered by the <em>Medical Specialists (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2021 – 2025</em> (or its predecessor agreements) from the period</p>
 
-This is to certify that***\_**\_**\_**\_**\_**\_***\_\_(Name of Doctor)
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 260px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 0.5rem; white-space: nowrap;">to</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0 0.4rem 0.5rem;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-was employed by this Institution/Society/Board (the Health Service) for the period:
+<p>During the above period, the Doctor had unpaid leave or absences that impact on the accrual of Long Service Leave totalling</p>
 
-From ***\_**\_**\_ To*** ***\_**\_***\_\_\_\_\_\_
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 360px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 0.5rem; white-space: nowrap;">(years and days)</td>
+    </tr>
+  </tbody>
+</table>
 
-During the above period, the Doctor was employed in a role or classification covered by the Medical Specialists (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2021 – 2025 (or its predecessor agreements) from the period ***\_**\_***\_\_\_\_\_\_ to
+<p>During the above period, the Doctor utilised accrued Long Service Leave totalling</p>
 
-------------------------------------------------------------------------
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 0.5rem;">
+  <tbody>
+    <tr>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 120px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 0.5rem; white-space: nowrap;">months</td>
+    </tr>
+  </tbody>
+</table>
 
-During the above period, the Doctor had unpaid leave or absences that impact on the accrual
+<p>During the above period, the Doctor transferred Long Service Leave accrued in respect of the period</p>
 
-of Long Service Leave totalling ***\_**\_**\_**\_**\_***(years and days)
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 220px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 0.5rem; white-space: nowrap;">to</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0 0.4rem 0.5rem; width: 220px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 0.5rem; white-space: nowrap;">, to another employer or employers.</td>
+    </tr>
+  </tbody>
+</table>
 
-During the above period, the Doctor utilised accrued Long Service Leave totalling
+<p>The Health Service has recognised net additional service for Long Service Leave purposes with another Health Service or Health Services for the Doctor totalling</p>
 
-***\_***\_\_\_ months
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 0.5rem;">
+  <tbody>
+    <tr>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-During the above period, the Doctor transferred Long Service Leave accrued in respect of the period ***\_**\_**\_* to** ***\_**\_***\_\_\_\_\_, to another employer or employers.
+<p>(years and days) which was paid out/not paid out <em>(strike out whichever is not applicable)</em> by the former Health Service(s).</p>
 
-The Health Service has recognised net additional service for Long Service Leave purposes with
+<p>The Doctor had accrued personal leave totalling <span style="display: inline-block; border-bottom: 1px solid #333; width: 140px;">&nbsp;</span> hours as at the date of cessation of employment with the Health Service</p>
 
-another Health Service or Health Services for the Doctor totalling ***\_**\_**\_**\_***\_\_\_
+<p>The Doctor remains employed with (Name of Institution)</p>
 
-(years and days) which was paid out/not paid out (strike out whichever is not applicable) by the
+<table style="width: 100%; border-collapse: collapse; margin-top: 2rem; margin-bottom: 2rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; width: 120px;">Position held:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 260px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 2rem; width: 160px;">Classification Held:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-former Health Service(s).
+<table style="width: 100%; border-collapse: collapse; margin-top: 3rem;">
+  <tbody>
+    <tr>
+      <td style="padding: 0.4rem 0; width: 70px;">Signed:</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0; width: 300px;">&nbsp;</td>
+      <td style="padding: 0.4rem 0 0.4rem 2rem; white-space: nowrap;">(Stamp of Institution):</td>
+      <td style="border-bottom: 1px solid #333; padding: 0.4rem 0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-The Doctor had accrued personal leave totalling ***\_**\_*** hours as at the date of
-
-cessation of employment with the Health Service
-
-The Doctor remains employed with (Name of Institution)
-
-Position held: Classification Held:
-
-Signed: (Stamp of Institution): \`\`\`
+</div>
 
 
