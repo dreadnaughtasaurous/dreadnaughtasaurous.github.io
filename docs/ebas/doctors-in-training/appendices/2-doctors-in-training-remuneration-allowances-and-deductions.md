@@ -1,5 +1,5 @@
 ---
-title: '2. Doctors In Training Remuneration Allowances And Deductions'
+title: 'Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'pay-rates', 'wages', 'allowances', 'remuneration', 'salary', 'rates', 'deductions', 'penalty-rates', 'hourly-rates', 'classification', 'salary-circular', 'circular 875']
 ---

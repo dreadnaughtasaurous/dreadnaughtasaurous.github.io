@@ -1,50 +1,34 @@
 ---
-title: '3. Template Certificate Of Service'
+title: 'Appendix 3 – Template Certificate of Service - Doctors In Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 
-# 3. Template Certificate Of Service
+# Appendix 3 – Template Certificate of Service - Doctors In Training EBA
 
+<div style="border: 1px solid currentColor; padding: 1.5rem; margin-top: 1rem;">
 
+<p style="text-align: center;"><strong>Certificate of Service</strong></p>
 
-Formatting note
+(Name of Institution) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (Date)
 
-The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and forms. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
+This is to certify that ____________________________________________ (Name of Doctor) was employed by this Institution/Society/Board (the Health Service) for the period:
 
+From __________________ &emsp;&emsp; To _______________________
 
-\`\`\`text Certificate of Service
+During the above period, the Doctor had unpaid leave or absences that impact on the accrual of Long Service Leave totalling ___________________________________ (years and days)
 
-(Name of Institution) (Date)
+During the above period, the Doctor utilised accrued Long Service Leave totalling __________ months
 
-This is to certify that***\_**\_**\_**\_**\_**\_***\_\_(Name of Doctor)
+The Health Service has recognised net additional service for Long Service Leave purposes with another Health Service or Health Services for the Doctor totalling _______________________________ (years and days) which was paid out/not paid out (strike out whichever is not applicable) by the former Health Service(s).
 
-was employed by this Institution/Society/Board (the Health Service) for the period:
+The Doctor had accrued personal leave totalling ______________ hours as at the date of cessation of employment with the Health Service
 
-From ***\_**\_**\_ To*** ***\_**\_***\_\_\_\_\_\_
+**Position held:**
 
-During the above period, the Doctor had unpaid leave or absences that impact on the accrual
+**Classification Held:**
 
-of Long Service Leave totalling ***\_**\_**\_**\_**\_***(years and days)
+Signed: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (Stamp of Institution):
 
-During the above period, the Doctor utilised accrued Long Service Leave totalling
-
-***\_***\_\_\_ months
-
-The Health Service has recognised net additional service for Long Service Leave purposes with
-
-another Health Service or Health Services for the Doctor totalling ***\_**\_**\_**\_***\_\_\_
-
-(years and days) which was paid out/not paid out (strike out whichever is not applicable) by the
-
-former Health Service(s).
-
-The Doctor had accrued personal leave totalling ***\_**\_*** hours as at the date of
-
-cessation of employment with the Health Service
-
-Position held: Classification Held:
-
-Signed: (Stamp of Institution): \`\`\`
-
+</div>
 

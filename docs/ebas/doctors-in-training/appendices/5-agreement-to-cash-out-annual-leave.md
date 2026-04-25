@@ -1,47 +1,47 @@
 ---
-title: '5. Agreement To Cash Out Annual Leave'
+title: 'Appendix 5 – Agreement to Cash Out Annual Leave - Doctors in Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
 
-# 5. Agreement To Cash Out Annual Leave
+# Appendix 5 – Agreement to Cash Out Annual Leave - Doctors in Training EBA
 
+<div style="border: 1px solid currentColor; padding: 1.5rem; margin-top: 1rem;">
 
+<p style="text-align: center;"><strong>Agreement to Cash Out Annual Leave</strong></p>
 
-Formatting note
+**Name of employee:** _____________________________________________
 
-The appendix body below is rendered in a monospaced block to preserve the column layout of pay tables and forms. The block is excluded from the search index so search results stay short; find appendices by their title, number, topic or synonyms.
+**Name of employer:** _____________________________________________
 
+The employer and employee agree to the employee cashing out a particular amount of the employee's accrued paid annual leave:
 
-\`\`\`text Agreement to Cash Out Annual Leave
+**The amount of leave to be cashed out is:** ____ hours/days
 
-Name of employee: ***\_**\_**\_**\_**\_**\_***\_\_\_
+**The payment to be made to the employee for the leave is:** $_______ subject to deduction of income tax/after deduction of income tax (strike out where not applicable)
 
-Name of employer: ***\_**\_**\_**\_**\_**\_***\_\_\_
+**The payment will be made to the employee on:** ___/___/20___
 
-The employer and employee agree to the employee cashing out a particular amount of the employee’s accrued paid annual leave:
+**Signature of employee:** ________________________________________
 
-The amount of leave to be cashed out is: \_\_\_\_ hours/days
+**Date signed:** ___/___/20___
 
-The payment to be made to the employee for the leave is: $***\_*** subject to deduction of income tax/after deduction of income tax (strike out where not applicable)
+**Name of employer representative:** ________________________________________
 
-The payment will be made to the employee on: ***/***/20\_\_\_
+**Signature of employer representative:** ________________________________________
 
-Signature of employee: ***\_**\_**\_**\_**\_***\_\_\_\_\_
+**Date signed:** ___/___/20___
 
-Date signed: ***/***/20\_\_\_
+---
 
-Name of employer representative: ***\_**\_**\_**\_**\_***\_\_\_\_\_
+*Include if the employee is under 18 years of age:*
 
-Signature of employer representative: ***\_**\_**\_**\_**\_***\_\_\_\_\_
+**Name of parent/guardian:** ________________________________________
 
-Date signed: ***/***/20\_\_\_
+**Signature of parent/guardian:** ________________________________________
 
-          Include if the employee is under 18 years of age:
-          Name of parent/guardian: ________________________________________
-          Signature of parent/guardian: ________________________________________
-          Date signed: ___/___/20___
+**Date signed:** ___/___/20___
 
-\`\`\`
+</div>
 
 
