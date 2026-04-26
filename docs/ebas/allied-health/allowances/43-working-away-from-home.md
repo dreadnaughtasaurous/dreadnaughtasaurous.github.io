@@ -10,13 +10,10 @@ topics: ['leave', 'public-holidays', 'allowances', 'travel']
 
 **43.1** For each night an Employee is required by the Employer to be absent overnight from their usual place of residence, for example where an Employee cannot reasonably travel from or back to their usual place of residence on the day on which they are required to work by the Employer, the Employer will:
 
-**(a)** pay the Employee the higher of the following:
-
-**(i)** 2.5% of the AHP1 Grade 1, Year 1 rate per overnight period between Monday and Friday; or
-
-**(ii)** 5% of the AHP1 Grade 1, Year 1 rate per overnight period that includes a Saturday, Sunday or Public Holiday; and
-
-**(b)** pay for all reasonably incurred expenses in respect to fares, meals and accommodation.
+- **(a)** pay the Employee the higher of the following:
+    - **(i)** 2.5% of the AHP1 Grade 1, Year 1 rate per overnight period between Monday and Friday; or
+    - **(ii)** 5% of the AHP1 Grade 1, Year 1 rate per overnight period that includes a Saturday, Sunday or Public Holiday; and
+- **(b)** pay for all reasonably incurred expenses in respect to fares, meals and accommodation.
 
 **43.2 Exception** 
 

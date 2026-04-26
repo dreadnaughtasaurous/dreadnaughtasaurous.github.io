@@ -1,7 +1,7 @@
 ---
 title: '39. Change Of Shift Allowance'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'shift-work', 'allowances',]
+topics: ['hours', 'shift-work', 'allowances']
 ---
 
 # 39. Change Of Shift Allowance
@@ -18,9 +18,8 @@ The change of shift allowance is not payable where an Employee holds two (2) con
 
 The change of shift allowance is not payable where:
 
-**(a)** the Employee requests a change to the roster which creates a change of shift as described in [subclause 39.1](/ebas/allied-health/allowances/39-change-of-shift-allowance); or
-
-**(b)** there is at least two (2) weeks of continuous approved leave between the relevant shifts which creates a change of shift as described in [subclause 39.1](/ebas/allied-health/allowances/39-change-of-shift-allowance).
+- **(a)** the Employee requests a change to the roster which creates a change of shift as described in [subclause 39.1](/ebas/allied-health/allowances/39-change-of-shift-allowance); or
+- **(b)** there is at least two (2) weeks of continuous approved leave between the relevant shifts which creates a change of shift as described in [subclause 39.1](/ebas/allied-health/allowances/39-change-of-shift-allowance).
 
 **39.4** The allowances payable pursuant to this [clause 39](/ebas/allied-health/allowances/39-change-of-shift-allowance) will be calculated to the nearest five (5) cents, portions of a cent being disregarded.
 
