@@ -1091,8 +1091,8 @@ const sidebar = [
     { text: 'Schedules', link: '/ebas/mental-health/schedules', collapsed: true, items: [
         { text: '01. List Of Employers', link: '/ebas/mental-health/schedules/01-list-of-employers' },
         { text: '02. Salaries And Allowances', link: '/ebas/mental-health/schedules/02-salaries-and-allowances' },
-        { text: '03. Role Statement Mental Health Clinical Educator', link: '/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator' },
-        { text: '04. Pcns And Rpn 2. Advanced Application Process', link: '/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process' },
+        { text: '03. Role Statement - Mental Health Clinical Educator', link: '/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator' },
+        { text: '04. PCNS And RPN 2 Advanced Application Process', link: '/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process' },
         { text: '05. Classification Definitions Applying To Health Professionals', link: '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals' },
         { text: '06. Support Services Employee Classifications', link: '/ebas/mental-health/schedules/06-support-services-employee-classifications' },
         { text: '07. Management And Administrative Officers Classifications', link: '/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications' },

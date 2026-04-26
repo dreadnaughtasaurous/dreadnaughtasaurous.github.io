@@ -589,3 +589,41 @@
   height: 60px;
   width: auto;
 }
+
+/* ============================================================
+   Sticky table headers — site-wide, for markdown tables
+   rendered by VitePress inside .vp-doc.
+
+   HOW IT WORKS:
+   - VitePress wraps markdown tables in a <div class="vp-doc">
+     but does NOT add a scroll-container div around them.
+   - position: sticky on <th> only works when a scrolling
+     ancestor exists with a defined height.
+   - We give the <table> itself overflow-y: auto and a
+     max-height, making IT the scroll container. The <thead>
+     then sticks within that scroll box.
+   - display: block is required on <table> to allow
+     overflow + max-height to take effect (block-level boxes
+     honour these properties; table boxes do not by default).
+   - overflow-x: auto is added so wide tables still scroll
+     horizontally on narrow screens.
+   - The .pay-table-wrap tables are explicitly excluded via
+     the :not() selector — they already have their own working
+     sticky header implementation above.
+   ============================================================ */
+
+.vp-doc table:not(.pay-table-wrap table) {
+  display: block;
+  max-height: 70vh;
+  overflow-y: auto;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vp-doc table:not(.pay-table-wrap table) thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: var(--vp-c-bg-soft);
+  box-shadow: 0 1px 0 var(--vp-c-divider);
+}

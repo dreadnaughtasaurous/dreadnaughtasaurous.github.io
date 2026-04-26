@@ -1,70 +1,110 @@
 ---
-title: '09. Certificate Of Service'
+title: 'Schedule 9 - Certificate Of Service: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'employment']
 ---
 
-# 09. Certificate Of Service
+# Schedule 9 – Certificate of Service: Mental Health EBA
 
+The following is the agreed form of Certificate of Service referred to in this Agreement.
 
+<div style="border: 2px solid var(--vp-c-divider); border-radius: 8px; padding: 2rem 2.5rem; margin: 2rem 0; background: var(--vp-c-bg-soft); font-size: 0.95rem; line-height: 1.8;">
 
-Formatting note
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5rem; gap: 1rem; flex-wrap: wrap;">
+  <span><em>(Name of Institution)</em></span>
+  <span><em>(Date)</em></span>
+</div>
 
-The schedule body below is rendered in a monospaced block to preserve the column layout of pay tables and classification grids. The block is excluded from the search index so search results stay short; find schedules by their title, number, topic or synonyms.
+<p style="text-align: center; font-size: 1.15rem; font-weight: 700; margin-bottom: 1.75rem; letter-spacing: 0.01em;">CERTIFICATE OF SERVICE</p>
 
+<p>This is to certify that <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 260px;">&nbsp;</span> <em>(Name of Employee)</em></p>
 
-\`\`\`text SCHEDULE 9 : CERTIFICATE OF SERVICE
+<p>was employed by this Institution/Society/Board (the Employer) for the period:</p>
 
-                        Certificate of Service
+<p>
+  From <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 140px;">&nbsp;</span>
+  &nbsp;&nbsp;To <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 140px;">&nbsp;</span>
+</p>
 
-(Name of Institution) (Date)
+<p>During the above period, the Employee was employed as a casual Health Professional from the period <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 100px;">&nbsp;</span> to <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 100px;">&nbsp;</span>. Of this period, a total of <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 160px;">&nbsp;</span> <em>(years and days)</em> counted as eligible service for the purpose of Long Service Leave.</p>
 
-This is to certify that***\_**\_**\_**\_**\_**\_***\_\_. (Name of Employee) was employed by this Institution/Society/Board (the Employer) for the period:
+<p>During the above period, the Employee had unpaid leave or absences that impact on the accrual of Long Service Leave totalling <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 200px;">&nbsp;</span> <em>(years and days)</em>.</p>
 
-From ***\_**\_**\_ To*** ***\_**\_***\_\_\_\_\_\_
+<p>During the above period, the Employee utilised accrued Long Service Leave totalling <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 100px;">&nbsp;</span> months.</p>
 
-During the above period, the Employee was employed as a casual Health Professional from the period ***\_**\_*\_ to** ***\_**\_. Of this period, a total of*** ***\_**\_***\_\_\_\_ (years and days) counted as eligible service for the purpose of Long Service Leave.
+<p>The Employer has recognised net additional service for Long Service Leave purposes with another employer or employers for the Employee totalling <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 200px;">&nbsp;</span> <em>(years and days)</em> which was <strong>paid out / not paid out</strong> <em>(strike out whichever is not applicable)</em> by the former employer(s).</p>
 
-During the above period, the Employee had unpaid leave or absences that impact on the accrual of Long Service Leave totalling ***\_**\_**\_**\_**\_***(years and days)
+<p>During the above period, the Employee transferred Long Service Leave accrued in respect of the period <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 100px;">&nbsp;</span> to <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 100px;">&nbsp;</span>, to another employer or employers.</p>
 
-During the above period, the Employee utilised accrued Long Service Leave totalling ***\_***\_\_\_ months
+<p>The Employee had accrued personal leave totalling <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 100px;">&nbsp;</span> hours as at the date of cessation of employment with the Employer.</p>
 
-The Employer has recognised net additional service for Long Service Leave purposes with another employer or employers for the Employee totalling ***\_**\_**\_**\_***\_\_\_ (years and days) which was paid out/not paid out (strike out whichever is not applicable) by the former employer(s).
+<p>The Employee's Change of Shift Allowance Cap is <span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 140px;">&nbsp;</span> number of shifts per pay period.</p>
 
-During the above period, the Employee transferred Long Service Leave accrued in respect of the period ***\_**\_*** ***to*** ***\_**\_***, to another employer or employers.
+<hr style="border: none; border-top: 1px solid var(--vp-c-divider); margin: 1.5rem 0;" />
 
-The Employee had accrued personal leave totalling ***\_**\_*** hours as at the date of cessation of employment with the Employer
+<p style="font-weight: 600; margin-bottom: 0.75rem;">Tick all boxes that apply:</p>
 
-The Employee’s Change of Shift Allowance Cap is number of shifts per pay period
+<div style="display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 1.5rem;">
+  <label style="display: flex; align-items: flex-start; gap: 0.6rem;"><input type="checkbox" style="margin-top: 0.25rem; flex-shrink: 0;" disabled /> The Employee received a payment in lieu of all unused, accrued Long Service Leave on cessation of employment with the Employer.</label>
+  <label style="display: flex; align-items: flex-start; gap: 0.6rem;"><input type="checkbox" style="margin-top: 0.25rem; flex-shrink: 0;" disabled /> The Employee remains employed with <em>(Name of Institution)</em>.</label>
+  <label style="display: flex; align-items: flex-start; gap: 0.6rem;"><input type="checkbox" style="margin-top: 0.25rem; flex-shrink: 0;" disabled /> The Employee was employed by the Employer as a PEN or MHO on the date this Agreement came into operation.</label>
+  <label style="display: flex; align-items: flex-start; gap: 0.6rem;"><input type="checkbox" style="margin-top: 0.25rem; flex-shrink: 0;" disabled /> The Employee's Change of Shift Cap is detailed above.</label>
+  <label style="display: flex; align-items: flex-start; gap: 0.6rem;"><input type="checkbox" style="margin-top: 0.25rem; flex-shrink: 0;" disabled /> The Employee was employed by the Employer as a PEN at PEN Level 3.</label>
+  <label style="display: flex; align-items: flex-start; gap: 0.6rem;"><input type="checkbox" style="margin-top: 0.25rem; flex-shrink: 0;" disabled /> The Employer has on record a Certificate of Service from another employer covered by the Victorian Public Mental Health Services Enterprise Agreement 2012–2016 <em>(attach a copy)</em>.</label>
+</div>
 
-SCHEDULE 9: CERTIFICATE OF SERVICE
+<table style="width: 100%; border: none; border-collapse: collapse; display: table; max-height: none; overflow: visible; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="border: none; padding: 0.5rem 0; width: 50%; font-weight: 600;">Position held:</td>
+      <td style="border: none; padding: 0.5rem 0; font-weight: 600;">Classification Held:</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 0.5rem 0; border-bottom: 1px solid var(--vp-c-divider);">&nbsp;</td>
+      <td style="border: none; padding: 0.5rem 0; border-bottom: 1px solid var(--vp-c-divider);">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-Tick all boxes that apply:
+<table style="width: 100%; border: none; border-collapse: collapse; display: table; max-height: none; overflow: visible; margin-bottom: 1.5rem;">
+  <tbody>
+    <tr>
+      <td style="border: none; padding: 0.5rem 0; width: 50%; font-weight: 600;">Signed:</td>
+      <td style="border: none; padding: 0.5rem 0; font-weight: 600;">(Stamp of Institution):</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 0.5rem 0; border-bottom: 1px solid var(--vp-c-divider);">&nbsp;</td>
+      <td style="border: none; padding: 0.5rem 0; border-bottom: 1px solid var(--vp-c-divider);">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-\[ \] The Employee received a payment in lieu of all unused, accrued Long Service Leave on cessation of employment with the Employer
+<div style="border: 1px solid var(--vp-c-warning-2, #e6a817); border-radius: 6px; background: var(--vp-c-warning-soft, #fff9ed); padding: 0.9rem 1.1rem; margin-bottom: 1.5rem; font-size: 0.88rem; color: var(--vp-c-text-1);">
+  <strong>NOTE:</strong> Upon receipt of the Certificate of Service, the Second Employer must notify the previous Employer that it has recognised any period of long service leave, and if so, the period so recognised.
+</div>
 
-\[ \] The Employee remains employed with (Name of Institution)
+<hr style="border: none; border-top: 1px solid var(--vp-c-divider); margin: 1.5rem 0;" />
 
-\[ \] The Employee was employed by the Employer as a PEN or MHO on the date this Agreement came into operation.
+<p style="font-style: italic; margin-bottom: 1rem;">To be completed by the Second Employer upon recognition of service:</p>
 
-\[ \] The Employee’s Change of Shift Cap is detailed above.
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1rem; gap: 1rem; flex-wrap: wrap;">
+  <span><em>(Name of Institution)</em></span>
+  <span><em>(Date)</em></span>
+</div>
 
-\[ \] The Employee was employed by the Employer as an PEN at PEN Level 3
+<p><span style="border-bottom: 1px solid var(--vp-c-divider); display: inline-block; min-width: 300px;">&nbsp;</span> &nbsp;<em>(period of service recognised)</em></p>
 
-\[ \] The Employer has on record a Certificate of Service from another employer covered by the Victorian Public Mental Health Services Enterprise Agreement 2012-2016 (attach a copy)
+<table style="width: 100%; border: none; border-collapse: collapse; display: table; max-height: none; overflow: visible; margin-top: 1rem;">
+  <tbody>
+    <tr>
+      <td style="border: none; padding: 0.5rem 0; width: 50%; font-weight: 600;">Signed:</td>
+      <td style="border: none; padding: 0.5rem 0; font-weight: 600;">(Stamp of Institution):</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 0.5rem 0; border-bottom: 1px solid var(--vp-c-divider);">&nbsp;</td>
+      <td style="border: none; padding: 0.5rem 0; border-bottom: 1px solid var(--vp-c-divider);">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-Position held: Classification Held:
-
-Signed:
-
-                                                   (Stamp of Institution):
-
-NOTE: Upon receipt of the Certificate of Service, the Second Employer must notify the previous Employer that it has recognised any period of long service leave, and if so, the period so recognised.
-
-(Name of Institution) (Date)
-
-***\_**\_*** \_ (period of service recognised)
-
-Signed: (Stamp of Institution): \`\`\`
-
-
+</div>

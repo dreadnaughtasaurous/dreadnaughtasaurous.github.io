@@ -1,10 +1,10 @@
 ---
-title: '02. Salaries And Allowances'
+title: 'Schedule 2 - Salaries and Allowances: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'pay-rates', 'wages', 'allowances', 'remuneration', 'rates', 'shift-allowances', 'on-call', 'qualification-allowance', 'salary-circular', 'circular 880']
 ---
 
-# Schedule 2 - Salaries and Allowances · Mental Health EBA
+# Schedule 2 - Salaries and Allowances: Mental Health EBA
 
 
 

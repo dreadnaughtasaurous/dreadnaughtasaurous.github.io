@@ -1,1447 +1,1049 @@
 ---
-title: '05. Classification Definitions Applying To Health Professionals'
+title: 'Schedule 5 – Classification Definitions Applying to Health Professionals: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'classifications']
 ---
 
-# 05. Classification Definitions Applying To Health Professionals
+# Schedule 5 – Classification Definitions Applying to Health Professionals: Mental Health EBA
 
+## Part 1: Schedule 5 Arrangement
 
+Schedule 5 is arranged as follows:
 
-Formatting note
+- Part 1 – Schedule 5 Arrangement
+- Part 2 – Classification Definitions applying to AHP1 Employees in Mental Health
+- Part 3 – Relevant Qualifications for AHP1 Classifications in Mental Health
+- Part 4 – Classification Definitions applying to AHP2 Employees in Mental Health
+- Part 5 – Classification Definitions applying to LLEW Employees in Mental Health
 
-The schedule body below is rendered in a monospaced block to preserve the column layout of pay tables and classification grids. The block is excluded from the search index so search results stay short; find schedules by their title, number, topic or synonyms.
+---
 
+## Part 2: Classification Definitions Applying to AHP1 Employees in Mental Health
 
-\`\`\`text SCHEDULE 5 : CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+### Part 2.1 — Application of this Part
 
-Part 1: Schedule 5 is arranged as follows: Part 1 – Schedule 5 Arrangement Part 2 – Classification Definitions applying to AHP1 Employees in Mental Health. Part 3 - Relevant Qualifications for AHP1 Classifications in Mental Health Part 4 - Classification Definitions applying to AHP2 Employees in Mental Health Part 5 – Classification Definitions applying to LLEW Employees in Mental Health
+This Part applies to an Employee employed as such with a relevant qualification (see Part 3 of this Schedule) in the following disciplines:
 
-Part 2: Classification Definitions Applying to AHP1 Employees in Mental Health Part 2.1. Application of this Part: This Part applies to an Employee employed as such with a relevant qualification (see Part B of this Schedule) in the following disciplines:
+- **(a)** Aboriginal Mental Health Clinician
+- **(b)** Art Therapist
+- **(c)** Child Psychotherapist
+- **(d)** Counsellor
+- **(e)** Exercise Physiologist
+- **(f)** Health Information Manager
+- **(g)** Music Therapist
+- **(h)** Occupational Therapist
+- **(i)** Physiotherapist
+- **(j)** Play Therapist
+- **(k)** Recreation Therapist
+- **(l)** Social Worker
+- **(m)** Speech Pathologist
+- **(n)** Youth Worker (Qualified)
 
-         (a)       Aboriginal Mental Health Clinician
-         (b)       Art Therapist
-         (c)       Child Psychotherapist
-         (d)       Counsellor
-         (e)       Exercise Physiologist
-         (f)       Health Information Manager
-         (g)       Music Therapist
-         (h)       Occupational Therapist
-         (i)       Physiotherapist
-         (j)       Play Therapist
-         (k)       Recreation Therapist
-         (l)       Social Worker
-         (m)       Speech Pathologist
-         (n)       Youth Worker (Qualified)
+### Part 2.2 — Guide to the Use of Classification Definitions Under this Part
 
-Part 2.2. Guide to the use of classification definitions under this Part: (a) The broad definitions of work at each level should be met by any individual position being classified at that level. No single example of work (e.g. one duty) can be used as the basis on which to classify a position. (b) The classification definitions describe four main work areas (clinical, education, management and research) which group similar duties/responsibilities together. Positions are likely to be required to undertake duties or hold responsibilities from a number of work areas, particularly where an employee is required to work in both unit and program project areas or is required to undertake administration duties/functions in addition to from another of the work areas.
+- **(a)** The broad definitions of work at each level should be met by any individual position being classified at that level. No single example of work (e.g. one duty) can be used as the basis on which to classify a position.
+- **(b)** The classification definitions describe four main work areas (clinical, education, management and research) which group similar duties/responsibilities together. Positions are likely to be required to undertake duties or hold responsibilities from a number of work areas, particularly where an employee is required to work in both unit and program project areas or is required to undertake administration duties/functions in addition to from another of the work areas.
+- **(c)** The grouping of duties/responsibilities under each work area is not meant to necessarily represent a position in its entirety. In no case should indicative duties/responsibilities from this Agreement be used as a definitive position description for an individual position.
+- **(d)** No Employer will utilise the full range of work described at every level in the classification standards. The number and level of positions will be determined by the need to undertake certain tasks and any applicable requirement arising under this Agreement. Some of the work described in the classification standards (e.g. some project duties) may be temporarily assigned to employees classified at a suitable level where there is not an on-going requirement to perform such tasks, and therefore to create a permanent position.
+- **(e)** Positions may be routinely required to undertake some duties normally expected of positions classified at lower levels in the structure. The basis of classification of all positions will be according to the chief focus of the position and the highest function regularly performed by the incumbent.
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+---
 
-      (c)      The grouping of duties/responsibilities under each work area is not meant to
-               necessarily represent a position in its entirety. In no case should indicative
-               duties/responsibilities from this Agreement be used as a definitive position
-               description for an individual position.
-      (d)      No Employer will utilise the full range of work described at every level in the
-               classification standards. The number and level of positions will be determined by
-               the need to undertake certain tasks and any applicable requirement arising under
-               this Agreement. Some of the work described in the classification standards (e.g.
-               some project duties) may be temporarily assigned to employees classified at a
-               suitable level where there is not an on-going requirement to perform such tasks,
-               and therefore to create a permanent position.
-      (e)      Positions may be routinely required to undertake some duties normally expected
-               of positions classified at lower levels in the structure. The basis of classification of
-               all positions will be according to the chief focus of the position and the highest
-               function regularly performed by the incumbent.
+## 2. AHP1 Grade 1 — Employment Model for Pre-Qualified Health Professional Students
 
-1.  AHP1 Grade 1 Employment Model for Pre-Qualified Health Professional Students 2.1 Health Professional Student Employment (a) Definition A Health Professional Student for the purposes of this clause is a person currently enrolled in a university to undertake a qualifying degree in the disciplines at clause 1.1(b) and who at commencement, has successfully completed not less than twelve months of the relevant bachelor’s degree or qualifying master’s degree.
+### 2.1 Health Professional Student Employment
 
-    \(b\) Discipline of student (i) Social Work (ii) Occupational Therapy (iii) Other discipline agreed between the Employer and HACSU. 2.2 Implementation of Health Professional Student Employment Model By agreement between the Employer and HACSU, an Employer may implement a Health Professional Student Employment Model. It is at the discretion of each Employer as to whether they participate in the Employment Model. Pre-Qualified Health Professional Students are separate and distinct from students not employed by the Employer.
+**2.1(a) Definition**
 
-2.3 Employment of Health Professional Students (a) Pre-Qualified Health Professional Students are employed on a fixed term basis or engaged on a casual basis. (b) The number of Pre-Qualified Health Professional Student Employees utilised will not exceed one student of each discipline at clause 1.1(b) per unit or team, per shift. (c) Pre-Qualified Health Professional Student Employees will have performance appraisals conducted in accordance with hospital policy. (d) In order to balance the Employee’s academic obligations and the needs of the Employer, the rostered work of Pre-Qualified Health Professional students will be in shifts of not less than four hours on day or evening shifts, Monday to Sunday. (e) Pre-Qualified Health Professional Student Employees will be delegated activities and aspects of care by a Grade 3 Health Professional and supervised in providing the delegated activity by the AHP1 Grade 3.
+A **Health Professional Student** for the purposes of this clause is a person currently enrolled in a university to undertake a qualifying degree in the disciplines at clause 1.1(b) and who at commencement, has successfully completed not less than twelve months of the relevant bachelor's degree or qualifying master's degree.
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+**2.1(b) Discipline of student**
 
-      (f)      Pre-Qualified Health Professional Student Employees will not be given sole patient
-               allocation and will not have an independent caseload.
-      (g)      Pre-Qualified Health Professional Student Employees will not work in HDU/ICA
-               (however titled).
+- **(i)** Social Work
+- **(ii)** Occupational Therapy
+- **(iii)** Other discipline agreed between the Employer and HACSU.
 
-2.4 Termination of Employment: (a) Employment will conclude: (i) when the Employee terminates their employment; or (ii) when the Employer terminates the employment in accordance with this Agreement; or (iii) when the Employee successfully completes their course of study, or (iv) when the Employee withdraws, defers from or fails their degree; or (v) in the case of a casual, in accordance with sub-[clause 25.4](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment) (Casual Employment). 2.5 Rate of Pay for Pre-Qualified Health Professional Student Employees (a) Health Professional Student Employees will be paid 85% of the AHP1 Grade 2 Year 1 rate of pay set out in Schedule 2. 2.6 Other Terms and Conditions for Pre-Qualified Health Professional Student Employees All other terms and conditions of employment will be those applying to a Pre-Qualified Health Professional under this Agreement except where this clause explicitly says otherwise.
+### 2.2 Implementation of Health Professional Student Employment Model
 
-2.7 Continuity of Service Continuity of Service as a Pre-Qualified Health Professional Student Employee will include any period of service in the program, provided any gap between employment as a student and commencement of employment as a qualified Health Professional is less than twelve months.
+By agreement between the Employer and HACSU, an Employer may implement a Health Professional Student Employment Model. It is at the discretion of each Employer as to whether they participate in the Employment Model. Pre-Qualified Health Professional Students are separate and distinct from students not employed by the Employer.
 
-2.8 Notification to HACSU The Employer will notify HACSU, on request, of:
+### 2.3 Employment of Health Professional Students
 
-      (a)      the participating units/teams/services
-      (b)      EFT quantum and fraction of each of the Health Professional Student disciplines
-               operating within any unit/team/service
-      (c)      the Pre-Qualified Health Professional Student Employment Model Position
-               Description and any other policies or procedures specific to the employment of
-               Health Professional Students.
+- **(a)** Pre-Qualified Health Professional Students are employed on a fixed term basis or engaged on a casual basis.
+- **(b)** The number of Pre-Qualified Health Professional Student Employees utilised will not exceed one student of each discipline at clause 1.1(b) per unit or team, per shift.
+- **(c)** Pre-Qualified Health Professional Student Employees will have performance appraisals conducted in accordance with hospital policy.
+- **(d)** In order to balance the Employee's academic obligations and the needs of the Employer, the rostered work of Pre-Qualified Health Professional students will be in shifts of not less than four hours on day or evening shifts, Monday to Sunday.
+- **(e)** Pre-Qualified Health Professional Student Employees will be delegated activities and aspects of care by a Grade 3 Health Professional and supervised in providing the delegated activity by the AHP1 Grade 3.
+- **(f)** Pre-Qualified Health Professional Student Employees will not be given sole patient allocation and will not have an independent caseload.
+- **(g)** Pre-Qualified Health Professional Student Employees will not work in HDU/ICA (however titled).
 
-1.  AHP1 Grade 2 - Generic 3.1 Grade 2 – General Definition: 3.1.1 A Grade 2 Employee is an Employee who:
+### 2.4 Termination of Employment
 
-    \(a\) has a relevant qualification for their profession (see Part B of this Schedule); (b) works on routine tasks within the scope of practice for their profession, consulting with a more experienced Employee when problems arise or when dealing with matters they are unfamiliar with (c) has a protected and supported caseload that is appropriate for their skill level and experience, which may increase in size and complexity with years of service.
+- **(a)** Employment will conclude:
+    - **(i)** when the Employee terminates their employment; or
+    - **(ii)** when the Employer terminates the employment in accordance with this Agreement; or
+    - **(iii)** when the Employee successfully completes their course of study; or
+    - **(iv)** when the Employee withdraws, defers from or fails their degree; or
+    - **(v)** in the case of a casual, in accordance with sub-clause 25.4 (Casual Employment).
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+### 2.5 Rate of Pay for Pre-Qualified Health Professional Student Employees
 
-      2.1.2 Grade 2 will typically be the entry level for new Health Professional graduates who
-      have attained their qualifying degree.
+- **(a)** Health Professional Student Employees will be paid 85% of the AHP1 Grade 2 Year 1 rate of pay set out in Schedule 2.
 
-      2.1.3 A Grade 2 Employee will receive clinical supervision from a Health Professional
-      Employee in their discipline at a higher grade level.
+### 2.6 Other Terms and Conditions for Pre-Qualified Health Professional Student Employees
 
-      2.1.4 A Grade 2 Employee will not:
+All other terms and conditions of employment will be those applying to a Pre-Qualified Health Professional under this Agreement except where this clause explicitly says otherwise.
 
-      (a)      be engaged for higher duties where a higher-level Employee is not on shift
-      (b)      work shifts that would attract the night shift allowance; and/or
-      (c)      be on-call.
-      2.1.5 An Employee who is new to mental health but has relevant prior experience or
-      overseas qualifications may commence in Grade 2 at a higher pay point.
+### 2.7 Continuity of Service
 
-      2.1.6 Grade 2 – Recommended Graduate Program:
+Continuity of Service as a Pre-Qualified Health Professional Student Employee will include any period of service in the program, provided any gap between employment as a student and commencement of employment as a qualified Health Professional is less than twelve months.
 
-      An Employer may utilise a 2-year graduate program consisting of the following elements:
+### 2.8 Notification to HACSU
 
-      (a)      In the first year of the graduate program:
-               (i)       weekly supervision for a minimum period of 3 months
-               (ii)      a protected and structured training schedule
-               (iii)     a supported caseload negotiated with supervisor (in community settings);
-                         and
-               (iv)      graded and considered workload and complexity.
-      (b)      In the second year of the graduate program:
-               (i)       fortnightly supervision
-               (ii)      a structured training schedule
-               (iii)     a caseload negotiated with supervisor (in community settings); and
-               (iv)      more complex clients, including the opportunity to provide discipline-
-                         specific interventions.
-      (a)      Nothing in this sub-clause prevents an experienced clinician from progressing, by
-               agreement between the Employee and Employer within the career structure prior
-               to the completion of the graduate program.
-      (b)      For the avoidance of doubt, this clause does not require an Employer to
-               establish/maintain a 2-year graduate program as described in this clause.
-
-1.  AHP1 Grade 3 - Generic 4.1 Grade 3 – General Definition: 4.1.1 A Grade 3 Employee is an Employee required to undertake additional duties/responsibilities to a Grade 2 Employee, for example:
-
-    \(a\) supervising and training students (b) providing clinical supervision to Grade 2 Employees and Health Professional students (c) performing work which requires specialist knowledge or depth of experience (d) contributing to the professional development of junior Employees (e) contributing to program development and management; and (f) holding a portfolio; and
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-      (g)        in the case of a Health Information Manager, being responsible for clinical
-                 trial/data management at recognised trials including national and international
-                 trials; and
-      (h)        in the case of a Play Therapist, research/case studies, and/or client and group
-                 program supervision and/or evaluation.
-      4.1.2 A Grade 3 Employee may be rostered on night shift and for on-call.
-
-1.  AHP1 Grade 4 – Clinical, Managerial, Education, Research streams 5.1 Grade 4 – General Definition 5.1.1 A Grade 4 Employee is an Employee who:
-
-    \(a\) in addition to undertaking or having the ability to undertake Grade 2 or Grade 3 duties/responsibilities will: (i) have a minimum of 5 years’ relevant (post-graduation) clinical mental health experience; and (ii) perform more complex tasks than Grade 2 or Grade 3 Employees and operate with a higher degree of practice autonomy; and (iii) possess specific knowledge in and work in an area of their profession (clinical, educational, research) recognised as requiring high levels of specialist knowledge. 5.1.2 A Grade 4 Employee should have received specialist training or have a demonstrated commitment to professional development in a specific area of practice.
-
-5.2 Role Function An Employee in a Grade 4 position performs duties within or across the following areas of expertise:
-
-      (a)        Clinical
-      (b)        Managerial
-      (c)        Education; and/or
-      (d)        Research.
-
-5.3 Clinical (a) Indicative duties/responsibilities include: (i) working in a clinical area of their profession that requires high levels of mental health specialist knowledge (ii) providing clinical supervision of Grade 2 and Grade 3 Employees (iii) leading a quality improvement initiative or research project within their team/(s) (iv) acting on expert advisory committees; and/or (v) providing specialist advice to other Employees or staff in their profession/discipline or other disciplines including secondary consultation. (b) A Grade 4 Employee whose duties are mostly within the Clinical area of expertise may be described as a Senior Clinician. 5.4 Managerial (a) Indicative duties/responsibilities include:
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-               (i)       May be required to undertake administrative work and/or
-                         manage/supervise staff
-               (ii)      advocating to more senior management on behalf of their team
-               (iii)     rostering
-               (iv)      recruitment of staff, including interviewing prospective Employees
-               (v)       coordinating professional supervision
-               (vi)      organising professional development
-               (vii)     budget and/or human resource management; and/or
-               (viii)    responsible for monitoring and management of performance indicators.
-               (ix)      manage multi-disciplinary and/or discipline specific health professional
-                         staff and/or other staff within a Community Health (or similar setting).
-       (b)     A Grade 4 Employee whose duties are mostly within the Managerial area of
-               expertise may be described as a Team Leader.
+The Employer will notify HACSU, on request, of:
 
-5.5 Education (a) Indicative duties/responsibilities include: (i) providing clinical supervision of Grade 2 and Grade 3 Employees (ii) assisting the teaching of undergraduate students, postgraduate students and/or interns, primarily in a clinical setting (iii) lecturing in their clinical speciality (iv) providing education to staff from other professions (v) assisting with the coordination of student placements; and/or (vi) assisting a Grade 5 Clinical Educator. (b) A Grade 4 Employee whose duties are mostly within the Education area of expertise may be described as a Clinical Support Educator (Grade 4). 5.6 Research (a) Indicative duties/responsibilities include: (i) conducting research (ii) contributing to service development, including new practice/s within their profession (iii) assisting with complex project planning and management (iv) supervising an Honours student’s research project (v) contributing to the research program and mentoring staff; and/or (vi) assisting a Grade 5 Researcher (if applicable). (b) A Grade 4 Employee whose duties are mostly within the Research area of expertise may be described as a Senior Clinician (Research)/Research Assistant (Mental Health).
+- **(a)** the participating units/teams/services
+- **(b)** EFT quantum and fraction of each of the Health Professional Student disciplines operating within any unit/team/service
+- **(c)** the Pre-Qualified Health Professional Student Employment Model Position Description and any other policies or procedures specific to the employment of Health Professional Students.
 
-1.  AHP1 Grade 5 – Clinical, Managerial, Education, Research streams 6.1 Grade 5 – General Definition 6.1.1 A Grade 5 Employee is an Employee who:
+---
 
-               (a) in addition to undertaking or having the ability to undertake Grade 4
-               duties/responsibilities will:
+## 3. AHP1 Grade 2 — Generic
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+### 3.1 Grade 2 — General Definition
 
-                 (i)        have a minimum of 7 years’ relevant (post-graduation) clinical mental
-                            health experience; and
-                 (ii)       perform more complex tasks than Grade 4 Employees and operate with
-                            a higher degree of practice autonomy; and
-                 (iii)      possess specific knowledge in and work in an area of their profession
-                            (clinical, educational, research and/or managerial) recognised as
-                            requiring extensive specialist knowledge; and
-                 (iv)       holds significant educational, administrative, managerial, research and/or
-                            clinical responsibilities; and
-                 (v)        may possess a relevant higher academic qualification and/or
-                            certification.
-      6.1.2 An Employer is not obligated to employ to the Grade 5 Allied Health classification
-      unless the work described by this classification is required by the Employer to be
-      undertaken by the Employee.
+**3.1.1** A Grade 2 Employee is an Employee who:
 
-      6.1.3 A Grade 5 Employee will receive clinical supervision from a Health Professional
-      Employee.
+- **(a)** has a relevant qualification for their profession (see Part 3 of this Schedule);
+- **(b)** works on routine tasks within the scope of practice for their profession, consulting with a more experienced Employee when problems arise or when dealing with matters they are unfamiliar with; and
+- **(c)** has a protected and supported caseload that is appropriate for their skill level and experience, which may increase in size and complexity with years of service.
 
-6.2 Role Function An Employee in a Grade 5 position performs duties within or across the following areas of expertise:
+**2.1.2** Grade 2 will typically be the entry level for new Health Professional graduates who have attained their qualifying degree.
 
-      (a)        Clinical
-      (b)        Managerial
-      (c)        Education; and/or
-      (d)        Research.
+**2.1.3** A Grade 2 Employee will receive clinical supervision from a Health Professional Employee in their discipline at a higher grade level.
 
-6.3 Clinical (a) Indicative duties/responsibilities include: (i) being a specialist in a clinical area of their profession which requires extensive specialised knowledge and performance (ii) mentoring and providing supervision to other Employees, including providing discipline-specific supervision of Employees within their discipline (iii) providing clinical leadership within a discipline; and/or (iv) participating in clinical research matters under the broad direction of a more senior clinical manager. (v) providing clinical leadership, program guidance and clinical supervision to junior Employees working in the program (vi) monitoring and evaluating program outcomes, and developing and managing changes as appropriate (vii) liaising and negotiating with significant facility and community-based agents about the program (viii) providing clinical consultancy and clinical advice around service development (ix) conducting research projects into clinical matters; and/or (x) utilising advanced specialist clinical mental health knowledge and skills to influence quality of care within a specialised aspect of practice across a number of wards or programs (e.g. family practice).
+**2.1.4** A Grade 2 Employee will not:
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+- **(a)** be engaged for higher duties where a higher-level Employee is not on shift
+- **(b)** work shifts that would attract the night shift allowance; and/or
+- **(c)** be on-call.
 
-      (b)     A Grade 5 Employee whose duties are mostly within the Clinical area of expertise
-              may be described as a Lead or Advanced Clinician or
-      (c)     A Grade 5 Employee (at an Employer with an existing Grade 5 Discipline Senior at
-              the commencement of this Agreement) appointed within the Clinical area of
-              expertise as a Discipline Senior.
+**2.1.5** An Employee who is new to mental health but has relevant prior experience or overseas qualifications may commence in Grade 2 at a higher pay point.
 
-6.4 Managerial (a) Indicative duties/responsibilities include: (i) Managing/leading a team in a multi-disciplinary setting (usually within a program) and report to a Chief/Director/Manager of Allied Health (or similar). (ii) management of a program/s, such as the quality assurance program (iii) leading and participating in the activities of a significant clinical program, including establishing the parameters of services, clinical standards and objectives, and ensuring effective resource utilisation (iv) rostering (v) recruitment of staff, including interviewing prospective Employees (vi) coordinating professional supervision (vii) organising professional development (viii) budget and/or human resource management; and/or (ix) responsible for monitoring and management of performance indicators. (b) A Grade 5 Employee whose duties are mostly within the Managerial area of expertise may be described as a Manager/Team Manager or a Team Leader (in a community setting). 6.5 Education (a) Indicative duties/responsibilities include: (i) providing specialist education programs (ii) leading and coordinating clinical education within a multidisciplinary setting or of a cohort of students administering and managing relationships with universities and other education providers (iii) coordinating and planning the clinical teaching and/or training program; and/or (iv) ensuring key competencies are maintained in line with policy frameworks. (b) A Grade 5 Employee whose duties are mostly within the Education area of expertise may be described as a Clinical Educator (Grade 5). 6.6 Research (a) Indicative duties/responsibilities include: (i) managing a discipline-specific research program (ii) directing and coordinating research and clinical trials (iii) presenting research papers at professional conferences and seminars (iv) authoring or co-authoring a research paper (v) assisting with initiation of funding applications (vi) supervising an Honours or master’s student’s research project
+**2.1.6 Grade 2 — Recommended Graduate Program**
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+An Employer may utilise a 2-year graduate program consisting of the following elements:
 
-                 (vii)      publishing in their clinical speciality; and/or
-                 (viii)     leading and driving the research agenda and capability within a discipline
-                            or area.
-      (b)        A Grade 5 Employee whose duties are mostly within the Research area of
-                 expertise may be described as a Senior Researcher (Mental Health).
+- **(a)** In the first year of the graduate program:
+    - **(i)** weekly supervision for a minimum period of 3 months
+    - **(ii)** a protected and structured training schedule
+    - **(iii)** a supported caseload negotiated with supervisor (in community settings); and
+    - **(iv)** graded and considered workload and complexity.
+- **(b)** In the second year of the graduate program:
+    - **(i)** fortnightly supervision
+    - **(ii)** a structured training schedule
+    - **(iii)** a caseload negotiated with supervisor (in community settings); and
+    - **(iv)** more complex clients, including the opportunity to provide discipline-specific interventions.
+- **(a)** Nothing in this sub-clause prevents an experienced clinician from progressing, by agreement between the Employee and Employer within the career structure prior to the completion of the graduate program.
+- **(b)** For the avoidance of doubt, this clause does not require an Employer to establish/maintain a 2-year graduate program as described in this clause.
 
-1.  AHP1 Grade 6 – Clinical, Managerial, Education, Research 7.1 Grade 6 – General Definition A Senior Employed appointed in accordance with the below descriptors:
+---
 
-7.2 Role Function An Employee in a Grade 6 position performs duties within or across the following areas of expertise:
-
-      (a)        Clinical
-      (b)        Managerial
-      (c)        Education; and/or
-      (d)        Research
-
-7.3 Clinical A Grade 6 Employee appointed within the Clinical area of expertise may be described as a Discipline Senior. 7.4 Managerial (a) Indicative duties/responsibilities may include: (i) budget and/or human resource management in a department or area that may have a larger number of staff than a department or area managed by a Grade 5 Manager; and (ii) providing operational management at a senior level (b) A Grade 6 Employee whose duties are mostly within the Managerial area of expertise may be described as a Senior Manager. A Grade 6 Employee whose duties are mostly within the Managerial area of expertise is not required to carry a clinical load. 7.5 Education (a) Indicative duties/responsibilities may include: (i) participating in a course advisory committee for a university; and/or (ii) having overall responsibility for the clinical teaching and/or training program. (b) A Grade 6 Employee whose duties are mostly within the Education area of expertise may be described as a Lead Clinical Educator/Clinical Education Manager. 7.6 Research (a) Indicative duties/responsibilities may include: (i) managing the department’s research program (ii) directing and coordinating research (iii) being the primary initiator of funding applications (iv) publishing in their clinical speciality
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-                 (v)      leading the translation of research into clinical practice within the service;
-                          and/or
-                 (vi)     leading and driving the research agenda and capability in the department
-                          or service.
-        (b)      A Grade 6 Employee whose duties are mostly within the Research area of
-                 expertise may be described as Lead Researcher (Mental Health) or Academic
-                 Partnership Officer. A Grade 6 Employee whose duties are mostly within the
-                 Research area of expertise is not required to carry a clinical load.
-
-1.  AHP1 Grade 7 8.1 Grade 7 – General Definition A Grade 7 Employee is an Employee who is appointed as a Deputy Director of Allied Health (Mental Health) however titled.
-
-2.  AHP1 Grade 8 9.1 Grade 8 – General Definition A Grade 8 Employee is an Employee who is appointed as a Director of Allied Health (Mental Health).
-
-Part 3: Relevant Qualifications for AHP1 Classifications in Mental Health Discipline Qualification Requirement Aboriginal Mental Health Clinician An Employee who has completed a Bachelor of Health Sciences (Mental Health) at Charles Sturt University.
-
-Art Therapist An Employee who has completed a tertiary degree or an equivalent qualification in the field of art therapy or such course recognised by the Australian and New Zealand Arts Therapy Association as being equivalent.
-
-Child Psychotherapist An Employee who holds a relevant qualification and has completed a post- graduate course of study in Psychotherapy
-
-Counsellor An Employee who holds a relevant tertiary qualification as recognised by the Employer
-
-Exercise Physiotherapist An Employee who holds a Bachelor of Science Degree, Bachelor of Applied Science Degree, Bachelor of Exercise and Sports Science Degree, Bachelor of Exercise Science, or equivalent.
-
-Health Information Manager An Employee who has passed examinations qualifying them for admission as a full graduate of the Health Information Management Association of Australia.
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-Music Therapist An Employee with a tertiary degree or an equivalent qualification in the field of music therapy or such course recognised by the Australian Music Therapy Association as being equivalent.
-
-Occupational Therapist An Employee who holds a Bachelor of Applied Science (Occupational Therapy) or equivalent or who is a graduate of an Occupational Therapy Training Centre recognised by both or either of the Australian Association of Occupational Therapists Victoria and the World Federation of Occupational Therapists.
-
-Physiotherapist An Employee who holds a degree or diploma approved by the Physiotherapy Registration Board of Victoria.
-
-Play Therapist An Employee who holds a Batchelor Degree in Early Childhood Studies, Bachelor of Teaching (Primary) or other Bachelor Qualification as recognised by the Australasian Association of Hospital Paly Therapists.
-
-Recreational Therapists An Employee who holds a degree or equivalent in Recreation or Physical Education or equivalent.
-
-Social Worker An Employee whose qualification make them eligible for membership of the Australian Association of Social Workers and who is formally employed as a Social Worker.
-
-Speech Pathologist An Employee who holds a Bachelor of Applied Science in Speech Pathology or an equivalent qualification as recognised by Speech Pathology Australia.
-
-Youth Worker An Employee engaged in Youth Work who holds a related tertiary qualification (of at least three years duration) at a university or college of advanced education with a major in the group dynamics and behavioural studies area. Part 4: Classification Definitions Applying to AHP3 Employees in Mental Health
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-4.1 Application of this Part: (a) This part applies to an Employee employed as such with a relevant qualification (see Part B of this Schedule) in the following disciplines: (i) Community Development Worker (ii) Welfare Worker; and (iii) Youth Worker (Non-Degree Qualified) 4.2 Welfare Work Welfare Work within Social and Community Service includes: • information collection and provision related to benefits and services and community resources available to clients • assistance in the resolution of specified problems • supportive counselling to clients without complex personal problems • direct service provision and care for people in residential settings, day and occasional care settings • referral and liaison to other professionals and agencies • community work including the organising of community facilities to meet gaps in services or developing community interest and action in providing for social welfare needs. (a) Qualified Welfare Worker (i) An Employee working in the field of social and community service who is qualified from a tertiary institution after two years' study (one year if admission age is 21 years or over) including major studies in welfare work.
-
-                 (ii)     Provided that an Employee covered by this classification may, by way of
-                          practical experience in welfare work or related areas of employment, be
-                          recognised by notice in writing by their Employer as coming within the
-                          scope of this definition.
+## 4. AHP1 Grade 3 — Generic
 
-        (b)      Welfare Worker Class I
-                 (i)      All qualified Welfare Workers, who are required to perform their duties
-                          under supervision.
-                 (ii)     A sole Welfare Worker with less than twelve months' experience shall be
-                          paid during their first twelve months at the rate of Welfare Worker class I,
-                          year 4.
-        (c)      Welfare Worker Class II
-                 All qualified Welfare Workers, who are required to undertake some administrative
-                 responsibility, including:
-                 (i)      a Welfare Worker who is required to take charge of an agency or
-                          department, with a staff of up to 3 workers covered by the Determination,
-                          or with a staff of at least one worker covered by the Determination and
-                          other Employees, totalling at least 6 in number, who are employed as
-                          part of the permanent establishment on a regular monthly contract of
-                          employment of at least the normal full-time ordinary hours of such
-                          agency or department;
-                 (ii)     a sole Welfare Worker who shall have a minimum of twelve months’
-                          experience (although this condition may be waived by mutual agreement
-                          between the Employer and Employee);
+### 4.1 Grade 3 — General Definition
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+**4.1.1** A Grade 3 Employee is an Employee required to undertake additional duties/responsibilities to a Grade 2 Employee, for example:
 
-             (iii)     a Welfare Worker who is required to be responsible for a major activity or
-                       group of activities within an Agency or department; or
-             (iv)      a Welfare Worker appointed as a Deputy to a Welfare Worker Class III.
-      (d)    Welfare Worker Class III
-             All qualified Welfare Workers who are required to:
-             (i)       take charge of an Agency or Department with a staff of more than 3 and
-                       up to 7 workers, covered by the Determination, or with a staff of at least
-                       two workers covered by the Determination, plus other Employees
-                       totalling 12 in number, who are employed as part of the permanent
-                       establishment on a regular monthly contract of employment of at least
-                       the normal full-time ordinary hours of such Agency or Department;
-             (ii)      a Welfare Worker who acts as a Deputy to a Welfare Worker Class IV;
-             (iii)     a Welfare Worker in a position which requires special skill and
-                       experience and where the responsibilities are mutually agreed by the
-                       Employer and Employee to be equal to those of a Welfare Worker
-                       appointed under (i) hereof.
-      (e)    Welfare Worker Class IV
-             All qualified Welfare Workers who are required to undertake senior administrative
-             responsibilities including:
-             (i)       a Welfare Worker in charge of an Agency or Department with a staff of 8
-                       or more Employees, covered by the Determination, or with a staff of at
-                       least 6 Employees covered by the Determination, plus other Employees
-                       totalling at least 13 in number who are employed as part of the
-                       permanent establishment on a regular monthly contract of employment
-                       of at least the normal full-time ordinary hours of such Agency or
-                       Department;
-             (ii)      any Welfare Worker employed in a position the responsibilities of which
-                       are mutually agreed by the Employer and the Employee to be equal to
-                       those of a Welfare Worker employed under (a) hereof.
-      (f)    Provided that where an Employee under clause 101.5 is reclassified by their
-             existing Employer from class I to class II or class II to class III, the following shall
-             apply:
-             (i)       A Welfare Worker (qualified) class I, year 7 and thereafter appointed to
-                       class II shall be paid at the class II, year 4 and thereafter rate
-             (ii)      A Welfare Worker (qualified) class I, year 6 appointed to class II shall be
-                       paid at the class III, year 3 rate
-             (iii)     A Welfare Worker (qualified) class I, year 5 appointed to class II shall be
-                       paid at the class II, 2nd year rate
-             (iv)      A Welfare Worker (qualified) class II, year 4 and thereafter appointed to
-                       class III shall be paid at the class III, year 2 rate.
-      (g)    For the purposes of Schedule 5, Part 3, clause 3.2, yearly increments are based
-             on years of full-time practical experience or service or part-time equivalent service
-             in the performance of welfare work.
+- **(a)** supervising and training students
+- **(b)** providing clinical supervision to Grade 2 Employees and Health Professional students
+- **(c)** performing work which requires specialist knowledge or depth of experience
+- **(d)** contributing to the professional development of junior Employees
+- **(e)** contributing to program development and management; and
+- **(f)** holding a portfolio; and
+- **(g)** in the case of a Health Information Manager, being responsible for clinical trial/data management at recognised trials including national and international trials; and
+- **(h)** in the case of a Play Therapist, research/case studies, and/or client and group program supervision and/or evaluation.
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+**4.1.2** A Grade 3 Employee may be rostered on night shift and for on-call.
 
-4.3 Community Development Work Community means a group defined in geographical, cultural, economic, social, demographic, special interest, and/or political terms and is deemed to include those based on gender, race, ethnicity, disability, workplace, residence or age and may be self-defined. Community Development Work means working with a community to address issues, needs and problems for that community through facilitating collective solutions, by the use of one or more of the following: • research and analysis of community issues, needs or problems • development and maintenance of community resources • community organisation • development, maintenance and evaluation of community programs • community policy development, interpretation and implementation • community planning • representation, advocacy, negotiation and mediation within and between communities, agencies, institutions and government • development and maintenance of networks • liaison with community groups, other workers and professional, agencies and government • development and transfer of skills and knowledge in community organisation, community education, advocacy, resource development, cultural awareness and other relevant areas, within the community • public and community education and public relations • preparation and distribution of written, audio-visual and other material as required • administrative tasks associated with the maintenance of 'community' projects including preparation of submissions, reports of financial documentation • assisting individual members of a community in relation to other professionals, institutions, community agencies, government and other bodies • community campaign development and organisation but excluding the predominant use of direct service delivery to clients, individual casework and counselling.
+---
 
-          (a)    Community Development Worker
-                Any person (however titled) carrying out Community Development Work in:
+## 5. AHP1 Grade 4 – Clinical, Managerial, Education, Research Streams
 
-                     (i)     community or neighbourhood houses and learning centres
+### 5.1 Grade 4 — General Definition
 
-                     (ii)    community housing or tenant's rights services or projects
+**5.1.1** A Grade 4 Employee is an Employee who:
 
-                     (iii)   equal opportunity or affirmative action projects
+- **(a)** in addition to undertaking or having the ability to undertake Grade 2 or Grade 3 duties/responsibilities will:
+    - **(i)** have a minimum of 5 years' relevant (post-graduation) clinical mental health experience; and
+    - **(ii)** perform more complex tasks than Grade 2 or Grade 3 Employees and operate with a higher degree of practice autonomy; and
+    - **(iii)** possess specific knowledge in and work in an area of their profession (clinical, educational, research) recognised as requiring high levels of specialist knowledge.
 
-                     (iv)    women's service or projects
+**5.1.2** A Grade 4 Employee should have received specialist training or have a demonstrated commitment to professional development in a specific area of practice.
 
-                     (v)     disabilities rights projects and services for people with disabilities
+### 5.2 Role Function
 
-                     (vi)    community financial counselling services, community legal services,
-                             social justice services or projects, community health and occupational
-                             health and safety projects
+An Employee in a Grade 4 position performs duties within or across the following areas of expertise:
 
-                     (vii)   self-help groups or projects
+- **(a)** Clinical
+- **(b)** Managerial
+- **(c)** Education; and/or
+- **(d)** Research.
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+### 5.3 Clinical
 
-                   (viii)   environmental action groups or projects
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** working in a clinical area of their profession that requires high levels of mental health specialist knowledge
+    - **(ii)** providing clinical supervision of Grade 2 and Grade 3 Employees
+    - **(iii)** leading a quality improvement initiative or research project within their team/(s)
+    - **(iv)** acting on expert advisory committees; and/or
+    - **(v)** providing specialist advice to other Employees or staff in their profession/discipline or other disciplines including secondary consultation.
+- **(b)** A Grade 4 Employee whose duties are mostly within the Clinical area of expertise may be described as a **Senior Clinician**.
 
-                   (ix)     community information projects or services
+### 5.4 Managerial
 
-                   (x)      community arts, writing, theatre or other cultural projects
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** may be required to undertake administrative work and/or manage/supervise staff
+    - **(ii)** advocating to more senior management on behalf of their team
+    - **(iii)** rostering
+    - **(iv)** recruitment of staff, including interviewing prospective Employees
+    - **(v)** coordinating professional supervision
+    - **(vi)** organising professional development
+    - **(vii)** budget and/or human resource management; and/or
+    - **(viii)** responsible for monitoring and management of performance indicators.
+    - **(ix)** manage multi-disciplinary and/or discipline specific health professional staff and/or other staff within a Community Health (or similar setting).
+- **(b)** A Grade 4 Employee whose duties are mostly within the Managerial area of expertise may be described as a **Team Leader**.
 
-                   (xi)     international aid agencies or projects; or
+### 5.5 Education
 
-                   (xii)    any agency, group, project or service including the following
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** providing clinical supervision of Grade 2 and Grade 3 Employees
+    - **(ii)** assisting the teaching of undergraduate students, postgraduate students and/or interns, primarily in a clinical setting
+    - **(iii)** lecturing in their clinical speciality
+    - **(iv)** providing education to staff from other professions
+    - **(v)** assisting with the coordination of student placements; and/or
+    - **(vi)** assisting a Grade 5 Clinical Educator.
+- **(b)** A Grade 4 Employee whose duties are mostly within the Education area of expertise may be described as a **Clinical Support Educator (Grade 4)**.
 
-                            A.    aboriginal community workers, including Aboriginal Health
-                                  Liaison Officers
+### 5.6 Research
 
-                            B.    ethnic community workers (however titled), including Ethnic
-                                  health workers; or
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** conducting research
+    - **(ii)** contributing to service development, including new practice/s within their profession
+    - **(iii)** assisting with complex project planning and management
+    - **(iv)** supervising an Honours student's research project
+    - **(v)** contributing to the research program and mentoring staff; and/or
+    - **(vi)** assisting a Grade 5 Researcher (if applicable).
+- **(b)** A Grade 4 Employee whose duties are mostly within the Research area of expertise may be described as a **Senior Clinician (Research)/Research Assistant (Mental Health)**.
 
-                            C.    community education officers.
+---
 
-         (b)    Qualified Community Development Worker
+## 6. AHP1 Grade 5 – Clinical, Managerial, Education, Research Streams
 
-                   (i)      An Employee engaged in Community Development Work who holds a
-                            post-secondary qualification in Community Work, Community
-                            Education Multicultural or Ethnic Studies, Aboriginal Studies, Urban
-                            Studies, Community or Welfare Administration (all however titled) or a
-                            related and relevant post-secondary qualification from a post-
-                            secondary educational institution.
+### 6.1 Grade 5 — General Definition
 
-                   (ii)     For the purposes of this clause 3.3, post-secondary qualifications in
-                            Social Work, Welfare Work and Youth Work (however titled) are
-                            recognised as relevant qualifications.
+**6.1.1** A Grade 5 Employee is an Employee who:
 
-                   (iii)    An Employee may, through practical experience and skills in
-                            Community Development Work, or related areas of employment, be
-                            recognised by notice in writing by the Employer as coming within the
-                            scope of this definition.
+- **(a)** in addition to undertaking or having the ability to undertake Grade 4 duties/responsibilities will:
+    - **(i)** have a minimum of 7 years' relevant (post-graduation) clinical mental health experience; and
+    - **(ii)** perform more complex tasks than Grade 4 Employees and operate with a higher degree of practice autonomy; and
+    - **(iii)** possess specific knowledge in and work in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring extensive specialist knowledge; and
+    - **(iv)** holds significant educational, administrative, managerial, research and/or clinical responsibilities; and
+    - **(v)** may possess a relevant higher academic qualification and/or certification.
 
-                   (iv)     An Indigenous Community Worker who has participated in relevant
-                            short courses of training in the practical skills of community
-                            development work is deemed to be a Qualified Community
-                            Development Worker when engaged in Community Development
-                            Work with or within their 'Indigenous Community'.
+**6.1.2** An Employer is not obligated to employ to the Grade 5 Allied Health classification unless the work described by this classification is required by the Employer to be undertaken by the Employee.
 
-         (c)    Indigenous Community Development Worker
-               An Employee who has:
+**6.1.3** A Grade 5 Employee will receive clinical supervision from a Health Professional Employee.
 
-                   (i)      direct life experience in and as a member of a particular 'community'
-                            (as defined) from which the Employee is drawn and in which they are
-                            working
+### 6.2 Role Function
 
-                   (ii)     knowledge, skills and experience of the culture in which they belong
+An Employee in a Grade 5 position performs duties within or across the following areas of expertise:
 
-                   (iii)    fluency in the community language/s (where relevant).
+- **(a)** Clinical
+- **(b)** Managerial
+- **(c)** Education; and/or
+- **(d)** Research.
 
-         (d)    An 'Indigenous Community Development Worker' includes an Aboriginal worker
-                working with an Aboriginal Community, an Ethnic Worker working with the
-                relevant Ethnic Community and a Self-Help Worker employed to work with the
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+### 6.3 Clinical
 
-               Self-Help community from which they came. Community Development Worker
-               Class I
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** being a specialist in a clinical area of their profession which requires extensive specialised knowledge and performance
+    - **(ii)** mentoring and providing supervision to other Employees, including providing discipline-specific supervision of Employees within their discipline
+    - **(iii)** providing clinical leadership within a discipline; and/or
+    - **(iv)** participating in clinical research matters under the broad direction of a more senior clinical manager.
+    - **(v)** providing clinical leadership, program guidance and clinical supervision to junior Employees working in the program
+    - **(vi)** monitoring and evaluating program outcomes, and developing and managing changes as appropriate
+    - **(vii)** liaising and negotiating with significant facility and community-based agents about the program
+    - **(viii)** providing clinical consultancy and clinical advice around service development
+    - **(ix)** conducting research projects into clinical matters; and/or
+    - **(x)** utilising advanced specialist clinical mental health knowledge and skills to influence quality of care within a specialised aspect of practice across a number of wards or programs (e.g. family practice).
+- **(b)** A Grade 5 Employee whose duties are mostly within the Clinical area of expertise may be described as a **Lead or Advanced Clinician**; or
+- **(c)** A Grade 5 Employee (at an Employer with an existing Grade 5 Discipline Senior at the commencement of this Agreement) appointed within the Clinical area of expertise as a **Discipline Senior**.
 
-                  (i)     All persons who are performing Community Development Work under
-                          the direct supervision of more experienced community development
-                          workers who must be based in the same workplace as the persons
-                          being supervised.
+### 6.4 Managerial
 
-                  (ii)    A qualified Community Development Worker with less than twelve
-                          months' experience who is being supervised by a more experienced
-                          qualified Community Development Worker shall commence at the
-                          rate of class I, year 2, unless the supervised worker is a qualified
-                          Social Worker or holds a post-graduate qualification in Community
-                          Development Work (as defined) in which case the worker will
-                          commence at the rate of class I, year 4.
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** managing/leading a team in a multi-disciplinary setting (usually within a program) and report to a Chief/Director/Manager of Allied Health (or similar).
+    - **(ii)** management of a program/s, such as the quality assurance program
+    - **(iii)** leading and participating in the activities of a significant clinical program, including establishing the parameters of services, clinical standards and objectives, and ensuring effective resource utilisation
+    - **(iv)** rostering
+    - **(v)** recruitment of staff, including interviewing prospective Employees
+    - **(vi)** coordinating professional supervision
+    - **(vii)** organising professional development
+    - **(viii)** budget and/or human resource management; and/or
+    - **(ix)** responsible for monitoring and management of performance indicators.
+- **(b)** A Grade 5 Employee whose duties are mostly within the Managerial area of expertise may be described as a **Manager/Team Manager** or a **Team Leader** (in a community setting).
 
-                  (iii)   A Community Development Worker under direct supervision who has
-                          administrative responsibilities shall commence at not less than class
-                          I, year 3, notwithstanding any of the above commencement rates.
+### 6.5 Education
 
-         (e)   Community Development Worker Class II
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** providing specialist education programs
+    - **(ii)** leading and coordinating clinical education within a multidisciplinary setting or of a cohort of students; administering and managing relationships with universities and other education providers
+    - **(iii)** coordinating and planning the clinical teaching and/or training program; and/or
+    - **(iv)** ensuring key competencies are maintained in line with policy frameworks.
+- **(b)** A Grade 5 Employee whose duties are mostly within the Education area of expertise may be described as a **Clinical Educator (Grade 5)**.
 
-                  (i)     An Employee who is performing Community Development Work and
-                          who is not working under the direct supervision of a more
-                          experienced community development worker and includes a sole
-                          community development worker employed in a workplace or one who
-                          has unsupervised administrative responsibilities.
+### 6.6 Research
 
-                  (ii)    A qualified Community Development Worker cannot be supervised by
-                          a less experienced unqualified or qualified community development
-                          worker and must be paid as class II Community Development Worker
-                          at the appropriate qualification level (as defined).
-
-                  (iii)   A qualified Welfare Worker (as defined) performing community
-                          development work without direct supervision shall commence at not
-                          less than class II(a), year 3.
-
-                  (iv)    An Indigenous Community Development Worker (as defined) working
-                          without direct supervision shall commence at not less than class II(a),
-                          year 3. If an Indigenous Community Development Worker does
-                          possess a qualification (as defined) they shall commence at a level
-                          not less than that defined for the qualification possessed.
-
-                  (v)     A qualified Youth Worker (as defined) performing community
-                          development work without direct supervision shall commence at not
-                          less than class II(a), year 5.
-
-                  (vi)    A sole Community Development Worker employed in a workplace or
-                          a community development worker performing outreach community
-                          development work shall commence at not less than class II(a), year 5.
-
-                  (vii)   A Community Development Worker who is performing social research
-                          shall commence at not less than class II(a), year 7 unless the worker
-                          possesses a social work qualification or a post-graduate qualification
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-                                in community development work or a qualification in social or
-                                behavioural sciences, in which case the worker shall commence at no
-                                less than the level defined for these qualifications.
-
-                       (viii)   A Community Development Worker working without direct supervision
-                                who possesses a qualification in community development work other
-                                than a post-graduate qualification shall commence at not less than
-                                class II(a), year 7.
-
-                       (ix)     A Community Development Worker with a tertiary qualification in the
-                                social and behavioural sciences shall commence at not less than
-                                class II(a), year 7.
-
-                       (x)      A qualified Social Worker or Community Development Worker holding
-                                a post-graduate qualification in community development work
-                                performing community development work shall be employed at the
-                                classification class II(b).
-
-                       (xi)     A Community Development Worker engaged in policy development or
-                                policy advice shall commence at not less than class II(b), year 1.
-
-                       (xii)    A Community Development Worker engaged in community education
-                                or community training programs shall commence at not less than
-                                class II(b), year 1.
-
-                       (xiii)   A qualified Social Worker shall commence at not less than class II(b),
-                                year 1.
-
-                       (xiv)    A qualified Community Development Worker with a post-graduate
-                                qualification shall commence at not less than class II(b), year 2.
-
-          (f)       Community Development Worker Class III
-                  All persons performing Community Development Work who are required to provide
-                  direct supervision of other community development workers, administrative or
-                  support workers. A community development worker employed in a position which
-                  requires special skill and experience and where the responsibilities are mutually
-                  agreed by the Employer and Employee to be equal to those of a Community
-                  Development Worker Class III may be employed as such.
-                  For the purposes of this clause 3.3, yearly increments are based on years of full-
-                  time practical experience or service or part-time equivalent in the performance of
-                  community development work.
-
-4.4 Youth Worker (Non-Degree Qualified) 4.4.1 Definition Youth work means working with or for young people towards their personal and social development during their transition from childhood to adulthood, and will include one (1) or more of the following:
-
-                       (i)      collection and distribution of materials and information pursuant to
-                                their development and need;
-
-                       (ii)     assistance in the resolution of specific problems;
-
-                       (iii)    provision of activities and facility management for leisure time;
-
-                       (iv)     liaison with and referral to other professionals and agencies;
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-                    (v)       supportive counselling to young people with personal problems or
-                              those confronting crisis; and
-
-                    (vi)      coordination of activities or facilities for the development of
-                              independent living skills.
-               4.4.2 Qualified Youth Worker
-               A.    An Employee engaged in youth work (as defined) who holds a Diploma in
-                     Youth Studies (however titled) with a major in the group dynamics and
-                     behavioural studies area.
-               B.    Provided that an Employee may, by way of practical experience in youth
-                     work or related areas of employment, be recognised by notice in writing by
-                     their Employer as coming within the scope of this definition.
-               4.4.3 Youth Worker Class I (1)
-               A.          A Qualified Youth Worker, who is required to perform their duties under
-                           supervision.
-               B.          A sole Youth Worker with less than twelve months' experience will be
-                           paid during the first twelve months at the Youth Worker class I, year 4
-                           rate, after which they will be classified as a Youth Worker Class II.
-               4.4.4 Youth Worker Class II (2)
-               A Qualified Youth Worker, who is required to undertake some administrative
-               responsibility, including:
-               A.          A Youth Worker who is required to take charge of an agency or
-                           department, with a staff of up to three (3) Employees covered by the
-                           Agreement, or with a staff of at least one (1) Employee covered by the
-                           Agreement and other employees, totalling at least six (6) in number, who
-                           are employed by the Employer on a regular monthly contract of
-                           employment of at least the normal full-time ordinary hours or EFT of such
-                           agency or department;
-               B.          A Sole Youth Worker who will have a minimum of twelve months'
-                           experience (although this condition may be waived by mutual agreement
-                           between the Employer and an Employee with les than twelve month's
-                           experience will instead be employed at class II);
-               C.    A Youth Worker who is required to be responsible for a major activity or
-                     group of activities within an Agency or department; or
-               D.    A Youth Worker who acts as a Deputy to a Youth Worker Class III.
-               4.4.5 Youth Worker IIA (2A)
-               A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the
-               relevant requirement to be classified at Youth Worker Class II (2), would be
-               classified as a Health Professional Employee Level 3 (see Schedule 5 of this
-               Appendix 4) under the Award.
-               4.4.6 Youth Worker Class III (3)
-               A Qualified Youth Worker who is required to:
-           A. Take charge up of an Agency or Department with a staff of more than three (3)and
-               up to seven (7) Employees covered by the Agreement, or with a staff of at least
-               two (2) Employees covered by the Agreement, plus other Employees totalling 12
-               in number, who are employed by the Employer on a regular monthly contract of
-               employment of at least the normal full-time ordinary hours or EFT of such Agency
-               or Department;
-      B.       A Youth Worker who acts as a Deputy to a Youth Worker Class IV;
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-             C.       A Youth Worker in a position which requires special skill and experience
-                      and where the responsibilities are mutually agreed by the Employer and
-                      Employee to be equal to those of a Youth Worker employed under
-                      subclause 3.4.7 of Part 3 of Schedule 5.
-             4.4.7 Youth Worker IIIA (3A)
-             A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the
-             relevant requirement to be classified at Youth Worker Class III (3), would be
-             classified as a Health Professional Employee Level 3 (see Schedule 5 of this
-             Appendix 4) under the Award.
-             4.4.8 Youth Worker Class IV (4)
-             A Qualified Youth Worker who is required to undertake senior administrative
-             responsibilities including:
-             A.       a Youth Worker in charge of an Agency or Department with a staff of
-                      eight (8) or more Employees covered by the Agreement, or with a staff
-                      of at least six (6) Employees covered by the Agreement, plus other
-                      employees totalling at least 13 in number who are employed by the
-                      Employer on a regular monthly contract of employment of at least the
-                      normal full-time ordinary hours or EFT of such Agency or Department;
-             B.       any Youth Worker employed in a position the responsibilities of which
-                      are mutually agreed by the Employer and the Employee to be equal to
-                      those of a Youth Worker employed under 3.4.6A of Part 3 of Schedule 5
-                      .
-             4.4.9 Overlapping Pay Points Between Classes
-             See subclause 29.2
-             4.4.10 Increments for Youth Workers
-             For the purposes of clause 11 of this Section E of this Appendix 4, yearly
-             increments are based on years of full-time practical experience or service, or part-
-             time equivalent service in the performance of youth work.
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-Part 5: Lived and Living Experience Worker (LLEW) Classification Structure Introduction
-
-A.1 LLEW Workforce – Overview
-
-        (a)     Lived and Living Experience Workers (LLEWs) assist consumers, their families
-                and carers to be involved in their, or their family members’ treatment, support and
-                recovery planning and inform and enhance services responses by ensuring they
-                are informed by the Lived and Living Experience perspective of consumers and
-                their families, carers and supporters.
-        (b)     Lived and Living Experience Workers have:
-                (i)      a Lived and Living Experience of mental health services, either as a
-                          service user or family member/carer; and
-
-                (ii)    the capacity to understand the intricacies of the mental health system;
-                         and
-
-                (iii)   the ability to support consumers and/or families/carers and present
-                         consumer and/or families/carers’ perspectives to mental health services.
-
-        (c)    Lived and Living Experience Workers are a non-clinical workforce, and do not
-               undertake clinical duties rather complement the clinical work of clinical staff within
-               a multi-disciplinary team. They use their lived/living experience in a number of
-               capacities within the industry, that include, but are not limited to,
-
-                (i)      at the individual level - assisting consumers or their families to navigate
-                          various mental health services, provide hope and inspiration, develop
-                          and work towards recovery orientated and life goals, as well as
-                          understanding their rights and service options.
-
-                (ii)    at the systems level - to ensure that consumer and carer perspectives are
-                         embedded in all aspects of service planning and delivery, including
-                         policy, communication, training, community engagement and service
-                         improvement.
-
-        (d)     Lived and Living Experience Workers at all levels utilise the specialist knowledge
-                derived from their direct Lived and Living Experience as a consumer or family
-                carer and may also have secondary qualifications and experience. It is not a
-                requirement for LLEWs Employees at any grade to hold a formal qualification.
-
-        (e)     For the purposes of this clause, “Practice” refers to the use of a person’s
-                lived/living experience to enable them to carry out their role as a member of the
-                lived and living experience workforce(s).
-
-        (f)     Lived and Living Experience work builds on a foundation of mutuality, where a
-                connection and understanding are developed, which is used to support
-                consumers, families and carers through their journey to hope and possibility. This
-                is extremely highly skilled and specialised work, which requires ongoing training,
-                support and supervision (both discipline-specific supervision and line management
-                supervision). Additional provisions concerning discipline-specific supervision for
-                LLEWs are contained in clause 142.
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-          (g)       Lived and Living Experience Workers are able to use their own experiences to
-                    inform policy change and service development, where consumer centred care is at
-                    the forefront of program design, research, workforce education and staffing.
-
-A.2 Lived and Living Experience Workers will be employed in accordance with the following classification structure. For the avoidance of doubt, this classification structure does not include persons who volunteer as a Lived and Living Experience Worker, in relation to that work.
-
-A.3 An Employer is not required to appoint to every role and level within the structure.
-
-A.4 The implementation of this classification structure will not result in any LLEW employee having their classification downgraded, or suffering any detriment to their classification grade and/or rate of pay as it was immediately prior to the coming into force of this Agreement
-
-B. Peer Cadet Program
-
-B.1 Cadet Programme - Overview
-
-          (a)       The Peer Cadet Program is run in conjunction with the Department of Health and
-                    is only delivered in partnership with an authorised list of services. The following
-                    only relates to those services.
-
-          (b)      The Employers agree to implement a Peer Cadet Program to persons with lived
-                   and living experience of mental health to increase the number of entry points into
-                   the Lived and Living Experience Workforce (LLEW) within the public mental health
-                   system, and provide a supportive and structured environment for learning.
-
-          (c)       A Peer Cadet is person with lived and/or living experience who is currently
-                    undertaking the Certificate IV in Mental Health Peer Work.
-
-          (d)       The Peer Cadet Program is an employment opportunity for people with lived
-                    and/or living experience undertaking the Certificate IV in Mental Health Peer Work,
-                    to enter paid employment across Victoria’s public mental health services.
-
-          (e)       The program offers a paid part-time cadetship of twelve (12) months duration.
-
-          (f)       Peer Cadets will develop knowledge, skills, and confidence in a structured and
-                    supported environment. Throughout their employment cadets will receive
-                    supervision, training, and reflective practice opportunities that are discipline
-                    specific.
-
-B.2 Employment of Peer Cadets
-
-          (a)       Peer Cadets will be employed on a fixed-term basis.
-
-          (b)       All other terms and conditions of employment will be those applying to a LLEW
-                    Employee under this Agreement except where this clause explicitly says
-                    otherwise.
-
-          (c)       Where a Peer Cadet is later employed in a mental health service on an ongoing
-                    basis, continuity of service as a LLEW Employee will include any period of service
-                    in the Peer Cadet Program, provided that any gap between employment as a Peer
-                    Cadet and as a LLEW Employee is less than twelve (12) months.
-
-C. LLEW Classification Streams
+- **(a)** Indicative duties/responsibilities include:
+    - **(i)** managing a discipline-specific research program
+    - **(ii)** directing and coordinating research and clinical trials
+    - **(iii)** presenting research papers at professional conferences and seminars
+    - **(iv)** authoring or co-authoring a research paper
+    - **(v)** assisting with initiation of funding applications
+    - **(vi)** supervising an Honours or master's student's research project
+    - **(vii)** publishing in their clinical speciality; and/or
+    - **(viii)** leading and driving the research agenda and capability within a discipline or area.
+- **(b)** A Grade 5 Employee whose duties are mostly within the Research area of expertise may be described as a **Senior Researcher (Mental Health)**.
+
+---
+
+## 7. AHP1 Grade 6 – Clinical, Managerial, Education, Research
+
+### 7.1 Grade 6 — General Definition
+
+A Senior Employee appointed in accordance with the below descriptors.
+
+### 7.2 Role Function
+
+An Employee in a Grade 6 position performs duties within or across the following areas of expertise:
+
+- **(a)** Clinical
+- **(b)** Managerial
+- **(c)** Education; and/or
+- **(d)** Research.
+
+### 7.3 Clinical
+
+A Grade 6 Employee appointed within the Clinical area of expertise may be described as a **Discipline Senior**.
+
+### 7.4 Managerial
+
+- **(a)** Indicative duties/responsibilities may include:
+    - **(i)** budget and/or human resource management in a department or area that may have a larger number of staff than a department or area managed by a Grade 5 Manager; and
+    - **(ii)** providing operational management at a senior level.
+- **(b)** A Grade 6 Employee whose duties are mostly within the Managerial area of expertise may be described as a **Senior Manager**. A Grade 6 Employee whose duties are mostly within the Managerial area of expertise is not required to carry a clinical load.
+
+### 7.5 Education
+
+- **(a)** Indicative duties/responsibilities may include:
+    - **(i)** participating in a course advisory committee for a university; and/or
+    - **(ii)** having overall responsibility for the clinical teaching and/or training program.
+- **(b)** A Grade 6 Employee whose duties are mostly within the Education area of expertise may be described as a **Lead Clinical Educator/Clinical Education Manager**.
+
+### 7.6 Research
+
+- **(a)** Indicative duties/responsibilities may include:
+    - **(i)** managing the department's research program
+    - **(ii)** directing and coordinating research
+    - **(iii)** being the primary initiator of funding applications
+    - **(iv)** publishing in their clinical speciality
+    - **(v)** leading the translation of research into clinical practice within the service; and/or
+    - **(vi)** leading and driving the research agenda and capability in the department or service.
+- **(b)** A Grade 6 Employee whose duties are mostly within the Research area of expertise may be described as **Lead Researcher (Mental Health)** or **Academic Partnership Officer**. A Grade 6 Employee whose duties are mostly within the Research area of expertise is not required to carry a clinical load.
+
+---
+
+## 8. AHP1 Grade 7
+
+### 8.1 Grade 7 — General Definition
+
+A Grade 7 Employee is an Employee who is appointed as a **Deputy Director of Allied Health (Mental Health)** however titled.
+
+---
+
+## 9. AHP1 Grade 8
+
+### 9.1 Grade 8 — General Definition
+
+A Grade 8 Employee is an Employee who is appointed as a **Director of Allied Health (Mental Health)**.
+
+---
+
+## Part 3: Relevant Qualifications for AHP1 Classifications in Mental Health
+
+| Discipline | Qualification Requirement |
+|---|---|
+| **Aboriginal Mental Health Clinician** | An Employee who has completed a Bachelor of Health Sciences (Mental Health) at Charles Sturt University. |
+| **Art Therapist** | An Employee who has completed a tertiary degree or an equivalent qualification in the field of art therapy or such course recognised by the Australian and New Zealand Arts Therapy Association as being equivalent. |
+| **Child Psychotherapist** | An Employee who holds a relevant qualification and has completed a post-graduate course of study in Psychotherapy. |
+| **Counsellor** | An Employee who holds a relevant tertiary qualification as recognised by the Employer. |
+| **Exercise Physiotherapist** | An Employee who holds a Bachelor of Science Degree, Bachelor of Applied Science Degree, Bachelor of Exercise and Sports Science Degree, Bachelor of Exercise Science, or equivalent. |
+| **Health Information Manager** | An Employee who has passed examinations qualifying them for admission as a full graduate of the Health Information Management Association of Australia. |
+| **Music Therapist** | An Employee with a tertiary degree or an equivalent qualification in the field of music therapy or such course recognised by the Australian Music Therapy Association as being equivalent. |
+| **Occupational Therapist** | An Employee who holds a Bachelor of Applied Science (Occupational Therapy) or equivalent or who is a graduate of an Occupational Therapy Training Centre recognised by both or either of the Australian Association of Occupational Therapists Victoria and the World Federation of Occupational Therapists. |
+| **Physiotherapist** | An Employee who holds a degree or diploma approved by the Physiotherapy Registration Board of Victoria. |
+| **Play Therapist** | An Employee who holds a Bachelor Degree in Early Childhood Studies, Bachelor of Teaching (Primary) or other Bachelor Qualification as recognised by the Australasian Association of Hospital Play Therapists. |
+| **Recreational Therapists** | An Employee who holds a degree or equivalent in Recreation or Physical Education or equivalent. |
+| **Social Worker** | An Employee whose qualifications make them eligible for membership of the Australian Association of Social Workers and who is formally employed as a Social Worker. |
+| **Speech Pathologist** | An Employee who holds a Bachelor of Applied Science in Speech Pathology or an equivalent qualification as recognised by Speech Pathology Australia. |
+| **Youth Worker** | An Employee engaged in Youth Work who holds a related tertiary qualification (of at least three years duration) at a university or college of advanced education with a major in the group dynamics and behavioural studies area. |
+
+---
+
+## Part 4: Classification Definitions Applying to AHP3 Employees in Mental Health
+
+### 4.1 Application of this Part
+
+- **(a)** This part applies to an Employee employed as such with a relevant qualification (see Part 3 of this Schedule) in the following disciplines:
+    - **(i)** Community Development Worker
+    - **(ii)** Welfare Worker; and
+    - **(iii)** Youth Worker (Non-Degree Qualified)
+
+### 4.2 Welfare Work
+
+**Welfare Work** within Social and Community Service includes:
+
+- information collection and provision related to benefits and services and community resources available to clients
+- assistance in the resolution of specified problems
+- supportive counselling to clients without complex personal problems
+- direct service provision and care for people in residential settings, day and occasional care settings
+- referral and liaison to other professionals and agencies
+- community work including the organising of community facilities to meet gaps in services or developing community interest and action in providing for social welfare needs.
+
+**4.2(a) Qualified Welfare Worker**
+
+- **(i)** An Employee working in the field of social and community service who is qualified from a tertiary institution after two years' study (one year if admission age is 21 years or over) including major studies in welfare work.
+- **(ii)** Provided that an Employee covered by this classification may, by way of practical experience in welfare work or related areas of employment, be recognised by notice in writing by their Employer as coming within the scope of this definition.
+
+**4.2(b) Welfare Worker Class I**
+
+- **(i)** All qualified Welfare Workers, who are required to perform their duties under supervision.
+- **(ii)** A sole Welfare Worker with less than twelve months' experience shall be paid during their first twelve months at the rate of Welfare Worker class I, year 4.
+
+**4.2(c) Welfare Worker Class II**
+
+All qualified Welfare Workers, who are required to undertake some administrative responsibility, including:
+
+- **(i)** a Welfare Worker who is required to take charge of an agency or department, with a staff of up to 3 workers covered by the Determination, or with a staff of at least one worker covered by the Determination and other Employees, totalling at least 6 in number, who are employed as part of the permanent establishment on a regular monthly contract of employment of at least the normal full-time ordinary hours of such agency or department;
+- **(ii)** a sole Welfare Worker who shall have a minimum of twelve months' experience (although this condition may be waived by mutual agreement between the Employer and Employee);
+- **(iii)** a Welfare Worker who is required to be responsible for a major activity or group of activities within an Agency or department; or
+- **(iv)** a Welfare Worker appointed as a Deputy to a Welfare Worker Class III.
+
+**4.2(d) Welfare Worker Class III**
+
+All qualified Welfare Workers who are required to:
+
+- **(i)** take charge of an Agency or Department with a staff of more than 3 and up to 7 workers, covered by the Determination, or with a staff of at least two workers covered by the Determination, plus other Employees totalling 12 in number, who are employed as part of the permanent establishment on a regular monthly contract of employment of at least the normal full-time ordinary hours of such Agency or Department;
+- **(ii)** a Welfare Worker who acts as a Deputy to a Welfare Worker Class IV;
+- **(iii)** a Welfare Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Welfare Worker appointed under (i) hereof.
+
+**4.2(e) Welfare Worker Class IV**
+
+All qualified Welfare Workers who are required to undertake senior administrative responsibilities including:
+
+- **(i)** a Welfare Worker in charge of an Agency or Department with a staff of 8 or more Employees, covered by the Determination, or with a staff of at least 6 Employees covered by the Determination, plus other Employees totalling at least 13 in number who are employed as part of the permanent establishment on a regular monthly contract of employment of at least the normal full-time ordinary hours of such Agency or Department;
+- **(ii)** any Welfare Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Welfare Worker employed under (a) hereof.
+
+**4.2(f)** Provided that where an Employee under clause 101.5 is reclassified by their existing Employer from class I to class II or class II to class III, the following shall apply:
+
+- **(i)** A Welfare Worker (qualified) class I, year 7 and thereafter appointed to class II shall be paid at the class II, year 4 and thereafter rate.
+- **(ii)** A Welfare Worker (qualified) class I, year 6 appointed to class II shall be paid at the class III, year 3 rate.
+- **(iii)** A Welfare Worker (qualified) class I, year 5 appointed to class II shall be paid at the class II, 2nd year rate.
+- **(iv)** A Welfare Worker (qualified) class II, year 4 and thereafter appointed to class III shall be paid at the class III, year 2 rate.
+
+**4.2(g)** For the purposes of Schedule 5, Part 3, clause 3.2, yearly increments are based on years of full-time practical experience or service or part-time equivalent service in the performance of welfare work.
+
+---
+
+### 4.3 Community Development Work
+
+**Community** means a group defined in geographical, cultural, economic, social, demographic, special interest, and/or political terms and is deemed to include those based on gender, race, ethnicity, disability, workplace, residence or age and may be self-defined.
+
+**Community Development Work** means working with a community to address issues, needs and problems for that community through facilitating collective solutions, by the use of one or more of the following:
+
+- research and analysis of community issues, needs or problems
+- development and maintenance of community resources
+- community organisation
+- development, maintenance and evaluation of community programs
+- community policy development, interpretation and implementation
+- community planning
+- representation, advocacy, negotiation and mediation within and between communities, agencies, institutions and government
+- development and maintenance of networks
+- liaison with community groups, other workers and professional, agencies and government
+- development and transfer of skills and knowledge in community organisation, community education, advocacy, resource development, cultural awareness and other relevant areas, within the community
+- public and community education and public relations
+- preparation and distribution of written, audio-visual and other material as required
+- administrative tasks associated with the maintenance of 'community' projects including preparation of submissions, reports of financial documentation
+- assisting individual members of a community in relation to other professionals, institutions, community agencies, government and other bodies
+- community campaign development and organisation but excluding the predominant use of direct service delivery to clients, individual casework and counselling.
+
+**4.3(a) Community Development Worker**
+
+Any person (however titled) carrying out Community Development Work in:
+
+- **(i)** community or neighbourhood houses and learning centres
+- **(ii)** community housing or tenant's rights services or projects
+- **(iii)** equal opportunity or affirmative action projects
+- **(iv)** women's service or projects
+- **(v)** disabilities rights projects and services for people with disabilities
+- **(vi)** community financial counselling services, community legal services, social justice services or projects, community health and occupational health and safety projects
+- **(vii)** self-help groups or projects
+- **(viii)** environmental action groups or projects
+- **(ix)** community information projects or services
+- **(x)** community arts, writing, theatre or other cultural projects
+- **(xi)** international aid agencies or projects; or
+- **(xii)** any agency, group, project or service including the following:
+    - **A.** aboriginal community workers, including Aboriginal Health Liaison Officers
+    - **B.** ethnic community workers (however titled), including Ethnic health workers; or
+    - **C.** community education officers.
+
+**4.3(b) Qualified Community Development Worker**
+
+- **(i)** An Employee engaged in Community Development Work who holds a post-secondary qualification in Community Work, Community Education Multicultural or Ethnic Studies, Aboriginal Studies, Urban Studies, Community or Welfare Administration (all however titled) or a related and relevant post-secondary qualification from a post-secondary educational institution.
+- **(ii)** For the purposes of this clause 3.3, post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
+- **(iii)** An Employee may, through practical experience and skills in Community Development Work, or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
+- **(iv)** An Indigenous Community Worker who has participated in relevant short courses of training in the practical skills of community development work is deemed to be a Qualified Community Development Worker when engaged in Community Development Work with or within their 'Indigenous Community'.
+
+**4.3(c) Indigenous Community Development Worker**
+
+An Employee who has:
+
+- **(i)** direct life experience in and as a member of a particular 'community' (as defined) from which the Employee is drawn and in which they are working
+- **(ii)** knowledge, skills and experience of the culture in which they belong
+- **(iii)** fluency in the community language/s (where relevant).
+
+**4.3(d)** An 'Indigenous Community Development Worker' includes an Aboriginal worker working with an Aboriginal Community, an Ethnic Worker working with the relevant Ethnic Community and a Self-Help Worker employed to work with the Self-Help community from which they came.
+
+**Community Development Worker Class I**
+
+- **(i)** All persons who are performing Community Development Work under the direct supervision of more experienced community development workers who must be based in the same workplace as the persons being supervised.
+- **(ii)** A qualified Community Development Worker with less than twelve months' experience who is being supervised by a more experienced qualified Community Development Worker shall commence at the rate of class I, year 2, unless the supervised worker is a qualified Social Worker or holds a post-graduate qualification in Community Development Work (as defined) in which case the worker will commence at the rate of class I, year 4.
+- **(iii)** A Community Development Worker under direct supervision who has administrative responsibilities shall commence at not less than class I, year 3, notwithstanding any of the above commencement rates.
+
+**4.3(e) Community Development Worker Class II**
+
+- **(i)** An Employee who is performing Community Development Work and who is not working under the direct supervision of a more experienced community development worker and includes a sole community development worker employed in a workplace or one who has unsupervised administrative responsibilities.
+- **(ii)** A qualified Community Development Worker cannot be supervised by a less experienced unqualified or qualified community development worker and must be paid as class II Community Development Worker at the appropriate qualification level (as defined).
+- **(iii)** A qualified Welfare Worker (as defined) performing community development work without direct supervision shall commence at not less than class II(a), year 3.
+- **(iv)** An Indigenous Community Development Worker (as defined) working without direct supervision shall commence at not less than class II(a), year 3. If an Indigenous Community Development Worker does possess a qualification (as defined) they shall commence at a level not less than that defined for the qualification possessed.
+- **(v)** A qualified Youth Worker (as defined) performing community development work without direct supervision shall commence at not less than class II(a), year 5.
+- **(vi)** A sole Community Development Worker employed in a workplace or a community development worker performing outreach community development work shall commence at not less than class II(a), year 5.
+- **(vii)** A Community Development Worker who is performing social research shall commence at not less than class II(a), year 7 unless the worker possesses a social work qualification or a post-graduate qualification in community development work or a qualification in social or behavioural sciences, in which case the worker shall commence at no less than the level defined for these qualifications.
+- **(viii)** A Community Development Worker working without direct supervision who possesses a qualification in community development work other than a post-graduate qualification shall commence at not less than class II(a), year 7.
+- **(ix)** A Community Development Worker with a tertiary qualification in the social and behavioural sciences shall commence at not less than class II(a), year 7.
+- **(x)** A qualified Social Worker or Community Development Worker holding a post-graduate qualification in community development work performing community development work shall be employed at the classification class II(b).
+- **(xi)** A Community Development Worker engaged in policy development or policy advice shall commence at not less than class II(b), year 1.
+- **(xii)** A Community Development Worker engaged in community education or community training programs shall commence at not less than class II(b), year 1.
+- **(xiii)** A qualified Social Worker shall commence at not less than class II(b), year 1.
+- **(xiv)** A qualified Community Development Worker with a post-graduate qualification shall commence at not less than class II(b), year 2.
+
+**4.3(f) Community Development Worker Class III**
+
+All persons performing Community Development Work who are required to provide direct supervision of other community development workers, administrative or support workers. A community development worker employed in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Community Development Worker Class III may be employed as such.
+
+For the purposes of this clause 3.3, yearly increments are based on years of full-time practical experience or service or part-time equivalent in the performance of community development work.
+
+---
+
+### 4.4 Youth Worker (Non-Degree Qualified)
+
+#### 4.4.1 Definition
+
+**Youth work** means working with or for young people towards their personal and social development during their transition from childhood to adulthood, and will include one (1) or more of the following:
+
+- **(i)** collection and distribution of materials and information pursuant to their development and need;
+- **(ii)** assistance in the resolution of specific problems;
+- **(iii)** provision of activities and facility management for leisure time;
+- **(iv)** liaison with and referral to other professionals and agencies;
+- **(v)** supportive counselling to young people with personal problems or those confronting crisis; and
+- **(vi)** coordination of activities or facilities for the development of independent living skills.
+
+#### 4.4.2 Qualified Youth Worker
+
+- **A.** An Employee engaged in youth work (as defined) who holds a Diploma in Youth Studies (however titled) with a major in the group dynamics and behavioural studies area.
+- **B.** Provided that an Employee may, by way of practical experience in youth work or related areas of employment, be recognised by notice in writing by their Employer as coming within the scope of this definition.
+
+#### 4.4.3 Youth Worker Class I (1)
+
+- **A.** A Qualified Youth Worker, who is required to perform their duties under supervision.
+- **B.** A sole Youth Worker with less than twelve months' experience will be paid during the first twelve months at the Youth Worker class I, year 4 rate, after which they will be classified as a Youth Worker Class II.
+
+#### 4.4.4 Youth Worker Class II (2)
+
+A Qualified Youth Worker, who is required to undertake some administrative responsibility, including:
+
+- **A.** A Youth Worker who is required to take charge of an agency or department, with a staff of up to three (3) Employees covered by the Agreement, or with a staff of at least one (1) Employee covered by the Agreement and other employees, totalling at least six (6) in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such agency or department;
+- **B.** A Sole Youth Worker who will have a minimum of twelve months' experience (although this condition may be waived by mutual agreement between the Employer and an Employee with less than twelve months' experience will instead be employed at class II);
+- **C.** A Youth Worker who is required to be responsible for a major activity or group of activities within an Agency or department; or
+- **D.** A Youth Worker who acts as a Deputy to a Youth Worker Class III.
+
+#### 4.4.5 Youth Worker IIA (2A)
+
+A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+
+#### 4.4.6 Youth Worker Class III (3)
+
+A Qualified Youth Worker who is required to:
+
+- **A.** Take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other Employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
+- **B.** A Youth Worker who acts as a Deputy to a Youth Worker Class IV;
+- **C.** A Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 3.4.7 of Part 3 of Schedule 5.
+
+#### 4.4.7 Youth Worker IIIA (3A)
+
+A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+
+#### 4.4.8 Youth Worker Class IV (4)
+
+A Qualified Youth Worker who is required to undertake senior administrative responsibilities including:
+
+- **A.** a Youth Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
+- **B.** any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under 3.4.6A of Part 3 of Schedule 5.
+
+#### 4.4.9 Overlapping Pay Points Between Classes
+
+See subclause 29.2.
+
+#### 4.4.10 Increments for Youth Workers
+
+For the purposes of clause 11 of this Section E of this Appendix 4, yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
+
+---
+
+## Part 5: Lived and Living Experience Worker (LLEW) Classification Structure
+
+### Introduction
+
+#### A.1 LLEW Workforce — Overview
+
+- **(a)** Lived and Living Experience Workers (LLEWs) assist consumers, their families and carers to be involved in their, or their family members' treatment, support and recovery planning and inform and enhance services responses by ensuring they are informed by the Lived and Living Experience perspective of consumers and their families, carers and supporters.
+- **(b)** Lived and Living Experience Workers have:
+    - **(i)** a Lived and Living Experience of mental health services, either as a service user or family member/carer; and
+    - **(ii)** the capacity to understand the intricacies of the mental health system; and
+    - **(iii)** the ability to support consumers and/or families/carers and present consumer and/or families/carers' perspectives to mental health services.
+- **(c)** Lived and Living Experience Workers are a non-clinical workforce, and do not undertake clinical duties rather complement the clinical work of clinical staff within a multi-disciplinary team. They use their lived/living experience in a number of capacities within the industry, that include, but are not limited to:
+    - **(i)** at the individual level — assisting consumers or their families to navigate various mental health services, provide hope and inspiration, develop and work towards recovery orientated and life goals, as well as understanding their rights and service options.
+    - **(ii)** at the systems level — to ensure that consumer and carer perspectives are embedded in all aspects of service planning and delivery, including policy, communication, training, community engagement and service improvement.
+- **(d)** Lived and Living Experience Workers at all levels utilise the specialist knowledge derived from their direct Lived and Living Experience as a consumer or family carer and may also have secondary qualifications and experience. It is not a requirement for LLEWs Employees at any grade to hold a formal qualification.
+- **(e)** For the purposes of this clause, "**Practice**" refers to the use of a person's lived/living experience to enable them to carry out their role as a member of the lived and living experience workforce(s).
+- **(f)** Lived and Living Experience work builds on a foundation of mutuality, where a connection and understanding are developed, which is used to support consumers, families and carers through their journey to hope and possibility. This is extremely highly skilled and specialised work, which requires ongoing training, support and supervision (both discipline-specific supervision and line management supervision). Additional provisions concerning discipline-specific supervision for LLEWs are contained in clause 142.
+- **(g)** Lived and Living Experience Workers are able to use their own experiences to inform policy change and service development, where consumer centred care is at the forefront of program design, research, workforce education and staffing.
+
+**A.2** Lived and Living Experience Workers will be employed in accordance with the following classification structure. For the avoidance of doubt, this classification structure does not include persons who volunteer as a Lived and Living Experience Worker, in relation to that work.
+
+**A.3** An Employer is not required to appoint to every role and level within the structure.
+
+**A.4** The implementation of this classification structure will not result in any LLEW employee having their classification downgraded, or suffering any detriment to their classification grade and/or rate of pay as it was immediately prior to the coming into force of this Agreement.
+
+---
+
+### B. Peer Cadet Program
+
+#### B.1 Cadet Programme — Overview
+
+- **(a)** The Peer Cadet Program is run in conjunction with the Department of Health and is only delivered in partnership with an authorised list of services. The following only relates to those services.
+- **(b)** The Employers agree to implement a Peer Cadet Program to persons with lived and living experience of mental health to increase the number of entry points into the Lived and Living Experience Workforce (LLEW) within the public mental health system, and provide a supportive and structured environment for learning.
+- **(c)** A **Peer Cadet** is person with lived and/or living experience who is currently undertaking the **Certificate IV in Mental Health Peer Work**.
+- **(d)** The Peer Cadet Program is an employment opportunity for people with lived and/or living experience undertaking the Certificate IV in Mental Health Peer Work, to enter paid employment across Victoria's public mental health services.
+- **(e)** The program offers a paid part-time cadetship of twelve (12) months duration.
+- **(f)** Peer Cadets will develop knowledge, skills, and confidence in a structured and supported environment. Throughout their employment cadets will receive supervision, training, and reflective practice opportunities that are discipline specific.
+
+#### B.2 Employment of Peer Cadets
+
+- **(a)** Peer Cadets will be employed on a fixed-term basis.
+- **(b)** All other terms and conditions of employment will be those applying to a LLEW Employee under this Agreement except where this clause explicitly says otherwise.
+- **(c)** Where a Peer Cadet is later employed in a mental health service on an ongoing basis, continuity of service as a LLEW Employee will include any period of service in the Peer Cadet Program, provided that any gap between employment as a Peer Cadet and as a LLEW Employee is less than twelve (12) months.
+
+---
+
+### C. LLEW Classification Streams
 
 Lived and Living Experience Worker roles will be classified in one of the following Classification Streams:
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+- **(a)** Practice
+- **(b)** Management
+- **(c)** Education
+- **(d)** Research
 
-        (a)       Practice
+---
 
-        (b)       Management
+## 1. LLEW Grade 1
 
-        (c)       Education
+### 1.1 LLEW Grade 1 — Definition
 
-        (d)       Research
+- **(a)** Grade 1 is an entry level position where people with lived/living experience can develop their knowledge and skill base, working in a multi-disciplinary team. Employees at this level will always work under the direct supervision of a more experienced LLEW at Grade 2 or above and/or clinical staff within the mental health service.
+- **(b)** All Grade 1 positions are contained within the Practice Stream.
+- **(c)** Regular discipline-specific supervision is required for LLEWs at this grade level.
+- **(d)** Grade 1 employees will automatically progress to Grade 2 after 12 months' experience in a LLEW role.
 
-1.  LLEW Grade 1
+### 1.2 LLEW Grade 1 — Features
 
-    1.1 LLEW Grade 1 – Definition
+A Grade 1 Employee can demonstrate most or all of the following features:
 
-        (a)       Grade 1 is an entry level position where people with lived/living experience can
-                  develop their knowledge and skill base, working in a multi-disciplinary team.
-                  Employees at this level will always work under the direct supervision of a more
-                  experienced LLEW at Grade 2 or above and/or clinical staff within the mental
-                  health service.
+**1.2(a) General**
 
-        (b)       All Grade 1 positions are contained within the Practice Stream.
+- **(i)** assist consumers and their families/carers to be aware of their rights and responsibilities
+- **(ii)** develop the ability to take a person-centred, recovery-oriented and collaborative approach to working alongside consumers, families/carers and supporters
+- **(iii)** assist with orientation of mental health service users
+- **(iv)** assist relevant staff to provide information to consumers and families/carers which is clear and accessible
+- **(v)** provide formal, practical support to consumers, including listening to consumer concerns, providing information about the public mental health system and assist consumers to access appropriate supports
+- **(vi)** have a developing knowledge of the impacts of mental illness on the consumer and/or their carers/families
+- **(vii)** develop an awareness of the impact of diversity and intersectionality on interpersonal relationships
 
-        (c)       Regular discipline-specific supervision is required for LLEWs at this grade level.
+**1.2(b) Communication**
 
-        (d)       Grade 1 employees will automatically progress to Grade 2 after 12 months’
-                  experience in a LLEW role.
+- **(i)** assist with communication of mental health service policies and processes to consumers and/or their families/carers
+- **(ii)** develop an awareness of consumer relationships and/or family/carer relationships
+- **(iii)** assist with communication of program matters to consumers
 
-    1.2 LLEW Grade 1 – Features
+**1.2(c) Judgement**
 
-    A Grade 1 Employee can demonstrate most or all of the following features:
+- **(i)** develop basic problem-solving skills to support the needs of consumers and/or their families/carers to achieve best consumer outcomes
+- **(ii)** judgement is confined to the application of established policies and processes to support consumers' and/or families/carers' needs in area of operation
+- **(iii)** awareness of scope of practice and when to engage the assistance of a more senior LLEW staff member and/or a clinical staff member
+- **(iv)** develop the ability to assist consumers and/or families/carers to take the lead in their own recovery
 
-        (a)        General
+**1.2(d) Knowledge and Expertise**
 
-                  (i)        assist consumers and their families/carers to be aware of their rights and
-                             responsibilities
+- **(i)** have Lived and Living Experience as a consumer and/or their family member, carer or supporter
+- **(ii)** work at all times with support of higher grade LLEW employee
+- **(iii)** contribute to the gathering of resources and information to support consumers and/or their families/carers
+- **(iv)** develop the ability to establish trusting relationships with consumers and/or their carers/families
+- **(v)** awareness of policies and processes in area of operation
+- **(vi)** awareness of applicable legislation in area of operation, including the *Mental Health and Wellbeing Act 2022* (Vic)
+- **(vii)** participate in clinical review processes and team activities
 
-                  (ii)       develop the ability to take a person-centred, recovery-oriented and
-                             collaborative approach to working alongside consumers, families/carers
-                             and supporters
+**1.2(e) Service Delivery**
 
-                  (iii)      assist with orientation of mental health service users
+- **(i)** assist with supporting consumers and/or their families/carers to self-advocate and be actively involved in decision-making
+- **(ii)** develop the ability to assist consumers and/or their families/carers to understanding their rights pursuant to the *Mental Health and Wellbeing Act 2022* (Vic)
+- **(iii)** develop an awareness of appropriate resources and services that are available to consumers and their carers/families to support service delivery
+- **(iv)** contribute effectively to the ongoing use of person-centred and recovery-oriented practice models
 
-                  (iv)        assist relevant staff to provide information to consumers and
-                             families/carers which is clear and accessible
+**1.2(f) Practice Skills**
 
-                  (v)        provide formal, practical support to consumers, including listening to
-                             consumer concerns, providing information about the public mental health
-                             system and assist consumers to access appropriate supports
+- **(i)** develop an understanding of the values of the program area and apply those values to achieve program objectives
+- **(ii)** promote an individual's rights-based approach to achieve best consumer outcomes
+- **(iii)** develop an ability to identify and prioritise emotional needs of consumers and/or their families/carers
+- **(iv)** participate in discipline-specific supervision
 
-                  (vi)       have a developing knowledge of the impacts of mental illness on the
-                             consumer and/or their carers/families
+**1.2(g) Policy and Programs**
 
-                  (vii)       develop an awareness of the impact of diversity and intersectionality on
-                             interpersonal relationships
+- **(i)** participate in program development for individual consumers and/or their families/carers in area of operation
+- **(ii)** convey learned experience to others in relation to program development
 
-        (b)        Communication
+### 1.3 LLEW Grade 1 — Typical Roles
 
-                  (i)        assist with communication of mental health service policies and
-                              processes to consumers and/or their families/carers
+**1.3(a) Consumer Peer Worker**
 
-                  (ii)       develop an awareness of consumer relationships and/or family/carer
-                             relationships
+- **(i)** The Consumer Peer Worker's understanding of the needs of consumers derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to consumers; to be involved in their treatment and recovery planning and to participate in providing education. The Consumer Peer Worker will support the consumer through their mental health service journey by providing individual support, education and group interventions aimed at facilitating recovery principles of hope, choice, self-determination and social connectedness.
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+**1.3(b) Family Carer Peer Worker**
 
-             (iii)    assist with communication of program matters to consumers
+- **(i)** The Family Carer Peer Worker's understanding of the needs of families, carers and supporters derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to families, carers and supporters in navigating services and being involved in the treatment and recovery planning of the consumer through their mental health service journey. The Family Carer Peer Worker supports families, carers and supporters by providing education, information, linkages and referrals and by promoting self-advocacy and relational recovery.
 
-      (c)     Judgement
+---
 
-             (i)     develop basic problem-solving skills to support the needs of consumers
-                      and/or their families/carers to achieve best consumer outcomes
+## 2. LLEW Grade 2
 
-             (ii)     judgement is confined to the application of established policies and
-                      processes to support consumers’ and/or families/carers’ needs in area of
-                      operation
+### 2.1 LLEW Grade 2 — Definition
 
-             (iii)    awareness of scope of practice and when to engage the assistance of a
-                      more senior LLEW staff member and/or a clinical staff member
+- **(a)** Grade 2 is the primary practice level for early career Consumer and Family Carer Peer Workers.
+- **(b)** Employees at this level can practice without direct supervision from a more senior LLEW employee, provided that they have access to support from a more senior LLEW employee. They understand the policies and processes in the area that they operate. They prioritise their own work and use their experience to make decisions. Grade 2 Employees may guide, orientate and mentor Grade 1 Employees.
+- **(c)** All Grade 2 roles are contained within the Practice Stream.
+- **(d)** Regular discipline-specific supervision is required for LLEWs at this grade level.
+- **(e)** An Employee with a Certificate IV in Mental Health Peer Work (or equivalent qualification) or at least 12 months' prior experience in a LLEW role will be classified no lower than Grade 2.
+- **(f)** Where an Employee is classified at Grade 2 in accordance with subclause 2.1(e), but is not yet practicing at a Grade 2 level, they will be provided with direct supervision and additional support for such time as the Employer considers appropriate.
 
-             (iv)      develop the ability to assist consumers and/or families/carers to take the
-                      lead in their own recovery
+### 2.2 LLEW Grade 2 — Features
 
-      (d)     Knowledge and expertise
+In addition to those at Grade 1, a Grade 2 Employee can demonstrate most or all of the following features:
 
-             (i)     have Lived and Living Experience as a consumer and/or their family
-                      member, carer or supporter
+**2.2(a) General**
 
-             (ii)     work at all times with support of higher grade LLEW employee
+- **(i)** work alongside the consumer and/or provide information and support directly to the family/carer support network of a consumer
+- **(ii)** prioritise their own work
+- **(iii)** use Lived and Living Experience to support consumers and carers/families in decision-making regarding service options
+- **(iv)** provide orientation to mental health service users
+- **(v)** assist other staff to provide information to consumers which is clear and accessible
+- **(vi)** promote an individual's rights-based approach to achieve person-centred recovery
+- **(vii)** provide role-modelling of alternative strategies and engagement styles to staff
+- **(viii)** participate in broader planning regarding an individuals' care needs either from the perspective of the consumer and/or their families/carers, alongside other clinicians and professionals managing the consumer's needs
+- **(ix)** apply an awareness of the impact of diversity and intersectionality on interpersonal relationships to their work
 
-             (iii)    contribute to the gathering of resources and information to support
-                      consumers and/or their families/carers
+**2.2(b) Communication**
 
-             (iv)     develop the ability to establish trusting relationships with consumers
-                      and/or their carers/families
+- **(i)** liaise with internal and external stakeholders
+- **(ii)** advocate for and support self-advocacy of consumers and/or their support groups including families/carers to internal and external stakeholders
+- **(iii)** understand complex consumer relationships and/or family/carer relationships and effectively communicate this within area of operation
+- **(iv)** communicate and advance alternative views within the workplace
 
-             (v)      awareness of policies and processes in area of operation
+**2.2(c) Judgement**
 
-             (vi)     awareness of applicable legislation in area of operation, including the
-                      Mental Health and Wellbeing Act 2022 (Vic)
+- **(i)** exercise competent problem-solving skills to support the needs of consumers and/or their families/carers to achieve best consumer outcomes
+- **(ii)** exercise some autonomy in decision-making within scope of practice
+- **(iii)** exercise judgement in the application of policy and programs within area of operation
+- **(iv)** assist consumers and/or families/carers to take the lead in their own recovery
 
-             (vii)     participate in clinical review processes and team activities
+**2.2(d) Knowledge and Expertise**
 
-      (e)     Service delivery
+- **(i)** use Lived and Living Experience as a consumer, family member or carer to contribute knowledge and experience to program and policy development in area of operation
+- **(ii)** collate information to help create and guide personalised recovery plans
+- **(iii)** understand policies and procedures in area of operation
+- **(iv)** interpret and apply policy to area of responsibility
+- **(v)** collect and organise relevant information to apply to consumer issues
+- **(vi)** knowledge of applicable legislation in area of operation, including the *Mental Health and Wellbeing Act 2022* (Vic)
+- **(vii)** contribute effectively to clinical review processes and team activities
 
-             (i)     assist with supporting consumers and/or their families/carers to self-
-                      advocate and be actively involved in decision-making
+**2.2(e) Service Delivery**
 
-             (ii)     develop the ability to assist consumers and/or their families/carers to
-                      understanding their rights pursuant to the Mental Health and Wellbeing
-                      Act 2022 (Vic)
+- **(i)** plan access to programs with consumers and/or their carers/families
+- **(ii)** develop the ability to synthesise learned experiences to advance service delivery outcomes
+- **(iii)** contribute ideas to internal stakeholders regarding the development of service delivery models
+- **(iv)** share knowledge and experience with internal stakeholders to contribute to consumer service delivery needs
+- **(v)** understand and advance alternative treatment options to consumers and/or their families/carers within a mental health service
+- **(vi)** participate in collegiate discussion regarding service delivery options
 
-             (iii)    develop an awareness of appropriate resources and services that are
-                      available to consumers and their carers/families to support service
-                      delivery
+**2.2(f) Practice Skills**
 
-             (iv)     contribute effectively to the ongoing use of person-centred and recovery-
-                      oriented practice models
+- **(i)** understand the values of the program area and apply those values to achieve program objectives
+- **(ii)** discuss policy and programs options and carers/families
+- **(iii)** work with consumers to support self-determination and capacity building
+- **(iv)** identify and prioritise emotional needs of consumers and/or their families/carers
+- **(v)** ability to navigate complex interpersonal relationships with consumers and/or their families/carers
 
-      (f)    Practice skills
+**2.2(g) Policy and Programs**
 
-             (i)     develop an understanding of the values of the program area and apply
-                      those values to achieve program objectives
+- **(i)** contribute to program development for consumers and/or their families/carers in area of operation
+- **(ii)** identify gaps in policy and contribute to policy change within area of operation
 
-             (ii)     promote an individual’s rights-based approach to achieve best consumer
-                      outcomes
+### 2.3 LLEW Grade 2 — Typical Roles
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+*Practice*
 
-                  (iii)    develop an ability to identify and prioritise emotional needs of consumers
-                           and/or their families/carers
+**2.3(a) Consumer Peer Worker (Primary Practice Level)**
 
-                  (iv)      participate in discipline-specific supervision
+- **(i)** The Consumer Peer Worker's understanding of the needs of consumers derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to consumers; to be involved in their treatment and recovery planning and to participate in providing education. The Consumer Peer Worker will support the consumer through their mental health service journey by providing individual support, education and group interventions aimed at facilitating recovery principles of hope, choice, self-determination and social connectedness.
+- **(ii)** The Consumer Peer Worker at this grade level practises at a higher level to that described at Grade 1 in the support they provide to consumers, drawing from their own personal experiences as a consumer. Grade 2 Consumer Peer Workers can demonstrate their ability to support consumers in a wide range of situations, even outside their own personal Lived and Living Experience.
 
-        (g)        Policy and programs
+**2.3(b) Family Carer Peer Worker (Primary Practice Level)**
 
-                  (i)      participate in program development for individual consumers and/or their
-                           families/carers in area of operation
+- **(i)** The Family Carer Peer Worker's understanding of the needs of families, carers and supporters derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to families, carers and supporters in navigating services and being involved in the treatment and recovery planning of the consumer through their mental health service journey. The Family Carer Peer Worker supports families, carers and supporters by providing education, information, linkages and referrals and by promoting self-advocacy and relational recovery.
 
-                  (ii)     convey learned experience to others in relation to program development
+---
 
-      1.3 LLEW Grade 1 – Typical Roles
+## 3. LLEW Grade 3
 
-        (a)        Consumer Peer Worker
+### 3.1 LLEW Grade 3 — Definition
 
-                  (i)      The Consumer Peer Worker’s understanding of the needs of consumers
-                            derives primarily from their Lived and Living Experience and
-                            compliments the professional knowledge and skills of the multi-
-                            disciplinary team. The purpose of the position is to provide peer support
-                            to consumers; to be involved in their treatment and recovery planning
-                            and to participate in providing education. The Consumer Peer Worker will
-                            support the consumer through their mental health service journey by
-                            providing individual support, education and group interventions aimed at
-                            facilitating recovery principles of hope, choice, self-determination and
-                            social connectedness.
+- **(a)** Grade 3 is the advanced practice level for Consumer and Family Carer Peer Workers.
+- **(b)** Employees at this grade level practice independently. They have a sound understanding of the policies and processes in the area that they operate. They prioritise their own work and use their experience to make decisions. Grade 3 Employees guide, orientate and mentor LLEW Employees at lower grade levels.
+- **(c)** All Grade 3 roles are contained within the Practice Stream.
+- **(d)** Regular discipline-specific supervision will be offered to LLEWs at this grade level.
+- **(e)** Grade 3 is the minimum grade level for a LLEW working in a community team/setting or Emergency Department.
 
-        (b)        Family Carer Peer Worker
+### 3.2 LLEW Grade 3 — Features
 
-                  (i)      The Family Carer Peer Worker’s understanding of the needs of families,
-                            carers and supporters derives primarily from their Lived and Living
-                            Experience and compliments the professional knowledge and skills of
-                            the multi-disciplinary team. The purpose of the position is to provide peer
-                            support to families, carers and supporters in navigating services and
-                            being involved in the treatment and recovery planning of the consumer
-                            through their mental health service journey. The Family Carer Peer
-                            Worker supports families, carers and supporters by providing education,
-                            information, linkages and referrals and by promoting self-advocacy and
-                            relational recovery.
+In addition to those at Grades 1 and 2, a Grade 3 Employee can demonstrate most or all of the following features:
 
-1.  LLEW Grade 2
+**3.2(a) General**
 
-    2.1 LLEW Grade 2 – Definition
+- **(i)** provide information to consumers which is clear and accessible
+- **(ii)** assist in development of skills and knowledge that is transferrable across various service delivery settings
+- **(iii)** practice independently
+- **(iv)** advise and participate in program and policy development with senior internal staff and management and liaise with and provide advice to external stakeholders
 
-        (a)       Grade 2 is the primary practice level for early career Consumer and Family Carer
-                  Peer Workers.
+**3.2(b) Communication**
 
-        (b)       Employees at this level can practice without direct supervision from a more senior
-                  LLEW employee, provided that they have access to support from a more senior
-                  LLEW employee. They understand the policies and processes in the area that they
-                  operate. They prioritise their own work and use their experience to make
-                  decisions. Grade 2 Employees may guide, orientate and mentor Grade 1
-                  Employees.
+- **(i)** advise and/or negotiate with internal and external stakeholders
+- **(ii)** is relied on by others to provide communication guidance in area of operation
+- **(iii)** use a broad range of verbal and written communication skills to support improved service planning, service delivery and evaluation
 
-        (c)       All Grade 2 roles are contained within the Practice Stream.
+**3.2(c) Judgement**
 
-        (d)       Regular discipline-specific supervision is required for LLEWs at this grade level.
+- **(i)** exercise advanced problem-solving skills to support the complex needs of consumers and/or their families/carers to achieve best consumer outcomes
+- **(ii)** exercise autonomy in decision-making
+- **(iii)** exercise judgement in the application of policy and programs within the mental health service
+- **(iv)** focal point for other LLEW Employees as to problem-solving complex individual consumer and/or family/carer needs
+- **(v)** relied on by others for advice and decision-making
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+**3.2(d) Knowledge and Expertise**
 
-      (e)      An Employee with a Certificate IV in Mental Health Peer Work (or equivalent
-               qualification) or at least 12 months’ prior experience in a LLEW role will be
-               classified no lower than Grade 2.
+- **(i)** use Lived and Living Experience as a consumer, family member or carer to contribute knowledge and experience to program and policy development in service delivery setting
+- **(ii)** advanced knowledge of applicable legislation in area of operation, including the *Mental Health and Wellbeing Act 2022* (Vic)
+- **(iii)** ability to apply relevant legislation in practice
+- **(iv)** understand policies and procedures in area of operation and in other areas of mental health service
+- **(v)** develop and advocate for policy and program change
+- **(vi)** develop knowledge and expertise in specialist area of operation
 
-      (f)      Where an Employee is classified at Grade 2 in accordance with subclause 2.1(e),
-               but is not yet practicing at a Grade 2 level, they will be provided with direct
-               supervision and additional support for such time as the Employer considers
-               appropriate.
+**3.2(e) Service Delivery**
 
-      2.2 LLEW Grade 2 – Features
+- **(i)** participate in developing service delivery strategy selection with consumers and/or their families/carers
+- **(ii)** synthesise learned experiences to advance service delivery outcomes
+- **(iii)** advise internal and external stakeholders on program service delivery requirements
+- **(iv)** contribute ideas to internal and external stakeholders regarding the development of service delivery models
+- **(v)** relied on by others for guidance about service delivery models
+- **(vi)** assist a LLEW manager with program budget including governance and auditing requirements
 
-     In addition to those at Grade 1, a Grade 2 Employee can demonstrate most or all of the
-     following features:
+**3.2(f) Practice Skills**
 
-      (a)       General
+- **(i)** relied on by others for guidance about best practice
+- **(ii)** practice in a specialist area of operation
 
-               (i)      work alongside the consumer and/or provide information and support
-                         directly to the family/carer support network of a consumer
+**3.2(g) Policy and Programs**
 
-               (ii)       prioritise their own work
+- **(i)** advise on the development of policy and programs
+- **(ii)** understand gaps in policy and advocate for policy change within area of operation
+- **(iii)** work alongside consumers with their families/carers and together with clinicians and other mental health service staff
+- **(iv)** develop the ability to contribute to systemic policy change within the mental health system
+- **(v)** authoritative in policy and program development, implementation and evaluation
+- **(vi)** relied on by internal and external stakeholders to respond to initiatives in policy area
 
-               (iii)      use Lived and Living Experience to support consumers and
-                          carers/families in decision-making regarding service options
+### 3.3 LLEW Grade 3 — Typical Roles
 
-               (iv)       provide orientation to mental health service users
+*Practice*
 
-               (v)        assist other staff to provide information to consumers which is clear and
-                          accessible
+**3.3(a) Senior Consumer Peer Worker**
 
-               (vi)       promote an individual’s rights-based approach to achieve person-centred
-                          recovery
+- **(i)** The Consumer Peer Worker's understanding of the needs of consumers derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to consumers; to be involved in their treatment and recovery planning and to participate in providing education. The Consumer Peer Worker will support the consumer through their mental health service journey by providing individual support, education and group interventions aimed at facilitating recovery principles of hope, choice, self-determination and social connectedness.
+- **(ii)** The Senior Consumer Peer Worker practices at a higher level to that described at Grade 2 in the support they provide to consumers, and may be engaged to perform work in a specialist area (i.e. family violence, women's recovery, AOD, eating disorders etc.).
 
-               (vii)      provide role-modelling of alternative strategies and engagement styles to
-                          staff
+**3.3(b) Senior Family and Carer Peer Worker**
 
-               (viii)      participate in broader planning regarding an individuals’ care needs
-                          either from the perspective of the consumer and/or their families/carers,
-                          alongside other clinicians and professionals managing the consumer’s
-                          needs
+- **(i)** The Family Carer Peer Worker's understanding of the needs of families, carers and supporters derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to families, carers and supporters in navigating services and being involved in the treatment and recovery planning of the consumer through their mental health service journey. The Family Carer Peer Worker supports families, carers and supporters by providing education, information, linkages and referrals and by promoting self-advocacy and relational recovery.
+- **(ii)** The Senior Family Carer Peer Worker practices at a higher level to that described at Grade 2 in the support they provide to families and carers, and may be engaged to perform work in a specialist area (i.e. family violence, women's recovery, AOD, eating disorders etc.).
 
-               (ix)       apply an awareness of the impact of diversity and intersectionality on
-                          interpersonal relationships to their work
+**3.3(c) LLEW Shift Leader**
 
-      (b)       Communication
+- **(i)** The LLEW Shift Leader is appointed to supervise a team of LLEW employees on a shift-by-shift basis.
 
-               (i)        liaise with internal and external stakeholders
+---
 
-               (ii)       advocate for and support self-advocacy of consumers and/or their
-                          support groups including families/carers to internal and external
-                          stakeholders
+## 4. LLEW Grade 4
 
-               (iii)      understand complex consumer relationships and/or family/carer
-                          relationships and effectively communicate this within area of operation
+### 4.1 LLEW Grade 4 — Definition
 
-               (iv)       communicate and advance alternative views within the workplace
+- **(a)** Grade 4 is the entry practice level for LLEWs who operate at the systems level (Consumer Consultants and Family Carer Consultants) and the highest direct practice level for Consumer and Family Carer Peer Workers.
+- **(b)** Employees at this level practice independently. They have a sound understanding of the policies and processes applicable to them within the mental health service. They prioritise their own work and use their experience to make decisions.
+- **(c)** Grade 4 Employees have prior knowledge and experience as Lived and Living Experience Workers within the mental health system and supervise and mentor Employees at lower grade levels (including Peer Cadets).
 
-      (c)       Judgement
+### 4.2 LLEW Grade 4 — Typical Roles
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+*Practice*
 
-             (i)     exercise competent problem-solving skills to support the needs of
-                      consumers and/or their families/carers to achieve best consumer
-                      outcomes
+**4.2(a) LLEW Supervisor/Coordinator**
 
-             (iv)     exercise some autonomy in decision-making within scope of practice
+The LLEW Supervisor/Coordinator has extensive practice experience as a LLEW and supervises Grade 1, Grade 2, and Grade 3 LLEW employees. The Supervisor/Coordinator role is primarily focused on the supervision of the LLEW workforce and maintaining the highest level of practice standards. The supervision they provide may be discipline-specific supervision in accordance with clause 142 and/or line management supervision. The role may assist in review processes and have occasional direct consumer and/or carer/family contact.
 
-             (iii)    exercise judgement in the application of policy and programs within area
-                      of operation
+**4.2(b) Consumer Consultant (Entry Level)**
 
-             (iv)     assist consumers and/or families/carers to take the lead in their own
-                      recovery
+The focus of the Consumer Consultants' work is to assist consumers to be involved in their treatment, support and recovery planning and inform and enhance services responses to quality improvement initiatives and frameworks.
 
-      (d)    Knowledge and Expertise
+**4.2(c) Family Carer Consultant (Entry Level)**
 
-             (i)     use Lived and Living Experience as a consumer, family member or carer
-                      to contribute knowledge and experience to program and policy
-                      development in area of operation
+The focus of the Family Carer Consultants' work is to assist families and carers to provide assistance and support to carer/families to be involved in their treatment, support, recovery planning and clinical decisions of the person they support.
 
-             (ii)     collate information to help create and guide personalised recovery plans
+---
 
-             (iii)    understand policies and procedures in area of operation
+## 5. LLEW Grade 5
 
-             (iv)     interpret and apply policy to area of responsibility
+### 5.1 LLEW Grade 5 — Definition
 
-             (v)      collect and organise relevant information to apply to consumer issues
+This is the most senior level within the Practice Stream.
 
-             (vi)     knowledge of applicable legislation in area of operation, including the
-                      Mental Health and Wellbeing Act 2022 (Vic)
+- **(a)** A Grade 5 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system and supervise and mentor Employees at lower grade levels (including Peer Cadets). The supervision they provide may be discipline-specific supervision in accordance with clause 142 and/or line management supervision.
+- **(b)** A LLEW who is the sole Consumer Consultant or Family Carer (howsoever titled) within a mental health service will be engaged at Grade 5.
 
-             (vii)     contribute effectively to clinical review processes and team activities
+### 5.2 LLEW Grade 5 — Typical Roles
 
-      (e)    Service Delivery
+*Practice*
 
-             (i)      plan access to programs with consumers and/or their carers/families
+**5.2(a) Senior Consumer Consultant**
 
-             (ii)     develop the ability to synthesise learned experiences to advance service
-                      delivery outcomes
+- **(i)** The focus of the Consumer Consultants' work is to assist consumers to be involved in their treatment, support and recovery planning and inform and enhance services responses to quality improvement initiatives and frameworks.
+- **(ii)** The Senior Consumer Consultant at Grade 5 practises at a higher level to that described at Grade 4.
 
-             (iii)     contribute ideas to internal stakeholders regarding the development of
-                       service delivery models
+**5.2(b) Senior Family Carer Consultant**
 
-             (iv)       share knowledge and experience with internal stakeholders to contribute
-                       to consumer service delivery needs
+- **(i)** The focus of the Family Carer Consultants' work is to assist families and carers to provide assistance and support to carer/families to be involved in their treatment, support, recovery planning and clinical decisions of the person they support.
+- **(ii)** The Senior Family Carer Consultant at Grade 5 practises at a higher level to that described at Grade 4.
 
-             (v)      understand and advance alternative treatment options to consumers
-                      and/or their families/carers within a mental health service
+*Management*
 
-             (vi)      participate in collegiate discussion regarding service delivery options
+**5.2(c) LLEW Manager (Grade 5)**
 
-      (f)    Practice skills
+- **(i)** A LLEW Manager is appointed to manage a small team of LLEW employees. The Manager is likely to be responsible for recruitment/selection processes and the management of a budget.
 
-             (i)      understand the values of the program area and apply those values to
-                       achieve program objectives
+*Education*
 
-             (ii)     discuss policy and programs options and carers/families
+**5.2(d) LLEW Consumer Educator**
 
-             (iii)     work with consumers to support self-determination and capacity building
+- **(i)** A LLEW Consumer Educator is appointed to develop and provide training and education to LLEW employees on topics relevant to Consumer Peer Work. The Educator also ensures that consumer perspectives are included in all aspects of the education and training provided within the mental health service.
 
-             (iv)       identify and prioritise emotional needs of consumers and/or their
-                       families/carers
+**5.2(e) LLEW Family Carer Educator**
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+- **(i)** A LLEW Family Carer Educator is appointed to develop and provide training and education to LLEW employees on topics relevant to Family Carer Peer Work. The Educator also ensures that family/carer perspectives are included in all aspects of the education and training provided within the mental health service.
 
-                  (v)      ability to navigate complex interpersonal relationships with consumers
-                           and/or their families/carers
+*Research*
 
-        (g)        Policy and Programs
+**5.2(f) LLEW Researcher**
 
-                  (i)      contribute to program development for consumers and/or their
-                            families/carers in area of operation
+- **(i)** A LLEW Researcher is appointed to lead research approved by the Health Services Ethics committee.
 
-                  (ii)     identify gaps in policy and contribute to policy change within area of
-                           operation
+---
 
-      2.3 LLEW Grade 2 – Typical Roles
+## 6. LLEW Grade 6
 
-              Practice
+### 6.1 LLEW Grade 6 — Definition
 
-        (a)       Consumer Peer Worker (Primary Practice Level)
+- **(a)** A Grade 6 Employee is an employee appointed to one of the below roles.
+- **(b)** A Grade 6 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system.
 
-                  (i)      The Consumer Peer Worker’s understanding of the needs of consumers
-                            derives primarily from their Lived and Living Experience and
-                            compliments the professional knowledge and skills of the multi-
-                            disciplinary team. The purpose of the position is to provide peer support
-                            to consumers; to be involved in their treatment and recovery planning
-                            and to participate in providing education. The Consumer Peer Worker will
-                            support the consumer through their mental health service journey by
-                            providing individual support, education and group interventions aimed at
-                            facilitating recovery principles of hope, choice, self-determination and
-                            social connectedness.
+### 6.2 LLEW Grade 6 — Typical Roles
 
-                  (ii)     The Consumer Peer Worker at this grade level practises at a higher level
-                           to that described at Grade 1 in the support they provide to consumers,
-                           drawing from their own personal experiences as a consumer. Grade 2
-                           Consumer Peer Workers can demonstrate their ability to support
-                           consumers in a wide range of situations, even outside their own personal
-                           Lived and Living Experience.
+*Management*
 
-        (b)       Family Carer Peer Worker (Primary Practice Level)
+**6.2(a) LLEW Manager (Grade 6)**
 
-                  (i)      The Family Carer Peer Worker’s understanding of the needs of families,
-                            carers and supporters derives primarily from their Lived and Living
-                            Experience and compliments the professional knowledge and skills of
-                            the multi-disciplinary team. The purpose of the position is to provide peer
-                            support to families, carers and supporters in navigating services and
-                            being involved in the treatment and recovery planning of the consumer
-                            through their mental health service journey. The Family Carer Peer
-                            Worker supports families, carers and supporters by providing education,
-                            information, linkages and referrals and by promoting self-advocacy and
-                            relational recovery.
+- **(i)** A LLEW Manager is appointed to manage a team of Lived and Living Experience Workers. The Manager is likely to be responsible for recruitment/selection processes and the management of a budget. A Grade 6 Manager may be in charge of a larger number of LLEW employees than a Grade 5 Manager.
 
-1.  LLEW Grade 3
+*Education*
 
-    3.1 LLEW Grade 3 – Definition
+**6.2(b) LLEW Education Manager**
 
-        (a)       Grade 3 is the advanced practice level for Consumer and Family Carer Peer
-                  Workers.
+A LLEW Education Manager is appointed to manage the Education function of the LLEW Workforce within the mental health workforce of the health service.
 
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
+*Research*
 
-      (b)      Employees at this grade level practice independently. They have a sound
-               understanding of the policies and processes in the area that they operate. They
-               prioritise their own work and use their experience to make decisions. Grade 3
-               Employees guide, orientate and mentor LLEW Employees at lower grade levels.
+**6.2(c) LLEW Research Manager**
 
-      (c)      All Grade 3 roles are contained within the Practice Stream.
+- **(i)** A LLEW Research Manager is appointed to manage the Research function of the LLEW Workforce within the mental health workforce of the health service.
 
-      (d)      Regular discipline-specific supervision will be offered to LLEWs at this grade level.
+---
 
-      (e)      Grade 3 is the minimum grade level for a LLEW working in a community team/
-               setting or Emergency Department.
-     3.2 LLEW Grade 3 – Features
+## 7. LLEW Grade 7
 
-     In addition to those at Grades 1 and 2, a Grade 3 Employee can demonstrate most or all of
-     the following features:
-      (a)       General
+### 7.1 LLEW Grade 7 — LLEW Deputy Director
 
-               (i)      provide information to consumers which is clear and accessible
+- **(a)** A LLEW Deputy Director is appointed within the Executive to support the LLEW Director to provide strategic/operational leadership and overall management of the LLEW Workforce within a mental health service.
+- **(b)** A Grade 7 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system.
 
-               (ii)       assist in development of skills and knowledge that is transferrable across
-                          various service deliver settings
+---
 
-               (iii)      practice independently
+## 8. LLEW Grade 8
 
-               (iv)        advise and participate in program and policy development with senior
-                          internal staff and management and liaise with and provide advice to
-                          external stakeholders
+### 8.1 LLEW Grade 8 — LLEW Director
 
-     (b)       Communication
-
-               (i)      advise and/or negotiate with internal and external stakeholders
-
-               (ii)       is relied on by others to provide communication guidance in area of
-                          operation
-
-               (iii)       use a broad range of verbal and written communication skills to support
-                          improved service planning, service delivery and evaluation
-
-      (c)       Judgement
-
-               (i)      exercise advanced problem-solving skills to support the complex needs of
-                         consumers and/or their families/carers to achieve best consumer
-                         outcomes
-
-               (ii)       exercise autonomy in decision-making
-
-               (iii)      exercise judgement in the application of policy and programs within the
-                          mental health service
-
-               (iv)        focal point for other LLEW Employees as to problem-solving complex
-                          individual consumer and/or family/carer needs
-
-               (v)        relied on by others for advice and decision-making
-
-      (d)       Knowledge and Expertise
-
-               (i)      use Lived and Living Experience as a consumer, family member or carer
-                         to contribute knowledge and experience to program and policy
-                         development in service delivery setting
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-              (ii)     advanced knowledge of applicable legislation in area of operation,
-                       including the Mental Health and Wellbeing Act 2022 (Vic)
-
-              (iii)     ability to apply relevant legislation in practice
-
-              (iv)     understand policies and procedures in area of operation and in other
-                       areas of mental health service
-
-              (v)      develop and advocate for policy and program change
-
-              (vi)      develop knowledge and expertise in specialist area of operation
-
-      (e)      Service Delivery
-
-              (i)      participate in developing service delivery strategy selection with
-                        consumers and/or their families/carers
-
-              (ii)     synthesise learned experiences to advance service delivery outcomes
-
-              (iii)    advise internal and external stakeholders on program service delivery
-                       requirements
-
-              (iv)     contribute ideas to internal and external stakeholders regarding the
-                       development of service delivery models
-
-              (v)      relied on by others for guidance about service delivery models
-
-              (vi)     assist a LLEW manager with program budget including governance and
-                       auditing requirements
-
-      (f)     Practice Skills
-
-              (i)      relied on by others for guidance about best practice
-
-              (ii)     practice in a specialist area of operation
-
-      (g)      Policy and Programs
-
-              (i)      advise on the development of policy and programs
-
-              (ii)     understand gaps in policy and advocate for policy change within area of
-                       operation
-
-              (iii)    work alongside consumers with their families/carers and together with
-                       clinicians and other mental health service staff
-
-              (iv)     develop the ability to contribute to systemic policy change within the
-                       mental health system
-
-              (v)      authoritative in policy and program development, implementation and
-                       evaluation
-
-              (vi)     relied on by internal and external stakeholders to respond to initiatives in
-                       policy area
-
-     3.3 LLEW Grade 3 – Typical Roles
-
-            Practice
-
-     (a)      Senior Consumer Peer Worker
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-                  (i)      The Consumer Peer Worker’s understanding of the needs of consumers
-                           derives primarily from their Lived and Living Experience and
-                           compliments the professional knowledge and skills of the multi-
-                           disciplinary team. The purpose of the position is to provide peer support
-                           to consumers; to be involved in their treatment and recovery planning
-                           and to participate in providing education. The Consumer Peer Worker will
-                           support the consumer through their mental health service journey by
-                           providing individual support, education and group interventions aimed at
-                           facilitating recovery principles of hope, choice, self-determination and
-                           social connectedness.
-
-                  (ii)     The Senior Consumer Peer Worker practices at a higher level to that
-                           described at Grade 2 in the support they provide to consumers, and may
-                           be engaged to perform work in a specialist area (i.e. family violence,
-                           women’s recovery, AOD, eating disorders etc.).
-
-      (b)         Senior Family and Carer Peer Worker
-
-                  (i)     The Family Carer Peer Worker’s understanding of the needs of families,
-                           carers and supporters derives primarily from their Lived and Living
-                           Experience and compliments the professional knowledge and skills of
-                           the multi-disciplinary team. The purpose of the position is to provide peer
-                           support to families, carers and supporters in navigating services and
-                           being involved in the treatment and recovery planning of the consumer
-                           through their mental health service journey. The Family Carer Peer
-                           Worker supports families, carers and supporters by providing education,
-                           information, linkages and referrals and by promoting self-advocacy and
-                           relational recovery.
-
-                  (ii)     The Senior Family Carer Peer Worker practices at a higher level to that
-                           described at Grade 2 in the support they provide to families and carers,
-                           and may be engaged to perform work in a specialist area (i.e. family
-                           violence, women’s recovery, AOD, eating disorders etc.).
-
-      (c) LLEW Shift Leader
-
-                  (i)     The LLEW Shift Leader is appointed to supervise a team of LLEW
-                           employees on a shift-by-shift basis.
-
-1.  LLEW Grade 4
-
-    4.1 LLEW Grade 4 – Definition
-
-        (a)       Grade 4 is the entry practice level for LLEWs who operate at the systems level
-                  (Consumer Consultants and Family Carer Consultants) and the highest direct
-                  practice level for Consumer and Family Carer Peer Workers.
-
-        (b)        Employees at this level practice independently. They have a sound understanding
-                  of the policies and processes applicable to them within the mental health service.
-                  They prioritise their own work and use their experience to make decisions.
-
-        (c)       Grade 4 Employees have prior knowledge and experience as Lived and Living
-                  Experience Workers within the mental health system and supervise and mentor
-                  Employees at lower grade levels (including Peer Cadets).
-
-    4.2 LLEW Grade 4 – Typical Roles
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-      Practice
-
-        (a)        LLEW Supervisor/Coordinator
-
-                  The LLEW Supervisor/Coordinator has extensive practice experience as a LLEW
-                  and supervises Grade 1; Grade 2; and Grade 3 LLEW employees. The
-                  Supervisor/Coordinator role is primarily focused on the supervision of the LLEW
-                  workforce and maintaining the highest level of practice standards. The supervision
-                  they provide may be discipline-specific supervision in accordance with clause 142
-                  and/or line management supervision. The role may assist in review processes and
-                  have occasional direct consumer and/or carer/family contact.
-
-        (b)        Consumer Consultant (Entry Level)
-
-                  The focus of the Consumer Consultants’ work is to assist consumers to be
-                  involved in their treatment, support and recovery planning and inform and enhance
-                  services responses to quality improvement initiatives and frameworks.
-
-        (c)        Family Carer Consultant (Entry Level)
-
-                  The focus of the Family Carer Consultants’ work is to assist families and carers to
-                  provide assistance and support to carer/families to be involved in their treatment,
-                  support, recovery planning and clinical decisions of the person they support.
-
-1.  LLEW Grade 5
-
-    5.1 LLEW Grade 5 – Definition
-
-    This is the most senior level within the Practice Stream.
-
-        (a)       A Grade 5 Employee will have extensive knowledge and experience as a Lived
-                  and Living Experience Worker within the mental health system and supervise and
-                  mentor Employees at lower grade levels (including Peer Cadets). The supervision
-                  they provide may be discipline-specific supervision in accordance with clause 142.
-                  and/or line management supervision.
-
-        (b)       A LLEW who is the sole Consumer Consultant or Family Carer (howsoever titled)
-                  within a mental health service will be engaged at Grade 5.
-
-        5.2 LLEW Grade 5 – Typical Roles
-
-              Practice
-
-        (a) Senior Consumer Consultant
-
-                  (i)     The focus of the Consumer Consultants’ work is to assist consumers to be
-                           involved in their treatment, support and recovery planning and inform
-                           and enhance services responses to quality improvement initiatives and
-                           frameworks.
-
-                  (ii)    The Senior Consumer Consultant at Grade 5 practises at a higher level to
-                           that described at Grade 4.
-
-        (b) Senior Family Carer Consultant
-
-                  (i)     The focus of the Family Carer Consultants’ work is to assist families and
-                           carers to provide assistance and support to carer/families to be involved
-                           in their treatment, support, recovery planning and clinical decisions of the
-                           person they support.
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-                  (ii)    The Senior Family Carer Consultant at Grade 5 practises at a higher level
-                           to that described at Grade 4.
-
-              Management
-
-        (a)       LLEW Manager (Grade 5)
-
-                  (i)      A LLEW Manager is appointed to manage a small team of LLEW
-                           employees. The Manager is likely to be responsible for
-                           recruitment/selection processes and the management of a budget.
-
-              Education
-
-        (a)       LLEW Consumer Educator
-
-                  (ii)    A LLEW Consumer Educator is appointed to develop and provide training
-                           and education to LLEW employees on topics relevant to Consumer Peer
-                           Work. The Educator also ensures that consumer perspectives are
-                           included in all aspects of the education and training provided within the
-                           mental health service.
-
-        (b)       LLEW Family Carer Educator
-
-                  (i)     A LLEW Family Carer Educator is appointed to develop and provide
-                           training and education to LLEW employees on topics relevant to Family
-                           Carer Peer Work. The Educator also ensures that family/carer
-                           perspectives are included in all aspects of the education and training
-                           provided within the mental health service.
-
-              Research
-
-        (d)       LLEW Researcher
-
-                  (ii)    A LLEW Researcher is appointed to lead research approved by the
-                           Health Services Ethics committee.
-
-1.  LLEW Grade 6
-
-    6.1 LLEW Grade 6 – Definition
-
-        (a)       A Grade 6 Employee is an employee appointed to one of the below roles.
-
-        (b)       A Grade 6 Employee will have extensive knowledge and experience as a Lived
-                  and Living Experience Worker within the mental health system.
-
-    6.2 LLEW Grade 6 – Typical Roles
-
-              Management
-
-        (a)       LLEW Manager (Grade 6)
-
-                  (i)     A LLEW Manager is appointed to manage a team of Lived and Living
-                           Experience Workers. The Manager is likely to be responsible for
-                           recruitment/selection processes and the management of a budget. A
-                           Grade 6 Manager may be in charge of a larger number of LLEW
-                           employees than a Grade 5 Manager.
-
-              Education
-
-        (b)       LLEW Education Manager
-
-SCHEDULE 5: CLASSIFICATION DEFINITIONS APPLYING TO HEALTH PROFESSIONALS
-
-                   A LLEW Education Manager is appointed to manage the Education function of
-                       the LLEW Workforce within the mental health workforce of the health service.
-
-              Research
-
-        (c)        LLEW Research Manager
-
-                  (i)     A LLEW Research Manager is appointed to manage the Research
-                          function of the LLEW Workforce within the mental health workforce of the
-                          health service.
-
-1.  LLEW Grade 7
-
-    7.1 LLEW Grade 7 – LLEW Deputy Director
-
-        (a)        A LLEW Deputy Director is appointed within the Executive to support the LLEW
-                  Director to provide strategic/operational leadership and overall management of the
-                  LLEW Workforce within a mental health service.
-
-        (b)        A Grade 7 Employee will have extensive knowledge and experience as a Lived
-                  and Living Experience Worker within the mental health system.
-
-2.  LLEW Grade 8
-
-    8.1 LLEW Grade 8 – LLEW Director
-
-        (a)        A LLEW Director is appointed within the Executive to provide strategic/operational
-                  leadership and overall management of the LLEW Workforce within a mental health
-                  service.
-
-    \(b\) A Grade 8 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system \`\`\`
-
-
+- **(a)** A LLEW Director is appointed within the Executive to provide strategic/operational leadership and overall management of the LLEW Workforce within a mental health service.
+- **(b)** A Grade 8 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system.
