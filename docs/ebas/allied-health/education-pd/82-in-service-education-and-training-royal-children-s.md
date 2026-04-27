@@ -1,5 +1,5 @@
 ---
-title: '82. In Service Education And Training Royal Children's Hospital and Royal Women’s Hospital
+title: '82. In Service Education And Training Royal Childrens Hospital and Royal Women’s Hospital
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']
 ---
