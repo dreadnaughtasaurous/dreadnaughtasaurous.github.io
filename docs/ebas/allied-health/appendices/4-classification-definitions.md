@@ -1,10 +1,10 @@
 ---
-title: 'Appendix 4 - Classification Definitions - Allied Health EBA'
+title: 'Appendix 4 - Classification Definitions: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'classifications']
 ---
 
-# Appendix 4 - Classification Definitions - Allied Health EBA
+# Appendix 4 - Classification Definitions: Allied Health EBA
 
 
 An Employer is not obliged to appoint to each Grade/Level/Class, subject to [subclause 89.5(c)](/ebas/allied-health/classification-staffing/89-supervision-and-management). However, where an Employee meets the requirements of the Grade/Level/Class, the Employer will classify them at that Grade/Level/Class (see [subclause 86.2](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) – Classification and Reclassification). 
@@ -45,47 +45,47 @@ In this classification structure, the following terms are defined as follows:
 
 **1.2** **AHP1 Classification/s** means the following professions:
 
-- (a) Art Therapist
-- (b) Cardiac Technologist (Cardiac Physiologist)
-- (c) Dental Prosthetist (from commencement of the Agreement)
-- (d) Exercise Physiologist
-- (e) Health Information Manager (Medical Records Administrator)
-- (f) Health Promotion Officer (Health Promotion Practitioner) (from commencement of the Agreement)
-- (g) Medical Imaging Technologist (Radiographer)
-- (h) Medical Librarian
-- (i) Music Therapist
-- (j) Nuclear Medicine Technologist
-- (k) Occupational Therapist
-- (l) Orthoptist
-- (m) Orthotist/Prosthetist
-- (n) Photographer or Illustrator (Medical Photographer or Illustrator)
-- (o) Physiotherapist
-- (p) Play Therapist (Child Life Therapist)
-- (q) Podiatrist
-- (r) Radiation Therapy Technologist (Radiation Therapist)
-- (s) Recreation Therapist
-- (t) Social Worker
-- (u) Sonographer; and
-- (v) Speech Pathologist
+- **(a)** Art Therapist
+- **(b)** Cardiac Technologist (Cardiac Physiologist)
+- **(c)** Dental Prosthetist (from commencement of the Agreement)
+- **(d)** Exercise Physiologist
+- **(e)** Health Information Manager (Medical Records Administrator)
+- **(f)** Health Promotion Officer (Health Promotion Practitioner) (from commencement of the Agreement)
+- **(g)** Medical Imaging Technologist (Radiographer)
+- **(h)** Medical Librarian
+- **(i)** Music Therapist
+- **(j)** Nuclear Medicine Technologist
+- **(k)** Occupational Therapist
+- **(l)** Orthoptist
+- **(m)** Orthotist/Prosthetist
+- **(n)** Photographer or Illustrator (Medical Photographer or Illustrator)
+- **(o)** Physiotherapist
+- **(p)** Play Therapist (Child Life Therapist)
+- **(q)** Podiatrist
+- **(r)** Radiation Therapy Technologist (Radiation Therapist)
+- **(s)** Recreation Therapist
+- **(t)** Social Worker
+- **(u)** Sonographer; and
+- **(v)** Speech Pathologist
 
 **1.3** **AHP2 Classification/s** means the following professions:
 
-- (a) Biomedical Technologist
-- (b) Child Psychotherapist
-- (c) Client Advisor/Rehabilitation Consultant
-- (d) Community Development Worker
-- (e) Dental Prosthetist (until commencement of the Agreement)
-- (f) Dental Technician
-- (g) Medical Laboratory Technician
-- (h) Medical Technician
-- (i) Renal Dialysis Technician (Clinical Renal Physiologist)
-- (j) Technical Officer
-- (k) Welfare Worker
-- (l) Youth Worker; and
-- (m) at the Peter MacCallum Cancer Institute only:
-  - (i) Mechanical Officer
-  - (ii) Radiation Engineer; and
-  - (iii) Research Technologist (Research Scientist)
+- **(a)** Biomedical Technologist
+- **(b)** Child Psychotherapist
+- **(c)** Client Advisor/Rehabilitation Consultant
+- **(d)** Community Development Worker
+- **(e)** Dental Prosthetist (until commencement of the Agreement)
+- **(f)** Dental Technician
+- **(g)** Medical Laboratory Technician
+- **(h)** Medical Technician
+- **(i)** Renal Dialysis Technician (Clinical Renal Physiologist)
+- **(j)** Technical Officer
+- **(k)** Welfare Worker
+- **(l)** Youth Worker; and
+- **(m)** at the Peter MacCallum Cancer Institute only:
+  - **(i)** Mechanical Officer
+  - **(ii)** Radiation Engineer; and
+  - **(iii)** Research Technologist (Research Scientist)
 
 **1.4** **Allied Health Manager** means an employee required to undertake responsibility for the organisation of the department and the supervision of staff and/or to manage a service wide program and who has responsibility for budgets, management of staff, clinical and service outcomes in the program, provision of professional leadership and guidance of staff. An Employee classified in an Allied Health Manager position may be responsible for a program across a number of sites or be responsible for a multi-disciplinary allied health professional structure across a number of sites or a large department/program for a single professional stream. Allied Health Managers must be Employees from an AHP1 Classification.
 
@@ -127,43 +127,35 @@ The AHP1 Classification Descriptors – General apply to all AHP1 Classification
 
 **3.1** A Grade 1 Employee is an employee who:
 
-- (a) has a relevant qualification for their profession and/or meets the entry requirements described at Schedule 1 of this Appendix 4;
-- (b) works on routine tasks within the scope of practice for their profession, consulting with a more experienced Employee when problems arise or when dealing with matters they are unfamiliar with; and
-- (c) is able to work with students.
+- **(a)** has a relevant qualification for their profession and/or meets the entry requirements described at Schedule 1 of this Appendix 4;
+- **(b)** works on routine tasks within the scope of practice for their profession, consulting with a more experienced Employee when problems arise or when dealing with matters they are unfamiliar with; and
+- **(c)** is able to work with students.
 
 **3.2** This will generally be the entry level for new graduates.
 
 **3.3** A Grade 1 Employee cannot:
 
-- (a) supervise students;
-- (b) Train students;
-- (c) work shifts that would attract the night shift allowance; and/or
-- (d) be on-call.
+- **(a)** supervise students;
+- **(b)** Train students;
+- **(c)** work shifts that would attract the night shift allowance; and/or
+- **(d)** be on-call.
 
 **3.4 AHP1 – Grade 1 to Grade 2 progression**
 
-**(a) Progression on anniversary – general**
-
-- (i) Except as provided at subclause 3.4(b) and 3.4(c) of this Appendix 4 Section B, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
-- (ii) An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
-
-**(b) Progression on anniversary – exception**
-
+- **(a) Progression on anniversary – general**
+  - **(i)** Except as provided at subclause 3.4(b) and 3.4(c) of this Appendix 4 Section B, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
+  - **(ii)** An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
+- **(b) Progression on anniversary – exception**
 An Employee as described at subclause 3.4(a) of this Appendix 4 Section B, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
-
-- (i) the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
-- (ii) an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
-
-**(c) Employee elects not to progress to Grade 2**
-
-- (i) An Employee may notify the Employer in writing that they do not wish to be reclassified to Grade 2.
-- (ii) Such an Employee may at a later time give written notice to the Employer that they elect to be reclassified to Grade 2 and, where they have been classified at Grade 1 Year 5 for at least 12 months, the Employer will immediately reclassify the Employee to Grade 2, subject to subclause 3.4(b) of this Appendix 4 Section B.
-- (iii) The Employer must not direct, propose or suggest to an Employee that they elect not to be reclassified to Grade 2.
-
-**(d) No requirement for vacancy**
-
-- (i) The movement of an Employee from Grade 1 to 2 does not rely on a vacancy or funding for the position but will be determined solely in accordance with this subclause 3.4 of this Appendix 4 Section B.
-- (ii) Notwithstanding the above, a Grade 1 may be reclassified as a Grade 2 by appointment or in accordance with clause 86 (Classification and Reclassification) prior to the anniversary date of their commencement in Grade 1, Year 5.
+  - **(i)** the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
+  - **(ii)** an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
+- **(c) Employee elects not to progress to Grade 2**
+  - **(i)** An Employee may notify the Employer in writing that they do not wish to be reclassified to Grade 2.
+  - **(ii)** Such an Employee may at a later time give written notice to the Employer that they elect to be reclassified to Grade 2 and, where they have been classified at Grade 1 Year 5 for at least 12 months, the Employer will immediately reclassify the Employee to Grade 2, subject to subclause 3.4(b) of this Appendix 4 Section B.
+  - **(iii)** The Employer must not direct, propose or suggest to an Employee that they elect not to be reclassified to Grade 2.
+- **(d) No requirement for vacancy**
+  - **(i)** The movement of an Employee from Grade 1 to 2 does not rely on a vacancy or funding for the position but will be determined solely in accordance with this subclause 3.4 of this Appendix 4 Section B.
+  - **(ii)** Notwithstanding the above, a Grade 1 may be reclassified as a Grade 2 by appointment or in accordance with clause 86 (Classification and Reclassification) prior to the anniversary date of their commencement in Grade 1, Year 5.
 
 ---
 
@@ -171,33 +163,29 @@ An Employee as described at subclause 3.4(a) of this Appendix 4 Section B, may h
 
 **4.1 Grade 2 – General Definition (does not apply to MIT)**
 
-**(a)** A Grade 2 Employee is an employee required to undertake additional duties/responsibilities to a Grade 1 Employee, for example:
-
-- (i) supervising and Training students;
-- (ii) working shifts that would attract the night shift allowance;
-- (iii) being on-call;
-- (iv) supervising staff including clinical supervision of Grade 1 Employees;
-- (v) performing work which requires special knowledge or depth of experience. In the case of Cardiac Technologists (Cardiac Physiologist), Medical Librarians, Orthotists/Prosthetists, Physiotherapists, Podiatrists and Social Workers examples of areas in which such work may be performed are listed in Schedule 2 of this Appendix 4;
-- (vi) being required to take charge of a section of a department;
-- (vii) holding an equivalent position at a smaller establishment such as a day hospital/centre, nursing home or community health centre;
-- (viii) in the case of Health Information Manager (Medical Records Administrator) being responsible for clinical trial/data management at recognised trials including national and international trials; and/or
-- (ix) in the case of Play Therapist, research/case studies, and/or client and group program supervision and/or evaluation.
-
-**(b)** A Grade 2 Employee also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section B subclause 3.4 above, meaning they will, if required, undertake the duties in Appendix 4 Section B subclause 4.1(a) including student supervision and Training, and work independently for the purposes of undertaking night shift and on-call duties.
+- **(a)** A Grade 2 Employee is an employee required to undertake additional duties/responsibilities to a Grade 1 Employee, for example:
+  - **(i)** supervising and Training students;
+  - **(ii)** working shifts that would attract the night shift allowance;
+  - **(iii)** being on-call;
+  - **(iv)** supervising staff including clinical supervision of Grade 1 Employees;
+  - **(v)** performing work which requires special knowledge or depth of experience. In the case of Cardiac Technologists (Cardiac Physiologist), Medical Librarians, Orthotists/Prosthetists, Physiotherapists, Podiatrists and Social Workers examples of areas in which such work may be performed are listed in Schedule 2 of this Appendix 4;
+  - **(vi)** being required to take charge of a section of a department;
+  - **(vii)** holding an equivalent position at a smaller establishment such as a day hospital/centre, nursing home or community health centre;
+  - **(viii)** in the case of Health Information Manager (Medical Records Administrator) being responsible for clinical trial/data management at recognised trials including national and international trials; and/or
+  - **(ix)** in the case of Play Therapist, research/case studies, and/or client and group program supervision and/or evaluation.
+- **(b)** A Grade 2 Employee also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section B subclause 3.4 above, meaning they will, if required, undertake the duties in Appendix 4 Section B subclause 4.1(a) including student supervision and Training, and work independently for the purposes of undertaking night shift and on-call duties.
 
 **4.2 Grade 2 – Medical Imaging Technologist (Radiographer)**
 
-**(a)** A Grade 2 Medical Imaging Technologist (Radiographer) is an employee who is required to undertake additional responsibilities and/or who has additional experience who demonstrates a degree of competence and ability to work independently and without supervision which reflects a level of continuing education and/or practical expertise. Parameters for this position would include one (1) or more of the following:
-
-- (i) supervising students;
-- (ii) working shifts that would attract the night shift allowance;
-- (iii) being on-call;
-- (iv) a Medical Imaging Technologist (Radiographer) who is required to supervise other medical imaging staff including clinical supervision of Grade 1 Employees, and Train medical imaging students;
-- (v) a Medical Imaging Technologist (Radiographer) who is required to supervise a section of a department;
-- (vi) holds an equivalent position at a smaller establishment such as a day hospital/centre, nursing home or community health centre; or
-- (vii) a Medical Imaging Technologist (Radiographer) who can demonstrate extensive or special knowledge, experience and competence in any of the specialist modalities or areas of additional responsibilities such as computed tomography (CT), digital subtraction angiography (DSA), cardiac angiography, mammography, magnetic resonance imaging (MRI), picture archiving and communication systems (PACS), radiology information system (RIS) or quality assurance activities.
-
-**(b)** A Grade 2 Medical Imaging Technologist (Radiographer) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section B subclause 3.4 above, meaning they will, if required, undertake the duties in Appendix 4 Section B subclause 4.2(a) including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
+- **(a)** A Grade 2 Medical Imaging Technologist (Radiographer) is an employee who is required to undertake additional responsibilities and/or who has additional experience who demonstrates a degree of competence and ability to work independently and without supervision which reflects a level of continuing education and/or practical expertise. Parameters for this position would include one (1) or more of the following:
+  - **(i)** supervising students;
+  - **(ii)** working shifts that would attract the night shift allowance;
+  - **(iii)** being on-call;
+  - **(iv)** a Medical Imaging Technologist (Radiographer) who is required to supervise other medical imaging staff including clinical supervision of Grade 1 Employees, and Train medical imaging students;
+  - **(v)** a Medical Imaging Technologist (Radiographer) who is required to supervise a section of a department;
+  - **(vi)** holds an equivalent position at a smaller establishment such as a day hospital/centre, nursing home or community health centre; or
+  - **(vii)** a Medical Imaging Technologist (Radiographer) who can demonstrate extensive or special knowledge, experience and competence in any of the specialist modalities or areas of additional responsibilities such as computed tomography (CT), digital subtraction angiography (DSA), cardiac angiography, mammography, magnetic resonance imaging (MRI), picture archiving and communication systems (PACS), radiology information system (RIS) or quality assurance activities.
+- **(b)** A Grade 2 Medical Imaging Technologist (Radiographer) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section B subclause 3.4 above, meaning they will, if required, undertake the duties in Appendix 4 Section B subclause 4.2(a) including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 
 **4.3 Grade 2 – General**
 
@@ -211,11 +199,11 @@ A Grade 2 Employee cannot Teach students.
 
 A Grade 3 Employee is an employee who:
 
-- (a) in addition to undertaking or having the ability to undertake the Grade 2 duties/responsibilities will:
-  - (i) normally have at least seven (7) years' experience in the relevant profession; and
-  - (ii) possesses specific knowledge in and works in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring high levels of specialist knowledge;
-- (b) is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this Appendix 4 who meets the requirements of subclause 5.4(b)(i), (ii), (iii) or (iv) of Section B of this Appendix 4; and/or
-- (c) teaches under-graduate students, post graduate students and/or interns, primarily in a clinical setting.
+- **(a)** in addition to undertaking or having the ability to undertake the Grade 2 duties/responsibilities will:
+  - **(i)** normally have at least seven (7) years' experience in the relevant profession; and
+  - **(ii)** possesses specific knowledge in and works in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring high levels of specialist knowledge;
+- **(b)** is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this Appendix 4 who meets the requirements of subclause 5.4(b)(i), (ii), (iii) or (iv) of Section B of this Appendix 4; and/or
+- **(c)** teaches under-graduate students, post graduate students and/or interns, primarily in a clinical setting.
 
 In the case of a Health Information Manager (Medical Records Administrator), examples of specialised knowledge are at Schedule 3.
 
@@ -225,71 +213,62 @@ In the case of a Health Information Manager (Medical Records Administrator), exa
 
 An Employee in a Grade 3 position performs duties within or across the following areas of expertise:
 
-- (a) Clinical;
-- (b) Managerial;
-- (c) Education; and/or
-- (d) Research.
+- **(a)** Clinical;
+- **(b)** Managerial;
+- **(c)** Education; and/or
+- **(d)** Research.
 
 **5.3 Clinical**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) working in a clinical area of their profession that requires high levels of specialist knowledge;
-- (ii) clinical supervision of Grade 1 and Grade 2 Employees;
-- (iii) management of quality improvement;
-- (iv) acting on expert advisory committees;
-- (v) providing specialist advice to other Employees or staff in their profession/discipline or other disciplines including secondary consultation; and/or
-- (vi) having an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 3 Employee as described at Schedule 4 of this Appendix 4.
-
-**(b)** A Grade 3 Employee whose duties are mostly within the Clinical area of expertise may be described as a Senior Clinician.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** working in a clinical area of their profession that requires high levels of specialist knowledge;
+  - **(ii)** clinical supervision of Grade 1 and Grade 2 Employees;
+  - **(iii)** management of quality improvement;
+  - **(iv)** acting on expert advisory committees;
+  - **(v)** providing specialist advice to other Employees or staff in their profession/discipline or other disciplines including secondary consultation; and/or
+  - **(vi)** having an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 3 Employee as described at Schedule 4 of this Appendix 4.
+- **(b)** A Grade 3 Employee whose duties are mostly within the Clinical area of expertise may be described as a Senior Clinician.
 
 **5.4 Managerial**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) administrative functions;
-- (ii) mentoring and/or managerial supervision of Employees;
-- (iii) advocating to more senior management on behalf of their team;
-- (iv) budget and/or human resource management; and/or
-- (v) being a manager of a team (discipline specific or multi-disciplinary) including in a community health setting or similar.
-
-**(b)** A Grade 3 Employee whose duties are mostly within the Managerial area of expertise may be an:
-
-- (i) other than for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 3 in charge of 1 to 14 Full-Time Employees and/or other staff not covered by this Agreement totalling 6 to 25 in number, save that:
-  - A. an Allied Health Manager Grade 3 in charge of 6 to 14 Full-Time Employees and/or other staff not covered by this Agreement totalling 15 to 25 in number will commence at the Grade 3 Year 4B rate of pay;
-- (ii) for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 3 in charge of 1 to 8 Full-Time Employees, save that:
-  - A. an Orthotist/Prosthetist Allied Health Manager Grade 3 in charge of 4 to 8 Full-Time Employees will commence at the Grade 3 Year 4B rate of pay;
-- (iii) other than for Medical Imaging Technologists (Radiographers), Assistant Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 3 required to assist and to deputise for an Allied Health Manager who is in charge of at least 6 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 15 in number;
-- (iv) for Medical Imaging Technologists (Radiographers), Assistant Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) required to assist and deputise for an Allied Health Manager who is in charge of 6 to 24 Full-Time Employees and/or other staff not covered by this Agreement totalling 15 to 27 in number, save that:
-  - A. a Medical Imaging Technologist Assistant Allied Health Manager required to assist and deputise for an Allied Health Manager who is in charge of 15 to 24 Full-Time Employees and/or other staff not covered by this Agreement totalling 26 to 27 in number will commence at the Grade 3 Year 4B rate of pay; or
-- (v) other Grade 3 managerial role.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** administrative functions;
+  - **(ii)** mentoring and/or managerial supervision of Employees;
+  - **(iii)** advocating to more senior management on behalf of their team;
+  - **(iv)** budget and/or human resource management; and/or
+  - **(v)** being a manager of a team (discipline specific or multi-disciplinary) including in a community health setting or similar.
+- **(b)** A Grade 3 Employee whose duties are mostly within the Managerial area of expertise may be an:
+  - **(i)** other than for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 3 in charge of 1 to 14 Full-Time Employees and/or other staff not covered by this Agreement totalling 6 to 25 in number, save that:
+    - A. an Allied Health Manager Grade 3 in charge of 6 to 14 Full-Time Employees and/or other staff not covered by this Agreement totalling 15 to 25 in number will commence at the Grade 3 Year 4B rate of pay;
+  - **(ii)** for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 3 in charge of 1 to 8 Full-Time Employees, save that:
+    - **A.** an Orthotist/Prosthetist Allied Health Manager Grade 3 in charge of 4 to 8 Full-Time Employees will commence at the Grade 3 Year 4B rate of pay;
+  - **(iii)** other than for Medical Imaging Technologists (Radiographers), Assistant Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 3 required to assist and to deputise for an Allied Health Manager who is in charge of at least 6 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 15 in number;
+  - **(iv)** for Medical Imaging Technologists (Radiographers), Assistant Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) required to assist and deputise for an Allied Health Manager who is in charge of 6 to 24 Full-Time Employees and/or other staff not covered by this Agreement totalling 15 to 27 in number, save that:
+    - **A.** a Medical Imaging Technologist Assistant Allied Health Manager required to assist and deputise for an Allied Health Manager who is in charge of 15 to 24 Full-Time Employees and/or other staff not covered by this Agreement totalling 26 to 27 in number will commence at the Grade 3 Year 4B rate of pay; or
+  - **(v)** other Grade 3 managerial role.
 
 **5.5 Education**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) teaching under-graduate students, post graduate students and/or interns, primarily in a clinical setting;
-- (ii) lecturing in their clinical speciality;
-- (iii) providing education to staff from other professions;
-- (iv) coordination of student placements;
-- (v) assisting a Grade 4 Clinical Educator (if applicable);
-- (vi) in the case of a Cardiac Technologist (Cardiac Physiologist), Health Information Manager (Medical Records Administrator), Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist, having a proven record in teaching; and/or
-- (vii) in the case of Medical Imaging Technologist (Radiographer), being a clinical educator in a department of less than 25.
-
-**(b)** A Grade 3 Employee whose duties are mostly within the Education area of expertise may be described as a Clinical Educator.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** teaching under-graduate students, post graduate students and/or interns, primarily in a clinical setting;
+  - **(ii)** lecturing in their clinical speciality;
+  - **(iii)** providing education to staff from other professions;
+  - **(iv)** coordination of student placements;
+  - **(v)** assisting a Grade 4 Clinical Educator (if applicable);
+  - **(vi)** in the case of a Cardiac Technologist (Cardiac Physiologist), Health Information Manager (Medical Records Administrator), Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist, having a proven record in teaching; and/or
+  - **(vii)** in the case of Medical Imaging Technologist (Radiographer), being a clinical educator in a department of less than 25.
+- **(b)** A Grade 3 Employee whose duties are mostly within the Education area of expertise may be described as a Clinical Educator.
 
 **5.6 Research**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) research;
-- (ii) service development including new practice/s in the profession;
-- (iii) complex project planning and management;
-- (iv) contributing to the research program and mentoring staff;
-- (v) assisting a Grade 4 Researcher (if applicable); and/or
-- (vi) in the case of a Cardiac Technologist (Cardiac Physiologist), Health Information Manager (Medical Records Administrator), Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist, having a proven record in research.
-
-**(b)** A Grade 3 Employee whose duties are mostly within the Research area of expertise may be described as an Allied Health Researcher.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** research;
+  - **(ii)** service development including new practice/s in the profession;
+  - **(iii)** complex project planning and management;
+  - **(iv)** contributing to the research program and mentoring staff;
+  - **(v)** assisting a Grade 4 Researcher (if applicable); and/or
+  - **(vi)** in the case of a Cardiac Technologist (Cardiac Physiologist), Health Information Manager (Medical Records Administrator), Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist, having a proven record in research.
+- **(b)** A Grade 3 Employee whose duties are mostly within the Research area of expertise may be described as an Allied Health Researcher.
 
 ---
 
@@ -299,10 +278,10 @@ An Employee in a Grade 3 position performs duties within or across the following
 
 A Grade 4 Employee is an employee who:
 
-- (a) in addition to undertaking or having the ability to undertake the Grade 3 responsibilities, has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one or more of the specific areas of their profession which require extensive specialised knowledge and:
-  - (i) would normally have at least 10 years' experience in the relevant profession; and
-  - (ii) holds significant educational, administrative, managerial, research and/or clinical responsibilities; or
-- (b) is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this Appendix 4 and meets the requirements of subclause 6.4(b)(i), (ii) or (iii) of Section B of this Appendix 4.
+- **(a)** in addition to undertaking or having the ability to undertake the Grade 3 responsibilities, has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one or more of the specific areas of their profession which require extensive specialised knowledge and:
+  - **(i)** would normally have at least 10 years' experience in the relevant profession; and
+  - **(ii)** holds significant educational, administrative, managerial, research and/or clinical responsibilities; or
+- **(b)** is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this Appendix 4 and meets the requirements of subclause 6.4(b)(i), (ii) or (iii) of Section B of this Appendix 4.
 
 > **Note:** The experience referred to at subclause 6.1(a)(i) of this Appendix 4 Section B is indicative and is not a requirement for an Employee to be classified at Grade 4. Nothing prevents the appointment of an Employee to Grade 4 with less than 10 years' experience and where an Employee meets the requirements to be classified at Grade 4, they must be classified at Grade 4 even if they do not have 10 years' experience.
 
@@ -310,67 +289,58 @@ A Grade 4 Employee is an employee who:
 
 An Employee in a Grade 4 position performs duties within or across the following areas of expertise:
 
-- (a) Clinical;
-- (b) Managerial;
-- (c) Education; and/or
-- (d) Research.
+- **(a)** Clinical;
+- **(b)** Managerial;
+- **(c)** Education; and/or
+- **(d)** Research.
 
 **6.3 Clinical**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) being at a supervisory level in one (1) or more clinical areas of their profession;
-- (ii) being a specialist in a clinical area of their profession which requires extensive specialised knowledge and performance;
-- (iii) mentoring and/or professional supervision of other Employees;
-- (iv) having higher academic achievements, such as a post-graduate qualification;
-- (v) performing an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 4 Employee as described at Schedule 4 of this Appendix 4;
-- (vi) clinical leadership for a team or stream of care; and/or
-- (vii) in the case of a Medical Imaging Technologist (Radiographer) only, is in a large or multi-campus department and is either at a senior level in one (1) or more of the specific branches of their profession which require extensive specialised knowledge and performance or over multiple diagnostic units in the same modality.
-
-**(b)** A Grade 4 Employee whose duties are mostly within the Clinical area of expertise may be described as a Lead or Advanced Clinician.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** being at a supervisory level in one (1) or more clinical areas of their profession;
+  - **(ii)** being a specialist in a clinical area of their profession which requires extensive specialised knowledge and performance;
+  - **(iii)** mentoring and/or professional supervision of other Employees;
+  - **(iv)** having higher academic achievements, such as a post-graduate qualification;
+  - **(v)** performing an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 4 Employee as described at Schedule 4 of this Appendix 4;
+  - **(vi)** clinical leadership for a team or stream of care; and/or
+  - **(vii)** in the case of a Medical Imaging Technologist (Radiographer) only, is in a large or multi-campus department and is either at a senior level in one (1) or more of the specific branches of their profession which require extensive specialised knowledge and performance or over multiple diagnostic units in the same modality.
+- **(b)** A Grade 4 Employee whose duties are mostly within the Clinical area of expertise may be described as a Lead or Advanced Clinician.
 
 **6.4 Managerial**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) management of a program/s, such as the quality assurance program;
-- (ii) management/supervision of staff within a program;
-- (iii) in the case of Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist, management of imaging specific computer systems; and/or
-- (iv) budget and/or human resource management in a department or area that may have a larger number of staff than a department or area managed by a Grade 3 Manager.
-
-**(b)** A Grade 4 Employee whose duties are mostly within the Managerial area of specialisation may be an:
-
-- (i) other than for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 4 in charge of 15 to 39 Full-Time Employees and/or other staff not covered by this Agreement totalling 26 to 45 in number, save that:
-  - A. an Allied Health Manager Grade 4 in charge of 25 to 39 Full-Time Employees and/or other staff not covered by this Agreement totalling 28 to 45 in number will commence at the Grade 4 Year 4 rate of pay;
-- (ii) for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 4 in charge of at least 9 to 39 Full-Time Employees;
-- (iii) for Medical Imaging Technologists (Radiographers), Assistant Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) who is required to assist and to deputise for an Allied Health Manager who is in charge of at least 25 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 28 in number, save that:
-  - A. a Medical Imaging Technologist (Radiographer) Assistant Allied Health Manager required to assist and to deputise for an Allied Health Manager who is in charge of at least 40 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 46 in number will commence at the Grade 4 Year 4 rate of pay; or
-- (iv) other Grade 4 managerial role.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** management of a program/s, such as the quality assurance program;
+  - **(ii)** management/supervision of staff within a program;
+  - **(iii)** in the case of Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist, management of imaging specific computer systems; and/or
+  - **(iv)** budget and/or human resource management in a department or area that may have a larger number of staff than a department or area managed by a Grade 3 Manager.
+- **(b)** A Grade 4 Employee whose duties are mostly within the Managerial area of specialisation may be an:
+  - **(i)** other than for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 4 in charge of 15 to 39 Full-Time Employees and/or other staff not covered by this Agreement totalling 26 to 45 in number, save that:
+    - **A.** an Allied Health Manager Grade 4 in charge of 25 to 39 Full-Time Employees and/or other staff not covered by this Agreement totalling 28 to 45 in number will commence at the Grade 4 Year 4 rate of pay;
+  - **(ii)** for Orthotists/Prosthetists, Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) Grade 4 in charge of at least 9 to 39 Full-Time Employees;
+  - **(iii)** for Medical Imaging Technologists (Radiographers), Assistant Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) who is required to assist and to deputise for an Allied Health Manager who is in charge of at least 25 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 28 in number, save that:
+    - **A.** a Medical Imaging Technologist (Radiographer) Assistant Allied Health Manager required to assist and to deputise for an Allied Health Manager who is in charge of at least 40 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 46 in number will commence at the Grade 4 Year 4 rate of pay; or
+  - **(iv)** other Grade 4 managerial role.
 
 **6.5 Education**
 
-**(a)** Indicative duties/responsibilities include:
-
-- (i) managing the clinical teaching program of a department or a profession at the Employer;
-- (ii) provision of specialist education programs;
-- (iii) directing, coordinating and providing academic supervision of undergraduate and/or post graduate students;
-- (iv) being a clinical educator in a department of 25 or more;
-- (v) administering and managing relationships with universities and other education providers; and/or
-- (vi) managing the Allied Health clinical teaching and/or training program.
-
-**(b)** A Grade 4 Employee whose duties are mostly within the Education area of expertise may be described as a Lead Clinical Educator.
+- **(a)** Indicative duties/responsibilities include:
+  - **(i)** managing the clinical teaching program of a department or a profession at the Employer;
+  - **(ii)** provision of specialist education programs;
+  - **(iii)** directing, coordinating and providing academic supervision of undergraduate and/or post graduate students;
+  - **(iv)** being a clinical educator in a department of 25 or more;
+  - **(v)** administering and managing relationships with universities and other education providers; and/or
+  - **(vi)** managing the Allied Health clinical teaching and/or training program.
+- **(b)** A Grade 4 Employee whose duties are mostly within the Education area of expertise may be described as a Lead Clinical Educator.
 
 **6.6 Research**
 
 **(a)** Indicative duties/responsibilities include:
-
-- (i) managing the department's research program;
-- (ii) directing and coordinating research and clinical trials;
-- (iii) being the primary initiator of funding applications;
-- (iv) publishing in their clinical speciality; and/or
-- (v) leading and driving the research agenda and capability in the department or service.
-
-**(b)** A Grade 4 Employee whose duties are mostly within the Research area of expertise may be described as a Lead Allied Health Researcher.
+  - **(i)** managing the department's research program;
+  - **(ii)** directing and coordinating research and clinical trials;
+  - **(iii)** being the primary initiator of funding applications;
+  - **(iv)** publishing in their clinical speciality; and/or
+  - **(v)** leading and driving the research agenda and capability in the department or service.
+- **(b)** A Grade 4 Employee whose duties are mostly within the Research area of expertise may be described as a Lead Allied Health Researcher.
 
 ---
 
@@ -410,35 +380,27 @@ An employee who has provisional registration under the National Registration and
 
 **2.2** A Grade 1 Employee cannot:
 
-- (a) supervise students;
-- (b) Train students;
-- (c) work shifts that would attract the night shift allowance; and/or
-- (d) be on-call.
+- **(a)** supervise students;
+- **(b)** Train students;
+- **(c)** work shifts that would attract the night shift allowance; and/or
+- **(d)** be on-call.
 
 **2.3** Radiation Therapy Technologist (Radiation Therapist) – Grade 1 to Grade 2 progression
 
-**(a) Progression on anniversary – general**
-
-- (i) Except as provided at subclause 2.3(b) and 2.3(c) of this Appendix 4 Section C, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
-- (ii) An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
-
-**(b) Progression on anniversary – exception**
-
+- **(a) Progression on anniversary – general**
+  - **(i)** Except as provided at subclause 2.3(b) and 2.3(c) of this Appendix 4 Section C, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
+  - **(ii)** An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
+- **(b) Progression on anniversary – exception**
 An Employee as described at subclause 2.3(a) of this Appendix 4 Section C, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
-
-- (i) the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
-- (ii) an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
-
-**(c) Employee elects not to progress to Grade 2**
-
-- (i) An Employee may notify the Employer in writing that they do not wish to be reclassified to Grade 2.
-- (ii) Such an Employee may at a later time give written notice to the Employer that they elect to be reclassified to Grade 2 and, where they have been classified at Grade 1 Year 5 for at least 12 months, the Employer will immediately reclassify the Employee to Grade 2, subject to subclause 2.3(b) of this Appendix 4 Section C.
-- (iii) The Employer must not direct, propose or suggest to an Employee that they elect not to be reclassified to Grade 2.
-
-**(d) No requirement for vacancy**
-
-- (i) The movement of an Employee from Grade 1 to 2 does not rely on a vacancy or funding for the position but will be determined solely in accordance with this subclause 2.3 of this Appendix 4 Section C.
-- (ii) Notwithstanding the above, a Grade 1 may be reclassified as a Grade 2 by appointment or in accordance with clause 86 (Classification and Reclassification) prior to the anniversary date of their commencement in Grade 1, Year 5.
+  - **(i)** the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
+  - **(ii)** an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
+- **(c) Employee elects not to progress to Grade 2**
+  - **(i)** An Employee may notify the Employer in writing that they do not wish to be reclassified to Grade 2.
+  - **(ii)** Such an Employee may at a later time give written notice to the Employer that they elect to be reclassified to Grade 2 and, where they have been classified at Grade 1 Year 5 for at least 12 months, the Employer will immediately reclassify the Employee to Grade 2, subject to subclause 2.3(b) of this Appendix 4 Section C.
+  - **(iii)** The Employer must not direct, propose or suggest to an Employee that they elect not to be reclassified to Grade 2.
+- **(d) No requirement for vacancy**
+  - **(i)** The movement of an Employee from Grade 1 to 2 does not rely on a vacancy or funding for the position but will be determined solely in accordance with this subclause 2.3 of this Appendix 4 Section C.
+  - **(ii)** Notwithstanding the above, a Grade 1 may be reclassified as a Grade 2 by appointment or in accordance with clause 86 (Classification and Reclassification) prior to the anniversary date of their commencement in Grade 1, Year 5.
 
 ---
 
@@ -446,11 +408,11 @@ An Employee as described at subclause 2.3(a) of this Appendix 4 Section C, may h
 
 **3.1** A Grade 2 Radiation Therapy Technologist (Radiation Therapist) is an employee who is required to undertake additional duties/responsibilities to a Grade 1 Employee, for example:
 
-- (i) supervising and Training students;
-- (ii) work shifts that would attract the night shift allowance;
-- (iii) be on-call;
-- (iv) performing work which requires specialised knowledge or depth of experience for example in computer technology, simulation or brachytherapy; and/or
-- (v) supervising staff including clinical supervision of Grade 1 Employees.
+- **(i)** supervising and Training students;
+- **(ii)** work shifts that would attract the night shift allowance;
+- **(iii)** be on-call;
+- **(iv)** performing work which requires specialised knowledge or depth of experience for example in computer technology, simulation or brachytherapy; and/or
+- **(v)** supervising staff including clinical supervision of Grade 1 Employees.
 
 **3.2** A Grade 2 Radiation Therapy Technologist (Radiation Therapist) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section C subclause 2.3 above, meaning they will, if required, undertake the duties in Appendix 4 Section C subclause 3.1 including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 
@@ -466,15 +428,15 @@ A Grade 3 Radiation Therapy Technologist (Radiation Therapist) is an employee:
 
 **4.2** in charge of:
 
-- (a) the following Treatment Units when operating on an intermittent basis – DXRT or SXRT; or
-- (b) a Planning Sub Unit;
+- **(a)** the following Treatment Units when operating on an intermittent basis – DXRT or SXRT; or
+- **(b)** a Planning Sub Unit;
 
 **4.3** who Teaches under-graduate students, post-graduate students and/or interns, primarily in a clinical and/or technical setting; and/or
 
 **4.4** who in addition to undertaking or having the ability to undertake the Grade 2 responsibilities will normally have at least seven (7) years' experience in their profession:
 
-- (a) possesses specific knowledge in and works in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring high levels of specialist knowledge; and
-- (b) has an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 3 Employee as described at Schedule 4 of this Appendix 4.
+- **(a)** possesses specific knowledge in and works in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring high levels of specialist knowledge; and
+- **(b)** has an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 3 Employee as described at Schedule 4 of this Appendix 4.
 
 > **Note:** The experience referred to at subclause 4.4 of this Appendix 4 Section C is indicative and is not a requirement for an Employee to be classified at Grade 3. Nothing prevents the appointment of an Employee to Grade 3 with less than seven (7) years' experience and where an Employee meets the requirements to be classified at Grade 3, they must be classified at Grade 3 even if they do not have seven (7) years' experience.
 
@@ -490,9 +452,9 @@ A Grade 4 Radiation Therapy Technologist (Radiation Therapist) is an employee:
 
 **5.3** who in addition to undertaking or having the ability to undertake the Grade 3 responsibilities at subclause 4.3 of Section C of this Appendix 4, has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one (1) or more of the specific areas of their profession which require extensive specialised knowledge and:
 
-- (a) would normally have at least 10 years' experience in their profession;
-- (b) holds significant educational, administrative, managerial, research and/or clinical responsibilities; and
-- (c) performs an advanced practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 4 Employee as described at Schedule 4 of this Appendix 4.
+- **(a)** would normally have at least 10 years' experience in their profession;
+- **(b)** holds significant educational, administrative, managerial, research and/or clinical responsibilities; and
+- **(c)** performs an advanced practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 4 Employee as described at Schedule 4 of this Appendix 4.
 
 > **Note:** The experience referred to at subclause 5.3 of this Appendix 4 Section C is indicative and is not a requirement for an Employee to be classified at Grade 4. Nothing prevents the appointment of an Employee to Grade 4 with less than 10 years' experience and where an Employee meets the requirements to be classified at Grade 4, they must be classified at Grade 4 even if they do not have 10 years' experience.
 
@@ -572,8 +534,8 @@ An employee who has successfully completed at least half of a qualification reco
 
 A Grade 3 Sonographer is an employee who has:
 
-- (a) successfully completed a qualification recognised by the ASAR and is eligible for admission to the Register of Accredited Medical Sonographers by the ASAR; or
-- (b) not completed a qualification recognised by the ASAR, but has been admitted to the Register of Accredited Medical Sonographers by the ASAR.
+- **(a)** successfully completed a qualification recognised by the ASAR and is eligible for admission to the Register of Accredited Medical Sonographers by the ASAR; or
+- **(b)** not completed a qualification recognised by the ASAR, but has been admitted to the Register of Accredited Medical Sonographers by the ASAR.
 
 ---
 
@@ -581,8 +543,8 @@ A Grade 3 Sonographer is an employee who has:
 
 An employee who is a Sonographer:
 
-- (a) in a large or multi-campus department, who is required to undertake significant educational, administrative and managerial responsibilities, that is at a supervisory level; or
-- (b) in a large or multi-campus department, who is required to undertake significant educational, administrative and managerial responsibilities, is at a supervisory level, and whose other responsibilities include management of the department's clinical teaching or research program, or quality assurance program.
+- **(a)** in a large or multi-campus department, who is required to undertake significant educational, administrative and managerial responsibilities, that is at a supervisory level; or
+- **(b)** in a large or multi-campus department, who is required to undertake significant educational, administrative and managerial responsibilities, is at a supervisory level, and whose other responsibilities include management of the department's clinical teaching or research program, or quality assurance program.
 
 ---
 
@@ -718,32 +680,32 @@ Indicative responsibilities of a Grade 4 Employee performing Advanced Practice w
 
 **5.3** Experienced Grade 2 Employees may undertake training in Advanced Practice as part of a professional development pathway to Advanced Practice. All such training must occur under direct and structured supervision, consistent with and appropriate to the training being undertaken, by an appropriately trained and credentialed Advanced Practitioner or other suitably trained and qualified health professional. A Grade 2 Employee can only undertake Advanced Practice training where there is written agreement between the Employer and the Employee that sets out:
 
-- (a) a defined training period (which may be varied by agreement) which must be reasonable taking into account the Advanced Practice area that the Employee is undertaking training in and the Employee's circumstances;
-- (b) the nature of the training and assessment;
-- (c) the training content;
-- (d) supervisory, oversight and monitoring arrangements; and
-- (e) the anticipated use of the skill once credentialed (for example, participating in a particular type of clinic or exercising a particular skill).
+- **(a)** a defined training period (which may be varied by agreement) which must be reasonable taking into account the Advanced Practice area that the Employee is undertaking training in and the Employee's circumstances;
+- **(b)** the nature of the training and assessment;
+- **(c)** the training content;
+- **(d)** supervisory, oversight and monitoring arrangements; and
+- **(e)** the anticipated use of the skill once credentialed (for example, participating in a particular type of clinic or exercising a particular skill).
 
 Where the Employee has achieved competency in the advanced practice area in which they have been undertaking training, the Employer must credential them. Where the Employee performs the Advanced Practice work after being credentialed they will be paid and classified at the relevant Advanced Practice level as set out in this Agreement at subclause 5.4 of Schedule 4 of this Appendix 4, except where they meet the requirements of AHP1 Grade 3 or 4, in which case they will be classified at AHP1 Grade 3 or 4.
 
 **5.4** A Grade 2 Employee whose role requires them to perform Advanced Practice work will be reclassified as a full-time or part-time Grade 3A Advanced Practitioner on an ongoing basis. Such an Employee must:
 
-- (a) have completed credentialing;
-- (b) be paid a weekly rate of pay that reflects:
-  - (i) 15.2 hours at the relevant Grade 3 rate (pro-rata for part-time Employees); and
-  - (ii) 22.8 hours at the Grade 2 Year 4 rate (pro-rata for part-time Employees);
+- **(a)** have completed credentialing;
+- **(b)** be paid a weekly rate of pay that reflects:
+  - **(i)** 15.2 hours at the relevant Grade 3 rate (pro-rata for part-time Employees); and
+  - **(ii)** 22.8 hours at the Grade 2 Year 4 rate (pro-rata for part-time Employees);
 
   with this rate being the Grade 3A Advanced Practice classification rate which is set out at Part A of Appendix 2 of this Agreement and incremental progression will apply;
-- (c) work a minimum of 0.4EFT;
-- (d) perform no more than 15.2 hours (pro-rata for part-time Employees) of Advanced Practice work in any one (1) week. Where such an Employee performs more than 15.2 hours (pro-rata for part-time Employees) of Advanced Practice work in any one (1) week, they will be paid at the relevant Grade 3 rate for the entire week; and
-- (e) receive the on-going support, training and supervision consistent with the Department framework as part of their ongoing professional development and to support succession planning for moving to an Advanced Practice role.
+- **(c)** work a minimum of 0.4EFT;
+- **(d)** perform no more than 15.2 hours (pro-rata for part-time Employees) of Advanced Practice work in any one (1) week. Where such an Employee performs more than 15.2 hours (pro-rata for part-time Employees) of Advanced Practice work in any one (1) week, they will be paid at the relevant Grade 3 rate for the entire week; and
+- **(e)** receive the on-going support, training and supervision consistent with the Department framework as part of their ongoing professional development and to support succession planning for moving to an Advanced Practice role.
 
 **5.5** Where a Grade 3A Advanced Practitioner performs Advanced Practice work in a clinic setting:
 
-- (a) it is acknowledged that such clinics involve diagnostic, clinical and administrative tasks; and
-- (b) for the purpose of determining whether the amount of Advanced Practice work performed does not exceed 15.2 hours (see subclause 5.4(d) of Schedule 4 of this Appendix 4), each clinic will be treated as the greater of:
-  - (i) half a day (3.8 hours); or
-  - (ii) the length of time spent undertaking the clinic and all tasks associated with the clinic, including those referred to in subclause 5.5(a) of Schedule 4 of this Appendix 4.
+- **(a)** it is acknowledged that such clinics involve diagnostic, clinical and administrative tasks; and
+- **(b)** for the purpose of determining whether the amount of Advanced Practice work performed does not exceed 15.2 hours (see subclause 5.4(d) of Schedule 4 of this Appendix 4), each clinic will be treated as the greater of:
+  - **(i)** half a day (3.8 hours); or
+  - **(ii)** the length of time spent undertaking the clinic and all tasks associated with the clinic, including those referred to in subclause 5.5(a) of Schedule 4 of this Appendix 4.
 
 **5.6** A Grade 3A Advanced Practitioner will not perform Advanced Practice work on more than three (3) days per week. Where a Grade 3A Advanced Practitioner regularly performs Advanced Practice work on more than three (3) days per week and this is likely to continue, the Employee may seek reclassification in accordance with clause 86 (Classification and Reclassification). In determining a request for reclassification, the Employer will reclassify the Employee to Grade 3 or 4 (whichever is appropriate) where the Employee regularly performs Advanced Practice work on more than three (3) days per week and this is likely to continue.
 
@@ -791,36 +753,36 @@ An employee with a relevant tertiary qualification who is eligible for membershi
 
 An employee who:
 
-- (a) holds a basic bachelor degree in Occupational Therapy, Psychology, Psychiatry, Psychiatric Nursing, Speech Pathology or Social Work and has at least two (2) years post graduate clinical experience in a child mental health setting as a pre-requisite for acceptance into Psychotherapy training;
-- (b) is undertaking a recognised post-graduate study as a Psychotherapist; and
-- (c) provides a clinical service under supervision. Provided further that an Employee classified at level 1 will have their years of service recognised one (1), two (2) or three (3) years in advance if the Employee holds an Honours, Masters or Doctorate respectively.
+- **(a)** holds a basic bachelor degree in Occupational Therapy, Psychology, Psychiatry, Psychiatric Nursing, Speech Pathology or Social Work and has at least two (2) years post graduate clinical experience in a child mental health setting as a pre-requisite for acceptance into Psychotherapy training;
+- **(b)** is undertaking a recognised post-graduate study as a Psychotherapist; and
+- **(c)** provides a clinical service under supervision. Provided further that an Employee classified at level 1 will have their years of service recognised one (1), two (2) or three (3) years in advance if the Employee holds an Honours, Masters or Doctorate respectively.
 
 **2.3 Level 2 – Qualified Child Psychotherapist**
 
 An employee who:
 
-- (a) has completed a post-graduate course of study in Psychotherapy; and
-- (b) provides a clinical service.
+- **(a)** has completed a post-graduate course of study in Psychotherapy; and
+- **(b)** provides a clinical service.
 
 **2.4 Level 3 – Senior Child Psychotherapist**
 
 An employee who is required to:
 
-- (a) provide a specialist clinical service;
-- (b) teach and supervise Employees on a recognised Psychotherapy training program;
-- (c) provide a Psychotherapy component to the Child and Family Psychiatry Department's Continuing Education Program;
-- (d) accept responsibility for a clinical consultation service to professional staff within and external to the Employer.
+- **(a)** provide a specialist clinical service;
+- **(b)** teach and supervise Employees on a recognised Psychotherapy training program;
+- **(c)** provide a Psychotherapy component to the Child and Family Psychiatry Department's Continuing Education Program;
+- **(d)** accept responsibility for a clinical consultation service to professional staff within and external to the Employer.
 
 **2.5 Level 4 – Principal Child Psychotherapist**
 
 An employee who holds a basic bachelor degree in an appropriate field, has at least five (5) to six (6) years' clinical experience since completing a post-graduate course in Psychotherapy who:
 
-- (a) is expected to ensure and maintain the provision of a high professional standard of specialised psychotherapy service delivery;
-- (b) is responsible and accountable for the administration of a psychotherapy unit within an organisation;
-- (c) is responsible for formulating and implementing policies for the psychotherapy discipline in consultation with the Professor/Director of the Department of Child and Family Psychiatry;
-- (d) is responsible for the clinical supervision of qualified psychotherapy staff;
-- (e) holds major training responsibilities in one or more of the Psychotherapy Training Schools;
-- (f) is responsible for initiating and conducting relevant research.
+- **(a)** is expected to ensure and maintain the provision of a high professional standard of specialised psychotherapy service delivery;
+- **(b)** is responsible and accountable for the administration of a psychotherapy unit within an organisation;
+- **(c)** is responsible for formulating and implementing policies for the psychotherapy discipline in consultation with the Professor/Director of the Department of Child and Family Psychiatry;
+- **(d)** is responsible for the clinical supervision of qualified psychotherapy staff;
+- **(e)** holds major training responsibilities in one or more of the Psychotherapy Training Schools;
+- **(f)** is responsible for initiating and conducting relevant research.
 
 ---
 
@@ -832,17 +794,16 @@ An employee who possesses an appropriate degree in the health welfare or vocatio
 
 **3.2 Grade 2 Client Adviser/Rehabilitation Consultant**
 
-**(a)** A qualified Client Adviser/Rehabilitation Consultant who is required to undertake additional responsibilities, for example:
-
-- (i) is required to perform work which requires special knowledge or depth of experience in the rehabilitation area; or
-- (ii) is required to supervise Qualified and other Rehabilitation Consultant staff and teach Rehabilitation Consultant students.
+- **(a)** A qualified Client Adviser/Rehabilitation Consultant who is required to undertake additional responsibilities, for example:
+  - **(i)** is required to perform work which requires special knowledge or depth of experience in the rehabilitation area; or
+  - **(ii)** is required to supervise Qualified and other Rehabilitation Consultant staff and teach Rehabilitation Consultant students.
 
 **3.3 Grade 3 Senior Clinician or Senior Client Advisor/Rehabilitation Consultant**
 
 A Grade 3 Client Advisor/Rehabilitation Consultant is either:
 
-- (a) a Senior Clinician who is a qualified Client Adviser/Rehabilitation Consultant with at least seven (7) years' experience, possessing specific knowledge in a branch of the profession and working in an area that requires high levels of specialist knowledge as recognised by the Employer. Parameters of this position would include some of the following: consultative role, lecturing in their clinical specialty, teaching undergraduates and/or post-graduate students and providing education to staff from other disciplines; or
-- (b) a Senior Client Adviser/Rehabilitation Consultant who is a qualified Client Adviser/Rehabilitation Consultant who has at least seven (7) years' experience and/or experience in the rehabilitation process as recognised by the Employer and who is required to undertake additional responsibility in regards to administration and supervision of staff and/or management.
+- **(a)** a Senior Clinician who is a qualified Client Adviser/Rehabilitation Consultant with at least seven (7) years' experience, possessing specific knowledge in a branch of the profession and working in an area that requires high levels of specialist knowledge as recognised by the Employer. Parameters of this position would include some of the following: consultative role, lecturing in their clinical specialty, teaching undergraduates and/or post-graduate students and providing education to staff from other disciplines; or
+- **(b)** a Senior Client Adviser/Rehabilitation Consultant who is a qualified Client Adviser/Rehabilitation Consultant who has at least seven (7) years' experience and/or experience in the rehabilitation process as recognised by the Employer and who is required to undertake additional responsibility in regards to administration and supervision of staff and/or management.
 
 **3.4 Grade 4 Principal Client Adviser/Rehabilitation Consultant**
 
@@ -854,52 +815,50 @@ A Principal Client Adviser/Rehabilitation Consultant has responsibility for the 
 
 **4.1 Community Development Worker Definitions**
 
-**(a) Community** means a group defined in geographical, cultural, economic, social, demographic, special interest, and/or political terms and is deemed to include those based on gender, race, ethnicity, disability, workplace, residence, sexual orientation, parental status, family responsibilities or age and may be self defined.
-
-**(b) Community Development Work** means working with a community to address issues, needs and problems for that community through facilitating collective solutions, by the use of one (1) or more of the following:
-
-- (i) research and analysis of community issues, needs or problems;
-- (ii) development and maintenance of community resources;
-- (iii) community organisation;
-- (iv) development, maintenance and evaluation of community programs;
-- (v) community policy development, interpretation and implementation;
-- (vi) community planning;
-- (vii) representation, advocacy, negotiation and mediation within and between communities, agencies, institutions and government;
-- (viii) development and maintenance of networks;
-- (ix) liaison with community groups, other workers and professional, agencies and government;
-- (x) development and transfer of skills and knowledge in community organisation, community education, advocacy, resource development, cultural awareness and other relevant areas, within the community;
-- (xi) public and community education and public relations;
-- (xii) preparation and distribution of written, audio-visual and other material as required;
-- (xiii) administrative tasks associated with the maintenance of 'community' projects including preparation of submissions, reports of financial documentation;
-- (xiv) assisting individual members of a community in relation to other professionals, institutions, community agencies, government and other bodies; and/or
-- (xv) community campaign development and organisation, but excluding the predominant use of direct service delivery to clients, individual casework and counselling.
+- **(a) Community** means a group defined in geographical, cultural, economic, social, demographic, special interest, and/or political terms and is deemed to include those based on gender, race, ethnicity, disability, workplace, residence, sexual orientation, parental status, family responsibilities or age and may be self defined.
+- **(b) Community Development Work** means working with a community to address issues, needs and problems for that community through facilitating collective solutions, by the use of one (1) or more of the following:
+  - **(i)** research and analysis of community issues, needs or problems;
+  - **(ii)** development and maintenance of community resources;
+  - **(iii)** community organisation;
+  - **(iv)** development, maintenance and evaluation of community programs;
+  - **(v)** community policy development, interpretation and implementation;
+  - **(vi)** community planning;
+  - **(vii)** representation, advocacy, negotiation and mediation within and between communities, agencies, institutions and government;
+  - **(viii)** development and maintenance of networks;
+  - **(ix)** liaison with community groups, other workers and professional, agencies and government;
+  - **(x)** development and transfer of skills and knowledge in community organisation, community education, advocacy, resource development, cultural awareness and other relevant areas, within the community;
+  - **(xi)** public and community education and public relations;
+  - **(xii)** preparation and distribution of written, audio-visual and other material as required;
+  - **(xiii)** administrative tasks associated with the maintenance of 'community' projects including preparation of submissions, reports of financial documentation;
+  - **(xiv)** assisting individual members of a community in relation to other professionals, institutions, community agencies, government and other bodies; and/or
+  - **(xv)** community campaign development and organisation, but excluding the predominant use of direct service delivery to clients, individual casework and counselling.
 
 **4.2 Community Development Worker**
 
 An employee (however titled) carrying out Community Development Work in the following areas:
 
-- (a) community or neighbourhood houses and learning centres;
-- (b) community housing or tenant's rights services or projects;
-- (c) equal opportunity or affirmative action projects;
-- (d) women's service or projects;
-- (e) disabilities rights projects and services for people with disabilities;
-- (f) community financial counselling services, community legal services, social justice services or projects, community health and occupational health and safety projects;
-- (g) self-help groups or projects;
-- (h) environmental action groups or projects;
-- (i) community information projects or services;
-- (j) community arts, writing, theatre or other cultural projects;
-- (k) international aid agencies or projects; or
-- (l) any agency, group, project or service including the following:
-  - (i) Aboriginal community workers, including Aboriginal Health Liaison Officers;
-  - (ii) ethnic community workers (however titled), including Ethnic health workers; or
-  - (iii) community education officers.
+- **(a)** community or neighbourhood houses and learning centres;
+- **(b)** community housing or tenant's rights services or projects;
+- **(c)** equal opportunity or affirmative action projects;
+- **(d)** women's service or projects;
+- **(e)** disabilities rights projects and services for people with disabilities;
+- **(f)** community financial counselling services, community legal services, social justice services or projects, community health and occupational health and safety projects;
+- **(g)** self-help groups or projects;
+- **(h)** environmental action groups or projects;
+- **(i)** community information projects or services;
+- **(j)** community arts, writing, theatre or other cultural projects;
+- **(k)** international aid agencies or projects; or
+- **(l)** any agency, group, project or service including the following:
+  - **(i)** Aboriginal community workers, including Aboriginal Health Liaison Officers;
+  - **(ii)** ethnic community workers (however titled), including Ethnic health workers; or
+  - **(iii)** community education officers.
 
 **4.3 Qualified Community Development Worker**
 
-- (a) An employee performing Community Development Work who holds a post-secondary qualification in Community Work, Community Education Multicultural or Ethnic Studies, Aboriginal Studies, Urban Studies, Community or Welfare Administration (all however titled) or a related and relevant post secondary qualification from a post-secondary educational institution.
-- (b) For the purposes of this subclause 4.3 of Section E of this Appendix 4, post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
-- (c) An Employee may, through practical experience and skills in Community Development Work, or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
-- (d) An Indigenous Community Worker who has participated in relevant short courses of training in the practical skills of community development work is deemed to be a Qualified Community Development Worker when engaged in Community Development Work with or within 'Indigenous Community'.
+- **(a)** An employee performing Community Development Work who holds a post-secondary qualification in Community Work, Community Education Multicultural or Ethnic Studies, Aboriginal Studies, Urban Studies, Community or Welfare Administration (all however titled) or a related and relevant post secondary qualification from a post-secondary educational institution.
+- **(b)** For the purposes of this subclause 4.3 of Section E of this Appendix 4, post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
+- **(c)** An Employee may, through practical experience and skills in Community Development Work, or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
+- **(d)** An Indigenous Community Worker who has participated in relevant short courses of training in the practical skills of community development work is deemed to be a Qualified Community Development Worker when engaged in Community Development Work with or within 'Indigenous Community'.
 
 **4.4 Unqualified Community Development Worker**
 
@@ -907,39 +866,39 @@ An employee performing Community Development Work who is not a Qualified Communi
 
 **4.5 Indigenous Community Development Worker**
 
-- (a) An employee who has:
-  - (i) direct life experience in and as a member of a particular community (as defined) from which the Employee is drawn and in which they are working in;
-  - (ii) knowledge, skills and experience of the culture in which they belong; and
-  - (iii) fluency in the community language/s (where relevant).
-- (b) An Indigenous Community Development Worker includes an Aboriginal worker working with an Aboriginal Community, an Ethnic Worker working with the relevant Ethnic Community and a Self-Help Worker employed to work with the Self-Help community from which they came.
+- **(a)** An employee who has:
+  - **(i)** direct life experience in and as a member of a particular community (as defined) from which the Employee is drawn and in which they are working in;
+  - **(ii)** knowledge, skills and experience of the culture in which they belong; and
+  - **(iii)** fluency in the community language/s (where relevant).
+- **(b)** An Indigenous Community Development Worker includes an Aboriginal worker working with an Aboriginal Community, an Ethnic Worker working with the relevant Ethnic Community and a Self-Help Worker employed to work with the Self-Help community from which they came.
 
 **4.6 Community Development Worker Class I (1)**
 
-- (a) An employee performing Community Development Work under the direct supervision of more experienced Community Development Workers who must be based in the same workplace as the persons being supervised.
-- (b) An Unqualified Community Development Worker (as defined), with less than twelve months' experience who is being supervised by a Qualified Community Development Worker (as defined), will commence at the class I, year 1 rate.
-- (c) An Unqualified Community Development Worker with less than twelve months' experience who is being supervised by an Unqualified Community Development Worker will commence at the class I, year 3 rate.
-- (d) A Qualified Community Development Worker with less than twelve months' experience who is being supervised by a more experienced Qualified Community Development Worker will commence at the class I, year 2 rate, unless the supervised Employee is a qualified Social Worker or holds a post-graduate qualification in Community Development Work (as defined) in which case the Employee will commence at the class I, year 4 rate.
-- (e) A Community Development Worker under direct supervision who has administrative responsibilities will commence at not less than the class I, year 3 rate, notwithstanding any of the above commencement rates, except where the above commencement rates are higher.
+- **(a)** An employee performing Community Development Work under the direct supervision of more experienced Community Development Workers who must be based in the same workplace as the persons being supervised.
+- **(b)** An Unqualified Community Development Worker (as defined), with less than twelve months' experience who is being supervised by a Qualified Community Development Worker (as defined), will commence at the class I, year 1 rate.
+- **(c)** An Unqualified Community Development Worker with less than twelve months' experience who is being supervised by an Unqualified Community Development Worker will commence at the class I, year 3 rate.
+- **(d)** A Qualified Community Development Worker with less than twelve months' experience who is being supervised by a more experienced Qualified Community Development Worker will commence at the class I, year 2 rate, unless the supervised Employee is a qualified Social Worker or holds a post-graduate qualification in Community Development Work (as defined) in which case the Employee will commence at the class I, year 4 rate.
+- **(e)** A Community Development Worker under direct supervision who has administrative responsibilities will commence at not less than the class I, year 3 rate, notwithstanding any of the above commencement rates, except where the above commencement rates are higher.
 
 **4.7 Community Development Worker Class II (2)**
 
-- (a) An employee who is performing Community Development Work and who is not working under the direct supervision of a more experienced Community Development Worker and includes a sole Community Development Worker employed in a workplace or one who has unsupervised administrative responsibilities.
-- (b) A Qualified Community Development Worker cannot be supervised by a less experienced Unqualified or Qualified Community Development Worker and must be paid as a class II Community Development Worker at the appropriate qualification level (as defined).
-- (c) An Unqualified Community Development Worker working without direct supervision will commence at the class II(a), year 1 rate.
-- (d) A Qualified Welfare Worker (as defined in subclause 10.2 of Section E of this Appendix 4) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 3 rate.
-- (e) An Indigenous Community Development Worker working without direct supervision will commence at not less than the class II(a), year 3 rate. If an Indigenous Community Development Worker possesses a qualification (as defined in subclause 4.3 of Section E of this Appendix 4) they will commence at a level not less than that defined for the qualification possessed.
-- (f) A Qualified Youth Worker (as defined in subclause 11.2 of Section E of this Appendix 4) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 5 rate.
-- (g) A sole Community Development Worker employed in a workplace or a Community Development Worker performing outreach Community Development Work will commence at not less than the class II(a), year 5 rate.
-- (h) The commencing rate for a financial counsellor performing Community Development Work will be not less than class II(a), year 5.
-- (i) The commencing rate for a tenant worker performing Community Development Work will be not less than class II(a), year 5.
-- (j) A Community Development Worker who is performing social research will commence at not less than the class II(a), year 7 rate unless the Employee possesses a social work qualification or a post-graduate qualification in Community Development Work or a qualification in social or behavioural sciences, in which case the Employee will commence at no less than the level defined for these qualifications.
-- (k) A Community Development Worker working without direct supervision who possesses a qualification in Community Development Work other than a post-graduate qualification will commence at not less than the class II(a), year 7 rate.
-- (l) A Community Development Worker with a tertiary qualification in the social and behavioural sciences will commence at not less than the class II(a), year 7 rate.
-- (m) A qualified Social Worker or Community Development Worker holding a post-graduate qualification in Community Development work performing Community Development Work will be employed at the classification class II(b).
-- (n) A Community Development Worker engaged in policy development or policy advice will commence at not less than the class II(b), year 1 rate.
-- (o) A Community Development Worker engaged in community education or community training programs will commence at not less than the class II(b), year 1 rate.
-- (p) A qualified Social Worker will commence at not less than the class II(b), year 1 rate.
-- (q) A Qualified Community Development Worker with a post-graduate qualification will commence at not less than the class II(b), year 2 rate.
+- **(a)** An employee who is performing Community Development Work and who is not working under the direct supervision of a more experienced Community Development Worker and includes a sole Community Development Worker employed in a workplace or one who has unsupervised administrative responsibilities.
+- **(b)** A Qualified Community Development Worker cannot be supervised by a less experienced Unqualified or Qualified Community Development Worker and must be paid as a class II Community Development Worker at the appropriate qualification level (as defined).
+- **(c)** An Unqualified Community Development Worker working without direct supervision will commence at the class II(a), year 1 rate.
+- **(d)** A Qualified Welfare Worker (as defined in subclause 10.2 of Section E of this Appendix 4) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 3 rate.
+- **(e)** An Indigenous Community Development Worker working without direct supervision will commence at not less than the class II(a), year 3 rate. If an Indigenous Community Development Worker possesses a qualification (as defined in subclause 4.3 of Section E of this Appendix 4) they will commence at a level not less than that defined for the qualification possessed.
+- **(f)** A Qualified Youth Worker (as defined in subclause 11.2 of Section E of this Appendix 4) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 5 rate.
+- **(g)** A sole Community Development Worker employed in a workplace or a Community Development Worker performing outreach Community Development Work will commence at not less than the class II(a), year 5 rate.
+- **(h)** The commencing rate for a financial counsellor performing Community Development Work will be not less than class II(a), year 5.
+- **(i)** The commencing rate for a tenant worker performing Community Development Work will be not less than class II(a), year 5.
+- **(j)** A Community Development Worker who is performing social research will commence at not less than the class II(a), year 7 rate unless the Employee possesses a social work qualification or a post-graduate qualification in Community Development Work or a qualification in social or behavioural sciences, in which case the Employee will commence at no less than the level defined for these qualifications.
+- **(k)** A Community Development Worker working without direct supervision who possesses a qualification in Community Development Work other than a post-graduate qualification will commence at not less than the class II(a), year 7 rate.
+- **(l)** A Community Development Worker with a tertiary qualification in the social and behavioural sciences will commence at not less than the class II(a), year 7 rate.
+- **(m)** A qualified Social Worker or Community Development Worker holding a post-graduate qualification in Community Development work performing Community Development Work will be employed at the classification class II(b).
+- **(n)** A Community Development Worker engaged in policy development or policy advice will commence at not less than the class II(b), year 1 rate.
+- **(o)** A Community Development Worker engaged in community education or community training programs will commence at not less than the class II(b), year 1 rate.
+- **(p)** A qualified Social Worker will commence at not less than the class II(b), year 1 rate.
+- **(q)** A Qualified Community Development Worker with a post-graduate qualification will commence at not less than the class II(b), year 2 rate.
 
 **4.8 Community Development Worker Class IIAB (2AB)**
 
@@ -961,8 +920,8 @@ A Community Development Worker Class IIA (2A), Years 1 to 11, who translates to 
 
 **4.9 Community Development Worker Class III (3)**
 
-- (a) An employee performing Community Development Work who is required to provide direct supervision of other Community Development Workers, administrative or support staff; or
-- (b) A Community Development Worker employed in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Community Development Worker Class III may be employed as such.
+- **(a)** An employee performing Community Development Work who is required to provide direct supervision of other Community Development Workers, administrative or support staff; or
+- **(b)** A Community Development Worker employed in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Community Development Worker Class III may be employed as such.
 
 **4.10 Yearly increments for Community Development Workers**
 
@@ -990,15 +949,15 @@ An employee who has successfully completed a diploma, certificate or other quali
 
 A Dental Technician who is the Technician in Charge and is either:
 
-- (a) responsible for the production and quality of work of a specialist unit of the Dental Laboratory Service of Dental Health Services Victoria; or
-- (b) responsible for the administration and efficient functioning of Dental Technician Services in an Employer other than Dental Health Services Victoria.
+- **(a)** responsible for the production and quality of work of a specialist unit of the Dental Laboratory Service of Dental Health Services Victoria; or
+- **(b)** responsible for the administration and efficient functioning of Dental Technician Services in an Employer other than Dental Health Services Victoria.
 
 **6.4 Dental Technician Level III (3) (Foreperson)**
 
 A Dental Technician who is either:
 
-- (a) responsible to the Dental Laboratory Manager for the production and quality of work of a major section of the Dental Laboratory Service at Dental Health Services Victoria; or
-- (b) responsible for the administration and efficient functioning of Dental Technician Services at an Employer other than at Dental Health Services Victoria.
+- **(a)** responsible to the Dental Laboratory Manager for the production and quality of work of a major section of the Dental Laboratory Service at Dental Health Services Victoria; or
+- **(b)** responsible for the administration and efficient functioning of Dental Technician Services at an Employer other than at Dental Health Services Victoria.
 
 **6.5 Dental Laboratory Manager**
 
@@ -1018,8 +977,8 @@ An employee who holds a Certificate or Associate Diploma of Applied Science (Med
 
 A Medical Laboratory Technician who is required to undertake additional responsibilities, for example:
 
-- (a) employed on work which requires special knowledge or depth of experience; or
-- (b) has a teaching role.
+- **(a)** employed on work which requires special knowledge or depth of experience; or
+- **(b)** has a teaching role.
 
 ---
 
@@ -1033,10 +992,10 @@ An employee who is engaged in a renal dialysis unit and performs renal dialysis 
 
 An employee with a minimum of two (2) years' experience as a Renal Dialysis Technician:
 
-- (a) with a Clinical Physiologist-Renal qualification;
-- (b) who is eligible for full membership of the New Zealand and Australia Society of Renal Dialysis Practice (NZASRDP);
-- (c) who is in receipt of BONENT Haemodialysis Technician certification; and/or
-- (d) with an equivalent dialysis tertiary qualification.
+- **(a)** with a Clinical Physiologist-Renal qualification;
+- **(b)** who is eligible for full membership of the New Zealand and Australia Society of Renal Dialysis Practice (NZASRDP);
+- **(c)** who is in receipt of BONENT Haemodialysis Technician certification; and/or
+- **(d)** with an equivalent dialysis tertiary qualification.
 
 ---
 
@@ -1070,37 +1029,37 @@ An employee who, with limited guidance or within broad guidelines performs activ
 
 **Welfare Work** within Social and Community Service includes:
 
-- (a) information collection and provision related to benefits and services and community resources available to clients;
-- (b) assistance in the resolution of specified problems;
-- (c) supportive counselling to clients without complex personal problems;
-- (d) direct service provision and care for people in residential settings, day and occasional care settings;
-- (e) referral and liaison to other professionals and agencies;
-- (f) community work including the organising of community facilities to meet gaps in services or developing community interest and action in providing for social welfare needs.
+- **(a)** information collection and provision related to benefits and services and community resources available to clients;
+- **(b)** assistance in the resolution of specified problems;
+- **(c)** supportive counselling to clients without complex personal problems;
+- **(d)** direct service provision and care for people in residential settings, day and occasional care settings;
+- **(e)** referral and liaison to other professionals and agencies;
+- **(f)** community work including the organising of community facilities to meet gaps in services or developing community interest and action in providing for social welfare needs.
 
 **10.2 Qualified Welfare Worker**
 
-- (a) An employee performing Welfare Work who is qualified from a tertiary institution after two (2) years' study (one (1) year if admission age is 21 years or over) including major studies in welfare work.
-- (b) Provided that an Employee covered by this classification may, by way of practical experience in Welfare Work or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
+- **(a)** An employee performing Welfare Work who is qualified from a tertiary institution after two (2) years' study (one (1) year if admission age is 21 years or over) including major studies in welfare work.
+- **(b)** Provided that an Employee covered by this classification may, by way of practical experience in Welfare Work or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
 
 **10.3 Unqualified Welfare Worker**
 
-- (a) An employee performing Welfare Work who is not a Qualified Welfare Worker.
-- (b) An Unqualified Welfare Worker with less than twelve months' experience working without direct supervision by a Qualified Welfare Worker or Social Worker, and including a person employed under this clause working as a sole Welfare Worker, will commence at the Unqualified Welfare Worker year 5 rate.
-- (c) An Unqualified Welfare Worker, who is a sole Welfare Worker or performs duties without direct supervision, and has a minimum of twelve months' experience, will commence at the Unqualified Welfare Worker year 6 rate. However, by mutual agreement between the Employer and Employee this condition may be waived and the Employee may commence at a higher rate.
+- **(a)** An employee performing Welfare Work who is not a Qualified Welfare Worker.
+- **(b)** An Unqualified Welfare Worker with less than twelve months' experience working without direct supervision by a Qualified Welfare Worker or Social Worker, and including a person employed under this clause working as a sole Welfare Worker, will commence at the Unqualified Welfare Worker year 5 rate.
+- **(c)** An Unqualified Welfare Worker, who is a sole Welfare Worker or performs duties without direct supervision, and has a minimum of twelve months' experience, will commence at the Unqualified Welfare Worker year 6 rate. However, by mutual agreement between the Employer and Employee this condition may be waived and the Employee may commence at a higher rate.
 
 **10.4 Welfare Worker Class I (1)**
 
-- (a) A Qualified Welfare Worker, who is required to perform their duties under supervision.
-- (b) A sole Welfare Worker with less than twelve months' experience will be paid during the first twelve months at the Welfare Worker class I, year 4 rate, after which they will be classified as a Welfare Worker Class II.
+- **(a)** A Qualified Welfare Worker, who is required to perform their duties under supervision.
+- **(b)** A sole Welfare Worker with less than twelve months' experience will be paid during the first twelve months at the Welfare Worker class I, year 4 rate, after which they will be classified as a Welfare Worker Class II.
 
 **10.5 Welfare Worker Class II (2)**
 
 A Qualified Welfare Worker, who is required to undertake some administrative responsibility, including:
 
-- (a) a Welfare Worker who is required to take charge of an agency or department, with a staff of up to 3 Employees covered by the Agreement, or with a staff of at least one (1) Employee covered by the Agreement and other employees, totalling at least six (6) in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such agency or department;
-- (b) a sole Welfare Worker who has a minimum of twelve months' experience (although this condition may be waived by mutual agreement between the Employer and Employee and an Employee with less than twelve months' experience will instead be employed at class II);
-- (c) a Welfare Worker who is required to be responsible for a major activity or group of activities within an Agency or department; or
-- (d) a Welfare Worker who acts as a Deputy to a Welfare Worker Class III.
+- **(a)** a Welfare Worker who is required to take charge of an agency or department, with a staff of up to 3 Employees covered by the Agreement, or with a staff of at least one (1) Employee covered by the Agreement and other employees, totalling at least six (6) in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such agency or department;
+- **(b)** a sole Welfare Worker who has a minimum of twelve months' experience (although this condition may be waived by mutual agreement between the Employer and Employee and an Employee with less than twelve months' experience will instead be employed at class II);
+- **(c)** a Welfare Worker who is required to be responsible for a major activity or group of activities within an Agency or department; or
+- **(d)** a Welfare Worker who acts as a Deputy to a Welfare Worker Class III.
 
 **10.6 Welfare Worker Class IIA (2A)**
 
@@ -1110,9 +1069,9 @@ A Welfare Worker Class IIA (2A) is an employee who, in addition to meeting the r
 
 A Qualified Welfare Worker who is required to:
 
-- (a) take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- (b) a Welfare Worker who acts as a Deputy to a Welfare Worker Class IV;
-- (c) a Welfare Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Welfare Worker employed under subclause 10.7(a) of Section E of this Appendix 4.
+- **(a)** take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
+- **(b)** a Welfare Worker who acts as a Deputy to a Welfare Worker Class IV;
+- **(c)** a Welfare Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Welfare Worker employed under subclause 10.7(a) of Section E of this Appendix 4.
 
 **10.8 Welfare Worker Class IIIA (3A)**
 
@@ -1122,8 +1081,8 @@ A Welfare Worker Class IIIA (3A) is an employee who, in addition to meeting the 
 
 A Qualified Welfare Worker who is required to undertake senior administrative responsibilities including:
 
-- (a) a Welfare Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- (b) any Welfare Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Welfare Worker employed under subclause 10.9(a)(i) of Section E of this Appendix 4.
+- **(a)** a Welfare Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
+- **(b)** any Welfare Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Welfare Worker employed under subclause 10.9(a)(i) of Section E of this Appendix 4.
 
 **10.10 Welfare Worker Class IVA (4A)**
 
@@ -1145,31 +1104,31 @@ For the purposes of clause 10 of this Section E of Appendix 4 (Welfare Workers),
 
 Youth Work means working with or for young people towards their personal and social development during their transition from childhood to adulthood, and will include one (1) or more of the following:
 
-- (a) collection and distribution of materials and information pursuant to their development and need;
-- (b) assistance in the resolution of specific problems;
-- (c) provision of activities and facility management for leisure time;
-- (d) liaison with and referral to other professionals and agencies;
-- (e) supportive counselling to young people with personal problems or those confronting crisis; and/or
-- (f) coordination of activities or facilities for the development of independent living skills.
+- **(a)** collection and distribution of materials and information pursuant to their development and need;
+- **(b)** assistance in the resolution of specific problems;
+- **(c)** provision of activities and facility management for leisure time;
+- **(d)** liaison with and referral to other professionals and agencies;
+- **(e)** supportive counselling to young people with personal problems or those confronting crisis; and/or
+- **(f)** coordination of activities or facilities for the development of independent living skills.
 
 **11.2 Qualified Youth Worker**
 
-- (a) An employee performing Youth Work who holds a Diploma in Youth Studies (however titled) or a related tertiary qualification which requires at least three (3) years study at a university or college of advanced education with a major in the group dynamics and behavioural studies area.
-- (b) Provided that an Employee may, by way of practical experience in Youth Work or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
+- **(a)** An employee performing Youth Work who holds a Diploma in Youth Studies (however titled) or a related tertiary qualification which requires at least three (3) years study at a university or college of advanced education with a major in the group dynamics and behavioural studies area.
+- **(b)** Provided that an Employee may, by way of practical experience in Youth Work or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
 
 **11.3 Youth Worker Class I (1)**
 
-- (a) A Qualified Youth Worker, who is required to perform their duties under supervision.
-- (b) A sole Youth Worker with less than twelve months' experience will be paid during the first twelve months at the Youth Worker class I, year 4 rate, after which they will be classified as a Youth Worker Class II.
+- **(a)** A Qualified Youth Worker, who is required to perform their duties under supervision.
+- **(b)** A sole Youth Worker with less than twelve months' experience will be paid during the first twelve months at the Youth Worker class I, year 4 rate, after which they will be classified as a Youth Worker Class II.
 
 **11.4 Youth Worker Class II (2)**
 
 A Qualified Youth Worker, who is required to undertake some administrative responsibility, including:
 
-- (a) a Youth Worker who is required to take charge of an agency or department, with a staff of up to three (3) Employees covered by the Agreement, or with a staff of at least one (1) Employee covered by the Agreement and other employees, totalling at least six (6) in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such agency or department;
-- (b) a sole Youth Worker who will have a minimum of twelve months' experience (although this condition may be waived by mutual agreement between the Employer and Employee and an Employee with less than twelve months' experience will instead be employed at class II);
-- (c) a Youth Worker who is required to be responsible for a major activity or group of activities within an Agency or department; or
-- (d) a Youth Worker who acts as a Deputy to a Youth Worker Class III.
+- **(a)** a Youth Worker who is required to take charge of an agency or department, with a staff of up to three (3) Employees covered by the Agreement, or with a staff of at least one (1) Employee covered by the Agreement and other employees, totalling at least six (6) in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such agency or department;
+- **(b)** a sole Youth Worker who will have a minimum of twelve months' experience (although this condition may be waived by mutual agreement between the Employer and Employee and an Employee with less than twelve months' experience will instead be employed at class II);
+- **(c)** a Youth Worker who is required to be responsible for a major activity or group of activities within an Agency or department; or
+- **(d)** a Youth Worker who acts as a Deputy to a Youth Worker Class III.
 
 **11.5 Youth Worker Class IIA (2A)**
 
@@ -1179,9 +1138,9 @@ A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the rel
 
 A Qualified Youth Worker who is required to:
 
-- (a) take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other Employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- (b) a Youth Worker who acts as a Deputy to a Youth Worker Class IV;
-- (c) a Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 11.6(a) of Section E of this Appendix 4.
+- **(a)** take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other Employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
+- **(b)** a Youth Worker who acts as a Deputy to a Youth Worker Class IV;
+- **(c)** a Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 11.6(a) of Section E of this Appendix 4.
 
 **11.7 Youth Worker Class IIIA (3A)**
 
@@ -1191,8 +1150,8 @@ A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the re
 
 A Qualified Youth Worker who is required to undertake senior administrative responsibilities including:
 
-- (a) a Youth Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- (b) any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under subclause 11.8(a)(i) of Section E of this Appendix 4.
+- **(a)** a Youth Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
+- **(b)** any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under subclause 11.8(a)(i) of Section E of this Appendix 4.
 
 **11.9 Overlapping Pay Points Between Classes**
 
@@ -1212,28 +1171,28 @@ For the purposes of clause 11 of this Section E of this Appendix 4, yearly incre
 
 **12.1 Mechanical Officer Grade 1**
 
-- (a) An employee who possesses Plant Engineering certificates and experience, or equivalent experience that is deemed to be transferrable to the Mechanical Radiation setting.
-- (b) A Mechanical Officer Grade 1 works with close technical guidance to perform tasks, use plant engineering equipment such as lathes, milling machines, benders, drills and spray painting. A Mechanical Officer at Grade 1 does not work independently and no supervisory responsibilities are required.
-- (c) The training required to be undertaken by a Mechanical Officer Grade 1 is:
-  - (i) Practical based training for Mechanical Officers.
-  - (ii) Radiation safety training.
-  - (iii) CAD software training.
+- **(a)** An employee who possesses Plant Engineering certificates and experience, or equivalent experience that is deemed to be transferrable to the Mechanical Radiation setting.
+- **(b)** A Mechanical Officer Grade 1 works with close technical guidance to perform tasks, use plant engineering equipment such as lathes, milling machines, benders, drills and spray painting. A Mechanical Officer at Grade 1 does not work independently and no supervisory responsibilities are required.
+- **(c)** The training required to be undertaken by a Mechanical Officer Grade 1 is:
+  - **(i)** Practical based training for Mechanical Officers.
+  - **(ii)** Radiation safety training.
+  - **(iii)** CAD software training.
 - (d) The cost of the above training will be borne by the Employer.
 
 **12.2 Mechanical Officer Grade 2**
 
-- (a) A Mechanical Officer who will normally have at least five (5) years of Mechanical Engineering experience in radiation, or an equivalent/transferable industry. They will have the ability to work with limited guidance and as a Mechanical Officer, perform straightforward relevant tasks, activities or functions of a moderately complex nature.
-- (b) A Mechanical Officer Grade 2's duties will include some of the following:
-  - (i) Mentoring and tutoring of junior Mechanical Officers;
-  - (ii) Specialist/Expert within one (1) or more modalities;
-  - (iii) Design and build new equipment to support radiation equipment;
-  - (iv) Liaise between different professional groups;
-  - (v) Possess sufficient technical knowledge and expertise to creatively seek and implement solutions to new problems;
-  - (vi) Work independently to maintain equipment across all sites.
-- (c) The training required to be undertaken by a Mechanical Officer Grade 2 is:
-  - (i) Advanced/Higher training on new equipment for Mechanical Officers.
-  - (ii) Radiation safety training.
-  - (iii) Advanced/Higher CAD software training.
+- **(a)** A Mechanical Officer who will normally have at least five (5) years of Mechanical Engineering experience in radiation, or an equivalent/transferable industry. They will have the ability to work with limited guidance and as a Mechanical Officer, perform straightforward relevant tasks, activities or functions of a moderately complex nature.
+- **(b)** A Mechanical Officer Grade 2's duties will include some of the following:
+  - **(i)** Mentoring and tutoring of junior Mechanical Officers;
+  - **(ii)** Specialist/Expert within one (1) or more modalities;
+  - **(iii)** Design and build new equipment to support radiation equipment;
+  - **(iv)** Liaise between different professional groups;
+  - **(v)** Possess sufficient technical knowledge and expertise to creatively seek and implement solutions to new problems;
+  - **(vi)** Work independently to maintain equipment across all sites.
+- **(c)** The training required to be undertaken by a Mechanical Officer Grade 2 is:
+  - **(i)** Advanced/Higher training on new equipment for Mechanical Officers.
+  - **(ii)** Radiation safety training.
+  - **(iii)** Advanced/Higher CAD software training.
 - (d) The cost of the above training will be borne by the Employer.
 
 **12.3 Deputy Chief Mechanical Officer**
@@ -1250,66 +1209,66 @@ A Mechanical Officer immediately responsible for the organisation of the mechani
 
 **13.1 Radiation Engineer Grade 1**
 
-- (a) An employee who has obtained an Associate Diploma of Engineering, Degree, or any other qualification relevant to radiation engineering.
-- (b) A Radiation Engineer Grade 1 works with close technical guidance to perform tasks, use tools, schematics, instruments and other equipment needed for general maintenance of Radiation Therapy equipment. They may also maintain stores. A Radiation Engineer at Grade 1 does not work independently and no supervisory responsibilities are required.
-- (c) The training required to be undertaken by a Radiation Engineer Grade 1 is:
-  - (i) Basic OEM Linac training;
-  - (ii) Physics Radiation Safety Training;
-  - (iii) Radiation Equipment Operator Licence (Issued from the Department of Health).
-- (d) The cost of the above training will be borne by the Employer.
+- **(a)** An employee who has obtained an Associate Diploma of Engineering, Degree, or any other qualification relevant to radiation engineering.
+- **(b)** A Radiation Engineer Grade 1 works with close technical guidance to perform tasks, use tools, schematics, instruments and other equipment needed for general maintenance of Radiation Therapy equipment. They may also maintain stores. A Radiation Engineer at Grade 1 does not work independently and no supervisory responsibilities are required.
+- **(c)** The training required to be undertaken by a Radiation Engineer Grade 1 is:
+  - **(i)** Basic OEM Linac training;
+  - **(ii)** Physics Radiation Safety Training;
+  - **(iii)** Radiation Equipment Operator Licence (Issued from the Department of Health).
+- **(d)** The cost of the above training will be borne by the Employer.
 
 **13.2 Radiation Engineer Grade 2**
 
-- (a) A Radiation Engineer with additional responsibilities to a Grade 1, who works predominantly independently, but with occasional assistance.
-- (b) A Radiation Engineer Grade 2's duties will include some of the following:
-  - (i) with technical guidance perform diagnostics, limited trouble shooting, fault finding, scheduled maintenance and repairs;
-  - (ii) report and address problems/faults;
-  - (iii) identify and correct system behaviour by using defined calibration procedures;
-  - (iv) limited supervisory requirements.
-- (c) Once a Radiation Engineer Grade 2 is certified and trained within the scope of Clinac they will:
-  - (i) undertake daily activities at satellite centres within defined parameters;
-  - (ii) participate in an on-call roster.
-- (d) The training required to be undertaken by a Radiation Engineer Grade 2 is:
-  - (i) successfully complete Higher/Advanced OEM Linac training; and
-  - (ii) various other radiotherapy equipment training such as, but not limited to, Varian TM-2, Varian Multi-leaf collimator (MLC), Varian Clinac portal vision (PV) and on board imaging (OBI).
-- (e) The cost of the above training will be borne by the Employer.
+- **(a)** A Radiation Engineer with additional responsibilities to a Grade 1, who works predominantly independently, but with occasional assistance.
+- **(b)** A Radiation Engineer Grade 2's duties will include some of the following:
+  - **(i)** with technical guidance perform diagnostics, limited trouble shooting, fault finding, scheduled maintenance and repairs;
+  - **(ii)** report and address problems/faults;
+  - **(iii)** identify and correct system behaviour by using defined calibration procedures;
+  - **(iv)** limited supervisory requirements.
+- **(c)** Once a Radiation Engineer Grade 2 is certified and trained within the scope of Clinac they will:
+  - **(i)** undertake daily activities at satellite centres within defined parameters;
+  - **(ii)** participate in an on-call roster.
+- **(d)** The training required to be undertaken by a Radiation Engineer Grade 2 is:
+  - **(i)** successfully complete Higher/Advanced OEM Linac training; and
+  - **(ii)** various other radiotherapy equipment training such as, but not limited to, Varian TM-2, Varian Multi-leaf collimator (MLC), Varian Clinac portal vision (PV) and on board imaging (OBI).
+- **(e)** The cost of the above training will be borne by the Employer.
 
 **13.3 Radiation Engineers Grade 3**
 
-- (a) A Radiation Engineer who will normally have at least five (5) years of experience, trained in all Linac Modalities who possesses specific knowledge in radiation therapy treatment systems and working in an area that requires high levels of specialist knowledge.
-- (b) A Radiation Engineer Grade 3's duties will include some of the following:
-  - (i) work undertaken with limited guidance or within broad guidelines such as carrying out diagnostics, trouble shooting, fault finding, repairs and other related maintenance tasks at all sites;
-  - (ii) providing education, advice and/or support to staff from other disciplines;
-  - (iii) development of technical procedures;
-  - (iv) generation of operational solutions and technical supports for radiation therapy equipment and services.
-- (c) The training required to be undertaken by a Radiation Engineer Grade 3 is:
-  - (i) successfully complete higher/advanced level OEM Linac training and commence other specialised radiotherapy equipment training as required;
-  - (ii) consolidation of radiation training across the various modalities.
-- (d) The cost of the above training will be borne by the Employer.
+- **(a)** A Radiation Engineer who will normally have at least five (5) years of experience, trained in all Linac Modalities who possesses specific knowledge in radiation therapy treatment systems and working in an area that requires high levels of specialist knowledge.
+- **(b)** A Radiation Engineer Grade 3's duties will include some of the following:
+  - **(i)** work undertaken with limited guidance or within broad guidelines such as carrying out diagnostics, trouble shooting, fault finding, repairs and other related maintenance tasks at all sites;
+  - **(ii)** providing education, advice and/or support to staff from other disciplines;
+  - **(iii)** development of technical procedures;
+  - **(iv)** generation of operational solutions and technical supports for radiation therapy equipment and services.
+- **(c)** The training required to be undertaken by a Radiation Engineer Grade 3 is:
+  - **(i)** successfully complete higher/advanced level OEM Linac training and commence other specialised radiotherapy equipment training as required;
+  - **(ii)** consolidation of radiation training across the various modalities.
+- **(d)** The cost of the above training will be borne by the Employer.
 
 **13.4 Radiation Engineer Grade 4**
 
-- (a) A Radiation Engineer who will normally have 10 years Radiation Engineering industry experience. A Radiation Engineer at Grade 4 would possess a comprehensive knowledge covering the majority (ratio 4:5) of the modalities serviced by the Radiation Engineering department.
-- (b) A Radiation Engineer Grade 4's duties will include some of the following:
-  - (i) mentoring and tutoring of junior Radiation Engineers;
-  - (ii) specialist/expert within one (1) or more modalities;
-  - (iii) co-ordination and/or management of a specialist portfolio or administrative function e.g. QMS, Policies and procedures, technical reports;
-  - (iv) possessing sufficient technical knowledge and expertise to creatively seek and implement solutions to new problems;
-  - (v) represent the department in multi-disciplinary meetings and external forums.
-- (c) The training required to be undertaken by a Radiation Engineer Grade 4 is:
-  - (i) be experienced across the majority (ratio 4:5) modalities;
-  - (ii) maintain knowledge and expertise on new and existing equipment across the various modalities;
-  - (iii) be fully trained/competent in OEM and in-house training.
-- (d) The cost of the above training will be borne by the Employer.
+- **(a)** A Radiation Engineer who will normally have 10 years Radiation Engineering industry experience. A Radiation Engineer at Grade 4 would possess a comprehensive knowledge covering the majority (ratio 4:5) of the modalities serviced by the Radiation Engineering department.
+- **(b)** A Radiation Engineer Grade 4's duties will include some of the following:
+  - **(i)** mentoring and tutoring of junior Radiation Engineers;
+  - **(ii)** specialist/expert within one (1) or more modalities;
+  - **(iii)** co-ordination and/or management of a specialist portfolio or administrative function e.g. QMS, Policies and procedures, technical reports;
+  - **(iv)** possessing sufficient technical knowledge and expertise to creatively seek and implement solutions to new problems;
+  - **(v)** represent the department in multi-disciplinary meetings and external forums.
+- **(c)** The training required to be undertaken by a Radiation Engineer Grade 4 is:
+  - **(i)** be experienced across the majority (ratio 4:5) modalities;
+  - **(ii)** maintain knowledge and expertise on new and existing equipment across the various modalities;
+  - **(iii)** be fully trained/competent in OEM and in-house training.
+- **(d)** The cost of the above training will be borne by the Employer.
 
 **13.5 Deputy Chief Radiation Engineer**
 
-- (a) Radiation Engineer who assists and deputises for the Chief Radiation Engineer and performs all the functions of Grade 4.
-- (b) The training required to be undertaken by a Deputy Chief Radiation Engineer is:
-  - (i) be experienced across the majority (ratio 4:5) modalities;
-  - (ii) maintain knowledge and expertise on new and existing equipment across the various modalities;
-  - (iii) be fully trained/competent in OEM and in-house training.
-- (c) The cost of the above training will be borne by the Employer.
+- **(a)** Radiation Engineer who assists and deputises for the Chief Radiation Engineer and performs all the functions of Grade 4.
+- **(b)** The training required to be undertaken by a Deputy Chief Radiation Engineer is:
+  - **(i)** be experienced across the majority (ratio 4:5) modalities;
+  - **(ii)** maintain knowledge and expertise on new and existing equipment across the various modalities;
+  - **(iii)** be fully trained/competent in OEM and in-house training.
+- **(c)** The cost of the above training will be borne by the Employer.
 
 **13.6 Chief Radiation Engineer**
 
@@ -1335,9 +1294,9 @@ The following pay rates will be payable to a Trainee (Research Scientist) that i
 | 4th Year of course | 85% |
 | 5th Year of course and thereafter | 90% |
 
-- (a) Provided that a trainee who is 19 years old must receive no less than 53.6% of the Level A Research Assistant 1 wage rate.
-- (b) Provided that a trainee who is 20 years old must receive no less than 60.3% of the Level A Research Assistant 1 wage rate.
-- (c) Provided that an adult trainee (age of 21 or over) must receive no less than 80% of the Level A Research Assistant 1 wage rate.
+- **(a)** Provided that a trainee who is 19 years old must receive no less than 53.6% of the Level A Research Assistant 1 wage rate.
+- **(b)** Provided that a trainee who is 20 years old must receive no less than 60.3% of the Level A Research Assistant 1 wage rate.
+- **(c)** Provided that an adult trainee (age of 21 or over) must receive no less than 80% of the Level A Research Assistant 1 wage rate.
 
 **14.3 Full-time student**
 
@@ -1352,26 +1311,26 @@ The following pay rates will be payable to a Trainee (Research Scientist) that i
 | A trainee who has passed all of the subjects in the 2nd year of their course, and thereafter | 90% |
 | A trainee who has not passed all of the subjects of study in the 2nd year of the course who is now in their 3rd year of the course, and thereafter | 90% |
 
-- (a) Provided that a trainee who is 19 years old must receive no less than 53.6% of the Level A Research Assistant 1 wage rate.
-- (b) Provided that a trainee who is 20 years old must receive no less than 60.3% of the Level A Research Assistant 1 wage rate.
-- (c) Provided that an adult trainee (age of 21 or over) must receive no less than 80% of the Level A Research Assistant 1 wage rate.
+- **(a)** Provided that a trainee who is 19 years old must receive no less than 53.6% of the Level A Research Assistant 1 wage rate.
+- **(b)** Provided that a trainee who is 20 years old must receive no less than 60.3% of the Level A Research Assistant 1 wage rate.
+- **(c)** Provided that an adult trainee (age of 21 or over) must receive no less than 80% of the Level A Research Assistant 1 wage rate.
 
 **14.4 Level A Research Technologist (Research Scientist)**
 
-- (a) An employee who holds a Bachelor of Science Degree, other science degree, or another appropriate or equivalent qualification as agreed by the Employer and performs research science work. Provided that:
-  - (i) an Employee who holds a four (4) year undergraduate qualification, or a three (3) year undergraduate qualification and is required to do a 12 month internship will commence at the Level A, Research Assistant 2 rate;
-  - (ii) an Employee who holds or is qualified to hold a Bachelor Honours Degree will commence at the Level A, Research Assistant 2 rate;
-  - (iii) an Employee who holds or is qualified to hold a Masters Degree will commence at the Level A, Research Assistant 4 rate;
-  - (iv) an Employee who is undertaking a Doctoral Degree and who has submitted a relevant research work thesis will commence at the Level A, Research Assistant 5 rate;
-  - (v) an Employee who holds or is qualified to hold a Doctoral Degree will commence at the Level A, Research Assistant 6 Officer 1 rate.
+- **(a)** An employee who holds a Bachelor of Science Degree, other science degree, or another appropriate or equivalent qualification as agreed by the Employer and performs research science work. Provided that:
+  - **(i)** an Employee who holds a four (4) year undergraduate qualification, or a three (3) year undergraduate qualification and is required to do a 12 month internship will commence at the Level A, Research Assistant 2 rate;
+  - **(ii)** an Employee who holds or is qualified to hold a Bachelor Honours Degree will commence at the Level A, Research Assistant 2 rate;
+  - **(iii)** an Employee who holds or is qualified to hold a Masters Degree will commence at the Level A, Research Assistant 4 rate;
+  - **(iv)** an Employee who is undertaking a Doctoral Degree and who has submitted a relevant research work thesis will commence at the Level A, Research Assistant 5 rate;
+  - **(v)** an Employee who holds or is qualified to hold a Doctoral Degree will commence at the Level A, Research Assistant 6 Officer 1 rate.
 
   The Employer will not unreasonably withhold its agreement that another qualification is appropriate or is equivalent to a Bachelor of Science Degree or other science degree.
 
-- (b) Definitions — In this clause 14 of Section E of this Appendix 4:
-  - (i) a three (3) year undergraduate qualification or four (4) year undergraduate qualification means a qualification assessed as a Bachelor Degree (or equivalent) under the Australian Qualifications Framework level 7 criteria;
-  - (ii) a Bachelor Honours Degree means a qualification assessed as a Bachelor Honours Degree (or equivalent) under the Australian Qualifications Framework level 8 criteria;
-  - (iii) a Masters Degree means a qualification assessed as a Masters Degree (or equivalent) under the Australian Qualifications Framework level 9 criteria; and
-  - (iv) a Doctoral Degree means a qualification assessed as a Doctoral Degree (or equivalent) under the Australian Qualifications Framework level 10 criteria.
+- **(b)** Definitions — In this clause 14 of Section E of this Appendix 4:
+  - **(i)** a three (3) year undergraduate qualification or four (4) year undergraduate qualification means a qualification assessed as a Bachelor Degree (or equivalent) under the Australian Qualifications Framework level 7 criteria;
+  - **(ii)** a Bachelor Honours Degree means a qualification assessed as a Bachelor Honours Degree (or equivalent) under the Australian Qualifications Framework level 8 criteria;
+  - **(iii)** a Masters Degree means a qualification assessed as a Masters Degree (or equivalent) under the Australian Qualifications Framework level 9 criteria; and
+  - **(iv)** a Doctoral Degree means a qualification assessed as a Doctoral Degree (or equivalent) under the Australian Qualifications Framework level 10 criteria.
 
 **14.5 Level B Research Technologist (Research Scientist)**
 
@@ -1409,8 +1368,8 @@ The director of the research division.
 
 For the purposes of the Award references in this Agreement, the current Health Professional Employee Level 2 classification definition is outlined below:
 
-- (a) A health professional at this level works independently and is required to exercise independent judgment on routine matters. They may require professional supervision from more senior members of the profession or health team when performing novel, complex, or critical tasks. They have demonstrated a commitment to continuing professional development and may have contributed to workplace education through provision of seminars, lectures or in-services. At this level the health professional may be actively involved in quality improvement activities or research.
-- (b) At this level the health professional contributes to the evaluation and analysis of guidelines, policies and procedures applicable to their clinical/professional work and may be required to contribute to the supervision of discipline specific students.
+- **(a)** A health professional at this level works independently and is required to exercise independent judgment on routine matters. They may require professional supervision from more senior members of the profession or health team when performing novel, complex, or critical tasks. They have demonstrated a commitment to continuing professional development and may have contributed to workplace education through provision of seminars, lectures or in-services. At this level the health professional may be actively involved in quality improvement activities or research.
+- **(b)** At this level the health professional contributes to the evaluation and analysis of guidelines, policies and procedures applicable to their clinical/professional work and may be required to contribute to the supervision of discipline specific students.
 
 ---
 
@@ -1418,14 +1377,14 @@ For the purposes of the Award references in this Agreement, the current Health P
 
 For the purposes of the Award references in this Agreement, the current Health Professional Employee Level 3 classification definition is outlined below:
 
-- (a) A health professional at this level would be experienced and be able to independently apply professional knowledge and judgment when performing novel, complex, or critical tasks specific to their discipline. At this level health professionals will have additional responsibilities.
-- (b) An employee at this level:
-  - (i) works in an area that requires high levels of specialist knowledge and skill as recognised by the employer;
-  - (ii) is actively contributing to the development of professional knowledge and skills in their field of work as demonstrated by positive impacts on service delivery, positive referral patterns to area of expertise and quantifiable/measurable improvements in health outcomes;
-  - (iii) may be a sole discipline specific health professional in a metropolitan, regional or rural setting who practices in professional isolation from health professionals from the same discipline;
-  - (iv) is performing across a number of recognised specialties within a discipline;
-  - (v) may be accountable for allocation and/or expenditure of resources and ensuring targets are met and is responsible for ensuring optimal budget outcomes for their customers and communities;
-  - (vi) may be responsible for providing regular feedback and appraisals for senior staff to improve health outcomes for customers and for maintaining a performance management system; and
-  - (vii) is responsible for providing support for the efficient, cost effective and timely delivery of services.
+- **(a)** A health professional at this level would be experienced and be able to independently apply professional knowledge and judgment when performing novel, complex, or critical tasks specific to their discipline. At this level health professionals will have additional responsibilities.
+- **(b)** An employee at this level:
+  - **(i)** works in an area that requires high levels of specialist knowledge and skill as recognised by the employer;
+  - **(ii)** is actively contributing to the development of professional knowledge and skills in their field of work as demonstrated by positive impacts on service delivery, positive referral patterns to area of expertise and quantifiable/measurable improvements in health outcomes;
+  - **(iii)** may be a sole discipline specific health professional in a metropolitan, regional or rural setting who practices in professional isolation from health professionals from the same discipline;
+  - **(iv)** is performing across a number of recognised specialties within a discipline;
+  - **(v)** may be accountable for allocation and/or expenditure of resources and ensuring targets are met and is responsible for ensuring optimal budget outcomes for their customers and communities;
+  - **(vi)** may be responsible for providing regular feedback and appraisals for senior staff to improve health outcomes for customers and for maintaining a performance management system; and
+  - **(vii)** is responsible for providing support for the efficient, cost effective and timely delivery of services.
 
 

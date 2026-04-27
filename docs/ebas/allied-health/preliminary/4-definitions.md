@@ -56,11 +56,9 @@ topics: ['leave', 'hours']
 
 **4.22** Stillborn Child means:
 
-**(a)** a child who weighs at least 400 grams at delivery or whose period of gestation was at least 20 weeks; and
-
-**(b)** who has not breathed since delivery; and
-
-**(c)** whose heart has not beaten since delivery.
+- **(a)** a child who weighs at least 400 grams at delivery or whose period of gestation was at least 20 weeks; and
+- **(b)** who has not breathed since delivery; and
+- **(c)** whose heart has not beaten since delivery.
 
 **4.23** Union means the Health Services Union. The branch of the Health Services Union entitled to represent the Employees covered by the Agreement is the Health Services Union Victoria No. 3 Branch, trading as the Victorian Allied Health Professionals Association (VAHPA). Any obligations and entitlements of the Union under this Agreement are obligations and entitlements of the Health Services Union Victoria No. 3 Branch.
 

@@ -88,14 +88,14 @@ topics: ['discipline', 'union-matters']
 
 - **(a)** Where, after following the procedure in this [clause 16](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance), it is determined based on evidence that the Employee has engaged in Misconduct or Serious Misconduct and that disciplinary action is warranted, the Employer may take disciplinary action, which shall be recorded on the Employee's personnel file, as follows:
     - **(i)** where the Performance or Conduct issue constitutes Misconduct but does not constitute Serious Misconduct, disciplinary action will be taken in accordance with the following steps:
-        - A. counsel the Employee;
-        - B. give the Employee a first written warning in the event that the Employee has been counselled within the previous 12 months for that course of Conduct or Performance issue. The Employer may also give the Employee a first written warning where the seriousness of the conduct is such that counselling the Employee under [subclause 16.5(a)(i)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance)A is not appropriate;
-        - C. give the Employee a second written warning in the event that the Employee has previously been given a first warning within the previous 12 months for that course of Conduct or Performance issue;
-        - D. give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18 month period for that course of Conduct or Performance issue; and
-        - E. terminate the Employee's employment with notice in the case of an Employee who repeats a course of Conduct or Performance issue for which a final warning was given in the preceding 18 months;
+        - **A.** counsel the Employee;
+        - **B.** give the Employee a first written warning in the event that the Employee has been counselled within the previous 12 months for that course of Conduct or Performance issue. The Employer may also give the Employee a first written warning where the seriousness of the conduct is such that counselling the Employee under [subclause 16.5(a)(i)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance)A is not appropriate;
+        - **C.** give the Employee a second written warning in the event that the Employee has previously been given a first warning within the previous 12 months for that course of Conduct or Performance issue;
+        - **D.** give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18 month period for that course of Conduct or Performance issue; and
+        - **E.** terminate the Employee's employment with notice in the case of an Employee who repeats a course of Conduct or Performance issue for which a final warning was given in the preceding 18 months;
     - **(ii)** where the Performance or Conduct issue constitutes Serious Misconduct:
-        - A. terminate the Employee's employment without notice; or
-        - B. alternatively, issue the Employee with a final warning without following the steps in [subclauses 16.5(a)(i)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) above.
+        - **A.** terminate the Employee's employment without notice; or
+        - **B.** alternatively, issue the Employee with a final warning without following the steps in [subclauses 16.5(a)(i)](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance) above.
 - **(b)** The Employer's decision and a summary of its reasons will be notified to the Employee and their representative in writing.
 - **(c)** If after any warning or counselling, a period of 12 or 18 months elapses (as relevant) without the Employee repeating a course of Conduct or Performance issue for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning, and all adverse reports relating to the warning or counselling must be removed from the Employee's personnel file.
 

@@ -10,6 +10,6 @@ topics: ['education', 'professional-development']
 - [79. Professional Development Leave](./education-pd/79-professional-development-leave/)
 - [80. Study Leave](./education-pd/80-study-leave/)
 - [81. Examination Leave](./education-pd/81-examination-leave/)
-- [82. In-Service Education and Training – Royal Children’s](./education-pd/82-in-service-education-and-training-royal-children-s/)
+- [82. In Service Education And Training Royal Children's Hospital and Royal Women’s Hospital](./education-pd/82-in-service-education-and-training-royal-children-s/)
 
 

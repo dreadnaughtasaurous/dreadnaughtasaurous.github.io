@@ -10,11 +10,9 @@ topics: ['leave', 'personal-leave', 'employment', 'preliminary']
 
 **63.1** Subject to the evidence and notice requirements that apply to carer’s leave under [clause 62](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave), a casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to provide care or support to a member of the Employee’s Immediate Family or household because of:
 
-**(a)** a personal illness, or personal injury, affecting them;
-
-**(b)** an unexpected emergency affecting them; or
-
-**(c)** the birth of a child.
+- **(a)** a personal illness, or personal injury, affecting them;
+- **(b)** an unexpected emergency affecting them; or
+- **(c)** the birth of a child.
 
 **63.2** The Employer and the Employee will agree on the period for which the Employee will be entitled to be unavailable to attend work. In the absence of agreement, the Employee is entitled to be unavailable to attend work for up to three (3) days per occasion, which may be taken as a single continuous period of up to three (3) days or any separate periods to which the Employer and Employee agree.
 

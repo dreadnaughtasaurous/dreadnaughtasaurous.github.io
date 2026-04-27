@@ -12,23 +12,17 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **96.2** A specified Employee is a:
 
-**(a)** full-time or part-time Employee with at least 12 months continuous service; and
-
-**(b)** long term casual Employee with a reasonable expectation of continuing employment by the Employer on a regular and systematic basis.
+- **(a)** full-time or part-time Employee with at least 12 months continuous service; and
+- **(b)** long term casual Employee with a reasonable expectation of continuing employment by the Employer on a regular and systematic basis.
 
 **96.3** The specified circumstances are the Employee:
 
-**(a)** is the parent, or has responsibility for the care, of a child who is of school age or younger;
-
-**(b)** is a carer within the meaning of the Carer Recognition Act 2010 (Cth) caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
-
-**(c)** has a disability;
-
-**(d)** is 55 or older;
-
-**(e)** is experiencing violence from a member of the Employee’s family; or
-
-**(f)** provides care or support to a member of the Employee’s Immediate Family, who requires care or support because the member is experiencing violence or abuse from the member’s family.
+- **(a)** is the parent, or has responsibility for the care, of a child who is of school age or younger;
+- **(b)** is a carer within the meaning of the Carer Recognition Act 2010 (Cth) caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
+- **(c)** has a disability;
+- **(d)** is 55 or older;
+- **(e)** is experiencing violence from a member of the Employee’s family; or
+- **(f)** provides care or support to a member of the Employee’s Immediate Family, who requires care or support because the member is experiencing violence or abuse from the member’s family.
 
 **96.4** A specified Employee may request the Employer for a change in working arrangements relating to the circumstances at [subclause 96.3](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements).
 
@@ -44,11 +38,9 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **96.10** Where a request for flexible work arrangements is made, an Employee or Employer is entitled to meet with the other party to discuss:
 
-**(a)** the request;
-
-**(b)** an alternative to the request; or
-
-**(c)** reasons for a refusal on reasonable business grounds.
+- **(a)** the request;
+- **(b)** an alternative to the request; or
+- **(c)** reasons for a refusal on reasonable business grounds.
 
 **96.11** An Employee or Employer may choose to be represented at a meeting under [subclause 96.10](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements) by a representative including a Union or VHIA.
 

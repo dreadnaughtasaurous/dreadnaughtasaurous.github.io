@@ -13,7 +13,7 @@ topics: ['preliminary']
 - [4. Definitions](./preliminary/4-definitions/)
 - [5. Incidence & Coverage](./preliminary/5-incidence-coverage/)
 - [6. Commencement Date and Period of Operation](./preliminary/6-commencement-date-and-period-of-operation/)
-- [7. Relationship To Previous Industrial Instruments and the](./preliminary/7-relationship-to-previous-industrial-instruments-and-the/)
+- [7. Relationship To Previous Industrial Instruments and the NES](./preliminary/7-relationship-to-previous-industrial-instruments-and-the/)
 - [8. Copy of Agreement](./preliminary/8-copy-of-agreement/)
 - [9. No Extra Claims](./preliminary/9-no-extra-claims/)
 - [10. Anti-Discrimination](./preliminary/10-anti-discrimination/)

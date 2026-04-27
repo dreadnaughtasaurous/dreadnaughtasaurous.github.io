@@ -1,10 +1,10 @@
 ---
-title: '3. Allowances And Top Of Band Payments'
+title: 'Appendix 3 - Allowances and Top of Band Payments: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'allowances', 'remuneration', 'rates', 'pay-rates', 'top-of-band', 'cash-payments', 'professional-development', 'salary-circular', 'circular 872']
 ---
 
-# Appendix 3 - Allowances and Top of Band Payments - Allied Health EBA
+# Appendix 3 - Allowances and Top of Band Payments: Allied Health EBA
 
 
 

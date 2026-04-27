@@ -1,14 +1,10 @@
 ---
-title: '7. Relationship To Previous Industrial Instruments And The'
+title: '7. Relationship To Previous Industrial Instruments And The NES'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['disputes', 'preliminary']
 ---
 
-# 7. Relationship To Previous Industrial Instruments And The
-
-
-
-NES
+# 7. Relationship To Previous Industrial Instruments And The NES
 
 **7.1** This is a comprehensive Agreement that operates to the exclusion of any award, workplace determination or other agreement which previously applied to Employees covered by this Agreement. However, any entitlement in the nature of an accrued entitlement to an Employee’s benefit which has accrued under any such previous industrial instrument will not be affected by the making of this Agreement.
 

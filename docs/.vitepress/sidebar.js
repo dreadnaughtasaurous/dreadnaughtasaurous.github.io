@@ -54,7 +54,7 @@ const sidebar = [
         { text: '79. Professional Development Leave', link: '/ebas/allied-health/education-pd/79-professional-development-leave' },
         { text: '80. Study Leave', link: '/ebas/allied-health/education-pd/80-study-leave' },
         { text: '81. Examination Leave', link: '/ebas/allied-health/education-pd/81-examination-leave' },
-        { text: '82. In Service Education And Training Royal Children S', link: '/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s' }
+        { text: '82. In Service Education And Training Royal Childrens Hospital and Royal Womens Hospital', link: '/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s' }
       ] },
     { text: 'Employment', link: '/ebas/allied-health/employment', collapsed: true, items: [
         { text: '17. Types Of Employment', link: '/ebas/allied-health/employment/17-types-of-employment' },
@@ -130,13 +130,13 @@ const sidebar = [
         { text: '4. Definitions', link: '/ebas/allied-health/preliminary/4-definitions' },
         { text: '5. Incidence Coverage', link: '/ebas/allied-health/preliminary/5-incidence-coverage' },
         { text: '6. Commencement Date And Period Of Operation', link: '/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation' },
-        { text: '7. Relationship To Previous Industrial Instruments And The', link: '/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the' },
+        { text: '7. Relationship To Previous Industrial Instruments And The NES', link: '/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the' },
         { text: '8. Copy Of Agreement', link: '/ebas/allied-health/preliminary/8-copy-of-agreement' },
         { text: '9. No Extra Claims', link: '/ebas/allied-health/preliminary/9-no-extra-claims' }
       ] },
     { text: 'Union Matters', link: '/ebas/allied-health/union-matters', collapsed: true, items: [
         { text: '83. Union Matters', link: '/ebas/allied-health/union-matters/83-union-matters' },
-        { text: '84. Best Practice Employment Commitment Committee And', link: '/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and' }
+        { text: '84. Best Practice Employment Commitment Committee And Classification Review', link: '/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and' }
       ] },
     { text: 'Wages', link: '/ebas/allied-health/wages', collapsed: true, items: [
         { text: '28. Wages And Wage Increases', link: '/ebas/allied-health/wages/28-wages-and-wage-increases' },

@@ -14,9 +14,7 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 
 **31.3** The Employee may elect to convert the amount packaged (or part) to salary for any reason, including where salary packaging ceases to be an advantage to the Employee because of subsequent changes to FBT legislation. Any costs associated with the conversion to salary will be borne by the Employee and the Employer will not be liable to make up any benefit lost as a consequence of an Employee's decision to convert to salary.
 
-**31.4** The Employee will be responsible for all costs associated with the administration of their salary packaging arrangements, provided that such costs will be confined to reasonable commercial charges as levied directly by the external salary packaging provider and/or in-house payroll service (as applicable), as varied
-
-from time to time. The Employer will notify the Employee where the charges levied are varied.
+**31.4** The Employee will be responsible for all costs associated with the administration of their salary packaging arrangements, provided that such costs will be confined to reasonable commercial charges as levied directly by the external salary packaging provider and/or in-house payroll service (as applicable), as varied from time to time. The Employer will notify the Employee where the charges levied are varied.
 
 **31.5** Employees who are considering salary packaging should seek independent financial advice. The Employer will not be responsible for the cost or outcome of any such advice.
 

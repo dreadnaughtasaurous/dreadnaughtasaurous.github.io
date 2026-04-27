@@ -12,6 +12,4 @@ topics: ['hours', 'shift-work']
 
 **57.2** An Employee on shift work may elect, with the consent of the Employer, to work make-up time under which the Employee takes time off ordinary hours and works those hours at a later time, at the shift work rate which would have been applicable to the hours taken off.
 
-MATTERS
-
 

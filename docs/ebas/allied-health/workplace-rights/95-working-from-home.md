@@ -10,11 +10,9 @@ topics: ['preliminary']
 
 **95.1** The Employer recognises there may be mutual benefits for both Employees and the Employer to access home based work. The Employer will maintain a working from home policy that provides Employees with a genuine opportunity to work from home where it is reasonable having regard for the circumstances, including:
 
-**(a)** OHS considerations;
-
-**(b)** any current Government directives or recommendations;
-
-**(c)** service delivery requirements.
+- **(a)** OHS considerations;
+- **(b)** any current Government directives or recommendations;
+- **(c)** service delivery requirements.
 
 **95.2** An Employee is entitled to make a request to work from home in accordance with the Employer’s policy.
 

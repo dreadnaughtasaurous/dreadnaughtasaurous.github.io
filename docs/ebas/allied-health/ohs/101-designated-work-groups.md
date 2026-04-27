@@ -12,12 +12,9 @@ topics: ['consultation', 'union-matters', 'ohs']
 
 **101.2** In determining the particulars of DWGs (including number of HSRs), the following considerations will, where practicable, be taken into account:
 
-**(a)** the specific needs, conditions and hazards affecting Employees in the area(s) concerned;
-
-**(b)** the working arrangements, including shiftwork, of Employees in the area(s) concerned;
-
-**(c)** the accessibility of health and safety representatives to Employees in the area(s) concerned; and
-
-**(d)** the geographical layout of the workplace.
+- **(a)** the specific needs, conditions and hazards affecting Employees in the area(s) concerned;
+- **(b)** the working arrangements, including shiftwork, of Employees in the area(s) concerned;
+- **(c)** the accessibility of health and safety representatives to Employees in the area(s) concerned; and
+- **(d)** the geographical layout of the workplace.
 
 
