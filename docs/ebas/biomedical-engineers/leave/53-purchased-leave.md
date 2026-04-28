@@ -14,7 +14,9 @@ This clause does not apply to casual Employees.
 
 **53.2** The additional paid leave is purchased through salary deductions made over the whole year. The amount deducted will correspond with the amount of leave purchased.
 
-Example 1: An Employee who purchases an additional four (4) weeks leave will be paid 48/52 or 92.31% of their ordinary pay throughout the relevant 12 month period. Example 2: An Employee who purchases an additional two (2) weeks leave will be paid 50/52 or 96.15% of their ordinary pay throughout the relevant 12 month period.
+>**Example 1:** 
+>
+>An Employee who purchases an additional four (4) weeks leave will be paid 48/52 or 92.31% of their ordinary pay throughout the relevant 12 month period. Example 2: An Employee who purchases an additional two (2) weeks leave will be paid 50/52 or 96.15% of their ordinary pay throughout the relevant 12 month period.
 
 **53.3** Purchased Leave may be taken in conjunction with other types of leave.
 
@@ -26,18 +28,15 @@ Example 1: An Employee who purchases an additional four (4) weeks leave will be 
 
 **53.7** Where the:
 
-**(a)** arrangement has been varied or cancelled because of extraordinary circumstances;
-
-**(b)** Employee’s employment terminates; or
-
-**(c)** purchased leave has not been taken in the relevant 12-month period; the Employer will refund the amount of salary deducted in respect of any unused purchased leave as a lump sum.
+- **(a)** arrangement has been varied or cancelled because of extraordinary circumstances;
+- **(b)** Employee’s employment terminates; or
+- **(c)** purchased leave has not been taken in the relevant 12-month period; the Employer will refund the amount of salary deducted in respect of any unused purchased leave as a lump sum.
 
 **53.8** Where the Employee’s employment terminates and the amount of purchased leave taken exceeds the amount deducted, the Employer may deduct a sum equal to the negative balance from any remuneration payable to the Employee upon termination of employment.
 
 **53.9** Purchased leave:
 
-**(a)** counts as service for all purposes; and
-
-**(b)** is not annual leave.
+- **(a)** counts as service for all purposes; and
+- **(b)** is not annual leave.
 
 

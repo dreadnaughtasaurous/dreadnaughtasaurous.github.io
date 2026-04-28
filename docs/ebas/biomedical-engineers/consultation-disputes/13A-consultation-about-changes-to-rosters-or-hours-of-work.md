@@ -12,13 +12,10 @@ This [clause 13A](/ebas/biomedical-engineers/consultation-disputes/13A-consultat
 
 **13A.2** The Employer must:
 
-**(a)** consider health and safety impacts including fatigue;
-
-**(b)** provide to the Employee or Employees affected and their representatives, if any, information about the proposed change (for example, information about the nature of the change to the Employee's regular roster or ordinary hours of work and when that change is proposed to commence);
-
-**(c)** invite the Employee or Employees affected and their representatives, if any, to give their views about the impact of the proposed change (including any impact in relation to their family or caring responsibilities); and
-
-**(d)** give genuine consideration to any views about the impact of the proposed change that is given by the Employee or Employees concerned and/or their representatives.
+- **(a)** consider health and safety impacts including fatigue;
+- **(b)** provide to the Employee or Employees affected and their representatives, if any, information about the proposed change (for example, information about the nature of the change to the Employee's regular roster or ordinary hours of work and when that change is proposed to commence);
+- **(c)** invite the Employee or Employees affected and their representatives, if any, to give their views about the impact of the proposed change (including any impact in relation to their family or caring responsibilities); and
+- **(d)** give genuine consideration to any views about the impact of the proposed change that is given by the Employee or Employees concerned and/or their representatives.
 
 **13A.3** The requirement to consult under this [clause 13A](/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work) does not apply to an Employee where the change to an Employee's regular roster or ordinary hours of work is as a consequence of that Employee's irregular, sporadic or unpredictable working hours, self-rostering or, where permitted, a rotating roster.
 

@@ -16,10 +16,8 @@ the Agreement provisions nor their operation are directly or indirectly unlawful
 
 **10.3** Nothing in this clause is taken to affect:
 
-**(a)** any different treatment (or treatment having different effects) which is specifically exempted under Commonwealth or State anti-discrimination legislation;
-
-**(b)** an Employee, Employer or registered organisation, pursuing matters of discrimination in any State or Federal jurisdiction, including any application to the Australian Human Rights Commission; or
-
-**(c)** the exemptions in section 351(2) of the Act.
+- **(a)** any different treatment (or treatment having different effects) which is specifically exempted under Commonwealth or State anti-discrimination legislation;
+- **(b)** an Employee, Employer or registered organisation, pursuing matters of discrimination in any State or Federal jurisdiction, including any application to the Australian Human Rights Commission; or
+- **(c)** the exemptions in section 351(2) of the Act.
 
 

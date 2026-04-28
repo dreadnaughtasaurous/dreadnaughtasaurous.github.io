@@ -12,11 +12,9 @@ topics: ['leave', 'annual-leave', 'wages', 'superannuation']
 
 **52.2** Cashing out of accrued annual leave in accordance with this clause is subject to:
 
-**(a)** Paid annual leave must not be cashed out if the cashing out would result in the Employee’s remaining accrued entitlement to paid annual leave being less than 4 weeks; and
-
-**(b)** Each cashing out of a particular amount of paid annual leave must be by separate agreement in writing between the Employer and Employee; and
-
-**(c)** The Employee must be paid at least the full amount that would have been payable to the Employee had the Employee taken the leave that the Employee has foregone.
+- **(a)** Paid annual leave must not be cashed out if the cashing out would result in the Employee’s remaining accrued entitlement to paid annual leave being less than 4 weeks; and
+- **(b)** Each cashing out of a particular amount of paid annual leave must be by separate agreement in writing between the Employer and Employee; and
+- **(c)** The Employee must be paid at least the full amount that would have been payable to the Employee had the Employee taken the leave that the Employee has foregone.
 
 **52.3** An Employee's accrued annual leave entitlement will be reduced by the amount of annual leave paid out.
 

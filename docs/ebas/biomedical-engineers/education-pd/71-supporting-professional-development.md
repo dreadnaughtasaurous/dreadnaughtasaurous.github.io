@@ -16,18 +16,17 @@ topics: ['leave']
 
 **71.4** Professional Development Allowance This subclause does not apply to casual Employees.
 
-**(a)** Full-time Employees will be entitled to an annual professional development allowance in accordance with the following table: Payment Amount Eligibility Date FFPPOOA commencement of the $1500.00 Agreement
+- **(a)** Full-time Employees will be entitled to an annual professional development allowance in accordance with the following table:
 
-$1545.00 FFPPOOA 1 August 2025
+    | Payment Amount | Eligibility Date |
+    |----------------|-----------------|
+    | $1,500.00 | On commencement of the Agreement |
+    | $1,545.00 | 1 August 2025 |
+    | $1,591.35 | 1 August 2026 |
+    | $1,639.09 | 1 August 2027 and each 1 August thereafter |
 
-$1591.35 FFPPOOA 1 August 2026
-
-FFPPOOA 1 August 2027 and each 1 $1639.09 August thereafter
-
-**(b)** Additional payment Employees who were employed by an Employer on 13 September 2023 and are Employees on commencement of the Agreement are entitled to a once off $500 payment in recognition of the professional development allowance that was not received in 2023.
-
-**(c)** The amounts at [subclause 71.4(a)](/ebas/biomedical-engineers/education-pd/71-supporting-professional-development) and (b) will be paid pro rata for part-time Employees.
-
-**(d)** The professional development allowance is additional to any other allowance or entitlement within this Agreement.
+- **(b)** Additional payment Employees who were employed by an Employer on 13 September 2023 and are Employees on commencement of the Agreement are entitled to a once off $500 payment in recognition of the professional development allowance that was not received in 2023.
+- **(c)** The amounts at [subclause 71.4(a)](/ebas/biomedical-engineers/education-pd/71-supporting-professional-development) and (b) will be paid pro rata for part-time Employees.
+- **(d)** The professional development allowance is additional to any other allowance or entitlement within this Agreement.
 
 

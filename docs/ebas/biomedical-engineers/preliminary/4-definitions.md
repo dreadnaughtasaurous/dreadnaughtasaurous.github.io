@@ -6,8 +6,6 @@ topics: ['leave', 'hours']
 
 # 4. Definitions
 
-
-
 **4.1** Act means the Fair Work Act 2009 (Cth), or its successor.
 
 **4.2** Agreement means the Biomedical Engineers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2024-2028.
@@ -22,11 +20,11 @@ topics: ['leave', 'hours']
 
 **4.7** Experienced Engineer means a professional engineer with the undermentioned qualifications engaged in any particular employment where the adequate discharge of any portion of the duties requires qualifications of the employee as (or at least equal to those of) a member of Engineers Australia. The qualifications are as follows:
 
-**(a)** membership of Engineers Australia; or
+- **(a)** membership of Engineers Australia; or
+- **(b)** having graduated in a four or five year course at a university recognised by Engineers Australia, four years’ experience on professional engineering duties since becoming a Qualified Engineer; or
+- **(c)** not having so graduated, five years of such experience.
 
-**(b)** having graduated in a four or five year course at a university recognised by Engineers Australia, four years’ experience on professional engineering duties since becoming a Qualified Engineer; or
-
-**(c)** not having so graduated, five years of such experience. Note: An experienced engineer with 5 years’ experience must still hold a three-year engineering degree or equivalent diploma.
+> **Note:** An experienced engineer with 5 years’ experience must still hold a three-year engineering degree or equivalent diploma.
 
 **4.8** FFPPOA means the first full pay period on or after.
 
@@ -34,9 +32,8 @@ topics: ['leave', 'hours']
 
 **4.10** Immediate Family means:
 
-**(a)** a Spouse, Child, parent, grandparent, grandchild or sibling of the Employee; or
-
-**(b)** a child, parent, grandparent, grandchild or sibling of a Spouse of the Employee.
+- **(a)** a Spouse, Child, parent, grandparent, grandchild or sibling of the Employee; or
+- **(b)** a child, parent, grandparent, grandchild or sibling of a Spouse of the Employee.
 
 **4.11** National Employment Standards or NES means Part 2-2 of the Act as amended from time to time.
 
@@ -48,15 +45,11 @@ topics: ['leave', 'hours']
 
 **4.15** Reasonable Business Grounds include but are not limited to the request / proposal (however titled) being the following:
 
-**(a)** too costly for the employer;
-
-**(b)** that there is no capacity to change the working arrangements of other employees to accommodate;
-
-**(c)** that it would be impractical to change the working arrangements of other employees, or recruit new employees, to accommodate
-
-**(d)** likely to result in a significant loss in efficiency or productivity;
-
-**(e)** likely to have a significant negative impact on customer service.
+- **(a)** too costly for the employer;
+- **(b)** that there is no capacity to change the working arrangements of other employees to accommodate;
+- **(c)** that it would be impractical to change the working arrangements of other employees, or recruit new employees, to accommodate
+- **(d)** likely to result in a significant loss in efficiency or productivity;
+- **(e)** likely to have a significant negative impact on customer service.
 
 **4.16** Registered Health Practitioner means an individual who is registered under the Health Practitioner Regulation National Law (as adopted in the applicable State or Territory) to practice a health profession, other than as a student.
 
@@ -66,11 +59,9 @@ topics: ['leave', 'hours']
 
 **4.19** Stillborn or Stillborn Child means:
 
-**(a)** a child who weighs at least 400 grams at delivery or whose period of gestation was at least 20 weeks; and
-
-**(b)** who has not breathed since delivery; and
-
-**(c)** whose heart has not beaten since delivery.
+- **(a)** a child who weighs at least 400 grams at delivery or whose period of gestation was at least 20 weeks; and
+- **(b)** who has not breathed since delivery; and
+- **(c)** whose heart has not beaten since delivery.
 
 **4.20** Union means the Association of Professional Engineers, Scientists and Managers, Australia trading as Professionals Australia.
 
@@ -81,5 +72,3 @@ topics: ['leave', 'hours']
 **4.23** 2022 Agreement means the Biomedical Engineers (Victorian Public Sector) Enterprise Agreement 2022-2023.
 
 Plain language terms: glossary, meanings.
-
-

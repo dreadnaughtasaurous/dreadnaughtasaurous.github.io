@@ -12,11 +12,9 @@ Activities
 
 **65.1** An Employee who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to paid/unpaid leave for:
 
-**(a)** time when the Employee engages in the activity;
-
-**(b)** reasonable travelling time associated with the activity; and
-
-**(c)** reasonable rest time immediately following the activity.
+- **(a)** time when the Employee engages in the activity;
+- **(b)** reasonable travelling time associated with the activity; and
+- **(c)** reasonable rest time immediately following the activity.
 
 **65.2** The Employee must advise the Employer as soon as reasonably practicable, which may be at a time after the absence has started, if the Employee is requested to attend a voluntary emergency management activity and must advise the Employer of the expected or likely duration of the Employee’s attendance. The Employee must provide a certificate of attendance or other evidence that would satisfy a reasonable person of attendance where requested by the Employer.
 

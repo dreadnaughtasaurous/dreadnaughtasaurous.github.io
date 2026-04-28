@@ -195,7 +195,7 @@ const sidebar = [
         { text: '74. Examination Leave', link: '/ebas/biomedical-engineers/education-pd/74-examination-leave' },
         { text: '75. Staff Appraisals', link: '/ebas/biomedical-engineers/education-pd/75-staff-appraisals' },
         { text: '76. Vacancies', link: '/ebas/biomedical-engineers/education-pd/76-vacancies' },
-        { text: '77. Replacement Positions The Royal Children S And The Royal Wom', link: '/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom' }
+        { text: "77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only)", link: '/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom' }
       ] },
     { text: 'Employment', link: '/ebas/biomedical-engineers/employment', collapsed: true, items: [
         { text: '17. Secure Employment', link: '/ebas/biomedical-engineers/employment/17-secure-employment' },
@@ -225,7 +225,7 @@ const sidebar = [
         { text: '51. Annual Leave', link: '/ebas/biomedical-engineers/leave/51-annual-leave' },
         { text: '52. Cashing Out Of Annual Leave', link: '/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave' },
         { text: '53. Purchased Leave', link: '/ebas/biomedical-engineers/leave/53-purchased-leave' },
-        { text: '54. Personal Carer S Leave', link: '/ebas/biomedical-engineers/leave/54-personal-carer-s-leave' },
+        { text: "54. Personal Carer's Leave", link: '/ebas/biomedical-engineers/leave/54-personal-carer-s-leave' },
         { text: '55. Fitness For Work', link: '/ebas/biomedical-engineers/leave/55-fitness-for-work' },
         { text: '56. Family Violence Leave', link: '/ebas/biomedical-engineers/leave/56-family-violence-leave' },
         { text: '57. Compassionate Leave', link: '/ebas/biomedical-engineers/leave/57-compassionate-leave' },
@@ -245,9 +245,6 @@ const sidebar = [
       ] },
     { text: 'Preliminary', link: '/ebas/biomedical-engineers/preliminary', collapsed: true, items: [
         { text: '1. Title', link: '/ebas/biomedical-engineers/preliminary/1-title' },
-        { text: '10. Anti Discrimination', link: '/ebas/biomedical-engineers/preliminary/10-anti-discrimination' },
-        { text: '11. Individual Flexibility Arrangements', link: '/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements' },
-        { text: '12. Transfer Of Business', link: '/ebas/biomedical-engineers/preliminary/12-transfer-of-business' },
         { text: '2. Index', link: '/ebas/biomedical-engineers/preliminary/2-index' },
         { text: '3. Arrangement', link: '/ebas/biomedical-engineers/preliminary/3-arrangement' },
         { text: '4. Definitions', link: '/ebas/biomedical-engineers/preliminary/4-definitions' },
@@ -255,7 +252,10 @@ const sidebar = [
         { text: '6. Commencement Date And Period Of Operation', link: '/ebas/biomedical-engineers/preliminary/6-commencement-date-and-period-of-operation' },
         { text: '7. No Extra Claims', link: '/ebas/biomedical-engineers/preliminary/7-no-extra-claims' },
         { text: '8. Relationship To Previous Industrial Instruments And', link: '/ebas/biomedical-engineers/preliminary/8-relationship-to-previous-industrial-instruments-and' },
-        { text: '9. Copy Of Agreement', link: '/ebas/biomedical-engineers/preliminary/9-copy-of-agreement' }
+        { text: '9. Copy Of Agreement', link: '/ebas/biomedical-engineers/preliminary/9-copy-of-agreement' },
+        { text: '10. Anti Discrimination', link: '/ebas/biomedical-engineers/preliminary/10-anti-discrimination' },
+        { text: '11. Individual Flexibility Arrangements', link: '/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements' },
+        { text: '12. Transfer Of Business', link: '/ebas/biomedical-engineers/preliminary/12-transfer-of-business' }
       ] },
     { text: 'Union Matters', link: '/ebas/biomedical-engineers/union-matters', collapsed: true, items: [
         { text: '78. Union Matters', link: '/ebas/biomedical-engineers/union-matters/78-union-matters' },

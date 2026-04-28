@@ -16,11 +16,9 @@ topics: ['hours', 'overtime', 'employment', 'preliminary']
 
 **20.4** Payments A casual Employee will be paid for all work, other than for overtime (see [subclause 46.3(b)](/ebas/biomedical-engineers/hours-of-work/46-overtime)), performed on a:
 
-**(a)** weekday - an amount equal to one thirty eighth (1/38th) of the weekly wage appropriate to the Employee's classification per hour plus 25%;
-
-**(b)** Saturday or Sunday - an amount equal to one thirty eighth (1/38th) of the weekly wage appropriate to the Employee's classification plus 75%; and
-
-**(c)** Public holiday - an amount equal to one thirty eighth (1/38th) of the weekly wage appropriate to the Employee's classification plus 75%.
+- **(a)** weekday - an amount equal to one thirty eighth (1/38th) of the weekly wage appropriate to the Employee's classification per hour plus 25%;
+- **(b)** Saturday or Sunday - an amount equal to one thirty eighth (1/38th) of the weekly wage appropriate to the Employee's classification plus 75%; and
+- **(c)** Public holiday - an amount equal to one thirty eighth (1/38th) of the weekly wage appropriate to the Employee's classification plus 75%.
 
 **20.5** Overtime also applies to casual employees.
 
