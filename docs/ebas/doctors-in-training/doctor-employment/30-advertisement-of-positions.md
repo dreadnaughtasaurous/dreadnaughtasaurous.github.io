@@ -6,8 +6,6 @@ topics: ['employment']
 
 # 30. Advertisement Of Positions
 
-
-
 Any notice, circular or advertisement for a position covered by the Agreement must specify the applicable rate of pay and classification.
 
 Plain language terms: job ads, vacancy advertising.

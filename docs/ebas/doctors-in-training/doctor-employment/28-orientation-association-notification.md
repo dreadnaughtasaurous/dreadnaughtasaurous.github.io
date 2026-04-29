@@ -6,8 +6,6 @@ topics: ['employment']
 
 # 28. Orientation Association Notification
 
-
-
 **28.1** On a quarterly basis, the Health Service must provide the Association with the dates, times and venues of any orientation/induction programs involving Doctors and the Association must be permitted to attend such programs.
 
 **28.2** Where the dates of these programs are fixed in advance, a list should be sent to the Association as soon as possible.

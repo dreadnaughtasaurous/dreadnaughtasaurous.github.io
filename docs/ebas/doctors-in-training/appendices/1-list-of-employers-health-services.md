@@ -1,10 +1,10 @@
 ---
-title: 'Appendix 1 - List Of Employers / Health Services - Doctors in Training EBA'
+title: 'Appendix 1 - List Of Employers / Health Services: Doctors in Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'coverage']
 ---
 
-# Appendix 1 - List Of Employers / Health Services - Doctors in Training EBA
+# Appendix 1 - List Of Employers / Health Services: Doctors in Training EBA
 
 
 1. Albury Wodonga Health (Wodonga Hospital only)

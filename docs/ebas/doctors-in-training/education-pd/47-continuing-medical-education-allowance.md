@@ -6,8 +6,6 @@ topics: ['allowances', 'employment', 'preliminary', 'professional-development']
 
 # 47. Continuing Medical Education Allowance
 
-
-
 **47.1** Doctors are entitled to Continuing Medical Education (CME), paid weekly as an allowance described at [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions), Table 2.1.
 
 **47.2** The CME allowance is payable on a pro-rata basis for part-time Doctors.

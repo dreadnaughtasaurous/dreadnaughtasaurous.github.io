@@ -16,7 +16,8 @@ topics: ['leave', 'hours', 'overtime', 'shift-work']
 
 **18.4** A part-time Registrar will be paid an hourly rate equal to 1/43rd of the weekly salary for the Doctor’s classification. A Registrar will also receive Training Time in accordance with [clause 34](/ebas/doctors-in-training/hours-of-work/34-training-time) (Training Time) on a pro-rata basis having regard to their part-time fraction.
 
-Example: A part-time Registrar engaged on a 0.5 EFT contract will receive 2.5 hours Training Time per week.
+>**Example:** 
+>A part-time Registrar engaged on a 0.5 EFT contract will receive 2.5 hours Training Time per week.
 
 **18.5** Where expressly provided, a part-time Doctor is entitled to be paid for penalties and allowances on a pro-rata basis.
 

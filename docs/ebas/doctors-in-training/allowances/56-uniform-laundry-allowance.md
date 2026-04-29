@@ -10,9 +10,8 @@ topics: ['allowances', 'uniforms']
 
 **56.1** A Doctor must either:
 
-**(a)** be supplied with sufficient suitable and serviceable uniforms that must be laundered at the expense of the Health Service; or
-
-**(b)** be paid a Uniforms and Laundry Allowance pursuant to [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions), Table 2.3. The Health Service must either launder or pay for the laundering of such uniform.
+- **(a)** be supplied with sufficient suitable and serviceable uniforms that must be laundered at the expense of the Health Service; or
+- **(b)** be paid a Uniforms and Laundry Allowance pursuant to [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions), Table 2.3. The Health Service must either launder or pay for the laundering of such uniform.
 
 **56.2** The Health Service may deem scrubs or similar to constitute a uniform for the purposes of this [clause 56](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance).
 

@@ -1,12 +1,10 @@
 ---
-title: '6. Relationship To Previous Awards Agreements And The Nes'
+title: '6. Relationship To Previous Awards Agreements And The NES'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']
 ---
 
-# 6. Relationship To Previous Awards Agreements And The Nes
-
-
+# 6. Relationship To Previous Awards Agreements And The NES
 
 **6.1** This is a comprehensive agreement that regulates all terms and conditions of employment and expressly excludes and displaces the operation of all prior agreements and any Award(s) that may otherwise apply.
 

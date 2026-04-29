@@ -6,8 +6,6 @@ topics: ['preliminary']
 
 # 5. Date And Period Of Operation
 
-
-
 **5.1** This Agreement will operate seven days after the date upon which it is approved by the FWC.
 
 **5.2** The nominal expiry date of this Agreement is 28 February 2026.

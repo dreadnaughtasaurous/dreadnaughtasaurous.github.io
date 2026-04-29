@@ -429,7 +429,7 @@ const sidebar = [
         { text: '67. Parental Leave', link: '/ebas/doctors-in-training/leave/67-parental-leave' },
         { text: '68. Long Service Leave', link: '/ebas/doctors-in-training/leave/68-long-service-leave' },
         { text: '69. Jury Service Leave', link: '/ebas/doctors-in-training/leave/69-jury-service-leave' },
-        { text: '70. Leave To Engage In Voluntary Emergency Management', link: '/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '70. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management' },
         { text: '70A. Absences On Defence Leave', link: '/ebas/doctors-in-training/leave/70A-absences-on-defence-leave' },
         { text: '70B. Special Disaster Leave', link: '/ebas/doctors-in-training/leave/70B-special-disaster-leave' },
         { text: '71. Family Violence Leave', link: '/ebas/doctors-in-training/leave/71-family-violence-leave' }
@@ -440,7 +440,7 @@ const sidebar = [
         { text: '3. Definitions', link: '/ebas/doctors-in-training/preliminary/3-definitions' },
         { text: '4. Coverage', link: '/ebas/doctors-in-training/preliminary/4-coverage' },
         { text: '5. Date And Period Of Operation', link: '/ebas/doctors-in-training/preliminary/5-date-and-period-of-operation' },
-        { text: '6. Relationship To Previous Awards Agreements And The Nes', link: '/ebas/doctors-in-training/preliminary/6-relationship-to-previous-awards-agreements-and-the-nes' },
+        { text: '6. Relationship To Previous Awards Agreements And The NES', link: '/ebas/doctors-in-training/preliminary/6-relationship-to-previous-awards-agreements-and-the-nes' },
         { text: '7. Savings', link: '/ebas/doctors-in-training/preliminary/7-savings' },
         { text: '8. No Extra Claims', link: '/ebas/doctors-in-training/preliminary/8-no-extra-claims' },
         { text: '9. Nature Of Relationship', link: '/ebas/doctors-in-training/preliminary/9-nature-of-relationship' }

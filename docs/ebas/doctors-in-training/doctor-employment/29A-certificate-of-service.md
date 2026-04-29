@@ -6,19 +6,13 @@ topics: ['leave', 'personal-leave', 'long-service-leave', 'employment', 'termina
 
 # 29A. Certificate Of Service
 
-
-
 **29A.1** The Health Service will record the following particulars in respect of each Doctor:
 
-**(a)** Date of commencement of employment;
-
-**(b)** Date of termination of employment;
-
-**(c)** Total period of service (years and months);
-
-**(d)** Long Service Leave taken during the period of service, or payments made in lieu thereof; and
-
-**(e)** Accumulated personal/carer’s leave at termination.
+- **(a)** Date of commencement of employment;
+- **(b)** Date of termination of employment;
+- **(c)** Total period of service (years and months);
+- **(d)** Long Service Leave taken during the period of service, or payments made in lieu thereof; and
+- **(e)** Accumulated personal/carer’s leave at termination.
 
 **29A.2** On request, a copy of the record will be furnished to the Doctor.
 

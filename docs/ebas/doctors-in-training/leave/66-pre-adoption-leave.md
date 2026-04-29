@@ -6,8 +6,6 @@ topics: ['leave', 'parental-leave', 'preliminary']
 
 # 66. Pre Adoption Leave
 
-
-
 **66.1** A Doctor seeking to adopt a child is, on the production of satisfactory evidence if required, entitled to unpaid leave for the purpose of attending any interviews or examinations necessary to the adoption procedure.
 
 **66.2** The Doctor and the Health Service may agree on the length of the unpaid leave.

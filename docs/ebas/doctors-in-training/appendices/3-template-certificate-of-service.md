@@ -1,10 +1,10 @@
 ---
-title: 'Appendix 3 – Template Certificate of Service - Doctors In Training EBA'
+title: 'Appendix 3 – Template Certificate of Service: Doctors In Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 
-# Appendix 3 – Template Certificate of Service - Doctors In Training EBA
+# Appendix 3 – Template Certificate of Service: Doctors In Training EBA
 
 <div style="border: 1px solid currentColor; padding: 1.5rem; margin-top: 1rem;">
 
