@@ -6,9 +6,7 @@ topics: ['wages', 'superannuation', 'employment', 'union-matters', 'delegates', 
 
 # 3. Definitions And Interpretation
 
-
-
-1.  In this award, unless the contrary intention appears:
+**3.1** In this award, unless the contrary intention appears:
 
 **Act** means the *Fair Work Act 2009* (Cth)
 
@@ -24,7 +22,9 @@ topics: ['wages', 'superannuation', 'employment', 'union-matters', 'delegates', 
 
 **casual employee** has the meaning given by section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 
-NOTE: Section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028) was amended with effect from 26 August 2024. Under clause 102(3) of Schedule 1 to the [Act](http://www.legislation.gov.au/Series/C2009A00028), an existing employee who was a casual employee of an employer under section 15A as it was immediately before that date is taken to be a casual employee of the employer for the purposes of section 15A after that date.
+> **Note:** 
+>
+>Section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028) was amended with effect from 26 August 2024. Under clause 102(3) of Schedule 1 to the [Act](http://www.legislation.gov.au/Series/C2009A00028), an existing employee who was a casual employee of an employer under section 15A as it was immediately before that date is taken to be a casual employee of the employer for the purposes of section 15A after that date.
 
 **childcare** means a program providing care, support supervision and development for children
 
@@ -64,9 +64,8 @@ NOTE: Section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028)
 
 **preschool** means a kindergarten, day school or nursery school and will include:
 
-a\. a full day care centre which means an establishment which does not operate on a sessional basis, but which usually operates during hours and terms which approximate those of a recognised school.
-
-b\. a sessional care centre which means an establishment which operates on the basis of morning and/or afternoon sessions and which usually operates during hours and terms which approximate those of a recognised school.
+- **(a)** a full day care centre which means an establishment which does not operate on a sessional basis, but which usually operates during hours and terms which approximate those of a recognised school.
+- **(b)** a sessional care centre which means an establishment which operates on the basis of morning and/or afternoon sessions and which usually operates during hours and terms which approximate those of a recognised school.
 
 **regular casual employee** has the meaning given by section 12 of the Act.
 
@@ -84,8 +83,6 @@ b\. a sessional care centre which means an establishment which operates on the b
 
 **workplace delegate** has the meaning given by section 350C(1) of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 
-1.  Where this award refers to a condition of employment provided for in the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf), the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf) definition applies.
+**3.2** Where this award refers to a condition of employment provided for in the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf), the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf) definition applies.
 
 Plain language terms: glossary, meanings.
-
-

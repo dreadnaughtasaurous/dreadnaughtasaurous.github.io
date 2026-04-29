@@ -318,14 +318,14 @@ const sidebar = [
         { text: '28. Family And Domestic Violence Leave', link: '/ebas/childrens-services/leave/28-family-and-domestic-violence-leave' }
       ] },
     { text: 'Schedules', link: '/ebas/childrens-services/schedules', collapsed: true, items: [
-        { text: 'A Transitional Provisions', link: '/ebas/childrens-services/schedules/a-transitional-provisions' },
-        { text: 'B Classification Structure', link: '/ebas/childrens-services/schedules/b-classification-structure' },
-        { text: 'C Supported Wage System', link: '/ebas/childrens-services/schedules/c-supported-wage-system' },
-        { text: 'D National Training Wage', link: '/ebas/childrens-services/schedules/d-national-training-wage' },
-        { text: 'E School Based Apprentices', link: '/ebas/childrens-services/schedules/e-school-based-apprentices' },
-        { text: 'F Agreement To Take Annual Leave In Advance', link: '/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance' },
-        { text: 'G Agreement To Cash Out Annual Leave', link: '/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave' },
-        { text: 'H Agreement For Time Off Instead Of Payment For Overtime', link: '/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime' }
+        { text: 'A - Transitional Provisions', link: '/ebas/childrens-services/schedules/a-transitional-provisions' },
+        { text: 'B - Classification Structure', link: '/ebas/childrens-services/schedules/b-classification-structure' },
+        { text: 'C - Supported Wage System', link: '/ebas/childrens-services/schedules/c-supported-wage-system' },
+        { text: 'D - National Training Wage', link: '/ebas/childrens-services/schedules/d-national-training-wage' },
+        { text: 'E - School Based Apprentices', link: '/ebas/childrens-services/schedules/e-school-based-apprentices' },
+        { text: 'F - Agreement To Take Annual Leave In Advance', link: '/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance' },
+        { text: 'G - Agreement To Cash Out Annual Leave', link: '/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave' },
+        { text: 'H - Agreement For Time Off Instead Of Payment For Overtime', link: '/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime' }
       ] },
     { text: 'Wages', link: '/ebas/childrens-services/wages', collapsed: true, items: [
         { text: '13. Classifications', link: '/ebas/childrens-services/wages/13-classifications' },

@@ -1,37 +1,53 @@
 ---
-title: 'G Agreement To Cash Out Annual Leave'
+title: "Schedule G - Agreement To Cash Out Annual Leave: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'leave', 'annual-leave']
 ---
 
-# G Agreement To Cash Out Annual Leave
+# Schedule G - Agreement To Cash Out Annual Leave: Children's Services EBA
 
 
 
 Link to PDF copy of [Agreement to Cash Out Annual Leave](https://www.fwc.gov.au/documents/awards/resources/cash-out-agreement.pdf).
 
-Name of employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-Name of employer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Name of employee: _____________________________________________
 
-**The employer and employee agree to the employee cashing out a particular amount of the employee's accrued paid annual leave:**
+Name of employer: _____________________________________________
 
-The amount of leave to be cashed out is: \_\_\_\_ hours/days
+ 
 
-The payment to be made to the employee for the leave is: \\\_\_\_\_\_\_\_ subject to deduction of income tax/after deduction of income tax (strike out where not applicable)
+The employer and employee agree to the employee cashing out a particular amount of the employee’s accrued paid annual leave:
 
-The payment will be made to the employee on: \_\_\_/\_\_\_/20\_\_\_
+The amount of leave to be cashed out is: ____ hours/days
 
-Signature of employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+The payment to be made to the employee for the leave is: $_______ subject to deduction of income tax/after deduction of income tax (strike out where not applicable)
 
-Date signed: \_\_\_/\_\_\_/20\_\_\_
+The payment will be made to the employee on: ___/___/20___
 
-Name of employer representative: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ 
 
-Signature of employer representative: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature of employee: ________________________________________
 
-Date signed: \_\_\_/\_\_\_/20\_\_\_
+Date signed: ___/___/20___
 
-+----------------------------------------------------------------------+ | *Include if the employee is under 18 years of age:* | | | | Name of parent/guardian: | | \_\_\_\_\_\_ | | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | | Signature of parent/guardian: | | \_\_\_\_\_\_ | | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | | | Date signed: \_\_\_/\_\_\_/20\_\_\_ | +----------------------------------------------------------------------+
+ 
+
+Name of employer representative: ________________________________________
+
+Signature of employer representative: ________________________________________
+
+Date signed: ___/___/20___
+
+>*Include if the employee is under 18 years of age:*
+
+ 
+
+Name of parent/guardian: ________________________________________
+
+Signature of parent/guardian: ________________________________________
+
+Date signed: ___/___/20___ 
 
 

@@ -1,39 +1,49 @@
 ---
-title: 'H Agreement For Time Off Instead Of Payment For Overtime'
+title: "Schedule H - Agreement For Time Off Instead Of Payment For Overtime: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'hours', 'overtime']
 ---
 
-# H Agreement For Time Off Instead Of Payment For Overtime
+# Schedule H - Agreement For Time Off Instead Of Payment For Overtime: Children's Services EBA
 
-
-
-Payment for Overtime
+>[Sched I inserted by PR584086 ppc 22Aug16; renumbered as Sched H by PR747480 ppc 14Nov22]
 
 Link to PDF copy of [Agreement for Time Off Instead of Payment for Overtime](https://www.fwc.gov.au/documents/awards/resources/toil-agreement.pdf).
 
-Name of employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-Name of employer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Name of employee: _____________________________________________
 
-**The employer and employee agree that the employee may take time off instead of being paid for the following amount of overtime that has been worked by the employee:**
+Name of employer: _____________________________________________
 
-Date and time overtime started: \_\_\_/\_\_\_/20\_\_\_ \_\_\_\_ am/pm
+The employer and employee agree that the employee may take time off instead of being paid for the following amount of overtime that has been worked by the employee:
 
-Date and time overtime ended: \_\_\_/\_\_\_/20\_\_\_ \_\_\_\_ am/pm
+Date and time overtime started: ___/___/20___ ____ am/pm
 
-Amount of overtime worked: \_\_\_\_\_\_\_ hours and \_\_\_\_\_\_ minutes
+Date and time overtime ended: ___/___/20___ ____ am/pm
 
-**The employer and employee further agree that, if requested by the employee at any time, the employer must pay the employee for overtime covered by this agreement but not taken as time off. Payment must be made at the overtime rate applying to the overtime when worked and must be made in the next pay period following the request.**
+Amount of overtime worked: _______ hours and ______ minutes
 
-Signature of employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ 
 
-Date signed: \_\_\_/\_\_\_/20\_\_\_
+The employer and employee further agree that, if requested by the employee at any time, the employer must pay the employee for overtime covered by this agreement but not taken as time off. Payment must be made at the overtime rate applying to the overtime when worked and must be made in the next pay period following the request.
 
-Name of employer representative: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ 
 
-Signature of employer representative: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature of employee: ________________________________________
 
-Date signed: \_\_\_/\_\_\_/20\_\_\_
+Date signed: ___/___/20___
+
+ 
+
+Name of employer representative: ________________________________________
+
+Signature of employer representative: ________________________________________
+
+Date signed: ___/___/20___
+
+---
+
+>[Schedule X—Additional Measures During the COVID-19 Pandemic inserted by PR718141 ppc 08Apr20; varied by PR720705, PR723048, PR728080, PR736911; deleted by PR746868 ppc 17Oct22]
 
 
