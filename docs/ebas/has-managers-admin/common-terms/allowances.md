@@ -8,7 +8,7 @@ topics: ['allowances', 'definitions']
 
 
 - [37. Lead Apron Allowance](./allowances/37-lead-apron-allowance/)
-- [38. Supported Wage System for Employees with a](./allowances/38-supported-wage-system-for-employees-with-a/)
+- [38. Supported Wage System for Employees with a Disability](./allowances/38-supported-wage-system-for-employees-with-a/)
 - [39. Meal Allowances](./allowances/39-meal-allowances/)
 - [40. Telephone Allowance](./allowances/40-telephone-allowance/)
 - [41. Travelling Allowance](./allowances/41-travelling-allowance/)

@@ -6,8 +6,6 @@ topics: ['hours', 'overtime', 'shift-work', 'allowances']
 
 # 39. Meal Allowances
 
-
-
 **39.1** Where an Employee is required to work overtime Monday to Friday (inclusive) for more than one hour after the usual finish time, or in the case of shift workers when the overtime exceeds one hour, or on a Saturday/Sunday for more than 5 hours, the Employer will either supply the Employee with an adequate meal or pay a meal allowance.
 
 **39.2** Where such overtime exceeds 4 hours Monday to Friday (inclusive), or 9 hours on a Saturday/Sunday, the Employer will either supply the Employee with a further adequate meal or pay a further meal allowance.

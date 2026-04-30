@@ -6,9 +6,7 @@ topics: ['leave']
 
 # 13. Examination Leave
 
-
-
-This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.
+*This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.*
 
 **13.1** An Employee will be granted leave on full pay in order to attend examinations necessary to obtain higher qualifications in such courses as are undertaken with the knowledge and approval of the Employer.
 
@@ -19,5 +17,3 @@ This clause only applies to Managers and Administrative Workers not employed by 
 **13.4** Leave with pay granted under the provisions of this clause will not exceed six clear working days per year.
 
 Plain language terms: exam leave.
-
-

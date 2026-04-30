@@ -469,7 +469,7 @@ const sidebar = [
     { text: 'Common Terms', link: '/ebas/has-managers-admin/common-terms', collapsed: true, items: [
         { text: 'Allowances', link: '/ebas/has-managers-admin/common-terms/allowances', collapsed: true, items: [
         { text: '37. Lead Apron Allowance', link: '/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance' },
-        { text: '38. Supported Wage System For Employees With A', link: '/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a' },
+        { text: '38. Supported Wage System For Employees With a Disability', link: '/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a' },
         { text: '39. Meal Allowances', link: '/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances' },
         { text: '40. Telephone Allowance', link: '/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance' },
         { text: '41. Travelling Allowance', link: '/ebas/has-managers-admin/common-terms/allowances/41-travelling-allowance' },
@@ -589,14 +589,14 @@ const sidebar = [
         { text: '34. Transition To New Instrument Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure' },
         { text: '35. Transition To New Theatre Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure' },
         { text: '36. Transition Of All Other Employees', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/36-transition-of-all-other-employees' },
-        { text: '37. Introduction Of Revised Food Services Classification', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification' },
-        { text: '38. Introduction Of Revised General Services Classification', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification' },
+        { text: '37. Introduction Of Revised Food Services Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification' },
+        { text: '38. Introduction Of Revised General Services Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification' },
         { text: '39. Introduction Of Revised Pathology Collector Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure' },
-        { text: '40. Introduction Of Revised Allied Health Assistant', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant' },
-        { text: '41. Introduction Of Revised Health Care Worker', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker' },
+        { text: '40. Introduction Of Revised Allied Health Assistant Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant' },
+        { text: '41. Introduction Of Revised Health Care Worker Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker' },
         { text: '42. Dental Assistants Working In Mobile Dental Programs', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs' },
-        { text: '43. Wage Skill Group 1. Translation', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/43-wage-skill-group-1-translation' },
-        { text: '44. Introduction Of Lifestyle Assistant And Complimentary', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary' },
+        { text: '43. Wage Skill Group 1 Translation', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/43-wage-skill-group-1-translation' },
+        { text: '44. Introduction Of Lifestyle Assistant And Complimentary Therapies Worker Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary' },
         { text: '45. Dual Part Time Appointments', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments' },
         { text: '46. Clinical Services Enhancement Job Rotation', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/46-clinical-services-enhancement-job-rotation' },
         { text: '47. Review Of Pharmacy Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure' }
@@ -607,12 +607,12 @@ const sidebar = [
         { text: '32. Technology In Cleaning', link: '/ebas/has-managers-admin/health-allied-services/education-pd/32-technology-in-cleaning' }
       ] },
         { text: 'Employment Types', link: '/ebas/has-managers-admin/health-allied-services/employment-types', collapsed: true, items: [
-        { text: '5. Notice Of Termination Employer', link: '/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer' },
-        { text: '6. Notice Of Termination Employee', link: '/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee' }
+        { text: '5. Notice Of Termination - Employer', link: '/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer' },
+        { text: '6. Notice Of Termination - Employee', link: '/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work', collapsed: true, items: [
         { text: '22. Hours Of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work' },
-        { text: '23. Rosters Dhsv', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv' },
+        { text: '23. Rosters DHSV', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv' },
         { text: '24. Weekend Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/24-weekend-work' },
         { text: '25. Overtime', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime' },
         { text: '26. Overtime In Lieu', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu' },
@@ -644,7 +644,7 @@ const sidebar = [
       ] },
         { text: 'Classification Staffing', link: '/ebas/has-managers-admin/managers-admin/classification-staffing', collapsed: true, items: [
         { text: '16. Worker Wellbeing And Employment Support Officers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers' },
-        { text: '17. Translation Of Managers And Administrative Workers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers' }
+        { text: "17. Translation Of Managers And Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)", link: '/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers' }
       ] },
         { text: 'Education & Professional Development', link: '/ebas/has-managers-admin/managers-admin/education-pd', collapsed: true, items: [
         { text: '12. Study Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave' },
@@ -653,8 +653,8 @@ const sidebar = [
         { text: '15. Professional Development Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/15-professional-development-leave' }
       ] },
         { text: 'Employment Types', link: '/ebas/has-managers-admin/managers-admin/employment-types', collapsed: true, items: [
-        { text: '3. Notice Of Termination Employer', link: '/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer' },
-        { text: '4. Notice Of Termination Employee', link: '/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee' }
+        { text: '3. Notice Of Termination - Employer', link: '/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer' },
+        { text: '4. Notice Of Termination - Employee', link: '/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work', collapsed: true, items: [
         { text: '10. Overtime', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime' },

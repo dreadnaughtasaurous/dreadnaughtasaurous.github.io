@@ -6,8 +6,6 @@ topics: ['classifications']
 
 # 75. Classifications
 
-
-
 **75.1** The Employer will classify all Employees in accordance with the classification structure set out in [Schedule 2D](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services) or [Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers) (as applicable).
 
 **75.2** The Employer will notify each Employee in writing upon commencement, of their classification and terms of employment.

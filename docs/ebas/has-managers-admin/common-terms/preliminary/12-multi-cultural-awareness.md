@@ -6,8 +6,6 @@ topics: ['preliminary']
 
 # 12. Multi Cultural Awareness
 
-
-
 **12.1** Victoria is a diverse and multicultural community, which is reflected in the patients and employees of health services.
 
 **12.2** The parties are committed to a workplace and society free from cultural insensitivity.

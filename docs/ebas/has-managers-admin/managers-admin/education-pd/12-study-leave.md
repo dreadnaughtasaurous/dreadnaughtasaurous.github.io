@@ -6,9 +6,7 @@ topics: ['leave', 'study-leave', 'employment', 'preliminary']
 
 # 12. Study Leave
 
-
-
-This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.
+*This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.*
 
 **12.1** Paid study leave will be available to full-time and part-time Employees of up to 4 hours per week for 26 weeks per annum, at the Employer’s discretion.
 
@@ -18,14 +16,11 @@ This clause only applies to Managers and Administrative Workers not employed by 
 
 **12.4** An Employee wishing to take study leave in accordance with this clause must apply in writing to the Employer as early as possible prior to the proposed leave date. The Employee’s request should include details of:
 
-**(a)** the proposed course and institution in which the Employee is enrolled or proposes to enrol; and
-
-**(b)** the relevance of the course to the Employee’s profession.
+- **(a)** the proposed course and institution in which the Employee is enrolled or proposes to enrol; and
+- **(b)** the relevance of the course to the Employee’s profession.
 
 **12.5** The Employer will notify the Employee of whether his or her request for study leave has been approved within 7 days of the application being made.
 
 **12.6** Leave pursuant to this clause does not accumulate from year to year.
 
 Plain language terms: exam leave, education leave.
-
-

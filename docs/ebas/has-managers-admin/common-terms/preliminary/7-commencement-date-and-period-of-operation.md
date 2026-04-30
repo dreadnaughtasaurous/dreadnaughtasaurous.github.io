@@ -6,8 +6,6 @@ topics: ['preliminary']
 
 # 7. Commencement Date And Period Of Operation
 
-
-
 **7.1** This Agreement will come into effect seven days after the date of approval by the Commission.
 
 **7.2** This Agreement will nominally expire on 30 June 2025.

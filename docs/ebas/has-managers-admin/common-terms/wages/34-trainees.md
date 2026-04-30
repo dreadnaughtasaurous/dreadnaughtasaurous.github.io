@@ -6,8 +6,6 @@ topics: ['wages', 'training']
 
 # 34. Trainees
 
-
-
 A trainee who performs work in classifications covered by this agreement will be employed in accordance with the following principles:
 
 **34.1** Trainee/Apprentice positions are additional to existing positions. No existing Employee will lose employment as a result of the introduction of trainees. An Employer will not dispense with the services of Employees for the purpose of appointing a trainee/apprentice before or after that appointment.
@@ -23,5 +21,3 @@ A trainee who performs work in classifications covered by this agreement will be
 **34.6** All trainees and apprentices will be engaged under an appropriate state or federal traineeship scheme and paid no less than the applicable rates contained in [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or 3B of this Agreement or if not rate is specified the applicable base rate under the Health Professionals and Support Services Award.
 
 Plain language terms: trainee, traineeship.
-
-

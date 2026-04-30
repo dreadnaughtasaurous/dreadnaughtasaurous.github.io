@@ -6,8 +6,6 @@ topics: ['preliminary']
 
 # 5. Incidence Coverage
 
-
-
 This Agreement covers:
 
 **5.1** the Employers;

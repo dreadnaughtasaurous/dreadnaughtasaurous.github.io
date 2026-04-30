@@ -6,9 +6,7 @@ topics: ['allowances', 'uniforms']
 
 # 42. Uniforms And Protective Clothing
 
-
-
-This clause does not apply to Dental Assistants employed by DHSV or Ballarat Health Service
+*This clause does not apply to Dental Assistants employed by DHSV or Ballarat Health Service*
 
 **42.1** Where an Employee is required to wear a uniform or any special clothing, the Employer will supply such uniform at no cost to the Employee and will replace it where necessary on a fair ‘wear and tear’ basis.
 

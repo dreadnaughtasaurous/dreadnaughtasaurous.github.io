@@ -6,9 +6,7 @@ topics: ['hours', 'rosters']
 
 # 48. Rosters
 
-
-
-This clause does not apply to Dental Assistants employed by DHSV or Ballarat Health Service.
+*This clause does not apply to Dental Assistants employed by DHSV or Ballarat Health Service.*
 
 **48.1** A roster of at least 14 days’ duration will be posted at least 14 days before it comes into operation at each work location in a place where it may be readily seen by such Employees and the Secretary or other accredited representative of the HWU.
 
@@ -16,11 +14,10 @@ This clause does not apply to Dental Assistants employed by DHSV or Ballarat Hea
 
 **48.3** Subject to [clause 48.4](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv) below, seven days’ notice will be given of a change in roster, except in emergency situations.
 
-**48.4** Change of roster
+**48.4 Change of roster**
 
-**(a)** Where the Employer requires an Employee, without seven days’ notice and outside the excepted circumstances in [subclause 48.3](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv) above, to perform ordinary duty at other times than those previously rostered, the Employee will be paid in accordance with the hours worked plus a daily change of roster allowance pursuant to Part 1 of
-
-**(b)** Provided that a part-time Employee who agrees to work shift(s) in addition to those already rostered will not be entitled to the Change of Roster allowance for the additional shift(s) worked.
+- **(a)** Where the Employer requires an Employee, without seven days’ notice and outside the excepted circumstances in [subclause 48.3](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv) above, to perform ordinary duty at other times than those previously rostered, the Employee will be paid in accordance with the hours worked plus a daily change of roster allowance pursuant to Part 1 of
+- **(b)** Provided that a part-time Employee who agrees to work shift(s) in addition to those already rostered will not be entitled to the Change of Roster allowance for the additional shift(s) worked.
 
 **48.5** An Employee may apply in writing to the Employer to have their roster fixed by the provisions of [subclause 48.6](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv) below in lieu of [clauses 48.1](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv) to 48.4 above.
 
