@@ -122,9 +122,6 @@ const sidebar = [
       ] },
     { text: 'Preliminary', link: '/ebas/allied-health/preliminary', collapsed: true, items: [
         { text: '1. Agreement Title', link: '/ebas/allied-health/preliminary/1-agreement-title' },
-        { text: '10. Anti Discrimination', link: '/ebas/allied-health/preliminary/10-anti-discrimination' },
-        { text: '11. Transfer Of Business', link: '/ebas/allied-health/preliminary/11-transfer-of-business' },
-        { text: '12. Individual Flexibility Arrangement', link: '/ebas/allied-health/preliminary/12-individual-flexibility-arrangement' },
         { text: '2. Arrangement', link: '/ebas/allied-health/preliminary/2-arrangement' },
         { text: '3. Index', link: '/ebas/allied-health/preliminary/3-index' },
         { text: '4. Definitions', link: '/ebas/allied-health/preliminary/4-definitions' },
@@ -132,7 +129,10 @@ const sidebar = [
         { text: '6. Commencement Date And Period Of Operation', link: '/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation' },
         { text: '7. Relationship To Previous Industrial Instruments And The NES', link: '/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the' },
         { text: '8. Copy Of Agreement', link: '/ebas/allied-health/preliminary/8-copy-of-agreement' },
-        { text: '9. No Extra Claims', link: '/ebas/allied-health/preliminary/9-no-extra-claims' }
+        { text: '9. No Extra Claims', link: '/ebas/allied-health/preliminary/9-no-extra-claims' },
+        { text: '10. Anti Discrimination', link: '/ebas/allied-health/preliminary/10-anti-discrimination' },
+        { text: '11. Transfer Of Business', link: '/ebas/allied-health/preliminary/11-transfer-of-business' },
+        { text: '12. Individual Flexibility Arrangement', link: '/ebas/allied-health/preliminary/12-individual-flexibility-arrangement' }
       ] },
     { text: 'Union Matters', link: '/ebas/allied-health/union-matters', collapsed: true, items: [
         { text: '83. Union Matters', link: '/ebas/allied-health/union-matters/83-union-matters' },
@@ -536,19 +536,19 @@ const sidebar = [
       ] },
         { text: 'Preliminary', link: '/ebas/has-managers-admin/common-terms/preliminary', collapsed: true, items: [
         { text: '1. Agreement Title', link: '/ebas/has-managers-admin/common-terms/preliminary/1-agreement-title' },
-        { text: '10. Best Practice Employment Commitment', link: '/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment' },
-        { text: '11. Anti Discrimination', link: '/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination' },
-        { text: '12. Multi Cultural Awareness', link: '/ebas/has-managers-admin/common-terms/preliminary/12-multi-cultural-awareness' },
-        { text: '13. Individual Flexibility Arrangement', link: '/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement' },
-        { text: '14. Police Check Certificate', link: '/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate' },
-        { text: '15. Working With Children Check', link: '/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check' },
         { text: '3. Arrangement Of The Agreement', link: '/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement' },
         { text: '4. Application Of This Section', link: '/ebas/has-managers-admin/common-terms/preliminary/4-application-of-this-section' },
         { text: '5. Incidence Coverage', link: '/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage' },
         { text: '6. Definitions', link: '/ebas/has-managers-admin/common-terms/preliminary/6-definitions' },
         { text: '7. Commencement Date And Period Of Operation', link: '/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation' },
         { text: '8. Relationship To Previous Industrial Instruments', link: '/ebas/has-managers-admin/common-terms/preliminary/8-relationship-to-previous-industrial-instruments' },
-        { text: '9. No Extra Claims', link: '/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims' }
+        { text: '9. No Extra Claims', link: '/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims' },
+        { text: '10. Best Practice Employment Commitment', link: '/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment' },
+        { text: '11. Anti Discrimination', link: '/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination' },
+        { text: '12. Multi Cultural Awareness', link: '/ebas/has-managers-admin/common-terms/preliminary/12-multi-cultural-awareness' },
+        { text: '13. Individual Flexibility Arrangement', link: '/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement' },
+        { text: '14. Police Check Certificate', link: '/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate' },
+        { text: '15. Working With Children Check', link: '/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check' }
       ] },
         { text: 'Union Matters', link: '/ebas/has-managers-admin/common-terms/union-matters', collapsed: true, items: [
         { text: '70. Union Matters', link: '/ebas/has-managers-admin/common-terms/union-matters/70-union-matters' },
@@ -571,6 +571,7 @@ const sidebar = [
       ] },
     { text: 'Health Allied Services', link: '/ebas/has-managers-admin/health-allied-services', collapsed: true, items: [
         { text: 'Allowances', link: '/ebas/has-managers-admin/health-allied-services/allowances', collapsed: true, items: [
+        { text: '9. Higher Duties', link: '/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties' },
         { text: '10. In Charge Allowances', link: '/ebas/has-managers-admin/health-allied-services/allowances/10-in-charge-allowances' },
         { text: '11. Nauseous Work Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance' },
         { text: '12. Seniors Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance' },
@@ -582,8 +583,7 @@ const sidebar = [
         { text: '18. Tow Motor Driver Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance' },
         { text: '19. Code Black And Or Code Grey Response', link: '/ebas/has-managers-admin/health-allied-services/allowances/19-code-black-and-or-code-grey-response' },
         { text: '20. Patient Transport Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance' },
-        { text: '21. Security Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance' },
-        { text: '9. Higher Duties', link: '/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties' }
+        { text: '21. Security Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance' }
       ] },
         { text: 'Classification Staffing', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing', collapsed: true, items: [
         { text: '34. Transition To New Instrument Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure' },
@@ -657,11 +657,11 @@ const sidebar = [
         { text: '4. Notice Of Termination - Employee', link: '/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work', collapsed: true, items: [
-        { text: '10. Overtime', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime' },
-        { text: '11. Overtime In Lieu', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu' },
         { text: '7. Hours Of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work' },
         { text: '8. Roster', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster' },
-        { text: '9. Weekend Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/9-weekend-work' }
+        { text: '9. Weekend Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/9-weekend-work' },
+        { text: '10. Overtime', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime' },
+        { text: '11. Overtime In Lieu', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu' }
       ] },
         { text: 'Preliminary', link: '/ebas/has-managers-admin/managers-admin/preliminary', collapsed: true, items: [
         { text: '2. Application Of Section 3', link: '/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3' }
@@ -714,6 +714,8 @@ const sidebar = [
         { text: '7. Agreement To Cash Out Annual Leave', link: '/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave' }
       ] },
     { text: 'Consultation Disputes', link: '/ebas/medical-specialists/consultation-disputes', collapsed: true, items: [
+        { text: '9. Consultation', link: '/ebas/medical-specialists/consultation-disputes/9-consultation' },
+        { text: '9A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work' },
         { text: '10. Redundancy And Associated Entitlements', link: '/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements' },
         { text: '11. Dispute Resolution Procedure', link: '/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure' },
         { text: '12. Managing Conduct And Performance Discipline', link: '/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline' },
@@ -721,9 +723,7 @@ const sidebar = [
         { text: '13. Prevention And Management Of Workplace Bullying', link: '/ebas/medical-specialists/consultation-disputes/13-prevention-and-management-of-workplace-bullying' },
         { text: '14. Flexible Working Arrangements', link: '/ebas/medical-specialists/consultation-disputes/14-flexible-working-arrangements' },
         { text: '15. Individual Flexibility Arrangements', link: '/ebas/medical-specialists/consultation-disputes/15-individual-flexibility-arrangements' },
-        { text: '15A. Climate Change Mitigation And Sustainability', link: '/ebas/medical-specialists/consultation-disputes/15A-climate-change-mitigation-and-sustainability' },
-        { text: '9. Consultation', link: '/ebas/medical-specialists/consultation-disputes/9-consultation' },
-        { text: '9A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work' }
+        { text: '15A. Climate Change Mitigation And Sustainability', link: '/ebas/medical-specialists/consultation-disputes/15A-climate-change-mitigation-and-sustainability' }
       ] },
     { text: 'Employment', link: '/ebas/medical-specialists/employment', collapsed: true, items: [
         { text: '16. Types Of Employment', link: '/ebas/medical-specialists/employment/16-types-of-employment' },
@@ -859,6 +859,12 @@ const sidebar = [
         { text: '69I. Prevention Of Gendered Violence Including Sexual Harassment', link: '/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment' }
       ] },
         { text: 'Preliminary', link: '/ebas/mental-health/common-terms/preliminary', collapsed: true, items: [
+        { text: '4. Division Into Sections And Schedules', link: '/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules' },
+        { text: '5. Application Of Section 2', link: '/ebas/mental-health/common-terms/preliminary/5-application-of-section-2' },
+        { text: '6. Application Of Section 3', link: '/ebas/mental-health/common-terms/preliminary/6-application-of-section-3' },
+        { text: '7. Application Of Section 4', link: '/ebas/mental-health/common-terms/preliminary/7-application-of-section-4' },
+        { text: '8. Application Of Section 5', link: '/ebas/mental-health/common-terms/preliminary/8-application-of-section-5' },
+        { text: '9. Definitions', link: '/ebas/mental-health/common-terms/preliminary/9-definitions' },
         { text: '10. Coverage', link: '/ebas/mental-health/common-terms/preliminary/10-coverage' },
         { text: '11. Incidence And Operation Of This Agreement', link: '/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement' },
         { text: '12. Implementation Committees', link: '/ebas/mental-health/common-terms/preliminary/12-implementation-committees' },
@@ -866,13 +872,7 @@ const sidebar = [
         { text: '14. Copy Of Agreement', link: '/ebas/mental-health/common-terms/preliminary/14-copy-of-agreement' },
         { text: '15. Savings Clause', link: '/ebas/mental-health/common-terms/preliminary/15-savings-clause' },
         { text: '16. Anti Discrimination', link: '/ebas/mental-health/common-terms/preliminary/16-anti-discrimination' },
-        { text: '17. Gender Based Discrimination', link: '/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination' },
-        { text: '4. Division Into Sections And Schedules', link: '/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules' },
-        { text: '5. Application Of Section 2', link: '/ebas/mental-health/common-terms/preliminary/5-application-of-section-2' },
-        { text: '6. Application Of Section 3', link: '/ebas/mental-health/common-terms/preliminary/6-application-of-section-3' },
-        { text: '7. Application Of Section 4', link: '/ebas/mental-health/common-terms/preliminary/7-application-of-section-4' },
-        { text: '8. Application Of Section 5', link: '/ebas/mental-health/common-terms/preliminary/8-application-of-section-5' },
-        { text: '9. Definitions', link: '/ebas/mental-health/common-terms/preliminary/9-definitions' }
+        { text: '17. Gender Based Discrimination', link: '/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination' }
       ] },
         { text: 'Resources', link: '/ebas/mental-health/common-terms/resources', collapsed: true, items: [
         { text: '52. Rural Four Wheel Drive All Wheel Drive', link: '/ebas/mental-health/common-terms/resources/52-rural-four-wheel-drive-all-wheel-drive' },
@@ -1261,13 +1261,6 @@ const sidebar = [
       ] },
     { text: 'Schedules', link: '/ebas/mspp/schedules', collapsed: true, items: [
         { text: '1. Employer Parties', link: '/ebas/mspp/schedules/1-employer-parties' },
-        { text: '10. St Vincent S Health Melbourne Ltd General Conditions Agreeme', link: '/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme' },
-        { text: '11. Progression Of Medical Scientists From Grade 1. To Grade 2. At', link: '/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at' },
-        { text: '12. Additional Consultation And Redundancy And Associated Entitl', link: '/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl' },
-        { text: '13. Pharmacist Weekend Ordinary Hours', link: '/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours' },
-        { text: '14. Professional Development Expenses Standard Claim Form', link: '/ebas/mspp/schedules/14-professional-development-expenses-standard-claim-form' },
-        { text: '15. Rostering Protocols Exemption Agreement', link: '/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement' },
-        { text: '16. Shpa Ratios Pharmacist Staffing Levels', link: '/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels' },
         { text: '2. Rates Of Pay And Allowances', link: '/ebas/mspp/schedules/2-rates-of-pay-and-allowances' },
         { text: '3. Classification Descriptors And Higher Qualification Allowanc', link: '/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc' },
         { text: '4. Alfred Health General Conditions', link: '/ebas/mspp/schedules/4-alfred-health-general-conditions' },
@@ -1275,7 +1268,14 @@ const sidebar = [
         { text: '6. Eastern Health Turning Point Research And Education Employee', link: '/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee' },
         { text: '7. Maintenance Of Public Sector Employment', link: '/ebas/mspp/schedules/7-maintenance-of-public-sector-employment' },
         { text: '8. Royal Women S Hospital Royal Children S Hospital General Emp', link: '/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp' },
-        { text: '9. Royal Children S Hospital Clinical Perfusionists', link: '/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists' }
+        { text: '9. Royal Children S Hospital Clinical Perfusionists', link: '/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists' },
+        { text: '10. St Vincent S Health Melbourne Ltd General Conditions Agreeme', link: '/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme' },
+        { text: '11. Progression Of Medical Scientists From Grade 1. To Grade 2. At', link: '/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at' },
+        { text: '12. Additional Consultation And Redundancy And Associated Entitl', link: '/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl' },
+        { text: '13. Pharmacist Weekend Ordinary Hours', link: '/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours' },
+        { text: '14. Professional Development Expenses Standard Claim Form', link: '/ebas/mspp/schedules/14-professional-development-expenses-standard-claim-form' },
+        { text: '15. Rostering Protocols Exemption Agreement', link: '/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement' },
+        { text: '16. Shpa Ratios Pharmacist Staffing Levels', link: '/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels' },
       ] },
     { text: 'Transport', link: '/ebas/mspp/transport', collapsed: true, items: [
         { text: '86. Travelling Transport And Fares', link: '/ebas/mspp/transport/86-travelling-transport-and-fares' },
@@ -1437,14 +1437,14 @@ const sidebar = [
         { text: '104A. Prevention Of Gendered Violence Including Sexual Harassment', link: '/ebas/nurses-midwives/ohs/104A-prevention-of-gendered-violence-including-sexual' }
       ] },
     { text: 'Preliminary', link: '/ebas/nurses-midwives/preliminary', collapsed: true, items: [
-        { text: '10. Anti Discrimination', link: '/ebas/nurses-midwives/preliminary/10-anti-discrimination' },
-        { text: '10A. Gender Based Discrimination', link: '/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination' },
         { text: '4. Definitions', link: '/ebas/nurses-midwives/preliminary/4-definitions' },
         { text: '5. Coverage', link: '/ebas/nurses-midwives/preliminary/5-coverage' },
         { text: '6. Incidence And Application', link: '/ebas/nurses-midwives/preliminary/6-incidence-and-application' },
         { text: '7. Date And Period Of Operation', link: '/ebas/nurses-midwives/preliminary/7-date-and-period-of-operation' },
         { text: '8. Copy Of Agreement', link: '/ebas/nurses-midwives/preliminary/8-copy-of-agreement' },
-        { text: '9. No Extra Claims', link: '/ebas/nurses-midwives/preliminary/9-no-extra-claims' }
+        { text: '9. No Extra Claims', link: '/ebas/nurses-midwives/preliminary/9-no-extra-claims' },
+        { text: '10. Anti Discrimination', link: '/ebas/nurses-midwives/preliminary/10-anti-discrimination' },
+        { text: '10A. Gender Based Discrimination', link: '/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination' }
       ] },
     { text: 'Safe Patient Care', link: '/ebas/nurses-midwives/safe-patient-care', collapsed: true, items: [
         { text: '105. Interaction With The Safe Patient Care Act', link: '/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act' },
