@@ -757,7 +757,7 @@ const sidebar = [
         { text: '55. Long Service Leave', link: '/ebas/medical-specialists/leave/55-long-service-leave' },
         { text: '56. Public Holidays', link: '/ebas/medical-specialists/leave/56-public-holidays' },
         { text: '57. Sabbatical Leave', link: '/ebas/medical-specialists/leave/57-sabbatical-leave' },
-        { text: '58. Leave To Engage In Voluntary Emergency Management', link: '/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '58. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management' },
         { text: '58A. Absences On Defence Leave', link: '/ebas/medical-specialists/leave/58A-absences-on-defence-leave' },
         { text: '58B. Special Disaster Leave', link: '/ebas/medical-specialists/leave/58B-special-disaster-leave' },
         { text: '59. Continuing Medical Education Leave', link: '/ebas/medical-specialists/leave/59-continuing-medical-education-leave' },

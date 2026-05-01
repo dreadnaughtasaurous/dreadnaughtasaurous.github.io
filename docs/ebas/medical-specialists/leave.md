@@ -18,7 +18,7 @@ topics: ['leave']
 - [55. Long Service Leave](./leave/55-long-service-leave/)
 - [56. Public Holidays](./leave/56-public-holidays/)
 - [57. Sabbatical Leave](./leave/57-sabbatical-leave/)
-- [58. Leave to engage in Voluntary Emergency Management](./leave/58-leave-to-engage-in-voluntary-emergency-management/)
+- [58. Leave to engage in Voluntary Emergency Management Activities](./leave/58-leave-to-engage-in-voluntary-emergency-management/)
 - [58A. Absences on Defence Leave](./leave/58A-absences-on-defence-leave/)
 - [58B. Special Disaster Leave](./leave/58B-special-disaster-leave/)
 - [59. Continuing Medical Education Leave](./leave/59-continuing-medical-education-leave/)

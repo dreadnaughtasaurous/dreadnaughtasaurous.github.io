@@ -6,8 +6,6 @@ topics: ['employment', 'termination']
 
 # 23. Termination Of Employment Notice Of Termination
 
-
-
 **23.1** Either the Health Service or a Doctor may terminate the employment by giving three months’ written notice to the other party, or any other period as agreed between the Health Service and the Doctor, subject to the requirements of the NES.
 
 **23.2** The Health Service may provide a payment in lieu of part or all of the notice period prescribed in [subclause 23.1](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination).
@@ -19,5 +17,3 @@ topics: ['employment', 'termination']
 **23.5** The period of notice in [subclause 23.1](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination) does not apply where the conduct of a Doctor justifies instant dismissal, or to those engaged for a fixed term (but not maximum term), specific period of time or for a specified task or tasks.
 
 Plain language terms: resignation, dismissal.
-
-
