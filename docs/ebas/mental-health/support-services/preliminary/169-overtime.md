@@ -6,8 +6,6 @@ topics: ['hours', 'overtime', 'wages', 'preliminary']
 
 # 169. Overtime
 
-
-
 **169.1** Where an Employee is required to work reasonable additional hours, they shall be entitled to payment of overtime in accordance with the provisions of this clause.
 
 **169.2** Only authorised overtime shall be paid for, and the following rates of overtime shall apply.
@@ -32,18 +30,16 @@ topics: ['hours', 'overtime', 'wages', 'preliminary']
 
 **169.12** For the purposes of this clause, in accruing or calculating payment of overtime, each period of overtime shall stand alone.
 
-**169.13** Transport following overtime
+**169.13 Transport following overtime**
 
-**(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee.
+- **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee.
+- **(b)** Where overtime is a result of a double shift, the provisions at [subclause 169.14](/ebas/mental-health/support-services/preliminary/169-overtime) below (Additional Provisions for Double Shifts) also apply.
 
-**(b)** Where overtime is a result of a double shift, the provisions at [subclause 169.14](/ebas/mental-health/support-services/preliminary/169-overtime) below (Additional Provisions for Double Shifts) also apply.
+**169.14 Additional Provisions for Double Shifts** 
 
-**169.14** Additional Provisions for Double Shifts If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
+If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
 
-**(a)** allow breaks of at least 10 minutes’ duration in each two hours worked; and
-
-**(b)** adequate transport will be provided free of cost to the Employee, including the return journey where the Employee’s vehicle remains at the workplace.
+- **(a)** allow breaks of at least 10 minutes’ duration in each two hours worked; and
+- **(b)** adequate transport will be provided free of cost to the Employee, including the return journey where the Employee’s vehicle remains at the workplace.
 
 Plain language terms: OT, extra hours, time and a half, double time, additional hours.
-
-

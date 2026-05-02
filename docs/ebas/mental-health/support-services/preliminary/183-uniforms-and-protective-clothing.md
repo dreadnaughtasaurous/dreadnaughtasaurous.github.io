@@ -6,8 +6,6 @@ topics: ['leave', 'personal-leave', 'long-service-leave', 'allowances']
 
 # 183. Uniforms And Protective Clothing
 
-
-
 **183.1** Where an Employee is required to wear a uniform or any special clothing, the Employer will supply such uniform at no cost to the Employee and will replace it where necessary on a fair ‘wear and tear’ basis.
 
 **183.2** Employees shall be paid a uniform allowance in accordance with [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for purchasing uniform and special clothing, where they are not provided by the Employer under clause 183.1. The uniform allowance is payable for all absences on paid leave, other than absences on long service leave and sick leave beyond 21 days. Where, prior to the taking of leave, an Employee was paid a uniform allowance other than at the weekly rate, the rate payable is the average of the allowance paid during the four weeks immediately preceding the taking of leave.
@@ -19,5 +17,3 @@ topics: ['leave', 'personal-leave', 'long-service-leave', 'allowances']
 **183.5** The Employer shall provide such gloves, masks, protective clothing and safety appliances as are required for an Employee to properly and safely perform their job function. Where the Employee is required to purchase such clothing and equipment, they shall be reimbursed in full by the Employer.
 
 **183.6** The rounding provision does not apply to the calculation of this allowance.
-
-

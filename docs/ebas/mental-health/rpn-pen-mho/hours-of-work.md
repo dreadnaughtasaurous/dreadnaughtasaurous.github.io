@@ -11,7 +11,7 @@ topics: ['hours']
 - [89. Overtime](./hours-of-work/89-overtime/)
 - [90. Make-up time](./hours-of-work/90-make-up-time/)
 - [90A. Permanent Night Shift](./hours-of-work/90A-permanent-night-shift/)
-- [90B. Night Shift Rostering Principles (other than permanent night](./hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night/)
+- [90B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees)](./hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night/)
 - [90C. Proposals to Vary Specific Matters](./hours-of-work/90C-proposals-to-vary-specific-matters/)
 - [91. Oncall/Recall (non CATT)](./hours-of-work/91-oncall-recall-non-catt/)
 - [92. CATT On-call/ Recall Allowances](./hours-of-work/92-catt-on-call-recall-allowances/)

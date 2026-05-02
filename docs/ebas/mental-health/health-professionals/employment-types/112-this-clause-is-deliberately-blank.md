@@ -5,7 +5,3 @@ topics: ['preliminary']
 ---
 
 # 112. This Clause Is Deliberately Blank
-
-
-
-

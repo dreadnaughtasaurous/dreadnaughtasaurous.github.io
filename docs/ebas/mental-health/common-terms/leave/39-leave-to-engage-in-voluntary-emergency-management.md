@@ -1,22 +1,16 @@
 ---
-title: '39. Leave To Engage In Voluntary Emergency Management'
+title: '39. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary']
 ---
 
-# 39. Leave To Engage In Voluntary Emergency Management
-
-
-
-Activities
+# 39. Leave To Engage In Voluntary Emergency Management Activities
 
 **39.1** An Employee who engages in a voluntary emergency management activity, with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to leave for:
 
-**(a)** time when the employee engages in the activity; and
-
-**(b)** reasonable travelling time associated with the activity; and
-
-**(c)** reasonable rest time immediately following the activity.
+- **(a)** time when the employee engages in the activity; and
+- **(b)** reasonable travelling time associated with the activity; and
+- **(c)** reasonable rest time immediately following the activity.
 
 **39.2** The Employee must advise the Employer as soon as reasonably practicable if the Employee is requested to attend a voluntary emergency management activity and must advise the Employer of the expected or likely duration of the Employee’s attendance. The Employee must provide a certificate of attendance or other evidence of attendance as reasonably requested by the Employer.
 
@@ -31,5 +25,3 @@ Activities
 **39.7** Nothing in this clause prevents an Employee from applying for a flexible working arrangement to assist their ability to respond to a watch and wait situation. Where such requests are made, the Employer will respond promptly having regard to the urgency of the request. All approved flexible working arrangements will be recorded in writing.
 
 **39.8** Note: Under the Act, an employee who engages in an eligible community service activity is entitled to be absent from employment without pay (or in some circumstances, with pay). The relevant period consists of time engaged in the community service activity, reasonable travel time and reasonable rest time. Eligible community service activity means jury service, a voluntary emergency service management activity (such as voluntary work relating to an emergency or natural disaster when performed for a recognised emergency management body - as defined), or an activity prescribed from time to time. There are particular notice requirements so that the employer is advised of the forthcoming absence and how long it is expected to last. For jury service, there are special rules about pay rates, there is a limit of 10 days' paid leave and jury service does not apply to casual employees. Note also that any more generous State or Territory community service leave entitlements may nevertheless apply.
-
-

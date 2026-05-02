@@ -6,9 +6,7 @@ topics: ['hours', 'shift-work', 'allowances', 'vehicle']
 
 # 82. Travelling And Relocation Allowance
 
-
-
-This clause concerns payment only and is not intended to exclude the requirements of [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation) or 20 (Redundancy and Associated Entitlements) or create a new right to be directed to work at another location.
+*This clause concerns payment only and is not intended to exclude the requirements of [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation) or 20 (Redundancy and Associated Entitlements) or create a new right to be directed to work at another location.*
 
 **82.1** In this clause Base Employment Campus means a Campus of the Employer at which the Employee ordinarily starts and finishes work.
 
@@ -18,9 +16,8 @@ This clause concerns payment only and is not intended to exclude the requirement
 
 **82.4** Where an Employee is required by the Employer to temporarily relocate from their Base Employment Campus to another Campus prior to a shift, the Employee will:
 
-**(a)** be reimbursed for additional traveling cost to the Employee (where applicable) excluding time spent travelling (which is addressed at (b) below); and
-
-**(b)** where travel time increases by 15 minutes or greater (to and return) be paid an allowance equal to the Employee's ordinary rate for the additional time spent when compared to the Employee's travel time to the Base Employment Campus. Nothing in this [subclause 82.4](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance) prevents an Employer requiring the travel to occur within the rostered shift.
+- **(a)** be reimbursed for additional traveling cost to the Employee (where applicable) excluding time spent travelling (which is addressed at (b) below); and
+- **(b)** where travel time increases by 15 minutes or greater (to and return) be paid an allowance equal to the Employee's ordinary rate for the additional time spent when compared to the Employee's travel time to the Base Employment Campus. Nothing in this [subclause 82.4](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance) prevents an Employer requiring the travel to occur within the rostered shift.
 
 **82.5** Where an Employee is required by the Employer to permanently relocate from their Base Employment Campus to another Campus as a result of redundancy, the Employee will be reimbursed for additional travel costs (where applicable) in accordance with [clause 20.7](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements) of this Agreement (Relocation).
 
@@ -30,10 +27,6 @@ This clause concerns payment only and is not intended to exclude the requirement
 
 **82.8** This clause does not apply to:
 
-**(a)** an Employee whose role goes across campuses.
-
-**(b)** Employees who genuinely choose to work across different campuses and it is not a requirement of the Employer, such as where an Employee elects to pick up an additional shift/s on another Campus on a permanent or ad hoc basis;
-
-**(c)** Casuals.
-
-
+- **(a)** an Employee whose role goes across campuses.
+- **(b)** Employees who genuinely choose to work across different campuses and it is not a requirement of the Employer, such as where an Employee elects to pick up an additional shift/s on another Campus on a permanent or ad hoc basis;
+- **(c)** Casuals.

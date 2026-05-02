@@ -6,9 +6,7 @@ topics: ['hours', 'overtime', 'rosters', 'wages']
 
 # 83. Saturday And Sunday Work
 
-
-
-Note: The term ‘ordinary hours of work’ is a reference to hours of work that are not at overtime rates.
+*Note: The term ‘ordinary hours of work’ is a reference to hours of work that are not at overtime rates.*
 
 **83.1** This clause shall not apply to Employees above the classification of RPN 5 excepting Employees classified as Nurse Practitioner or those performing direct clinical work, who are entitled to the benefit of this clause.
 
@@ -21,5 +19,3 @@ Note: The term ‘ordinary hours of work’ is a reference to hours of work that
 **83.5** Except in circumstances of a redeployment, a part-time Employee who was also a part-time Employee of the Department as at 19 December 1997 and who became employed (and continues to be employed) by an Employer who is a respondent to this Agreement, shall be paid a 100% shift penalty payment for all work performed on a Sunday. For the avoidance of doubt, such an Employee will not also be entitled to receive the penalties described above.
 
 Plain language terms: weekend penalty, weekend loading, weekend rates.
-
-

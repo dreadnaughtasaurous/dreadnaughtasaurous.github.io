@@ -6,8 +6,6 @@ topics: ['hours', 'overtime']
 
 # 130. Saturday And Sunday Work
 
-
-
 **130.1** All rostered time of ordinary duty performed on Saturday and Sunday shall be paid for at the rate of time and a half.
 
 **130.2** Where Saturday and Sunday duties are required to be carried out in excess of the week’s work such duties are to be paid at the rate of double time.
@@ -17,5 +15,3 @@ topics: ['hours', 'overtime']
 **130.4** By agreement with the Employer an Employee shall be allowed to take time off in lieu of overtime at the ordinary time rate as per [clause 128.1](/ebas/mental-health/health-professionals/hours-of-work/128-overtime)(d) of this Agreement.
 
 Plain language terms: weekend penalty, weekend loading, weekend rates.
-
-

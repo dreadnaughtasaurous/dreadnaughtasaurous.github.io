@@ -6,8 +6,6 @@ topics: ['leave', 'study-leave', 'preliminary', 'education']
 
 # 180. Study Leave
 
-
-
 **180.1** Employee will be entitled to four (4) hours paid study leave per week up to a maximum of 26 weeks per annum, where undertaking study at Australian Qualification Framework Level 3 or above with an education institution or approved provider.
 
 **180.2** Paid study leave may be taken as mutually agreed by, for example, 4 hours per week, 8 hours per fortnight or in blocks of 38 hours.
@@ -16,9 +14,8 @@ topics: ['leave', 'study-leave', 'preliminary', 'education']
 
 **180.4** An Employee wishing to take study leave must apply in writing to the Employer as early as possible prior to the proposed leave date. The Employee’s request should include:
 
-**(a)** details of the course and institution in which the Employee is enrolled, or proposes to enrol; and
-
-**(b)** details of the relevance of the course to the Employee’s profession.
+- **(a)** details of the course and institution in which the Employee is enrolled, or proposes to enrol; and
+- **(b)** details of the relevance of the course to the Employee’s profession.
 
 **180.5** The Employer will notify the Employee of whether or not their request for study leave has been approved within 7 days of the application being made.
 
@@ -33,5 +30,3 @@ topics: ['leave', 'study-leave', 'preliminary', 'education']
 **180.10** Paid study leave pursuant to this clause does not accumulate from year to year.
 
 Plain language terms: exam leave, education leave.
-
-

@@ -6,8 +6,6 @@ topics: ['staffing']
 
 # 144A. Staffing
 
+**144A.1 Allied Health Educators.** 
 
-
-**144A.1** Allied Health Educators. Employers are required to appoint Allied Health Educator EFT as per the allocation outlined in [Schedule 11](/ebas/mental-health/schedules/11-additional-staffing).
-
-
+Employers are required to appoint Allied Health Educator EFT as per the allocation outlined in [Schedule 11](/ebas/mental-health/schedules/11-additional-staffing).

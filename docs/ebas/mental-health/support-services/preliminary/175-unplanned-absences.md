@@ -6,8 +6,6 @@ topics: ['preliminary']
 
 # 175. Unplanned Absences
 
-
-
 **175.1** The Employer agrees to replace staff on planned or unplanned absences, where practicable.
 
 **175.2** The Employer will endeavour to maximise the use of permanent, full-time and part- time Employees to replace staff on planned and unplanned absences.
@@ -19,5 +17,3 @@ topics: ['preliminary']
 **175.5** Agency staff should only be used for unexpected absences, such as sick leave, where the Employer is unable to replace the Employee with either part-time or casual Employees.
 
 **175.6** In the event that particular staffing issues are identified at individual health care facilities the Employers agree to consult with Employees and the Union in relation to any matters raised, under the existing consultative arrangements.
-
-

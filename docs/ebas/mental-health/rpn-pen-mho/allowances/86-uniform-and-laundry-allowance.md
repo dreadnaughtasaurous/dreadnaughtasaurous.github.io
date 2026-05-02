@@ -6,8 +6,6 @@ topics: ['allowances', 'wages']
 
 # 86. Uniform And Laundry Allowance
 
-
-
 **86.1** Where an Employer requires an Employee to wear a particular type or style of uniform then the Employer shall provide this at no cost to the Employee. Payment in lieu of providing the uniform is not permitted.
 
 **86.2** Where a uniform is not provided by the Employer the Employee shall be paid a uniform allowance at daily or weekly rate set out [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances), whichever is the lesser amount in total.
@@ -19,5 +17,3 @@ topics: ['allowances', 'wages']
 **86.5** Where an Employer provides an Employee with uniforms, all articles so provided remain the property of the Employer.
 
 **86.6** The rounding provision does not apply to the calculation of this allowance.
-
-

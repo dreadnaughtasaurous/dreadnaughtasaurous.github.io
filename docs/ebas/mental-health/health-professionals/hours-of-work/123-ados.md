@@ -1,12 +1,10 @@
 ---
-title: '123. Ados'
+title: '123. ADOs'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'preliminary']
 ---
 
-# 123. Ados
-
-
+# 123. ADOs
 
 **123.1** All full-time Employees covered by this Section 3 are entitled to an ADO.
 
@@ -16,8 +14,10 @@ topics: ['hours', 'preliminary']
 
 **123.4** The Employer will not refuse new Employees the option of an ADO.
 
-**123.5** Taking of ADOs Wherever practicable, an ADO will be on the date requested by the Employee.
+**123.5 Taking of ADOs** 
 
-**123.6** Public Holiday and ADO Where an Employee's ADO falls on a public holiday, another day shall be determined by the Employer to be Taken in lieu thereof, within the same 4-week cycle (where practicable).
+Wherever practicable, an ADO will be on the date requested by the Employee.
 
+**123.6 Public Holiday and ADO** 
 
+Where an Employee's ADO falls on a public holiday, another day shall be determined by the Employer to be Taken in lieu thereof, within the same 4-week cycle (where practicable).
