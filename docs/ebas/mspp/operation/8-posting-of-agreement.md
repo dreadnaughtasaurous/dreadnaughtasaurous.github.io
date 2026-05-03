@@ -6,10 +6,6 @@ topics: ['preliminary']
 
 # 8. Posting Of Agreement
 
-
-
 A copy of this Agreement shall be available for the perusal of Employees.
 
 Plain language terms: display agreement, posting.
-
-

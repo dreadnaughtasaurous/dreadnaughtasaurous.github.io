@@ -21,7 +21,7 @@ topics: ['leave']
 - [72. Study Leave](./leave/72-study-leave/)
 - [73. Professional Development Leave](./leave/73-professional-development-leave/)
 - [74. Additional Professional Registration Leave –](./leave/74-additional-professional-registration-leave/)
-- [75. Reimbursement of Professional Development Leave](./leave/75-reimbursement-of-professional-development-leave/)
+- [75. Reimbursement of Professional Development Leave Expenses](./leave/75-reimbursement-of-professional-development-leave/)
 - [76. Sabbatical Leave](./leave/76-sabbatical-leave/)
 - [77. Blood Donors Leave](./leave/77-blood-donors-leave/)
 - [78. Twelve Month Career Breaks](./leave/78-twelve-month-career-breaks/)

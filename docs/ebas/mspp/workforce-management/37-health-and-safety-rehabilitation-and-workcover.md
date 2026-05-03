@@ -6,8 +6,6 @@ topics: ['ohs']
 
 # 37. Health And Safety Rehabilitation And Workcover
 
-
-
 The following schedules contain specific provisions relating to health and safety, rehabilitation and/or Workcover:
 
 **a.** [Schedule 4](/ebas/mspp/schedules/4-alfred-health-general-conditions) Alfred Health
@@ -19,5 +17,3 @@ The following schedules contain specific provisions relating to health and safet
 **d.** [Schedule 10](/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme) St. Vincent’s Health
 
 Plain language terms: OHS, workers comp, workcover.
-
-

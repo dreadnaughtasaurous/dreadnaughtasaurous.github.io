@@ -5,7 +5,3 @@ topics: ['preliminary']
 ---
 
 # 14. Clause Intentionally Omitted
-
-
-
-
