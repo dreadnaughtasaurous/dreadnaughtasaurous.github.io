@@ -1,10 +1,10 @@
 ---
-title: '2. Rates Of Pay And Allowances'
+title: 'Schedule 2 - Rates of Pay: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'rates', 'salary-circular', 'circular 873']
 ---
 
-# Schedule 2 - Rates of Pay · Medical Scientists, Pharm & Psych EBA
+# Schedule 2 - Rates of Pay: Medical Scientists, Pharm & Psych EBA
 
 
 

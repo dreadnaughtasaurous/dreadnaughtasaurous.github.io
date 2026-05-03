@@ -1,10 +1,10 @@
 ---
-title: '3. Classification Descriptors And Higher Qualification Allowanc'
+title: 'Schedule 3 - Allowances & Other Payments: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'classifications', 'allowances', 'remuneration', 'rates', 'pay-rates', 'shift-allowances', 'on-call', 'higher-qualifications', 'salary-circular', 'circular 873']
 ---
 
-# Schedule 3 - Allowances & Other Payments · Medical Scientists, Pharm & Psych EBA
+# Schedule 3 - Allowances & Other Payments: Medical Scientists, Pharm & Psych EBA
 
 
 
