@@ -13,8 +13,8 @@ topics: ['ohs']
 - [100. Incident Reporting, Investigation and Prevention](./ohs/100-incident-reporting-investigation-and-prevention/)
 - [101. Designated Work Groups](./ohs/101-designated-work-groups/)
 - [102. HSRs](./ohs/102-hsrs/)
-- [103. Occupational Violence and Aggression Prevention and](./ohs/103-occupational-violence-and-aggression-prevention-and/)
+- [103. Occupational Violence and Aggression Prevention and Management](./ohs/103-occupational-violence-and-aggression-prevention-and/)
 - [104. Workers' Compensation, Rehabilitation and Return to Work](./ohs/104-workers-compensation-rehabilitation-and-return-to-work/)
-- [104A. Prevention of Gendered Violence including Sexual](./ohs/104A-prevention-of-gendered-violence-including-sexual/)
+- [104A. Prevention Of Gendered Violence Including Sexual Harassment](./ohs/104A-prevention-of-gendered-violence-including-sexual/)
 
 

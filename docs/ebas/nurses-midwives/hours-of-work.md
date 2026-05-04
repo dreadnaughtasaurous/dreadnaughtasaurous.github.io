@@ -9,7 +9,7 @@ topics: ['hours']
 
 - [42. Hours of Work](./hours-of-work/42-hours-of-work/)
 - [42A. Permanent Night Shift](./hours-of-work/42A-permanent-night-shift/)
-- [42B. Night Shift Rostering Principles (other than permanent night](./hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night/)
+- [42B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees)](./hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night/)
 - [43. Accrued Days Off](./hours-of-work/43-accrued-days-off/)
 - [44. Breaks](./hours-of-work/44-breaks/)
 - [45. Rosters](./hours-of-work/45-rosters/)

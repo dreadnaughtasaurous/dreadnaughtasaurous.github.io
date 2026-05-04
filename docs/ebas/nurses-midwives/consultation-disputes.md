@@ -9,7 +9,7 @@ topics: ['consultation', 'disputes']
 
 - [11. Consultation](./consultation-disputes/11-consultation/)
 - [11A. Consultation about Changes to Rosters or Hours of Work](./consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [11B. No Amalgamation of Wards without Agreement of ANMF and](./consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and/)
+- [11B. No Amalgamation of Wards without Agreement of ANMF and Employer](./consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and/)
 - [12. Redundancy and Associated Entitlements](./consultation-disputes/12-redundancy-and-associated-entitlements/)
 - [13. Dispute Resolution Procedure](./consultation-disputes/13-dispute-resolution-procedure/)
 - [14. Statewide Industry Panel](./consultation-disputes/14-statewide-industry-panel/)

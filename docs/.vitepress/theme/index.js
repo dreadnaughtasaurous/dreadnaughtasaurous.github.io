@@ -7,6 +7,7 @@ import SearchPage from './components/SearchPage.vue'
 import SearchModal from './components/SearchModal.vue'
 import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
+import FileAttachment from './components/FileAttachment.vue'
 
 export default {
   extends: DefaultTheme,
@@ -21,5 +22,6 @@ export default {
     app.component('SearchModal', SearchModal)
     app.component('PayTable', PayTable)
     app.component('HomeCards', HomeCards)
+    app.component('FileAttachment', FileAttachment)
   }
 }

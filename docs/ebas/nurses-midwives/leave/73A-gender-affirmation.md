@@ -6,9 +6,7 @@ topics: ['leave', 'gender-affirmation-leave']
 
 # 73A. Gender Affirmation
 
-
-
-This clause applies from 24 June 2024.
+*This clause applies from 24 June 2024.*
 
 **73A.1** The Employer encourages a culture that is supportive of transgender and gender diverse Employees and recognises the importance of providing a safe environment for Employees undertaking gender affirmation.
 
@@ -16,46 +14,27 @@ This clause applies from 24 June 2024.
 
 **73A.3** Employees may give effect to their affirmation in a number of ways and are not required to be undergoing specific types of changes, such as surgery, to access leave under this clause.
 
-**73A.4** Amount of gender affirmation leave
+**73A.4 Amount of gender affirmation leave**
 
-**(a)** An Employee (other than a Casual Employee is entitled to Gender Affirmation Leave for the purpose of supporting the Employee’s affirmation in accordance with [subclause 73A.4(c)](/ebas/nurses-midwives/leave/73A-gender-affirmation) below. Gender Affirmation Leave will comprise:
+- **(a)** An Employee (other than a Casual Employee is entitled to Gender Affirmation Leave for the purpose of supporting the Employee’s affirmation in accordance with [subclause 73A.4(c)](/ebas/nurses-midwives/leave/73A-gender-affirmation) below. Gender Affirmation Leave will comprise:
+  - **(i)** up to 20 days' paid leave for essential and necessary gender affirmation procedures; and
+  - **(ii)** up to 48 weeks of unpaid leave.
+- **(b)** The Gender Affirmation Leave entitlements outlined in [clause 73A.4](/ebas/nurses-midwives/leave/73A-gender-affirmation) are available to be taken by the Employee within the first 52 weeks after they commence Essential gender affirmation procedures.
+- **(c)** **Essential gender affirmation procedures** may include:
+  - **(i)** medical or psychological appointments; or
+  - **(ii)** hormonal appointments; or
+  - **(iii)** surgery and associated appointments; or
+  - **(iv)** appointments to alter the Employee’s legal status or amend the Employee’s gender on legal documentation; or
+  - **(v)** any other similar necessary appointment or procedure to give effect to the Employee’s affirmation as agreed with the Employer.
+- **(d)** An Employee who is entitled to unpaid Gender Affirmation Leave may, in conjunction with all or part of that leave utilise accrued Annual or Long Service Leave, provided that the combined total of all paid and unpaid leave taken does not exceed 52 continuous weeks. This period can be extended by agreement between the Employer and the Employee (agreement will not unreasonably withheld).
+- **(e)** Gender Affirmation Leave may be taken as consecutive, single or part days as agreed with the Employer.
+- **(f)** Leave under this clause will not accrue from year to year and cannot be cashed out on termination of employment.
 
-**(i)** up to 20 days' paid leave for essential and necessary gender affirmation procedures; and
-
-**(ii)** up to 48 weeks of unpaid leave.
-
-**(b)** The Gender Affirmation Leave entitlements outlined in [clause 73A.4](/ebas/nurses-midwives/leave/73A-gender-affirmation) are available to be taken by the Employee within the first 52 weeks after they commence Essential gender affirmation procedures.
-
-**(c)** Essential gender affirmation procedures may include:
-
-**(i)** medical or psychological appointments; or
-
-**(ii)** hormonal appointments; or
-
-**(iii)** surgery and associated appointments; or
-
-**(iv)** appointments to alter the Employee’s legal status or amend the Employee’s gender on legal documentation; or
-
-**(v)** any other similar necessary appointment or procedure to give effect to the Employee’s affirmation as agreed with the Employer.
-
-**(d)** An Employee who is entitled to unpaid Gender Affirmation Leave may, in conjunction with all or part of that leave utilise accrued Annual or Long Service Leave, provided that the combined total of all paid and unpaid leave taken does not exceed 52 continuous weeks. This period can be extended by agreement
-
-between the Employer and the Employee (agreement will not unreasonably withheld).
-
-**(e)** Gender Affirmation Leave may be taken as consecutive, single or part days as agreed with the Employer.
-
-**(f)** Leave under this clause will not accrue from year to year and cannot be cashed out on termination of employment.
-
-**73A.5** Gender Affirmation Leave – Casual Employees
+**73A.5 Gender Affirmation Leave – Casual Employees**
 
 Casual Employees are entitled to access unpaid leave of up to 52 continuous weeks duration for gender affirmation purposes.
 
-**73A.6** Notice and evidence requirements
+**73A.6 Notice and evidence requirements**
 
-**(a)** An Employee seeking to access Gender Affirmation Leave must provide the Employer with at least 4 weeks’ written notice of their intended commencement date and expected period of leave, unless otherwise agreed by the Employer.
-
-**(b)** An Employee seeking to access Gender Affirmation Leave may be required to provide suitable supporting documentation or evidence of their attendance at essential gender affirmation procedures. This may be in the form of a document issued by a Registered Health Practitioner, a lawyer, or a State, Territory or Federal government organisation, statutory declaration or other suitable supporting documentation.
-
-Plain language terms: transition leave, trans leave, gender transition, gender reassignment.
-
-
+- **(a)** An Employee seeking to access Gender Affirmation Leave must provide the Employer with at least 4 weeks’ written notice of their intended commencement date and expected period of leave, unless otherwise agreed by the Employer.
+- **(b)** An Employee seeking to access Gender Affirmation Leave may be required to provide suitable supporting documentation or evidence of their attendance at essential gender affirmation procedures. This may be in the form of a document issued by a Registered Health Practitioner, a lawyer, or a State, Territory or Federal government organisation, statutory declaration or other suitable supporting documentation.

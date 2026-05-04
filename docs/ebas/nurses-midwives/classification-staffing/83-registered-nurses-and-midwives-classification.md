@@ -6,682 +6,406 @@ topics: ['classifications']
 
 # 83. Registered Nurses And Midwives Classification
 
+## Part 1 – General
 
-
-Part 1 – General
-
-**83.1** Scope
+**83.1 Scope**
 
 This [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) is split into 4 parts:
 
-**(a)** Part 1 ([clauses 83.1](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 82.3) explains the scope of this clause and the applicable definitions;
+- **(a)** **Part 1** ([clauses 83.1](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 82.3) explains the scope of this clause and the applicable definitions;
+- **(b)** **Part 2** ([clauses 83.3](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification)) sets out the classification descriptors for Registered Nurses and Registered Midwives;
+- **(c)** **Part 3** ([clauses 83.4](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.6) sets out the application process for Clinical Nurse/Midwife Specialist positions, the transfer arrangements of CNS/CMS status to a new Employer, and when the requirements of continuing to meet the CNS/CMS criteria must occur; and
+- **(d)** **Part 4** ([clauses 83.7](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38) sets out the grades to the classifications set out in Part 2.
 
-**(b)** Part 2 ([clauses 83.3](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification)) sets out the classification descriptors for Registered Nurses and Registered Midwives;
-
-**(c)** Part 3 ([clauses 83.4](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.6) sets out the application process for Clinical Nurse/Midwife Specialist positions, the transfer arrangements of CNS/CMS status to a new Employer, and when the requirements of continuing to meet the CNS/CMS criteria must occur; and
-
-**(d)** Part 4 ([clauses 83.7](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38) sets out the grades to the classifications set out in Part 2.
-
-**83.2** General Definitions
+**83.2 General Definitions**
 
 In this [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification):
 
-**(a)** Basic Training means training for initial registration as a Registered Nurse, or where the Employee is not a Registered Nurse, an undergraduate degree in Midwifery.
-
-**(b)** Certificate means:
-
-**(i)** a Hospital Certificate;
-
-**(ii)** a tertiary graduate certificate;
-
-**(iii)** a certificate as a result of undertaking a course of study at the New South Wales College of Nursing or a nursing college of at least equivalent status;
-
-**(iv)** the equivalent of a certificate including a Certificate obtained from training or an education facilities provider (such as infection control certificates from the Mayfield Centre) where the programmes are equivalent to a University Graduate Certificate and the training/education provider verifies that in writing; or
-
-**(v)** post-basic certificates of qualification obtained by a Registered Nurse as a result of in-service or post-basic training, as a result of the following:
-
-**(A)** Certificates obtained for courses approved by the Nursing and Midwifery Board of Australia for the purposes of endorsement in the relevant register; or
-
-**(B)** Certificates obtained for courses requiring registration by the Nursing and Midwifery Board of Australia which will mean maternal and child health nursing, midwifery nursing, psychiatric nursing and mental retardation nursing.
-
-**(c)** Day Hospital means an extension of acute hospital services, providing a range of services, including medical and nursing supervision, physiotherapy, occupational therapy, speech therapy, chiropody and social work counselling on an out-patient basis.
-
-**(d)** Diplomas and degrees means diplomas and degrees in nursing, education or health administration held by an Employee as a result of undertaking a course of study at a Registered Training Organisation, VET Provider, College of Advanced Education or University.
-
-**(e)** In-service or post-basic education means education undertaken during, and in conjunction with, employment as a Registered Nurse or Midwife for the purpose of obtaining a post-basic certificate of qualification in:
-
-**(i)** a course approved by the Nursing and Midwifery Board of Australia for the purposes of endorsement in the relevant register; or
-
-**(ii)** a course requiring registration by the Nursing and Midwifery Board of Australia which will mean maternal and child health nursing, midwifery nursing, psychiatric nursing and mental retardation nursing.
-
-**(f)** Registered Nurse has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
-
-**(g)** Registered Midwife has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
-
-**(h)** Research Nurse/Midwife means a Nurse/Midwife who:
-
-**(iii)** as a minimum, has either a Diploma in Nursing (Level 1 only) or a Bachelor of Nursing or Midwifery (all levels);
-
-**(iv)** is directly involved in clinical research-related activities which form the predominant aspect of the Employee's ongoing, regular duties. Whilst the level of involvement can vary, the level of involvement and its regularity distinguish a Research Nurse/Midwife from other Employees who provide incidental and/or irregular contributions to clinical research trials as part of their normal duties; and
-
-**(v)** performs their research-related duties in accordance with the Therapeutic Goods Administration (TGA) Note for Guidance on Good Clinical Practice (CPMP/ICH/135/95), the National Health and Medical Research Council (NHMRC) National Statement on Ethical
-
-Conduct in Human Research and applicable state/federal privacy laws.
-
-Part 2 – Classifications for Registered Nurses and Midwives
-
-**83.3** Classifications for Registered Nurses and Midwives
-
-Clinical Consultant Classifications
-
-Clinical Consultant A Registered Nurse or Midwife who is appointed as such to provide a clinical resource, clinical advisory/developmental role on a full-time dedicated basis (i.e. performs only consultancy work on the relevant shifts) and undertakes related projects and research and development activities to meet specified clinical nursing needs in a clinical discipline.
-
-Clinical Consultant A A Registered Nurse or Midwife appointed as such who as a member of a specialist team fulfils the clinical consultant role in their first and second Years of Experience.
-
-Clinical Consultant B A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role as a Clinical Consultant A in their third and subsequent Years of Experience as a Clinical Consultant.
-
-Clinical Consultant C A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role, and:
-
-**(a)** is the sole Registered Nurse or Midwife in the specialty;
-
-**(b)** is in charge of a specialty team; or
-
-**(c)** is a clinical consultant who takes referrals from, or delivers the consultancy outside more than one Campus/worksite/centre of the Health Service.
-
-Sole Clinical Consultant
-
-"Sole" for the purposes of (a) above means a Clinical Consultant at a particular site or Campus, whether full-time or part-time who is the only nurse consultant in that clinical specialty at that site or Campus. Similarly, where two or more nurses are employed in that clinical specialty at a combined EFT of one or less, but predominantly work different days or job share, the sole classification would apply.
-
-Clinical Consultant D A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role and who in addition principally consults on a multi Health Service or Statewide basis.
-
-Clinical Consultant E A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role on an interstate or national basis.
-
-Clinical Nurse Specialist Classifications
-
-Clinical Nurse Specialist Means a Registered Nurse:
-
-**(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical
-
-area of their specified post basic qualification, and is responsible for clinical nursing duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and
-
-**(b)** who meets the criteria set out at [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria).
-
-Applicants must meet the above definition, be employed either full- time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria). The process for applying for a Clinical Nurse Specialist position is set out at 83.4 below.
-
-Clinical Midwife Means a Registered Midwife: Specialist
-
-**(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical midwife duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and
-
-**(b)** who meets the criteria set out at [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria).
-
-Applicants must meet the above definition, be employed either full- time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria). The process for applying for a Clinical Midwife Specialist position is set out at 83.4 below.
-
-Community Health Classifications
-
-Community Health Nurse A Registered Nurse appointed as such and employed in a Community Health Centre.
-
-Community Health Nurse A Registered Nurse who is the only community health nurse (Sole) appointed as such at a particular site, whether employed on a full- time or part-time basis. This classification also applies where two or more community health nurses are employed but predominantly work different days or job share.
-
-Community Health Nurse A Registered Nurse appointed as the nurse in charge, nurse (In charge) coordinator or other community health nurse, however styled, who is in charge of or directs the activities of other Employees of a Community Health Centre (whether Registered Nurses or not).
-
-Day Hospital Co-ordinator Classifications
-
-Day Hospital Co- A Registered Nurse appointed as such who under limited supervision ordinator Level 1 has responsibility for the coordination of services of a Day Hospital.
-
-Day Hospital Co- A Registered Nurse appointed as such who, without supervision has ordinator Level 2 total responsibility for the coordination of a Day Hospital including:
-
-**(a)** Preparation of and adherence to the budget of the Day Hospital;
-
-**(b)** Staff selection (non-professional staff) and participation in selection of professional staff;
-
-**(c)** Policy formulation; and
-
-**(d)** Administration – the Day Hospital Co-ordinator Level 2 will be recognised as a Department Head and will be responsible for all day to day administration of a Day Hospital.
-
-District Nurse Classifications
-
-Assistant Supervisor – A Registered Nurse with at least three Years of Experience District Nursing appointed as such and employed by any Employer and who has additional responsibilities to a District Nurse.
-
-Clinical Co-ordinator – A Registered Nurse appointed as such with experience as a District District Nursing Nurse Level 2, with responsibilities to coordinate patient care within one or more local government areas.
-
-District Nurse Level 1 A Registered Nurse appointed to undertake district nursing duties without a Year of Experience in district nursing or comparable community nursing experience.
-
-The entry level rate for this classification is CN 2.1 except where the Employee has more than four Years of Experience as a Registered Nurse, in which case the entry level will be CN 2.2, 2.3 or 2.4 in accordance with their Years of Experience as a Registered Nurse.
-
-District Nurse Level 2 A Registered Nurse with one or more Years of Experience as a District Nurse or with comparable community nursing experience. As part of the performance of the duties of this classification, a District Nurse Level 2 will, if required by the Employer, undertake functions that could be expected of an experienced Employee such as orientation of new staff members and acting as a support person for inexperienced District Nurses, with these functions forming a part of the position description for a District Nurse Level 2.
-
-Liaison Officer – District A Registered Nurse appointed as such with at least three Years of Nursing Experience in district nursing with responsibilities related to discharge planning and coordination services between hospitals and district nursing services.
-
-Maternal and Child Health Nurse Definitions
-
-Maternal and Child Health A Maternal and Child Health Nurse is an Employee who holds current Nurse registration with AHPRA as:
-
-**(a)** a Registered Nurse (Division 1); and
-
-**(b)** a Registered Midwife, and
-
-in addition to the above registrations, holds an accredited postgraduate degree/diploma (or equivalent) in maternal and child health nursing.
-
-Maternal and Child Health Maternal and Child Health Nurse Coordinator means a Registered Nurse Coordinator Nurse with qualifications as defined for a MCH Nurse, and who is responsible for managing and/or coordinating Maternal and Child
-
-Health Services, and may include coordinating an Immunisation Service within the council/shire.
-
-Nurse Education Classifications
-
-Clinical Support Nurse A Registered Nurse appointed as such and who is responsible for providing direct clinical support and instruction to, and for mentoring graduate, newly appointed or less experienced Employees to develop high quality clinical care skills. This classification is supernumerary (does not carry a clinical case load). The responsibilities of a Clinical Support Nurse may extend over numerous units or wards.
-
-Clinical Support Midwife A Registered Midwife appointed as such and who is responsible for providing direct clinical support and instruction to, and for mentoring graduate, newly appointed or less experienced Employees to develop high quality clinical care skills. This classification is supernumerary (does not carry a clinical case load). The responsibilities of a Clinical Support Midwife may extend over numerous units or wards.
-
-Deputy Principal A Registered Nurse or Registered Midwife (holding a Diploma in Educator Nursing Education or a qualification acceptable to the Employer) appointed as such and who deputises for the Principal Teacher and is also responsible for an area/areas of administration and teaching.
-
-Educator (a) A Registered Nurse appointed as such, employed to teach the theory and practice of nursing.
-
-**(b)** A Registered Midwife appointed as such, employed to teach the theory and practice of midwifery.
-
-Educator – (a) A Registered Nurse appointed as such, employed to teach the Course/Phase/In-service theory and practice of nursing and who has administrative and continuing education educational responsibilities including curriculum development (additional to those of "Educator" \[as defined\]):
-
-**(i)** Co-ordinators of Nursing and Midwifery Board of Australia approved courses;
-
-**(ii)** Co-ordinators of major phases of the general nurse programme (however styled); and
-
-**(iii)** Co-ordinators of in-service continuing education (staff development) programmes.
-
-**(b)** A Registered Midwife appointed as such, employed to teach the theory and practice of midwifery and who has administrative and educational responsibilities including curriculum development (additional to those of "Educator" \[as defined\]):
-
-**(i)** Co-ordinators of Nursing and Midwifery Board of Australia approved courses;
-
-**(ii)** Co-ordinators of major phases of the general midwifery programme (however styled);and
-
-**(iii)** Co-ordinators of in-service continuing education (staff development) programmes.
-
-Principal Educator A Registered Nurse or Registered Midwife (holding a Diploma in Nursing Education or qualification acceptable to the Employer) appointed as such to be responsible to the DON for the administration of a school of nursing and for the overall planning, organisation and implementation of nursing education programmes.
-
-Nurse Manager Classifications
-
-ANUM A Registered Nurse appointed as an Associate Nurse Unit Manager and who, within the guidelines and practices established by the Nurse Unit Manager, assists in the overall clinical and administrative management of a ward or unit and deputises for the Nurse Unit Manager when required within these limits.
-
-An ANUM will progress through the increments (from NM 1.1 to NM 1.2) on completion of a Year of Experience, including previous experience.
-
-AMUM A Registered Midwife appointed as an Associate Midwife Unit Manager and who, within the guidelines and practices established by the Midwife Unit Manager, assists in the overall clinical and administrative management of a ward or unit and deputises for the Midwife Unit Manager when required within these limits.
-
-An AMUM will progress through the increments (from NM 1.1 to NM 1.2) on completion of a Year of Experience, including previous experience.
-
-NUM/MUM Level 1 A Registered Nurse/Midwife who is appointed to be in charge of a ward or unit and who meets the criteria for Nurse/Midwife Unit Manager 2 in accordance with [clause 14.9](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
-
-NUM/MUM Level 2 A Registered Nurse/Midwife who is appointed to be in charge of a ward or unit and who meets the criteria for Nurse/Midwife Unit Manager 3 in accordance with [clause 14.9](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
-
-NUM/MUM Level 3 A Registered Nurse/Midwife who is appointed to be in charge of a ward or unit and who meets the criteria for Nurse/Midwife Unit Manager 4 in accordance with [clause 14.9](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
-
-After Hours Coordinator A Registered Nurse who is appointed to have responsibility for a Campus in the off duty periods of the Campus Director of Nursing.
-
-ADON/M (a) A Registered Nurse appointed to the role of Assistant Director of Nursing who assists and relieves the DON and/or the Deputy DON.
-
-**(b)** A Registered Midwife appointed to the role of Assistant Director of Midwifery who assists and relieves the DOM and/or the Deputy DOM.
-
-ADON/M Level 2 A Registered Nurse or Midwife who has responsibility for a project or process affecting more than one ward or unit within a Campus will be classified as Assistant Director of Nursing (NM5C).
-
-ADON/M Level 1 A Registered Nurse who has responsibility for a project or process in more than one Campus or across all units/wards in a single Health Service will be classified as Assistant Director of Nursing (NM5B).
-
-Deputy DON/DOM (a) A Registered Nurse who is appointed as a Campus Deputy Director of Nursing to assist the Director of Nursing in the day to day administration of the Campus.
-
-**(b)** A Registered Midwife who is appointed as a Deputy Director of Midwifery to assist the Campus Director of Nursing or the Director of Midwifery.
-
-The Employer is not required to appoint a Deputy DON or Deputy DOM.
-
-Divisional/Clinical A Registered Nurse or Midwife who has responsibility for a clinical Director division of the health service.
-
-Campus DON A Registered Nurse who is appointed as the Director of Nursing for a Campus listed in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
-
-Campus DOM A Registered Midwife who is appointed as the Director of Midwifery.
-
-Executive DON A Registered Nurse who is appointed in addition to the Campus Director of Nursing listed in [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories) to be an Executive Director of Nursing (however titled).
-
-An Employer is not required to appoint a Nurse Manager 9 and may rely on the appointment of a Nurse Manager 9 to satisfy the requirement to appoint a Campus DON.
-
-Nurse/Midwife Manager A Registered Nurse or Midwife principally engaged in management of not elsewhere classified a nursing or midwifery service, or part thereof, for which this Agreement contains no more applicable classification. The classification for this position will be NM5C.
-
-Occupational Health Classifications
-
-Occupational Health A Registered Nurse engaged in connection with any industrial or Nurse (where more than commercial undertaking and who carries out their nursing duties one employed) under the direction of a nursing supervisor.
-
-Occupational Health A Registered Nurse engaged in connection with any industrial or Nurse (Sole) commercial undertaking and who is employed to take charge of the medical centre and all matters concerned with the occupational health, medical and nursing services.
-
-Occupational Health A Registered Nurse engaged in connection with any industrial or Nurse Supervisor commercial undertaking and who supervises the work of the nursing personnel in the occupational health department or departments within the undertaking.
-
-Research Nurse/Midwife Classifications
-
-Level 1 Research 1. A Level 1 Research Nurse/Midwife: Nurse/Midwife a) can be an Enrolled Nurse, Registered Nurse or in the case of a Midwife, a Level 1 Research Midwife; and
-
-b\) in the case of an Enrolled Nurse will function in accordance with legislation, policies and procedures affecting Enrolled Nurse practice, managing nursing care of individuals and groups within the scope of Enrolled Nurse practice.
-
-1.  A Level 1 Research Nurse/Midwife will:
-
-a\) plan, in collaboration with a more senior Registered Nurse, nursing care in consultation with individuals/groups, significant others and the interdisciplinary care team;
-
-b\) not be responsible for the management or supervision of trials, staff, or budget(s);
-
-c\) be involved with data collection for clinical trial research studies undertaken in the department;
-
-d\) assist in the delivery of direct and indirect clinical-trial- related care of patients within their scope of practice; and
-
-e\) work under the supervision of a more senior Research Nurse/Midwife.
-
-Level 2 Research 1. A Level 2 Research Nurse/Midwife is a Registered Nurse or Nurse/Midwife Midwife.
-
-1.  A Level 2 Research Nurse/Midwife:
-
-a\) will have responsibility for the delivery of direct and indirect clinical-trial-related care of patients and associated data collection for concurrent clinical trial research studies undertaken in the department;
-
-b\) will not be responsible for the management or supervision of staff, or of budgets;
-
-c\) may coordinate a trial (without responsibility for staff) and/or participate in patient recruitment, ethics application processes and adverse event reporting (as required) together with the provision of education to other team members/patients and families related to a specific research method, protocol or program; and
-
-d\) may coordinate more than one trial contemporaneously.
-
-Level 3 Research 1. A Level 3 Research Nurse/Midwife is a Registered Nurse or Nurse/Midwife Midwife.
-
-1.  A Level 3 Research Nurse/Midwife:
-
-a\) has responsibility for the delivery of direct and indirect clinical-trial-related care of patients and associated data collection for concurrent research studies undertaken in the department;
-
-b\) may be responsible for the management and supervision of staff and the development of strategies to meet the educational requirements of staff or participants in a trial or trials. This includes the forward planning of resource requirements;
-
-c\) may be responsible for the budget of a research trial or of the research team(s), but not a research department; and
-
-d\) has responsibility and accountability for maintaining clinical and research governance and has a clear understanding of organisational processes that exist to support the conduct of good clinical research.
-
-Inherent requirements include the development and review of standard operating protocols, liaison with external agencies, overseeing and/or participating in patient recruitment, ethics application processes and adverse event reporting (as required).
-
-Qualification of Masters Degree or other relevant post graduate education desirable.
-
-Level 4 Research 1. A Level 4 Research Nurse/Midwife is a Registered Nurse or Nurse/Midwife Midwife who:
-
-a\) may have responsibility for the delivery of direct and indirect care and associated data collection for concurrent research studies undertaken in the department;
-
-b\) has overarching responsibility for the management of nursing/midwifery staff in the research department, including the delegation of responsibilities and performance management;
-
-c\) may have overall responsibility for the coordination and budgeting of all trials within the relevant research department, and will ensure the highest standard of care is delivered to research participants and, where relevant, their families, in partnership with all members of the multidisciplinary and research team(s);
-
-d\) has responsibility and accountability for maintaining clinical, staff and research governance;
-
-e\) may be the trial coordinator on appropriate studies;
-
-f\) will have responsibility over protocol budgets within the framework of the research unit overall budget, in consultation with the Principal Investigator and/or relevant Head of Department; and
-
-g\) in collaboration with the relevant Head of Department or Principal Investigator, will provide nursing/midwifery leadership, consultancy and advice and will lead the
-
-development of quality improvement projects that facilitate develop and maintain frameworks for policy and relevant education.
-
-Advances by one incremental pay point (where available) if already Level 11 when appointed to Research Nurse role, including previous experience in research at Level 10 or higher.
-
-Incremental advancement applies from date of appointment to Research Nurse role, including previous experience in research at Grade 5 or higher grade.
-
-Additional qualification requirement of Masters Degree, with progress towards (or achievement of) a PhD (desirable).
-
-Nurse Practitioner – Classifications
-
-Nurse Practitioner A Nurse Practitioner candidate will mean a Registered Nurse Candidate engaged to undertake a course of study and undertake clinical experience leading to endorsement as a Nurse Practitioner.
-
-Nurse Practitioner A Registered Nurse who has satisfactorily completed a course of study and undertaken clinical experience that, in the opinion of the Nursing and Midwifery Board of Australia, qualifies the nurse to use the title Nurse Practitioner.
-
-Note: All health professionals have a ‘scope of practice’. It describes the skills, knowledge and attributes of the area and context of practice in which they are authorised and competent to practice autonomously. Australian nurse practitioners have extensive post-graduate clinical experience and have completed prescribed education at a Masters level. Nurse practitioners provide complete episodes of health care, using an advanced person-centred nursing model of care by combining advanced nursing knowledge and skills with advanced diagnostic reasoning and therapeutic knowledge. They can diagnose and manage health consumers with common and complex health conditions. Nurse practitioners possess the legal authority to practice both independently and autonomously at a level of practice that is beyond that of a registered nurse. They have met the regulatory and professional requirements for Australia, including Endorsement through the Nursing and Midwifery Board of Australia (NMBA). Elements of care and/or role activities that may distinguish that a nurse practitioner is practicing as a nurse practitioner include: 1. ability to assess and diagnose health problem;
-
-1.  order and interpret diagnostic investigations;
-
-2.  formulate and assess response to treatment plans;
-
-3.  prescribe medicines; and
-
-4.  refer to other health professionals within their individual areas of competence.
-
-Nurse practitioners may also admit and discharge patients from health services, including hospital settings. Nurse practitioners practice collaboratively with other health professionals to improve access to healthcare through health promotion, disease prevention, and health management strategies. They improve health outcomes for specific patient populations or communities.
-
-Note: The definition of Nurse Practitioner includes those recognised by the NMBA and the Employer as Nurse Practitioners immediately prior to the commencement of this Agreement.
-
-Domiciliary Classifications
+- **(a)** **Basic Training** means training for initial registration as a Registered Nurse, or where the Employee is not a Registered Nurse, an undergraduate degree in Midwifery.
+- **(b)** **Certificate** means:
+  - **(i)** a Hospital Certificate;
+  - **(ii)** a tertiary graduate certificate;
+  - **(iii)** a certificate as a result of undertaking a course of study at the New South Wales College of Nursing or a nursing college of at least equivalent status;
+  - **(iv)** the equivalent of a certificate including a Certificate obtained from training or an education facilities provider (such as infection control certificates from the Mayfield Centre) where the programmes are equivalent to a University Graduate Certificate and the training/education provider verifies that in writing; or
+  - **(v)** post-basic certificates of qualification obtained by a Registered Nurse as a result of in-service or post-basic training, as a result of the following:
+    - **(A)** Certificates obtained for courses approved by the Nursing and Midwifery Board of Australia for the purposes of endorsement in the relevant register; or
+    - **(B)** Certificates obtained for courses requiring registration by the Nursing and Midwifery Board of Australia which will mean maternal and child health nursing, midwifery nursing, psychiatric nursing and mental retardation nursing.
+- **(c)** **Day Hospital** means an extension of acute hospital services, providing a range of services, including medical and nursing supervision, physiotherapy, occupational therapy, speech therapy, chiropody and social work counselling on an out-patient basis.
+- **(d)** **Diplomas and degrees** means diplomas and degrees in nursing, education or health administration held by an Employee as a result of undertaking a course of study at a Registered Training Organisation, VET Provider, College of Advanced Education or University.
+- **(e)** **In-service or post-basic education** means education undertaken during, and in conjunction with, employment as a Registered Nurse or Midwife for the purpose of obtaining a post-basic certificate of qualification in:
+  - **(i)** a course approved by the Nursing and Midwifery Board of Australia for the purposes of endorsement in the relevant register; or
+  - **(ii)** a course requiring registration by the Nursing and Midwifery Board of Australia which will mean maternal and child health nursing, midwifery nursing, psychiatric nursing and mental retardation nursing.
+- **(f)** **Registered Nurse** has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
+- **(g)** **Registered Midwife** has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
+- **(h)** **Research Nurse/Midwife** means a Nurse/Midwife who:
+  - **(iii)** as a minimum, has either a Diploma in Nursing (Level 1 only) or a Bachelor of Nursing or Midwifery (all levels);
+  - **(iv)** is directly involved in clinical research-related activities which form the predominant aspect of the Employee's ongoing, regular duties. Whilst the level of involvement can vary, the level of involvement and its regularity distinguish a Research Nurse/Midwife from other Employees who provide incidental and/or irregular contributions to clinical research trials as part of their normal duties; and
+  - **(v)** performs their research-related duties in accordance with the Therapeutic Goods Administration (**TGA**) Note for Guidance on Good Clinical Practice (CPMP/ICH/135/95), the National Health and Medical Research Council (**NHMRC**) National Statement on Ethical Conduct in Human Research and applicable state/federal privacy laws.
+
+## Part 2 – Classifications for Registered Nurses and Midwives
+
+**83.3 Classifications for Registered Nurses and Midwives**
+
+### Clinical Consultant Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Clinical Consultant** | A Registered Nurse or Midwife who is appointed as such to provide a clinical resource, clinical advisory/developmental role on a full-time dedicated basis (i.e. performs only consultancy work on the relevant shifts) and undertakes related projects and research and development activities to meet specified clinical nursing needs in a clinical discipline. |
+| **Clinical Consultant A** | A Registered Nurse or Midwife appointed as such who as a member of a specialist team fulfils the clinical consultant role in their first and second Years of Experience. |
+| **Clinical Consultant B** | A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role as a Clinical Consultant A in their third and subsequent Years of Experience as a Clinical Consultant. |
+| **Clinical Consultant C** | A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role, and: - **(a)** is the sole Registered Nurse or Midwife in the specialty; - **(b)** is in charge of a specialty team; or - **(c)** is a clinical consultant who takes referrals from, or delivers the consultancy outside more than one Campus/worksite/centre of the Health Service. **Sole Clinical Consultant** "Sole" for the purposes of (a) above means a Clinical Consultant at a particular site or Campus, whether full-time or part-time who is the only nurse consultant in that clinical specialty at that site or Campus. Similarly, where two or more nurses are employed in that clinical specialty at a combined EFT of one or less, but predominantly work different days or job share, the sole classification would apply. |
+| **Clinical Consultant D** | A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role and who in addition principally consults on a multi Health Service or Statewide basis. |
+| **Clinical Consultant E** | A Registered Nurse or Midwife appointed as such who fulfils the clinical consultant role on an interstate or national basis. |
+
+### Clinical Nurse Specialist Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Clinical Nurse Specialist** | Means a Registered Nurse: - **(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical nursing duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and - **(b)** who meets the criteria set out at Appendix 4. Applicants must meet the above definition, be employed either full-time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of Appendix 4. The process for applying for a Clinical Nurse Specialist position is set out at 83.4 below. |
+| **Clinical Midwife Specialist** | Means a Registered Midwife: - **(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical midwife duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and - **(b)** who meets the criteria set out at Appendix 4. Applicants must meet the above definition, be employed either full-time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of Appendix 4. The process for applying for a Clinical Midwife Specialist position is set out at 83.4 below. |
+
+### Community Health Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Community Health Nurse** | A Registered Nurse appointed as such and employed in a Community Health Centre. |
+| **Community Health Nurse (Sole)** | A Registered Nurse who is the only community health nurse appointed as such at a particular site, whether employed on a full-time or part-time basis. This classification also applies where two or more community health nurses are employed but predominantly work different days or job share. |
+| **Community Health Nurse (In charge)** | A Registered Nurse appointed as the nurse in charge, nurse coordinator or other community health nurse, however styled, who is in charge of or directs the activities of other Employees of a Community Health Centre (whether Registered Nurses or not). |
+
+### Day Hospital Co-ordinator Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Day Hospital Co-ordinator Level 1** | A Registered Nurse appointed as such who under limited supervision has responsibility for the coordination of services of a Day Hospital. |
+| **Day Hospital Co-ordinator Level 2** | A Registered Nurse appointed as such who, without supervision has total responsibility for the coordination of a Day Hospital including: - **(a)** Preparation of and adherence to the budget of the Day Hospital; - **(b)** Staff selection (non-professional staff) and participation in selection of professional staff; - **(c)** Policy formulation; and - **(d)** Administration – the Day Hospital Co-ordinator Level 2 will be recognised as a Department Head and will be responsible for all day to day administration of a Day Hospital. |
+
+### District Nurse Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Assistant Supervisor – District Nursing** | A Registered Nurse with at least three Years of Experience appointed as such and employed by any Employer and who has additional responsibilities to a District Nurse. |
+| **Clinical Co-ordinator – District Nursing** | A Registered Nurse appointed as such with experience as a District Nurse Level 2, with responsibilities to coordinate patient care within one or more local government areas. |
+| **District Nurse Level 1** | A Registered Nurse appointed to undertake district nursing duties without a Year of Experience in district nursing or comparable community nursing experience. The entry level rate for this classification is CN 2.1 except where the Employee has more than four Years of Experience as a Registered Nurse, in which case the entry level will be CN 2.2, 2.3 or 2.4 in accordance with their Years of Experience as a Registered Nurse. |
+| **District Nurse Level 2** | A Registered Nurse with one or more Years of Experience as a District Nurse or with comparable community nursing experience. As part of the performance of the duties of this classification, a District Nurse Level 2 will, if required by the Employer, undertake functions that could be expected of an experienced Employee such as orientation of new staff members and acting as a support person for inexperienced District Nurses, with these functions forming a part of the position description for a District Nurse Level 2. |
+| **Liaison Officer – District Nursing** | A Registered Nurse appointed as such with at least three Years of Experience in district nursing with responsibilities related to discharge planning and coordination services between hospitals and district nursing services. |
+
+### Maternal and Child Health Nurse Definitions
+
+| Classification | Definition |
+| --- | --- |
+| **Maternal and Child Health Nurse** | A Maternal and Child Health Nurse is an Employee who holds current registration with AHPRA as: - **(a)** a Registered Nurse (Division 1); and - **(b)** a Registered Midwife, and in addition to the above registrations, holds an accredited postgraduate degree/diploma (or equivalent) in maternal and child health nursing. |
+| **Maternal and Child Health Nurse Coordinator** | Maternal and Child Health Nurse Coordinator means a Registered Nurse with qualifications as defined for a MCH Nurse, and who is responsible for managing and/or coordinating Maternal and Child Health Services, and may include coordinating an Immunisation Service within the council/shire. |
+
+### Nurse Education Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Clinical Support Nurse** | A Registered Nurse appointed as such and who is responsible for providing direct clinical support and instruction to, and for mentoring graduate, newly appointed or less experienced Employees to develop high quality clinical care skills. This classification is supernumerary (does not carry a clinical case load). The responsibilities of a Clinical Support Nurse may extend over numerous units or wards. |
+| **Clinical Support Midwife** | A Registered Midwife appointed as such and who is responsible for providing direct clinical support and instruction to, and for mentoring graduate, newly appointed or less experienced Employees to develop high quality clinical care skills. This classification is supernumerary (does not carry a clinical case load). The responsibilities of a Clinical Support Midwife may extend over numerous units or wards. |
+| **Deputy Principal Educator** | A Registered Nurse or Registered Midwife (holding a Diploma in Nursing Education or a qualification acceptable to the Employer) appointed as such and who deputises for the Principal Teacher and is also responsible for an area/areas of administration and teaching. |
+| **Educator** | - **(a)** A Registered Nurse appointed as such, employed to teach the theory and practice of nursing. - **(b)** A Registered Midwife appointed as such, employed to teach the theory and practice of midwifery. |
+| **Educator – Course/Phase/In-service continuing education** | - **(a)** A Registered Nurse appointed as such, employed to teach the theory and practice of nursing and who has administrative and educational responsibilities including curriculum development (additional to those of "Educator" [as defined]): - **(i)** Co-ordinators of Nursing and Midwifery Board of Australia approved courses; - **(ii)** Co-ordinators of major phases of the general nurse programme (however styled); and - **(iii)** Co-ordinators of in-service continuing education (staff development) programmes. - **(b)** A Registered Midwife appointed as such, employed to teach the theory and practice of midwifery and who has administrative and educational responsibilities including curriculum development (additional to those of "Educator" [as defined]): - **(i)** Co-ordinators of Nursing and Midwifery Board of Australia approved courses; - **(ii)** Co-ordinators of major phases of the general midwifery programme (however styled); and - **(iii)** Co-ordinators of in-service continuing education (staff development) programmes. |
+| **Principal Educator** | A Registered Nurse or Registered Midwife (holding a Diploma in Nursing Education or qualification acceptable to the Employer) appointed as such to be responsible to the DON for the administration of a school of nursing and for the overall planning, organisation and implementation of nursing education programmes. |
+
+### Nurse Manager Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **ANUM** | A Registered Nurse appointed as an Associate Nurse Unit Manager and who, within the guidelines and practices established by the Nurse Unit Manager, assists in the overall clinical and administrative management of a ward or unit and deputises for the Nurse Unit Manager when required within these limits. An ANUM will progress through the increments (from NM 1.1 to NM 1.2) on completion of a Year of Experience, including previous experience. |
+| **AMUM** | A Registered Midwife appointed as an Associate Midwife Unit Manager and who, within the guidelines and practices established by the Midwife Unit Manager, assists in the overall clinical and administrative management of a ward or unit and deputises for the Midwife Unit Manager when required within these limits. An AMUM will progress through the increments (from NM 1.1 to NM 1.2) on completion of a Year of Experience, including previous experience. |
+| **NUM/MUM Level 1** | A Registered Nurse/Midwife who is appointed to be in charge of a ward or unit and who meets the criteria for Nurse/Midwife Unit Manager 2 in accordance with clause 14.9. |
+| **NUM/MUM Level 2** | A Registered Nurse/Midwife who is appointed to be in charge of a ward or unit and who meets the criteria for Nurse/Midwife Unit Manager 3 in accordance with clause 14.9. |
+| **NUM/MUM Level 3** | A Registered Nurse/Midwife who is appointed to be in charge of a ward or unit and who meets the criteria for Nurse/Midwife Unit Manager 4 in accordance with clause 14.9. |
+| **After Hours Coordinator** | A Registered Nurse who is appointed to have responsibility for a Campus in the off duty periods of the Campus Director of Nursing. |
+| **ADON/M** | - **(a)** A Registered Nurse appointed to the role of Assistant Director of Nursing who assists and relieves the DON and/or the Deputy DON. - **(b)** A Registered Midwife appointed to the role of Assistant Director of Midwifery who assists and relieves the DOM and/or the Deputy DOM. |
+| **ADON/M Level 2** | A Registered Nurse or Midwife who has responsibility for a project or process affecting more than one ward or unit within a Campus will be classified as Assistant Director of Nursing (NM5C). |
+| **ADON/M Level 1** | A Registered Nurse who has responsibility for a project or process in more than one Campus or across all units/wards in a single Health Service will be classified as Assistant Director of Nursing (NM5B). |
+| **Deputy DON/DOM** | - **(a)** A Registered Nurse who is appointed as a Campus Deputy Director of Nursing to assist the Director of Nursing in the day to day administration of the Campus. - **(b)** A Registered Midwife who is appointed as a Deputy Director of Midwifery to assist the Campus Director of Nursing or the Director of Midwifery. The Employer is not required to appoint a Deputy DON or Deputy DOM. |
+| **Divisional/Clinical Director** | A Registered Nurse or Midwife who has responsibility for a clinical division of the health service. |
+| **Campus DON** | A Registered Nurse who is appointed as the Director of Nursing for a Campus listed in Appendix 8. |
+| **Campus DOM** | A Registered Midwife who is appointed as the Director of Midwifery. |
+| **Executive DON** | A Registered Nurse who is appointed in addition to the Campus Director of Nursing listed in Appendix 9 to be an Executive Director of Nursing (however titled). An Employer is not required to appoint a Nurse Manager 9 and may rely on the appointment of a Nurse Manager 9 to satisfy the requirement to appoint a Campus DON. |
+| **Nurse/Midwife Manager not elsewhere classified** | A Registered Nurse or Midwife principally engaged in management of a nursing or midwifery service, or part thereof, for which this Agreement contains no more applicable classification. The classification for this position will be NM5C. |
+
+### Occupational Health Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Occupational Health Nurse (where more than one employed)** | A Registered Nurse engaged in connection with any industrial or commercial undertaking and who carries out their nursing duties under the direction of a nursing supervisor. |
+| **Occupational Health Nurse (Sole)** | A Registered Nurse engaged in connection with any industrial or commercial undertaking and who is employed to take charge of the medical centre and all matters concerned with the occupational health, medical and nursing services. |
+| **Occupational Health Nurse Supervisor** | A Registered Nurse engaged in connection with any industrial or commercial undertaking and who supervises the work of the nursing personnel in the occupational health department or departments within the undertaking. |
+
+### Research Nurse/Midwife Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Level 1 Research Nurse/Midwife** | **1.** A Level 1 Research Nurse/Midwife: - **(a)** can be an Enrolled Nurse, Registered Nurse or in the case of a Midwife, a Level 1 Research Midwife; and - **(b)** in the case of an Enrolled Nurse will function in accordance with legislation, policies and procedures affecting Enrolled Nurse practice, managing nursing care of individuals and groups within the scope of Enrolled Nurse practice. **2.** A Level 1 Research Nurse/Midwife will: - **(a)** plan, in collaboration with a more senior Registered Nurse, nursing care in consultation with individuals/groups, significant others and the interdisciplinary care team; - **(b)** not be responsible for the management or supervision of trials, staff, or budget(s); - **(c)** be involved with data collection for clinical trial research studies undertaken in the department; - **(d)** assist in the delivery of direct and indirect clinical-trial-related care of patients within their scope of practice; and - **(e)** work under the supervision of a more senior Research Nurse/Midwife. |
+| **Level 2 Research Nurse/Midwife** | **1.** A Level 2 Research Nurse/Midwife is a Registered Nurse or Midwife. **2.** A Level 2 Research Nurse/Midwife: - **(a)** will have responsibility for the delivery of direct and indirect clinical-trial-related care of patients and associated data collection for concurrent clinical trial research studies undertaken in the department; - **(b)** will not be responsible for the management or supervision of staff, or of budgets; - **(c)** may coordinate a trial (without responsibility for staff) and/or participate in patient recruitment, ethics application processes and adverse event reporting (as required) together with the provision of education to other team members/patients and families related to a specific research method, protocol or program; and - **(d)** may coordinate more than one trial contemporaneously. |
+| **Level 3 Research Nurse/Midwife** | **1.** A Level 3 Research Nurse/Midwife is a Registered Nurse or Midwife. **2.** A Level 3 Research Nurse/Midwife: - **(a)** has responsibility for the delivery of direct and indirect clinical-trial-related care of patients and associated data collection for concurrent research studies undertaken in the department; - **(b)** may be responsible for the management and supervision of staff and the development of strategies to meet the educational requirements of staff or participants in a trial or trials. This includes the forward planning of resource requirements; - **(c)** may be responsible for the budget of a research trial or of the research team(s), but not a research department; and - **(d)** has responsibility and accountability for maintaining clinical and research governance and has a clear understanding of organisational processes that exist to support the conduct of good clinical research. Inherent requirements include the development and review of standard operating protocols, liaison with external agencies, overseeing and/or participating in patient recruitment, ethics application processes and adverse event reporting (as required). Qualification of Masters Degree or other relevant post graduate education desirable. |
+| **Level 4 Research Nurse/Midwife** | **1.** A Level 4 Research Nurse/Midwife is a Registered Nurse or Midwife who: - **(a)** may have responsibility for the delivery of direct and indirect care and associated data collection for concurrent research studies undertaken in the department; - **(b)** has overarching responsibility for the management of nursing/midwifery staff in the research department, including the delegation of responsibilities and performance management; - **(c)** may have overall responsibility for the coordination and budgeting of all trials within the relevant research department, and will ensure the highest standard of care is delivered to research participants and, where relevant, their families, in partnership with all members of the multidisciplinary and research team(s); - **(d)** has responsibility and accountability for maintaining clinical, staff and research governance; - **(e)** may be the trial coordinator on appropriate studies; - **(f)** will have responsibility over protocol budgets within the framework of the research unit overall budget, in consultation with the Principal Investigator and/or relevant Head of Department; and - **(g)** in collaboration with the relevant Head of Department or Principal Investigator, will provide nursing/midwifery leadership, consultancy and advice and will lead the development of quality improvement projects that facilitate develop and maintain frameworks for policy and relevant education. Advances by one incremental pay point (where available) if already Level 11 when appointed to Research Nurse role, including previous experience in research at Level 10 or higher. Incremental advancement applies from date of appointment to Research Nurse role, including previous experience in research at Grade 5 or higher grade. Additional qualification requirement of Masters Degree, with progress towards (or achievement of) a PhD (desirable). |
+
+### Nurse Practitioner – Classifications
+
+| Classification | Definition |
+| --- | --- |
+| **Nurse Practitioner Candidate** | A Nurse Practitioner candidate will mean a Registered Nurse engaged to undertake a course of study and undertake clinical experience leading to endorsement as a Nurse Practitioner. |
+| **Nurse Practitioner** | A Registered Nurse who has satisfactorily completed a course of study and undertaken clinical experience that, in the opinion of the Nursing and Midwifery Board of Australia, qualifies the nurse to use the title Nurse Practitioner. Note: All health professionals have a 'scope of practice'. It describes the skills, knowledge and attributes of the area and context of practice in which they are authorised and competent to practice autonomously. Australian nurse practitioners have extensive post-graduate clinical experience and have completed prescribed education at a Masters level. Nurse practitioners provide complete episodes of health care, using an advanced person-centred nursing model of care by combining advanced nursing knowledge and skills with advanced diagnostic reasoning and therapeutic knowledge. They can diagnose and manage health consumers with common and complex health conditions. Nurse practitioners possess the legal authority to practice both independently and autonomously at a level of practice that is beyond that of a registered nurse. They have met the regulatory and professional requirements for Australia, including Endorsement through the Nursing and Midwifery Board of Australia (NMBA). Elements of care and/or role activities that may distinguish that a nurse practitioner is practicing as a nurse practitioner include: - **1.** ability to assess and diagnose health problem; - **2.** order and interpret diagnostic investigations; - **3.** formulate and assess response to treatment plans; - **4.** prescribe medicines; and - **5.** refer to other health professionals within their individual areas of competence. Nurse practitioners may also admit and discharge patients from health services, including hospital settings. Nurse practitioners practice collaboratively with other health professionals to improve access to healthcare through health promotion, disease prevention, and health management strategies. They improve health outcomes for specific patient populations or communities. *Note: The definition of Nurse Practitioner includes those recognised by the NMBA and the Employer as Nurse Practitioners immediately prior to the commencement of this Agreement.* |
+
+### Domiciliary Classifications
 
 A Registered Nurse who at the direction of the Employer undertakes work that includes Hospital in the Home or Post Acute Care.
 
-HITH/PAC Level 1 exclusively to provide clinical care – CAPR2;
-
-HITH/PAC Level 2 with ad hoc responsibilities beyond provision of clinical care (e.g. rostering of other staff, allocation of duties to other staff), will be CAPR 3;
-
-HITH/PAC Level 3 responsible for the day to day operation of a HITH/PAC or similar service (however titled) will be graded at Nurse/Midwife Manager Level 2, Level 3 or Level 4 in accordance with [clause 14.9](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
+| Classification | Definition |
+| --- | --- |
+| **HITH/PAC Level 1** | Exclusively to provide clinical care – CAPR2. |
+| **HITH/PAC Level 2** | With ad hoc responsibilities beyond provision of clinical care (e.g. rostering of other staff, allocation of duties to other staff), will be CAPR 3. |
+| **HITH/PAC Level 3** | Responsible for the day to day operation of a HITH/PAC or similar service (however titled) will be graded at Nurse/Midwife Manager Level 2, Level 3 or Level 4 in accordance with clause 14.9. |
 
 Provided specifically that any Employee performing this work immediately prior to the introduction of this Agreement will remain at their current grade where that grade is higher than the grade prescribed above.
 
-No Lift Co-ordinator – Classification
+### No Lift Co-ordinator – Classification
 
-No Lift Co-ordinator A Registered Nurse, Registered Midwife or Enrolled Nurse appointed as such and who is responsible for co-ordinating the maintenance of no-lift practices and educational programs of an Employer.
+| Classification | Definition |
+| --- | --- |
+| **No Lift Co-ordinator** | A Registered Nurse, Registered Midwife or Enrolled Nurse appointed as such and who is responsible for co-ordinating the maintenance of no-lift practices and educational programs of an Employer. |
 
-Clinical Liaison Nurse – Classification
+### Clinical Liaison Nurse – Classification
 
-Clinical Liaison Nurse (a) The role of a Clinical Liaison Nurse is to provide expert nursing consultation and liaison support to nurses and other healthcare professionals in relation to general hospital patients presenting with psychiatric and physical comorbidity.
+| Classification | Definition |
+| --- | --- |
+| **Clinical Liaison Nurse** | - **(a)** The role of a Clinical Liaison Nurse is to provide expert nursing consultation and liaison support to nurses and other healthcare professionals in relation to general hospital patients presenting with psychiatric and physical comorbidity. - **(b)** The Clinical Liaison Nurse focusses on supporting nursing staff in acute health to provide care for patients who have behavioural disturbance due to a mental illness or other causes. The role includes regular liaison with ICU and ED. - **(c)** The Clinical Liaison Nurse is an active member of working groups and leads relevant policy reviews and development of best practice initiatives for nursing care of patients with mental illness in the general hospital. |
 
-**(b)** The Clinical Liaison Nurse focusses on supporting nursing staff in acute health to provide care for patients who have behavioural disturbance due to a mental illness or other causes. The role includes regular liaison with ICU and ED.
+### Senior Midwife
 
-**(c)** The Clinical Liaison Nurse is an active member of working groups and leads relevant policy reviews and development of best practice initiatives for nursing care of patients with mental illness in the general hospital.
+| Classification | Definition |
+| --- | --- |
+| **Senior Midwife** | - **(a)** **Senior Midwife** means an Employee who is a Registered Midwife appointed as the senior midwifery officer, however titled, and who is responsible for midwives, operationally and/or professionally, within the maternity service/division. - **(b)** A **Senior Midwife** appointed in accordance with clause 90A will be paid at the greater of: - **(i)** the NM8C Grade; or - **(ii)** The Employee's current Grade. - **(c)** Where the Employer appoints a Senior Midwife to replace an existing Senior Midwife covered by (e)(ii), above, the Employer will retain the existing classification unless the role is substantially altered, in which case consultation under clause 11 shall occur. A dispute that cannot be resolved through consultation will be referred to the CIC, and if not resolved clause 14 will apply. |
 
-Senior Midwife
+### Liaison Midwife – Classification
 
-Senior Midwife (a) Senior Midwife means an Employee who is a Registered Midwife appointed as the senior midwifery officer, however titled, and who is responsible for midwives, operationally and/or professionally, within the maternity service/division.
+| Classification | Definition |
+| --- | --- |
+| **Liaison Midwife** | - **(a)** A Liaison Midwife, listed at clause 90A.2, provides clinical midwifery leadership across maternity services of more than one health service to: - **(i)** strengthen clinical governance; - **(ii)** improve safety and quality of care through the use of best practice; - **(iii)** minimise risk; and - **(iv)** foster a culture of continuous improvement. - **(b)** A Liaison Midwife not listed at clause 90A.2 must: - **(i)** meet the definition of Clinical Midwife Consultant D; or - **(i)** be performing a comparable role to that of a Liaison Midwife appointed under clause 90A.2, to be paid as such. |
 
-**(b)** A Senior Midwife appointed in accordance with [clause 90A](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) will be paid at the greater of:
+## Part 3 – Clinical Nurse/Midwife Specialist positions
 
-**(i)** the NM8C Grade; or
-
-**(ii)** The Employee’s current Grade.
-
-**(c)** Where the Employer appoints a Senior Midwife to replace an existing Senior Midwife covered by (e)(ii), above, the Employer will retain the existing classification unless the role is substantially altered, in which case consultation under [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) shall occur. A dispute that cannot be resolved through consultation will be referred to the CIC, and if not resolved [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) will apply.
-
-Liaison Midwife - Classification
-
-Liaison Midwife (a) A Liaison Midwife, listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife), provides clinical midwifery leadership across maternity services of more than one health service to:
-
-**(i)** strengthen clinical governance;
-
-**(ii)** improve safety and quality of care through the use of best practice;
-
-**(iii)** minimise risk; and
-
-**(iv)** foster a culture of continuous improvement.
-
-**(b)** A Liaison Midwife not listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) must:
-
-**(i)** meet the definition of Clinical Midwife Consultant D; or
-
-**(i)** be performing a comparable role to that of a Liaison Midwife appointed under [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife),
-
-to be paid as such.
-
-Part 3 – Clinical Nurse/Midwife Specialist positions
-
-**83.4** Process for application for Clinical Nurse/Midwife Specialist position
+**83.4 Process for application for Clinical Nurse/Midwife Specialist position**
 
 From 17 May 2024, the process for applications for Clinical Nurse/Midwife Specialist positions will be as follows:
 
-**(a)** each Employer will arrange for the advertising of positions once every six months. This information to be permanently available for nursing and midwifery staff;
+- **(a)** each Employer will arrange for the advertising of positions once every six months. This information to be permanently available for nursing and midwifery staff;
+- **(b)** written applications are to be made to the NUM/MUM;
+- **(c)** interviews, if required, will be conducted by the NUM/MUM, ANUM/AMUM or Educator and one other;
+- **(d)** interviews will occur wherever practicable within 14 days of an application;
+- **(e)** some health agencies (for example, where service delivery is similar across the facility) may wish to operate with an "umbrella" committee for the purpose of interviews;
+- **(f)** the successful applicant will be notified in writing within seven days. The pay office will be informed of the new classification at the same time, which will apply from the FFPPOOA the date of application, subject to [clause 83.5](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification);
+- **(g)** if the applicant is unsuccessful they are to be notified of the outcome within seven days of the interview. An explanation will be given to the applicant as to the reasons for the decision;
+- **(h)** each Employer will implement an appeal process. The appeal is to be lodged by the applicant within two weeks of receiving the rejection letter and heard by the Appeal Committee within four weeks. The applicant may at this stage seek advice and assistance from the ANMF; and
+- **(i)** appeals will be directed to the DON/DOM or nominee. An independent panel will be convened, consisting of a DON/DOM or nominee, NUM/MUM, Clinical Nurse/Midwife Specialist or other nominee as appropriate, other than those involved in the original decision.
 
-**(b)** written applications are to be made to the NUM/MUM;
+**83.5 Requirements of continuing to meet the Clinical Nurse/Midwife Specialist position**
 
-**(c)** interviews, if required, will be conducted by the NUM/MUM, ANUM/AMUM or Educator and one other;
+- **(a)** Any requirements to continue to meet the Clinical Nurse/Midwife Specialist criteria (as set out in [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria)) will occur during rostered time.
+- **(b)** Disputes regarding the relevance of Clinical Nurse/Midwife Specialist qualifications that cannot be resolved will be referred to the Central Implementation Committee and, if not resolved, will be dealt with under [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (Statewide Industry Panel).
 
-**(d)** interviews will occur wherever practicable within 14 days of an application;
+**83.6 Transfer of CNS/CMS status**
 
-**(e)** some health agencies (for example, where service delivery is similar across the facility) may wish to operate with an "umbrella" committee for the purpose of interviews;
+- **(a)** Where a person appointed as a CNS or CMS by an Employer commences employment with another Employer within the same specialty, the new Employer will:
+  - **(i)** advise the CNS/CMS of the next advertisement period referred to in [subclause 83.4(a)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification); and
+  - **(ii)** where an application is made for the next advertisement period and is successful, the Employee will be paid as a CNS/CMS back to the date of commencement in the new role.
+- **(b)** Nothing in this clause compels an Employee to make an application.
 
-**(f)** the successful applicant will be notified in writing within seven days. The pay office will be informed of the new classification at the same time, which will apply from the FFPPOOA the date of application, subject to [clause 83.5](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification);
+## Part 4 – Classification in Grades
 
-**(g)** if the applicant is unsuccessful they are to be notified of the outcome within seven days of the interview. An explanation will be given to the applicant as to the reasons for the decision;
-
-**(h)** each Employer will implement an appeal process. The appeal is to be lodged by the applicant within two weeks of receiving the rejection letter and heard by the Appeal Committee within four weeks. The applicant may at this stage seek advice and assistance from the ANMF; and
-
-**(i)** appeals will be directed to the DON/DOM or nominee. An independent panel will be convened, consisting of a DON/DOM or nominee, NUM/MUM, Clinical Nurse/Midwife Specialist or other nominee as appropriate, other than those involved in the original decision.
-
-**83.5** Requirements of continuing to meet the Clinical Nurse/Midwife Specialist position
-
-**(a)** Any requirements to continue to meet the Clinical Nurse/Midwife Specialist criteria (as set out in [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria)) will occur during rostered time.
-
-**(b)** Disputes regarding the relevance of Clinical Nurse/Midwife Specialist qualifications that cannot be resolved will be referred to the Central Implementation Committee and, if not resolved, will be dealt with under [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (Statewide Industry Panel).
-
-**83.6** Transfer of CNS/CMS status
-
-**(a)** Where a person appointed as a CNS or CMS by an Employer commences employment with another Employer within the same specialty, the new Employer will:
-
-**(i)** advise the CNS/CMS of the next advertisement period referred to in [subclause 83.4(a)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification); and
-
-**(ii)** where an application is made for the next advertisement period and is successful, the Employee will be paid as a CNS/CMS back to the date of commencement in the new role.
-
-**(b)** Nothing in this clause compels an Employee to make an application.
-
-Part 4 – Classification in Grades
-
-**83.7** The Nursing and Midwifery career structure
+**83.7 The Nursing and Midwifery career structure**
 
 The Nursing and Midwifery career structure is divided into four streams as follows:
 
-**(a)** the Clinical, Advanced Practice and Research stream (CAPR) which comprises those classifications principally engaged in clinical work, advanced practices, extended practice, clinical consultancy, drug and alcohol (inpatient) and research;
-
-**(b)** the Community Stream (CN) which comprises those classifications principally engaged in district nursing, community alcohol and other drugs, domiciliary, ambulatory, outpatients, community health, HITH, PAC, HARP, in-reach etc (to be read in conjunction with Clinical, Advanced Practice and Research stream, and the Nurse Manager stream);
-
-**(c)** the Nurse/Midwife Manager (NM) stream which comprises those classifications principally engaged in management of a nursing or midwifery service, or part thereof, in any stream; and
-
-**(d)** the Quality, Clinical Risk, Governance, Education and Development stream (QRED) which comprises those classifications principally engaged in clinical support, clinical development, education, risk management and governance.
+- **(a)** the Clinical, Advanced Practice and Research stream (**CAPR**) which comprises those classifications principally engaged in clinical work, advanced practices, extended practice, clinical consultancy, drug and alcohol (inpatient) and research;
+- **(b)** the Community Stream (**CN**) which comprises those classifications principally engaged in district nursing, community alcohol and other drugs, domiciliary, ambulatory, outpatients, community health, HITH, PAC, HARP, in-reach etc (to be read in conjunction with Clinical, Advanced Practice and Research stream, and the Nurse Manager stream);
+- **(c)** the Nurse/Midwife Manager (**NM**) stream which comprises those classifications principally engaged in management of a nursing or midwifery service, or part thereof, in any stream; and
+- **(d)** the Quality, Clinical Risk, Governance, Education and Development stream (**QRED**) which comprises those classifications principally engaged in clinical support, clinical development, education, risk management and governance.
 
 Each stream contains grades, and in some cases sub-grades. Application of these grades/sub-grades are set out in [clauses 83.10](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38.
 
 Employees will have the most appropriate classification and grade within their stream applied to their employment.
 
-**83.8** Graduate Nurse/Midwife
+**83.8 Graduate Nurse/Midwife**
 
-**(a)** A Registered Nurse or Midwife (being a Midwife who does not have Experience as a Registered Nurse) will enter at RN/RM 1.
+- **(a)** A Registered Nurse or Midwife (being a Midwife who does not have Experience as a Registered Nurse) will enter at RN/RM 1.
+- **(b)** An Enrolled Nurse who completes an undergraduate course which leads to registration and is subsequently registered as a Registered Nurse will commence at the RN/RM increment immediately above the rate of pay (including qualification allowance (where applicable) applicable to that Employee.
+- **(c)** Progression – A Registered Nurse or Midwife will progress through the increments (from RN/M1 to RN/M8) on completion of a Year of Experience, including previous experience.
 
-**(b)** An Enrolled Nurse who completes an undergraduate course which leads to registration and is subsequently registered as a Registered Nurse will commence at the RN/RM increment immediately above the rate of pay (including qualification allowance (where applicable) applicable to that Employee.
+**83.9 Re-entry Courses and Supervised Experience (Registered Nurses)**
 
-**(c)** Progression – A Registered Nurse or Midwife will progress through the increments (from RN/M1 to RN/M8) on completion of a Year of Experience, including previous experience.
+- **(a)** Where an Employee has not actively nursed for a period of five years or more, such Employee's prior Years of Experience will not be taken into account.
+- **(b)** For the first 12 months after completion of a Re-entry Course or Supervised Experience, where such course or experience is required by the Nursing and Midwifery Board of Australia, the Employee will be paid at the rate appropriate to their Years of Experience, but no higher than RN/RM3.
+- **(c)** After completion of 12 months' Experience in accordance with [subclause 83.9(b)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) a nurse (upon sufficient proof to support a claim for incremental advancement) will be paid at the rate appropriate to their Years of Experience.
 
-**83.9** Re-entry Courses and Supervised Experience (Registered Nurses)
+**83.10 QRED 1**
 
-**(a)** Where an Employee has not actively nursed for a period of five years or more, such Employee's prior Years of Experience will not be taken into account.
+- **(a)** A Registered Nurse appointed as an Occupational Health Nurse (sole) and paid as such.
+- **(b)** A Registered Nurse or Midwife appointed as a Clinical Support Nurse/Midwife and paid as such.
+- **(c)** A Registered Nurse appointed as an Occupational Health Nurse Supervisor and paid as such.
+- **(d)** A Level 2 Research Nurse/Midwife.
 
-**(b)** For the first 12 months after completion of a Re-entry Course or Supervised Experience, where such course or experience is required by the Nursing and Midwifery Board of Australia, the Employee will be paid at the rate appropriate to their Years of Experience, but no higher than RN/RM3.
-
-**(c)** After completion of 12 months' Experience in accordance with [subclause 83.9(b)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) a nurse (upon sufficient proof to support a claim for incremental advancement) will be paid at the rate appropriate to their Years of Experience.
-
-**83.10** QRED 1
-
-**(a)** A Registered Nurse appointed as an Occupational Health Nurse (sole) and paid as such.
-
-**(b)** A Registered Nurse or Midwife appointed as a Clinical Support Nurse/Midwife and paid as such.
-
-**(c)** A Registered Nurse appointed as an Occupational Health Nurse Supervisor and paid as such.
-
-**(d)** A Level 2 Research Nurse/Midwife.
-
-**83.11** QRED 2
+**83.11 QRED 2**
 
 An Employee appointed as a No Lift Co-ordinator.
 
-**83.12** QRED 3
+**83.12 QRED 3**
 
-**(d)** A Registered Nurse or Midwife appointed as an Educator and paid as such.
+- **(d)** A Registered Nurse or Midwife appointed as an Educator and paid as such.
 
 From 1 July 2024, an Educator under the 2020 Agreement that was graded at QRED 2 will translate to QRED 3 under this Agreement.
 
-**(e)** A Level 3 Research Nurse/Midwife.
+- **(e)** A Level 3 Research Nurse/Midwife.
 
-**83.13** QRED 4
+**83.13 QRED 4**
 
-**(a)** A Registered Nurse or Midwife appointed as a Deputy Principal Educator and paid as such. The sub-grades for this classification will be:
+- **(a)** A Registered Nurse or Midwife appointed as a Deputy Principal Educator and paid as such. The sub-grades for this classification will be:
+  - **(i)** QRED 4A for a Deputy Principal Educator of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+  - **(ii)** QRED 4B for a Deputy Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+  - **(iii)** QRED 4C for a Deputy Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
+  - **(iv)** QRED 4D for a Deputy Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+- **(b)** A Registered Nurse or Registered Midwife appointed as an Educator- Course/Phase/Inservice/Continuing Education and paid as such. The Grade in the first Year of Experience will be the QRED4.2. Thereafter, the Grade will be the QRED4.3.
+- **(c)** Level 4 Research Nurse/Midwife. Minimum grade is QRED4.2, and maximum is QRED4.3 unless already graded above this level, in which case the higher grade may be maintained, but no further progression can occur at this level of Research Nurse.
 
-**(i)** QRED 4A for a Deputy Principal Educator of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+**83.14 QRED 5**
 
-**(ii)** QRED 4B for a Deputy Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+- **(a)** A Registered Nurse or Midwife appointed as a Principal Educator and paid as such. The sub-grades for this classification will be:
+  - **(i)** QRED 5A for a Principal Educator of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+  - **(ii)** QRED 5B for a Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+  - **(iii)** QRED 5C for a Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
+  - **(iv)** QRED 5D for a Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
 
-**(iii)** QRED 4C for a Deputy Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
-
-**(iv)** QRED 4D for a Deputy Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
-
-**(b)** A Registered Nurse or Registered Midwife appointed as an Educator- Course/Phase/Inservice/Continuing Education and paid as such. The Grade in the first Year of Experience will be the QRED4.2. Thereafter, the Grade will be the QRED4.3.
-
-**(c)** Level 4 Research Nurse/Midwife. Minimum grade is QRED4.2, and maximum is QRED4.3 unless already graded above this level, in which case the higher grade may be maintained, but no further progression can occur at this level of Research Nurse.
-
-**83.14** QRED 5
-
-**(a)** A Registered Nurse or Midwife appointed as a Principal Educator and paid as such. The sub-grades for this classification will be:
-
-**(i)** QRED 5A for a Principal Educator of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-
-**(ii)** QRED 5B for a Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-
-**(iii)** QRED 5C for a Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
-
-**(iv)** QRED 5D for a Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
-
-**83.15** CN 1
+**83.15 CN 1**
 
 An Enrolled Nurse appointed as a Community Nurse and paid as such.
 
-**83.16** CN 2
+**83.16 CN 2**
 
 A Registered Nurse appointed as a District Nurse Level 1 and paid as such.
 
-**83.17** CN 3
+**83.17 CN 3**
 
 A Registered Nurse appointed as a District Nurse Level 2 and paid as such.
 
-**83.18** CN 4
+**83.18 CN 4**
 
 A Registered Nurse or Midwife appointed as a Community Health Nurse/Midwife Grade 3B and paid as such.
 
-**83.19** CN 5
+**83.19 CN 5**
 
-**(a)** A Registered Nurse or Midwife appointed as a Community Health Nurse/Midwife (sole) and paid as such.
+- **(a)** A Registered Nurse or Midwife appointed as a Community Health Nurse/Midwife (sole) and paid as such.
+- **(b)** A Registered Nurse appointed as an Assistant Supervisor – District Nursing and paid as such.
+- **(c)** A Registered Nurse appointed as a Clinical Co-ordinator, District Nursing, and paid as such.
+- **(d)** A Registered Nurse appointed as a Liaison Officer, District Nursing, and paid as such.
 
-**(b)** A Registered Nurse appointed as an Assistant Supervisor – District Nursing and paid as such.
-
-**(c)** A Registered Nurse appointed as a Clinical Co-ordinator, District Nursing, and paid as such.
-
-**(d)** A Registered Nurse appointed as a Liaison Officer, District Nursing, and paid as such.
-
-**83.20** CN 6
+**83.20 CN 6**
 
 A Registered Nurse appointed as a Community Health Nurse (in-charge) and paid as such.
 
-**83.21** CAPR1
+**83.21 CAPR1**
 
 A Registered Nurse or Midwife appointed as a Clinical Nurse/Midwife Specialist and paid as such.
 
-**83.22** CAPR2
+**83.22 CAPR2**
 
 A Registered Nurse who at the direction of the Employer undertakes exclusively clinical care in domiciliary nursing in Hospital in the Home or Post Acute Care. Provided that the transitional arrangements in the 2016 Agreement continue to apply.
 
-**83.23** CAPR3.1
+**83.23 CAPR3.1**
 
-**(a)** A Registered Nurse who at the direction of the Employer undertakes clinical care with ad hoc responsibilities beyond provision of clinical care (e.g. rostering of other staff, allocation of duties to other staff), including in domiciliary nursing in Hospital in the Home and Post Acute Care. Provided that the transitional arrangements in the 2016 Agreement continue to apply.
+- **(a)** A Registered Nurse who at the direction of the Employer undertakes clinical care with ad hoc responsibilities beyond provision of clinical care (e.g. rostering of other staff, allocation of duties to other staff), including in domiciliary nursing in Hospital in the Home and Post Acute Care. Provided that the transitional arrangements in the 2016 Agreement continue to apply.
+- **(b)** A Registered Nurse/Midwife appointed as a Clinical Consultant A and paid as such.
 
-**(b)** A Registered Nurse/Midwife appointed as a Clinical Consultant A and paid as such.
+**83.24 CAPR3.2**
 
-**83.24** CAPR3.2
+- **(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant B and paid as such.
+- **(b)** A Registered Nurse qualified and appointed as a Maternal and Child Health Nurse and paid as such.
 
-**(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant B and paid as such.
+**83.25 CAPR 4**
 
-**(b)** A Registered Nurse qualified and appointed as a Maternal and Child Health Nurse and paid as such.
+- **(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant C and paid as such. The first year rate of pay for this classification will be the CAPR4(1). Thereafter the rate of pay for this classification will be the CAPR4(2).
+- **(b)** A Clinical Liaison Nurse pursuant to [clause 90.5](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above). The first year rate of pay for this classification will be the CAPR4.1. Thereafter the rate of pay for this classification will be the CAPR4.2.
 
-**83.25** CAPR 4
+**83.26 CAPR 5**
 
-**(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant C and paid as such. The first year rate of pay for this classification will be the CAPR4(1). Thereafter the rate of pay for this classification will be the CAPR4(2).
+- **(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant D and paid as such.
+- **(b)** A Liaison Midwife listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) will be classified as a Clinical Midwife Consultant D.
 
-**(b)** A Clinical Liaison Nurse pursuant to [clause 90.5](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above). The first year rate of pay for this classification will be the CAPR4.1. Thereafter the rate of pay for this classification will be the CAPR4.2.
-
-**83.26** CAPR 5
-
-**(a)** A Registered Nurse or Midwife appointed as a Clinical Consultant D and paid as such.
-
-**(b)** A Liaison Midwife listed at [clause 90A.2](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife) will be classified as a Clinical Midwife Consultant D.
-
-**83.27** CAPR 6
+**83.27 CAPR 6**
 
 A Registered Nurse or Midwife appointed as a Clinical Consultant E and paid as such.
 
-**83.28** CAPR 7
+**83.28 CAPR 7**
 
-**(a)** In this subclause, substantive salary means at the Employee's appropriate rate of pay according to the Employee's classification and Years of Experience as a Registered Nurse or Registered Midwife as normally in place before proceeding to commence as a Nurse Practitioner candidate.
+- **(a)** In this subclause, substantive salary means at the Employee's appropriate rate of pay according to the Employee's classification and Years of Experience as a Registered Nurse or Registered Midwife as normally in place before proceeding to commence as a Nurse Practitioner candidate.
+- **(b)** A Registered Nurse engaged as a Nurse Practitioner candidate (as defined) will be classified and paid their substantive salary.
+- **(c)** A Registered Nurse appointed as a Nurse Practitioner (as defined) during their first year of experience as a Nurse Practitioner will be classified and paid at CAPR7(1).
+- **(d)** A Registered Nurse appointed as a Nurse Practitioner (as defined) during their second and subsequent years of experience as a Nurse Practitioner will be classified and paid at CAPR7(2).
+- **(e)** A Candidate will be entitled to be classified and paid as a Nurse Practitioner once endorsed by the Nursing and Midwifery Board of Australia, effective from the first pay period on or after the date of application for endorsement, until such time as the period of candidature is complete.
+- **(f)** For the purpose of the above subclauses, Experience gained whilst employed in a pilot project will count for advancement to CAPR7(2) provided the pilot project and the Nurse Practitioner position are in the area of advanced practice for which the nurse has been endorsed.
 
-**(b)** A Registered Nurse engaged as a Nurse Practitioner candidate (as defined) will be classified and paid their substantive salary.
-
-**(c)** A Registered Nurse appointed as a Nurse Practitioner (as defined) during their first year of experience as a Nurse Practitioner will be classified and paid at CAPR7(1).
-
-**(d)** A Registered Nurse appointed as a Nurse Practitioner (as defined) during their second and subsequent years of experience as a Nurse Practitioner will be classified and paid at CAPR7(2).
-
-**(e)** A Candidate will be entitled to be classified and paid as a Nurse Practitioner once endorsed by the Nursing and Midwifery Board of Australia, effective from the first pay period on or after the date of application for endorsement, until such time as the period of candidature is complete.
-
-**(f)** For the purpose of the above subclauses, Experience gained whilst employed in a pilot project will count for advancement to CAPR7(2) provided the pilot project and the Nurse Practitioner position are in the area of advanced practice for which the nurse has been endorsed.
-
-**83.29** NM1
+**83.29 NM1**
 
 An ANUM/AMUM.
 
-**83.30** NM2
+**83.30 NM2**
 
-**(a)** Nurse/Midwife Unit Manager Level 1.
+- **(a)** Nurse/Midwife Unit Manager Level 1.
+- **(b)** A Registered Nurse responsible for the day to day operation of a HITH/PAC or similar service (however titled) and classified in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
 
-**(b)** A Registered Nurse responsible for the day to day operation of a HITH/PAC or similar service (however titled) and classified in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
+**83.31 NM3**
 
-**83.31** NM3
+- **(a)** Nurse/Midwife Unit Manager Level 2.
+- **(b)** A Registered Nurse responsible for the day to day operation of a HITH/PAC or similar service (however titled) and classified in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
 
-**(a)** Nurse/Midwife Unit Manager Level 2.
+**83.32 NM4**
 
-**(b)** A Registered Nurse responsible for the day to day operation of a HITH/PAC or similar service (however titled) and classified in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
+- **(a)** Nurse/Midwife Unit Manager Level 3.
+- **(b)** A Registered Nurse responsible for the day to day operation of a HITH/PAC or similar service (however titled) and classified in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
 
-**83.32** NM4
+**83.33 NM5**
 
-**(a)** Nurse/Midwife Unit Manager Level 3.
+- **(a)** An Assistant DON/DOM will be graded at NM5. The sub grade within Level 5, A, B, C or D is determined by reference to the health service Campus categorisation in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+- **(b)** A Registered Nurse appointed as a After Hours Coordinator will be graded at NM5. The sub grade within Level 5, A, B, C or D is determined by reference to the health service Campus categorization in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+- **(c)** A Registered Nurse appointed as a Day Hospital Co-ordinator (Public Sector) Level 1 with no automatic progression to Level 2 will be graded at the NM5D and paid as such.
+- **(d)** A Registered Nurse appointed as a Day Hospital Co-ordinator (Public Sector) Level 2 and paid as such. The grade for this classification will be at the NM5C.
+- **(e)** ADON/M Level 1. The grade for this classification will be at the NM5B.
+- **(f)** ADON/M Level 2. The grade for this classification will be at the NM5C.
+- **(g)** Maternal and Child Health Nurse Coordinator. The grade for this classification will be at the NM5C.
+- **(h)** A Nurse/Midwife Manager not elsewhere classified. The grade for this classification will be at the NM5C.
 
-**(b)** A Registered Nurse responsible for the day to day operation of a HITH/PAC or similar service (however titled) and classified in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
+**83.34 NM6**
 
-**83.33** NM5
+- **(a)** A Deputy DON will be graded at NM6. The sub grade within Level 6, A, B, C or D is determined by reference to the health service Campus categorisation in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+- **(b)** A Registered Nurse appointed as a Deputy DON/ District Nursing Service and paid as such. The rate of pay for this classification will be at the NM6B.
+- **(c)** An Employee who is a Registered Nurse or Midwife who has responsibility for a clinical division of the health service, appointed as a Divisional/Clinical Director and paid as such. The sub-grades for this classification will be:
+  - **(i)** NM 6A for a Divisional/Clinical Director of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+  - **(ii)** NM 6B for a Divisional/Clinical Director of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
+  - **(iii)** NM 6C for a Divisional/Clinical Director of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
+  - **(iv)** NM 6D for a Divisional/Clinical Director of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
 
-**(a)** An Assistant DON/DOM will be graded at NM5. The sub grade within Level 5, A, B, C or D is determined by reference to the health service Campus categorisation in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+**83.35 NM7**
 
-**(b)** A Registered Nurse appointed as a After Hours Coordinator will be graded at NM5. The sub grade within Level 5, A, B, C or D is determined by reference to the health service Campus categorization in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+- **(a)** NM7A – A Registered Nurse appointed as the DON of a Campus to which 7A of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
+- **(b)** NM 7B – A Registered Nurse appointed as the DON of a Campus to which 7B of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
 
-**(c)** A Registered Nurse appointed as a Day Hospital Co-ordinator (Public Sector) Level 1 with no automatic progression to Level 2 will be graded at the NM5D and paid as such.
+**83.36 NM8**
 
-**(d)** A Registered Nurse appointed as a Day Hospital Co-ordinator (Public Sector) Level 2 and paid as such. The grade for this classification will be at the NM5C.
+- **(a)** NM 8A - A Registered Nurse appointed as the DON of a Campus to which 8A of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
+- **(b)** NM 8B - A Registered Nurse appointed as the DON of a Campus to which 8B of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
+- **(c)** NM 8C - A Registered Nurse appointed as the DON of a Campus to which 8C of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
+- **(d)** NM 8D - A Registered Nurse appointed as the DON of a Campus to which 8D of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
 
-**(e)** ADON/M Level 1. The grade for this classification will be at the NM5B.
+**83.37 NM9**
 
-**(f)** ADON/M Level 2. The grade for this classification will be at the NM5C.
+- **(a)** NM 9A - A Registered Nurse appointed as the Executive DON of a health service in Group A of [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories).
+- **(b)** NM 9B - A Registered Nurse appointed as the Executive DON of a health service in Group B of [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories).
+- **(c)** NM 9C - A Registered Nurse appointed as the Executive DON of a health service in Group C of [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories).
 
-**(g)** Maternal and Child Health Nurse Coordinator. The grade for this classification will be at the NM5C.
+**83.38 RN/RM2**
 
-**(h)** A Nurse/Midwife Manager not elsewhere classified. The grade for this classification will be at the NM5C.
-
-**83.34** NM6
-
-**(a)** A Deputy DON will be graded at NM6. The sub grade within Level 6, A, B, C or D is determined by reference to the health service Campus categorisation in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
-
-**(b)** A Registered Nurse appointed as a Deputy DON/ District Nursing Service and paid as such. The rate of pay for this classification will be at the NM6B.
-
-**(c)** An Employee who is a Registered Nurse or Midwife who has responsibility for a clinical division of the health service, appointed as a Divisional/Clinical Director and paid as such. The sub-grades for this classification will be:
-
-**(i)** NM 6A for a Divisional/Clinical Director of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-
-**(ii)** NM 6B for a Divisional/Clinical Director of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-
-**(iii)** NM 6C for a Divisional/Clinical Director of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
-
-**(iv)** NM 6D for a Divisional/Clinical Director of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
-
-**83.35** NM7
-
-**(a)** NM7A – A Registered Nurse appointed as the DON of a Campus to which 7A of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
-
-**(b)** NM 7B – A Registered Nurse appointed as the DON of a Campus to which 7B of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
-
-**83.36** NM8
-
-**(a)** NM 8A - A Registered Nurse appointed as the DON of a Campus to which 8A of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
-
-**(b)** NM 8B - A Registered Nurse appointed as the DON of a Campus to which 8B of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
-
-**(c)** NM 8C - A Registered Nurse appointed as the DON of a Campus to which 8C of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
-
-**(d)** NM 8D - A Registered Nurse appointed as the DON of a Campus to which 8D of [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories) applies.
-
-**83.37** NM9
-
-**(a)** NM 9A - A Registered Nurse appointed as the Executive DON of a health service in Group A of [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories).
-
-**(b)** NM 9B - A Registered Nurse appointed as the Executive DON of a health service in Group B of [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories).
-
-**(c)** NM 9C - A Registered Nurse appointed as the Executive DON of a health service in Group C of [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories).
-
-**83.38** RN/RM2
-
-**(a)** A Registered Nurse or Midwife in the first or subsequent Years of Experience as a Registered Nurse or Midwife and not more properly at a higher grade or sub- grade in accordance with [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (Statewide Industry Panel) or other terms of this Agreement.
-
-**(b)** A Registered Nurse appointed as a School/Campus Nurse Level 1 and paid as such.
-
-
+- **(a)** A Registered Nurse or Midwife in the first or subsequent Years of Experience as a Registered Nurse or Midwife and not more properly at a higher grade or sub- grade in accordance with [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (Statewide Industry Panel) or other terms of this Agreement.
+- **(b)** A Registered Nurse appointed as a School/Campus Nurse Level 1 and paid as such.

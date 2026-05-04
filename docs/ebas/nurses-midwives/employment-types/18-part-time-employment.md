@@ -6,8 +6,6 @@ topics: ['leave', 'hours', 'overtime', 'shift-work']
 
 # 18. Part Time Employment
 
-
-
 **18.1** A part-time Employee is one who is engaged to work less than an average of 38 hours per week.
 
 **18.2** The number of hours worked by a part-time Employee may vary from week to week by mutual agreement.
@@ -17,5 +15,3 @@ topics: ['leave', 'hours', 'overtime', 'shift-work']
 **18.4** Where a part-time Employee has an entitlement to leave under this Agreement, the part- time Employee will be paid according to the number of hours the Employee would have worked on the day/s on which the leave was taken except as provided at clause 0 (Cashing Out of Annual Leave).
 
 Plain language terms: part time, fractional.
-
-
