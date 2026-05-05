@@ -6,6 +6,16 @@ topics: ['appendices', 'employment', 'forms']
 
 # Appendix 4 – Template Certificate of Service: Medical Specialists EBA
 
+---
+
+<FileAttachment
+  href="/attachments/medical-specialists/appendix-4-template-certificate-of-service.pdf"
+  label="Template Certificate of Service"
+  description="Medical Specialists EBA 2022–2026"
+/>
+
+---
+
 <div style="border: 1px solid #333; padding: 1.5rem 2rem 2rem 2rem; margin-bottom: 2rem;">
 
 <p style="text-align: center;"><strong>Certificate of Service</strong></p>

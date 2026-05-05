@@ -1,10 +1,10 @@
 ---
-title: 'Appendix 5 – Letter of Offer - Allied Health EBA'
+title: 'Appendix 5 – Letter of Offer: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 
-## Appendix 5 – Letter of Offer - Allied Health EBA
+# Appendix 5 – Letter of Offer: Allied Health EBA
 
 The Letter of Offer must contain the following information:
 

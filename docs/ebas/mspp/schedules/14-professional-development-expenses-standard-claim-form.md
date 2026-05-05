@@ -8,6 +8,16 @@ topics: ['schedules', 'professional-development']
 
 The following standard claim form (or online equivalent) for Professional Development expenses reimbursement should be used as a guide by a Health Service
 
+---
+
+<FileAttachment
+  href="/attachments/mspp/schedule-14-professional-development-expenses-standard-claim-form.pdf"
+  label="Professional Development Expenses Standard Claim Form"
+  description="Medical Scientists, Pharmacists and Psychologists EBA 2021–2025"
+/>
+
+---
+
 DATE OF REQUEST: NAME: DEPARTMENT:
 
 EMPLOYEE NUMBER:

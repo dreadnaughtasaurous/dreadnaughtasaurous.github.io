@@ -6,6 +6,16 @@ topics: ['appendices', 'leave', 'annual-leave', 'forms']
 
 # Appendix 5 – Agreement to Cash Out Annual Leave: Doctors in Training EBA
 
+---
+
+<FileAttachment
+  href="/attachments/doctors-in-training/appendix-5-agreement-to-cash-out-annual-leave.pdf"
+  label="Agreement to Cash Out Annual Leave"
+  description="Doctors in Training EBA 2022–2026"
+/>
+
+---
+
 <div style="border: 1px solid currentColor; padding: 1.5rem; margin-top: 1rem;">
 
 <p style="text-align: center;"><strong>Agreement to Cash Out Annual Leave</strong></p>

@@ -53,9 +53,17 @@ For the purposes of this Schedule, the following terms are defined as follows:
 
 - **(b)** In the event that a dispute arises regarding this Schedule, the Dispute Settling Procedure may be used in which a Pharmacist can be represented by the Union, any time this Schedule is being applied.
 
+## Attachment 1: Pharmacist Weekend Ordinary Hours Roster Agreement
+
 ---
 
-## Attachment 1: Pharmacist Weekend Ordinary Hours Roster Agreement
+<FileAttachment
+  href="/attachments/mspp/schedule-13-pharmacist-weekend-ordinary-hours-roster-agreement.pdf"
+  label="Pharmacist Weekend Ordinary Hours Roster Agreement"
+  description="Medical Scientists, Pharmacists and Psychologists EBA 2021–2025"
+/>
+
+---
 
 Pharmacist Name: ………………………………………………………..
 

@@ -1,10 +1,20 @@
 ---
-title: 'Appendix 6 – Certificate of Service - Allied Health EBA'
+title: 'Appendix 6 – Certificate of Service: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 
-## Appendix 6 – Certificate of Service - Allied Health EBA
+# Appendix 6 – Certificate of Service: Allied Health EBA
+
+---
+
+<FileAttachment
+  href="/attachments/allied-health/appendix-6-certificate-of-service.pdf"
+  label="Certificate of Service"
+  description="Allied Health EBA 2021–2026"
+/>
+
+---
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 4px; padding: 1.5rem 2rem; margin: 1.5rem 0; font-size: 0.95rem; line-height: 1.8;">
 

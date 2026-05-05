@@ -6,8 +6,6 @@ topics: ['appendices', 'coverage']
 
 # Appendix 1 - List Of Employers: Allied Health EBA
 
-
-
 1. Albury Wodonga Health (locations in Victoria including Wodonga Campus)
 2. Alexandra District Health
 3. Alfred Health

@@ -12,6 +12,14 @@ Any additional information required by the Health Service must be kept to a mini
 
 ---
 
+<FileAttachment
+  href="/attachments/medical-specialists/appendix-3-continuing-medical-education-standard-claim-form.pdf"
+  label="Continuing Medical Education Standard Claim Form"
+  description="Medical Specialists EBA 2022–2026"
+/>
+
+---
+
 <div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem;">
 
 <p><strong>[insert Health Service name]</strong></p>

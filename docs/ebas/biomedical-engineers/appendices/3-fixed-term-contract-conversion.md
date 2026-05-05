@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 3 - Fixed Term Contract Conversion - Biomedical Engineers EBA'
+title: 'Appendix 3 - Fixed Term Contract Conversion: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'employment']
 rewrites:
@@ -7,7 +7,7 @@ rewrites:
     to: ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion
 ---
 
-# Appendix 3 - Fixed Term Contract Conversion - Biomedical Engineers EBA
+# Appendix 3 - Fixed Term Contract Conversion: Biomedical Engineers EBA
 
 **Process for conversion where fixed term employment in the same or a substantially similar position exceeds the maximum duration of 3 years:**
 

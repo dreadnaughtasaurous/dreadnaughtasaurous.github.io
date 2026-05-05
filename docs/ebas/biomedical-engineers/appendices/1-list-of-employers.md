@@ -1,10 +1,10 @@
 ---
-title: 'Appendix 1 - List Of Employers - Biomedical Engineers EBA'
+title: 'Appendix 1 - List Of Employers: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'coverage']
 ---
 
-# Appendix 1 - List Of Employers - Biomedical Engineers EBA
+# Appendix 1 - List Of Employers: Biomedical Engineers EBA
 
 1. Alfred Health 
 2. Austin Health 

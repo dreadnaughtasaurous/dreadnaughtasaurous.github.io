@@ -8,6 +8,16 @@ topics: ['schedules', 'employment']
 
 The following is the agreed form of Certificate of Service referred to in this Agreement.
 
+---
+
+<FileAttachment
+  href="/attachments/mental-health/schedule-9-certificate-of-service.pdf"
+  label="Certificate of Service"
+  description="Mental Health EBA 2024–2028"
+/>
+
+---
+
 <div style="border: 2px solid var(--vp-c-divider); border-radius: 8px; padding: 2rem 2.5rem; margin: 2rem 0; background: var(--vp-c-bg-soft); font-size: 0.95rem; line-height: 1.8;">
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5rem; gap: 1rem; flex-wrap: wrap;">

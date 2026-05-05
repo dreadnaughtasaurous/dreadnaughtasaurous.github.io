@@ -10,9 +10,17 @@ topics: ['schedules', 'hours', 'rosters']
 
 **2.** The following Rostering Protocols Exemption Agreement form will be used in each agreed request made under sub clause 57.5.
 
+## Attachment 1: Rostering Protocols Exemption Agreement
+
 ---
 
-## Attachment 1: Rostering Protocols Exemption Agreement
+<FileAttachment
+  href="/attachments/mspp/schedule-15-rostering-protocols-exemption-agreement.pdf"
+  label="Rostering Protocols Exemption Agreement"
+  description="Medical Scientists, Pharmacists and Psychologists EBA 2021–2025"
+/>
+
+---
 
 Employee Name: …………………… Employee No: .......................................
 

@@ -1,10 +1,10 @@
 ---
-title: 'Appendix 2 — Salaries & Allowances - Biomedical Engineers EBA'
+title: 'Appendix 2 — Salaries & Allowances: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'allowances', 'salary-circular', 'circular 872', 'top-of-band', 'leave', 'annual-leave']
 ---
 
-# Appendix 2 — Salaries & Allowances - Biomedical Engineers EBA
+# Appendix 2 — Salaries & Allowances: Biomedical Engineers EBA
 
 <div class="clause-meta">
   <span class="pill pill-eba">Biomedical Engineers EBA</span>
