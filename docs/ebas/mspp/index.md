@@ -4,11 +4,25 @@ eba: 'mspp.md'
 topics: []
 ---
 
-# Mspp
+# Medical Scientists, Pharmacists and Psychologists
 
+---
 
-**Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at Schedule 1. **Nominal expiry:** 2025-11-30. **Parties:** HSU Victoria No. 2 Branch and the listed public health employers.
+<FileAttachment
+  href="/attachments/mspp/mspp-eba-2021-2025.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Medical Scientists, Pharmacists and Psychologists EBA 2021–2025"
+/>
 
+---
+
+**Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at Schedule 1. 
+
+**Nominal expiry:** 2025-11-30. 
+
+**Parties:** HSU Victoria No. 2 Branch and the listed public health employers.
+
+---
 
 - [Part 1 - Operation of Agreement](operation/)
 - [Part 2 - Dispute Settling](disputes/)

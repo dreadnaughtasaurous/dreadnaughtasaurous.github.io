@@ -6,9 +6,23 @@ topics: []
 
 # Biomedical Engineers
 
+---
 
-**Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at Appendix 1. **Nominal expiry:** 2028-07-31. **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+<FileAttachment
+  href="/attachments/biomedical-engineers/biomedical-engineers-eba-2024-2028.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Biomedical Engineers EBA 2024–2028"
+/>
 
+---
+
+**Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at Appendix 1. 
+
+**Nominal expiry:** 2028-07-31. 
+
+**Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+
+---
 
 - [Part A - Preliminary](preliminary/)
 - [Part B - Consultation, Dispute Resolution and Discipline](consultation-disputes/)

@@ -6,9 +6,23 @@ topics: []
 
 # Medical Specialists
 
+---
 
-**Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at Appendix 1. **Nominal expiry:** 2026-02-28. **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+<FileAttachment
+  href="/attachments/medical-specialists/medical-specialists-eba-2022-2026.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Medical Specialists EBA 2022–2026"
+/>
 
+---
+
+**Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at Appendix 1. 
+
+**Nominal expiry:** 2026-02-28. 
+
+**Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+
+---
 
 - [Part A - Preliminary](preliminary/)
 - [Part B - Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements](consultation-disputes/)

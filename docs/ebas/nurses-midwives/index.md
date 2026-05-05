@@ -4,11 +4,25 @@ eba: 'nurses-midwives.md'
 topics: []
 ---
 
-# Nurses Midwives
+# Nurses and Midwives
 
+---
 
-**Coverage:** Victorian public sector nurses and midwives (Single Interest Employer agreement). **Nominal expiry:** 2028-04-30. **Parties:** VHIA (employers), ANMF, HSU.
+<FileAttachment
+  href="/attachments/nurses-midwives/nurses-midwives-eba-2024-2028.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Nursing & Midwives EBA 2024–2028"
+/>
 
+---
+
+**Coverage:** Victorian public sector nurses and midwives (Single Interest Employer agreement). 
+
+**Nominal expiry:** 2028-04-30. 
+
+**Parties:** VHIA (employers), ANMF, HSU.
+
+---
 
 - [Part A - Preliminary](preliminary/)
 - [Part B - Consultation, Disputes, Discipline](consultation-disputes/)
@@ -23,5 +37,3 @@ topics: []
 - [Part K - OHS](ohs/)
 - [Part L - Safe Patient Care Act](safe-patient-care/)
 - [Appendices](appendices/) - pay rates, classifications, templates
-
-

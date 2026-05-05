@@ -6,9 +6,23 @@ topics: []
 
 # Allied Health
 
+---
 
-**Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at Appendix 1. **Nominal expiry:** 2026-03-31. **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+<FileAttachment
+  href="/attachments/allied-health/allied-health-eba-2021-2026.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Allied Health EBA 2021–2026"
+/>
 
+---
+
+**Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at Appendix 1. 
+
+**Nominal expiry:** 2026-03-31. 
+
+**Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+
+---
 
 - [Part A - Preliminary](preliminary/)
 - [Part B - Consultation, Dispute Resolution and Discipline](consultation-disputes/)

@@ -6,9 +6,23 @@ topics: ['training']
 
 # Doctors In Training
 
+---
 
-**Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at Appendix 1. **Nominal expiry:** 2026-02-28. **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+<FileAttachment
+  href="/attachments/doctors-in-training/doctors-in-training-eba-2022-2026.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Doctors in Training EBA 2022–2026"
+/>
 
+---
+
+**Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at Appendix 1. 
+
+**Nominal expiry:** 2026-02-28. 
+
+**Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+
+---
 
 - [Part A - Preliminary](preliminary/)
 - [Part B - Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements](consultation-disputes/)
