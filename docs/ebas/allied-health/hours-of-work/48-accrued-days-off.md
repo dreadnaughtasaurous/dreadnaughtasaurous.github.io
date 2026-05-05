@@ -10,7 +10,7 @@ topics: ['hours', 'rosters', 'wages', 'employment']
 - **(a)** is rostered to work more than 38 hours per week;
 - **(b)** is paid 38 ordinary hours;
 - **(c)** the difference between the hours worked and hours paid accrues towards a paid day off; and
-- **(d)** an Employee’s ordinary wage for ordinary hours is deemed to be the weekly rate prescribed in [clause 28](/ebas/allied-health/wages/28-wages-and-wage-increases) (Wages and Wage Increases) and set out in Appendix 2, and will be paid each week even though more or less than 38 ordinary hours are worked in that week.
+- **(d)** an Employee’s ordinary wage for ordinary hours is deemed to be the weekly rate prescribed in [clause 28](/ebas/allied-health/wages/28-wages-and-wage-increases) (Wages and Wage Increases) and set out in [Appendix 2](/ebas/allied-health/preliminary/2-arrangement), and will be paid each week even though more or less than 38 ordinary hours are worked in that week.
 
 **48.2** Accrual of ADOs
 - **(a)** All full-time Employees are entitled to an ADO. The Employer will not refuse a new full-time Employee an ADO.

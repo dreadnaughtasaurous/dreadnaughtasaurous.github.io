@@ -40,7 +40,7 @@ For the purposes of this clause, weekend worker means any Employee who in any on
 **53.6 Payment for annual leave**
 
 - **(a)** If an Employee takes a period of paid annual leave, the Employer must pay the Employee their ordinary pay for the period of leave so taken.
-- **(b)** **Ordinary pay**, for the purposes of this clause, means remuneration for the Employee’s weekly number of hours during the period of leave taken, calculated at the ordinary time rate of pay pursuant to Schedule 2B or Schedule 3B
+- **(b)** **Ordinary pay**, for the purposes of this clause, means remuneration for the Employee’s weekly number of hours during the period of leave taken, calculated at the ordinary time rate of pay pursuant to [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or [Schedule 3B](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers)
 - **(c)** If, when the employment of an Employee ends, the Employee has an accrued annual leave entitlement, the Employer must pay the Employee the amount that would have been payable to the Employee had they taken the period of accrued annual leave.
 - **(d)** The Employer will pay each Manager or Administrative Worker in advance before the commencement of a period of annual leave, his or her ordinary pay for the leave period.
 - **(e)** Notwithstanding [subclause 53.6(d)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) above, Managers or Administrative Workers employed by Royal Women’s Hospital or Royal Children’s Hospital will be required to give four weeks written notice of a request for payment in advance. Such payment will only be made by the Employer where the period of annual leave exceeds two weeks in aggregate.

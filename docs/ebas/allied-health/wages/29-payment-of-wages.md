@@ -40,4 +40,4 @@ topics: ['wages', 'preliminary', 'classifications']
 
 **29.6** Certificate of Service on Termination 
 
-A certificate of service (or a similar form) including the information at Appendix 6 will be provided to the Employee wherever practicable within 14 days of the date of termination but not greater than 21 days after termination, including where a full or part time Employee terminates employment and becomes a casual Employee.
+A certificate of service (or a similar form) including the information at [Appendix 6](/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation) will be provided to the Employee wherever practicable within 14 days of the date of termination but not greater than 21 days after termination, including where a full or part time Employee terminates employment and becomes a casual Employee.

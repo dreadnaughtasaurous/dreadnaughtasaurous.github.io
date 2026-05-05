@@ -121,21 +121,21 @@ topics: ['preliminary']
 | 97 | Amenities | 130 |
 | 98 | Royal Commission Working Group | 131 |
 | **SCHEDULES** | | |
-| Schedule 1 | Employer Parties | 136 |
-| Schedule 2 | Rates of Pay and Allowances | 138 |
-| Schedule 3 | Classification Descriptors and Higher Qualification Allowances | 147 |
-| Schedule 4 | Alfred Health General Conditions | 200 |
-| Schedule 5 | Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists | 202 |
-| Schedule 6 | Eastern Health Turning Point Research and Education Employees | 204 |
-| Schedule 7 | Maintenance of Public Sector Employment | 207 |
-| Schedule 8 | Royal Women's Hospital, Royal Children's Hospital General Employment | 212 |
-| Schedule 9 | Royal Children's Hospital – Clinical Perfusionists | 218 |
-| Schedule 10 | St Vincent's Health (Melbourne) Ltd. General Conditions Agreement | 222 |
-| Schedule 11 | Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services | 227 |
-| Schedule 12 | Additional Consultation and Redundancy and Associated Entitlements – Austin Health, Eastern Health, Alfred Health, Peter MacCallum Cancer Institute, Royal Victorian Eye and Ear Hospital, Melbourne Health, Western Health, Northern Health, Royal Women's Hospital, Royal Children's Hospital, Monash Health, St. Vincent's Hospital | 229 |
-| Schedule 13 | Pharmacist Weekend Ordinary Hours | 235 |
-| Schedule 14 | Professional Development Expenses Standard Claim Form | 239 |
-| Schedule 15 | Rostering Protocols Exemption Agreement | 241 |
-| Schedule 16 | SHPA Ratios – Pharmacist Staffing Levels | 243 |
+| [Schedule 1](/ebas/mspp/schedules/1-employer-parties) | Employer Parties | 136 |
+| [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances) | Rates of Pay and Allowances | 138 |
+| [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc) | Classification Descriptors and Higher Qualification Allowances | 147 |
+| [Schedule 4](/ebas/mspp/schedules/4-alfred-health-general-conditions) | Alfred Health General Conditions | 200 |
+| [Schedule 5](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica) | Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists | 202 |
+| [Schedule 6](/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee) | Eastern Health Turning Point Research and Education Employees | 204 |
+| [Schedule 7](/ebas/mspp/schedules/7-maintenance-of-public-sector-employment) | Maintenance of Public Sector Employment | 207 |
+| [Schedule 8](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp) | Royal Women's Hospital, Royal Children's Hospital General Employment | 212 |
+| [Schedule 9](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists) | Royal Children's Hospital – Clinical Perfusionists | 218 |
+| [Schedule 10](/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme) | St Vincent's Health (Melbourne) Ltd. General Conditions Agreement | 222 |
+| [Schedule 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) | Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services | 227 |
+| [Schedule 12](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl) | Additional Consultation and Redundancy and Associated Entitlements – Austin Health, Eastern Health, Alfred Health, Peter MacCallum Cancer Institute, Royal Victorian Eye and Ear Hospital, Melbourne Health, Western Health, Northern Health, Royal Women's Hospital, Royal Children's Hospital, Monash Health, St. Vincent's Hospital | 229 |
+| [Schedule 13](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours) | Pharmacist Weekend Ordinary Hours | 235 |
+| [Schedule 14](/ebas/mspp/schedules/14-professional-development-expenses-standard-claim-form) | Professional Development Expenses Standard Claim Form | 239 |
+| [Schedule 15](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement) | Rostering Protocols Exemption Agreement | 241 |
+| [Schedule 16](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels) | SHPA Ratios – Pharmacist Staffing Levels | 243 |
 
 Plain language terms: table of contents, agreement structure.

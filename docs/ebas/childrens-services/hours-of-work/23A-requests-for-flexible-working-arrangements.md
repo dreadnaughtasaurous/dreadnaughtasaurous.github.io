@@ -10,7 +10,7 @@ topics: ['disputes', 'flexible-work', 'preliminary']
 
 Requests for flexible working arrangements are provided for in the NES.
 
-NOTE: Disputes about requests for flexible working arrangements may be dealt with under clause 9—Dispute resolution and/or under section 65B of the Act. 
+NOTE: Disputes about requests for flexible working arrangements may be dealt with under [clause 9](/ebas/childrens-services/consultation-disputes/9-dispute-resolution)—Dispute resolution and/or under section 65B of the Act. 
 
 Plain language terms: flex request, flexible work request.
 

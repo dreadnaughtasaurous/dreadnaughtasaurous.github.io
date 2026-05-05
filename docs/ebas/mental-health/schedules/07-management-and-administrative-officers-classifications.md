@@ -365,7 +365,7 @@ Positions at this level are Chief Executives of large health services that typic
 
 **17.4** Employees remunerated above the rates provided for in Grade 8 shall be employed in accordance with the terms and conditions agreed between the Employer and the Employee, save that the overall terms and conditions shall be on balance no less beneficial than the Agreement.
 
-**17.5** Employees in positions at Grade 3 or above will be paid an annualised salary pursuant to clause 190, unless otherwise determined by the relevant Department Head.
+**17.5** Employees in positions at Grade 3 or above will be paid an annualised salary pursuant to [clause 190](/ebas/mental-health/management-admin/wages/190-annualised-salaries-royal-children-s-hospital), unless otherwise determined by the relevant Department Head.
 
 **17.6** Where an Employee's salary is not annualised, as determined by the relevant Department Head, the Employee shall be entitled to payment of on-call, recall, overtime and allowances in accordance with this Agreement.
 

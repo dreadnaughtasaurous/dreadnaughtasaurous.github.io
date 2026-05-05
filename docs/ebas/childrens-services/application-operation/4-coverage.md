@@ -19,9 +19,9 @@ topics: ['preliminary']
 
 **4.4** The award does not cover employees who are covered by a State reference public sector modern award, or a State reference public sector transitional award (within the meaning of the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)), or employers in relation to those employees.
 
-**4.5** This award covers any employer which supplies labour on an on-hire basis in the industry set out in clause 4.1 in respect of on-hire employees in classifications covered by this award, and those on-hire employees, while engaged in the performance of work for a business in that industry. This subclause operates subject to the exclusions from coverage in this award.
+**4.5** This award covers any employer which supplies labour on an on-hire basis in the industry set out in [clause 4.1](/ebas/childrens-services/application-operation/4-coverage) in respect of on-hire employees in classifications covered by this award, and those on-hire employees, while engaged in the performance of work for a business in that industry. This subclause operates subject to the exclusions from coverage in this award.
 
-**4.6** This award covers employers which provide group training services for apprentices and trainees engaged in the industry and/or parts of industry set out at clause 4.1 and those apprentices and trainees engaged by a group training service hosted by a company to perform work at a location where the activities described herein are being performed. This subclause operates subject to the exclusions from coverage in this award.
+**4.6** This award covers employers which provide group training services for apprentices and trainees engaged in the industry and/or parts of industry set out at [clause 4.1](/ebas/childrens-services/application-operation/4-coverage) and those apprentices and trainees engaged by a group training service hosted by a company to perform work at a location where the activities described herein are being performed. This subclause operates subject to the exclusions from coverage in this award.
 
 **4.7** Where an employer is covered by more than one award, an employee of that employer is covered by the award classification which is most appropriate to the work performed by the employee and to the environment in which the employee normally performs the work.
 

@@ -16,7 +16,7 @@ topics: ['training']
 
 ---
 
-**Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at Appendix 1. 
+**Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/doctors-in-training/preliminary/1-title). 
 
 **Nominal expiry:** 2026-02-28. 
 

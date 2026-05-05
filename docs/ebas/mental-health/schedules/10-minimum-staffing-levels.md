@@ -6,8 +6,8 @@ topics: ['schedules', 'staffing']
 
 # Schedule 10 – Minimum Staffing Levels: Mental Health EBA
 
-- **(a)** The minimum staffing levels contained within Schedule 10 are intended to reflect the base staffing levels in place immediately prior to the commencement of this Agreement.
-- **(b)** Where there is a dispute regarding whether Schedule 10 reflects the base staffing levels in place immediately prior to the commencement of the Agreement, the dispute will be referred to the MHICC for resolution by consensus. If resolved, the outcome will be recorded in writing. If unresolved, either party may utilise the dispute resolution procedure to resolve the dispute. The effect of the outcome of any dispute will be to amend or confirm the staffing profile in Schedule 10.
+- **(a)** The minimum staffing levels contained within [Schedule 10](/ebas/mental-health/schedules/10-minimum-staffing-levels) are intended to reflect the base staffing levels in place immediately prior to the commencement of this Agreement.
+- **(b)** Where there is a dispute regarding whether [Schedule 10](/ebas/mental-health/schedules/10-minimum-staffing-levels) reflects the base staffing levels in place immediately prior to the commencement of the Agreement, the dispute will be referred to the MHICC for resolution by consensus. If resolved, the outcome will be recorded in writing. If unresolved, either party may utilise the dispute resolution procedure to resolve the dispute. The effect of the outcome of any dispute will be to amend or confirm the staffing profile in [Schedule 10](/ebas/mental-health/schedules/10-minimum-staffing-levels).
 
 ---
 

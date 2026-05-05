@@ -22,7 +22,7 @@ topics: ['schedules', 'wages', 'disability']
 
 **3. Supported wage rates**
 
-- **3.1** Employees to whom this clause applies will be paid the applicable percentage of the minimum rate of pay prescribed in **Schedule 2B or 3B** of this Agreement for the class of work which the person is performing, according to the following schedule:
+- **3.1** Employees to whom this clause applies will be paid the applicable percentage of the minimum rate of pay prescribed in **[Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or 3B** of this Agreement for the class of work which the person is performing, according to the following schedule:
 
 | Assessed Capacity | % Wage Rate |
 |---|---|
@@ -67,4 +67,4 @@ topics: ['schedules', 'wages', 'disability']
 - **9.2** During the trial period the assessment of capacity will be undertaken and the proposed wage rate for a continuing employment relationship will be determined.
 - **9.3** The minimum amount payable to the Employee during the trial period will be no less than $90.00 per week, or the minimum prescribed by the Award, whichever is greater.
 - **9.4** Work trials should include induction or training as appropriate to the job being trialled.
-- **9.5** Where the Employer and Employee wish to establish a continuing employment relationship following the completion of the trial period, a further contract of employment will be entered into based on the outcome of assessment under clause 4 herein.
+- **9.5** Where the Employer and Employee wish to establish a continuing employment relationship following the completion of the trial period, a further contract of employment will be entered into based on the outcome of assessment under [clause 4](/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee) herein.

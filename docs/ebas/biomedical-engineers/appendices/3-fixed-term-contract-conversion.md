@@ -11,7 +11,7 @@ rewrites:
 
 **Process for conversion where fixed term employment in the same or a substantially similar position exceeds the maximum duration of 3 years:**
 
-- **(a)** In accordance with this Appendix 3, an Employer must, assuming they wish to retain the Employee, make an offer of ongoing employment to a currently employed fixed term Employee if the Employee has been employed on fixed term contract(s) involving the same or substantially similar work pursuant to subclause 22.3(c).
+- **(a)** In accordance with this [Appendix 3](/ebas/biomedical-engineers/preliminary/3-arrangement), an Employer must, assuming they wish to retain the Employee, make an offer of ongoing employment to a currently employed fixed term Employee if the Employee has been employed on fixed term contract(s) involving the same or substantially similar work pursuant to subclause 22.3(c).
 - **(b)** The offer must be:
     - **(i)** given to the Employee within the period of 21 days before their fixed term employment has reached 3 years' duration,
     - **(ii)** made in writing;

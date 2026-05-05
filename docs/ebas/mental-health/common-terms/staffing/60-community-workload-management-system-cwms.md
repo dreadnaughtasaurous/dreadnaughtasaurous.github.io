@@ -46,7 +46,7 @@ The parties to the Agreement are committed to embedding an effective CWMS system
 
 **60.5 Status Quo for an Employer at 40% or above** 
 
-Services that have organisational and practitioner development allocation (as per clause 60.3 above) at 40% or above must maintain the status quo.
+Services that have organisational and practitioner development allocation (as per [clause 60.3](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) above) at 40% or above must maintain the status quo.
 
 **60.6 Variation** 
 

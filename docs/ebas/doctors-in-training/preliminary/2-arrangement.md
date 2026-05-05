@@ -150,11 +150,11 @@ topics: ['preliminary']
 
 | Section | Page |
 |---------|------|
-| Appendix 1 – List of Employers / Health Services | 127 |
-| Appendix 2 – Doctors in Training Remuneration, Allowances and Deductions | 129 |
-| Appendix 3 – Template Certificate of Service | 138 |
-| Appendix 4 – Agreement to Take Annual Leave in Advance | 139 |
-| Appendix 5 – Agreement to Cash Out Annual Leave | 140 |
+| [Appendix 1](/ebas/doctors-in-training/preliminary/1-title) – List of Employers / Health Services | 127 |
+| [Appendix 2](/ebas/doctors-in-training/preliminary/2-arrangement) – Doctors in Training Remuneration, Allowances and Deductions | 129 |
+| [Appendix 3](/ebas/doctors-in-training/preliminary/3-definitions) – Template Certificate of Service | 138 |
+| [Appendix 4](/ebas/doctors-in-training/preliminary/4-coverage) – Agreement to Take Annual Leave in Advance | 139 |
+| [Appendix 5](/ebas/doctors-in-training/preliminary/5-date-and-period-of-operation) – Agreement to Cash Out Annual Leave | 140 |
 
 Plain language terms: table of contents, agreement structure.
 

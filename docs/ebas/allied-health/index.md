@@ -16,7 +16,7 @@ topics: []
 
 ---
 
-**Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at Appendix 1. 
+**Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/allied-health/preliminary/1-agreement-title). 
 
 **Nominal expiry:** 2026-03-31. 
 

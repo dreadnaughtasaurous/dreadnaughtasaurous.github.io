@@ -28,7 +28,7 @@ The Medical Scientists Classification Review Committee (MSCRC) will process appl
 
 **5.1** Where a dispute arises between an employee and the manager of a unit or department in any attempt to alter the current rostering arrangements, the status quo will remain until an alternative arrangement is agreed or resolved by referral of the matter to the Alfred Health (Medical Scientists/Psychologists) Joint Consultative Committee. Any dispute arising from this clause shall be dealt with as per the Disputes Settling Procedures of the Agreement.
 
-**5.2** Notwithstanding the provisions of clause 57 of the Agreement, the period of notice for roster changes at Alfred Health shall be 14 days.
+**5.2** Notwithstanding the provisions of [clause 57](/ebas/mspp/hours-of-work/57-employee-rosters) of the Agreement, the period of notice for roster changes at Alfred Health shall be 14 days.
 
 ## 6. Enhanced Leave Flexibility
 
@@ -36,7 +36,7 @@ Annual Leave or Long Service Leave may be taken in association with short-term c
 
 ## 7. Personal Leave
 
-Clause 7(a) shall apply in lieu of 64.3e of the Agreement.
+[Clause 7(a)](/ebas/mspp/schedules/7-maintenance-of-public-sector-employment) shall apply in lieu of 64.3e of the Agreement.
 
 - **(a)** An employee may be absent through sickness or requirement to attend a health professional without furnishing evidence of such for a total of 24 hours, with a minimum period of 2 hours, in any one year of service.
 - **(b)** The employer shall not terminate the service of any employee during the currency of any period of personal leave.

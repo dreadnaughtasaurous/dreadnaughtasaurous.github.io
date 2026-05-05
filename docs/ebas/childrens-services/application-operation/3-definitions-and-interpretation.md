@@ -24,7 +24,7 @@ topics: ['wages', 'superannuation', 'employment', 'union-matters', 'delegates', 
 
 > **Note:** 
 >
->Section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028) was amended with effect from 26 August 2024. Under clause 102(3) of Schedule 1 to the [Act](http://www.legislation.gov.au/Series/C2009A00028), an existing employee who was a casual employee of an employer under section 15A as it was immediately before that date is taken to be a casual employee of the employer for the purposes of section 15A after that date.
+>Section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028) was amended with effect from 26 August 2024. Under clause 102(3) of [Schedule 1](/ebas/childrens-services/application-operation/1-title) to the [Act](http://www.legislation.gov.au/Series/C2009A00028), an existing employee who was a casual employee of an employer under section 15A as it was immediately before that date is taken to be a casual employee of the employer for the purposes of section 15A after that date.
 
 **childcare** means a program providing care, support supervision and development for children
 

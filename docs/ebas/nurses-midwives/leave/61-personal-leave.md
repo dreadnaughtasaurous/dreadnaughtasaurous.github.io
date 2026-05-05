@@ -39,7 +39,7 @@ Subject to the conditions set out in this clause, an Employee may take paid pers
 **61.5 Sick leave**
 
 - **(a) General**
-An Employee may take personal leave for the reasons described at subclause 61.3 above and 61.5(b) below.
+An Employee may take personal leave for the reasons described at [subclause 61.3](/ebas/nurses-midwives/leave/61-personal-leave) above and 61.5(b) below.
 - **(b) Personal Leave to Attend Appointments**
 An Employee may use up to five days' personal leave, in aggregate, in any year of service on account of a disability or where the Employee is required to attend a Registered Health Practitioner or diagnostic appointment.
 - **(c) Evidence requirements**

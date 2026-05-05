@@ -56,7 +56,7 @@ Under this [clause 9](/ebas/medical-specialists/consultation-disputes/9-consulta
 
 | Step | Action | Timeframe |
 |------|--------|-----------|
-| 1 | Health Service provides change impact statement and other written material required by subclause 9.4 | |
+| 1 | Health Service provides change impact statement and other written material required by [subclause 9.4](/ebas/medical-specialists/consultation-disputes/9-consultation) | |
 | 2 | Written response from Doctors and/or Association | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7–14 days of step 2 *The 'first meeting' at step 3 does not limit the number of meetings for consultation* |
 | 4 | Further Health Service response (where relevant) | After the conclusion of step 3 |

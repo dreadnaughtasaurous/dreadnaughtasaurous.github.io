@@ -52,7 +52,7 @@ topics: ['employment', 'casual-conversion']
 
 **21.5** Employee requests
 
-- **(a)** A Casual Employee may make a request of an Employer under this subclause 21.5 if:
+- **(a)** A Casual Employee may make a request of an Employer under this [subclause 21.5](/ebas/allied-health/employment/21-casual-conversion) if:
     - **(i)** the Employee has been employed by the Employer for a period of at least 6 months beginning the day the employment started;
     - **(ii)** the Employee has, in the period of 6 months ending the day the request is given, worked a regular pattern of hours on an ongoing basis which, without significant adjustment, the Employee could continue to work as a full-time Employee or part-time Employee (as the case may be); and
     - **(iii)** all of the following apply: A. the Employee has not, at any time during the period referred to in [subclause 21.5(a)(ii)](/ebas/allied-health/employment/21-casual-conversion), refused an offer made to the Employee under [subclause 21.1](/ebas/allied-health/employment/21-casual-conversion); B. the Employer has not, at any time during that period, given the Employee a notice in accordance with sub-[clause 21.2(c)(i)](/ebas/allied-health/employment/21-casual-conversion); C. the Employer has not, at any time during that period, given a response to the Employee under [subclause 21.6](/ebas/allied-health/employment/21-casual-conversion) refusing a previous request made under this [subclause 21.5](/ebas/allied-health/employment/21-casual-conversion); D. the request is not made during the period of 21 days after the period referred to in [subclause 21.1(a)(i)](/ebas/allied-health/employment/21-casual-conversion).

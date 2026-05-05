@@ -44,7 +44,7 @@ Under this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultati
 
 | Step | Action | Timeframe |
 | :--- | :--- | :--- |
-| **1** | Employer provides change impact statement and other written material required by clause 11.4 | — |
+| **1** | Employer provides change impact statement and other written material required by [clause 11.4](/ebas/nurses-midwives/consultation-disputes/11-consultation) | — |
 | **2** | Written response from Employees and/or Union | Within 14 days of step 1 |
 | **3** | Consultation Meeting/s convened | 7–14 days of step 2 |
 | **4** | Further Employer response (where relevant) | After the conclusion of step 3 |

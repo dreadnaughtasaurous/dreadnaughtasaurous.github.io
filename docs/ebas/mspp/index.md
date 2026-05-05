@@ -16,7 +16,7 @@ topics: []
 
 ---
 
-**Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at Schedule 1. 
+**Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at [Schedule 1](/ebas/mspp/schedules/1-employer-parties). 
 
 **Nominal expiry:** 2025-11-30. 
 

@@ -16,7 +16,7 @@ topics: []
 
 ---
 
-**Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at Appendix 1. 
+**Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/medical-specialists/preliminary/1-title). 
 
 **Nominal expiry:** 2026-02-28. 
 

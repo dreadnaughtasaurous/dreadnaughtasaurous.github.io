@@ -29,11 +29,11 @@ topics: ['schedules', 'hospital-specific']
 
 ## 3. Personal Leave
 
-In lieu of the provisions of subclause 64.3e of the Agreement, (Personal Leave) the following provision will apply:
+In lieu of the provisions of [subclause 64.3](/ebas/mspp/leave/64-personal-carer-s-leave)e of the Agreement, (Personal Leave) the following provision will apply:
 
 - **(a)** An Employee may be absent on the grounds of illness or injury on six (6) days in any one year (as either single days or as two days at a time) without having to provide evidence to the Hospital.
 
-- **(b)** If the Employee is not absent as provided in clause 3(a) to this schedule, they will be credited with one (1) day of annual leave for every two (2) days of personal leave not taken. However, if the Employee advises the Health Service in writing not less than (4) weeks prior to the conclusion of any one year, they may elect to retain the unused personal leave as accrued personal leave credits.
+- **(b)** If the Employee is not absent as provided in [clause 3(a)](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc) to this schedule, they will be credited with one (1) day of annual leave for every two (2) days of personal leave not taken. However, if the Employee advises the Health Service in writing not less than (4) weeks prior to the conclusion of any one year, they may elect to retain the unused personal leave as accrued personal leave credits.
 
 - **(c)** For the purpose of this clause "day" means the number of hours in a shift that an Employee is ordinarily rostered to work and "days" has a corresponding meaning.
 
@@ -48,7 +48,7 @@ An Employee can elect to convert the 17.5% leave loading into annual leave credi
 
 ## 5. Professional Development Leave
 
-**5.1** In addition to the provisions of clause 73 of the Agreement, the following provisions shall apply.
+**5.1** In addition to the provisions of [clause 73](/ebas/mspp/leave/73-professional-development-leave) of the Agreement, the following provisions shall apply.
 
 **5.2** In recognition of the importance of ongoing professional development, an Employee may seek approval for 5 days paid professional leave per year, to attend a conference, seminar, workshop etc. approved by the Hospital.
 
@@ -56,7 +56,7 @@ An Employee can elect to convert the 17.5% leave loading into annual leave credi
 
 ## 6. Dispute Settling
 
-Any dispute arising in relation to this schedule shall be dealt with in accordance with Clause 11 of the Agreement.
+Any dispute arising in relation to this schedule shall be dealt with in accordance with [Clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of the Agreement.
 
 ## 7. Rehabilitation
 
@@ -112,11 +112,11 @@ The provisions of this clause shall be read and interpreted wholly in conjunctio
 
 - **(b)** Consistent with the advice of the Employee's treating practitioner and/or rehabilitation provider, the return to work aspect of rehabilitation should initially aim to return injured Employees to their original duties, position and work location.
 
-- **(c)** The Health Service will, save where clause 11 of this Agreement is invoked, retain an injured Employee's pre-injury position for 12 months and if within that period an injured Employee's treating practitioner deems that the Employee is capable of returning to their pre injury duties, that position will be made available.
+- **(c)** The Health Service will, save where [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of this Agreement is invoked, retain an injured Employee's pre-injury position for 12 months and if within that period an injured Employee's treating practitioner deems that the Employee is capable of returning to their pre injury duties, that position will be made available.
 
 - **(d)** Where the Employee's incapacity has extended beyond 12 months and the Employee's pre-injury position has been permanently filled and the injured Employee's treating practitioner states that the Employee is capable of returning to their pre-injury duties, the Employee will be offered a comparable position. Such a position should as far as possible be a position of the same status and remuneration as the Employee's pre-injury position.
 
-- **(e)** Where the Employee's pre-injury position has been made genuinely redundant and the Employee's incapacity has extended beyond 12 months that Employee will be entitled to the redundancy benefits provided by this schedule. An Employee shall be able to obtain a Voluntary Departure Package as set out in clause 3 of Schedule 12 if they satisfy all the conditions relating to the availability of the Voluntary Departure Package.
+- **(e)** Where the Employee's pre-injury position has been made genuinely redundant and the Employee's incapacity has extended beyond 12 months that Employee will be entitled to the redundancy benefits provided by this schedule. An Employee shall be able to obtain a Voluntary Departure Package as set out in clause 3 of [Schedule 12](/ebas/mspp/schedules/12-additional-consultation-and-redundancy[clause 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc)ociated-entitl) if they satisfy all the conditions relating to the availability of the Voluntary Departure Package.
 
 - **(f)** Where return to pre-injury position and duties is not possible because of the Employee's injury or incapacity, the injured Employee's position/duties should be modified by agreement to accommodate the Employee's return to work in line with the treating doctors and/or rehabilitation providers and/or WorkCover doctors recommendations.
 
@@ -136,7 +136,7 @@ The provisions of this clause shall be read and interpreted wholly in conjunctio
 
 - **(c)** Where the Employee's treating practitioners and/or a medical practitioners and/or a medical practitioner provided and paid for by the Victorian WorkCover Authority are providing conflicting medical opinion, the Employee may assist in resolving such conflict by obtaining another medical opinion from a mutually-agreed medical practitioner. The Health Service and Employee representatives, which may include the Union, will consult, and develop an agreed list of doctors for the purposes of this sub-clause.
 
-- **(d)** Either party can invoke the provisions of clause 11 of the Agreement. (Dispute Settlement).
+- **(d)** Either party can invoke the provisions of [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of the Agreement. (Dispute Settlement).
 
 - **(e)** Access to an agreed rehabilitation provider will not be unreasonably withheld by the Health Service.
 

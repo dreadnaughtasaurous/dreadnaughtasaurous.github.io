@@ -18,7 +18,7 @@ topics: ['hours', 'rosters', 'employment', 'consultation', 'union-matters', 'del
 - **b.** **delegate's organisation** means the employee organisation in accordance with the rules of which the workplace delegate was appointed or elected; and
 - **c.** **eligible employees** means members and persons eligible to be members of the delegate's organisation who are employed by the employer in the enterprise.
 
-**7A.3** Before exercising entitlements under clause 7A, a workplace delegate must give the employer written notice of their appointment or election as a workplace delegate. If requested, the workplace delegate must provide the employer with evidence that would satisfy a reasonable person of their appointment or election.
+**7A.3** Before exercising entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights), a workplace delegate must give the employer written notice of their appointment or election as a workplace delegate. If requested, the workplace delegate must provide the employer with evidence that would satisfy a reasonable person of their appointment or election.
 
 **7A.4** An employee who ceases to be a workplace delegate must give written notice to the employer within 14 days.
 
@@ -46,7 +46,7 @@ A workplace delegate may represent the industrial interests of eligible employee
   - **iii.** electronic means of communication ordinarily used in the workplace by the employer to communicate with eligible employees and by eligible employees to communicate with each other, including access to Wi-Fi;
   - **iv.** a lockable filing cabinet or other secure document storage area; and
   - **v.** office facilities and equipment including printers, scanners and photocopiers.
-- **(b)** The employer is not required to provide access to or use of a workplace facility under clause 7A.7(a) if:
+- **(b)** The employer is not required to provide access to or use of a workplace facility under [clause 7A.7(a)](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) if:
   - **i.** the workplace does not have the facility;
   - **vi.** due to operational requirements, it is impractical to provide access to or use of the facility at the time or in the manner it is sought; or
   - **vii.** the employer does not have access to the facility at the enterprise and is unable to obtain access after taking reasonable steps.
@@ -65,7 +65,7 @@ Unless the employer is a small business employer, the employer must provide a wo
 - **n.** The employer must advise the workplace delegate not less than 2 weeks from the day on which the training is scheduled to commence, whether the workplace delegate's access to paid time during normal working hours to attend the training has been approved. Such approval must not be unreasonably withheld.
 - **o.** The workplace delegate must, within 7 days after the day on which the training ends, provide the employer with evidence that would satisfy a reasonable person of their attendance at the training.
 
-**7A.9** Exercise of entitlements under clause 7A
+**7A.9** Exercise of entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights)
 
 - **a.** A workplace delegate's entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) are subject to the conditions that the workplace delegate must, when exercising those entitlements:
   - **i.** comply with their duties and obligations as an employee;

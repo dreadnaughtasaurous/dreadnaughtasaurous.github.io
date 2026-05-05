@@ -39,7 +39,7 @@ topics: ['consultation', 'ohs']
 
 | Step | Action | Timeframe |
 |------|--------|-----------|
-| 1 | Employer provides change impact statement and other written material required by subclause 16.4 | |
+| 1 | Employer provides change impact statement and other written material required by [subclause 16.4](/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers) | |
 | 2 | Written response from Employees and/or HWU | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7–14 days of step 2 |
 | 4 | Further Employer response (where relevant) | After the conclusion of step 3 |

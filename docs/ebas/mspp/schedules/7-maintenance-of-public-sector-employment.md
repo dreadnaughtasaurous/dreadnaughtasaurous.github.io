@@ -51,13 +51,13 @@ Any disputes arising from this Schedule shall be dealt with in accordance with t
 
 ## 6. Outsourcing
 
-In addition to those set out in clause 5, the following principles will be applied where a service or part of a service is Outsourced.
+In addition to those set out in [clause 5](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica), the following principles will be applied where a service or part of a service is Outsourced.
 
 ### 6.1 General
 
 - **(a)** Prior to selecting a new provider, an Employer must ensure that any potential provider is aware of their obligations specified in this Schedule and include the provisions of this Schedule in any request for tender documentation.
 
-- **(b)** Employers must consult with their employees and their representatives about a proposed change that involves a transfer from public to private sector employment in accordance with clause 30 of this Agreement.
+- **(b)** Employers must consult with their employees and their representatives about a proposed change that involves a transfer from public to private sector employment in accordance with [clause 30](/ebas/mspp/employment/30-consultation) of this Agreement.
 
 - **(c)** In any contract with another provider (new employer) giving effect to a decision to Outsource, Employers must require the new employer to:
 
@@ -66,7 +66,7 @@ In addition to those set out in clause 5, the following principles will be appli
 
 ### 6.2 Offers of employment
 
-- **(a)** Subject to clause 6.1(c)(i), the Employer must require a new employer to offer employees work with the new employer which is consistent with this Schedule and on terms and conditions which will result in no net disadvantage and are no less favourable than those applying before accepting the employment offer. This includes terms and conditions that are on the whole comparable to the Employee's existing terms and conditions, including the provisions of this Agreement which applied whilst they were employed with the Employer.
+- **(a)** Subject to [clause 6.1(c)(i)](/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee), the Employer must require a new employer to offer employees work with the new employer which is consistent with this Schedule and on terms and conditions which will result in no net disadvantage and are no less favourable than those applying before accepting the employment offer. This includes terms and conditions that are on the whole comparable to the Employee's existing terms and conditions, including the provisions of this Agreement which applied whilst they were employed with the Employer.
 
 - **(b)** Employees who are fixed-term employees at the time of transfer will be offered employment for the remaining period of their current fixed-term contract where relevant work is and continues to be available. Offers of employment beyond that fixed term will be subject to availability and operational requirements.
 

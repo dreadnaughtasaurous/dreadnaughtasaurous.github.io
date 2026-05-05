@@ -10,7 +10,7 @@ topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 
 
 **21.1** The ordinary hours of work of full-time employees will be an average of 38 hours per week over a one, two or four week cycle.
 
-**21.2** Ordinary hours will be worked in periods not exceeding eight hours, in unbroken periods save for meal breaks, between Monday and Friday. Subject to the provisions of clause 7—Individual flexibility arrangements, by agreement between an employer and an employee, an employee may be rostered to work up to a maximum of 10 hours in any one day.
+**21.2** Ordinary hours will be worked in periods not exceeding eight hours, in unbroken periods save for meal breaks, between Monday and Friday. Subject to the provisions of [clause 7](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements)—Individual flexibility arrangements, by agreement between an employer and an employee, an employee may be rostered to work up to a maximum of 10 hours in any one day.
 
 **21.3** Ordinary hours may be worked between 6.00 am and 6.30 pm. Where broken shifts are worked the spread of hours can be no greater than 12 hours per day.
 
@@ -21,7 +21,7 @@ topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 
   - **(ii)** by employees working less than eight ordinary hours on one or more days each week;
   - **(iii)** by rostering employees off on various days of the week during the work cycle; or
   - **(iv)** by accumulating rostered days off with a maximum of five such days being taken consecutively at times mutually convenient to the employer and the employee.
-- **(b)** In the absence of agreement at a workplace in respect to rostering of the 38 hour week the provisions of clause 9—Dispute resolution will apply.
+- **(b)** In the absence of agreement at a workplace in respect to rostering of the 38 hour week the provisions of [clause 9](/ebas/childrens-services/consultation-disputes/9-dispute-resolution)—Dispute resolution will apply.
 
 **21.5** Non-contact time
 
@@ -36,7 +36,7 @@ topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 
 
 >**NOTE 2:** 
 >
->The entitlements at clauses 21.5(a) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
+>The entitlements at [clauses 21.5(a)](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
 
 >[21.5(b) renumbered as 21.5(c) by PR723626, PR724049 ppc 01Nov20]
 
@@ -66,7 +66,7 @@ Where it is necessary for an employee to attend court on the employer’s, or th
 
 **21.8** Make-up time
 
-An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in clause 21.3 at the ordinary rate of pay.
+An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in [clause 21.3](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) at the ordinary rate of pay.
 
 **21.9** Hours of work—out-of-school hours care, preschools and kindergartens
 
@@ -75,7 +75,7 @@ An employee may elect, with the consent of their employer, to work make-up time 
   - **(ii)** an average of 38 ordinary hours per week of the school education year; or
   - **(iii)** less than an average of 38 hours per week of the school education year.
 - **(b)** All entitlements for term-time employees are no less than those for non term‑time employees, except that no ordinary wages are payable for the weeks the employee is not engaged to work.
-- **(c)** Notwithstanding clause 21.9(b) non-engaged periods count as service for the purposes of accrual of paid annual and personal/carer’s leave and wage increments.
+- **(c)** Notwithstanding [clause 21.9(b)](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) non-engaged periods count as service for the purposes of accrual of paid annual and personal/carer’s leave and wage increments.
 - **(d)** Where a public holiday falls on a day on which a term-time employee is normally employed to work, the employee will be paid at the ordinary hourly rate of pay for the number of hours they would ordinarily have worked on that day.
 - **(e)** Annual leave is exclusive of any public holiday which may occur during the period of leave provided the employee would have ordinarily been required to work on the day on which the public holiday falls.
 - **(f)** Nothing in this clause prevents an employee in a preschool or kindergarten from being employed other than as a term-time only employee.

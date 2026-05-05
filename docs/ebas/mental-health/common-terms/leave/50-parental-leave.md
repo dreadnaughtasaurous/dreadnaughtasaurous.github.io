@@ -270,7 +270,7 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
   - **(i)** [subclause 50.14(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) applies to a pregnant Eligible Employee but there is no appropriate safe job available; and
   - **(ii)** the Eligible Employee is entitled to Long Parental Leave; and
   - **(iii)** the Eligible Employee has complied with the notice of intended start and end dates of leave and evidence requirements under subclause **50.6** for taking Long Parental Leave then the Eligible Employee is entitled to paid no safe job leave for the risk period.
-- **(c)** If the Eligible Employee takes paid no safe job leave for the risk period, the Employer must pay the Eligible Employee at the Employee’s rate of pay set out in Part 1 of the Appendix 2 for the Eligible Employee's ordinary hours of work in the risk period.
+- **(c)** If the Eligible Employee takes paid no safe job leave for the risk period, the Employer must pay the Eligible Employee at the Employee’s rate of pay set out in Part 1 of the [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for the Eligible Employee's ordinary hours of work in the risk period.
 - **(d)** This entitlement to paid no safe job leave is in addition to any other leave entitlement the Eligible Employee may have.
 - **(e)** If an Eligible Employee, during the six-week period before the expected date of birth, is on paid no safe job leave, the Employer may request that the Eligible Employee provide a medical certificate within seven (7) days stating whether the Eligible Employee is fit for work.
   - **(i)** If, the Eligible Employee has either:

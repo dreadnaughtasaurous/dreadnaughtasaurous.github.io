@@ -36,7 +36,7 @@ Nothing in this clause permits variations inconsistent with the minimum ratio re
   - **(vi)** Appropriate occupational health and safety provisions, including no lift/violence and aggression/communication/equipment/etc.
   - **(vii)** The four (4) days clear off duty and on call provided for in this Agreement to apply.
 - **(e)** Following consultation with the LHAC, the Employer will distribute the Proposal, including any amendments arising from consultation, to affected midwives (including those midwives who may not participate in the model).
-- **(f)** All proposals must take into account and address the matters set out at clause 107.4 below.
+- **(f)** All proposals must take into account and address the matters set out at [clause 107.4](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) below.
 - **(g)** Details of arrangements for midwives not entering the new model will be contained within the Proposal. Whether working in a new model or not, arrangements will be such that midwives can have access with their Employer and be able to perform the range of midwifery duties at an equivalent level to the access and performance provided prior to the implementation of the model in order to maintain their skill base.
 - **(h)** Any subsequent changes in a Midwifery Continuity of Care Models must only occur following further consultation with the ANMF and affected Employees and in compliance with this clause.
 

@@ -8,7 +8,7 @@ topics: ['schedules', 'consultation', 'redundancy']
 
 The provisions of this Schedule are to be read in conjunction with and applied in addition to the provisions contained in clause 30 – Consultation and clause 32 – Redundancy and Redeployment.
 
-In the case of any inconsistency with clause 30 or clause 32, the more beneficial entitlement will apply.
+In the case of any inconsistency with [clause 30](/ebas/mspp/employment/30-consultation) or [clause 32](/ebas/mspp/employment/32-redundancy-and-associated-entitlements), the more beneficial entitlement will apply.
 
 ## 1. Austin Health
 
@@ -25,11 +25,11 @@ In the case of any inconsistency with clause 30 or clause 32, the more beneficia
 
 - **(d)** Any staff member affected who does not nominate any preference, shall automatically be placed on the 13 week redeployment period, at the conclusion of which they shall be offered a VDP. If this is rejected, the matter shall be dealt with under Dispute Settling Procedures of the Agreement.
 
-- **(e)** Permanent staff whose positions are redundant who elect not to accept an offer of alternative employment, or do not express an interest in a VDP, or refuse an offer of a VDP, will be eligible for redeployment within the Health Service pursuant to clause 32.3 of this Agreement
+- **(e)** Permanent staff whose positions are redundant who elect not to accept an offer of alternative employment, or do not express an interest in a VDP, or refuse an offer of a VDP, will be eligible for redeployment within the Health Service pursuant to [clause 32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements) of this Agreement
 
 - **(f)** If, after the 13 weeks redeployment period, the Health Service has been unsuccessful in redeploying a permanent staff member to another position, that staff member will again be offered a VDP. Should a permanent staff member not accept an offer of a VDP, the matter shall be dealt with pursuant to the Disputes Settling Procedures in the Agreement.
 
-- **(g)** At any time following the declaration of a staff member's position as surplus, the Health Service may, after consultation with the employee, offer the employee a Health Service Separation Package, as detailed in clause 32.6a. Such an offer will only be made where, in the Health Service's opinion, the likelihood of satisfactorily redeploying the staff member within the 13 week redeployment period is negligible. Should the Health Service make such an offer, the employee may elect to take payment in lieu of the balance (i.e. unused portion) of their remaining redeployment period.
+- **(g)** At any time following the declaration of a staff member's position as surplus, the Health Service may, after consultation with the employee, offer the employee a Health Service Separation Package, as detailed in [clause 32.6](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)a. Such an offer will only be made where, in the Health Service's opinion, the likelihood of satisfactorily redeploying the staff member within the 13 week redeployment period is negligible. Should the Health Service make such an offer, the employee may elect to take payment in lieu of the balance (i.e. unused portion) of their remaining redeployment period.
 
 - **(h)** The Health Service shall notify the employee's superannuation fund that the service of recipients of Separation Package has been compulsorily terminated on account of retrenchment.
 
@@ -52,13 +52,13 @@ The Employer will provide staff directly affected with access to appropriate per
 
 ### 2.3 Redeployment
 
-If at any time during the redeployment period it is agreed that it is unlikely that the affected Employee will be successfully redeployed, the affected Employee may accept a redundancy package referred to in clause 32.6(a) of this Agreement. In addition an employee who has elected to discontinue a period of redeployment shall be entitled to a lump sum amount equal to the unexpired portion of the redeployment period.
+If at any time during the redeployment period it is agreed that it is unlikely that the affected Employee will be successfully redeployed, the affected Employee may accept a redundancy package referred to in [clause 32.6(a)](/ebas/mspp/employment/32-redundancy-and-associated-entitlements) of this Agreement. In addition an employee who has elected to discontinue a period of redeployment shall be entitled to a lump sum amount equal to the unexpired portion of the redeployment period.
 
 ## 3. Royal Women's Hospital and The Royal Children's Hospital
 
 ### 3.1 Redundancy
 
-- **(a)** Where the Health Service have made a definite decision that they no longer wish the work the Employee has been doing, to be done by anyone, and that decision may lead to termination of employment, they shall hold discussions in accordance with clause 30 of this Agreement with the Employees directly affected and, their representatives which may include the Union. This will apply where the possible termination is not due to the ordinary and customary turnover of labour.
+- **(a)** Where the Health Service have made a definite decision that they no longer wish the work the Employee has been doing, to be done by anyone, and that decision may lead to termination of employment, they shall hold discussions in accordance with [clause 30](/ebas/mspp/employment/30-consultation) of this Agreement with the Employees directly affected and, their representatives which may include the Union. This will apply where the possible termination is not due to the ordinary and customary turnover of labour.
 
 - **(b)** Where redeployment opportunities do not exist and an Employee is made compulsorily redundant, they will receive the following :
 
@@ -129,7 +129,7 @@ Where a position has been declared redundant whilst an affected Employee is subj
 
 ### 5.3 Redundancy and Redeployment Implementation
 
-- **(a)** Where a position has been declared redundant by the Employer at a date and time specified by the Employer and alternative redeployment opportunities have not been identified by the Employer by the end of the redeployment period, the Affected Employee shall be offered separation payments in accordance with clause 32.6(a) .
+- **(a)** Where a position has been declared redundant by the Employer at a date and time specified by the Employer and alternative redeployment opportunities have not been identified by the Employer by the end of the redeployment period, the Affected Employee shall be offered separation payments in accordance with [clause 32.6(a)](/ebas/mspp/employment/32-redundancy-and-associated-entitlements) .
 - **(b)** where an Employee whose position has been declared redundant elects to discontinue the 13-week redeployment period provided for by this clause, they shall be entitled, in addition to all other entitlements, to a lump sum payment equal to the unexpired portion of the redeployment period.
 
 ### 5.4 Retraining

@@ -14,7 +14,7 @@ topics: ['leave', 'wages', 'superannuation', 'preliminary']
 
 - **(a)** The NES and Superannuation legislation, including the Superannuation Guarantee (Administration) Act 1992 (Cth), the Superannuation Guarantee Charge Act 1992 (Cth), the Superannuation Industry (Supervision) Act 1993 (Cth) and the Superannuation (Resolution of Complaints) Act 1993 (Cth), deal with the superannuation rights and obligations of employers and employees.
 
-- **(b)** The rights and obligations in clause 20 supplement those in superannuation legislation and the NES.
+- **(b)** The rights and obligations in [clause 20](/ebas/childrens-services/wages/20-superannuation) supplement those in superannuation legislation and the NES.
 
 >**NOTE:**  
 > - **(a)** Individual employees generally have the opportunity to choose their own superannuation fund.  
@@ -32,11 +32,11 @@ An employer must make such superannuation contributions to a superannuation fund
 
 **20.3** Voluntary employee contributions
 
-- **(a)** Subject to the governing rules of the relevant superannuation fund, an employee may, in writing, authorise their employer to pay on behalf of the employee a specified amount from the post-taxation wages of the employee into the same superannuation fund as the employer makes the superannuation contributions provided for in clause 20.1(a).
+- **(a)** Subject to the governing rules of the relevant superannuation fund, an employee may, in writing, authorise their employer to pay on behalf of the employee a specified amount from the post-taxation wages of the employee into the same superannuation fund as the employer makes the superannuation contributions provided for in [clause 20.1(a)](/ebas/childrens-services/wages/20-superannuation).
 
 - **(b)** An employee may adjust the amount the employee has authorised their employer to pay from the wages of the employee from the first of the month following the giving of three months’ written notice to their employer.
 
-- **(c)** The employer must pay the amount authorised under clauses 20.3(a) or (b) no later than 28 days after the end of the month in which the deduction authorised under clauses 20.3(a) or (b) was made.
+- **(c)** The employer must pay the amount authorised under [clauses 20.3(a)](/ebas/childrens-services/wages/20-superannuation) or (b) no later than 28 days after the end of the month in which the deduction authorised under [clauses 20.3(a)](/ebas/childrens-services/wages/20-superannuation) or (b) was made.
 
 ---
 
@@ -44,7 +44,7 @@ An employer must make such superannuation contributions to a superannuation fund
 
 >[20.4 varied by PR771396; substituted by PR794808 ppc 23Jan26]
 
-Unless, to comply with superannuation legislation, the employer is required to make the superannuation contributions provided for in clause 20.2 to another superannuation fund, the employer must make the superannuation contributions provided for in clause 20.2 and pay any amount authorised under clauses 20.3(a) or 20.3(b) to one of the following superannuation funds or its successor, provided that, in respect of new employees, the fund is able to accept new beneficiaries:
+Unless, to comply with superannuation legislation, the employer is required to make the superannuation contributions provided for in [clause 20.2](/ebas/childrens-services/wages/20-superannuation) to another superannuation fund, the employer must make the superannuation contributions provided for in [clause 20.2](/ebas/childrens-services/wages/20-superannuation) and pay any amount authorised under [clauses 20.3(a) or 20.3(b)](/ebas/childrens-services/wages/20-superannuation) to one of the following superannuation funds or its successor, provided that, in respect of new employees, the fund is able to accept new beneficiaries:
 
 - **(a)** HESTA;
 - **(b)** CareSuper;
@@ -60,7 +60,7 @@ Unless, to comply with superannuation legislation, the employer is required to m
 
 **20.5** Absence from work
 
-Subject to the governing rules of the relevant superannuation fund, the employer must also make the superannuation contributions provided for in clause 20.1(a) and pay the amount authorised under clauses 20.3(a) or (b):
+Subject to the governing rules of the relevant superannuation fund, the employer must also make the superannuation contributions provided for in [clause 20.1(a)](/ebas/childrens-services/wages/20-superannuation) and pay the amount authorised under [clauses 20.3(a)](/ebas/childrens-services/wages/20-superannuation) or (b):
 
 - **(a)** Paid leave—while the employee is on any paid leave;
 

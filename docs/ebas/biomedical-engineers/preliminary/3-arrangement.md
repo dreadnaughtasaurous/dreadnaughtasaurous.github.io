@@ -156,10 +156,10 @@ topics: ['preliminary']
 | Section | Page |
 |---------|------|
 | Signatories | 127 |
-| Appendix 1 – List of Employers | 128 |
-| Appendix 2 – Salaries & Allowances | 129 |
-| Appendix 3 – Fixed Term Contract Conversion | 131 |
-| Appendix 4 – Certificate of Service | 132 |
+| [Appendix 1](/ebas/biomedical-engineers/preliminary/1-title) – List of Employers | 128 |
+| [Appendix 2](/ebas/biomedical-engineers/preliminary/2-index) – Salaries & Allowances | 129 |
+| [Appendix 3](/ebas/biomedical-engineers/preliminary/3-arrangement) – Fixed Term Contract Conversion | 131 |
+| [Appendix 4](/ebas/biomedical-engineers/preliminary/4-definitions) – Certificate of Service | 132 |
 
 Plain language terms: table of contents, agreement structure.
 

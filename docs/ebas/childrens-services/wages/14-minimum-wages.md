@@ -22,13 +22,13 @@ topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'dispute
 
 >[14.1 varied by PR998020, PR509151, PR522982, PR536785, PR551708, PR566800, PR579915, PR592223, PR606446, PR707547, PR718938, PR729383, PR740806, PR762229, PR774011, PR780234, PR786659, renamed and substituted by PR794818 ppc 01Mar26]
 
-- **(a)** Clause 14.1 applies to the following:
+- **(a)** [Clause 14.1](/ebas/childrens-services/wages/14-minimum-wages) applies to the following:
   - **(i)** employees listed in the classifications in clause B.1; and
   - **(ii)** employees engaged as cooks and:
     - who are required to hold, or be actively working towards, an approved early childhood education and care qualification; and
     - who may be required at any time to work directly with children to maintain educator-to-child ratios.
 
-- **(b)** An employer must pay the CSE minimum rate applicable to the employee’s classification, or the classification set out in clause 14.1(c), as follows:
+- **(b)** An employer must pay the CSE minimum rate applicable to the employee’s classification, or the classification set out in [clause 14.1(c)](/ebas/childrens-services/wages/14-minimum-wages), as follows:
 
 | Classification | Minimum Weekly Rate $ | Minimum Hourly Rate $ |
 |----------------|----------------------|-----------------------|
@@ -46,7 +46,7 @@ topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'dispute
 
 ²Refer to clause I.3.
 
-- **(c)** An employee engaged as a cook and who meets the criteria in clause 14.1(a)(ii) must be paid the CSE minimum rate in clause 14.1(b) for the CSE classification applicable to their early childhood education and care (ECEC) qualification as follows:
+- **(c)** An employee engaged as a cook and who meets the criteria in [clause 14.1(a)(ii)](/ebas/childrens-services/wages/14-minimum-wages) must be paid the CSE minimum rate in [clause 14.1(b)](/ebas/childrens-services/wages/14-minimum-wages) for the CSE classification applicable to their early childhood education and care (ECEC) qualification as follows:
 
 | ECEC Qualification | CSE Classification |
 |--------------------|--------------------|
@@ -62,7 +62,7 @@ topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'dispute
 
 >[14.2 renamed and substituted by PR794818 ppc 01Mar26]
 
-The following minimum rates of pay apply to employees classified under clause B.2, other than employees engaged as cooks and who meet the criteria in clause 14.1(a)(ii).
+The following minimum rates of pay apply to employees classified under clause B.2, other than employees engaged as cooks and who meet the criteria in [clause 14.1(a)(ii)](/ebas/childrens-services/wages/14-minimum-wages).
 
 | Classification | | Minimum Weekly Rate $ | Minimum Hourly Rate $ |
 |----------------|--|----------------------|-----------------------|
@@ -75,7 +75,7 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 >**NOTE:** 
 >
->See clauses 14.1(b) and 14.1(c) to determine the minimum rates of pay applicable to employees engaged as cooks and who are required to hold, or be actively working towards, an approved early childhood education and care qualification, and who may be required to work ‘on the floor’ at any time to maintain educator-to-child ratios.
+>See [clauses 14.1(b)](/ebas/childrens-services/wages/14-minimum-wages) and 14.1(c) to determine the minimum rates of pay applicable to employees engaged as cooks and who are required to hold, or be actively working towards, an approved early childhood education and care qualification, and who may be required to work ‘on the floor’ at any time to maintain educator-to-child ratios.
 
 ---
 
@@ -105,7 +105,7 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 >[14.4(b) varied by PR794818 ppc 01Mar26]
 
-- **(b)** For apprentices who commenced on or after 1 January 2014, the minimum rate of pay will be as set out in the table below, subject to the proviso in clause 14.4(a) that no apprentice will be paid less than an unapprenticed junior of the same age.
+- **(b)** For apprentices who commenced on or after 1 January 2014, the minimum rate of pay will be as set out in the table below, subject to the proviso in [clause 14.4(a)](/ebas/childrens-services/wages/14-minimum-wages) that no apprentice will be paid less than an unapprenticed junior of the same age.
 
 | Year of Apprenticeship | % of Minimum Rate for CSE Level 3—Qualified Educator (Year 12 not completed) | % of Minimum Rate for CSE Level 3—Qualified Educator (Year 12 completed) |
 |------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|
@@ -120,13 +120,13 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 >[14.5(a) varied by PR794818 ppc 01Mar26]
 
-- **(a)** The minimum rate for an adult apprentice who commenced on or after 1 January 2014 and is in the first year of their apprenticeship will be 80% of the minimum rate for a Level 3—Qualified Educator, or the rate prescribed by clause 14.4, whichever is the greater.
+- **(a)** The minimum rate for an adult apprentice who commenced on or after 1 January 2014 and is in the first year of their apprenticeship will be 80% of the minimum rate for a Level 3—Qualified Educator, or the rate prescribed by [clause 14.4](/ebas/childrens-services/wages/14-minimum-wages), whichever is the greater.
 
-- **(b)** The minimum rate for an adult apprentice who commenced on or after 1 January 2014 and is in the second and subsequent years of their apprenticeship must be the rate for the lowest adult classification in clause 14.1, or the rate prescribed by clause 14.4, whichever is the greater.
+- **(b)** The minimum rate for an adult apprentice who commenced on or after 1 January 2014 and is in the second and subsequent years of their apprenticeship must be the rate for the lowest adult classification in [clause 14.1](/ebas/childrens-services/wages/14-minimum-wages), or the rate prescribed by [clause 14.4](/ebas/childrens-services/wages/14-minimum-wages), whichever is the greater.
 
 >[14.5(c) varied by PR733842 from 27Sep21]
 
-- **(c)** A person employed by an employer under this award immediately prior to entering into a training agreement as an adult apprentice with that employer must not suffer a reduction in their minimum wage by virtue of entering into the training agreement, provided that the person has been an employee in that enterprise for at least six months as a full-time employee or twelve months as a part-time or regular casual employee immediately prior to commencing the apprenticeship. For the purpose only of fixing a minimum wage, the adult apprentice must continue to receive the minimum wage that applies to the classification specified in clause 14.1 in which the adult apprentice was engaged immediately prior to entering into the training agreement.
+- **(c)** A person employed by an employer under this award immediately prior to entering into a training agreement as an adult apprentice with that employer must not suffer a reduction in their minimum wage by virtue of entering into the training agreement, provided that the person has been an employee in that enterprise for at least six months as a full-time employee or twelve months as a part-time or regular casual employee immediately prior to commencing the apprenticeship. For the purpose only of fixing a minimum wage, the adult apprentice must continue to receive the minimum wage that applies to the classification specified in [clause 14.1](/ebas/childrens-services/wages/14-minimum-wages) in which the adult apprentice was engaged immediately prior to entering into the training agreement.
 
 ---
 
@@ -138,13 +138,13 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 - **(b)** Where an apprentice is required to attend block release training for training identified in or associated with their training contract, and such training requires an overnight stay, the employer must pay for the excess reasonable travel costs incurred by the apprentice in the course of travelling to and from such training. Provided that this clause will not apply where the apprentice could attend an alternative Registered Training Organisation (RTO) and the use of the more distant RTO is not agreed between the employer and the apprentice.
 
-- **(c)** For the purposes of clause 14.6(b) above, excess reasonable travel costs include the total costs of reasonable transportation (including transportation of tools where required), accommodation costs incurred while travelling (where necessary) and reasonable expenses incurred while travelling, including meals, which exceed those incurred in travelling to and from work. For the purposes of this subclause, excess travel costs do not include payment for travelling time or expenses incurred while not travelling to and from block release training.
+- **(c)** For the purposes of [clause 14.6(b)](/ebas/childrens-services/wages/14-minimum-wages) above, excess reasonable travel costs include the total costs of reasonable transportation (including transportation of tools where required), accommodation costs incurred while travelling (where necessary) and reasonable expenses incurred while travelling, including meals, which exceed those incurred in travelling to and from work. For the purposes of this subclause, excess travel costs do not include payment for travelling time or expenses incurred while not travelling to and from block release training.
 
-- **(d)** The amount payable by an employer under clause 14.6(b) may be reduced by an amount the apprentice is eligible to receive for travel costs to attend block release training under a Government apprentice assistance scheme. This will only apply if an apprentice has either received such assistance or their employer has advised them in writing of the availability of such assistance.
+- **(d)** The amount payable by an employer under [clause 14.6(b)](/ebas/childrens-services/wages/14-minimum-wages) may be reduced by an amount the apprentice is eligible to receive for travel costs to attend block release training under a Government apprentice assistance scheme. This will only apply if an apprentice has either received such assistance or their employer has advised them in writing of the availability of such assistance.
 
 - **(e)** All training fees charged by an RTO for prescribed courses and the cost of all prescribed textbooks (excluding those textbooks which are available in the employer’s technical library) for the apprenticeship, which are paid by an apprentice, shall be reimbursed by the employer within six months of the commencement of the apprenticeship or the relevant stage of the apprenticeship, or within three months of the commencement of the training provided by the RTO, whichever is the later, unless there is unsatisfactory progress.
 
-- **(f)** An employer may meet its obligations under clause 14.6(e) by paying any fees and/or cost of textbooks directly to the RTO.
+- **(f)** An employer may meet its obligations under [clause 14.6(e)](/ebas/childrens-services/wages/14-minimum-wages) by paying any fees and/or cost of textbooks directly to the RTO.
 
 - **(g)** An apprentice is entitled to be released from work without loss of continuity of employment and to payment of the appropriate wages to attend any training and assessment specified in, or associated with, the training contract.
 

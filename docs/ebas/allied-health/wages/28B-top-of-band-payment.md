@@ -46,8 +46,8 @@ This [clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment) applies to 
 | AHP1 - Sonographer, Grade 5 |
 | AHP1 - Sonographer, Grade 6 |
 | AHP1 - Sonographer, Grade 7 |
-| AHP1 – Chief Grade 2, Year 2 (preserved rate under subclause 28.4) |
-| AHP1 – Medical Imaging Technologist Deputy Chief, Grade 2, Year 2 (preserved rate under subclause 28.4) |
+| AHP1 – Chief Grade 2, Year 2 (preserved rate under [subclause 28.4](/ebas/allied-health/wages/28-wages-and-wage-increases)) |
+| AHP1 – Medical Imaging Technologist Deputy Chief, Grade 2, Year 2 (preserved rate under [subclause 28.4](/ebas/allied-health/wages/28-wages-and-wage-increases)) |
 | AHP 2 – Biomedical Technologist, Grade 1, Year 4 |
 | AHP 2 – Biomedical Technologist, Grade 2, Year 5 |
 | AHP 2 – Biomedical Technologist, Grade 3, Year 4 |

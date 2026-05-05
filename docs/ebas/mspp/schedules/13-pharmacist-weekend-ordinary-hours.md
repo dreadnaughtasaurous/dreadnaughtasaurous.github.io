@@ -19,7 +19,7 @@ This Schedule shall operate from 1 July 2023.
 For the purposes of this Schedule, the following terms are defined as follows:
 
 - **(a)** **Pharmacist** means a Pharmacist, Intern or Student Pharmacist.
-- **(b)** A **'new Pharmacist'** for the purposes of clause 5 is a Pharmacist who commences employment with an employer listed in Schedule 1 after 1 March 2023.
+- **(b)** A **'new Pharmacist'** for the purposes of clause 5 is a Pharmacist who commences empl[clause 5](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica)ith an employer listed in [Schedule 1](/ebas/mspp/schedules/1-employer-parties) after 1 March 2023.
 - **(c)** **Weekend Roster or Weekend Rostering** means the working of ordinary hours on a Saturday and/or Sunday.
 - **(d)** **Weekend** means Saturday and/or Sunday.
 
@@ -75,7 +75,7 @@ Employment Status: …………………………………………………. .H
 
 Service/Department: ……………………………………………………………………
 
-I, the above named Pharmacist make this Agreement with my Employer following my request to commence working ordinary hours on weekends made in accordance with Schedule 13 of the *Public Health Sector (Medical Scientists, Pharmacists & Psychologists) Single Interest Enterprise Agreement 2021-2025*.
+I, the above named Pharmacist make this Agreement with my Employer following my request to commence working ordinary hours on weekends made in accordance with [Schedule 13](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours) of the *Public Health Sector (Medical Scientists, Pharmacists & Psychologists) Single Interest Enterprise Agreement 2021-2025*.
 
 The agreed ordinary hours on weekends rostering arrangements details are as follows:
 
@@ -94,7 +94,7 @@ Print Name:…………………………………… Date:…………………
 
 **Withdrawal from this Agreement:**
 
-In accordance with clause 4 & 5 of Schedule 13 I advise that I wish to withdraw from this Pharmacist Ordinary Hours on a Weekend Roster Agreement and hereby give 28 days notice of the effective date of my withdrawal.
+In accordance with clause 4 & 5 of [Schedule 13](/ebas/mspp/schedules/13-pharmac[clause 4](/ebas/mspp/schedules/4-alfred-health-general-conditions)end-ordinary-hours) I advise that I wish to withdraw from this Pharmacist Ordinary Hours on a Weekend Roster Agreement and hereby give 28 days notice of the effective date of my withdrawal.
 
 Signed ………………………………………………………………..
 

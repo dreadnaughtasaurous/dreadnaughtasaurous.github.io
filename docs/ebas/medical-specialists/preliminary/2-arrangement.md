@@ -129,13 +129,13 @@ topics: ['preliminary']
 
 | Section | Page |
 |---------|------|
-| Appendix 1 – List of Employers / Health Services | 121 |
-| Appendix 2 – Specialists Remuneration and Allowances | 123 |
-| Appendix 3 – Continuing Medical Education Standard Claim Form | 154 |
-| Appendix 4 – Template Certificate of Service | 157 |
-| Appendix 5 – List of Local Certified Agreements and Enterprise Agreements in Operation Immediately Prior to 17 December 2013 | 159 |
-| Appendix 6 – Agreement to Take Annual Leave in Advance | 162 |
-| Appendix 7 – Agreement to Cash Out Annual Leave | 163 |
+| [Appendix 1](/ebas/medical-specialists/preliminary/1-title) – List of Employers / Health Services | 121 |
+| [Appendix 2](/ebas/medical-specialists/preliminary/2-arrangement) – Specialists Remuneration and Allowances | 123 |
+| [Appendix 3](/ebas/medical-specialists/preliminary/3-definitions) – Continuing Medical Education Standard Claim Form | 154 |
+| [Appendix 4](/ebas/medical-specialists/preliminary/4-coverage) – Template Certificate of Service | 157 |
+| [Appendix 5](/ebas/medical-specialists/preliminary/5-date-and-period-of-operation) – List of Local Certified Agreements and Enterprise Agreements in Operation Immediately Prior to 17 December 2013 | 159 |
+| [Appendix 6](/ebas/medical-specialists/preliminary/6-application-and-relationship-to-the-nes) – Agreement to Take Annual Leave in Advance | 162 |
+| [Appendix 7](/ebas/medical-specialists/preliminary/7-saving-of-local-agreements) – Agreement to Cash Out Annual Leave | 163 |
 
 Plain language terms: table of contents, agreement structure.
 

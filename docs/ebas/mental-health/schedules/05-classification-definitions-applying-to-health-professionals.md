@@ -8,9 +8,9 @@ topics: ['schedules', 'classifications']
 
 ## Part 1: Schedule 5 Arrangement
 
-Schedule 5 is arranged as follows:
+[Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2) is arranged as follows:
 
-- Part 1 – Schedule 5 Arrangement
+- Part 1 – [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2) Arrangement
 - Part 2 – Classification Definitions applying to AHP1 Employees in Mental Health
 - Part 3 – Relevant Qualifications for AHP1 Classifications in Mental Health
 - Part 4 – Classification Definitions applying to AHP2 Employees in Mental Health
@@ -55,7 +55,7 @@ This Part applies to an Employee employed as such with a relevant qualification 
 
 **2.1(a) Definition**
 
-A **Health Professional Student** for the purposes of this clause is a person currently enrolled in a university to undertake a qualifying degree in the disciplines at clause 1.1(b) and who at commencement, has successfully completed not less than twelve months of the relevant bachelor's degree or qualifying master's degree.
+A **Health Professional Student** for the purposes of this clause is a person currently enrolled in a university to undertake a qualifying degree in the disciplines at [clause 1.1(b)](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals) and who at commencement, has successfully completed not less than twelve months of the relevant bachelor's degree or qualifying master's degree.
 
 **2.1(b) Discipline of student**
 
@@ -70,7 +70,7 @@ By agreement between the Employer and HACSU, an Employer may implement a Health 
 ### 2.3 Employment of Health Professional Students
 
 - **(a)** Pre-Qualified Health Professional Students are employed on a fixed term basis or engaged on a casual basis.
-- **(b)** The number of Pre-Qualified Health Professional Student Employees utilised will not exceed one student of each discipline at clause 1.1(b) per unit or team, per shift.
+- **(b)** The number of Pre-Qualified Health Professional Student Employees utilised will not exceed one student of each discipline at [clause 1.1(b)](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals) per unit or team, per shift.
 - **(c)** Pre-Qualified Health Professional Student Employees will have performance appraisals conducted in accordance with hospital policy.
 - **(d)** In order to balance the Employee's academic obligations and the needs of the Employer, the rostered work of Pre-Qualified Health Professional students will be in shifts of not less than four hours on day or evening shifts, Monday to Sunday.
 - **(e)** Pre-Qualified Health Professional Student Employees will be delegated activities and aspects of care by a Grade 3 Health Professional and supervised in providing the delegated activity by the AHP1 Grade 3.
@@ -88,7 +88,7 @@ By agreement between the Employer and HACSU, an Employer may implement a Health 
 
 ### 2.5 Rate of Pay for Pre-Qualified Health Professional Student Employees
 
-- **(a)** Health Professional Student Employees will be paid 85% of the AHP1 Grade 2 Year 1 rate of pay set out in Schedule 2.
+- **(a)** Health Professional Student Employees will be paid 85% of the AHP1 Grade 2 Year 1 rate of pay set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances).
 
 ### 2.6 Other Terms and Conditions for Pre-Qualified Health Professional Student Employees
 
@@ -455,14 +455,14 @@ All qualified Welfare Workers who are required to undertake senior administrativ
 - **(i)** a Welfare Worker in charge of an Agency or Department with a staff of 8 or more Employees, covered by the Determination, or with a staff of at least 6 Employees covered by the Determination, plus other Employees totalling at least 13 in number who are employed as part of the permanent establishment on a regular monthly contract of employment of at least the normal full-time ordinary hours of such Agency or Department;
 - **(ii)** any Welfare Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Welfare Worker employed under (a) hereof.
 
-**4.2(f)** Provided that where an Employee under clause 101.5 is reclassified by their existing Employer from class I to class II or class II to class III, the following shall apply:
+**4.2(f)** Provided that where an Employee under [clause 101.5](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) is reclassified by their existing Employer from class I to class II or class II to class III, the following shall apply:
 
 - **(i)** A Welfare Worker (qualified) class I, year 7 and thereafter appointed to class II shall be paid at the class II, year 4 and thereafter rate.
 - **(ii)** A Welfare Worker (qualified) class I, year 6 appointed to class II shall be paid at the class III, year 3 rate.
 - **(iii)** A Welfare Worker (qualified) class I, year 5 appointed to class II shall be paid at the class II, 2nd year rate.
 - **(iv)** A Welfare Worker (qualified) class II, year 4 and thereafter appointed to class III shall be paid at the class III, year 2 rate.
 
-**4.2(g)** For the purposes of Schedule 5, Part 3, clause 3.2, yearly increments are based on years of full-time practical experience or service or part-time equivalent service in the performance of welfare work.
+**4.2(g)** For the purposes of [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2), Part 3, clause 3.2, yearly increments are based on years of full-time practical experience or service or part-time equivalent service in the performance of welfare work.
 
 ---
 
@@ -511,7 +511,7 @@ Any person (however titled) carrying out Community Development Work in:
 **4.3(b) Qualified Community Development Worker**
 
 - **(i)** An Employee engaged in Community Development Work who holds a post-secondary qualification in Community Work, Community Education Multicultural or Ethnic Studies, Aboriginal Studies, Urban Studies, Community or Welfare Administration (all however titled) or a related and relevant post-secondary qualification from a post-secondary educational institution.
-- **(ii)** For the purposes of this clause 3.3, post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
+- **(ii)** For the purposes of this [clause 3.3](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals), post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
 - **(iii)** An Employee may, through practical experience and skills in Community Development Work, or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
 - **(iv)** An Indigenous Community Worker who has participated in relevant short courses of training in the practical skills of community development work is deemed to be a Qualified Community Development Worker when engaged in Community Development Work with or within their 'Indigenous Community'.
 
@@ -552,7 +552,7 @@ An Employee who has:
 
 All persons performing Community Development Work who are required to provide direct supervision of other community development workers, administrative or support workers. A community development worker employed in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Community Development Worker Class III may be employed as such.
 
-For the purposes of this clause 3.3, yearly increments are based on years of full-time practical experience or service or part-time equivalent in the performance of community development work.
+For the purposes of this [clause 3.3](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals), yearly increments are based on years of full-time practical experience or service or part-time equivalent in the performance of community development work.
 
 ---
 
@@ -590,7 +590,7 @@ A Qualified Youth Worker, who is required to undertake some administrative respo
 
 #### 4.4.5 Youth Worker IIA (2A)
 
-A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2) of this [Appendix 4](/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules)) under the Award.
 
 #### 4.4.6 Youth Worker Class III (3)
 
@@ -598,26 +598,26 @@ A Qualified Youth Worker who is required to:
 
 - **A.** Take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other Employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
 - **B.** A Youth Worker who acts as a Deputy to a Youth Worker Class IV;
-- **C.** A Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 3.4.7 of Part 3 of Schedule 5.
+- **C.** A Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 3.4.7 of Part 3 of [Schedule 5](/ebas/mental-health/common-terms/[subclause 3.4](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals)-application-of-section-2).
 
 #### 4.4.7 Youth Worker IIIA (3A)
 
-A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2) of this [Appendix 4](/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules)) under the Award.
 
 #### 4.4.8 Youth Worker Class IV (4)
 
 A Qualified Youth Worker who is required to undertake senior administrative responsibilities including:
 
 - **A.** a Youth Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- **B.** any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under 3.4.6A of Part 3 of Schedule 5.
+- **B.** any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under 3.4.6A of Part 3 of [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2).
 
 #### 4.4.9 Overlapping Pay Points Between Classes
 
-See subclause 29.2.
+See [subclause 29.2](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and).
 
 #### 4.4.10 Increments for Youth Workers
 
-For the purposes of clause 11 of this Section E of this Appendix 4, yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
+For the purposes of clause 11 of this Section E of this [Appendix 4](/ebas/mental-health/common-terms/preli[clause 11](/ebas/mental-health/schedules/11-additional-staffing)division-into-sections-and-schedules), yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
 
 ---
 
@@ -637,7 +637,7 @@ For the purposes of clause 11 of this Section E of this Appendix 4, yearly incre
     - **(ii)** at the systems level — to ensure that consumer and carer perspectives are embedded in all aspects of service planning and delivery, including policy, communication, training, community engagement and service improvement.
 - **(d)** Lived and Living Experience Workers at all levels utilise the specialist knowledge derived from their direct Lived and Living Experience as a consumer or family carer and may also have secondary qualifications and experience. It is not a requirement for LLEWs Employees at any grade to hold a formal qualification.
 - **(e)** For the purposes of this clause, "**Practice**" refers to the use of a person's lived/living experience to enable them to carry out their role as a member of the lived and living experience workforce(s).
-- **(f)** Lived and Living Experience work builds on a foundation of mutuality, where a connection and understanding are developed, which is used to support consumers, families and carers through their journey to hope and possibility. This is extremely highly skilled and specialised work, which requires ongoing training, support and supervision (both discipline-specific supervision and line management supervision). Additional provisions concerning discipline-specific supervision for LLEWs are contained in clause 142.
+- **(f)** Lived and Living Experience work builds on a foundation of mutuality, where a connection and understanding are developed, which is used to support consumers, families and carers through their journey to hope and possibility. This is extremely highly skilled and specialised work, which requires ongoing training, support and supervision (both discipline-specific supervision and line management supervision). Additional provisions concerning discipline-specific supervision for LLEWs are contained in [clause 142](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews).
 - **(g)** Lived and Living Experience Workers are able to use their own experiences to inform policy change and service development, where consumer centred care is at the forefront of program design, research, workforce education and staffing.
 
 **A.2** Lived and Living Experience Workers will be employed in accordance with the following classification structure. For the avoidance of doubt, this classification structure does not include persons who volunteer as a Lived and Living Experience Worker, in relation to that work.
@@ -764,7 +764,7 @@ A Grade 1 Employee can demonstrate most or all of the following features:
 - **(c)** All Grade 2 roles are contained within the Practice Stream.
 - **(d)** Regular discipline-specific supervision is required for LLEWs at this grade level.
 - **(e)** An Employee with a Certificate IV in Mental Health Peer Work (or equivalent qualification) or at least 12 months' prior experience in a LLEW role will be classified no lower than Grade 2.
-- **(f)** Where an Employee is classified at Grade 2 in accordance with subclause 2.1(e), but is not yet practicing at a Grade 2 level, they will be provided with direct supervision and additional support for such time as the Employer considers appropriate.
+- **(f)** Where an Employee is classified at Grade 2 in accordance with [subclause 2.1(e)](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals), but is not yet practicing at a Grade 2 level, they will be provided with direct supervision and additional support for such time as the Employer considers appropriate.
 
 ### 2.2 LLEW Grade 2 — Features
 
@@ -944,7 +944,7 @@ In addition to those at Grades 1 and 2, a Grade 3 Employee can demonstrate most 
 
 **4.2(a) LLEW Supervisor/Coordinator**
 
-The LLEW Supervisor/Coordinator has extensive practice experience as a LLEW and supervises Grade 1, Grade 2, and Grade 3 LLEW employees. The Supervisor/Coordinator role is primarily focused on the supervision of the LLEW workforce and maintaining the highest level of practice standards. The supervision they provide may be discipline-specific supervision in accordance with clause 142 and/or line management supervision. The role may assist in review processes and have occasional direct consumer and/or carer/family contact.
+The LLEW Supervisor/Coordinator has extensive practice experience as a LLEW and supervises Grade 1, Grade 2, and Grade 3 LLEW employees. The Supervisor/Coordinator role is primarily focused on the supervision of the LLEW workforce and maintaining the highest level of practice standards. The supervision they provide may be discipline-specific supervision in accordance with [clause 142](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews) and/or line management supervision. The role may assist in review processes and have occasional direct consumer and/or carer/family contact.
 
 **4.2(b) Consumer Consultant (Entry Level)**
 
@@ -962,7 +962,7 @@ The focus of the Family Carer Consultants' work is to assist families and carers
 
 This is the most senior level within the Practice Stream.
 
-- **(a)** A Grade 5 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system and supervise and mentor Employees at lower grade levels (including Peer Cadets). The supervision they provide may be discipline-specific supervision in accordance with clause 142 and/or line management supervision.
+- **(a)** A Grade 5 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system and supervise and mentor Employees at lower grade levels (including Peer Cadets). The supervision they provide may be discipline-specific supervision in accordance with [clause 142](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews) and/or line management supervision.
 - **(b)** A LLEW who is the sole Consumer Consultant or Family Carer (howsoever titled) within a mental health service will be engaged at Grade 5.
 
 ### 5.2 LLEW Grade 5 — Typical Roles

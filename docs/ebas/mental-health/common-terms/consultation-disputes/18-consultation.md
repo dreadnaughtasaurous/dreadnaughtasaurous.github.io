@@ -46,7 +46,7 @@ Under this [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18
 
 | Step | Action |
 |------|--------|
-| 1 | Employer provides change impact statement and other written material required by subclause 18.4 |
+| 1 | Employer provides change impact statement and other written material required by [subclause 18.4](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) |
 | 2 | Written response from Employees and/or union |
 | 3 | Consultation Meeting/s convened |
 | 4 | Further Employer response (where relevant) |

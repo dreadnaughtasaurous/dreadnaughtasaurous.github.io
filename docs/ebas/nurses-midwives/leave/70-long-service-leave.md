@@ -119,7 +119,7 @@ Where a Registered Nurse or Registered Midwife has Continuous Service that inclu
 | 1/1/2011 – 31/12/2015 | Full-time | 1.733 (26 weeks after 15 years' service) | 5 years | 8.665 (5 years x 1.733) | |
 | 1/1/2016 – 31/12/2016 | Unpaid Parental Leave | NIL | 1 year | NIL | No accrual of LSL during unpaid Parental Leave before November 2018 |
 | 1/1/2017 – 31/12/2020 | Part-time | 1.733 | 4 years | 6.932 (4 years x 1.733) | |
-| 1/1/2020 – 31/12/2021 | Unpaid Parental Leave | 1.733 | 2 years | 3.466 | If application made under clause 70.11 for recognition of the period between 1 Jan 2020 – 30 June 2020 |
+| 1/1/2020 – 31/12/2021 | Unpaid Parental Leave | 1.733 | 2 years | 3.466 | If application made under [clause 70.11](/ebas/nurses-midwives/leave/70-long-service-leave) for recognition of the period between 1 Jan 2020 – 30 June 2020 |
 | **Total** | | | | **21.6631 weeks of accrued LSL** | |
 
 **70.7 Taking of leave**

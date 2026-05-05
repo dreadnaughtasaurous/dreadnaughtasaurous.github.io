@@ -6,7 +6,7 @@ topics: ['appendices', 'professional-development', 'forms']
 
 # Appendix 3 - Continuing Medical Education Standard Claim Form: Medical Specialists EBA
 
-The following standard claim form (or online equivalent) for Continuing Medical Education reimbursement can be used by a Health Service in accordance with subclause 41.4(a).
+The following standard claim form (or online equivalent) for Continuing Medical Education reimbursement can be used by a Health Service in accordance with [subclause 41.4(a)](/ebas/medical-specialists/allowances/41-continuing-medical-education-support).
 
 Any additional information required by the Health Service must be kept to a minimum.
 

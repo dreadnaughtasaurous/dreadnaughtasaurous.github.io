@@ -16,7 +16,7 @@ topics: []
 
 ---
 
-**Coverage:** 20 Victorian public mental health employers (see Schedule 1 of the agreement). 
+**Coverage:** 20 Victorian public mental health employers (see [Schedule 1](/ebas/mental-health/schedules/01-list-of-employers) of the agreement). 
 
 **Nominal expiry:** 2028-12-30. 
 

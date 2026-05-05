@@ -44,7 +44,7 @@ Under this [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consul
 
 | Step | Action | Timeframe |
 |------|--------|-----------|
-| 1 | Health Service provides change impact statement and other written material required by subclause 10.4 | |
+| 1 | Health Service provides change impact statement and other written material required by [subclause 10.4](/ebas/doctors-in-training/consultation-disputes/10-consultation) | |
 | 2 | Written response from Doctors and/or Association | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7–14 days of step 2 |
 | | *The 'first meeting' at step 3 does not limit the number of meetings for consultation* | |

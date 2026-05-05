@@ -40,7 +40,7 @@ topics: ['leave', 'annual-leave', 'hours', 'overtime', 'penalty-rates', 'wages',
 - **(a)** in writing; and
 - **(b)** signed by the employer and the employee and, if the employee is under 18 years of age, by the employee’s parent or guardian.
 
-**7.8** Except as provided in clause 7.7(b), an agreement must not require the approval or consent of a person other than the employer and the employee.
+**7.8** Except as provided in [clause 7.7(b)](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements), an agreement must not require the approval or consent of a person other than the employer and the employee.
 
 **7.9** The employer must keep the agreement as a time and wages record and give a copy to the employee.
 
@@ -55,8 +55,8 @@ topics: ['leave', 'annual-leave', 'hours', 'overtime', 'penalty-rates', 'wages',
 >
 >If an employer and employee agree to an arrangement that purports to be an individual flexibility arrangement under this award term and the arrangement does not meet a requirement set out in s.144 then the employee or the employer may terminate the arrangement by giving written notice of not more than 28 days (see s.145 of the Act).
 
-**7.12** An agreement terminated as mentioned in clause 7.11(b) ceases to have effect at the end of the period of notice required under that clause.
+**7.12** An agreement terminated as mentioned in [clause 7.11(b)](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements) ceases to have effect at the end of the period of notice required under that clause.
 
-**7.13** The right to make an agreement under clause 7 is additional to, and does not affect, any other term of this award that provides for an agreement between an employer and an individual employee.
+**7.13** The right to make an agreement under [clause 7](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements) is additional to, and does not affect, any other term of this award that provides for an agreement between an employer and an individual employee.
 
 Plain language terms: IFA, individual flex.

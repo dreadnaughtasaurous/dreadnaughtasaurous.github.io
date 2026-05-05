@@ -10,7 +10,7 @@ This Schedule will apply only in relation to Eastern Health and those of its emp
 
 ## 1. Rates of Pay
 
-In lieu of the rates of pay contained in Schedule 2, the following rates of pay will apply:
+In lieu of the rates of pay contained in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances), the following rates of pay will apply:
 
 | Classification | Old Rate | FFPPOA 1 Dec 2021 2% | FFPPOA 1 Dec 2022 2% | FFPPOA 1 Dec 2023 2% | FFPPOA 1 Dec 2024 2% |
 |----------------|----------|----------------------|----------------------|----------------------|----------------------|

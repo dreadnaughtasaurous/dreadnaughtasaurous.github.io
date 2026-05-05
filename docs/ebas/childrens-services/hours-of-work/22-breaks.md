@@ -12,7 +12,7 @@ topics: ['leave', 'hours', 'overtime', 'shift-work', 'breaks', 'preliminary']
 
 - **(a)** An employee will not be required to work in excess of five hours without an unpaid meal break of not less than 30 minutes and not more than one hour. Provided that employees who are engaged for not more than six hours continuously per shift may elect to forego a meal break.
 - **(b)** A meal break must be uninterrupted. Where there is an interruption to the meal break and this is occasioned by the employer, overtime will be paid until an uninterrupted break is taken. The minimum overtime payment will be as for 15 minutes with any time in excess of 15 minutes being paid in minimum blocks of 15 minutes.
-- **(c)** Notwithstanding clause 22.1(a), where an employee is required to remain on the employer’s premises, the employee will be entitled to a paid meal break of not less than 20 minutes or more than 30 minutes. This paid meal break is to be counted as time worked. By agreement with the employer an employee may leave the premises during the meal break, however, such time away from the premises will not be counted as time worked and nor will any payment be made for such time.
+- **(c)** Notwithstanding [clause 22.1(a)](/ebas/childrens-services/hours-of-work/22-breaks), where an employee is required to remain on the employer’s premises, the employee will be entitled to a paid meal break of not less than 20 minutes or more than 30 minutes. This paid meal break is to be counted as time worked. By agreement with the employer an employee may leave the premises during the meal break, however, such time away from the premises will not be counted as time worked and nor will any payment be made for such time.
 
 **22.2** Rest pauses
 

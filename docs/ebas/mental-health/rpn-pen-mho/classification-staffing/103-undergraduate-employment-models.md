@@ -33,7 +33,7 @@ By agreement between the Employer and the Unions, an Employer may implement a Re
   - **(i)** Nothing in this subclause impacts the pay rate of a RUSON/PQRN employed as such at the commencement of the Agreement.
   - **(ii)** Other than described in 103.1(e)(i)a RUSON will be paid on the following basis: 
 
-| Year of Employment as a RUSON | Percentage of RPN Grade 2 Year 1 Rate of Pay set out in Schedule 2 |
+| Year of Employment as a RUSON | Percentage of RPN Grade 2 Year 1 Rate of Pay set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) |
 |-------------------------------|---------------------------------------------------------------------|
 | RUSON | 81.5% |
 

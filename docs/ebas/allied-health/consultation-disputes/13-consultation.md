@@ -53,7 +53,7 @@ Under this [clause 13](/ebas/allied-health/consultation-disputes/13-consultation
 
 | Step | Action | Timeframe |
 |---|---|---|
-| 1 | Employer provides Change Impact Statement (CIS) and other written material required by subclause 13.4 | Starting point of consultation |
+| 1 | Employer provides Change Impact Statement (CIS) and other written material required by [subclause 13.4](/ebas/allied-health/consultation-disputes/13-consultation) | Starting point of consultation |
 | 2 | Written response from Employee/s and/or Union | 14 days after step 1 |
 | 3 | Consultation Meeting/s convened | 7 days to 14 days after step 2<br>The 'first meeting' at step 3 does not limit the number of meetings for Consultation |
 | 4 | Further Employer response (where relevant) | After the conclusion of step 3 |

@@ -20,7 +20,7 @@ Where an employee works two separate shifts in a day, they will be paid an allow
 
 - **(a)** Where the employer requires an employee to wear any special clothing or articles of clothing the employer must reimburse the employee for the cost of purchasing such clothing. The provisions of this clause do not apply where the employer pays for the clothing required to be worn by the employee.
 
-- **(b)** Where an employee is required to launder any clothing referred to in clause 15.2(a) the employee will be paid an allowance of $9.49 per week or $1.90 per day, or where the uniform does not require ironing, $5.98 per week or $1.20 per day.
+- **(b)** Where an employee is required to launder any clothing referred to in [clause 15.2(a)](/ebas/childrens-services/wages/15-allowances) the employee will be paid an allowance of $9.49 per week or $1.90 per day, or where the uniform does not require ironing, $5.98 per week or $1.20 per day.
 
 >[15.2(c) substituted by PR723626, PR724049 ppc 01Nov20]
 
@@ -74,9 +74,9 @@ Where an employer requests an employee to use their own motor vehicle in the per
 
 - **(a)** An educational leader’s allowance of $4567.31 per annum will be paid to an employee who is required to discharge the responsibilities of the educational leader under Regulation 118 of the Education and Care Services National Regulations 2011.
 
-- **(b)** Where an employee is required to act as educational leader for less than 5 days per week, the annual allowance prescribed by clause 15.7(a) will be payable on a pro rata basis calculated by reference to the number of days per week the employee is required to act as educational leader.
+- **(b)** Where an employee is required to act as educational leader for less than 5 days per week, the annual allowance prescribed by [clause 15.7(a)](/ebas/childrens-services/wages/15-allowances) will be payable on a pro rata basis calculated by reference to the number of days per week the employee is required to act as educational leader.
 
-**NOTE:** The allowance prescribed in clause 15.7(a) is the same amount as the educational leader allowance prescribed by clause 19.4 of the Educational Services (Teachers) Award 2020 and will be adjusted each year to reflect the amount set in the Educational Services (Teachers) Award 2020.
+**NOTE:** The allowance prescribed in [clause 15.7(a)](/ebas/childrens-services/wages/15-allowances) is the same amount as the educational leader allowance prescribed by [clause 19.4](/ebas/childrens-services/wages/19-payment-of-wages) of the Educational Services (Teachers) Award 2020 and will be adjusted each year to reflect the amount set in the Educational Services (Teachers) Award 2020.
 
 ---
 

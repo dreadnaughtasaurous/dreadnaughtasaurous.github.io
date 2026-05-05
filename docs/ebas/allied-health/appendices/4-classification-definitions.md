@@ -41,7 +41,7 @@ Section E – AHP2 Classification Descriptors
 
 In this classification structure, the following terms are defined as follows:
 
-**1.1** **Advanced Practice** is defined in clause 1 of Schedule 4 of this Appendix 4.
+**1.1** **Advanced Practice** is defined in clause 1 of Schedule 4 of this [Appendix 4](/ebas[clause 1](/ebas/allied-health/preliminary/1-agreement-title)health/preliminary/4-definitions).
 
 **1.2** **AHP1 Classification/s** means the following professions:
 
@@ -107,9 +107,9 @@ In this classification structure, the following terms are defined as follows:
 
 The AHP1 Classification Descriptors – General apply to all AHP1 Classifications except:
 
-**1.1** Radiation Therapy Technologist (Radiation Therapist) (see Section C of this Appendix 4); and
+**1.1** Radiation Therapy Technologist (Radiation Therapist) (see Section C of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)); and
 
-**1.2** Sonographer with respect to Grades 1, 2 and 3 only. The AHP1 Classification Descriptors – General for Grades 4, 5, 6 and 7 apply to Sonographers (see Section D of this Appendix 4 for the Sonographer Grades 1, 2 and 3, and an additional Grade 4 descriptor for Sonographers).
+**1.2** Sonographer with respect to Grades 1, 2 and 3 only. The AHP1 Classification Descriptors – General for Grades 4, 5, 6 and 7 apply to Sonographers (see Section D of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) for the Sonographer Grades 1, 2 and 3, and an additional Grade 4 descriptor for Sonographers).
 
 ---
 
@@ -127,7 +127,7 @@ The AHP1 Classification Descriptors – General apply to all AHP1 Classification
 
 **3.1** A Grade 1 Employee is an employee who:
 
-- **(a)** has a relevant qualification for their profession and/or meets the entry requirements described at Schedule 1 of this Appendix 4;
+- **(a)** has a relevant qualification for their profession and/or meets the entry requirements described at Schedule 1 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions);
 - **(b)** works on routine tasks within the scope of practice for their profession, consulting with a more experienced Employee when problems arise or when dealing with matters they are unfamiliar with; and
 - **(c)** is able to work with students.
 
@@ -146,7 +146,7 @@ The AHP1 Classification Descriptors – General apply to all AHP1 Classification
   - **(i)** Except as provided at subclause 3.4(b) and 3.4(c) of this Appendix 4 Section B, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
   - **(ii)** An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 - **(b) Progression on anniversary – exception**
-An Employee as described at subclause 3.4(a) of this Appendix 4 Section B, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
+An Employee as described at subclause 3.4(a) of this [Appendix 4](/ebas/allie[subclause 3.4(a)](/ebas/allied-health/preliminary/3-index)nary/4-definitions) Section B, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
   - **(i)** the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
   - **(ii)** an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
 - **(c) Employee elects not to progress to Grade 2**
@@ -173,7 +173,7 @@ An Employee as described at subclause 3.4(a) of this Appendix 4 Section B, may h
   - **(vii)** holding an equivalent position at a smaller establishment such as a day hospital/centre, nursing home or community health centre;
   - **(viii)** in the case of Health Information Manager (Medical Records Administrator) being responsible for clinical trial/data management at recognised trials including national and international trials; and/or
   - **(ix)** in the case of Play Therapist, research/case studies, and/or client and group program supervision and/or evaluation.
-- **(b)** A Grade 2 Employee also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section B subclause 3.4 above, meaning they will, if required, undertake the duties in Appendix 4 Section B subclause 4.1(a) including student supervision and Training, and work independently for the purposes of undertaking night shift and on-call duties.
+- **(b)** A Grade 2 Employee also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 3.4 above, meaning they will, if required, undertake the duties in [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 4.1(a) including student supervision and Training, and work independently for the purposes of undertaking night shift and on-call duties.
 
 **4.2 Grade 2 – Medical Imaging Technologist (Radiographer)**
 
@@ -185,7 +185,7 @@ An Employee as described at subclause 3.4(a) of this Appendix 4 Section B, may h
   - **(v)** a Medical Imaging Technologist (Radiographer) who is required to supervise a section of a department;
   - **(vi)** holds an equivalent position at a smaller establishment such as a day hospital/centre, nursing home or community health centre; or
   - **(vii)** a Medical Imaging Technologist (Radiographer) who can demonstrate extensive or special knowledge, experience and competence in any of the specialist modalities or areas of additional responsibilities such as computed tomography (CT), digital subtraction angiography (DSA), cardiac angiography, mammography, magnetic resonance imaging (MRI), picture archiving and communication systems (PACS), radiology information system (RIS) or quality assurance activities.
-- **(b)** A Grade 2 Medical Imaging Technologist (Radiographer) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section B subclause 3.4 above, meaning they will, if required, undertake the duties in Appendix 4 Section B subclause 4.2(a) including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
+- **(b)** A Grade 2 Medical Imaging Technologist (Radiographer) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 3.4 above, meaning they will, if required, undertake the duties in [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 4.2(a) including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 
 **4.3 Grade 2 – General**
 
@@ -202,12 +202,12 @@ A Grade 3 Employee is an employee who:
 - **(a)** in addition to undertaking or having the ability to undertake the Grade 2 duties/responsibilities will:
   - **(i)** normally have at least seven (7) years' experience in the relevant profession; and
   - **(ii)** possesses specific knowledge in and works in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring high levels of specialist knowledge;
-- **(b)** is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this Appendix 4 who meets the requirements of subclause 5.4(b)(i), (ii), (iii) or (iv) of Section B of this Appendix 4; and/or
+- **(b)** is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this [Appendix 4](/ebas/allied-health/preliminary/4-definitio[subclause 1.4 or 1.5](/ebas/allied-health/preliminary/1-agreement-title)quirements of subclause 5.4(b)(i), (ii), (iii) or (iv) of Section B of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions); and/or
 - **(c)** teaches under-graduate students, post graduate students and/or interns, primarily in a clinical setting.
 
 In the case of a Health Information Manager (Medical Records Administrator), examples of specialised knowledge are at Schedule 3.
 
-> **Note:** The experience referred to at subclause 5.1(a)(i) of this Appendix 4 Section B is indicative and is not a requirement for an Employee to be classified at Grade 3. Nothing prevents the appointment of an Employee to Grade 3 with less than seven (7) years' experience and where an Employee meets the requirements to be classified at Grade 3, they must be classified at Grade 3 even if they do not have seven (7) years' experience.
+> **Note:** The experience referred to at subclause 5.1(a)(i) of this [Appendix 4](/ebas/al[subclause 5.1(a)(i)](/ebas/allied-health/preliminary/5-incidence-coverage)nary/4-definitions) Section B is indicative and is not a requirement for an Employee to be classified at Grade 3. Nothing prevents the appointment of an Employee to Grade 3 with less than seven (7) years' experience and where an Employee meets the requirements to be classified at Grade 3, they must be classified at Grade 3 even if they do not have seven (7) years' experience.
 
 **5.2 Role function**
 
@@ -281,9 +281,9 @@ A Grade 4 Employee is an employee who:
 - **(a)** in addition to undertaking or having the ability to undertake the Grade 3 responsibilities, has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one or more of the specific areas of their profession which require extensive specialised knowledge and:
   - **(i)** would normally have at least 10 years' experience in the relevant profession; and
   - **(ii)** holds significant educational, administrative, managerial, research and/or clinical responsibilities; or
-- **(b)** is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this Appendix 4 and meets the requirements of subclause 6.4(b)(i), (ii) or (iii) of Section B of this Appendix 4.
+- **(b)** is an Allied Health Manager or Assistant Allied Health Manager as defined in subclause 1.4 or 1.5 of Section A of this [Appendix 4](/ebas/allied-health/preliminary/4-definitio[subclause 1.4 or 1.5](/ebas/allied-health/preliminary/1-agreement-title)quirements of subclause 6.4(b)(i), (ii) or (iii) of Section B of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions).
 
-> **Note:** The experience referred to at subclause 6.1(a)(i) of this Appendix 4 Section B is indicative and is not a requirement for an Employee to be classified at Grade 4. Nothing prevents the appointment of an Employee to Grade 4 with less than 10 years' experience and where an Employee meets the requirements to be classified at Grade 4, they must be classified at Grade 4 even if they do not have 10 years' experience.
+> **Note:** The experience referred to at subclause 6.1(a)(i) of this [Appendix 4](/ebas/al[subclause 6.1(a)(i)](/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation)nary/4-definitions) Section B is indicative and is not a requirement for an Employee to be classified at Grade 4. Nothing prevents the appointment of an Employee to Grade 4 with less than 10 years' experience and where an Employee meets the requirements to be classified at Grade 4, they must be classified at Grade 4 even if they do not have 10 years' experience.
 
 **6.2 Role function**
 
@@ -346,7 +346,7 @@ An Employee in a Grade 4 position performs duties within or across the following
 
 #### 7. Grade 5
 
-A Grade 5 Employee is an employee who is an Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) in charge of 40 to 85 Full-Time Employees and/or other staff not covered by this Agreement totalling 46 to 90 in number.
+A Grade 5 Employee is an employee who is an Allied Health Manager (as defined in subclause 1.4 of Section A of this [Appendix 4](/[subclause 1.4](/ebas/allied-health/preliminary/1-agreement-title)ealth/preliminary/4-definitions)) in charge of 40 to 85 Full-Time Employees and/or other staff not covered by this Agreement totalling 46 to 90 in number.
 
 ---
 
@@ -354,7 +354,7 @@ A Grade 5 Employee is an employee who is an Allied Health Manager (as defined in
 
 A Grade 6 Employee is an employee who is:
 
-**8.1** an Allied Health Manager (as defined in subclause 1.4 of Section A of this Appendix 4) in charge of at least 86 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 91 in number; or
+**8.1** an Allied Health Manager (as defined in subclause 1.4 of Section A of this [Appendix 4](/[subclause 1.4](/ebas/allied-health/preliminary/1-agreement-title)ealth/preliminary/4-definitions)) in charge of at least 86 Full-Time Employees and/or other staff not covered by this Agreement totalling at least 91 in number; or
 
 **8.2** a Deputy Director of Allied Health.
 
@@ -391,7 +391,7 @@ An employee who has provisional registration under the National Registration and
   - **(i)** Except as provided at subclause 2.3(b) and 2.3(c) of this Appendix 4 Section C, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
   - **(ii)** An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 - **(b) Progression on anniversary – exception**
-An Employee as described at subclause 2.3(a) of this Appendix 4 Section C, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
+An Employee as described at subclause 2.3(a) of this [Appendix 4](/ebas/allie[subclause 2.3(a)](/ebas/allied-health/preliminary/2-arrangement)nary/4-definitions) Section C, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
   - **(i)** the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
   - **(ii)** an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
 - **(c) Employee elects not to progress to Grade 2**
@@ -414,7 +414,7 @@ An Employee as described at subclause 2.3(a) of this Appendix 4 Section C, may h
 - **(iv)** performing work which requires specialised knowledge or depth of experience for example in computer technology, simulation or brachytherapy; and/or
 - **(v)** supervising staff including clinical supervision of Grade 1 Employees.
 
-**3.2** A Grade 2 Radiation Therapy Technologist (Radiation Therapist) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with Appendix 4 Section C subclause 2.3 above, meaning they will, if required, undertake the duties in Appendix 4 Section C subclause 3.1 including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
+**3.2** A Grade 2 Radiation Therapy Technologist (Radiation Therapist) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section C subclause 2.3 above, meaning they will, if required, undertake the duties in [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section C subclause 3.1 including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 
 **3.3** A Grade 2 Radiation Therapy Technologist (Radiation Therapist) cannot Teach students.
 
@@ -436,9 +436,9 @@ A Grade 3 Radiation Therapy Technologist (Radiation Therapist) is an employee:
 **4.4** who in addition to undertaking or having the ability to undertake the Grade 2 responsibilities will normally have at least seven (7) years' experience in their profession:
 
 - **(a)** possesses specific knowledge in and works in an area of their profession (clinical, educational, research and/or managerial) recognised as requiring high levels of specialist knowledge; and
-- **(b)** has an Advanced Practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 3 Employee as described at Schedule 4 of this Appendix 4.
+- **(b)** has an Advanced Practice role (as defined in clause 1 of Schedule 4 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) within[clause 1](/ebas/allied-health/preliminary/1-agreement-title)el of responsibility appropriate for a Grade 3 Employee as described at Schedule 4 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions).
 
-> **Note:** The experience referred to at subclause 4.4 of this Appendix 4 Section C is indicative and is not a requirement for an Employee to be classified at Grade 3. Nothing prevents the appointment of an Employee to Grade 3 with less than seven (7) years' experience and where an Employee meets the requirements to be classified at Grade 3, they must be classified at Grade 3 even if they do not have seven (7) years' experience.
+> **Note:** The experience referred to at subclause 4.4 of this [Appendix 4](/ebas/allied-h[subclause 4.4](/ebas/allied-health/preliminary/4-definitions)nary/4-definitions) Section C is indicative and is not a requirement for an Employee to be classified at Grade 3. Nothing prevents the appointment of an Employee to Grade 3 with less than seven (7) years' experience and where an Employee meets the requirements to be classified at Grade 3, they must be classified at Grade 3 even if they do not have seven (7) years' experience.
 
 ---
 
@@ -450,13 +450,13 @@ A Grade 4 Radiation Therapy Technologist (Radiation Therapist) is an employee:
 
 **5.2** who has a major Administrative role – undertakes significant administrative or educational responsibilities; or
 
-**5.3** who in addition to undertaking or having the ability to undertake the Grade 3 responsibilities at subclause 4.3 of Section C of this Appendix 4, has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one (1) or more of the specific areas of their profession which require extensive specialised knowledge and:
+**5.3** who in addition to undertaking or having the ability to undertake the Grade 3 responsibilities at subclause 4.3 of Section C of this [Appendix 4](/[subclause 4.3](/ebas/allied-health/preliminary/4-definitions)ealth/preliminary/4-definitions), has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one (1) or more of the specific areas of their profession which require extensive specialised knowledge and:
 
 - **(a)** would normally have at least 10 years' experience in their profession;
 - **(b)** holds significant educational, administrative, managerial, research and/or clinical responsibilities; and
-- **(c)** performs an advanced practice role (as defined in clause 1 of Schedule 4 of this Appendix 4) within the level of responsibility appropriate for a Grade 4 Employee as described at Schedule 4 of this Appendix 4.
+- **(c)** performs an advanced practice role (as defined in clause 1 of Schedule 4 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) within[clause 1](/ebas/allied-health/preliminary/1-agreement-title)el of responsibility appropriate for a Grade 4 Employee as described at Schedule 4 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions).
 
-> **Note:** The experience referred to at subclause 5.3 of this Appendix 4 Section C is indicative and is not a requirement for an Employee to be classified at Grade 4. Nothing prevents the appointment of an Employee to Grade 4 with less than 10 years' experience and where an Employee meets the requirements to be classified at Grade 4, they must be classified at Grade 4 even if they do not have 10 years' experience.
+> **Note:** The experience referred to at subclause 5.3 of this [Appendix 4](/ebas/allied-h[subclause 5.3](/ebas/allied-health/preliminary/5-incidence-coverage)nary/4-definitions) Section C is indicative and is not a requirement for an Employee to be classified at Grade 4. Nothing prevents the appointment of an Employee to Grade 4 with less than 10 years' experience and where an Employee meets the requirements to be classified at Grade 4, they must be classified at Grade 4 even if they do not have 10 years' experience.
 
 ---
 
@@ -504,7 +504,7 @@ A Radiation Therapy Technologist (Radiation Therapist) who is responsible for th
 
 ### AHP1 Classification Descriptors – Sonographer
 
-> **Note:** In this Appendix 4 Section D, **ASAR** means the Australian Sonographer Accreditation Registry.
+> **Note:** In this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section D, **ASAR** means the Australian Sonographer Accreditation Registry.
 
 ---
 
@@ -552,17 +552,17 @@ An employee who is a Sonographer:
 
 **5.1** An employee who is classified or is eligible to be classified as a Cardiac Technologist (Cardiac Physiologist), Medical Imaging Technologist (Radiographer), Nuclear Medicine Technologist or other classification agreed by the Employer under this Agreement who commences a Postgraduate Sonography qualification will continue to be classified and paid as a Cardiac Technologist (Cardiac Physiologist), Medical Imaging Technologist (Radiographer), Nuclear Medicine Technologist or other classification agreed by the Employer under this Agreement until they have completed their qualification recognised by the ASAR, except where they would be entitled to a higher rate of pay under a Sonography classification, in which case they will be classified and paid as a Sonographer under this Agreement. Once the employee has completed their qualification recognised by the ASAR, they must be classified at and paid no less than as a Sonographer Grade 3.
 
-**5.2** The Employer will not unreasonably withhold its agreement that this clause 5 of Section D of this Appendix 4 will apply to another classification under this Agreement.
+**5.2** The Employer will not unreasonably withhold its agreement that this clause 5 of Section D of this [Appendix 4](/ebas/[clause 5](/ebas/allied-health/preliminary/5-incidence-coverage)ealth/preliminary/4-definitions) will apply to another classification under this Agreement.
 
 ---
 
 #### 6. Higher Qualifications Allowance
 
-**6.1** A postgraduate Sonography qualification is an additional post graduate qualification for the purpose of clause 35 (Higher Qualifications Allowance) and will attract the Higher Qualifications Allowance, for those employees who have as a base qualification a Bachelor of Applied Science (Medical Radiations), a Bachelor of Medical Radiation Science, a base qualification that would classify an Employee as a Medical Imaging Technologist (Radiographer), Cardiac Technologist (Cardiac Physiologist), Nuclear Medicine Technologist or an equivalent base qualification accepted by the Employer.
+**6.1** A postgraduate Sonography qualification is an additional post graduate qualification for the purpose of [clause 35](/ebas/allied-health/allowances/35-higher-qualifications-allowance) (Higher Qualifications Allowance) and will attract the Higher Qualifications Allowance, for those employees who have as a base qualification a Bachelor of Applied Science (Medical Radiations), a Bachelor of Medical Radiation Science, a base qualification that would classify an Employee as a Medical Imaging Technologist (Radiographer), Cardiac Technologist (Cardiac Physiologist), Nuclear Medicine Technologist or an equivalent base qualification accepted by the Employer.
 
-**6.2** For the purpose of this clause 6 of Section D of this Appendix 4 the Employer will not unreasonably withhold its acceptance of another base qualification as being equivalent.
+**6.2** For the purpose of this clause 6 of Section D of this [Appendix 4](/ebas/[clause 6](/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation)ealth/preliminary/4-definitions) the Employer will not unreasonably withhold its acceptance of another base qualification as being equivalent.
 
-**6.3** A Sonographer who received the Higher Qualification Allowance in subclause 30.4 in the 2011 Agreement prior to 31 October 2014 will continue to receive the Higher Qualification Allowance.
+**6.3** A Sonographer who received the Higher Qualification Allowance in [subclause 30.4](/ebas/allied-health/wages/30-superannuation) in the 2011 Agreement prior to 31 October 2014 will continue to receive the Higher Qualification Allowance.
 
 ## Schedule 1 – Entry Requirements for AHP1 Classifications
 
@@ -632,7 +632,7 @@ Advanced Practice is:
 
 #### 2. Application of this Schedule
 
-This Schedule 4 of Appendix 4 applies to all AHP1 Classifications, save that a Sonographer cannot be employed at Grade 3A as a qualified Sonographer is classified at Grade 3 or above.
+This Schedule 4 of [Appendix 4](/ebas/allied-health/preliminary/4-definitions) applies to all AHP1 Classifications, save that a Sonographer cannot be employed at Grade 3A as a qualified Sonographer is classified at Grade 3 or above.
 
 ---
 
@@ -676,7 +676,7 @@ Indicative responsibilities of a Grade 4 Employee performing Advanced Practice w
 
 **5.1** Grade 1 Employees cannot perform Advanced Practice work or undertake training in Advanced Practice.
 
-**5.2** Grade 2 Employees cannot undertake Advanced Practice training, except in the circumstance specified in subclause 5.3 of Schedule 4 of this Appendix 4 below. Grade 2 Employees cannot perform Advanced Practice work, except in the circumstance specified in subclauses 5.4, 5.5 and 5.6 of Schedule 4 of this Appendix 4 below.
+**5.2** Grade 2 Employees cannot undertake Advanced Practice training, except in the circumstance specified in subclause 5.3 of Schedule 4 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) be[subclause 5.3](/ebas/allied-health/preliminary/5-incidence-coverage)Employees cannot perform Advanced Practice work, except in the circumstance specified in subclauses 5.4, 5.5 and 5.6 of Schedule 4 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) below.
 
 **5.3** Experienced Grade 2 Employees may undertake training in Advanced Practice as part of a professional development pathway to Advanced Practice. All such training must occur under direct and structured supervision, consistent with and appropriate to the training being undertaken, by an appropriately trained and credentialed Advanced Practitioner or other suitably trained and qualified health professional. A Grade 2 Employee can only undertake Advanced Practice training where there is written agreement between the Employer and the Employee that sets out:
 
@@ -686,7 +686,7 @@ Indicative responsibilities of a Grade 4 Employee performing Advanced Practice w
 - **(d)** supervisory, oversight and monitoring arrangements; and
 - **(e)** the anticipated use of the skill once credentialed (for example, participating in a particular type of clinic or exercising a particular skill).
 
-Where the Employee has achieved competency in the advanced practice area in which they have been undertaking training, the Employer must credential them. Where the Employee performs the Advanced Practice work after being credentialed they will be paid and classified at the relevant Advanced Practice level as set out in this Agreement at subclause 5.4 of Schedule 4 of this Appendix 4, except where they meet the requirements of AHP1 Grade 3 or 4, in which case they will be classified at AHP1 Grade 3 or 4.
+Where the Employee has achieved competency in the advanced practice area in which they have been undertaking training, the Employer must credential them. Where the Employee performs the Advanced Practice work after being credentialed they will be paid and classified at the relevant Advanced Practice level as set out in this Agreement at subclause 5.4 of Schedule 4 of this [Appendix 4]([subclause 5.4](/ebas/allied-health/preliminary/5-incidence-coverage)health/preliminary/4-definitions), except where they meet the requirements of AHP1 Grade 3 or 4, in which case they will be classified at AHP1 Grade 3 or 4.
 
 **5.4** A Grade 2 Employee whose role requires them to perform Advanced Practice work will be reclassified as a full-time or part-time Grade 3A Advanced Practitioner on an ongoing basis. Such an Employee must:
 
@@ -703,11 +703,11 @@ Where the Employee has achieved competency in the advanced practice area in whic
 **5.5** Where a Grade 3A Advanced Practitioner performs Advanced Practice work in a clinic setting:
 
 - **(a)** it is acknowledged that such clinics involve diagnostic, clinical and administrative tasks; and
-- **(b)** for the purpose of determining whether the amount of Advanced Practice work performed does not exceed 15.2 hours (see subclause 5.4(d) of Schedule 4 of this Appendix 4), each clinic will be treated as the greater of:
+- **(b)** for the purpose of determining whether the amount of Advanced Practice work performed does not exceed 15.2 hours (see subclause 5.4(d) of Schedule 4 of this [Appendix [subclause 5.4(d)](/ebas/allied-health/preliminary/5-incidence-coverage)health/preliminary/4-definitions)), each clinic will be treated as the greater of:
   - **(i)** half a day (3.8 hours); or
   - **(ii)** the length of time spent undertaking the clinic and all tasks associated with the clinic, including those referred to in subclause 5.5(a) of Schedule 4 of this Appendix 4.
 
-**5.6** A Grade 3A Advanced Practitioner will not perform Advanced Practice work on more than three (3) days per week. Where a Grade 3A Advanced Practitioner regularly performs Advanced Practice work on more than three (3) days per week and this is likely to continue, the Employee may seek reclassification in accordance with clause 86 (Classification and Reclassification). In determining a request for reclassification, the Employer will reclassify the Employee to Grade 3 or 4 (whichever is appropriate) where the Employee regularly performs Advanced Practice work on more than three (3) days per week and this is likely to continue.
+**5.6** A Grade 3A Advanced Practitioner will not perform Advanced Practice work on more than three (3) days per week. Where a Grade 3A Advanced Practitioner regularly performs Advanced Practice work on more than three (3) days per week and this is likely to continue, the Employee may seek reclassification in accordance with [clause 86](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) (Classification and Reclassification). In determining a request for reclassification, the Employer will reclassify the Employee to Grade 3 or 4 (whichever is appropriate) where the Employee regularly performs Advanced Practice work on more than three (3) days per week and this is likely to continue.
 
 **5.7** Employees undertaking Advanced Practice training and Employees who have completed credentialing in Advanced Practice will be considered for available Advanced Practice roles.
 
@@ -856,7 +856,7 @@ An employee (however titled) carrying out Community Development Work in the foll
 **4.3 Qualified Community Development Worker**
 
 - **(a)** An employee performing Community Development Work who holds a post-secondary qualification in Community Work, Community Education Multicultural or Ethnic Studies, Aboriginal Studies, Urban Studies, Community or Welfare Administration (all however titled) or a related and relevant post secondary qualification from a post-secondary educational institution.
-- **(b)** For the purposes of this subclause 4.3 of Section E of this Appendix 4, post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
+- **(b)** For the purposes of this subclause 4.3 of Section E of this [Appendix 4](/[subclause 4.3](/ebas/allied-health/preliminary/4-definitions)ealth/preliminary/4-definitions), post-secondary qualifications in Social Work, Welfare Work and Youth Work (however titled) are recognised as relevant qualifications.
 - **(c)** An Employee may, through practical experience and skills in Community Development Work, or related areas of employment, be recognised by notice in writing by the Employer as coming within the scope of this definition.
 - **(d)** An Indigenous Community Worker who has participated in relevant short courses of training in the practical skills of community development work is deemed to be a Qualified Community Development Worker when engaged in Community Development Work with or within 'Indigenous Community'.
 
@@ -885,9 +885,9 @@ An employee performing Community Development Work who is not a Qualified Communi
 - **(a)** An employee who is performing Community Development Work and who is not working under the direct supervision of a more experienced Community Development Worker and includes a sole Community Development Worker employed in a workplace or one who has unsupervised administrative responsibilities.
 - **(b)** A Qualified Community Development Worker cannot be supervised by a less experienced Unqualified or Qualified Community Development Worker and must be paid as a class II Community Development Worker at the appropriate qualification level (as defined).
 - **(c)** An Unqualified Community Development Worker working without direct supervision will commence at the class II(a), year 1 rate.
-- **(d)** A Qualified Welfare Worker (as defined in subclause 10.2 of Section E of this Appendix 4) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 3 rate.
-- **(e)** An Indigenous Community Development Worker working without direct supervision will commence at not less than the class II(a), year 3 rate. If an Indigenous Community Development Worker possesses a qualification (as defined in subclause 4.3 of Section E of this Appendix 4) they will commence at a level not less than that defined for the qualification possessed.
-- **(f)** A Qualified Youth Worker (as defined in subclause 11.2 of Section E of this Appendix 4) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 5 rate.
+- **(d)** A Qualified Welfare Worker (as defined in subclause 10.2 of Section E of this [Appendix 4]([subclause 10.2](/ebas/allied-health/preliminary/10-anti-discrimination)ealth/preliminary/4-definitions)) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 3 rate.
+- **(e)** An Indigenous Community Development Worker working without direct supervision will commence at not less than the class II(a), year 3 rate. If an Indigenous Community Development Worker possesses a qualification (as defined in subclause 4.3 of Section E of this [Appendix 4](/[subclause 4.3](/ebas/allied-health/preliminary/4-definitions)ealth/preliminary/4-definitions)) they will commence at a level not less than that defined for the qualification possessed.
+- **(f)** A Qualified Youth Worker (as defined in subclause 11.2 of Section E of this [Appendix 4]([subclause 11.2](/ebas/allied-health/preliminary/11-transfer-of-business)ealth/preliminary/4-definitions)) performing Community Development Work without direct supervision will commence at not less than the class II(a), year 5 rate.
 - **(g)** A sole Community Development Worker employed in a workplace or a Community Development Worker performing outreach Community Development Work will commence at not less than the class II(a), year 5 rate.
 - **(h)** The commencing rate for a financial counsellor performing Community Development Work will be not less than class II(a), year 5.
 - **(i)** The commencing rate for a tenant worker performing Community Development Work will be not less than class II(a), year 5.
@@ -902,7 +902,7 @@ An employee performing Community Development Work who is not a Qualified Communi
 
 **4.8 Community Development Worker Class IIAB (2AB)**
 
-A Community Development Worker Class IIA (2A), Years 1 to 11, who translates to Health Professional Employee Level 2 (see Schedule 5 of this Appendix 4) Pay Points 1 to 4 under the Award will translate to Community Development Worker Class IIAB (2AB) in accordance with the following table:
+A Community Development Worker Class IIA (2A), Years 1 to 11, who translates to Health Professional Employee Level 2 (see Schedule 5 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) Pay Points 1 to 4 under the Award will translate to Community Development Worker Class IIAB (2AB) in accordance with the following table:
 
 | **2020 Agreement** | **Award Health Professional Employee Level 2 Pay Point** | **This Agreement** |
 | --- | --- | --- |
@@ -925,7 +925,7 @@ A Community Development Worker Class IIA (2A), Years 1 to 11, who translates to 
 
 **4.10 Yearly increments for Community Development Workers**
 
-For the purposes of clause 4 of this Section E of Appendix 4, yearly increments are based on years of full-time practical experience or service, or part-time equivalent in the performance of community development work.
+For the purposes of clause 4 of this Section E of [Appendix 4](/ebas/[clause 4](/ebas/allied-health/preliminary/4-definitions)ealth/preliminary/4-definitions), yearly increments are based on years of full-time practical experience or service, or part-time equivalent in the performance of community development work.
 
 ---
 
@@ -1063,7 +1063,7 @@ A Qualified Welfare Worker, who is required to undertake some administrative res
 
 **10.6 Welfare Worker Class IIA (2A)**
 
-A Welfare Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Welfare Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Welfare Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Welfare Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) under the Award.
 
 **10.7 Welfare Worker Class III (3)**
 
@@ -1071,30 +1071,30 @@ A Qualified Welfare Worker who is required to:
 
 - **(a)** take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
 - **(b)** a Welfare Worker who acts as a Deputy to a Welfare Worker Class IV;
-- **(c)** a Welfare Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Welfare Worker employed under subclause 10.7(a) of Section E of this Appendix 4.
+- **(c)** a Welfare Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Welfare Worker employed under subclause 10.7(a) of Section E of this [Appendix [subclause 10.7(a)](/ebas/allied-health/preliminary/10-anti-discrimination)ealth/preliminary/4-definitions).
 
 **10.8 Welfare Worker Class IIIA (3A)**
 
-A Welfare Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Welfare Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Welfare Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Welfare Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) under the Award.
 
 **10.9 Welfare Worker Class IV (4)**
 
 A Qualified Welfare Worker who is required to undertake senior administrative responsibilities including:
 
 - **(a)** a Welfare Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- **(b)** any Welfare Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Welfare Worker employed under subclause 10.9(a)(i) of Section E of this Appendix 4.
+- **(b)** any Welfare Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Welfare Worker employed under subclause 10.9(a)(i) of Section E of this [Append[subclause 10.9(a)(i)](/ebas/allied-health/preliminary/10-anti-discrimination)ealth/preliminary/4-definitions).
 
 **10.10 Welfare Worker Class IVA (4A)**
 
-A Welfare Worker Class IVA (4A) is an employee who, in addition to meeting the relevant requirement to be classified at Welfare Worker Class IV (4), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Welfare Worker Class IVA (4A) is an employee who, in addition to meeting the relevant requirement to be classified at Welfare Worker Class IV (4), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) under the Award.
 
 **10.11 Overlapping Pay Points Between Classes**
 
-See subclause 85.8.
+See [subclause 85.8](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages).
 
 **10.12 Increments for Welfare Workers**
 
-For the purposes of clause 10 of this Section E of Appendix 4 (Welfare Workers), yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of welfare work.
+For the purposes of clause 10 of this Section E of [Appendix 4](/ebas[clause 10](/ebas/allied-health/preliminary/10-anti-discrimination)ealth/preliminary/4-definitions) (Welfare Workers), yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of welfare work.
 
 ---
 
@@ -1132,7 +1132,7 @@ A Qualified Youth Worker, who is required to undertake some administrative respo
 
 **11.5 Youth Worker Class IIA (2A)**
 
-A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Youth Worker Class IIA (2A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class II (2), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) under the Award.
 
 **11.6 Youth Worker Class III (3)**
 
@@ -1140,26 +1140,26 @@ A Qualified Youth Worker who is required to:
 
 - **(a)** take charge of an Agency or Department with a staff of more than three (3) and up to seven (7) Employees covered by the Agreement, or with a staff of at least two (2) Employees covered by the Agreement, plus other Employees totalling 12 in number, who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
 - **(b)** a Youth Worker who acts as a Deputy to a Youth Worker Class IV;
-- **(c)** a Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 11.6(a) of Section E of this Appendix 4.
+- **(c)** a Youth Worker in a position which requires special skill and experience and where the responsibilities are mutually agreed by the Employer and Employee to be equal to those of a Youth Worker employed under subclause 11.6(a) of Section E of this [Appendix [subclause 11.6(a)](/ebas/allied-health/preliminary/11-transfer-of-business)ealth/preliminary/4-definitions).
 
 **11.7 Youth Worker Class IIIA (3A)**
 
-A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this Appendix 4) under the Award.
+A Youth Worker Class IIIA (3A) is an employee who, in addition to meeting the relevant requirement to be classified at Youth Worker Class III (3), would be classified as a Health Professional Employee Level 3 (see Schedule 5 of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)) under the Award.
 
 **11.8 Youth Worker Class IV (4)**
 
 A Qualified Youth Worker who is required to undertake senior administrative responsibilities including:
 
 - **(a)** a Youth Worker in charge of an Agency or Department with a staff of eight (8) or more Employees covered by the Agreement, or with a staff of at least six (6) Employees covered by the Agreement, plus other employees totalling at least 13 in number who are employed by the Employer on a regular monthly contract of employment of at least the normal full-time ordinary hours or EFT of such Agency or Department;
-- **(b)** any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under subclause 11.8(a)(i) of Section E of this Appendix 4.
+- **(b)** any Youth Worker employed in a position the responsibilities of which are mutually agreed by the Employer and the Employee to be equal to those of a Youth Worker employed under subclause 11.8(a)(i) of Section E of this [Append[subclause 11.8(a)(i)](/ebas/allied-health/preliminary/11-transfer-of-business)ealth/preliminary/4-definitions).
 
 **11.9 Overlapping Pay Points Between Classes**
 
-See subclause 85.8.
+See [subclause 85.8](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages).
 
 **11.10 Increments for Youth Workers**
 
-For the purposes of clause 11 of this Section E of this Appendix 4, yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
+For the purposes of clause 11 of this Section E of this [Appendix 4]([clause 11](/ebas/allied-health/preliminary/11-transfer-of-business)ied-health/preliminary/4-definitions), yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
 
 ### Additional AHP2 Classification Descriptors – Peter MacCallum Cancer Institute Only
 
@@ -1326,7 +1326,7 @@ The following pay rates will be payable to a Trainee (Research Scientist) that i
 
   The Employer will not unreasonably withhold its agreement that another qualification is appropriate or is equivalent to a Bachelor of Science Degree or other science degree.
 
-- **(b)** Definitions — In this clause 14 of Section E of this Appendix 4:
+- **(b)** Definitions — In this clause 14 of Section E of this [Appendix 4](/ebas[clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)ealth/preliminary/4-definitions):
   - **(i)** a three (3) year undergraduate qualification or four (4) year undergraduate qualification means a qualification assessed as a Bachelor Degree (or equivalent) under the Australian Qualifications Framework level 7 criteria;
   - **(ii)** a Bachelor Honours Degree means a qualification assessed as a Bachelor Honours Degree (or equivalent) under the Australian Qualifications Framework level 8 criteria;
   - **(iii)** a Masters Degree means a qualification assessed as a Masters Degree (or equivalent) under the Australian Qualifications Framework level 9 criteria; and

@@ -209,7 +209,7 @@ This Schedule is arranged as follows:
 #### 2.5 Food Monitor
 
 - **(a)** An Employee responsible to a catering and/or dietary department whose primary function is to liaise with patients and staff to obtain appropriate meal requirements of patients, and to tally and collate the overall results for the catering and/or dietary department.
-- **(b)** Notwithstanding the provisions of clause 163 (Higher Duties), when the above duties are incidental to other duties performed, higher duties rates shall only apply when the above duties are performed for two hours or more in any day.
+- **(b)** Notwithstanding the provisions of [clause 163](/ebas/mental-health/support-services/preliminary/163-higher-duties) (Higher Duties), when the above duties are incidental to other duties performed, higher duties rates shall only apply when the above duties are performed for two hours or more in any day.
 
 #### 2.6 Food Services Supervisor
 
@@ -260,7 +260,7 @@ This Schedule is arranged as follows:
 ## Part 3: Patient Services Assistant Structure
 
 - **(a)** A Patient Services Assistant (PSA) is a multi-skilled Employee; the majority of whose work is ward based in an acute setting or community health centre. The work of PSAs involves the performance of duties across three or more functional areas of patient support services. PSAs are essentially ward based. PSAs will be encouraged to undertake training, which may include further training to enable them to obtain the certificate or equivalent for career development.
-- **(b)** Notwithstanding Schedule 6 above, PSAs are not precluded from undertaking non-ward functions and duties. Employees whose jobs involve casual or irregular ward-based duties, or where their presence on a ward is a minor aspect of their role, are not performing PSA work.
+- **(b)** Notwithstanding [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3) above, PSAs are not precluded from undertaking non-ward functions and duties. Employees whose jobs involve casual or irregular ward-based duties, or where their presence on a ward is a minor aspect of their role, are not performing PSA work.
 - **(c)** The functional areas covered by PSAs are as follows:
 
 | Function | Duties |
@@ -272,10 +272,10 @@ This Schedule is arranged as follows:
 | **Patient Support** | Assist in the lifting and turning of patients (including into and out of wheel chairs and trolleys); assist in lifting and positioning of patients in bed, including by machinery; assist with patient facial shaves and pre-operative shaves; assist in the transportation of ambulance patients |
 
 - **(d)** For the purposes of this definition, ward-based work includes Employees providing patient support services in areas such as outpatient, x-ray, catheter laboratory, nuclear medicine, dialysis and other areas providing patient support services consistent with the functions and duties described in subclause **(c)** above.
-- **(e)** The functions listed in Schedule 6, subclause **(c)** above are intended to be comprehensive. The listed duties are intended to be indicative, not comprehensive.
+- **(e)** The functions listed in [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3), subclause **(c)** above are intended to be comprehensive. The listed duties are intended to be indicative, not comprehensive.
 - **(f)** In determining the number of functions to be completed by a PSA, it will not be necessary for a PSA to perform any particular number of duties identified as falling within each functional area.
 - **(g)** In considering the duties that constitute a function, there must be the inclusion of sufficient duties relevant to the function such that the work in question is an integral and significant part of that function within the operations of the ward. While additional duties may be included, the inclusion of an additional duty or duties does not necessarily equate to an additional function, unless the extra duties constitute a regular part of a shift, or period of work.
-- **(h)** Not all PSAs will be expected to perform all of the functions listed in Schedule 6. PSAs at the Grade 2 level will perform four or more functions, and PSAs at the Grade 1 level will perform three functions.
+- **(h)** Not all PSAs will be expected to perform all of the functions listed in [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3). PSAs at the Grade 2 level will perform four or more functions, and PSAs at the Grade 1 level will perform three functions.
 
 ### 3.2 Patient Services Assistant Grade 1
 

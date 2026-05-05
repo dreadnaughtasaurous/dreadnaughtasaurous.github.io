@@ -10,7 +10,7 @@ topics: ['schedules', 'classifications', 'hospital-specific']
 
 - **(a)** A Medical Scientist (Scientist) Grade 1 Year 7 may request assessment by their manager before the end of their 7th year to determine whether the Scientist is eligible for progression to a Scientist Grade 2 in accordance with this clause. It remains the responsibility of each Scientist's manager to ensure the appropriate assessment described in this clause is undertaken before the end of the 7th year of each Grade 1 Scientist.
 
-- **(b)** If a Grade 1 Year 7 Scientist is not assessed in accordance with this clause as a result of a manager's inaction, they will be deemed to be competent in accordance with subclause 1(d) below and reclassified to Grade 2.
+- **(b)** If a Grade 1 Year 7 Scientist is not assessed in accordance with this clause as a result of a manager's inaction, they will be deemed to be competent in accordance with [subclause 1(d)](/ebas/mspp/schedules/1-employer-parties) below and reclassified to Grade 2.
 
 - **(c)** When assessing a Scientist Grade 1 Year 7 for progression to Grade 2 the criteria set out below will be applied. These criteria are intended to provide a method of quick, accurate and fair assessment of the experience and competence of each Scientist at this Grade and pay level.
 
@@ -20,7 +20,7 @@ topics: ['schedules', 'classifications', 'hospital-specific']
 
 - **(f)** A Scientist must demonstrate they have acquired special knowledge or depth of experience and/or is able to apply a level of performance worthy of additional remuneration. A Scientist who satisfies this criterion will progress to Grade 2.
 
-- **(g)** Indicators of meeting the criterion in subclause 1(f) include at least four of the following:
+- **(g)** Indicators of meeting the criterion in [subclause 1(f)](/ebas/mspp/schedules/1-employer-parties) include at least four of the following:
 
   - **(i)** Demonstrated experience and competence to make independent analytical decisions in the performance and understanding of a wide range of diagnostic tests or procedures or of complex and/or specialised tests;
   - **(ii)** Demonstrated ability in giving professional advice within and outside the laboratory on appropriate scientific/clinical matters;
@@ -33,7 +33,7 @@ topics: ['schedules', 'classifications', 'hospital-specific']
 
 - **(h)** The assessment of a Scientist under this clause will be conducted in consultation with the scientist concerned, their manager and Group Leader.
 
-- **(i)** If a Scientist does not meet the progression criterion referred to in subclause 1(f) of this clause, they will be given written reason/s as to why and offered an opportunity to be re-assessed 3 months after the date of the first assessment. If the Scientist does not meet the criterion after the second assessment they can make an application and will be assessed in the following year.
+- **(i)** If a Scientist does not meet the progression criterion referred to in [subclause 1(f)](/ebas/mspp/schedules/1-employer-parties) of this clause, they will be given written reason/s as to why and offered an opportunity to be re-assessed 3 months after the date of the first assessment. If the Scientist does not meet the criterion after the second assessment they can make an application and will be assessed in the following year.
 
 - **(j)** When a Scientist is assessed as competent to progress to Grade 2, the new grading will be confirmed in writing to them.
 

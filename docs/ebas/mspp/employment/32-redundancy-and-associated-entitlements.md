@@ -74,6 +74,6 @@ This clause is arranged as follows:
 **32.7 Severance Pay Exceptions**
 
 *   **(a)** Severance pay does not apply if the Employer secures a comparable role with **another Employer** covered by this Agreement, provided it meets Reasonable Distance and continuity of service requirements.
-*   **(c) Schedules:** See [Schedule 8](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp) and Schedule 12 for specific Employer variations.
+*   **(c) Schedules:** See [Schedule 8](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp) and [Schedule 12](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl) for specific Employer variations.
 
 Plain language terms: redundancy pay, retrenchment.

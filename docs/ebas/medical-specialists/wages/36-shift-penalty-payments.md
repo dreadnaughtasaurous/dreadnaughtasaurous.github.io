@@ -8,7 +8,7 @@ topics: ['hours', 'shift-work']
 
 **36.1** For ordinary hours worked between the following times, payment will be made at the rates set out at Part 1 of [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) of the Agreement, plus the appropriate shift penalty payment set out in Part 3 of [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) which have been calculated based on the following:
 
-| Shift | Percentage of Applicable Rate in Part 1 of Appendix 2 |
+| Shift | Percentage of Applicable Rate in Part 1 of [Appendix 2](/ebas/medical-specialists/preliminary/2-arrangement) |
 |-------|-------------------------------------------------------|
 | Monday to Friday, between 6.00pm and midnight | 25% |
 | Monday to Friday, between midnight and 7:00am the following day | 75% |

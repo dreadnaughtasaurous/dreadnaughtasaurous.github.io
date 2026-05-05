@@ -11,7 +11,7 @@ topics: ['hours', 'overtime', 'shift-work', 'rosters']
 - **(a)** An Employee shall either be supplied with a meal or be paid an allowance as specified in [subclause 39.1(b)](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call) where the Employee works:
   - **(i)** more than one hour of overtime after the end of a rostered shift; or
   - **(ii)** more than two hours of overtime when they have been recalled to duty outside of usual working hours and when the time of such recall coincides with or over-runs normal hospital meal times.
-- **(b)** The meal allowance shall be paid in accordance with the rates set out in Appendix 2.
+- **(b)** The meal allowance shall be paid in accordance with the rates set out in [Appendix 2](/ebas/biomedical-engineers/preliminary/2-index).
 
 **39.2** On-call Allowance An Employee rostered to be on-call (pursuant to [subclause 44.1](/ebas/biomedical-engineers/hours-of-work/44-rosters)) shall be paid the on-call allowance outlined in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) in respect of any 12 hour period or part thereof during which the Employee is on-call.
 

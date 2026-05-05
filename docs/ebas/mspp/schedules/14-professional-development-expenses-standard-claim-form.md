@@ -58,7 +58,7 @@ CHECK LIST (please tick)
 
 I declare that:
 
-- ☐ I am entitled to make a claim for reimbursement of reasonable and necessarily incurred Professional Development expenses in accordance with the provisions outlined in clause 75 of the *Victorian Public Health Sector (Medical Scientists, Pharmacists and Psychologists) Single Interest Enterprise Agreement 2021 - 2025*
+- ☐ I am entitled to make a claim for reimbursement of reasonable and necessarily incurred Professional Development expenses in accordance with the provisions outlined in [clause 75](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave) of the *Victorian Public Health Sector (Medical Scientists, Pharmacists and Psychologists) Single Interest Enterprise Agreement 2021 - 2025*
 
 - ☐ I have not already claimed reimbursement of these costs with this or another Victorian Health Service
 

@@ -68,7 +68,7 @@ Intern Medical Imaging Technologist (Radiographer), Nuclear Medicine Technologis
 - **(a)** Upon the Agreement commencing operation:
     - **(i)** the number of Years (increments) in AHP1 Grade 1 will be reduced from seven (7) to five (5); and
     - **(ii)** Dental Prosthetist will cease being an AHP2 classification and become an AHP1 classification.
-- **(b)** Translation arrangements for the changes in [subclause 85.11(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) are in Appendix 2 Part B and Part C of this Agreement.
+- **(b)** Translation arrangements for the changes in [subclause 85.11(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) are in [Appendix 2](/ebas/allied-health/preliminary/2-arrangement) Part B and Part C of this Agreement.
 
 **85.12 Definitions** 
 

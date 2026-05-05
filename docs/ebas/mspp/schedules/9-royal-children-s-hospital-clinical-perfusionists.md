@@ -13,7 +13,7 @@ This Schedule Agreement applies only to Clinical Perfusionists employed by the R
 Clinical Perfusionists employed by the Royal Children's Hospital:
 
 - **(a)** will be covered by this Schedule; and
-- **(b)** will be covered by this Agreement, save for the following provisions: clauses 55 (Hours of Work), 57 (Rosters), 59 (Overtime), 60 (On Call-Recall), 56 (Shift Work), 80 (Public Holidays), 86 (Travelling Transport and Fares), 91 (Child Care Costs) and 61.10 (Annual Leave Loading).
+- **(b)** will be covered by this Agreement, save for the following provisions: [clauses 55](/ebas/mspp/hours-of-work/55-hours-of-work) (Hours of Work), 57 (Rosters), 59 (Overtime), 60 (On Call-Recall), 56 (Shift Work), 80 (Public Holidays), 86 (Travelling Transport and Fares), 91 (Child Care Costs) and 61.10 (Annual Leave Loading).
 
 ## 2. Replacement of Positions
 
@@ -59,7 +59,7 @@ Where work is performed in excess of 38 hours per week between 7.00 pm Friday an
 
 ## 6. Public Holidays
 
-- **(a)** An Employee who works on a public holiday (as specified in clause 80) which falls on a weekend (Saturday or Sunday), will be paid for the time so worked at the rate of time and a half in addition to the weekly wage prescribed herein.
+- **(a)** An Employee who works on a public holiday (as specified in [clause 80](/ebas/mspp/leave/80-public-holidays)) which falls on a weekend (Saturday or Sunday), will be paid for the time so worked at the rate of time and a half in addition to the weekly wage prescribed herein.
 
 - **(b)** For worked performed on public holidays other than those which fall on weekends, the Employee will be paid for the time so worked at the rate of single time in addition to the weekly wage prescribed herein.
 
@@ -75,7 +75,7 @@ Where work is performed in excess of 38 hours per week between 7.00 pm Friday an
 
 ## 8. Annual Leave
 
-- **(a)** Perfusionists who participate fully in the On-call roster such that they are available for duty on ten or more weekends shall be entitled to 38 hours annual leave in addition to the leave prescribed in clause 61 (Annual Leave).
+- **(a)** Perfusionists who participate fully in the On-call roster such that they are available for duty on ten or more weekends shall be entitled to 38 hours annual leave in addition to the leave prescribed in [clause 61](/ebas/mspp/leave/61-annual-leave) (Annual Leave).
 
 - **(b)** An Employee whose annual leave accrual exceeds 7.5 weeks, and deferment of the leave has not been approved in writing by the Employer, the Employee may be directed to be on leave until such time as the Employee's accrual reduces to not more than 7.5 weeks. For the purpose of this clause, the above accrual is the sum of the Employee's entitlement plus the pro-rata leave entitlement.
 

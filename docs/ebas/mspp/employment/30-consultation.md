@@ -54,7 +54,7 @@ Under this [clause 30](/ebas/mspp/employment/30-consultation):
 
 | Step | Action |
 |------|--------|
-| 1 | Employer provides Change Impact Statement and other written material required by subclause 30.4. Employees and/or Union may request any additional information or material relevant to the proposed change. |
+| 1 | Employer provides Change Impact Statement and other written material required by [subclause 30.4](/ebas/mspp/employment/30-consultation). Employees and/or Union may request any additional information or material relevant to the proposed change. |
 | 2 | Written response from Employees and/or Union |
 | 3 | Consultation Meeting/s convened |
 | 4 | Further Employer response (where relevant) |
