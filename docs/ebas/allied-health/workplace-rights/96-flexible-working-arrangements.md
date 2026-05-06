@@ -6,8 +6,6 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 # 96. Flexible Working Arrangements
 
-
-
 **96.1** The Act entitles a specified Employee to request flexible working arrangements in specified circumstances.
 
 **96.2** A specified Employee is a:
@@ -51,5 +49,3 @@ topics: ['employment', 'flexible-work', 'preliminary']
 **96.14** Where an Employee wishes to end a flexible work arrangement in a manner other than as provided in the flexible work arrangements itself, this can occur by agreement between the Employee and the Employer, save that the Employer will not unreasonably withhold agreement.
 
 Plain language terms: flex work, flexible hours, WFH.
-
-

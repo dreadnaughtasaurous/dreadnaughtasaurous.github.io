@@ -6,27 +6,31 @@ topics: ['ohs']
 
 # 64. Fitness For Work
 
-**64.1** Fit for Work
+**64.1 Fit for Work**
+
 - **(a)** The Employer is responsible for providing a workplace that is safe and without risk to health for Employees, so far as is reasonably practicable. This responsibility includes compliance with Occupational Health and Safety legislation.
 - **(b)** Each Employee is responsible for ensuring that they are fit to perform their duties without risk to the safety, health and well-being of themselves and others within the workplace, so far as is reasonably practicable. This responsibility includes compliance with lawful and reasonable measures put in place by the Employer related to Occupational Health and Safety requirements.
 
-**64.2** Addressing concerns about Fitness for Work
+**64.2 Addressing concerns about Fitness for Work**
+
 - **(a)** In the event an Employee’s manager forms a Reasonable Belief as defined at [subclause 64.2(b)](/ebas/allied-health/leave/64-fitness-for-work) below that an Employee is unfit to perform their duties, the Employer will discuss their concerns with the Employee in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
-- **(b)** In this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) Reasonable Belief means a belief a reasonable person would hold based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
-- **(c)** In this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) Treating Medical Practitioner may, where relevant, include a psychologist.
+- **(b)** In this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) **Reasonable Belief** means a belief a reasonable person would hold based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+- **(c)** In this [clause 64](/ebas/allied-health/leave/64-fitness-for-work) **Treating Medical Practitioner** may, where relevant, include a psychologist.
 - **(d)** The Employer will:
   - **(i)** take all reasonable steps to give the Employee an opportunity to address any concerns which are the subject of the Reasonable Belief;
   - **(ii)** inform the Employee of their right to have a representative, including a Union representative, at any time when meeting with the Employer to represent the Employee;
   - **(iii)** genuinely consider the Employee’s response with a view to promoting physical, mental and emotional health so that Employees can safely undertake and sustain work; and
   - **(iv)** take these responses into account in considering whether reasonable adjustments can be made in order that the Employee can safely undertake and sustain work.
 
-**64.3** Treating Medical Practitioner
+**64.3 Treating Medical Practitioner**
+
 - **(a)** Where, after discussion with the Employee, the Employer continues to have a Reasonable Belief that the Employee is unfit to perform the duties, the Employer may request that the Employee consent to the Employer obtaining a report from the Employee’s Treating Medical Practitioner through the Employee regarding the Employee’s fitness for work. Where the Employee consents, the Employee will advise the Employer of the Employee’s Treating Medical Practitioner, and the Employer will provide to the Employee, in writing, the concerns that form the basis of the Reasonable Belief and a copy of all correspondence the Employee can provide to their Employee’s Treating Medical Practitioner requesting a report to address the concerns.
 - **(b)** The Employee will provide a copy of the relevant report to the Employer.
 - **(c)** The Employer and Employee will meet to discuss the relevant report.
 - **(d)** Where the Employee’s Treating Medical Practitioner indicates in the report that the Employee is fit for work this will be accepted by the Employer, except where the Employer continues to have a Reasonable Belief that the Employee is unfit for duty.
 
-**64.4** Independent Medical Examiner (IME)
+**64.4 Independent Medical Examiner (IME)**
+
 - **(a)** Where:
   - **(i)** the Employer continues to have a Reasonable Belief that the Employee is unfit for duty; or
   - **(ii)** Employee does not consent to or provide a report from their Treating Medical Practitioner;  

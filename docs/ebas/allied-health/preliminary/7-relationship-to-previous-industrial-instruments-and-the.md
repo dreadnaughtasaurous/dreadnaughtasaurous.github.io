@@ -13,5 +13,3 @@ topics: ['disputes', 'preliminary']
 **7.3** A dispute or grievance that is being considered pursuant to [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of the 2020 Agreement at the time this Agreement commences operation may continue to be considered pursuant to [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of the 2020 Agreement.
 
 **7.4** This Agreement is not intended to exclude any part of the NES or to provide any entitlement which is detrimental to an Employee’s entitlement under the NES. For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to an Employee.
-
-

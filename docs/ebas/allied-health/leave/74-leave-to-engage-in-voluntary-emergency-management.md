@@ -1,14 +1,14 @@
 ---
-title: '74. Leave To Engage In Voluntary Emergency Management'
+title: '74. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'preliminary']
 ---
 
-# 74. Leave To Engage In Voluntary Emergency Management
+# 74. Leave To Engage In Voluntary Emergency Management Activities
 
-> Activities Note: In this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management), ‘up to’ refers to the total amount of paid leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than two (2) weeks leave. That is where the Employee qualifies in accordance with this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) for two (2) weeks paid leave, the Employer must provide them with two (2) weeks paid leave.
+>**Note:** In this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management), ‘up to’ refers to the total amount of paid leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than two (2) weeks leave. That is where the Employee qualifies in accordance with this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) for two (2) weeks paid leave, the Employer must provide them with two (2) weeks paid leave.
 
-**74.1** Leave to Engage in Voluntary Emergency Management Activities
+**74.1 Leave to Engage in Voluntary Emergency Management Activities**
 
 - **(a)** An Employee who engages in a voluntary emergency management activity with a recognised emergency management body that requests the attendance of the Employee (or where no such request has been made, but it would be reasonable to expect that if the circumstances had permitted the making of such a request, it is likely such a request would have been made) at a time when the Employee would otherwise be required to be at work is entitled to leave for:
   - **(i)** time when the Employee engages in the activity;
@@ -24,7 +24,7 @@ topics: ['leave', 'preliminary']
 - **(e)** The leave under this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) will be paid up to two (2) weeks per calendar year, save that approval of paid leave is subject to the operational requirements of the Employer resulting from any emergency.
 
 > **Example 1:** If the emergency is such that the Employee is required to perform work for their Employer to assist with the emergency under this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) paid leave may not be available.
->
+
 > **Example 2:** An Employee who is a member of the Country Fire Authority is the only Medical Imaging Technologist (Radiographer) at an Employer. As a result of fighting bushfires, residents and other members of the Country Fire Authority have sustained injuries that require medical imaging scans. In this circumstance the Employer may not grant paid leave under this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) as the Employee is required to perform work for their Employer to assist with the emergency.
 
 - **(f)** Nothing in this clause limits the ability of an Employee to be absent from employment for engaging in eligible community service activity in accordance with Division 8 of the Act.

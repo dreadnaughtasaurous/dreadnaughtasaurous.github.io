@@ -6,9 +6,7 @@ topics: ['wages', 'employment', 'preliminary']
 
 # 28B. Top Of Band Payment
 
-
-
-This [clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment) applies to full-time, part-time, fixed term and casual Employees.
+*This [clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment) applies to full-time, part-time, fixed term and casual Employees.*
 
 **28B.1** Employees at the highest increment within their grade/level/class (see [subclause 28B.2](/ebas/allied-health/wages/28B-top-of-band-payment)) will be entitled to a Top of Band Payment calculated as 0.3% of the annual full-time salary for that classification, payable in accordance with the following table:
 
@@ -115,6 +113,4 @@ This [clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment) applies to 
 - **(a)** part-time Employees (including fixed-term Employees who work part-time hours); and
 - **(b)** casual Employees, based on their average ordinary hours over the 6-month period (or lesser period if they have been employed for less than 6-months) immediately prior to the relevant eligibility date.
 
-**28B.4** The full-time Employee (including the amount for fixed-term Employees who work full-time hours) payment amounts have been calculated and are included in [Appendix 3](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments). Skills and Incentive Paym ent
-
-
+**28B.4** The full-time Employee (including the amount for fixed-term Employees who work full-time hours) payment amounts have been calculated and are included in [Appendix 3](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments).

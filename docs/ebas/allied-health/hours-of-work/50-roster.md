@@ -6,7 +6,8 @@ topics: ['hours', 'rosters', 'on-call']
 
 # 50. Roster
 
-**50.1** Posting a Roster
+**50.1 Posting a Roster**
+
 - **(a)** A roster of at least a fortnight setting out:
   - **(i)** hours of duty;
   - **(ii)** on-call requirements;
@@ -17,7 +18,8 @@ topics: ['hours', 'rosters', 'on-call']
   - **(vii)** other such duty as in accordance with this Agreement; will be posted in a place or places to allow an Employee covered by this Agreement to have ready access to the roster while at work, which may include ready electronic access.
 - **(b)** The roster will be posted at least two (2) weeks prior to becoming effective.
 
-**50.2** Altering a roster
+**50.2 Altering a roster**
+
 - **(a)** A roster set in accordance with [subclause 50.1](/ebas/allied-health/hours-of-work/50-roster) will only be altered by the Employer to enable the functions of the Employer to be carried on where another Employee is absent from duty pursuant to:
   - **(i)** the reasons specified at [subclause 62.3(a)(i)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) and (ii) (Personal Leave (including Carer’s Leave));
   - **(ii)** [Clause 67](/ebas/allied-health/leave/67-compassionate-leave) – compassionate leave;

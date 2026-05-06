@@ -6,9 +6,7 @@ topics: ['employment', 'termination']
 
 # 24. Termination Of Employment
 
-
-
-NOTE: this [clause 24](/ebas/allied-health/employment/24-termination-of-employment) only applies to full-time and part-time Employees unless otherwise indicated.
+>**Note:** this [clause 24](/ebas/allied-health/employment/24-termination-of-employment) only applies to full-time and part-time Employees unless otherwise indicated.
 
 **24.1** In the event of termination of employment, four (4) weeks’ written notice must be given by the Employer.
 

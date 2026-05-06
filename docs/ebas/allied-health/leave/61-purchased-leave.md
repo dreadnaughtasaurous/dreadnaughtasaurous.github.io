@@ -6,11 +6,12 @@ topics: ['leave', 'wages', 'employment']
 
 # 61. Purchased Leave
 
-This [clause 61](/ebas/allied-health/leave/61-purchased-leave) does not apply to casual Employees.
+*This [clause 61](/ebas/allied-health/leave/61-purchased-leave) does not apply to casual Employees.*
 
 **61.1** An Employee may apply to purchase up to 20 working days (pro-rated for part- time Employees) additional paid leave in a twelve-month period at ordinary pay. The Employer will not unreasonably withhold approval of an application to purchase leave by an Employee. The additional paid leave is purchased through salary deductions made over the whole year. The amount deducted will correspond with the amount of leave purchased.
 
-> **Example 1:** An Employee who purchases an additional four (4) weeks leave will be paid 48/52 or 92.31% of their ordinary pay throughout the relevant 12 month period.  
+> **Example 1:** An Employee who purchases an additional four (4) weeks leave will be paid 48/52 or 92.31% of their ordinary pay throughout the relevant 12 month period.
+>
 > **Example 2:** An Employee who purchases an additional two (2) weeks leave will be paid 50/52 or 96.15% of their ordinary pay throughout the relevant 12 month period.
 
 **61.2** Purchased Leave may be taken in conjunction with other types of leave.

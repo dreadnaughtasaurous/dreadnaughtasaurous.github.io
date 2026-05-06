@@ -6,9 +6,11 @@ topics: ['ohs', 'preliminary']
 
 # 103. Occupational Violence & Aggression Prevention and Management
 
-**103.1** Prevention and Management of Occupational Violence and Aggression Employees are entitled to be provided a workplace free of occupational violence and aggression (OVA).
+**103.1 Prevention and Management of Occupational Violence and Aggression** 
 
-**103.2** Occupational Violence and Aggression Prevention
+Employees are entitled to be provided a workplace free of occupational violence and aggression (OVA).
+
+**103.2 Occupational Violence and Aggression Prevention**
 
 - **(a)** VHIA, Employers, the Union and Employees support action to end violence and aggression in Victoria’s public health system. This requires an inclusive, integrated approach both at an industry and individual health service level.
 - **(b)** Each Employer will have an action plan, which will be subject to ongoing review, to address occupational violence and aggression.
@@ -30,7 +32,9 @@ topics: ['ohs', 'preliminary']
   - **(v)** other material relevant to the Employer’s program / system for addressing occupational violence and aggression and / or action plan.
 - **(h)** Upon request by the Union, the Employer will invite the Union to attend and participate in meetings of the relevant committee established or convened for the purpose of giving effect to this [clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and).
 
-**103.3** Employers with Existing Policies An Employer who, at the time this Agreement comes into operation, has policies that directly address the prevention and management of occupational violence and aggression will:
+**103.3 Employers with Existing Policies** 
+
+An Employer who, at the time this Agreement comes into operation, has policies that directly address the prevention and management of occupational violence and aggression will:
 
 - **(a)** Regularly (at least every 12 months) review the policy / policies through the occupational health and safety committee(s) (including HSRs) and OHS consultation mechanisms applying at the Employer, with specific consideration to an OHS Risk Management approach, and any relevant plan developed by the Union to prevent violence and aggression;
 - **(b)** ensure that Employees are provided with the policies and are advised of any change;
@@ -40,7 +44,9 @@ topics: ['ohs', 'preliminary']
 
 **103.4** Nothing in this [clause 103](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and) limits an Employer from doing anything to support the reduction and prevention of occupational violence and aggression.
 
-**103.5** Key Principles In developing, reviewing and implementing policies, the following matters will be considered:
+**103.5 Key Principles** 
+
+In developing, reviewing and implementing policies, the following matters will be considered:
 
 - **(a)** security;
 - **(b)** risk identification;
@@ -53,7 +59,7 @@ topics: ['ohs', 'preliminary']
 - **(i)** application across all health disciplines; and
 - **(j)** empowering staff to expect a safe workplace.
 
-**103.6** Continuous Improvement
+**103.6 Continuous Improvement**
 
 - **(a)** The Employer will undertake regular (at least six-monthly) audits of their occupational violence and aggression management strategy, considering any relevant plan developed by the Union to prevent violence and aggression, in consultation with HSRs and clinical care staff.
 - **(b)** The Employer will provide the results of such audits and the action plan to their HSRs and, upon request, Job Representatives, for review and discussion at the Committee or working group referred to at [subclause 103.2(f)](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and).
@@ -62,7 +68,7 @@ topics: ['ohs', 'preliminary']
   - **(ii)** incident reporting systems.
 - **(d)** Employers will continue to review, consult and update their response to occupational violence and aggression to take into account developments that may result in the continued improvement of its response.
 
-**103.7** OVA Reporting
+**103.7 OVA Reporting**
 
 - **(a)** The Employer will make the following information available to the Occupational Health and Safety committee referred to in [subclause 103.2(f)](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and):
   - **(i)** the number of code grey, code black and other alerts relating to risk of violence;

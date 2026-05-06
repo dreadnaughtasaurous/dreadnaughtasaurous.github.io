@@ -8,29 +8,36 @@ topics: ['leave', 'public-holidays', 'preliminary']
 
 **58.1** For the purposes of this [clause 58](/ebas/allied-health/leave/58-public-holidays) Weekend Worker means any Employee who in any one (1) year of employment works a portion of their ordinary hours on a weekend.
 
-**58.2** Entitlement to be absent from employment on a public holiday under the NES
-- **(a)** Employee entitled to be absent on public holiday An Employee is entitled to be absent from their employment on a day or part-day that is a public holiday in the place where the Employee is based for work purposes.
-- **(b)** Reasonable requests to work on public holidays
-  - **(i)** However, the Employer may request an Employee to work on a public holiday if the request is reasonable.
-  - **(ii)** If the Employer requests an Employee to work on a public holiday, the Employee may refuse the request if:  
-    A. the request is not reasonable; or  
-    B. the refusal is reasonable.
-  - **(iii)** In determining whether a request, or a refusal of a request to work on a public holiday is reasonable, the following must be taken into account:  
-    - **A.** the nature of the Employer's workplace or enterprise (including its operational requirements), and the nature of the work performed by the Employee;  
-    - **B.** the Employee's personal circumstances, including family responsibilities;  
-    - **C.** whether the Employee could reasonably expect that the Employer might request work on the public holiday;  
-    - **D.** whether the Employee is entitled to receive overtime payments, penalty rates or other compensation for, or a level of remuneration that reflects an expectation of, work on the public holiday;  
-    - **E.** the type of employment of the Employee (for example, whether full-time, part-time, casual or shiftwork);  
-    - **F.** the amount of notice in advance of the public holiday given by the Employer when making the request;  
-    - **G.** in relation to the refusal of a request - the amount of notice in advance of the public holiday given by the Employee when refusing the request;  
-    - **H.** any other relevant matter.
-- **(c)** Payment for absence on public holiday
-  - **(i)** If, in accordance with the NES, an Employee is absent from their employment on a day or part-day that is a public holiday the Employer must:  
-    - **A.** pay the Employee at the Employee's ordinary time rate of pay for the Employee’s ordinary hours of work on the day or  
-    - **B.** continue to accrue leave on the ordinary hours of work on the day or part day that the Employee is absent from their employment;  
+**58.2 Entitlement to be absent from employment on a public holiday under the NES**
 
-    Note: If the Employee does not have ordinary hours of work on the public holiday, the employee is not entitled to payment under the NES. For example, the Employee is not entitled to payment if the Employee is a casual employee who is not rostered on for the public holiday, or is a part- time employee whose part-time hours do not include the day of the week on which the public holiday occurs.
-  - **(ii)** The provisions of [subclause 58.2(c)(i)](/ebas/allied-health/leave/58-public-holidays) apply where the Employee is absent from their employment for part of their ordinary hours on the day or part-day that is a public holiday.
+**(a) Employee entitled to be absent on public holiday** 
+
+An Employee is entitled to be absent from their employment on a day or part-day that is a public holiday in the place where the Employee is based for work purposes.
+
+**(b) Reasonable requests to work on public holidays**
+
+- **(i)** However, the Employer may request an Employee to work on a public holiday if the request is reasonable.
+- **(ii)** If the Employer requests an Employee to work on a public holiday, the Employee may refuse the request if:  
+  A. the request is not reasonable; or  
+  B. the refusal is reasonable.
+- **(iii)** In determining whether a request, or a refusal of a request to work on a public holiday is reasonable, the following must be taken into account:  
+  - **A.** the nature of the Employer's workplace or enterprise (including its operational requirements), and the nature of the work performed by the Employee;  
+  - **B.** the Employee's personal circumstances, including family responsibilities;  
+  - **C.** whether the Employee could reasonably expect that the Employer might request work on the public holiday;  
+  - **D.** whether the Employee is entitled to receive overtime payments, penalty rates or other compensation for, or a level of remuneration that reflects an expectation of, work on the public holiday;  
+  - **E.** the type of employment of the Employee (for example, whether full-time, part-time, casual or shiftwork);  
+  - **F.** the amount of notice in advance of the public holiday given by the Employer when making the request;  
+  - **G.** in relation to the refusal of a request - the amount of notice in advance of the public holiday given by the Employee when refusing the request;  
+  - **H.** any other relevant matter.
+
+**(c) Payment for absence on public holiday**
+
+- **(i)** If, in accordance with the NES, an Employee is absent from their employment on a day or part-day that is a public holiday the Employer must:  
+  - **A.** pay the Employee at the Employee's ordinary time rate of pay for the Employee’s ordinary hours of work on the day or  
+  - **B.** continue to accrue leave on the ordinary hours of work on the day or part day that the Employee is absent from their employment;  
+
+  >**Note:** If the Employee does not have ordinary hours of work on the public holiday, the employee is not entitled to payment under the NES. For example, the Employee is not entitled to payment if the Employee is a casual employee who is not rostered on for the public holiday, or is a part- time employee whose part-time hours do not include the day of the week on which the public holiday occurs.
+- **(ii)** The provisions of [subclause 58.2(c)(i)](/ebas/allied-health/leave/58-public-holidays) apply where the Employee is absent from their employment for part of their ordinary hours on the day or part-day that is a public holiday.
 
 > **Example 1:**  
 > A part-time Employee is requested to work four (4) ordinary hours on the public holiday. If it was not for the public holiday, the Employee’s ordinary hours would have been eight (8) on the day. The Employee is still entitled to their ordinary time rate of pay for the four (4) ordinary hours the Employee was not requested to work by the Employer. They will also accrue leave on what would have been their eight (8) ordinary hours on the day.
@@ -38,20 +45,25 @@ topics: ['leave', 'public-holidays', 'preliminary']
 > **Example 2:**  
 > A full-time Employee is required to be on-call on the public holiday. If it was not for the public holiday, the Employee’s ordinary hours would have been eight (8) on the day. The Employee is called in to work three (3) hours of overtime during what would have been part of their ordinary hours. The Employee is still entitled to their ordinary time rate of pay for the five (5) ordinary hours the Employee was not recalled to work by the Employer. They will also accrue leave on what would have been their eight (8) ordinary hours on the day.
 
-**58.3** Entitlement
+**58.3 Entitlement**
+
 - **(a)** An Employee will be entitled to holidays on the following days:
   - **(i)** New Year's Day, Good Friday, Easter Saturday, Easter Monday, Christmas Day and Boxing Day; and
   - **(ii)** the following days, as prescribed in the relevant States, Territories and localities: Australia Day, Easter Sunday, Anzac Day, Queen's Birthday, the Friday before the Australian Football League Grand Final, Eight Hour Day or Labour Day; and
   - **(iii)** Melbourne Cup Day or in lieu of Melbourne Cup Day, some other day as determined in a particular locality.
 
-**58.4** Holidays in lieu
+**58.4 Holidays in lieu**
+
 - **(a)** When Christmas Day is a Saturday or a Sunday, a holiday in lieu thereof will be observed on 27 December.
 - **(b)** When Boxing Day is a Saturday or a Sunday, a holiday in lieu thereof will be observed on 28 December.
 - **(c)** When New Year's Day or Australia Day is a Saturday or a Sunday, a holiday in lieu thereof will be observed on the next Monday.
 
-**58.5** Additional days Where public holidays are declared or prescribed on days other than those set out in [subclause 58.3](/ebas/allied-health/leave/58-public-holidays) and [subclause 58.4](/ebas/allied-health/leave/58-public-holidays) above in Victoria or a locality thereof, those days will, as applicable, constitute additional holidays for the purpose of this Agreement.
+**58.5 Additional days** 
 
-**58.6** Substitution of public holidays by agreement
+Where public holidays are declared or prescribed on days other than those set out in [subclause 58.3](/ebas/allied-health/leave/58-public-holidays) and [subclause 58.4](/ebas/allied-health/leave/58-public-holidays) above in Victoria or a locality thereof, those days will, as applicable, constitute additional holidays for the purpose of this Agreement.
+
+**58.6 Substitution of public holidays by agreement**
+
 - **(a)** An Employer and Employee may agree to substitute another day for a day that would otherwise be a public holiday under the NES or this Agreement.
 - **(b)** An Employer and Employee may agree to substitute another part-day for a part- day that would otherwise be a part-day public holiday under the NES or this Agreement.
 - **(c)** Where an Employee requests the substitution of a public holiday under [subclause 58.6(a)](/ebas/allied-health/leave/58-public-holidays) or (b), the Employer will not unreasonably refuse such a request.

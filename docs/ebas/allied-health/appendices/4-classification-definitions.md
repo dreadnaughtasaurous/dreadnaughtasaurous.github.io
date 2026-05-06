@@ -7,35 +7,29 @@ topics: ['appendices', 'classifications']
 # Appendix 4 - Classification Definitions: Allied Health EBA
 
 
-An Employer is not obliged to appoint to each Grade/Level/Class, subject to [subclause 89.5(c)](/ebas/allied-health/classification-staffing/89-supervision-and-management). However, where an Employee meets the requirements of the Grade/Level/Class, the Employer will classify them at that Grade/Level/Class (see [subclause 86.2](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) – Classification and Reclassification). 
+An Employer is not obliged to appoint to each Grade/Level/Class, subject to [subclause 89.5(c)](/ebas/allied-health/classification-staffing/89-supervision-and-management). However, where an Employee meets the requirements of the Grade/Level/Class, the Employer will classify them at that Grade/Level/Class (see [subclause 86.2](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) - Classification and Reclassification). 
 
 This Appendix is arranged as follows:
 
 **General**
 
-Section A – Definitions
+- [Section A – Definitions](#section-a-definitions)
 
 **Allied Health Professional (AHP1)**
 
-Section B – AHP1 Classification Descriptors – General
-
-Section C – AHP1 Classification Descriptors – Radiation Therapy Technologist (Radiation Therapist)
-
-Section D – AHP1 Classification Descriptors – Sonographer
-
-Schedule 1 – Relevant entry requirements for AHP1 Classifications
-
-Schedule 2 – Specific special knowledge or depth of experience examples
-
-Schedule 3 – Health Information Manager (Medical Records Administrator) Specialty Area Examples
-
-Schedule 4 – Advanced Practice Roles Grade 3 and 4
+- [Section B – AHP1 Classification Descriptors – General](#section-b-ahp1-classification-descriptors-general)
+- [Section C – AHP1 Classification Descriptors – Radiation Therapy Technologist (Radiation Therapist)](#section-c-ahp1-classification-descriptors-radiation-therapy-technologist-radiation-therapist)
+- [Section D – AHP1 Classification Descriptors – Sonographer](#section-d-ahp1-classification-descriptors-sonographer)
+- [Schedule 1 – Entry Requirements for AHP1 Classifications](#schedule-1-entry-requirements-for-ahp1-classifications)
+- [Schedule 2 – Specific Special Knowledge or Depth of Experience Examples](#schedule-2-specific-special-knowledge-or-depth-of-experience-examples)
+- [Schedule 3 – Health Information Manager (Medical Records Administrator) Specialty Area Examples](#schedule-3-health-information-manager-medical-records-administrator-speciality-area-examples)
+- [Schedule 4 – Advanced Practice Roles Grade 3 and 4](#schedule-4-advanced-practice-roles-grade-3-and-4)
 
 **Allied Health Professional (AHP2)**
 
-Section E – AHP2 Classification Descriptors
+- [Section E – AHP2 Classification Descriptors](#section-e-ahp2-classification-descriptors)
 
-## Section A – Definitions
+## Section A - Definitions
 
 ### 1. Definitions
 
@@ -99,21 +93,21 @@ In this classification structure, the following terms are defined as follows:
 
 **1.9** **Train** or **Training** is generally understood to be the process of imparting practical professional knowledge.
 
-## Section B – AHP1 Classification Descriptors – General
+## Section B - AHP1 Classification Descriptors - General
 
-### AHP1 Classifications – General
+### AHP1 Classifications - General
 
 #### 1. Application
 
-The AHP1 Classification Descriptors – General apply to all AHP1 Classifications except:
+The AHP1 Classification Descriptors - General apply to all AHP1 Classifications except:
 
 **1.1** Radiation Therapy Technologist (Radiation Therapist) (see Section C of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions)); and
 
-**1.2** Sonographer with respect to Grades 1, 2 and 3 only. The AHP1 Classification Descriptors – General for Grades 4, 5, 6 and 7 apply to Sonographers (see Section D of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) for the Sonographer Grades 1, 2 and 3, and an additional Grade 4 descriptor for Sonographers).
+**1.2** Sonographer with respect to Grades 1, 2 and 3 only. The AHP1 Classification Descriptors - General for Grades 4, 5, 6 and 7 apply to Sonographers (see Section D of this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) for the Sonographer Grades 1, 2 and 3, and an additional Grade 4 descriptor for Sonographers).
 
 ---
 
-#### 2. Intern – Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist only
+#### 2. Intern - Medical Imaging Technologist (Radiographer) and Nuclear Medicine Technologist only
 
 **2.1** This classification applies to Medical Imaging Technologists (MIT) and Nuclear Medicine Technologists (NMT) only.
 
@@ -123,7 +117,7 @@ The AHP1 Classification Descriptors – General apply to all AHP1 Classification
 
 #### 3. Grade 1
 
-##### Grade 1 – General Definition
+##### Grade 1 - General Definition
 
 **3.1** A Grade 1 Employee is an employee who:
 
@@ -140,12 +134,12 @@ The AHP1 Classification Descriptors – General apply to all AHP1 Classification
 - **(c)** work shifts that would attract the night shift allowance; and/or
 - **(d)** be on-call.
 
-**3.4 AHP1 – Grade 1 to Grade 2 progression**
+**3.4 AHP1 - Grade 1 to Grade 2 progression**
 
-- **(a) Progression on anniversary – general**
+- **(a) Progression on anniversary - general**
   - **(i)** Except as provided at subclause 3.4(b) and 3.4(c) of this Appendix 4 Section B, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
   - **(ii)** An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
-- **(b) Progression on anniversary – exception**
+- **(b) Progression on anniversary - exception**
 An Employee as described at subclause 3.4(a) of this [Appendix 4](/ebas/allie[subclause 3.4(a)](/ebas/allied-health/preliminary/3-index)nary/4-definitions) Section B, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
   - **(i)** the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
   - **(ii)** an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
@@ -161,7 +155,7 @@ An Employee as described at subclause 3.4(a) of this [Appendix 4](/ebas/allie[su
 
 #### 4. Grade 2
 
-**4.1 Grade 2 – General Definition (does not apply to MIT)**
+**4.1 Grade 2 - General Definition (does not apply to MIT)**
 
 - **(a)** A Grade 2 Employee is an employee required to undertake additional duties/responsibilities to a Grade 1 Employee, for example:
   - **(i)** supervising and Training students;
@@ -175,7 +169,7 @@ An Employee as described at subclause 3.4(a) of this [Appendix 4](/ebas/allie[su
   - **(ix)** in the case of Play Therapist, research/case studies, and/or client and group program supervision and/or evaluation.
 - **(b)** A Grade 2 Employee also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 3.4 above, meaning they will, if required, undertake the duties in [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 4.1(a) including student supervision and Training, and work independently for the purposes of undertaking night shift and on-call duties.
 
-**4.2 Grade 2 – Medical Imaging Technologist (Radiographer)**
+**4.2 Grade 2 - Medical Imaging Technologist (Radiographer)**
 
 - **(a)** A Grade 2 Medical Imaging Technologist (Radiographer) is an employee who is required to undertake additional responsibilities and/or who has additional experience who demonstrates a degree of competence and ability to work independently and without supervision which reflects a level of continuing education and/or practical expertise. Parameters for this position would include one (1) or more of the following:
   - **(i)** supervising students;
@@ -187,7 +181,7 @@ An Employee as described at subclause 3.4(a) of this [Appendix 4](/ebas/allie[su
   - **(vii)** a Medical Imaging Technologist (Radiographer) who can demonstrate extensive or special knowledge, experience and competence in any of the specialist modalities or areas of additional responsibilities such as computed tomography (CT), digital subtraction angiography (DSA), cardiac angiography, mammography, magnetic resonance imaging (MRI), picture archiving and communication systems (PACS), radiology information system (RIS) or quality assurance activities.
 - **(b)** A Grade 2 Medical Imaging Technologist (Radiographer) also includes an employee who has progressed to Grade 2 from Grade 1 Year 5 in accordance with [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 3.4 above, meaning they will, if required, undertake the duties in [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section B subclause 4.2(a) including student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
 
-**4.3 Grade 2 – General**
+**4.3 Grade 2 - General**
 
 A Grade 2 Employee cannot Teach students.
 
@@ -195,7 +189,7 @@ A Grade 2 Employee cannot Teach students.
 
 #### 5. Grade 3
 
-**5.1 Grade 3 – General Definition**
+**5.1 Grade 3 - General Definition**
 
 A Grade 3 Employee is an employee who:
 
@@ -274,7 +268,7 @@ An Employee in a Grade 3 position performs duties within or across the following
 
 #### 6. Grade 4
 
-**6.1 Grade 4 – General Definition**
+**6.1 Grade 4 - General Definition**
 
 A Grade 4 Employee is an employee who:
 
@@ -364,9 +358,9 @@ A Grade 6 Employee is an employee who is:
 
 A Grade 7 Employee is an employee who is a Director of Allied Health.
 
-## Section C – AHP1 Classification Descriptors – Radiation Therapy Technologist (Radiation Therapist)
+## Section C - AHP1 Classification Descriptors - Radiation Therapy Technologist (Radiation Therapist)
 
-### AHP1 Classification Descriptors – Radiation Therapy Technologist (Radiation Therapist)
+### AHP1 Classification Descriptors - Radiation Therapy Technologist (Radiation Therapist)
 
 #### 1. Intern
 
@@ -385,12 +379,12 @@ An employee who has provisional registration under the National Registration and
 - **(c)** work shifts that would attract the night shift allowance; and/or
 - **(d)** be on-call.
 
-**2.3** Radiation Therapy Technologist (Radiation Therapist) – Grade 1 to Grade 2 progression
+**2.3** Radiation Therapy Technologist (Radiation Therapist) - Grade 1 to Grade 2 progression
 
-- **(a) Progression on anniversary – general**
+- **(a) Progression on anniversary - general**
   - **(i)** Except as provided at subclause 2.3(b) and 2.3(c) of this Appendix 4 Section C, an Employee will be reclassified to Grade 2 on the anniversary date of their commencement in Grade 1, Year 5, that is upon the completion of 12 months at Grade 1 Year 5.
   - **(ii)** An Employee who progresses to Grade 2 will, if required, undertake student supervision and Training and work independently for the purposes of undertaking night shift and on-call duties.
-- **(b) Progression on anniversary – exception**
+- **(b) Progression on anniversary - exception**
 An Employee as described at subclause 2.3(a) of this [Appendix 4](/ebas/allie[subclause 2.3(a)](/ebas/allied-health/preliminary/2-arrangement)nary/4-definitions) Section C, may have their progression deferred where, subject to the Employer complying with subclause 15.1(a), the Employee has been performance managed in accordance with subclause 15.3 for at least six (6) weeks immediately before the anniversary of their commencement at Grade 1, Year 5, save that:
   - **(i)** the Employee will be reclassified to Grade 2 immediately after the performance management ends as the Employee's performance has reached an acceptable standard. Average performance is not a reason to delay progression; and
   - **(ii)** an Employee whose reclassification to Grade 2 has been deferred may invoke the Dispute Resolution Procedure in clause 14. Except where otherwise agreed, if the resolution of the dispute results in reclassification being granted, the reclassification to Grade 2 will be backdated to the anniversary of the Employee's commencement at Grade 1, Year 5.
@@ -424,11 +418,11 @@ An Employee as described at subclause 2.3(a) of this [Appendix 4](/ebas/allie[su
 
 A Grade 3 Radiation Therapy Technologist (Radiation Therapist) is an employee:
 
-**4.1** second in charge of Treatment Unit – undertakes responsibility additional to that of the Grade 1 or 2 Radiation Therapy Technologist (Radiation Therapist);
+**4.1** second in charge of Treatment Unit - undertakes responsibility additional to that of the Grade 1 or 2 Radiation Therapy Technologist (Radiation Therapist);
 
 **4.2** in charge of:
 
-- **(a)** the following Treatment Units when operating on an intermittent basis – DXRT or SXRT; or
+- **(a)** the following Treatment Units when operating on an intermittent basis - DXRT or SXRT; or
 - **(b)** a Planning Sub Unit;
 
 **4.3** who Teaches under-graduate students, post-graduate students and/or interns, primarily in a clinical and/or technical setting; and/or
@@ -448,7 +442,7 @@ A Grade 4 Radiation Therapy Technologist (Radiation Therapist) is an employee:
 
 **5.1** In charge of a Departmental Unit, Treatment Unit, Planning Unit or Peripheral Unit;
 
-**5.2** who has a major Administrative role – undertakes significant administrative or educational responsibilities; or
+**5.2** who has a major Administrative role - undertakes significant administrative or educational responsibilities; or
 
 **5.3** who in addition to undertaking or having the ability to undertake the Grade 3 responsibilities at subclause 4.3 of Section C of this [Appendix 4](/[subclause 4.3](/ebas/allied-health/preliminary/4-definitions)ealth/preliminary/4-definitions), has extensive specialised knowledge in their profession or an area of their profession, and/or is at a supervisory level in one (1) or more of the specific areas of their profession which require extensive specialised knowledge and:
 
@@ -500,9 +494,9 @@ A Radiation Therapy Technologist (Radiation Therapist) who is responsible for th
 
 A Radiation Therapy Technologist (Radiation Therapist) who is responsible for the effective and efficient management, operation, development and delivery of a high quality radiation therapy service in a large multi campus radiotherapy service.
 
-## Section D – AHP1 Classification Descriptors – Sonographer
+## Section D - AHP1 Classification Descriptors - Sonographer
 
-### AHP1 Classification Descriptors – Sonographer
+### AHP1 Classification Descriptors - Sonographer
 
 > **Note:** In this [Appendix 4](/ebas/allied-health/preliminary/4-definitions) Section D, **ASAR** means the Australian Sonographer Accreditation Registry.
 
@@ -564,7 +558,7 @@ An employee who is a Sonographer:
 
 **6.3** A Sonographer who received the Higher Qualification Allowance in [subclause 30.4](/ebas/allied-health/wages/30-superannuation) in the 2011 Agreement prior to 31 October 2014 will continue to receive the Higher Qualification Allowance.
 
-## Schedule 1 – Entry Requirements for AHP1 Classifications
+## Schedule 1 - Entry Requirements for AHP1 Classifications
 
 *(Excluding Radiation Therapy Technologist (Radiation Therapist) and Sonographer)*
 
@@ -593,7 +587,7 @@ The following table outlines the relevant qualifications and/or entry requiremen
 | **Social Worker** | A qualification that makes an employee eligible for membership of the Australian Association of Social Workers, or an undergraduate or postgraduate qualification relevant to the field of social work as accepted by the Employer with such acceptance not to be unreasonably withheld by the Employer. |
 | **Speech Pathologist** | A Bachelor of Speech Pathology, Bachelor of Applied Science in Speech Pathology, or an equivalent qualification as recognised by Speech Pathology Australia. |
 
-## Schedule 2 – Specific Special Knowledge or Depth of Experience Examples
+## Schedule 2 - Specific Special Knowledge or Depth of Experience Examples
 
 The following table contains examples of areas in which work that requires special knowledge or depth of experience may be performed for the listed AHP1 classification professions.
 
@@ -606,7 +600,7 @@ The following table contains examples of areas in which work that requires speci
 | **Podiatrist** | - Diabetes mellitus peripheral vascular disease. - Cerebro-vascular accident. - Arthroses. - Orthotic/prosthetic therapy. - Nail surgery. - Local anaesthesia. |
 | **Social Worker** | - Individual and family and/or group practice. - Program development management. - Research evaluation. |
 
-## Schedule 3 – Health Information Manager (Medical Records Administrator) Speciality Area Examples
+## Schedule 3 - Health Information Manager (Medical Records Administrator) Specialty Area Examples
 
 ### Health Information Manager (Medical Records Administrator) Grade 3
 
@@ -618,7 +612,7 @@ Areas of speciality for a Health Information Manager (Medical Records Administra
 - coordination of a clinical trials service; and/or
 - quality assurance project work.
 
-## Schedule 4 – Advanced Practice Roles Grade 3 and 4
+## Schedule 4 - Advanced Practice Roles Grade 3 and 4
 
 #### 1. Definition
 
@@ -713,7 +707,7 @@ Where the Employee has achieved competency in the advanced practice area in whic
 
 **5.8** A body agreed by the Employers' representative and the Union, will look at developing an appropriate pathway to Advanced Practice roles including appropriate proportions of Advanced Practitioners in training to Grade 3 and 4 Advanced Practitioners and monitor the impact and development of Advanced Practice.
 
-## Section E – AHP2 Classification Descriptors
+## Section E - AHP2 Classification Descriptors
 
 ### AHP2 Classification Descriptors
 
@@ -749,7 +743,7 @@ An employee who, with limited guidance or within broad guidelines performs activ
 
 An employee with a relevant tertiary qualification who is eligible for membership of the Victorian Child Psychotherapists Association Inc and who performs child psychotherapy work.
 
-**2.2 Level 1 – Child Psychotherapist**
+**2.2 Level 1 - Child Psychotherapist**
 
 An employee who:
 
@@ -757,14 +751,14 @@ An employee who:
 - **(b)** is undertaking a recognised post-graduate study as a Psychotherapist; and
 - **(c)** provides a clinical service under supervision. Provided further that an Employee classified at level 1 will have their years of service recognised one (1), two (2) or three (3) years in advance if the Employee holds an Honours, Masters or Doctorate respectively.
 
-**2.3 Level 2 – Qualified Child Psychotherapist**
+**2.3 Level 2 - Qualified Child Psychotherapist**
 
 An employee who:
 
 - **(a)** has completed a post-graduate course of study in Psychotherapy; and
 - **(b)** provides a clinical service.
 
-**2.4 Level 3 – Senior Child Psychotherapist**
+**2.4 Level 3 - Senior Child Psychotherapist**
 
 An employee who is required to:
 
@@ -773,7 +767,7 @@ An employee who is required to:
 - **(c)** provide a Psychotherapy component to the Child and Family Psychiatry Department's Continuing Education Program;
 - **(d)** accept responsibility for a clinical consultation service to professional staff within and external to the Employer.
 
-**2.5 Level 4 – Principal Child Psychotherapist**
+**2.5 Level 4 - Principal Child Psychotherapist**
 
 An employee who holds a basic bachelor degree in an appropriate field, has at least five (5) to six (6) years' clinical experience since completing a post-graduate course in Psychotherapy who:
 
@@ -1161,7 +1155,7 @@ See [subclause 85.8](/ebas/allied-health/classification-staffing/85-classificati
 
 For the purposes of clause 11 of this Section E of this [Appendix 4]([clause 11](/ebas/allied-health/preliminary/11-transfer-of-business)ied-health/preliminary/4-definitions), yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
 
-### Additional AHP2 Classification Descriptors – Peter MacCallum Cancer Institute Only
+### Additional AHP2 Classification Descriptors - Peter MacCallum Cancer Institute Only
 
 > The below classifications only apply to Peter MacCallum Cancer Institute.
 
@@ -1362,7 +1356,7 @@ The director of the research division.
 
 > **Note:** The rates in the table above are effective 1 March 2022. The rates in this table will be increased in accordance with the increases in the Level E Research Technologist (Research Scientist) rate of pay.
 
-## Schedule 5 – Award Health Professional Level 2 and 3
+## Schedule 5 - Award Health Professional Level 2 and 3
 
 ### Level 2
 

@@ -1,10 +1,10 @@
 ---
-title: '19. Part Time Employment'
+title: '19. Part-Time Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'employment']
 ---
 
-# 19. Part Time Employment
+# 19. Part-Time Employment
 
 
 

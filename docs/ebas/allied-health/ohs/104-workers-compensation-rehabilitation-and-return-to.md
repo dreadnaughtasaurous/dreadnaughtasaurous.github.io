@@ -6,19 +6,23 @@ topics: ['wages', 'accident-pay']
 
 # 104. Workers Compensation Rehabilitation and Return To Work
 
-**104.1** Workers Compensation Information
+**104.1 Workers Compensation Information**
 
 - **(a)** The Employer will display and make available the WorkSafe Victoria "If You Are Injured at Work" Poster, as amended from time to time.
 - **(b)** The Employer will provide a copy of the poster (A4 version) to Employees as soon as they report an incident that may give rise to an injury to themselves.
 
-**104.2** Accident Make-Up Pay See [clause 32](/ebas/allied-health/wages/32-accident-pay).
+**104.2 Accident Make-Up Pay** 
 
-**104.3** Attendance at medical appointments Where there is an accepted workers' compensation claim, an Employee who requires time off during work time to attend medical and other appointments may elect to:
+See [clause 32](/ebas/allied-health/wages/32-accident-pay).
+
+**104.3 Attendance at medical appointments** 
+
+Where there is an accepted workers' compensation claim, an Employee who requires time off during work time to attend medical and other appointments may elect to:
 
 - **(a)** take the time as paid personal/carer's leave (subject to having sufficient accrued leave); or
 - **(b)** take the time as paid work time, in which case the Employer may claim repayment for that time under workers' compensation legislation, subject to that legislation.
 
-**104.4** Return to Work
+**104.4 Return to Work**
 
 - **(a)** This [subclause 104.4](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to) shall apply to an Employee not performing their normal duties due to a work related injury to which the WIRC Act applies.
 - **(b)** The Employer will appoint a Return to Work Co-ordinator who will have sufficient knowledge of occupational rehabilitation legislation, regulations and guidelines to undertake the task.
@@ -42,7 +46,7 @@ topics: ['wages', 'accident-pay']
 - **(k)** The Employer and the Employee will co-operate and participate in the agreed return to work plan. This plan will be reviewed at the request of any of the parties involved. Where agreement cannot be reached the processes of the WIRC Act will apply.
 - **(l)** Employers are not to attend any medical assessments with injured Employees where capacity is being assessed or a treatment plan is being developed unless specifically requested by the Employee to do so. This prohibition does not apply to appointments specifically for the development of a RTW plan.
 
-**104.5** Rehabilitation, Re-training and Re-education
+**104.5 Rehabilitation, Re-training and Re-education**
 
 - **(a)** The Employer may pay for any re-training or re-education which is required to assist the Employee to remain at work or return to work in suitable employment in accordance with guidelines issued by Victorian WorkSafe to its agents. Approval for such re-training or re-education may be requested by the Employee, their treating practitioner, or any other Victorian WorkSafe approved service provider, individual or agency, on behalf of the Employee.
 - **(b)** Where it has been established that an Employee has a permanent injury or condition which prevents them returning to their pre injury employment the Employer will ensure the Employee is advised of all vacancies as they become available.

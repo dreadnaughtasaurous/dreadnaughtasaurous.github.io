@@ -6,9 +6,7 @@ topics: ['employment', 'casual-conversion']
 
 # 21. Casual Conversion
 
-
-
-**21.1** Employer offers
+**21.1 Employer offers**
 
 - **(a)** Subject to [subclause 21.2](/ebas/allied-health/employment/21-casual-conversion), an Employer must make an offer to a casual Employee under this [clause 21](/ebas/allied-health/employment/21-casual-conversion) if:
     - **(i)** the casual Employee has been employed by the Employer for a period of 12 months beginning the day the employment started; and
@@ -18,7 +16,7 @@ topics: ['employment', 'casual-conversion']
     - **(ii)** be an offer for the Employee to convert: A. for an Employee that has worked the equivalent of full-time hours during the period referred to in [subclause 21.1(a)(ii)](/ebas/allied-health/employment/21-casual-conversion) – to full-time employment; or B. for an Employee that has worked less than the equivalent of full-time hours during the period referred to in [subclause 21.1(a)(ii)](/ebas/allied-health/employment/21-casual-conversion) – to part-time employment that is consistent with the regular pattern of hours worked during that period;
     - **(iii)** be given to the Employee within 21 days after the end of the 12-month period referred to in [subclause 21.1(a)(i)](/ebas/allied-health/employment/21-casual-conversion).
 
-**21.2** When Employer offers not required
+**21.2 When Employer offers not required**
 
 - **(a)** Despite [subclause 21.1](/ebas/allied-health/employment/21-casual-conversion), an Employer is not required to make an offer under [subclause 21.1](/ebas/allied-health/employment/21-casual-conversion) to a casual Employee if:
     - **(i)** there are reasonable grounds not to make that offer; and
@@ -36,12 +34,12 @@ topics: ['employment', 'casual-conversion']
     - **(ii)** include the details of the reasons for not making the offer (including any grounds on which the Employer has decided to not make the offer); and
     - **(iii)** be given to the Employee within 21 days after the end of the 12-month period referred to in [subclause 21.1(a)(i)](/ebas/allied-health/employment/21-casual-conversion).
 
-**21.3** Employee response
+**21.3 Employee response**
 
 - **(a)** The Employee must give the Employer a written response to the offer made under [subclause 21.1(a)](/ebas/allied-health/employment/21-casual-conversion) within 21 days after the offer is given to the Employee, stating whether the Employee accepts or declines the offer.
 - **(b)** If the Employee fails to give the Employer a written response in accordance with [subclause 21.3(a)](/ebas/allied-health/employment/21-casual-conversion), the Employee is taken to have declined the offer.
 
-**21.4** Acceptances of offers
+**21.4 Acceptances of offers**
 
 - **(a)** If the Employee accepts the offer, the Employer must, within 21 days after the day the acceptance is given to the Employer, give written notice to the Employee of the following:
     - **(i)** whether the Employee is converting to full-time employment of part-time employment;
@@ -50,7 +48,7 @@ topics: ['employment', 'casual-conversion']
 - **(b)** However, the Employer must discuss with the Employee the matters the Employer intends to specify for the purposes of [subclause 21.4(a)(i)-(iii)](/ebas/allied-health/employment/21-casual-conversion) before giving the notice.
 - **(c)** The day specified for the purposes of [subclause 21.4(a)(iii)](/ebas/allied-health/employment/21-casual-conversion) must be the first day of the Employee's first full pay period that starts after the day the notice is given, unless the Employee and Employer agree to another day.
 
-**21.5** Employee requests
+**21.5 Employee requests**
 
 - **(a)** A Casual Employee may make a request of an Employer under this [subclause 21.5](/ebas/allied-health/employment/21-casual-conversion) if:
     - **(i)** the Employee has been employed by the Employer for a period of at least 6 months beginning the day the employment started;
@@ -62,9 +60,11 @@ topics: ['employment', 'casual-conversion']
         - **A.** for an Employee that has worked the equivalent of full-time hours during the period referred to in [subclause 21.5(a)(ii)](/ebas/allied-health/employment/21-casual-conversion) – to full-time employment; or B. for an Employee that has worked less than the equivalent of full-time hours during the period referred to in [subclause 21.5(a)(ii)](/ebas/allied-health/employment/21-casual-conversion) – to part-time employment that is consistent with the regular pattern of hours or shifts worked during that period; and
     - **(iii)** be given to the Employer.
 
-**21.6** Employer must give a response The Employer must give the Employee a written response to the request made under [subclause 21.5](/ebas/allied-health/employment/21-casual-conversion) within 21 days after the request is given to the Employer, stating whether the Employer grants or refuses the request.
+**21.6 Employer must give a response** 
 
-**21.7** Refusals of requests
+The Employer must give the Employee a written response to the request made under [subclause 21.5](/ebas/allied-health/employment/21-casual-conversion) within 21 days after the request is given to the Employer, stating whether the Employer grants or refuses the request.
+
+**21.7 Refusals of requests**
 
 - **(a)** The Employer must not refuse the request unless:
     - **(i)** the Employer has consulted the Employee;
@@ -78,7 +78,7 @@ topics: ['employment', 'casual-conversion']
     - **(v)** granting the request would not comply with a recruitment or selection process required by or under a law of the Commonwealth or a State or a Territory.
 - **(c)** If the Employer refuses the request, the written response under [subclause 21.6](/ebas/allied-health/employment/21-casual-conversion) must include details of the reasons for the refusal.
 
-**21.8** Grants of requests
+**21.8 Grants of requests**
 
 - **(a)** If the Employer grants the request made under [subclause 21.5](/ebas/allied-health/employment/21-casual-conversion), the Employer must, within 21 days after the day the request is given to the Employer, give written notice to the Employee of the following:
     - **(i)** whether the Employee is converting to full-time employment or part-time employment;
@@ -88,7 +88,7 @@ topics: ['employment', 'casual-conversion']
 - **(c)** The day specified for the purposes of [subclause 21.8(a)(iii)](/ebas/allied-health/employment/21-casual-conversion) must be the first day of the Employee's first full pay period that starts after the day the notice is given, unless the Employee and Employer agree to another day.
 - **(d)** To avoid doubt, the notice may be included in the written response under [subclause 21.6](/ebas/allied-health/employment/21-casual-conversion)
 
-**21.9** Effect of conversion
+**21.9 Effect of conversion**
 
 - **(a)** An Employee is taken, on and after the day specified in a notice for the purposes of [subclauses 21.4(a)(iii) or 21.8(a)(iii)](/ebas/allied-health/employment/21-casual-conversion) to be a full-time Employee or a part-time Employee of the Employer for the purposes of the following:
     - **(i)** the Act and any other law of the Commonwealth;
@@ -96,7 +96,7 @@ topics: ['employment', 'casual-conversion']
     - **(iii)** the Agreement; and
     - **(iv)** the Employee’s contract of employment.
 
-**21.10** Other rights and obligations
+**21.10 Other rights and obligations**
 
 - **(a)** The Employer must not reduce or vary an Employee’s hours of work, or terminate an Employee’s employment, in order to avoid any right or obligation under this [clause 21](/ebas/allied-health/employment/21-casual-conversion).
 - **(b)** Nothing in this [clause 21](/ebas/allied-health/employment/21-casual-conversion):
@@ -105,5 +105,3 @@ topics: ['employment', 'casual-conversion']
     - **(iii)** requires an Employer to increase the hours of work of an Employee who requests conversion to full-time employment or part-time employment under this [clause 21](/ebas/allied-health/employment/21-casual-conversion).
 
 Plain language terms: casual to permanent.
-
-

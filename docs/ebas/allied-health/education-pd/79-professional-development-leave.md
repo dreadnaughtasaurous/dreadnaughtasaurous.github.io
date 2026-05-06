@@ -32,9 +32,9 @@ topics: ['leave']
 - **(a)** A full-time Employee is entitled to seven (7) days’ paid professional development leave per calendar year, in addition to other prescribed leave entitlements. Part- time Employees have a pro rata entitlement.
 - **(b)** An Employee may utilise professional development leave for part of a single day.
 
->**Example:** 
->
->An Employee may use their professional development leave to attend 14 half- day professional development activities in a year of service provided that the total period will not exceed seven (7) days.
+    >**Example:** 
+    >
+    >An Employee may use their professional development leave to attend 14 half- day professional development activities in a year of service provided that the total period will not exceed seven (7) days.
 
 **79.4** Payment
 

@@ -6,8 +6,6 @@ topics: ['hours', 'overtime', 'employment', 'preliminary']
 
 # 20. Casual Employment
 
-
-
 **20.1** A casual Employee is one who is engaged in relieving work or work of a casual nature and whose engagement is terminable by the Employer in accordance with the Employer's requirements, without the requirement of prior notice by either the Employer or the Employee, but does not include an Employee who could properly be classified under [clause 18](/ebas/allied-health/employment/18-full-time-employment) - Full-time employment, [clause 19](/ebas/allied-health/employment/19-part-time-employment) - Part-time employment or [clause 22](/ebas/allied-health/employment/22-fixed-term-employment) - Fixed term employment.
 
 **20.2** Conversion to permanent employment

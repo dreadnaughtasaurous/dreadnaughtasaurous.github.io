@@ -46,16 +46,16 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
 - **(b)** If the provisions of [subclause 14.4](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) (Discussion of dispute at workplace) have not been complied with prior to the application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
 - **(c)** Applications to the Panel to deal with a dispute will be in the following or similar form:
 
-| Field | Details |
-|---|---|
-| Name of Applicant | |
-| Employer | |
-| Union | |
-| Name of Employee/s involved | |
-| Relevant Enterprise Agreement | |
-| Description of the dispute and relevant issues | |
-| Current status of matters | |
-| Steps already taken to resolve the dispute | |
+    | Field | Details |
+    |---|---|
+    | Name of Applicant | |
+    | Employer | |
+    | Union | |
+    | Name of Employee/s involved | |
+    | Relevant Enterprise Agreement | |
+    | Description of the dispute and relevant issues | |
+    | Current status of matters | |
+    | Steps already taken to resolve the dispute | |
 
 - **(d)** Application by an Employee/s
     - **(i)** An Employee/s may only make an application directly to the Panel where the matter directly involves and affects them.

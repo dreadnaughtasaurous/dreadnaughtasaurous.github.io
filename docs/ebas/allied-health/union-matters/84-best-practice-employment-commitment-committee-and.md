@@ -27,7 +27,7 @@ topics: ['union-matters']
 
 **84.3** The Committee will comprise nominated representatives from the Union, the VHIA and Department (as required). The Committee may, by agreement, establish sub-groups or delegate individual matters to a relevant health service(s) and/or Union members as required.
 
-**84.4** Classification Review
+**84.4 Classification Review**
 
 - **(a)** During the life of this Agreement the Allied Health Professionals Research and Practice Centre (however titled) will review and propose amendments to the following classifications, and their rates of pay (subject to /ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and):
   - **(i)** Community Development Worker;
@@ -39,7 +39,7 @@ topics: ['union-matters']
   - **(i)** develop a classification structure that is contemporary and reflects the work performed by the Employees in these professions;
   - **(ii)** clearly outline the relevant qualification types and/or experience that classify Employees in each of these professions;
   - **(iii)** clearly distinguish between these professions based on the work performed, the Employee’s qualification, skills, knowledge and / or their experience;
-  - **(iv)** consider the rates of pay compared with the amended rates of pay of employees in these professions in Victoria covered by the Social, Community, Home Care and Disability Services Industry Award 2010 resulting from the equal remuneration order and advise whether the rates of pay of these professions in the Agreement should be amended as a result, and if so, by what amount; and
+  - **(iv)** consider the rates of pay compared with the amended rates of pay of employees in these professions in Victoria covered by the *Social, Community, Home Care and Disability Services Industry Award 2010* resulting from the equal remuneration order and advise whether the rates of pay of these professions in the Agreement should be amended as a result, and if so, by what amount; and
   - **(v)** support the recruitment and retention of Employees in these professions.
 
 - **(c)** The Union, VHIA and the Department will develop Terms of Reference, within one (1) year of this Agreement coming into effect that will:

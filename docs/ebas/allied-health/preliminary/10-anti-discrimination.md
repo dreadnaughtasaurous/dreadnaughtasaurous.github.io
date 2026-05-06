@@ -16,9 +16,9 @@ topics: ['flexible-work', 'preliminary', 'discrimination']
 - **(b)** an Employee, the Employer or registered organisation pursuing matters of discrimination in any State or Federal jurisdiction, including by application to the Australian Human Rights Commission; and
 - **(c)** the exemptions in section 351(2) of the Act.
 
-**10.4** Gender Based Discrimination
+**10.4 Gender Based Discrimination**
 
-- **(a)** The parties agree, in conjunction with the Department, to establish a Gender- Based Standing Committee (GBSC) within three (3) months of the commencement of this Agreement.
+- **(a)** The parties agree, in conjunction with the Department, to establish a Gender- Based Standing Committee (**GBSC**) within three (3) months of the commencement of this Agreement.
 - **(b)** The purpose of the GBSC will be to:
   - **(i)** review audit results from audits required by the Gender Equality Act 2020 (Vic);
   - **(ii)** promote gender equity initiatives; and

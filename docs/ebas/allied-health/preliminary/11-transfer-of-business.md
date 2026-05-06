@@ -6,8 +6,6 @@ topics: ['employment']
 
 # 11. Transfer Of Business
 
-
-
 **11.1** Where the business of the employer is, before or after the date of the Agreement, transferred from the employer (in this [clause 11](/ebas/allied-health/preliminary/11-transfer-of-business) called the Transferor) to another employer (in this [clause 11](/ebas/allied-health/preliminary/11-transfer-of-business) called the Transferee) and an employee who at the time of such transfer was an employee of the Transferor in that business becomes an employee of the Transferee:
 
 - **(a)** the continuity of the employment of the employee will be deemed not to have been broken by reason of such transfer; and
@@ -17,5 +15,3 @@ topics: ['employment']
 
 - **(a)** business includes trade, process, business or occupation and includes any part of any such business; and
 - **(b)** transfer includes transmission, conveyance, assignment or succession whether by agreement or by operation of law and transferred has a corresponding meaning.
-
-

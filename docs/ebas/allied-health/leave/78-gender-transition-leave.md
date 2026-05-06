@@ -14,7 +14,9 @@ topics: ['leave', 'preliminary']
 
 **78.3** Employees may give effect to their transition in a number of ways and are not required to be undergoing specific types of changes, such as surgery, to access leave under this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave).
 
-**78.4** Amount of gender transition leave An Employee (other than a Casual Employee) who commences living as a member of another gender is entitled to Gender Transition Leave for the purpose of supporting the Employee’s transition as follows:
+**78.4 Amount of gender transition leave** 
+
+An Employee (other than a Casual Employee) who commences living as a member of another gender is entitled to Gender Transition Leave for the purpose of supporting the Employee’s transition as follows:
 
 - **(a)** up to four (4) weeks (20 days) paid leave for essential and necessary gender affirmation procedures; and
 - **(b)** up to 48 weeks of unpaid leave.
@@ -35,9 +37,11 @@ topics: ['leave', 'preliminary']
 
 **78.9** Leave under this [clause 78](/ebas/allied-health/leave/78-gender-transition-leave) will not accrue from year to year and cannot be cashed out on termination of employment.
 
-**78.10** Gender Transition Leave – Casual employees Casual Employees are entitled to access unpaid leave of up to 52 continuous weeks duration for gender transition purposes.
+**78.10 Gender Transition Leave – Casual employees** 
 
-**78.11** Notice and evidence requirements
+Casual Employees are entitled to access unpaid leave of up to 52 continuous weeks duration for gender transition purposes.
+
+**78.11 Notice and evidence requirements**
 
 - **(a)** An Employee seeking to access Gender Transition Leave must provide the Employer with at least four (4) weeks’ written notice of their intended commencement date and expected period of leave, unless otherwise agreed by the Employer.
 - **(b)** An Employee seeking to access Gender Transition Leave may be required to provide suitable supporting documentation or evidence of their attendance at essential gender affirmation procedures. This may be in the form of a document issued by a Registered Health Practitioner, a lawyer, or a State, Territory or Federal government organisation, a State, Territory or Commonwealth statutory declaration or other suitable supporting documentation.

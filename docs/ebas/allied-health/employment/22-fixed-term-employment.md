@@ -35,16 +35,20 @@ topics: ['employment']
 
 **22.4** Nothing in this [clause 22](/ebas/allied-health/employment/22-fixed-term-employment) requires an Employer to use fixed term employment for the purposes listed in [subclause 22.3](/ebas/allied-health/employment/22-fixed-term-employment).
 
-**22.5** Appointment
+**22.5 Appointment**
 
 In the letter of offer, the Employer will advise the Employee in writing of the reason the role is genuine fixed term employment, the duration of the fixed term and the rights of an incumbent Employee (if relevant).
 
-**22.6** Duration of a fixed term contract A contract for genuine fixed term employment cannot be for a period greater than two (2) years unless;
+**22.6 Duration of a fixed term contract** 
+
+A contract for genuine fixed term employment cannot be for a period greater than two (2) years unless;
 
 - **(a)** otherwise agreed to by the Union at its discretion; or
 - **(b)** in the case of Peter MacCallum Cancer Institute, the genuine fixed term employment is for a research project as described at [subclause 22.3(a)](/ebas/allied-health/employment/22-fixed-term-employment), the funding for the project comes from the NHMRC and is for a period of at least 3 years, in which case the contract cannot be for a period greater than three (3) years.
 
-**22.7** Further contract where role continues Where the role that is subject to the genuine fixed term employment will continue beyond the end of the contract, the Employer may offer to extend the fixed term employment for that role by a further contract where it:
+**22.7 Further contract where role continues** 
+
+Where the role that is subject to the genuine fixed term employment will continue beyond the end of the contract, the Employer may offer to extend the fixed term employment for that role by a further contract where it:
 
 - **(a)** is still genuine fixed term employment as described at [subclause 22.2](/ebas/allied-health/employment/22-fixed-term-employment) and is appropriate in all the circumstances;
 - **(b)** is still for a purpose listed at [subclause 22.3](/ebas/allied-health/employment/22-fixed-term-employment); and
@@ -77,7 +81,7 @@ in total, the Employer will, not less than one (1) month prior to the scheduled 
 
 **22.10** Where the Employer proposes a further contract to extend a fixed term employment in accordance with [subclause 22.7](/ebas/allied-health/employment/22-fixed-term-employment) the Employer will, where requested by the Employee or the Union, meet to discuss the proposed extension of the fixed term employment by a further contract and provide the Employee and/or the Union with any relevant information relating to why the proposed extended fixed term employment is genuine fixed term employment.
 
-**22.11** Conversion to permanent employment
+**22.11 Conversion to permanent employment**
 
 - **(a)** If:
     - **(i)** the period of fixed term contract exceeds two (2) years (or three (3) years in accordance with [subclause 22.6(b)](/ebas/allied-health/employment/22-fixed-term-employment)) unless otherwise agreed to by the Union in accordance with [subclause 22.6](/ebas/allied-health/employment/22-fixed-term-employment);
@@ -85,21 +89,27 @@ in total, the Employer will, not less than one (1) month prior to the scheduled 
     - **(iii)** the Employee engaged pursuant to this [clause 22](/ebas/allied-health/employment/22-fixed-term-employment) is re-engaged within thirteen weeks (including the total period of accrued annual leave paid on termination);
     - **(iv)** in engaging a fixed term Employee or extending the fixed term engagement the Employer does not comply with this [clause 22](/ebas/allied-health/employment/22-fixed-term-employment) or, in the case of the timeframes at [subclauses 22.8](/ebas/allied-health/employment/22-fixed-term-employment) and 22.9, does not substantially comply with those timeframes; or
     - **(v)** the Employer has employed the Employee on more than five (5) fixed term contracts; the Employee will be deemed to have been originally employed under [clause 18](/ebas/allied-health/employment/18-full-time-employment) - Full-time employment, or [clause 19](/ebas/allied-health/employment/19-part-time-employment) - Part-time employment.
-- **(b)** For the purpose of this [subclause 22.11](/ebas/allied-health/employment/22-fixed-term-employment), does not substantially comply means that the Employer’s failure to adhere to the prescribed timeframes is such that either or both the Employee and the Union cannot:
+- **(b)** For the purpose of this [subclause 22.11](/ebas/allied-health/employment/22-fixed-term-employment), **does not substantially comply** means that the Employer’s failure to adhere to the prescribed timeframes is such that either or both the Employee and the Union cannot:
     - **(i)** give proper consideration to;
     - **(ii)** consult with the other on; and
     - **(iii)** seek advice on; the proposed extension of fixed term employment and be satisfied that the fixed term employment offered is genuine fixed term employment within the meaning of this Agreement.
 
-**22.12** Separate fixed term positions The provisions of [subclauses 22.8](/ebas/allied-health/employment/22-fixed-term-employment) and 22.9 do not apply where an Employee applies for separate fixed term positions.
+**22.12 Separate fixed term positions** 
 
-**22.13** Anti-avoidance Separate fixed term positions means positions that are genuine fixed term employment within the meaning of [subclause 22.3](/ebas/allied-health/employment/22-fixed-term-employment) and which are genuinely separate and distinct, and does not include a single position that has been amended from one contract to the next.
+The provisions of [subclauses 22.8](/ebas/allied-health/employment/22-fixed-term-employment) and 22.9 do not apply where an Employee applies for separate fixed term positions.
 
-**22.14** Consideration of Fixed Term employment The Employer will consider whether it could utilise a permanent reliever rather than a fixed term Employee for long term leave relief.
+**22.13 Anti-avoidance** 
 
-**22.15** Graduates Employees will be provided with ongoing employment following completion of their graduate year positions, where it is appropriate in all the circumstances and a suitable vacancy exists.
+Separate fixed term positions means positions that are genuine fixed term employment within the meaning of [subclause 22.3](/ebas/allied-health/employment/22-fixed-term-employment) and which are genuinely separate and distinct, and does not include a single position that has been amended from one contract to the next.
 
-**22.16** Entitlements for fixed term employment Employees engaged on a fixed term basis pursuant to this [clause 22](/ebas/allied-health/employment/22-fixed-term-employment) will receive the pay, entitlements and other conditions a full-time Employee receives where their work accords with [clause 18](/ebas/allied-health/employment/18-full-time-employment) (Full-Time Employment), otherwise they will
+**22.14 Consideration of Fixed Term employment** 
 
-receive the pay, entitlements and other conditions provided for a part-time Employee under [clause 19](/ebas/allied-health/employment/19-part-time-employment).
+The Employer will consider whether it could utilise a permanent reliever rather than a fixed term Employee for long term leave relief.
 
+**22.15 Graduates** 
 
+Employees will be provided with ongoing employment following completion of their graduate year positions, where it is appropriate in all the circumstances and a suitable vacancy exists.
+
+**22.16 Entitlements for fixed term employment** 
+
+Employees engaged on a fixed term basis pursuant to this [clause 22](/ebas/allied-health/employment/22-fixed-term-employment) will receive the pay, entitlements and other conditions a full-time Employee receives where their work accords with [clause 18](/ebas/allied-health/employment/18-full-time-employment) (Full-Time Employment), otherwise they will receive the pay, entitlements and other conditions provided for a part-time Employee under [clause 19](/ebas/allied-health/employment/19-part-time-employment).

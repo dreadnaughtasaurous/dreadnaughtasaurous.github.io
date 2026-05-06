@@ -6,9 +6,7 @@ topics: ['allowances', 'wages', 'higher-duties']
 
 # 37. Higher Duties Allowance
 
-
-
-*Note: An individual Employee does not need to perform the duties of the Absent Employee/Vacant Position for the entire period of the absence/vacancy in order to access the higher duties allowance.*
+>**Note:** An individual Employee does not need to perform the duties of the Absent Employee/Vacant Position for the entire period of the absence/vacancy in order to access the higher duties allowance.
 
 **37.1** An Employee (**Relieving Employee**) who is engaged in performing the duties of:
 
@@ -84,7 +82,7 @@ will receive the higher duties allowance in accordance with this [clause 37](/eb
 | | Class 3, Year 3 | Class 3A, Year 3 |
 | | Class 3, Year 3 | Class 4, Year 2 |
 
-*Note: the information in the above table is to give effect to the principle that an Employee engaged in performing higher duties is paid at a rate immediately above the rate of pay for their substantive position when engaged in performing higher duties in the above scenarios.*
+>**Note:** the information in the above table is to give effect to the principle that an Employee engaged in performing higher duties is paid at a rate immediately above the rate of pay for their substantive position when engaged in performing higher duties in the above scenarios.
 
 Plain language terms: acting up, HDA, higher duties, allowance.
 

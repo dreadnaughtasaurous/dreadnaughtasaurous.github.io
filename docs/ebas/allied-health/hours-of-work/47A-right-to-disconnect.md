@@ -23,6 +23,7 @@ topics: ['leave', 'hours']
 
 **47A.5** This [clause 47A](/ebas/allied-health/hours-of-work/47A-right-to-disconnect) does not apply to any period where the Employee is in receipt of the on-call allowance in [subclause 36.2](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call).
 
-**47A.6** Raising Concerns
+**47A.6 Raising Concerns**
+
 - **(a)** Where an Employee believes they are not able to disconnect, including where they are being contacted in circumstances other than those in [subclause 47A.2](/ebas/allied-health/hours-of-work/47A-right-to-disconnect), they should raise this with the Employer. Where this [clause 47A](/ebas/allied-health/hours-of-work/47A-right-to-disconnect) is not being complied with, the Employer will rectify this.
 - **(b)** Notwithstanding the above, the Employee may raise a dispute or grievance at any time.

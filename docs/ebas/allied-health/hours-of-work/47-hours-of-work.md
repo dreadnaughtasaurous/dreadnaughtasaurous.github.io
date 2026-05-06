@@ -1,10 +1,10 @@
 ---
-title: '47. Hours Of Work'
+title: '47. Hours of Work'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours']
 ---
 
-# 47. Hours Of Work
+# 47. Hours of Work
 
 **47.1** The hours for an ordinary week’s work will be:
 - **(a)** 38;
@@ -29,13 +29,14 @@ topics: ['hours']
 - **(a)** at the Employee’s ordinary rate of pay plus the applicable shift work allowance (per [clause 38](/ebas/allied-health/allowances/38-shift-work-allowance)) where this is part of the Employee’s ordinary hours of work; or
 - **(b)** at overtime rates where this is not part of the Employee’s ordinary hours of work.
 
-**47.8** 10-hour break between ordinary shifts
+**47.8 10-hour break between ordinary shifts**
+
 - **(a)** Subject to [subclause 47.8(b)](/ebas/allied-health/hours-of-work/47-hours-of-work), the Employer will provide an Employee with at least ten consecutive (10) hours off duty between successive ordinary shifts, which will be reflected in any rosters that apply to the Employee. See also [clause 55](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break) for the periods off duty involving overtime.
 - **(b)** Where for urgent operational issues there is not at least (10) ten consecutive hours off duty between successive ordinary shifts as required at [subclause 47.8(a)](/ebas/allied-health/hours-of-work/47-hours-of-work), the Employee shall either:
   - **(i)** be released from duty without loss of pay until the Employee has had 10 consecutive hours off duty; or
   - **(ii)** be paid at the rate of double time until released from duty for such rest period, where the employee is required to work without a 10 hour break on the instructions of the Employer.
 
-**47.9** Broken Shifts 
+**47.9 Broken Shifts** 
 
 An Employee will not work broken shifts (that is, their work is to be continuous excluding meal and other breaks), unless the Employee:
 - **(a)** agrees to work broken shifts under a flexible working arrangement ([clause 96](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements) and section 65 of the Act); or

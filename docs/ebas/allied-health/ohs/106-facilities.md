@@ -13,7 +13,7 @@ topics: ['accommodation']
 
 **106.2** The Employer must provide and continue to provide adequate facilities for the welfare of Employees at any workplace under the Employer’s management and control, subject to [subclause 106.4](/ebas/allied-health/ohs/106-facilities) below. Such facilities include a room for the taking of meal breaks and rest breaks, staff only toilets, change rooms / shower, and secure personal storage.
 
-**106.3** The WorkSafe Compliance Code – Workplace Amenities and Work Environment (Compliance Code) is an appropriate guide on how to fulfil these duties to the extent that they relate to providing appropriate facilities for the work environment and appropriate workplace amenities for Employees.
+**106.3** The WorkSafe Compliance Code – Workplace Amenities and Work Environment (**Compliance Code**) is an appropriate guide on how to fulfil these duties to the extent that they relate to providing appropriate facilities for the work environment and appropriate workplace amenities for Employees.
 
 **106.4** Where the Employer cannot:
 

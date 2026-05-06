@@ -19,7 +19,7 @@ const sidebar = [
         { text: '44. Uniform And Laundry Allowance', link: '/ebas/allied-health/allowances/44-uniform-and-laundry-allowance' },
         { text: '44A. Lead Apron Allowance', link: '/ebas/allied-health/allowances/44A-lead-apron-allowance' },
         { text: '45. Damaged Clothing Allowance', link: '/ebas/allied-health/allowances/45-damaged-clothing-allowance' },
-        { text: '46. Supervisor Allowance Medical Technician And Renal Dialysis Technician (Clinical Renal Physiologist) Only', link: '/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal' }
+        { text: '46. Supervisor Allowance - Medical Technician And Renal Dialysis Technician (Clinical Renal Physiologist) Only', link: '/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal' }
       ] },
     { text: 'Appendices', link: '/ebas/allied-health/appendices', collapsed: true, items: [
         { text: '1. List Of Employers', link: '/ebas/allied-health/appendices/1-list-of-employers' },
@@ -54,12 +54,12 @@ const sidebar = [
         { text: '79. Professional Development Leave', link: '/ebas/allied-health/education-pd/79-professional-development-leave' },
         { text: '80. Study Leave', link: '/ebas/allied-health/education-pd/80-study-leave' },
         { text: '81. Examination Leave', link: '/ebas/allied-health/education-pd/81-examination-leave' },
-        { text: '82. In Service Education And Training Royal Childrens Hospital and Royal Womens Hospital', link: '/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s' }
+        { text: '82. In-Service Education And Training - Royal Childrens Hospital and Royal Womens Hospital', link: '/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s' }
       ] },
     { text: 'Employment', link: '/ebas/allied-health/employment', collapsed: true, items: [
         { text: '17. Types Of Employment', link: '/ebas/allied-health/employment/17-types-of-employment' },
-        { text: '18. Full Time Employment', link: '/ebas/allied-health/employment/18-full-time-employment' },
-        { text: '19. Part Time Employment', link: '/ebas/allied-health/employment/19-part-time-employment' },
+        { text: '18. Full-Time Employment', link: '/ebas/allied-health/employment/18-full-time-employment' },
+        { text: '19. Part-Time Employment', link: '/ebas/allied-health/employment/19-part-time-employment' },
         { text: '20. Casual Employment', link: '/ebas/allied-health/employment/20-casual-employment' },
         { text: '21. Casual Conversion', link: '/ebas/allied-health/employment/21-casual-conversion' },
         { text: '22. Fixed Term Employment', link: '/ebas/allied-health/employment/22-fixed-term-employment' },
@@ -69,8 +69,8 @@ const sidebar = [
         { text: '26. Ending Employment During Parental Leave', link: '/ebas/allied-health/employment/26-ending-employment-during-parental-leave' },
         { text: '27. Transition To Retirement', link: '/ebas/allied-health/employment/27-transition-to-retirement' }
       ] },
-    { text: 'Hours Of Work', link: '/ebas/allied-health/hours-of-work', collapsed: true, items: [
-        { text: '47. Hours Of Work', link: '/ebas/allied-health/hours-of-work/47-hours-of-work' },
+    { text: 'Hours of Work', link: '/ebas/allied-health/hours-of-work', collapsed: true, items: [
+        { text: '47. Hours of Work', link: '/ebas/allied-health/hours-of-work/47-hours-of-work' },
         { text: '47A. Right To Disconnect', link: '/ebas/allied-health/hours-of-work/47A-right-to-disconnect' },
         { text: '48. Accrued Days Off', link: '/ebas/allied-health/hours-of-work/48-accrued-days-off' },
         { text: '49. Breaks', link: '/ebas/allied-health/hours-of-work/49-breaks' },
@@ -78,9 +78,9 @@ const sidebar = [
         { text: '50A. Biometric Timekeeping', link: '/ebas/allied-health/hours-of-work/50A-biometric-timekeeping' },
         { text: '51. Rates For Saturdays And Sundays', link: '/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays' },
         { text: '52. Overtime', link: '/ebas/allied-health/hours-of-work/52-overtime' },
-        { text: '53. Recall Return To Workplace', link: '/ebas/allied-health/hours-of-work/53-recall-return-to-workplace' },
-        { text: '54. Recall No Return To Workplace', link: '/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace' },
-        { text: '55. Rest Period After Overtime Recall Ten Hour Break', link: '/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break' },
+        { text: '53. Recall - Return To Workplace', link: '/ebas/allied-health/hours-of-work/53-recall-return-to-workplace' },
+        { text: '54. Recall - No Return To Workplace', link: '/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace' },
+        { text: '55. Rest Period After Overtime/Recall - Ten Hour Break', link: '/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break' },
         { text: '56. Daylight Savings', link: '/ebas/allied-health/hours-of-work/56-daylight-savings' },
         { text: '57. Make Up Time', link: '/ebas/allied-health/hours-of-work/57-make-up-time' }
       ] },
@@ -89,7 +89,7 @@ const sidebar = [
         { text: '59. Annual Leave', link: '/ebas/allied-health/leave/59-annual-leave' },
         { text: '60. Cashing Out Of Annual Leave', link: '/ebas/allied-health/leave/60-cashing-out-of-annual-leave' },
         { text: '61. Purchased Leave', link: '/ebas/allied-health/leave/61-purchased-leave' },
-        { text: '62. Personal Leave Including Carer S Leave', link: '/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave' },
+        { text: "62. Personal Leave (Including Carer's Leave)", link: '/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave' },
         { text: '63. Casual Employment Caring Responsibilities', link: '/ebas/allied-health/leave/63-casual-employment-caring-responsibilities' },
         { text: '64. Fitness For Work', link: '/ebas/allied-health/leave/64-fitness-for-work' },
         { text: '65. Reasonable Adjustments', link: '/ebas/allied-health/leave/65-reasonable-adjustments' },
@@ -101,7 +101,7 @@ const sidebar = [
         { text: '71. Breastfeeding', link: '/ebas/allied-health/leave/71-breastfeeding' },
         { text: '72. Long Service Leave', link: '/ebas/allied-health/leave/72-long-service-leave' },
         { text: '73. Blood Donors Leave', link: '/ebas/allied-health/leave/73-blood-donors-leave' },
-        { text: '74. Leave To Engage In Voluntary Emergency Management', link: '/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '74. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management' },
         { text: '75. Ceremonial Leave', link: '/ebas/allied-health/leave/75-ceremonial-leave' },
         { text: '76. Jury Service', link: '/ebas/allied-health/leave/76-jury-service' },
         { text: '76A. Absences On Defence Leave', link: '/ebas/allied-health/leave/76A-absences-on-defence-leave' },
@@ -128,7 +128,7 @@ const sidebar = [
         { text: '5. Incidence Coverage', link: '/ebas/allied-health/preliminary/5-incidence-coverage' },
         { text: '6. Commencement Date And Period Of Operation', link: '/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation' },
         { text: '7. Relationship To Previous Industrial Instruments And The NES', link: '/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the' },
-        { text: '8. Copy Of Agreement', link: '/ebas/allied-health/preliminary/8-copy-of-agreement' },
+        { text: '8. Copy of Agreement', link: '/ebas/allied-health/preliminary/8-copy-of-agreement' },
         { text: '9. No Extra Claims', link: '/ebas/allied-health/preliminary/9-no-extra-claims' },
         { text: '10. Anti Discrimination', link: '/ebas/allied-health/preliminary/10-anti-discrimination' },
         { text: '11. Transfer Of Business', link: '/ebas/allied-health/preliminary/11-transfer-of-business' },

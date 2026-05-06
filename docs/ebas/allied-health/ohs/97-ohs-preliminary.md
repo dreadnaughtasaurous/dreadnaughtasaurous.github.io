@@ -6,9 +6,13 @@ topics: ['ohs']
 
 # 97. OH&S Preliminary
 
-**97.1** Relationship to legislation The provisions of this Part L of the Agreement shall be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to in this [subclause 97.1](/ebas/allied-health/ohs/97-ohs-preliminary), the legislation prevails to the extent of any inconsistency.
+**97.1 Relationship to legislation** 
 
-**97.2** Arrangement of this Part L This part L is arranged as follows:
+The provisions of this Part L of the Agreement shall be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to in this [subclause 97.1](/ebas/allied-health/ohs/97-ohs-preliminary), the legislation prevails to the extent of any inconsistency.
+
+**97.2 Arrangement of this Part L** 
+
+This part L is arranged as follows:
 
 - **(a)** OHS Preliminary ([clause 97](/ebas/allied-health/ohs/97-ohs-preliminary));
 - **(b)** Industry OHS Working Group ([clause 98](/ebas/allied-health/ohs/98-industry-ohs-working-group));
@@ -21,11 +25,13 @@ topics: ['ohs']
 - **(i)** Home Visit Safety ([clause 105](/ebas/allied-health/ohs/105-home-visit-safety)); and
 - **(j)** Facilities ([clause 106](/ebas/allied-health/ohs/106-facilities)).
 
-**97.3** Definitions For the purposes of this Part L of this Agreement:
+**97.3 Definitions** 
 
-- **(a)** DWG means designated work group as defined under the OHS Act as amended from time to time and may include employees other than Employees covered by this Agreement.
-- **(b)** Incident means an event or circumstance that lead or could have lead to unintended or unnecessary harm.
-- **(c)** Injury means any physical or mental injury.
-- **(d)** Insurer means an authorised agent as defined by the WIRC Act.
-- **(e)** OHS means occupational health and safety.
-- **(f)** Workplace means workplace as defined under the OHS Act.
+For the purposes of this Part L of this Agreement:
+
+- **(a)** **DWG** means designated work group as defined under the OHS Act as amended from time to time and may include employees other than Employees covered by this Agreement.
+- **(b)** **Incident** means an event or circumstance that lead or could have lead to unintended or unnecessary harm.
+- **(c)** **Injury** means any physical or mental injury.
+- **(d)** **Insurer** means an authorised agent as defined by the WIRC Act.
+- **(e)** **OHS** means occupational health and safety.
+- **(f)** **Workplace** means workplace as defined under the OHS Act.
