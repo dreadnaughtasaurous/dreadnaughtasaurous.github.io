@@ -233,7 +233,7 @@ import { ref, watch, onMounted, onUnmounted, nextTick } from 'vue'
 // Leave empty until your Cloudflare Worker is deployed.
 // Once deployed, paste your Worker URL here, e.g.:
 // 'https://eba-ai-search.your-subdomain.workers.dev'
-const AI_WORKER_URL = ''
+const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
 const aiConfigured  = AI_WORKER_URL.length > 0
 // ─────────────────────────────────────────────────────────────────────────────
 

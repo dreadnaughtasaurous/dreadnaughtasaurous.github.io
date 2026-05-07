@@ -1,0 +1,12 @@
+{
+  "name": "eba-ask-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2026-05-07",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "preview_urls": false,
+  "vars": {
+    "PAGEFIND_BASE_URL": "https://dreadnaughtasaurous.github.io"
+  }
+  // GEMINI_API_KEY is NOT stored here — set it via: wrangler secret put GEMINI_API_KEY
+}
