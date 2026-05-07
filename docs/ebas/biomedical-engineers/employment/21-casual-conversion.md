@@ -6,7 +6,7 @@ topics: ['employment', 'casual-conversion']
 
 # 21. Casual Conversion
 
-**21.1** Employee Requests
+**21.1 Employee Requests**
 
 - **(a)** A casual Employee may make a request to convert to permanent employment under this [clause 21](/ebas/biomedical-engineers/employment/21-casual-conversion) if:
   - **(i)** the Employee has been employed by the Employer for a period of at least 6 months beginning the day the employment started;
@@ -22,10 +22,11 @@ topics: ['employment', 'casual-conversion']
     - **(A)** for an Employee that has worked the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in [subclause 21.1(a)(ii)](/ebas/biomedical-engineers/employment/21-casual-conversion) – to full-time employment; or
     - **(B)** for an Employee that has worked less than the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in [subclause 21.1(a)(ii)](/ebas/biomedical-engineers/employment/21-casual-conversion) – to part-time employment that is consistent with the regular pattern of hours or shifts worked during that period.
 
-**21.2** Employer must give a response  
+**21.2 Employer must give a response**
+
 The Employer must provide a written response to the request within 21 days after the request is received, either granting or refusing the conversion.
 
-**21.3** Refusals of requests
+**21.3 Refusals of requests**
 
 - **(a)** The Employer must not refuse the request unless:
   - **(i)** the Employer has consulted the Employee;
@@ -42,7 +43,7 @@ The Employer must provide a written response to the request within 21 days after
   - **(v)** granting the request would not comply with a recruitment or selection process required by or under a law of the Commonwealth or a State or a Territory.
 - **(c)** If the Employer refuses the request, the written response under [clause 21.2](/ebas/biomedical-engineers/employment/21-casual-conversion) must include details of the reasons for the refusal.
 
-**21.4** Grants of requests
+**21.4 Grants of requests**
 
 - **(a)** If the Employer grants the request, the Employer must, within 21 days after the day the request is given to the Employer, give written notice to the Employee of the following:
   - **(i)** whether the Employee is converting to full-time employment or part-time employment;
@@ -52,7 +53,7 @@ The Employer must provide a written response to the request within 21 days after
 - **(c)** The day specified for the purposes of [subclause 21.4(a)(iii)](/ebas/biomedical-engineers/employment/21-casual-conversion) must be the first day of the Employee's first full pay period that starts after the day the notice is given, unless the Employee and Employer agree to another day.
 - **(d)** To avoid doubt, the notice may be included in the written response under [clause 21.2](/ebas/biomedical-engineers/employment/21-casual-conversion).
 
-**21.5** Effect of conversion
+**21.5 Effect of conversion**
 
 - **(a)** An Employee is taken, on and after the day specified in a notice for the purposes of [subclause 21.4(a)(iii)](/ebas/biomedical-engineers/employment/21-casual-conversion), to be a full-time Employee or a part-time Employee of the Employer.
 - **(b)** Casual loading will cease, and, subject to this Agreement, any benefits relating to permanent employment will commence on the day specified in a notice for the purposes of [subclause 21.4(a)(iii)](/ebas/biomedical-engineers/employment/21-casual-conversion).

@@ -6,15 +6,17 @@ topics: ['disputes', 'classification']
 
 # 14A. Alternative Dispute Resolution Procedure
 
-**14A.1** Application  
+**14A.1 Application**
+
 The Alternative Dispute Resolution Panel (Panel) is empowered to hear and determine disputes under this Agreement in relation to the classification of an Employee or the progression between classifications.
 
-**14A.2** Composition and principles of the Panel
+**14A.2 Composition and principles of the Panel**
 
 - **(a)** The Panel for each dispute will comprise three persons being:
   - **(i)** a nominee of the Union (on behalf of the Employee/s);
   - **(ii)** a nominee of the VHIA (on behalf of the Employer); and
-  - **(iii)** an independent chairperson (Chair) agreed by the Union and the VHIA or in the absence of agreement, as nominated by the Minister for Health. Note: A nominee of the Union or VHIA may change at any stage depending on the nature of the matter being determined by the Panel.
+  - **(iii)** an independent chairperson (Chair) agreed by the Union and the VHIA or in the absence of agreement, as nominated by the Minister for Health. 
+  >**Note:** A nominee of the Union or VHIA may change at any stage depending on the nature of the matter being determined by the Panel.
 - **(b)** The Panel Chair shall act as an independent third party in deliberations of the Panel.
 - **(c)** A nominee on the Panel must recuse themselves from being involved in a matter if they are directly and/or personally affected by the outcome.
 - **(d)** The Panel will commence determining an application made under this clause within 21 days of receiving the application and conclude its deliberations as expeditiously as possible.
@@ -29,7 +31,8 @@ The Alternative Dispute Resolution Panel (Panel) is empowered to hear and determ
 - **(k)** Lawyers and paid agents, who are not direct employees of the Union, VHIA, Department or an Employer may not be given permission to appear before the Panel.
 - **(l)** A party to a dispute that is being dealt with under this clause shall not make an application to the Commission for it to deal with the same dispute, other than an application made under [subclause 14.8(j)](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) – (n). Nothing prevents an application to the Commission where the Panel ceases to deal with a dispute without having made a determination (including situations where an applicant has discontinued or withdrawn their matter).
 
-**14A.3** Functions of the Panel Chair  
+**14A.3 Functions of the Panel Chair**
+
 The Chair shall perform the following functions:
 
 - **(a)** notify all parties to the matter and the Department of the hearing dates;
@@ -37,7 +40,7 @@ The Chair shall perform the following functions:
 - **(c)** conciliate matters, by chairing conferences between the employer(s) and/or their representative/s, and the Union; and
 - **(d)** anything else necessary to give effect to the provisions of this clause.
 
-**14A.4** Application to Panel to deal with a dispute
+**14A.4 Application to Panel to deal with a dispute**
 
 - **(a)** Either an Employer or an Employee/s (or their representatives) may make an application to the Panel to determine a dispute only where the Parties have attempted to resolve the dispute at the workplace as described at [subclause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) of the Agreement.
 - **(b)** If the provisions of [subclause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) (Discussion of dispute at workplace) or [clause 14.2](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) (Obligations) have not been complied with prior to the application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
@@ -52,7 +55,7 @@ The Chair shall perform the following functions:
   Current status of matters  
   Steps already taken to resolve the dispute
 
-- **(d)** Application by an Employee/s
+- **(d) Application by an Employee/s**
   - **(i)** An Employee/s may only make an application directly to the Panel where the matter directly involves and affects them.
   - **(ii)** The Chair shall notify the Union, VHIA and the Employer of an application made by an Employee directly to the Panel.
   - **(iii)** Before referral to the Panel for determination, the Chair in the first instance shall review the Employee's application to determine that the nature of the dispute is within the scope of this clause and therefore able to be determined by the Panel.
@@ -60,7 +63,7 @@ The Chair shall perform the following functions:
   - **(v)** If the Chair finds the Employee's application is not within the scope of this clause the Chair will notify the Employee that their application is not able to be heard by the Panel.
   - **(vi)** If the Chair finds the Employee's application is within the scope of this clause the Chair will notify the Employee that it will be dealt with under this clause.
 
-**14A.5** Roles, procedures, and determinations of the Panel
+**14A.5 Roles, procedures, and determinations of the Panel**
 
 - **(a)** In dealing with an application, the matters the Panel will have regard to include:
   - **(i)** available relevant material;
@@ -88,12 +91,12 @@ The Chair shall perform the following functions:
 - **(m)** Where applicable, the Commission will be assisted by the Chairperson, who will explain their recommendation, the application and supporting material, and inform the Commission of the position of the Union and the VHIA.
 - **(n)** Where applicable, the Commission will adopt an inquisitorial procedure (rather than an adversarial procedure) and will in effect stand in the shoes of the Panel and determine whether the Panel decision under review was properly reached and may substitute or uphold the existing determination. Any determination under this clause will be final and binding upon the parties and will not be subject to an appeal of the Full Bench.
 
-**14A.6** Additional Role of the Chair in considering matters affecting an Employer's funding
+**14A.6 Additional Role of the Chair in considering matters affecting an Employer's funding**
 
 - **(a)** The Union and the VHIA recognise that the Victorian Government, represented by the Department, has a right to have its funding interests heard and considered in decisions of the Panel.
 - **(b)** The interests of the Victorian Government represented by the Department include significant funding, policy and service delivery considerations and implications.
 
-**14A.7** Materials to be provided to the Panel
+**14A.7 Materials to be provided to the Panel**
 
 - **(a)** A Party shall provide all relevant material to the Panel and the other Party as soon as practicable. Relevant material may include the following:
   - **(i)** staffing/EFT levels and profiles;
@@ -101,19 +104,19 @@ The Chair shall perform the following functions:
   - **(iii)** proposed and/or actual professional reporting lines for/to the proposed position/s; and/or
   - **(iv)** organisational structure.
 
-**14A.8** Notification of Panel determinations
+**14A.8 Notification of Panel determinations**
 
 - **(a)** The Chair will notify the Union, Employer and Employee's (and their representative, where applicable) of the Panel's determination in writing within 14 days of the decision.
 - **(b)** The determined Class will apply from the date of the application.
 - **(c)** Until the determination of the Panel, the existing Class will continue to apply.
 - **(d)** Where the Panel or, on review the Commission, determines that a lower classification applies, the Employee will have their current salary maintained.
 
-**14A.9** Employee Release from normal duty
+**14A.9 Employee Release from normal duty**
 
 - **(a)** An Employee/s who is involved in a dispute before the Panel, including a Union representative and/or panel nominee, will be released by the Employer with pay from normal duties as is reasonably necessary to enable them to participate in this dispute settling procedure so long as it does not unduly affect the operations of the Employer.
 - **(b)** For the purposes of this clause 'pay' shall include shift allowances and any other payment the Employee, including a Union representative and/or panel nominee would have received had they not been released from duty as described above.
 
-**14A.10** Withdrawal of application
+**14A.10 Withdrawal of application**
 
 - **(a)** The notifier of a dispute to the Panel may withdraw their application at any time.
 - **(b)** Any notice of withdrawal of a matter shall be in writing and the Chair shall cause this to be communicated to other relevant parties.

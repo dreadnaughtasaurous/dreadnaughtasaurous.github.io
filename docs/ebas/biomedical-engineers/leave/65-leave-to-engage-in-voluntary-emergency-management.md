@@ -1,14 +1,10 @@
 ---
-title: '65. Leave To Engage In Voluntary Emergency Management'
+title: '65. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'preliminary']
 ---
 
-# 65. Leave To Engage In Voluntary Emergency Management
-
-
-
-Activities
+# 65. Leave To Engage In Voluntary Emergency Management Activities
 
 **65.1** An Employee who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to paid/unpaid leave for:
 
@@ -25,5 +21,3 @@ Activities
 **65.5** The leave under this [clause 65](/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management) will be paid up to two (2) weeks per calendar year, save that approval of paid leave is subject to the operational requirements of the Employer resulting from any emergency.
 
 **65.6** Nothing in this [clause 65](/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management) limits the ability of an Employee to be absent from employment for engaging in eligible community service activity in accordance with Division 8 of the Act.
-
-

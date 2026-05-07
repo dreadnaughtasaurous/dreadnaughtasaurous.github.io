@@ -6,10 +6,12 @@ topics: ['union-matters']
 
 # 78. Union Matters
 
-**78.1** Access to Employees – General  
+**78.1 Access to Employees – General**
+
 The Union will have access to Employees for any process arising under this Agreement.
 
-**78.2** Access to Employees – Electronic communication  
+**78.2 Access to Employees – Electronic communication**
+
 The Employer will ensure that:
 
 - **(a)** emails from the Union domain name are not blocked or restricted by or on behalf of the Employer, except in respect of any individual Employee who has made a written request to the Employer to block such emails;
@@ -17,7 +19,7 @@ The Employer will ensure that:
 - **(c)** access from health service computers and like devices to Union websites and online information is not blocked, or limited; and
 - **(d)** where a genuine security concern arises regarding the above, the Employer will immediately notify the Union to enable the security concern to be addressed.
 
-**78.3** Access to Employees – Orientation
+**78.3 Access to Employees – Orientation**
 
 - **(a)** The Union may attend and address new Employees as part of their orientation / induction, provided that any attendance for the purposes of discussions with the Employees meets the right of entry requirements under Part 3-4 of the Act (Entry Requirements).
 - **(b)** Within 3 months of a new Employee/s commencement date, the details of such attendance will be arranged by the Employer in consultation with the Union, save that an Employer will advise the Union of the date, time and location of any general orientation / induction programs not less than 14 days prior to the orientation / induction program.
@@ -26,17 +28,17 @@ The Employer will ensure that:
   - **(ii)** the Union cannot reasonably attend, or
   - **(iii)** the Employer provides new Employees with written information from the Union.
 
-**78.4** Delegates and HSRs  
+**78.4 Delegates and HSRs**  
 
 > **Note:** Additional rights of HSRs are contained in the OHS Act.
 
 - **(a)** In this [subclause 78.4](/ebas/biomedical-engineers/union-matters/78-union-matters):
-  - **(i)** Representative means a Union Delegate, or HSR;
-  - **(ii)** Relevant Employee means  
+  - **(i)** **Representative** means a Union Delegate, or HSR;
+  - **(ii)** **Relevant Employee** means  
     - **(A)** In the case of a Union Delegate, members of the Union and any other persons eligible to be members of the Union; and  
     - **(B)** In the case of a HSR, members of the designated work group eligible to be represented by the HSR.
   - **(iii)** Union Delegate means, for the purposes of this clause, an Employee who presents themselves as a delegate of a Union to their Employer, and is endorsed by the Union.
-- **(b)** A Union Delegate is entitled to:
+- **(b)** A **Union Delegate** is entitled to:
   - **(i)** represent the industrial interests of Relevant Employees, including in disputes between that person and the Employer; and
   - **(ii)** reasonable communication with members of the Union, and any other persons eligible to be members of the Union, in relation to their industrial interests.
 - **(c)** For the purposes of representing the industrial interests of members of the Union and any other persons eligible to be members of the Union, a Union Delegate is entitled to reasonable access to the workplace of the Employer and any workplace facilities where work of the Employer is being undertaken.
@@ -54,21 +56,24 @@ The Employer will ensure that:
   - **(iii)** unreasonably hinder, obstruct or prevent a Union Delegate from exercising any of their rights;  
   insofar as the Union Delegate is acting in their capacity as a Representative.
 
-**78.5** Noticeboard
+**78.5 Noticeboard**
 
 - **(a)** A noticeboard for the Union’s use will be readily accessible in each ward/unit/work area or nearest staff room where persons eligible to be members of the Union are employed.
 - **(b)** The Union and members covered by this Agreement will, during the life of this Agreement, consult over the development of an electronic noticeboard managed by the Union.
 
-**78.6** Meeting Space  
+**78.6 Meeting Space**
+
 In the absence of agreement on a location for the holding of Union meetings, the room where one or more of the Employees who may participate in the meeting ordinarily take meal or other breaks will be the meeting room for the purpose of Union meetings. Nothing in this clause is intended to override the operation of the Act.
 
-**78.7** Secondment to the Union  
+**78.7 Secondment to the Union**
+
 The Employer will, on application, grant leave without pay to an Employee for the purpose of secondment or other arrangement to work for the Union subject to the Employer’s reasonable operational requirements.
 
-**78.8** Employees holding union official positions  
+**78.8 Employees holding union official positions**
+
 The Employer will, on application by the Union, grant leave without loss of pay to an Employee for the purpose of fulfilling their duties as an official of the Association or Executive body of the Union.
 
-**78.9** Union Training  
+**78.9 Union Training**  
 
 > **Note:** Where a Union Delegate is also appointed as an HSR under the OHS Act, they may be entitled to additional training in accordance with the OHS Act.
 
@@ -84,9 +89,9 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 - **(g)** Leave granted under this clause will count as service for all purposes of this Agreement.
 - **(h)** Expenses associated with attendance at training courses, including fares, accommodation and meal costs are not the responsibility of the Employer.
 
-**78.10** Workplace Implementation Committees
+**78.10 Workplace Implementation Committees**
 
-- **(a)** A local Workplace Implementation Committee (WIC) will continue or, if there is not currently a WIC in operation, be established at each Employer. Having regard for the size and location, a WIC may be appropriate at each facility/campus. The WIC will, where practicable, comprise equal numbers of representatives of the Employer and the Union for the purposes of:
+- **(a)** A local Workplace Implementation Committee (**WIC**) will continue or, if there is not currently a WIC in operation, be established at each Employer. Having regard for the size and location, a WIC may be appropriate at each facility/campus. The WIC will, where practicable, comprise equal numbers of representatives of the Employer and the Union for the purposes of:
   - **(i)** agreement implementation;
   - **(ii)** on-going monitoring and assessment of the implementation of this Agreement; and
   - **(iii)** to deal with any local disputes that may arise, without limiting the Dispute Resolution Procedure in this Agreement.

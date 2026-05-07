@@ -6,9 +6,7 @@ topics: ['hours', 'overtime', 'shift-work', 'rosters']
 
 # 49. Daylight Savings
 
-
-
-See also [clauses 46](/ebas/biomedical-engineers/hours-of-work/46-overtime) (Overtime) and 41 (Accrued Days Off).
+*See also [clauses 46](/ebas/biomedical-engineers/hours-of-work/46-overtime) (Overtime) and 41 (Accrued Days Off).*
 
 **49.1** Despite the overtime provisions of this Agreement, if an Employee works on a shift during which time changes because of the introduction of, or cessation to, daylight saving, that Employee will be paid for the actual hours worked at the ordinary time rate of pay.
 
@@ -23,5 +21,3 @@ See also [clauses 46](/ebas/biomedical-engineers/hours-of-work/46-overtime) (Ove
 **49.2** For the purpose of calculating accrued days off, Employees who work ordinary hours on a shift during which time changes because of the introduction of, or cessation to, daylight saving, will be taken to have worked the standard hours for a night shift in accordance with the roster.
 
 Plain language terms: saved conditions.
-
-

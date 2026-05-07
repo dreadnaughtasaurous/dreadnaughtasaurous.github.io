@@ -6,7 +6,7 @@ topics: ['discipline', 'union-matters']
 
 # 16. Discipline
 
-**16.1** Application
+**16.1 Application**
 
 - **(a)** Except as provided at 16.1(e), where an Employer has concerns about:
   - **(i)** the Conduct of an Employee; or
@@ -16,7 +16,7 @@ topics: ['discipline', 'union-matters']
   - **(ii)** disciplinary procedure.
 - **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 - **(d)** The Employer will notify the Employee in accordance with [subclause 16.3(b)](/ebas/biomedical-engineers/consultation-disputes/16-discipline) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 16.1(a)](/ebas/biomedical-engineers/consultation-disputes/16-discipline).
-- **(e)** Exception - Employees who have not completed a minimum period of employment with their Employer  
+- **(e) Exception - Employees who have not completed a minimum period of employment with their Employer**  
   Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at section 383 of the Act, and the Employer is considering the termination of the Employee's employment, the Employer will:
   - **(i)** provide the concerns in writing to the Employee as soon as practicable following the Employer becoming aware of the alleged concerns;
   - **(ii)** advise the Employee of their right to have a representative, including a Union representative;
@@ -26,12 +26,12 @@ topics: ['discipline', 'union-matters']
 
 The terms of [clause 16.3](/ebas/biomedical-engineers/consultation-disputes/16-discipline) to 16.5 inclusive do not apply to Employees within the scope of the exception in this [clause 16.1(e)](/ebas/biomedical-engineers/consultation-disputes/16-discipline).
 
-**16.2** Definitions
+**16.2 Definitions**
 
-- **(a)** Conduct means the manner in which the Employee's behaviour impacts on their work.
-- **(b)** Misconduct means an Employee's intentional or negligent failure to abide by or adhere to the standards of conduct expected by the Employer. A Performance issue can be considered misconduct where, despite all reasonably practicable interventions by the Employer, the Employee is unable to fulfil all or part of their job requirements to a satisfactory level.
-- **(c)** Performance means the manner in which the Employee fulfils their job requirements. The level of performance is determined by reference to an Employee's knowledge, skills, qualifications, abilities and the requirements of the role.
-- **(d)** Serious Misconduct is as defined under the Act and that is both wilful and deliberate. Currently the Act defines serious misconduct, in part, as:
+- **(a)** **Conduct** means the manner in which the Employee's behaviour impacts on their work.
+- **(b)** **Misconduct** means an Employee's intentional or negligent failure to abide by or adhere to the standards of conduct expected by the Employer. A Performance issue can be considered misconduct where, despite all reasonably practicable interventions by the Employer, the Employee is unable to fulfil all or part of their job requirements to a satisfactory level.
+- **(c)** **Performance** means the manner in which the Employee fulfils their job requirements. The level of performance is determined by reference to an Employee's knowledge, skills, qualifications, abilities and the requirements of the role.
+- **(d)** **Serious Misconduct** is as defined under the Act and that is both wilful and deliberate. Currently the Act defines serious misconduct, in part, as:
   - **(i)** wilful or deliberate behaviour by an employee that is inconsistent with the continuation of the contract of employment;
   - **(ii)** conduct that causes serious and imminent risk to:
     - **(A)** the health or safety of a person; or
@@ -46,7 +46,7 @@ The terms of [clause 16.3](/ebas/biomedical-engineers/consultation-disputes/16-d
   - **(v)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment.  
     [Subclauses 16.2(d)(iii)](/ebas/biomedical-engineers/consultation-disputes/16-discipline)-16.2(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
 
-**16.3** Investigative procedure
+**16.3 Investigative procedure**
 
 - **(a)** The purpose of an investigative procedure is to conclude whether, on balance, concerns regarding Conduct or Performance are well-founded and supported by evidence. An investigation procedure must be fair including proper regard to procedural fairness.
 - **(b)** The Employer will:
@@ -59,7 +59,7 @@ The terms of [clause 16.3](/ebas/biomedical-engineers/consultation-disputes/16-d
 - **(c)** Where the Employer has complied with [subclause 16.3(b)(i)-(iv)](/ebas/biomedical-engineers/consultation-disputes/16-discipline) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
 - **(d)** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under [clause 16.4(c)](/ebas/biomedical-engineers/consultation-disputes/16-discipline) including matters in mitigation if a disciplinary procedure (see [clause 16.4](/ebas/biomedical-engineers/consultation-disputes/16-discipline)) is proposed.
 
-**16.4** Procedure to address Misconduct or Serious Misconduct
+**16.4 Procedure to address Misconduct or Serious Misconduct**
 
 - **(a)** This procedure applies if, following the investigation, the Employer reasonably considers that the Employee's Conduct or Performance may warrant disciplinary steps being taken.
 - **(b)** The Employer will:
@@ -70,7 +70,7 @@ The terms of [clause 16.3](/ebas/biomedical-engineers/consultation-disputes/16-d
   - **(ii)** whether the Employee knew or ought to have known that the Conduct or Performance was below acceptable standards; and
   - **(iii)** any explanation by the Employee relating to Conduct including any matters raised in mitigation.
 
-**16.5** Possible outcomes
+**16.5 Possible outcomes**
 
 - **(a)** Where, after following the procedures in this clause, it is determined that the Employee has engaged in Misconduct or Serious Misconduct and disciplinary action is warranted, the Employer may take disciplinary action which shall be recorded on the Employee's personnel file, as follows:
   - **(i)** where the Performance or Conduct issue constitutes Misconduct but does not constitute Serious Misconduct, disciplinary action will be taken in accordance with the following steps:
@@ -85,8 +85,10 @@ The terms of [clause 16.3](/ebas/biomedical-engineers/consultation-disputes/16-d
 - **(b)** The Employer's decision and a summary of its reasons will be notified to the Employee in writing.
 - **(c)** If after any warning or counselling, a period of 12 or 18 months elapses (as relevant) without the Employee repeating a course of Conduct or Performance Issue for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning.
 
-**16.6** Disputes  
+**16.6 Disputes**
+
 A dispute over the clause (including sub-[clause 16.5](/ebas/biomedical-engineers/consultation-disputes/16-discipline)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
-**16.7** Performance Management  
+**16.7 Performance Management**
+  
 Nothing in this [clause 16](/ebas/biomedical-engineers/consultation-disputes/16-discipline) will prevent the Employer from undertaking performance management to support Employees in accordance with [clause 15](/ebas/allied-health/consultation-disputes/15-performance-management) - Performance Management.

@@ -12,7 +12,7 @@ topics: ['hours', 'overtime', 'shift-work', 'rosters']
 
 **48.3** If an Employee is required by the Employer to resume or to continue to work without having had 10 consecutive hours off duty they will be paid at the rate of double time until they have been released from duty for such rest period and they shall then be entitled to 10 consecutive hours off duty without loss of pay for rostered ordinary hours occurring during such absence.
 
-**48.4** Recall – no return to workplace
+**48.4 Recall – no return to workplace**
 
 - **(a)** Where an Employee:
   - **(i)** performs Recall – no return to workplace on the instructions of the Employer, and

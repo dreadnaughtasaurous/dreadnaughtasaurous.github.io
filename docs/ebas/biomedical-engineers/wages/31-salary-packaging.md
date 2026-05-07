@@ -6,8 +6,6 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 
 # 31. Salary Packaging
 
-
-
 **31.1** An Employee may elect to salary package the current salary specified in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) in accordance with the Employer’s policy.
 
 **31.2** The Employee will compensate the Employer from within their salary, for any Fringe Benefits Tax (FBT) incurred as a consequence of the Employee’s salary packaging arrangement. Where the Employee chooses not to pay any of the costs associated with their salary packaging, the Employer may cease the Employee's salary packaging arrangements.
@@ -21,5 +19,3 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 **31.6** Superannuation contributions paid by the Employer into an approved fund will be calculated on the Employee’s pre-packaged rate of pay.
 
 Plain language terms: salary sacrifice, novated lease.
-
-

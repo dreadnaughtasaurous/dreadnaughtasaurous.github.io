@@ -6,7 +6,7 @@ topics: ['leave', 'family-violence-leave', 'employment', 'flexible-work']
 
 # 85. Flexible Working Arrangements
 
-Other entitlements relevant to family and domestic violence can be found at [clause 56](/ebas/biomedical-engineers/leave/56-family-violence-leave) - Family Violence Leave.
+*Other entitlements relevant to family and domestic violence can be found at [clause 56](/ebas/biomedical-engineers/leave/56-family-violence-leave) - Family Violence Leave.*
 
 **85.1** The Act entitles a specified Employee to request flexible working arrangements in specified circumstances.
 
@@ -25,14 +25,14 @@ Other entitlements relevant to family and domestic violence can be found at [cla
 - **(f)** is experiencing family and domestic violence; or
 - **(g)** provides care or support to a member of the Employee's Immediate Family, who requires care or support because the member is experiencing family and domestic violence.
 
-**85.4** Making a request
+**85.4 Making a request**
 
 - **(a)** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at [subclause 85.3](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements).
 - **(b)** A request for a flexible work arrangement includes (but is not limited to) a request to work part-time upon return to work after taking leave for the birth or adoption of a child to assist the Employee to care for the child (which may, for example, include a reduction in existing part-time hours).
 - **(c)** Changes in working arrangements may include but are not limited to hours of work, patterns of work (including not being available to perform on-call for afterhours duty), and location of work.
 - **(d)** The request by the Employee must be in writing, set out the change sought and reasons for the change.
 
-**85.5** Responding to the request
+**85.5 Responding to the request**
 
 - **(a)** The Employer must give the Employee a written response to the request within 21 days.
 - **(b)** If the Employer cannot grant the request in full, the Employer may refuse the request only if:
@@ -41,7 +41,9 @@ Other entitlements relevant to family and domestic violence can be found at [cla
     - **(B)** genuinely tried to reach an agreement with the Employee about making changes to the Employee’s working arrangements to accommodate the Employee's circumstances;
   - **(ii)** the Employer and the Employee have not reached such an agreement;
   - **(iii)** the Employer has had regard to the consequences of the refusal for the Employee; and
-  - **(iv)** the refusal is on Reasonable Business Grounds. Note: The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request (see [subclause 4.15(b)](/ebas/biomedical-engineers/preliminary/4-definitions)).
+  - **(iv)** the refusal is on Reasonable Business Grounds. 
+  
+  >**Note:** The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request (see [subclause 4.15(b)](/ebas/biomedical-engineers/preliminary/4-definitions)).
 - **(c)** An Employee or Employer may choose to be represented at a meeting under [clause 85.5(b)(i)(A)](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements) by a representative including a Union or employer organisation.
 - **(d)** The response must:
   - **(i)** state that the Employer grants the request;
@@ -55,6 +57,8 @@ Other entitlements relevant to family and domestic violence can be found at [cla
     - **(B)** state that there are no such changes; and
   - **(iv)** set out the effect of [subclause 85.6](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements), including if a dispute is referred to the Commission.
 
-**85.6** Dispute Resolution The dispute resolution procedure in the Agreement will apply to any grievance/dispute arising in relation to a request for flexible working arrangements.
+**85.6 Dispute Resolution** 
+
+The dispute resolution procedure in the Agreement will apply to any grievance/dispute arising in relation to a request for flexible working arrangements.
 
 Plain language terms: flex work, flexible hours, WFH.

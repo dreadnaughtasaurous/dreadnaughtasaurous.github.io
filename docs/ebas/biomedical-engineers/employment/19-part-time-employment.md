@@ -21,19 +21,20 @@ topics: ['hours', 'employment']
 
 **19.4** A part-time Employee may be employed on either an ongoing or fixed term basis.
 
-**19.5** Entitlements  
+**19.5 Entitlements**
+
 The terms of this Agreement apply to part-time Employees on the basis that the ordinary weekly hours for full-time Employees are 38, including:
 
 - **(a)** payment at an hourly rate equal to 1/38th of the weekly rate appropriate for the Employee’s classification; and
 - **(b)** leave entitlements on a pro rata basis.
 
-**19.6** Additional hours
+**19.6 Additional hours**
 
 - **(a)** A part time Employee may be offered additional hours at the applicable ordinary time rates for the time worked, within the limits prescribed by this Agreement.
 - **(b)** A part-time Employee is entitled to decline an offer of additional ordinary hours.
 - **(c)** Where a part-time Employee is directed by the Employer to work reasonable additional hours, or works hours in excess of 38 in a week, an average of 38 hours a week or the limits prescribed by the Agreement, overtime rates will apply.
 
-**19.7** Part Time Hours Review
+**19.7 Part Time Hours Review**
 
 - **(a)** Where over a period of 26 weeks or more a part-time Employee regularly and/or systematically works more than their contracted hours, the Employer or the Employee may request in writing a contract variation reflecting that the Employee’s hours have increased on a permanent basis. Such a request will not be unreasonably refused by either party.
 - **(b)** Where the Employer makes the request under [subclause 19.7(a)](/ebas/biomedical-engineers/employment/19-part-time-employment), at the time of making the request the Employer will also notify the Employee in writing of their obligations under this [subclause 19.7](/ebas/biomedical-engineers/employment/19-part-time-employment).

@@ -6,8 +6,6 @@ topics: ['leave', 'annual-leave', 'wages', 'superannuation']
 
 # 52. Cashing Out Of Annual Leave
 
-
-
 **52.1** Subject to [subclause 52.2](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave) below, where an Employee has accrued annual leave in excess of eight (8) weeks then by mutual written agreement between the Employee and the Employer, the Employee may cash out some of the annual leave (and annual leave loading as applicable) due to the Employee as a one off cash payment. Superannuation contributions will be paid by the Employer in respect of the period of annual leave to be paid out.
 
 **52.2** Cashing out of accrued annual leave in accordance with this clause is subject to:
@@ -19,5 +17,3 @@ topics: ['leave', 'annual-leave', 'wages', 'superannuation']
 **52.3** An Employee's accrued annual leave entitlement will be reduced by the amount of annual leave paid out.
 
 Plain language terms: holidays, vacation.
-
-

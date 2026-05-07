@@ -6,19 +6,19 @@ topics: ['preliminary']
 
 # 82. Classification Definitions
 
-**82.1** Biomedical Engineers Class 1
+**82.1 Biomedical Engineers Class 1**
 
 - **(a)** Positions at Class 1 are regarded as entry level health professionals and for initial years of experience.
 - **(b)** Classes 1 & 2 may be the entry level for new graduates who meet the requirement to practice as a health professional (where appropriate in accordance with their professional association’s rules and be eligible for membership of their professional association) or such qualification as deemed acceptable by the Employer. It is also the level for the early stages of the career of a health professional.
 - **(c)** Progression between Class 1 and 2 will be automatic.
 
-**82.2** Biomedical Engineers Class 2
+**82.2 Biomedical Engineers Class 2**
 
 - **(a)** A health professional at this level works independently and is required to exercise independent judgement on routine matters. They may require professional supervision from more senior members of the profession or health team when performing novel, complex or critical tasks. They have demonstrated a commitment to continuing professional development and may have contributed to workplace education through provision of seminars, lectures or in-services. At this level the health professional may be actively involved in quality improvement activities or research.
 - **(b)** At this level the health professional contributes to the evaluation and analysis of guidelines, policies and procedures applicable to their clinical/professional work and may be required to contribute to the supervision of discipline specific students.
 - **(c)** Progression between class 1 and 2 will be automatic.
 
-**82.3** Biomedical Engineers Class 3
+**82.3 Biomedical Engineers Class 3**
 
 - **(a)** The Biomedical Engineer Class 3 is capable of carrying out responsibilities and varied professional engineering work, and makes independent studies, analysis, interpretation and conclusions.
 - **(b)** The Biomedical Engineer Class 3/1 is a Biomedical Engineer who is appointed and who either:
@@ -38,7 +38,7 @@ topics: ['preliminary']
   - **(iii)** Presented original research or biomedical technology design or development to a relevant professional group.
 - **(f)** Progression to class 3 is not automatic. Progression to class 3 will be by appointment (see also [clause 80](/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification) – Classification and Reclassification).
 
-**82.4** Biomedical Engineer Class 4
+**82.4 Biomedical Engineer Class 4**
 
 - **(a)** The Biomedical Engineer Class 4 is expected to possess mature engineering knowledge and judgement in Biomedical Engineering practice, to continue to develop expertise with advances in the relevant body of engineering knowledge, and, to seek and utilise other specialist advice when required. Such work normally is accepted as technically accurate and feasible.
 - **(b)** The Biomedical Engineer Class 4/1 is a Biomedical Engineer who is appointed or reclassified from a lower Class and who:
@@ -61,7 +61,7 @@ topics: ['preliminary']
 - **(f)** Single site managers will be classified at Class 4.
 - **(g)** Progression to class 4 is not automatic. Progression to class 4 will be by appointment (see also [clause 80](/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification) – Classification and Reclassification).
 
-**82.5** Biomedical Engineer Class 5
+**82.5 Biomedical Engineer Class 5**
 
 - **(a)** The Biomedical Engineer Class 5 works under broad policy control and direction and undertakes professional engineering work requiring either sustained managerial functions or in-depth engineering knowledge and competence, exercising experienced independent judgement and originality.
 - **(b)** The Biomedical Engineer Class 5/1 is a Biomedical Engineer who is appointed or reclassified from a lower Class and who either:

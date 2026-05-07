@@ -6,9 +6,9 @@ topics: ['employment']
 
 # 22. Fixed Term Employment
 
-Fixed term contracts entered into after 6 December 2023 are subject to this clause and the Act, the terms of the Act will prevail.
+*Fixed term contracts entered into after 6 December 2023 are subject to this clause and Part 2-9, Division 5 of the Act. Where there is any inconsistency between this clause and the Act, the terms of the Act will prevail.* 
 
-**22.1** General
+**22.1 General**
 
 - **(a)** A fixed term Employee is an Employee who is employed for a specified period of time, which period is known at the commencement of the contract, or for a specified task such as a project or replacement of an absent employee.
 - **(b)** Subject to this /ebas/biomedical-engineers/employment/22-fixed-term-employment, fixed term employment will not be used to fill an ongoing position, or offered through consecutive fixed term employment contracts for work that is otherwise ongoing.
@@ -16,8 +16,9 @@ Fixed term contracts entered into after 6 December 2023 are subject to this clau
   - **(i)** the term of the contract that provides that the contract will terminate at the end of the specified period is taken to have no effect; and
   - **(ii)** the contravention is taken not to affect the validity of any other term of the contract.
 
-**22.2** Exceptions  
-/subebas/biomedical-engineers/employment/22-fixed-term-employment, 22.4 and 22.5 below do not apply to a fixed term contract if:
+**22.2 Exceptions**
+
+Subclauses 22.3(a), 22.4 and 22.5 below do not apply to a fixed term contract if:
 
 - **(a)** the Employee is engaged:
   - **(i)** to perform only a distinct and identifiable task involving specialised skills; or
@@ -31,7 +32,7 @@ Fixed term contracts entered into after 6 December 2023 are subject to this clau
   - **(ii)** the funding is payable for a period of more than 2 years; and
   - **(iii)** there are no reasonable prospects that the funding will be renewed after the end of that period.
 
-**22.3** Time Limitations
+**22.3 Time Limitations**
 
 - **(a)** A fixed term contract will be for a maximum of 2 years duration. This time limitation includes any extensions or renewals.
 - **(b)** Where one of the exceptions outlined at /ebas/biomedical-engineers/employment/22-fixed-term-employment applies, fixed term appointments to a specific position or consecutive fixed term appointments involving the same or substantially similar work, will be for a maximum of 3 years duration except in relation to:
@@ -42,13 +43,15 @@ Fixed term contracts entered into after 6 December 2023 are subject to this clau
   - **(v)** back-fill of an Employee who is posted overseas.
 - **(c)** Where /ebas/biomedical-engineers/employment/22-fixed-term-employment applies and the Employer wants to continue the role for a duration beyond 3 years, the Employer must follow the process for conversion to ongoing employment as outlined at /ebas/allied-health/appendices/3-allowances-and-top-of-band-payments.
 
-**22.4** Renewal Limitations  
+**22.4 Renewal Limitations**
+
 A fixed term contract cannot:
 
 - **(a)** include an option to extend or renew the contract more than once, or
 - **(b)** extend or renew the contract so that the period of employment is longer than 2 years.
 
-**22.5** Consecutive Contract Limitations  
+**22.5 Consecutive Contract Limitations**
+
 An Employee cannot be offered a new fixed term contract if:
 
 - **(a)** their previous contract was also for a fixed term, and
@@ -63,5 +66,6 @@ An Employee cannot be offered a new fixed term contract if:
     - **(B)** that was for the same or substantially similar work, and
     - **(C)** where there was substantial continuity in the employment relationship.
 
-**22.6** Disputes  
+**22.6 Disputes**
+  
 In the event of a dispute arising over the provisions of this /ebas/biomedical-engineers/employment/22-fixed-term-employment, the dispute resolution procedure at /ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure of this Agreement applies.

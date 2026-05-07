@@ -22,7 +22,7 @@ topics: ['leave']
 - [62. Breastfeeding](./leave/62-breastfeeding/)
 - [63. Long Service Leave](./leave/63-long-service-leave/)
 - [64. Blood Donors Leave](./leave/64-blood-donors-leave/)
-- [65. Leave to Engage in Voluntary Emergency Management](./leave/65-leave-to-engage-in-voluntary-emergency-management/)
+- [65. Leave to Engage in Voluntary Emergency Management Activities](./leave/65-leave-to-engage-in-voluntary-emergency-management/)
 - [66. Ceremonial Leave](./leave/66-ceremonial-leave/)
 - [67. Jury Service](./leave/67-jury-service/)
 - [68. Absences on Defence Service](./leave/68-absences-on-defence-service/)

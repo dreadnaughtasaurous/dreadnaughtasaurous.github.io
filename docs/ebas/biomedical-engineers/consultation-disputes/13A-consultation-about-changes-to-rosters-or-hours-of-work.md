@@ -6,7 +6,7 @@ topics: ['consultation', 'rosters', 'hours-of-work']
 
 # 13A. Consultation about Changes to Rosters or Hours of Work
 
-This [clause 13A](/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon an employee, particularly in relation to their family and caring responsibilities) does not constitute a 'Major Change' in accordance with [subclause 13.2(c)](/ebas/biomedical-engineers/consultation-disputes/13-consultation).
+*This [clause 13A](/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon an employee, particularly in relation to their family and caring responsibilities) does not constitute a 'Major Change' in accordance with [subclause 13.2(c)](/ebas/biomedical-engineers/consultation-disputes/13-consultation).*
 
 **13A.1** Where an Employer proposes to change an Employee's regular roster or ordinary hours of work, the Employer must consult with the Employee or Employees affected and their representatives, if any, about the proposed change.
 

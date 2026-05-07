@@ -6,16 +6,14 @@ topics: ['leave', 'employment', 'preliminary']
 
 # 70. Leave Without Pay
 
-**70.1** Definitions  
+**70.1 Definitions**  
 For the purposes of this /ebas/biomedical-engineers/leave/70-leave-without-pay only, continuous service includes:
 
 - **(a)** continuous service with one and the same Employer, or
 - **(b)** continuous service with more than one Employer including institutions or statutory bodies (as defined at /ebas/biomedical-engineers/leave/63-long-service-leave and (j)), and
 - **(c)** an allowable period of absence (as defined at /ebas/biomedical-engineers/leave/63-long-service-leave).
 
----
-
-**70.2** Leave without pay for research or study
+**70.2 Leave without pay for research or study**
 
 - **(a)** A full-time or part-time Employee may make an application for a period of up to 12 months unpaid leave where:
   - **(i)** they have completed six (6) years continuous service, and
@@ -25,9 +23,7 @@ For the purposes of this /ebas/biomedical-engineers/leave/70-leave-without-pay o
 - **(d)** The Employer will only refuse the application on Reasonable Business Grounds。
 - **(e)** Subject to the terms of this Agreement, an unpaid leave of absence taken in accordance with this clause will not count towards continuity of service (including for Long Service Leave purposes), however it will not break service.
 
----
-
-**70.3** Other leave without pay
+**70.3 Other leave without pay**
 
 - **(a)** An Employer is not prohibited from granting discretionary leave without pay:
   - **(i)** that is longer than 12 months duration, and/or

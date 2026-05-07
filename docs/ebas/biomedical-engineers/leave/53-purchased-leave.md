@@ -6,9 +6,7 @@ topics: ['leave', 'wages', 'employment']
 
 # 53. Purchased Leave
 
-
-
-This clause does not apply to casual Employees.
+*This clause does not apply to casual Employees.*
 
 **53.1** An Employee may apply to purchase up to 20 working days (pro-rated for part-time Employees) additional paid leave in a twelve-month period at ordinary pay.
 
@@ -38,5 +36,3 @@ This clause does not apply to casual Employees.
 
 - **(a)** counts as service for all purposes; and
 - **(b)** is not annual leave.
-
-

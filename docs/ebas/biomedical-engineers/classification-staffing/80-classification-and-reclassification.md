@@ -10,13 +10,13 @@ topics: ['preliminary']
 
 **80.2** The Employer shall notify each Employee in writing of their classification and terms of employment.
 
-**80.3** Position Description Review
+**80.3 Position Description Review**
 
 - **(a)** An Employee may request a position description (PD) review at any time in writing.
 - **(b)** Upon receipt of the written request, the Employer will review the Employee’s PD within 30 days with a view to ensuring it accurately reflects their role’s substantive tasks and duties.
 - **(c)** If, following the review, agreement is not reached on the contents of the PD, the Employer or Employee may refer it to the dispute resolution procedure in this Agreement ([clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)).
 
-**80.4** Reclassification
+**80.4 Reclassification**
 
 - **(a)** Where an Employee believes that the work performed and required by their position is better described by another classification with a higher rate of pay, the Employee may seek reclassification by notifying the Employer in writing, addressing why they believe another classification better describes the work performed and required by their position, having regard to both the current and proposed classification. The Employee’s Manager may also make the reclassification request.
 - **(b)** The Employer will provide a written response to the requested reclassification within four (4) weeks. Where the Employer, in accordance with [subclause 80.1](/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification), does not believe the work performed and required by the Employee’s position is better described by another classification, the Employer will provide the reasons for this, having regard to both the current and proposed classification.

@@ -6,11 +6,15 @@ topics: ['wages', 'preliminary', 'classifications']
 
 # 29. Payment Of Wages
 
-**29.1** Frequency of payment Wages will be paid not later than Thursday following the end of the pay period, providing no unforeseen event outside the control of the Employer frustrates the Employer's ability to meet the requirements of this subclause.
+**29.1 Frequency of payment** 
 
-**29.2** Method of payment Wages will be paid by electronic funds transfer into the bank or financial institution account nominated by the Employee, unless otherwise agreed.
+Wages will be paid not later than Thursday following the end of the pay period, providing no unforeseen event outside the control of the Employer frustrates the Employer's ability to meet the requirements of this subclause.
 
-**29.3** Payslip
+**29.2 Method of payment** 
+
+Wages will be paid by electronic funds transfer into the bank or financial institution account nominated by the Employee, unless otherwise agreed.
+
+**29.3 Payslip**
 
 - **(a)** On or prior to pay day, the Employer will provide each Employee with a pay slip.
 - **(b)** The payslip will include the information required by the Act and Regulations, including but not limited to specifying:
@@ -19,17 +23,19 @@ topics: ['wages', 'preliminary', 'classifications']
   - **(iii)** if an amount was deducted from the gross amount of the payment, the name and number of the fund or account into which the deduction was paid; and
   - **(iv)** the net amount for each payment.
 
-**29.4** Records The Employer will comply with its obligations under the Act and Regulations with respect to record keeping, including but not limited to:
+**29.4 Records** 
+
+The Employer will comply with its obligations under the Act and Regulations with respect to record keeping, including but not limited to:
 
 - **(a)** a requirement to keep a record that sets out any leave the Employee takes and the balance (if any) of the Employee's entitlement to that leave from time to time;
 - **(b)** the inspection and copying of an Employee record by the Employee or former Employee to whom the record relates; and
 - **(c)** the requirement to keep accurate Employee records.
 
-**29.5** Deductions
+**29.5 Deductions**
 
 Any deductions from an Employee’s pay must be in accordance with section 324 of the Act.
 
-**29.6** Underpayments
+**29.6 Underpayments**
 
 - **(a)** Where an Employee considers they have been underpaid by reason of an error made by the Employer, the Employee may request that the Employer rectify the error.
 - **(b)** Unless the Employee agrees to defer the correction of the underpayment, the underpayment will be corrected as follows:
