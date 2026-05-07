@@ -52,9 +52,14 @@
               :class="{ active: activeTab === 'ask' }"
               @click="switchTab('ask')"
             >
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10"/><path d="M12 6v6l4 2"/><circle cx="19" cy="5" r="3" fill="currentColor" stroke="none"/></svg>
+              <!-- Sparks icon -->
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10.9395 2.29297C10.752 1.90234 10.2441 1.90234 10.0566 2.29297L8.40039 5.74609L4.59277 6.30469C4.16602 6.36719 3.99414 6.89453 4.30371 7.19531L7.05859 9.87891L6.40332 13.6699C6.33008 14.0957 6.7793 14.418 7.15527 14.2207L10.498 12.4805L13.8408 14.2207C14.2168 14.418 14.666 14.0957 14.5928 13.6699L13.9375 9.87891L16.6924 7.19531C17.002 6.89453 16.8301 6.36719 16.4033 6.30469L12.5957 5.74609L10.9395 2.29297Z"/>
+                <path d="M19.5 13C19.2239 13 19 13.2239 19 13.5C19 14.8807 17.8807 16 16.5 16C16.2239 16 16 16.2239 16 16.5C16 16.7761 16.2239 17 16.5 17C17.8807 17 19 18.1193 19 19.5C19 19.7761 19.2239 20 19.5 20C19.7761 20 20 19.7761 20 19.5C20 18.1193 21.1193 17 22.5 17C22.7761 17 23 16.7761 23 16.5C23 16.2239 22.7761 16 22.5 16C21.1193 16 20 14.8807 20 13.5C20 13.2239 19.7761 13 19.5 13Z"/>
+                <path d="M4.5 15C4.22386 15 4 15.2239 4 15.5C4 16.3284 3.32843 17 2.5 17C2.22386 17 2 17.2239 2 17.5C2 17.7761 2.22386 18 2.5 18C3.32843 18 4 18.6716 4 19.5C4 19.7761 4.22386 20 4.5 20C4.77614 20 5 19.7761 5 19.5C5 18.6716 5.67157 18 6.5 18C6.77614 18 7 17.7761 7 17.5C7 17.2239 6.77614 17 6.5 17C5.67157 17 5 16.3284 5 15.5C5 15.2239 4.77614 15 4.5 15Z"/>
+              </svg>
               Ask AI
-              <span class="tab-badge" v-if="!aiConfigured">Beta</span>
+              <span class="tab-badge">Beta</span>
             </button>
           </div>
 
@@ -130,95 +135,95 @@
           </template>
 
           <!-- ASK AI TAB -->
-      <template v-else-if="activeTab === 'ask'">
-        <div class="search-body ask-body">
+          <template v-else-if="activeTab === 'ask'">
+            <div class="search-body ask-body">
 
-          <!-- Not yet configured notice -->
-          <div v-if="!aiConfigured" class="ai-not-configured">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
-            <p><strong>AI Search not yet configured</strong></p>
-            <p>The AI search feature requires a Cloudflare Worker to be set up. The Pagefind keyword search is fully operational in the meantime.</p>
-          </div>
-
-          <!-- AI is configured — show submit button, loading, error, answer -->
-          <template v-else>
-            <div class="ask-input-row">
-              <button
-                class="ask-btn"
-                :disabled="aiLoading || query.trim().length < 5"
-                @click="submitAsk"
-              >
-                <svg v-if="!aiLoading" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
-                <span v-else>Ask</span>
-              </button>
-            </div>
-
-            <div v-if="aiLoading" class="ai-loading">
-              <span class="loading-dots">Reading EBA content<span>.</span><span>.</span><span>.</span></span>
-            </div>
-
-            <div v-else-if="aiError" class="ai-error">
-              <strong>Something went wrong.</strong> {{ aiError }}
-            </div>
-
-            <div v-else-if="aiAnswer" class="ai-answer">
-              <div class="ai-answer-body" v-html="aiAnswer"></div>
-              <div v-if="aiSources.length" class="ai-sources">
-                <p class="ai-sources-label">Sources used:</p>
-                <a
-                  v-for="src in aiSources"
-                  :key="src.url"
-                  :href="src.url"
-                  class="ai-source-link"
-                  @click="close"
-                >{{ src.title }}</a>
+              <!-- Not yet configured notice -->
+              <div v-if="!aiConfigured" class="ai-not-configured">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
+                <p><strong>AI Search not yet configured</strong></p>
+                <p>The AI search feature requires a Cloudflare Worker to be set up. The Pagefind keyword search is fully operational in the meantime.</p>
               </div>
-              <p class="ai-disclaimer">
-                ⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.
-              </p>
+
+              <!-- AI is configured — show submit button, loading, error, answer -->
+              <template v-else>
+                <div class="ask-input-row">
+                  <button
+                    class="ask-btn"
+                    :disabled="aiLoading || query.trim().length < 5"
+                    @click="submitAsk"
+                  >
+                    <svg v-if="!aiLoading" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                    <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
+                    <span v-else>Ask</span>
+                  </button>
+                </div>
+
+                <div v-if="aiLoading" class="ai-loading">
+                  <span class="loading-dots">Reading EBA content<span>.</span><span>.</span><span>.</span></span>
+                </div>
+
+                <div v-else-if="aiError" class="ai-error">
+                  <strong>Something went wrong.</strong> {{ aiError }}
+                </div>
+
+                <div v-else-if="aiAnswer" class="ai-answer">
+                  <div class="ai-answer-body" v-html="aiAnswer"></div>
+                  <div v-if="aiSources.length" class="ai-sources">
+                    <p class="ai-sources-label">Sources used:</p>
+                    <a
+                      v-for="src in aiSources"
+                      :key="src.url"
+                      :href="src.url"
+                      class="ai-source-link"
+                      @click="close"
+                    >{{ src.title }}</a>
+                  </div>
+                  <p class="ai-disclaimer">
+                    ⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.
+                  </p>
+                </div>
+              </template>
+
+              <!-- Example questions — always visible regardless of configuration state -->
+              <div class="ask-hint" v-if="!aiAnswer && !aiLoading">
+                <p>{{ aiConfigured ? 'Try asking — specify the EBA and employee type for best results:' : 'Example questions you\'ll be able to ask — specify the EBA and employee type for best results:' }}</p>
+                <ul class="ask-examples">
+                  <li
+                    @click="aiConfigured ? useExample('Is a full-time employee under the Nurses and Midwives EBA entitled to overtime pay on a public holiday?') : null"
+                    :class="{ 'ask-example-preview': !aiConfigured }"
+                  >
+                    Is a full-time employee under the <strong>Nurses &amp; Midwives EBA</strong> entitled to overtime pay on a public holiday?
+                  </li>
+                  <li
+                    @click="aiConfigured ? useExample('How much notice is required before changing the roster of a part-time nurse under the Nurses and Midwives EBA?') : null"
+                    :class="{ 'ask-example-preview': !aiConfigured }"
+                  >
+                    How much notice is required before changing the roster of a part-time nurse under the <strong>Nurses &amp; Midwives EBA</strong>?
+                  </li>
+                  <li
+                    @click="aiConfigured ? useExample('What is the recall allowance for a Grade 3 Allied Health employee under the Allied Health EBA?') : null"
+                    :class="{ 'ask-example-preview': !aiConfigured }"
+                  >
+                    What is the recall allowance for a Grade 3 employee under the <strong>Allied Health EBA</strong>?
+                  </li>
+                  <li
+                    @click="aiConfigured ? useExample('What overtime rates apply to a resident medical officer under the Doctors in Training EBA after 10 hours on a weekday shift?') : null"
+                    :class="{ 'ask-example-preview': !aiConfigured }"
+                  >
+                    What overtime rates apply to a resident medical officer under the <strong>Doctors in Training EBA</strong> after 10 hours on a weekday shift?
+                  </li>
+                  <li
+                    @click="aiConfigured ? useExample('Is a full-time administration officer under the HAS Managers and Admin EBA entitled to a meal allowance for overtime?') : null"
+                    :class="{ 'ask-example-preview': !aiConfigured }"
+                  >
+                    Is a full-time administration officer under the <strong>HAS Managers &amp; Admin EBA</strong> entitled to a meal allowance for overtime?
+                  </li>
+                </ul>
+              </div>
+
             </div>
           </template>
-
-    <!-- Example questions — always visible regardless of configuration state -->
-<div class="ask-hint" v-if="!aiAnswer && !aiLoading">
-  <p>{{ aiConfigured ? 'Try asking — specify the EBA and employee type for best results:' : 'Example questions you\'ll be able to ask — specify the EBA and employee type for best results:' }}</p>
-  <ul class="ask-examples">
-    <li
-      @click="aiConfigured ? useExample('Is a full-time employee under the Nurses and Midwives EBA entitled to overtime pay on a public holiday?') : null"
-      :class="{ 'ask-example-preview': !aiConfigured }"
-    >
-      Is a full-time employee under the <strong>Nurses &amp; Midwives EBA</strong> entitled to overtime pay on a public holiday?
-    </li>
-    <li
-      @click="aiConfigured ? useExample('How much notice is required before changing the roster of a part-time nurse under the Nurses and Midwives EBA?') : null"
-      :class="{ 'ask-example-preview': !aiConfigured }"
-    >
-      How much notice is required before changing the roster of a part-time nurse under the <strong>Nurses &amp; Midwives EBA</strong>?
-    </li>
-    <li
-      @click="aiConfigured ? useExample('What is the recall allowance for a Grade 3 Allied Health employee under the Allied Health EBA?') : null"
-      :class="{ 'ask-example-preview': !aiConfigured }"
-    >
-      What is the recall allowance for a Grade 3 employee under the <strong>Allied Health EBA</strong>?
-    </li>
-    <li
-      @click="aiConfigured ? useExample('What overtime rates apply to a resident medical officer under the Doctors in Training EBA after 10 hours on a weekday shift?') : null"
-      :class="{ 'ask-example-preview': !aiConfigured }"
-    >
-      What overtime rates apply to a resident medical officer under the <strong>Doctors in Training EBA</strong> after 10 hours on a weekday shift?
-    </li>
-    <li
-      @click="aiConfigured ? useExample('Is a full-time administration officer under the HAS Managers and Admin EBA entitled to a meal allowance for overtime?') : null"
-      :class="{ 'ask-example-preview': !aiConfigured }"
-    >
-      Is a full-time administration officer under the <strong>HAS Managers &amp; Admin EBA</strong> entitled to a meal allowance for overtime?
-    </li>
-  </ul>
-</div>
-
-  </div>
-</template>
 
         </div>
       </div>
