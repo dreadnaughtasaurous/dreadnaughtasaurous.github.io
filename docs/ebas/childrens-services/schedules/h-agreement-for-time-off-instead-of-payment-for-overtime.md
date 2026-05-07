@@ -8,6 +8,16 @@ topics: ['schedules', 'hours', 'overtime']
 
 >[Sched I inserted by PR584086 ppc 22Aug16; renumbered as Sched H by PR747480 ppc 14Nov22]
 
+---
+
+<FileAttachment
+  href="/attachments/childrens-services/schedule-h-agreement-for-time-off-instead-of-payment-for-overtime.pdf"
+  label="Time Off Instead of Payment for Overtime Agreement"
+  description="Children's Services Award 2010"
+/>
+
+---
+
 Link to PDF copy of [Agreement for Time Off Instead of Payment for Overtime](https://www.fwc.gov.au/documents/awards/resources/toil-agreement.pdf).
 
 ---

@@ -18,7 +18,7 @@ topics: ['leave', 'long-service-leave', 'hours', 'overtime', 'wages', 'employmen
 
 ---
 
-**19.3** Payment on termination of employment
+**19.3 Payment on termination of employment**
 
 >[19.3 varied by PR530861, PR710965 ppc 09Aug19]
 

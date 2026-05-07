@@ -21,5 +21,3 @@ Family and domestic violence leave is provided for in the [NES](https://www.fwc.
 >Depending upon the circumstances, evidence that would satisfy a reasonable person of the employee's need to take family and domestic violence leave may include a document issued by the police service, a court or family violence support service, or a statutory declaration.
 
 Plain language terms: DV leave, FDV.
-
-

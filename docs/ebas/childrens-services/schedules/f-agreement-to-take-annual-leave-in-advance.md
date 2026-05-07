@@ -6,6 +6,16 @@ topics: ['schedules', 'leave', 'annual-leave']
 
 # Schedule F - Agreement To Take Annual Leave In Advance: Children's Services EBA
 
+---
+
+<FileAttachment
+  href="/attachments/childrens-services/schedule-f-leave-in-advance-agreement.pdf"
+  label="Annual Leave in Advance Agreement"
+  description="Children's Services Award 2010"
+/>
+
+---
+
 Link to PDF copy of [Agreement to Take Annual Leave in Advance](https://www.fwc.gov.au/documents/awards/resources/leave-in-advance-agreement.pdf).
 
 ---

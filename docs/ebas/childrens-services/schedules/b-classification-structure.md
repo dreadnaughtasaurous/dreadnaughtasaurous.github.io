@@ -12,7 +12,7 @@ topics: ['schedules', 'classifications']
 
 All employees will be classified by the employer into one of the levels contained in this Schedule in accordance with the employee’s skills, responsibilities, qualifications, experience in the industry and duties.
 
-**B.1** Children’s Services Employees (CSE)
+## B.1 Children’s Services Employees (CSE)
 
 >[B.1 renamed and substituted by PR794818 ppc 01Mar26]
 
@@ -65,7 +65,7 @@ An employee who is appointed:
 
 and who has completed a relevant degree or other qualification, or is deemed by the employer or relevant legislation to hold such qualification or possess such experience as appropriate or required for the position.
 
-**B.2** Support Worker
+## **B.2** Support Worker
 
 **B.2.1 Level 1**
 

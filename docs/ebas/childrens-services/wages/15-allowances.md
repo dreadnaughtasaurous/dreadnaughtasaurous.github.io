@@ -8,7 +8,7 @@ topics: ['hours', 'overtime', 'shift-work', 'allowances']
 
 >[Varied by PR996603, PR998159, PR509272, PR523102, PR536905, PR551828, PR566929, PR579627, PR592373, PR606596, PR704124, PR707765, PR719090, PR723626, PR724049, PR729563, PR740969, PR745330, PR762229, PR762400, PR774011, PR774179, PR786659, PR786828; PR794818]
 
-**15.1** Broken shift allowance
+**15.1 Broken shift allowance**
 
 >[15.1 varied by PR794818 ppc 01Mar26]
 
@@ -16,7 +16,7 @@ Where an employee works two separate shifts in a day, they will be paid an allow
 
 ---
 
-**15.2** Clothing and equipment allowance
+**15.2 Clothing and equipment allowance**
 
 - **(a)** Where the employer requires an employee to wear any special clothing or articles of clothing the employer must reimburse the employee for the cost of purchasing such clothing. The provisions of this clause do not apply where the employer pays for the clothing required to be worn by the employee.
 
@@ -28,7 +28,7 @@ Where an employee works two separate shifts in a day, they will be paid an allow
 
 ---
 
-**15.3** Excess fares allowance
+**15.3 Excess fares allowance**
 
 >[15.3 varied by PR523102, PR536905, PR551828, PR719090, PR729563, PR740969, PR762400, PR774179 ppc 01Jul24]
 
@@ -36,7 +36,7 @@ Where an employee is directed to work away from their normal place of work on an
 
 ---
 
-**15.4** First aid allowance
+**15.4 First aid allowance**
 
 >[15.4(a) varied by PR996603 ppc 28Apr10; PR794818 ppc 01Mar26]
 
@@ -48,7 +48,7 @@ Where an employee is directed to work away from their normal place of work on an
 
 ---
 
-**15.5** Meal allowance
+**15.5 Meal allowance**
 
 >[15.5 varied by PR998159, PR509272, PR523102, PR536905, PR551828, PR566929, PR579627, PR592373, PR606596, PR704124, PR707765, PR719090, PR729563, PR740969, PR762400, PR774179, PR786828 ppc 01Jul25]
 
@@ -58,7 +58,7 @@ An employee required to work overtime for more than two hours without being noti
 
 ---
 
-**15.6** Use of vehicle allowance
+**15.6 Use of vehicle allowance**
 
 >[15.7 varied by PR523102, PR536905, PR551828, PR719090, PR740969, PR762400, PR774179 ppc 01Jul24; renumbered as 15.6 by PR794818 ppc 01Mar26]
 
@@ -66,7 +66,7 @@ Where an employer requests an employee to use their own motor vehicle in the per
 
 ---
 
-**15.7** Educational leader allowance
+**15.7 Educational leader allowance**
 
 >[New 15.8 inserted by PR745330 ppc 01Nov22; renumbered as 15.7 by PR794818 ppc 01Mar26]
 
@@ -76,11 +76,11 @@ Where an employer requests an employee to use their own motor vehicle in the per
 
 - **(b)** Where an employee is required to act as educational leader for less than 5 days per week, the annual allowance prescribed by [clause 15.7(a)](/ebas/childrens-services/wages/15-allowances) will be payable on a pro rata basis calculated by reference to the number of days per week the employee is required to act as educational leader.
 
-**NOTE:** The allowance prescribed in [clause 15.7(a)](/ebas/childrens-services/wages/15-allowances) is the same amount as the educational leader allowance prescribed by [clause 19.4](/ebas/childrens-services/wages/19-payment-of-wages) of the Educational Services (Teachers) Award 2020 and will be adjusted each year to reflect the amount set in the Educational Services (Teachers) Award 2020.
+>**Note:** The allowance prescribed in [clause 15.7(a)](/ebas/childrens-services/wages/15-allowances) is the same amount as the educational leader allowance prescribed by [clause 19.4](/ebas/childrens-services/wages/19-payment-of-wages) of the Educational Services (Teachers) Award 2020 and will be adjusted each year to reflect the amount set in the Educational Services (Teachers) Award 2020.
 
 ---
 
-**15.8** Adjustment of expense related allowances
+**15.8 Adjustment of expense related allowances**
 
 >[15.8 renumbered as 15.9 by PR745330; renumbered as 15.8 by PR794818 ppc 01Mar26]
 

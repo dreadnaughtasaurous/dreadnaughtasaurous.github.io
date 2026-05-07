@@ -14,7 +14,7 @@ topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 
 
 **21.3** Ordinary hours may be worked between 6.00 am and 6.30 pm. Where broken shifts are worked the spread of hours can be no greater than 12 hours per day.
 
-**21.4** Rostered time off for full-time employees
+**21.4 Rostered time off for full-time employees**
 
 - **(a)** The method of rostering the 38 hour week may be by any of the following:
   - **(i)** by employees working less than eight ordinary hours per day;
@@ -23,7 +23,7 @@ topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 
   - **(iv)** by accumulating rostered days off with a maximum of five such days being taken consecutively at times mutually convenient to the employer and the employee.
 - **(b)** In the absence of agreement at a workplace in respect to rostering of the 38 hour week the provisions of [clause 9](/ebas/childrens-services/consultation-disputes/9-dispute-resolution)—Dispute resolution will apply.
 
-**21.5** Non-contact time
+**21.5 Non-contact time**
 
 >[21.5(a) substituted by PR723626, PR724049 ppc 01Nov20]
 
@@ -42,11 +42,11 @@ topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 
 
 - **(c)** Wherever possible non-contact time should be rostered in advance.
 
-**21.6** Attendance at court
+**21.6 Attendance at court**
 
 Where it is necessary for an employee to attend court on the employer’s, or the employer’s clients, behalf in connection with any matter arising out of or in connection with their employment, the time taken will count as time worked.
 
-**21.7** Rostering
+**21.7 Rostering**
 
 - **(a)** An employer will post a legible roster at a place readily accessible to employees indicating the rostered hours of work.
 
@@ -64,11 +64,11 @@ Where it is necessary for an employee to attend court on the employer’s, or th
 - **(c)** An employee may be transferred from one location to another within their rostered hours at the direction of the employer. An employee transferring from one location to another during a shift will be paid for the time taken to travel from one location to the other.
 - **(d)** Where an employee is required to permanently transfer to another location (other than by mutual agreement) they must be given seven days’ notice of the change or paid overtime until seven days have transpired from the date notice was given.
 
-**21.8** Make-up time
+**21.8 Make-up time**
 
 An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in [clause 21.3](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) at the ordinary rate of pay.
 
-**21.9** Hours of work—out-of-school hours care, preschools and kindergartens
+**21.9 Hours of work—out-of-school hours care, preschools and kindergartens**
 
 - **(a)** An employee in an out-of-school hours care service, preschool or kindergarten may be employed as a term-time employee to work:
   - **(i)** only the school education weeks of the year as defined;

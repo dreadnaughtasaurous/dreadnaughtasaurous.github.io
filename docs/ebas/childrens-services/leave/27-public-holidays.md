@@ -14,7 +14,7 @@ topics: ['leave', 'annual-leave', 'public-holidays', 'hours', 'rosters', 'employ
 
 **27.3** An employer and employee may agree to substitute another part-day for a part-day that would otherwise be a part-day public holiday under the NES.
 
-**27.4** Additional arrangements for full-time employees
+**27.4 Additional arrangements for full-time employees**
 
 - **(a)** A full-time employee whose rostered day off falls on a public holiday must, subject to [clause 27.2](/ebas/childrens-services/leave/27-public-holidays), either:
   - **(i)** be paid an extra day’s pay;

@@ -8,22 +8,22 @@ topics: ['leave', 'public-holidays', 'hours', 'overtime', 'penalty-rates', 'shif
 
 >[Varied by PR584086, PR723880, PR747480, PR763327]
 
-**23.1** Entitlement to overtime rates
+**23.1 Entitlement to overtime rates**
 
 - **(a)** A full-time employee is paid at overtime rates for any work performed outside of their ordinary hours of work.
 - **(b)** A part-time employee is paid at overtime rates in the circumstances specified in [clause 10.4(f)](/ebas/childrens-services/employment/10-types-of-employment).
 - **(c)** A casual employee is paid at overtime rates in the circumstances specified in [clause 10.5(e)](/ebas/childrens-services/employment/10-types-of-employment).
 
-**23.2** Overtime rates
+**23.2 Overtime rates**
 
 - **(a)** Full-time and part-time employees will be paid overtime at the rate of 150% of the hourly rate (plus any all-purpose allowance payable) for the first 2 hours and 200% of the hourly rate (plus any all-purpose allowance payable) after 2 hours. In calculating overtime, each day’s work will stand alone.
 - **(b)** Casual employees will be paid overtime at the rate of 175% of the hourly rate (plus any all-purpose allowance payable) for the first 2 hours and 225% of the hourly rate (plus any all-purpose allowance payable) after 2 hours. In calculating overtime, each day’s work will stand alone.
 
 NOTE: The overtime rates for casual employees have been calculated by adding the casual loading prescribed by [clause 10.5(a)](/ebas/childrens-services/employment/10-types-of-employment) to the overtime rates for full-time and part-time employees prescribed by [clause 23.2(a)](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
 
-- **(c)** Where, due to a genuine and pressing emergency situation, an employee is required to remain at work after their normal finishing time such time will be paid at the ordinary rate for the employee’s classification. Provided that such emergency overtime does not exceed one hour per week. For the purposes of this subclause an emergency situation may include a natural disaster affecting a parent, another employee or the centre/service, the death of a child or parent, or a child requiring urgent hospitalisation or medical attention.
+- **(c)** Where, due to a genuine and pressing emergency situation, an employee is required to remain at work after their normal finishing time such time will be paid at the ordinary rate for the employee’s classification. Provided that such emergency overtime does not exceed one hour per week. For the purposes of this subclause an **emergency situation** may include a natural disaster affecting a parent, another employee or the centre/service, the death of a child or parent, or a child requiring urgent hospitalisation or medical attention.
 
-**23.3** Time off instead of payment for overtime
+**23.3 Time off instead of payment for overtime**
 
 - **(a)** An employee and employer may agree in writing to the employee taking time off instead of being paid for a particular amount of overtime that has been worked by the employee.
 - **(b)** Any amount of overtime that has been worked by an employee in a particular pay period and that is to be taken as time off instead of the employee being paid for it must be the subject of a separate agreement under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
@@ -58,9 +58,9 @@ NOTE: The overtime rates for casual employees have been calculated by adding the
 
 - **(k)** If, on the termination of the employee’s employment, time off for overtime worked by the employee to which [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates) applies has not been taken, the employer must pay the employee for the overtime at the overtime rate applicable to the overtime when worked.
 
-Note: Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
+>**Note:** Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
 
-**23.4** Shiftwork
+**23.4 Shiftwork**
 
 - **(a)** Despite the provisions of [clauses 21.1](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering), 21.2 and 21.3, employees may be employed as shiftworkers.
 - **(b)** The ordinary hours inclusive of meal breaks for shiftworkers will not, without payment of overtime, exceed an average of 38 hours per week to be worked over a one, two or four week cycle.
@@ -74,12 +74,12 @@ Note: Under section 345(1) of the Act, a person must not knowingly or recklessly
     | Night shift, non-rotating | 30% |
 
 - **(d)** Definitions
-  - **(i)** Early morning shift means any shift commencing at or after 5.00 am and before 6.00 am.
-  - **(ii)** Afternoon shift means any shift finishing after 6.30 pm and at or before midnight.
-  - **(iii)** Night shift means any shift finishing after midnight and at or before 8.00 am or any shift commencing at or before midnight and finishing before 5.00 am.
-  - **(iv)** Night shift, non-rotating means any night shift system in which night shifts do not rotate or alternate with another shift so as to give the employee at least one third of their working time off night shift in each roster cycle.
+  - **(i)** **Early morning shift** means any shift commencing at or after 5.00 am and before 6.00 am.
+  - **(ii)** **Afternoon shift** means any shift finishing after 6.30 pm and at or before midnight.
+  - **(iii)** **Night shift** means any shift finishing after midnight and at or before 8.00 am or any shift commencing at or before midnight and finishing before 5.00 am.
+  - **(iv)** **Night shift, non-rotating** means any night shift system in which night shifts do not rotate or alternate with another shift so as to give the employee at least one third of their working time off night shift in each roster cycle.
 
-**23.5** Weekend and public holiday work
+**23.5 Weekend and public holiday work**
 
 - **(a)** Overtime on a Saturday will be paid at the rate of time and a half for the first two hours and double time thereafter.
 - **(b)** Provided that shiftworkers required to work ordinary hours on a Saturday will be paid at the rate of time and a half for all hours worked. Overtime worked on a Saturday by shiftworkers will be paid at time and a half for the first two hours and double time thereafter.

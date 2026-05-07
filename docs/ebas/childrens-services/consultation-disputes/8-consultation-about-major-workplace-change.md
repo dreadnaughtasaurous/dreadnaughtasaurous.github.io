@@ -29,7 +29,7 @@ topics: ['hours', 'employment', 'termination', 'consultation']
 
 **8.5** In [clause 8](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change):
 
-significant effects, on employees, includes any of the following:
+**significant effects**, on employees, includes any of the following:
 
 - **(a)** termination of employment; or
 - **(b)** major changes in the composition, operation or size of the employer’s workforce or in the skills required; or

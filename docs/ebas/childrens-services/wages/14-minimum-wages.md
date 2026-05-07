@@ -18,14 +18,14 @@ topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'dispute
 >
 >A transitional pay equity order taken to have been made pursuant to item 30A of Schedule 3A to the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth) has effect in accordance with that item. A relevant transitional pay equity order operates in Queensland as provided for in items 30A(6) and (7).
 
-**14.1** Children’s Services Employees (CSE)
+**14.1 Children’s Services Employees (CSE)**
 
 >[14.1 varied by PR998020, PR509151, PR522982, PR536785, PR551708, PR566800, PR579915, PR592223, PR606446, PR707547, PR718938, PR729383, PR740806, PR762229, PR774011, PR780234, PR786659, renamed and substituted by PR794818 ppc 01Mar26]
 
 - **(a)** [Clause 14.1](/ebas/childrens-services/wages/14-minimum-wages) applies to the following:
   - **(i)** employees listed in the classifications in clause B.1; and
-  - **(ii)** employees engaged as cooks and:
-    - who are required to hold, or be actively working towards, an approved early childhood education and care qualification; and
+  - **(ii)** employees engaged as cooks **and**:
+    - who are required to hold, or be actively working towards, an approved early childhood education and care qualification; **and**
     - who may be required at any time to work directly with children to maintain educator-to-child ratios.
 
 - **(b)** An employer must pay the CSE minimum rate applicable to the employee’s classification, or the classification set out in [clause 14.1(c)](/ebas/childrens-services/wages/14-minimum-wages), as follows:
@@ -58,7 +58,7 @@ topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'dispute
 
 ---
 
-**14.2** Support Worker
+**14.2 Support Worker**
 
 >[14.2 renamed and substituted by PR794818 ppc 01Mar26]
 
@@ -79,7 +79,7 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 ---
 
-**14.3** Junior employees
+**14.3 Junior employees**
 
 >[14.3(a) varied by PR794818 ppc 01Mar26]
 
@@ -97,7 +97,7 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 ---
 
-**14.4** Apprentices
+**14.4 Apprentices**
 
 >[14.4 substituted by PR544170 ppc 01Jan14]
 
@@ -114,7 +114,7 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 ---
 
-**14.5** Adult apprentices
+**14.5 Adult apprentices**
 
 >[New 14.5 inserted by PR544170 ppc 01Jan14]
 
@@ -128,9 +128,7 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 - **(c)** A person employed by an employer under this award immediately prior to entering into a training agreement as an adult apprentice with that employer must not suffer a reduction in their minimum wage by virtue of entering into the training agreement, provided that the person has been an employee in that enterprise for at least six months as a full-time employee or twelve months as a part-time or regular casual employee immediately prior to commencing the apprenticeship. For the purpose only of fixing a minimum wage, the adult apprentice must continue to receive the minimum wage that applies to the classification specified in [clause 14.1](/ebas/childrens-services/wages/14-minimum-wages) in which the adult apprentice was engaged immediately prior to entering into the training agreement.
 
----
-
-**14.6** Apprentice conditions of employment
+**14.6 Apprentice conditions of employment**
 
 >[New 14.6 inserted by PR559272 ppc 01Jan15]
 
@@ -152,17 +150,13 @@ The following minimum rates of pay apply to employees classified under clause B.
 
 - **(i)** No apprentice will, except in an emergency, work or be required to work overtime or shiftwork at times which would prevent their attendance at training consistent with their training contract.
 
----
-
-**14.7** Supported wage system
+**14.7 Supported wage system**
 
 >[14.5 renumbered as 14.6 by PR544170, 14.6 renumbered as 14.7 by PR559272 ppc 01Jan15]
 
 See Schedule C.
 
----
-
-**14.8** National training wage
+**14.8 National training wage**
 
 >[14.6 renumbered as 14.7 by PR544170, 14.7 renumbered as 14.8 by PR559272 ppc 01Jan15; 14.8 substituted by PR593886 ppc 01Jul17]
 

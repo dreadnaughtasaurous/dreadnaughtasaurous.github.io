@@ -6,7 +6,15 @@ topics: ['schedules', 'leave', 'annual-leave']
 
 # Schedule G - Agreement To Cash Out Annual Leave: Children's Services EBA
 
+---
 
+<FileAttachment
+  href="/attachments/childrens-services/schedule-g-agreement-to-cash-out-annual-leave.pdf"
+  label="Cash Out Annual Leave Agreement"
+  description="Children's Services Award 2010"
+/>
+
+---
 
 Link to PDF copy of [Agreement to Cash Out Annual Leave](https://www.fwc.gov.au/documents/awards/resources/cash-out-agreement.pdf).
 

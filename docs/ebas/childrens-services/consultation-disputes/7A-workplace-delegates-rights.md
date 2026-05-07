@@ -22,7 +22,7 @@ topics: ['hours', 'rosters', 'employment', 'consultation', 'union-matters', 'del
 
 **7A.4** An employee who ceases to be a workplace delegate must give written notice to the employer within 14 days.
 
-**7A.5** Right of representation
+**7A.5 Right of representation**
 
 A workplace delegate may represent the industrial interests of eligible employees who wish to be represented by the workplace delegate in matters including:
 
@@ -33,12 +33,12 @@ A workplace delegate may represent the industrial interests of eligible employee
 - **g.** enterprise bargaining where the workplace delegate has been appointed as a bargaining representative under section 176 of the [Act](http://www.legislation.gov.au/Series/C2009A00028) or is assisting the delegate's organisation with enterprise bargaining; and
 - **h.** any process or procedure within an award, enterprise agreement or policy of the employer under which eligible employees are entitled to be represented and which concerns their industrial interests.
 
-**7A.6** Entitlement to reasonable communication
+**7A.6 Entitlement to reasonable communication**
 
 - **a.** A workplace delegate may communicate with eligible employees for the purpose of representing their industrial interests under [clause 7A.5](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights). This includes discussing membership of the delegate's organisation and representation with eligible employees.
 - **i.** A workplace delegate may communicate with eligible employees during working hours or work breaks, or before or after work.
 
-**7A.7** Entitlement to reasonable access to the workplace and workplace facilities
+**7A.7 Entitlement to reasonable access to the workplace and workplace facilities**
 
 - **(a)** The employer must provide a workplace delegate with access to or use of the following workplace facilities:
   - **i.** a room or area to hold discussions that is fit for purpose, private and accessible by the workplace delegate and eligible employees;
@@ -51,7 +51,7 @@ A workplace delegate may represent the industrial interests of eligible employee
   - **vi.** due to operational requirements, it is impractical to provide access to or use of the facility at the time or in the manner it is sought; or
   - **vii.** the employer does not have access to the facility at the enterprise and is unable to obtain access after taking reasonable steps.
 
-**7A.8** Entitlement to reasonable access to training
+**7A.8 Entitlement to reasonable access to training**
 
 Unless the employer is a small business employer, the employer must provide a workplace delegate with access to up to 5 days of paid time during normal working hours for initial training and at least one day each subsequent year, to attend training related to representation of the industrial interests of eligible employees, subject to the following conditions:
 
@@ -65,7 +65,7 @@ Unless the employer is a small business employer, the employer must provide a wo
 - **n.** The employer must advise the workplace delegate not less than 2 weeks from the day on which the training is scheduled to commence, whether the workplace delegate's access to paid time during normal working hours to attend the training has been approved. Such approval must not be unreasonably withheld.
 - **o.** The workplace delegate must, within 7 days after the day on which the training ends, provide the employer with evidence that would satisfy a reasonable person of their attendance at the training.
 
-**7A.9** Exercise of entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights)
+**7A.9 Exercise of entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights)**
 
 - **a.** A workplace delegate's entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) are subject to the conditions that the workplace delegate must, when exercising those entitlements:
   - **i.** comply with their duties and obligations as an employee;
