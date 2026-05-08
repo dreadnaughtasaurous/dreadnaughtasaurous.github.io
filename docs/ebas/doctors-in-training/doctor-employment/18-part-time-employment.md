@@ -6,8 +6,6 @@ topics: ['leave', 'hours', 'overtime', 'shift-work']
 
 # 18. Part Time Employment
 
-
-
 **18.1** Part-time means a Doctor who is ready, willing and available to work on a regular basis any number of hours less than the ordinary hours of work prescribed in [clause 17](/ebas/doctors-in-training/doctor-employment/17-full-time-employment).
 
 **18.2** The number of hours worked by a part-time Doctor may vary from week to week by mutual agreement.
@@ -24,5 +22,3 @@ topics: ['leave', 'hours', 'overtime', 'shift-work']
 **18.6** Where a part-time Doctor has an entitlement to leave under this Agreement, the part-time Employee will be paid according to the number of hours the Employee would have worked on the day/s on which the leave was taken.
 
 Plain language terms: part-time, PT.
-
-

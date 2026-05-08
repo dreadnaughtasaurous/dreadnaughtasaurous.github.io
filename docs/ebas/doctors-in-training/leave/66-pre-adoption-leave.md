@@ -15,5 +15,3 @@ topics: ['leave', 'parental-leave', 'preliminary']
 **66.4** Where paid leave is available to the Doctor, the Health Service may require the Doctor to take such leave instead.
 
 Plain language terms: adoption leave.
-
-

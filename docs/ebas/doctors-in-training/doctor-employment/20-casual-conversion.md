@@ -6,7 +6,7 @@ topics: ['employment', 'casual-conversion']
 
 # 20. Casual Conversion
 
-**20.1** Health Service offers
+**20.1 Health Service offers**
 
 - **(a)** Subject to [subclause 20.12](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) and by 27 September 2021 in accordance with the NES, an Employer must make an offer to a Doctor under this section if:
   - **(i)** the Doctor has worked shifts for the Health Service for a period of 12 months beginning the day the employment started; and
@@ -14,11 +14,11 @@ topics: ['employment', 'casual-conversion']
 - **(b)** The Health Service’s offer under [subclause 20.1](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) must:
   - **(i)** be in writing; and
   - **(ii)** be an offer for the Doctor to convert:  
-    A. for a Doctor that has worked the equivalent of full-time hours during the period referred to in subclause 201.1(a)(ii) – to full-time employment; or  
-    B. for a Doctor that has worked less than the equivalent of full-time hours during the period referred to in [subclause 20.1](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) – to pattern of hours worked during that period;
+    - **A.** for a Doctor that has worked the equivalent of full-time hours during the period referred to in subclause 201.1(a)(ii) – to full-time employment; or  
+    - **B.** for a Doctor that has worked less than the equivalent of full-time hours during the period referred to in [subclause 20.1](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) – to pattern of hours worked during that period;
   - **(iii)** be given to the Doctor within 21 days after the end of the 12-month period referred to in [clause 21.1](/ebas/doctors-in-training/doctor-employment/21-period-of-employment)(a)(i).
 
-**20.2** When Health Service offers not required
+**20.2 When Health Service offers not required**
 
 - **(a)** A Health Service is not required to make an offer under [subclause 20.1(a)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) to a Doctor if:
   - **(i)** there are reasonable grounds not to make that offer; and
@@ -39,12 +39,12 @@ topics: ['employment', 'casual-conversion']
   - **(ii)** include the details of the reasons for not making the offer (including any grounds on which the Health Service has decided to not make the offer); and
   - **(iii)** be given to the Doctor within 21 days after the end of the 12-month period referred to in [subclause 1.1(a)(i)](/ebas/doctors-in-training/preliminary/1-title).
 
-**20.3** Doctor response
+**20.3 Doctor response**
 
 - **(a)** The Doctor must give the Health Service a written response to the offer made under 20.1(a) within 21 days after the offer is given to the Doctor, stating whether the Doctor accepts or declines the offer.
 - **(b)** If the Doctor fails to give the Health Service a written response in accordance with [subclause 1.1(a)](/ebas/doctors-in-training/preliminary/1-title), the Doctor is taken to have declined the offer.
 
-**20.4** Acceptances of offers
+**20.4 Acceptances of offers**
 
 - **(a)** If the Doctor accepts the offer, the Employer must, within 21 days after the day the acceptance is given to the Employer, give written notice to the Doctor of the following:
   - **(i)** whether the Doctor is converting to full-time employment of part-time employment;
@@ -53,7 +53,7 @@ topics: ['employment', 'casual-conversion']
 - **(b)** However, the Health Service must discuss with the Doctor the matters the Health Service intends to specify for the purposes of [subclause 1.1(a)(i)-(iii)](/ebas/doctors-in-training/preliminary/1-title) before giving the notice.
 - **(c)** The day specified for the purposes of [subclause 1.1(a)(iii)](/ebas/doctors-in-training/preliminary/1-title) must be the first day of the Doctors’ first full pay period that starts after the day the notice is given, unless the Doctor and Health Service agree to another day.
 
-**20.5** Doctor requests
+**20.5 Doctor requests**
 
 - **(a)** A Doctor may make a request of a Health Service under this clause if:
   - **(i)** the Doctor has been employed by the Health Service for a period of at least 6 months beginning the day the employment started;
@@ -70,11 +70,11 @@ topics: ['employment', 'casual-conversion']
     **(B)** for a Doctor that has worked less than the equivalent of full-time hours or shifts on a regular and systematic basis during the period referred to in [subclause 20.5(a)(ii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) – to part-time employment that is consistent with the regular pattern of hours or shifts worked during that period; and
   - **(iii)** be given to the Health Service.
 
-**20.6** Health Service must give a response
+**20.6 Health Service must give a response**
 
 The Health Service must give the Doctor a written response to the request made under [subclause 20.5](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) within 21 days after the request is given to the Health Service, stating whether the Health Service grants or refuses the request.
 
-**20.7** Refusals of requests
+**20.7 Refusals of requests**
 
 - **(a)** The Health Service must not refuse the request unless:
   - **(i)** the Health Service has consulted the Doctor;
@@ -91,7 +91,7 @@ The Health Service must give the Doctor a written response to the request made u
   - **(v)** granting the request would not comply with a recruitment or selection process required by or under a law of the Commonwealth or a State or a Territory
 - **(c)** If the Health Service refuses the request, the written response under subclause **20.6** must include details of the reasons for the refusal.
 
-**20.8** Grants of requests
+**20.8 Grants of requests**
 
 - **(a)** If the Employer grants the request, the Employer must, within 21 days after the day the request is given to the Employer, give written notice to the Employee of the following:
   - **(i)** whether the Doctor is converting to full-time employment of part-time employment;
@@ -101,7 +101,7 @@ The Health Service must give the Doctor a written response to the request made u
 - **(c)** The day specified for the purposes of [subclause 20.8(a)(iii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion)1.1(a)(iii) must be the first day of the Doctor's first full pay period that starts after the day the notice is given, unless the Doctor and Health Service agree to another day.
 - **(d)** To avoid doubt, the notice may be included in the written response under [subclause 20.6](/ebas/doctors-in-training/doctor-employment/20-casual-conversion).
 
-**20.9** Effect of conversion
+**20.9* Effect of conversion**
 
 - **(a)** A Doctor is taken, on and after the day specified in a notice for the purposes of [subclauses 20.4(a)(iii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) and 20.8(a)(iii) to be a full-time Doctor or a part-time Doctor of the Health Service.
 - **(b)** Casual loading will cease, and, subject to [subclause 20.6](/ebas/doctors-in-training/doctor-employment/20-casual-conversion), any benefits relating to permanent employment will commence on the day specified in a notice for the purposes of [subclauses 20.4(a)(iii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) and 20.8(a)(iii).

@@ -11,5 +11,3 @@ topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']
 **65.2** The Doctor must give the Health Service prior notice of the Doctor’s intention to take such leave.
 
 Plain language terms: antenatal, pregnancy appointments.
-
-

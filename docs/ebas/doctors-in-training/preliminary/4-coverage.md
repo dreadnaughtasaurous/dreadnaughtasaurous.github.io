@@ -20,6 +20,6 @@ provided the FWC so notes in its decision to approve this Agreement:
 
 - **(c)** the Australian Salaried Medical Officers’ Federation.
 
-**4.2** For the avoidance of any doubt, this Agreement does not cover any person in relation to ordinary work performed wholly on a fee for service or scheduled fee basis (including, by way of example only, the Commonwealth Medical Benefits Schedule (CMBS)).
+**4.2** For the avoidance of any doubt, this Agreement does not cover any person in relation to ordinary work performed wholly on a fee for service or scheduled fee basis (including, by way of example only, the Commonwealth Medical Benefits Schedule (**CMBS**)).
 
 Plain language terms: scope, who is covered.

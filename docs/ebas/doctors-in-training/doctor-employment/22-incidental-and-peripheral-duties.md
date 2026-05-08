@@ -16,5 +16,3 @@ topics: ['employment']
 - **(b)** if not resolved, escalate via the Dispute Resolution Clause.
 
 Plain language terms: duties, scope of work.
-
-

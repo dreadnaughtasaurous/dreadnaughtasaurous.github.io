@@ -11,5 +11,3 @@ topics: ['employment']
 **28.2** Where the dates of these programs are fixed in advance, a list should be sent to the Association as soon as possible.
 
 **28.3** Where the dates of orientation/induction programs involving Doctors are not fixed in advance, the Association should receive reasonable notification of at least 14 days to enable an Association representative to attend.
-
-

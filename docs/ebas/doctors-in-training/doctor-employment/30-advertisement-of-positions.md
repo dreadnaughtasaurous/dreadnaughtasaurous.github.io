@@ -9,5 +9,3 @@ topics: ['employment']
 Any notice, circular or advertisement for a position covered by the Agreement must specify the applicable rate of pay and classification.
 
 Plain language terms: job ads, vacancy advertising.
-
-

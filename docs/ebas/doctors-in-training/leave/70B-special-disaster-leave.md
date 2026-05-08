@@ -6,7 +6,7 @@ topics: ['leave', 'personal-leave', 'employment']
 
 # 70B. Special Disaster Leave
 
-**70B.1** Special disaster leave of up to 3 days per calendar year is payable where:
+**70B.1 Special disaster leave of up to 3 days per calendar year is payable where:**
 
 - **(a)** the Doctor is a full time or part time Doctor;
 - **(b)** Personal Leave is not available either because the Doctor has exhausted the accrual or the circumstance does not qualify for Personal Leave; and

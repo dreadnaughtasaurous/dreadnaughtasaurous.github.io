@@ -13,5 +13,3 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 **44.3** The Health Service’s salary packaging program will not restrict the Doctor’s capacity to salary package any proportion of their salary in any one month.
 
 Plain language terms: salary sacrifice, novated lease.
-
-

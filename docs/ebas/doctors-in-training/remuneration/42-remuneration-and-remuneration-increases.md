@@ -20,11 +20,11 @@ topics: ['wages', 'preliminary']
 
 **42.5** The increases in [subclause 42.1](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases) will not apply to private practice bonuses except where these have been included in a rolled up or annualised salary arrangement.
 
-**42.6** Patience in bargaining payment
+**42.6 Patience in bargaining payment**
 
 At the commencement of this Agreement, all Doctors will receive a once off lump sum payment of 2.5% of their ordinary wages calculated between 1 January 2022 and 28 February 2022.
 
-**42.7** Other matters
+**42.7 Other matters**
 
 - **(a)** Doctors must be paid the rate of pay consistent with their correct classification prescribed in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions).
 - **(b)** Unless subclause (c) applies, the correct classification and rate of pay of a Doctor is based on that Doctor’s years of experience as defined at [subclause 3.1(m)](/ebas/doctors-in-training/preliminary/3-definitions) (Experience).

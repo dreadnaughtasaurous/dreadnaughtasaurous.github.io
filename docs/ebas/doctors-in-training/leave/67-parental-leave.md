@@ -8,7 +8,7 @@ topics: ['leave', 'parental-leave', 'wages', 'superannuation']
 
 This clause deals with parental leave, including paid parental leave. The issue of superannuation and parental leave (both paid and unpaid) is addressed at [clause 43.5](/ebas/doctors-in-training/remuneration/43-superannuation).
 
-**67.1** Structure of clause
+**67.1 Structure of clause**
 
 This clause is structured as follows:
 
@@ -32,35 +32,35 @@ This clause is structured as follows:
 - **(r)** Communication during parental leave – organisational change: [subclause 67.18](/ebas/doctors-in-training/leave/67-parental-leave)
 - **(s)** Keeping in touch days: [subclause 67.19](/ebas/doctors-in-training/leave/67-parental-leave)
 
-Other provisions associated with parental leave are also included in this Agreement. Specifically, prenatal leave at [clause 65](/ebas/doctors-in-training/leave/65-prenatal-leave), flexible working arrangements which includes the right to request to return from parental leave on a part-time basis at [clause 15](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements), leave to attend interviews and examinations relevant to adoption leave (preadoption leave) at [clause 66](/ebas/doctors-in-training/leave/66-pre-adoption-leave), and breastfeeding at [clause 74](/ebas/doctors-in-training/accommodation/74-breastfeeding).
+Other provisions associated with parental leave are also included in this Agreement. Specifically, **prenatal leave** at [clause 65](/ebas/doctors-in-training/leave/65-prenatal-leave), **flexible working arrangements** which includes the right to request to return from parental leave on a part-time basis at [clause 15](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements), leave to attend interviews and examinations relevant to adoption leave (**preadoption leave**) at [clause 66](/ebas/doctors-in-training/leave/66-pre-adoption-leave), and **breastfeeding** at [clause 74](/ebas/doctors-in-training/accommodation/74-breastfeeding).
 
-**67.2** Definitions
+**67.2 Definitions**
 
 For the purposes of this clause:
 
-- **(a)** Child means:
+- **(a)** **Child** means:
   - **(i)** in relation to birth-related leave, a child (or children from a multiple birth) of the Eligible Employee or the Eligible Employee’s Spouse; or
-  - **(ii)** in relation to adoption-related leave, a child (or children) under 16 (as at the day of placement or expected day of placement) who is placed or who is to be placed with the Eligible Employee for the purposes of adoption, other than a child or step-child of the Eligible Employee or of the Spouse of the Eligible Employee or a child who has previously lived continuously with the Eligible Employee for a period of six months or more (Adopted Child);
+  - **(ii)** in relation to adoption-related leave, a child (or children) under 16 (as at the day of placement or expected day of placement) who is placed or who is to be placed with the Eligible Employee for the purposes of adoption, other than a child or step-child of the Eligible Employee or of the Spouse of the Eligible Employee or a child who has previously lived continuously with the Eligible Employee for a period of six months or more (**Adopted Child**);
   - **(iii)** as the case requires, includes a Stillborn Child.
-- **(b)** Continuous Service includes continuous service with one and the same Employer or continuous service with more than one Employer including Institutions or Statutory Bodies as defined at [subclause 68](/ebas/doctors-in-training/leave/68-long-service-leave).X), and includes:
+- **(b)** **Continuous Service** includes continuous service with one and the same Employer or continuous service with more than one Employer including Institutions or Statutory Bodies as defined at [subclause 68](/ebas/doctors-in-training/leave/68-long-service-leave).X), and includes:
   - **(i)** any period of employment that would count as service under the Act; and
   - **(ii)** Service as part of a specialist training program accredited by a Specialist Medical College with an employer not covered by this Agreement where the break between the period of employment is not more than two months’ duration or such longer period as provided in [subclause 1.1(a)(i)](/ebas/doctors-in-training/preliminary/1-title)(Allowable period of absence for Parental Leave).
-- **(c)** Eligible Casual Employee means a casual Employee that has been employed by the Employer on a regular and systematic basis for a sequence of periods of employment during a period of at least 12 months and who has, but for the birth or expected birth of a Child or the decision to adopt a Child, a reasonable expectation of continuing engagement by the Employer on a regular and systematic basis.
-- **(d)** Eligible Employee for the purposes of this [clause 67](/ebas/doctors-in-training/leave/67-parental-leave) means an Employee who has at least six months’ Continuous Service or an Eligible Casual Employee as defined above.
-- **(e)** Employee Couple has the same meaning as under the Act.
-- **(f)** Flexible Long Parental Leave means the 30 days' unpaid parental leave an Eligible Employee may take under [subclause 67.3(g)](/ebas/doctors-in-training/leave/67-parental-leave) as part of their 52 weeks' entitlement of Long Parental Leave.
-- **(g)** Long Parental Leave means the 52 weeks' parental leave an Eligible Employee may take under [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave). A person taking Long Parental Leave under [subclause 67.3(a)-(e)](/ebas/doctors-in-training/leave/67-parental-leave) is the Primary Carer for this period for the purpose of this clause.
-- **(h)** Notional Flexible Period is the period during which the Eligible Employee would be on Flexible Long Parental Leave if the Eligible Employee took leave for all of the Eligible Employee's notified flexible days in a single continuous period.
-- **(i)** Primary Carer means the person who has responsibility for the care of the Child. Only one person can be the Child's Primary Carer on a particular day.
-- **(j)** Short Parental Leave means the up to eight weeks' concurrent parental leave an Eligible Employee who will not be the Primary Carer of a Child may take under [subclause 67.4](/ebas/doctors-in-training/leave/67-parental-leave) (Short Parental Leave – Unpaid).
-- **(k)** Spouse includes a person to whom the Eligible Employee is married and a de facto partner, former spouse or former de facto spouse of the Employee. A de facto Spouse means a person who lives with the Employee as husband, wife or same-sex partner on a bona fide domestic basis.
-- **(l)** Stillbirth means the delivery of a Stillborn Child.
-- **(m)** Stillborn Child means:
+- **(c)** **Eligible Casual Employee** means a casual Employee that has been employed by the Employer on a regular and systematic basis for a sequence of periods of employment during a period of at least 12 months and who has, but for the birth or expected birth of a Child or the decision to adopt a Child, a reasonable expectation of continuing engagement by the Employer on a regular and systematic basis.
+- **(d)** **Eligible Employee** for the purposes of this [clause 67](/ebas/doctors-in-training/leave/67-parental-leave) means an Employee who has at least six months’ Continuous Service or an Eligible Casual Employee as defined above.
+- **(e)** **Employee Couple** has the same meaning as under the Act.
+- **(f)** **Flexible Long Parental Leave** means the 30 days' unpaid parental leave an Eligible Employee may take under [subclause 67.3(g)](/ebas/doctors-in-training/leave/67-parental-leave) as part of their 52 weeks' entitlement of Long Parental Leave.
+- **(g)** **Long Parental Leave** means the 52 weeks' parental leave an Eligible Employee may take under [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave). A person taking Long Parental Leave under [subclause 67.3(a)-(e)](/ebas/doctors-in-training/leave/67-parental-leave) is the Primary Carer for this period for the purpose of this clause.
+- **(h)** **Notional Flexible Period** is the period during which the Eligible Employee would be on Flexible Long Parental Leave if the Eligible Employee took leave for all of the Eligible Employee's notified flexible days in a single continuous period.
+- **(i)** **Primary Carer** means the person who has responsibility for the care of the Child. Only one person can be the Child's Primary Carer on a particular day.
+- **(j)** **Short Parental Leave** means the up to eight weeks' concurrent parental leave an Eligible Employee who will not be the Primary Carer of a Child may take under [subclause 67.4](/ebas/doctors-in-training/leave/67-parental-leave) (Short Parental Leave – Unpaid).
+- **(k)** **Spouse** includes a person to whom the Eligible Employee is married and a de facto partner, former spouse or former de facto spouse of the Employee. A de facto Spouse means a person who lives with the Employee as husband, wife or same-sex partner on a bona fide domestic basis.
+- **(l)** **Stillbirth** means the delivery of a Stillborn Child.
+- **(m)** **Stillborn Child** means:
   - **(i)** a child who weighs at least 400 grams at delivery or whose period of gestation was at least 20 weeks; and
   - **(ii)** who has not breathed since delivery; and
   - **(iii)** whose heart has not beaten since delivery.
 
-**67.3** Long Parental Leave – Unpaid
+**67.3 Long Parental Leave – Unpaid**
 
 - **(a)** An Eligible Employee is entitled to 12 months' unpaid Long Parental Leave if:
   - **(i)** the leave is associated with:
@@ -72,8 +72,8 @@ For the purposes of this clause:
 - **(d)** Each member of an Employee Couple may take a separate period of up to 12 months of Long Parental Leave. The period of Long Parental Leave will be reduced by any period of Short Parental Leave taken by the Eligible Employee.
 - **(e)** Subject to [subclause 67.3(f)](/ebas/doctors-in-training/leave/67-parental-leave), an Eligible Employee may be able to extend a period of unpaid parental leave in accordance with [subclause 67.11](/ebas/doctors-in-training/leave/67-parental-leave) (Variation of period of unpaid parental leave (up to 12 months)).
 - **(f)** An Eligible Employee’s entitlement to Long Parental Leave (other than Flexible Long Parental Leave) will end on the first day that the Eligible Employee takes Flexible Long Parental Leave. This means that if an Eligible Employee intends on taking a period of continuous unpaid parental leave, they must do so before they take any Flexible Long Parental Leave.
-- **(g)** Flexible Long Parental Leave
-    - **(i)** An Eligible Employee may take up to 30 days of their Long Parental Leave entitlement (Flexible Long Parental Leave) during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child if the requirements of this subclause are satisfied in relation to the leave.
+- **(g) Flexible Long Parental Leave**
+    - **(i)** An Eligible Employee may take up to 30 days of their Long Parental Leave entitlement (**Flexible Long Parental Leave**) during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child if the requirements of this subclause are satisfied in relation to the leave.
     - **(ii)** The number of days of Flexible Long Parental Leave that the Eligible Employee takes must not be more than the number of flexible days notified to the Employer under [subclause 67.6(e)(iii)](/ebas/doctors-in-training/leave/67-parental-leave) (subject to any agreement under [subclause 67.6(e)(iv)](/ebas/doctors-in-training/leave/67-parental-leave)).
     - **(iii)** An Eligible Employee must take the Flexible Long Parental Leave as:
         - **A.** a single continuous period of one or more days; or
@@ -83,13 +83,13 @@ For the purposes of this clause:
         - **A.** the Eligible Employee ordinarily works each day that is not a Saturday or Sunday; and
         - **B.** there are no public holidays during the period.
     - **(vi)** A member of an Employee Couple (the first employee) may take Flexible Long Parental Leave on the same day as the other member of the Employee Couple (the other employee) is taking unpaid Long Parental Leave only if the total of all periods of unpaid parental leave the first employee takes at the same time as the other employee is no longer than 8 weeks.
-- **(h)** Hospitalised children – agreement to not take unpaid Long Parental Leave
+- **(h) Hospitalised children – agreement to not take unpaid Long Parental Leave**
     - **(i)** If:
         - **A.** a Child is required to remain in hospital after the Child's birth, or is hospitalised immediately after the Child's birth, including because:
             - 1) the Child was born prematurely; or
             - 2) the Child developed a complication or contracted an illness during the child's period of gestation or at birth; or
             - 3) the Child developed a complication or contracted an illness following the Child's birth; and
-        - **B.** an Employee, whether before or after the birth of the Child, gives notice in accordance with [subclause 67.6](/ebas/doctors-in-training/leave/67-parental-leave) of the taking of a period of unpaid parental leave (the original leave period) in relation to the Child, then the Employee may agree with their Employer that the Employee will not take unpaid parental leave for a period (the permitted work period) while the Child remains in hospital.
+        - **B.** an Employee, whether before or after the birth of the Child, gives notice in accordance with [subclause 67.6](/ebas/doctors-in-training/leave/67-parental-leave) of the taking of a period of unpaid parental leave (the **original leave period**) in relation to the Child, then the Employee may agree with their Employer that the Employee will not take unpaid parental leave for a period (the **permitted work period**) while the Child remains in hospital.
     - **(ii)** If the Employee and Employer so agree, then the following rules have effect:
         - **A.** the Employee is taken to not be taking unpaid parental leave during the permitted work period;
         - **B.** the permitted work period does not break the continuity of the original leave period; and
@@ -104,13 +104,13 @@ For the purposes of this clause:
         - **A.** that [subclause 67.3(h)(i)](/ebas/doctors-in-training/leave/67-parental-leave)A applies in relation to the child;
         - **B.** that the Employee is fit for work.
 
-**67.4** Short Parental Leave – Unpaid
+**67.4 Short Parental Leave – Unpaid**
 
 - **(a)** This clause applies to an Eligible Employee who is a member of an Employee Couple.
 - **(b)** An Eligible Employee who will not be the Primary Carer of a Child may take up to eight weeks’ leave concurrently with any parental leave taken by the parent who will be the Primary Carer. Short Parental Leave may be taken in separate periods but, unless the Employer agrees, each period must not be shorter than two weeks.
 - **(c)** The period of Short Parental Leave will be deducted from the period of Long Parental Leave to which the Eligible Employee is entitled under [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave) (if applicable).
 
-**67.5** Paid Parental Leave
+**67.5 Paid Parental Leave**
 
 - **(a)** An Eligible Employee commencing parental leave is entitled to paid parental leave on the following basis:
   - **(i)** until 11 April 2022:
@@ -125,7 +125,7 @@ For the purposes of this clause:
 - **(e)** Subject to [clause 1.1](/ebas/biomedical-engineers/preliminary/1-title)(b)(in the case of long service leave), a variation to the payment of paid parental leave resulting in, for example, the paid leave being spread over more than 14 weeks does not affect the period of continuous service recognised. For example, an Employee taking 28 weeks at half pay will, for the purpose of calculating continuous service, have fourteen weeks of continuous service recognised. An Employee taking seven (7) weeks at double pay will have 14 weeks of continuous service recognised.
 - **(f)** The paid parental leave prescribed by this clause will be concurrent with any relevant unpaid entitlement prescribed by the NES / this Agreement.
 
-**67.5A** Paid Parental leave pooling
+**67.5A Paid Parental leave pooling**
 
 - **(a)** A Doctor who has an entitlement to paid parental leave under this [clause 67](/ebas/doctors-in-training/leave/67-parental-leave) and whose spouse will have an entitlement to paid parental leave under this clause or [clause 54](/ebas/doctors-in-training/allowances/54-telephone-allowance) of the Medical Specialists Agreement with respect to the same child may pool the paid leave provided for at [clause 67.5](/ebas/doctors-in-training/leave/67-parental-leave) (totalling 16 weeks) subject to:
     - **(i)** The Doctor and their spouse taking two (2) weeks paid parental leave concurrently;
@@ -137,7 +137,7 @@ For the purposes of this clause:
     - **(ii)** has not been able to confirm the details of the application made by the Doctor’s spouse with the other health service (where applicable), the Health Service will advise the Doctor in writing. The Doctor is entitled to request a meeting, the purpose of which is to seek to resolve any concerns.
 - **(c)** In the event that the meeting does not resolve the concerns of either the Health Service or the Doctor, either party may notify a dispute in accordance with the Dispute Settlement Procedures of this Agreement.
 
-**67.6** Notice and evidence requirements
+**67.6 Notice and evidence requirements**
 
 - **(a)** Subject to [clause 67.6(e)](/ebas/doctors-in-training/leave/67-parental-leave) (Notice – Flexible Long Parental Leave), an Employee must give at least 10 weeks’ written notice of the intention to take parental leave, including the proposed start and end dates. At this time, the Employee must also provide a statutory declaration stating:
     - **(i)** that the Employee will become either the Primary Carer or non-Primary Carer of the Child, as appropriate;
@@ -150,14 +150,14 @@ For the purposes of this clause:
     - **B.** if relevant, that their Child was stillborn (including without limitation, a certification by a medical practitioner or registered midwife of the child as having been delivered); or
     - **(ii)** in the case of adoption-related leave, the commencement of the placement (or expected day of placement) of the Child and that the Child will be under 16 years of age as at the day of placement or expected day of placement.
 - **(d)** An Employee will not be in breach of this clause if failure to give the stipulated notice is occasioned by the birth of the Child or placement occurring earlier than the expected date or in other compelling circumstances. In these circumstances the notice and evidence requirements of this clause should be provided as soon as reasonably practicable.
-- **(e)** Notice requirements – Flexible Long Parental Leave
+- **(e) Notice requirements – Flexible Long Parental Leave**
     - **(i)** If an Employee wishes to take Flexible Long Parental Leave, the Employee must give notice to the Employer as follows:
-        - A. where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under [subclauses 67.3 or 67.4](/ebas/doctors-in-training/leave/67-parental-leave) (the original leave);
+        - A. where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under [subclauses 67.3 or 67.4](/ebas/doctors-in-training/leave/67-parental-leave) (*the original leave*);
             1) at the same time as the Employee gives notice in accordance with [subclause 67.6(a)](/ebas/doctors-in-training/leave/67-parental-leave) in relation to the original leave, unless [subclause 2](/ebas/doctors-in-training/preliminary/2-arrangement)) below applies; or  
             2) if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 67.6(a)](/ebas/doctors-in-training/leave/67-parental-leave) in relation to the first of those periods of leave; or
         - B. otherwise - at least 10 weeks before starting the Flexible Long Parental Leave.
     - **(ii)** If the Employer agrees, the notice may be given at a later time than that specified in [subclause 67.6(e)(i)](/ebas/doctors-in-training/leave/67-parental-leave).
-    - **(iii)** The notice under [subclause 67.6(e)(i)](/ebas/doctors-in-training/leave/67-parental-leave) must specify the total number of days (Flexible Days) of Flexible Long Parental Leave that the Employee intends to take in relation to the Child.
+    - **(iii)** The notice under [subclause 67.6(e)(i)](/ebas/doctors-in-training/leave/67-parental-leave) must specify the total number of days (**Flexible Days**) of Flexible Long Parental Leave that the Employee intends to take in relation to the Child.
     - **(iv)** If the Employer agrees, the Employee may:
         - **A.** reduce the number of flexible days, including by reducing the number of flexible days to zero; or
         - **B.** increase the number of flexible days, but not so as to increase the number of flexible days above 30.
@@ -166,30 +166,30 @@ For the purposes of this clause:
         - **B.** if that is not practicable, as soon as practicable (which may be a time after the leave has started).
     - **(vi)** If the Employer agrees, the Employee may change a day on which the Employee takes Flexible Long Parental Leave from a day specified in a notice under subsection 67.6(e)(vi).
 
-**67.7** Parental leave associated with the birth of a Child – additional provisions
+**67.7 Parental leave associated with the birth of a Child – additional provisions**
 
 - **(a)** Subject to the limits on duration of parental leave set out in this Agreement and unless agreed otherwise between the Employer and Eligible Employee, an Eligible Employee who is pregnant may commence Long Parental Leave at any time up to six weeks immediately prior to the expected date of birth.
-- **(b)** Six weeks before the birth
+- **(b) Six weeks before the birth**
     - **(i)** Where a pregnant Eligible Employee continues to work during the six week period immediately prior to the expected date of birth, the Employer may require the Eligible Employee to provide a medical certificate stating that she is fit for work and, if so, whether it is inadvisable for her to continue in her present position because of illness or risks arising out of the Eligible Employee’s pregnancy or hazards connected with the position.
     - **(ii)** Where a request is made under [subclause 67.7(b)(i)](/ebas/doctors-in-training/leave/67-parental-leave) and an Eligible Employee:
         - **A.** does not provide the Employer with the requested certificate within seven days of the request; or
         - **B.** within seven days after the request, the Eligible Employee gives the Employer a medical certificate stating that the Eligible Employee is not fit for work, the Employer may require the Eligible Employee to commence their parental leave as soon as practicable.
     - **(iii)** Where a request is made under [subclause 67.7(b)(i)](/ebas/doctors-in-training/leave/67-parental-leave) and an Eligible Employee provides a medical certificate that states that the Eligible Employee is fit for work but it is inadvisable for the Eligible Employee to continue in her present position during a stated period, [subclause 67.14](/ebas/doctors-in-training/leave/67-parental-leave) (Transfer to a safe job) will apply.
 
-**67.8** Unpaid pre-adoption leave
+**67.8 Unpaid pre-adoption leave**
 
 Employees’ entitlement to pre-adoption leave is set out at [clause 66](/ebas/doctors-in-training/leave/66-pre-adoption-leave) (Pre-adoption leave).
 
-**67.9** Where placement does not proceed or continue
+**67.9 Where placement does not proceed or continue**
 
 - **(a)** Where the placement of the Child for adoption with an Eligible Employee does not proceed or continue, the Eligible Employee must notify the Employer immediately.
 - **(b)** Where the Eligible Employee had, at the time, started a period of adoption-related leave in relation to the placement, the Eligible Employee’s entitlement to adoption-related leave is not affected, except where the Employer gives written notice under [subclause 67.9(c)](/ebas/doctors-in-training/leave/67-parental-leave).
 - **(c)** The Employer may give the Eligible Employee written notice that, from a stated day no earlier than four weeks after the day the notice is given, any untaken long adoption-related leave is cancelled with effect from that day.
 - **(d)** Where the Eligible Employee wishes to return to work due to a placement not proceeding or continuing, the Employer must nominate a time not exceeding four weeks from receipt of notification for the Eligible Employee’s return to work.
 
-**67.10** Special maternity leave
+**67.10 Special maternity leave**
 
-- **(a)** Entitlement to unpaid special birth-related leave
+- **(a) Entitlement to unpaid special birth-related leave**
     - **(i)** A female Eligible Employee is entitled to a period of unpaid special leave if she is not fit for work during that period because:
         - **A.** she has a pregnancy-related illness; or
         - **B.** all of the following apply:
@@ -197,15 +197,16 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 66](/ebas/d
             2) the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
     - **(ii)** A female Eligible Employee who has an entitlement to personal leave may, in part or whole, take personal leave instead of unpaid special leave under this clause.
     - **(iii)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child, the Eligible Employee is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
-- **(b)** Entitlement to paid special birth-related leave
+- **(b) Entitlement to paid special birth-related leave**
     - **(i)** A female Eligible Employee is entitled to a period of paid special leave if the pregnancy terminates at or after the completion of 20 weeks’ gestation or the Eligible Employee gives birth but the baby subsequently dies.
     - **(ii)** Paid special leave is paid leave not exceeding the amount of paid leave available to Primary Carers under [subclause 67.5(a)(i)](/ebas/doctors-in-training/leave/67-parental-leave)A or 67.5(a)(ii)A (plus superannuation).
     - **(iii)** Paid special leave is in addition to any unpaid special leave taken under [subclause 67.10(a)(i)](/ebas/doctors-in-training/leave/67-parental-leave).
     - **(iv)** Paid leave available to non-Primary Carers under [subclause 67.5(a)(i)](/ebas/doctors-in-training/leave/67-parental-leave)B or 67.5(a)(ii)B will also apply in these circumstances.
-- **(c)** Evidence
-If an Eligible Employee takes leave under this clause the Employer may require the Eligible Employee to provide evidence that would satisfy a reasonable person of the matters referred to in [subclauses 67.10(a)(i) or 67.10(b)(i)](/ebas/doctors-in-training/leave/67-parental-leave) or to provide a certificate from a registered medical practitioner. The Eligible Employee must give notice to the Employer as soon as practicable, advising the Employer of the period or the expected period of the leave under this provision.
+- **(c) Evidence**
 
-**67.11** Variation of period of unpaid parental leave (up to 12 months)
+  If an Eligible Employee takes leave under this clause the Employer may require the Eligible Employee to provide evidence that would satisfy a reasonable person of the matters referred to in [subclauses 67.10(a)(i) or 67.10(b)(i)](/ebas/doctors-in-training/leave/67-parental-leave) or to provide a certificate from a registered medical practitioner. The Eligible Employee must give notice to the Employer as soon as practicable, advising the Employer of the period or the expected period of the leave under this provision.
+
+**67.11 Variation of period of unpaid parental leave (up to 12 months)**
 
 - **(a)** Where an Eligible Employee has:
   - **(i)** given notice of the taking of a period of Long Parental Leave under [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave); and
@@ -214,39 +215,47 @@ If an Eligible Employee takes leave under this clause the Employer may require t
   - **(iv)** not taken a period of Flexible Long Parental Leave, the Eligible Employee may extend the period of unpaid parental leave (up to the Eligible Employee’s available entitlement to Long Parental Leave) by giving their Employer notice in writing of the extension and specifying the new end date for the leave. This one-off extension is to be notified as soon as possible but no less than four weeks before the end date of the original leave period. Nothing in this clause detracts from the basic entitlement in [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave) (Long Parental Leave – Unpaid) or [subclause 67.12](/ebas/doctors-in-training/leave/67-parental-leave) (Right to request an extension of period of unpaid parental leave beyond 12 months).
 - **(b)** If the Employer and Eligible Employee agree, the Eligible Employee may further extend or reduce the period of parental leave.
 
-**67.12** Right to request an extension of period of unpaid parental leave beyond 12 months
+**67.12 Right to request an extension of period of unpaid parental leave beyond 12 months**
 
-An Eligible Employee entitled to Long Parental Leave pursuant to the provisions of subclause **67.3** may request the Employer to allow the Eligible Employee to extend the period of Long Parental Leave by a further continuous period of up to 12 months immediately following the end of the available parental leave.
+An Eligible Employee entitled to Long Parental Leave pursuant to the provisions of subclause 67.3 may request the Employer to allow the Eligible Employee to extend the period of Long Parental Leave by a further continuous period of up to 12 months immediately following the end of the available parental leave.
 
-- **(a)** Request to be in writing  
+- **(a) Request to be in writing**
+
   The request must be in writing and must be given to the Employer at least four weeks before the end of the available parental leave period.
-- **(b)** Response to be in writing  
+- **(b) Response to be in writing**
+
   The Employer must give the Eligible Employee a written response to the request stating whether the Employer grants or refuses the request. The response must be given as soon as practicable, and not later than 21 days, after the request is made.
-- **(c)** Refusal only on reasonable business grounds  
+- **(c) Refusal only on reasonable business grounds**
+
   The Employer may only refuse the request on reasonable business grounds.
-- **(d)** Reasons for refusal to be specified  
+- **(d) Reasons for refusal to be specified**
+
   If the Employer refuses the request, the written response must include details of the reasons for the refusal.
-- **(e)** Reasonable opportunity to discuss  
+- **(e) Reasonable opportunity to discuss**
+
   The Employer must not refuse the request unless the Employer has given the Eligible Employee a reasonable opportunity to discuss the request.
-- **(f)** Employee Couples  
+- **(f) Employee Couples**
+
   Where a member of an Employee Couple is requesting an extension to a period of Long Parental Leave in relation to a Child:
   - **(i)** the request must specify any amount of Long Parental Leave that the other member of the Employee Couple has taken, or will have taken in relation to the Child before the extension starts;
   - **(ii)** if the other member of the Employee Couple has given notice of an intention to take Flexible Long Parental Leave (in accordance with [subclause 67.6(e)](/ebas/doctors-in-training/leave/67-parental-leave)), the request must specify the number of flexible days that will not have been taken when the period of extended leave commences;
   - **(iii)** the period of extension cannot exceed 12 months, less any period of Long Parental Leave (other than Flexible Long Parental Leave) that the other member of the Employee Couple has taken, or will have taken, in relation to the Child before the extension starts, as well as a period equal to the other member's Notional Flexible Period (if [subclause 67.12(f)(ii)](/ebas/doctors-in-training/leave/67-parental-leave) applies above); and;
   - **(iv)** the amount of Long Parental Leave to which the other member of the Employee Couple is entitled under [subclause 67.3](/ebas/doctors-in-training/leave/67-parental-leave) in relation to the Child is reduced by the period of the extension.
-- **(g)** No extension beyond 24 months  
+- **(g) No extension beyond 24 months**
+
   An Eligible Employee is not entitled to extend the period of Long Parental Leave beyond 24 months after the date of birth or day of placement of the Child.
 
-**67.13** Parental leave and other entitlements
+**67.13 Parental leave and other entitlements**
 
 An Eligible Employee may use any accrued annual leave or long service leave entitlements concurrently with Long Parental Leave, save that taking that leave does not have the effect of extending the period of Long Parental Leave.
 
-**67.14** Transfer to a safe job
+**67.14 Transfer to a safe job**
 
 - **(a)** Where an Employee is pregnant and provides evidence that would satisfy a reasonable person that she is fit for work but it is inadvisable for the Employee to continue in her present position for a stated period (the risk period) because of:
   - **(i)** illness or risks arising out of the pregnancy, or
   - **(ii)** hazards connected with the position, the Employee must be transferred to an appropriate safe job if one is available for the risk period, with no other change to the Employee’s terms and conditions of employment.
-- **(b)** Paid no safe job leave  
+- **(b) Paid no safe job leave**
+
   If:
   - **(i)** [subclause 67.14(a)](/ebas/doctors-in-training/leave/67-parental-leave) applies to a pregnant Eligible Employee but there is no appropriate safe job available; and
   - **(ii)** the Eligible Employee is entitled to Long Parental Leave; and
@@ -257,17 +266,18 @@ An Eligible Employee may use any accrued annual leave or long service leave enti
 - **(f)** If, the Eligible Employee has either:
   - **(i)** not complied with the request from the Employer under (e) above; or
   - **(ii)** provided a medical certificate stating that she is not fit for work, then the Eligible Employee is not entitled to no safe job leave and the Employer may require the Eligible Employee to take parental leave as soon as practicable.
-- **(g)** Unpaid no safe job leave  
+- **(g) Unpaid no safe job leave**
+
   If:
   - **(i)** [subclause 67.14(a)](/ebas/doctors-in-training/leave/67-parental-leave) applies to a pregnant Employee but there is no appropriate safe job available; and
   - **(ii)** the Employee will not be entitled to Long Parental Leave as at the expected date of birth; and
   - **(iii)** the Employee has given the Employer evidence that would satisfy a reasonable person of the pregnancy if required by the Employer (which may include a requirement to provide a medical certificate), the Employee is entitled to unpaid no safe job leave for the risk period.
 
-**67.15** Extension of contract – Parental Leave
+**67.15 Extension of contract – Parental Leave**
 
 A Doctor is entitled to be offered a variation to the period of their existing contract of employment in accordance with [subclause 21.3(b)](/ebas/doctors-in-training/doctor-employment/21-period-of-employment).
 
-**67.16** Returning to work after a period of parental leave
+**67.16 Returning to work after a period of parental leave**
 
 - **(a)** An Eligible Employee must confirm to the Employer that the Eligible Employee will return to work as scheduled after a period of Long Parental Leave at least four weeks prior to the end of the leave, or where that is not practicable, as soon as practicable.
 - **(b)** An Eligible Employee will be entitled to return:
@@ -280,7 +290,7 @@ A Doctor is entitled to be offered a variation to the period of their existing c
   - **(i)** the Eligible Employee or Eligible Employee’s Spouse is pregnant; or
   - **(ii)** the Eligible Employee or is or has been immediately absent on parental leave.
 - **(f)** The rights of the Employer in relation to engagement and re-engagement of casual Employees are not affected, other than in accordance with this clause.
-- **(g)** Stillbirth or death of child – cancelling leave or returning to work
+- **(g) Stillbirth or death of child – cancelling leave or returning to work**
   - **(i)** In the event of a Stillbirth, or if a Child dies during the 24-month period starting on the child's date of birth, then an Eligible Employee who is entitled to a period of unpaid parental leave in relation to the Child may:
     - **A.** before the period of leave starts, give their Employer written notice cancelling the leave; or
     - **B.** if the period of leave has started, give their Employer written notice that the Employee wishes to return to work on a specified day (which must be at least 4 weeks after the date on which the Employer receives the notice).
@@ -291,7 +301,7 @@ A Doctor is entitled to be offered a variation to the period of their existing c
 
   - **(iii)** This [subclause 67.16(g)](/ebas/doctors-in-training/leave/67-parental-leave) does not limit [subclause 67.11(b)](/ebas/doctors-in-training/leave/67-parental-leave) (dealing with the Employee reducing the period of unpaid parental leave with the agreement of the Employer).
 
-- **(h)** Employee who ceases to have responsibility for care of Child
+- **(h) Employee who ceases to have responsibility for care of Child**
   - **(i)** This subclause applies to an Employee who has taken unpaid Long Parental Leave in relation to a Child if the Employee ceases to have any responsibility for the care of the Child for a reason other than because:
     - **A.** of a Stillbirth; or
     - **B.** the Child dies during the 24-month period starting on the child's date of birth.
@@ -301,12 +311,12 @@ A Doctor is entitled to be offered a variation to the period of their existing c
     - **B.** if the leave is birth-related leave taken by a female Employee who has given birth, must not be earlier than 6 weeks after the date of birth of the Child.
   - **(iv)** The Employee's entitlement to Long Parental Leave in relation to the Child ends immediately before the specified day.
 
-**67.17** Replacement Employees
+**67.17 Replacement Employees**
 
 - **(a)** A replacement Employee is an Employee specifically engaged or temporarily promoted or transferred, as a result of an Eligible Employee proceeding on parental leave.
 - **(b)** Before the Employer engages a replacement Employee, the Employer must inform that person of the temporary nature of the employment and of the rights of the Eligible Employee who is being replaced to return to their pre-parental leave position.
 
-**67.18** Communication during parental leave – organisational change
+**67.18 Communication during parental leave – organisational change**
 
 - **(a)** Where an Eligible Employee is on parental leave and the Employer proposes a change that will have a significant effect within the meaning of [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) (Consultation) of this Agreement on the Eligible Employee’s pre-parental leave position, the Employer will comply with the requirements of [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) (Consultation) which include but are not limited to providing:
   - **(i)** information in accordance with [subclause 10.4](/ebas/doctors-in-training/consultation-disputes/10-consultation); and
@@ -314,7 +324,7 @@ A Doctor is entitled to be offered a variation to the period of their existing c
 - **(b)** The Eligible Employee will take reasonable steps to inform the Employer about any significant matter that arises whilst the Eligible Employee is taking parental leave that will affect the Eligible Employee’s decision regarding the duration of parental leave to be taken, whether the Eligible Employee intends to return to work and whether the Eligible Employee intends to request to return to work on a part-time basis.
 - **(c)** The Eligible Employee will also notify the Employer of changes of address or other contact details which might affect the Employer’s capacity to comply with [subclause 67.18](/ebas/doctors-in-training/leave/67-parental-leave).
 
-**67.19** Keeping in touch days
+**67.19 Keeping in touch days**
 
 - **(a)** This clause does not prevent an Eligible Employee from performing work for the Employer on a keeping in touch day while the Eligible Employee is taking Long Parental Leave. If the Eligible Employee does so, the performance of that work does not break the continuity of the period of Long Parental Leave.
 - **(b)** Any day or part of a day on which the Eligible Employee performs work for the Employer during the period of leave is a keeping in touch day if:
@@ -331,6 +341,3 @@ A Doctor is entitled to be offered a variation to the period of their existing c
 - **(e)** [Subclause 67.19(a)](/ebas/doctors-in-training/leave/67-parental-leave) does not apply in relation to the Eligible Employee on and after the first day on which the Employee takes flexible unpaid parental leave in relation to the Child.
 
 Plain language terms: maternity, paternity, baby leave.
-
-
-

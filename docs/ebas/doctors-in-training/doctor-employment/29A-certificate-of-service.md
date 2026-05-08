@@ -21,5 +21,3 @@ topics: ['leave', 'personal-leave', 'long-service-leave', 'employment', 'termina
 **29A.4** A Doctor may request a document from their Employer which provides ‘Employment Information’ that can be used for the sole purpose of enabling their classification to be recognised by another Employer.
 
 Plain language terms: service certificate.
-
-

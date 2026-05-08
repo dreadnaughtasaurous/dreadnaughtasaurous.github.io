@@ -9,5 +9,3 @@ topics: ['preliminary']
 This Agreement is called the Doctors in Training (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026.
 
 Plain language terms: agreement title.
-
-

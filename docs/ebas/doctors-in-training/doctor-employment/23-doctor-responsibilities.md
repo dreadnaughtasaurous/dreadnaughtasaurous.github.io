@@ -20,5 +20,3 @@ topics: ['preliminary']
 **23.5** The Doctor will ensure that to the extent that it is practicable to do so time sheets (or equivalent) reflecting time worked (including any overtime) are submitted within the timeframe required by the Health Service.
 
 Plain language terms: responsibilities.
-
-

@@ -6,7 +6,7 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'prelimina
 
 # 34. Training Time
 
-**34.1** Arrangements for rostering and taking Training Time – Protocol
+**34.1 Arrangements for rostering and taking Training Time – Protocol**
 
 - **(a)** Any arrangement for rostering and taking Training Time is subject to the overarching principles set in this clause.
 - **(b)** Training Time must be:
@@ -19,19 +19,19 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'prelimina
   - **(ii)** the most appropriate method of arranging and rostering Training Time.
 - **(d)** Where the Health Service designates an accredited Specialist training position, the Doctor is entitled to the same educational opportunities (five hours of Training Time). The Health Service must advise the Association.
 
-**34.2** Other arrangements by agreement
+**34.2 Other arrangements by agreement**
 
 - **(a)** Where there is a demonstrable benefit to the Registrar, Training Time may be arranged other than five hours per week:
   - **(i)** a Registrar may agree to accumulate a portion of weekly Training Time to be used in a larger block; and
   - **(ii)** the total Training Time must not be less than what would have been received under [34.1(b)(i)].
 - **(b)** Once agreement is reached, the Health Service must provide a written schedule of activities including dates and times.
 
-**34.3** Written schedule, changes and disputes
+**34.3 Written schedule, changes and disputes**
 
 - **(a)** Any change to rostered Training Time must be recorded in writing and available for inspection.
 - **(b)** Concerns about compliance may be referred to the Agreement Implementation Committee and disputes handled under [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure).
 
-**34.4** Forms of Training Time
+**34.4 Forms of Training Time**
 
 - **(a)** Activities may include:
   - **(i)** lectures, tutorials or formal teaching in non-service situations;
@@ -41,18 +41,18 @@ topics: ['hours', 'rosters', 'education', 'professional-development', 'prelimina
 - **(b)** Training Time may be on or off site.
 - **(c)** Unplanned or impromptu training opportunities may count as Training Time.
 
-**34.5** Rostering of Training Time
+**34.5 Rostering of Training Time**
 
 - **(a)** Training Time must be published on the roster or another agreed document used by clinical and non-clinical staff.
 - **(b)** If rostering technology cannot publish Training Time, another agreed document may be used.
 - **(c)** Proposed alternative documents must be referred to the local Agreement Implementation Committee.
 - **(d)** Training Time must be visible to ensure it is protected from service calls except genuine emergencies. Arrangements should identify alternative clinical contacts and forfeiture of the Registrar’s pager where safe.
 
-**34.6** Inspection of Training Time records
+**34.6 Inspection of Training Time records**
 
 Training Time records must be available for inspection by an accredited Association representative.
 
-**34.7** Reallocation of Training Time
+**34.7 Reallocation of Training Time**
 
 Where a Doctor is rostered for Training Time and:
 
@@ -62,7 +62,7 @@ Where a Doctor is rostered for Training Time and:
 
 the Health Service must reallocate the Training Time by the end of the following pay period or, at the Registrar’s election, a later roster period.
 
-**34.8** Inability to take Training Time when allocated
+**34.8 Inability to take Training Time when allocated**
 
 - **(a)** If a Doctor cannot take Training Time when allocated, it must be reallocated within four weeks.
 - **(b)** If Training Time is still not taken after four weeks, the Health Service must pay:

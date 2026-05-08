@@ -6,7 +6,7 @@ topics: ['ohs']
 
 # 62. Fitness For Work
 
-**62.1** Fit for Work
+**62.1 Fit for Work**
 
 - **(a)** The Health Service is responsible for providing a workplace that is safe and without risk to health for Doctors, so far as is reasonably practicable.
 - **(b)** Each Doctor is responsible for ensuring that they are fit to perform their duties without risk to the safety, health and well-being of themselves and others within the workplace. This responsibility includes compliance with reasonable measures put in place by the Health Service and any related occupational health and safety requirements.
@@ -36,17 +36,17 @@ topics: ['ohs']
 - **(m)** Nothing in this [clause 62](/ebas/doctors-in-training/leave/62-fitness-for-work) prevents a Health Service from taking any reasonable step to ensure a safe work environment in accordance with applicable legislation and this Agreement.
 - **(n)** The Health Service will respect a Doctor’s privacy and ensure that any personal information provided by the Doctor or a medical practitioner under this [clause 62](/ebas/doctors-in-training/leave/62-fitness-for-work) is kept confidential.
 
-**62.2** Reasonable Adjustments
+**62.2 Reasonable Adjustments**
 
 - **(a)** Where Doctors have a disability (whether permanent or temporary) the Health Service is required to make reasonable adjustments to enable the Doctor to continue to perform their duties, subject to [subclause 62.2(b)](/ebas/doctors-in-training/leave/62-fitness-for-work) below.
 - **(b)** A Health Service is not required to make reasonable adjustments if the Doctor could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
-- **(c)** Definitions
-  - **(i)** Disability has the same meaning as section 4 of the EO Act and includes:
+- **(c) Definitions**
+  - **(i)** **Disability** has the same meaning as section 4 of the EO Act and includes:
     - **A.** total or partial loss of a bodily function; or
     - **B.** presence in the body of organisms that may cause disease;
     - **C.** total or partial loss of a part of the body; or
     - **D.** malfunction of a part of the body including a mental or psychological disease or disorder or condition or disorder that results in a person learning more slowly than those without the condition or disorder.
-  - **(ii)** Reasonable adjustments has the same meaning as section 20 of the EO Act and requires consideration of all relevant facts and circumstances including:
+  - **(ii) Reasonable adjustments** has the same meaning as section 20 of the EO Act and requires consideration of all relevant facts and circumstances including:
     - **A.** the Doctor’s circumstances, including the nature of the disability;
     - **B.** the nature of the Doctor’s role;
     - **C.** the nature of the adjustment required to accommodate the Doctor’s disability;

@@ -16,5 +16,3 @@ topics: ['hours', 'on-call', 'allowances']
 **40.3** The Association may review the form and application of the Protocols to ensure their effective operation.
 
 Plain language terms: after-hours calls.
-
-

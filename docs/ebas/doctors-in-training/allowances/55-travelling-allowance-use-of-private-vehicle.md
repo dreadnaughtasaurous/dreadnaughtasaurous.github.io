@@ -13,5 +13,3 @@ topics: ['hours', 'on-call', 'allowances', 'travel']
 **55.3** The Doctor is responsible for maintaining records sufficient to support any claim made pursuant to this [clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle).
 
 **55.4** A Doctor who is recalled and who has not used personal transport must be provided with suitable return transport at the Health Service’s expense.
-
-

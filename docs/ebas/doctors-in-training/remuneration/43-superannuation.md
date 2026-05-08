@@ -6,39 +6,39 @@ topics: ['wages', 'superannuation', 'preliminary']
 
 # 43. Superannuation
 
-The subject of superannuation contributions is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This clause is ancillary to and supplements those provisions.
+*The subject of superannuation contributions is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This clause is ancillary to and supplements those provisions.*
 
-**43.1** Definitions
+**43.1 Definitions**
 
 In this clause
 
 - **(a) default fund** means the Aware Super superannuation fund (or its successor) while it provides a "MySuper product" as defined by the Act; and
 - **(b) preferred superannuation fund** means a fund that meets the definition of a superannuation fund in the Superannuation Guarantee (Administration) Act 1992 (Cth).
 
-**43.2** Existing Doctors
+**43.2 Existing Doctors**
 
 Doctors will have the choice to nominate that the Employer contributions and their own contributions are made to the Doctor’s preferred superannuation fund (as defined above).
 
-**43.3** New Doctors
+**43.3 New Doctors**
 
 The Employer will offer to make superannuation contributions on behalf of a Doctor to:
 
 - **(a)** the Doctor’s preferred superannuation fund; or
 - **(b)** Aware Super superannuation funds (or successor).
 
-**43.4** Where new Doctors do not nominate fund
+**43.4 Where new Doctors do not nominate fund**
 
 If the Doctor does not nominate a fund, the Employer will pay the Doctor’s superannuation contributions to the default fund.
 
-**43.5** Calculation of superannuation contributions
+**43.5 Calculation of superannuation contributions**
 
 Superannuation contributions paid by the Employer will be calculated and paid on:
 
-- **(a)** ordinary time earnings as defined in the Superannuation Guarantee (Administration) Act 1992 (Cth) calculated on the Doctor’s pre-salary packaging earnings;
+- **(a)** ordinary time earnings as defined in the *Superannuation Guarantee (Administration) Act 1992 (Cth)* calculated on the Doctor’s pre-salary packaging earnings;
 - **(b)** any additional amounts consistent with the trust deed of the superannuation fund; and
 - **(c)** any payment for a period of paid parental leave under [subclause 67.5](/ebas/doctors-in-training/leave/67-parental-leave).
 
-**43.6** Superannuation during parental leave – from 11 April 2022
+**43.6 Superannuation during parental leave – from 11 April 2022**
 
 From 11 April 2022, the Employer will make superannuation contributions throughout any period of parental leave, paid or unpaid. Such contributions will be calculated as follows:
 

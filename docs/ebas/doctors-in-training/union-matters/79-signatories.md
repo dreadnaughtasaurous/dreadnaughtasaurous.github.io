@@ -6,8 +6,6 @@ topics: ['union-matters']
 
 # 79. Signatories
 
-
-
 SIGNED for and on behalf of the Employers referred to in [Appendix 1](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services) by the authorised representatives of the Victorian Hospitals’ Industrial Association, 88 Maribyrnong Street, Signature Footscray, VIC, 3011 in the presence of:
 
 - Stuart McCullough, Chief Executive Officer

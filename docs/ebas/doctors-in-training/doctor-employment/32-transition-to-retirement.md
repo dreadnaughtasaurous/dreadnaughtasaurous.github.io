@@ -22,7 +22,7 @@ topics: ['employment', 'flexible-work', 'preliminary']
 
 **32.4** The Health Service will consider, and not unreasonably refuse, a request by a Doctor who wishes to transition to retirement:
 
-- **(a)** to use accrued Long Service Leave (LSL) or Annual Leave for the purpose of reducing the number of days worked per week while retaining their previous employment status; or
+- **(a)** to use accrued Long Service Leave (**LSL**) or Annual Leave for the purpose of reducing the number of days worked per week while retaining their previous employment status; or
 - **(b)** to be appointed to a role that has a lower hourly rate of pay or hours (post transition role), in which case:
   - **(i)** the Health Service will preserve the accrual of LSL at the time of reduction in salary or hours; and
   - **(ii)** where LSL is taken or paid out in lieu on termination, the Doctor will be paid LSL hours at the applicable classification and grade, and at the preserved hours, prior to the post transition role until the preserved LSL hours are exhausted.

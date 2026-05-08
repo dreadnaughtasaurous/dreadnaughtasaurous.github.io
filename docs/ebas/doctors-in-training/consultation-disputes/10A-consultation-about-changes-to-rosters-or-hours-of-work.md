@@ -6,7 +6,7 @@ topics: ['hours', 'rosters', 'consultation']
 
 # 10A. Consultation About Changes To Rosters Or Hours Of Work
 
-This [clause 10A](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon a Doctor, particularly in relation to their family and caring responsibilities) does not constitute ‘Major Change in accordance with [subclause 10.2(c)](/ebas/doctors-in-training/consultation-disputes/10-consultation)).
+*This [clause 10A](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon a Doctor, particularly in relation to their family and caring responsibilities) does not constitute ‘Major Change in accordance with [subclause 10.2(c)](/ebas/doctors-in-training/consultation-disputes/10-consultation)).*
 
 **10A.1** Where a Health Service proposes to change a Doctor’s regular roster or ordinary hours of work, the Health Service must consult with the Doctor or Doctors affected and their representatives, if any, about the proposed change.
 

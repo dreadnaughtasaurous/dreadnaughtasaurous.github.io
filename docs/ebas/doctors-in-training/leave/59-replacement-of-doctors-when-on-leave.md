@@ -19,5 +19,3 @@ topics: ['leave', 'staffing', 'workload']
 **59.6** If replacement of a Doctor is not possible, the Health Service must take reasonable steps to manage the workload of the remaining team. This could include re-prioritisation or amendments to services.
 
 Plain language terms: leave cover.
-
-

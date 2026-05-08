@@ -11,5 +11,3 @@ topics: ['ohs', 'education']
 **48.2** The Health Service will meet the course costs, where applicable.
 
 Plain language terms: in-house training.
-
-

@@ -6,7 +6,7 @@ topics: ['accommodation']
 
 # 72. Amenities And Facilities
 
-**72.1** Amenities
+**72.1 Amenities**
 
 The Health Service must provide Doctors access to the following amenities:
 
@@ -14,7 +14,7 @@ The Health Service must provide Doctors access to the following amenities:
 - **(b)** a common room; and
 - **(c)** a shower and bathroom.
 
-**72.2** Facilities
+**72.2 Facilities**
 
 Health Services should provide Doctors access to the following facilities:
 
@@ -27,7 +27,7 @@ Health Services should provide Doctors access to the following facilities:
 
 **72.3** In the case where a Health Service does not meet the standards described in [subclause 72.2](/ebas/doctors-in-training/accommodation/72-amenities-and-facilities) above, the Health Service, the Department and the Association will consult to determine a time-frame within which the facilities will be provided within available capital funding budgets.
 
-**72.4** Additional Amenities and Facilities for Doctors working overnight
+**72.4 Additional Amenities and Facilities for Doctors working overnight**
 
 Where a Doctor is rostered for a period of 12 hours or more commencing after 6.00 p.m., the Health Service must make available to the Doctor for the period of duty:
 

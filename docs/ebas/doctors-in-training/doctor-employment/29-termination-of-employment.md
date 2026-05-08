@@ -16,5 +16,3 @@ topics: ['wages', 'employment', 'termination']
 **29.2** Casual employment may be terminated with one hour’s notice.
 
 Plain language terms: resignation, dismissal.
-
-

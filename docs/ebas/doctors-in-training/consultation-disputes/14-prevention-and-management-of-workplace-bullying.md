@@ -6,16 +6,16 @@ topics: ['ohs']
 
 # 14. Prevention And Management Of Workplace Bullying
 
-**14.1** Purpose
+**14.1 Purpose**
 
 - **(a)** This clause concerns the prevention and management of Workplace bullying and requires Employers to take actions consistent with their obligations under the OHS Act. Workplace bullying is an occupational health and safety risk.
 - **(b)** Workplace bullying can happen in any workplace. Under certain conditions, anyone could be capable of bullying-type behaviour.
 - **(c)** Workplace bullying can have an impact on an individual’s health and affect their ability to do their job. It can also contribute to loss of productivity, staff turnover, absenteeism, low morale and financial costs.
 - **(d)** It is in the interests of all parties including Employers, employees who raise complaints, Employees about whom complaints are made and their representatives should that concerns about behaviour that may be workplace bullying are addressed quickly, fairly and sensitively and with the intention of ensuring a safe working environment for everyone.
 
-**14.2** Definitions
+**14.2 Definitions**
 
-- **(a)** Workplace Bullying is repeated, unreasonable behaviour directed at an employee or group of employees that creates a risk to health and safety. Reasonable management action carried out in a reasonable manner is not bullying.
+- **(a)** **Workplace Bullying** is repeated, unreasonable behaviour directed at an employee or group of employees that creates a risk to health and safety. Reasonable management action carried out in a reasonable manner is not bullying.
 
 >**Examples of workplace bullying include repeated:**
 >
@@ -31,9 +31,9 @@ topics: ['ohs']
 >- **(vii)** Rostering and allocating working hours, where the requirements are reasonable; and
 >- **(viii)** Constructively delivered feedback or counselling intended to help employees to improve their work performance or the standard of their behaviour.
 
-- **(b)** OHS Act means the Occupational and Health Safety Act 2004.
+- **(b)** **OHS Act** means the Occupational and Health Safety Act 2004.
 
-**14.3** Prevention - General
+**14.3 Prevention - General**
 
 - **(a)** Employers have a duty under the OHS Act to provide and maintain, so far as is reasonably practicable, a working environment that is safe and without risks to health.
 - **(b)** Employer obligations include:
@@ -41,7 +41,7 @@ topics: ['ohs']
   - **(ii)** consulting with Employees who are or who are likely to be directly affected by a health and safety matter.
 - **(c)** Prevention is the key to providing a safe working environment.
 
-**14.4** Prevention - Policy
+**14.4 Prevention - Policy**
 
 - **(a)** Each Employer will have a workplace policy and procedure for workplace bullying.
 - **(b)** A workplace policy should state:
@@ -56,7 +56,7 @@ topics: ['ohs']
   - **(ix)** how reports will be investigated; and
   - **(x)** where to get more information.
 
-**14.5** Early Intervention
+**14.5 Early Intervention**
 
 - **(a)** It is recognised that early intervention is critical to ensuring both a safe workplace and fairness to all parties. The objective of early intervention is to:
   - **(i)** establish appropriate behaviour;
@@ -67,7 +67,7 @@ topics: ['ohs']
   - **(ii)** seeking assistance from someone else such as a manager, supervisor, medical workforce unit or human resources.
 - **(c)** Training plays an important role in the early intervention of workplace bullying. Employers should ensure employees are trained to recognise bullying behaviour and to adjust their behaviour accordingly before it becomes an issue.
 
-**14.6** Managing Workplace Bullying – General Principles
+**14.6 Managing Workplace Bullying – General Principles**
 
 Where it is necessary to conduct an investigation regarding potential workplace bullying, the following principles will apply:
 
@@ -81,7 +81,7 @@ Where it is necessary to conduct an investigation regarding potential workplace 
   - **(ii)** does not necessarily mean excluding a person from the same organisation as the employee, from conducting an investigation or making a decision.
 - **(c)** The Employer shall provide an unredacted report to the Doctor/s and their representative/s, including the Association where relevant, upon request.
 
-**14.7** Where an external investigator is appointed
+**14.7 Where an external investigator is appointed**
 
 Where the Employer decides to appoint an external investigator, the Employer shall either:
 
@@ -90,7 +90,7 @@ Where the Employer decides to appoint an external investigator, the Employer sha
 
 Consultation in this [clause 14.7](/ebas/doctors-in-training/consultation-disputes/14-prevention-and-management-of-workplace-bullying) has its ordinary meaning and does not refer to consultation as set out at [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) and shall be conducted efficiently having regard for the health and safety of the employees.
 
-**14.8** More information
+**14.8 More information**
 
 Further information about workplace bullying and principles to manage and resolve bullying matters can be found at:
 

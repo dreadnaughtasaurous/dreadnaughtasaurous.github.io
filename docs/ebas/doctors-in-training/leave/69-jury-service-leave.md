@@ -11,5 +11,3 @@ topics: ['leave']
 **69.2** A Doctor must notify the Health Service as soon as possible of the date(s) when he or she is required to attend for Jury Service. Further, the Doctor must give his or her Health Service proof of attendance, the duration of the attendance and the amount paid for the Jury Service.
 
 Plain language terms: jury duty.
-
-

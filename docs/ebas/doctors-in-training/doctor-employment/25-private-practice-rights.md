@@ -16,5 +16,3 @@ topics: ['employment']
 **25.3** The above [subclause 25.2](/ebas/doctors-in-training/doctor-employment/25-private-practice-rights) applies to Doctors seconded for service with the Australian Defence Force but does not apply to service under the Defence Act 1903.
 
 Plain language terms: private practice.
-
-

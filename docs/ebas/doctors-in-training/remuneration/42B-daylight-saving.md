@@ -10,7 +10,15 @@ topics: ['hours', 'shift-work', 'rosters', 'breaks']
 
 >**Example:** 
 >
->A Doctor is rostered to work a ten hour night shift from 9pm through to 7:30am (including a 30 minute meal break). During the course of this shift, the clock is wound forward one hour due to the commencement of daylight saving. The Doctor therefore works nine hours. The Doctor is paid nine hours at their ordinary time rate of pay (including any shift penalties or allowances ordinarily payable in respect of this shift). Example: A Doctor is rostered in a ten hour night shift from 9pm through to 7.30am (including a 30 minute meal break). During the course of this shift, the clock is wound back one hour due to the cessation of daylight saving. The Doctor therefore works 11 hours. The Doctor is paid 11 hours at their ordinary time rate of pay (including any shift penalties or allowances ordinarily payable in respect of this shift). No overtime is paid for the additional hour worked.
+>A Doctor is rostered to work a ten hour night shift from 9pm through to 7:30am (including a 30 minute meal break). During the course of this shift, the clock is wound forward one hour due to the commencement of daylight saving. 
+>
+>The Doctor therefore works nine hours. The Doctor is paid nine hours at their ordinary time rate of pay (including any shift penalties or allowances ordinarily payable in respect of this shift). 
+
+>**Example:** 
+>
+>A Doctor is rostered in a ten hour night shift from 9pm through to 7.30am (including a 30 minute meal break). During the course of this shift, the clock is wound back one hour due to the cessation of daylight saving. 
+>
+>The Doctor therefore works 11 hours. The Doctor is paid 11 hours at their ordinary time rate of pay (including any shift penalties or allowances ordinarily payable in respect of this shift). No overtime is paid for the additional hour worked.
 
 Plain language terms: DST.
 

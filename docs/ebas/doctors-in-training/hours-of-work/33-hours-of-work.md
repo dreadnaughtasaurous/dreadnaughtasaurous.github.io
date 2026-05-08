@@ -6,21 +6,22 @@ topics: ['education', 'professional-development', 'hours', 'employment', 'prelim
 
 # 33. Hours Of Work
 
-**33.1** Ordinary Hours of Work per Week
+**33.1 Ordinary Hours of Work per Week**
 
-- **(a)** Doctors other than Registrars  
+- **(a) Doctors other than Registrars**
+
   The ordinary hours of full time work will be 38 hours per week or an average of 38 hours per week over a period of up to four weeks.
 
-- **(b)** Registrars  
+- **(b) Registrars**  
   - **(i)** The ordinary hours of full-time work will be 38 hours plus five reasonable additional hours of Training Time (as defined at [subclause 3.1(kk)](/ebas/doctors-in-training/preliminary/3-definitions)) equalling 43 hours per week or an average of 43 hours per week over a period of up to four weeks.  
   - **(ii)** The arrangement of hours for Registrars is a long-standing industry arrangement that ensures Registrars have access to Training Time.
 
-- **(c)** Work continuous except for meal break  
+- **(c) Work continuous except for meal break**  
   - **(i)** A Doctor’s ordinary hours of work and any required extra work, excluding On-Call or Recall ([clauses 38](/ebas/doctors-in-training/hours-of-work/38-on-call) and 39), shall be continuous except for meal breaks.  
   - **(ii)** A meal break must be at least 30 minutes and is counted as time worked unless the Doctor is unavailable to answer calls during such break.  
   - **(iii)** A meal break should occur every 6 hours from commencement of the shift.
 
-**33.2** Maximum hours and consecutive shifts
+**33.2 Maximum hours and consecutive shifts**
 
 - **(a)** A Doctor’s hours of work (not inclusive of periods of On-Call) must not exceed 140 hours in two roster weeks, or work more than seven consecutive night shifts unless:  
   - **(i)** the Doctor has given written consent to waive this entitlement; or  
@@ -32,19 +33,19 @@ topics: ['education', 'professional-development', 'hours', 'employment', 'prelim
 
 - **(d)** The Health Service will endeavour to roster equitably having regard for all the circumstances including those of the Doctors and the needs of the organisation.
 
-**33.3** Hours per Day
+**33.3 Hours per Day**
 
 Doctors must not be rostered for duty for more than 14 consecutive hours on any given shift unless, in the case of a Registrar, exceptional circumstances exist that require a greater shift length.
 
-**33.4** Minimum shift length
+**33.4 Minimum shift length**
 
 Full-time HMOs, MOs and SMOs must not be rostered for duty for less than four hours.
 
-**33.5** Averaging does not apply to overtime
+**33.5 Averaging does not apply to overtime**
 
 Averaging of hours under this clause must not be utilised to reduce or avoid an entitlement prescribed in [subclause 36.2](/ebas/doctors-in-training/hours-of-work/36-overtime) (Overtime Entitlement).
 
-**33.6** Breaks Between Ordinary Rostered Shifts
+**33.6 Breaks Between Ordinary Rostered Shifts**
 
 - **(a)** Doctors must be free from duty for at least 10 hours between rostered ordinary shifts.
 
@@ -66,7 +67,7 @@ Averaging of hours under this clause must not be utilised to reduce or avoid an 
 >  
 > If the same Doctor finishes at 6pm on day one and a call is received at 4.30am the following day, the Doctor has already received a 10 hour break and can start at their normal starting time of 7am.
 
-**33.7** Days Off per Fortnight
+**33.7 Days Off per Fortnight**
 
 - **(a)** A Doctor must receive 3.5 days off work in each two week period (for a Doctor on night shift the word ‘days’ is replaced by the word ’nights’) as follows:  
   - **(i)** two days off must be consecutive;  

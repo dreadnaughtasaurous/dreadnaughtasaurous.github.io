@@ -6,7 +6,7 @@ topics: ['union-matters', 'preliminary', 'staffing', 'workload']
 
 # 77. Best Practice Employment Commitment Committee
 
-**77.1** The parties agree to establish a committee to discuss Best Practice Employment Commitments (BPEC) during the life of the Agreement on matters including:
+**77.1** The parties agree to establish a committee to discuss Best Practice Employment Commitments (**BPEC**) during the life of the Agreement on matters including:
 
 - **(a)** measures to identify and respond to workload including:
   - **(i)** Discussion regarding reports and activities relevant to workforce planning; and

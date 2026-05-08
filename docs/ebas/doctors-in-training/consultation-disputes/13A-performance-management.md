@@ -6,7 +6,7 @@ topics: ['discipline']
 
 # 13A. Performance Management
 
-**13A.1** Purpose
+**13A.1 Purpose**
 
 - **(a)** Regular feedback and review that is proactive, informed and constructive is an important part of professional development for Doctors based on a shared commitment requiring good communication between the Doctor and the Supervisor / line manager.
 
@@ -18,7 +18,7 @@ topics: ['discipline']
 
 ---
 
-**13A.2** Application of this clause
+**13A.2 Application of this clause**
 
 - **(a)** Where an Employer wishes to deal with performance issues of a Doctor, they will be dealt with in accordance with this [clause 13A](/ebas/doctors-in-training/consultation-disputes/13A-performance-management).
 
@@ -26,13 +26,13 @@ topics: ['discipline']
 
 ---
 
-**13A.3** Informal
+**13A.3 Informal**
 
 Where the Employer or the Employee has concerns about an Employee’s performance, the Employer will, wherever appropriate, deal with these concerns through informal discussions with the Employee when these concerns first arise. The Employer will clearly outline the concerns. The Employee will be given a reasonable opportunity to address the performance concerns.
 
 ---
 
-**13A.4** Formal
+**13A.4 Formal**
 
 - **(a)** Where the Employee’s work performance is not at an acceptable standard following the process in [subclause 13A.2](/ebas/doctors-in-training/consultation-disputes/13A-performance-management) or it was not appropriate to deal with the concerns informally, the Employer may initiate a formal performance management process.
 

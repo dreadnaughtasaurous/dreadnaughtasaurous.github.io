@@ -19,5 +19,3 @@ topics: ['employment', 'preliminary', 'accommodation']
 **75.5** A Doctor may request in writing accommodation of a higher standard than provided in [subclause 73.1](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation) above, in which case the rental and other charges must be fixed by the Rotation Hospital but must not exceed prevailing market rates.
 
 Plain language terms: board and lodging, accommodation deduction.
-
-

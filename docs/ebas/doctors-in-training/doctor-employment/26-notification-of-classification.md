@@ -11,5 +11,3 @@ topics: ['employment']
 **26.2** The Doctor must be notified in writing of any alteration to his or her classification within 14 days of the alteration taking effect.
 
 Plain language terms: classification notice.
-
-

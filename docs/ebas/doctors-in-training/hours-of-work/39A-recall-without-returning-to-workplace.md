@@ -13,5 +13,3 @@ topics: ['hours', 'overtime', 'rosters', 'on-call']
 **39A.3** Remote recall should only occur where the Doctor is rostered on-call and in accordance with [clause 40](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours) (Telephone calls to Doctors outside of Working Hours) below.
 
 **39A.4** Doctors who undertake remote recall will submit information to the health service as required within the timeframe set by the health service.
-
-

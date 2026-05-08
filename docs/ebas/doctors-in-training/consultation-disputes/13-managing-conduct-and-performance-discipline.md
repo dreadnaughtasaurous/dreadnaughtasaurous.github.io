@@ -6,7 +6,7 @@ topics: ['discipline']
 
 # 13. Managing Conduct And Performance Discipline
 
-**13.1** Application
+**13.1 Application**
 
 - **(a)** Except as provided at 13.1(e), where a Health Service has concerns about:
   - **(i)** the conduct of a Doctor; or
@@ -21,7 +21,8 @@ topics: ['discipline']
 
 - **(d)** The Health Service will notify the Doctor in accordance with [subclause 13.4(b)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 13.1(a)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline).
 
-- **(e)** Exception - Doctors who have not completed a minimum period of employment with their Health Service  
+- **(e) Exception - Doctors who have not completed a minimum period of employment with their Health Service**
+
   Where a Doctor has not completed a period of employment with their Health Service of at least the minimum employment period defined at section 383 of the Act, and the Health Service is considering the termination of the Doctor's employment, the Health Service will:
   - **(i)** provide the concerns in writing to the Doctor as soon as practicable following the Health Service becoming aware of the alleged concerns;
   - **(ii)** advise the Doctor of their right to have a representative, including a Union representative;
@@ -33,34 +34,34 @@ topics: ['discipline']
 
 ---
 
-**13.2** Definitions
+**13.2 Definitions**
 
-- **(a)** Conduct means the manner in which the Doctor’s behaviour impacts on their work.
+- **(a)** **Conduct** means the manner in which the Doctor’s behaviour impacts on their work.
 
-- **(b)** Misconduct means a Doctor’s intentional or negligent failure to abide by or adhere to the standards of conduct expected by the Health Service. A performance issue can be considered misconduct where, despite all reasonably practicable interventions by the Health Service, the Doctor is unable to fulfil all or part of their job requirements to a satisfactory level.
+- **(b)** **Misconduct** means a Doctor’s intentional or negligent failure to abide by or adhere to the standards of conduct expected by the Health Service. A performance issue can be considered misconduct where, despite all reasonably practicable interventions by the Health Service, the Doctor is unable to fulfil all or part of their job requirements to a satisfactory level.
 
-- **(c)** Performance means the manner in which the Doctor fulfils their job requirements. The level of performance is determined by reference to a Doctor’s knowledge, skills, qualifications, abilities and the requirements of the role.
+- **(c)** **Performance** means the manner in which the Doctor fulfils their job requirements. The level of performance is determined by reference to a Doctor’s knowledge, skills, qualifications, abilities and the requirements of the role.
 
-- **(d)** Procedural Fairness means that a person whose interests will be affected by a decision receives a fair and reasonable opportunity to be heard before the decision is made. Procedural fairness is concerned with the decision-making process followed or steps taken by a decision maker rather than the actual decision itself.
+- **(d)** **Procedural Fairness** means that a person whose interests will be affected by a decision receives a fair and reasonable opportunity to be heard before the decision is made. Procedural fairness is concerned with the decision-making process followed or steps taken by a decision maker rather than the actual decision itself.
 
-- **(e)** Serious Misconduct is as defined under the Regulations and is both wilful and deliberate. Currently Regulation 1.07 defines serious misconduct to include:
+- **(e)** **Serious Misconduct** is as defined under the Regulations and is both wilful and deliberate. Currently Regulation 1.07 defines serious misconduct to include:
   - **(i)** wilful or deliberate behaviour by a Doctor that is inconsistent with the continuation of the contract of employment;
   - **(ii)** conduct that causes serious and imminent risk to:
-    - A. the health or safety of a person; or
-    - B. the reputation, viability or profitability of the employer’s business.  
+    - **A.** the health or safety of a person; or
+    - **B.** the reputation, viability or profitability of the employer’s business.  
     Conduct that is Serious Misconduct includes each of the following:
   - **(iii)** the Doctor, in the course of the Doctor's employment, engaging in:
-    - A. theft; or
-    - B. fraud; or
-    - C. assault; or
-    - D. sexual harassment;
+    - **A.** theft; or
+    - **B.** fraud; or
+    - **C.** assault; or
+    - **D.** sexual harassment;
   - **(iv)** the Doctor being intoxicated at work;
   - **(v)** the Doctor refusing to carry out a lawful and reasonable instruction that is consistent with the Doctor’s contract of employment.  
     [Subclauses 13.2(e)(iii)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline)-13.2(e)(v) do not apply if the Doctor is able to show that, in the circumstances, the conduct engaged in by the Doctor was not conduct that made employment in the period of notice unreasonable.
 
 ---
 
-**13.3** Investigative procedure
+**13.3 Investigative procedure**
 
 - **(a)** The purpose of an investigative procedure is to conclude whether, on balance, concerns regarding conduct or performance are well-founded and supported by evidence. An investigation procedure must be fair including proper regard to procedural fairness.
 
@@ -80,7 +81,7 @@ topics: ['discipline']
 
 ---
 
-**13.4** Procedure to address poor Performance or Misconduct
+**13.4 Procedure to address poor Performance or Misconduct**
 
 - **(a)** The procedure applies if, following the investigation, the Health Service reasonably considers that the Doctor’s Conduct or Performance may warrant disciplinary steps being taken.
 
@@ -95,19 +96,19 @@ topics: ['discipline']
 
 ---
 
-**13.5** Possible outcomes
+**13.5 Possible outcomes**
 
 - **(a)** Where it is determined that after following the procedures in this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) that disciplinary action is warranted, the Health Service may take any of the following steps depending on the seriousness of the Conduct or Performance and, except for informal counselling, the steps shall be recorded on the Doctor's personnel file:
   - **(i)** where the Performance or Conduct issue does not constitute Serious Misconduct:
-    - A. informally counsel the doctor, which is to be confirmed in writing, with the outcome not being recorded on the Doctor's personnel file; or
-    - B. counsel the Doctor, which is to be confirmed in writing; or
-    - C. give the Doctor a first written warning; or
-    - D. give the Doctor a second written warning in the event that the Doctor has previously been given a first written warning within the previous 12 months for that course of Conduct; or
-    - E. give the Doctor a final written warning in the event that the Doctor has previously been given a second written warning within the preceding 18 month period for that course of Conduct; or
-    - F. terminate the Doctor’s employment on notice in the case of a Doctor who repeats a course of Conduct for which a final warning was given in the preceding 18 months; or
+    - **A.** informally counsel the doctor, which is to be confirmed in writing, with the outcome not being recorded on the Doctor's personnel file; or
+    - **B.** counsel the Doctor, which is to be confirmed in writing; or
+    - **C.** give the Doctor a first written warning; or
+    - **D.** give the Doctor a second written warning in the event that the Doctor has previously been given a first written warning within the previous 12 months for that course of Conduct; or
+    - **E.** give the Doctor a final written warning in the event that the Doctor has previously been given a second written warning within the preceding 18 month period for that course of Conduct; or
+    - **F.** terminate the Doctor’s employment on notice in the case of a Doctor who repeats a course of Conduct for which a final warning was given in the preceding 18 months; or
   - **(ii)** where the Performance or Conduct issues constitute Serious Misconduct:
-    - A. terminate the Doctor’s employment without notice; or
-    - B. alternatively, issue the Doctor with a final warning without following the steps in [subclause 13.5(a)(i)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) above.
+    - **A.** terminate the Doctor’s employment without notice; or
+    - **B.** alternatively, issue the Doctor with a final warning without following the steps in [subclause 13.5(a)(i)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) above.
 
 - **(b)** The Health Service’s decision and a summary of its reasons will be notified to the Doctor in writing.
 
@@ -117,19 +118,19 @@ topics: ['discipline']
 
 ---
 
-**13.6** Disputes
+**13.6 Disputes**
 
 A dispute over this clause (including [subclause 13.7](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
 ---
 
-**13.7** Performance Management
+**13.7 Performance Management**
 
-For further information on Performance Management, see [clause 13A](/ebas/doctors-in-training/consultation-disputes/13A-performance-management) of this Agreement.
+*For further information on Performance Management, see [clause 13A](/ebas/doctors-in-training/consultation-disputes/13A-performance-management) of this Agreement.*
 
 - **(a)** Nothing in this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) will prevent the Health Service from undertaking performance management to support Doctors.
 
-- **(b)** In this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline), performance management includes reasonable actions to address performance by identifying performance deficits, the Health Service's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Doctor may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
+- **(b)** In this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline), **performance management** includes reasonable actions to address performance by identifying performance deficits, the Health Service's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Doctor may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
 
 - **(c)** In this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline), performance management does not include sanctions in addition to those set out at [clause 13.5](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) above.
 

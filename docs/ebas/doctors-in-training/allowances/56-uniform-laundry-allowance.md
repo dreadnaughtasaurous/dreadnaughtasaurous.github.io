@@ -6,8 +6,6 @@ topics: ['allowances', 'uniforms']
 
 # 56. Uniform Laundry Allowance
 
-
-
 **56.1** A Doctor must either:
 
 - **(a)** be supplied with sufficient suitable and serviceable uniforms that must be laundered at the expense of the Health Service; or
@@ -20,5 +18,3 @@ topics: ['allowances', 'uniforms']
 **56.4** The Uniforms and Laundry Allowance described in [subclause 56.1(b)](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance) above must be paid during all absences on leave, except absence on long service leave and absence on personal leave beyond 21 days.
 
 Plain language terms: uniform allowance, laundry allowance.
-
-

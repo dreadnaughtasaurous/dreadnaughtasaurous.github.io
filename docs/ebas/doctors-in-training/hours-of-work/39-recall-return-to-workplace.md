@@ -8,13 +8,13 @@ topics: ['hours', 'rosters', 'on-call', 'allowances']
 
 **39.1** The provisions of this [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace) are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-Call) and [clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle) (Travelling Allowance – Use of Private Motor Vehicle)
 
-**39.2** Entitlement
+**39.2 Entitlement**
 
 - **(a)** A Doctor who is recalled to duty outside rostered hours of duty must be paid for the actual time worked, including time reasonably spent in travelling to and return from work, as follows:
   - **(i)** 1.5 times the ordinary hourly rate of pay for the first two hours; and then
   - **(ii)** double the ordinary hourly rate of pay for all additional hours.
 
-**39.3** Calculation
+**39.3 Calculation**
 
 - **(a)** Each recall must stand alone, with a minimum payment of three hours per recall, except as follows:
   - **(i)** Where a Doctor has been recalled to duty, a further recall payment cannot occur within the initial three hour period except where the Doctor has left the vicinity of the hospital and/or returned to his/her place of residence.
