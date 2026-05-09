@@ -1,4 +1,4 @@
-﻿---
+---
 title: '66. Individual Flexible Working Arrangements'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'hours', 'overtime', 'flexible-work']

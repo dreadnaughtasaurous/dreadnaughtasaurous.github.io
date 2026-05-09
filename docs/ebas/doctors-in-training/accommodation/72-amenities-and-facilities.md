@@ -1,4 +1,4 @@
-﻿---
+---
 title: '72. Amenities And Facilities'
 eba: 'Doctors in Training 2022-2026'
 topics: ['accommodation']

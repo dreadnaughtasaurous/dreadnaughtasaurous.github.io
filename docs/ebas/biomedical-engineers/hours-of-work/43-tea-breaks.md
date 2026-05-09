@@ -1,4 +1,4 @@
-﻿---
+---
 title: '43. Tea Breaks'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'breaks', 'preliminary']

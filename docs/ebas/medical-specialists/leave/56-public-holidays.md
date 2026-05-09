@@ -1,4 +1,4 @@
-﻿---
+---
 title: '56. Public Holidays'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'preliminary']

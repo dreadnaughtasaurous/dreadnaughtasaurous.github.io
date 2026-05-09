@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11. Termination Of Employment'
 eba: 'Children''s Services Award 2010'
 topics: ['wages', 'employment', 'termination', 'consultation', 'preliminary']

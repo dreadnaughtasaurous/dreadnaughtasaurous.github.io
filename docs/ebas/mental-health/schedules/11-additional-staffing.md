@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 11 - Additional Staffing: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'staffing']

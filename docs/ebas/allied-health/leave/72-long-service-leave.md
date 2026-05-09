@@ -1,4 +1,4 @@
-﻿---
+---
 title: '72. Long Service Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'long-service-leave', 'employment', 'preliminary']

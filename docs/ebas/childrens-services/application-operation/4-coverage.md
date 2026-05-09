@@ -1,4 +1,4 @@
-﻿---
+---
 title: '4. Coverage'
 eba: 'Children''s Services Award 2010'
 topics: ['preliminary']

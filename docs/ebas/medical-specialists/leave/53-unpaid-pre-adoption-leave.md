@@ -1,4 +1,4 @@
-﻿---
+---
 title: '53. Unpaid Pre Adoption Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'parental-leave', 'preliminary']

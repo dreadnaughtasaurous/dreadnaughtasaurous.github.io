@@ -1,4 +1,4 @@
-﻿---
+---
 title: '14. Minimum Wages'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'disputes', 'preliminary']

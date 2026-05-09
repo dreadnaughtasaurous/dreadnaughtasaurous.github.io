@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39A. Recall Without Returning To Workplace'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'overtime', 'rosters', 'on-call']

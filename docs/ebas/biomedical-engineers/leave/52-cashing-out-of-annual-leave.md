@@ -1,4 +1,4 @@
-﻿---
+---
 title: '52. Cashing Out Of Annual Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'annual-leave', 'wages', 'superannuation']

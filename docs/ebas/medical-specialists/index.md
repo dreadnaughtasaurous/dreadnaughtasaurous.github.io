@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Medical Specialists'
 eba: 'medical-specialists.md'
 topics: []

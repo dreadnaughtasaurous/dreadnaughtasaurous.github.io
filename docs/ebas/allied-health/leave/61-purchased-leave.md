@@ -1,4 +1,4 @@
-﻿---
+---
 title: '61. Purchased Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'wages', 'employment']

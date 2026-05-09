@@ -1,4 +1,4 @@
-﻿---
+---
 title: '23. Termination Of Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'termination']

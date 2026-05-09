@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11. Individual Flexibility Arrangements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'annual-leave', 'hours', 'overtime']

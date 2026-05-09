@@ -1,4 +1,4 @@
-﻿---
+---
 title: '90A. Permanent Night Shift'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'staffing']

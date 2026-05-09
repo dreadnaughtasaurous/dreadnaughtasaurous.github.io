@@ -1,4 +1,4 @@
-﻿---
+---
 title: '73A. Gender Affirmation'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'gender-affirmation-leave']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '4. Application Of This Section'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']

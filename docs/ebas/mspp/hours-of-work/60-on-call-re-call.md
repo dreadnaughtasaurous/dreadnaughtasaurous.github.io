@@ -1,4 +1,4 @@
-﻿---
+---
 title: '60. On Call Re Call'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'public-holidays', 'hours', 'on-call']

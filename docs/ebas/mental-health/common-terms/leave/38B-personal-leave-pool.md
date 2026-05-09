@@ -1,4 +1,4 @@
-﻿---
+---
 title: '38B. Personal Leave Pool'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'personal-leave']

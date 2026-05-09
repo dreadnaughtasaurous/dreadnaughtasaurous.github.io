@@ -1,4 +1,4 @@
-﻿---
+---
 title: '9. No Extra Claims'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['union-matters', 'preliminary']

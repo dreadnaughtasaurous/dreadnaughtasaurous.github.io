@@ -1,4 +1,4 @@
-﻿---
+---
 title: '45. Rates For Saturdays Sundays'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'rosters', 'on-call']

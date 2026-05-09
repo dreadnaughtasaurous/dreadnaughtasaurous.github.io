@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42. Childcare Costs Reimbursement'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'overtime', 'rosters', 'on-call']

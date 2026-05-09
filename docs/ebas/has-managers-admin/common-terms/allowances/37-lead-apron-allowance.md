@@ -1,4 +1,4 @@
-﻿---
+---
 title: '37. Lead Apron Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'shift-work', 'allowances', 'preliminary']

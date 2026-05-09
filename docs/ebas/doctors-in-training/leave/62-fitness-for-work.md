@@ -1,4 +1,4 @@
-﻿---
+---
 title: '62. Fitness For Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['ohs']

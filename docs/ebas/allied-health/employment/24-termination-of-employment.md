@@ -1,4 +1,4 @@
-﻿---
+---
 title: '24. Termination Of Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment', 'termination']

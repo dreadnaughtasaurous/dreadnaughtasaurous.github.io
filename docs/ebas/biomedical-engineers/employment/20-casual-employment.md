@@ -1,4 +1,4 @@
-﻿---
+---
 title: '20. Casual Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'employment', 'preliminary']

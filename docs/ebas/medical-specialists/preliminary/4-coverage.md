@@ -1,4 +1,4 @@
-﻿---
+---
 title: '4. Coverage'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

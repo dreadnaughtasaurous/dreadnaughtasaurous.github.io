@@ -1,4 +1,4 @@
-﻿---
+---
 title: '41. Clinical Perfusionists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'overtime', 'shift-work', 'on-call']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '44. Insurance Allowance'
 eba: 'Medical Specialists 2022-2026'
 topics: ['allowances', 'employment']

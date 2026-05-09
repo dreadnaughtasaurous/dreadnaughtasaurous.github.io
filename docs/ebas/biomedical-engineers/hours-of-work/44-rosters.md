@@ -1,4 +1,4 @@
-﻿---
+---
 title: '44. Rosters'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'rosters']

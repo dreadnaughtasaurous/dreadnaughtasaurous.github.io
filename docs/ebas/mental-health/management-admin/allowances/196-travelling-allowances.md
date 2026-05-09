@@ -1,4 +1,4 @@
-﻿---
+---
 title: '196. Travelling Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'vehicle']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '71. Blood Donors Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave']

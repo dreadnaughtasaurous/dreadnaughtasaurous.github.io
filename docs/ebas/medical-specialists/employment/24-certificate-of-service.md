@@ -1,4 +1,4 @@
-﻿---
+---
 title: '24. Certificate Of Service'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'personal-leave', 'long-service-leave', 'employment', 'termination']

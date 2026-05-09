@@ -1,4 +1,4 @@
-﻿---
+---
 title: '23. Termination Of Employment Notice Of Termination'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'termination']

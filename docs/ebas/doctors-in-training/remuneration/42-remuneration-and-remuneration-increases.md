@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42. Remuneration And Remuneration Increases'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'preliminary']

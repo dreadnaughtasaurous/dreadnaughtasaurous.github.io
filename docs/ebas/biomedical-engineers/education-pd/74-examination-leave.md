@@ -1,4 +1,4 @@
-﻿---
+---
 title: '74. Examination Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'study-leave', 'wages']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '6. Commencement Date And Period Of Operation'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

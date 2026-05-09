@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42. Uniforms And Protective Clothing'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'uniforms']

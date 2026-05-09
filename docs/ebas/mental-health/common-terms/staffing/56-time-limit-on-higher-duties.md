@@ -1,4 +1,4 @@
-﻿---
+---
 title: '56. Time Limit On Higher Duties'
 eba: 'Mental Health Services 2024-2028'
 topics: ['disputes', 'staffing']

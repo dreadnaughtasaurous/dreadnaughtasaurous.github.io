@@ -1,4 +1,4 @@
-﻿---
+---
 title: '27. Public Holidays'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'annual-leave', 'public-holidays', 'hours', 'rosters', 'employment', 'preliminary']

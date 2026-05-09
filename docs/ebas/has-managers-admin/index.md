@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Health Allied & Managers Admin'
 eba: 'has-managers-admin.md'
 topics: []

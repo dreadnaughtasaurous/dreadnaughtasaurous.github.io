@@ -1,4 +1,4 @@
-﻿---
+---
 title: '30. Consultation'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'parental-leave', 'consultation', 'union-matters']

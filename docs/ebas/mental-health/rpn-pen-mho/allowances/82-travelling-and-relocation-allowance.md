@@ -1,4 +1,4 @@
-﻿---
+---
 title: '82. Travelling And Relocation Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'vehicle']

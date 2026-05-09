@@ -1,4 +1,4 @@
-﻿---
+---
 title: '23. Overtime And Penalty Rates'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'public-holidays', 'hours', 'overtime', 'penalty-rates', 'shift-work', 'rosters', 'allowances', 'classifications', 'employment', 'termination', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '24. Rotations Between Hospitals'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'preliminary']

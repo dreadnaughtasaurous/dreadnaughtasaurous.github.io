@@ -1,4 +1,4 @@
-﻿---
+---
 title: '156. Nauseous Work Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary', 'classifications']

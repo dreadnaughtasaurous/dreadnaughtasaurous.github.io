@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 8 - Royal Women''s Hospital, Royal Children''s Hospital General Employment: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hospital-specific']

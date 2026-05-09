@@ -1,4 +1,4 @@
-﻿---
+---
 title: '87. Occupational Health And Safety Workplace Violence'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['consultation']

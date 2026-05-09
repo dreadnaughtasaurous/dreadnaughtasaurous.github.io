@@ -1,4 +1,4 @@
-﻿---
+---
 title: '28. Termination Of Employment'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'long-service-leave', 'wages', 'employment', 'termination']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '90C. Proposals To Vary Specific Matters'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'staffing']

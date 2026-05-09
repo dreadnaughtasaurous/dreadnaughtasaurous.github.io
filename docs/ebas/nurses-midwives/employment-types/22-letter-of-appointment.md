@@ -1,4 +1,4 @@
-﻿---
+---
 title: '22. Letter Of Appointment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['employment']

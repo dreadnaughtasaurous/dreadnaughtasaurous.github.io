@@ -1,4 +1,4 @@
-﻿---
+---
 title: '19. Physical Working Conditions'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'on-call']

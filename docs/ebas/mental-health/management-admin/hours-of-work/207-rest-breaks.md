@@ -1,4 +1,4 @@
-﻿---
+---
 title: '207. Rest Breaks'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'breaks', 'preliminary']

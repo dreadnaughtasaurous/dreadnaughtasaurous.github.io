@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Medical Scientists, Pharmacists & Psychologists'
 eba: 'mspp.md'
 topics: []

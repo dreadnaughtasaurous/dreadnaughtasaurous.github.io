@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Education & Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['education', 'professional-development']

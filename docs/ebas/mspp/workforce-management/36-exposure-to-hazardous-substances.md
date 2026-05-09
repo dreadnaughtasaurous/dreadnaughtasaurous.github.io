@@ -1,4 +1,4 @@
-﻿---
+---
 title: '36. Exposure To Hazardous Substances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary', 'ohs']

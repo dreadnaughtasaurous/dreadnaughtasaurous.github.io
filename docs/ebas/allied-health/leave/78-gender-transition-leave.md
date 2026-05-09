@@ -1,4 +1,4 @@
-﻿---
+---
 title: '78. Gender Transition Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'preliminary']

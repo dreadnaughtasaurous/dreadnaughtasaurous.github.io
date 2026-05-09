@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Allied Health'
 eba: 'allied-health.md'
 topics: []

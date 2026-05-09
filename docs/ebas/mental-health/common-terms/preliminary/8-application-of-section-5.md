@@ -1,4 +1,4 @@
-﻿---
+---
 title: '8. Application Of Section 5'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'classifications']

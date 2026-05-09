@@ -1,4 +1,4 @@
-﻿---
+---
 title: '20. Superannuation'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'wages', 'superannuation', 'preliminary']

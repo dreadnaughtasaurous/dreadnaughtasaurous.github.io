@@ -1,4 +1,4 @@
-﻿---
+---
 title: '14. Copy Of Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

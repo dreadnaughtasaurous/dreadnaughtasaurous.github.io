@@ -1,4 +1,4 @@
-﻿---
+---
 title: '19. Types Of Employment'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['employment']

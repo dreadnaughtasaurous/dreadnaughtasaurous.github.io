@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12. Independent Dispute Resolution Panel'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['disputes', 'staffing', 'workload', 'classifications']

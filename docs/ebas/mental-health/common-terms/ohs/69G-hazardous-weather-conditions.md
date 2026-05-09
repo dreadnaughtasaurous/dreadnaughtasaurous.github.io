@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69G. Hazardous Weather Conditions'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'ohs']

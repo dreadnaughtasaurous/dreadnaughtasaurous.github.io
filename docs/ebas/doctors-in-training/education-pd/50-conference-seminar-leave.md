@@ -1,4 +1,4 @@
-﻿---
+---
 title: '50. Conference Seminar Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'study-leave', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schedule H - Agreement For Time Off Instead Of Payment For Overtime: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'hours', 'overtime']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '85. Classifications Definitions And Wages'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'employment', 'preliminary']

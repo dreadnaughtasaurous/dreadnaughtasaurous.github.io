@@ -1,4 +1,4 @@
-﻿---
+---
 title: '65. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'preliminary']

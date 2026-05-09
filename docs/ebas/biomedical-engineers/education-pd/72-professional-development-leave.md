@@ -1,4 +1,4 @@
-﻿---
+---
 title: '72. Professional Development Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']

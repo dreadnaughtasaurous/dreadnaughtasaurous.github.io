@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11. Redundancy And Associated Entitlements'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']

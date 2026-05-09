@@ -1,4 +1,4 @@
-﻿---
+---
 title: '143. Classifications And Wages'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages', 'classifications']

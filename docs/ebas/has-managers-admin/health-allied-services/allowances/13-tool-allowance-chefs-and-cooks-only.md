@@ -1,4 +1,4 @@
-﻿---
+---
 title: '13. Tool Allowance Chefs And Cooks Only'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances']

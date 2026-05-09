@@ -1,4 +1,4 @@
-﻿---
+---
 title: '118. Higher Education Recognition Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'employment', 'preliminary', 'staffing']

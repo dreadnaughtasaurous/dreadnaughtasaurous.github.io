@@ -1,4 +1,4 @@
-﻿---
+---
 title: '8. Consultation About Major Workplace Change'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'employment', 'termination', 'consultation']

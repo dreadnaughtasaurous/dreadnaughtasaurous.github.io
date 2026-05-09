@@ -1,4 +1,4 @@
-﻿---
+---
 title: '65. Prenatal Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']

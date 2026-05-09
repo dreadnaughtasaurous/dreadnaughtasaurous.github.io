@@ -1,4 +1,4 @@
-﻿---
+---
 title: '74. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'preliminary']

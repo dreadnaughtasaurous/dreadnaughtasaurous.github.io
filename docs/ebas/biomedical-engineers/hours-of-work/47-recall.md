@@ -1,4 +1,4 @@
-﻿---
+---
 title: '47. Recall'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'rosters', 'on-call']

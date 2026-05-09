@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 6 - Eastern Health Turning Point Research and Education Employees: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hospital-specific']

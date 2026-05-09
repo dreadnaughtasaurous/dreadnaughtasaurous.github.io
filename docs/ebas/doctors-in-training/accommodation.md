@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Accommodation'
 eba: 'Doctors in Training 2022-2026'
 topics: ['accommodation', 'training']

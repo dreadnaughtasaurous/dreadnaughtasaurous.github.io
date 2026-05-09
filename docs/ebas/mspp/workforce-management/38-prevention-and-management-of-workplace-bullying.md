@@ -1,4 +1,4 @@
-﻿---
+---
 title: '38. Prevention And Management Of Workplace Bullying'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['ohs']

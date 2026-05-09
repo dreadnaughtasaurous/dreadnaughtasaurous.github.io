@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schedule F - Agreement To Take Annual Leave In Advance: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'leave', 'annual-leave']

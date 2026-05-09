@@ -1,4 +1,4 @@
-﻿---
+---
 title: '58. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'preliminary']

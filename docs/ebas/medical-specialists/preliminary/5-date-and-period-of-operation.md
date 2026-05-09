@@ -1,4 +1,4 @@
-﻿---
+---
 title: '5. Date And Period Of Operation'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

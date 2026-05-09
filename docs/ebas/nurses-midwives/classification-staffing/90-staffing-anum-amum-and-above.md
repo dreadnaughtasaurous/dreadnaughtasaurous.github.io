@@ -1,4 +1,4 @@
-﻿---
+---
 title: '90. Staffing Anum Amum And Above'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['wages', 'staffing']

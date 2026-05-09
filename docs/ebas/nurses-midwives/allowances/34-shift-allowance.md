@@ -1,4 +1,4 @@
-﻿---
+---
 title: '34. Shift Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work', 'allowances']

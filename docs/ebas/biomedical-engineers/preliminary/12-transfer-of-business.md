@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12. Transfer Of Business'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

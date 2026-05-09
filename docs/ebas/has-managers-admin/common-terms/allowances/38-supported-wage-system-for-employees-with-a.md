@@ -1,4 +1,4 @@
-﻿---
+---
 title: '38. Supported Wage System For Employees With a Disability'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']

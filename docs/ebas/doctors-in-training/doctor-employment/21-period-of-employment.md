@@ -1,4 +1,4 @@
-﻿---
+---
 title: '21. Period Of Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment']

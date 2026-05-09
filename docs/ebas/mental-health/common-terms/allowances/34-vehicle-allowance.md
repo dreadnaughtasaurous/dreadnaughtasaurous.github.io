@@ -1,4 +1,4 @@
-﻿---
+---
 title: '34. Vehicle Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'vehicle']

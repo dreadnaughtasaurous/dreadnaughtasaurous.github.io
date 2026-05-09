@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 3D – Classification Structure: Managers and Administrative Workers'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'classifications']

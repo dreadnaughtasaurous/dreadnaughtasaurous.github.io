@@ -1,4 +1,4 @@
-﻿---
+---
 title: '17. Secure Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 15 - Rostering Protocols Exemption Agreement: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hours', 'rosters']

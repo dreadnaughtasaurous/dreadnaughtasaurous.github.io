@@ -1,4 +1,4 @@
-﻿---
+---
 title: '4. Division Into Sections And Schedules'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

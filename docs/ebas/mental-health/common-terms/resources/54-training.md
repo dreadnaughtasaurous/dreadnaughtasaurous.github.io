@@ -1,4 +1,4 @@
-﻿---
+---
 title: '54. Training'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

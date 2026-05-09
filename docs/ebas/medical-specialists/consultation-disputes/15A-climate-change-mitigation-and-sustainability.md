@@ -1,4 +1,4 @@
-﻿---
+---
 title: '15A. Climate Change Mitigation And Sustainability'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

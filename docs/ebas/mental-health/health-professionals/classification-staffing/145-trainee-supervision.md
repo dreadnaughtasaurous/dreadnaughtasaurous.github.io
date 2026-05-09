@@ -1,4 +1,4 @@
-﻿---
+---
 title: '145. Trainee Supervision'
 eba: 'Mental Health Services 2024-2028'
 topics: ['discipline']

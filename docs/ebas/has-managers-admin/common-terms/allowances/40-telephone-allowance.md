@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Telephone Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'on-call', 'allowances']

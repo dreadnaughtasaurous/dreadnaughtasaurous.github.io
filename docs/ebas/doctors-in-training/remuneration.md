@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Remuneration'
 eba: 'Doctors in Training 2022-2026'
 topics: ['remuneration', 'training']

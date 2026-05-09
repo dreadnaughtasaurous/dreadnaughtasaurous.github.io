@@ -1,4 +1,4 @@
-﻿---
+---
 title: '50. Public Holidays'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'public-holidays', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '37. Penalty Payments'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'overtime', 'shift-work']

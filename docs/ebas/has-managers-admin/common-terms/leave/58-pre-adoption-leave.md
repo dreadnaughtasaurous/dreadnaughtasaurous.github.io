@@ -1,4 +1,4 @@
-﻿---
+---
 title: '58. Pre Adoption Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'parental-leave', 'preliminary']

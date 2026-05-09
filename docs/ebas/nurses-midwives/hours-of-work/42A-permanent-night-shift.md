@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42A. Permanent Night Shift'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work', 'staffing']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '29. Payment Of Wages'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'preliminary', 'classifications']

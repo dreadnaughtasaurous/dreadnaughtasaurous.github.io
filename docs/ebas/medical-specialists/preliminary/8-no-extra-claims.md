@@ -1,4 +1,4 @@
-﻿---
+---
 title: '8. No Extra Claims'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

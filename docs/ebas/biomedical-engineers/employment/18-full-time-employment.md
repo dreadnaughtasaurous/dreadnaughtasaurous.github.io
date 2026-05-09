@@ -1,4 +1,4 @@
-﻿---
+---
 title: '18. Full Time Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'employment']

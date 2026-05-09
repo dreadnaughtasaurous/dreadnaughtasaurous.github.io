@@ -1,4 +1,4 @@
-﻿---
+---
 title: '13. Best Practice Employment Commitment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['union-matters']

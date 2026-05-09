@@ -1,4 +1,4 @@
-﻿---
+---
 title: '28. Hours Of Work Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'employment']

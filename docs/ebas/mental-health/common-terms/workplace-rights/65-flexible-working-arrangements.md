@@ -1,4 +1,4 @@
-﻿---
+---
 title: '65. Flexible Working Arrangements'
 eba: 'Mental Health Services 2024-2028'
 topics: ['flexible-work', 'preliminary']

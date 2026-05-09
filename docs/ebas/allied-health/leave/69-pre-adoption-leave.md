@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69. Pre Adoption Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'parental-leave', 'preliminary']

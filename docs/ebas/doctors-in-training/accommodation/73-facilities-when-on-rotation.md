@@ -1,4 +1,4 @@
-﻿---
+---
 title: '73. Facilities When On Rotation'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'accommodation']

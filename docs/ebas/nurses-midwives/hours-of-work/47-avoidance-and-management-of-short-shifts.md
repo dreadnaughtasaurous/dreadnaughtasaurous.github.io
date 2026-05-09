@@ -1,4 +1,4 @@
-﻿---
+---
 title: '47. Avoidance And Management Of Short Shifts'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work']

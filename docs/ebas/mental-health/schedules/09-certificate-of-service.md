@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 9 - Certificate Of Service: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'employment']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '84. Workload'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'staffing', 'workload']

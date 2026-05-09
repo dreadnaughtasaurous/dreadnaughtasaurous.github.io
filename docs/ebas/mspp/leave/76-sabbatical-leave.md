@@ -1,4 +1,4 @@
-﻿---
+---
 title: '76. Sabbatical Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'sabbatical-leave', 'wages']

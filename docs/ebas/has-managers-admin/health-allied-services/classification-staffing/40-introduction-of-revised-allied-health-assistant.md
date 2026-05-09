@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Introduction Of Revised Allied Health Assistant Classification Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']

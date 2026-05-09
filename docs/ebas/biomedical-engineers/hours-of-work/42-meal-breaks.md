@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42. Meal Breaks'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'shift-work', 'breaks', 'on-call']

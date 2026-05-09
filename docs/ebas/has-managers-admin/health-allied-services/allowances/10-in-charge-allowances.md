@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. In Charge Allowances'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances']

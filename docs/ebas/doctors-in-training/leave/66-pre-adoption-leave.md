@@ -1,4 +1,4 @@
-﻿---
+---
 title: '66. Pre Adoption Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'parental-leave', 'preliminary']

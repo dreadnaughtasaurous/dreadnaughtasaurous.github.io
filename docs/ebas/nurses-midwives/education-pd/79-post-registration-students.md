@@ -1,4 +1,4 @@
-﻿---
+---
 title: '79. Post Registration Students'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['classifications', 'education']

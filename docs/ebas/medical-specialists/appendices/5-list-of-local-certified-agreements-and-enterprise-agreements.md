@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 5 - List Of Local Certified Agreements And Enterprise Agreements: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'local-agreements']

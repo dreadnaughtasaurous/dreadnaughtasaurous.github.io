@@ -1,4 +1,4 @@
-﻿---
+---
 title: '50. Meal Breaks'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'shift-work', 'breaks', 'on-call']

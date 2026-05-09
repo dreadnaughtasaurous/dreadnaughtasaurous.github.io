@@ -1,4 +1,4 @@
-﻿---
+---
 title: '82. Enrolled Nurses Classification'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['classifications']

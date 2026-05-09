@@ -1,4 +1,4 @@
-﻿---
+---
 title: '29. Payment Of Wages'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages', 'preliminary', 'classifications']

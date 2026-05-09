@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12. Redundancy'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'penalty-rates', 'shift-work', 'employment', 'redundancy', 'termination', 'preliminary']

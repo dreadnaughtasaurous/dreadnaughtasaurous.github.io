@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Absence On Defence Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave']

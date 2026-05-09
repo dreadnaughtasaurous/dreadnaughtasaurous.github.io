@@ -1,4 +1,4 @@
-﻿---
+---
 title: '22. Transition To Retirement'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'flexible-work', 'preliminary']

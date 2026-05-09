@@ -1,4 +1,4 @@
-﻿---
+---
 title: '51. Rates For Saturdays And Sundays'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'overtime', 'rosters', 'on-call']

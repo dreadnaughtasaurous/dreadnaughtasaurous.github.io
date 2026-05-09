@@ -1,4 +1,4 @@
-﻿---
+---
 title: '6. The National Employment Standards And This Award'
 eba: 'Children''s Services Award 2010'
 topics: ['preliminary']

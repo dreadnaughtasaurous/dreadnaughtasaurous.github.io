@@ -1,4 +1,4 @@
-﻿---
+---
 title: '3. Index'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'annual-leave', 'parental-leave', 'study-leave']

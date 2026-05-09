@@ -1,4 +1,4 @@
-﻿---
+---
 title: '31. Rotation To A General Practice Training Program'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters', 'employment', 'consultation']

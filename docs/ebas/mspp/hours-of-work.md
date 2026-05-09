@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Hours Of Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '57. Employee Rosters'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'rosters', 'on-call']

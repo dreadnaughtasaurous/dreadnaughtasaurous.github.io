@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16. Managing Conduct And Performance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['discipline', 'union-matters']

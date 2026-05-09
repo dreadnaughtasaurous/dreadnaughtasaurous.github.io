@@ -1,4 +1,4 @@
-﻿---
+---
 title: '131. Ten Hour Break'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'breaks']

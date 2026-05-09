@@ -1,4 +1,4 @@
-﻿---
+---
 title: '77. Examination Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'preliminary', 'education']

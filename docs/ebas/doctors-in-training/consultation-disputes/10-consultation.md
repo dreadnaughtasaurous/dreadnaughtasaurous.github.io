@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. Consultation'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'consultation']

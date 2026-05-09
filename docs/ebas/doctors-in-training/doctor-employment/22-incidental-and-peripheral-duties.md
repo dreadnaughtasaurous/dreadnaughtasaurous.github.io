@@ -1,4 +1,4 @@
-﻿---
+---
 title: '22. Incidental And Peripheral Duties'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment']

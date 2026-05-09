@@ -1,4 +1,4 @@
-﻿---
+---
 title: '92. Telephone Allowance'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'on-call', 'allowances']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '51. Higher Duties'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters', 'wages', 'higher-duties']

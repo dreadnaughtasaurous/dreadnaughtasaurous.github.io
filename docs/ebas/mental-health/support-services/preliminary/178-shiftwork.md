@@ -1,4 +1,4 @@
-﻿---
+---
 title: '178. Shiftwork'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'wages']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. Redundancy And Associated Entitlements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']

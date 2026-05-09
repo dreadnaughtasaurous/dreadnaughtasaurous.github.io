@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42A. Employee Records'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'wages', 'preliminary']

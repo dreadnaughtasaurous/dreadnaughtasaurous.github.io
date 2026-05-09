@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 6 – Agreement to Take Annual Leave in Advance: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']

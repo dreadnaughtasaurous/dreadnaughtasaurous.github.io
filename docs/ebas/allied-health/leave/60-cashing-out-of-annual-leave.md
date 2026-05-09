@@ -1,4 +1,4 @@
-﻿---
+---
 title: '60. Cashing Out Of Annual Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'annual-leave']

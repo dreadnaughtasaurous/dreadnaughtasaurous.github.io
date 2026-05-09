@@ -1,4 +1,4 @@
-﻿---
+---
 title: '70. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'preliminary']

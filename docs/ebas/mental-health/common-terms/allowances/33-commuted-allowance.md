@@ -1,4 +1,4 @@
-﻿---
+---
 title: '33. Commuted Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'allowances', 'preliminary']

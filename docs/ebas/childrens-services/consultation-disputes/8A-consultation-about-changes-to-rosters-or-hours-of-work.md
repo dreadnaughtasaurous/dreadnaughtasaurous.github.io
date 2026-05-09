@@ -1,4 +1,4 @@
-﻿---
+---
 title: '8A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'rosters', 'consultation']

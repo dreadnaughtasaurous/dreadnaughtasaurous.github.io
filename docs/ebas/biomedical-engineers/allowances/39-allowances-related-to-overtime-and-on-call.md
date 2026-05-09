@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39. Allowances Related To Overtime And On Call'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'shift-work', 'rosters']

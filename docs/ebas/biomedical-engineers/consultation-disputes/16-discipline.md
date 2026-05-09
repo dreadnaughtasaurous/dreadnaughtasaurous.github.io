@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16. Discipline'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['discipline', 'union-matters']

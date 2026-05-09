@@ -1,4 +1,4 @@
-﻿---
+---
 title: '46. Medical Scientists Classification Descriptors'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']

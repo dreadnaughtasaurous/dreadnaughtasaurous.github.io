@@ -1,4 +1,4 @@
-﻿---
+---
 title: '78. Twelve Month Career Breaks'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave']

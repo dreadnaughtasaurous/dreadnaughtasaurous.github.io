@@ -1,4 +1,4 @@
-﻿---
+---
 title: '57. Annual Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'annual-leave', 'preliminary']

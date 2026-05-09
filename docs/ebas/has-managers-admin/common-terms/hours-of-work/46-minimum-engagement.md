@@ -1,4 +1,4 @@
-﻿---
+---
 title: '46. Minimum Engagement'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime', 'on-call', 'allowances']

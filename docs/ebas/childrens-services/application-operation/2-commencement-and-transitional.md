@@ -1,4 +1,4 @@
-﻿---
+---
 title: '2. Commencement And Transitional'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'public-holidays', 'hours', 'shift-work', 'wages', 'employment', 'preliminary']

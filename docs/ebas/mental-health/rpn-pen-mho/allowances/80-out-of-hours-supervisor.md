@@ -1,4 +1,4 @@
-﻿---
+---
 title: '80. Out Of Hours Supervisor'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary']

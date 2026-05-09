@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Preliminary'
 eba: 'Doctors in Training 2022-2026'
 topics: ['training', 'preliminary']

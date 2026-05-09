@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39. Laundry Allowance'
 eba: 'Medical Specialists 2022-2026'
 topics: ['allowances', 'uniforms']

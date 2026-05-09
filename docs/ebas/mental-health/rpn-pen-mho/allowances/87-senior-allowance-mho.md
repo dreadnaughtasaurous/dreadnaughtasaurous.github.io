@@ -1,4 +1,4 @@
-﻿---
+---
 title: '87. Senior Allowance - MHO'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary', 'classifications']

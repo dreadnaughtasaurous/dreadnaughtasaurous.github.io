@@ -1,4 +1,4 @@
-﻿---
+---
 title: '70. Leave Without Pay'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'employment', 'preliminary']

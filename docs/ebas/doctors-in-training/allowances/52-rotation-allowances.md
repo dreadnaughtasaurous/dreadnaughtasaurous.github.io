@@ -1,4 +1,4 @@
-﻿---
+---
 title: '52. Rotation Allowances'
 eba: 'Doctors in Training 2022-2026'
 topics: ['allowances', 'employment']

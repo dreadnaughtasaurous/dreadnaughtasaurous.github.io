@@ -1,4 +1,4 @@
-﻿---
+---
 title: '17. Full Time Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'employment', 'classifications']

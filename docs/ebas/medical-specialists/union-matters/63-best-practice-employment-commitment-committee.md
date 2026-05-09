@@ -1,4 +1,4 @@
-﻿---
+---
 title: '63. Best Practice Employment Commitment Committee'
 eba: 'Medical Specialists 2022-2026'
 topics: ['union-matters', 'preliminary', 'staffing', 'workload']

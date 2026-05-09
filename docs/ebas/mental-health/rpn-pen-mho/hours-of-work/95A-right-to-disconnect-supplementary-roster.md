@@ -1,4 +1,4 @@
-﻿---
+---
 title: '95A. Right To Disconnect (Supplementary Roster)'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'hours', 'rosters', 'right-to-disconnect']

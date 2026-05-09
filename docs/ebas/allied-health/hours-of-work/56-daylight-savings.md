@@ -1,4 +1,4 @@
-﻿---
+---
 title: '56. Daylight Savings'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'overtime', 'shift-work', 'rosters']

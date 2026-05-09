@@ -1,4 +1,4 @@
-﻿---
+---
 title: '32. Transition To Retirement'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'flexible-work', 'preliminary']

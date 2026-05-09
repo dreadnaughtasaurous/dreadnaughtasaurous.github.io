@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Employment'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment']

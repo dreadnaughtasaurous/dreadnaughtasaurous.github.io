@@ -1,4 +1,4 @@
-﻿---
+---
 title: '92. Advertising Vacancies'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment', 'termination']

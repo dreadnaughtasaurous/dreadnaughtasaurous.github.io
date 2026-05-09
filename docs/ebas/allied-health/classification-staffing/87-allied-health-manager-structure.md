@@ -1,4 +1,4 @@
-﻿---
+---
 title: '87. Allied Health Manager Structure'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']

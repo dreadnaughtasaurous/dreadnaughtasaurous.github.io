@@ -1,4 +1,4 @@
-﻿---
+---
 title: '7. No Extra Claims'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Audiologists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']

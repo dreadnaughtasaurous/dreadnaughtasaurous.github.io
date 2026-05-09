@@ -1,4 +1,4 @@
-﻿---
+---
 title: '105. Interaction With The Safe Patient Care Act'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['staffing']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '96. Rest And Meal Breaks'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'hours', 'shift-work', 'breaks']

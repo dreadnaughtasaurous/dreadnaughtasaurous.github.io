@@ -1,4 +1,4 @@
-﻿---
+---
 title: '33A. 24. 7. Rostering'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'shift-work', 'rosters']

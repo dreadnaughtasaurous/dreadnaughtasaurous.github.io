@@ -1,4 +1,4 @@
-﻿---
+---
 title: '64. Blood Donors Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '76. Flexibility'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'rosters']

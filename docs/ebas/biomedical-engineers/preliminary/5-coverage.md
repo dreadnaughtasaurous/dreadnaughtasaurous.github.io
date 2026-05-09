@@ -1,4 +1,4 @@
-﻿---
+---
 title: '5. Coverage'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '21. Ordinary Hours Of Work And Rostering'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 'overtime', 'shift-work', 'rosters', 'wages', 'employment', 'disputes', 'preliminary']

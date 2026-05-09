@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12A. Performance Management'
 eba: 'Medical Specialists 2022-2026'
 topics: ['discipline']

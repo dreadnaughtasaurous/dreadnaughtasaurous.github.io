@@ -1,4 +1,4 @@
-﻿---
+---
 title: '14. Police Check Certificate'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['disputes', 'preliminary', 'screening']

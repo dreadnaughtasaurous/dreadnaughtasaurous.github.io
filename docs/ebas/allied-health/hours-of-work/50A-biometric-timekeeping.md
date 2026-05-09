@@ -1,4 +1,4 @@
-﻿---
+---
 title: '50A. Biometric Timekeeping'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']

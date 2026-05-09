@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 6 – Certificate of Service: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'employment', 'forms']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '6. Incidence And Application'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']

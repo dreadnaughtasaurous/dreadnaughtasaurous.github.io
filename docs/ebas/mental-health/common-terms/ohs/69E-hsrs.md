@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69E. Hsrs'
 eba: 'Mental Health Services 2024-2028'
 topics: ['union-matters', 'ohs']

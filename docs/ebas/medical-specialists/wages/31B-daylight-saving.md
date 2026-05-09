@@ -1,4 +1,4 @@
-﻿---
+---
 title: '31B. Daylight Saving'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'shift-work', 'rosters', 'breaks']

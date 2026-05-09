@@ -1,4 +1,4 @@
-﻿---
+---
 title: '48. Pre Adoption Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary']

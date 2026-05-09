@@ -1,4 +1,4 @@
-﻿---
+---
 title: '31. Salary Packaging'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'salary-packaging', 'preliminary']

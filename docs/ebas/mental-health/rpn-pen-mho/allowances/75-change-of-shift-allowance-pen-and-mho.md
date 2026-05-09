@@ -1,4 +1,4 @@
-﻿---
+---
 title: '75. Change Of Shift Allowance - PEN and MHO'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances']

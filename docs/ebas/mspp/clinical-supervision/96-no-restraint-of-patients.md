@@ -1,4 +1,4 @@
-﻿---
+---
 title: '96. No Restraint Of Patients'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['ohs', 'classifications']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '4. Definitions'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'hours']

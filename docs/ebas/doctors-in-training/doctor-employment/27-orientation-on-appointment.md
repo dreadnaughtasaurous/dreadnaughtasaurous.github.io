@@ -1,4 +1,4 @@
-﻿---
+---
 title: '27. Orientation On Appointment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment']

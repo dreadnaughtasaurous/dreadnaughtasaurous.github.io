@@ -1,4 +1,4 @@
-﻿---
+---
 title: '29. Termination Of Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'employment', 'termination']

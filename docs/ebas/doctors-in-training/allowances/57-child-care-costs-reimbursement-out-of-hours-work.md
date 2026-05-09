@@ -1,4 +1,4 @@
-﻿---
+---
 title: '57. Child Care Costs Reimbursement Out Of Hours Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'overtime', 'rosters', 'on-call']

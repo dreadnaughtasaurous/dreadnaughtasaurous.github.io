@@ -1,4 +1,4 @@
-﻿---
+---
 title: '14A. Alternative Dispute Resolution Procedure'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['disputes', 'classification']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '59. Replacement Of Doctors When On Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'staffing', 'workload']

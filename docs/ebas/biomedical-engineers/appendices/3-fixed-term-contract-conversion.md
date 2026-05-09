@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 3 - Fixed Term Contract Conversion: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'employment']

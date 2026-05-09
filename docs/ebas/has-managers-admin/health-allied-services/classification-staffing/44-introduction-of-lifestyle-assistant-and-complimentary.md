@@ -1,4 +1,4 @@
-﻿---
+---
 title: '44. Introduction Of Lifestyle Assistant And Complimentary Therapies Worker Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']

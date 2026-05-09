@@ -1,4 +1,4 @@
-﻿---
+---
 title: '51B. Climate Change Mitigation And Sustainability'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

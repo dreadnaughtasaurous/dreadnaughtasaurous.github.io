@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12. Managing Conduct And Performance Discipline'
 eba: 'Medical Specialists 2022-2026'
 topics: ['discipline']

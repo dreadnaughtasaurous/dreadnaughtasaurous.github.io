@@ -1,4 +1,4 @@
-﻿---
+---
 title: '97. OH&S Preliminary'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs']

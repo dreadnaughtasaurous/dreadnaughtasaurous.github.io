@@ -1,4 +1,4 @@
-﻿---
+---
 title: '189. Supported Wage System For Employees With A Disability'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '48. Rest Period After Overtime Recall Ten Hour Break'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'shift-work', 'rosters']

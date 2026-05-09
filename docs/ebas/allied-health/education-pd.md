@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Education & Professional Development'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['education', 'professional-development']

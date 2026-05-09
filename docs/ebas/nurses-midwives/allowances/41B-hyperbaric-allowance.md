@@ -1,4 +1,4 @@
-﻿---
+---
 title: '41B. Hyperbaric Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'hours', 'shift-work', 'overtime']

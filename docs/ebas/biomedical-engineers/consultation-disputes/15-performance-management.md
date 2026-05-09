@@ -1,4 +1,4 @@
-﻿---
+---
 title: '15. Performance Management'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['discipline']

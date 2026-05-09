@@ -1,4 +1,4 @@
-﻿---
+---
 title: '45. Workers Compensation Make Up Pay'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'accident-pay', 'preliminary']

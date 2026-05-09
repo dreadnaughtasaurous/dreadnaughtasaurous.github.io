@@ -1,4 +1,4 @@
-﻿---
+---
 title: '31. Superannuation'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'superannuation', 'preliminary', 'definitions']

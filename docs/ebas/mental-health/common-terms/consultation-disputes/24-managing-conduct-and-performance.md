@@ -1,4 +1,4 @@
-﻿---
+---
 title: '24. Managing Conduct And Performance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['discipline', 'union-matters']

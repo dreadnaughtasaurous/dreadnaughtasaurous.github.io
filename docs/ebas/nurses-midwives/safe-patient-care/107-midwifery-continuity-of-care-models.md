@@ -1,4 +1,4 @@
-﻿---
+---
 title: '107. Midwifery Continuity Of Care Models'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary', 'definitions', 'staffing']

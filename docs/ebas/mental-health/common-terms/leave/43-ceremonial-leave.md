@@ -1,4 +1,4 @@
-﻿---
+---
 title: '43. Ceremonial Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'ceremonial-leave', 'preliminary']

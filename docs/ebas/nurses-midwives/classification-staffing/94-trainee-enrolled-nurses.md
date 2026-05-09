@@ -1,4 +1,4 @@
-﻿---
+---
 title: '94. Trainee Enrolled Nurses'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['staffing']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '160. Tool Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']

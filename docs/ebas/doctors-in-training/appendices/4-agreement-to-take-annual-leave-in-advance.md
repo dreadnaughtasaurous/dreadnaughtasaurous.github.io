@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 4 – Agreement to Take Annual Leave in Advance: Doctors in Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']

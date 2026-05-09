@@ -1,4 +1,4 @@
-﻿---
+---
 title: '87. Secure Employment Agency Staff And Bank Employees'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'annual-leave', 'parental-leave', 'long-service-leave']

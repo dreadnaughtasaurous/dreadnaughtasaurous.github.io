@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42B. Daylight Saving'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'shift-work', 'rosters', 'breaks']

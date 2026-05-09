@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39. Management Higher Qualifications Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']

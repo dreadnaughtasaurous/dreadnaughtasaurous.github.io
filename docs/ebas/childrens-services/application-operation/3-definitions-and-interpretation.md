@@ -1,4 +1,4 @@
-﻿---
+---
 title: '3. Definitions And Interpretation'
 eba: 'Children''s Services Award 2010'
 topics: ['wages', 'superannuation', 'employment', 'union-matters', 'delegates', 'preliminary']

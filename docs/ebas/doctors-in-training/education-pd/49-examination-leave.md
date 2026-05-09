@@ -1,4 +1,4 @@
-﻿---
+---
 title: '49. Examination Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'study-leave', 'hours', 'rosters']

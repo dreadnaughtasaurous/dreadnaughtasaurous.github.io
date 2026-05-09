@@ -1,4 +1,4 @@
-﻿---
+---
 title: '24. Redundancy And Associated Entitlements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']

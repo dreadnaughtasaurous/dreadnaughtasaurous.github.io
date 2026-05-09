@@ -1,4 +1,4 @@
-﻿---
+---
 title: '18. Clinical Support Time'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

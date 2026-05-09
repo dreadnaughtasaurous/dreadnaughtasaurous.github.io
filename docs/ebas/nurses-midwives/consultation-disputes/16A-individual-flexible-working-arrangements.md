@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16A. Individual Flexible Working Arrangements'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'hours', 'overtime', 'flexible-work']

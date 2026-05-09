@@ -1,4 +1,4 @@
-﻿---
+---
 title: '66. Pre Natal Leave And Assisted Reproduction'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']

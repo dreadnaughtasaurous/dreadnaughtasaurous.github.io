@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters', 'consultation']

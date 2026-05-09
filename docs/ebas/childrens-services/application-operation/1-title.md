@@ -1,4 +1,4 @@
-﻿---
+---
 title: '1. Title'
 eba: 'Children''s Services Award 2010'
 topics: ['preliminary']

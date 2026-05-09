@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 3C - Allowances (Managers and Administrative Workers): Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'salary-circular']

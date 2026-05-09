@@ -1,4 +1,4 @@
-﻿---
+---
 title: '5. Relationship With Award And Previous Certified Agreements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['disputes']

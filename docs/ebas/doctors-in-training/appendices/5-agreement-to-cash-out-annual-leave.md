@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 5 – Agreement to Cash Out Annual Leave: Doctors in Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']

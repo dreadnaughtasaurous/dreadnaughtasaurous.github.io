@@ -1,4 +1,4 @@
-﻿---
+---
 title: '8. Relationship To Previous Industrial Instruments and the NES'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '43. Working Away From Home'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'public-holidays', 'allowances', 'travel']

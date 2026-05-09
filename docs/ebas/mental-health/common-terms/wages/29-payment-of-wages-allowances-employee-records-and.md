@@ -1,4 +1,4 @@
-﻿---
+---
 title: '29. Payment Of Wages Allowances Employee Records And Related Matters'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'wages']

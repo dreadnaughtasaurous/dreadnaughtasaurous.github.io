@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 10 - St Vincent''s Health (Melbourne) Ltd. General Conditions Agreement: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hospital-specific']

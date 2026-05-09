@@ -1,4 +1,4 @@
-﻿---
+---
 title: '86. Travelling Transport And Fares'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'travel']

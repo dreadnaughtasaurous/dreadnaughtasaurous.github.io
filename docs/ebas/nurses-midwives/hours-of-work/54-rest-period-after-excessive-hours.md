@@ -1,4 +1,4 @@
-﻿---
+---
 title: '54. Rest Period After Excessive Hours'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']

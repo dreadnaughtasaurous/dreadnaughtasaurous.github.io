@@ -1,4 +1,4 @@
-﻿---
+---
 title: '36. Shift Penalty Payments'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'shift-work']

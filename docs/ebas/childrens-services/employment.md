@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Employment'
 eba: 'Children''s Services Award 2010'
 topics: ['employment']

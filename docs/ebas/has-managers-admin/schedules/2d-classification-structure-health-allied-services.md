@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 2D – Classification Structure: Health and Allied Services'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'classifications']

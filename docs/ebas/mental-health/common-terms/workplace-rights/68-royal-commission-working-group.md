@@ -1,4 +1,4 @@
-﻿---
+---
 title: '68. Royal Commission Working Group'
 eba: 'Mental Health Services 2024-2028'
 topics: ['consultation']

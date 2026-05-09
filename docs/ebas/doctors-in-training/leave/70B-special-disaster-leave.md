@@ -1,4 +1,4 @@
-﻿---
+---
 title: '70B. Special Disaster Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'personal-leave', 'employment']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '111. Definitions Specific To This Part Of This Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave']

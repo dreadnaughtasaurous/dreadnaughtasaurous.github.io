@@ -1,4 +1,4 @@
-﻿---
+---
 title: '20. Redundancy And Associated Entitlements'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment', 'redundancy', 'preliminary']

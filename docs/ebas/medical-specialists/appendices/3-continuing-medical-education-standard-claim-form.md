@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 3 - Continuing Medical Education Standard Claim Form: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'professional-development', 'forms']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '30. Fractional Allocation Fractional Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters']

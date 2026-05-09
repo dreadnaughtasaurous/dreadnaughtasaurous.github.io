@@ -1,4 +1,4 @@
-﻿---
+---
 title: '66. Ceremonial Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'ceremonial-leave', 'public-holidays', 'preliminary']

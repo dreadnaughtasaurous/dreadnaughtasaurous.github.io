@@ -1,4 +1,4 @@
-﻿---
+---
 title: '7. Date And Period Of Operation'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']

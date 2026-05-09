@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schedule D - National Training Wage: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'wages', 'training-wage']

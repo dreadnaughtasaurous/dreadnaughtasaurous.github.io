@@ -1,4 +1,4 @@
-﻿---
+---
 title: '57A. 10. Hour Break Not Given'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'breaks']

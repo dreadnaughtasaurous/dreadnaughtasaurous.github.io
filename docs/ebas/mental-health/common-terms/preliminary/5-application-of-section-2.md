@@ -1,4 +1,4 @@
-﻿---
+---
 title: '5. Application Of Section 2'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

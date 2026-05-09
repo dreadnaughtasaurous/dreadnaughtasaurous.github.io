@@ -1,4 +1,4 @@
-﻿---
+---
 title: '75. Deductions For Board And Lodging'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'preliminary', 'accommodation']

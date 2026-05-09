@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16. Disciplinary Procedure'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['discipline', 'union-matters']

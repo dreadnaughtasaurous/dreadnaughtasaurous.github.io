@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69. Jury Service Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave']

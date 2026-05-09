@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Management Admin'
 eba: 'Mental Health Services 2024-2028'
 topics: []

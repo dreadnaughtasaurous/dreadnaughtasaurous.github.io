@@ -1,4 +1,4 @@
-﻿---
+---
 title: '71. Supporting Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']

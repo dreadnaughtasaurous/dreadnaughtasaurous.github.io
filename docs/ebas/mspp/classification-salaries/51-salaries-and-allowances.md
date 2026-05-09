@@ -1,4 +1,4 @@
-﻿---
+---
 title: '51. Salaries And Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages']

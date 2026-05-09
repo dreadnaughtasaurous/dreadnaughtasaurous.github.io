@@ -1,4 +1,4 @@
-﻿---
+---
 title: '22. Part Time Review Of Hours'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['employment', 'termination']

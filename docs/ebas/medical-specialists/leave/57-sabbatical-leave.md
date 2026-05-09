@@ -1,4 +1,4 @@
-﻿---
+---
 title: '57. Sabbatical Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'wages', 'preliminary']

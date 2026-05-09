@@ -1,4 +1,4 @@
-﻿---
+---
 title: '56. Uniform Laundry Allowance'
 eba: 'Doctors in Training 2022-2026'
 topics: ['allowances', 'uniforms']

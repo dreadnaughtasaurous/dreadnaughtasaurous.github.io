@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'consultation', 'redundancy']

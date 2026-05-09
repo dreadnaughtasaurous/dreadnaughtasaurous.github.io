@@ -1,4 +1,4 @@
-﻿---
+---
 title: '7. Application Of Section 4'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'classifications']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '14A. Independent Dispute Resolution Panel'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['disputes', 'union-matters', 'staffing', 'workload']

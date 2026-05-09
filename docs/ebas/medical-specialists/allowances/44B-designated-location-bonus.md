@@ -1,4 +1,4 @@
-﻿---
+---
 title: '44B. Designated Location Bonus'
 eba: 'Medical Specialists 2022-2026'
 topics: ['allowances']

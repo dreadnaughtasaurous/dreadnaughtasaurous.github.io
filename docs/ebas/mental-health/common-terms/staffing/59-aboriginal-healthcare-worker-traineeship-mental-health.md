@@ -1,4 +1,4 @@
-﻿---
+---
 title: '59. Aboriginal Healthcare Worker Traineeship Mental Health'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

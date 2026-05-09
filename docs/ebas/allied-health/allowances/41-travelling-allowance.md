@@ -1,4 +1,4 @@
-﻿---
+---
 title: '41. Travelling Allowance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances', 'preliminary']

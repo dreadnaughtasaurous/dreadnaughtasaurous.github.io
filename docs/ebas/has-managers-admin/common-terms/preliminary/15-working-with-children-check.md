@@ -1,4 +1,4 @@
-﻿---
+---
 title: '15. Working With Children Check'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['disputes', 'preliminary', 'screening']

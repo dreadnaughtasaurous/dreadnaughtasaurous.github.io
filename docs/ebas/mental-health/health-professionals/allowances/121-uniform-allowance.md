@@ -1,4 +1,4 @@
-﻿---
+---
 title: '121. Uniform Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']

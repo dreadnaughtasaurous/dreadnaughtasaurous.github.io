@@ -1,4 +1,4 @@
-﻿---
+---
 title: '22. Breaks'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'hours', 'overtime', 'shift-work', 'breaks', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Wages'
 eba: 'Children''s Services Award 2010'
 topics: ['wages']

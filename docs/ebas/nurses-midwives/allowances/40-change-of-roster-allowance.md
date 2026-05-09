@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Change Of Roster Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters', 'allowances']

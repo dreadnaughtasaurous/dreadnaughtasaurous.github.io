@@ -1,4 +1,4 @@
-﻿---
+---
 title: '34. Shift Allowances'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'shift-work', 'rosters', 'allowances']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '7. No Extra Claims'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '73. Professional Development Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['professional-development', 'leave']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '23. Doctor Responsibilities'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']

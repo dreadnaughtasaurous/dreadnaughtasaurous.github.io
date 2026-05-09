@@ -1,4 +1,4 @@
-﻿---
+---
 title: '1. Agreement Title'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']

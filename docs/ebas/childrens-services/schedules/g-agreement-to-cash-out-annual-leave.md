@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schedule G - Agreement To Cash Out Annual Leave: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'leave', 'annual-leave']

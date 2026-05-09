@@ -1,4 +1,4 @@
-﻿---
+---
 title: '143A. Wages Review'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages', 'preliminary', 'discrimination']

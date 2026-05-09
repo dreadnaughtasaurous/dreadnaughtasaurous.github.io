@@ -1,4 +1,4 @@
-﻿---
+---
 title: '74. Jury Service'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave']

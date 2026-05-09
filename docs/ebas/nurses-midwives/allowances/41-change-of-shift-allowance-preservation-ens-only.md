@@ -1,4 +1,4 @@
-﻿---
+---
 title: '41. Change Of Shift Allowance Preservation Ens Only'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work', 'allowances']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '53. Meal Allowance'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'shift-work', 'allowances', 'meal']

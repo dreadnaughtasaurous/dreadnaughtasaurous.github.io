@@ -1,4 +1,4 @@
-﻿---
+---
 title: '44. Compassionate Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']

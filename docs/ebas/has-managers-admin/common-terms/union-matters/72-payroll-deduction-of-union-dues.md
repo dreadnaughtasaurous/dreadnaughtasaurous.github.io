@@ -1,4 +1,4 @@
-﻿---
+---
 title: '72. Payroll Deduction Of Union Dues'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'union-matters']

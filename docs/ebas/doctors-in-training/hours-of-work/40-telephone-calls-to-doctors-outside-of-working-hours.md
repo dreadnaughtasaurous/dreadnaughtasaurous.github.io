@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Telephone Calls To Doctors Outside Of Working Hours'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'on-call', 'allowances']

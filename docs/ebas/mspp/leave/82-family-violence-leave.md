@@ -1,4 +1,4 @@
-﻿---
+---
 title: '82. Family Violence Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'family-violence-leave']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '3. Arrangement'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '78. Health Service Obligations'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']

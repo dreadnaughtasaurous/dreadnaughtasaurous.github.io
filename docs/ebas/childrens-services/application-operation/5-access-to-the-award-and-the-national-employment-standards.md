@@ -1,4 +1,4 @@
-﻿---
+---
 title: '5. Access To The Award And The National Employment Standards'
 eba: 'Children''s Services Award 2010'
 topics: ['preliminary']

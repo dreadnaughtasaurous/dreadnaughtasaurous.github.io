@@ -1,4 +1,4 @@
-﻿---
+---
 title: '29. Payment Of Wages'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'preliminary', 'classifications']

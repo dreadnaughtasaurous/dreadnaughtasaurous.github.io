@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Consultation Disputes'
 eba: 'Children''s Services Award 2010'
 topics: ['consultation', 'disputes']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '3. Definitions'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

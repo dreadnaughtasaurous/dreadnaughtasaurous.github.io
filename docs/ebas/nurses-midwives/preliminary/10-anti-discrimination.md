@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. Anti Discrimination'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['flexible-work', 'preliminary', 'discrimination']

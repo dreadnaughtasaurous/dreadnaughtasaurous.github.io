@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69D. Designated Work Groups'
 eba: 'Mental Health Services 2024-2028'
 topics: ['consultation', 'union-matters', 'ohs', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schedule B - Classification Structure: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'classifications']

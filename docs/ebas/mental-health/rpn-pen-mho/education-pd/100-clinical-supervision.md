@@ -1,4 +1,4 @@
-﻿---
+---
 title: '100. Clinical Supervision'
 eba: 'Mental Health Services 2024-2028'
 topics: ['education', 'professional-development']

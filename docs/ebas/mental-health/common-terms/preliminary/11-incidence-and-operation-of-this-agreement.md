@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11. Incidence And Operation Of This Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

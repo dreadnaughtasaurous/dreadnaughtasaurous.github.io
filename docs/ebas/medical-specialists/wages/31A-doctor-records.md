@@ -1,4 +1,4 @@
-﻿---
+---
 title: '31A. Doctor Records'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'preliminary']

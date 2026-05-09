@@ -1,4 +1,4 @@
-﻿---
+---
 title: '79. Meal Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'shift-work', 'allowances']

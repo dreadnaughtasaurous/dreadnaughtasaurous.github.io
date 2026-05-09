@@ -1,4 +1,4 @@
-﻿---
+---
 title: '91. Oncall Recall Non Catt'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'public-holidays', 'allowances']

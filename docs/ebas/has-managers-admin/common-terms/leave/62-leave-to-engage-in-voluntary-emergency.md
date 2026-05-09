@@ -1,4 +1,4 @@
-﻿---
+---
 title: '62. Leave To Engage In Voluntary Emergency'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'preliminary']

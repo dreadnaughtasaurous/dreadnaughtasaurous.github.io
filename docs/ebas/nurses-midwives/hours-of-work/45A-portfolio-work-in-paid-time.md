@@ -1,4 +1,4 @@
-﻿---
+---
 title: '45A. Portfolio Work In Paid Time'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']

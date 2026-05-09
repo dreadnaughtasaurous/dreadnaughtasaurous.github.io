@@ -1,4 +1,4 @@
-﻿---
+---
 title: '86. Skill Mix'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['staffing']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 4 – Template Certificate of Service: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'employment', 'forms']

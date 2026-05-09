@@ -1,4 +1,4 @@
-﻿---
+---
 title: '52. Prenatal Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'parental-leave', 'hours', 'shift-work']

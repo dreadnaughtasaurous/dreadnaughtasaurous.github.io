@@ -1,4 +1,4 @@
-﻿---
+---
 title: '62. Demand Escalation Policy'
 eba: 'Mental Health Services 2024-2028'
 topics: ['consultation', 'union-matters']

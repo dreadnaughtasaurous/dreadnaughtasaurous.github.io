@@ -1,4 +1,4 @@
-﻿---
+---
 title: '30A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'rosters', 'consultation', 'union-matters']

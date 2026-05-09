@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Travelling Allowance'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'allowances']

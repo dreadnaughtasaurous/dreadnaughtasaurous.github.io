@@ -1,4 +1,4 @@
-﻿---
+---
 title: '44. Medical Physicists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'wages', 'classifications']

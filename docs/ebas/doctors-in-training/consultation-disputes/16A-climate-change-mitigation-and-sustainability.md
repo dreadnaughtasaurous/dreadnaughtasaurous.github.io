@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16A. Climate Change Mitigation And Sustainability'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. Types Of Employment'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'overtime', 'penalty-rates', 'shift-work', 'rosters', 'wages', 'classifications', 'employment', 'termination', 'disputes', 'preliminary']

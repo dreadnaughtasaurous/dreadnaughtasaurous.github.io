@@ -1,4 +1,4 @@
-﻿---
+---
 title: '48. Annual Leave Loading Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'annual-leave', 'employment']

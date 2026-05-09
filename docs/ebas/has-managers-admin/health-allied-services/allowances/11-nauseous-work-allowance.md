@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11. Nauseous Work Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'employment']

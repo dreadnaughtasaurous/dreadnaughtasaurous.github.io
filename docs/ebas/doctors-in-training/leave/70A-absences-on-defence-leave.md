@@ -1,4 +1,4 @@
-﻿---
+---
 title: '70A. Absences On Defence Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'employment']

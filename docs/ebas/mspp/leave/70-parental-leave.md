@@ -1,4 +1,4 @@
-﻿---
+---
 title: '70. Parental Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'parental-leave', 'employment', 'preliminary']

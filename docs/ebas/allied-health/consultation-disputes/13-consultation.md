@@ -1,4 +1,4 @@
-﻿---
+---
 title: '13. Consultation'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'parental-leave', 'consultation', 'union-matters']

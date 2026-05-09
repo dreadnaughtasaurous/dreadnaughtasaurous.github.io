@@ -1,4 +1,4 @@
-﻿---
+---
 title: '6. Application And Relationship To The Nes'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']

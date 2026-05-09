@@ -1,4 +1,4 @@
-﻿---
+---
 title: '37. Uniform And Protective Clothing'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances', 'uniforms']

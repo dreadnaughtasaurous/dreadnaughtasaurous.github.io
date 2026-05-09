@@ -1,4 +1,4 @@
-﻿---
+---
 title: '26. Wages And Allowances'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages']

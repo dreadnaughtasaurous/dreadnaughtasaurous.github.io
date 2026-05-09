@@ -1,4 +1,4 @@
-﻿---
+---
 title: '7. Saving Of Local Agreements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages']

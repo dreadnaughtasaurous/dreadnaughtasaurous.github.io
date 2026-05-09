@@ -1,4 +1,4 @@
-﻿---
+---
 title: '26A. Employment Checks'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment', 'disputes', 'preliminary', 'definitions']

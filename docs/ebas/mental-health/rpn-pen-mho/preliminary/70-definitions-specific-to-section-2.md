@@ -1,4 +1,4 @@
-﻿---
+---
 title: '70. Definitions Specific To Section 2'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work']

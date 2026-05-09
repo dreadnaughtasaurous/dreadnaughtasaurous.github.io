@@ -1,4 +1,4 @@
-﻿---
+---
 title: '7. Savings'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']

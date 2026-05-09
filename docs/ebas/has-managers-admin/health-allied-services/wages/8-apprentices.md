@@ -1,4 +1,4 @@
-﻿---
+---
 title: '8. Apprentices'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'training']

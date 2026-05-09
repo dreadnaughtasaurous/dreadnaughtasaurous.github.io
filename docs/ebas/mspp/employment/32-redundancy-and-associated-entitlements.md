@@ -1,4 +1,4 @@
-﻿---
+---
 title: '32. Redundancy And Associated Entitlements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'employment', 'redundancy', 'termination']

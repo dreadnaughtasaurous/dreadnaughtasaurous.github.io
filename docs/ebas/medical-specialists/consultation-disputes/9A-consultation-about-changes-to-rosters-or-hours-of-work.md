@@ -1,4 +1,4 @@
-﻿---
+---
 title: '9A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'consultation']

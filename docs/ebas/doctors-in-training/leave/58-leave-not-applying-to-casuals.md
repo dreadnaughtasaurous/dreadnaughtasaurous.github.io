@@ -1,4 +1,4 @@
-﻿---
+---
 title: '58. Leave Not Applying To Casuals'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'employment', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '93. Ten Hour Break Between Overtime Recall'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'shift-work', 'breaks']

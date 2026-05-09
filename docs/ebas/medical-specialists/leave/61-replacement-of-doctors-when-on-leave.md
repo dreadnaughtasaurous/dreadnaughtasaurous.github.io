@@ -1,4 +1,4 @@
-﻿---
+---
 title: '61. Replacement Of Doctors When On Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'staffing', 'workload']

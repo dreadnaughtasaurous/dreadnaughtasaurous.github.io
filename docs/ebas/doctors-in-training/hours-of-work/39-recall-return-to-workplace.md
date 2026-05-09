@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39. Recall Return To Workplace'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters', 'on-call', 'allowances']

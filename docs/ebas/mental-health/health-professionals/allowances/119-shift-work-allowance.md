@@ -1,4 +1,4 @@
-﻿---
+---
 title: '119. Shift Work Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances']

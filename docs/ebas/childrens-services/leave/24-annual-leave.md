@@ -1,4 +1,4 @@
-﻿---
+---
 title: '24. Annual Leave'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'annual-leave', 'hours', 'rosters', 'employment', 'termination', 'preliminary']

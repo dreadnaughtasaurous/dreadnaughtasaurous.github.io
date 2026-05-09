@@ -1,4 +1,4 @@
-﻿---
+---
 title: '51. Rest Breaks'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'breaks', 'preliminary']

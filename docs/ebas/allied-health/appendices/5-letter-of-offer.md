@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 5 – Letter of Offer: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'employment', 'forms']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '29. Hours Of Work Fractional Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours']

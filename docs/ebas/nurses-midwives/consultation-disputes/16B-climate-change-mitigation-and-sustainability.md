@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16B. Climate Change Mitigation And Sustainability'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']

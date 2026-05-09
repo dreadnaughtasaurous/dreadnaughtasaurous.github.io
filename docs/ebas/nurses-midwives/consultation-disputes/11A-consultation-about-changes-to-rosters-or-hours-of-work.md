@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters', 'consultation']

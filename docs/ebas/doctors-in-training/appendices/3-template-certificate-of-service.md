@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 3 – Template Certificate of Service: Doctors In Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'employment', 'forms']

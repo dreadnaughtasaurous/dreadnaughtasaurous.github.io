@@ -1,4 +1,4 @@
-﻿---
+---
 title: '77. Damaged Clothing Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']

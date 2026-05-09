@@ -1,4 +1,4 @@
-﻿---
+---
 title: '13A. Performance Management'
 eba: 'Doctors in Training 2022-2026'
 topics: ['discipline']

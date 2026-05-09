@@ -1,4 +1,4 @@
-﻿---
+---
 title: '89. Supervision And Management'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']

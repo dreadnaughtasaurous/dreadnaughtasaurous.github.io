@@ -1,4 +1,4 @@
-﻿---
+---
 title: '42B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees) '
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work']

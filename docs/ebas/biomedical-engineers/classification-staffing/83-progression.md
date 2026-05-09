@@ -1,4 +1,4 @@
-﻿---
+---
 title: '83. Progression'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'preliminary']

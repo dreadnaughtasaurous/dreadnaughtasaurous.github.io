@@ -1,4 +1,4 @@
-﻿---
+---
 title: '47. Long Service Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'long-service-leave', 'preliminary']

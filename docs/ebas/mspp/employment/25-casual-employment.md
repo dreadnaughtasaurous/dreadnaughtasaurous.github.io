@@ -1,4 +1,4 @@
-﻿---
+---
 title: '25. Casual Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'classifications']

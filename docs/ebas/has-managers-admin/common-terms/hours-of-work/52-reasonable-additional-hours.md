@@ -1,4 +1,4 @@
-﻿---
+---
 title: '52. Reasonable Additional Hours'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime']

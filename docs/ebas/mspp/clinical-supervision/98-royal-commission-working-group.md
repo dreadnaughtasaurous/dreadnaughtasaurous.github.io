@@ -1,4 +1,4 @@
-﻿---
+---
 title: '98. Royal Commission Working Group'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['discipline', 'governance']
