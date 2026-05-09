@@ -12,10 +12,11 @@ import FileAttachment from './components/FileAttachment.vue'
 export default {
   extends: DefaultTheme,
   Layout() {
-    return h(DefaultTheme.Layout, null, {
-      'nav-bar-content-before': () => h(SearchModal),
-    })
-  },
+  return h(DefaultTheme.Layout, null, {
+    'nav-bar-content-before': () => h(SearchModal),
+    'doc-before': () => h('div', { 'data-pagefind-body': true, style: 'display:contents' }),
+  })
+},
   enhanceApp({ app }) {
     app.use(NolebaseGitChangelogPlugin)
     app.component('SearchPage', SearchPage)

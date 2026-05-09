@@ -5,6 +5,9 @@
     ".VPFooter",
     ".VPDocFooter",
     ".VPLocalNav",
+    ".VPDocAsideOutline",
+    ".outline-marker",
+    ".outline-link",
     "nav",
     "footer"
   ]
