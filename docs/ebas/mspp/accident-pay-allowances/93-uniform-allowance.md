@@ -10,7 +10,7 @@ topics: ['allowances', 'uniforms']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist uniform allowance clothing laundry uniform reimbursement
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
 # 93. Uniform Allowance

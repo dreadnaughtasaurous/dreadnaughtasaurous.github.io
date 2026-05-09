@@ -8,7 +8,7 @@ topics: ['schedules', 'employment']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support letter of appointment offer engagement commencement
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # Schedule 8 - Letter Of Appointment: Mental Health EBA

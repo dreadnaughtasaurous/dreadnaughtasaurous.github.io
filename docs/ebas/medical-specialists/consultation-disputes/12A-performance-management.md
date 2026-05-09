@@ -8,7 +8,7 @@ topics: ['discipline']
 <span data-pagefind-filter="eba:Medical Specialists 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist performance management review appraisal improvement plan
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 12A. Performance Management

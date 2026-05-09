@@ -10,7 +10,7 @@ topics: ['leave', 'family-violence-leave', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist family violence leave domestic violence safety leave
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 60. Family Violence Leave

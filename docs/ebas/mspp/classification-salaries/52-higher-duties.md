@@ -10,7 +10,7 @@ topics: ['wages', 'classifications', 'higher-duties', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist higher duties acting up acting in position temporary promotion allowance
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
 # 52. Higher Duties

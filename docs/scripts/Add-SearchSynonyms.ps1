@@ -993,6 +993,34 @@ function Remove-NumericPrefix {
     return $Slug -replace '^[0-9]+[A-Z]?-', ''
 }
 
+function Remove-SlugWords {
+    param(
+        [string]$Combined,
+        [string]$Slug
+    )
+    $slugWords = $Slug -split '-' | Where-Object { $_.Length -gt 2 }
+    foreach ($word in $slugWords) {
+        $Combined = $Combined -replace "(?i)\b$([regex]::Escape($word))\b", ''
+    }
+    $Combined = $Combined -replace '(?<!\w)-\w+', ''
+    $Combined = $Combined -replace '\w+-(?!\w)', ''
+    $Combined = $Combined -replace '\s+-\s*', ' '
+    $Combined = $Combined -replace '\s{2,}', ' '
+    return $Combined.Trim()
+}
+
+# ==============================================================
+# HELPER: Remove words that appear in the filename slug from the
+# combined synonyms string. This prevents Pagefind from
+# excerpting the synonyms blob when the user searches for the
+# clause title itself.
+#
+# e.g. slug "higher-duties-allowance" → strip tokens
+#      "higher", "duties", "allowance" from $combined.
+#
+# Matching is case-insensitive, whole-word only (word boundaries).
+# ==============================================================
+
 # ==============================================================
 # HELPER: Determine EBA identity for a given file path
 # ==============================================================
@@ -1112,8 +1140,9 @@ foreach ($file in $files) {
         continue
     }
 
-    $combined = (($ebaKeywords, $topicKeywords) | Where-Object { $_ }) -join ' '
-    $combined = $combined.Trim()
+    $combined = $ebaKeywords.Trim()
+    $strippedSlug = Remove-NumericPrefix -Slug ([System.IO.Path]::GetFileNameWithoutExtension($file.Name).ToLower())
+    $combined = Remove-SlugWords -Combined $combined -Slug $strippedSlug
 
     if ($DryRun) {
         Write-Host "WOULD UPDATE  $($file.Name)" -ForegroundColor Cyan

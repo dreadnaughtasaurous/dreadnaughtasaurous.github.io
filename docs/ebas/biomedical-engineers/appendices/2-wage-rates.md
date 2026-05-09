@@ -10,7 +10,7 @@ topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer wage rates pay rates salary rates classification pay
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
 # Appendix 2 — Salaries & Allowances: Biomedical Engineers EBA

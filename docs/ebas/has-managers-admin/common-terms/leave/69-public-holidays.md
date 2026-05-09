@@ -10,7 +10,7 @@ topics: ['leave', 'public-holidays', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer public holidays holiday penalty rate double time Christmas Easter
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # 69. Public Holidays

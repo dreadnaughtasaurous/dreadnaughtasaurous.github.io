@@ -7,7 +7,7 @@ topics: []
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer workplace rights employee rights flexible working anti-discrimination
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # Workplace Rights

@@ -10,7 +10,7 @@ topics: ['hours', 'on-call', 'allowances']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist telephone allowance phone reimbursement mobile phone cost
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 37. Telephone Allowance

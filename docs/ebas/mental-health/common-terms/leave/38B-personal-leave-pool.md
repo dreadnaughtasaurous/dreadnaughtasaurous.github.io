@@ -8,7 +8,7 @@ topics: ['leave', 'personal-leave']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support personal leave pool shared sick leave team illness
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # 38B. Personal Leave Pool

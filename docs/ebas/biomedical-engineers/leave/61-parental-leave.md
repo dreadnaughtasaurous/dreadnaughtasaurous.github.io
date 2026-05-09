@@ -10,7 +10,7 @@ topics: ['leave', 'parental-leave', 'wages', 'superannuation']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer parental leave maternity paternity adoption birth family
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
 # 61. Parental Leave

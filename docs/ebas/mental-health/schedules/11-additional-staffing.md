@@ -8,7 +8,7 @@ topics: ['schedules', 'staffing']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support additional staffing extra staff levels backfill
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # Schedule 11 – Additional Staffing: Mental Health EBA

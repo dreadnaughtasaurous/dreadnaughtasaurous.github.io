@@ -8,7 +8,7 @@ topics: ['preliminary', 'staffing']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support community workload management system CWMS
+mental health worker psychiatric nurse mental health nurse mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # 60. Community Workload Management System Cwms

@@ -10,7 +10,7 @@ topics: ['appendices', 'pay-rates', 'wages', 'allowances', 'remuneration', 'sala
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist specialists remuneration allowances pay
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # Appendix 2 - Specialists Remuneration and Allowances: Medical Specialists EBA

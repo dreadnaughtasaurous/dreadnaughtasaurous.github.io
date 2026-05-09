@@ -8,7 +8,7 @@ topics: ['schedules', 'hospital-specific']
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist Eastern Health Turning Point research education employment
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist scientist hospital pharmacist
 </div>
 
 # Schedule 6 - Eastern Health Turning Point Research and Education Employees: Medical Scientists, Pharm & Psych EBA

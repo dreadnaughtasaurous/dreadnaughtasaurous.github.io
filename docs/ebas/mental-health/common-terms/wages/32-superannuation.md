@@ -10,7 +10,7 @@ topics: ['wages', 'superannuation', 'preliminary', 'definitions']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support superannuation super employer contribution SGC retirement
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # 32. Superannuation

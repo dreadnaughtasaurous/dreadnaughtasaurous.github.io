@@ -10,7 +10,7 @@ topics: ['leave', 'parental-leave', 'wages', 'superannuation']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer parental leave maternity paternity adoption birth family
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # 59. Parental Leave

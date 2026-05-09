@@ -10,7 +10,7 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 salary packaging novated lease pre-tax benefits FBT packaging
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
 # 44. Salary Packaging

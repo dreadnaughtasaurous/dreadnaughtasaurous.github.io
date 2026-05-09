@@ -10,7 +10,7 @@ topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'rates', 'salary-cir
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist rates of pay allowances salary
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
 # Schedule 2 - Rates of Pay: Medical Scientists, Pharm & Psych EBA

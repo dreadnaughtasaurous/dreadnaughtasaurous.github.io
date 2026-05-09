@@ -10,7 +10,7 @@ topics: ['schedules', 'classifications', 'hospital-specific']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist progression medical scientists grade 1 grade 2
+MSPP pharmacists psychologists scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
 # Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services: Medical Scientists, Pharm & Psych EBA

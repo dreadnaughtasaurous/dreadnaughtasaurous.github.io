@@ -10,7 +10,7 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist salary packaging novated lease pre-tax benefits FBT packaging
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 33. Salary Packaging

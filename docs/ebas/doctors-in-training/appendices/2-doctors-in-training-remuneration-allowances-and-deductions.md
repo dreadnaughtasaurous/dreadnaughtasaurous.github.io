@@ -10,7 +10,7 @@ topics: ['appendices', 'pay-rates', 'wages', 'allowances', 'remuneration', 'sala
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 remuneration allowances deductions doctors in training
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
 # Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions: Doctors In Training EBA

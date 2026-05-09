@@ -8,7 +8,7 @@ topics: ['leave', 'personal-leave', 'long-service-leave', 'employment', 'termina
 <span data-pagefind-filter="eba:Medical Specialists 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist certificate of service reference employment record
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 24. Certificate Of Service

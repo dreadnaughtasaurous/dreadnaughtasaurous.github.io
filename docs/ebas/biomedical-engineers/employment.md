@@ -7,7 +7,7 @@ topics: ['employment']
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer employment engagement types of employment
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
 # Employment

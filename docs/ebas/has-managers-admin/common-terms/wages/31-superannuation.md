@@ -10,7 +10,7 @@ topics: ['wages', 'superannuation', 'preliminary', 'definitions']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer superannuation super employer contribution SGC retirement
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # 31. Superannuation

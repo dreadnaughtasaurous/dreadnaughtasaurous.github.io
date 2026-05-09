@@ -8,7 +8,7 @@ topics: ['allowances']
 <span data-pagefind-filter="eba:Medical Specialists 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist designated location bonus hard to fill remote rural payment
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 44B. Designated Location Bonus

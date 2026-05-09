@@ -8,7 +8,7 @@ topics: ['schedules', 'classifications']
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer veteran employment support officer classification
+HAS HASMA health administrative services manager administrative worker clerical administration health manager patient services
 </div>
 
 # Schedule 3I – Veteran Employment Support Officer: Health Allied & Managers Admin EBA

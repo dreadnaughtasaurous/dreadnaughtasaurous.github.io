@@ -8,7 +8,7 @@ topics: ['appendices', 'leave', 'annual-leave', 'forms']
 <span data-pagefind-filter="eba:Doctors in Training 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 agreement cash out annual leave form template
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
 # Appendix 5 – Agreement to Cash Out Annual Leave: Doctors in Training EBA

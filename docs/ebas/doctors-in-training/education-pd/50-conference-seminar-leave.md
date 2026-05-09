@@ -8,7 +8,7 @@ topics: ['leave', 'study-leave', 'preliminary']
 <span data-pagefind-filter="eba:Doctors in Training 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 conference seminar leave attendance professional development
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
 # 50. Conference Seminar Leave

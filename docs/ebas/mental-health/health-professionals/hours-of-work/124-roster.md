@@ -8,7 +8,7 @@ topics: ['hours', 'rosters']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support roster rostering shift rotation working schedule
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # 124. Roster

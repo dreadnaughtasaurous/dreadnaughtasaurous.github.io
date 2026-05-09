@@ -10,7 +10,7 @@ topics: ['wages', 'salary-packaging', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer salary packaging novated lease pre-tax benefits FBT packaging
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # 32. Salary Packaging

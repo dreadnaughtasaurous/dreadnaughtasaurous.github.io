@@ -8,7 +8,7 @@ topics: ['hours', 'on-call', 'allowances']
 <span data-pagefind-filter="eba:Medical Specialists 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist mobile phone reimbursement provision telephone
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
 # 43. Provision Of Mobile Phone Or Reimbursement Of Cost

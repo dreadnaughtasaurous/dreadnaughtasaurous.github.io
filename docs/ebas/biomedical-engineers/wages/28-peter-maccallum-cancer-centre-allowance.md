@@ -10,7 +10,7 @@ topics: ['allowances', 'employment']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer Peter MacCallum Cancer Centre allowance oncology payment
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
 # 28. Peter Maccallum Cancer Centre Allowance

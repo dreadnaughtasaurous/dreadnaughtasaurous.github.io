@@ -8,7 +8,7 @@ topics: ['classifications']
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer revised general services classification hotel
+HAS HASMA health administrative manager administrative worker clerical officer administration health manager patient officer
 </div>
 
 # 38. Introduction Of Revised General Services Classification Structure

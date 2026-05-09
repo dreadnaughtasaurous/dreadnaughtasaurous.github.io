@@ -8,7 +8,7 @@ topics: ['allowances']
 <span data-pagefind-filter="eba:Allied Health Professionals 2021-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist supervisor allowance medical technician renal
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor physicist clinical perfusionist audiologist
 </div>
 
 # 46. Supervisor Allowance - Medical Technician And Renal Dialysis Technician (Clinical Renal Physiologist) Only

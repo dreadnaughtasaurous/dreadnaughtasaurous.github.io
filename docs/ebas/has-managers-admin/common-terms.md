@@ -5,7 +5,7 @@ topics: ['definitions']
 ---
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer definitions common terms interpretation meaning
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # Common Terms

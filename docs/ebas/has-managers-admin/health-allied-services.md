@@ -7,7 +7,7 @@ topics: []
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer health allied services HAS classification wages
+HAS HASMA administrative manager administrative worker clerical officer administration manager patient officer
 </div>
 
 # Health Allied Services

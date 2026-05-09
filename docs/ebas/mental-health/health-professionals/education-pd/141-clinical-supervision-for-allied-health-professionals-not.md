@@ -8,7 +8,7 @@ topics: ['education']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support clinical supervision allied health professionals
+mental worker psychiatric nurse mental nurse community mental AMHS authorised mental practitioner psychosocial disability support
 </div>
 
 # 141. Clinical Supervision For Allied Health Professionals (Not LLEWs) 

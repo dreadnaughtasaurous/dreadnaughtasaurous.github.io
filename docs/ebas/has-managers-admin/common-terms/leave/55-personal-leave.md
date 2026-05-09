@@ -10,7 +10,7 @@ topics: ['leave', 'personal-leave', 'hours', 'overtime']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer personal leave sick leave carers leave illness sick day calling in sick unwell off sick medical certificate
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # 55. Personal Leave

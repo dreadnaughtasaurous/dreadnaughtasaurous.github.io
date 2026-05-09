@@ -10,7 +10,7 @@ topics: ['hours', 'shift-work', 'wages', 'higher-duties', 'classifications', 'pr
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's higher duties acting up acting in position temporary promotion allowance
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
 # 18. Higher Duties

@@ -5,7 +5,7 @@ topics: []
 ---
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's application commencement period of operation coverage parties
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
 # Application Operation

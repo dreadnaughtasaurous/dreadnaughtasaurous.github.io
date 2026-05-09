@@ -8,7 +8,7 @@ topics: ['leave', 'rehabilitation-leave', 'preliminary', 'definitions']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support rehabilitation leave return to work injury
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
 # 38H. Rehabilitation Leave 

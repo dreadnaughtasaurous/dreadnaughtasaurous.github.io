@@ -10,7 +10,7 @@ topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', '
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer wage rates managers administrative workers pay
+HAS HASMA health services manager worker clerical officer administration health manager patient services officer
 </div>
 
 # Schedule 3B - Wage Rates (Managers and Administrative Workers): Health Allied & Managers Admin EBA

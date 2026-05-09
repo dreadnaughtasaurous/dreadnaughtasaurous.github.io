@@ -10,7 +10,7 @@ topics: ['hours', 'rosters', 'consultation']
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer index overview contents agreement title arrangement preliminary
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
 # 2. Index

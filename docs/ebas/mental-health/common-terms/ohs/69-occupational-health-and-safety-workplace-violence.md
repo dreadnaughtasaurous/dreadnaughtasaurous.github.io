@@ -8,7 +8,7 @@ topics: ['ohs', 'preliminary']
 <span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support occupational health safety workplace violence aggression OHS
+mental worker psychiatric nurse mental nurse community mental AMHS authorised mental practitioner psychosocial disability support
 </div>
 
 # 69. Occupational Health And Safety / Workplace Violence

@@ -8,7 +8,7 @@ topics: ['schedules', 'classifications']
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer classification structure managers administrative workers
+HAS HASMA health services manager worker clerical officer administration health manager patient services officer
 </div>
 
 # 3D. Classification Structure Managers And Administrative Workers

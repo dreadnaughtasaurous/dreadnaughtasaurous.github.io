@@ -10,7 +10,7 @@ topics: ['schedules', 'classifications', 'allowances', 'remuneration', 'rates', 
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist classification descriptors higher qualification allowance HQA
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
 # Schedule 3 - Allowances & Other Payments: Medical Scientists, Pharm & Psych EBA

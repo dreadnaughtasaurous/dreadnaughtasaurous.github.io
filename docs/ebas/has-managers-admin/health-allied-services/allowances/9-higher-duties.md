@@ -10,7 +10,7 @@ topics: ['hours', 'shift-work', 'preliminary', 'classifications']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer higher duties acting up acting in position temporary promotion allowance
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
 # 9. Higher Duties

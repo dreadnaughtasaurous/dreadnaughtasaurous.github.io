@@ -10,7 +10,7 @@ topics: ['schedules', 'classifications']
 <div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support classification definitions health professionals AHP
+mental worker psychiatric nurse mental nurse community mental AMHS authorised mental practitioner psychosocial disability support
 </div>
 
 # Schedule 5 – Classification Definitions Applying to Health Professionals: Mental Health EBA
