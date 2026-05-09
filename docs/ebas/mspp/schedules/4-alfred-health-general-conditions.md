@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Schedule 4 - Alfred Health General Conditions: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hospital-specific']
 ---
-<span data-pagefind-meta="clause:Clause 4" style="display:none"></span>
+<span data-pagefind-meta="clause:Schedule 4" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

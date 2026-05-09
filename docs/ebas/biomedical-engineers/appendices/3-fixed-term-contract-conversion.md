@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Appendix 3 - Fixed Term Contract Conversion: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'employment']
@@ -6,7 +6,7 @@ rewrites:
   - from: ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments
     to: ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion
 ---
-<span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 3" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Appendix 1 - List Of Employers: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'coverage']
 ---
-<span data-pagefind-meta="clause:Clause 1" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 1" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

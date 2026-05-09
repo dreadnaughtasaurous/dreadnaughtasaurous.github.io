@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Schedule 4 - PCNS and RPN 2 Advanced Application Process: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'classifications']
 ---
-<span data-pagefind-meta="clause:Clause 04" style="display:none"></span>
+<span data-pagefind-meta="clause:Schedule 04" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

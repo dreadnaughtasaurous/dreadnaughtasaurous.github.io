@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Appendix 4 - Classification Definitions: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'classifications']
 ---
-<span data-pagefind-meta="clause:Clause 4" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 4" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

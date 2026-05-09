@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Appendix 1 - List Of Employers: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['appendices', 'coverage']
 ---
-<span data-pagefind-meta="clause:Clause 01" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 01" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

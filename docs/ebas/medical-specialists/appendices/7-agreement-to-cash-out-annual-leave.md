@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Appendix 7 – Agreement to Cash Out Annual Leave: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
-<span data-pagefind-meta="clause:Clause 7" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 7" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

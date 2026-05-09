@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Schedule 8 - Letter Of Appointment: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'employment']
 ---
-<span data-pagefind-meta="clause:Clause 08" style="display:none"></span>
+<span data-pagefind-meta="clause:Schedule 08" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Appendix 8 - Campus Categories: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['appendices', 'classifications']
 ---
-<span data-pagefind-meta="clause:Clause 08" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 08" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

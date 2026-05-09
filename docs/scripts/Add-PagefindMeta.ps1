@@ -181,7 +181,12 @@ foreach ($eba in $foldersToProcess) {
             continue
         }
 
-        $clauseLabel  = "Clause $clauseNum"
+        $parentFolder = (Split-Path $file.FullName -Parent | Split-Path -Leaf).ToLower()
+        $clauseLabel  = switch ($parentFolder) {
+            "schedules"  { "Schedule $clauseNum" }
+            "appendices" { "Appendix $clauseNum" }
+            default      { "Clause $clauseNum"   }
+        }
         $sectionLabel = Get-SectionLabel $file.FullName
 
         # Read the file content

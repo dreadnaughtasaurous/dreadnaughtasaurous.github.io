@@ -1,9 +1,9 @@
-﻿---
+---
 title: 'Appendix 6 – Template Certificate of Service: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['appendices', 'employment']
 ---
-<span data-pagefind-meta="clause:Clause 06" style="display:none"></span>
+<span data-pagefind-meta="clause:Appendix 06" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
