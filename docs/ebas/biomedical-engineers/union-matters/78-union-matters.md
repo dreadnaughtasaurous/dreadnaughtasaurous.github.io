@@ -3,6 +3,8 @@ title: '78. Union Matters'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['union-matters']
 ---
+<span data-pagefind-meta="clause:Clause 78" style="display:none"></span>
+<span data-pagefind-meta="section:Union Matters" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer union membership union rights ANMF HACSU HSUA enterprise agreement industrial

@@ -3,6 +3,8 @@ title: '10. Anti Discrimination'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['flexible-work', 'preliminary', 'discrimination']
 ---
+<span data-pagefind-meta="clause:Clause 10" style="display:none"></span>
+<span data-pagefind-meta="section:Preliminary" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist anti-discrimination equal opportunity diversity EEO

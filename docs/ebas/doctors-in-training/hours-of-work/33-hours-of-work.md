@@ -3,6 +3,8 @@ title: '33. Hours Of Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['education', 'professional-development', 'hours', 'employment', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
+<span data-pagefind-meta="section:Hours of Work" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 hours of work ordinary hours roster overtime breaks shifts

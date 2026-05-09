@@ -1,0 +1,11 @@
+{
+  "exclude_selectors": [
+    ".VPNav",
+    ".VPSidebar",
+    ".VPFooter",
+    ".VPDocFooter",
+    ".VPLocalNav",
+    "nav",
+    "footer"
+  ]
+}

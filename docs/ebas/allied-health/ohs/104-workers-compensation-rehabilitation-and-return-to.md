@@ -3,6 +3,8 @@ title: '104. Workers Compensation Rehabilitation and Return To Work'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'accident-pay']
 ---
+<span data-pagefind-meta="clause:Clause 104" style="display:none"></span>
+<span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist workers compensation rehabilitation return to work

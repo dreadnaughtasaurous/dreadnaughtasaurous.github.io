@@ -3,6 +3,8 @@ title: '79. Signatories'
 eba: 'Doctors in Training 2022-2026'
 topics: ['union-matters']
 ---
+<span data-pagefind-meta="clause:Clause 79" style="display:none"></span>
+<span data-pagefind-meta="section:Union Matters" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 signatories parties signing agreement

@@ -3,6 +3,8 @@ title: '13A. Performance Management'
 eba: 'Doctors in Training 2022-2026'
 topics: ['discipline']
 ---
+<span data-pagefind-meta="clause:Clause 13A" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 performance management review appraisal improvement plan

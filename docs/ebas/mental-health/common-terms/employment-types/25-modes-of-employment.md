@@ -3,6 +3,8 @@ title: '25. Modes Of Employment'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'employment', 'classifications']
 ---
+<span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
+<span data-pagefind-meta="section:Types of Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support modes of employment full-time part-time casual

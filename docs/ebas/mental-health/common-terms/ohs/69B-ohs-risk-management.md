@@ -3,6 +3,8 @@ title: '69B. Ohs Risk Management'
 eba: 'Mental Health Services 2024-2028'
 topics: ['consultation', 'ohs']
 ---
+<span data-pagefind-meta="clause:Clause 69B" style="display:none"></span>
+<span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support OHS risk management hazard identification assessment

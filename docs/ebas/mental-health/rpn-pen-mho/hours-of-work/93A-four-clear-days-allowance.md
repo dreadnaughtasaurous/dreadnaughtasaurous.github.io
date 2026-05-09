@@ -3,6 +3,8 @@ title: '93A. Four Clear Days Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'rosters']
 ---
+<span data-pagefind-meta="clause:Clause 93A" style="display:none"></span>
+<span data-pagefind-meta="section:Hours of Work" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support four clear days allowance rest break rotation

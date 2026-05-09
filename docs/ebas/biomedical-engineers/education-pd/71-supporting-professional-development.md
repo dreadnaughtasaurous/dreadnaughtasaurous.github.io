@@ -3,6 +3,8 @@ title: '71. Supporting Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']
 ---
+<span data-pagefind-meta="clause:Clause 71" style="display:none"></span>
+<span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer supporting professional development education training

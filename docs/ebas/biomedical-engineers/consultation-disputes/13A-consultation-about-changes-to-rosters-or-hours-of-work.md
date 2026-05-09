@@ -3,6 +3,8 @@ title: '13A. Consultation about Changes to Rosters or Hours of Work'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['consultation', 'rosters', 'hours-of-work']
 ---
+<span data-pagefind-meta="clause:Clause 13A" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer consultation changes rosters hours work

@@ -3,6 +3,8 @@ title: '17. Types Of Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment']
 ---
+<span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist types of employment full-time part-time casual fixed-term modes

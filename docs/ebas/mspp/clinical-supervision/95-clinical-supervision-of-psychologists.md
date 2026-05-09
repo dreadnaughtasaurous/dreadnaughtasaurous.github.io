@@ -3,6 +3,8 @@ title: '95. Clinical Supervision Of Psychologists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'clinical-supervision', 'classifications']
 ---
+<span data-pagefind-meta="clause:Clause 95" style="display:none"></span>
+<span data-pagefind-meta="section:Clinical Supervision" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist clinical supervision psychologists supervision requirements

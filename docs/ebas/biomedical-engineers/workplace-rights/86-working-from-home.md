@@ -3,6 +3,8 @@ title: '86. Working From Home'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 86" style="display:none"></span>
+<span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer working from home remote work WFH telecommuting

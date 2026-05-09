@@ -3,6 +3,8 @@ title: '7. No Extra Claims'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 7" style="display:none"></span>
+<span data-pagefind-meta="section:Application & Operation" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist no extra claims industrial peace commitment

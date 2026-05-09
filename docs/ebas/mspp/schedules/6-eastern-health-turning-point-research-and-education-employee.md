@@ -3,6 +3,8 @@ title: 'Schedule 6 - Eastern Health Turning Point Research and Education Employe
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hospital-specific']
 ---
+<span data-pagefind-meta="clause:Clause 6" style="display:none"></span>
+<span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist Eastern Health Turning Point research education employment

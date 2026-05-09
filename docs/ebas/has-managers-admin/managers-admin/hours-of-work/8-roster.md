@@ -3,6 +3,8 @@ title: '8. Roster'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'rosters']
 ---
+<span data-pagefind-meta="clause:Clause 8" style="display:none"></span>
+<span data-pagefind-meta="section:Hours of Work" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer roster rostering shift rotation working schedule

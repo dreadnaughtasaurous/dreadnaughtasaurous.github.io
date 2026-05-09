@@ -3,6 +3,8 @@ title: '22A. Employment Checks (Applicable From 24 June 2024)'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['disputes', 'preliminary', 'definitions']
 ---
+<span data-pagefind-meta="clause:Clause 22A" style="display:none"></span>
+<span data-pagefind-meta="section:Types of Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant employment checks applicable from 24 June 2024

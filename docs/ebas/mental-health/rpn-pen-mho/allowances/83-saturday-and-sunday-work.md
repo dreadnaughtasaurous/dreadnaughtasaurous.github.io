@@ -3,6 +3,8 @@ title: '83. Saturday And Sunday Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'rosters', 'wages']
 ---
+<span data-pagefind-meta="clause:Clause 83" style="display:none"></span>
+<span data-pagefind-meta="section:Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support Saturday Sunday weekend penalty rates ordinary hours

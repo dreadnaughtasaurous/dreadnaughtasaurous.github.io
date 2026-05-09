@@ -3,6 +3,8 @@ title: '69G. Hazardous Weather Conditions'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'ohs']
 ---
+<span data-pagefind-meta="clause:Clause 69G" style="display:none"></span>
+<span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support hazardous weather conditions extreme heat safety

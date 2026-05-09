@@ -3,6 +3,8 @@ title: '46. Breastfeeding'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'breaks', 'flexible-work']
 ---
+<span data-pagefind-meta="clause:Clause 46" style="display:none"></span>
+<span data-pagefind-meta="section:Accommodation" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist breastfeeding lactation room facilities nursing mothers

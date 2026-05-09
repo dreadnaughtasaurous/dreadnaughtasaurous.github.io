@@ -3,6 +3,8 @@ title: '31B. Daylight Saving'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'shift-work', 'rosters', 'breaks']
 ---
+<span data-pagefind-meta="clause:Clause 31B" style="display:none"></span>
+<span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist daylight saving time clock change shift adjustment

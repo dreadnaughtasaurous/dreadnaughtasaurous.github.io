@@ -3,6 +3,8 @@ title: '24. Termination Of Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment', 'termination']
 ---
+<span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist termination of employment dismissal resignation notice period

@@ -3,6 +3,8 @@ title: 'Appendix 3 - Continuing Medical Education Standard Claim Form: Medical S
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'professional-development', 'forms']
 ---
+<span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
+<span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist continuing medical education standard claim form CME

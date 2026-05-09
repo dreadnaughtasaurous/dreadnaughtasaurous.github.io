@@ -3,6 +3,8 @@ title: '75. Reimbursement Of Professional Development Leave Expenses'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['professional-development', 'leave', 'allowances', 'travel']
 ---
+<span data-pagefind-meta="clause:Clause 75" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist reimbursement professional development leave expenses costs

@@ -3,6 +3,8 @@ title: '20. Casual Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'employment', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer casual employment irregular no guarantee of hours engagement

@@ -3,6 +3,8 @@ title: '22. Transition To Retirement'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'flexible-work', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 22" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist transition to retirement flexible work phased retirement

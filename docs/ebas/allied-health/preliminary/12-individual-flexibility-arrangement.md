@@ -3,6 +3,8 @@ title: '12. Individual Flexibility Arrangement'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'hours', 'overtime', 'flexible-work']
 ---
+<span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
+<span data-pagefind-meta="section:Preliminary" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist individual flexibility arrangement IFA vary terms

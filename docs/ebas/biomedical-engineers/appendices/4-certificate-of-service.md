@@ -6,6 +6,8 @@ rewrites:
   - from: ebas/biomedical-engineers/appendices/4-classification-definitions
     to: ebas/biomedical-engineers/appendices/4-certificate-of-service
 ---
+<span data-pagefind-meta="clause:Clause 4" style="display:none"></span>
+<span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer certificate of service reference employment record

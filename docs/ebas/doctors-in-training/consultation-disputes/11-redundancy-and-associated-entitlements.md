@@ -3,6 +3,8 @@ title: '11. Redundancy And Associated Entitlements'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 redundancy retrenchment redundancy pay severance entitlements

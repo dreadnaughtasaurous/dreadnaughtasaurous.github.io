@@ -3,6 +3,8 @@ title: '142. Discipline Specific Supervision Only Llews'
 eba: 'Mental Health Services 2024-2028'
 topics: ['discipline', 'education']
 ---
+<span data-pagefind-meta="clause:Clause 142" style="display:none"></span>
+<span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support discipline specific supervision LLEW limited registration

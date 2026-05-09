@@ -3,6 +3,8 @@ title: '92. Telephone Allowance'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'on-call', 'allowances']
 ---
+<span data-pagefind-meta="clause:Clause 92" style="display:none"></span>
+<span data-pagefind-meta="section:Accident Pay & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist telephone allowance phone reimbursement mobile phone cost

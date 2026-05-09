@@ -3,6 +3,8 @@ title: 'Schedule 3C - Allowances (Managers and Administrative Workers): Health A
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'salary-circular']
 ---
+<span data-pagefind-meta="clause:Clause 3c" style="display:none"></span>
+<span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer

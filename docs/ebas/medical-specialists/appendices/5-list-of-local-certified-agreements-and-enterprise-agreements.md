@@ -3,6 +3,8 @@ title: 'Appendix 5 - List Of Local Certified Agreements And Enterprise Agreement
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'local-agreements']
 ---
+<span data-pagefind-meta="clause:Clause 5" style="display:none"></span>
+<span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist

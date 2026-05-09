@@ -3,6 +3,8 @@ title: '61. Replacement Of Doctors When On Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'staffing', 'workload']
 ---
+<span data-pagefind-meta="clause:Clause 61" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist replacement doctors leave locum cover

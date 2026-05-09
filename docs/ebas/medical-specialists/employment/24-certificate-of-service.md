@@ -3,6 +3,8 @@ title: '24. Certificate Of Service'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'personal-leave', 'long-service-leave', 'employment', 'termination']
 ---
+<span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist certificate of service reference employment record

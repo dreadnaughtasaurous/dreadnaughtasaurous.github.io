@@ -3,6 +3,8 @@ title: '14. Statewide Industry Panel'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'disputes', 'discipline', 'classifications']
 ---
+<span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant statewide industry panel SIP union employer committee

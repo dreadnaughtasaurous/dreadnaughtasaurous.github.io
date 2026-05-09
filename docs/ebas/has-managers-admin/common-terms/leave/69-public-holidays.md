@@ -3,6 +3,8 @@ title: '69. Public Holidays'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'public-holidays', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 69" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer public holidays holiday penalty rate double time Christmas Easter

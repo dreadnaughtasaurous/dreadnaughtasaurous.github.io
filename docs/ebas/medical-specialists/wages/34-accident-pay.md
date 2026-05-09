@@ -3,6 +3,8 @@ title: '34. Accident Pay'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 34" style="display:none"></span>
+<span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist accident pay workers compensation make-up pay injury payment

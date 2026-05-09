@@ -3,6 +3,8 @@ title: '33. Higher Qualifications Allowance'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances']
 ---
+<span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
+<span data-pagefind-meta="section:Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer higher qualifications allowance post-graduate qualification incentive advanced qualification HQA

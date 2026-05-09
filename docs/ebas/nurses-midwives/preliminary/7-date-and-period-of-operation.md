@@ -3,6 +3,8 @@ title: '7. Date And Period Of Operation'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 7" style="display:none"></span>
+<span data-pagefind-meta="section:Preliminary" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant commencement date period of operation start date expiry

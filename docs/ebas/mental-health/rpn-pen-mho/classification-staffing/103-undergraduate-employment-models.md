@@ -3,6 +3,8 @@ title: '103. Undergraduate Employment Models'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'definitions', 'education']
 ---
+<span data-pagefind-meta="clause:Clause 103" style="display:none"></span>
+<span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support undergraduate employment models student nurse

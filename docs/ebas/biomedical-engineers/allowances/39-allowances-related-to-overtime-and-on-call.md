@@ -3,6 +3,8 @@ title: '39. Allowances Related To Overtime And On Call'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'shift-work', 'rosters']
 ---
+<span data-pagefind-meta="clause:Clause 39" style="display:none"></span>
+<span data-pagefind-meta="section:Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer allowances overtime on call penalty recall

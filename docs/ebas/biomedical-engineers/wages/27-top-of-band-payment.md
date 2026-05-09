@@ -3,6 +3,8 @@ title: '27. Top Of Band Payment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
+<span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer top of band payment ceiling salary maximum pay grade

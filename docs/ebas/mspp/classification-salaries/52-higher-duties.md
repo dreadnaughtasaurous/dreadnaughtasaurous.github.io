@@ -3,6 +3,8 @@ title: '52. Higher Duties'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications', 'higher-duties', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 52" style="display:none"></span>
+<span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist higher duties acting up acting in position temporary promotion allowance

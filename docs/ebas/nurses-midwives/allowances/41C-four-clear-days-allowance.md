@@ -3,6 +3,8 @@ title: '41C. Four Clear Days Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters', 'overtime', 'allowances']
 ---
+<span data-pagefind-meta="clause:Clause 41C" style="display:none"></span>
+<span data-pagefind-meta="section:Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant four clear days allowance rest break rotation

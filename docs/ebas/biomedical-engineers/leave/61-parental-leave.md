@@ -3,6 +3,8 @@ title: '61. Parental Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'parental-leave', 'wages', 'superannuation']
 ---
+<span data-pagefind-meta="clause:Clause 61" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer parental leave maternity paternity adoption birth family

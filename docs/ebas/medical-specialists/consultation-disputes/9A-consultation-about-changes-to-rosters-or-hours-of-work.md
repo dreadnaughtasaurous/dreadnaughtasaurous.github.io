@@ -3,6 +3,8 @@ title: '9A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'consultation']
 ---
+<span data-pagefind-meta="clause:Clause 9A" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist consultation changes rosters hours work

@@ -3,6 +3,8 @@ title: '44A. Manager Allowance'
 eba: 'Medical Specialists 2022-2026'
 topics: ['allowances']
 ---
+<span data-pagefind-meta="clause:Clause 44A" style="display:none"></span>
+<span data-pagefind-meta="section:Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist manager allowance management responsibility payment

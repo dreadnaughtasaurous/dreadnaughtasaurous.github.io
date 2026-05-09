@@ -3,6 +3,8 @@ title: '50. Conference Seminar Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'study-leave', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 50" style="display:none"></span>
+<span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 conference seminar leave attendance professional development

@@ -3,6 +3,8 @@ title: '47. Avoidance And Management Of Short Shifts'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work']
 ---
+<span data-pagefind-meta="clause:Clause 47" style="display:none"></span>
+<span data-pagefind-meta="section:Hours of Work" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant avoidance short shifts minimum engagement roster

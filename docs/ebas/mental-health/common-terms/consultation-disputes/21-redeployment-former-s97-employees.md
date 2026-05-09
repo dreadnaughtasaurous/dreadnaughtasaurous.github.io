@@ -3,6 +3,8 @@ title: '21. Redeployment Former S97 Employees'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 21" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support redeployment former section 97 employees

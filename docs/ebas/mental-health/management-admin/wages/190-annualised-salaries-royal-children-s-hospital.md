@@ -3,6 +3,8 @@ title: '190. Annualised Salaries - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'annual-leave', 'hours', 'shift-work']
 ---
+<span data-pagefind-meta="clause:Clause 190" style="display:none"></span>
+<span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support

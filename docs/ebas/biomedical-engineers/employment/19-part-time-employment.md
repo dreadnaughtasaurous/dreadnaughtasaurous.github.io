@@ -3,6 +3,8 @@ title: '19. Part Time Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'employment']
 ---
+<span data-pagefind-meta="clause:Clause 19" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer part-time employment fewer hours regular pro-rata

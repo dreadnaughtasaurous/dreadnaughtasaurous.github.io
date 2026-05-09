@@ -3,6 +3,8 @@ title: '14. Dispute Resolution Procedure'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'disputes', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer dispute resolution procedure grievance formal complaint steps

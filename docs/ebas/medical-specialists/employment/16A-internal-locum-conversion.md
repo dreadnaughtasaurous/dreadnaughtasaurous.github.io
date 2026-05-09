@@ -3,6 +3,8 @@ title: '16A. Internal Locum Conversion'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 16A" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist internal locum conversion employment

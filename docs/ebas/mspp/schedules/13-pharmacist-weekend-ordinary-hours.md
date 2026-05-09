@@ -3,6 +3,8 @@ title: 'Schedule 13 - Pharmacist Weekend Ordinary Hours: Medical Scientists, Pha
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hours', 'pay-rates']
 ---
+<span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
+<span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist pharmacist weekend ordinary hours Saturday Sunday

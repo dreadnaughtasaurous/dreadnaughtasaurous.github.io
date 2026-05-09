@@ -3,6 +3,8 @@ title: '62. Union Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: ['union-matters']
 ---
+<span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
+<span data-pagefind-meta="section:Union Matters" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist union membership union rights ANMF HACSU HSUA enterprise agreement industrial

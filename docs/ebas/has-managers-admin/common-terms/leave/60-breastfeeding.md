@@ -3,6 +3,8 @@ title: '60. Breastfeeding'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'breaks', 'flexible-work']
 ---
+<span data-pagefind-meta="clause:Clause 60" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer breastfeeding lactation room facilities nursing mothers

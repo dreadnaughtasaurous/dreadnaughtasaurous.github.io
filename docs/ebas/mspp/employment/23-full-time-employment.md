@@ -3,6 +3,8 @@ title: '23. Full Time Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 23" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist full-time employment 38 hours ordinary hours permanent

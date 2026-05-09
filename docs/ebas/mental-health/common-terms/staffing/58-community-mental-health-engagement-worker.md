@@ -3,6 +3,8 @@ title: '58. Community Mental Health Engagement Worker'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 58" style="display:none"></span>
+<span data-pagefind-meta="section:Staffing" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support community mental health engagement worker CMHEW

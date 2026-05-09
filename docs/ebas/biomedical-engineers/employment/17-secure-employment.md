@@ -3,6 +3,8 @@ title: '17. Secure Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
+<span data-pagefind-meta="section:Employment" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer secure employment job security permanent ongoing

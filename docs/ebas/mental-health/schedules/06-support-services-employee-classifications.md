@@ -3,6 +3,8 @@ title: 'Schedule 6 – Support Services Employee Classifications: Mental Health 
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'classifications']
 ---
+<span data-pagefind-meta="clause:Clause 06" style="display:none"></span>
+<span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support support services employee classifications hotel services

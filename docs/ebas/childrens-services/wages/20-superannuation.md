@@ -3,6 +3,8 @@ title: '20. Superannuation'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'wages', 'superannuation', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
+<span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's superannuation super employer contribution SGC retirement

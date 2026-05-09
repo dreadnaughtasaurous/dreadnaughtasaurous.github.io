@@ -3,6 +3,8 @@ title: '89. Supervision And Management'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 89" style="display:none"></span>
+<span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist supervision management oversight responsibility

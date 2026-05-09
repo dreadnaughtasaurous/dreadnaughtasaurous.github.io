@@ -3,6 +3,8 @@ title: '8A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'rosters', 'consultation']
 ---
+<span data-pagefind-meta="clause:Clause 8A" style="display:none"></span>
+<span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's consultation changes rosters hours work

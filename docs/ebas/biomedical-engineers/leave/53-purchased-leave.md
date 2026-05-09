@@ -3,6 +3,8 @@ title: '53. Purchased Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'wages', 'employment']
 ---
+<span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer purchased leave buy additional leave extra annual leave

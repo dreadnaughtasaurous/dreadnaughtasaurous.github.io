@@ -3,6 +3,8 @@ title: 'Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'pay-rates', 'wages', 'allowances', 'remuneration', 'salary', 'rates', 'deductions', 'penalty-rates', 'hourly-rates', 'classification', 'salary-circular', 'circular 875']
 ---
+<span data-pagefind-meta="clause:Clause 2" style="display:none"></span>
+<span data-pagefind-meta="section:Appendices" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 remuneration allowances deductions doctors in training

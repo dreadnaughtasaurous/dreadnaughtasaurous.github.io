@@ -3,6 +3,8 @@ title: '68. Long Service Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'long-service-leave', 'employment', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 68" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 long service leave LSL entitlement years of service

@@ -3,6 +3,8 @@ title: 'Schedule 1 - List Of Employers: Mental Health EBA '
 eba: 'Mental Health Services 2024-2028'
 topics: ['appendices', 'coverage']
 ---
+<span data-pagefind-meta="clause:Clause 01" style="display:none"></span>
+<span data-pagefind-meta="section:Schedules" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support list employers health services covered

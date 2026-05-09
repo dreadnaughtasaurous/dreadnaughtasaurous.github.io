@@ -3,6 +3,8 @@ title: '53. Recall - Return To Workplace'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'overtime', 'rosters', 'on-call']
 ---
+<span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
+<span data-pagefind-meta="section:Hours of Work" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist recall return to workplace callback callout

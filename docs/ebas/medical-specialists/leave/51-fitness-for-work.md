@@ -3,6 +3,8 @@ title: '51. Fitness For Work'
 eba: 'Medical Specialists 2022-2026'
 topics: ['ohs']
 ---
+<span data-pagefind-meta="clause:Clause 51" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist fitness for work impairment drug alcohol assessment

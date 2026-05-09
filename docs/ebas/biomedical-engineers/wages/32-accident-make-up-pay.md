@@ -3,6 +3,8 @@ title: '32. Accident Make Up Pay'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'wages', 'accident-pay', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
+<span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer accident make-up pay workers compensation injury supplement

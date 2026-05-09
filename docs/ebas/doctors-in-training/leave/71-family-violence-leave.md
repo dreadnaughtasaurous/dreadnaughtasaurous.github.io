@@ -3,6 +3,8 @@ title: '71. Family Violence Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'family-violence-leave', 'preliminary']
 ---
+<span data-pagefind-meta="clause:Clause 71" style="display:none"></span>
+<span data-pagefind-meta="section:Leave" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 family violence leave domestic violence safety leave
