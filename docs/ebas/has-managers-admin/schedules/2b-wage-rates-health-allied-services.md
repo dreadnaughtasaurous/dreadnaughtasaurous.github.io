@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Schedule 2B - Wage Rates (Health & Allied Services): Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular']
@@ -7,6 +7,8 @@ topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', '
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer wage rates health allied services pay
 </div>

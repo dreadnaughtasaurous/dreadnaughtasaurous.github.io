@@ -1,4 +1,4 @@
----
+﻿---
 title: '56. Family Violence Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'family-violence-leave', 'preliminary']
@@ -7,6 +7,8 @@ topics: ['leave', 'family-violence-leave', 'preliminary']
 <span data-pagefind-meta="section:Leave" style="display:none"></span>
 <span data-pagefind-filter="eba:Biomedical Engineers 2025-2028" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer family violence leave domestic violence safety leave
 </div>

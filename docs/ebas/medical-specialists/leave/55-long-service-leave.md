@@ -1,4 +1,4 @@
----
+﻿---
 title: '55. Long Service Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'long-service-leave', 'employment', 'preliminary']
@@ -7,6 +7,8 @@ topics: ['leave', 'long-service-leave', 'employment', 'preliminary']
 <span data-pagefind-meta="section:Leave" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Specialists 2022-2026" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist long service leave LSL entitlement years of service
 </div>

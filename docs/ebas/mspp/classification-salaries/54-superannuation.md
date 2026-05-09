@@ -1,4 +1,4 @@
----
+﻿---
 title: '54. Superannuation'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'superannuation']
@@ -7,6 +7,8 @@ topics: ['wages', 'superannuation']
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="7" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist superannuation super employer contribution SGC retirement
 </div>

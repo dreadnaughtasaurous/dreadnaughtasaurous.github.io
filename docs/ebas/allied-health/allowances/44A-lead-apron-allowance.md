@@ -1,4 +1,4 @@
----
+﻿---
 title: '44A. Lead Apron Allowance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'shift-work', 'allowances']
@@ -7,6 +7,8 @@ topics: ['hours', 'shift-work', 'allowances']
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>
 <span data-pagefind-filter="eba:Allied Health Professionals 2021-2026" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist lead apron allowance radiation protection X-ray payment
 </div>

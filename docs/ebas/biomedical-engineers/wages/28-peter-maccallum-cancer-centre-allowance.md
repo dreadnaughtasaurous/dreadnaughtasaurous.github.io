@@ -1,4 +1,4 @@
----
+﻿---
 title: '28. Peter Maccallum Cancer Centre Allowance'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances', 'employment']
@@ -7,6 +7,8 @@ topics: ['allowances', 'employment']
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>
 <span data-pagefind-filter="eba:Biomedical Engineers 2025-2028" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer Peter MacCallum Cancer Centre allowance oncology payment
 </div>

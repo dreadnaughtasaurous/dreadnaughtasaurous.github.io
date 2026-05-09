@@ -1,9 +1,11 @@
----
+﻿---
 title: 'Accident Pay Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'accident-pay']
 ---
 
+<div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist accident pay make-up pay compensation allowances
 </div>

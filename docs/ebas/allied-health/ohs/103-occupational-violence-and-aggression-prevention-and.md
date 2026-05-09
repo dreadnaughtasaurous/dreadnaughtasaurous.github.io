@@ -1,4 +1,4 @@
----
+﻿---
 title: '103. Occupational Violence & Aggression Prevention and Management'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs', 'preliminary']
@@ -7,6 +7,8 @@ topics: ['ohs', 'preliminary']
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>
 <span data-pagefind-filter="eba:Allied Health Professionals 2021-2026" style="display:none"></span>
 
+<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
+</div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist occupational violence aggression prevention OVA
 </div>
