@@ -1,8 +1,12 @@
----
+﻿---
 title: '17. Full Time Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'employment', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 full-time employment 38 hours ordinary hours permanent
+</div>
 
 # 17. Full Time Employment
 

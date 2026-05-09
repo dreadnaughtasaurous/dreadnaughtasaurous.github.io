@@ -1,8 +1,12 @@
----
+﻿---
 title: '72. Study Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'study-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist study leave education exam tertiary course leave
+</div>
 
 # 72. Study Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Biomedical Engineers'
 eba: 'biomedical-engineers.md'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer index overview contents agreement title arrangement preliminary
+</div>
 
 # Biomedical Engineers
 

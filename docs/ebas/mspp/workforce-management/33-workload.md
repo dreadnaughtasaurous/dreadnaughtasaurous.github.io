@@ -1,8 +1,12 @@
----
+﻿---
 title: '33. Workload'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist workload safe staffing management review
+</div>
 
 # 33. Workload
 

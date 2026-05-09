@@ -1,8 +1,12 @@
----
+﻿---
 title: '5. Date And Period Of Operation'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 commencement date period of operation start date expiry
+</div>
 
 # 5. Date And Period Of Operation
 

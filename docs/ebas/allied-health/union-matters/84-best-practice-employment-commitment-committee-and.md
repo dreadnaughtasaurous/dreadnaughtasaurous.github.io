@@ -1,8 +1,12 @@
----
+﻿---
 title: '84. Best Practice Employment Commitment Committee And Classification Review'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist best practice employment committee
+</div>
 
 # 84. Best Practice Employment Commitment Committee And Classification Review
 

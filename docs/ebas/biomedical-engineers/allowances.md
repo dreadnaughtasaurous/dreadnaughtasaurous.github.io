@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Allowances'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer allowance allowances payment reimbursement additional pay entitlement
+</div>
 
 # Allowances
 

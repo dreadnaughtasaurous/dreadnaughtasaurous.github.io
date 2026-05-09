@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 1 - List Of Employers: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'coverage']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer list employers health services covered
+</div>
 
 # Appendix 1 - List Of Employers: Biomedical Engineers EBA
 

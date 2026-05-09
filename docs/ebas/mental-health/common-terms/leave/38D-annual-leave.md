@@ -1,8 +1,12 @@
----
+﻿---
 title: '38D. Annual Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'annual-leave', 'hours', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support annual leave holidays recreation leave four weeks
+</div>
 
 # 38D. Annual Leave
 

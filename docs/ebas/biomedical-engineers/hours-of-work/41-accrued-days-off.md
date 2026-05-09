@@ -1,8 +1,12 @@
----
+﻿---
 title: '41. Accrued Days Off'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'rosters', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer accrued days off ADO 38-hour week accumulation day off
+</div>
 
 # 41. Accrued Days Off
 

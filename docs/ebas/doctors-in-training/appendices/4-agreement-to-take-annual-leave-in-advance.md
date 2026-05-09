@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 4 – Agreement to Take Annual Leave in Advance: Doctors in Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 agreement annual leave in advance form template
+</div>
 
 # Appendix 4 – Agreement to Take Annual Leave in Advance: Doctors in Training EBA
 

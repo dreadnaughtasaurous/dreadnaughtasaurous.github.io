@@ -1,8 +1,12 @@
----
+﻿---
 title: '136. Professional Development Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support professional development leave conference education CPD
+</div>
 
 # 136. Professional Development Leave
 

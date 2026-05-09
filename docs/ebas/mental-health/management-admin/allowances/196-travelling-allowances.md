@@ -1,8 +1,12 @@
----
+﻿---
 title: '196. Travelling Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'vehicle']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support travelling allowances travel reimbursement vehicle
+</div>
 
 # 196. Travelling Allowances
 

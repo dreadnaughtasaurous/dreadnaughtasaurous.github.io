@@ -1,8 +1,12 @@
----
+﻿---
 title: '23. Termination Of Employment Notice Of Termination'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'termination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist termination employment notice period dismissal
+</div>
 
 # 23. Termination Of Employment Notice Of Termination
 

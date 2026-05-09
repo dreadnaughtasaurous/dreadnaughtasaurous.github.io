@@ -1,8 +1,12 @@
----
+﻿---
 title: '24. Redundancy And Associated Entitlements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer redundancy retrenchment redundancy pay severance entitlements
+</div>
 
 # 24. Redundancy And Associated Entitlements
 

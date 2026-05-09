@@ -1,8 +1,12 @@
----
+﻿---
 title: '15. Performance Management'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['discipline']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer performance management review appraisal improvement plan
+</div>
 
 # 15. Performance Management
 

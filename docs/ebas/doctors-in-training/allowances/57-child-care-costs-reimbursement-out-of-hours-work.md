@@ -1,8 +1,12 @@
----
+﻿---
 title: '57. Child Care Costs Reimbursement Out Of Hours Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'overtime', 'rosters', 'on-call']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 child care costs reimbursement out of hours overtime
+</div>
 
 # 57. Child Care Costs Reimbursement Out Of Hours Work
 

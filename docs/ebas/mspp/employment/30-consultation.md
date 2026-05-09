@@ -1,8 +1,12 @@
----
+﻿---
 title: '30. Consultation'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist consultation change major workplace change staff consultation
+</div>
 
 # 30. Consultation
 

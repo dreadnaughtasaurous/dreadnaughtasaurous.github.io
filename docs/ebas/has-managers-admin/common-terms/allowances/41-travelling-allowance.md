@@ -1,8 +1,12 @@
----
+﻿---
 title: '41. Travelling Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer travelling allowance travel reimbursement vehicle private car
+</div>
 
 # 41. Travelling Allowance
 

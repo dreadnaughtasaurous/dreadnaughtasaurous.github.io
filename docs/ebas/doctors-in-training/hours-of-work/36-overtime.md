@@ -1,8 +1,12 @@
----
+﻿---
 title: '36. Overtime'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'overtime', 'rosters', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 overtime additional hours penalty double time time-and-a-half
+</div>
 
 # 36. Overtime
 

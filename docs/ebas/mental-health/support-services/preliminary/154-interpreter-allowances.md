@@ -1,8 +1,12 @@
----
+﻿---
 title: '154. Interpreter Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support interpreter allowance language translation bilingual payment
+</div>
 
 # 154. Interpreter Allowances
 

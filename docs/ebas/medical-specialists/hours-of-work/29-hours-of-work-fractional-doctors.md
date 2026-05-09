@@ -1,8 +1,12 @@
----
+﻿---
 title: '29. Hours Of Work Fractional Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist hours of work fractional doctors part time working hours
+</div>
 
 # 29. Hours Of Work Fractional Doctors
 

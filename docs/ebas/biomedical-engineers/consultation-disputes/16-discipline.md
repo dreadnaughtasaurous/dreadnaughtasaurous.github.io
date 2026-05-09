@@ -1,8 +1,12 @@
----
+﻿---
 title: '16. Discipline'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['discipline', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer discipline disciplinary process conduct formal
+</div>
 
 # 16. Discipline
 

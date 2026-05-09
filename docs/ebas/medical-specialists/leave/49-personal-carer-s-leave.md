@@ -1,8 +1,12 @@
----
+﻿---
 title: '49. Personal/Carer''s Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'personal-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist personal carer leave sick leave illness caring family
+</div>
 
 # 49. Personal/Carer's Leave
 

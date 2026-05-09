@@ -1,8 +1,12 @@
----
+﻿---
 title: '101. Designated Work Groups'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['consultation', 'union-matters', 'ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist designated work groups DWG OHS representative
+</div>
 
 # 101. Designated Work Groups
 

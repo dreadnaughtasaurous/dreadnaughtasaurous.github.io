@@ -1,8 +1,12 @@
----
+﻿---
 title: '2. Index'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'rosters', 'consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer index overview contents agreement title arrangement preliminary
+</div>
 
 # 2. Index
 

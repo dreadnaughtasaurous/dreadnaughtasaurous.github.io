@@ -1,8 +1,12 @@
----
+﻿---
 title: '151. Supported Wage System For Employees With A Disability'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support supported wage system disability employment
+</div>
 
 # 151. Supported Wage System For Employees With A Disability
 

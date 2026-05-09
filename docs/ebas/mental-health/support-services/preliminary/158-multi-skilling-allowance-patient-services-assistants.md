@@ -1,8 +1,12 @@
----
+﻿---
 title: '158. Multi Skilling Allowance Patient Services Assistants'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'allowances', 'wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support multi-skilling allowance patient services assistants
+</div>
 
 # 158. Multi Skilling Allowance Patient Services Assistants
 

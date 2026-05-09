@@ -1,8 +1,12 @@
----
+﻿---
 title: '47. Recall'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'rosters', 'on-call']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
+</div>
 
 # 47. Recall
 

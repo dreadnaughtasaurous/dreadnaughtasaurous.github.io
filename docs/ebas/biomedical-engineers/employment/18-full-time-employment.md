@@ -1,8 +1,12 @@
----
+﻿---
 title: '18. Full Time Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer full-time employment 38 hours ordinary hours permanent
+</div>
 
 # 18. Full Time Employment
 

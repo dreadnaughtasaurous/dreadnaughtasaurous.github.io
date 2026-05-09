@@ -1,8 +1,12 @@
----
+﻿---
 title: '156. Nauseous Work Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support nauseous work allowance unpleasant duties dirty work payment
+</div>
 
 # 156. Nauseous Work Allowance
 

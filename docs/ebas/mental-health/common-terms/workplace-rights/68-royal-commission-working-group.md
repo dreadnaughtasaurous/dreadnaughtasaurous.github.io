@@ -1,8 +1,12 @@
----
+﻿---
 title: '68. Royal Commission Working Group'
 eba: 'Mental Health Services 2024-2028'
 topics: ['consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support Royal Commission mental health working group
+</div>
 
 # 68. Royal Commission Working Group
 

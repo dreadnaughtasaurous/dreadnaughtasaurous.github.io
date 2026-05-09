@@ -1,8 +1,12 @@
----
+﻿---
 title: '118. Higher Education Recognition Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'employment', 'preliminary', 'staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support higher education recognition allowance tertiary qualification HERA
+</div>
 
 # 118. Higher Education Recognition Allowance
 

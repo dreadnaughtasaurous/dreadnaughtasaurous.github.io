@@ -1,8 +1,12 @@
----
+﻿---
 title: '56. Public Holidays'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist public holidays holiday penalty rate double time Christmas Easter
+</div>
 
 # 56. Public Holidays
 

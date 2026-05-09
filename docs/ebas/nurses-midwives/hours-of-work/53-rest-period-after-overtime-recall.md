@@ -1,8 +1,12 @@
----
+﻿---
 title: '53. Rest Period After Overtime Recall'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'overtime', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant rest period after overtime recall ten hour break
+</div>
 
 # 53. Rest Period After Overtime Recall
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '44. Compassionate Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support compassionate leave bereavement death family grief
+</div>
 
 # 44. Compassionate Leave
 

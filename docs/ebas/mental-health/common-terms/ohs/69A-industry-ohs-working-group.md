@@ -1,8 +1,12 @@
----
+﻿---
 title: '69A. Industry Ohs Working Group'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs', 'workers-comp']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support industry OHS working group committee
+</div>
 
 # 69A. Industry Ohs Working Group
 

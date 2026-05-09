@@ -1,8 +1,12 @@
----
+﻿---
 title: '108. Registered Psychiatric Nursing Classifications'
 eba: 'Mental Health Services 2024-2028'
 topics: ['classifications', 'education']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support registered psychiatric nursing RPN classifications
+</div>
 
 # 108. Registered Psychiatric Nursing Classifications
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '9. Consultation'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist consultation change major workplace change staff consultation
+</div>
 
 # 9. Consultation
 

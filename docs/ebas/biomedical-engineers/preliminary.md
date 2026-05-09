@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Preliminary'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer preliminary commencement coverage application scope parties definitions arrangement
+</div>
 
 # Preliminary
 

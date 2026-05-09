@@ -1,8 +1,12 @@
----
+﻿---
 title: '128. Overtime'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support overtime additional hours penalty double time time-and-a-half
+</div>
 
 # 128. Overtime
 

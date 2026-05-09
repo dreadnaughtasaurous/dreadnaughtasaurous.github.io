@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 2 - Salaries and Allowances: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'pay-rates', 'wages', 'allowances', 'remuneration', 'rates', 'shift-allowances', 'on-call', 'qualification-allowance', 'salary-circular', 'circular 880']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support salaries allowances pay rates
+</div>
 
 # Schedule 2 - Salaries and Allowances: Mental Health EBA
 

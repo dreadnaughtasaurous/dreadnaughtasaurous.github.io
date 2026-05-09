@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Nurses Midwives'
 eba: 'nurses-midwives.md'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant index overview contents agreement title arrangement preliminary
+</div>
 
 # Nurses and Midwives
 

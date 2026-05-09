@@ -1,8 +1,12 @@
----
+﻿---
 title: '104A. Prevention Of Gendered Violence Including Sexual Harassment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs', 'gendered-violence']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant prevention gendered violence sexual harassment
+</div>
 
 # 104A. Prevention Of Gendered Violence Including Sexual Harassment
 

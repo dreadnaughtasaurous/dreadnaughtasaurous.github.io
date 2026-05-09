@@ -1,8 +1,12 @@
----
+﻿---
 title: '22. Individual Flexibility Arrangements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['education', 'professional-development', 'leave', 'hours', 'wages', 'higher-duties']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist individual flexibility arrangements IFA vary terms
+</div>
 
 # 22. Individual Flexibility Arrangements
 

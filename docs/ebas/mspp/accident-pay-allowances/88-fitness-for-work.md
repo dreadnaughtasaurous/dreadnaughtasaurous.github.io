@@ -1,8 +1,12 @@
----
+﻿---
 title: '88. Fitness For Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist fitness for work impairment drug alcohol assessment
+</div>
 
 # 88. Fitness For Work
 

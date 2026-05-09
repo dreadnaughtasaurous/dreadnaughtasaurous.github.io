@@ -1,8 +1,12 @@
----
+﻿---
 title: '28. Salary And Allowances Increases'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer salary increase allowances increase pay rise
+</div>
 
 # 28. Salary And Allowances Increases
 

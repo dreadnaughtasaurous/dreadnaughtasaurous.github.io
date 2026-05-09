@@ -1,8 +1,12 @@
----
+﻿---
 title: '10. Best Practice Employment Commitment'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer best practice employment commitment industrial relations union
+</div>
 
 # 10. Best Practice Employment Commitment
 

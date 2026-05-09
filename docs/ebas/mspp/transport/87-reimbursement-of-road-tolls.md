@@ -1,8 +1,12 @@
----
+﻿---
 title: '87. Reimbursement Of Road Tolls'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'travel']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist reimbursement road tolls toll costs travel expenses
+</div>
 
 # 87. Reimbursement Of Road Tolls
 

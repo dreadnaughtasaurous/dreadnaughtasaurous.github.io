@@ -1,8 +1,12 @@
----
+﻿---
 title: '14A. Alternative Dispute Resolution Procedure'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['disputes', 'classification']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer alternative dispute resolution ADR mediation
+</div>
 
 # 14A. Alternative Dispute Resolution Procedure
 

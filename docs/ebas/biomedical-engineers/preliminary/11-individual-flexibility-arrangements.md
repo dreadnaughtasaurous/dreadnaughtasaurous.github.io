@@ -1,8 +1,12 @@
----
+﻿---
 title: '11. Individual Flexibility Arrangements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'annual-leave', 'hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer individual flexibility arrangements IFA vary terms
+</div>
 
 # 11. Individual Flexibility Arrangements
 

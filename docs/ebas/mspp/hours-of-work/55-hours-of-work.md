@@ -1,8 +1,12 @@
----
+﻿---
 title: '55. Hours Of Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'shift-work', 'employment', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist hours of work ordinary hours roster overtime breaks shifts
+</div>
 
 # 55. Hours Of Work
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '121A. Change Of Ward Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'rosters', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support change of ward allowance transfer payment
+</div>
 
 # 121A. Change Of Ward Allowance
 

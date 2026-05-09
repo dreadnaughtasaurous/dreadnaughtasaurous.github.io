@@ -1,8 +1,12 @@
----
+﻿---
 title: '99B. Examination Leave - RPN and PEN'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary', 'education']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
+</div>
 
 # 99B. Examination Leave - RPN and PEN
 

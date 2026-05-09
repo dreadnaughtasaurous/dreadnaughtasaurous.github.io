@@ -1,8 +1,12 @@
----
+﻿---
 title: '131. Ten Hour Break'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'breaks']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support ten hour break 10 hour break fatigue rest period overtime
+</div>
 
 # 131. Ten Hour Break
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '38G. Reproductive Health Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'reproductive-health-leave', 'preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support reproductive health leave fertility treatment IVF reproductive
+</div>
 
 # 38G. Reproductive Health Leave
 

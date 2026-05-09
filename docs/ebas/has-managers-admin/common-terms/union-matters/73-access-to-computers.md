@@ -1,8 +1,12 @@
----
+﻿---
 title: '73. Access To Computers'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer access computers union representatives communication
+</div>
 
 # 73. Access To Computers
 

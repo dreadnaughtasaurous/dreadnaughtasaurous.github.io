@@ -1,8 +1,12 @@
----
+﻿---
 title: '49. Overtime'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant overtime additional hours penalty double time time-and-a-half
+</div>
 
 # 49. Overtime
 

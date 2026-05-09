@@ -1,8 +1,12 @@
----
+﻿---
 title: '31. Notice Of Termination'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'termination', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist notice of termination dismissal resignation end employment
+</div>
 
 # 31. Notice Of Termination
 

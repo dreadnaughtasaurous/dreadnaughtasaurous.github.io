@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 6 – Template Certificate of Service: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['appendices', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant template certificate of service document form
+</div>
 
 # Appendix 6 – Template Certificate of Service: Nurses and Midwives EBA
 

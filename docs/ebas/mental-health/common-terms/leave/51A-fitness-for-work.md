@@ -1,8 +1,12 @@
----
+﻿---
 title: '51A. Fitness For Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support fitness for work impairment drug alcohol assessment
+</div>
 
 # 51A. Fitness For Work
 

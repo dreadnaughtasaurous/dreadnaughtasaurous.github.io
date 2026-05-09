@@ -1,8 +1,12 @@
----
+﻿---
 title: '13. Dispute Resolution Procedure'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant dispute resolution procedure grievance formal complaint steps
+</div>
 
 # 13. Dispute Resolution Procedure
 

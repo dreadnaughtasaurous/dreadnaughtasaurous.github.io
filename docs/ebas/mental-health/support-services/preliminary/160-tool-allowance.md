@@ -1,8 +1,12 @@
----
+﻿---
 title: '160. Tool Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support tool allowance tools equipment reimbursement
+</div>
 
 # 160. Tool Allowance
 

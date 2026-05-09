@@ -1,8 +1,12 @@
----
+﻿---
 title: '65. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer voluntary emergency management leave SES CFA MFB bushfire
+</div>
 
 # 65. Leave To Engage In Voluntary Emergency Management Activities
 

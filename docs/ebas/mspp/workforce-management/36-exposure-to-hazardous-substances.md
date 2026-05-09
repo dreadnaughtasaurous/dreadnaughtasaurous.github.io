@@ -1,8 +1,12 @@
----
+﻿---
 title: '36. Exposure To Hazardous Substances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary', 'ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist exposure hazardous substances chemicals safety protection
+</div>
 
 # 36. Exposure To Hazardous Substances
 

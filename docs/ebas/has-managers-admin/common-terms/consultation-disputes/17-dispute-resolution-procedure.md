@@ -1,8 +1,12 @@
----
+﻿---
 title: '17. Dispute Resolution Procedure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer dispute resolution procedure grievance formal complaint steps
+</div>
 
 # 17. Dispute Resolution Procedure
 

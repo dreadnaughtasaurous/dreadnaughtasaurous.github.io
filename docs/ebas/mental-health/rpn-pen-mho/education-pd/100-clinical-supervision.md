@@ -1,8 +1,12 @@
----
+﻿---
 title: '100. Clinical Supervision'
 eba: 'Mental Health Services 2024-2028'
 topics: ['education', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support clinical supervision supervisor supervision requirements
+</div>
 
 # 100. Clinical Supervision
 

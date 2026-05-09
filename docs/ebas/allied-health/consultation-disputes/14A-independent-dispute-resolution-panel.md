@@ -1,8 +1,12 @@
----
+﻿---
 title: '14A. Independent Dispute Resolution Panel'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['disputes', 'union-matters', 'staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist independent dispute resolution panel IDRP arbitration
+</div>
 
 # 14A. Independent Dispute Resolution Panel
 

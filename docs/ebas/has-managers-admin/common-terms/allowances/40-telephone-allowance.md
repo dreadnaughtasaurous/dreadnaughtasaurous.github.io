@@ -1,8 +1,12 @@
----
+﻿---
 title: '40. Telephone Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'on-call', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer telephone allowance phone reimbursement mobile phone cost
+</div>
 
 # 40. Telephone Allowance
 

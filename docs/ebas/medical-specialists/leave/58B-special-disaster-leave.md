@@ -1,8 +1,12 @@
----
+﻿---
 title: '58B. Special Disaster Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'personal-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist special disaster leave emergency natural disaster bushfire flood
+</div>
 
 # 58B. Special Disaster Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '80. Classification And Reclassification'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer classification reclassification grade change progression
+</div>
 
 # 80. Classification And Reclassification
 

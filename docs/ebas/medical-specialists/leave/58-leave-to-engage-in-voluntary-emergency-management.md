@@ -1,8 +1,12 @@
----
+﻿---
 title: '58. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist voluntary emergency management leave SES CFA MFB bushfire
+</div>
 
 # 58. Leave To Engage In Voluntary Emergency Management Activities
 

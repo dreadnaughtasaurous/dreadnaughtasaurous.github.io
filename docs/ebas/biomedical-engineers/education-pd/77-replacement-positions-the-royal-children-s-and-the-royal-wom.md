@@ -1,8 +1,12 @@
----
+﻿---
 title: "77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only)"
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['union-matters', 'flexible-work', 'preliminary', 'staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
+</div>
 
 # 77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only)
 

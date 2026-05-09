@@ -1,8 +1,12 @@
----
+﻿---
 title: '57. Pre Natal Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer pre-natal leave antenatal prenatal pregnancy appointment
+</div>
 
 # 57. Pre Natal Leave
 

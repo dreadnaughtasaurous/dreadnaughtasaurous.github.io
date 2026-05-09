@@ -1,8 +1,12 @@
----
+﻿---
 title: '61. Crisis Team Workload Management System Ctwms'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'definitions', 'staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support crisis team workload management system CTWMS
+</div>
 
 # 61. Crisis Team Workload Management System Ctwms
 

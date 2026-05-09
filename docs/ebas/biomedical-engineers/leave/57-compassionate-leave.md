@@ -1,8 +1,12 @@
----
+﻿---
 title: '57. Compassionate Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'compassionate-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer compassionate leave bereavement death family grief
+</div>
 
 # 57. Compassionate Leave
 

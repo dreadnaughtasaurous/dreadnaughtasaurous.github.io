@@ -1,8 +1,12 @@
----
+﻿---
 title: '103. Occupational Violence & Aggression Prevention and Management'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['ohs', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant occupational violence aggression prevention OVA
+</div>
 
 # 103. Occupational Violence and Aggression Prevention and Management
 

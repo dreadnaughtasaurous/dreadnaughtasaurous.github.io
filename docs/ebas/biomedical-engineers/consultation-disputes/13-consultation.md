@@ -1,8 +1,12 @@
----
+﻿---
 title: '13. Consultation'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer consultation change major workplace change staff consultation
+</div>
 
 # 13. Consultation
 

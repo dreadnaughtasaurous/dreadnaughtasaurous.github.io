@@ -1,8 +1,12 @@
----
+﻿---
 title: '39. Meal Allowances'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime', 'shift-work', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer meal allowances food payment overtime meal reimbursement
+</div>
 
 # 39. Meal Allowances
 

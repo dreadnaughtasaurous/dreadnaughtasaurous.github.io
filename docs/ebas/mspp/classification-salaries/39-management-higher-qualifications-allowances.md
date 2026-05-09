@@ -1,8 +1,12 @@
----
+﻿---
 title: '39. Management Higher Qualifications Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist management higher qualifications allowances managerial qualification payment
+</div>
 
 # 39. Management Higher Qualifications Allowances
 

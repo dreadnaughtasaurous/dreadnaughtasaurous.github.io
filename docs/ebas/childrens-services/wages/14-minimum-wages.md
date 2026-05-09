@@ -1,8 +1,12 @@
----
+﻿---
 title: '14. Minimum Wages'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'overtime', 'wages', 'classifications', 'employment', 'disputes', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's minimum wages base pay rates
+</div>
 
 # 14. Minimum wages · Children's Services Award
 

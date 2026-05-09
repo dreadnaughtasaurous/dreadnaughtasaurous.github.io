@@ -1,8 +1,12 @@
----
+﻿---
 title: '16. Educational Incentive Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'employment', 'education', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer educational incentive allowance education qualification payment
+</div>
 
 # 16. Educational Incentive Allowance
 

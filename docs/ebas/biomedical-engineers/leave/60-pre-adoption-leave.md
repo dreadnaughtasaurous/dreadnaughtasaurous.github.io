@@ -1,8 +1,12 @@
----
+﻿---
 title: '60. Pre Adoption Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'parental-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer pre-adoption leave adoption unpaid leave
+</div>
 
 # 60. Pre Adoption Leave
 

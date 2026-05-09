@@ -1,8 +1,12 @@
----
+﻿---
 title: '59. Pre Natal Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'parental-leave', 'hours', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer pre-natal leave antenatal prenatal pregnancy appointment
+</div>
 
 # 59. Pre Natal Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '18A. Central Building Consultative Committee'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'parental-leave', 'consultation', 'ohs', 'workers-comp']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
+</div>
 
 # 18A. Central Building Consultative Committee
 

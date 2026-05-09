@@ -1,8 +1,12 @@
----
+﻿---
 title: '11. Transfer Of Business'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist transfer of business transmission sale change ownership
+</div>
 
 # 11. Transfer Of Business
 

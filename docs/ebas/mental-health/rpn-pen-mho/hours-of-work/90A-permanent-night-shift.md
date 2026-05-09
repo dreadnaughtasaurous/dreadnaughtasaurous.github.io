@@ -1,8 +1,12 @@
----
+﻿---
 title: '90A. Permanent Night Shift'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support permanent night shift night duty rostering
+</div>
 
 # 90A. Permanent Night Shift
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '40. Hours Of Work'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer hours of work ordinary hours roster overtime breaks shifts
+</div>
 
 # 40. Hours Of Work
 

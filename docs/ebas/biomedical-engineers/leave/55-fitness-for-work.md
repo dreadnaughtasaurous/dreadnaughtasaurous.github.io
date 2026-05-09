@@ -1,8 +1,12 @@
----
+﻿---
 title: '55. Fitness For Work'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer fitness for work impairment drug alcohol assessment
+</div>
 
 # 55. Fitness For Work
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '67. Long Service Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'annual-leave', 'long-service-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist long service leave LSL entitlement years of service
+</div>
 
 # 67. Long Service Leave
 

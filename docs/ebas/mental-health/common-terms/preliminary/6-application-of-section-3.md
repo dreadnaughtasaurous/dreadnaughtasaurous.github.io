@@ -1,8 +1,12 @@
----
+﻿---
 title: '6. Application Of Section 3'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support application section 3 scope
+</div>
 
 # 6. Application Of Section 3
 

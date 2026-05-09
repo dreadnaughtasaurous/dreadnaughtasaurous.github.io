@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'staffing', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist SHPA ratios pharmacist staffing levels pharmacy workforce
+</div>
 
 # Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels: Medical Scientists, Pharm & Psych EBA
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '50. Overlapping Pay Points Between Grades'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist overlapping pay points between grades salary progression
+</div>
 
 # 50. Overlapping Pay Points Between Grades
 

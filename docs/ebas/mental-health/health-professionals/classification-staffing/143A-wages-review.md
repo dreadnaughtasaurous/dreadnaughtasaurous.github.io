@@ -1,8 +1,12 @@
----
+﻿---
 title: '143A. Wages Review'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages', 'preliminary', 'discrimination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support wages review pay review adjustment
+</div>
 
 # 143A. Wages Review
 

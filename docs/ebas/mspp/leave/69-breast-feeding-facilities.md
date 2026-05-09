@@ -1,8 +1,12 @@
----
+﻿---
 title: '69. Breast Feeding Facilities'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'breaks', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist breastfeeding facilities lactation room nursing mothers
+</div>
 
 # 69. Breast Feeding Facilities
 

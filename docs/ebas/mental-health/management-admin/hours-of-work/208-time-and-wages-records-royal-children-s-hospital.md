@@ -1,8 +1,12 @@
----
+﻿---
 title: '208. Time And Wages Records Royal Children S Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
+</div>
 
 # 208. Time And Wages Records Royal Children S Hospital
 

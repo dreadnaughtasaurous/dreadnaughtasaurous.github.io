@@ -1,8 +1,12 @@
----
+﻿---
 title: '93. Ten Hour Break Between Overtime Recall'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'shift-work', 'breaks']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support ten hour break between overtime recall fatigue
+</div>
 
 # 93. Ten Hour Break Between Overtime Recall
 

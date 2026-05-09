@@ -1,8 +1,12 @@
----
+﻿---
 title: '19. Consultation About Changes To Rosters Or Hours Or Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'rosters', 'consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support consultation changes rosters hours work
+</div>
 
 # 19. Consultation About Changes To Rosters Or Hours Or Work
 

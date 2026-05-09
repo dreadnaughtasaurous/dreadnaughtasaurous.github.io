@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Appendix 4 - Certificate of Service: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'employment', 'forms', 'leave', 'long-service-leave', 'personal-leave']
@@ -6,6 +6,10 @@ rewrites:
   - from: ebas/biomedical-engineers/appendices/4-classification-definitions
     to: ebas/biomedical-engineers/appendices/4-certificate-of-service
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer certificate of service reference employment record
+</div>
 
 # Appendix 4 - Certificate of Service: Biomedical Engineers EBA
 

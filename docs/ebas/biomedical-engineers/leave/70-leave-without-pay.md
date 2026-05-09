@@ -1,8 +1,12 @@
----
+﻿---
 title: '70. Leave Without Pay'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer leave without pay unpaid absence LWOP
+</div>
 
 # 70. Leave Without Pay
 

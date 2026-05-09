@@ -1,8 +1,12 @@
----
+﻿---
 title: '52. Cashing Out Of Annual Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'annual-leave', 'wages', 'superannuation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer cashing out annual leave payment instead of leave
+</div>
 
 # 52. Cashing Out Of Annual Leave
 

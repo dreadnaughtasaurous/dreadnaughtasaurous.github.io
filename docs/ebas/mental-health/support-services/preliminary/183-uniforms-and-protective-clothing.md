@@ -1,8 +1,12 @@
----
+﻿---
 title: '183. Uniforms And Protective Clothing'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'personal-leave', 'long-service-leave', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support uniforms protective clothing laundry allowance
+</div>
 
 # 183. Uniforms And Protective Clothing
 

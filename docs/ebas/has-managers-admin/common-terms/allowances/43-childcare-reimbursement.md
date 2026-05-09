@@ -1,8 +1,12 @@
----
+﻿---
 title: '43. Childcare Reimbursement'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime', 'on-call', 'allowances', 'childcare']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer childcare reimbursement child care costs overtime out-of-hours
+</div>
 
 # 43. Childcare Reimbursement
 

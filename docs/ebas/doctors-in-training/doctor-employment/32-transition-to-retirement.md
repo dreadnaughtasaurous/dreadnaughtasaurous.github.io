@@ -1,8 +1,12 @@
----
+﻿---
 title: '32. Transition To Retirement'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'flexible-work', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 transition to retirement flexible work phased retirement
+</div>
 
 # 32. Transition To Retirement
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '9. No Extra Claims'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['union-matters', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer no extra claims industrial peace commitment
+</div>
 
 # 9. No Extra Claims
 

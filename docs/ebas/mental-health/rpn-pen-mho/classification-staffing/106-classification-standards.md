@@ -1,8 +1,12 @@
----
+﻿---
 title: '106. Classification Standards'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'definitions', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support classification standards criteria assessment grade
+</div>
 
 # 106. Classification Standards
 

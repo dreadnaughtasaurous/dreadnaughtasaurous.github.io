@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 4 – Template Certificate of Service: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist template certificate of service document form
+</div>
 
 # Appendix 4 – Template Certificate of Service: Medical Specialists EBA
 

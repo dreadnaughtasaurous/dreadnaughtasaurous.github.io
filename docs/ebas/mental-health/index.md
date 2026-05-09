@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Mental Health'
 eba: 'mental-health.md'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support index overview contents agreement title arrangement preliminary
+</div>
 
 # Mental Health
 

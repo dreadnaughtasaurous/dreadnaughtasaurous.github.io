@@ -1,8 +1,12 @@
----
+﻿---
 title: '26. Overtime In Lieu'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer overtime in lieu time off in lieu TOIL compensatory leave
+</div>
 
 # 26. Overtime In Lieu
 

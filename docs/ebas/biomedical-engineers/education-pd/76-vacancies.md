@@ -1,8 +1,12 @@
----
+﻿---
 title: '76. Vacancies'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer vacancies positions advertising filling
+</div>
 
 # 76. Vacancies
 

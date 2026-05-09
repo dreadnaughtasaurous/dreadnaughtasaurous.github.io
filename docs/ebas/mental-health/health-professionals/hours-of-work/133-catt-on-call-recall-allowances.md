@@ -1,8 +1,12 @@
----
+﻿---
 title: '133. Catt On Call Recall Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'public-holidays', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support CATT on call recall allowances crisis assessment treatment team
+</div>
 
 # 133. Catt On Call Recall Allowances
 

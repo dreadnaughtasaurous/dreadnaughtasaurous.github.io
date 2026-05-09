@@ -1,8 +1,12 @@
----
+﻿---
 title: '74. Statewide Industry Panel'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['disputes', 'preliminary', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer statewide industry panel SIP union employer committee
+</div>
 
 # 74. Statewide Industry Panel
 

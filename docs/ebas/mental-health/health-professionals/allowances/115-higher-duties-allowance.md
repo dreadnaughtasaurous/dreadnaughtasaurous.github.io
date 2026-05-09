@@ -1,8 +1,12 @@
----
+﻿---
 title: '115. Higher Duties Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support higher duties allowance acting up acting position temporary promotion
+</div>
 
 # 115. Higher Duties Allowance
 

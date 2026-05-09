@@ -1,8 +1,12 @@
----
+﻿---
 title: '40. Audiologists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist audiologist audiology classification grade structure
+</div>
 
 # 40. Audiologists
 

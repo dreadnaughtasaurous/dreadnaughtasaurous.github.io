@@ -1,8 +1,12 @@
----
+﻿---
 title: '30. Fractional Allocation Fractional Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist fractional allocation fractional doctors part-time hours
+</div>
 
 # 30. Fractional Allocation Fractional Doctors
 

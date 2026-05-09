@@ -1,8 +1,12 @@
----
+﻿---
 title: '46. Overtime'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer overtime additional hours penalty double time time-and-a-half
+</div>
 
 # 46. Overtime
 

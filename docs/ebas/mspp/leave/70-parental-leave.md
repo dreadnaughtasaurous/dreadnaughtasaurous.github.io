@@ -1,8 +1,12 @@
----
+﻿---
 title: '70. Parental Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'parental-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist parental leave maternity paternity adoption birth family
+</div>
 
 # 70. Parental Leave
 

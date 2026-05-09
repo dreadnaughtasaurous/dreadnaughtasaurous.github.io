@@ -1,8 +1,12 @@
----
+﻿---
 title: '132. On Call Rostered Overtime'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'annual-leave', 'hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support on call rostered overtime recall allowance
+</div>
 
 # 132. On Call Rostered Overtime
 

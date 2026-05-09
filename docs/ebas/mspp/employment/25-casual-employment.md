@@ -1,8 +1,12 @@
----
+﻿---
 title: '25. Casual Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist casual employment irregular no guarantee of hours engagement
+</div>
 
 # 25. Casual Employment
 

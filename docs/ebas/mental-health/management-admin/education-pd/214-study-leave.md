@@ -1,8 +1,12 @@
----
+﻿---
 title: '214. Study Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'study-leave', 'preliminary', 'education']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support study leave education exam tertiary course leave
+</div>
 
 # 214. Study Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '87. Occupational Health And Safety Workplace Violence'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer occupational health safety workplace violence aggression OHS
+</div>
 
 # 87. Occupational Health And Safety Workplace Violence
 

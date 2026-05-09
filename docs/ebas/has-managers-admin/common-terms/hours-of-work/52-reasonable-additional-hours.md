@@ -1,8 +1,12 @@
----
+﻿---
 title: '52. Reasonable Additional Hours'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer reasonable additional hours extra work beyond ordinary hours
+</div>
 
 # 52. Reasonable Additional Hours
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: "54. Personal Carer's Leave"
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'personal-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer personal carer leave sick leave illness caring family
+</div>
 
 # 54. Personal Carer's Leave
 

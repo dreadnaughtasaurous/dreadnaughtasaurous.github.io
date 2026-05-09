@@ -1,8 +1,12 @@
----
+﻿---
 title: '59. Annual Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'annual-leave', 'hours', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist annual leave holidays recreation leave four weeks
+</div>
 
 # 59. Annual Leave
 

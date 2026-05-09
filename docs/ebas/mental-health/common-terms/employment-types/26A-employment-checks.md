@@ -1,8 +1,12 @@
----
+﻿---
 title: '26A. Employment Checks'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment', 'disputes', 'preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support employment checks criminal police WWCC clearance
+</div>
 
 # 26A. Employment Checks
 

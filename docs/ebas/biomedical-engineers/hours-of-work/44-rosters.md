@@ -1,8 +1,12 @@
----
+﻿---
 title: '44. Rosters'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'rosters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer rosters rostering shift schedule design rotation
+</div>
 
 # 44. Rosters
 

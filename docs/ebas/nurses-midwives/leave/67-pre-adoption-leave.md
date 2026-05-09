@@ -1,8 +1,12 @@
----
+﻿---
 title: '67. Pre Adoption Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'parental-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant pre-adoption leave adoption unpaid leave
+</div>
 
 # 67. Pre Adoption Leave
 

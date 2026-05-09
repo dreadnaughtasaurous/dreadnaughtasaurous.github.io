@@ -1,8 +1,12 @@
----
+﻿---
 title: '79. Best Practice Employment Commitment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['ohs', 'union-matters', 'flexible-work', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer best practice employment commitment industrial relations union
+</div>
 
 # 79. Best Practice Employment Commitment
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '181. Staff Appraisal'
 eba: 'Mental Health Services 2024-2028'
 topics: ['union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support staff appraisal performance review annual review
+</div>
 
 # 181. Staff Appraisal
 

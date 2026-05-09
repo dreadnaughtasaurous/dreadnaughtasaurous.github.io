@@ -1,8 +1,12 @@
----
+﻿---
 title: '61. Annual Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'annual-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist annual leave holidays recreation leave four weeks
+</div>
 
 # 61. Annual Leave
 

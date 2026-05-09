@@ -1,8 +1,12 @@
----
+﻿---
 title: '62. Casual Employment Caring Responsibilities'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant casual employment caring responsibilities leave
+</div>
 
 # 62. Casual Employment Caring Responsibilities
 

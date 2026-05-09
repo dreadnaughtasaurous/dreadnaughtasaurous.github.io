@@ -1,8 +1,12 @@
----
+﻿---
 title: '62. Breastfeeding'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'breaks', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer breastfeeding lactation room facilities nursing mothers
+</div>
 
 # 62. Breastfeeding
 

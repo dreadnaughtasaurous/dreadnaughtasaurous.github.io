@@ -1,8 +1,12 @@
----
+﻿---
 title: '83. Registered Nurses And Midwives Classification'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant registered nurses midwives classification RN grades
+</div>
 
 # 83. Registered Nurses And Midwives Classification
 

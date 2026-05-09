@@ -1,8 +1,12 @@
----
+﻿---
 title: '63. Casual Employment Caring Responsibilities'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'personal-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist casual employment caring responsibilities leave
+</div>
 
 # 63. Casual Employment Caring Responsibilities
 

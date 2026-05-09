@@ -1,8 +1,12 @@
----
+﻿---
 title: '116. Meal Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support meal allowance food payment overtime meal reimbursement
+</div>
 
 # 116. Meal Allowance
 

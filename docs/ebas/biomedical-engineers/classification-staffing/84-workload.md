@@ -1,8 +1,12 @@
----
+﻿---
 title: '84. Workload'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer workload safe staffing management review
+</div>
 
 # 84. Workload
 

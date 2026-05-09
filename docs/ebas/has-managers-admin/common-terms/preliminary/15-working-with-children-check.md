@@ -1,8 +1,12 @@
----
+﻿---
 title: '15. Working With Children Check'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['disputes', 'preliminary', 'screening']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer Working With Children Check WWCC clearance
+</div>
 
 # 15. Working With Children Check
 

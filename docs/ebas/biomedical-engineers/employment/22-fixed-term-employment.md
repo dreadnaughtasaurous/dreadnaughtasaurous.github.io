@@ -1,8 +1,12 @@
----
+﻿---
 title: '22. Fixed Term Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer fixed-term employment contract specific term project
+</div>
 
 # 22. Fixed Term Employment
 

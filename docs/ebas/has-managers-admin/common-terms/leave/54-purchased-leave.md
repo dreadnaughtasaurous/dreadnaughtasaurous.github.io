@@ -1,8 +1,12 @@
----
+﻿---
 title: '54. Purchased Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'annual-leave', 'purchased-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer purchased leave buy additional leave extra annual leave
+</div>
 
 # 54. Purchased Leave
 

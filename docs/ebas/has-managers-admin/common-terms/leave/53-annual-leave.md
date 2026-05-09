@@ -1,8 +1,12 @@
----
+﻿---
 title: '53. Annual Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'annual-leave', 'hours', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer annual leave holidays recreation leave four weeks
+</div>
 
 # 53. Annual Leave
 

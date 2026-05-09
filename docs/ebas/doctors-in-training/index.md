@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Doctors In Training'
 eba: 'doctors-in-training.md'
 topics: ['training']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 index overview contents agreement title arrangement preliminary
+</div>
 
 # Doctors In Training
 

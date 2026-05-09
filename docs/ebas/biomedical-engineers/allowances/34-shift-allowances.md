@@ -1,8 +1,12 @@
----
+﻿---
 title: '34. Shift Allowances'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'shift-work', 'rosters', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer shift allowances shift work penalty payment evening night
+</div>
 
 # 34. Shift Allowances
 

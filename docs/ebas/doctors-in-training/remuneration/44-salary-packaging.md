@@ -1,8 +1,12 @@
----
+﻿---
 title: '44. Salary Packaging'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'salary-packaging', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 salary packaging novated lease pre-tax benefits FBT packaging
+</div>
 
 # 44. Salary Packaging
 

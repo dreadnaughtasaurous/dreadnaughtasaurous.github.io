@@ -1,8 +1,12 @@
----
+﻿---
 title: '23. Termination Of Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'termination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer termination of employment dismissal resignation notice period
+</div>
 
 # 23. Termination Of Employment
 

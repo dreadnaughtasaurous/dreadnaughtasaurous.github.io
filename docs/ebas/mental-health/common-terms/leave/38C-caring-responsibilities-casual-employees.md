@@ -1,8 +1,12 @@
----
+﻿---
 title: '38C. Caring Responsibilities Casual Employees'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support caring responsibilities casual employees leave
+</div>
 
 # 38C. Caring Responsibilities Casual Employees
 

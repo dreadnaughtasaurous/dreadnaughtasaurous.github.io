@@ -1,8 +1,12 @@
----
+﻿---
 title: '80. Out Of Hours Supervisor'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support out of hours supervisor after hours coordinator
+</div>
 
 # 80. Out Of Hours Supervisor
 

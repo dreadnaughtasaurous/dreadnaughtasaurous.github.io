@@ -1,8 +1,12 @@
----
+﻿---
 title: '34. Trainees'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'training']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer trainees traineeship apprentice student employment
+</div>
 
 # 34. Trainees
 

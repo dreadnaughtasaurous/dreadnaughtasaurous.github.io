@@ -1,8 +1,12 @@
----
+﻿---
 title: '16. Types Of Employment'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'wages', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist types of employment full-time part-time casual fixed-term modes
+</div>
 
 # 16. Types Of Employment
 

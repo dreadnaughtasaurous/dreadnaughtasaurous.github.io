@@ -1,8 +1,12 @@
----
+﻿---
 title: '91. Backfill'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary', 'staffing', 'workload', 'wages', 'higher-duties']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist backfill replacement staff absence cover
+</div>
 
 # 91. Backfill
 

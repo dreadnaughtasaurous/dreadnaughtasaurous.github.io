@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Common Terms'
 eba: 'Mental Health Services 2024-2028'
 topics: ['definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support definitions common terms interpretation meaning
+</div>
 
 # Common Terms
 

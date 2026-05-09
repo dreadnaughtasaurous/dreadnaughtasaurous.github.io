@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Education & Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['education', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer education professional development training in-service
+</div>
 
 # Education & Professional Development
 

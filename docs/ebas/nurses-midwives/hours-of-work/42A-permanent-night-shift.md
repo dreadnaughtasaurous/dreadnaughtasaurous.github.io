@@ -1,8 +1,12 @@
----
+﻿---
 title: '42A. Permanent Night Shift'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'shift-work', 'staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant permanent night shift night duty rostering
+</div>
 
 # 42A. Permanent Night Shift
 

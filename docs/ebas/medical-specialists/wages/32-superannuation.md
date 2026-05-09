@@ -1,8 +1,12 @@
----
+﻿---
 title: '32. Superannuation'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages', 'superannuation', 'preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist superannuation super employer contribution SGC retirement
+</div>
 
 # 32. Superannuation
 

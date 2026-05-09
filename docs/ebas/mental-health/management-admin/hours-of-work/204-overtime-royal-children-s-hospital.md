@@ -1,8 +1,12 @@
----
+﻿---
 title: '204. Overtime - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'wages', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
+</div>
 
 # 204. Overtime - Royal Children's Hospital
 

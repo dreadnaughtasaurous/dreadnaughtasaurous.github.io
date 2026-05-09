@@ -1,8 +1,12 @@
----
+﻿---
 title: '48. Rest Period After Overtime Recall Ten Hour Break'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime', 'shift-work', 'rosters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer rest period overtime recall ten hour break fatigue
+</div>
 
 # 48. Rest Period After Overtime Recall Ten Hour Break
 

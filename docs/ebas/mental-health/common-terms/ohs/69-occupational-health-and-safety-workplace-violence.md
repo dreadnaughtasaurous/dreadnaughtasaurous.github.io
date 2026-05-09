@@ -1,8 +1,12 @@
----
+﻿---
 title: '69. Occupational Health And Safety / Workplace Violence'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support occupational health safety workplace violence aggression OHS
+</div>
 
 # 69. Occupational Health And Safety / Workplace Violence
 

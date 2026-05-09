@@ -1,8 +1,12 @@
----
+﻿---
 title: '63. Best Practice Employment Commitment Committee'
 eba: 'Medical Specialists 2022-2026'
 topics: ['union-matters', 'preliminary', 'staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist best practice employment committee union consultative
+</div>
 
 # 63. Best Practice Employment Commitment Committee
 

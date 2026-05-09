@@ -1,8 +1,12 @@
----
+﻿---
 title: '58A. Absences On Defence Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist absences defence leave military reserve service ADF
+</div>
 
 # 58A. Absences On Defence Leave
 

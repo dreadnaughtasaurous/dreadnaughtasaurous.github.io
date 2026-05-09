@@ -1,8 +1,12 @@
----
+﻿---
 title: '121. Uniform Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support uniform allowance clothing laundry uniform reimbursement
+</div>
 
 # 121. Uniform Allowance
 

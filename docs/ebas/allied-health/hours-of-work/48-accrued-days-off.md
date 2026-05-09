@@ -1,8 +1,12 @@
----
+﻿---
 title: '48. Accrued Days Off'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'rosters', 'wages', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist accrued days off ADO 38-hour week accumulation day off
+</div>
 
 # 48. Accrued Days Off
 

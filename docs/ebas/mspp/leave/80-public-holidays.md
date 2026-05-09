@@ -1,8 +1,12 @@
----
+﻿---
 title: '80. Public Holidays'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'public-holidays', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist public holidays holiday penalty rate double time Christmas Easter
+</div>
 
 # 80. Public Holidays
 

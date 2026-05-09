@@ -1,8 +1,12 @@
----
+﻿---
 title: '65. Prenatal Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 prenatal leave antenatal pregnancy appointment
+</div>
 
 # 65. Prenatal Leave
 

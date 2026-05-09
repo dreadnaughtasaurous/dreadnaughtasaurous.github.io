@@ -1,8 +1,12 @@
----
+﻿---
 title: '12. Transfer Of Business'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer transfer of business transmission sale change ownership
+</div>
 
 # 12. Transfer Of Business
 

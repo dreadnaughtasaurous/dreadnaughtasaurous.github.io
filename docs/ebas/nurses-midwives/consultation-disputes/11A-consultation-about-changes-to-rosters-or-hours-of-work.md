@@ -1,8 +1,12 @@
----
+﻿---
 title: '11A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters', 'consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant consultation changes rosters hours work
+</div>
 
 # 11A. Consultation About Changes To Rosters Or Hours Of Work
 

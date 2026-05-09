@@ -1,8 +1,12 @@
----
+﻿---
 title: '33. Commuted Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'allowances', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support commuted allowance consolidated payment specialists
+</div>
 
 # 33. Commuted Allowance
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 3E – Workplace Trainer/Careers Advisor: Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer workplace trainer careers advisor classification
+</div>
 
 # Schedule 3E – Workplace Trainer/Careers Advisor: Health Allied & Managers Admin EBA
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '7. Saving Of Local Agreements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist saving local agreements preservation
+</div>
 
 # 7. Saving Of Local Agreements
 

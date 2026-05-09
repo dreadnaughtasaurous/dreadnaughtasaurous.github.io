@@ -1,8 +1,12 @@
----
+﻿---
 title: '15. Individual Flexibility Arrangements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['flexible-work', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist individual flexibility arrangements IFA vary terms
+</div>
 
 # 15. Individual Flexibility Arrangements
 

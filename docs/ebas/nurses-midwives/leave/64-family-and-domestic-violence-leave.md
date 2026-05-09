@@ -1,8 +1,12 @@
----
+﻿---
 title: '64. Family And Domestic Violence Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'family-violence-leave', 'preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant family domestic violence leave safety protection
+</div>
 
 # 64. Family And Domestic Violence Leave
 

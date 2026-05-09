@@ -1,8 +1,12 @@
----
+﻿---
 title: '97. Amenities'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'clinical-supervision', 'ohs', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist amenities facilities staff room lockers equipment
+</div>
 
 # 97. Amenities
 

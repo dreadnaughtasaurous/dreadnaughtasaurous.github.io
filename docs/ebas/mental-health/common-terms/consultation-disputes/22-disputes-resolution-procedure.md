@@ -1,8 +1,12 @@
----
+﻿---
 title: '22. Disputes Resolution Procedure'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
+</div>
 
 # 22. Disputes Resolution Procedure
 

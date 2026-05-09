@@ -1,8 +1,12 @@
----
+﻿---
 title: '73. Study Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'study-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer study leave education exam tertiary course leave
+</div>
 
 # 73. Study Leave
 

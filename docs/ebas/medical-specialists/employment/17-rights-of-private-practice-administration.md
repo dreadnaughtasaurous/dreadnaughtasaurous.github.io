@@ -1,8 +1,12 @@
----
+﻿---
 title: '17. Rights Of Private Practice Administration'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist rights private practice administration specialists
+</div>
 
 # 17. Rights Of Private Practice Administration
 

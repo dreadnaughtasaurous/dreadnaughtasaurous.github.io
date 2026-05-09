@@ -1,8 +1,12 @@
----
+﻿---
 title: '67. Reasonable Adjustments For Employees With A Disability'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support reasonable adjustments employees disability
+</div>
 
 # 67. Reasonable Adjustments For Employees With A Disability
 

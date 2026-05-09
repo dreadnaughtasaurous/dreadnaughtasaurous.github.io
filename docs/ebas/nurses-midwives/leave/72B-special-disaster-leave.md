@@ -1,8 +1,12 @@
----
+﻿---
 title: '72B. Special Disaster Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'personal-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant special disaster leave emergency natural disaster bushfire flood
+</div>
 
 # 72B. Special Disaster Leave
 

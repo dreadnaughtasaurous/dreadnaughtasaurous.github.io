@@ -1,8 +1,12 @@
----
+﻿---
 title: '58. Meal Intervals And Rest Intervals'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'shift-work', 'breaks', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist meal intervals rest intervals breaks
+</div>
 
 # 58. Meal Intervals And Rest Intervals
 

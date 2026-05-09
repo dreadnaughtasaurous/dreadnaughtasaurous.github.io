@@ -1,8 +1,12 @@
----
+﻿---
 title: '27. Employee Retention'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'long-service-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support employee retention retention commitment
+</div>
 
 # 27. Employee Retention
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '170. Overtime In Lieu'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support overtime in lieu time off in lieu TOIL compensatory leave
+</div>
 
 # 170. Overtime In Lieu
 

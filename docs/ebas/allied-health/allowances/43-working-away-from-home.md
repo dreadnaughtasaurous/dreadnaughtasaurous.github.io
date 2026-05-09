@@ -1,8 +1,12 @@
----
+﻿---
 title: '43. Working Away From Home'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'public-holidays', 'allowances', 'travel']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist working away from home travel remote site allowance
+</div>
 
 # 43. Working Away From Home
 

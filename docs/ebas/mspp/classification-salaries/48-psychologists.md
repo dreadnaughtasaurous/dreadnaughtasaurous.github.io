@@ -1,8 +1,12 @@
----
+﻿---
 title: '48. Psychologists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist psychologist psychology clinical classification grade
+</div>
 
 # 48. Psychologists
 

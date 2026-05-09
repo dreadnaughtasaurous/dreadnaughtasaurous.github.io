@@ -1,8 +1,12 @@
----
+﻿---
 title: '19. Part-Time Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist part-time employment fewer hours regular pro-rata
+</div>
 
 # 19. Part-Time Employment
 

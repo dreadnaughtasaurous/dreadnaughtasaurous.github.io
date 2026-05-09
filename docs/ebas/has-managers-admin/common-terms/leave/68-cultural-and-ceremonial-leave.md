@@ -1,8 +1,12 @@
----
+﻿---
 title: '68. Cultural And Ceremonial Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'ceremonial-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer cultural ceremonial leave ATSI Aboriginal Torres Strait Islander
+</div>
 
 # 68. Cultural And Ceremonial Leave
 

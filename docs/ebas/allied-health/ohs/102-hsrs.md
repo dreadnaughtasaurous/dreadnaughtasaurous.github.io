@@ -1,8 +1,12 @@
----
+﻿---
 title: '102. Health &amp; Safety Representitives'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist health and safety representatives HSR OHS DWG
+</div>
 
 # 102. Health & Safety Representitives
 

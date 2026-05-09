@@ -1,8 +1,12 @@
----
+﻿---
 title: '28B. Top Of Band Payment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist top of band payment ceiling salary maximum pay grade
+</div>
 
 # 28B. Top Of Band Payment
 

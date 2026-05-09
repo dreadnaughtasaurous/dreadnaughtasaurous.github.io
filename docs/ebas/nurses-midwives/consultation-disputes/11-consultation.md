@@ -1,8 +1,12 @@
----
+﻿---
 title: '11. Consultation'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant consultation change major workplace change staff consultation
+</div>
 
 # 11. Consultation
 

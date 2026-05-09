@@ -1,8 +1,12 @@
----
+﻿---
 title: '21. Workload Management And Review'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'disputes', 'staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist workload management review safe staffing
+</div>
 
 # 21. Workload Management And Review
 

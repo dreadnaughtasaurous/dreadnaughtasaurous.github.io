@@ -1,8 +1,12 @@
----
+﻿---
 title: '11B. No Amalgamation of Wards Without Agreement of ANMF and Employer'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'disputes', 'staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant no amalgamation wards without ANMF agreement
+</div>
 
 # 11B. No Amalgamation of Wards Without Agreement of ANMF And Employer
 

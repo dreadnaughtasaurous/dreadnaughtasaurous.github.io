@@ -1,8 +1,12 @@
----
+﻿---
 title: '39. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support voluntary emergency management leave SES CFA MFB bushfire
+</div>
 
 # 39. Leave To Engage In Voluntary Emergency Management Activities
 

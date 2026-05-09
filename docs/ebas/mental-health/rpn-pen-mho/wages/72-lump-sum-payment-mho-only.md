@@ -1,8 +1,12 @@
----
+﻿---
 title: '72. Lump Sum Payment Mho Only'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support lump sum payment mental health officer MHO
+</div>
 
 # 72. Lump Sum Payment Mho Only
 

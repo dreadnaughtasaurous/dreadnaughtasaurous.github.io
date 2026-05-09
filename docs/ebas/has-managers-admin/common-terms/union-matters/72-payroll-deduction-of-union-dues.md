@@ -1,8 +1,12 @@
----
+﻿---
 title: '72. Payroll Deduction Of Union Dues'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer payroll deduction union dues fees membership
+</div>
 
 # 72. Payroll Deduction Of Union Dues
 

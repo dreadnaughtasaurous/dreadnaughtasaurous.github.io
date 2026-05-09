@@ -1,8 +1,12 @@
----
+﻿---
 title: '57. Sabbatical Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'wages', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist sabbatical leave extended leave research professional renewal
+</div>
 
 # 57. Sabbatical Leave
 

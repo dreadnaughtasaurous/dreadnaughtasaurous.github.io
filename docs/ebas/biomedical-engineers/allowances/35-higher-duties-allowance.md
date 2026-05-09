@@ -1,8 +1,12 @@
----
+﻿---
 title: '35. Higher Duties Allowance'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances', 'preliminary', 'wages', 'higher-duties']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer higher duties allowance acting up acting position temporary promotion
+</div>
 
 # 35. Higher Duties Allowance
 

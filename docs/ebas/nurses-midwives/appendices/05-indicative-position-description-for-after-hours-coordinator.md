@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 5 - Indicative Position Description For After Hours Coordinator: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['appendices', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant position description after hours coordinator
+</div>
 
 # Appendix 5 - Indicative Position Description For After Hours Coordinator: Nurses and Midwives EBA
 

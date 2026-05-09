@@ -1,8 +1,12 @@
----
+﻿---
 title: '17. Gender Based Discrimination'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'discrimination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support gender based discrimination sex discrimination equal opportunity
+</div>
 
 # 17. Gender Based Discrimination
 

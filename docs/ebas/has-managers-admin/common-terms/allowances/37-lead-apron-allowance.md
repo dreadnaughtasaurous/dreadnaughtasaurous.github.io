@@ -1,8 +1,12 @@
----
+﻿---
 title: '37. Lead Apron Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'shift-work', 'allowances', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer lead apron allowance radiation protection X-ray payment
+</div>
 
 # 37. Lead Apron Allowance
 

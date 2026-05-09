@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Medical Specialists'
 eba: 'medical-specialists.md'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist index overview contents agreement title arrangement preliminary
+</div>
 
 # Medical Specialists
 

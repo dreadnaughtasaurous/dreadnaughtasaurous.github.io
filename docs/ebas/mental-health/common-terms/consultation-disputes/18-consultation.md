@@ -1,8 +1,12 @@
----
+﻿---
 title: '18. Consultation'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'parental-leave', 'consultation', 'ohs', 'workers-comp']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support consultation change major workplace change staff consultation
+</div>
 
 # 18. Consultation
 

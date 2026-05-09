@@ -1,8 +1,12 @@
----
+﻿---
 title: '125. Discretionary Backfill For Certain Absences'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'annual-leave', 'study-leave', 'consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support discretionary backfill absences replacement
+</div>
 
 # 125. Discretionary Backfill For Certain Absences
 

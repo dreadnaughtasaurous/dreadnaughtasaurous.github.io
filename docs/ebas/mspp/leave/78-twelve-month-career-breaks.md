@@ -1,8 +1,12 @@
----
+﻿---
 title: '78. Twelve Month Career Breaks'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist 12 month career break extended leave sabbatical
+</div>
 
 # 78. Twelve Month Career Breaks
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '11. Dispute Resolution Procedure'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist dispute resolution procedure grievance formal complaint steps
+</div>
 
 # 11. Dispute Resolution Procedure
 

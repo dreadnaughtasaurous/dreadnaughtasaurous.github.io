@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 6 – Agreement to Take Annual Leave in Advance: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist agreement annual leave in advance form template
+</div>
 
 # Appendix 6 – Agreement to Take Annual Leave in Advance: Medical Specialists EBA
 

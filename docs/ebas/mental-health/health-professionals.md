@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Health Professionals'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support health professionals classification wages allowances
+</div>
 
 # Health Professionals
 

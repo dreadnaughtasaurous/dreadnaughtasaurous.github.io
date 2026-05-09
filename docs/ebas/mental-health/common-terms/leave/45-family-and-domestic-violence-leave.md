@@ -1,8 +1,12 @@
----
+﻿---
 title: '45. Family And Domestic Violence Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'family-violence-leave', 'preliminary', 'definitions']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support family domestic violence leave safety protection
+</div>
 
 # 45. Family And Domestic Violence Leave
 

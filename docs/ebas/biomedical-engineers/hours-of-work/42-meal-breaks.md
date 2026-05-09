@@ -1,8 +1,12 @@
----
+﻿---
 title: '42. Meal Breaks'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'shift-work', 'breaks', 'on-call']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer meal breaks rest intervals food breaks
+</div>
 
 # 42. Meal Breaks
 

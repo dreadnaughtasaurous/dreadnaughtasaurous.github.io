@@ -1,8 +1,12 @@
----
+﻿---
 title: EBAs
 eba: 'index.md'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+index overview contents agreement title arrangement preliminary
+</div>
 
 # Enterprise Bargaining Agreements
 

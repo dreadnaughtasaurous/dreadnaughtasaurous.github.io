@@ -1,8 +1,12 @@
----
+﻿---
 title: '8. Relationship To Previous Industrial Instruments and the NES'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer relationship previous awards agreements NES transitional
+</div>
 
 # 8. Relationship To Previous Industrial Instruments and the NES
 

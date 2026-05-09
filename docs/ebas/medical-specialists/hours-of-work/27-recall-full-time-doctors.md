@@ -1,8 +1,12 @@
----
+﻿---
 title: '27. Recall Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'on-call', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist recall full time doctors callback callout payment
+</div>
 
 # 27. Recall Full Time Doctors
 

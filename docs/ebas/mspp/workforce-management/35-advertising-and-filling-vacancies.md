@@ -1,8 +1,12 @@
----
+﻿---
 title: '35. Advertising And Filling Vacancies'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist advertising vacancies filling positions recruitment
+</div>
 
 # 35. Advertising And Filling Vacancies
 

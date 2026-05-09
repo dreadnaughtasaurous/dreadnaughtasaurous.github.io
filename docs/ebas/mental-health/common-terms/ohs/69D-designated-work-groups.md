@@ -1,8 +1,12 @@
----
+﻿---
 title: '69D. Designated Work Groups'
 eba: 'Mental Health Services 2024-2028'
 topics: ['consultation', 'union-matters', 'ohs', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support designated work groups DWG OHS representative
+</div>
 
 # 69D. Designated Work Groups
 

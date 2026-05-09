@@ -1,8 +1,12 @@
----
+﻿---
 title: '19. Payment Of Wages'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'long-service-leave', 'hours', 'overtime', 'wages', 'employment', 'redundancy', 'termination', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's payment of wages payroll pay cycle frequency
+</div>
 
 # 19. Payment Of Wages
 

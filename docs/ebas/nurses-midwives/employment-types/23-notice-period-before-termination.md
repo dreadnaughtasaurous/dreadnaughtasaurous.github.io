@@ -1,8 +1,12 @@
----
+﻿---
 title: '23. Notice Period Before Termination'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'long-service-leave', 'employment', 'termination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant notice period termination dismissal resignation
+</div>
 
 # 23. Notice Period Before Termination
 

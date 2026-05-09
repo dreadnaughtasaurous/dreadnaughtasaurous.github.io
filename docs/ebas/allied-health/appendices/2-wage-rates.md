@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Appendix 2 - Wage Rates: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'allowances', 'salary-circular', 'circular 872']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist wage rates pay rates salary rates classification pay
+</div>
 
 # Appendix 2 - Wage Rates: Allied Health EBA
 

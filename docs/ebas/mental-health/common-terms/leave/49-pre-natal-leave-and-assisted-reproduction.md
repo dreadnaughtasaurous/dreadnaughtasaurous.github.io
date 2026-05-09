@@ -1,8 +1,12 @@
----
+﻿---
 title: '49. Pre Natal Leave And Assisted Reproduction'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'personal-leave', 'hours', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support prenatal leave assisted reproduction IVF fertility treatment
+</div>
 
 # 49. Pre Natal Leave And Assisted Reproduction
 

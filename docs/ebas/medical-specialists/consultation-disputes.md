@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Consultation Disputes'
 eba: 'Medical Specialists 2022-2026'
 topics: ['consultation', 'disputes']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist consultation dispute resolution grievance procedure
+</div>
 
 # Consultation Disputes
 

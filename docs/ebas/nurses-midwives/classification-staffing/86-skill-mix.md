@@ -1,8 +1,12 @@
----
+﻿---
 title: '86. Skill Mix'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant skill mix staffing ratios qualification mix
+</div>
 
 # 86. Skill Mix
 

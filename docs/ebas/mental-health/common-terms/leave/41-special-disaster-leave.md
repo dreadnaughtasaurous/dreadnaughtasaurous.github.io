@@ -1,8 +1,12 @@
----
+﻿---
 title: '41. Special Disaster Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'personal-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support special disaster leave emergency natural disaster bushfire flood
+</div>
 
 # 41. Special Disaster Leave
 

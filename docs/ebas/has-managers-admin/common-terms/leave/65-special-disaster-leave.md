@@ -1,8 +1,12 @@
----
+﻿---
 title: '65. Special Disaster Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'personal-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer special disaster leave emergency natural disaster bushfire flood
+</div>
 
 # 65. Special Disaster Leave
 

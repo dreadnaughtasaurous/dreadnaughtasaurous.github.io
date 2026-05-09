@@ -1,8 +1,12 @@
----
+﻿---
 title: "Schedule G - Agreement To Cash Out Annual Leave: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'leave', 'annual-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
+</div>
 
 # Schedule G - Agreement To Cash Out Annual Leave: Children's Services EBA
 

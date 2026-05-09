@@ -1,8 +1,12 @@
----
+﻿---
 title: '48. Staffing Flexibility Dhsv'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary', 'classifications', 'staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer staffing flexibility DHSV Dental Health Services Victoria
+</div>
 
 # 48. Staffing Flexibility Dhsv
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '41. Continuing Medical Education Support'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'preliminary', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist continuing medical education CME support allowance specialist
+</div>
 
 # 41. Continuing Medical Education Support
 

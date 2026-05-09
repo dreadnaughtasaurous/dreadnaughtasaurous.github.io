@@ -1,8 +1,12 @@
----
+﻿---
 title: '10. Anti Discrimination'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['flexible-work', 'preliminary', 'discrimination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist anti-discrimination equal opportunity diversity EEO
+</div>
 
 # 10. Anti Discrimination
 

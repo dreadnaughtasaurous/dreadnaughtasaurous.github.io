@@ -1,8 +1,12 @@
----
+﻿---
 title: '69C. Incident Reporting Investigation And Prevention'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support incident reporting investigation prevention safety
+</div>
 
 # 69C. Incident Reporting Investigation And Prevention
 

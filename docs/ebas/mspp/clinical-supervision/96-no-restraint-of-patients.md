@@ -1,8 +1,12 @@
----
+﻿---
 title: '96. No Restraint Of Patients'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['ohs', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist no restraint patients restraint policy
+</div>
 
 # 96. No Restraint Of Patients
 

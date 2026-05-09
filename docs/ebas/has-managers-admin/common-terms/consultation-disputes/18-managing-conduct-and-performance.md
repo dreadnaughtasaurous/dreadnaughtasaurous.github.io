@@ -1,8 +1,12 @@
----
+﻿---
 title: '18. Managing Conduct And Performance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['discipline', 'union-matters', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer managing conduct performance discipline
+</div>
 
 # 18. Managing Conduct And Performance
 

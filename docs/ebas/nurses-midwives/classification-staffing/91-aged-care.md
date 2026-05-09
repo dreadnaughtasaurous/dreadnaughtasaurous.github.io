@@ -1,8 +1,12 @@
----
+﻿---
 title: '91. Aged Care'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['staffing']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant aged care residential nursing classification
+</div>
 
 # 91. Aged Care
 

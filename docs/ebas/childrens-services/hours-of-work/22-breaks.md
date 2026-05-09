@@ -1,8 +1,12 @@
----
+﻿---
 title: '22. Breaks'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'hours', 'overtime', 'shift-work', 'breaks', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's breaks meal break rest period tea break interval
+</div>
 
 # 22. Breaks
 

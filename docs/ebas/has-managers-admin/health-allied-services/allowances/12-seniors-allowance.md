@@ -1,8 +1,12 @@
----
+﻿---
 title: '12. Seniors Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer seniors allowance senior employee long service payment
+</div>
 
 # 12. Seniors Allowance
 

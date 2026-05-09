@@ -1,8 +1,12 @@
----
+﻿---
 title: '57B. 10. Hour Break Consultation Transitional'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'rosters', 'breaks', 'consultation']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist 10 hour break consultation transitional
+</div>
 
 # 57B. 10. Hour Break Consultation Transitional
 

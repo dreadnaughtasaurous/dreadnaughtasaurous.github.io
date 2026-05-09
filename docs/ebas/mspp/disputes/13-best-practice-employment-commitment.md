@@ -1,8 +1,12 @@
----
+﻿---
 title: '13. Best Practice Employment Commitment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist best practice employment commitment industrial relations union
+</div>
 
 # 13. Best Practice Employment Commitment
 

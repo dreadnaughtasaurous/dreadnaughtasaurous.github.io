@@ -1,8 +1,12 @@
----
+﻿---
 title: '21. Ordinary Hours Of Work And Rostering'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 'overtime', 'shift-work', 'rosters', 'wages', 'employment', 'disputes', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's ordinary hours of work rostering shift patterns
+</div>
 
 # 21. Ordinary Hours Of Work And Rostering
 

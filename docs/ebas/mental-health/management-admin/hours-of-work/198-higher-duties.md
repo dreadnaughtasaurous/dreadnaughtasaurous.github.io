@@ -1,8 +1,12 @@
----
+﻿---
 title: '198. Higher Duties'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages', 'preliminary', 'staffing', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support higher duties acting up acting in position temporary promotion allowance
+</div>
 
 # 198. Higher Duties
 

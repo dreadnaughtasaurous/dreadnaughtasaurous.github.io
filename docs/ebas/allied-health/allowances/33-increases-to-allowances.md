@@ -1,8 +1,12 @@
----
+﻿---
 title: '33. Increases To Allowances'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'shift-work', 'on-call', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist increases allowances pay rise adjustment
+</div>
 
 # 33. Increases To Allowances
 

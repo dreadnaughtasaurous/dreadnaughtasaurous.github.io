@@ -1,8 +1,12 @@
----
+﻿---
 title: '38. Prevention And Management Of Workplace Bullying'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist prevention management workplace bullying harassment
+</div>
 
 # 38. Prevention And Management Of Workplace Bullying
 

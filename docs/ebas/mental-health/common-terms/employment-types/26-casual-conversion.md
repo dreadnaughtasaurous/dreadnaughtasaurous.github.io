@@ -1,8 +1,12 @@
----
+﻿---
 title: '26. Casual Conversion'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment', 'casual-conversion']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support casual conversion permanent part-time regular systematic
+</div>
 
 # 26. Casual Conversion
 

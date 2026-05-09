@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Health Allied & Managers Admin'
 eba: 'has-managers-admin.md'
 topics: []
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer index overview contents agreement title arrangement preliminary
+</div>
 
 # Health and Allied Services Employees, Dental Assistants, Managers and Administrative Workers
 

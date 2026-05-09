@@ -1,8 +1,12 @@
----
+﻿---
 title: '36. Travelling Allowance'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'rosters', 'allowances', 'travel']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer travelling allowance travel reimbursement vehicle private car
+</div>
 
 # 36. Travelling Allowance
 

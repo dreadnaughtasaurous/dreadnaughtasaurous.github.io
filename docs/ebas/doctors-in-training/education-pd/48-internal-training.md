@@ -1,8 +1,12 @@
----
+﻿---
 title: '48. Internal Training'
 eba: 'Doctors in Training 2022-2026'
 topics: ['ohs', 'education']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 internal training mandatory in-service paid hours
+</div>
 
 # 48. Internal Training
 

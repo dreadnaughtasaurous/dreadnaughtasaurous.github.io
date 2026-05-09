@@ -1,8 +1,12 @@
----
+﻿---
 title: '21. Casual Conversion'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'casual-conversion']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer casual conversion permanent part-time regular systematic
+</div>
 
 # 21. Casual Conversion
 

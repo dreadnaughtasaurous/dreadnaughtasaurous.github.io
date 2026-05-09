@@ -1,8 +1,12 @@
----
+﻿---
 title: '19. Notification Of Classification'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist notification classification reclassification grade advice
+</div>
 
 # 19. Notification Of Classification
 

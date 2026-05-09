@@ -1,8 +1,12 @@
----
+﻿---
 title: '73. Professional Development Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['professional-development', 'leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist professional development leave conference education CPD
+</div>
 
 # 73. Professional Development Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '80. Study Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'study-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist study leave education exam tertiary course leave
+</div>
 
 # 80. Study Leave
 

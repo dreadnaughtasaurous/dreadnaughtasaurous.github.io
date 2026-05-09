@@ -1,8 +1,12 @@
----
+﻿---
 title: '25. Continuous Duty Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'study-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist continuous duty full time doctors on call hours
+</div>
 
 # 25. Continuous Duty Full Time Doctors
 

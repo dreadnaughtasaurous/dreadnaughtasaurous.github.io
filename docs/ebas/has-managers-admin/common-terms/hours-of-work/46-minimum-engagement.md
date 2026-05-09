@@ -1,8 +1,12 @@
----
+﻿---
 title: '46. Minimum Engagement'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime', 'on-call', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer minimum engagement minimum hours call-in casual shift
+</div>
 
 # 46. Minimum Engagement
 

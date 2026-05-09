@@ -1,8 +1,12 @@
----
+﻿---
 title: '94. Contractors And Labour Hire'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist contractors labour hire agency staff outsourcing
+</div>
 
 # 94. Contractors And Labour Hire
 

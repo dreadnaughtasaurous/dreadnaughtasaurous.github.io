@@ -1,8 +1,12 @@
----
+﻿---
 title: '3. Notice Of Termination - Employer'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'employment', 'termination']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
+</div>
 
 # 3. Notice Of Termination - Employer
 

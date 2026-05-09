@@ -1,8 +1,12 @@
----
+﻿---
 title: '29. Payment Of Wages'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages', 'preliminary', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer payment of wages payroll pay cycle frequency
+</div>
 
 # 29. Payment Of Wages
 

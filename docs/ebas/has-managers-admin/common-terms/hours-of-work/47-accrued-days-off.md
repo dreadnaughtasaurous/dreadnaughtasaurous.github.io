@@ -1,8 +1,12 @@
----
+﻿---
 title: '47. Accrued Days Off'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer accrued days off ADO 38-hour week accumulation day off
+</div>
 
 # 47. Accrued Days Off
 

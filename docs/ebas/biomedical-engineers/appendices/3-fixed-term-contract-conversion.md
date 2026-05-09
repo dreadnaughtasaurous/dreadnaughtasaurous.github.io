@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Appendix 3 - Fixed Term Contract Conversion: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'employment']
@@ -6,6 +6,10 @@ rewrites:
   - from: ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments
     to: ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer fixed-term contract conversion permanent ongoing
+</div>
 
 # Appendix 3 - Fixed Term Contract Conversion: Biomedical Engineers EBA
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '68. Absences On Defence Service'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer absences defence service military ADF reserve
+</div>
 
 # 68. Absences On Defence Service
 

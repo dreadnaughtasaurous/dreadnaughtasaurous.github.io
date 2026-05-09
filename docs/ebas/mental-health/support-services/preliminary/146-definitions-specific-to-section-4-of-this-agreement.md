@@ -1,8 +1,12 @@
----
+﻿---
 title: '146. Definitions Specific To Section 4 of this Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support definitions section 4 interpretation
+</div>
 
 # 146. Definitions Specific To Section 4 of this Agreement
 

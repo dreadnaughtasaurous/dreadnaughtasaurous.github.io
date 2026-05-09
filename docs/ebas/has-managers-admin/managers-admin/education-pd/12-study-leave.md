@@ -1,8 +1,12 @@
----
+﻿---
 title: '12. Study Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'study-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer study leave education exam tertiary course leave
+</div>
 
 # 12. Study Leave
 

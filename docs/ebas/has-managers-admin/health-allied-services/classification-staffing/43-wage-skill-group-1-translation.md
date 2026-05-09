@@ -1,8 +1,12 @@
----
+﻿---
 title: '43. Wage Skill Group 1 Translation'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
+</div>
 
 # 43. Wage Skill Group 1 Translation
 

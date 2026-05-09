@@ -1,8 +1,12 @@
----
+﻿---
 title: '51. Purchased Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support purchased leave buy additional leave extra annual leave
+</div>
 
 # 51. Purchased Leave
 

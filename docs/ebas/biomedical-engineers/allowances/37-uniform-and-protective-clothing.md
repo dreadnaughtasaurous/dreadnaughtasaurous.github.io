@@ -1,8 +1,12 @@
----
+﻿---
 title: '37. Uniform And Protective Clothing'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances', 'uniforms']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer uniform protective clothing laundry allowance
+</div>
 
 # 37. Uniform And Protective Clothing
 

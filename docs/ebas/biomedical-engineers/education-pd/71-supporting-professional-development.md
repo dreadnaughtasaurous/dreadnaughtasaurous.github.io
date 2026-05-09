@@ -1,8 +1,12 @@
----
+﻿---
 title: '71. Supporting Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer supporting professional development education training
+</div>
 
 # 71. Supporting Professional Development
 

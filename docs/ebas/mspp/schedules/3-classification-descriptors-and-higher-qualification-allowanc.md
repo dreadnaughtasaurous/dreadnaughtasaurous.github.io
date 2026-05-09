@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 3 - Allowances & Other Payments: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'classifications', 'allowances', 'remuneration', 'rates', 'pay-rates', 'shift-allowances', 'on-call', 'higher-qualifications', 'salary-circular', 'circular 873']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist classification descriptors higher qualification allowance HQA
+</div>
 
 # Schedule 3 - Allowances & Other Payments: Medical Scientists, Pharm & Psych EBA
 

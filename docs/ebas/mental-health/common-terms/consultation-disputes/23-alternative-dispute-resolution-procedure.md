@@ -1,8 +1,12 @@
----
+﻿---
 title: '23. Alternative Dispute Resolution Procedure'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages', 'disputes', 'union-matters', 'classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support alternative dispute resolution ADR mediation
+</div>
 
 # 23. Alternative Dispute Resolution Procedure
 

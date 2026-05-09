@@ -1,8 +1,12 @@
----
+﻿---
 title: '15. Cooking Trade Proficiency Payments'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'training']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer cooking trade proficiency payments chef cook qualification
+</div>
 
 # 15. Cooking Trade Proficiency Payments
 

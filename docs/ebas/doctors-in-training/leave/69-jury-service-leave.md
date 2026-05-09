@@ -1,8 +1,12 @@
----
+﻿---
 title: '69. Jury Service Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 jury service leave jury duty court absence
+</div>
 
 # 69. Jury Service Leave
 

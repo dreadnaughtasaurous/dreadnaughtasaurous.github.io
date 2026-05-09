@@ -1,8 +1,12 @@
----
+﻿---
 title: '5. Coverage'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer coverage application who it covers employees
+</div>
 
 # 5. Coverage
 

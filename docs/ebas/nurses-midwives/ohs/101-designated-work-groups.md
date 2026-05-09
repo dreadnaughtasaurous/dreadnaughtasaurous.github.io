@@ -1,8 +1,12 @@
----
+﻿---
 title: '101. Designated Work Groups'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'union-matters', 'ohs']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant designated work groups DWG OHS representative
+</div>
 
 # 101. Designated Work Groups
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '18. Part Time Employment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'hours', 'overtime', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant part-time employment fewer hours regular pro-rata
+</div>
 
 # 18. Part Time Employment
 

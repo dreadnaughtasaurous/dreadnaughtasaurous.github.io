@@ -1,8 +1,12 @@
----
+﻿---
 title: '19. Code Black And Or Code Grey Response'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer code black code grey security emergency response allowance
+</div>
 
 # 19. Code Black And Or Code Grey Response
 

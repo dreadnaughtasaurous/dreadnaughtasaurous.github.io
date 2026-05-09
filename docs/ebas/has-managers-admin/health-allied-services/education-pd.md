@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Education & Professional Development'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['education', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer education professional development training in-service
+</div>
 
 # Education & Professional Development
 

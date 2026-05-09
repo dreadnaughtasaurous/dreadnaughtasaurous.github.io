@@ -1,8 +1,12 @@
----
+﻿---
 title: '63. Purchased Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'purchased-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist purchased leave buy additional leave extra annual leave
+</div>
 
 # 63. Purchased Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '66. Ceremonial Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'ceremonial-leave', 'public-holidays', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer ceremonial leave cultural ATSI Aboriginal community obligations
+</div>
 
 # 66. Ceremonial Leave
 

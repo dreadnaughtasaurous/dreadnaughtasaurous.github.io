@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 13 - Pharmacist Weekend Ordinary Hours: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hours', 'pay-rates']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist pharmacist weekend ordinary hours Saturday Sunday
+</div>
 
 # Schedule 13 - Pharmacist Weekend Ordinary Hours: Medical Scientists, Pharm & Psych EBA
 

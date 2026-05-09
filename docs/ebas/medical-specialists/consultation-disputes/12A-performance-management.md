@@ -1,8 +1,12 @@
----
+﻿---
 title: '12A. Performance Management'
 eba: 'Medical Specialists 2022-2026'
 topics: ['discipline']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist performance management review appraisal improvement plan
+</div>
 
 # 12A. Performance Management
 

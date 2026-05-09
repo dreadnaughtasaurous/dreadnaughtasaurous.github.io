@@ -1,8 +1,12 @@
----
+﻿---
 title: '195. Removal Expenses'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support removal expenses relocation moving costs reimbursement
+</div>
 
 # 195. Removal Expenses
 

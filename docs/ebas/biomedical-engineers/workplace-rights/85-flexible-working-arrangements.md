@@ -1,8 +1,12 @@
----
+﻿---
 title: '85. Flexible Working Arrangements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'family-violence-leave', 'employment', 'flexible-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer flexible working arrangements flexible hours requests work life balance
+</div>
 
 # 85. Flexible Working Arrangements
 

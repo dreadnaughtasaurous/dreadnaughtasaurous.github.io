@@ -1,8 +1,12 @@
----
+﻿---
 title: '40. Travelling Allowance'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist travelling allowance travel reimbursement vehicle private car
+</div>
 
 # 40. Travelling Allowance
 

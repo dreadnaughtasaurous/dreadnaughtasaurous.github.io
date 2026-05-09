@@ -1,8 +1,12 @@
----
+﻿---
 title: '81. Examination Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'study-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist examination leave exam sit test assessment
+</div>
 
 # 81. Examination Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '72. Professional Development Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer professional development leave conference education CPD
+</div>
 
 # 72. Professional Development Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '20. Redundancy And Associated Entitlements'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment', 'redundancy', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support redundancy retrenchment redundancy pay severance entitlements
+</div>
 
 # 20. Redundancy And Associated Entitlements
 

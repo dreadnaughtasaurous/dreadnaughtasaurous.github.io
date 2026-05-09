@@ -1,8 +1,12 @@
----
+﻿---
 title: '58. Pre Adoption Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'parental-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer pre-adoption leave adoption unpaid leave
+</div>
 
 # 58. Pre Adoption Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '210. Working From Home - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
+</div>
 
 # 210. Working From Home - Royal Children's Hospital
 

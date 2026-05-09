@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Preliminary'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist preliminary commencement coverage application scope parties definitions arrangement
+</div>
 
 # Preliminary
 

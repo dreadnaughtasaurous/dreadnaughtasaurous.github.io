@@ -1,8 +1,12 @@
----
+﻿---
 title: '81. Cultural And Ceremonial Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'ceremonial-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist cultural ceremonial leave ATSI Aboriginal Torres Strait Islander
+</div>
 
 # 81. Cultural And Ceremonial Leave
 

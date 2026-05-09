@@ -1,8 +1,12 @@
----
+﻿---
 title: '78. Workload Management'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['staffing', 'workload']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer workload management workload review safe staffing
+</div>
 
 # 78. Workload Management
 

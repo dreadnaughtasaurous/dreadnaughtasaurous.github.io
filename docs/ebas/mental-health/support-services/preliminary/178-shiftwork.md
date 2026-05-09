@@ -1,8 +1,12 @@
----
+﻿---
 title: '178. Shiftwork'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support shift work shiftwork rotating shifts evening night
+</div>
 
 # 178. Shiftwork
 

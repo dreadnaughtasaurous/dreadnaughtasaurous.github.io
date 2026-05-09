@@ -1,8 +1,12 @@
----
+﻿---
 title: '57. Community Mental Health Discipline Mix'
 eba: 'Mental Health Services 2024-2028'
 topics: ['discipline', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support community mental health discipline mix staffing ratios
+</div>
 
 # 57. Community Mental Health Discipline Mix
 

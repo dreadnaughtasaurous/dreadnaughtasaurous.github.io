@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'consultation', 'redundancy']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist consultation redundancy associated entitlements
+</div>
 
 # Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements – Austin Health, Eastern Health, Alfred Health, Peter MacCallum Cancer Institute, Royal Victorian Eye and Ear Hospital, Melbourne Health, Western Health, Northern Health, Royal Women's Hospital, Royal Children's Hospital, Monash Health, St. Vincent's Hospital: Medical Scientists, Pharm & Psych EBA
 

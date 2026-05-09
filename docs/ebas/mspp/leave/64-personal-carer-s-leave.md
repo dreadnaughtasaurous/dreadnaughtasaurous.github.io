@@ -1,8 +1,12 @@
----
+﻿---
 title: '64. Personal Carer''s Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'personal-leave', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist personal carer leave sick leave illness caring family
+</div>
 
 # 64. Personal Carer's Leave
 

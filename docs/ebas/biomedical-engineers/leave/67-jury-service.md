@@ -1,8 +1,12 @@
----
+﻿---
 title: '67. Jury Service'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer jury service jury duty court summons absence leave
+</div>
 
 # 67. Jury Service
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '60. On Call Re Call'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'public-holidays', 'hours', 'on-call']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist on call recall standby allowance
+</div>
 
 # 60. On Call Re Call
 

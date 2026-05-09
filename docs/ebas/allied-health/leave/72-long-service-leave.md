@@ -1,8 +1,12 @@
----
+﻿---
 title: '72. Long Service Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'long-service-leave', 'employment', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist long service leave LSL entitlement years of service
+</div>
 
 # 72. Long Service Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '47. Continuing Medical Education Allowance'
 eba: 'Doctors in Training 2022-2026'
 topics: ['allowances', 'employment', 'preliminary', 'professional-development']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 continuing medical education allowance CME payment specialist
+</div>
 
 # 47. Continuing Medical Education Allowance
 

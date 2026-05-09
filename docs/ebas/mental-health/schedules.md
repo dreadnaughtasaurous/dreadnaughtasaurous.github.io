@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedules'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support schedule schedules appendix wage rates classification
+</div>
 
 # Schedules
 

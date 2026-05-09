@@ -1,8 +1,12 @@
----
+﻿---
 title: '98. Public Holidays'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'public-holidays', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support public holidays holiday penalty rate double time Christmas Easter
+</div>
 
 # 98. Public Holidays
 

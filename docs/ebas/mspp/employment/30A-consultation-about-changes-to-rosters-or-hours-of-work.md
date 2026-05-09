@@ -1,8 +1,12 @@
----
+﻿---
 title: '30A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'rosters', 'consultation', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist consultation changes rosters hours work
+</div>
 
 # 30A. Consultation About Changes To Rosters Or Hours Of Work
 

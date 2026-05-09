@@ -1,8 +1,12 @@
----
+﻿---
 title: '54. Telephone Allowance'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'on-call', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 telephone allowance phone reimbursement mobile phone cost
+</div>
 
 # 54. Telephone Allowance
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '39. Introduction Of Revised Pathology Collector Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer revised pathology collector structure classification
+</div>
 
 # 39. Introduction Of Revised Pathology Collector Structure
 

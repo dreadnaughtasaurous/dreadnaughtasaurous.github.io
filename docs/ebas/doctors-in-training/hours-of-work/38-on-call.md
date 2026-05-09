@@ -1,8 +1,12 @@
----
+﻿---
 title: '38. On Call'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters', 'on-call', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 on call availability recall standby allowance
+</div>
 
 # 38. On Call
 

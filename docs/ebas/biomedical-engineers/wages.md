@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Wages'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer wages salary pay rates remuneration pay increase
+</div>
 
 # Wages
 

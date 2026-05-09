@@ -1,8 +1,12 @@
----
+﻿---
 title: '25A. Parental Leave And Related Entitlements'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'parental-leave', 'disputes', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's parental leave maternity paternity related entitlements
+</div>
 
 # 25A. Parental Leave And Related Entitlements
 

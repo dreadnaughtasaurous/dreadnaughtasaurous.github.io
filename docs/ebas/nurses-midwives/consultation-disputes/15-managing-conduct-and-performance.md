@@ -1,8 +1,12 @@
----
+﻿---
 title: '15. Managing Conduct And Performance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'disputes', 'discipline', 'union-matters']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant managing conduct performance discipline
+</div>
 
 # 15. Managing Conduct And Performance
 

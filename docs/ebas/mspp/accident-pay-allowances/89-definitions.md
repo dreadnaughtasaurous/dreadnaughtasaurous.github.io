@@ -1,8 +1,12 @@
----
+﻿---
 title: '89. Definitions'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist definitions interpretation meaning terms
+</div>
 
 # 89. Definitions
 

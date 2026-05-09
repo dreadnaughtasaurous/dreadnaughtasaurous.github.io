@@ -1,8 +1,12 @@
----
+﻿---
 title: '60. Family Violence Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'family-violence-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist family violence leave domestic violence safety leave
+</div>
 
 # 60. Family Violence Leave
 

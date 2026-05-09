@@ -1,8 +1,12 @@
----
+﻿---
 title: '96. Rest And Meal Breaks'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'hours', 'shift-work', 'breaks']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support rest meal breaks relief interval
+</div>
 
 # 96. Rest And Meal Breaks
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '84. Shift Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support shift allowances shift work penalty payment evening night
+</div>
 
 # 84. Shift Allowances
 

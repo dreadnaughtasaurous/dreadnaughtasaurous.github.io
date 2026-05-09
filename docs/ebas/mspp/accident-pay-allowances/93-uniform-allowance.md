@@ -1,8 +1,12 @@
----
+﻿---
 title: '93. Uniform Allowance'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'uniforms']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist uniform allowance clothing laundry uniform reimbursement
+</div>
 
 # 93. Uniform Allowance
 

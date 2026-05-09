@@ -1,8 +1,12 @@
----
+﻿---
 title: '56. Compassionate Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'compassionate-leave', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer compassionate leave bereavement death family grief
+</div>
 
 # 56. Compassionate Leave
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: '82. Family Violence Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'family-violence-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist family violence leave domestic violence safety leave
+</div>
 
 # 82. Family Violence Leave
 

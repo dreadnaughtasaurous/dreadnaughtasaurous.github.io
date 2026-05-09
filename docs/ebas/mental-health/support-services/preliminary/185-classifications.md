@@ -1,8 +1,12 @@
----
+﻿---
 title: '185. Classifications'
 eba: 'Mental Health Services 2024-2028'
 topics: ['classifications']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support classifications grades levels structure pay points
+</div>
 
 # 185. Classifications
 

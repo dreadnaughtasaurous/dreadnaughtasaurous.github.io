@@ -1,8 +1,12 @@
----
+﻿---
 title: '150. Experience Payments'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support experience payments pay progression years of service
+</div>
 
 # 150. Experience Payments
 

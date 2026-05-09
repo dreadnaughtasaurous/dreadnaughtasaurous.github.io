@@ -1,8 +1,12 @@
----
+﻿---
 title: '15. Allowances'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'overtime', 'shift-work', 'allowances']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's allowance allowances payment reimbursement additional pay entitlement
+</div>
 
 # 15. Allowances
 

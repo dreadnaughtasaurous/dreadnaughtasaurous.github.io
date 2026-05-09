@@ -1,8 +1,12 @@
----
+﻿---
 title: '63. Long Service Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'personal-leave', 'annual-leave', 'long-service-leave']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer long service leave LSL entitlement years of service
+</div>
 
 # 63. Long Service Leave
 

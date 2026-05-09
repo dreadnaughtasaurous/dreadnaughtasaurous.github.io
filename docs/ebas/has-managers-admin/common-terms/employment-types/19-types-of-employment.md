@@ -1,8 +1,12 @@
----
+﻿---
 title: '19. Types Of Employment'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer types of employment full-time part-time casual fixed-term modes
+</div>
 
 # 19. Types Of Employment
 

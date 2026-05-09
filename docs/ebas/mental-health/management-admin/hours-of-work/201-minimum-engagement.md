@@ -1,8 +1,12 @@
----
+﻿---
 title: '201. Minimum Engagement'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'wages']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support minimum engagement minimum hours call-in casual shift
+</div>
 
 # 201. Minimum Engagement
 

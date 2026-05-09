@@ -1,8 +1,12 @@
----
+﻿---
 title: '3. Coverage Of Agreement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['union-matters', 'preliminary']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist coverage application who it covers employees
+</div>
 
 # 3. Coverage Of Agreement
 

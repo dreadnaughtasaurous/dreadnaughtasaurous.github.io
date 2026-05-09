@@ -1,8 +1,12 @@
----
+﻿---
 title: '41. Clinical Perfusionists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'overtime', 'shift-work', 'on-call']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist clinical perfusionists perfusion classification
+</div>
 
 # 41. Clinical Perfusionists
 

@@ -1,8 +1,12 @@
----
+﻿---
 title: 'Schedule 4 - Alfred Health General Conditions: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['schedules', 'hospital-specific']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist Alfred Health general conditions agreement
+</div>
 
 # Schedule 4 - Alfred Health General Conditions: Medical Scientists, Pharm & Psych EBA
 

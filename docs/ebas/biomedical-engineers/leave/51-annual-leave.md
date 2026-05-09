@@ -1,8 +1,12 @@
----
+﻿---
 title: '51. Annual Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'annual-leave', 'hours', 'employment']
 ---
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer annual leave holidays recreation leave four weeks
+</div>
 
 # 51. Annual Leave
 
