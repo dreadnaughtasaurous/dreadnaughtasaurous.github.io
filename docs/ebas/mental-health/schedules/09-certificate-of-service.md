@@ -1,10 +1,11 @@
----
+﻿---
 title: 'Schedule 9 - Certificate Of Service: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'employment']
 ---
 <span data-pagefind-meta="clause:Schedule 09" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
+<span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support certificate of service reference employment record

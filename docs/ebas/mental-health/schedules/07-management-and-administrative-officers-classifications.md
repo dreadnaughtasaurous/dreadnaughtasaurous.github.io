@@ -1,10 +1,11 @@
----
+﻿---
 title: 'Schedule 7 – Management and Administrative Officers Classifications: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'classifications']
 ---
 <span data-pagefind-meta="clause:Schedule 07" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
+<span data-pagefind-filter="eba:Mental Health Services 2024-2028" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support management administrative officers classifications

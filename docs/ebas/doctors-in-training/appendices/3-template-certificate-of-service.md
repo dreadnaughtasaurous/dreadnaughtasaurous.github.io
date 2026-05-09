@@ -1,10 +1,11 @@
----
+﻿---
 title: 'Appendix 3 – Template Certificate of Service: Doctors In Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
 <span data-pagefind-meta="clause:Appendix 3" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>
+<span data-pagefind-filter="eba:Doctors in Training 2022-2026" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2 template certificate of service document form

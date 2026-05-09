@@ -5,6 +5,7 @@ topics: ['hours', 'penalty-rates', 'shift-work', 'employment', 'redundancy', 'te
 ---
 <span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>
+<span data-pagefind-filter="eba:Children's Services Award 2010" style="display:none"></span>
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's redundancy retrenchment redundancy pay severance

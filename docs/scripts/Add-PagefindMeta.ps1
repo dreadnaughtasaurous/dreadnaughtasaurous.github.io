@@ -129,6 +129,27 @@ function Get-SectionLabel([string]$filePath) {
     # Fallback: convert the folder name to Title Case
     return ConvertTo-TitleCase $parentFolder
 }
+function Get-EbaLabel {
+    param([string]$FilePath)
+    # Extract the EBA folder — it sits two levels below docs\ebas\
+    # Path pattern: ...\docs\ebas\<eba-folder>\<section-folder>\filename.md
+    $parts = $FilePath -split '\\|/'
+    $ebaIndex = ($parts | Select-String -SimpleMatch 'ebas' | Select-Object -Last 1).LineNumber - 1
+    if ($null -eq $ebaIndex) { return $null }
+    $ebaFolder = $parts[$ebaIndex + 1]
+    $map = @{
+        'allied-health'        = 'Allied Health Professionals 2021-2026'
+        'biomedical-engineers' = 'Biomedical Engineers 2025-2028'
+        'childrens-services'   = "Children's Services Award 2010"
+        'doctors-in-training'  = 'Doctors in Training 2022-2026'
+        'has-managers-admin'   = 'Health Allied & Managers Admin 2021-2025'
+        'mspp'   = 'Medical Scientists, Pharm & Psych 2021-2025'
+        'medical-specialists'  = 'Medical Specialists 2022-2026'
+        'mental-health'        = 'Mental Health Services 2024-2028'
+        'nurses-midwives'      = 'Nurses and Midwives 2024-2028'
+    }
+    return $map[$ebaFolder]
+}
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
@@ -188,6 +209,7 @@ foreach ($eba in $foldersToProcess) {
             default      { "Clause $clauseNum"   }
         }
         $sectionLabel = Get-SectionLabel $file.FullName
+        $ebaLabel     = Get-EbaLabel $file.FullName
 
         # Read the file content
         try {
@@ -201,10 +223,27 @@ foreach ($eba in $foldersToProcess) {
         }
 
         # Idempotency check — skip if tags already present
-        if ($content -match 'data-pagefind-meta="clause:') {
+        if ($content -match 'data-pagefind-meta="clause:' -and $content -match 'data-pagefind-filter="eba:') {
             $msg = "EXIST | Already has meta — $($file.FullName)"
             $logLines += $msg
             $alreadyHas++
+            continue
+        }
+
+        # Partial files — clause/section meta exists but eba filter is missing
+        if ($content -match 'data-pagefind-meta="clause:' -and $content -notmatch 'data-pagefind-filter="eba:') {
+            if ($ebaLabel) {
+                $ebaOnlySpan = "`n<span data-pagefind-filter=""eba:$ebaLabel"" style=""display:none""></span>"
+                $newContent  = $content -replace '(<span data-pagefind-meta="section:[^""]+" style="display:none"></span>)', "`$1$ebaOnlySpan"
+                if ($newContent -ne $content) {
+                    if (-not $DryRun) { [System.IO.File]::WriteAllText($file.FullName, $newContent, [System.Text.Encoding]::UTF8) }
+                    $msg = "INJECT-EBA| eba=$ebaLabel | $($file.FullName)"
+                    Write-Host $msg -ForegroundColor Cyan
+                    $logLines += $msg
+                    $injected++
+                    continue
+                }
+            }
             continue
         }
 
@@ -220,7 +259,8 @@ foreach ($eba in $foldersToProcess) {
         }
 
         # Build the two injection lines
-        $injectBlock = "`n<span data-pagefind-meta=""clause:$clauseLabel"" style=""display:none""></span>`n<span data-pagefind-meta=""section:$sectionLabel"" style=""display:none""></span>"
+        $ebaSpan     = if ($ebaLabel) { "`n<span data-pagefind-filter=""eba:$ebaLabel"" style=""display:none""></span>" } else { '' }
+        $injectBlock = "`n<span data-pagefind-meta=""clause:$clauseLabel"" style=""display:none""></span>`n<span data-pagefind-meta=""section:$sectionLabel"" style=""display:none""></span>$ebaSpan"
 
         # Insert after the closing --- of front matter.
         # Strategy: replace the FIRST occurrence of a line that is exactly ---
