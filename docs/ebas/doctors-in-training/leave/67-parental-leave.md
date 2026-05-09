@@ -1,4 +1,4 @@
-﻿---
+---
 title: '67. Parental Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'parental-leave', 'wages', 'superannuation']

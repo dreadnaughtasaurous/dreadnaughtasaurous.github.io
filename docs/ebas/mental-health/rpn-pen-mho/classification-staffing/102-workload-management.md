@@ -1,4 +1,4 @@
-﻿---
+---
 title: '102. Workload Management'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'staffing', 'education']

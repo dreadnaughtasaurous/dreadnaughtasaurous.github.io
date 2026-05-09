@@ -1,4 +1,4 @@
-﻿---
+---
 title: '90. Accident Pay'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'accident-pay', 'preliminary']

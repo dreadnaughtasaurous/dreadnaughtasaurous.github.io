@@ -1,4 +1,4 @@
-﻿---
+---
 title: '20. Roster Design Safe Hours Of Work'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'staffing', 'workload']

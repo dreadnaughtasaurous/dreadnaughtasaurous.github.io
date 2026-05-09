@@ -1,4 +1,4 @@
-﻿---
+---
 title: '15. Individual Flexibility Arrangements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['flexible-work', 'preliminary']

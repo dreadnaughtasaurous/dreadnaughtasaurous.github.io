@@ -1,4 +1,4 @@
-﻿---
+---
 title: '26. Redundancy And Associated Entitlements'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']
@@ -10,7 +10,7 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer redundancy retrenchment redundancy pay severance entitlements
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer redundancy retrenchment redundancy pay severance entitlements payout termination payment job loss let go made redundant
 </div>
 
 # 26. Redundancy And Associated Entitlements

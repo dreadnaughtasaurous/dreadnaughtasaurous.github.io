@@ -1,4 +1,4 @@
-﻿---
+---
 title: '46. Overtime'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime']

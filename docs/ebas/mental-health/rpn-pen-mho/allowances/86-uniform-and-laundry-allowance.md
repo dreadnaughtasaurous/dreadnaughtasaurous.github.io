@@ -1,4 +1,4 @@
-﻿---
+---
 title: '86. Uniform And Laundry Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'wages']

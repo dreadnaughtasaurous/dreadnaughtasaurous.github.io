@@ -1,4 +1,4 @@
-﻿---
+---
 title: '31. Qualification Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['allowances', 'preliminary', 'staffing']

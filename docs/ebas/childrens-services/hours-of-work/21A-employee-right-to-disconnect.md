@@ -1,4 +1,4 @@
-﻿---
+---
 title: '21A. Employee Right To Disconnect'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'rosters', 'right-to-disconnect']

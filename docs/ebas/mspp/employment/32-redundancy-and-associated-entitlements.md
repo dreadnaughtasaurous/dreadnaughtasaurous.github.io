@@ -1,4 +1,4 @@
-﻿---
+---
 title: '32. Redundancy And Associated Entitlements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages', 'employment', 'redundancy', 'termination']
@@ -10,7 +10,7 @@ topics: ['wages', 'employment', 'redundancy', 'termination']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist redundancy retrenchment redundancy pay severance entitlements
+MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist redundancy retrenchment redundancy pay severance entitlements payout termination payment job loss let go made redundant
 </div>
 
 # 32. Redundancy And Associated Entitlements

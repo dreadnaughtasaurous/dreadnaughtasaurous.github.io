@@ -1,4 +1,4 @@
-﻿---
+---
 title: '30. Compensation Make Up Pay'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages', 'preliminary']

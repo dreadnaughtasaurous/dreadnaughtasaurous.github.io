@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Hours Of Work'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours']

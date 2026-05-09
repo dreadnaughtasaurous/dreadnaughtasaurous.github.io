@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Doctors In Training'
 eba: 'doctors-in-training.md'
 topics: ['training']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '40. Change Of Roster Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters', 'allowances']
@@ -10,7 +10,7 @@ topics: ['hours', 'rosters', 'allowances']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant change of roster allowance alteration payment
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant change of roster allowance alteration payment rostering notice short notice roster change roster alteration
 </div>
 
 # 40. Change Of Roster Allowance

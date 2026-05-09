@@ -1,4 +1,4 @@
-﻿---
+---
 title: '78. Higher Duties Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'allowances', 'staffing']

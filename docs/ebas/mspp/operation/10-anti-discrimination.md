@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. Anti Discrimination'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['flexible-work', 'preliminary', 'discrimination']

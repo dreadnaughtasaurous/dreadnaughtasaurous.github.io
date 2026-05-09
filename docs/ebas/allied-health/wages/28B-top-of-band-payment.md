@@ -1,4 +1,4 @@
-﻿---
+---
 title: '28B. Top Of Band Payment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'employment', 'preliminary']

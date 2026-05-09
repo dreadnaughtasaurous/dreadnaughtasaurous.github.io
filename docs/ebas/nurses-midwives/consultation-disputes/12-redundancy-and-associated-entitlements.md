@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12. Redundancy And Associated Entitlements'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['employment', 'redundancy', 'consultation', 'disputes']
@@ -10,7 +10,7 @@ topics: ['employment', 'redundancy', 'consultation', 'disputes']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant redundancy retrenchment redundancy pay severance entitlements
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant redundancy retrenchment redundancy pay severance entitlements payout termination payment job loss let go made redundant
 </div>
 
 # 12. Redundancy And Associated Entitlements

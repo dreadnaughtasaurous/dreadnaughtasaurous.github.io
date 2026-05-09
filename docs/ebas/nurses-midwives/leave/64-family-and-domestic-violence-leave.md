@@ -1,4 +1,4 @@
-﻿---
+---
 title: '64. Family And Domestic Violence Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'family-violence-leave', 'preliminary', 'definitions']

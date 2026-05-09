@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39. Meal Allowances'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'overtime', 'shift-work', 'allowances']

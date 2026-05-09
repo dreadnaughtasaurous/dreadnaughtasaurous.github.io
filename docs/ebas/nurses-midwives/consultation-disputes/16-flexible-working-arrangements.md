@@ -1,4 +1,4 @@
-﻿---
+---
 title: '16. Flexible Working Arrangements'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['flexible-work', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '25A. Parental Leave And Related Entitlements'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'parental-leave', 'disputes', 'preliminary']

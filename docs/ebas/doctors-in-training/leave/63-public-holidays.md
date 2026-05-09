@@ -1,4 +1,4 @@
-﻿---
+---
 title: '63. Public Holidays'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'public-holidays', 'preliminary']

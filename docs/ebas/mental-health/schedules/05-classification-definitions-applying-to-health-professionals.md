@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 5 – Classification Definitions Applying to Health Professionals: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['schedules', 'classifications']

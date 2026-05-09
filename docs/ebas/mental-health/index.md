@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Mental Health'
 eba: 'mental-health.md'
 topics: []

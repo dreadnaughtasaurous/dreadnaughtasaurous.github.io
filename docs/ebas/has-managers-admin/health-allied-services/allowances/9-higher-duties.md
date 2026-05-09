@@ -1,4 +1,4 @@
-﻿---
+---
 title: '9. Higher Duties'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'shift-work', 'preliminary', 'classifications']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '43. Superannuation'
 eba: 'Doctors in Training 2022-2026'
 topics: ['wages', 'superannuation', 'preliminary']

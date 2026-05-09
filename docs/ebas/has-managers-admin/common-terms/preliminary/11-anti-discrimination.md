@@ -1,4 +1,4 @@
-﻿---
+---
 title: '11. Anti Discrimination'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['disputes', 'preliminary', 'discrimination']

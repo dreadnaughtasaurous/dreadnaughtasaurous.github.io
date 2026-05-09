@@ -1,4 +1,4 @@
-﻿---
+---
 title: '109. Psychiatric Enrolled Nurse Classifications'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']

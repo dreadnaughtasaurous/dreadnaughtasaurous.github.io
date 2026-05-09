@@ -1,4 +1,4 @@
-﻿---
+---
 title: '27. Flexible Working Arrangements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'flexible-work', 'preliminary']

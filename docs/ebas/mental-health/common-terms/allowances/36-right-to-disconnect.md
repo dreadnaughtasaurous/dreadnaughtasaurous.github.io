@@ -1,4 +1,4 @@
-﻿---
+---
 title: '36. Right To Disconnect'
 eba: 'Mental Health Services 2024-2028'
 topics: ['right-to-disconnect']

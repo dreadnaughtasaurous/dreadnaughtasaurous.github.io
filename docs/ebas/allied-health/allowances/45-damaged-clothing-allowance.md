@@ -1,4 +1,4 @@
-﻿---
+---
 title: '45. Damaged Clothing Allowance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances']

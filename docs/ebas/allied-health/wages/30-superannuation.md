@@ -1,4 +1,4 @@
-﻿---
+---
 title: '30. Superannuation'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages', 'superannuation', 'preliminary']

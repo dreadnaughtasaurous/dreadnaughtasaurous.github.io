@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Registered & Enrolled Psychiatric Nurses and Mental Health Officers'
 eba: 'Mental Health Services 2024-2028'
 topics: []

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '84. Absences On Defence Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'employment']

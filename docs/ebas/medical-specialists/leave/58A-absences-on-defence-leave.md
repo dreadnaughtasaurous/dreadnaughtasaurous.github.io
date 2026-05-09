@@ -1,4 +1,4 @@
-﻿---
+---
 title: '58A. Absences On Defence Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'employment']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '18. Part Time Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'hours', 'overtime', 'shift-work']

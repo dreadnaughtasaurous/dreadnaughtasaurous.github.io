@@ -221,7 +221,7 @@ $filenameKeywords = @{
     'overpayment-of-wages-royal-childrens-hospital' = 'overpayment wages recovery Royal Childrens Hospital'
     'underpayment-of-wages'                    = 'underpayment wages recovery back pay remedy'
     'additional-payment-of-wages-provisions'   = 'additional payment wages provisions'
-    'annualised-salaries-royal-childrens-hospital' = 'annualised salary Royal Childrens Hospital'
+    'annualised-salaries-royal-childrens-hospital' = 'annualised salary Royal Childrens Hospital salary absorption all inclusive salary rolled up salary flat salary'
     'superannuation'                           = 'superannuation super employer contribution SGC retirement'
     'salary-packaging'                         = 'salary packaging novated lease pre-tax benefits FBT packaging'
     'accident-pay'                             = 'accident pay workers compensation make-up pay injury payment'
@@ -285,7 +285,7 @@ $filenameKeywords = @{
     'rates-for-saturdays-sundays'              = 'Saturday Sunday rates penalty weekend'
     'rates-for-saturdays-and-sundays'          = 'Saturday Sunday rates penalty weekend'
     'special-rates-for-saturdays-sundays'      = 'Saturday Sunday special rates weekend'
-    'on-call'                                  = 'on call availability recall standby allowance'
+    'on-call'                                  = 'on call availability recall standby allowance available allowance being on call held on call after hours call'
     'on-call-recall'                           = 'on call recall standby availability allowance'
     'on-call-rostered-overtime'                = 'on call rostered overtime recall allowance'
     'oncall-recall-non-catt'                   = 'on call recall non-CATT allowance standby'
@@ -301,10 +301,10 @@ $filenameKeywords = @{
     'on-call-full-time-doctors'                = 'on call full time doctors standby availability'
     'telephone-calls-to-doctors-outside-of-working-hours' = 'telephone calls doctors outside hours callback payment'
     'four-clear-days-allowance'                = 'four clear days allowance rest break rotation'
-    'change-of-shift-allowance'                = 'change of shift allowance roster alteration payment'
+    'change-of-shift-allowance'                = 'change of shift allowance roster alteration payment rostering notice short notice roster change changed shift shift swap'
     'change-of-shift-allowance-pen-and-mho'    = 'change of shift allowance PEN MHO psychiatric enrolled nurse mental health officer'
     'change-of-shift-allowance-preservation-ens-only' = 'change of shift allowance preservation enrolled nurses'
-    'change-of-roster-allowance'               = 'change of roster allowance alteration payment'
+    'change-of-roster-allowance'               = 'change of roster allowance alteration payment rostering notice short notice roster change roster alteration'
     'change-of-ward-allowance'                 = 'change of ward allowance transfer payment'
     'travel-payment'                           = 'travel payment reimbursement transport cost'
     'travelling-allowance'                     = 'travelling allowance travel reimbursement vehicle private car'
@@ -375,9 +375,9 @@ $filenameKeywords = @{
     'ten-hour-break'                           = 'ten hour break 10 hour break fatigue rest period overtime'
     'ten-hour-break-between-overtime-recall'   = 'ten hour break between overtime recall fatigue'
     'breaks'                                   = 'breaks meal break rest period tea break interval'
-    'meal-interval'                            = 'meal interval break rest period overtime'
-    'meal-break'                               = 'meal break rest interval food break'
-    'meal-breaks'                              = 'meal breaks rest intervals food breaks'
+    'meal-interval'                            = 'meal interval break rest period overtime crib break lunch break half hour break'
+    'meal-break'                               = 'meal break rest interval food break crib break lunch break dinner break supper break tea break half hour break'
+    'meal-breaks'                              = 'meal breaks rest intervals food breaks crib break lunch break dinner break half hour break'
     'meal-intervals-and-rest-intervals'        = 'meal intervals rest intervals breaks'
     'rest-breaks'                              = 'rest breaks relief interval'
     'rest-and-meal-breaks'                     = 'rest meal breaks relief interval'
@@ -427,8 +427,8 @@ $filenameKeywords = @{
     'excess-annual-leave'                      = 'excess annual leave excessive accrual management'
     'excessive-leave-accrual'                  = 'excessive leave accrual management direction to take leave'
     'purchased-leave'                          = 'purchased leave buy additional leave extra annual leave'
-    'personal-leave'                           = 'personal leave sick leave carers leave illness'
-    'personal-carer-s-leave'                   = 'personal carer leave sick leave illness caring family'
+    'personal-leave'                           = 'personal leave sick leave carers leave illness sick day calling in sick unwell off sick medical certificate'
+    'personal-carer-s-leave'                   = 'personal carer leave sick leave illness caring family sick day calling in sick unwell medical certificate carer'
     'personal-leave-including-carer-s-leave'   = 'personal leave carer leave sick illness caring family'
     'personal-sick-carer-s-leave'              = 'personal sick carer leave illness family'
     'carer-s-leave'                            = 'carer leave family responsibilities illness caring'
@@ -522,11 +522,11 @@ $filenameKeywords = @{
     'fixed-term-employment'                    = 'fixed-term employment contract specific term project'
     'fixed-term-contract-conversion'           = 'fixed-term contract conversion permanent ongoing'
     'secure-employment'                        = 'secure employment job security permanent ongoing'
-    'redundancy'                               = 'redundancy retrenchment redundancy pay severance'
-    'redundancy-and-associated-entitlements'   = 'redundancy retrenchment redundancy pay severance entitlements'
+    'redundancy'                               = 'redundancy retrenchment redundancy pay severance payout redundancy payout termination payout job loss fired let go made redundant'
+    'redundancy-and-associated-entitlements'   = 'redundancy retrenchment redundancy pay severance entitlements payout termination payment job loss let go made redundant'
     'redundancy-and-related-entitlements'      = 'redundancy retrenchment pay severance related entitlements'
     'additional-consultation-and-redundancy-and-associated-entitl' = 'consultation redundancy associated entitlements'
-    'termination-of-employment'                = 'termination of employment dismissal resignation notice period'
+    'termination-of-employment'                = 'termination of employment dismissal resignation notice period stand down stood down suspension without pay suspended'
     'termination-of-employment-notice-of-termination' = 'termination employment notice period dismissal'
     'notice-period-before-termination'         = 'notice period termination dismissal resignation'
     'notice-of-termination'                    = 'notice of termination dismissal resignation end employment'
@@ -913,6 +913,72 @@ $filenameKeywords = @{
     'midwifery-classification'                 = 'midwifery classification grades NUM MUM'
     'graduate-nurse'                           = 'graduate nurse new graduate first year RN classification'
     'graduate-program'                         = 'graduate program new graduate nurse traineeship'
+
+    # -------------------------------------------------------
+    # WAGES / SALARY INCREASES (CORRECTED SLUGS)
+    # -------------------------------------------------------
+    'wages-and-wage-increases'                     = 'wage increase pay rise salary adjustment percentage CPI circular'
+
+
+    # -------------------------------------------------------
+    # SPECIFIC NAMED ALLOWANCES (CORRECTED SLUGS)
+    # -------------------------------------------------------
+    'community-allowance'                          = 'community allowance community health off-site payment'
+    'first-aid-allowance'                          = 'first aid allowance first aider qualification payment'
+    'clinical-leader-allowance'                    = 'clinical leader allowance leadership responsibility payment'
+
+    # -------------------------------------------------------
+    # TERMINATION / END OF EMPLOYMENT (CORRECTED SLUGS)
+    # -------------------------------------------------------
+
+    'notice-of-termination-employer'               = 'notice of termination employer dismissal period weeks retrenchment'
+    'notice-of-termination-employee'               = 'notice of termination employee resignation period weeks'
+
+    # -------------------------------------------------------
+    # MENTAL HEALTH EBA — AMHS / CATT SPECIFIC (CORRECTED SLUGS)
+    # -------------------------------------------------------
+
+    'authorised-mental-health-practitioner'        = 'authorised mental health practitioner AMHP powers obligations mental health act'
+
+    # -------------------------------------------------------
+    # WAGE TABLES / PAY POINTS / CLASSIFICATION STRUCTURE (CORRECTED SLUGS)
+    # -------------------------------------------------------
+
+    'salary-absorption'                            = 'salary absorption annualised maintained consolidated pay'
+
+    # -------------------------------------------------------
+    # INFORMAL HR LANGUAGE — cross-page workplace synonyms
+    # These map colloquial HR terms to their formal EBA equivalents
+    # so searches using everyday language surface the right pages.
+    # -------------------------------------------------------
+    'stand-down'                               = 'stand down stood down suspension without pay suspended sent home no work available direction not to attend'
+    'rostering-notice'                         = 'rostering notice change of shift notice short notice roster change changed roster altered shift'
+    'sick-leave'                               = 'sick leave personal leave sick day calling in sick unwell medical certificate illness absence'
+    'crib-break'                               = 'crib break meal break lunch break dinner break half hour break rest interval meal interval'
+    'redundancy-payout'                        = 'redundancy payout redundancy pay severance payment termination payment made redundant job loss retrenchment'
+    'on-call-allowance'                        = 'on call allowance availability allowance standby allowance after hours call held on call being on call recall'
+    'overtime-payment'                         = 'overtime payment double time time and a half additional hours penalty rates extra hours payment'
+    'penalty-rates'                            = 'penalty rates overtime shift allowance Saturday Sunday weekend public holiday higher rates'
+    'unfair-dismissal'                         = 'unfair dismissal wrongful termination dismissal without cause performance management discipline'
+    'public-holiday-pay'                       = 'public holiday pay penalty rate double time Christmas Easter statutory holiday'
+    'shift-loading'                            = 'shift loading shift allowance evening night penalty shift work payment'
+    'acting-up'                                = 'acting up higher duties allowance temporary promotion acting in position higher duties'
+    'maternity-leave'                          = 'maternity leave parental leave birth mother primary carer pregnancy birth leave'
+    'paternity-leave'                          = 'paternity leave parental leave partner secondary carer father birth'
+    'superannuation-rate'                      = 'superannuation rate super employer contribution SGC percentage retirement'
+    'pay-rise'                                 = 'pay rise wage increase salary increase remuneration increase pay increase'
+    'classification-review'                    = 'classification review reclassification grade change assessment level review'
+    'written-warning'                          = 'written warning disciplinary process conduct performance formal warning discipline'
+    'employee-assistance'                      = 'employee assistance EAP counselling support mental health wellbeing'
+    'flexible-work'                            = 'flexible work flexible working arrangements flexible hours part time work from home'
+    'domestic-violence-leave'                  = 'domestic violence leave family violence leave safety leave protection'
+    'unfair-roster'                            = 'unfair roster rostering dispute consultation change of roster workload'
+    'lunch-break'                              = 'lunch break meal break crib break half hour break rest interval food break'
+    'timesheet'                                = 'timesheet time recording payroll wages records biometric timekeeping'
+    'overpaid'                                 = 'overpaid overpayment recovery wages debt repayment'
+    'underpaid'                                = 'underpaid underpayment back pay remedy wages recovery'
+    'salary-sacrifice'                         = 'salary sacrifice salary packaging novated lease pre-tax benefits FBT'
+
 }
 
 # ==============================================================

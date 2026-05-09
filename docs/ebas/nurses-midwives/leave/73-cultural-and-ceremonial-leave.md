@@ -1,4 +1,4 @@
-﻿---
+---
 title: '73. Cultural And Ceremonial Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'ceremonial-leave', 'preliminary']

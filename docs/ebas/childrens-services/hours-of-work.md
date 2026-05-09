@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Hours Of Work'
 eba: 'Children''s Services Award 2010'
 topics: ['hours']

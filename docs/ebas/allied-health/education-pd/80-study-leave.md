@@ -1,4 +1,4 @@
-﻿---
+---
 title: '80. Study Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'study-leave', 'employment']

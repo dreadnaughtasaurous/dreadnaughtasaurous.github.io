@@ -1,4 +1,4 @@
-﻿---
+---
 title: '37. Telephone Allowance'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'on-call', 'allowances']

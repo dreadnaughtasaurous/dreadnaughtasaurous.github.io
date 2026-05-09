@@ -1,4 +1,4 @@
-﻿---
+---
 title: '61. Parental Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'parental-leave', 'wages', 'superannuation']

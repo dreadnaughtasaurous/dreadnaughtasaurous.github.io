@@ -1,4 +1,4 @@
-﻿---
+---
 title: '106. Classification Standards'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary', 'definitions', 'classifications']

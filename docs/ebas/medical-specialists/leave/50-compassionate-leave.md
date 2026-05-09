@@ -1,4 +1,4 @@
-﻿---
+---
 title: '50. Compassionate Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'compassionate-leave', 'preliminary']

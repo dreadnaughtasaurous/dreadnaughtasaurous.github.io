@@ -1,4 +1,4 @@
-﻿---
+---
 title: EBAs
 eba: 'index.md'
 topics: []

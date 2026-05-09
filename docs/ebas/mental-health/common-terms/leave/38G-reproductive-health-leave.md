@@ -1,4 +1,4 @@
-﻿---
+---
 title: '38G. Reproductive Health Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'reproductive-health-leave', 'preliminary', 'definitions']

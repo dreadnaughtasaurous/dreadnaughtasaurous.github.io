@@ -1,4 +1,4 @@
-﻿---
+---
 title: '52. Right To Disconnect'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'right-to-disconnect']

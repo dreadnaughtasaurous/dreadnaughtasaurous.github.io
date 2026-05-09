@@ -1,4 +1,4 @@
-﻿---
+---
 title: '67. Long Service Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'annual-leave', 'long-service-leave', 'employment']

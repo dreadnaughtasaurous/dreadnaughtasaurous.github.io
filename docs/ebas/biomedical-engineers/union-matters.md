@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Union Matters'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['union-matters']

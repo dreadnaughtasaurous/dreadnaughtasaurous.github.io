@@ -1,4 +1,4 @@
-﻿---
+---
 title: '36. Overtime'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'overtime', 'rosters', 'preliminary']

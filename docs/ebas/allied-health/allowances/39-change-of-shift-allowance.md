@@ -1,4 +1,4 @@
-﻿---
+---
 title: '39. Change Of Shift Allowance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'shift-work', 'allowances']
@@ -10,7 +10,7 @@ topics: ['hours', 'shift-work', 'allowances']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist change of shift allowance roster alteration payment
+AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist change of shift allowance roster alteration payment rostering notice short notice roster change changed shift shift swap
 </div>
 
 # 39. Change Of Shift Allowance

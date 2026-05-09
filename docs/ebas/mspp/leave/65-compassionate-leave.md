@@ -1,4 +1,4 @@
-﻿---
+---
 title: '65. Compassionate Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']

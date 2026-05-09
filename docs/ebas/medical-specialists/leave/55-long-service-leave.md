@@ -1,4 +1,4 @@
-﻿---
+---
 title: '55. Long Service Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'long-service-leave', 'employment', 'preliminary']

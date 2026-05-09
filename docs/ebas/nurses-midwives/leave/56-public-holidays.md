@@ -1,4 +1,4 @@
-﻿---
+---
 title: '56. Public Holidays'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'preliminary']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '17. Accident Pay'
 eba: 'Children''s Services Award 2010'
 topics: ['wages', 'accident-pay']

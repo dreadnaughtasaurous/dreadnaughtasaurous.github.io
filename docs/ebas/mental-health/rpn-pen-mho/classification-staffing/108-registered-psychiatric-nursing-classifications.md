@@ -1,4 +1,4 @@
-﻿---
+---
 title: '108. Registered Psychiatric Nursing Classifications'
 eba: 'Mental Health Services 2024-2028'
 topics: ['classifications', 'education']

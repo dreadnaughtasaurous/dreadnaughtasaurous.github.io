@@ -1,4 +1,4 @@
-﻿---
+---
 title: '18. Higher Duties'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'shift-work', 'wages', 'higher-duties', 'classifications', 'preliminary']

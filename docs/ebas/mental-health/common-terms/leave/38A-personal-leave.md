@@ -1,4 +1,4 @@
-﻿---
+---
 title: '38A. Personal Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'personal-leave', 'preliminary']
@@ -10,7 +10,7 @@ topics: ['leave', 'personal-leave', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support personal leave sick leave carers leave illness
+mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support personal leave sick leave carers leave illness sick day calling in sick unwell off sick medical certificate
 </div>
 
 # 38A. Personal Leave

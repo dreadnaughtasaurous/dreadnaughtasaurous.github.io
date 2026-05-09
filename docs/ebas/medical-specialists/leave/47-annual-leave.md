@@ -1,4 +1,4 @@
-﻿---
+---
 title: '47. Annual Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'annual-leave', 'hours', 'rosters']

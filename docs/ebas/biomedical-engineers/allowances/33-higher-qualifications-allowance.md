@@ -1,4 +1,4 @@
-﻿---
+---
 title: '33. Higher Qualifications Allowance'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances']

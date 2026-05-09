@@ -1,4 +1,4 @@
-﻿---
+---
 title: '153. In Charge Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']

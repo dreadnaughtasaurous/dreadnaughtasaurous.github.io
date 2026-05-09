@@ -1,4 +1,4 @@
-﻿---
+---
 title: '80. Public Holidays'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'public-holidays', 'preliminary']

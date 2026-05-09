@@ -1,4 +1,4 @@
-﻿---
+---
 title: '28. Salary And Allowances Increases'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'wages']

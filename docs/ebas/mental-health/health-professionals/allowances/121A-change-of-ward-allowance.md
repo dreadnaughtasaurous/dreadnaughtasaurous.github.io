@@ -1,4 +1,4 @@
-﻿---
+---
 title: '121A. Change Of Ward Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'rosters', 'allowances']

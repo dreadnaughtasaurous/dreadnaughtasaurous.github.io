@@ -1,4 +1,4 @@
-﻿---
+---
 title: '57. Compassionate Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'compassionate-leave']

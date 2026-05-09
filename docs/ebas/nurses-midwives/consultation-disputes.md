@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Consultation Disputes'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'disputes']

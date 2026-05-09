@@ -1,4 +1,4 @@
-﻿---
+---
 title: '60. Family Violence Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'family-violence-leave', 'preliminary']

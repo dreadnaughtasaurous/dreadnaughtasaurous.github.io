@@ -1,4 +1,4 @@
-﻿---
+---
 title: '154. Interpreter Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'preliminary']

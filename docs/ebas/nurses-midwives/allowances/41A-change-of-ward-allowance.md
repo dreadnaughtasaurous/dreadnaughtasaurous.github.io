@@ -1,4 +1,4 @@
-﻿---
+---
 title: '41A. Change Of Ward Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['allowances']

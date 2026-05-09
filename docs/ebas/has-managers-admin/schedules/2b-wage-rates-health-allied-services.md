@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Schedule 2B - Wage Rates (Health & Allied Services): Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['schedules', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular']

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '76. Union Matters'
 eba: 'Doctors in Training 2022-2026'
 topics: ['union-matters']

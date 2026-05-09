@@ -1,4 +1,4 @@
-﻿---
+---
 title: '15. Allowances'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'overtime', 'shift-work', 'allowances']

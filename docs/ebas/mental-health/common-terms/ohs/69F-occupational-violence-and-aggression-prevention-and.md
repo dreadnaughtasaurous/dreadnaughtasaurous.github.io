@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69F. Occupational Violence And Aggression Prevention And Management'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs', 'preliminary']

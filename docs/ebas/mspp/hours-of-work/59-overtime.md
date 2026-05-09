@@ -1,4 +1,4 @@
-﻿---
+---
 title: '59. Overtime'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'overtime', 'ohs']

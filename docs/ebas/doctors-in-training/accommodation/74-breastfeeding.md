@@ -1,4 +1,4 @@
-﻿---
+---
 title: '74. Breastfeeding'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'breaks', 'flexible-work']

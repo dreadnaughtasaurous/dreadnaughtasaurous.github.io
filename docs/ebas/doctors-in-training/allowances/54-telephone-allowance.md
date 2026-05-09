@@ -1,4 +1,4 @@
-﻿---
+---
 title: '54. Telephone Allowance'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'on-call', 'allowances']

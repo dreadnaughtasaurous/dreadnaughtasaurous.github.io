@@ -1,4 +1,4 @@
-﻿---
+---
 title: '202. On Call Recall'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'public-holidays', 'allowances']

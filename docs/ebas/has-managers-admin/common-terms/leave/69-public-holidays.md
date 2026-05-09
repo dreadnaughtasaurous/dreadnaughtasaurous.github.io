@@ -1,4 +1,4 @@
-﻿---
+---
 title: '69. Public Holidays'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'public-holidays', 'preliminary']

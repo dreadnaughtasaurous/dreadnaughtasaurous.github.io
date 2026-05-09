@@ -1,4 +1,4 @@
-﻿---
+---
 title: '18. Managing Conduct And Performance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['discipline', 'union-matters', 'preliminary']

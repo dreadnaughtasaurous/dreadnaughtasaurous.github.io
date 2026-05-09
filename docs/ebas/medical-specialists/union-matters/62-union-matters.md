@@ -1,4 +1,4 @@
-﻿---
+---
 title: '62. Union Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: ['union-matters']

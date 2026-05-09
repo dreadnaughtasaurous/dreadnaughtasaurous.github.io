@@ -1,4 +1,4 @@
-﻿---
+---
 title: '10. Redundancy And Associated Entitlements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages', 'employment', 'redundancy', 'preliminary']
@@ -10,7 +10,7 @@ topics: ['wages', 'employment', 'redundancy', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist redundancy retrenchment redundancy pay severance entitlements
+medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist redundancy retrenchment redundancy pay severance entitlements payout termination payment job loss let go made redundant
 </div>
 
 # 10. Redundancy And Associated Entitlements

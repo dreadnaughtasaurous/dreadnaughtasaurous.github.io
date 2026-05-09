@@ -1,4 +1,4 @@
-﻿---
+---
 title: '12. Individual Flexibility Arrangement'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave', 'hours', 'overtime', 'flexible-work']

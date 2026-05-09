@@ -1,4 +1,4 @@
-﻿---
+---
 title: '27. Top Of Band Payment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']

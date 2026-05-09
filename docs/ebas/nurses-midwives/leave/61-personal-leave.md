@@ -1,4 +1,4 @@
-﻿---
+---
 title: '61. Personal Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'personal-leave', 'employment', 'preliminary']
@@ -10,7 +10,7 @@ topics: ['leave', 'personal-leave', 'employment', 'preliminary']
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
 </div>
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant personal leave sick leave carers leave illness
+nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant personal leave sick leave carers leave illness sick day calling in sick unwell off sick medical certificate
 </div>
 
 # 61. Personal Leave

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '164. Hours Of Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'hours', 'shift-work']

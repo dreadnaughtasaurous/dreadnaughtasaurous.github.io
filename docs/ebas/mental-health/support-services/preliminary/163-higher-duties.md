@@ -1,4 +1,4 @@
-﻿---
+---
 title: '163. Higher Duties'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work', 'wages', 'preliminary']
