@@ -1,7 +1,7 @@
 ---
 title: '67. Parental Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'parental-leave', 'wages', 'superannuation']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 67" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

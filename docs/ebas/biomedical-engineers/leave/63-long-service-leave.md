@@ -1,7 +1,7 @@
 ---
 title: '63. Long Service Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'personal-leave', 'annual-leave', 'long-service-leave']
+topics: ['leave', 'long-service-leave']
 ---
 <span data-pagefind-meta="clause:Clause 63" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

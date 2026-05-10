@@ -1,7 +1,7 @@
 ---
 title: '50. Roster'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'rosters', 'on-call']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 50" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

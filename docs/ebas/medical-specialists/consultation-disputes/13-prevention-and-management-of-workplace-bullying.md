@@ -1,7 +1,7 @@
 ---
 title: '13. Prevention And Management Of Workplace Bullying'
 eba: 'Medical Specialists 2022-2026'
-topics: ['ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

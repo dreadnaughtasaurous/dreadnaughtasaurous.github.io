@@ -1,7 +1,7 @@
 ---
 title: '72. Lump Sum Payment Mho Only'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 72" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

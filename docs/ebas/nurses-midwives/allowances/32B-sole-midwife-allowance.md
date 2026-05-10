@@ -1,7 +1,7 @@
 ---
 title: '32B. Sole Midwife Allowance'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'shift-work', 'allowances', 'preliminary']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 32B" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

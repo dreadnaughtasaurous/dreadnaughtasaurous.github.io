@@ -1,7 +1,7 @@
 ---
 title: '74. Additional Payment Of Wages Provisions'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime', 'wages']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 74" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

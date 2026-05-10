@@ -1,7 +1,7 @@
 ---
 title: '14. Education And Training'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['education', 'professional-development']
+topics: ['education']
 ---
 <span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

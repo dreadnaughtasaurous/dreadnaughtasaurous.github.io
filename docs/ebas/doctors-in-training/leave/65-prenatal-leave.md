@@ -1,7 +1,7 @@
 ---
 title: '65. Prenatal Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']
+topics: ['parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 65" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

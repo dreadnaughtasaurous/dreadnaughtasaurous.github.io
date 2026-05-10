@@ -1,7 +1,7 @@
 ---
 title: '3. Notice Of Termination - Employer'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['wages', 'employment', 'termination']
+topics: ['employment', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

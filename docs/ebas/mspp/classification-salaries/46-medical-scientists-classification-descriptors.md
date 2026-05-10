@@ -1,7 +1,7 @@
 ---
 title: '46. Medical Scientists Classification Descriptors'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'classifications']
+topics: ['classifications']
 ---
 <span data-pagefind-meta="clause:Clause 46" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>

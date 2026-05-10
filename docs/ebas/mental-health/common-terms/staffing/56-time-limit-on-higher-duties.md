@@ -1,7 +1,7 @@
 ---
 title: '56. Time Limit On Higher Duties'
 eba: 'Mental Health Services 2024-2028'
-topics: ['disputes', 'staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 56" style="display:none"></span>
 <span data-pagefind-meta="section:Staffing" style="display:none"></span>

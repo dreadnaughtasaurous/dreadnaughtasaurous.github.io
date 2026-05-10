@@ -1,7 +1,7 @@
 ---
 title: '67. Family Violence Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'family-violence-leave', 'preliminary', 'definitions']
+topics: ['leave', 'family-violence-leave']
 ---
 <span data-pagefind-meta="clause:Clause 67" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

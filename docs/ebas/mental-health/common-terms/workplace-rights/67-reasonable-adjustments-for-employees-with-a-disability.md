@@ -1,7 +1,7 @@
 ---
 title: '67. Reasonable Adjustments For Employees With A Disability'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 67" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

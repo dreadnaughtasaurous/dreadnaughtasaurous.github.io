@@ -1,7 +1,7 @@
 ---
 title: '27A. Transition To Retirement'
 eba: 'Mental Health Services 2024-2028'
-topics: ['flexible-work', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 27A" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

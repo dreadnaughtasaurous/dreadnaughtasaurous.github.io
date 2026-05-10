@@ -1,7 +1,7 @@
 ---
 title: '77. Best Practice Employment Commitment Committee'
 eba: 'Doctors in Training 2022-2026'
-topics: ['union-matters', 'preliminary', 'staffing', 'workload']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 77" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

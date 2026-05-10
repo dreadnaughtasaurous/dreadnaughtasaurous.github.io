@@ -1,7 +1,7 @@
 ---
 title: '96. Flexible Working Arrangements'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['employment', 'flexible-work', 'preliminary']
+topics: ['flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 96" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

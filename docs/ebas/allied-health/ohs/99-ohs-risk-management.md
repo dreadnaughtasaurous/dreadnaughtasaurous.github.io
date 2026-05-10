@@ -1,7 +1,7 @@
 ---
 title: '99. OH&S Risk Management'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['consultation', 'ohs']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 99" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

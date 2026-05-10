@@ -1,7 +1,7 @@
 ---
 title: '53. Annual Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'annual-leave', 'hours', 'employment']
+topics: ['leave', 'annual-leave']
 ---
 <span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

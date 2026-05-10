@@ -1,7 +1,7 @@
 ---
 title: '45. Shiftwork'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'shift-work', 'allowances', 'preliminary']
+topics: ['hours', 'shift-work', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 45" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

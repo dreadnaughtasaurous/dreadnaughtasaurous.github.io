@@ -1,7 +1,7 @@
 ---
 title: '37. Travelling And Relocation'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'shift-work', 'allowances', 'employment', 'redundancy']
+topics: ['allowances', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 37" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

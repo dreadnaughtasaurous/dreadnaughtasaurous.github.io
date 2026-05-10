@@ -1,7 +1,7 @@
 ---
 title: 'Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'training']
+topics: ['leave']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

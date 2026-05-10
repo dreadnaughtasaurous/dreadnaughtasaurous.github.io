@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 2 - Wages and Allowances: Nurses & Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['appendices', 'pay-rates', 'wages', 'allowances', 'remuneration', 'salary', 'rates', 'classification', 'shift-allowances', 'on-call', 'qualification-allowance', 'salary-circular', 'circular 870']
+topics: ['pay-rates', 'allowances', 'remuneration', 'salary', 'rates', 'classification', 'shift-allowances', 'qualification-allowance', 'salary-circular', 'circular 870']
 ---
 <span data-pagefind-meta="clause:Appendix 02" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

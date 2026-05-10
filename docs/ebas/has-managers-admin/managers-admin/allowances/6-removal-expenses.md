@@ -1,7 +1,7 @@
 ---
 title: '6. Removal Expenses'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 6" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

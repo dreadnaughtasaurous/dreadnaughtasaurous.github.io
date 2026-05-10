@@ -1,7 +1,7 @@
 ---
 title: '30A. Consultation About Changes To Rosters Or Hours Of Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['hours', 'rosters', 'consultation', 'union-matters']
+topics: ['hours', 'rosters', 'consultation']
 ---
 <span data-pagefind-meta="clause:Clause 30A" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

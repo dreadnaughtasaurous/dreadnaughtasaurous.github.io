@@ -1,7 +1,7 @@
 ---
 title: '33. Workload'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['hours', 'staffing', 'workload']
+topics: ['hours', 'workload']
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Workforce Management" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '15. Allowances'
 eba: 'Children''s Services Award 2010'
-topics: ['hours', 'overtime', 'shift-work', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 15" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

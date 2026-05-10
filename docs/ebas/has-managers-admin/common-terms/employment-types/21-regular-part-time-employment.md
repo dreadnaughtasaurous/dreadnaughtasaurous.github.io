@@ -1,7 +1,7 @@
 ---
 title: '21. Regular Part Time Employment'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'employment', 'classifications']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 21" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '206. Reasonable Additional Hours'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 206" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

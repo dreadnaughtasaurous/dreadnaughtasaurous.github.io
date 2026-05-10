@@ -1,7 +1,7 @@
 ---
 title: '33. Workforce Skills Capability And Mobility'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

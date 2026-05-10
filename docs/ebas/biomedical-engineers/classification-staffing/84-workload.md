@@ -1,7 +1,7 @@
 ---
 title: '84. Workload'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'overtime', 'staffing', 'workload']
+topics: ['hours', 'workload']
 ---
 <span data-pagefind-meta="clause:Clause 84" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

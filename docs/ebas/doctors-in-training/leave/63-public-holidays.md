@@ -1,7 +1,7 @@
 ---
 title: '63. Public Holidays'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'public-holidays', 'preliminary']
+topics: ['public-holidays']
 ---
 <span data-pagefind-meta="clause:Clause 63" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

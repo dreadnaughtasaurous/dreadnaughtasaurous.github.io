@@ -1,7 +1,7 @@
 ---
 title: '25. Redundancy And Related Entitlements'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'wages', 'employment', 'redundancy']
+topics: ['employment', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

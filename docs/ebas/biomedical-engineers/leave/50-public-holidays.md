@@ -1,7 +1,7 @@
 ---
 title: '50. Public Holidays'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'public-holidays', 'preliminary']
+topics: ['public-holidays']
 ---
 <span data-pagefind-meta="clause:Clause 50" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '17. Secure Employment'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['employment', 'preliminary']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '16. Anti Discrimination'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'family-violence-leave', 'flexible-work', 'preliminary', 'discrimination']
+topics: ['family-violence-leave', 'preliminary', 'discrimination']
 ---
 <span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

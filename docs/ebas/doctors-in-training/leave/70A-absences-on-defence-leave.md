@@ -1,7 +1,7 @@
 ---
 title: '70A. Absences On Defence Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 70A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

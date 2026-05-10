@@ -1,7 +1,7 @@
 ---
 title: '64. Breastfeeding'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'breaks', 'flexible-work']
+topics: ['breaks', 'flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 64" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

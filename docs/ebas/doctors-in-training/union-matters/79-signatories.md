@@ -1,7 +1,7 @@
 ---
 title: '79. Signatories'
 eba: 'Doctors in Training 2022-2026'
-topics: ['union-matters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 79" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

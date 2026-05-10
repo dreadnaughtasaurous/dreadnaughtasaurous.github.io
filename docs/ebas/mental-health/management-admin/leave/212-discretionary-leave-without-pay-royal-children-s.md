@@ -1,7 +1,7 @@
 ---
 title: '212. Discretionary Leave Without Pay - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'parental-leave']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 212" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '86. Working From Home'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 86" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

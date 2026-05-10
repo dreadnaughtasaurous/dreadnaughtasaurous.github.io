@@ -1,7 +1,7 @@
 ---
 title: '78. Staff Replacement'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'study-leave', 'education', 'professional-development']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 78" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

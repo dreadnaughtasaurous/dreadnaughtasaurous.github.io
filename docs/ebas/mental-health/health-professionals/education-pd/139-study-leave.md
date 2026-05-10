@@ -1,7 +1,7 @@
 ---
 title: '139. Study Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'study-leave', 'preliminary', 'education']
+topics: ['leave', 'study-leave', 'education']
 ---
 <span data-pagefind-meta="clause:Clause 139" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

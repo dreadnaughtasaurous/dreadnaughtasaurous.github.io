@@ -1,7 +1,7 @@
 ---
 title: '71. Breastfeeding'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'breaks', 'flexible-work']
+topics: ['breaks', 'flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 71" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

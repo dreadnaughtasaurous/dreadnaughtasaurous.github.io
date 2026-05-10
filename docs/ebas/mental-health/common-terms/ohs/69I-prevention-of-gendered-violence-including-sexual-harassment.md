@@ -1,7 +1,7 @@
 ---
 title: '69I. Prevention Of Gendered Violence Including Sexual Harassment'
 eba: 'Mental Health Services 2024-2028'
-topics: ['ohs', 'gendered-violence']
+topics: ['gendered-violence']
 ---
 <span data-pagefind-meta="clause:Clause 69I" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

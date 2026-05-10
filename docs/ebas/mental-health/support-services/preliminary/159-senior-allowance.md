@@ -1,7 +1,7 @@
 ---
 title: '159. Senior Allowance'
 eba: 'Mental Health Services 2024-2028'
-topics: ['allowances', 'classifications']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 159" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

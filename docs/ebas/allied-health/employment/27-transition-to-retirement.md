@@ -1,7 +1,7 @@
 ---
 title: '27. Transition To Retirement'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

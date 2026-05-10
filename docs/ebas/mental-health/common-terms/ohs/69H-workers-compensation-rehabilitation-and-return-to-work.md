@@ -1,7 +1,7 @@
 ---
 title: '69H. Workers Compensation Rehabilitation And Return To Work'
 eba: 'Mental Health Services 2024-2028'
-topics: ['ohs', 'workers-comp']
+topics: ['workers-comp']
 ---
 <span data-pagefind-meta="clause:Clause 69H" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

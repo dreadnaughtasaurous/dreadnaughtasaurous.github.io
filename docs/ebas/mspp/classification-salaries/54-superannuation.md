@@ -1,7 +1,7 @@
 ---
 title: '54. Superannuation'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'superannuation']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 54" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '14. Dispute Resolution Procedure'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'disputes', 'preliminary']
+topics: ['disputes']
 ---
 <span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

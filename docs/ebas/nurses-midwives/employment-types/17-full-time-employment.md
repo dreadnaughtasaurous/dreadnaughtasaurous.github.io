@@ -1,7 +1,7 @@
 ---
 title: '17. Full Time Employment'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'employment', 'classifications']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

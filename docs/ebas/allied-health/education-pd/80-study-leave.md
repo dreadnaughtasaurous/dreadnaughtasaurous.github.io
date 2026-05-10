@@ -1,7 +1,7 @@
 ---
 title: '80. Study Leave'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'study-leave', 'employment']
+topics: ['leave', 'study-leave']
 ---
 <span data-pagefind-meta="clause:Clause 80" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

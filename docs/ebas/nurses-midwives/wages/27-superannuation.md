@@ -1,7 +1,7 @@
 ---
 title: '27. Superannuation'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['wages', 'superannuation', 'preliminary', 'definitions']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

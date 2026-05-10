@@ -1,7 +1,7 @@
 ---
 title: '34. Shift Allowance'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'shift-work', 'allowances']
+topics: ['shift-work', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 34" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

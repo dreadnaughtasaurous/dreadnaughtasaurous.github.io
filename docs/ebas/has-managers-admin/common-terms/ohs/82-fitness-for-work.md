@@ -1,7 +1,7 @@
 ---
 title: '82. Fitness For Work'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 82" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

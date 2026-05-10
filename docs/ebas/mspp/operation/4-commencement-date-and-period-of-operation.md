@@ -1,7 +1,7 @@
 ---
 title: '4. Commencement Date And Period Of Operation'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'parental-leave', 'wages', 'preliminary']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 4" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>

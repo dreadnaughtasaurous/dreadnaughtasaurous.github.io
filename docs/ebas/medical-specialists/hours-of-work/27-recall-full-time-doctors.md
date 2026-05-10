@@ -1,7 +1,7 @@
 ---
 title: '27. Recall Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'on-call', 'employment']
+topics: ['hours', 'on-call']
 ---
 <span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

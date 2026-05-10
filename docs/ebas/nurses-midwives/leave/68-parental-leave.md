@@ -1,7 +1,7 @@
 ---
 title: '68. Parental Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'parental-leave', 'wages', 'superannuation']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 68" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

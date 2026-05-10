@@ -1,7 +1,7 @@
 ---
 title: 'Allowances'
 eba: 'Doctors in Training 2022-2026'
-topics: ['allowances', 'training']
+topics: ['allowances']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

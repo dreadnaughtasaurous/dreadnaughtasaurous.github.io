@@ -1,7 +1,7 @@
 ---
 title: '17. Accident Pay'
 eba: 'Children''s Services Award 2010'
-topics: ['wages', 'accident-pay']
+topics: ['accident-pay']
 ---
 <span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

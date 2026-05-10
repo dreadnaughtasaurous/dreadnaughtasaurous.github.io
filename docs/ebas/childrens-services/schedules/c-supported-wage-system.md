@@ -1,7 +1,7 @@
 ---
 title: "Schedule C - Supported Wage System: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
-topics: ['schedules', 'wages', 'supported-wage']
+topics: ['schedules', 'supported-wage']
 ---
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

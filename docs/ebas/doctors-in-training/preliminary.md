@@ -1,7 +1,7 @@
 ---
 title: 'Preliminary'
 eba: 'Doctors in Training 2022-2026'
-topics: ['training', 'preliminary']
+topics: ['preliminary']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

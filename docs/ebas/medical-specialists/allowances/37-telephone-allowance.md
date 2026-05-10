@@ -1,7 +1,7 @@
 ---
 title: '37. Telephone Allowance'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'on-call', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 37" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '19. Notification Of Classification'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['preliminary', 'classifications']
+topics: ['classifications']
 ---
 <span data-pagefind-meta="clause:Clause 19" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

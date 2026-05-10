@@ -1,7 +1,7 @@
 ---
 title: '73. Facilities When On Rotation'
 eba: 'Doctors in Training 2022-2026'
-topics: ['employment', 'accommodation']
+topics: ['accommodation']
 ---
 <span data-pagefind-meta="clause:Clause 73" style="display:none"></span>
 <span data-pagefind-meta="section:Accommodation" style="display:none"></span>

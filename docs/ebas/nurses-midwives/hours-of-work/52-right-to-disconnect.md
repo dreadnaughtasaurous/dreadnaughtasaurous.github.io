@@ -1,7 +1,7 @@
 ---
 title: '52. Right To Disconnect'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'right-to-disconnect']
+topics: ['right-to-disconnect']
 ---
 <span data-pagefind-meta="clause:Clause 52" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

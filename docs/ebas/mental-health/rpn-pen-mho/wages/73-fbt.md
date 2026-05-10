@@ -1,7 +1,7 @@
 ---
 title: '73. FBT'
 eba: 'Mental Health Services 2024-2028'
-topics: ['allowances', 'vehicle']
+topics: ['vehicle']
 ---
 <span data-pagefind-meta="clause:Clause 73" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

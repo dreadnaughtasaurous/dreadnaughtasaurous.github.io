@@ -1,7 +1,7 @@
 ---
 title: '32. Rural And Isolated Practice Allowance'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'hours', 'overtime', 'wages', 'superannuation']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

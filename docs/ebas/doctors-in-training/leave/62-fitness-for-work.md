@@ -1,7 +1,7 @@
 ---
 title: '62. Fitness For Work'
 eba: 'Doctors in Training 2022-2026'
-topics: ['ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

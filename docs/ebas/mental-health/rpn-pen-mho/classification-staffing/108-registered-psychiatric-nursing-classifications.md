@@ -1,7 +1,7 @@
 ---
 title: '108. Registered Psychiatric Nursing Classifications'
 eba: 'Mental Health Services 2024-2028'
-topics: ['classifications', 'education']
+topics: ['classifications']
 ---
 <span data-pagefind-meta="clause:Clause 108" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

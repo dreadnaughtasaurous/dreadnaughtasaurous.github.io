@@ -1,7 +1,7 @@
 ---
 title: '31. Remuneration And Remuneration Increases'
 eba: 'Medical Specialists 2022-2026'
-topics: ['wages', 'preliminary']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 31" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

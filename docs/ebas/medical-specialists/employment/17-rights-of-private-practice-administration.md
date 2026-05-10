@@ -1,7 +1,7 @@
 ---
 title: '17. Rights Of Private Practice Administration'
 eba: 'Medical Specialists 2022-2026'
-topics: ['employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

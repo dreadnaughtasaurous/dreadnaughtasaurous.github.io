@@ -1,7 +1,7 @@
 ---
 title: '41. Accrued Days Off'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'rosters', 'employment']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 41" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

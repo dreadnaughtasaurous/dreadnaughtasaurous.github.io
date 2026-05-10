@@ -1,7 +1,7 @@
 ---
 title: '96A. Portfolio Work In Paid Time'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 96A" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

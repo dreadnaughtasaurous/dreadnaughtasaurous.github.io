@@ -1,7 +1,7 @@
 ---
 title: '62. Excess Annual Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'annual-leave', 'hours', 'shift-work']
+topics: ['leave', 'annual-leave']
 ---
 <span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

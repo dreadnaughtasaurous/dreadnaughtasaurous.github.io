@@ -1,7 +1,7 @@
 ---
 title: '47. Long Service Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'long-service-leave', 'preliminary']
+topics: ['leave', 'long-service-leave']
 ---
 <span data-pagefind-meta="clause:Clause 47" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

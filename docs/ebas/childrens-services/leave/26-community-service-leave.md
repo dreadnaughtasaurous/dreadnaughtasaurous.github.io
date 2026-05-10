@@ -1,7 +1,7 @@
 ---
 title: '26. Community Service Leave'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 26" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

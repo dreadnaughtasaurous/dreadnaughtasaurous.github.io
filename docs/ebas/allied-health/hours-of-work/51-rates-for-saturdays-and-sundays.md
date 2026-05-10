@@ -1,7 +1,7 @@
 ---
 title: '51. Rates For Saturdays And Sundays'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'overtime', 'rosters', 'on-call']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 51" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

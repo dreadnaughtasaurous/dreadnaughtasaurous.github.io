@@ -1,7 +1,7 @@
 ---
 title: '54. Telephone Allowance'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'on-call', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 54" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

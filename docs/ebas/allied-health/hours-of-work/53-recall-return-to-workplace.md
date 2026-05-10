@@ -1,7 +1,7 @@
 ---
 title: '53. Recall - Return To Workplace'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'overtime', 'rosters', 'on-call']
+topics: ['hours', 'overtime', 'on-call']
 ---
 <span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

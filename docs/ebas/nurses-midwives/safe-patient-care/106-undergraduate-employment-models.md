@@ -1,7 +1,7 @@
 ---
 title: '106. Undergraduate Employment Models'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary', 'definitions', 'staffing', 'education', 'professional-development']
+topics: ['staffing']
 ---
 <span data-pagefind-meta="clause:Clause 106" style="display:none"></span>
 <span data-pagefind-meta="section:Safe Patient Care" style="display:none"></span>

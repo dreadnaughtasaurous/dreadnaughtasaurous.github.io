@@ -1,7 +1,7 @@
 ---
 title: '16. Discipline'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['discipline', 'union-matters']
+topics: ['discipline']
 ---
 <span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

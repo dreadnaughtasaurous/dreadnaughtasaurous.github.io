@@ -1,7 +1,7 @@
 ---
 title: '18. Part Time Employment'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'hours', 'overtime', 'shift-work']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 18" style="display:none"></span>
 <span data-pagefind-meta="section:Doctor Employment" style="display:none"></span>

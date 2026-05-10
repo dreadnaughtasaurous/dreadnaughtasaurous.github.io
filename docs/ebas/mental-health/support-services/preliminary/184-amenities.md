@@ -1,7 +1,7 @@
 ---
 title: '184. Amenities'
 eba: 'Mental Health Services 2024-2028'
-topics: ['staffing', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 184" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '7A. Workplace Delegates Rights'
 eba: 'Children''s Services Award 2010'
-topics: ['hours', 'rosters', 'employment', 'consultation', 'union-matters', 'delegates', 'preliminary']
+topics: ['union-matters', 'delegates']
 ---
 <span data-pagefind-meta="clause:Clause 7A" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

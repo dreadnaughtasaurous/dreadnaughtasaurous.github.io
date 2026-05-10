@@ -1,7 +1,7 @@
 ---
 title: '49. Breaks'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'shift-work', 'rosters', 'breaks']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 49" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

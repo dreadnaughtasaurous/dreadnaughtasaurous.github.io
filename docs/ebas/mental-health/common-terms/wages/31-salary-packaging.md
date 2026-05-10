@@ -1,7 +1,7 @@
 ---
 title: '31. Salary Packaging'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages', 'salary-packaging', 'preliminary']
+topics: ['wages', 'salary-packaging']
 ---
 <span data-pagefind-meta="clause:Clause 31" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '147. Dual Part Time Appointments'
 eba: 'Mental Health Services 2024-2028'
-topics: ['classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 147" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

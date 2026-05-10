@@ -1,7 +1,7 @@
 ---
 title: '87. Allied Health Manager Structure'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 87" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

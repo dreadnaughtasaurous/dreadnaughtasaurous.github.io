@@ -1,7 +1,7 @@
 ---
 title: '11. Dispute Resolution Procedure'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
+topics: ['disputes']
 ---
 <span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

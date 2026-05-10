@@ -1,7 +1,7 @@
 ---
 title: '2. Index'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'rosters', 'consultation']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 2" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

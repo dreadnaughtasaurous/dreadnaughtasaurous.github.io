@@ -1,7 +1,7 @@
 ---
 title: '4. Definitions'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'hours']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 4" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

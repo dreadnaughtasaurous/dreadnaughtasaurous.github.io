@@ -1,7 +1,7 @@
 ---
 title: '50A. Biometric Timekeeping'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 50A" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

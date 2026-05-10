@@ -1,7 +1,7 @@
 ---
 title: '12. Transfer Of Business'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

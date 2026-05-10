@@ -1,7 +1,7 @@
 ---
 title: '27. Public Holidays'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'annual-leave', 'public-holidays', 'hours', 'rosters', 'employment', 'preliminary']
+topics: ['public-holidays']
 ---
 <span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: 'Remuneration'
 eba: 'Doctors in Training 2022-2026'
-topics: ['remuneration', 'training']
+topics: ['remuneration']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

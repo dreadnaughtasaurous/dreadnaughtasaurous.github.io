@@ -1,7 +1,7 @@
 ---
 title: '25. Salary'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

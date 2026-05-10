@@ -1,7 +1,7 @@
 ---
 title: '58B. Special Disaster Leave'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'personal-leave', 'employment']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 58B" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

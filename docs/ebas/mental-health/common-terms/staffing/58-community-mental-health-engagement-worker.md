@@ -1,7 +1,7 @@
 ---
 title: '58. Community Mental Health Engagement Worker'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 58" style="display:none"></span>
 <span data-pagefind-meta="section:Staffing" style="display:none"></span>

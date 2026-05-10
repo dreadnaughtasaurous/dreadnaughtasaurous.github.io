@@ -1,7 +1,7 @@
 ---
 title: '43. Ceremonial Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'ceremonial-leave', 'preliminary']
+topics: ['leave', 'ceremonial-leave']
 ---
 <span data-pagefind-meta="clause:Clause 43" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

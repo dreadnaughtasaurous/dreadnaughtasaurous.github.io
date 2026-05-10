@@ -1,7 +1,7 @@
 ---
 title: '56. Shift Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['hours', 'shift-work', 'allowances']
+topics: ['hours', 'shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 56" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

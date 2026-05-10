@@ -1,7 +1,7 @@
 ---
 title: '26. Wages And Allowances'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['wages']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 26" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '48. Internal Training'
 eba: 'Doctors in Training 2022-2026'
-topics: ['ohs', 'education']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 48" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

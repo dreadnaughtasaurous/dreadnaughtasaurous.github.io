@@ -1,7 +1,7 @@
 ---
 title: 'Hours Of Work'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'definitions']
+topics: ['hours']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">

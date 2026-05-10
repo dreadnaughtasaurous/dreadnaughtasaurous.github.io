@@ -1,7 +1,7 @@
 ---
 title: '73. Access To Computers'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 73" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

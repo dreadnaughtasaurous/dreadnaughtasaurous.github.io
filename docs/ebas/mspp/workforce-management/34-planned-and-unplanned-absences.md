@@ -1,7 +1,7 @@
 ---
 title: '34. Planned And Unplanned Absences'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'staffing', 'workload', 'classifications']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 34" style="display:none"></span>
 <span data-pagefind-meta="section:Workforce Management" style="display:none"></span>

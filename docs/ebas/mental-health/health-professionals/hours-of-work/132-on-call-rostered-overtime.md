@@ -1,7 +1,7 @@
 ---
 title: '132. On Call Rostered Overtime'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'annual-leave', 'hours', 'overtime']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 132" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

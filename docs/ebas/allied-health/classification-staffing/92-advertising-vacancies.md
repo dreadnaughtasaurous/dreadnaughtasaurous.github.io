@@ -1,7 +1,7 @@
 ---
 title: '92. Advertising Vacancies'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['employment', 'termination']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 92" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

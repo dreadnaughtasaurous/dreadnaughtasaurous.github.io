@@ -1,7 +1,7 @@
 ---
 title: '169. Overtime'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime', 'wages', 'preliminary']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 169" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

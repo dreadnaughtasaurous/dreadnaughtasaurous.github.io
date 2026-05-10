@@ -1,7 +1,7 @@
 ---
 title: '55. Rest Period After Overtime/Recall - Ten Hour Break'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'overtime', 'rosters', 'breaks']
+topics: ['hours', 'overtime', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 55" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

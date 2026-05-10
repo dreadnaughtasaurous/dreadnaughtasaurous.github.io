@@ -1,7 +1,7 @@
 ---
 title: '59. Aboriginal Healthcare Worker Traineeship Mental Health'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 59" style="display:none"></span>
 <span data-pagefind-meta="section:Staffing" style="display:none"></span>

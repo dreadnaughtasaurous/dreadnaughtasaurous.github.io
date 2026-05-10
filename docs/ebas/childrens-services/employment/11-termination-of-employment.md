@@ -1,7 +1,7 @@
 ---
 title: '11. Termination Of Employment'
 eba: 'Children''s Services Award 2010'
-topics: ['wages', 'employment', 'termination', 'consultation', 'preliminary']
+topics: ['employment', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

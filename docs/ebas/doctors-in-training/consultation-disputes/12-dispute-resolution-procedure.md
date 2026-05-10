@@ -1,7 +1,7 @@
 ---
 title: '12. Dispute Resolution Procedure'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
+topics: ['disputes']
 ---
 <span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

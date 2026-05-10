@@ -1,7 +1,7 @@
 ---
 title: 'Appendices'
 eba: 'Doctors in Training 2022-2026'
-topics: ['training', 'appendices']
+topics: []
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

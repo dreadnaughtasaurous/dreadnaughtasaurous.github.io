@@ -1,7 +1,7 @@
 ---
 title: '75. Ceremonial Leave'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'ceremonial-leave', 'preliminary']
+topics: ['leave', 'ceremonial-leave']
 ---
 <span data-pagefind-meta="clause:Clause 75" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

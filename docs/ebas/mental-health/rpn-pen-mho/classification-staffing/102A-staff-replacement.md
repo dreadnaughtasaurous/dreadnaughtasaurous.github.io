@@ -1,7 +1,7 @@
 ---
 title: '102A. Staff Replacement'
 eba: 'Mental Health Services 2024-2028'
-topics: ['staffing', 'shift-work', 'leave']
+topics: ['staffing', 'leave']
 ---
 <span data-pagefind-meta="clause:Clause 102A" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

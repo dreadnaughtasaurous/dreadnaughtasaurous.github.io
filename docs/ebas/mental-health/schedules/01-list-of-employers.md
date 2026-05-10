@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 1 - List Of Employers: Mental Health EBA '
 eba: 'Mental Health Services 2024-2028'
-topics: ['appendices', 'coverage']
+topics: ['coverage']
 ---
 <span data-pagefind-meta="clause:Schedule 01" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '43. Childcare Reimbursement'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'overtime', 'on-call', 'allowances', 'childcare']
+topics: ['allowances', 'childcare']
 ---
 <span data-pagefind-meta="clause:Clause 43" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

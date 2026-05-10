@@ -1,7 +1,7 @@
 ---
 title: '2. Commencement And Transitional'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'public-holidays', 'hours', 'shift-work', 'wages', 'employment', 'preliminary']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 2" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>

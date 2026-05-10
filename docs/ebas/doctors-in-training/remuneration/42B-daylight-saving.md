@@ -1,7 +1,7 @@
 ---
 title: '42B. Daylight Saving'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'shift-work', 'rosters', 'breaks']
+topics: ['hours', 'shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 42B" style="display:none"></span>
 <span data-pagefind-meta="section:Remuneration" style="display:none"></span>

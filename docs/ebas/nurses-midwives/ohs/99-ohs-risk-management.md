@@ -1,7 +1,7 @@
 ---
 title: '99. OH&S Risk Management'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['consultation', 'ohs']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 99" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

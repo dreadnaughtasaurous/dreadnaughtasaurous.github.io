@@ -1,7 +1,7 @@
 ---
 title: '50. Conference Seminar Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'study-leave', 'preliminary']
+topics: ['leave', 'study-leave']
 ---
 <span data-pagefind-meta="clause:Clause 50" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '90A. Senior Midwife and Liaison Midwife'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['classification', 'staffing']
+topics: ['classification']
 ---
 <span data-pagefind-meta="clause:Clause 90A" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

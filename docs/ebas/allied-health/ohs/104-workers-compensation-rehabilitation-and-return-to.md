@@ -1,7 +1,7 @@
 ---
 title: '104. Workers Compensation Rehabilitation and Return To Work'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['wages', 'accident-pay']
+topics: ['accident-pay']
 ---
 <span data-pagefind-meta="clause:Clause 104" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '133. Catt On Call Recall Allowances'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'public-holidays', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 133" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

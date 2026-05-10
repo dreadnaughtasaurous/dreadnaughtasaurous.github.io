@@ -1,7 +1,7 @@
 ---
 title: '40. Absence On Defence Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 40" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '61. Personal Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'personal-leave', 'employment', 'preliminary']
+topics: ['leave', 'personal-leave']
 ---
 <span data-pagefind-meta="clause:Clause 61" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

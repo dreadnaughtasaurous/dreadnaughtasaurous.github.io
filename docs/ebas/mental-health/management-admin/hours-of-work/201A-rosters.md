@@ -1,7 +1,7 @@
 ---
 title: '201A. Rosters'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'rosters', 'preliminary']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 201A" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

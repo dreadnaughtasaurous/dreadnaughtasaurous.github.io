@@ -1,7 +1,7 @@
 ---
 title: '10. Anti Discrimination'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['flexible-work', 'preliminary', 'discrimination']
+topics: ['preliminary', 'discrimination']
 ---
 <span data-pagefind-meta="clause:Clause 10" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

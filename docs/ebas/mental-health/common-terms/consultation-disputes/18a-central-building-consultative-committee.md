@@ -1,7 +1,7 @@
 ---
 title: '18A. Central Building Consultative Committee'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'parental-leave', 'consultation', 'ohs', 'workers-comp']
+topics: ['consultation', 'workers-comp']
 ---
 <span data-pagefind-meta="clause:Clause 18a" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

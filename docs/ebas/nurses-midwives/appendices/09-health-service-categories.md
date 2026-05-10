@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 9 – Health Service Categories: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['appendices', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Appendix 09" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

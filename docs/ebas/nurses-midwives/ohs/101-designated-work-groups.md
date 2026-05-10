@@ -1,7 +1,7 @@
 ---
 title: '101. Designated Work Groups'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['consultation', 'union-matters', 'ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 101" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

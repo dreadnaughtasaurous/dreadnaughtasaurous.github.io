@@ -1,7 +1,7 @@
 ---
 title: '13. Individual Flexibility Arrangement'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'on-call', 'flexible-work', 'preliminary']
+topics: ['flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

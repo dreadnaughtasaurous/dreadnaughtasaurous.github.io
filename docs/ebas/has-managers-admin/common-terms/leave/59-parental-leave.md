@@ -1,7 +1,7 @@
 ---
 title: '59. Parental Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'parental-leave', 'wages', 'superannuation']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 59" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

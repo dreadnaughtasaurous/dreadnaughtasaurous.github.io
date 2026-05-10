@@ -1,7 +1,7 @@
 ---
 title: '43. Tea Breaks'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'breaks', 'preliminary']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 43" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

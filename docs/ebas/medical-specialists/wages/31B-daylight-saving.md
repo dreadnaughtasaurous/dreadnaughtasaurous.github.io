@@ -1,7 +1,7 @@
 ---
 title: '31B. Daylight Saving'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'shift-work', 'rosters', 'breaks']
+topics: ['hours', 'shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 31B" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: "82. In-Service Education And Training - Royal Children's Hospital and Royal Women's Hospital"
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 82" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

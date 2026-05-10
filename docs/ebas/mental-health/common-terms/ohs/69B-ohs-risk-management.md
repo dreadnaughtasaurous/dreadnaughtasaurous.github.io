@@ -1,7 +1,7 @@
 ---
 title: '69B. Ohs Risk Management'
 eba: 'Mental Health Services 2024-2028'
-topics: ['consultation', 'ohs']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 69B" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

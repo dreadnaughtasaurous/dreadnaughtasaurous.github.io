@@ -1,7 +1,7 @@
 ---
 title: '16. Consultation'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['consultation', 'ohs']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

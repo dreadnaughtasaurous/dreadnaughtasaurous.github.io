@@ -1,7 +1,7 @@
 ---
 title: '14. Flexible Working Arrangements'
 eba: 'Medical Specialists 2022-2026'
-topics: ['flexible-work', 'preliminary']
+topics: ['flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

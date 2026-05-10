@@ -1,7 +1,7 @@
 ---
 title: '42. Hours Of Work'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'shift-work']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 42" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

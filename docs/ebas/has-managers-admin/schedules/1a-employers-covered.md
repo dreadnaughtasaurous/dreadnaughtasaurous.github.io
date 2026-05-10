@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 1A - Employers Covered: Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['schedules', 'coverage']
+topics: ['coverage']
 ---
 <span data-pagefind-meta="clause:Schedule 1a" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

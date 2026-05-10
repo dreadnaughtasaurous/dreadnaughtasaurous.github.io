@@ -1,7 +1,7 @@
 ---
 title: '118. Higher Education Recognition Allowance'
 eba: 'Mental Health Services 2024-2028'
-topics: ['allowances', 'employment', 'preliminary', 'staffing']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 118" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

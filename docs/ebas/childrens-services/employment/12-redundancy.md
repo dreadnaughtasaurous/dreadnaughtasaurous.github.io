@@ -1,7 +1,7 @@
 ---
 title: '12. Redundancy'
 eba: 'Children''s Services Award 2010'
-topics: ['hours', 'penalty-rates', 'shift-work', 'employment', 'redundancy', 'termination', 'preliminary']
+topics: ['penalty-rates', 'employment', 'redundancy', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

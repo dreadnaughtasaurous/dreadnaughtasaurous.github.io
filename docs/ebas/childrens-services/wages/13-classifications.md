@@ -1,7 +1,7 @@
 ---
 title: '13. Classifications'
 eba: 'Children''s Services Award 2010'
-topics: ['wages', 'classifications', 'preliminary']
+topics: ['classifications']
 ---
 <span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

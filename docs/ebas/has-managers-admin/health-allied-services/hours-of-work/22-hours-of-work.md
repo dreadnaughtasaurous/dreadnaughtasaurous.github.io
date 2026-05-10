@@ -1,7 +1,7 @@
 ---
 title: '22. Hours Of Work'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'hours', 'shift-work', 'employment']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 22" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

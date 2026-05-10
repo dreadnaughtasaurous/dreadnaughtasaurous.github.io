@@ -1,7 +1,7 @@
 ---
 title: '87. Occupational Health And Safety Workplace Violence'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['consultation']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 87" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

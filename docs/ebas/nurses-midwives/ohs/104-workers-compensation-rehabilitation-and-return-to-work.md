@@ -1,7 +1,7 @@
 ---
 title: '104. Workers Compensation Rehabilitation and Return To Work'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['ohs', 'workers-comp']
+topics: ['workers-comp']
 ---
 <span data-pagefind-meta="clause:Clause 104" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

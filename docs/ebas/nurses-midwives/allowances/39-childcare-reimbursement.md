@@ -1,7 +1,7 @@
 ---
 title: '39. Childcare Reimbursement'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'overtime']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 39" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

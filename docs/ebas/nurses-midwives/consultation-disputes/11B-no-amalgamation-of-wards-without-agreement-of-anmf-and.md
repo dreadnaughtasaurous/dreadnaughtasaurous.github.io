@@ -1,7 +1,7 @@
 ---
 title: '11B. No Amalgamation of Wards Without Agreement of ANMF and Employer'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['consultation', 'disputes', 'staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 11B" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

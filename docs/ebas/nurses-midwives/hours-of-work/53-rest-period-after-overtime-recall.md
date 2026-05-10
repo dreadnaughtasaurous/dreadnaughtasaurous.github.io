@@ -1,7 +1,7 @@
 ---
 title: '53. Rest Period After Overtime Recall'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'overtime', 'shift-work']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

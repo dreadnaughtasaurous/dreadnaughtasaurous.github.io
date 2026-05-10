@@ -1,7 +1,7 @@
 ---
 title: '80. Classification And Reclassification'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 80" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

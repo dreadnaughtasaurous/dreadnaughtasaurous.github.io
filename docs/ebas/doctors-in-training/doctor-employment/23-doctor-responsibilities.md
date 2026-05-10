@@ -1,7 +1,7 @@
 ---
 title: '23. Doctor Responsibilities'
 eba: 'Doctors in Training 2022-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 23" style="display:none"></span>
 <span data-pagefind-meta="section:Doctor Employment" style="display:none"></span>

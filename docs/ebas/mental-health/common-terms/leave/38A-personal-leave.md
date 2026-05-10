@@ -1,7 +1,7 @@
 ---
 title: '38A. Personal Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'personal-leave', 'preliminary']
+topics: ['leave', 'personal-leave']
 ---
 <span data-pagefind-meta="clause:Clause 38A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

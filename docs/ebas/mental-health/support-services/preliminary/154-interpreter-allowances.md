@@ -1,7 +1,7 @@
 ---
 title: '154. Interpreter Allowances'
 eba: 'Mental Health Services 2024-2028'
-topics: ['allowances', 'preliminary']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 154" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

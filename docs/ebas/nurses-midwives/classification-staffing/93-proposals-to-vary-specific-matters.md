@@ -1,7 +1,7 @@
 ---
 title: '93. Proposals To Vary Specific Matters'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'allowances']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 93" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

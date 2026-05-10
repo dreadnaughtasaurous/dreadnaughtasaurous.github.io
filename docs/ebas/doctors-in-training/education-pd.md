@@ -1,7 +1,7 @@
 ---
 title: 'Education & Professional Development'
 eba: 'Doctors in Training 2022-2026'
-topics: ['education', 'professional-development', 'training']
+topics: ['education']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

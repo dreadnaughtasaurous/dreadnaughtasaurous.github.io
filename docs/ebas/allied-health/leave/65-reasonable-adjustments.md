@@ -1,7 +1,7 @@
 ---
 title: '65. Reasonable Adjustments'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 65" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

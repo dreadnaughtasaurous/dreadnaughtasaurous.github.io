@@ -1,7 +1,7 @@
 ---
 title: '42. Travel Payment'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'overtime', 'allowances', 'travel']
+topics: ['allowances', 'travel']
 ---
 <span data-pagefind-meta="clause:Clause 42" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '39. Introduction Of Revised Pathology Collector Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 39" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

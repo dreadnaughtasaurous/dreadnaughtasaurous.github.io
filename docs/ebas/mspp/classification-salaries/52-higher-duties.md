@@ -1,7 +1,7 @@
 ---
 title: '52. Higher Duties'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'classifications', 'higher-duties', 'preliminary']
+topics: ['wages', 'higher-duties']
 ---
 <span data-pagefind-meta="clause:Clause 52" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>

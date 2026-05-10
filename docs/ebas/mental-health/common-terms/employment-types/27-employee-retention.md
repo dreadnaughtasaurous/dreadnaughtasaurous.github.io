@@ -1,7 +1,7 @@
 ---
 title: '27. Employee Retention'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'long-service-leave', 'employment', 'preliminary']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

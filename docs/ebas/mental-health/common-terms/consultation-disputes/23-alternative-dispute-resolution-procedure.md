@@ -1,7 +1,7 @@
 ---
 title: '23. Alternative Dispute Resolution Procedure'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages', 'disputes', 'union-matters', 'classifications']
+topics: ['disputes']
 ---
 <span data-pagefind-meta="clause:Clause 23" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

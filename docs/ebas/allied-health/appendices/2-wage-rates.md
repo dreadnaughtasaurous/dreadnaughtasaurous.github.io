@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 2 - Wage Rates: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'allowances', 'salary-circular', 'circular 872']
+topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular', 'circular 872']
 ---
 <span data-pagefind-meta="clause:Appendix 2" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

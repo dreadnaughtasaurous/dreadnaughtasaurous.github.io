@@ -1,7 +1,7 @@
 ---
 title: '55. Fitness For Work'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 55" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

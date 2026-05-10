@@ -1,7 +1,7 @@
 ---
 title: '84. Shift Allowances'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'shift-work']
+topics: ['shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 84" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '65. Compassionate Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'compassionate-leave', 'preliminary', 'definitions']
+topics: ['leave', 'compassionate-leave']
 ---
 <span data-pagefind-meta="clause:Clause 65" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

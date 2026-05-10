@@ -1,7 +1,7 @@
 ---
 title: '69. Occupational Health And Safety / Workplace Violence'
 eba: 'Mental Health Services 2024-2028'
-topics: ['ohs', 'preliminary']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 69" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

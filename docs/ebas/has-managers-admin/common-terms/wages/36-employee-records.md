@@ -1,7 +1,7 @@
 ---
 title: '36. Employee Records'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 36" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '28. Peter Maccallum Cancer Centre Allowance'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['allowances', 'employment']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 28" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

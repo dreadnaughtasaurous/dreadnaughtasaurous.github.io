@@ -1,7 +1,7 @@
 ---
 title: '53. Unpaid Pre Adoption Leave'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'parental-leave', 'preliminary']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

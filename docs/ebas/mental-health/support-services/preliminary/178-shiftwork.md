@@ -1,7 +1,7 @@
 ---
 title: '178. Shiftwork'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'shift-work', 'allowances', 'wages']
+topics: ['hours', 'shift-work', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 178" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

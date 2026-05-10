@@ -1,7 +1,7 @@
 ---
 title: '17. Dispute Resolution Procedure'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
+topics: ['disputes']
 ---
 <span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

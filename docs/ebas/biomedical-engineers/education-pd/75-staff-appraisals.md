@@ -1,7 +1,7 @@
 ---
 title: '75. Staff Appraisals'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 75" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

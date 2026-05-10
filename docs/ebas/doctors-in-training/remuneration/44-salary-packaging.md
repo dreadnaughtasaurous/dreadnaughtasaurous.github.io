@@ -1,7 +1,7 @@
 ---
 title: '44. Salary Packaging'
 eba: 'Doctors in Training 2022-2026'
-topics: ['wages', 'salary-packaging', 'preliminary']
+topics: ['wages', 'salary-packaging']
 ---
 <span data-pagefind-meta="clause:Clause 44" style="display:none"></span>
 <span data-pagefind-meta="section:Remuneration" style="display:none"></span>

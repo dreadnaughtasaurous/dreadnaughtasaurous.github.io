@@ -1,7 +1,7 @@
 ---
 title: '54. Purchased Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'annual-leave', 'purchased-leave', 'employment']
+topics: ['leave', 'annual-leave', 'purchased-leave']
 ---
 <span data-pagefind-meta="clause:Clause 54" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

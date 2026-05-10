@@ -1,7 +1,7 @@
 ---
 title: '69. Special Disaster Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'personal-leave', 'employment']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 69" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '41. Introduction Of Revised Health Care Worker Classification Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 41" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

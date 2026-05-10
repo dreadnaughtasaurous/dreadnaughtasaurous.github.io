@@ -1,7 +1,7 @@
 ---
 title: '5. Higher Duties'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary', 'classifications', 'wages', 'higher-duties']
+topics: ['wages', 'higher-duties']
 ---
 <span data-pagefind-meta="clause:Clause 5" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

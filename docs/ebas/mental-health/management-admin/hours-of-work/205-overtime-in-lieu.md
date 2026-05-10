@@ -1,7 +1,7 @@
 ---
 title: '205. Overtime In Lieu'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime', 'wages']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 205" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

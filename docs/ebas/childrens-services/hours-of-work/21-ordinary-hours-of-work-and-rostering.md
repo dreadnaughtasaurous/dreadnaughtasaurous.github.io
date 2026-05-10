@@ -1,7 +1,7 @@
 ---
 title: '21. Ordinary Hours Of Work And Rostering'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'personal-leave', 'annual-leave', 'public-holidays', 'hours', 'overtime', 'shift-work', 'rosters', 'wages', 'employment', 'disputes', 'preliminary']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 21" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

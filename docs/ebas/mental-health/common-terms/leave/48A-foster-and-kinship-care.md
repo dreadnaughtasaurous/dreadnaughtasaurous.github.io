@@ -1,7 +1,7 @@
 ---
 title: '48A. Foster And Kinship Care'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 48A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '23. Notice Period Before Termination'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'long-service-leave', 'employment', 'termination']
+topics: ['employment', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 23" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

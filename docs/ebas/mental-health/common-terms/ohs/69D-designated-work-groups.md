@@ -1,7 +1,7 @@
 ---
 title: '69D. Designated Work Groups'
 eba: 'Mental Health Services 2024-2028'
-topics: ['consultation', 'union-matters', 'ohs', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 69D" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

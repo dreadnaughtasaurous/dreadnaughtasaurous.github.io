@@ -1,7 +1,7 @@
 ---
 title: '171. Reasonable Additional Hours'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 171" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

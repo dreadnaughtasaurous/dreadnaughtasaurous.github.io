@@ -1,7 +1,7 @@
 ---
 title: '30. Staff Appraisal'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 30" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

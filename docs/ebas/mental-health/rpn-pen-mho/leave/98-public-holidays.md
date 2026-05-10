@@ -1,7 +1,7 @@
 ---
 title: '98. Public Holidays'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'public-holidays', 'preliminary']
+topics: ['public-holidays']
 ---
 <span data-pagefind-meta="clause:Clause 98" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

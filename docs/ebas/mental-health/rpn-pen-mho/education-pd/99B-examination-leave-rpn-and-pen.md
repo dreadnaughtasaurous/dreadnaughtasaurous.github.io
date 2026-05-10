@@ -1,7 +1,7 @@
 ---
 title: '99B. Examination Leave - RPN and PEN'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'preliminary', 'education']
+topics: ['leave', 'education']
 ---
 <span data-pagefind-meta="clause:Clause 99B" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

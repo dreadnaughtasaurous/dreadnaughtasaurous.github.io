@@ -1,7 +1,7 @@
 ---
 title: '23. Full Time Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['employment', 'preliminary']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 23" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

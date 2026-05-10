@@ -1,7 +1,7 @@
 ---
 title: '35. Higher Duties Allowance'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['allowances', 'preliminary', 'wages', 'higher-duties']
+topics: ['allowances', 'wages', 'higher-duties']
 ---
 <span data-pagefind-meta="clause:Clause 35" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

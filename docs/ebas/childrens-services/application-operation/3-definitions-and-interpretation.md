@@ -1,7 +1,7 @@
 ---
 title: '3. Definitions And Interpretation'
 eba: 'Children''s Services Award 2010'
-topics: ['wages', 'superannuation', 'employment', 'union-matters', 'delegates', 'preliminary']
+topics: ['delegates', 'preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>

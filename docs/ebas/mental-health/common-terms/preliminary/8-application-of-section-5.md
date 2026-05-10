@@ -1,7 +1,7 @@
 ---
 title: '8. Application Of Section 5'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary', 'classifications']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 8" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '73A. Gender Affirmation'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'gender-affirmation-leave']
+topics: ['gender-affirmation-leave']
 ---
 <span data-pagefind-meta="clause:Clause 73A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

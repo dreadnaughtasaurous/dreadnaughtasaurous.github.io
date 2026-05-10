@@ -1,7 +1,7 @@
 ---
 title: '12. Redundancy And Associated Entitlements'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['employment', 'redundancy', 'consultation', 'disputes']
+topics: ['employment', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

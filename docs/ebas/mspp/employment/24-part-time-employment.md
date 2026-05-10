@@ -1,7 +1,7 @@
 ---
 title: '24. Part Time Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['hours', 'employment', 'classifications']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

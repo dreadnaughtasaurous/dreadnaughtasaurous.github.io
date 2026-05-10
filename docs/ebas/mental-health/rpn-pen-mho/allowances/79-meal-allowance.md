@@ -1,7 +1,7 @@
 ---
 title: '79. Meal Allowance'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime', 'shift-work', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 79" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

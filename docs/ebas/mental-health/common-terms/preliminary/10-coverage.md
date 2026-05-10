@@ -1,7 +1,7 @@
 ---
 title: '10. Coverage'
 eba: 'Mental Health Services 2024-2028'
-topics: ['union-matters', 'preliminary']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 10" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

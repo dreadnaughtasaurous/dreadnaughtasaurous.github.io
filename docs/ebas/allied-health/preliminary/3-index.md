@@ -1,7 +1,7 @@
 ---
 title: '3. Index'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'annual-leave', 'parental-leave', 'study-leave']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

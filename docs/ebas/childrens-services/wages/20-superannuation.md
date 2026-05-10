@@ -1,7 +1,7 @@
 ---
 title: '20. Superannuation'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'wages', 'superannuation', 'preliminary']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

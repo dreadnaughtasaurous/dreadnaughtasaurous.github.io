@@ -1,7 +1,7 @@
 ---
 title: '14. Statewide Industry Panel'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['consultation', 'disputes', 'discipline', 'classifications']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

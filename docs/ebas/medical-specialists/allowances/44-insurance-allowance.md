@@ -1,7 +1,7 @@
 ---
 title: '44. Insurance Allowance'
 eba: 'Medical Specialists 2022-2026'
-topics: ['allowances', 'employment']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 44" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

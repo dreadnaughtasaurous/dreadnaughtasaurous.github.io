@@ -1,7 +1,7 @@
 ---
 title: '31. Notice Of Termination'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['employment', 'termination', 'preliminary']
+topics: ['employment', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 31" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

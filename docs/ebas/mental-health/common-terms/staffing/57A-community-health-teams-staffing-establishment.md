@@ -1,7 +1,7 @@
 ---
 title: '57A. Community Health Teams Staffing Establishment'
 eba: 'Mental Health Services 2024-2028'
-topics: ['consultation', 'preliminary', 'staffing']
+topics: ['staffing']
 ---
 <span data-pagefind-meta="clause:Clause 57A" style="display:none"></span>
 <span data-pagefind-meta="section:Staffing" style="display:none"></span>

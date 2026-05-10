@@ -1,7 +1,7 @@
 ---
 title: '16B. Climate Change Mitigation And Sustainability'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 16B" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '3. Coverage Of Agreement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['union-matters', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>

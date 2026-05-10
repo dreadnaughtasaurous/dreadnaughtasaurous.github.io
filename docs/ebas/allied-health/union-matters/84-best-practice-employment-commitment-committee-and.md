@@ -1,7 +1,7 @@
 ---
 title: '84. Best Practice Employment Commitment Committee And Classification Review'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['union-matters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 84" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

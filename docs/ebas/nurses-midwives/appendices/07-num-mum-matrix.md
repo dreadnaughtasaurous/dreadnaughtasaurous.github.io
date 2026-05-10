@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 7 - NUM/MUM Matrix: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['appendices', 'staffing', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Appendix 07" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

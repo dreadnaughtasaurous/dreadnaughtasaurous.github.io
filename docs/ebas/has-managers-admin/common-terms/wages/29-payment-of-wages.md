@@ -1,7 +1,7 @@
 ---
 title: '29. Payment Of Wages'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['wages', 'preliminary', 'classifications']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 29" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '23. Letter Of Offer'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 23" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

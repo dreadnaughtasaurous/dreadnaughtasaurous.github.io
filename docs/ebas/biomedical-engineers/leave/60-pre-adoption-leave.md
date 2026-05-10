@@ -1,7 +1,7 @@
 ---
 title: '60. Pre Adoption Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'parental-leave', 'preliminary']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 60" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

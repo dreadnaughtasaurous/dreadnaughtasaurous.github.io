@@ -1,7 +1,7 @@
 ---
 title: 'Union Matters'
 eba: 'Doctors in Training 2022-2026'
-topics: ['union-matters', 'training']
+topics: ['union-matters']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">

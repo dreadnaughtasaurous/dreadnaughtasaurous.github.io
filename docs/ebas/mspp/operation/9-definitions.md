@@ -1,7 +1,7 @@
 ---
 title: '9. Definitions'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 9" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>

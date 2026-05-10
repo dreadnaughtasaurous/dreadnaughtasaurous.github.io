@@ -1,7 +1,7 @@
 ---
 title: '90. Accident Pay'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'accident-pay', 'preliminary']
+topics: ['accident-pay']
 ---
 <span data-pagefind-meta="clause:Clause 90" style="display:none"></span>
 <span data-pagefind-meta="section:Accident Pay & Allowances" style="display:none"></span>

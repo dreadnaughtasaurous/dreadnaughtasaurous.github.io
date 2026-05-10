@@ -1,7 +1,7 @@
 ---
 title: '28. Hours Of Work Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'employment']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 28" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

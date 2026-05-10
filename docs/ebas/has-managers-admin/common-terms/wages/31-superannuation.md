@@ -1,7 +1,7 @@
 ---
 title: '31. Superannuation'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['wages', 'superannuation', 'preliminary', 'definitions']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 31" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

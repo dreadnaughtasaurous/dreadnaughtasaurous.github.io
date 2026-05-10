@@ -1,7 +1,7 @@
 ---
 title: 'Employment'
 eba: 'Children''s Services Award 2010'
-topics: ['employment']
+topics: []
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

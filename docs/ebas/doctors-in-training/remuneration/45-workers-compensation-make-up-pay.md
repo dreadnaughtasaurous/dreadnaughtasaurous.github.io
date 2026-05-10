@@ -1,7 +1,7 @@
 ---
 title: '45. Workers Compensation Make Up Pay'
 eba: 'Doctors in Training 2022-2026'
-topics: ['wages', 'accident-pay', 'preliminary']
+topics: ['accident-pay']
 ---
 <span data-pagefind-meta="clause:Clause 45" style="display:none"></span>
 <span data-pagefind-meta="section:Remuneration" style="display:none"></span>

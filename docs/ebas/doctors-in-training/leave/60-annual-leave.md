@@ -1,7 +1,7 @@
 ---
 title: '60. Annual Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'annual-leave', 'public-holidays', 'employment']
+topics: ['leave', 'annual-leave']
 ---
 <span data-pagefind-meta="clause:Clause 60" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

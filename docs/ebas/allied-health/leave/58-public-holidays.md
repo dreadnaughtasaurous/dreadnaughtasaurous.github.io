@@ -1,7 +1,7 @@
 ---
 title: '58. Public Holidays'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'public-holidays', 'preliminary']
+topics: ['public-holidays']
 ---
 <span data-pagefind-meta="clause:Clause 58" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

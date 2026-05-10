@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 9 - Certificate Of Service: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
-topics: ['schedules', 'employment']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Schedule 09" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

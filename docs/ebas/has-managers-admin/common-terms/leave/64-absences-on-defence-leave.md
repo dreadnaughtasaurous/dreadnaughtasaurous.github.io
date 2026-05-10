@@ -1,7 +1,7 @@
 ---
 title: '64. Absences On Defence Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 64" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

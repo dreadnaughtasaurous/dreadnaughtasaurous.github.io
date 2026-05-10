@@ -1,7 +1,7 @@
 ---
 title: '32. Superannuation'
 eba: 'Medical Specialists 2022-2026'
-topics: ['wages', 'superannuation', 'preliminary', 'definitions']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

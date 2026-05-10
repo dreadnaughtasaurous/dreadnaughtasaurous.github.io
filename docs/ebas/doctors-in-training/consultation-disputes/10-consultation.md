@@ -1,7 +1,7 @@
 ---
 title: '10. Consultation'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'consultation']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 10" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

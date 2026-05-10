@@ -1,7 +1,7 @@
 ---
 title: '64. Compassionate Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'compassionate-leave', 'preliminary']
+topics: ['leave', 'compassionate-leave']
 ---
 <span data-pagefind-meta="clause:Clause 64" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

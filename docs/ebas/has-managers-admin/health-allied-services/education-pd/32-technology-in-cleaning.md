@@ -1,7 +1,7 @@
 ---
 title: '32. Technology In Cleaning'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['union-matters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

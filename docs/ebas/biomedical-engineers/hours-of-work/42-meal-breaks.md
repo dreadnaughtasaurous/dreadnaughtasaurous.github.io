@@ -1,7 +1,7 @@
 ---
 title: '42. Meal Breaks'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'shift-work', 'breaks', 'on-call']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 42" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '21A. Employee Right To Disconnect'
 eba: 'Children''s Services Award 2010'
-topics: ['hours', 'rosters', 'right-to-disconnect']
+topics: ['hours', 'right-to-disconnect']
 ---
 <span data-pagefind-meta="clause:Clause 21A" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

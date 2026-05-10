@@ -1,7 +1,7 @@
 ---
 title: '51A. Fitness For Work'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary', 'definitions']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 51A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

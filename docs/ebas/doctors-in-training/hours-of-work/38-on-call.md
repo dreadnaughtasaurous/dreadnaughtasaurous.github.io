@@ -1,7 +1,7 @@
 ---
 title: '38. On Call'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'rosters', 'on-call', 'allowances']
+topics: ['hours', 'on-call', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 38" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

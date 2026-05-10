@@ -1,7 +1,7 @@
 ---
 title: '55. Travelling Allowance Use Of Private Vehicle'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'on-call', 'allowances', 'travel']
+topics: ['allowances', 'travel']
 ---
 <span data-pagefind-meta="clause:Clause 55" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

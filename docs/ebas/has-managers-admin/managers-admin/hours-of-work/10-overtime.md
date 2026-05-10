@@ -1,7 +1,7 @@
 ---
 title: '10. Overtime'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'overtime', 'employment', 'preliminary']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 10" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

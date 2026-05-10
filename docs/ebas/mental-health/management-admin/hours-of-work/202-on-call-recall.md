@@ -1,7 +1,7 @@
 ---
 title: '202. On Call Recall'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'public-holidays', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 202" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

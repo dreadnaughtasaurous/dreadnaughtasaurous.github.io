@@ -1,7 +1,7 @@
 ---
 title: '198. Higher Duties'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages', 'preliminary', 'staffing', 'classifications']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 198" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

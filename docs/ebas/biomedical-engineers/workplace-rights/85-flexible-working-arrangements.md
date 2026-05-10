@@ -1,7 +1,7 @@
 ---
 title: '85. Flexible Working Arrangements'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'family-violence-leave', 'employment', 'flexible-work']
+topics: ['family-violence-leave', 'flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 85" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

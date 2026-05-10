@@ -1,7 +1,7 @@
 ---
 title: '97. Amenities'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['allowances', 'clinical-supervision', 'ohs', 'classifications']
+topics: ['clinical-supervision']
 ---
 <span data-pagefind-meta="clause:Clause 97" style="display:none"></span>
 <span data-pagefind-meta="section:Clinical Supervision" style="display:none"></span>

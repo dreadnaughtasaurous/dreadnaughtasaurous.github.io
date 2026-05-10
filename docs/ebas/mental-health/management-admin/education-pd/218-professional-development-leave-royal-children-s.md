@@ -1,7 +1,7 @@
 ---
 title: '218. Professional Development Leave - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'professional-development']
+topics: ['professional-development']
 ---
 <span data-pagefind-meta="clause:Clause 218" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '36. Overtime'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'overtime', 'rosters', 'preliminary']
+topics: ['hours', 'overtime']
 ---
 <span data-pagefind-meta="clause:Clause 36" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

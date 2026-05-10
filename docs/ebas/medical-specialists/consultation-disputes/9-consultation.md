@@ -1,7 +1,7 @@
 ---
 title: '9. Consultation'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'consultation']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 9" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '34. Accident Pay'
 eba: 'Medical Specialists 2022-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 34" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '22. Disputes Resolution Procedure'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'parental-leave', 'disputes', 'flexible-work']
+topics: ['disputes']
 ---
 <span data-pagefind-meta="clause:Clause 22" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

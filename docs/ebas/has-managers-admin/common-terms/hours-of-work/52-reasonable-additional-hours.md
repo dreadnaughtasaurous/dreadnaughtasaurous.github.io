@@ -1,7 +1,7 @@
 ---
 title: '52. Reasonable Additional Hours'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'overtime']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 52" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

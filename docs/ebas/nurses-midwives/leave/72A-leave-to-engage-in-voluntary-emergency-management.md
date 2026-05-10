@@ -1,7 +1,7 @@
 ---
 title: '72A. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 72A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

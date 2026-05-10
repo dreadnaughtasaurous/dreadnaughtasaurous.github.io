@@ -1,7 +1,7 @@
 ---
 title: '11. Anti Discrimination'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['disputes', 'preliminary', 'discrimination']
+topics: ['preliminary', 'discrimination']
 ---
 <span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

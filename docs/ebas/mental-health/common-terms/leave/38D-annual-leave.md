@@ -1,7 +1,7 @@
 ---
 title: '38D. Annual Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'annual-leave', 'hours', 'preliminary']
+topics: ['leave', 'annual-leave']
 ---
 <span data-pagefind-meta="clause:Clause 38D" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

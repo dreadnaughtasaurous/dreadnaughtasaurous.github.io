@@ -1,7 +1,7 @@
 ---
 title: '113. Once Off Retention Payment'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages', 'employment']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 113" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

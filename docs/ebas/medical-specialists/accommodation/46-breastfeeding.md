@@ -1,7 +1,7 @@
 ---
 title: '46. Breastfeeding'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'breaks', 'flexible-work']
+topics: ['breaks', 'flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 46" style="display:none"></span>
 <span data-pagefind-meta="section:Accommodation" style="display:none"></span>

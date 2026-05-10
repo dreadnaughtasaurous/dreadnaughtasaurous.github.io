@@ -1,7 +1,7 @@
 ---
 title: '54. Parental Leave'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'parental-leave', 'wages', 'superannuation']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 54" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

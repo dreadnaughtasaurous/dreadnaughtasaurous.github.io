@@ -1,7 +1,7 @@
 ---
 title: '2. Application Of Section 3'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['employment', 'termination', 'preliminary']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 2" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

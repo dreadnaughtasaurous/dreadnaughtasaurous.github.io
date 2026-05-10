@@ -1,7 +1,7 @@
 ---
 title: '53. Payment Of Wages'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'preliminary']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '11. Consultation'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

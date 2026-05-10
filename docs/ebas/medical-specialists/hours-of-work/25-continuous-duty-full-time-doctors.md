@@ -1,7 +1,7 @@
 ---
 title: '25. Continuous Duty Full Time Doctors'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'study-leave', 'employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

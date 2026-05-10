@@ -1,7 +1,7 @@
 ---
 title: '30. Superannuation'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['wages', 'superannuation', 'preliminary']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 30" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

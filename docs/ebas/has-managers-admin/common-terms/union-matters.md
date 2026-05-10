@@ -1,7 +1,7 @@
 ---
 title: 'Union Matters'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['union-matters', 'definitions']
+topics: ['union-matters']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">

@@ -1,7 +1,7 @@
 ---
 title: '42A. Employee Records'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'wages', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 42A" style="display:none"></span>
 <span data-pagefind-meta="section:Remuneration" style="display:none"></span>

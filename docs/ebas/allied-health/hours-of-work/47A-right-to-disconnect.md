@@ -1,7 +1,7 @@
 ---
 title: '47A. Right To Disconnect'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'hours']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 47A" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

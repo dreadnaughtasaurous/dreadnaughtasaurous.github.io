@@ -1,7 +1,7 @@
 ---
 title: '41. Workload Management And Review'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'overtime', 'rosters', 'staffing', 'workload']
+topics: ['hours', 'staffing', 'workload']
 ---
 <span data-pagefind-meta="clause:Clause 41" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '68. Pre Natal Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'personal-leave', 'parental-leave', 'hours', 'shift-work']
+topics: ['parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 68" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

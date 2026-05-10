@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 1B – Supported Wage System for Employees with a Disability: Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['schedules', 'wages', 'disability']
+topics: ['disability']
 ---
 <span data-pagefind-meta="clause:Schedule 1b" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

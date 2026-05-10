@@ -1,7 +1,7 @@
 ---
 title: '7. Date And Period Of Operation'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 7" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

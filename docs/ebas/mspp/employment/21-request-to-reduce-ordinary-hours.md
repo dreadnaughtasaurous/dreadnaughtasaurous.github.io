@@ -1,7 +1,7 @@
 ---
 title: '21. Request To Reduce Ordinary Hours'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['hours', 'employment']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 21" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

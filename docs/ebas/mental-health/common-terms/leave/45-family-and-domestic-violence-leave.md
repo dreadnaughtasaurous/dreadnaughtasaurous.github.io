@@ -1,7 +1,7 @@
 ---
 title: '45. Family And Domestic Violence Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'family-violence-leave', 'preliminary', 'definitions']
+topics: ['leave', 'family-violence-leave']
 ---
 <span data-pagefind-meta="clause:Clause 45" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

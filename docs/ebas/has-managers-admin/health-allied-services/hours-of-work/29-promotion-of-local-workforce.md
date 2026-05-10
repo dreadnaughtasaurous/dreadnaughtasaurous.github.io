@@ -1,7 +1,7 @@
 ---
 title: '29. Promotion Of Local Workforce'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['education', 'professional-development']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 29" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

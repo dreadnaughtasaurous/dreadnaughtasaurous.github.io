@@ -1,7 +1,7 @@
 ---
 title: 'Consultation Disputes'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['consultation', 'disputes', 'definitions']
+topics: ['consultation', 'disputes']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">

@@ -1,7 +1,7 @@
 ---
 title: '90C. Proposals To Vary Specific Matters'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'shift-work', 'allowances', 'staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 90C" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

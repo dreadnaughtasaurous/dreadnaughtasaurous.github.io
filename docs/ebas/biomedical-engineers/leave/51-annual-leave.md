@@ -1,7 +1,7 @@
 ---
 title: '51. Annual Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'annual-leave', 'hours', 'employment']
+topics: ['leave', 'annual-leave']
 ---
 <span data-pagefind-meta="clause:Clause 51" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

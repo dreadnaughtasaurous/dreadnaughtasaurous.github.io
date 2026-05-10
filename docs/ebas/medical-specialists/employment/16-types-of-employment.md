@@ -1,7 +1,7 @@
 ---
 title: '16. Types Of Employment'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'wages', 'employment']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

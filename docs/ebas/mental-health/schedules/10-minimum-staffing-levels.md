@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 10 - Minimum Staffing Levels: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
-topics: ['schedules', 'staffing']
+topics: ['staffing']
 ---
 <span data-pagefind-meta="clause:Schedule 10" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

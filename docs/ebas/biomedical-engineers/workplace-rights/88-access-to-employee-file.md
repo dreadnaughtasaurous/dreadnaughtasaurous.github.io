@@ -1,7 +1,7 @@
 ---
 title: '88. Access To Employee File'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['union-matters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 88" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

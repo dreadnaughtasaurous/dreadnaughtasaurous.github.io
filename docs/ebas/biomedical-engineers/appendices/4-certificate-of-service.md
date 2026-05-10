@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 4 - Certificate of Service: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['appendices', 'employment', 'forms', 'leave', 'long-service-leave', 'personal-leave']
+topics: ['appendices', 'employment', 'forms']
 rewrites:
   - from: ebas/biomedical-engineers/appendices/4-classification-definitions
     to: ebas/biomedical-engineers/appendices/4-certificate-of-service

@@ -1,7 +1,7 @@
 ---
 title: '33. Commuted Allowance'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'allowances', 'preliminary']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

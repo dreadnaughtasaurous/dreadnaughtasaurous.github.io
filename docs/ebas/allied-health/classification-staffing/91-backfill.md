@@ -1,7 +1,7 @@
 ---
 title: '91. Backfill'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['preliminary', 'staffing', 'workload', 'wages', 'higher-duties']
+topics: ['staffing', 'higher-duties']
 ---
 <span data-pagefind-meta="clause:Clause 91" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '69. Breastfeeding'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['flexible-work', 'hours', 'breaks']
+topics: ['flexible-work', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 69" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

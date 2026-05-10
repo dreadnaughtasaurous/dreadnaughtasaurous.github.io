@@ -1,7 +1,7 @@
 ---
 title: '18. Part Time Employment'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'hours', 'overtime', 'shift-work']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 18" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

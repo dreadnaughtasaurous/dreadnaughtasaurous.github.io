@@ -1,7 +1,7 @@
 ---
 title: '50. Meal Breaks'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'shift-work', 'breaks', 'on-call']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 50" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

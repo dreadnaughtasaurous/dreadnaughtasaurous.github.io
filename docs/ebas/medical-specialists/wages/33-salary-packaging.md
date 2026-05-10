@@ -1,7 +1,7 @@
 ---
 title: '33. Salary Packaging'
 eba: 'Medical Specialists 2022-2026'
-topics: ['wages', 'salary-packaging', 'preliminary']
+topics: ['wages', 'salary-packaging']
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

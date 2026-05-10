@@ -1,7 +1,7 @@
 ---
 title: '38. Childcare Costs'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'overtime', 'on-call', 'allowances', 'childcare']
+topics: ['allowances', 'childcare']
 ---
 <span data-pagefind-meta="clause:Clause 38" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

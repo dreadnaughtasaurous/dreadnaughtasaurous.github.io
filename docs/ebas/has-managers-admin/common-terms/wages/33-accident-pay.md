@@ -1,7 +1,7 @@
 ---
 title: '33. Accident Pay'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['wages', 'accident-pay', 'preliminary']
+topics: ['accident-pay']
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '62. Personal Leave (Including Carer''s Leave)'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'personal-leave', 'employment', 'preliminary']
+topics: ['leave', 'personal-leave']
 ---
 <span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

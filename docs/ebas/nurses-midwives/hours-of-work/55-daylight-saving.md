@@ -1,7 +1,7 @@
 ---
 title: '55. Daylight Saving'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'overtime', 'shift-work', 'breaks']
+topics: ['hours', 'shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 55" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

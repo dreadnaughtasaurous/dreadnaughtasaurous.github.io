@@ -1,7 +1,7 @@
 ---
 title: '46. Recovery Of Overpayments'
 eba: 'Doctors in Training 2022-2026'
-topics: ['allowances', 'wages', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 46" style="display:none"></span>
 <span data-pagefind-meta="section:Remuneration" style="display:none"></span>

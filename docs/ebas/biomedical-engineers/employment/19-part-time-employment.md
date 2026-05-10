@@ -1,7 +1,7 @@
 ---
 title: '19. Part Time Employment'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'employment']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 19" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

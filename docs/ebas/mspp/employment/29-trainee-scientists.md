@@ -1,7 +1,7 @@
 ---
 title: '29. Trainee Scientists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['employment', 'training']
+topics: ['training']
 ---
 <span data-pagefind-meta="clause:Clause 29" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

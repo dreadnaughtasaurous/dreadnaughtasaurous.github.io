@@ -1,7 +1,7 @@
 ---
 title: '94. Psychologist Supervisor Training'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['clinical-supervision', 'classifications']
+topics: ['clinical-supervision']
 ---
 <span data-pagefind-meta="clause:Clause 94" style="display:none"></span>
 <span data-pagefind-meta="section:Clinical Supervision" style="display:none"></span>

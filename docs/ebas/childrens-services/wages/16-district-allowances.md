@@ -1,7 +1,7 @@
 ---
 title: '16. District Allowances'
 eba: 'Children''s Services Award 2010'
-topics: ['allowances', 'wages']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '75. Professional Development Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'professional-development', 'staffing']
+topics: ['professional-development']
 ---
 <span data-pagefind-meta="clause:Clause 75" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

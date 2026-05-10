@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 1 - List Of Employers / Health Services: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
-topics: ['appendices', 'coverage']
+topics: ['coverage']
 ---
 <span data-pagefind-meta="clause:Appendix 1" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

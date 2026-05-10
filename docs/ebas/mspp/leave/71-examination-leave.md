@@ -1,7 +1,7 @@
 ---
 title: '71. Examination Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'study-leave', 'wages', 'classifications']
+topics: ['leave', 'study-leave']
 ---
 <span data-pagefind-meta="clause:Clause 71" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

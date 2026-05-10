@@ -1,7 +1,7 @@
 ---
 title: 'Hours Of Work'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'training']
+topics: ['hours']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">

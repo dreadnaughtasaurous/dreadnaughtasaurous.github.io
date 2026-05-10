@@ -1,7 +1,7 @@
 ---
 title: '76. Vacancies'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['consultation']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 76" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

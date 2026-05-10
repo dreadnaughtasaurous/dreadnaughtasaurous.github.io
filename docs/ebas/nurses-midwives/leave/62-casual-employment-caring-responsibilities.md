@@ -1,7 +1,7 @@
 ---
 title: '62. Casual Employment Caring Responsibilities'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'employment', 'preliminary']
+topics: ['leave', 'employment']
 ---
 <span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

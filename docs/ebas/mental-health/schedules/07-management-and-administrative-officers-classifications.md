@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 7 – Management and Administrative Officers Classifications: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
-topics: ['schedules', 'classifications']
+topics: ['classifications']
 ---
 <span data-pagefind-meta="clause:Schedule 07" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

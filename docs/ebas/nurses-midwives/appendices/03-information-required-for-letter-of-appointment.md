@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 3 - Information Required For Letter Of Appointment: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['appendices', 'employment']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Appendix 03" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

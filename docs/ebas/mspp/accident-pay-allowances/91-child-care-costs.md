@@ -1,7 +1,7 @@
 ---
 title: '91. Child Care Costs'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['hours', 'overtime', 'on-call', 'allowances', 'childcare']
+topics: ['allowances', 'childcare']
 ---
 <span data-pagefind-meta="clause:Clause 91" style="display:none"></span>
 <span data-pagefind-meta="section:Accident Pay & Allowances" style="display:none"></span>

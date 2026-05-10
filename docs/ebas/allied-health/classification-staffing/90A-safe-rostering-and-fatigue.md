@@ -1,7 +1,7 @@
 ---
 title: '90A. Safe Rostering And Fatigue'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'rosters', 'preliminary']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 90A" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

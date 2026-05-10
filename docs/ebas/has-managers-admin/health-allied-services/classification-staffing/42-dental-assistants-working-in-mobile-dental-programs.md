@@ -1,7 +1,7 @@
 ---
 title: '42. Dental Assistants Working In Mobile Dental Programs'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'long-service-leave', 'allowances', 'travel']
+topics: ['travel']
 ---
 <span data-pagefind-meta="clause:Clause 42" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

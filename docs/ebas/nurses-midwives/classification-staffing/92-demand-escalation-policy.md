@@ -1,7 +1,7 @@
 ---
 title: '92. Demand Escalation Policy'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['consultation', 'union-matters', 'staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 92" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

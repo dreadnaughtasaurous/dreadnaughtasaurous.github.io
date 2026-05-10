@@ -1,7 +1,7 @@
 ---
 title: '66. Pre Adoption Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'parental-leave', 'preliminary']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 66" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

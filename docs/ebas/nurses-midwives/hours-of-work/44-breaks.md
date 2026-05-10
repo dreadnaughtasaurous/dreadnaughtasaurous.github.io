@@ -1,7 +1,7 @@
 ---
 title: '44. Breaks'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'hours', 'breaks', 'preliminary']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 44" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

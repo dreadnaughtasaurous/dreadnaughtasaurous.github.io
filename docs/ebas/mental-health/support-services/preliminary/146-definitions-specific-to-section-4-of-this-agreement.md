@@ -1,7 +1,7 @@
 ---
 title: '146. Definitions Specific To Section 4 of this Agreement'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'overtime']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 146" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

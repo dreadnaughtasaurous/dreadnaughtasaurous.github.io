@@ -1,7 +1,7 @@
 ---
 title: '44A. Lead Apron Allowance'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'shift-work', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 44A" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

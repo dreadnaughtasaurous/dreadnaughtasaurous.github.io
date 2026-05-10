@@ -1,7 +1,7 @@
 ---
 title: '9. Nature Of Relationship'
 eba: 'Doctors in Training 2022-2026'
-topics: ['employment', 'preliminary']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 9" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

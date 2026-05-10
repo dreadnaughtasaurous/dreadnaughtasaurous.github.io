@@ -1,7 +1,7 @@
 ---
 title: '43. Provision Of Mobile Phone Or Reimbursement Of Cost'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'on-call', 'allowances']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 43" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

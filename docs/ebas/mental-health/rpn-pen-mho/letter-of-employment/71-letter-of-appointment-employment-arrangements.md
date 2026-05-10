@@ -1,7 +1,7 @@
 ---
 title: '71. Letter Of Appointment Employment Arrangements'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 71" style="display:none"></span>
 <span data-pagefind-meta="section:Letter of Employment" style="display:none"></span>

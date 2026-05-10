@@ -1,7 +1,7 @@
 ---
 title: '43. Accrued Days Off'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'rosters', 'staffing']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 43" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

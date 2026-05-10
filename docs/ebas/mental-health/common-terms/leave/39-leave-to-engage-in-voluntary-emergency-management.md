@@ -1,7 +1,7 @@
 ---
 title: '39. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 39" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '29. Compensation Make Up Pay'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['wages', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 29" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '32. Redundancy And Associated Entitlements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'employment', 'redundancy', 'termination']
+topics: ['employment', 'redundancy', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

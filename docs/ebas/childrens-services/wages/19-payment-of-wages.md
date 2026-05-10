@@ -1,7 +1,7 @@
 ---
 title: '19. Payment Of Wages'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'long-service-leave', 'hours', 'overtime', 'wages', 'employment', 'redundancy', 'termination', 'preliminary']
+topics: ['wages', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 19" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

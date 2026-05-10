@@ -1,7 +1,7 @@
 ---
 title: '70B. Special Disaster Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'personal-leave', 'employment']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 70B" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

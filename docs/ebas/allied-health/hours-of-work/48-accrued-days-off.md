@@ -1,7 +1,7 @@
 ---
 title: '48. Accrued Days Off'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'rosters', 'wages', 'employment']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 48" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

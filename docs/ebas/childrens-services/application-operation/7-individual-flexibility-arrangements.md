@@ -1,7 +1,7 @@
 ---
 title: '7. Individual Flexibility Arrangements'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'annual-leave', 'hours', 'overtime', 'penalty-rates', 'wages', 'flexible-work']
+topics: ['penalty-rates', 'flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 7" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '83. Special Disaster Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'personal-leave', 'employment']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 83" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

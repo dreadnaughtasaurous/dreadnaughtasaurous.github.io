@@ -1,11 +1,10 @@
 // patch-pagefind.mjs
 // Runs after vitepress build.
-// 1. Strips previously injected pagefind divs from body (idempotent)
+// 1. Strips ALL previously injected pagefind divs (idempotent, handles duplicates)
 // 2. Injects data-pagefind-body onto the vp-doc div
 // 3. Injects data-pagefind-filter spans for eba and topics filters
-// 4. Extracts synonyms content (from front matter OR hardcoded body div),
-//    then re-injects it at END of body with data-pagefind-ignore — so
-//    Pagefind indexes the words for recall but never uses them for excerpts.
+// 4. Injects data-pagefind-weight div — score based on slug/topic relevance
+// 5. Injects hidden synonyms div at END of body with data-pagefind-ignore
 
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { glob } from 'fs/promises'
@@ -22,22 +21,16 @@ let skipped = 0
 
 function getFrontMatter(mdPath) {
   if (!existsSync(mdPath)) return {}
-
   const content = readFileSync(mdPath, 'utf8')
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/)
   if (!match) return {}
-
   const fm = {}
-
   for (const line of match[1].split(/\r?\n/)) {
     const kv = line.match(/^(\w+):\s*(.+)$/)
     if (!kv) continue
-
     const key = kv[1].trim()
     let val = kv[2].trim()
-
     val = val.replace(/^['"](.*)['"]$/, '$1')
-
     if (val.startsWith('[')) {
       val = val
         .replace(/^\[|\]$/g, '')
@@ -46,11 +39,47 @@ function getFrontMatter(mdPath) {
         .filter(v => v.length > 0)
         .join(', ')
     }
-
     fm[key] = val
   }
-
   return fm
+}
+
+// Strip all instances of a div pattern — loops until none remain.
+// This handles cases where multiple divs exist (old hardcoded + newly injected).
+function stripAllDivs(html, classPattern) {
+  const re = new RegExp(`<div[^>]*class="${classPattern}"[^>]*>[\\s\\S]*?<\\/div>`, 'g')
+  let prev
+  do {
+    prev = html
+    html = html.replace(re, '')
+  } while (html !== prev)
+  return html
+}
+
+// Compute relevance weight from slug and topic tags.
+// Weight 10: slug contains ALL words of a topic keyword → this page IS the topic
+// Weight 5:  page is tagged but slug does not directly match any topic
+function computeWeight(slug, topics) {
+  if (!topics || topics.trim().length === 0) return 5
+
+  const topicList = topics
+    .split(',')
+    .map(t => t.trim().toLowerCase())
+    .filter(t => t.length > 0)
+
+  const slugNorm = slug.toLowerCase()
+
+  for (const topic of topicList) {
+    // Split hyphenated topic into constituent words, ignore short words (≤2 chars)
+    const topicWords = topic.split(/[-\s]+/).filter(w => w.length > 2)
+    if (topicWords.length === 0) continue
+
+    // ALL words in the topic must appear in the slug for a weight-10 match
+    const allMatch = topicWords.every(word => slugNorm.includes(word))
+    if (allMatch) return 10
+  }
+
+  return 5
 }
 
 const htmlFiles = []
@@ -62,10 +91,6 @@ for (const file of htmlFiles) {
   let html = readFileSync(file, 'utf8')
 
   // ── EXTRACT synonyms content before stripping ────────────────────────────────
-  // Some .md files have the synonyms div hardcoded in the body (written by
-  // Add-SearchSynonyms.ps1) rather than in a front matter field. We extract the
-  // inner text from the built HTML BEFORE stripping, so we can re-inject it
-  // correctly at the end of the body with data-pagefind-ignore.
   let extractedSynonyms = ''
   const synonymsMatch = html.match(
     /<div[^>]*class="pagefind-synonyms"[^>]*>([\s\S]*?)<\/div>/
@@ -74,72 +99,67 @@ for (const file of htmlFiles) {
     extractedSynonyms = synonymsMatch[1].trim()
   }
 
-  // ── STRIP PASS ───────────────────────────────────────────────────────────────
-  // Remove ALL previously injected pagefind divs so we start clean.
-  // Prevents duplicate divs accumulating across repeated builds and removes
-  // old markup that may be missing data-pagefind-ignore.
-  html = html.replace(/<div[^>]*class="pagefind-synonyms"[^>]*>[\s\S]*?<\/div>/g, '')
-  html = html.replace(/<div[^>]*class="pagefind-weight"[^>]*>[\s\S]*?<\/div>/g, '')
+  // ── STRIP PASS — removes ALL instances of each div class ─────────────────────
+  // Uses a loop to handle duplicates: old hardcoded .md body divs AND any
+  // previously injected divs from prior script runs are both removed.
+  html = stripAllDivs(html, 'pagefind-synonyms')
+  html = stripAllDivs(html, 'pagefind-weight')
 
-  // Find the matching .md source file
+  // ── SOURCE FILE + FRONT MATTER ───────────────────────────────────────────────
   const relHtml = relative(distDir, file)
   const relMd = relHtml.replace(/\.html$/, '.md')
   const mdPath = join(docsDir, relMd)
   const fm = getFrontMatter(mdPath)
 
+  const slug = relHtml
+    .replace(/\.html$/, '')
+    .split(/[/\\]/)
+    .pop() || ''
+
   // ── RESOLVE synonyms text ────────────────────────────────────────────────────
-  // Priority: front matter 'synonyms:' field first (future-proof), then fall
-  // back to the text extracted from the hardcoded div in the built HTML above.
   const synonymsText = (fm.synonyms && fm.synonyms.trim().length > 0)
     ? fm.synonyms.trim()
     : extractedSynonyms
 
-  // ── FILTER SPANS (top of body) ───────────────────────────────────────────────
-  // data-pagefind-ignore prevents the filter value text (e.g. "allowances",
-  // "Allied Health Professionals 2021-2026") from appearing in excerpt snippets.
-  // data-pagefind-filter still registers correctly — it operates independently.
+  // ── FILTER SPANS ─────────────────────────────────────────────────────────────
   let filterSpans = ''
-
   if (fm.eba) {
     filterSpans += `<span data-pagefind-filter="eba" data-pagefind-ignore style="display:none">${fm.eba}</span>`
   }
-
   if (fm.topics && fm.topics.length > 0) {
     const topicArr = fm.topics
       .split(',')
       .map(t => t.trim())
       .filter(t => t.length > 0)
-
     for (const topic of topicArr) {
       filterSpans += `<span data-pagefind-filter="topics" data-pagefind-ignore style="display:none">${topic}</span>`
     }
   }
 
-  // ── SYNONYMS BLOCK (end of body) ─────────────────────────────────────────────
-  // data-pagefind-ignore = Pagefind indexes these words for search recall but
-  // NEVER uses this region to generate an excerpt snippet.
-  // Injected before </main> so it is physically after all real clause prose.
+  // ── WEIGHT DIV ───────────────────────────────────────────────────────────────
+  const weight = computeWeight(slug, fm.topics || '')
+  const weightDiv = `<div class="pagefind-weight" data-pagefind-weight="${weight}" style="display:none" aria-hidden="true"></div>`
+
+  // ── SYNONYMS BLOCK ───────────────────────────────────────────────────────────
   let synonymBlock = ''
   if (synonymsText.length > 0) {
     synonymBlock = `<div class="pagefind-synonyms" data-pagefind-ignore style="display:none" aria-hidden="true">${synonymsText}</div>`
   }
 
   if (html.includes('class="vp-doc ')) {
-    // Stamp data-pagefind-body onto the vp-doc opening tag
     html = html.replace(
       /class="vp-doc ([^"]*)"/,
       `class="vp-doc $1" data-pagefind-body`
     )
 
-    // Inject filter spans immediately after the opening vp-doc tag
-    if (filterSpans) {
+    const topMarkup = `${filterSpans}${weightDiv}`
+    if (topMarkup) {
       html = html.replace(
         /(class="vp-doc [^"]*" data-pagefind-body[^>]*>)/,
-        `$1${filterSpans}`
+        `$1${topMarkup}`
       )
     }
 
-    // Inject synonyms div at the END of the content — before </main>
     if (synonymBlock) {
       if (html.includes('</main>')) {
         html = html.replace('</main>', `${synonymBlock}</main>`)

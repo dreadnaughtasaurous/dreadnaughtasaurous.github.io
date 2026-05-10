@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['schedules', 'classifications', 'hospital-specific']
+topics: ['classifications', 'hospital-specific']
 ---
 <span data-pagefind-meta="clause:Schedule 11" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

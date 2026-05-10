@@ -1,7 +1,7 @@
 ---
 title: '70. Definitions Specific To Section 2'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'shift-work']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 70" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

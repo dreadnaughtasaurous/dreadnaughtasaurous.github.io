@@ -1,7 +1,7 @@
 ---
 title: '83. Union Matters'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'annual-leave', 'parental-leave', 'family-violence-leave']
+topics: ['family-violence-leave']
 ---
 <span data-pagefind-meta="clause:Clause 83" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

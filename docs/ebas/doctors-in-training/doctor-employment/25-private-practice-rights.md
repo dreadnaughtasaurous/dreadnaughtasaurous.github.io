@@ -1,7 +1,7 @@
 ---
 title: '25. Private Practice Rights'
 eba: 'Doctors in Training 2022-2026'
-topics: ['employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
 <span data-pagefind-meta="section:Doctor Employment" style="display:none"></span>

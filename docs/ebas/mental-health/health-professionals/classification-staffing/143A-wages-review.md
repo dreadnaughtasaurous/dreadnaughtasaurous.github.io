@@ -1,7 +1,7 @@
 ---
 title: '143A. Wages Review'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages', 'preliminary', 'discrimination']
+topics: ['wages', 'discrimination']
 ---
 <span data-pagefind-meta="clause:Clause 143A" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '18. Full Time Employment'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'employment']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 18" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

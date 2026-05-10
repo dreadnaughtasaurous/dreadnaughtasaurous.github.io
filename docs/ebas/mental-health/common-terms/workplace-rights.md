@@ -1,7 +1,7 @@
 ---
 title: 'Workplace Rights'
 eba: 'Mental Health Services 2024-2028'
-topics: ['definitions']
+topics: []
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

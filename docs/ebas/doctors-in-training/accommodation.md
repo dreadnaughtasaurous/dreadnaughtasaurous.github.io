@@ -1,7 +1,7 @@
 ---
 title: 'Accommodation'
 eba: 'Doctors in Training 2022-2026'
-topics: ['accommodation', 'training']
+topics: ['accommodation']
 ---
 
 <div class="pagefind-synonyms" style="display:none" aria-hidden="true">

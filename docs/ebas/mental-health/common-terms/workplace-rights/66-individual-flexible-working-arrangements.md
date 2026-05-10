@@ -1,7 +1,7 @@
 ---
 title: '66. Individual Flexible Working Arrangements'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'hours', 'overtime', 'flexible-work']
+topics: ['flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 66" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

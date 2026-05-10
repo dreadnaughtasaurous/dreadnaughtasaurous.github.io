@@ -1,7 +1,7 @@
 ---
 title: '85A. Trainee Enrolled Nurse Classifications'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 85A" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

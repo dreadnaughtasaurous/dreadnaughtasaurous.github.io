@@ -1,7 +1,7 @@
 ---
 title: 'Employment Types'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['employment']
+topics: []
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

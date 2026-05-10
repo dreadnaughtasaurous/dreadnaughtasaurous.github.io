@@ -1,7 +1,7 @@
 ---
 title: '125. Discretionary Backfill For Certain Absences'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'annual-leave', 'study-leave', 'consultation']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 125" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

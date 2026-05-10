@@ -1,7 +1,7 @@
 ---
 title: '63. Fitness For Work'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 63" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

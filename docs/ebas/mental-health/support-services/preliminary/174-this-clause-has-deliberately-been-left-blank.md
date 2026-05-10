@@ -1,7 +1,7 @@
 ---
 title: '174. This Clause Has Deliberately Been Left Blank'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 174" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

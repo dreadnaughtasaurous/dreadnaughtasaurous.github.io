@@ -1,7 +1,7 @@
 ---
 title: '75. Change Of Shift Allowance - PEN and MHO'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'shift-work', 'allowances']
+topics: ['shift-work', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 75" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

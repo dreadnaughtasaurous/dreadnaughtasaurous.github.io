@@ -1,7 +1,7 @@
 ---
 title: '62. Demand Escalation Policy'
 eba: 'Mental Health Services 2024-2028'
-topics: ['consultation', 'union-matters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
 <span data-pagefind-meta="section:Staffing" style="display:none"></span>

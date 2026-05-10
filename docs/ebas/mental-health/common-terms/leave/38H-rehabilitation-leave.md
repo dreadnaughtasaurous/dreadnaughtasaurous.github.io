@@ -1,7 +1,7 @@
 ---
 title: '38H. Rehabilitation Leave'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'rehabilitation-leave', 'preliminary', 'definitions']
+topics: ['leave', 'rehabilitation-leave']
 ---
 <span data-pagefind-meta="clause:Clause 38H" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

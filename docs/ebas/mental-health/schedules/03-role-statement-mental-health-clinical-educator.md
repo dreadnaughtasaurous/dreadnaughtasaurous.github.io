@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 3 - Role Statement - Mental Health Clinical Educator: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
-topics: ['schedules', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Schedule 03" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

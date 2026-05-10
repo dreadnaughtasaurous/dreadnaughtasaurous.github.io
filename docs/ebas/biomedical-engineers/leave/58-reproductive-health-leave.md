@@ -1,7 +1,7 @@
 ---
 title: '58. Reproductive Health Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 58" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

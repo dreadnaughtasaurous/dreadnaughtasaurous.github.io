@@ -1,7 +1,7 @@
 ---
 title: '70. Parental Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'parental-leave', 'employment', 'preliminary']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 70" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '64. Signatories'
 eba: 'Medical Specialists 2022-2026'
-topics: ['union-matters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 64" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

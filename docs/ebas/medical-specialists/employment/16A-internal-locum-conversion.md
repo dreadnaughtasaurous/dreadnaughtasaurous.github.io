@@ -1,7 +1,7 @@
 ---
 title: '16A. Internal Locum Conversion'
 eba: 'Medical Specialists 2022-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 16A" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

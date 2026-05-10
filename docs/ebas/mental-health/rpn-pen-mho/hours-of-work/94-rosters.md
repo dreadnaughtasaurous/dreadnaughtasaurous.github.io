@@ -1,7 +1,7 @@
 ---
 title: '94. Rosters'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'rosters', 'union-matters']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 94" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

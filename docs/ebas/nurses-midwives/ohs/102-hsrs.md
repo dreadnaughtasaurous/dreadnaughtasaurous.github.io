@@ -1,7 +1,7 @@
 ---
 title: '102. Health & Safety Representitives'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 102" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

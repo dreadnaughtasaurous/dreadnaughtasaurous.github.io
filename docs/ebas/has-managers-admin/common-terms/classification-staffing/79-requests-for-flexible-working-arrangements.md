@@ -1,7 +1,7 @@
 ---
 title: '79. Requests For Flexible Working Arrangements'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['flexible-work', 'preliminary']
+topics: ['flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 79" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

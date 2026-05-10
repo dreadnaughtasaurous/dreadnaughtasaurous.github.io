@@ -1,7 +1,7 @@
 ---
 title: '18. Clinical Support Time'
 eba: 'Medical Specialists 2022-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 18" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

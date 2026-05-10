@@ -1,7 +1,7 @@
 ---
 title: '28. Family And Domestic Violence Leave'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'family-violence-leave', 'preliminary']
+topics: ['leave', 'family-violence-leave']
 ---
 <span data-pagefind-meta="clause:Clause 28" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

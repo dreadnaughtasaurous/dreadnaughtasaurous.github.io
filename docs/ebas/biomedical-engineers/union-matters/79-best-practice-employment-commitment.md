@@ -1,7 +1,7 @@
 ---
 title: '79. Best Practice Employment Commitment'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['ohs', 'union-matters', 'flexible-work', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 79" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

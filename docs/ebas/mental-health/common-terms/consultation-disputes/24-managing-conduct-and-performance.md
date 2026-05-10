@@ -1,7 +1,7 @@
 ---
 title: '24. Managing Conduct And Performance'
 eba: 'Mental Health Services 2024-2028'
-topics: ['discipline', 'union-matters']
+topics: ['discipline']
 ---
 <span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

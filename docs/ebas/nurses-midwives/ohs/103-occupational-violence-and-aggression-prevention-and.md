@@ -1,7 +1,7 @@
 ---
 title: '103. Occupational Violence & Aggression Prevention and Management'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['ohs', 'preliminary']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 103" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

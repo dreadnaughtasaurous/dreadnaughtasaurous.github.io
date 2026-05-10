@@ -1,7 +1,7 @@
 ---
 title: '24. Certificate Of Service'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'personal-leave', 'long-service-leave', 'employment', 'termination']
+topics: ['employment', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

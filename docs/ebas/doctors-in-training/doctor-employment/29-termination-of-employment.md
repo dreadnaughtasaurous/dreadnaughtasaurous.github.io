@@ -1,7 +1,7 @@
 ---
 title: '29. Termination Of Employment'
 eba: 'Doctors in Training 2022-2026'
-topics: ['wages', 'employment', 'termination']
+topics: ['employment', 'termination']
 ---
 <span data-pagefind-meta="clause:Clause 29" style="display:none"></span>
 <span data-pagefind-meta="section:Doctor Employment" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '45. Medical Scientists Merit Reclassification Guidelines'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 45" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>

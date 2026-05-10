@@ -1,7 +1,7 @@
 ---
 title: '158. Multi Skilling Allowance Patient Services Assistants'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'allowances', 'wages']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 158" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

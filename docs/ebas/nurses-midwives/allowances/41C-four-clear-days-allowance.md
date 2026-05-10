@@ -1,7 +1,7 @@
 ---
 title: '41C. Four Clear Days Allowance'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'rosters', 'overtime', 'allowances']
+topics: ['hours', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 41C" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

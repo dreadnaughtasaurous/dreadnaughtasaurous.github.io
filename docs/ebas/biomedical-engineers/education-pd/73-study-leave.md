@@ -1,7 +1,7 @@
 ---
 title: '73. Study Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'study-leave', 'employment', 'preliminary']
+topics: ['leave', 'study-leave']
 ---
 <span data-pagefind-meta="clause:Clause 73" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

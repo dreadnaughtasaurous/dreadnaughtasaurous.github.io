@@ -1,7 +1,7 @@
 ---
 title: '11. Redundancy And Associated Entitlements'
 eba: 'Doctors in Training 2022-2026'
-topics: ['wages', 'employment', 'redundancy', 'preliminary']
+topics: ['employment', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

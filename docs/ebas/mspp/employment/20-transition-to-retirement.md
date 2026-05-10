@@ -1,7 +1,7 @@
 ---
 title: '20. Transition To Retirement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['employment', 'flexible-work', 'preliminary']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

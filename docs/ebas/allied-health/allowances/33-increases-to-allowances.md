@@ -1,7 +1,7 @@
 ---
 title: '33. Increases To Allowances'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'shift-work', 'on-call', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

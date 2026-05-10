@@ -1,7 +1,7 @@
 ---
 title: '25A. Parental Leave And Related Entitlements'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'parental-leave', 'disputes', 'preliminary']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 25A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '53. Rural Satellite Telephones'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 53" style="display:none"></span>
 <span data-pagefind-meta="section:Resources" style="display:none"></span>

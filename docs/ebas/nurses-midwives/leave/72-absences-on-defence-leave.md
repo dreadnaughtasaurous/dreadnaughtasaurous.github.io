@@ -1,7 +1,7 @@
 ---
 title: '72. Absences On Defence Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 72" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

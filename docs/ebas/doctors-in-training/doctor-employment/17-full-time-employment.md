@@ -1,7 +1,7 @@
 ---
 title: '17. Full Time Employment'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'employment', 'classifications']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 17" style="display:none"></span>
 <span data-pagefind-meta="section:Doctor Employment" style="display:none"></span>

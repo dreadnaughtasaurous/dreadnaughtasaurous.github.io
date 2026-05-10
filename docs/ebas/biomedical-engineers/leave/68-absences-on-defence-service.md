@@ -1,7 +1,7 @@
 ---
 title: '68. Absences On Defence Service'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 68" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

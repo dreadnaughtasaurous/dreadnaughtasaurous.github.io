@@ -1,7 +1,7 @@
 ---
 title: 'Consultation Disputes'
 eba: 'Doctors in Training 2022-2026'
-topics: ['consultation', 'disputes', 'training']
+topics: ['consultation', 'disputes']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">

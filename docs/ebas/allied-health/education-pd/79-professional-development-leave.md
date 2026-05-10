@@ -1,7 +1,7 @@
 ---
 title: '79. Professional Development Leave'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 79" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

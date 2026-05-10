@@ -1,7 +1,7 @@
 ---
 title: '24. Weekend Work'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['wages']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

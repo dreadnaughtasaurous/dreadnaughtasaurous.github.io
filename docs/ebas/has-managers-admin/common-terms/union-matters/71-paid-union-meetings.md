@@ -1,7 +1,7 @@
 ---
 title: '71. Paid Union Meetings'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['union-matters', 'staffing']
+topics: ['union-matters']
 ---
 <span data-pagefind-meta="clause:Clause 71" style="display:none"></span>
 <span data-pagefind-meta="section:Union Matters" style="display:none"></span>

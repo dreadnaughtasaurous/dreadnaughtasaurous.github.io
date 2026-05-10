@@ -1,7 +1,7 @@
 ---
 title: '57. Sabbatical Leave'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'wages', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 57" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

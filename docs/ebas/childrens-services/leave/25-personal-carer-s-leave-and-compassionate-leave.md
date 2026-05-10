@@ -1,7 +1,7 @@
 ---
 title: "25. Personal Carer's Leave And Compassionate Leave"
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'personal-leave', 'compassionate-leave', 'preliminary']
+topics: ['leave', 'personal-leave', 'compassionate-leave']
 ---
 <span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

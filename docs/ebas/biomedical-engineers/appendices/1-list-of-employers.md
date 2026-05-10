@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 1 - List Of Employers: Biomedical Engineers EBA'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['appendices', 'coverage']
+topics: ['coverage']
 ---
 <span data-pagefind-meta="clause:Appendix 1" style="display:none"></span>
 <span data-pagefind-meta="section:Appendices" style="display:none"></span>

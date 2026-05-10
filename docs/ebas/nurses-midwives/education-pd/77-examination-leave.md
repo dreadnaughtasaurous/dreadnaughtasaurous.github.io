@@ -1,7 +1,7 @@
 ---
 title: '77. Examination Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'preliminary', 'education']
+topics: ['leave', 'education']
 ---
 <span data-pagefind-meta="clause:Clause 77" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

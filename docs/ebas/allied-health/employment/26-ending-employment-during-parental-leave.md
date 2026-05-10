@@ -1,7 +1,7 @@
 ---
 title: '26. Ending Employment During Parental Leave'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'parental-leave', 'consultation']
+topics: ['leave', 'parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 26" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

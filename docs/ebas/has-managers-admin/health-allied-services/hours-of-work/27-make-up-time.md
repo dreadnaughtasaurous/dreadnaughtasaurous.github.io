@@ -1,7 +1,7 @@
 ---
 title: '27. Make Up Time'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 27" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

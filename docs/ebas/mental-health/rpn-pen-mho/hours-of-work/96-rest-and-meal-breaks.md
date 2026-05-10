@@ -1,7 +1,7 @@
 ---
 title: '96. Rest And Meal Breaks'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'hours', 'shift-work', 'breaks']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 96" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

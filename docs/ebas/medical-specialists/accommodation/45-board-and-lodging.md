@@ -1,7 +1,7 @@
 ---
 title: '45. Board And Lodging'
 eba: 'Medical Specialists 2022-2026'
-topics: ['wages', 'accommodation']
+topics: ['accommodation']
 ---
 <span data-pagefind-meta="clause:Clause 45" style="display:none"></span>
 <span data-pagefind-meta="section:Accommodation" style="display:none"></span>

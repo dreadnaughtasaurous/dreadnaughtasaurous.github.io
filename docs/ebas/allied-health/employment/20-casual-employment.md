@@ -1,7 +1,7 @@
 ---
 title: '20. Casual Employment'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['hours', 'overtime', 'employment', 'preliminary']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

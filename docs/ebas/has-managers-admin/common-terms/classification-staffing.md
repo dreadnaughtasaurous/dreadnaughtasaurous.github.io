@@ -1,7 +1,7 @@
 ---
 title: 'Classification Staffing'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['classification', 'staffing', 'definitions']
+topics: ['classification', 'staffing']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

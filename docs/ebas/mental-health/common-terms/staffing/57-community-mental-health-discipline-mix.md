@@ -1,7 +1,7 @@
 ---
 title: '57. Community Mental Health Discipline Mix'
 eba: 'Mental Health Services 2024-2028'
-topics: ['discipline', 'union-matters']
+topics: ['discipline']
 ---
 <span data-pagefind-meta="clause:Clause 57" style="display:none"></span>
 <span data-pagefind-meta="section:Staffing" style="display:none"></span>

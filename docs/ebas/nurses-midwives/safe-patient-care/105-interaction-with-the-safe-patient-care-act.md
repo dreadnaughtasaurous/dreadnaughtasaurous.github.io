@@ -1,7 +1,7 @@
 ---
 title: '105. Interaction With The Safe Patient Care Act'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 105" style="display:none"></span>
 <span data-pagefind-meta="section:Safe Patient Care" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '80. Out Of Hours Supervisor'
 eba: 'Mental Health Services 2024-2028'
-topics: ['allowances', 'preliminary']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 80" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

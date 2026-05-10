@@ -1,7 +1,7 @@
 ---
 title: '78. Twelve Month Career Breaks'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 78" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

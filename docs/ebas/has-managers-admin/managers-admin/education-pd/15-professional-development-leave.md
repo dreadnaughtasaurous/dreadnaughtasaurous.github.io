@@ -1,7 +1,7 @@
 ---
 title: '15. Professional Development Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'professional-development']
+topics: ['professional-development']
 ---
 <span data-pagefind-meta="clause:Clause 15" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

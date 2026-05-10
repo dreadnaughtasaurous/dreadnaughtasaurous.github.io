@@ -1,7 +1,7 @@
 ---
 title: '26A. Employment Checks'
 eba: 'Mental Health Services 2024-2028'
-topics: ['employment', 'disputes', 'preliminary', 'definitions']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 26A" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

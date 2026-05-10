@@ -1,7 +1,7 @@
 ---
 title: '63. Purchased Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['leave', 'purchased-leave', 'preliminary']
+topics: ['leave', 'purchased-leave']
 ---
 <span data-pagefind-meta="clause:Clause 63" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

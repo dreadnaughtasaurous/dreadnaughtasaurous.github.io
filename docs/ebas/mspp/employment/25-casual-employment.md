@@ -1,7 +1,7 @@
 ---
 title: '25. Casual Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['employment', 'classifications']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 25" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

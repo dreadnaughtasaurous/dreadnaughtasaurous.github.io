@@ -1,7 +1,7 @@
 ---
 title: '32. Accident Make Up Pay'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'wages', 'accident-pay', 'preliminary']
+topics: ['accident-pay']
 ---
 <span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: "54. Personal Carer's Leave"
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'personal-leave', 'employment', 'preliminary']
+topics: ['leave', 'personal-leave']
 ---
 <span data-pagefind-meta="clause:Clause 54" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

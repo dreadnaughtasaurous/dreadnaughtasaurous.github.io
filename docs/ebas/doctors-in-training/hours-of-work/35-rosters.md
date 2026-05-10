@@ -1,7 +1,7 @@
 ---
 title: '35. Rosters'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'rosters', 'education', 'professional-development', 'employment']
+topics: ['hours', 'rosters']
 ---
 <span data-pagefind-meta="clause:Clause 35" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

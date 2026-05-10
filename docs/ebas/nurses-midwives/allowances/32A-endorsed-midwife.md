@@ -1,7 +1,7 @@
 ---
 title: '32A. Endorsed Midwife'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary', 'definitions', 'staffing']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 32A" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

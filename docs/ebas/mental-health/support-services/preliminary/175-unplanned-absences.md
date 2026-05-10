@@ -1,7 +1,7 @@
 ---
 title: '175. Unplanned Absences'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 175" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

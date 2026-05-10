@@ -1,7 +1,7 @@
 ---
 title: '24. Transition To Retirement'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['employment', 'flexible-work']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

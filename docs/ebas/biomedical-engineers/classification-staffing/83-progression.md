@@ -1,7 +1,7 @@
 ---
 title: '83. Progression'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['employment', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 83" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

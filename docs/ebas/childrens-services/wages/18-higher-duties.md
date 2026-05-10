@@ -1,7 +1,7 @@
 ---
 title: '18. Higher Duties'
 eba: 'Children''s Services Award 2010'
-topics: ['hours', 'shift-work', 'wages', 'higher-duties', 'classifications', 'preliminary']
+topics: ['wages', 'higher-duties']
 ---
 <span data-pagefind-meta="clause:Clause 18" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

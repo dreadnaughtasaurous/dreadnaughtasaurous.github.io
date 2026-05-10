@@ -1,7 +1,7 @@
 ---
 title: '61. Personal Sick Carer S Leave'
 eba: 'Doctors in Training 2022-2026'
-topics: ['leave', 'personal-leave', 'preliminary']
+topics: ['leave', 'personal-leave']
 ---
 <span data-pagefind-meta="clause:Clause 61" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

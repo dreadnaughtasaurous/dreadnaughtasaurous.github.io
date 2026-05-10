@@ -1,7 +1,7 @@
 ---
 title: '69G. Hazardous Weather Conditions'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'ohs']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 69G" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

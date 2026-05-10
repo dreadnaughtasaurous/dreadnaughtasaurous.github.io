@@ -1,7 +1,7 @@
 ---
 title: '14. Certificate Allowance Pathology Technicians'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['allowances', 'preliminary']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 14" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

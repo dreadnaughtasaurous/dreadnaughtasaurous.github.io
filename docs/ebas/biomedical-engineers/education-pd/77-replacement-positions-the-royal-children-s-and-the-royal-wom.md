@@ -1,7 +1,7 @@
 ---
 title: "77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only)"
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['union-matters', 'flexible-work', 'preliminary', 'staffing', 'workload']
+topics: ['staffing']
 ---
 <span data-pagefind-meta="clause:Clause 77" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

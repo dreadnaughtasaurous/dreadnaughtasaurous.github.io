@@ -1,7 +1,7 @@
 ---
 title: '68. Royal Commission Working Group'
 eba: 'Mental Health Services 2024-2028'
-topics: ['consultation']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 68" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

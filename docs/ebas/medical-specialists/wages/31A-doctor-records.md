@@ -1,7 +1,7 @@
 ---
 title: '31A. Doctor Records'
 eba: 'Medical Specialists 2022-2026'
-topics: ['leave', 'preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 31A" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

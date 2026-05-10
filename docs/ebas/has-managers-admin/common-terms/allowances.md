@@ -1,7 +1,7 @@
 ---
 title: 'Allowances'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['allowances', 'definitions']
+topics: ['allowances']
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

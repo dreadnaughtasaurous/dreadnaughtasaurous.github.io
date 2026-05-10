@@ -1,7 +1,7 @@
 ---
 title: '43. Superannuation'
 eba: 'Doctors in Training 2022-2026'
-topics: ['wages', 'superannuation', 'preliminary']
+topics: ['superannuation']
 ---
 <span data-pagefind-meta="clause:Clause 43" style="display:none"></span>
 <span data-pagefind-meta="section:Remuneration" style="display:none"></span>

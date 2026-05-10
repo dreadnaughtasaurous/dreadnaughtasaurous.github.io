@@ -1,7 +1,7 @@
 ---
 title: '82. Classification Definitions'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 82" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

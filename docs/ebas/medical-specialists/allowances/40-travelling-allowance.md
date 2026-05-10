@@ -1,7 +1,7 @@
 ---
 title: '40. Travelling Allowance'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'rosters', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 40" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

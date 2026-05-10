@@ -1,7 +1,7 @@
 ---
 title: '13. Consultation'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

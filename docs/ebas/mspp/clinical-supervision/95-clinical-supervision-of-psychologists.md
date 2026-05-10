@@ -1,7 +1,7 @@
 ---
 title: '95. Clinical Supervision Of Psychologists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['employment', 'clinical-supervision', 'classifications']
+topics: ['clinical-supervision']
 ---
 <span data-pagefind-meta="clause:Clause 95" style="display:none"></span>
 <span data-pagefind-meta="section:Clinical Supervision" style="display:none"></span>

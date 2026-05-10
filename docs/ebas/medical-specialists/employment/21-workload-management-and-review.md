@@ -1,7 +1,7 @@
 ---
 title: '21. Workload Management And Review'
 eba: 'Medical Specialists 2022-2026'
-topics: ['hours', 'rosters', 'disputes', 'staffing', 'workload']
+topics: ['hours', 'staffing', 'workload']
 ---
 <span data-pagefind-meta="clause:Clause 21" style="display:none"></span>
 <span data-pagefind-meta="section:Employment" style="display:none"></span>

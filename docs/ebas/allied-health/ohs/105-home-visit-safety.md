@@ -1,7 +1,7 @@
 ---
 title: '105. Home Visit Safety'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'family-violence-leave']
+topics: ['family-violence-leave']
 ---
 <span data-pagefind-meta="clause:Clause 105" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

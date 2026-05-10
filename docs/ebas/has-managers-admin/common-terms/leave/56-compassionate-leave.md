@@ -1,7 +1,7 @@
 ---
 title: '56. Compassionate Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'compassionate-leave', 'preliminary']
+topics: ['leave', 'compassionate-leave']
 ---
 <span data-pagefind-meta="clause:Clause 56" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

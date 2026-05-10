@@ -1,7 +1,7 @@
 ---
 title: '195. Removal Expenses'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 195" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

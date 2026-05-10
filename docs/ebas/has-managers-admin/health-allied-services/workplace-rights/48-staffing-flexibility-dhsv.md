@@ -1,7 +1,7 @@
 ---
 title: '48. Staffing Flexibility Dhsv'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary', 'classifications', 'staffing']
+topics: ['staffing']
 ---
 <span data-pagefind-meta="clause:Clause 48" style="display:none"></span>
 <span data-pagefind-meta="section:Workplace Rights" style="display:none"></span>

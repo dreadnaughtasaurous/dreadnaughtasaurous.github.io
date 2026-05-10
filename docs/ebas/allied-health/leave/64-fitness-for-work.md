@@ -1,7 +1,7 @@
 ---
 title: '64. Fitness For Work'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 64" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

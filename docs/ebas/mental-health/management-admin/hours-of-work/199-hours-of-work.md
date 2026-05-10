@@ -1,7 +1,7 @@
 ---
 title: '199. Hours Of Work'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'hours', 'shift-work']
+topics: ['hours']
 ---
 <span data-pagefind-meta="clause:Clause 199" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

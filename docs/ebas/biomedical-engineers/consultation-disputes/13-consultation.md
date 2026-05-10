@@ -1,7 +1,7 @@
 ---
 title: '13. Consultation'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'parental-leave', 'consultation', 'union-matters']
+topics: ['consultation']
 ---
 <span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

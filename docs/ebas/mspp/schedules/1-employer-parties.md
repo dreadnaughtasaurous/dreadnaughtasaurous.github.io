@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 1 - Employer Parties: Medical Scientists, Pharm & Psych EBA'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['schedules', 'coverage']
+topics: ['coverage']
 ---
 <span data-pagefind-meta="clause:Schedule 1" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '96. No Restraint Of Patients'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['ohs', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 96" style="display:none"></span>
 <span data-pagefind-meta="section:Clinical Supervision" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '16A. Climate Change Mitigation And Sustainability'
 eba: 'Doctors in Training 2022-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 16A" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

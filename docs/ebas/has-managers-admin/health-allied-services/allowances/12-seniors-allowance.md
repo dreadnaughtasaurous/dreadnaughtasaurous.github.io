@@ -1,7 +1,7 @@
 ---
 title: '12. Seniors Allowance'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['allowances', 'classifications']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

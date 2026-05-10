@@ -1,7 +1,7 @@
 ---
 title: '32. Transition To Retirement'
 eba: 'Doctors in Training 2022-2026'
-topics: ['employment', 'flexible-work', 'preliminary']
+topics: ['employment']
 ---
 <span data-pagefind-meta="clause:Clause 32" style="display:none"></span>
 <span data-pagefind-meta="section:Doctor Employment" style="display:none"></span>

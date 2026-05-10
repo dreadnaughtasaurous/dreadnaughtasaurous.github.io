@@ -1,7 +1,7 @@
 ---
 title: '33. Allowances Related To Overtime'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'overtime', 'shift-work', 'allowances']
+topics: ['hours', 'overtime', 'allowances']
 ---
 <span data-pagefind-meta="clause:Clause 33" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

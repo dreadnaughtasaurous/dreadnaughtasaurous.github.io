@@ -1,7 +1,7 @@
 ---
 title: '30A. Lead Apron Allowance'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['hours', 'shift-work', 'breaks', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 30A" style="display:none"></span>
 <span data-pagefind-meta="section:Allowances" style="display:none"></span>

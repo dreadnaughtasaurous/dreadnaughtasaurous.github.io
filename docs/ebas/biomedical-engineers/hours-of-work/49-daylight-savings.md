@@ -1,7 +1,7 @@
 ---
 title: '49. Daylight Savings'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'overtime', 'shift-work', 'rosters']
+topics: ['hours', 'shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 49" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

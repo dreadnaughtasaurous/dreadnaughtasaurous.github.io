@@ -1,7 +1,7 @@
 ---
 title: '46. Jury Service'
 eba: 'Mental Health Services 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 46" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '37. Penalty Payments'
 eba: 'Doctors in Training 2022-2026'
-topics: ['hours', 'overtime', 'shift-work']
+topics: ['shift-work']
 ---
 <span data-pagefind-meta="clause:Clause 37" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

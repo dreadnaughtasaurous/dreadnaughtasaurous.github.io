@@ -1,7 +1,7 @@
 ---
 title: '55. Personal Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'personal-leave', 'hours', 'overtime']
+topics: ['leave', 'personal-leave']
 ---
 <span data-pagefind-meta="clause:Clause 55" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

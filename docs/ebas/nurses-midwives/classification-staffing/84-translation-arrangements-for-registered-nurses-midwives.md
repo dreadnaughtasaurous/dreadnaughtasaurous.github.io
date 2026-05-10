@@ -1,7 +1,7 @@
 ---
 title: '84. Translation Arrangements For Registered Nurses Midwives'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 84" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

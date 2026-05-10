@@ -1,7 +1,7 @@
 ---
 title: '76A. Absences On Defence Leave'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'employment']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 76A" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

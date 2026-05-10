@@ -1,7 +1,7 @@
 ---
 title: '141. Clinical Supervision For Allied Health Professionals (Not LLEWs)'
 eba: 'Mental Health Services 2024-2028'
-topics: ['education']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 141" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

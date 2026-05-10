@@ -1,7 +1,7 @@
 ---
 title: 'Doctors In Training'
 eba: 'doctors-in-training.md'
-topics: ['training']
+topics: []
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

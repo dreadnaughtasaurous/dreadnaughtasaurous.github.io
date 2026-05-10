@@ -1,7 +1,7 @@
 ---
 title: '172. Rest Breaks'
 eba: 'Mental Health Services 2024-2028'
-topics: ['hours', 'breaks', 'preliminary']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 172" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

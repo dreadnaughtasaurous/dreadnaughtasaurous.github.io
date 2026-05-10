@@ -1,7 +1,7 @@
 ---
 title: '76. Flexibility'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['hours', 'rosters']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 76" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

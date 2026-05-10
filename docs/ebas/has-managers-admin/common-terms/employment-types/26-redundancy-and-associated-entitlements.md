@@ -1,7 +1,7 @@
 ---
 title: '26. Redundancy And Associated Entitlements'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['wages', 'employment', 'redundancy', 'preliminary']
+topics: ['employment', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 26" style="display:none"></span>
 <span data-pagefind-meta="section:Types of Employment" style="display:none"></span>

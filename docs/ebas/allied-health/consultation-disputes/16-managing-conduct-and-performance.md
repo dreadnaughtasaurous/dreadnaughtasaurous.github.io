@@ -1,7 +1,7 @@
 ---
 title: '16. Managing Conduct And Performance'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['discipline', 'union-matters']
+topics: ['discipline']
 ---
 <span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '38C. Caring Responsibilities Casual Employees'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'preliminary']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 38C" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

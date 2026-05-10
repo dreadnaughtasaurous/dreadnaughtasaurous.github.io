@@ -1,7 +1,7 @@
 ---
 title: '143. Classifications And Wages'
 eba: 'Mental Health Services 2024-2028'
-topics: ['wages', 'classifications']
+topics: ['classifications']
 ---
 <span data-pagefind-meta="clause:Clause 143" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>

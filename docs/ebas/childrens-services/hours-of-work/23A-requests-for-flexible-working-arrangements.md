@@ -1,7 +1,7 @@
 ---
 title: '23A. Requests For Flexible Working Arrangements'
 eba: 'Children''s Services Award 2010'
-topics: ['disputes', 'flexible-work', 'preliminary']
+topics: ['flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 23A" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '31. Study Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['leave', 'study-leave', 'preliminary', 'education']
+topics: ['leave', 'study-leave', 'education']
 ---
 <span data-pagefind-meta="clause:Clause 31" style="display:none"></span>
 <span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>

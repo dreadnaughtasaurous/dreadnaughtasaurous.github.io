@@ -1,7 +1,7 @@
 ---
 title: '26. Payment Of Wages Employee Records And Related Matters'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['wages', 'preliminary']
+topics: ['wages']
 ---
 <span data-pagefind-meta="clause:Clause 26" style="display:none"></span>
 <span data-pagefind-meta="section:Wages & Allowances" style="display:none"></span>

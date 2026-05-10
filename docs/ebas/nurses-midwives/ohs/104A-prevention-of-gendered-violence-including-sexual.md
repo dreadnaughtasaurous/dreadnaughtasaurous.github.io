@@ -1,7 +1,7 @@
 ---
 title: '104A. Prevention Of Gendered Violence Including Sexual Harassment'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['ohs', 'gendered-violence']
+topics: ['gendered-violence']
 ---
 <span data-pagefind-meta="clause:Clause 104A" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

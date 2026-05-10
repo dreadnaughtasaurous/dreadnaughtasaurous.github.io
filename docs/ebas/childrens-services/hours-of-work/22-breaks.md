@@ -1,7 +1,7 @@
 ---
 title: '22. Breaks'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'hours', 'overtime', 'shift-work', 'breaks', 'preliminary']
+topics: ['hours', 'breaks']
 ---
 <span data-pagefind-meta="clause:Clause 22" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

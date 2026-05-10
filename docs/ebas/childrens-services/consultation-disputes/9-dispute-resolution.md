@@ -1,7 +1,7 @@
 ---
 title: '9. Dispute Resolution'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'parental-leave', 'hours', 'right-to-disconnect', 'employment', 'disputes', 'flexible-work', 'preliminary']
+topics: ['right-to-disconnect', 'disputes']
 ---
 <span data-pagefind-meta="clause:Clause 9" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

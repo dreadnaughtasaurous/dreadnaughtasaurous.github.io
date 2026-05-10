@@ -1,7 +1,7 @@
 ---
 title: '69E. Hsrs'
 eba: 'Mental Health Services 2024-2028'
-topics: ['union-matters', 'ohs']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 69E" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

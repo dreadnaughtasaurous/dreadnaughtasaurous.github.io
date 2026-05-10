@@ -1,7 +1,7 @@
 ---
 title: 'Schedule 3H – Disability Employment Support Officer: Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['schedules', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Schedule 3h" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>

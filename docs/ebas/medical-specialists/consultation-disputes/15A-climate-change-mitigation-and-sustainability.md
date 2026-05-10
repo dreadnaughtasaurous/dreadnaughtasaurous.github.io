@@ -1,7 +1,7 @@
 ---
 title: '15A. Climate Change Mitigation And Sustainability'
 eba: 'Medical Specialists 2022-2026'
-topics: ['preliminary']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 15A" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

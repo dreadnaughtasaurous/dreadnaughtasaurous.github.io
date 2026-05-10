@@ -1,7 +1,7 @@
 ---
 title: '24. Annual Leave'
 eba: 'Children''s Services Award 2010'
-topics: ['leave', 'annual-leave', 'hours', 'rosters', 'employment', 'termination', 'preliminary']
+topics: ['leave', 'annual-leave']
 ---
 <span data-pagefind-meta="clause:Clause 24" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

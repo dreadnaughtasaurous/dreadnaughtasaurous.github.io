@@ -1,7 +1,7 @@
 ---
 title: '134. On Call Recall Allowance Non Catt'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'public-holidays', 'allowances']
+topics: ['allowances']
 ---
 <span data-pagefind-meta="clause:Clause 134" style="display:none"></span>
 <span data-pagefind-meta="section:Hours of Work" style="display:none"></span>

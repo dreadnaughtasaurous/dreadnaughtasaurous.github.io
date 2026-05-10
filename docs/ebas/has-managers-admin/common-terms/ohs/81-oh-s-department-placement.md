@@ -1,7 +1,7 @@
 ---
 title: '81. Oh S Department Placement'
 eba: 'Health Allied & Managers Admin 2021-2025'
-topics: ['preliminary', 'ohs']
+topics: ['ohs']
 ---
 <span data-pagefind-meta="clause:Clause 81" style="display:none"></span>
 <span data-pagefind-meta="section:Occupational Health & Safety" style="display:none"></span>

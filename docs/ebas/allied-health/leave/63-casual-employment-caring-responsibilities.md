@@ -1,7 +1,7 @@
 ---
 title: '63. Casual Employment Caring Responsibilities'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['leave', 'personal-leave', 'employment', 'preliminary']
+topics: ['leave', 'personal-leave', 'employment']
 ---
 <span data-pagefind-meta="clause:Clause 63" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

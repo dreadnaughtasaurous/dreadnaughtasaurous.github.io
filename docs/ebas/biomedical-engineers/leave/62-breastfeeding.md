@@ -1,7 +1,7 @@
 ---
 title: '62. Breastfeeding'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['hours', 'breaks', 'flexible-work']
+topics: ['breaks', 'flexible-work']
 ---
 <span data-pagefind-meta="clause:Clause 62" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '42. Dietitians'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
-topics: ['wages', 'classifications']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 42" style="display:none"></span>
 <span data-pagefind-meta="section:Classification & Salaries" style="display:none"></span>

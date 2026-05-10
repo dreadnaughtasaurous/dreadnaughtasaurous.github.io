@@ -1,7 +1,7 @@
 ---
 title: '49. Pre Natal Leave And Assisted Reproduction'
 eba: 'Mental Health Services 2024-2028'
-topics: ['leave', 'personal-leave', 'hours', 'shift-work']
+topics: []
 ---
 <span data-pagefind-meta="clause:Clause 49" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

@@ -1,7 +1,7 @@
 ---
 title: '7. Relationship To Previous Industrial Instruments And The NES'
 eba: 'Allied Health Professionals 2021-2026'
-topics: ['disputes', 'preliminary']
+topics: ['preliminary']
 ---
 <span data-pagefind-meta="clause:Clause 7" style="display:none"></span>
 <span data-pagefind-meta="section:Preliminary" style="display:none"></span>

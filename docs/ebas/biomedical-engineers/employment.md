@@ -1,7 +1,7 @@
 ---
 title: 'Employment'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['employment']
+topics: []
 ---
 
 <div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">

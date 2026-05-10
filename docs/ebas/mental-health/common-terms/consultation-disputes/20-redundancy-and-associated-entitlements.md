@@ -1,7 +1,7 @@
 ---
 title: '20. Redundancy And Associated Entitlements'
 eba: 'Mental Health Services 2024-2028'
-topics: ['employment', 'redundancy', 'preliminary']
+topics: ['employment', 'redundancy']
 ---
 <span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
 <span data-pagefind-meta="section:Consultation & Disputes" style="display:none"></span>

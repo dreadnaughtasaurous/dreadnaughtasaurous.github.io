@@ -1,7 +1,7 @@
 ---
 title: '72B. Special Disaster Leave'
 eba: 'Nurses and Midwives 2024-2028'
-topics: ['leave', 'personal-leave']
+topics: ['leave']
 ---
 <span data-pagefind-meta="clause:Clause 72B" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>

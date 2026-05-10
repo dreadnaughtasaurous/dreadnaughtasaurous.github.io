@@ -1,7 +1,7 @@
 ---
 title: '59. Pre Natal Leave'
 eba: 'Biomedical Engineers 2025-2028'
-topics: ['leave', 'parental-leave', 'hours', 'shift-work']
+topics: ['parental-leave']
 ---
 <span data-pagefind-meta="clause:Clause 59" style="display:none"></span>
 <span data-pagefind-meta="section:Leave" style="display:none"></span>
