@@ -699,6 +699,29 @@ async function doSearch() {
       } catch { /* exact search optional */ }
     }
     const allResults = await Promise.all(search.results.slice(0, 25).map(r => r.data()))
+
+    // ── Filter-only relevance sort ──────────────────────────────────────────
+    // When a filter is active but there is no query string, Pagefind has no
+    // relevance score to rank by and falls back to index order (alphabetical
+    // by file path). We re-sort by how prominently the active topic appears
+    // in each page's title, clause name, and section metadata.
+    const isFilterOnly = !query.value.trim() && (selectedTopic.value || selectedEba.value)
+    if (isFilterOnly && selectedTopic.value) {
+      const topic = selectedTopic.value.toLowerCase().replace(/-/g, ' ')
+      const score = (r) => {
+        const title   = (r.meta?.title   || '').toLowerCase()
+        const clause  = (r.meta?.clause  || '').toLowerCase()
+        const section = (r.meta?.section || '').toLowerCase()
+        let s = 0
+        if (title.includes(topic))   s += 3
+        if (clause.includes(topic))  s += 2
+        if (section.includes(topic)) s += 1
+        return s
+      }
+      allResults.sort((a, b) => score(b) - score(a))
+    }
+    // ───────────────────────────────────────────────────────────────────────
+
     results.value = [
       ...allResults.filter(r => exactIds.has(r.url)),
       ...allResults.filter(r => !exactIds.has(r.url)),
