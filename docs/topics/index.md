@@ -4,3092 +4,2994 @@ title: Topics
 
 # Browse by Topic
 
-Every clause is tagged with one or more topics from a controlled vocabulary. Use this page to see every clause across every EBA grouped by topic.
+Every clause is tagged with one or more topics from a controlled vocabulary. Use this page to see every clause across every EBA grouped by topic, then by EBA.
 
 ## accident-pay
 
-- [Workers' Compensation, Rehabilitation and Return to (cl. 104) · Allied Health](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to/)
-- [Accident Pay (cl. 32) · Allied Health](/ebas/allied-health/wages/32-accident-pay/)
-- [Accident Make-up Pay (cl. 32) · Biomedical Engineers](/ebas/biomedical-engineers/wages/32-accident-make-up-pay/)
-- [Accident pay (cl. 17) · Children's Services](/ebas/childrens-services/wages/17-accident-pay/)
-- [Workers compensation make-up pay (cl. 45) · Doctors In Training](/ebas/doctors-in-training/remuneration/45-workers-compensation-make-up-pay/)
-- [Accident Pay (cl. 33) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/33-accident-pay/)
-- [Accident Pay (cl. 90) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/90-accident-pay/)
+### Allied Health
+
+- [104. Workers Compensation Rehabilitation and Return To Work - Allied Health](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to/)
+- [32. Accident Pay - Allied Health](/ebas/allied-health/wages/32-accident-pay/)
+
+### Biomedical Engineers
+
+- [32. Accident Make Up Pay - Biomedical Engineers](/ebas/biomedical-engineers/wages/32-accident-make-up-pay/)
+
+### Children's Services
+
+- [17. Accident Pay - Children's Services](/ebas/childrens-services/wages/17-accident-pay/)
+
+### Doctors In Training
+
+- [45. Workers Compensation Make Up Pay - Doctors In Training](/ebas/doctors-in-training/remuneration/45-workers-compensation-make-up-pay/)
+
+### Health Allied & Managers Admin
+
+- [33. Accident Pay - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/33-accident-pay/)
+
+### Medical Scientists, Pharm & Psych
+
+- [90. Accident Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/90-accident-pay/)
+- [Accident Pay Allowances - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/)
 
 ## accommodation
 
-- [Facilities (cl. 106) · Allied Health](/ebas/allied-health/ohs/106-facilities/)
-- [Amenities and facilities (cl. 72) · Doctors In Training](/ebas/doctors-in-training/accommodation/72-amenities-and-facilities/)
-- [Facilities when on rotation (cl. 73) · Doctors In Training](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation/)
-- [Deductions for board and lodging (cl. 75) · Doctors In Training](/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging/)
-- [Board and lodging (cl. 45) · Medical Specialists](/ebas/medical-specialists/accommodation/45-board-and-lodging/)
+### Allied Health
+
+- [106. Facilities - Allied Health](/ebas/allied-health/ohs/106-facilities/)
+
+### Doctors In Training
+
+- [72. Amenities And Facilities - Doctors In Training](/ebas/doctors-in-training/accommodation/72-amenities-and-facilities/)
+- [73. Facilities When On Rotation - Doctors In Training](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation/)
+- [75. Deductions For Board And Lodging - Doctors In Training](/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging/)
+- [Accommodation - Doctors In Training](/ebas/doctors-in-training/accommodation/)
+
+### Medical Specialists
+
+- [45. Board And Lodging - Medical Specialists](/ebas/medical-specialists/accommodation/45-board-and-lodging/)
+- [Accommodation - Medical Specialists](/ebas/medical-specialists/accommodation/)
 
 ## allowances
 
-- [Increases to Allowances (cl. 33) · Allied Health](/ebas/allied-health/allowances/33-increases-to-allowances/)
-- [Sole Allowance (cl. 34) · Allied Health](/ebas/allied-health/allowances/34-sole-allowance/)
-- [Higher Qualifications Allowance (cl. 35) · Allied Health](/ebas/allied-health/allowances/35-higher-qualifications-allowance/)
-- [Higher Duties Allowance (cl. 37) · Allied Health](/ebas/allied-health/allowances/37-higher-duties-allowance/)
-- [Shift Work Allowance (cl. 38) · Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
-- [Change of Shift Allowance (cl. 39) · Allied Health](/ebas/allied-health/allowances/39-change-of-shift-allowance/)
-- [Sleepover Allowance (cl. 40) · Allied Health](/ebas/allied-health/allowances/40-sleepover-allowance/)
-- [Travelling Allowance (cl. 41) · Allied Health](/ebas/allied-health/allowances/41-travelling-allowance/)
-- [Travel – Payment (cl. 42) · Allied Health](/ebas/allied-health/allowances/42-travel-payment/)
-- [Travelling and Relocation (cl. 42A) · Allied Health](/ebas/allied-health/allowances/42A-travelling-and-relocation/)
-- [Working Away from Home (cl. 43) · Allied Health](/ebas/allied-health/allowances/43-working-away-from-home/)
-- [Uniform and Laundry Allowance (cl. 44) · Allied Health](/ebas/allied-health/allowances/44-uniform-and-laundry-allowance/)
-- [Lead Apron Allowance (cl. 44A) · Allied Health](/ebas/allied-health/allowances/44A-lead-apron-allowance/)
-- [Damaged Clothing Allowance (cl. 45) · Allied Health](/ebas/allied-health/allowances/45-damaged-clothing-allowance/)
-- [Supervisor Allowance – Medical Technician and Renal (cl. 46) · Allied Health](/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Recall – No Return to Workplace (cl. 54) · Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
-- [Arrangement (cl. 2) · Allied Health](/ebas/allied-health/preliminary/2-arrangement/)
-- [Higher Qualifications Allowance (cl. 33) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/33-higher-qualifications-allowance/)
-- [Shift Allowances (cl. 34) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/34-shift-allowances/)
-- [Higher Duties Allowance (cl. 35) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
-- [Travelling Allowance (cl. 36) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/36-travelling-allowance/)
-- [Uniform and Protective Clothing (cl. 37) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing/)
-- [Childcare Costs (cl. 38) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
-- [Peter MacCallum Cancer Centre Allowance (cl. 28) · Biomedical Engineers](/ebas/biomedical-engineers/wages/28-peter-maccallum-cancer-centre-allowance/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Allowances (cl. 15) · Children's Services](/ebas/childrens-services/wages/15-allowances/)
-- [Rotation allowances (cl. 52) · Doctors In Training](/ebas/doctors-in-training/allowances/52-rotation-allowances/)
-- [Meal allowance (cl. 53) · Doctors In Training](/ebas/doctors-in-training/allowances/53-meal-allowance/)
-- [Telephone allowance (cl. 54) · Doctors In Training](/ebas/doctors-in-training/allowances/54-telephone-allowance/)
-- [Travelling allowance – use of private vehicle (cl. 55) · Doctors In Training](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle/)
-- [Uniform/laundry allowance (cl. 56) · Doctors In Training](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance/)
-- [Designated Location Bonus (cl. 57A) · Doctors In Training](/ebas/doctors-in-training/allowances/57A-designated-location-bonus/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Continuing medical education allowance (cl. 47) · Doctors In Training](/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance/)
-- [On-call (cl. 38) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
-- [Recall – Return to Workplace (cl. 39) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
-- [Telephone Calls to Doctors Outside of Working Hours (cl. 40) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours/)
-- [Recovery of Overpayments (cl. 46) · Doctors In Training](/ebas/doctors-in-training/remuneration/46-recovery-of-overpayments/)
-- [Lead Apron Allowance (cl. 37) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance/)
-- [Meal Allowances (cl. 39) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances/)
-- [Telephone Allowance (cl. 40) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance/)
-- [Travelling Allowance (cl. 41) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/41-travelling-allowance/)
-- [Uniforms and Protective Clothing (cl. 42) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing/)
-- [Childcare Reimbursement (cl. 43) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
-- [On Call / Recall (cl. 44) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/)
-- [Shiftwork (cl. 45) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
-- [Minimum Engagement (cl. 46) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/)
-- [Salary and Allowances Increases (cl. 28) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases/)
-- [Recovery of Overpayments (cl. 30) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments/)
-- [In Charge Allowances (cl. 10) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/10-in-charge-allowances/)
-- [Nauseous Work Allowance (cl. 11) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance/)
-- [Seniors Allowance (cl. 12) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance/)
-- [Tool Allowance (Chefs and Cooks only) (cl. 13) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only/)
-- [Certificate Allowance – Pathology Technicians (cl. 14) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians/)
-- [Educational Incentive Allowance (cl. 16) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance/)
-- [Tow Motor Driver Allowance (cl. 18) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance/)
-- [Patient Transport Officer Certificate Allowance (cl. 20) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance/)
-- [Security Officer Certificate Allowance (cl. 21) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance/)
-- [Dental Assistants Working in Mobile Dental Programs (cl. 42) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/)
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
-- [Schedule 3C - Allowances (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
-- [Telephone allowance (cl. 37) · Medical Specialists](/ebas/medical-specialists/allowances/37-telephone-allowance/)
-- [Uniforms (cl. 38) · Medical Specialists](/ebas/medical-specialists/allowances/38-uniforms/)
-- [Laundry allowance (cl. 39) · Medical Specialists](/ebas/medical-specialists/allowances/39-laundry-allowance/)
-- [Travelling allowance (cl. 40) · Medical Specialists](/ebas/medical-specialists/allowances/40-travelling-allowance/)
-- [Provision of mobile phone or reimbursement of cost (cl. 43) · Medical Specialists](/ebas/medical-specialists/allowances/43-provision-of-mobile-phone-or-reimbursement-of-cost/)
-- [Insurance Allowance (cl. 44) · Medical Specialists](/ebas/medical-specialists/allowances/44-insurance-allowance/)
-- [Manager Allowance (cl. 44A) · Medical Specialists](/ebas/medical-specialists/allowances/44A-manager-allowance/)
-- [Designated Location Bonus (cl. 44B) · Medical Specialists](/ebas/medical-specialists/allowances/44B-designated-location-bonus/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Recovery of Overpayments (cl. 35) · Medical Specialists](/ebas/medical-specialists/wages/35-recovery-of-overpayments/)
-- [Commuted Allowance (cl. 33) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/33-commuted-allowance/)
-- [Vehicle Allowance (cl. 34) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/34-vehicle-allowance/)
-- [Travelling and Reimbursement (cl. 35) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement/)
-- [Rural - Four Wheel Drive/All-Wheel Drive (cl. 52) · Mental Health · Common Terms](/ebas/mental-health/common-terms/resources/52-rural-four-wheel-drive-all-wheel-drive/)
-- [Payment of Wages, Allowances, Employee Records and (cl. 29) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and/)
-- [Damaged clothing allowance (cl. 114) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/114-damaged-clothing-allowance/)
-- [Higher duties allowance (cl. 115) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/115-higher-duties-allowance/)
-- [Meal allowance (cl. 116) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/116-meal-allowance/)
-- [Qualification Allowance (cl. 117) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/117-qualification-allowance/)
-- [Higher Education Recognition Allowance (cl. 118) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/118-higher-education-recognition-allowance/)
-- [Shift work allowance (cl. 119) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance/)
-- [Sole allowance (cl. 120) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/120-sole-allowance/)
-- [Uniform allowance (cl. 121) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/121-uniform-allowance/)
-- [Change of Ward Allowance (cl. 121A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance/)
-- [CATT On-call/ Recall Allowances (cl. 133) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances/)
-- [On-Call/Recall allowance (non-CATT) (cl. 134) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt/)
-- [Meal Allowances (cl. 193) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/193-meal-allowances/)
-- [Travelling Allowances (cl. 196) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/196-travelling-allowances/)
-- [On-Call/Recall (cl. 202) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/202-on-call-recall/)
-- [Change of Shift Allowance – PEN and MHO (cl. 75) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho/)
-- [Damaged Clothing Allowance (cl. 77) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/77-damaged-clothing-allowance/)
-- [Higher Duties Allowance (cl. 78) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/78-higher-duties-allowance/)
-- [Meal Allowance (cl. 79) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/79-meal-allowance/)
-- [Out of Hours Supervisor (cl. 80) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/80-out-of-hours-supervisor/)
-- [Qualification Allowance (cl. 81) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance/)
-- [Travelling and Relocation Allowance (cl. 82) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance/)
-- [Change of Ward Allowance (cl. 84A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance/)
-- [Sole Allowance (cl. 85) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/85-sole-allowance/)
-- [Uniform and Laundry Allowance (cl. 86) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance/)
-- [Senior Allowance - MHO (cl. 87) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho/)
-- [Proposals to Vary Specific Matters (cl. 90C) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters/)
-- [Oncall/Recall (non CATT) (cl. 91) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt/)
-- [CATT On-call/ Recall Allowances (cl. 92) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances/)
-- [FBT (cl. 73) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/wages/73-fbt/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [In Charge Allowances (cl. 153) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/153-in-charge-allowances/)
-- [Interpreter Allowances (cl. 154) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/154-interpreter-allowances/)
-- [Meal Allowances (cl. 155) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/155-meal-allowances/)
-- [Nauseous Work Allowance (cl. 156) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/156-nauseous-work-allowance/)
-- [Multi-Skilling Allowance – Patient Services Assistants (cl. 158) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/158-multi-skilling-allowance-patient-services-assistants/)
-- [Senior Allowance (cl. 159) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/159-senior-allowance/)
-- [Tool Allowance (cl. 160) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/160-tool-allowance/)
-- [On-Call/Recall (cl. 168) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/168-on-call-recall/)
-- [Shiftwork (cl. 178) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
-- [Uniforms and Protective Clothing (cl. 183) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing/)
-- [Child Care Costs (cl. 91) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
-- [Telephone Allowance (cl. 92) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/92-telephone-allowance/)
-- [Uniform Allowance (cl. 93) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/93-uniform-allowance/)
-- [Medical Physicists (cl. 44) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/44-medical-physicists/)
-- [Amenities (cl. 97) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/97-amenities/)
-- [Shift Work (cl. 56) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/56-shift-work/)
-- [Reimbursement of Professional Development Leave (cl. 75) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Travelling Transport and Fares (cl. 86) · Medical Scientists, Pharm & Psych](/ebas/mspp/transport/86-travelling-transport-and-fares/)
-- [Reimbursement of Road Tolls (cl. 87) · Medical Scientists, Pharm & Psych](/ebas/mspp/transport/87-reimbursement-of-road-tolls/)
-- [Allowances (cl. 30) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30-allowances/)
-- [Lead Apron Allowance (cl. 30A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30A-lead-apron-allowance/)
-- [Qualification Allowance (cl. 31) · Nurses & Midwives](/ebas/nurses-midwives/allowances/31-qualification-allowance/)
-- [Sole Midwife Allowance (cl. 32B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32B-sole-midwife-allowance/)
-- [Allowances Related to Overtime (cl. 33) · Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
-- [Shift Allowance (cl. 34) · Nurses & Midwives](/ebas/nurses-midwives/allowances/34-shift-allowance/)
-- [Vehicle Allowance (cl. 36) · Nurses & Midwives](/ebas/nurses-midwives/allowances/36-vehicle-allowance/)
-- [Travelling and Relocation (cl. 37) · Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
-- [Uniform and Laundry Allowance (cl. 38) · Nurses & Midwives](/ebas/nurses-midwives/allowances/38-uniform-and-laundry-allowance/)
-- [Change of Roster Allowance (cl. 40) · Nurses & Midwives](/ebas/nurses-midwives/allowances/40-change-of-roster-allowance/)
-- [Change of Shift Allowance Preservation – ENs only (cl. 41) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41-change-of-shift-allowance-preservation-ens-only/)
-- [Change of Ward Allowance (cl. 41A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance/)
-- [Four Clear Days Allowance (cl. 41C) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
-- [Proposals to Vary Specific Matters (cl. 93) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters/)
+### Allied Health
+
+- [33. Increases To Allowances - Allied Health](/ebas/allied-health/allowances/33-increases-to-allowances/)
+- [34. Sole Allowance - Allied Health](/ebas/allied-health/allowances/34-sole-allowance/)
+- [35. Higher Qualifications Allowance - Allied Health](/ebas/allied-health/allowances/35-higher-qualifications-allowance/)
+- [37. Higher Duties Allowance - Allied Health](/ebas/allied-health/allowances/37-higher-duties-allowance/)
+- [38. Shift Work Allowance - Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
+- [39. Change Of Shift Allowance - Allied Health](/ebas/allied-health/allowances/39-change-of-shift-allowance/)
+- [40. Sleepover Allowance - Allied Health](/ebas/allied-health/allowances/40-sleepover-allowance/)
+- [41. Travelling Allowance - Allied Health](/ebas/allied-health/allowances/41-travelling-allowance/)
+- [42. Travel Payment - Allied Health](/ebas/allied-health/allowances/42-travel-payment/)
+- [42A. Travelling And Relocation - Allied Health](/ebas/allied-health/allowances/42A-travelling-and-relocation/)
+- [43. Working Away From Home - Allied Health](/ebas/allied-health/allowances/43-working-away-from-home/)
+- [44. Uniform And Laundry Allowance - Allied Health](/ebas/allied-health/allowances/44-uniform-and-laundry-allowance/)
+- [44A. Lead Apron Allowance - Allied Health](/ebas/allied-health/allowances/44A-lead-apron-allowance/)
+- [45. Damaged Clothing Allowance - Allied Health](/ebas/allied-health/allowances/45-damaged-clothing-allowance/)
+- [46. Supervisor Allowance - Medical Technician And Renal Dialysis Technician (Clinical Renal Physiologist) Only - Allied Health](/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal/)
+- [54. Recall - No Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
+- [Allowances - Allied Health](/ebas/allied-health/allowances/)
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+
+### Biomedical Engineers
+
+- [28. Peter Maccallum Cancer Centre Allowance - Biomedical Engineers](/ebas/biomedical-engineers/wages/28-peter-maccallum-cancer-centre-allowance/)
+- [33. Higher Qualifications Allowance - Biomedical Engineers](/ebas/biomedical-engineers/allowances/33-higher-qualifications-allowance/)
+- [34. Shift Allowances - Biomedical Engineers](/ebas/biomedical-engineers/allowances/34-shift-allowances/)
+- [35. Higher Duties Allowance - Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
+- [36. Travelling Allowance - Biomedical Engineers](/ebas/biomedical-engineers/allowances/36-travelling-allowance/)
+- [37. Uniform And Protective Clothing - Biomedical Engineers](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing/)
+- [38. Childcare Costs - Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
+- [Allowances - Biomedical Engineers](/ebas/biomedical-engineers/allowances/)
+
+### Children's Services
+
+- [15. Allowances - Children's Services](/ebas/childrens-services/wages/15-allowances/)
+- [16. District Allowances - Children's Services](/ebas/childrens-services/wages/16-district-allowances/)
+
+### Doctors In Training
+
+- [38. On Call - Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
+- [39. Recall Return To Workplace - Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
+- [47. Continuing Medical Education Allowance - Doctors In Training](/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance/)
+- [52. Rotation Allowances - Doctors In Training](/ebas/doctors-in-training/allowances/52-rotation-allowances/)
+- [53. Meal Allowance - Doctors In Training](/ebas/doctors-in-training/allowances/53-meal-allowance/)
+- [54. Telephone Allowance - Doctors In Training](/ebas/doctors-in-training/allowances/54-telephone-allowance/)
+- [55. Travelling Allowance Use Of Private Vehicle - Doctors In Training](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle/)
+- [56. Uniform Laundry Allowance - Doctors In Training](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance/)
+- [Allowances - Doctors In Training](/ebas/doctors-in-training/allowances/)
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [10. In Charge Allowances - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/10-in-charge-allowances/)
+- [11. Nauseous Work Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance/)
+- [12. Seniors Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance/)
+- [13. Tool Allowance Chefs And Cooks Only - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only/)
+- [14. Certificate Allowance Pathology Technicians - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians/)
+- [16. Educational Incentive Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance/)
+- [18. Tow Motor Driver Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance/)
+- [20. Patient Transport Officer Certificate Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance/)
+- [21. Security Officer Certificate Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance/)
+- [28. Salary And Allowances Increases - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases/)
+- [37. Lead Apron Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance/)
+- [39. Meal Allowances - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances/)
+- [40. Telephone Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance/)
+- [41. Travelling Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/41-travelling-allowance/)
+- [42. Uniforms And Protective Clothing - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing/)
+- [43. Childcare Reimbursement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
+- [44. On Call Recall - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/)
+- [45. Shiftwork - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
+- [Allowances - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/allowances/)
+- [Allowances - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/)
+- [Allowances - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/)
+- [Schedule 2C - Allowances (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
+- [Schedule 3C - Allowances (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [91. Child Care Costs - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
+- [92. Telephone Allowance - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/92-telephone-allowance/)
+- [93. Uniform Allowance - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/93-uniform-allowance/)
+- [Accident Pay Allowances - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/)
+
+### Medical Specialists
+
+- [37. Telephone Allowance - Medical Specialists](/ebas/medical-specialists/allowances/37-telephone-allowance/)
+- [38. Uniforms - Medical Specialists](/ebas/medical-specialists/allowances/38-uniforms/)
+- [39. Laundry Allowance - Medical Specialists](/ebas/medical-specialists/allowances/39-laundry-allowance/)
+- [40. Travelling Allowance - Medical Specialists](/ebas/medical-specialists/allowances/40-travelling-allowance/)
+- [44. Insurance Allowance - Medical Specialists](/ebas/medical-specialists/allowances/44-insurance-allowance/)
+- [44A. Manager Allowance - Medical Specialists](/ebas/medical-specialists/allowances/44A-manager-allowance/)
+- [Allowances - Medical Specialists](/ebas/medical-specialists/allowances/)
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+
+### Mental Health
+
+- [114. Damaged Clothing Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/114-damaged-clothing-allowance/)
+- [115. Higher Duties Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/115-higher-duties-allowance/)
+- [116. Meal Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/116-meal-allowance/)
+- [117. Qualification Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/117-qualification-allowance/)
+- [118. Higher Education Recognition Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/118-higher-education-recognition-allowance/)
+- [119. Shift Work Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance/)
+- [120. Sole Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/120-sole-allowance/)
+- [121. Uniform Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/121-uniform-allowance/)
+- [121A. Change Of Ward Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance/)
+- [133. Catt On Call Recall Allowances - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances/)
+- [134. On Call Recall Allowance Non Catt - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt/)
+- [153. In Charge Allowances - Mental Health](/ebas/mental-health/support-services/preliminary/153-in-charge-allowances/)
+- [154. Interpreter Allowances - Mental Health](/ebas/mental-health/support-services/preliminary/154-interpreter-allowances/)
+- [155. Meal Allowances - Mental Health](/ebas/mental-health/support-services/preliminary/155-meal-allowances/)
+- [156. Nauseous Work Allowance - Mental Health](/ebas/mental-health/support-services/preliminary/156-nauseous-work-allowance/)
+- [158. Multi Skilling Allowance Patient Services Assistants - Mental Health](/ebas/mental-health/support-services/preliminary/158-multi-skilling-allowance-patient-services-assistants/)
+- [159. Senior Allowance - Mental Health](/ebas/mental-health/support-services/preliminary/159-senior-allowance/)
+- [160. Tool Allowance - Mental Health](/ebas/mental-health/support-services/preliminary/160-tool-allowance/)
+- [168. On Call Recall - Mental Health](/ebas/mental-health/support-services/preliminary/168-on-call-recall/)
+- [178. Shiftwork - Mental Health](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
+- [183. Uniforms And Protective Clothing - Mental Health](/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing/)
+- [193. Meal Allowances - Mental Health](/ebas/mental-health/management-admin/allowances/193-meal-allowances/)
+- [196. Travelling Allowances - Mental Health](/ebas/mental-health/management-admin/allowances/196-travelling-allowances/)
+- [202. On Call Recall - Mental Health](/ebas/mental-health/management-admin/hours-of-work/202-on-call-recall/)
+- [29. Payment Of Wages Allowances Employee Records And Related Matters - Mental Health](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and/)
+- [33. Commuted Allowance - Mental Health](/ebas/mental-health/common-terms/allowances/33-commuted-allowance/)
+- [34. Vehicle Allowance - Mental Health](/ebas/mental-health/common-terms/allowances/34-vehicle-allowance/)
+- [75. Change Of Shift Allowance - PEN and MHO - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho/)
+- [77. Damaged Clothing Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/77-damaged-clothing-allowance/)
+- [78. Higher Duties Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/78-higher-duties-allowance/)
+- [79. Meal Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/79-meal-allowance/)
+- [80. Out Of Hours Supervisor - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/80-out-of-hours-supervisor/)
+- [81. Qualification Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance/)
+- [82. Travelling And Relocation Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance/)
+- [84A. Change Of Ward Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance/)
+- [85. Sole Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/85-sole-allowance/)
+- [86. Uniform And Laundry Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance/)
+- [87. Senior Allowance - MHO - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho/)
+- [91. Oncall Recall Non Catt - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt/)
+- [92. Catt On Call Recall Allowances - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances/)
+- [93A. Four Clear Days Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/93A-four-clear-days-allowance/)
+- [Allowances - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/)
+- [Allowances - Mental Health](/ebas/mental-health/management-admin/allowances/)
+- [Allowances - Mental Health](/ebas/mental-health/health-professionals/allowances/)
+- [Allowances - Mental Health](/ebas/mental-health/common-terms/allowances/)
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [30. Allowances - Nurses & Midwives](/ebas/nurses-midwives/allowances/30-allowances/)
+- [30A. Lead Apron Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/30A-lead-apron-allowance/)
+- [31. Qualification Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/31-qualification-allowance/)
+- [32B. Sole Midwife Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/32B-sole-midwife-allowance/)
+- [33. Allowances Related To Overtime - Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
+- [34. Shift Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/34-shift-allowance/)
+- [36. Vehicle Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/36-vehicle-allowance/)
+- [37. Travelling And Relocation - Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
+- [38. Uniform And Laundry Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/38-uniform-and-laundry-allowance/)
+- [40. Change Of Roster Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/40-change-of-roster-allowance/)
+- [41. Change Of Shift Allowance Preservation Ens Only - Nurses & Midwives](/ebas/nurses-midwives/allowances/41-change-of-shift-allowance-preservation-ens-only/)
+- [41A. Change Of Ward Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance/)
+- [41C. Four Clear Days Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance/)
+- [Allowances - Nurses & Midwives](/ebas/nurses-midwives/allowances/)
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## annual-leave
 
-- [Annual Leave (cl. 59) · Allied Health](/ebas/allied-health/leave/59-annual-leave/)
-- [Cashing Out of Annual Leave (cl. 60) · Allied Health](/ebas/allied-health/leave/60-cashing-out-of-annual-leave/)
-- [Index (cl. 3) · Allied Health](/ebas/allied-health/preliminary/3-index/)
-- [Union Matters (cl. 83) · Allied Health](/ebas/allied-health/union-matters/83-union-matters/)
-- [Annual Leave (cl. 51) · Biomedical Engineers](/ebas/biomedical-engineers/leave/51-annual-leave/)
-- [Cashing out of Annual Leave (cl. 52) · Biomedical Engineers](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave/)
-- [Long Service Leave (cl. 63) · Biomedical Engineers](/ebas/biomedical-engineers/leave/63-long-service-leave/)
-- [Individual Flexibility Arrangements (cl. 11) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements/)
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Schedule F - Agreement to Take Annual Leave in Advance · Children's Services · Schedules](/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance/)
-- [Schedule G - Agreement to Cash Out Annual Leave · Children's Services · Schedules](/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave/)
-- [Appendix 4 - Agreement to Take Annual Leave in Advance · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 5 - Agreement to Cash Out Annual Leave · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
-- [Annual leave (cl. 60) · Doctors In Training](/ebas/doctors-in-training/leave/60-annual-leave/)
-- [Annual Leave (cl. 53) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/53-annual-leave/)
-- [Purchased Leave (cl. 54) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
-- [Excessive Leave Accrual (cl. 66) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual/)
-- [Appendix 6 - Agreement to Take Annual Leave in Advance · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 7 - Agreement to Cash Out Annual Leave · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
-- [Annual leave (cl. 47) · Medical Specialists](/ebas/medical-specialists/leave/47-annual-leave/)
-- [Annual leave loading (Full-Time Doctors) (cl. 48) · Medical Specialists](/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors/)
-- [Annual Leave (cl. 38D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38D-annual-leave/)
-- [Discretionary backfill for certain absences (cl. 125) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences/)
-- [On-call & rostered overtime (cl. 132) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime/)
-- [Accrued Days Off (cl. 197) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/197-accrued-days-off/)
-- [Conversion of Unused Sick Leave to Annual Leave - (cl. 211) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave/)
-- [Annualised Salaries - Royal Children's Hospital (cl. 190) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/190-annualised-salaries-royal-children-s-hospital/)
-- [Accrued Days Off (cl. 162) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/162-accrued-days-off/)
-- [Annual Leave (cl. 61) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/61-annual-leave/)
-- [Excess Annual Leave (cl. 62) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/62-excess-annual-leave/)
-- [Long Service Leave (cl. 67) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/67-long-service-leave/)
-- [Secure Employment - Agency Staff and Bank Employees (cl. 87) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/87-secure-employment-agency-staff-and-bank-employees/)
-- [Annual Leave (cl. 57) · Nurses & Midwives](/ebas/nurses-midwives/leave/57-annual-leave/)
-- [Cashing Out of Annual Leave (cl. 59) · Nurses & Midwives](/ebas/nurses-midwives/leave/59-cashing-out-of-annual-leave/)
+### Allied Health
+
+- [59. Annual Leave - Allied Health](/ebas/allied-health/leave/59-annual-leave/)
+- [60. Cashing Out Of Annual Leave - Allied Health](/ebas/allied-health/leave/60-cashing-out-of-annual-leave/)
+
+### Biomedical Engineers
+
+- [51. Annual Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/51-annual-leave/)
+- [52. Cashing Out Of Annual Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave/)
+
+### Children's Services
+
+- [24. Annual Leave - Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
+- [Schedule F - Agreement To Take Annual Leave In Advance - Children's Services](/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance/)
+- [Schedule G - Agreement To Cash Out Annual Leave - Children's Services](/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave/)
+
+### Doctors In Training
+
+- [60. Annual Leave - Doctors In Training](/ebas/doctors-in-training/leave/60-annual-leave/)
+- [Appendix 4 – Agreement to Take Annual Leave in Advance - Doctors In Training](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 5 – Agreement to Cash Out Annual Leave - Doctors In Training](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
+
+### Health Allied & Managers Admin
+
+- [53. Annual Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/53-annual-leave/)
+- [54. Purchased Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
+- [66. Excessive Leave Accrual - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual/)
+
+### Medical Scientists, Pharm & Psych
+
+- [61. Annual Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/61-annual-leave/)
+- [62. Excess Annual Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/62-excess-annual-leave/)
+
+### Medical Specialists
+
+- [47. Annual Leave - Medical Specialists](/ebas/medical-specialists/leave/47-annual-leave/)
+- [48. Annual Leave Loading Full Time Doctors - Medical Specialists](/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors/)
+- [Appendix 6 – Agreement to Take Annual Leave in Advance - Medical Specialists](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 7 – Agreement to Cash Out Annual Leave - Medical Specialists](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
+
+### Mental Health
+
+- [211. Conversion Of Unused Sick Leave To Annual Leave - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave/)
+- [38D. Annual Leave - Mental Health](/ebas/mental-health/common-terms/leave/38D-annual-leave/)
+
+### Nurses & Midwives
+
+- [57. Annual Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/57-annual-leave/)
+- [59. Cashing Out Of Annual Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/59-cashing-out-of-annual-leave/)
 
 ## appendices
 
-- [Appendix 1 - List of Employers · Allied Health · Appendices](/ebas/allied-health/appendices/1-list-of-employers/)
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 4 - Classification Definitions · Allied Health · Appendices](/ebas/allied-health/appendices/4-classification-definitions/)
-- [Appendix 5 - Letter of Offer · Allied Health · Appendices](/ebas/allied-health/appendices/5-letter-of-offer/)
-- [Appendix 6 - Certificate of Service · Allied Health · Appendices](/ebas/allied-health/appendices/6-certificate-of-service/)
-- [Appendix 1 - List of Employers · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/1-list-of-employers/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 4 - Classification Definitions · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/4-classification-definitions/)
-- [Appendix 1 - List of Employers / Health Services · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Appendix 3 - Template Certificate of Service · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/3-template-certificate-of-service/)
-- [Appendix 4 - Agreement to Take Annual Leave in Advance · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 5 - Agreement to Cash Out Annual Leave · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
-- [Appendix 1 - List of Employers / Health Services · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/1-list-of-employers-health-services/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Appendix 3 - Continuing Medical Education Standard Claim Form · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/3-continuing-medical-education-standard-claim-form/)
-- [Appendix 4 - Template Certificate of Service · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/4-template-certificate-of-service/)
-- [Appendix 5 - List of Local Certified Agreements and Enterprise Agreements in operation immediately prior to 17 December 2013 · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/5-list-of-local-certified-agreements-and-enterprise-agreements/)
-- [Appendix 6 - Agreement to Take Annual Leave in Advance · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 7 - Agreement to Cash Out Annual Leave · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
-- [Appendix 1 - List of Employers · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/01-list-of-employers/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
-- [Appendix 3 - Information Required for Letter of Appointment · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/03-information-required-for-letter-of-appointment/)
-- [Appendix 4 - Clinical Nurse/Midwife Specialist Criteria · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria/)
-- [Appendix 5 - Indicative Position Description for After Hours Coordinator · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/05-indicative-position-description-for-after-hours-coordinator/)
-- [Appendix 6 - Template Certificate of Service · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/06-template-certificate-of-service/)
-- [Appendix 7 - NUM/MUM Matrix · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/07-num-mum-matrix/)
-- [Appendix 8 - Campus Categories · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/08-campus-categories/)
-- [Appendix 9 - Health Service Categories · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/09-health-service-categories/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Appendix 5 – Letter of Offer - Allied Health](/ebas/allied-health/appendices/5-letter-of-offer/)
+- [Appendix 6 – Certificate of Service - Allied Health](/ebas/allied-health/appendices/6-certificate-of-service/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+- [Appendix 4 - Certificate of Service - Biomedical Engineers](/ebas/biomedical-engineers/appendices/4-certificate-of-service/)
+
+### Doctors In Training
+
+- [Appendix 4 – Agreement to Take Annual Leave in Advance - Doctors In Training](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 5 – Agreement to Cash Out Annual Leave - Doctors In Training](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
+
+### Medical Specialists
+
+- [Appendix 6 – Agreement to Take Annual Leave in Advance - Medical Specialists](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 7 – Agreement to Cash Out Annual Leave - Medical Specialists](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
 
 ## apprentices
 
-- [Schedule E - School-based Apprentices · Children's Services · Schedules](/ebas/childrens-services/schedules/e-school-based-apprentices/)
+### Children's Services
+
+- [Schedule E - School Based Apprentices - Children's Services](/ebas/childrens-services/schedules/e-school-based-apprentices/)
 
 ## breaks
 
-- [Breaks (cl. 49) · Allied Health](/ebas/allied-health/hours-of-work/49-breaks/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 55) · Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
-- [Breastfeeding (cl. 71) · Allied Health](/ebas/allied-health/leave/71-breastfeeding/)
-- [Meal Breaks (cl. 42) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/42-meal-breaks/)
-- [Tea Breaks (cl. 43) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/43-tea-breaks/)
-- [Breastfeeding (cl. 62) · Biomedical Engineers](/ebas/biomedical-engineers/leave/62-breastfeeding/)
-- [Breaks (cl. 22) · Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
-- [Breastfeeding (cl. 74) · Doctors In Training](/ebas/doctors-in-training/accommodation/74-breastfeeding/)
-- [Daylight Saving (cl. 42B) · Doctors In Training](/ebas/doctors-in-training/remuneration/42B-daylight-saving/)
-- [Meal Breaks (cl. 50) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/)
-- [Rest Breaks (cl. 51) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/51-rest-breaks/)
-- [Breastfeeding (cl. 60) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/60-breastfeeding/)
-- [Breastfeeding (cl. 46) · Medical Specialists](/ebas/medical-specialists/accommodation/46-breastfeeding/)
-- [Daylight Saving (cl. 31B) · Medical Specialists](/ebas/medical-specialists/wages/31B-daylight-saving/)
-- [Daylight Saving (cl. 37) · Mental Health · Common Terms](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving/)
-- [Breastfeeding (cl. 64) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/64-breastfeeding/)
-- [Ten-hour break (cl. 131) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break/)
-- [Meal Breaks (cl. 200) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/200-meal-breaks/)
-- [Rest Breaks (cl. 207) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/207-rest-breaks/)
-- [Ten Hour break between overtime/recall (cl. 93) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
-- [Rest and Meal Breaks (cl. 96) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks/)
-- [Meal Breaks (cl. 166) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/166-meal-breaks/)
-- [Rest Breaks (cl. 172) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/172-rest-breaks/)
-- [10 Hour Break Not Given (cl. 57A) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57A-10-hour-break-not-given/)
-- [10 Hour Break Consultation – Transitional (cl. 57B) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional/)
-- [Meal Intervals and Rest intervals (cl. 58) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals/)
-- [Breast-Feeding Facilities (cl. 69) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/69-breast-feeding-facilities/)
-- [Lead Apron Allowance (cl. 30A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30A-lead-apron-allowance/)
-- [Breaks (cl. 44) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/44-breaks/)
-- [Daylight Saving (cl. 55) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/55-daylight-saving/)
-- [Breastfeeding (cl. 69) · Nurses & Midwives](/ebas/nurses-midwives/leave/69-breastfeeding/)
+### Allied Health
+
+- [49. Breaks - Allied Health](/ebas/allied-health/hours-of-work/49-breaks/)
+- [55. Rest Period After Overtime/Recall - Ten Hour Break - Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
+- [71. Breastfeeding - Allied Health](/ebas/allied-health/leave/71-breastfeeding/)
+
+### Biomedical Engineers
+
+- [42. Meal Breaks - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/42-meal-breaks/)
+- [43. Tea Breaks - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/43-tea-breaks/)
+- [62. Breastfeeding - Biomedical Engineers](/ebas/biomedical-engineers/leave/62-breastfeeding/)
+
+### Children's Services
+
+- [22. Breaks - Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
+
+### Doctors In Training
+
+- [74. Breastfeeding - Doctors In Training](/ebas/doctors-in-training/accommodation/74-breastfeeding/)
+
+### Health Allied & Managers Admin
+
+- [50. Meal Breaks - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/)
+- [51. Rest Breaks - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/51-rest-breaks/)
+- [60. Breastfeeding - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/60-breastfeeding/)
+
+### Medical Scientists, Pharm & Psych
+
+- [58. Meal Intervals And Rest Intervals - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals/)
+- [69. Breast Feeding Facilities - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/69-breast-feeding-facilities/)
+
+### Medical Specialists
+
+- [46. Breastfeeding - Medical Specialists](/ebas/medical-specialists/accommodation/46-breastfeeding/)
+
+### Mental Health
+
+- [131. Ten Hour Break - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break/)
+- [166. Meal Breaks - Mental Health](/ebas/mental-health/support-services/preliminary/166-meal-breaks/)
+- [172. Rest Breaks - Mental Health](/ebas/mental-health/support-services/preliminary/172-rest-breaks/)
+- [200. Meal Breaks - Mental Health](/ebas/mental-health/management-admin/hours-of-work/200-meal-breaks/)
+- [207. Rest Breaks - Mental Health](/ebas/mental-health/management-admin/hours-of-work/207-rest-breaks/)
+- [64. Breastfeeding - Mental Health](/ebas/mental-health/common-terms/workplace-rights/64-breastfeeding/)
+- [93. Ten Hour Break Between Overtime Recall - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
+- [96. Rest And Meal Breaks - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks/)
+
+### Nurses & Midwives
+
+- [44. Breaks - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/44-breaks/)
+- [69. Breastfeeding - Nurses & Midwives](/ebas/nurses-midwives/leave/69-breastfeeding/)
 
 ## cash-payments
 
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
+### Allied Health
+
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
 
 ## casual-conversion
 
-- [Casual Conversion (cl. 21) · Allied Health](/ebas/allied-health/employment/21-casual-conversion/)
-- [Casual Conversion (cl. 21) · Biomedical Engineers](/ebas/biomedical-engineers/employment/21-casual-conversion/)
-- [Casual Conversion (cl. 20) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/20-casual-conversion/)
-- [Casual Conversion (cl. 24) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/24-casual-conversion/)
-- [Casual Conversion (cl. 26) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/26-casual-conversion/)
-- [Casual Conversion (cl. 20) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/20-casual-conversion/)
+### Allied Health
+
+- [21. Casual Conversion - Allied Health](/ebas/allied-health/employment/21-casual-conversion/)
+
+### Biomedical Engineers
+
+- [21. Casual Conversion - Biomedical Engineers](/ebas/biomedical-engineers/employment/21-casual-conversion/)
+
+### Doctors In Training
+
+- [20. Casual Conversion - Doctors In Training](/ebas/doctors-in-training/doctor-employment/20-casual-conversion/)
+
+### Health Allied & Managers Admin
+
+- [24. Casual Conversion - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/24-casual-conversion/)
+
+### Mental Health
+
+- [26. Casual Conversion - Mental Health](/ebas/mental-health/common-terms/employment-types/26-casual-conversion/)
+
+### Nurses & Midwives
+
+- [20. Casual Conversion - Nurses & Midwives](/ebas/nurses-midwives/employment-types/20-casual-conversion/)
 
 ## ceremonial-leave
 
-- [Ceremonial Leave (cl. 75) · Allied Health](/ebas/allied-health/leave/75-ceremonial-leave/)
-- [Ceremonial Leave (cl. 66) · Biomedical Engineers](/ebas/biomedical-engineers/leave/66-ceremonial-leave/)
-- [Cultural and Ceremonial Leave (cl. 68) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave/)
-- [Ceremonial leave (cl. 43) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/43-ceremonial-leave/)
-- [Cultural and Ceremonial Leave (cl. 81) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/81-cultural-and-ceremonial-leave/)
-- [Cultural and Ceremonial leave (cl. 73) · Nurses & Midwives](/ebas/nurses-midwives/leave/73-cultural-and-ceremonial-leave/)
+### Allied Health
+
+- [75. Ceremonial Leave - Allied Health](/ebas/allied-health/leave/75-ceremonial-leave/)
+
+### Biomedical Engineers
+
+- [66. Ceremonial Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/66-ceremonial-leave/)
+
+### Health Allied & Managers Admin
+
+- [68. Cultural And Ceremonial Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [81. Cultural And Ceremonial Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/81-cultural-and-ceremonial-leave/)
+
+### Mental Health
+
+- [43. Ceremonial Leave - Mental Health](/ebas/mental-health/common-terms/leave/43-ceremonial-leave/)
+
+### Nurses & Midwives
+
+- [73. Cultural And Ceremonial Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/73-cultural-and-ceremonial-leave/)
 
 ## childcare
 
-- [Childcare Costs (cl. 38) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
-- [Childcare Reimbursement (cl. 43) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
-- [Child Care Costs (cl. 91) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
+### Biomedical Engineers
 
-## circular-870
+- [38. Childcare Costs - Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
 
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Health Allied & Managers Admin
 
-## circular-872
+- [43. Childcare Reimbursement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
 
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
+### Medical Scientists, Pharm & Psych
 
-## circular-873
+- [91. Child Care Costs - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
 
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+## circular 870
 
-## circular-875
+### Nurses & Midwives
 
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
-## circular-877
+## circular 872
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+### Allied Health
 
-## circular-880
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
 
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+
+## circular 873
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 2 - Rates of Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+
+## circular 875
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+## circular 880
+
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
 
 ## classification
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Classification Staffing - Allied Health](/ebas/allied-health/classification-staffing/)
+
+### Biomedical Engineers
+
+- [14A. Alternative Dispute Resolution Procedure - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/14A-alternative-dispute-resolution-procedure/)
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+- [Classification Staffing - Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [Classification Staffing - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/)
+- [Classification Staffing - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/classification-staffing/)
+- [Classification Staffing - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/classification-staffing/)
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Classification Salaries - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+
+### Mental Health
+
+- [Classification Staffing - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/)
+- [Classification Staffing - Mental Health](/ebas/mental-health/management-admin/classification-staffing/)
+- [Classification Staffing - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/)
+
+### Nurses & Midwives
+
+- [90A. Senior Midwife and Liaison Midwife - Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/90A-senior-midwife-and-liaison-midwife/)
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+- [Classification Staffing - Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/)
 
 ## classifications
 
-- [Appendix 4 - Classification Definitions · Allied Health · Appendices](/ebas/allied-health/appendices/4-classification-definitions/)
-- [Appendix 4 - Classification Definitions · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/4-classification-definitions/)
-- [Coverage (cl. 4) · Children's Services](/ebas/childrens-services/application-operation/4-coverage/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Schedule B - Classification Structure · Children's Services · Schedules](/ebas/childrens-services/schedules/b-classification-structure/)
-- [Classifications (cl. 13) · Children's Services](/ebas/childrens-services/wages/13-classifications/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Higher duties (cl. 18) · Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
-- [Classifications (cl. 75) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/75-classifications/)
-- [Full Time Employment (cl. 20) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/20-full-time-employment/)
-- [Regular Part-Time Employment (cl. 21) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment/)
-- [Casual Employment (cl. 23) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/23-casual-employment/)
-- [Statewide Industry Panel (cl. 74) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel/)
-- [Payment of Wages (cl. 29) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages/)
-- [Juniors (cl. 35) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/35-juniors/)
-- [Seniors Allowance (cl. 12) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance/)
-- [Higher Duties (cl. 9) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties/)
-- [Transition to New Instrument Technician Structure (cl. 34) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure/)
-- [Transition to New Theatre Technician Structure (cl. 35) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure/)
-- [Transition of All Other Employees (cl. 36) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/36-transition-of-all-other-employees/)
-- [Introduction of Revised Food Services Classification (cl. 37) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification/)
-- [Introduction of Revised General Services Classification (cl. 38) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification/)
-- [Introduction of Revised Pathology Collector Structure (cl. 39) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure/)
-- [Introduction of Revised Allied Health Assistant (cl. 40) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant/)
-- [Introduction of Revised Health Care Worker (cl. 41) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker/)
-- [Introduction of Lifestyle Assistant and Complimentary (cl. 44) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary/)
-- [Dual Part-Time Appointments (cl. 45) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments/)
-- [Staffing Flexibility (DHSV) (cl. 48) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv/)
-- [Higher Duties (cl. 5) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/)
-- [Schedule 2D - Classification Structure (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services/)
-- [Schedule 3D - Classification Structure (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers/)
-- [Schedule 3E - Workplace Trainer / Careers Advisor · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3e-workplace-trainer-careers-advisor/)
-- [Schedule 3F - Worker Wellbeing Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3f-worker-wellbeing-officer/)
-- [Schedule 3G - Aboriginal Employment Support Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3g-aboriginal-employment-support-officer/)
-- [Schedule 3H - Disability Employment Support Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3h-disability-employment-support-officer/)
-- [Schedule 3I - Veteran Employment Support Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3i-veteran-employment-support-officer/)
-- [Alternative Dispute Resolution Procedure (cl. 23) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure/)
-- [Modes of Employment (cl. 25) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment/)
-- [Application of Section 4 (cl. 7) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4/)
-- [Application of Section 5 (cl. 8) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/8-application-of-section-5/)
-- [Qualification Allowance (cl. 117) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/117-qualification-allowance/)
-- [Classifications and wages (cl. 143) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages/)
-- [Notification of classification (cl. 144) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/144-notification-of-classification/)
-- [Classifications (cl. 221) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/classification-staffing/221-classifications/)
-- [Higher Duties (cl. 198) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/198-higher-duties/)
-- [Senior Allowance - MHO (cl. 87) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho/)
-- [Classification structures (cl. 104) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/104-classification-structures/)
-- [Classification standards (cl. 106) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/106-classification-standards/)
-- [Classification decisions (cl. 107) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/107-classification-decisions/)
-- [Registered Psychiatric Nursing classifications (cl. 108) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications/)
-- [Schedule 3 - Role Statement - Mental Health Clinical Educator · Mental Health · Schedules](/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator/)
-- [Schedule 4 - PCNS and RPN 2 Advanced Application Process · Mental Health · Schedules](/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process/)
-- [Schedule 5 - Classification Definitions Applying to Health Professionals · Mental Health · Schedules](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals/)
-- [Schedule 6 - Support Services Employee Classifications · Mental Health · Schedules](/ebas/mental-health/schedules/06-support-services-employee-classifications/)
-- [Schedule 7 - Management and Administrative Officers Classifications · Mental Health · Schedules](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications/)
-- [Dual Part-Time Appointments (cl. 147) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/147-dual-part-time-appointments/)
-- [Nauseous Work Allowance (cl. 156) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/156-nauseous-work-allowance/)
-- [Senior Allowance (cl. 159) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/159-senior-allowance/)
-- [Amenities (cl. 184) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/184-amenities/)
-- [Classifications (cl. 185) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/185-classifications/)
-- [Management Higher Qualifications Allowances (cl. 39) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/39-management-higher-qualifications-allowances/)
-- [Audiologists (cl. 40) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/40-audiologists/)
-- [Dietitians (cl. 42) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/42-dietitians/)
-- [Genetic Counsellors (cl. 43) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/43-genetic-counsellors/)
-- [Medical Physicists (cl. 44) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/44-medical-physicists/)
-- [Medical Scientists Classification Descriptors (cl. 46) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/46-medical-scientists-classification-descriptors/)
-- [Pharmacists (cl. 47) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/47-pharmacists/)
-- [Psychologists (cl. 48) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/48-psychologists/)
-- [Progression Through Pay Points (cl. 49) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/49-progression-through-pay-points/)
-- [Overlapping Pay Points Between Grades (cl. 50) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/50-overlapping-pay-points-between-grades/)
-- [Higher Duties (cl. 52) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/52-higher-duties/)
-- [Psychologist Supervisor Training (cl. 94) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/94-psychologist-supervisor-training/)
-- [Clinical Supervision of Psychologists (cl. 95) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/95-clinical-supervision-of-psychologists/)
-- [No Restraint of Patients (cl. 96) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/96-no-restraint-of-patients/)
-- [Amenities (cl. 97) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/97-amenities/)
-- [Independent Dispute Resolution Panel (cl. 12) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/12-independent-dispute-resolution-panel/)
-- [Notification of Classification (cl. 19) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/19-notification-of-classification/)
-- [Part-Time Employment (cl. 24) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/24-part-time-employment/)
-- [Casual Employment (cl. 25) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/25-casual-employment/)
-- [Hours of Work (cl. 55) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/55-hours-of-work/)
-- [Examination Leave (cl. 71) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/71-examination-leave/)
-- [Definitions (cl. 9) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/9-definitions/)
-- [Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at/)
-- [Schedule 16 - SHPA Ratios - Pharmacist Staffing Levels · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital - Clinical Perfusionists · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica/)
-- [Schedule 9 - Royal Children's Hospital - Clinical Perfusionists · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists/)
-- [Planned and Unplanned Absences (cl. 34) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences/)
-- [Appendix 4 - Clinical Nurse/Midwife Specialist Criteria · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria/)
-- [Appendix 5 - Indicative Position Description for After Hours Coordinator · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/05-indicative-position-description-for-after-hours-coordinator/)
-- [Appendix 7 - NUM/MUM Matrix · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/07-num-mum-matrix/)
-- [Appendix 8 - Campus Categories · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/08-campus-categories/)
-- [Appendix 9 - Health Service Categories · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/09-health-service-categories/)
-- [Enrolled Nurses – Classification (cl. 82) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification/)
-- [Registered Nurses and Midwives – Classification (cl. 83) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification/)
-- [Statewide Industry Panel (cl. 14) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel/)
-- [Post-registration Students (cl. 79) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/79-post-registration-students/)
-- [Full-time Employment (cl. 17) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/17-full-time-employment/)
+### Allied Health
+
+- [Appendix 4 - Classification Definitions - Allied Health](/ebas/allied-health/appendices/4-classification-definitions/)
+
+### Children's Services
+
+- [13. Classifications - Children's Services](/ebas/childrens-services/wages/13-classifications/)
+- [Schedule B - Classification Structure - Children's Services](/ebas/childrens-services/schedules/b-classification-structure/)
+
+### Health Allied & Managers Admin
+
+- [37. Introduction Of Revised Food Services Classification Structure - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification/)
+- [38. Introduction Of Revised General Services Classification Structure - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification/)
+- [75. Classifications - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/75-classifications/)
+- [Schedule 2D – Classification Structure - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services/)
+- [Schedule 3D – Classification Structure - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [19. Notification Of Classification - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/19-notification-of-classification/)
+- [46. Medical Scientists Classification Descriptors - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/46-medical-scientists-classification-descriptors/)
+- [49. Progression Through Pay Points - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/49-progression-through-pay-points/)
+- [Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at/)
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+- [Schedule 9 - Royal Children''s Hospital – Clinical Perfusionists - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists/)
+
+### Mental Health
+
+- [104. Classification Structures - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/104-classification-structures/)
+- [106. Classification Standards - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/106-classification-standards/)
+- [107. Classification Decisions - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/107-classification-decisions/)
+- [108. Registered Psychiatric Nursing Classifications - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications/)
+- [143. Classifications And Wages - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages/)
+- [144. Notification Of Classification - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/144-notification-of-classification/)
+- [185. Classifications - Mental Health](/ebas/mental-health/support-services/preliminary/185-classifications/)
+- [221. Classifications - Mental Health](/ebas/mental-health/management-admin/classification-staffing/221-classifications/)
+- [Schedule 5 – Classification Definitions Applying to Health Professionals - Mental Health](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals/)
+- [Schedule 6 – Support Services Employee Classifications - Mental Health](/ebas/mental-health/schedules/06-support-services-employee-classifications/)
+- [Schedule 7 – Management and Administrative Officers Classifications - Mental Health](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications/)
+
+### Nurses & Midwives
+
+- [82. Enrolled Nurses Classification - Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/82-enrolled-nurses-classification/)
+- [83. Registered Nurses And Midwives Classification - Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification/)
 
 ## clinical-supervision
 
-- [Psychologist Supervisor Training (cl. 94) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/94-psychologist-supervisor-training/)
-- [Clinical Supervision of Psychologists (cl. 95) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/95-clinical-supervision-of-psychologists/)
-- [Amenities (cl. 97) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/97-amenities/)
+### Medical Scientists, Pharm & Psych
+
+- [94. Psychologist Supervisor Training - Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/94-psychologist-supervisor-training/)
+- [95. Clinical Supervision Of Psychologists - Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/95-clinical-supervision-of-psychologists/)
+- [97. Amenities - Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/97-amenities/)
 
 ## compassionate-leave
 
-- [Compassionate Leave (cl. 67) · Allied Health](/ebas/allied-health/leave/67-compassionate-leave/)
-- [Compassionate Leave (cl. 57) · Biomedical Engineers](/ebas/biomedical-engineers/leave/57-compassionate-leave/)
-- [Personal/carer's leave and compassionate leave (cl. 25) · Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
-- [Compassionate leave (cl. 64) · Doctors In Training](/ebas/doctors-in-training/leave/64-compassionate-leave/)
-- [Compassionate Leave (cl. 56) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave/)
-- [Compassionate Leave (cl. 50) · Medical Specialists](/ebas/medical-specialists/leave/50-compassionate-leave/)
-- [Compassionate Leave (cl. 44) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/44-compassionate-leave/)
-- [Compassionate Leave (cl. 65) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/65-compassionate-leave/)
-- [Compassionate Leave (cl. 65) · Nurses & Midwives](/ebas/nurses-midwives/leave/65-compassionate-leave/)
+### Allied Health
+
+- [67. Compassionate Leave - Allied Health](/ebas/allied-health/leave/67-compassionate-leave/)
+
+### Biomedical Engineers
+
+- [57. Compassionate Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/57-compassionate-leave/)
+
+### Children's Services
+
+- [25. Personal Carer's Leave And Compassionate Leave - Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
+
+### Doctors In Training
+
+- [64. Compassionate Leave - Doctors In Training](/ebas/doctors-in-training/leave/64-compassionate-leave/)
+
+### Health Allied & Managers Admin
+
+- [56. Compassionate Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [65. Compassionate Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/65-compassionate-leave/)
+
+### Medical Specialists
+
+- [50. Compassionate Leave - Medical Specialists](/ebas/medical-specialists/leave/50-compassionate-leave/)
+
+### Mental Health
+
+- [44. Compassionate Leave - Mental Health](/ebas/mental-health/common-terms/leave/44-compassionate-leave/)
+
+### Nurses & Midwives
+
+- [65. Compassionate Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/65-compassionate-leave/)
 
 ## consultation
 
-- [Consultation (cl. 13) · Allied Health](/ebas/allied-health/consultation-disputes/13-consultation/)
-- [Consultation about Changes to Rosters or Hours of (cl. 13A) · Allied Health](/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
-- [Ending Employment During Parental Leave (cl. 26) · Allied Health](/ebas/allied-health/employment/26-ending-employment-during-parental-leave/)
-- [Designated Work Groups (cl. 101) · Allied Health](/ebas/allied-health/ohs/101-designated-work-groups/)
-- [Consultation (cl. 13) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13-consultation/)
-- [Vacancies (cl. 76) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/76-vacancies/)
-- [Index (cl. 2) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/2-index/)
-- [Occupational Health and Safety / Workplace Violence (cl. 87) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/87-occupational-health-and-safety-workplace-violence/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
-- [Consultation about major workplace change (cl. 8) · Children's Services](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change/)
-- [Consultation about changes to rosters or hours of work (cl. 8A) · Children's Services](/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Termination of employment (cl. 11) · Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
-- [Consultation (cl. 10) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10-consultation/)
-- [Consultation about changes to rosters or hours of work (cl. 10A) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Rotation to a General Practice Training Program (cl. 31) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program/)
-- [Consultation (cl. 16) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation/)
-- [Consultation (cl. 9) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/9-consultation/)
-- [Consultation about changes to rosters or hours of work (cl. 9A) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Consultation (cl. 18) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
-- [Consultation about changes to rosters or hours or work (cl. 19) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work/)
-- [OHS Risk Management (cl. 69B) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management/)
-- [Designated Work Groups (cl. 69D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69D-designated-work-groups/)
-- [Community Health Teams staffing establishment (cl. 57A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/57A-community-health-teams-staffing-establishment/)
-- [Demand Escalation Policy (cl. 62) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/62-demand-escalation-policy/)
-- [Royal Commission Working Group (cl. 68) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/68-royal-commission-working-group/)
-- [Discretionary backfill for certain absences (cl. 125) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences/)
-- [Consultation (cl. 30) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30-consultation/)
-- [Consultation about changes to rosters or hours of work (cl. 30A) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [10 Hour Break Consultation – Transitional (cl. 57B) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional/)
-- [Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl/)
-- [Demand Escalation Policy (cl. 92) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/92-demand-escalation-policy/)
-- [Consultation (cl. 11) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11-consultation/)
-- [Consultation about Changes to Rosters or Hours of Work (cl. 11A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [No Amalgamation of Wards without Agreement of ANMF and (cl. 11B) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and/)
-- [Redundancy and Associated Entitlements (cl. 12) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements/)
-- [Statewide Industry Panel (cl. 14) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel/)
-- [Managing Conduct and Performance (cl. 15) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance/)
-- [Designated Work Groups (cl. 101) · Nurses & Midwives](/ebas/nurses-midwives/ohs/101-designated-work-groups/)
-- [OHS Risk Management (cl. 99) · Nurses & Midwives](/ebas/nurses-midwives/ohs/99-ohs-risk-management/)
+### Allied Health
+
+- [13. Consultation - Allied Health](/ebas/allied-health/consultation-disputes/13-consultation/)
+- [13A. Consultation About Changes To Rosters Or Hours Of Work - Allied Health](/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
+- [Consultation Disputes - Allied Health](/ebas/allied-health/consultation-disputes/)
+
+### Biomedical Engineers
+
+- [13. Consultation - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13-consultation/)
+- [13A. Consultation about Changes to Rosters or Hours of Work - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [Consultation Disputes - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/)
+
+### Children's Services
+
+- [8. Consultation About Major Workplace Change - Children's Services](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change/)
+- [8A. Consultation About Changes To Rosters Or Hours Of Work - Children's Services](/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [Consultation Disputes - Children's Services](/ebas/childrens-services/consultation-disputes/)
+
+### Doctors In Training
+
+- [10. Consultation - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10-consultation/)
+- [10A. Consultation About Changes To Rosters Or Hours Of Work - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [Consultation Disputes - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/)
+
+### Health Allied & Managers Admin
+
+- [16. Consultation - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation/)
+- [Consultation Disputes - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/consultation-disputes/)
+
+### Medical Scientists, Pharm & Psych
+
+- [30. Consultation - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30-consultation/)
+- [30A. Consultation About Changes To Rosters Or Hours Of Work - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [57B. 10. Hour Break Consultation Transitional - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional/)
+- [Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl/)
+
+### Medical Specialists
+
+- [9. Consultation - Medical Specialists](/ebas/medical-specialists/consultation-disputes/9-consultation/)
+- [9A. Consultation About Changes To Rosters Or Hours Of Work - Medical Specialists](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [Consultation Disputes - Medical Specialists](/ebas/medical-specialists/consultation-disputes/)
+
+### Mental Health
+
+- [18. Consultation - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
+- [18A. Central Building Consultative Committee - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/18a-central-building-consultative-committee/)
+- [19. Consultation About Changes To Rosters Or Hours Or Work - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work/)
+- [Consultation Disputes - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/)
+
+### Nurses & Midwives
+
+- [11. Consultation - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11-consultation/)
+- [11A. Consultation About Changes To Rosters Or Hours Of Work - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [14. Statewide Industry Panel - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel/)
+- [Consultation Disputes - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/)
 
 ## coverage
 
-- [Appendix 1 - List of Employers · Allied Health · Appendices](/ebas/allied-health/appendices/1-list-of-employers/)
-- [Appendix 1 - List of Employers · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/1-list-of-employers/)
-- [Appendix 1 - List of Employers / Health Services · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services/)
-- [Schedule 1A - Employers Covered · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/1a-employers-covered/)
-- [Appendix 1 - List of Employers / Health Services · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/1-list-of-employers-health-services/)
-- [Schedule 1 - List of Employers · Mental Health · Schedules](/ebas/mental-health/schedules/01-list-of-employers/)
-- [Schedule 1 - Employer Parties · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/1-employer-parties/)
-- [Appendix 1 - List of Employers · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/01-list-of-employers/)
+### Allied Health
+
+- [Appendix 1 - List Of Employers - Allied Health](/ebas/allied-health/appendices/1-list-of-employers/)
+
+### Biomedical Engineers
+
+- [Appendix 1 - List Of Employers - Biomedical Engineers](/ebas/biomedical-engineers/appendices/1-list-of-employers/)
+
+### Doctors In Training
+
+- [Appendix 1 - List Of Employers / Health Services - Doctors In Training](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services/)
+
+### Health Allied & Managers Admin
+
+- [Schedule 1A - Employers Covered - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/1a-employers-covered/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 1 - Employer Parties - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/1-employer-parties/)
+
+### Medical Specialists
+
+- [Appendix 1 - List Of Employers / Health Services - Medical Specialists](/ebas/medical-specialists/appendices/1-list-of-employers-health-services/)
+
+### Mental Health
+
+- [Schedule 1 - List Of Employers - Mental Health](/ebas/mental-health/schedules/01-list-of-employers/)
+
+### Nurses & Midwives
+
+- [Appendix 1 - List Of Employers - Nurses & Midwives](/ebas/nurses-midwives/appendices/01-list-of-employers/)
 
 ## deductions
 
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
 
 ## definitions
 
-- [Family Violence Leave (cl. 67) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/)
-- [Superannuation (cl. 31) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/31-superannuation/)
-- [Employment Checks (cl. 26A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/26A-employment-checks/)
-- [Reproductive Health Leave (cl. 38G) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave/)
-- [Compassionate Leave (cl. 44) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/44-compassionate-leave/)
-- [Family and Domestic Violence Leave (cl. 45) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave/)
-- [Fitness for Work (cl. 51A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/51A-fitness-for-work/)
-- [Crisis Team Workload Management System (CTWMS) (cl. 61) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/61-crisis-team-workload-management-system-ctwms/)
-- [Superannuation (cl. 32) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/32-superannuation/)
-- [Undergraduate Employment Models (cl. 103) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/103-undergraduate-employment-models/)
-- [Classification standards (cl. 106) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/106-classification-standards/)
-- [Overtime (cl. 89) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime/)
-- [Endorsed Midwife (cl. 32A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32A-endorsed-midwife/)
-- [Victorian Maternal and Child Health Nurse Student (cl. 79A) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/79A-victorian-maternal-and-child-health-nurse-student/)
-- [Employment Checks (applicable from 24 June 2024) (cl. 22A) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/22A-employment-checks-applicable-from-24-june-2024/)
-- [Family and Domestic Violence Leave (cl. 64) · Nurses & Midwives](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave/)
-- [Compassionate Leave (cl. 65) · Nurses & Midwives](/ebas/nurses-midwives/leave/65-compassionate-leave/)
-- [Undergraduate Employment Models (cl. 106) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models/)
-- [Midwifery Continuity of Care Models (cl. 107) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models/)
-- [Superannuation (cl. 27) · Nurses & Midwives](/ebas/nurses-midwives/wages/27-superannuation/)
+### Health Allied & Managers Admin
+
+- [Common Terms - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/)
+
+### Mental Health
+
+- [Common Terms - Mental Health](/ebas/mental-health/common-terms/)
 
 ## delegates
 
-- [Definitions and interpretation (cl. 3) · Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
+### Children's Services
+
+- [3. Definitions And Interpretation - Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
+- [7A. Workplace Delegates Rights - Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
 
 ## disability
 
-- [Schedule 1B - Supported Wage System for Employees with a Disability · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability/)
+### Health Allied & Managers Admin
+
+- [Schedule 1B – Supported Wage System for Employees with a Disability - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability/)
 
 ## discipline
 
-- [Trainee Supervision (cl. 88) · Allied Health](/ebas/allied-health/classification-staffing/88-trainee-supervision/)
-- [Performance Management (cl. 15) · Allied Health](/ebas/allied-health/consultation-disputes/15-performance-management/)
-- [Managing Conduct and Performance (cl. 16) · Allied Health](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance/)
-- [Performance Management (cl. 15) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/15-performance-management/)
-- [Discipline (cl. 16) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/16-discipline/)
-- [Managing Conduct and Performance (Discipline) (cl. 13) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline/)
-- [Performance Management (cl. 13A) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/13A-performance-management/)
-- [Managing Conduct and Performance (cl. 18) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance/)
-- [Managing Conduct and Performance (Discipline) (cl. 12) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline/)
-- [Performance Management (cl. 12A) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/12A-performance-management/)
-- [Managing Conduct and Performance (cl. 24) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance/)
-- [Community Mental Health Discipline Mix (cl. 57) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/57-community-mental-health-discipline-mix/)
-- [Trainee supervision (cl. 145) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/145-trainee-supervision/)
-- [Discipline-specific Supervision (ONLY LLEWs) (cl. 142) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews/)
-- [Royal Commission Working Group (cl. 98) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/98-royal-commission-working-group/)
-- [Performance Management (cl. 15) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/15-performance-management/)
-- [Disciplinary Procedure (cl. 16) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/16-disciplinary-procedure/)
-- [Statewide Industry Panel (cl. 14) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel/)
-- [Managing Conduct and Performance (cl. 15) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance/)
+### Allied Health
+
+- [15. Performance Management - Allied Health](/ebas/allied-health/consultation-disputes/15-performance-management/)
+- [16. Managing Conduct And Performance - Allied Health](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance/)
+
+### Biomedical Engineers
+
+- [15. Performance Management - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/15-performance-management/)
+- [16. Discipline - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/16-discipline/)
+
+### Doctors In Training
+
+- [13. Managing Conduct And Performance Discipline - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline/)
+- [13A. Performance Management - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/13A-performance-management/)
+
+### Health Allied & Managers Admin
+
+- [18. Managing Conduct And Performance - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance/)
+
+### Medical Scientists, Pharm & Psych
+
+- [15. Performance Management - Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/15-performance-management/)
+
+### Medical Specialists
+
+- [12. Managing Conduct And Performance Discipline - Medical Specialists](/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline/)
+- [12A. Performance Management - Medical Specialists](/ebas/medical-specialists/consultation-disputes/12A-performance-management/)
+
+### Mental Health
+
+- [142. Discipline Specific Supervision Only Llews - Mental Health](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews/)
+- [24. Managing Conduct And Performance - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance/)
+- [57. Community Mental Health Discipline Mix - Mental Health](/ebas/mental-health/common-terms/staffing/57-community-mental-health-discipline-mix/)
+
+### Nurses & Midwives
+
+- [15. Managing Conduct And Performance - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance/)
 
 ## discrimination
 
-- [Anti-Discrimination (cl. 11) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination/)
-- [Anti-Discrimination (cl. 16) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
-- [Gender Based Discrimination (cl. 17) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination/)
-- [Wages Review (cl. 143A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review/)
-- [Anti-Discrimination (cl. 10) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/10-anti-discrimination/)
-- [Anti-Discrimination (cl. 10) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/10-anti-discrimination/)
-- [Gender Based Discrimination (cl. 10A) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination/)
+### Allied Health
+
+- [10. Anti Discrimination - Allied Health](/ebas/allied-health/preliminary/10-anti-discrimination/)
+
+### Biomedical Engineers
+
+- [10. Anti Discrimination - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/10-anti-discrimination/)
+
+### Health Allied & Managers Admin
+
+- [11. Anti Discrimination - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination/)
+
+### Medical Scientists, Pharm & Psych
+
+- [10. Anti Discrimination - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/10-anti-discrimination/)
+
+### Mental Health
+
+- [143A. Wages Review - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review/)
+- [16. Anti Discrimination - Mental Health](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
+- [17. Gender Based Discrimination - Mental Health](/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination/)
+
+### Nurses & Midwives
+
+- [10. Anti Discrimination - Nurses & Midwives](/ebas/nurses-midwives/preliminary/10-anti-discrimination/)
+- [10A. Gender Based Discrimination - Nurses & Midwives](/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination/)
 
 ## disputes
 
-- [Dispute Resolution Procedure (cl. 14) · Allied Health](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure/)
-- [Independent Dispute Resolution Panel (cl. 14A) · Allied Health](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel/)
-- [Relationship To Previous Industrial Instruments and the (cl. 7) · Allied Health](/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the/)
-- [Dispute Resolution Procedure (cl. 14) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure/)
-- [Anti-Discrimination (cl. 10) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/10-anti-discrimination/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Requests for flexible working arrangements (cl. 23A) · Children's Services](/ebas/childrens-services/hours-of-work/23A-requests-for-flexible-working-arrangements/)
-- [Parental leave and related entitlements (cl. 25A) · Children's Services](/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Dispute Resolution Procedure (cl. 12) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure/)
-- [Dispute Resolution Procedure (cl. 17) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure/)
-- [Anti-Discrimination (cl. 11) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination/)
-- [Police Check/Certificate (cl. 14) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate/)
-- [Working with Children Check (cl. 15) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check/)
-- [Statewide Industry Panel (cl. 74) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel/)
-- [Recovery of Overpayments (cl. 30) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments/)
-- [Dispute Resolution Procedure (cl. 11) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure/)
-- [Workload Management and review (cl. 21) · Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
-- [Disputes Resolution Procedure (cl. 22) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure/)
-- [Alternative Dispute Resolution Procedure (cl. 23) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure/)
-- [Employment Checks (cl. 26A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/26A-employment-checks/)
-- [Time Limit on Higher Duties (cl. 56) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/56-time-limit-on-higher-duties/)
-- [Disputes Settling Procedures (cl. 11) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/11-disputes-settling-procedures/)
-- [Independent Dispute Resolution Panel (cl. 12) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/12-independent-dispute-resolution-panel/)
-- [Relationship with Award and Previous Certified (cl. 5) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/5-relationship-with-award-and-previous-certified/)
-- [No Amalgamation of Wards without Agreement of ANMF and (cl. 11B) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and/)
-- [Redundancy and Associated Entitlements (cl. 12) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements/)
-- [Dispute Resolution Procedure (cl. 13) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure/)
-- [Statewide Industry Panel (cl. 14) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel/)
-- [Managing Conduct and Performance (cl. 15) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance/)
-- [Employment Checks (applicable from 24 June 2024) (cl. 22A) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/22A-employment-checks-applicable-from-24-june-2024/)
+### Allied Health
 
-## education-pd
+- [14. Dispute Resolution Procedure - Allied Health](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure/)
+- [14A. Independent Dispute Resolution Panel - Allied Health](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel/)
+- [Consultation Disputes - Allied Health](/ebas/allied-health/consultation-disputes/)
 
-- [Full-Time Employment (cl. 17) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/17-full-time-employment/)
-- [Part-Time Employment (cl. 18) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/18-part-time-employment/)
-- [Continuing medical education allowance (cl. 47) · Doctors In Training](/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance/)
-- [Internal Training (cl. 48) · Doctors In Training](/ebas/doctors-in-training/education-pd/48-internal-training/)
-- [Hours of work (cl. 33) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33-hours-of-work/)
-- [Training Time (cl. 34) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/34-training-time/)
-- [Rosters (cl. 35) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/35-rosters/)
-- [Educational Incentive Allowance (cl. 16) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance/)
-- [Study Leave (cl. 31) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
-- [Promotion of Local Workforce (cl. 29) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce/)
-- [Education and Training (cl. 14) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/14-education-and-training/)
-- [Professional Development Leave (cl. 15) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/15-professional-development-leave/)
-- [Continuing Medical Education Support (cl. 41) · Medical Specialists](/ebas/medical-specialists/allowances/41-continuing-medical-education-support/)
-- [Appendix 3 - Continuing Medical Education Standard Claim Form · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/3-continuing-medical-education-standard-claim-form/)
-- [Continuing Medical Education Leave (cl. 59) · Medical Specialists](/ebas/medical-specialists/leave/59-continuing-medical-education-leave/)
-- [Professional Development Leave (cl. 136) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/136-professional-development-leave/)
-- [Examination Leave (cl. 137) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/137-examination-leave/)
-- [In-service education & training - Royal Children's Hospital (cl. 138) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital/)
-- [Study leave (cl. 139) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
-- [Health Professionals (Medicare) Study Leave (cl. 140) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
-- [Clinical Supervision for Allied Health Professionals (NOT (cl. 141) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/141-clinical-supervision-for-allied-health-professionals-not/)
-- [Discipline-specific Supervision (ONLY LLEWs) (cl. 142) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews/)
-- [Study Leave (cl. 214) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
-- [Examination Leave (cl. 215) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/215-examination-leave/)
-- [Professional Development Leave - Royal Children's (cl. 218) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/218-professional-development-leave-royal-children-s/)
-- [Education and Training - Royal Children's Hospital (cl. 219) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/219-education-and-training-royal-children-s-hospital/)
-- [Workload Management (cl. 102) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management/)
-- [Undergraduate Employment Models (cl. 103) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/103-undergraduate-employment-models/)
-- [Registered Psychiatric Nursing classifications (cl. 108) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications/)
-- [Clinical Supervision (cl. 100) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/100-clinical-supervision/)
-- [Professional Development Leave (cl. 99) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave/)
-- [Study Leave (cl. 99A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
-- [Examination Leave – RPN and PEN (cl. 99B) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen/)
-- [Study Leave (cl. 180) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/180-study-leave/)
-- [Individual Flexibility Arrangements (cl. 22) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/22-individual-flexibility-arrangements/)
-- [Professional Development Leave (cl. 73) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/73-professional-development-leave/)
-- [Additional Professional Registration Leave – (cl. 74) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/74-additional-professional-registration-leave/)
-- [Reimbursement of Professional Development Leave (cl. 75) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave/)
-- [Schedule 14 - Professional Development Expenses Standard Claim Form · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/14-professional-development-expenses-standard-claim-form/)
-- [Professional Development Leave (cl. 75) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/75-professional-development-leave/)
-- [Study Leave (cl. 76) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
-- [Examination Leave (cl. 77) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/77-examination-leave/)
-- [Staff Replacement (cl. 78) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/78-staff-replacement/)
-- [Post-registration Students (cl. 79) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/79-post-registration-students/)
-- [Undergraduate Employment Models (cl. 106) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models/)
+### Biomedical Engineers
+
+- [14. Dispute Resolution Procedure - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure/)
+- [14A. Alternative Dispute Resolution Procedure - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/14A-alternative-dispute-resolution-procedure/)
+- [Consultation Disputes - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/)
+
+### Children's Services
+
+- [9. Dispute Resolution - Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
+- [Consultation Disputes - Children's Services](/ebas/childrens-services/consultation-disputes/)
+
+### Doctors In Training
+
+- [12. Dispute Resolution Procedure - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure/)
+- [Consultation Disputes - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/)
+
+### Health Allied & Managers Admin
+
+- [17. Dispute Resolution Procedure - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure/)
+- [Consultation Disputes - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/consultation-disputes/)
+
+### Medical Scientists, Pharm & Psych
+
+- [11. Disputes Settling Procedures - Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/11-disputes-settling-procedures/)
+- [12. Independent Dispute Resolution Panel - Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/12-independent-dispute-resolution-panel/)
+- [Disputes - Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/)
+
+### Medical Specialists
+
+- [11. Dispute Resolution Procedure - Medical Specialists](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure/)
+- [Consultation Disputes - Medical Specialists](/ebas/medical-specialists/consultation-disputes/)
+
+### Mental Health
+
+- [22. Disputes Resolution Procedure - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure/)
+- [23. Alternative Dispute Resolution Procedure - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure/)
+- [Consultation Disputes - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/)
+
+### Nurses & Midwives
+
+- [13. Dispute Resolution Procedure - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure/)
+- [Consultation Disputes - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/)
+
+## education
+
+### Allied Health
+
+- [Education & Professional Development - Allied Health](/ebas/allied-health/education-pd/)
+
+### Biomedical Engineers
+
+- [Education & Professional Development - Biomedical Engineers](/ebas/biomedical-engineers/education-pd/)
+
+### Doctors In Training
+
+- [Education & Professional Development - Doctors In Training](/ebas/doctors-in-training/education-pd/)
+
+### Health Allied & Managers Admin
+
+- [14. Education And Training - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/education-pd/14-education-and-training/)
+- [16. Educational Incentive Allowance - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance/)
+- [31. Study Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
+- [Education & Professional Development - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/education-pd/)
+- [Education & Professional Development - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/education-pd/)
+
+### Mental Health
+
+- [137. Examination Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/137-examination-leave/)
+- [138. In Service Education Training Royal Children S Hospital - Mental Health](/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital/)
+- [139. Study Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
+- [140. Health Professionals Medicare Study Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
+- [180. Study Leave - Mental Health](/ebas/mental-health/support-services/preliminary/180-study-leave/)
+- [214. Study Leave - Mental Health](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
+- [215. Examination Leave - Mental Health](/ebas/mental-health/management-admin/education-pd/215-examination-leave/)
+- [219. Education And Training Royal Children S Hospital - Mental Health](/ebas/mental-health/management-admin/education-pd/219-education-and-training-royal-children-s-hospital/)
+- [99A. Study Leave - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
+- [99B. Examination Leave - RPN and PEN - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen/)
+- [Education & Professional Development - Mental Health](/ebas/mental-health/health-professionals/education-pd/)
+- [Education & Professional Development - Mental Health](/ebas/mental-health/management-admin/education-pd/)
+- [Education & Professional Development - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/)
+
+### Nurses & Midwives
+
+- [76. Study Leave - Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
+- [77. Examination Leave - Nurses & Midwives](/ebas/nurses-midwives/education-pd/77-examination-leave/)
+- [Education & Professional Development - Nurses & Midwives](/ebas/nurses-midwives/education-pd/)
 
 ## employment
 
-- [Appendix 5 - Letter of Offer · Allied Health · Appendices](/ebas/allied-health/appendices/5-letter-of-offer/)
-- [Appendix 6 - Certificate of Service · Allied Health · Appendices](/ebas/allied-health/appendices/6-certificate-of-service/)
-- [Classifications Definitions and Wages (cl. 85) · Allied Health](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages/)
-- [Advertising Vacancies (cl. 92) · Allied Health](/ebas/allied-health/classification-staffing/92-advertising-vacancies/)
-- [Study Leave (cl. 80) · Allied Health](/ebas/allied-health/education-pd/80-study-leave/)
-- [Types of Employment (cl. 17) · Allied Health](/ebas/allied-health/employment/17-types-of-employment/)
-- [Full-Time Employment (cl. 18) · Allied Health](/ebas/allied-health/employment/18-full-time-employment/)
-- [Part-Time Employment (cl. 19) · Allied Health](/ebas/allied-health/employment/19-part-time-employment/)
-- [Casual Employment (cl. 20) · Allied Health](/ebas/allied-health/employment/20-casual-employment/)
-- [Casual Conversion (cl. 21) · Allied Health](/ebas/allied-health/employment/21-casual-conversion/)
-- [Fixed Term Employment (cl. 22) · Allied Health](/ebas/allied-health/employment/22-fixed-term-employment/)
-- [Termination of Employment (cl. 24) · Allied Health](/ebas/allied-health/employment/24-termination-of-employment/)
-- [Redundancy and Related Entitlements (cl. 25) · Allied Health](/ebas/allied-health/employment/25-redundancy-and-related-entitlements/)
-- [Transition to Retirement (cl. 27) · Allied Health](/ebas/allied-health/employment/27-transition-to-retirement/)
-- [Accrued Days Off (cl. 48) · Allied Health](/ebas/allied-health/hours-of-work/48-accrued-days-off/)
-- [Purchased Leave (cl. 61) · Allied Health](/ebas/allied-health/leave/61-purchased-leave/)
-- [Personal Leave (including Carer’s Leave) (cl. 62) · Allied Health](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave/)
-- [Casual Employment – Caring Responsibilities (cl. 63) · Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
-- [Long Service Leave (cl. 72) · Allied Health](/ebas/allied-health/leave/72-long-service-leave/)
-- [Absences on Defence Leave (cl. 76A) · Allied Health](/ebas/allied-health/leave/76A-absences-on-defence-leave/)
-- [Anti-Discrimination (cl. 10) · Allied Health](/ebas/allied-health/preliminary/10-anti-discrimination/)
-- [Transfer of Business (cl. 11) · Allied Health](/ebas/allied-health/preliminary/11-transfer-of-business/)
-- [Patience in Bargaining Payment (cl. 28A) · Allied Health](/ebas/allied-health/wages/28A-patience-in-bargaining-payment/)
-- [Top of Band Payment (cl. 28B) · Allied Health](/ebas/allied-health/wages/28B-top-of-band-payment/)
-- [Skills and Incentive Payment (cl. 28C) · Allied Health](/ebas/allied-health/wages/28C-skills-and-incentive-payment/)
-- [Flexible Working Arrangements (cl. 96) · Allied Health](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements/)
-- [Progression (cl. 83) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/83-progression/)
-- [Study Leave (cl. 73) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/73-study-leave/)
-- [Secure Employment (cl. 17) · Biomedical Engineers](/ebas/biomedical-engineers/employment/17-secure-employment/)
-- [Full-time Employment (cl. 18) · Biomedical Engineers](/ebas/biomedical-engineers/employment/18-full-time-employment/)
-- [Part-time Employment (cl. 19) · Biomedical Engineers](/ebas/biomedical-engineers/employment/19-part-time-employment/)
-- [Casual Employment (cl. 20) · Biomedical Engineers](/ebas/biomedical-engineers/employment/20-casual-employment/)
-- [Casual Conversion (cl. 21) · Biomedical Engineers](/ebas/biomedical-engineers/employment/21-casual-conversion/)
-- [Fixed Term Employment (cl. 22) · Biomedical Engineers](/ebas/biomedical-engineers/employment/22-fixed-term-employment/)
-- [Termination of Employment (cl. 23) · Biomedical Engineers](/ebas/biomedical-engineers/employment/23-termination-of-employment/)
-- [Redundancy and Associated Entitlements (cl. 24) · Biomedical Engineers](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements/)
-- [Transition to Retirement (cl. 25) · Biomedical Engineers](/ebas/biomedical-engineers/employment/25-transition-to-retirement/)
-- [Accrued Days Off (cl. 41) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off/)
-- [Annual Leave (cl. 51) · Biomedical Engineers](/ebas/biomedical-engineers/leave/51-annual-leave/)
-- [Purchased Leave (cl. 53) · Biomedical Engineers](/ebas/biomedical-engineers/leave/53-purchased-leave/)
-- [Personal/Carer’s Leave (cl. 54) · Biomedical Engineers](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave/)
-- [Absences on Defence Service (cl. 68) · Biomedical Engineers](/ebas/biomedical-engineers/leave/68-absences-on-defence-service/)
-- [Special Disaster Leave (cl. 69) · Biomedical Engineers](/ebas/biomedical-engineers/leave/69-special-disaster-leave/)
-- [Leave Without Pay (cl. 70) · Biomedical Engineers](/ebas/biomedical-engineers/leave/70-leave-without-pay/)
-- [Anti-Discrimination (cl. 10) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/10-anti-discrimination/)
-- [Peter MacCallum Cancer Centre Allowance (cl. 28) · Biomedical Engineers](/ebas/biomedical-engineers/wages/28-peter-maccallum-cancer-centre-allowance/)
-- [Flexible Working Arrangements (cl. 85) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Definitions and interpretation (cl. 3) · Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
-- [Consultation about major workplace change (cl. 8) · Children's Services](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Termination of employment (cl. 11) · Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Facilities when on rotation (cl. 73) · Doctors In Training](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation/)
-- [Deductions for board and lodging (cl. 75) · Doctors In Training](/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging/)
-- [Rotation allowances (cl. 52) · Doctors In Training](/ebas/doctors-in-training/allowances/52-rotation-allowances/)
-- [Appendix 3 - Template Certificate of Service · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/3-template-certificate-of-service/)
-- [Redundancy and Associated Entitlements (cl. 11) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements/)
-- [Flexible Working Arrangements (cl. 15) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements/)
-- [Full-Time Employment (cl. 17) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/17-full-time-employment/)
-- [Part-Time Employment (cl. 18) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/18-part-time-employment/)
-- [Casual Employment (cl. 19) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/19-casual-employment/)
-- [Casual Conversion (cl. 20) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/20-casual-conversion/)
-- [Period of Employment (cl. 21) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/21-period-of-employment/)
-- [Incidental and Peripheral Duties (cl. 22) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/22-incidental-and-peripheral-duties/)
-- [Rotations between hospitals (cl. 24) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/24-rotations-between-hospitals/)
-- [Private Practice Rights (cl. 25) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/25-private-practice-rights/)
-- [Notification of Classification (cl. 26) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/26-notification-of-classification/)
-- [Orientation on Appointment (cl. 27) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/27-orientation-on-appointment/)
-- [Orientation – Association Notification (cl. 28) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/28-orientation-association-notification/)
-- [Termination of Employment (cl. 29) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29-termination-of-employment/)
-- [Certificate of Service (cl. 29A) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
-- [Advertisement of Positions (cl. 30) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/30-advertisement-of-positions/)
-- [Rotation to a General Practice Training Program (cl. 31) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program/)
-- [Transition to Retirement (cl. 32) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement/)
-- [Continuing medical education allowance (cl. 47) · Doctors In Training](/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance/)
-- [Hours of work (cl. 33) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33-hours-of-work/)
-- [Rosters (cl. 35) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/35-rosters/)
-- [Leave not applying to casuals (cl. 58) · Doctors In Training](/ebas/doctors-in-training/leave/58-leave-not-applying-to-casuals/)
-- [Annual leave (cl. 60) · Doctors In Training](/ebas/doctors-in-training/leave/60-annual-leave/)
-- [Long service leave (cl. 68) · Doctors In Training](/ebas/doctors-in-training/leave/68-long-service-leave/)
-- [Absences on Defence Leave (cl. 70A) · Doctors In Training](/ebas/doctors-in-training/leave/70A-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 70B) · Doctors In Training](/ebas/doctors-in-training/leave/70B-special-disaster-leave/)
-- [Nature of Relationship (cl. 9) · Doctors In Training](/ebas/doctors-in-training/preliminary/9-nature-of-relationship/)
-- [Secure Employment (cl. 77) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment/)
-- [Types of Employment (cl. 19) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/19-types-of-employment/)
-- [Full Time Employment (cl. 20) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/20-full-time-employment/)
-- [Regular Part-Time Employment (cl. 21) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment/)
-- [Part-Time Review of Hours (cl. 22) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours/)
-- [Casual Employment (cl. 23) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/23-casual-employment/)
-- [Casual Conversion (cl. 24) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/24-casual-conversion/)
-- [Fixed Term Employment (cl. 25) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/25-fixed-term-employment/)
-- [Redundancy and Associated Entitlements (cl. 26) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/)
-- [Annual Leave (cl. 53) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/53-annual-leave/)
-- [Purchased Leave (cl. 54) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
-- [Absences on Defence Leave (cl. 64) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/64-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 65) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave/)
-- [Nauseous Work Allowance (cl. 11) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance/)
-- [Educational Incentive Allowance (cl. 16) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance/)
-- [Patient Transport Officer Certificate Allowance (cl. 20) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance/)
-- [Security Officer Certificate Allowance (cl. 21) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance/)
-- [Dual Part-Time Appointments (cl. 45) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments/)
-- [Notice of Termination - Employer (cl. 5) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer/)
-- [Notice of Termination - Employee (cl. 6) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee/)
-- [Hours of Work (cl. 22) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work/)
-- [Overtime (cl. 25) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/)
-- [Performance Management (DHSV) (cl. 4) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/preliminary/4-performance-management-dhsv/)
-- [Workforce Skills, Capability and Mobility (cl. 33) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility/)
-- [Study Leave (cl. 12) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/)
-- [Notice of Termination – Employer (cl. 3) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer/)
-- [Notice of Termination - Employee (cl. 4) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee/)
-- [Overtime (cl. 10) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/)
-- [Hours of Work (cl. 7) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work/)
-- [Application of Section 3 (cl. 2) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3/)
-- [Continuing Medical Education Support (cl. 41) · Medical Specialists](/ebas/medical-specialists/allowances/41-continuing-medical-education-support/)
-- [Insurance Allowance (cl. 44) · Medical Specialists](/ebas/medical-specialists/allowances/44-insurance-allowance/)
-- [Appendix 4 - Template Certificate of Service · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/4-template-certificate-of-service/)
-- [Redundancy and Associated Entitlements (cl. 10) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements/)
-- [Types of Employment (cl. 16) · Medical Specialists](/ebas/medical-specialists/employment/16-types-of-employment/)
-- [Rights of Private Practice Administration (cl. 17) · Medical Specialists](/ebas/medical-specialists/employment/17-rights-of-private-practice-administration/)
-- [Transition to Retirement (cl. 22) · Medical Specialists](/ebas/medical-specialists/employment/22-transition-to-retirement/)
-- [Termination of employment – notice of termination (cl. 23) · Medical Specialists](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination/)
-- [Certificate of Service (cl. 24) · Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
-- [Continuous Duty (Full-Time Doctors) (cl. 25) · Medical Specialists](/ebas/medical-specialists/hours-of-work/25-continuous-duty-full-time-doctors/)
-- [On-Call (Full-Time Doctors) (cl. 26) · Medical Specialists](/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors/)
-- [Recall (Full-Time Doctors) (cl. 27) · Medical Specialists](/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors/)
-- [Hours of work (Full-Time Doctors) (cl. 28) · Medical Specialists](/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors/)
-- [Annual leave loading (Full-Time Doctors) (cl. 48) · Medical Specialists](/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors/)
-- [Long Service Leave (cl. 55) · Medical Specialists](/ebas/medical-specialists/leave/55-long-service-leave/)
-- [Absences on Defence Leave (cl. 58A) · Medical Specialists](/ebas/medical-specialists/leave/58A-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 58B) · Medical Specialists](/ebas/medical-specialists/leave/58B-special-disaster-leave/)
-- [Continuing Medical Education Leave (cl. 59) · Medical Specialists](/ebas/medical-specialists/leave/59-continuing-medical-education-leave/)
-- [Redundancy and Associated Entitlements (cl. 20) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements/)
-- [Modes of Employment (cl. 25) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment/)
-- [Casual Conversion (cl. 26) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/26-casual-conversion/)
-- [Employment Checks (cl. 26A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/26A-employment-checks/)
-- [Employee Retention (cl. 27) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/27-employee-retention/)
-- [Termination of Employment (cl. 28) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
-- [Recruitment to Vacant Position (cl. 55) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position/)
-- [Higher Education Recognition Allowance (cl. 118) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/118-higher-education-recognition-allowance/)
-- [Once Off Retention Payment (cl. 113) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/wages/113-once-off-retention-payment/)
-- [Schedule 8 - Letter of Appointment · Mental Health · Schedules](/ebas/mental-health/schedules/08-letter-of-appointment/)
-- [Schedule 9 - Certificate of Service · Mental Health · Schedules](/ebas/mental-health/schedules/09-certificate-of-service/)
-- [Clinical Supervision of Psychologists (cl. 95) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/95-clinical-supervision-of-psychologists/)
-- [Types of Employment (cl. 18) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/18-types-of-employment/)
-- [Transition to Retirement (cl. 20) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/20-transition-to-retirement/)
-- [Request To Reduce Ordinary Hours (cl. 21) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/21-request-to-reduce-ordinary-hours/)
-- [Full-Time Employment (cl. 23) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/23-full-time-employment/)
-- [Part-Time Employment (cl. 24) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/24-part-time-employment/)
-- [Casual Employment (cl. 25) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/25-casual-employment/)
-- [Fixed Term Employment (cl. 26) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/26-fixed-term-employment/)
-- [Flexible Working Arrangements (cl. 27) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/27-flexible-working-arrangements/)
-- [Trainee Scientists (cl. 29) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/29-trainee-scientists/)
-- [Notice of Termination (cl. 31) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/31-notice-of-termination/)
-- [Redundancy and Associated Entitlements (cl. 32) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
-- [Hours of Work (cl. 55) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/55-hours-of-work/)
-- [Personal/Carer’s Leave (cl. 64) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/64-personal-carer-s-leave/)
-- [Compassionate Leave (cl. 65) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/65-compassionate-leave/)
-- [Long Service Leave (cl. 67) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/67-long-service-leave/)
-- [Parental Leave (cl. 70) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/70-parental-leave/)
-- [Study Leave (cl. 72) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/72-study-leave/)
-- [Additional Professional Registration Leave – (cl. 74) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/74-additional-professional-registration-leave/)
-- [Special Disaster Leave (cl. 83) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/83-special-disaster-leave/)
-- [Absences on Defence Leave (cl. 84) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/84-absences-on-defence-leave/)
-- [Schedule 7 - Maintenance of Public Sector Employment · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/7-maintenance-of-public-sector-employment/)
-- [Travelling and Relocation (cl. 37) · Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
-- [Appendix 3 - Information Required for Letter of Appointment · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/03-information-required-for-letter-of-appointment/)
-- [Appendix 6 - Template Certificate of Service · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/06-template-certificate-of-service/)
-- [Redundancy and Associated Entitlements (cl. 12) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements/)
-- [Victorian Maternal and Child Health Nurse Student (cl. 79A) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/79A-victorian-maternal-and-child-health-nurse-student/)
-- [Full-time Employment (cl. 17) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/17-full-time-employment/)
-- [Casual Employment (cl. 19) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/19-casual-employment/)
-- [Casual Conversion (cl. 20) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/20-casual-conversion/)
-- [Fixed Term Employment (cl. 21) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/21-fixed-term-employment/)
-- [Letter of Appointment (cl. 22) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/22-letter-of-appointment/)
-- [Notice Period before Termination (cl. 23) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination/)
-- [Transition to Retirement (cl. 24) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/24-transition-to-retirement/)
-- [Personal Leave (cl. 61) · Nurses & Midwives](/ebas/nurses-midwives/leave/61-personal-leave/)
-- [Casual Employment – Caring Responsibilities (cl. 62) · Nurses & Midwives](/ebas/nurses-midwives/leave/62-casual-employment-caring-responsibilities/)
+### Allied Health
+
+- [11. Transfer Of Business - Allied Health](/ebas/allied-health/preliminary/11-transfer-of-business/)
+- [17. Types Of Employment - Allied Health](/ebas/allied-health/employment/17-types-of-employment/)
+- [18. Full-Time Employment - Allied Health](/ebas/allied-health/employment/18-full-time-employment/)
+- [19. Part-Time Employment - Allied Health](/ebas/allied-health/employment/19-part-time-employment/)
+- [20. Casual Employment - Allied Health](/ebas/allied-health/employment/20-casual-employment/)
+- [21. Casual Conversion - Allied Health](/ebas/allied-health/employment/21-casual-conversion/)
+- [22. Fixed Term Employment - Allied Health](/ebas/allied-health/employment/22-fixed-term-employment/)
+- [24. Termination Of Employment - Allied Health](/ebas/allied-health/employment/24-termination-of-employment/)
+- [25. Redundancy And Related Entitlements - Allied Health](/ebas/allied-health/employment/25-redundancy-and-related-entitlements/)
+- [63. Casual Employment Caring Responsibilities - Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
+- [Appendix 5 – Letter of Offer - Allied Health](/ebas/allied-health/appendices/5-letter-of-offer/)
+- [Appendix 6 – Certificate of Service - Allied Health](/ebas/allied-health/appendices/6-certificate-of-service/)
+
+### Biomedical Engineers
+
+- [17. Secure Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/17-secure-employment/)
+- [18. Full Time Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/18-full-time-employment/)
+- [19. Part Time Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/19-part-time-employment/)
+- [20. Casual Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/20-casual-employment/)
+- [21. Casual Conversion - Biomedical Engineers](/ebas/biomedical-engineers/employment/21-casual-conversion/)
+- [22. Fixed Term Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/22-fixed-term-employment/)
+- [23. Termination Of Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/23-termination-of-employment/)
+- [24. Redundancy And Associated Entitlements - Biomedical Engineers](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements/)
+- [25. Transition To Retirement - Biomedical Engineers](/ebas/biomedical-engineers/employment/25-transition-to-retirement/)
+- [Appendix 3 - Fixed Term Contract Conversion - Biomedical Engineers](/ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion/)
+- [Appendix 4 - Certificate of Service - Biomedical Engineers](/ebas/biomedical-engineers/appendices/4-certificate-of-service/)
+
+### Children's Services
+
+- [10. Types Of Employment - Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
+- [11. Termination Of Employment - Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
+- [12. Redundancy - Children's Services](/ebas/childrens-services/employment/12-redundancy/)
+
+### Doctors In Training
+
+- [11. Redundancy And Associated Entitlements - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements/)
+- [17. Full Time Employment - Doctors In Training](/ebas/doctors-in-training/doctor-employment/17-full-time-employment/)
+- [19. Casual Employment - Doctors In Training](/ebas/doctors-in-training/doctor-employment/19-casual-employment/)
+- [20. Casual Conversion - Doctors In Training](/ebas/doctors-in-training/doctor-employment/20-casual-conversion/)
+- [21. Period Of Employment - Doctors In Training](/ebas/doctors-in-training/doctor-employment/21-period-of-employment/)
+- [29. Termination Of Employment - Doctors In Training](/ebas/doctors-in-training/doctor-employment/29-termination-of-employment/)
+- [29A. Certificate Of Service - Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
+- [32. Transition To Retirement - Doctors In Training](/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement/)
+- [Appendix 3 – Template Certificate of Service - Doctors In Training](/ebas/doctors-in-training/appendices/3-template-certificate-of-service/)
+
+### Health Allied & Managers Admin
+
+- [19. Types Of Employment - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/19-types-of-employment/)
+- [20. Full Time Employment - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/20-full-time-employment/)
+- [21. Regular Part Time Employment - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment/)
+- [23. Casual Employment - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/23-casual-employment/)
+- [24. Casual Conversion - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/24-casual-conversion/)
+- [25. Fixed Term Employment - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/25-fixed-term-employment/)
+- [26. Redundancy And Associated Entitlements - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/)
+- [3. Notice Of Termination - Employer - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer/)
+- [4. Notice Of Termination - Employee - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee/)
+- [5. Notice Of Termination - Employer - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer/)
+- [6. Notice Of Termination Employee - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee/)
+- [77. Secure Employment - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment/)
+
+### Medical Scientists, Pharm & Psych
+
+- [18. Types Of Employment - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/18-types-of-employment/)
+- [20. Transition To Retirement - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/20-transition-to-retirement/)
+- [23. Full Time Employment - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/23-full-time-employment/)
+- [24. Part Time Employment - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/24-part-time-employment/)
+- [25. Casual Employment - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/25-casual-employment/)
+- [26. Fixed Term Employment - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/26-fixed-term-employment/)
+- [31. Notice Of Termination - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/31-notice-of-termination/)
+- [32. Redundancy And Associated Entitlements - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
+
+### Medical Specialists
+
+- [10. Redundancy And Associated Entitlements - Medical Specialists](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements/)
+- [16. Types Of Employment - Medical Specialists](/ebas/medical-specialists/employment/16-types-of-employment/)
+- [22. Transition To Retirement - Medical Specialists](/ebas/medical-specialists/employment/22-transition-to-retirement/)
+- [23. Termination Of Employment Notice Of Termination - Medical Specialists](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination/)
+- [24. Certificate Of Service - Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
+- [Appendix 4 – Template Certificate of Service - Medical Specialists](/ebas/medical-specialists/appendices/4-template-certificate-of-service/)
+
+### Mental Health
+
+- [20. Redundancy And Associated Entitlements - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements/)
+- [25. Modes Of Employment - Mental Health](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment/)
+- [26. Casual Conversion - Mental Health](/ebas/mental-health/common-terms/employment-types/26-casual-conversion/)
+- [26A. Employment Checks - Mental Health](/ebas/mental-health/common-terms/employment-types/26A-employment-checks/)
+- [27. Employee Retention - Mental Health](/ebas/mental-health/common-terms/employment-types/27-employee-retention/)
+- [28. Termination Of Employment - Mental Health](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
+- [55. Recruitment To Vacant Position - Mental Health](/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position/)
+- [Schedule 8 - Letter Of Appointment - Mental Health](/ebas/mental-health/schedules/08-letter-of-appointment/)
+- [Schedule 9 - Certificate Of Service - Mental Health](/ebas/mental-health/schedules/09-certificate-of-service/)
+
+### Nurses & Midwives
+
+- [12. Redundancy And Associated Entitlements - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements/)
+- [17. Full Time Employment - Nurses & Midwives](/ebas/nurses-midwives/employment-types/17-full-time-employment/)
+- [19. Casual Employment - Nurses & Midwives](/ebas/nurses-midwives/employment-types/19-casual-employment/)
+- [20. Casual Conversion - Nurses & Midwives](/ebas/nurses-midwives/employment-types/20-casual-conversion/)
+- [21. Fixed Term Employment - Nurses & Midwives](/ebas/nurses-midwives/employment-types/21-fixed-term-employment/)
+- [22. Letter Of Appointment - Nurses & Midwives](/ebas/nurses-midwives/employment-types/22-letter-of-appointment/)
+- [23. Notice Period Before Termination - Nurses & Midwives](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination/)
+- [24. Transition To Retirement - Nurses & Midwives](/ebas/nurses-midwives/employment-types/24-transition-to-retirement/)
+- [62. Casual Employment Caring Responsibilities - Nurses & Midwives](/ebas/nurses-midwives/leave/62-casual-employment-caring-responsibilities/)
+- [Appendix 3 - Information Required For Letter Of Appointment - Nurses & Midwives](/ebas/nurses-midwives/appendices/03-information-required-for-letter-of-appointment/)
+- [Appendix 6 – Template Certificate of Service - Nurses & Midwives](/ebas/nurses-midwives/appendices/06-template-certificate-of-service/)
 
 ## experience-payments
 
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
+### Health Allied & Managers Admin
+
+- [Schedule 2C - Allowances (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
 
 ## family-violence-leave
 
-- [Family Violence Leave (cl. 66) · Allied Health](/ebas/allied-health/leave/66-family-violence-leave/)
-- [Home Visit Safety (cl. 105) · Allied Health](/ebas/allied-health/ohs/105-home-visit-safety/)
-- [Union Matters (cl. 83) · Allied Health](/ebas/allied-health/union-matters/83-union-matters/)
-- [Family Violence Leave (cl. 56) · Biomedical Engineers](/ebas/biomedical-engineers/leave/56-family-violence-leave/)
-- [Flexible Working Arrangements (cl. 85) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements/)
-- [Family and domestic violence leave (cl. 28) · Children's Services](/ebas/childrens-services/leave/28-family-and-domestic-violence-leave/)
-- [Family Violence Leave (cl. 71) · Doctors In Training](/ebas/doctors-in-training/leave/71-family-violence-leave/)
-- [Family Violence Leave (cl. 67) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/)
-- [Family Violence Leave (cl. 60) · Medical Specialists](/ebas/medical-specialists/leave/60-family-violence-leave/)
-- [Family and Domestic Violence Leave (cl. 45) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave/)
-- [Anti-Discrimination (cl. 16) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
-- [Family Violence Leave (cl. 82) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/82-family-violence-leave/)
-- [Family and Domestic Violence Leave (cl. 64) · Nurses & Midwives](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave/)
+### Allied Health
+
+- [105. Home Visit Safety - Allied Health](/ebas/allied-health/ohs/105-home-visit-safety/)
+- [66. Family Violence Leave - Allied Health](/ebas/allied-health/leave/66-family-violence-leave/)
+- [83. Union Matters - Allied Health](/ebas/allied-health/union-matters/83-union-matters/)
+
+### Biomedical Engineers
+
+- [56. Family Violence Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/56-family-violence-leave/)
+- [85. Flexible Working Arrangements - Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements/)
+
+### Children's Services
+
+- [28. Family And Domestic Violence Leave - Children's Services](/ebas/childrens-services/leave/28-family-and-domestic-violence-leave/)
+
+### Doctors In Training
+
+- [71. Family Violence Leave - Doctors In Training](/ebas/doctors-in-training/leave/71-family-violence-leave/)
+
+### Health Allied & Managers Admin
+
+- [67. Family Violence Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [82. Family Violence Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/82-family-violence-leave/)
+
+### Medical Specialists
+
+- [60. Family Violence Leave - Medical Specialists](/ebas/medical-specialists/leave/60-family-violence-leave/)
+
+### Mental Health
+
+- [16. Anti Discrimination - Mental Health](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
+- [45. Family And Domestic Violence Leave - Mental Health](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave/)
+
+### Nurses & Midwives
+
+- [64. Family And Domestic Violence Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave/)
 
 ## flexible-work
 
-- [Transition to Retirement (cl. 27) · Allied Health](/ebas/allied-health/employment/27-transition-to-retirement/)
-- [Breastfeeding (cl. 71) · Allied Health](/ebas/allied-health/leave/71-breastfeeding/)
-- [Anti-Discrimination (cl. 10) · Allied Health](/ebas/allied-health/preliminary/10-anti-discrimination/)
-- [Individual Flexibility Arrangement (cl. 12) · Allied Health](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement/)
-- [Flexible Working Arrangements (cl. 96) · Allied Health](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements/)
-- [Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only) (cl. 77) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)
-- [Breastfeeding (cl. 62) · Biomedical Engineers](/ebas/biomedical-engineers/leave/62-breastfeeding/)
-- [Anti-Discrimination (cl. 10) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/10-anti-discrimination/)
-- [Best Practice Employment Commitment (cl. 79) · Biomedical Engineers](/ebas/biomedical-engineers/union-matters/79-best-practice-employment-commitment/)
-- [Flexible Working Arrangements (cl. 85) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements/)
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Requests for flexible working arrangements (cl. 23A) · Children's Services](/ebas/childrens-services/hours-of-work/23A-requests-for-flexible-working-arrangements/)
-- [Breastfeeding (cl. 74) · Doctors In Training](/ebas/doctors-in-training/accommodation/74-breastfeeding/)
-- [Dispute Resolution Procedure (cl. 12) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure/)
-- [Flexible Working Arrangements (cl. 15) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements/)
-- [Individual Flexibility Arrangements (cl. 16) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/16-individual-flexibility-arrangements/)
-- [Transition to Retirement (cl. 32) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement/)
-- [Requests For Flexible Working Arrangements (cl. 79) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements/)
-- [Dispute Resolution Procedure (cl. 17) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure/)
-- [Breastfeeding (cl. 60) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/60-breastfeeding/)
-- [Individual Flexibility Arrangement (cl. 13) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement/)
-- [Breastfeeding (cl. 46) · Medical Specialists](/ebas/medical-specialists/accommodation/46-breastfeeding/)
-- [Dispute Resolution Procedure (cl. 11) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure/)
-- [Flexible Working Arrangements (cl. 14) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/14-flexible-working-arrangements/)
-- [Individual Flexibility Arrangements (cl. 15) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/15-individual-flexibility-arrangements/)
-- [Transition to Retirement (cl. 22) · Medical Specialists](/ebas/medical-specialists/employment/22-transition-to-retirement/)
-- [Disputes Resolution Procedure (cl. 22) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure/)
-- [Transition to Retirement (cl. 27A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/27A-transition-to-retirement/)
-- [Anti-Discrimination (cl. 16) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
-- [Breastfeeding (cl. 64) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/64-breastfeeding/)
-- [Flexible Working Arrangements (cl. 65) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements/)
-- [Individual Flexible Working Arrangements (cl. 66) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements/)
-- [Transition to Retirement (cl. 20) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/20-transition-to-retirement/)
-- [Flexible Working Arrangements (cl. 27) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/27-flexible-working-arrangements/)
-- [Breast-Feeding Facilities (cl. 69) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/69-breast-feeding-facilities/)
-- [Dispute Resolution Procedure (cl. 13) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure/)
-- [Flexible Working Arrangements (cl. 16) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16-flexible-working-arrangements/)
-- [Individual Flexible Working Arrangements (cl. 16A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16A-individual-flexible-working-arrangements/)
-- [Transition to Retirement (cl. 24) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/24-transition-to-retirement/)
-- [Breastfeeding (cl. 69) · Nurses & Midwives](/ebas/nurses-midwives/leave/69-breastfeeding/)
-- [Anti-Discrimination (cl. 10) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/10-anti-discrimination/)
+### Allied Health
+
+- [12. Individual Flexibility Arrangement - Allied Health](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement/)
+- [71. Breastfeeding - Allied Health](/ebas/allied-health/leave/71-breastfeeding/)
+- [96. Flexible Working Arrangements - Allied Health](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements/)
+
+### Biomedical Engineers
+
+- [62. Breastfeeding - Biomedical Engineers](/ebas/biomedical-engineers/leave/62-breastfeeding/)
+- [85. Flexible Working Arrangements - Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements/)
+
+### Children's Services
+
+- [23A. Requests For Flexible Working Arrangements - Children's Services](/ebas/childrens-services/hours-of-work/23A-requests-for-flexible-working-arrangements/)
+- [7. Individual Flexibility Arrangements - Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
+
+### Doctors In Training
+
+- [15. Flexible Working Arrangements - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements/)
+- [16. Individual Flexibility Arrangements - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/16-individual-flexibility-arrangements/)
+- [74. Breastfeeding - Doctors In Training](/ebas/doctors-in-training/accommodation/74-breastfeeding/)
+
+### Health Allied & Managers Admin
+
+- [13. Individual Flexibility Arrangement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement/)
+- [60. Breastfeeding - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/60-breastfeeding/)
+- [79. Requests For Flexible Working Arrangements - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements/)
+
+### Medical Scientists, Pharm & Psych
+
+- [27. Flexible Working Arrangements - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/27-flexible-working-arrangements/)
+
+### Medical Specialists
+
+- [14. Flexible Working Arrangements - Medical Specialists](/ebas/medical-specialists/consultation-disputes/14-flexible-working-arrangements/)
+- [15. Individual Flexibility Arrangements - Medical Specialists](/ebas/medical-specialists/consultation-disputes/15-individual-flexibility-arrangements/)
+- [46. Breastfeeding - Medical Specialists](/ebas/medical-specialists/accommodation/46-breastfeeding/)
+
+### Mental Health
+
+- [64. Breastfeeding - Mental Health](/ebas/mental-health/common-terms/workplace-rights/64-breastfeeding/)
+- [65. Flexible Working Arrangements - Mental Health](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements/)
+- [66. Individual Flexible Working Arrangements - Mental Health](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements/)
+
+### Nurses & Midwives
+
+- [16. Flexible Working Arrangements - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16-flexible-working-arrangements/)
+- [16A. Individual Flexible Working Arrangements - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16A-individual-flexible-working-arrangements/)
+- [69. Breastfeeding - Nurses & Midwives](/ebas/nurses-midwives/leave/69-breastfeeding/)
 
 ## forms
 
-- [Appendix 5 - Letter of Offer · Allied Health · Appendices](/ebas/allied-health/appendices/5-letter-of-offer/)
-- [Appendix 6 - Certificate of Service · Allied Health · Appendices](/ebas/allied-health/appendices/6-certificate-of-service/)
-- [Appendix 3 - Template Certificate of Service · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/3-template-certificate-of-service/)
-- [Appendix 4 - Agreement to Take Annual Leave in Advance · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 5 - Agreement to Cash Out Annual Leave · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
-- [Appendix 3 - Continuing Medical Education Standard Claim Form · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/3-continuing-medical-education-standard-claim-form/)
-- [Appendix 4 - Template Certificate of Service · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/4-template-certificate-of-service/)
-- [Appendix 6 - Agreement to Take Annual Leave in Advance · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 7 - Agreement to Cash Out Annual Leave · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
+### Allied Health
+
+- [Appendix 5 – Letter of Offer - Allied Health](/ebas/allied-health/appendices/5-letter-of-offer/)
+- [Appendix 6 – Certificate of Service - Allied Health](/ebas/allied-health/appendices/6-certificate-of-service/)
+
+### Biomedical Engineers
+
+- [Appendix 4 - Certificate of Service - Biomedical Engineers](/ebas/biomedical-engineers/appendices/4-certificate-of-service/)
+
+### Doctors In Training
+
+- [Appendix 3 – Template Certificate of Service - Doctors In Training](/ebas/doctors-in-training/appendices/3-template-certificate-of-service/)
+- [Appendix 4 – Agreement to Take Annual Leave in Advance - Doctors In Training](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 5 – Agreement to Cash Out Annual Leave - Doctors In Training](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
+
+### Medical Specialists
+
+- [Appendix 3 - Continuing Medical Education Standard Claim Form - Medical Specialists](/ebas/medical-specialists/appendices/3-continuing-medical-education-standard-claim-form/)
+- [Appendix 4 – Template Certificate of Service - Medical Specialists](/ebas/medical-specialists/appendices/4-template-certificate-of-service/)
+- [Appendix 6 – Agreement to Take Annual Leave in Advance - Medical Specialists](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 7 – Agreement to Cash Out Annual Leave - Medical Specialists](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
 
 ## gender-affirmation-leave
 
-- [Gender Affirmation Leave (cl. 42) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave/)
-- [Gender Affirmation (cl. 73A) · Nurses & Midwives](/ebas/nurses-midwives/leave/73A-gender-affirmation/)
+### Mental Health
+
+- [42. Gender Affirmation Leave - Mental Health](/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave/)
+
+### Nurses & Midwives
+
+- [73A. Gender Affirmation - Nurses & Midwives](/ebas/nurses-midwives/leave/73A-gender-affirmation/)
 
 ## gendered-violence
 
-- [Prevention of Gendered Violence Including Sexual Harassment (cl. 69I) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment/)
-- [Prevention of Gendered Violence including Sexual (cl. 104A) · Nurses & Midwives](/ebas/nurses-midwives/ohs/104A-prevention-of-gendered-violence-including-sexual/)
+### Mental Health
+
+- [69I. Prevention Of Gendered Violence Including Sexual Harassment - Mental Health](/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment/)
+
+### Nurses & Midwives
+
+- [104A. Prevention Of Gendered Violence Including Sexual Harassment - Nurses & Midwives](/ebas/nurses-midwives/ohs/104A-prevention-of-gendered-violence-including-sexual/)
 
 ## governance
 
-- [Royal Commission Working Group (cl. 98) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/98-royal-commission-working-group/)
+### Medical Scientists, Pharm & Psych
+
+- [98. Royal Commission Working Group - Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/98-royal-commission-working-group/)
 
 ## higher-duties
 
-- [Higher Duties Allowance (cl. 37) · Allied Health](/ebas/allied-health/allowances/37-higher-duties-allowance/)
-- [Backfill (cl. 91) · Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
-- [Higher Duties Allowance (cl. 35) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
-- [Higher duties (cl. 18) · Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
-- [Higher duties (cl. 51) · Doctors In Training](/ebas/doctors-in-training/allowances/51-higher-duties/)
-- [Higher Duties (cl. 5) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/)
-- [Higher Duties (cl. 52) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/52-higher-duties/)
-- [Individual Flexibility Arrangements (cl. 22) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/22-individual-flexibility-arrangements/)
+### Allied Health
+
+- [37. Higher Duties Allowance - Allied Health](/ebas/allied-health/allowances/37-higher-duties-allowance/)
+- [91. Backfill - Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
+
+### Biomedical Engineers
+
+- [35. Higher Duties Allowance - Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
+
+### Children's Services
+
+- [18. Higher Duties - Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
+
+### Doctors In Training
+
+- [51. Higher Duties - Doctors In Training](/ebas/doctors-in-training/allowances/51-higher-duties/)
+
+### Health Allied & Managers Admin
+
+- [5. Higher Duties - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/)
+
+### Medical Scientists, Pharm & Psych
+
+- [22. Individual Flexibility Arrangements - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/22-individual-flexibility-arrangements/)
+- [52. Higher Duties - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/52-higher-duties/)
 
 ## higher-qualifications
 
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
 
 ## hospital-specific
 
-- [Schedule 10 - St Vincent's Health (Melbourne) Ltd. General Conditions Agreement · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme/)
-- [Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at/)
-- [Schedule 4 - Alfred Health General Conditions · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/4-alfred-health-general-conditions/)
-- [Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital - Clinical Perfusionists · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica/)
-- [Schedule 6 - Eastern Health Turning Point Research and Education Employees · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee/)
-- [Schedule 8 - Royal Women's Hospital, Royal Children's Hospital General Employment · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp/)
-- [Schedule 9 - Royal Children's Hospital - Clinical Perfusionists · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists/)
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 10 - St Vincent''s Health (Melbourne) Ltd. General Conditions Agreement - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme/)
+- [Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at/)
+- [Schedule 4 - Alfred Health General Conditions - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/4-alfred-health-general-conditions/)
+- [Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica/)
+- [Schedule 6 - Eastern Health Turning Point Research and Education Employees - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee/)
+- [Schedule 8 - Royal Women''s Hospital, Royal Children''s Hospital General Employment - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp/)
+- [Schedule 9 - Royal Children''s Hospital – Clinical Perfusionists - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists/)
 
 ## hourly-rates
 
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
 
 ## hours
 
-- [Increases to Allowances (cl. 33) · Allied Health](/ebas/allied-health/allowances/33-increases-to-allowances/)
-- [Allowances Related to Overtime and On-call (cl. 36) · Allied Health](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call/)
-- [Shift Work Allowance (cl. 38) · Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
-- [Change of Shift Allowance (cl. 39) · Allied Health](/ebas/allied-health/allowances/39-change-of-shift-allowance/)
-- [Travelling Allowance (cl. 41) · Allied Health](/ebas/allied-health/allowances/41-travelling-allowance/)
-- [Travel – Payment (cl. 42) · Allied Health](/ebas/allied-health/allowances/42-travel-payment/)
-- [Travelling and Relocation (cl. 42A) · Allied Health](/ebas/allied-health/allowances/42A-travelling-and-relocation/)
-- [Lead Apron Allowance (cl. 44A) · Allied Health](/ebas/allied-health/allowances/44A-lead-apron-allowance/)
-- [Workload Allocation and Safe Staffing (cl. 90) · Allied Health](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing/)
-- [Safe Rostering and Fatigue (cl. 90A) · Allied Health](/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue/)
-- [Consultation about Changes to Rosters or Hours of (cl. 13A) · Allied Health](/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
-- [Full-Time Employment (cl. 18) · Allied Health](/ebas/allied-health/employment/18-full-time-employment/)
-- [Part-Time Employment (cl. 19) · Allied Health](/ebas/allied-health/employment/19-part-time-employment/)
-- [Hours of Work (cl. 47) · Allied Health](/ebas/allied-health/hours-of-work/47-hours-of-work/)
-- [Right to Disconnect (cl. 47A) · Allied Health](/ebas/allied-health/hours-of-work/47A-right-to-disconnect/)
-- [Accrued Days Off (cl. 48) · Allied Health](/ebas/allied-health/hours-of-work/48-accrued-days-off/)
-- [Breaks (cl. 49) · Allied Health](/ebas/allied-health/hours-of-work/49-breaks/)
-- [Roster (cl. 50) · Allied Health](/ebas/allied-health/hours-of-work/50-roster/)
-- [Rates for Saturdays and Sundays (cl. 51) · Allied Health](/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays/)
-- [Overtime (cl. 52) · Allied Health](/ebas/allied-health/hours-of-work/52-overtime/)
-- [Recall – Return to Workplace (cl. 53) · Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
-- [Recall – No Return to Workplace (cl. 54) · Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 55) · Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 56) · Allied Health](/ebas/allied-health/hours-of-work/56-daylight-savings/)
-- [Make-up Time (cl. 57) · Allied Health](/ebas/allied-health/hours-of-work/57-make-up-time/)
-- [Annual Leave (cl. 59) · Allied Health](/ebas/allied-health/leave/59-annual-leave/)
-- [Pre-Natal Leave (cl. 68) · Allied Health](/ebas/allied-health/leave/68-pre-natal-leave/)
-- [Breastfeeding (cl. 71) · Allied Health](/ebas/allied-health/leave/71-breastfeeding/)
-- [Industry OHS Working Group (cl. 98) · Allied Health](/ebas/allied-health/ohs/98-industry-ohs-working-group/)
-- [Individual Flexibility Arrangement (cl. 12) · Allied Health](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement/)
-- [Shift Allowances (cl. 34) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/34-shift-allowances/)
-- [Travelling Allowance (cl. 36) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/36-travelling-allowance/)
-- [Childcare Costs (cl. 38) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
-- [Allowances Related to Overtime and On-call (cl. 39) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call/)
-- [Workload (cl. 84) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/84-workload/)
-- [Full-time Employment (cl. 18) · Biomedical Engineers](/ebas/biomedical-engineers/employment/18-full-time-employment/)
-- [Part-time Employment (cl. 19) · Biomedical Engineers](/ebas/biomedical-engineers/employment/19-part-time-employment/)
-- [Casual Employment (cl. 20) · Biomedical Engineers](/ebas/biomedical-engineers/employment/20-casual-employment/)
-- [Hours of Work (cl. 40) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/40-hours-of-work/)
-- [Accrued Days Off (cl. 41) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off/)
-- [Meal Breaks (cl. 42) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/42-meal-breaks/)
-- [Tea Breaks (cl. 43) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/43-tea-breaks/)
-- [Rosters (cl. 44) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/44-rosters/)
-- [Rates for Saturdays & Sundays (cl. 45) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays/)
-- [Overtime (cl. 46) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/46-overtime/)
-- [Recall (cl. 47) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 48) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 49) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/49-daylight-savings/)
-- [Annual Leave (cl. 51) · Biomedical Engineers](/ebas/biomedical-engineers/leave/51-annual-leave/)
-- [Pre-Natal Leave (cl. 59) · Biomedical Engineers](/ebas/biomedical-engineers/leave/59-pre-natal-leave/)
-- [Breastfeeding (cl. 62) · Biomedical Engineers](/ebas/biomedical-engineers/leave/62-breastfeeding/)
-- [Individual Flexibility Arrangements (cl. 11) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements/)
-- [Index (cl. 2) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/2-index/)
-- [Accident Make-up Pay (cl. 32) · Biomedical Engineers](/ebas/biomedical-engineers/wages/32-accident-make-up-pay/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
-- [Consultation about major workplace change (cl. 8) · Children's Services](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change/)
-- [Consultation about changes to rosters or hours of work (cl. 8A) · Children's Services](/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Employee right to disconnect (cl. 21A) · Children's Services](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect/)
-- [Breaks (cl. 22) · Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Schedule H - Agreement for Time Off Instead Of Payment for Overtime · Children's Services · Schedules](/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Allowances (cl. 15) · Children's Services](/ebas/childrens-services/wages/15-allowances/)
-- [Higher duties (cl. 18) · Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Breastfeeding (cl. 74) · Doctors In Training](/ebas/doctors-in-training/accommodation/74-breastfeeding/)
-- [Higher duties (cl. 51) · Doctors In Training](/ebas/doctors-in-training/allowances/51-higher-duties/)
-- [Meal allowance (cl. 53) · Doctors In Training](/ebas/doctors-in-training/allowances/53-meal-allowance/)
-- [Telephone allowance (cl. 54) · Doctors In Training](/ebas/doctors-in-training/allowances/54-telephone-allowance/)
-- [Travelling allowance – use of private vehicle (cl. 55) · Doctors In Training](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle/)
-- [Child care costs reimbursement – out of hours work (cl. 57) · Doctors In Training](/ebas/doctors-in-training/allowances/57-child-care-costs-reimbursement-out-of-hours-work/)
-- [Consultation about changes to rosters or hours of work (cl. 10A) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Full-Time Employment (cl. 17) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/17-full-time-employment/)
-- [Part-Time Employment (cl. 18) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/18-part-time-employment/)
-- [Rotation to a General Practice Training Program (cl. 31) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program/)
-- [Examination leave (cl. 49) · Doctors In Training](/ebas/doctors-in-training/education-pd/49-examination-leave/)
-- [Hours of work (cl. 33) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33-hours-of-work/)
-- [24 / 7 Rostering (cl. 33A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering/)
-- [Training Time (cl. 34) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/34-training-time/)
-- [Rosters (cl. 35) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/35-rosters/)
-- [Overtime (cl. 36) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/36-overtime/)
-- [Penalty payments (cl. 37) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/37-penalty-payments/)
-- [On-call (cl. 38) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
-- [Recall – Return to Workplace (cl. 39) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
-- [Recall – Without Returning to Workplace (cl. 39A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
-- [Telephone Calls to Doctors Outside of Working Hours (cl. 40) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours/)
-- [Workload Management and Review (cl. 41) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
-- [Prenatal leave (cl. 65) · Doctors In Training](/ebas/doctors-in-training/leave/65-prenatal-leave/)
-- [Daylight Saving (cl. 42B) · Doctors In Training](/ebas/doctors-in-training/remuneration/42B-daylight-saving/)
-- [Lead Apron Allowance (cl. 37) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance/)
-- [Meal Allowances (cl. 39) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances/)
-- [Telephone Allowance (cl. 40) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance/)
-- [Childcare Reimbursement (cl. 43) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
-- [On Call / Recall (cl. 44) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/)
-- [Shiftwork (cl. 45) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
-- [Flexibility (cl. 76) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/76-flexibility/)
-- [Full Time Employment (cl. 20) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/20-full-time-employment/)
-- [Regular Part-Time Employment (cl. 21) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment/)
-- [Minimum Engagement (cl. 46) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/)
-- [Rosters (cl. 48) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/48-rosters/)
-- [Daylight Saving (cl. 49) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/49-daylight-saving/)
-- [Meal Breaks (cl. 50) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/)
-- [Rest Breaks (cl. 51) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/51-rest-breaks/)
-- [Reasonable Additional Hours (cl. 52) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/52-reasonable-additional-hours/)
-- [Annual Leave (cl. 53) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/53-annual-leave/)
-- [Personal leave (cl. 55) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/55-personal-leave/)
-- [Pre-Natal Leave (cl. 57) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/)
-- [Breastfeeding (cl. 60) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/60-breastfeeding/)
-- [Individual Flexibility Arrangement (cl. 13) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement/)
-- [Higher Duties (cl. 9) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties/)
-- [Hours of Work (cl. 22) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work/)
-- [Rosters (DHSV) (cl. 23) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv/)
-- [Overtime (cl. 25) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/)
-- [Overtime In Lieu (cl. 26) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu/)
-- [Definitions (cl. 3) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/preliminary/3-definitions/)
-- [Overtime (cl. 10) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/)
-- [Overtime In Lieu (cl. 11) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu/)
-- [Hours of Work (cl. 7) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work/)
-- [Roster (cl. 8) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster/)
-- [Breastfeeding (cl. 46) · Medical Specialists](/ebas/medical-specialists/accommodation/46-breastfeeding/)
-- [Telephone allowance (cl. 37) · Medical Specialists](/ebas/medical-specialists/allowances/37-telephone-allowance/)
-- [Travelling allowance (cl. 40) · Medical Specialists](/ebas/medical-specialists/allowances/40-travelling-allowance/)
-- [Childcare costs reimbursement (cl. 42) · Medical Specialists](/ebas/medical-specialists/allowances/42-childcare-costs-reimbursement/)
-- [Provision of mobile phone or reimbursement of cost (cl. 43) · Medical Specialists](/ebas/medical-specialists/allowances/43-provision-of-mobile-phone-or-reimbursement-of-cost/)
-- [Consultation about changes to rosters or hours of work (cl. 9A) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Types of Employment (cl. 16) · Medical Specialists](/ebas/medical-specialists/employment/16-types-of-employment/)
-- [Physical working conditions (cl. 19) · Medical Specialists](/ebas/medical-specialists/employment/19-physical-working-conditions/)
-- [Roster design – safe hours of work (cl. 20) · Medical Specialists](/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work/)
-- [Workload Management and review (cl. 21) · Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
-- [On-Call (Full-Time Doctors) (cl. 26) · Medical Specialists](/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors/)
-- [Recall (Full-Time Doctors) (cl. 27) · Medical Specialists](/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors/)
-- [Hours of work (Full-Time Doctors) (cl. 28) · Medical Specialists](/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors/)
-- [Hours of work (Fractional Doctors) (cl. 29) · Medical Specialists](/ebas/medical-specialists/hours-of-work/29-hours-of-work-fractional-doctors/)
-- [Fractional Allocation (Fractional Doctors) (cl. 30) · Medical Specialists](/ebas/medical-specialists/hours-of-work/30-fractional-allocation-fractional-doctors/)
-- [Annual leave (cl. 47) · Medical Specialists](/ebas/medical-specialists/leave/47-annual-leave/)
-- [Prenatal leave (cl. 52) · Medical Specialists](/ebas/medical-specialists/leave/52-prenatal-leave/)
-- [Daylight Saving (cl. 31B) · Medical Specialists](/ebas/medical-specialists/wages/31B-daylight-saving/)
-- [Shift Penalty Payments (cl. 36) · Medical Specialists](/ebas/medical-specialists/wages/36-shift-penalty-payments/)
-- [Commuted Allowance (cl. 33) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/33-commuted-allowance/)
-- [Consultation about changes to rosters or hours or work (cl. 19) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work/)
-- [Modes of Employment (cl. 25) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment/)
-- [Daylight Saving (cl. 37) · Mental Health · Common Terms](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving/)
-- [Annual Leave (cl. 38D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38D-annual-leave/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 49) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/49-pre-natal-leave-and-assisted-reproduction/)
-- [Breastfeeding (cl. 64) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/64-breastfeeding/)
-- [Individual Flexible Working Arrangements (cl. 66) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements/)
-- [Higher duties allowance (cl. 115) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/115-higher-duties-allowance/)
-- [Meal allowance (cl. 116) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/116-meal-allowance/)
-- [Shift work allowance (cl. 119) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance/)
-- [Change of Ward Allowance (cl. 121A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance/)
-- [Hours of work (cl. 122) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work/)
-- [ADOs (cl. 123) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/123-ados/)
-- [Roster (cl. 124) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/124-roster/)
-- [Make up time (cl. 126) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/126-make-up-time/)
-- [Meal interval (cl. 127) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/127-meal-interval/)
-- [Overtime (cl. 128) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/128-overtime/)
-- [Saturday and Sunday Work (cl. 130) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/130-saturday-and-sunday-work/)
-- [Ten-hour break (cl. 131) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break/)
-- [On-call & rostered overtime (cl. 132) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime/)
-- [Childcare Reimbursement (cl. 192) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/192-childcare-reimbursement/)
-- [Meal Allowances (cl. 193) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/193-meal-allowances/)
-- [Shift Work Allowances (cl. 194) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/194-shift-work-allowances/)
-- [Hours of Work (cl. 199) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/199-hours-of-work/)
-- [Meal Breaks (cl. 200) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/200-meal-breaks/)
-- [Minimum Engagement (cl. 201) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/201-minimum-engagement/)
-- [Rosters (cl. 201A) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/201A-rosters/)
-- [Overtime (cl. 203) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/203-overtime/)
-- [Overtime – Royal Children’s Hospital (cl. 204) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital/)
-- [Overtime in Lieu (cl. 205) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/205-overtime-in-lieu/)
-- [Reasonable Additional Hours (cl. 206) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/206-reasonable-additional-hours/)
-- [Rest Breaks (cl. 207) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/207-rest-breaks/)
-- [Ward Clerk Staffing (cl. 210A) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/210A-ward-clerk-staffing/)
-- [Definitions Specific to Section 5 of this Agreement (cl. 186) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/preliminary/186-definitions-specific-to-section-5-of-this-agreement/)
-- [Annualised Salaries - Royal Children's Hospital (cl. 190) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/190-annualised-salaries-royal-children-s-hospital/)
-- [Change of Shift Allowance – PEN and MHO (cl. 75) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho/)
-- [Childcare Reimbursement (cl. 76) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/76-childcare-reimbursement/)
-- [Higher Duties Allowance (cl. 78) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/78-higher-duties-allowance/)
-- [Meal Allowance (cl. 79) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/79-meal-allowance/)
-- [Travelling and Relocation Allowance (cl. 82) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance/)
-- [Saturday and Sunday Work (cl. 83) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work/)
-- [Shift Allowances (cl. 84) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances/)
-- [Change of Ward Allowance (cl. 84A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance/)
-- [Workload Management (cl. 102) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management/)
-- [Hours of work (cl. 88) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work/)
-- [Overtime (cl. 89) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime/)
-- [Make-up time (cl. 90) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90-make-up-time/)
-- [Permanent Night Shift (cl. 90A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift/)
-- [Night Shift Rostering Principles (other than permanent night (cl. 90B) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night/)
-- [Proposals to Vary Specific Matters (cl. 90C) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters/)
-- [Ten Hour break between overtime/recall (cl. 93) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
-- [Rosters (cl. 94) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters/)
-- [Supplementary Roster (cl. 95) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster/)
-- [Right to Disconnect (Supplementary Roster) (cl. 95A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
-- [Rest and Meal Breaks (cl. 96) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks/)
-- [Accrued Days Off (cl. 97) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/leave/97-accrued-days-off/)
-- [Definitions Specific to Section 2 (cl. 70) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/preliminary/70-definitions-specific-to-section-2/)
-- [Additional Payment of Wages Provisions (cl. 74) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions/)
-- [Definitions Specific to Section 4 of this Agreement (cl. 146) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/146-definitions-specific-to-section-4-of-this-agreement/)
-- [Childcare Reimbursement (cl. 152) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/152-childcare-reimbursement/)
-- [Meal Allowances (cl. 155) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/155-meal-allowances/)
-- [Shift Work Allowances (cl. 157) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/157-shift-work-allowances/)
-- [Travelling Allowances (cl. 161) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/161-travelling-allowances/)
-- [Higher Duties (cl. 163) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/163-higher-duties/)
-- [Hours of Work (cl. 164) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/164-hours-of-work/)
-- [Make Up Time (cl. 165) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/165-make-up-time/)
-- [Meal Breaks (cl. 166) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/166-meal-breaks/)
-- [Minimum Engagement (cl. 167) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/167-minimum-engagement/)
-- [Overtime (cl. 169) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/169-overtime/)
-- [Overtime in Lieu (cl. 170) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/170-overtime-in-lieu/)
-- [Reasonable Additional Hours (cl. 171) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/171-reasonable-additional-hours/)
-- [Rest Breaks (cl. 172) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/172-rest-breaks/)
-- [Rosters (cl. 173) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/173-rosters/)
-- [Shiftwork (cl. 178) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
-- [Child Care Costs (cl. 91) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
-- [Telephone Allowance (cl. 92) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/92-telephone-allowance/)
-- [Clinical Perfusionists (cl. 41) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/41-clinical-perfusionists/)
-- [Request To Reduce Ordinary Hours (cl. 21) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/21-request-to-reduce-ordinary-hours/)
-- [Individual Flexibility Arrangements (cl. 22) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/22-individual-flexibility-arrangements/)
-- [Part-Time Employment (cl. 24) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/24-part-time-employment/)
-- [Consultation about changes to rosters or hours of work (cl. 30A) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Hours of Work (cl. 55) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/55-hours-of-work/)
-- [Shift Work (cl. 56) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/56-shift-work/)
-- [Employee Rosters (cl. 57) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57-employee-rosters/)
-- [10 Hour Break Not Given (cl. 57A) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57A-10-hour-break-not-given/)
-- [10 Hour Break Consultation – Transitional (cl. 57B) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional/)
-- [Meal Intervals and Rest intervals (cl. 58) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals/)
-- [Overtime (cl. 59) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/59-overtime/)
-- [On-Call/Re-Call (cl. 60) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/60-on-call-re-call/)
-- [Excess Annual Leave (cl. 62) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/62-excess-annual-leave/)
-- [Pre-Natal Leave (cl. 68) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/68-pre-natal-leave/)
-- [Breast-Feeding Facilities (cl. 69) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/69-breast-feeding-facilities/)
-- [Schedule 13 - Pharmacist Weekend Ordinary Hours · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours/)
-- [Schedule 15 - Rostering Protocols Exemption Agreement · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement/)
-- [Workload (cl. 33) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/33-workload/)
-- [Allowances (cl. 30) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30-allowances/)
-- [Lead Apron Allowance (cl. 30A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30A-lead-apron-allowance/)
-- [Rural and Isolated Practice Allowance (cl. 32) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance/)
-- [Sole Midwife Allowance (cl. 32B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32B-sole-midwife-allowance/)
-- [Allowances Related to Overtime (cl. 33) · Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
-- [Shift Allowance (cl. 34) · Nurses & Midwives](/ebas/nurses-midwives/allowances/34-shift-allowance/)
-- [Higher Duties (cl. 35) · Nurses & Midwives](/ebas/nurses-midwives/allowances/35-higher-duties/)
-- [Travelling and Relocation (cl. 37) · Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
-- [Childcare Reimbursement (cl. 39) · Nurses & Midwives](/ebas/nurses-midwives/allowances/39-childcare-reimbursement/)
-- [Change of Roster Allowance (cl. 40) · Nurses & Midwives](/ebas/nurses-midwives/allowances/40-change-of-roster-allowance/)
-- [Change of Shift Allowance Preservation – ENs only (cl. 41) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41-change-of-shift-allowance-preservation-ens-only/)
-- [Hyperbaric Allowance (cl. 41B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41B-hyperbaric-allowance/)
-- [Four Clear Days Allowance (cl. 41C) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance/)
-- [Proposals to Vary Specific Matters (cl. 93) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters/)
-- [Consultation about Changes to Rosters or Hours of Work (cl. 11A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Individual Flexible Working Arrangements (cl. 16A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16A-individual-flexible-working-arrangements/)
-- [Full-time Employment (cl. 17) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/17-full-time-employment/)
-- [Part-time Employment (cl. 18) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/18-part-time-employment/)
-- [Hours of Work (cl. 42) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42-hours-of-work/)
-- [Permanent Night Shift (cl. 42A) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift/)
-- [Night Shift Rostering Principles (other than permanent night (cl. 42B) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night/)
-- [Accrued Days Off (cl. 43) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off/)
-- [Breaks (cl. 44) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/44-breaks/)
-- [Rosters (cl. 45) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/45-rosters/)
-- [Supplementary Roster and Additional Shifts (cl. 46) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts/)
-- [Avoidance and Management of Short Shifts (cl. 47) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/47-avoidance-and-management-of-short-shifts/)
-- [Special Rates for Saturdays and Sundays (cl. 48) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/48-special-rates-for-saturdays-and-sundays/)
-- [Overtime (cl. 49) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/49-overtime/)
-- [Recall – Return to Workplace (cl. 50) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/50-recall-return-to-workplace/)
-- [Recall – Without Return to Workplace (cl. 51) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/51-recall-without-return-to-workplace/)
-- [Rest Period after Overtime/Recall (cl. 53) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall/)
-- [Daylight Saving (cl. 55) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/55-daylight-saving/)
-- [Public Holidays (cl. 56) · Nurses & Midwives](/ebas/nurses-midwives/leave/56-public-holidays/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 66) · Nurses & Midwives](/ebas/nurses-midwives/leave/66-pre-natal-leave-and-assisted-reproduction/)
-- [Breastfeeding (cl. 69) · Nurses & Midwives](/ebas/nurses-midwives/leave/69-breastfeeding/)
-- [Definitions (cl. 4) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/4-definitions/)
+### Allied Health
+
+- [13A. Consultation About Changes To Rosters Or Hours Of Work - Allied Health](/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
+- [36. Allowances Related To Overtime And On Call - Allied Health](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call/)
+- [38. Shift Work Allowance - Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
+- [47. Hours of Work - Allied Health](/ebas/allied-health/hours-of-work/47-hours-of-work/)
+- [47A. Right To Disconnect - Allied Health](/ebas/allied-health/hours-of-work/47A-right-to-disconnect/)
+- [48. Accrued Days Off - Allied Health](/ebas/allied-health/hours-of-work/48-accrued-days-off/)
+- [49. Breaks - Allied Health](/ebas/allied-health/hours-of-work/49-breaks/)
+- [50. Roster - Allied Health](/ebas/allied-health/hours-of-work/50-roster/)
+- [51. Rates For Saturdays And Sundays - Allied Health](/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays/)
+- [52. Overtime - Allied Health](/ebas/allied-health/hours-of-work/52-overtime/)
+- [53. Recall - Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
+- [54. Recall - No Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
+- [55. Rest Period After Overtime/Recall - Ten Hour Break - Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
+- [56. Daylight Savings - Allied Health](/ebas/allied-health/hours-of-work/56-daylight-savings/)
+- [57. Make Up Time - Allied Health](/ebas/allied-health/hours-of-work/57-make-up-time/)
+- [90. Workload Allocation And Safe Staffing - Allied Health](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing/)
+- [90A. Safe Rostering And Fatigue - Allied Health](/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue/)
+- [Hours Of Work - Allied Health](/ebas/allied-health/hours-of-work/)
+
+### Biomedical Engineers
+
+- [39. Allowances Related To Overtime And On Call - Biomedical Engineers](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call/)
+- [40. Hours Of Work - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/40-hours-of-work/)
+- [41. Accrued Days Off - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off/)
+- [42. Meal Breaks - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/42-meal-breaks/)
+- [43. Tea Breaks - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/43-tea-breaks/)
+- [44. Rosters - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/44-rosters/)
+- [45. Rates For Saturdays Sundays - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays/)
+- [46. Overtime - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/46-overtime/)
+- [47. Recall - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
+- [48. Rest Period After Overtime Recall Ten Hour Break - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break/)
+- [49. Daylight Savings - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/49-daylight-savings/)
+- [84. Workload - Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/84-workload/)
+- [Hours Of Work - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/)
+
+### Children's Services
+
+- [21. Ordinary Hours Of Work And Rostering - Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
+- [21A. Employee Right To Disconnect - Children's Services](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect/)
+- [22. Breaks - Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
+- [23. Overtime And Penalty Rates - Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
+- [8A. Consultation About Changes To Rosters Or Hours Of Work - Children's Services](/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [Hours Of Work - Children's Services](/ebas/childrens-services/hours-of-work/)
+- [Schedule H - Agreement For Time Off Instead Of Payment For Overtime - Children's Services](/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
+
+### Doctors In Training
+
+- [10A. Consultation About Changes To Rosters Or Hours Of Work - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [33. Hours Of Work - Doctors In Training](/ebas/doctors-in-training/hours-of-work/33-hours-of-work/)
+- [33A. 24. 7. Rostering - Doctors In Training](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering/)
+- [34. Training Time - Doctors In Training](/ebas/doctors-in-training/hours-of-work/34-training-time/)
+- [35. Rosters - Doctors In Training](/ebas/doctors-in-training/hours-of-work/35-rosters/)
+- [36. Overtime - Doctors In Training](/ebas/doctors-in-training/hours-of-work/36-overtime/)
+- [38. On Call - Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
+- [39. Recall Return To Workplace - Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
+- [39A. Recall Without Returning To Workplace - Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
+- [41. Workload Management And Review - Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
+- [42B. Daylight Saving - Doctors In Training](/ebas/doctors-in-training/remuneration/42B-daylight-saving/)
+- [Hours Of Work - Doctors In Training](/ebas/doctors-in-training/hours-of-work/)
+
+### Health Allied & Managers Admin
+
+- [10. Overtime - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/)
+- [11. Overtime In Lieu - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu/)
+- [22. Hours Of Work - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work/)
+- [23. Rosters DHSV - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv/)
+- [25. Overtime - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/)
+- [26. Overtime In Lieu - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu/)
+- [44. On Call Recall - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/)
+- [45. Shiftwork - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
+- [46. Minimum Engagement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/)
+- [48. Rosters - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/48-rosters/)
+- [49. Daylight Saving - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/49-daylight-saving/)
+- [50. Meal Breaks - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/)
+- [51. Rest Breaks - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/51-rest-breaks/)
+- [52. Reasonable Additional Hours - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/52-reasonable-additional-hours/)
+- [7. Hours Of Work - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work/)
+- [8. Roster - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster/)
+- [Hours Of Work - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/)
+- [Hours Of Work - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/)
+- [Hours Of Work - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/)
+
+### Medical Scientists, Pharm & Psych
+
+- [21. Request To Reduce Ordinary Hours - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/21-request-to-reduce-ordinary-hours/)
+- [30A. Consultation About Changes To Rosters Or Hours Of Work - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [33. Workload - Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/33-workload/)
+- [55. Hours Of Work - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/55-hours-of-work/)
+- [56. Shift Work - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/56-shift-work/)
+- [57. Employee Rosters - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57-employee-rosters/)
+- [58. Meal Intervals And Rest Intervals - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals/)
+- [59. Overtime - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/59-overtime/)
+- [60. On Call Re Call - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/60-on-call-re-call/)
+- [Hours Of Work - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/)
+- [Schedule 13 - Pharmacist Weekend Ordinary Hours - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours/)
+- [Schedule 15 - Rostering Protocols Exemption Agreement - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement/)
+
+### Medical Specialists
+
+- [20. Roster Design Safe Hours Of Work - Medical Specialists](/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work/)
+- [21. Workload Management And Review - Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
+- [26. On Call Full Time Doctors - Medical Specialists](/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors/)
+- [27. Recall Full Time Doctors - Medical Specialists](/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors/)
+- [28. Hours Of Work Full Time Doctors - Medical Specialists](/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors/)
+- [29. Hours Of Work Fractional Doctors - Medical Specialists](/ebas/medical-specialists/hours-of-work/29-hours-of-work-fractional-doctors/)
+- [31B. Daylight Saving - Medical Specialists](/ebas/medical-specialists/wages/31B-daylight-saving/)
+- [9A. Consultation About Changes To Rosters Or Hours Of Work - Medical Specialists](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [Hours Of Work - Medical Specialists](/ebas/medical-specialists/hours-of-work/)
+
+### Mental Health
+
+- [102. Workload Management - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management/)
+- [119. Shift Work Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance/)
+- [122. Hours Of Work - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work/)
+- [124. Roster - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/124-roster/)
+- [126. Make Up Time - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/126-make-up-time/)
+- [127. Meal Interval - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/127-meal-interval/)
+- [128. Overtime - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/128-overtime/)
+- [130. Saturday And Sunday Work - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/130-saturday-and-sunday-work/)
+- [131. Ten Hour Break - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break/)
+- [132. On Call Rostered Overtime - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime/)
+- [157. Shift Work Allowances - Mental Health](/ebas/mental-health/support-services/preliminary/157-shift-work-allowances/)
+- [164. Hours Of Work - Mental Health](/ebas/mental-health/support-services/preliminary/164-hours-of-work/)
+- [165. Make Up Time - Mental Health](/ebas/mental-health/support-services/preliminary/165-make-up-time/)
+- [166. Meal Breaks - Mental Health](/ebas/mental-health/support-services/preliminary/166-meal-breaks/)
+- [167. Minimum Engagement - Mental Health](/ebas/mental-health/support-services/preliminary/167-minimum-engagement/)
+- [169. Overtime - Mental Health](/ebas/mental-health/support-services/preliminary/169-overtime/)
+- [170. Overtime In Lieu - Mental Health](/ebas/mental-health/support-services/preliminary/170-overtime-in-lieu/)
+- [171. Reasonable Additional Hours - Mental Health](/ebas/mental-health/support-services/preliminary/171-reasonable-additional-hours/)
+- [172. Rest Breaks - Mental Health](/ebas/mental-health/support-services/preliminary/172-rest-breaks/)
+- [173. Rosters - Mental Health](/ebas/mental-health/support-services/preliminary/173-rosters/)
+- [178. Shiftwork - Mental Health](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
+- [19. Consultation About Changes To Rosters Or Hours Or Work - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work/)
+- [194. Shift Work Allowances - Mental Health](/ebas/mental-health/management-admin/allowances/194-shift-work-allowances/)
+- [199. Hours Of Work - Mental Health](/ebas/mental-health/management-admin/hours-of-work/199-hours-of-work/)
+- [200. Meal Breaks - Mental Health](/ebas/mental-health/management-admin/hours-of-work/200-meal-breaks/)
+- [201. Minimum Engagement - Mental Health](/ebas/mental-health/management-admin/hours-of-work/201-minimum-engagement/)
+- [201A. Rosters - Mental Health](/ebas/mental-health/management-admin/hours-of-work/201A-rosters/)
+- [203. Overtime - Mental Health](/ebas/mental-health/management-admin/hours-of-work/203-overtime/)
+- [204. Overtime - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital/)
+- [205. Overtime In Lieu - Mental Health](/ebas/mental-health/management-admin/hours-of-work/205-overtime-in-lieu/)
+- [206. Reasonable Additional Hours - Mental Health](/ebas/mental-health/management-admin/hours-of-work/206-reasonable-additional-hours/)
+- [207. Rest Breaks - Mental Health](/ebas/mental-health/management-admin/hours-of-work/207-rest-breaks/)
+- [37. Daylight Saving - Mental Health](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving/)
+- [83. Saturday And Sunday Work - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work/)
+- [88. Hours Of Work - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work/)
+- [89. Overtime - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime/)
+- [90. Make Up Time - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/90-make-up-time/)
+- [90A. Permanent Night Shift - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift/)
+- [90B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees) - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night/)
+- [93. Ten Hour Break Between Overtime Recall - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
+- [93A. Four Clear Days Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/93A-four-clear-days-allowance/)
+- [94. Rosters - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters/)
+- [95. Supplementary Roster - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster/)
+- [95A. Right To Disconnect (Supplementary Roster) - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
+- [96. Rest And Meal Breaks - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks/)
+- [97. Accrued Days Off - Mental Health](/ebas/mental-health/rpn-pen-mho/leave/97-accrued-days-off/)
+- [Hours Of Work - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/)
+- [Hours Of Work - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/)
+- [Hours Of Work - Mental Health](/ebas/mental-health/management-admin/hours-of-work/)
+- [Hours Of Work - Mental Health](/ebas/mental-health/common-terms/hours-of-work/)
+
+### Nurses & Midwives
+
+- [11A. Consultation About Changes To Rosters Or Hours Of Work - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [33. Allowances Related To Overtime - Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
+- [40. Change Of Roster Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/40-change-of-roster-allowance/)
+- [41C. Four Clear Days Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance/)
+- [42. Hours Of Work - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42-hours-of-work/)
+- [42A. Permanent Night Shift - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift/)
+- [42B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees)  - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night/)
+- [43. Accrued Days Off - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off/)
+- [44. Breaks - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/44-breaks/)
+- [45. Rosters - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/45-rosters/)
+- [46. Supplementary Roster And Additional Shifts - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts/)
+- [47. Avoidance And Management Of Short Shifts - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/47-avoidance-and-management-of-short-shifts/)
+- [48. Special Rates For Saturdays And Sundays - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/48-special-rates-for-saturdays-and-sundays/)
+- [49. Overtime - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/49-overtime/)
+- [50. Recall Return To Workplace - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/50-recall-return-to-workplace/)
+- [51. Recall Without Return To Workplace - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/51-recall-without-return-to-workplace/)
+- [53. Rest Period After Overtime Recall - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall/)
+- [55. Daylight Saving - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/55-daylight-saving/)
+- [Hours Of Work - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/)
+
+## hours-of-work
+
+### Biomedical Engineers
+
+- [13A. Consultation about Changes to Rosters or Hours of Work - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work/)
 
 ## leave
 
-- [Working Away from Home (cl. 43) · Allied Health](/ebas/allied-health/allowances/43-working-away-from-home/)
-- [Dispute Resolution Procedure (cl. 14) · Allied Health](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure/)
-- [Professional Development Leave (cl. 79) · Allied Health](/ebas/allied-health/education-pd/79-professional-development-leave/)
-- [Study Leave (cl. 80) · Allied Health](/ebas/allied-health/education-pd/80-study-leave/)
-- [Examination Leave (cl. 81) · Allied Health](/ebas/allied-health/education-pd/81-examination-leave/)
-- [Redundancy and Related Entitlements (cl. 25) · Allied Health](/ebas/allied-health/employment/25-redundancy-and-related-entitlements/)
-- [Ending Employment During Parental Leave (cl. 26) · Allied Health](/ebas/allied-health/employment/26-ending-employment-during-parental-leave/)
-- [Right to Disconnect (cl. 47A) · Allied Health](/ebas/allied-health/hours-of-work/47A-right-to-disconnect/)
-- [Public Holidays (cl. 58) · Allied Health](/ebas/allied-health/leave/58-public-holidays/)
-- [Annual Leave (cl. 59) · Allied Health](/ebas/allied-health/leave/59-annual-leave/)
-- [Cashing Out of Annual Leave (cl. 60) · Allied Health](/ebas/allied-health/leave/60-cashing-out-of-annual-leave/)
-- [Purchased Leave (cl. 61) · Allied Health](/ebas/allied-health/leave/61-purchased-leave/)
-- [Personal Leave (including Carer’s Leave) (cl. 62) · Allied Health](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave/)
-- [Casual Employment – Caring Responsibilities (cl. 63) · Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
-- [Family Violence Leave (cl. 66) · Allied Health](/ebas/allied-health/leave/66-family-violence-leave/)
-- [Compassionate Leave (cl. 67) · Allied Health](/ebas/allied-health/leave/67-compassionate-leave/)
-- [Pre-Natal Leave (cl. 68) · Allied Health](/ebas/allied-health/leave/68-pre-natal-leave/)
-- [Pre-Adoption Leave (cl. 69) · Allied Health](/ebas/allied-health/leave/69-pre-adoption-leave/)
-- [Parental Leave (cl. 70) · Allied Health](/ebas/allied-health/leave/70-parental-leave/)
-- [Long Service Leave (cl. 72) · Allied Health](/ebas/allied-health/leave/72-long-service-leave/)
-- [Blood Donors Leave (cl. 73) · Allied Health](/ebas/allied-health/leave/73-blood-donors-leave/)
-- [Leave to Engage in Voluntary Emergency Management (cl. 74) · Allied Health](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management/)
-- [Ceremonial Leave (cl. 75) · Allied Health](/ebas/allied-health/leave/75-ceremonial-leave/)
-- [Jury Service (cl. 76) · Allied Health](/ebas/allied-health/leave/76-jury-service/)
-- [Absences on Defence Leave (cl. 76A) · Allied Health](/ebas/allied-health/leave/76A-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 77) · Allied Health](/ebas/allied-health/leave/77-special-disaster-leave/)
-- [Gender Transition Leave (cl. 78) · Allied Health](/ebas/allied-health/leave/78-gender-transition-leave/)
-- [Home Visit Safety (cl. 105) · Allied Health](/ebas/allied-health/ohs/105-home-visit-safety/)
-- [Individual Flexibility Arrangement (cl. 12) · Allied Health](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement/)
-- [Index (cl. 3) · Allied Health](/ebas/allied-health/preliminary/3-index/)
-- [Union Matters (cl. 83) · Allied Health](/ebas/allied-health/union-matters/83-union-matters/)
-- [Consultation (cl. 13) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13-consultation/)
-- [Dispute Resolution Procedure (cl. 14) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure/)
-- [Supporting Professional Development (cl. 71) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/71-supporting-professional-development/)
-- [Professional Development Leave (cl. 72) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/72-professional-development-leave/)
-- [Study Leave (cl. 73) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/73-study-leave/)
-- [Examination Leave (cl. 74) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/74-examination-leave/)
-- [Public Holidays (cl. 50) · Biomedical Engineers](/ebas/biomedical-engineers/leave/50-public-holidays/)
-- [Annual Leave (cl. 51) · Biomedical Engineers](/ebas/biomedical-engineers/leave/51-annual-leave/)
-- [Cashing out of Annual Leave (cl. 52) · Biomedical Engineers](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave/)
-- [Purchased Leave (cl. 53) · Biomedical Engineers](/ebas/biomedical-engineers/leave/53-purchased-leave/)
-- [Personal/Carer’s Leave (cl. 54) · Biomedical Engineers](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave/)
-- [Family Violence Leave (cl. 56) · Biomedical Engineers](/ebas/biomedical-engineers/leave/56-family-violence-leave/)
-- [Compassionate Leave (cl. 57) · Biomedical Engineers](/ebas/biomedical-engineers/leave/57-compassionate-leave/)
-- [Reproductive Health Leave (cl. 58) · Biomedical Engineers](/ebas/biomedical-engineers/leave/58-reproductive-health-leave/)
-- [Pre-Natal Leave (cl. 59) · Biomedical Engineers](/ebas/biomedical-engineers/leave/59-pre-natal-leave/)
-- [Pre-Adoption Leave (cl. 60) · Biomedical Engineers](/ebas/biomedical-engineers/leave/60-pre-adoption-leave/)
-- [Parental Leave (cl. 61) · Biomedical Engineers](/ebas/biomedical-engineers/leave/61-parental-leave/)
-- [Long Service Leave (cl. 63) · Biomedical Engineers](/ebas/biomedical-engineers/leave/63-long-service-leave/)
-- [Blood Donors Leave (cl. 64) · Biomedical Engineers](/ebas/biomedical-engineers/leave/64-blood-donors-leave/)
-- [Leave to Engage in Voluntary Emergency Management (cl. 65) · Biomedical Engineers](/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management/)
-- [Ceremonial Leave (cl. 66) · Biomedical Engineers](/ebas/biomedical-engineers/leave/66-ceremonial-leave/)
-- [Jury Service (cl. 67) · Biomedical Engineers](/ebas/biomedical-engineers/leave/67-jury-service/)
-- [Absences on Defence Service (cl. 68) · Biomedical Engineers](/ebas/biomedical-engineers/leave/68-absences-on-defence-service/)
-- [Special Disaster Leave (cl. 69) · Biomedical Engineers](/ebas/biomedical-engineers/leave/69-special-disaster-leave/)
-- [Leave Without Pay (cl. 70) · Biomedical Engineers](/ebas/biomedical-engineers/leave/70-leave-without-pay/)
-- [Individual Flexibility Arrangements (cl. 11) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements/)
-- [Flexible Working Arrangements (cl. 85) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Breaks (cl. 22) · Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Personal/carer's leave and compassionate leave (cl. 25) · Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
-- [Parental leave and related entitlements (cl. 25A) · Children's Services](/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements/)
-- [Community service leave (cl. 26) · Children's Services](/ebas/childrens-services/leave/26-community-service-leave/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Family and domestic violence leave (cl. 28) · Children's Services](/ebas/childrens-services/leave/28-family-and-domestic-violence-leave/)
-- [Schedule F - Agreement to Take Annual Leave in Advance · Children's Services · Schedules](/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance/)
-- [Schedule G - Agreement to Cash Out Annual Leave · Children's Services · Schedules](/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Superannuation (cl. 20) · Children's Services](/ebas/childrens-services/wages/20-superannuation/)
-- [Appendix 4 - Agreement to Take Annual Leave in Advance · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 5 - Agreement to Cash Out Annual Leave · Doctors In Training · Appendices](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
-- [Consultation (cl. 10) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10-consultation/)
-- [Dispute Resolution Procedure (cl. 12) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure/)
-- [Certificate of Service (cl. 29A) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
-- [Examination leave (cl. 49) · Doctors In Training](/ebas/doctors-in-training/education-pd/49-examination-leave/)
-- [Conference/seminar leave (cl. 50) · Doctors In Training](/ebas/doctors-in-training/education-pd/50-conference-seminar-leave/)
-- [Leave not applying to casuals (cl. 58) · Doctors In Training](/ebas/doctors-in-training/leave/58-leave-not-applying-to-casuals/)
-- [Replacement of Doctors when on leave (cl. 59) · Doctors In Training](/ebas/doctors-in-training/leave/59-replacement-of-doctors-when-on-leave/)
-- [Annual leave (cl. 60) · Doctors In Training](/ebas/doctors-in-training/leave/60-annual-leave/)
-- [Personal (sick)/carer’s leave (cl. 61) · Doctors In Training](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave/)
-- [Public holidays (cl. 63) · Doctors In Training](/ebas/doctors-in-training/leave/63-public-holidays/)
-- [Compassionate leave (cl. 64) · Doctors In Training](/ebas/doctors-in-training/leave/64-compassionate-leave/)
-- [Prenatal leave (cl. 65) · Doctors In Training](/ebas/doctors-in-training/leave/65-prenatal-leave/)
-- [Pre-adoption leave (cl. 66) · Doctors In Training](/ebas/doctors-in-training/leave/66-pre-adoption-leave/)
-- [Parental Leave (cl. 67) · Doctors In Training](/ebas/doctors-in-training/leave/67-parental-leave/)
-- [Long service leave (cl. 68) · Doctors In Training](/ebas/doctors-in-training/leave/68-long-service-leave/)
-- [Jury service leave (cl. 69) · Doctors In Training](/ebas/doctors-in-training/leave/69-jury-service-leave/)
-- [Leave to engage in Voluntary Emergency Management (cl. 70) · Doctors In Training](/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management/)
-- [Absences on Defence Leave (cl. 70A) · Doctors In Training](/ebas/doctors-in-training/leave/70A-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 70B) · Doctors In Training](/ebas/doctors-in-training/leave/70B-special-disaster-leave/)
-- [Family Violence Leave (cl. 71) · Doctors In Training](/ebas/doctors-in-training/leave/71-family-violence-leave/)
-- [Employee Records (cl. 42A) · Doctors In Training](/ebas/doctors-in-training/remuneration/42A-employee-records/)
-- [Dispute Resolution Procedure (cl. 17) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure/)
-- [Annual Leave (cl. 53) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/53-annual-leave/)
-- [Purchased Leave (cl. 54) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
-- [Personal leave (cl. 55) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/55-personal-leave/)
-- [Compassionate Leave (cl. 56) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave/)
-- [Pre-Natal Leave (cl. 57) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/)
-- [Pre-adoption leave (cl. 58) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave/)
-- [Parental Leave (cl. 59) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/59-parental-leave/)
-- [Long Service Leave (cl. 61) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave/)
-- [Leave to Engage in Voluntary Emergency (cl. 62) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency/)
-- [Jury Service Leave (cl. 63) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/63-jury-service-leave/)
-- [Absences on Defence Leave (cl. 64) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/64-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 65) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave/)
-- [Excessive Leave Accrual (cl. 66) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual/)
-- [Family Violence Leave (cl. 67) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/)
-- [Cultural and Ceremonial Leave (cl. 68) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave/)
-- [Public Holidays (cl. 69) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/69-public-holidays/)
-- [Employee Records (cl. 36) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/36-employee-records/)
-- [Dental Assistants Working in Mobile Dental Programs (cl. 42) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/)
-- [Study Leave (cl. 31) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
-- [Hours of Work (cl. 22) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work/)
-- [Study Leave (cl. 12) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/)
-- [Examination Leave (cl. 13) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/13-examination-leave/)
-- [Professional Development Leave (cl. 15) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/15-professional-development-leave/)
-- [Hours of Work (cl. 7) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work/)
-- [Appendix 6 - Agreement to Take Annual Leave in Advance · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
-- [Appendix 7 - Agreement to Cash Out Annual Leave · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
-- [Dispute Resolution Procedure (cl. 11) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure/)
-- [Consultation (cl. 9) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/9-consultation/)
-- [Certificate of Service (cl. 24) · Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
-- [Continuous Duty (Full-Time Doctors) (cl. 25) · Medical Specialists](/ebas/medical-specialists/hours-of-work/25-continuous-duty-full-time-doctors/)
-- [Annual leave (cl. 47) · Medical Specialists](/ebas/medical-specialists/leave/47-annual-leave/)
-- [Annual leave loading (Full-Time Doctors) (cl. 48) · Medical Specialists](/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors/)
-- [Personal/carer’s leave (cl. 49) · Medical Specialists](/ebas/medical-specialists/leave/49-personal-carer-s-leave/)
-- [Compassionate Leave (cl. 50) · Medical Specialists](/ebas/medical-specialists/leave/50-compassionate-leave/)
-- [Prenatal leave (cl. 52) · Medical Specialists](/ebas/medical-specialists/leave/52-prenatal-leave/)
-- [Unpaid pre-adoption leave (cl. 53) · Medical Specialists](/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave/)
-- [Parental Leave (cl. 54) · Medical Specialists](/ebas/medical-specialists/leave/54-parental-leave/)
-- [Long Service Leave (cl. 55) · Medical Specialists](/ebas/medical-specialists/leave/55-long-service-leave/)
-- [Public Holidays (cl. 56) · Medical Specialists](/ebas/medical-specialists/leave/56-public-holidays/)
-- [Sabbatical Leave (cl. 57) · Medical Specialists](/ebas/medical-specialists/leave/57-sabbatical-leave/)
-- [Leave to engage in Voluntary Emergency Management (cl. 58) · Medical Specialists](/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management/)
-- [Absences on Defence Leave (cl. 58A) · Medical Specialists](/ebas/medical-specialists/leave/58A-absences-on-defence-leave/)
-- [Special Disaster Leave (cl. 58B) · Medical Specialists](/ebas/medical-specialists/leave/58B-special-disaster-leave/)
-- [Continuing Medical Education Leave (cl. 59) · Medical Specialists](/ebas/medical-specialists/leave/59-continuing-medical-education-leave/)
-- [Family Violence Leave (cl. 60) · Medical Specialists](/ebas/medical-specialists/leave/60-family-violence-leave/)
-- [Replacement of Doctors when on leave (cl. 61) · Medical Specialists](/ebas/medical-specialists/leave/61-replacement-of-doctors-when-on-leave/)
-- [Doctor Records (cl. 31A) · Medical Specialists](/ebas/medical-specialists/wages/31A-doctor-records/)
-- [Consultation (cl. 18) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
-- [Disputes Resolution Procedure (cl. 22) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure/)
-- [Employee Retention (cl. 27) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/27-employee-retention/)
-- [Termination of Employment (cl. 28) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
-- [Blood Donor Leave (cl. 38) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38-blood-donor-leave/)
-- [Personal leave (cl. 38A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38A-personal-leave/)
-- [Personal Leave Pool (cl. 38B) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38B-personal-leave-pool/)
-- [Caring Responsibilities – Casual Employees (cl. 38C) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38C-caring-responsibilities-casual-employees/)
-- [Annual Leave (cl. 38D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38D-annual-leave/)
-- [Reproductive Health Leave (cl. 38G) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave/)
-- [Leave to engage in Voluntary Emergency Management (cl. 39) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/39-leave-to-engage-in-voluntary-emergency-management/)
-- [Absence on Defence Leave (cl. 40) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/40-absence-on-defence-leave/)
-- [Special Disaster Leave (cl. 41) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/41-special-disaster-leave/)
-- [Gender Affirmation Leave (cl. 42) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave/)
-- [Ceremonial leave (cl. 43) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/43-ceremonial-leave/)
-- [Compassionate Leave (cl. 44) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/44-compassionate-leave/)
-- [Family and Domestic Violence Leave (cl. 45) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave/)
-- [Long Service Leave (cl. 47) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/47-long-service-leave/)
-- [Pre-Adoption Leave (cl. 48) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/48-pre-adoption-leave/)
-- [Foster and Kinship Care (cl. 48A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/48A-foster-and-kinship-care/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 49) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/49-pre-natal-leave-and-assisted-reproduction/)
-- [Parental Leave (cl. 50) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/50-parental-leave/)
-- [Purchased Leave (cl. 51) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/51-purchased-leave/)
-- [Hazardous Weather Conditions (cl. 69G) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69G-hazardous-weather-conditions/)
-- [Anti-Discrimination (cl. 16) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
-- [Definitions (cl. 9) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/9-definitions/)
-- [Individual Flexible Working Arrangements (cl. 66) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements/)
-- [Professional Development Leave (cl. 136) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/136-professional-development-leave/)
-- [Examination Leave (cl. 137) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/137-examination-leave/)
-- [Study leave (cl. 139) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
-- [Health Professionals (Medicare) Study Leave (cl. 140) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
-- [Discretionary backfill for certain absences (cl. 125) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences/)
-- [On-call & rostered overtime (cl. 132) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime/)
-- [CATT On-call/ Recall Allowances (cl. 133) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances/)
-- [On-Call/Recall allowance (non-CATT) (cl. 134) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt/)
-- [Public Holidays (cl. 135) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/leave/135-public-holidays/)
-- [Definitions specific to this Part of this Agreement (cl. 111) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/preliminary/111-definitions-specific-to-this-part-of-this-agreement/)
-- [Study Leave (cl. 214) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
-- [Examination Leave (cl. 215) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/215-examination-leave/)
-- [Professional Development Leave - Royal Children's (cl. 218) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/218-professional-development-leave-royal-children-s/)
-- [Accrued Days Off (cl. 197) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/197-accrued-days-off/)
-- [Hours of Work (cl. 199) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/199-hours-of-work/)
-- [On-Call/Recall (cl. 202) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/202-on-call-recall/)
-- [Conversion of Unused Sick Leave to Annual Leave - (cl. 211) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave/)
-- [Discretionary Leave Without Pay - Royal Children's (cl. 212) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/212-discretionary-leave-without-pay-royal-children-s/)
-- [Public Holidays (cl. 213) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/213-public-holidays/)
-- [Annualised Salaries - Royal Children's Hospital (cl. 190) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/190-annualised-salaries-royal-children-s-hospital/)
-- [Professional Development Leave (cl. 99) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave/)
-- [Study Leave (cl. 99A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
-- [Examination Leave – RPN and PEN (cl. 99B) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen/)
-- [Oncall/Recall (non CATT) (cl. 91) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt/)
-- [CATT On-call/ Recall Allowances (cl. 92) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances/)
-- [Right to Disconnect (Supplementary Roster) (cl. 95A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
-- [Rest and Meal Breaks (cl. 96) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks/)
-- [Public Holidays (cl. 98) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays/)
-- [Multi-Skilling Allowance – Patient Services Assistants (cl. 158) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/158-multi-skilling-allowance-patient-services-assistants/)
-- [Accrued Days Off (cl. 162) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/162-accrued-days-off/)
-- [Hours of Work (cl. 164) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/164-hours-of-work/)
-- [On-Call/Recall (cl. 168) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/168-on-call-recall/)
-- [Public Holidays (cl. 179) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/179-public-holidays/)
-- [Study Leave (cl. 180) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/180-study-leave/)
-- [Uniforms and Protective Clothing (cl. 183) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing/)
-- [Disputes Settling Procedures (cl. 11) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/11-disputes-settling-procedures/)
-- [Individual Flexibility Arrangements (cl. 22) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/22-individual-flexibility-arrangements/)
-- [Consultation (cl. 30) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30-consultation/)
-- [On-Call/Re-Call (cl. 60) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/60-on-call-re-call/)
-- [Annual Leave (cl. 61) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/61-annual-leave/)
-- [Excess Annual Leave (cl. 62) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/62-excess-annual-leave/)
-- [Purchased Leave (cl. 63) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/63-purchased-leave/)
-- [Personal/Carer’s Leave (cl. 64) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/64-personal-carer-s-leave/)
-- [Compassionate Leave (cl. 65) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/65-compassionate-leave/)
-- [Jury Service (cl. 66) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/66-jury-service/)
-- [Long Service Leave (cl. 67) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/67-long-service-leave/)
-- [Pre-Natal Leave (cl. 68) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/68-pre-natal-leave/)
-- [Parental Leave (cl. 70) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/70-parental-leave/)
-- [Examination Leave (cl. 71) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/71-examination-leave/)
-- [Study Leave (cl. 72) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/72-study-leave/)
-- [Professional Development Leave (cl. 73) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/73-professional-development-leave/)
-- [Additional Professional Registration Leave – (cl. 74) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/74-additional-professional-registration-leave/)
-- [Reimbursement of Professional Development Leave (cl. 75) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave/)
-- [Sabbatical Leave (cl. 76) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/76-sabbatical-leave/)
-- [Blood Donors Leave (cl. 77) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/77-blood-donors-leave/)
-- [Twelve Month Career Breaks (cl. 78) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/78-twelve-month-career-breaks/)
-- [Leave to Engage in Emergency Relief Activities (cl. 79) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/79-leave-to-engage-in-emergency-relief-activities/)
-- [Public Holidays (cl. 80) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/80-public-holidays/)
-- [Cultural and Ceremonial Leave (cl. 81) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/81-cultural-and-ceremonial-leave/)
-- [Family Violence Leave (cl. 82) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/82-family-violence-leave/)
-- [Special Disaster Leave (cl. 83) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/83-special-disaster-leave/)
-- [Absences on Defence Leave (cl. 84) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/84-absences-on-defence-leave/)
-- [Gender Transition Leave (cl. 85) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/85-gender-transition-leave/)
-- [Commencement Date and Period of Operation (cl. 4) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/4-commencement-date-and-period-of-operation/)
-- [Planned and Unplanned Absences (cl. 34) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences/)
-- [Rural and Isolated Practice Allowance (cl. 32) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance/)
-- [Hyperbaric Allowance (cl. 41B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41B-hyperbaric-allowance/)
-- [Secure Employment - Agency Staff and Bank Employees (cl. 87) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/87-secure-employment-agency-staff-and-bank-employees/)
-- [Consultation (cl. 11) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11-consultation/)
-- [Dispute Resolution Procedure (cl. 13) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure/)
-- [Individual Flexible Working Arrangements (cl. 16A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16A-individual-flexible-working-arrangements/)
-- [Professional Development Leave (cl. 75) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/75-professional-development-leave/)
-- [Study Leave (cl. 76) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
-- [Examination Leave (cl. 77) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/77-examination-leave/)
-- [Staff Replacement (cl. 78) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/78-staff-replacement/)
-- [Part-time Employment (cl. 18) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/18-part-time-employment/)
-- [Notice Period before Termination (cl. 23) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination/)
-- [Breaks (cl. 44) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/44-breaks/)
-- [Right to Disconnect (cl. 52) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect/)
-- [Annual Leave (cl. 57) · Nurses & Midwives](/ebas/nurses-midwives/leave/57-annual-leave/)
-- [Cashing Out of Annual Leave (cl. 59) · Nurses & Midwives](/ebas/nurses-midwives/leave/59-cashing-out-of-annual-leave/)
-- [Purchased Leave (cl. 60) · Nurses & Midwives](/ebas/nurses-midwives/leave/60-purchased-leave/)
-- [Personal Leave (cl. 61) · Nurses & Midwives](/ebas/nurses-midwives/leave/61-personal-leave/)
-- [Personal Leave Pool (cl. 61A) · Nurses & Midwives](/ebas/nurses-midwives/leave/61A-personal-leave-pool/)
-- [Casual Employment – Caring Responsibilities (cl. 62) · Nurses & Midwives](/ebas/nurses-midwives/leave/62-casual-employment-caring-responsibilities/)
-- [Family and Domestic Violence Leave (cl. 64) · Nurses & Midwives](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave/)
-- [Compassionate Leave (cl. 65) · Nurses & Midwives](/ebas/nurses-midwives/leave/65-compassionate-leave/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 66) · Nurses & Midwives](/ebas/nurses-midwives/leave/66-pre-natal-leave-and-assisted-reproduction/)
-- [Pre-adoption leave (cl. 67) · Nurses & Midwives](/ebas/nurses-midwives/leave/67-pre-adoption-leave/)
-- [Parental Leave (cl. 68) · Nurses & Midwives](/ebas/nurses-midwives/leave/68-parental-leave/)
-- [Long Service Leave (cl. 70) · Nurses & Midwives](/ebas/nurses-midwives/leave/70-long-service-leave/)
-- [Blood Donors Leave (cl. 71) · Nurses & Midwives](/ebas/nurses-midwives/leave/71-blood-donors-leave/)
-- [Absences on Defence Leave (cl. 72) · Nurses & Midwives](/ebas/nurses-midwives/leave/72-absences-on-defence-leave/)
-- [Leave to Engage in Voluntary Emergency Management (cl. 72A) · Nurses & Midwives](/ebas/nurses-midwives/leave/72A-leave-to-engage-in-voluntary-emergency-management/)
-- [Special Disaster Leave (cl. 72B) · Nurses & Midwives](/ebas/nurses-midwives/leave/72B-special-disaster-leave/)
-- [Cultural and Ceremonial leave (cl. 73) · Nurses & Midwives](/ebas/nurses-midwives/leave/73-cultural-and-ceremonial-leave/)
-- [Gender Affirmation (cl. 73A) · Nurses & Midwives](/ebas/nurses-midwives/leave/73A-gender-affirmation/)
-- [Jury Service (cl. 74) · Nurses & Midwives](/ebas/nurses-midwives/leave/74-jury-service/)
-- [Foster and Kinship Care (cl. 74A) · Nurses & Midwives](/ebas/nurses-midwives/leave/74A-foster-and-kinship-care/)
-- [Definitions (cl. 4) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/4-definitions/)
+### Allied Health
+
+- [26. Ending Employment During Parental Leave - Allied Health](/ebas/allied-health/employment/26-ending-employment-during-parental-leave/)
+- [59. Annual Leave - Allied Health](/ebas/allied-health/leave/59-annual-leave/)
+- [60. Cashing Out Of Annual Leave - Allied Health](/ebas/allied-health/leave/60-cashing-out-of-annual-leave/)
+- [61. Purchased Leave - Allied Health](/ebas/allied-health/leave/61-purchased-leave/)
+- [62. Personal Leave (Including Carer''s Leave) - Allied Health](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave/)
+- [63. Casual Employment Caring Responsibilities - Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
+- [66. Family Violence Leave - Allied Health](/ebas/allied-health/leave/66-family-violence-leave/)
+- [67. Compassionate Leave - Allied Health](/ebas/allied-health/leave/67-compassionate-leave/)
+- [69. Pre Adoption Leave - Allied Health](/ebas/allied-health/leave/69-pre-adoption-leave/)
+- [70. Parental Leave - Allied Health](/ebas/allied-health/leave/70-parental-leave/)
+- [72. Long Service Leave - Allied Health](/ebas/allied-health/leave/72-long-service-leave/)
+- [73. Blood Donors Leave - Allied Health](/ebas/allied-health/leave/73-blood-donors-leave/)
+- [74. Leave To Engage In Voluntary Emergency Management Activities - Allied Health](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management/)
+- [75. Ceremonial Leave - Allied Health](/ebas/allied-health/leave/75-ceremonial-leave/)
+- [76. Jury Service - Allied Health](/ebas/allied-health/leave/76-jury-service/)
+- [77. Special Disaster Leave - Allied Health](/ebas/allied-health/leave/77-special-disaster-leave/)
+- [78. Gender Transition Leave - Allied Health](/ebas/allied-health/leave/78-gender-transition-leave/)
+- [80. Study Leave - Allied Health](/ebas/allied-health/education-pd/80-study-leave/)
+- [81. Examination Leave - Allied Health](/ebas/allied-health/education-pd/81-examination-leave/)
+- [Leave - Allied Health](/ebas/allied-health/leave/)
+
+### Biomedical Engineers
+
+- [51. Annual Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/51-annual-leave/)
+- [52. Cashing Out Of Annual Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave/)
+- [53. Purchased Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/53-purchased-leave/)
+- [54. Personal Carer's Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave/)
+- [56. Family Violence Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/56-family-violence-leave/)
+- [57. Compassionate Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/57-compassionate-leave/)
+- [58. Reproductive Health Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/58-reproductive-health-leave/)
+- [60. Pre Adoption Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/60-pre-adoption-leave/)
+- [61. Parental Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/61-parental-leave/)
+- [63. Long Service Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/63-long-service-leave/)
+- [64. Blood Donors Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/64-blood-donors-leave/)
+- [65. Leave To Engage In Voluntary Emergency Management Activities - Biomedical Engineers](/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management/)
+- [66. Ceremonial Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/66-ceremonial-leave/)
+- [67. Jury Service - Biomedical Engineers](/ebas/biomedical-engineers/leave/67-jury-service/)
+- [69. Special Disaster Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/69-special-disaster-leave/)
+- [70. Leave Without Pay - Biomedical Engineers](/ebas/biomedical-engineers/leave/70-leave-without-pay/)
+- [73. Study Leave - Biomedical Engineers](/ebas/biomedical-engineers/education-pd/73-study-leave/)
+- [74. Examination Leave - Biomedical Engineers](/ebas/biomedical-engineers/education-pd/74-examination-leave/)
+- [Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/)
+
+### Children's Services
+
+- [24. Annual Leave - Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
+- [25. Personal Carer's Leave And Compassionate Leave - Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
+- [25A. Parental Leave And Related Entitlements - Children's Services](/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements/)
+- [26. Community Service Leave - Children's Services](/ebas/childrens-services/leave/26-community-service-leave/)
+- [28. Family And Domestic Violence Leave - Children's Services](/ebas/childrens-services/leave/28-family-and-domestic-violence-leave/)
+- [Leave - Children's Services](/ebas/childrens-services/leave/)
+- [Schedule F - Agreement To Take Annual Leave In Advance - Children's Services](/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance/)
+- [Schedule G - Agreement To Cash Out Annual Leave - Children's Services](/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave/)
+
+### Doctors In Training
+
+- [49. Examination Leave - Doctors In Training](/ebas/doctors-in-training/education-pd/49-examination-leave/)
+- [50. Conference Seminar Leave - Doctors In Training](/ebas/doctors-in-training/education-pd/50-conference-seminar-leave/)
+- [58. Leave Not Applying To Casuals - Doctors In Training](/ebas/doctors-in-training/leave/58-leave-not-applying-to-casuals/)
+- [60. Annual Leave - Doctors In Training](/ebas/doctors-in-training/leave/60-annual-leave/)
+- [61. Personal Sick Carer S Leave - Doctors In Training](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave/)
+- [64. Compassionate Leave - Doctors In Training](/ebas/doctors-in-training/leave/64-compassionate-leave/)
+- [66. Pre Adoption Leave - Doctors In Training](/ebas/doctors-in-training/leave/66-pre-adoption-leave/)
+- [67. Parental Leave - Doctors In Training](/ebas/doctors-in-training/leave/67-parental-leave/)
+- [68. Long Service Leave - Doctors In Training](/ebas/doctors-in-training/leave/68-long-service-leave/)
+- [69. Jury Service Leave - Doctors In Training](/ebas/doctors-in-training/leave/69-jury-service-leave/)
+- [70. Leave To Engage In Voluntary Emergency Management Activities - Doctors In Training](/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management/)
+- [70B. Special Disaster Leave - Doctors In Training](/ebas/doctors-in-training/leave/70B-special-disaster-leave/)
+- [71. Family Violence Leave - Doctors In Training](/ebas/doctors-in-training/leave/71-family-violence-leave/)
+- [Appendix 4 – Agreement to Take Annual Leave in Advance - Doctors In Training](/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 5 – Agreement to Cash Out Annual Leave - Doctors In Training](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave/)
+- [Leave - Doctors In Training](/ebas/doctors-in-training/leave/)
+
+### Health Allied & Managers Admin
+
+- [12. Study Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/)
+- [13. Examination Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/education-pd/13-examination-leave/)
+- [31. Study Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
+- [53. Annual Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/53-annual-leave/)
+- [54. Purchased Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
+- [55. Personal Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/55-personal-leave/)
+- [56. Compassionate Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave/)
+- [58. Pre Adoption Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave/)
+- [59. Parental Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/59-parental-leave/)
+- [61. Long Service Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave/)
+- [62. Leave To Engage In Voluntary Emergency - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency/)
+- [63. Jury Service Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/63-jury-service-leave/)
+- [65. Special Disaster Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave/)
+- [66. Excessive Leave Accrual - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual/)
+- [67. Family Violence Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/)
+- [68. Cultural And Ceremonial Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave/)
+- [Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [34. Planned And Unplanned Absences - Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences/)
+- [61. Annual Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/61-annual-leave/)
+- [62. Excess Annual Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/62-excess-annual-leave/)
+- [63. Purchased Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/63-purchased-leave/)
+- [64. Personal Carer''s Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/64-personal-carer-s-leave/)
+- [65. Compassionate Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/65-compassionate-leave/)
+- [66. Jury Service - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/66-jury-service/)
+- [67. Long Service Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/67-long-service-leave/)
+- [70. Parental Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/70-parental-leave/)
+- [71. Examination Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/71-examination-leave/)
+- [72. Study Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/72-study-leave/)
+- [76. Sabbatical Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/76-sabbatical-leave/)
+- [77. Blood Donors Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/77-blood-donors-leave/)
+- [79. Leave To Engage In Emergency Relief Activities - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/79-leave-to-engage-in-emergency-relief-activities/)
+- [81. Cultural And Ceremonial Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/81-cultural-and-ceremonial-leave/)
+- [82. Family Violence Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/82-family-violence-leave/)
+- [83. Special Disaster Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/83-special-disaster-leave/)
+- [85. Gender Transition Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/85-gender-transition-leave/)
+- [Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/)
+
+### Medical Specialists
+
+- [47. Annual Leave - Medical Specialists](/ebas/medical-specialists/leave/47-annual-leave/)
+- [48. Annual Leave Loading Full Time Doctors - Medical Specialists](/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors/)
+- [49. Personal/Carer''s Leave - Medical Specialists](/ebas/medical-specialists/leave/49-personal-carer-s-leave/)
+- [50. Compassionate Leave - Medical Specialists](/ebas/medical-specialists/leave/50-compassionate-leave/)
+- [53. Unpaid Pre Adoption Leave - Medical Specialists](/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave/)
+- [54. Parental Leave - Medical Specialists](/ebas/medical-specialists/leave/54-parental-leave/)
+- [55. Long Service Leave - Medical Specialists](/ebas/medical-specialists/leave/55-long-service-leave/)
+- [57. Sabbatical Leave - Medical Specialists](/ebas/medical-specialists/leave/57-sabbatical-leave/)
+- [58. Leave To Engage In Voluntary Emergency Management Activities - Medical Specialists](/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management/)
+- [58B. Special Disaster Leave - Medical Specialists](/ebas/medical-specialists/leave/58B-special-disaster-leave/)
+- [59. Continuing Medical Education Leave - Medical Specialists](/ebas/medical-specialists/leave/59-continuing-medical-education-leave/)
+- [60. Family Violence Leave - Medical Specialists](/ebas/medical-specialists/leave/60-family-violence-leave/)
+- [Appendix 6 – Agreement to Take Annual Leave in Advance - Medical Specialists](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance/)
+- [Appendix 7 – Agreement to Cash Out Annual Leave - Medical Specialists](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave/)
+- [Leave - Medical Specialists](/ebas/medical-specialists/leave/)
+
+### Mental Health
+
+- [102A. Staff Replacement - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement/)
+- [125. Discretionary Backfill For Certain Absences - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences/)
+- [137. Examination Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/137-examination-leave/)
+- [139. Study Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
+- [140. Health Professionals Medicare Study Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
+- [180. Study Leave - Mental Health](/ebas/mental-health/support-services/preliminary/180-study-leave/)
+- [211. Conversion Of Unused Sick Leave To Annual Leave - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave/)
+- [212. Discretionary Leave Without Pay - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/leave/212-discretionary-leave-without-pay-royal-children-s/)
+- [214. Study Leave - Mental Health](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
+- [215. Examination Leave - Mental Health](/ebas/mental-health/management-admin/education-pd/215-examination-leave/)
+- [38. Blood Donor Leave - Mental Health](/ebas/mental-health/common-terms/leave/38-blood-donor-leave/)
+- [38A. Personal Leave - Mental Health](/ebas/mental-health/common-terms/leave/38A-personal-leave/)
+- [38B. Personal Leave Pool - Mental Health](/ebas/mental-health/common-terms/leave/38B-personal-leave-pool/)
+- [38C. Caring Responsibilities Casual Employees - Mental Health](/ebas/mental-health/common-terms/leave/38C-caring-responsibilities-casual-employees/)
+- [38D. Annual Leave - Mental Health](/ebas/mental-health/common-terms/leave/38D-annual-leave/)
+- [38G. Reproductive Health Leave - Mental Health](/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave/)
+- [38H. Rehabilitation Leave - Mental Health](/ebas/mental-health/common-terms/leave/38H-rehabilitation-leave/)
+- [39. Leave To Engage In Voluntary Emergency Management Activities - Mental Health](/ebas/mental-health/common-terms/leave/39-leave-to-engage-in-voluntary-emergency-management/)
+- [41. Special Disaster Leave - Mental Health](/ebas/mental-health/common-terms/leave/41-special-disaster-leave/)
+- [42. Gender Affirmation Leave - Mental Health](/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave/)
+- [43. Ceremonial Leave - Mental Health](/ebas/mental-health/common-terms/leave/43-ceremonial-leave/)
+- [44. Compassionate Leave - Mental Health](/ebas/mental-health/common-terms/leave/44-compassionate-leave/)
+- [45. Family And Domestic Violence Leave - Mental Health](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave/)
+- [47. Long Service Leave - Mental Health](/ebas/mental-health/common-terms/leave/47-long-service-leave/)
+- [48. Pre Adoption Leave - Mental Health](/ebas/mental-health/common-terms/leave/48-pre-adoption-leave/)
+- [48A. Foster And Kinship Care - Mental Health](/ebas/mental-health/common-terms/leave/48A-foster-and-kinship-care/)
+- [50. Parental Leave - Mental Health](/ebas/mental-health/common-terms/leave/50-parental-leave/)
+- [51. Purchased Leave - Mental Health](/ebas/mental-health/common-terms/leave/51-purchased-leave/)
+- [99A. Study Leave - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
+- [99B. Examination Leave - RPN and PEN - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen/)
+- [Leave - Mental Health](/ebas/mental-health/health-professionals/leave/)
+- [Leave - Mental Health](/ebas/mental-health/rpn-pen-mho/leave/)
+- [Leave - Mental Health](/ebas/mental-health/management-admin/leave/)
+- [Leave - Mental Health](/ebas/mental-health/common-terms/leave/)
+
+### Nurses & Midwives
+
+- [57. Annual Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/57-annual-leave/)
+- [59. Cashing Out Of Annual Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/59-cashing-out-of-annual-leave/)
+- [60. Purchased Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/60-purchased-leave/)
+- [61. Personal Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/61-personal-leave/)
+- [61A. Personal Leave Pool - Nurses & Midwives](/ebas/nurses-midwives/leave/61A-personal-leave-pool/)
+- [62. Casual Employment Caring Responsibilities - Nurses & Midwives](/ebas/nurses-midwives/leave/62-casual-employment-caring-responsibilities/)
+- [64. Family And Domestic Violence Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave/)
+- [65. Compassionate Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/65-compassionate-leave/)
+- [67. Pre Adoption Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/67-pre-adoption-leave/)
+- [68. Parental Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/68-parental-leave/)
+- [70. Long Service Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/70-long-service-leave/)
+- [71. Blood Donors Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/71-blood-donors-leave/)
+- [72A. Leave To Engage In Voluntary Emergency Management Activities - Nurses & Midwives](/ebas/nurses-midwives/leave/72A-leave-to-engage-in-voluntary-emergency-management/)
+- [72B. Special Disaster Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/72B-special-disaster-leave/)
+- [73. Cultural And Ceremonial Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/73-cultural-and-ceremonial-leave/)
+- [74. Jury Service - Nurses & Midwives](/ebas/nurses-midwives/leave/74-jury-service/)
+- [74A. Foster And Kinship Care - Nurses & Midwives](/ebas/nurses-midwives/leave/74A-foster-and-kinship-care/)
+- [76. Study Leave - Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
+- [77. Examination Leave - Nurses & Midwives](/ebas/nurses-midwives/education-pd/77-examination-leave/)
+- [78. Staff Replacement - Nurses & Midwives](/ebas/nurses-midwives/education-pd/78-staff-replacement/)
+- [Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/)
 
 ## local-agreements
 
-- [Appendix 5 - List of Local Certified Agreements and Enterprise Agreements in operation immediately prior to 17 December 2013 · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/5-list-of-local-certified-agreements-and-enterprise-agreements/)
+### Medical Specialists
+
+- [Appendix 5 - List Of Local Certified Agreements And Enterprise Agreements - Medical Specialists](/ebas/medical-specialists/appendices/5-list-of-local-certified-agreements-and-enterprise-agreements/)
 
 ## long-service-leave
 
-- [Long Service Leave (cl. 72) · Allied Health](/ebas/allied-health/leave/72-long-service-leave/)
-- [Long Service Leave (cl. 63) · Biomedical Engineers](/ebas/biomedical-engineers/leave/63-long-service-leave/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Certificate of Service (cl. 29A) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
-- [Long service leave (cl. 68) · Doctors In Training](/ebas/doctors-in-training/leave/68-long-service-leave/)
-- [Long Service Leave (cl. 61) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave/)
-- [Dental Assistants Working in Mobile Dental Programs (cl. 42) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/)
-- [Certificate of Service (cl. 24) · Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
-- [Long Service Leave (cl. 55) · Medical Specialists](/ebas/medical-specialists/leave/55-long-service-leave/)
-- [Employee Retention (cl. 27) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/27-employee-retention/)
-- [Termination of Employment (cl. 28) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
-- [Long Service Leave (cl. 47) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/47-long-service-leave/)
-- [Uniforms and Protective Clothing (cl. 183) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing/)
-- [Long Service Leave (cl. 67) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/67-long-service-leave/)
-- [Secure Employment - Agency Staff and Bank Employees (cl. 87) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/87-secure-employment-agency-staff-and-bank-employees/)
-- [Notice Period before Termination (cl. 23) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination/)
-- [Long Service Leave (cl. 70) · Nurses & Midwives](/ebas/nurses-midwives/leave/70-long-service-leave/)
+### Allied Health
+
+- [72. Long Service Leave - Allied Health](/ebas/allied-health/leave/72-long-service-leave/)
+
+### Biomedical Engineers
+
+- [63. Long Service Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/63-long-service-leave/)
+
+### Doctors In Training
+
+- [68. Long Service Leave - Doctors In Training](/ebas/doctors-in-training/leave/68-long-service-leave/)
+
+### Health Allied & Managers Admin
+
+- [61. Long Service Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [67. Long Service Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/67-long-service-leave/)
+
+### Medical Specialists
+
+- [55. Long Service Leave - Medical Specialists](/ebas/medical-specialists/leave/55-long-service-leave/)
+
+### Mental Health
+
+- [47. Long Service Leave - Mental Health](/ebas/mental-health/common-terms/leave/47-long-service-leave/)
+
+### Nurses & Midwives
+
+- [70. Long Service Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/70-long-service-leave/)
 
 ## meal
 
-- [Meal allowance (cl. 53) · Doctors In Training](/ebas/doctors-in-training/allowances/53-meal-allowance/)
+### Doctors In Training
+
+- [53. Meal Allowance - Doctors In Training](/ebas/doctors-in-training/allowances/53-meal-allowance/)
 
 ## meal-allowance
 
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
-- [Schedule 3C - Allowances (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
+### Health Allied & Managers Admin
+
+- [Schedule 2C - Allowances (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
+- [Schedule 3C - Allowances (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
 
 ## ohs
 
-- [Fitness for Work (cl. 64) · Allied Health](/ebas/allied-health/leave/64-fitness-for-work/)
-- [Fitness for Work (cl. 55) · Biomedical Engineers](/ebas/biomedical-engineers/leave/55-fitness-for-work/)
-- [Best Practice Employment Commitment (cl. 79) · Biomedical Engineers](/ebas/biomedical-engineers/union-matters/79-best-practice-employment-commitment/)
-- [Prevention and Management of Workplace Bullying (cl. 14) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/14-prevention-and-management-of-workplace-bullying/)
-- [Internal Training (cl. 48) · Doctors In Training](/ebas/doctors-in-training/education-pd/48-internal-training/)
-- [Fitness for Work (cl. 62) · Doctors In Training](/ebas/doctors-in-training/leave/62-fitness-for-work/)
-- [Consultation (cl. 16) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation/)
-- [Occupational Health & Safety (cl. 80) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety/)
-- [OH&S Department Placement (cl. 81) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement/)
-- [Fitness for Work (cl. 82) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work/)
-- [Prevention and Management of Workplace Bullying (cl. 13) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/13-prevention-and-management-of-workplace-bullying/)
-- [Fitness for Work (cl. 51) · Medical Specialists](/ebas/medical-specialists/leave/51-fitness-for-work/)
-- [Consultation (cl. 18) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
-- [Occupational Health and Safety / Workplace Violence (cl. 69) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence/)
-- [Industry OHS Working Group (cl. 69A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group/)
-- [OHS Risk Management (cl. 69B) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management/)
-- [Incident Reporting, Investigation and Prevention (cl. 69C) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69C-incident-reporting-investigation-and-prevention/)
-- [Designated Work Groups (cl. 69D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69D-designated-work-groups/)
-- [HSRs (cl. 69E) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69E-hsrs/)
-- [Occupational Violence and Aggression Prevention and (cl. 69F) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and/)
-- [Hazardous Weather Conditions (cl. 69G) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69G-hazardous-weather-conditions/)
-- [Workers’ Compensation, Rehabilitation and Return to Work (cl. 69H) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work/)
-- [Prevention of Gendered Violence Including Sexual Harassment (cl. 69I) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment/)
-- [Fitness for Work (cl. 88) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/88-fitness-for-work/)
-- [No Restraint of Patients (cl. 96) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/96-no-restraint-of-patients/)
-- [Amenities (cl. 97) · Medical Scientists, Pharm & Psych](/ebas/mspp/clinical-supervision/97-amenities/)
-- [Overtime (cl. 59) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/59-overtime/)
-- [Exposure to Hazardous Substances (cl. 36) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances/)
-- [Health and Safety, Rehabilitation and Workcover (cl. 37) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/37-health-and-safety-rehabilitation-and-workcover/)
-- [Prevention and Management of Workplace Bullying (cl. 38) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/38-prevention-and-management-of-workplace-bullying/)
-- [Not used (cl. 96) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/96-not-used/)
-- [Designated Work Groups (cl. 101) · Nurses & Midwives](/ebas/nurses-midwives/ohs/101-designated-work-groups/)
-- [HSRs (cl. 102) · Nurses & Midwives](/ebas/nurses-midwives/ohs/102-hsrs/)
-- [Occupational Violence and Aggression Prevention and (cl. 103) · Nurses & Midwives](/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and/)
-- [Workers' Compensation, Rehabilitation and Return to Work (cl. 104) · Nurses & Midwives](/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work/)
-- [Prevention of Gendered Violence including Sexual (cl. 104A) · Nurses & Midwives](/ebas/nurses-midwives/ohs/104A-prevention-of-gendered-violence-including-sexual/)
-- [OHS Preliminary (cl. 97) · Nurses & Midwives](/ebas/nurses-midwives/ohs/97-ohs-preliminary/)
-- [Industry OHS Working Group (cl. 98) · Nurses & Midwives](/ebas/nurses-midwives/ohs/98-industry-ohs-working-group/)
-- [OHS Risk Management (cl. 99) · Nurses & Midwives](/ebas/nurses-midwives/ohs/99-ohs-risk-management/)
+### Allied Health
+
+- [103. Occupational Violence & Aggression Prevention and Management - Allied Health](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and/)
+- [97. OH&S Preliminary - Allied Health](/ebas/allied-health/ohs/97-ohs-preliminary/)
+- [98. Industry OH&S Working Group - Allied Health](/ebas/allied-health/ohs/98-industry-ohs-working-group/)
+- [99. OH&S Risk Management - Allied Health](/ebas/allied-health/ohs/99-ohs-risk-management/)
+- [Occupational Health & Safety - Allied Health](/ebas/allied-health/ohs/)
+
+### Health Allied & Managers Admin
+
+- [80. Occupational Health Safety - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety/)
+- [81. Oh S Department Placement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement/)
+- [Occupational Health & Safety - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/ohs/)
+
+### Medical Scientists, Pharm & Psych
+
+- [36. Exposure To Hazardous Substances - Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances/)
+
+### Mental Health
+
+- [69. Occupational Health And Safety / Workplace Violence - Mental Health](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence/)
+- [69A. Industry Ohs Working Group - Mental Health](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group/)
+- [69B. Ohs Risk Management - Mental Health](/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management/)
+- [69C. Incident Reporting Investigation And Prevention - Mental Health](/ebas/mental-health/common-terms/ohs/69C-incident-reporting-investigation-and-prevention/)
+- [69F. Occupational Violence And Aggression Prevention And Management - Mental Health](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and/)
+- [69G. Hazardous Weather Conditions - Mental Health](/ebas/mental-health/common-terms/ohs/69G-hazardous-weather-conditions/)
+- [Occupational Health & Safety - Mental Health](/ebas/mental-health/common-terms/ohs/)
+
+### Nurses & Midwives
+
+- [103. Occupational Violence & Aggression Prevention and Management - Nurses & Midwives](/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and/)
+- [97. OH&S Preliminary - Nurses & Midwives](/ebas/nurses-midwives/ohs/97-ohs-preliminary/)
+- [98. Industry OH&S Working Group - Nurses & Midwives](/ebas/nurses-midwives/ohs/98-industry-ohs-working-group/)
+- [99. OH&S Risk Management - Nurses & Midwives](/ebas/nurses-midwives/ohs/99-ohs-risk-management/)
+- [Occupational Health & Safety - Nurses & Midwives](/ebas/nurses-midwives/ohs/)
 
 ## on-call
 
-- [Increases to Allowances (cl. 33) · Allied Health](/ebas/allied-health/allowances/33-increases-to-allowances/)
-- [Travelling Allowance (cl. 41) · Allied Health](/ebas/allied-health/allowances/41-travelling-allowance/)
-- [Roster (cl. 50) · Allied Health](/ebas/allied-health/hours-of-work/50-roster/)
-- [Rates for Saturdays and Sundays (cl. 51) · Allied Health](/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays/)
-- [Recall – Return to Workplace (cl. 53) · Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
-- [Recall – No Return to Workplace (cl. 54) · Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
-- [Childcare Costs (cl. 38) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
-- [Meal Breaks (cl. 42) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/42-meal-breaks/)
-- [Rates for Saturdays & Sundays (cl. 45) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays/)
-- [Recall (cl. 47) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
-- [Telephone allowance (cl. 54) · Doctors In Training](/ebas/doctors-in-training/allowances/54-telephone-allowance/)
-- [Travelling allowance – use of private vehicle (cl. 55) · Doctors In Training](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle/)
-- [Child care costs reimbursement – out of hours work (cl. 57) · Doctors In Training](/ebas/doctors-in-training/allowances/57-child-care-costs-reimbursement-out-of-hours-work/)
-- [On-call (cl. 38) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
-- [Recall – Return to Workplace (cl. 39) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
-- [Recall – Without Returning to Workplace (cl. 39A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
-- [Telephone Calls to Doctors Outside of Working Hours (cl. 40) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours/)
-- [Telephone Allowance (cl. 40) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance/)
-- [Childcare Reimbursement (cl. 43) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
-- [On Call / Recall (cl. 44) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/)
-- [Minimum Engagement (cl. 46) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/)
-- [Meal Breaks (cl. 50) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/)
-- [Individual Flexibility Arrangement (cl. 13) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement/)
-- [Telephone allowance (cl. 37) · Medical Specialists](/ebas/medical-specialists/allowances/37-telephone-allowance/)
-- [Childcare costs reimbursement (cl. 42) · Medical Specialists](/ebas/medical-specialists/allowances/42-childcare-costs-reimbursement/)
-- [Provision of mobile phone or reimbursement of cost (cl. 43) · Medical Specialists](/ebas/medical-specialists/allowances/43-provision-of-mobile-phone-or-reimbursement-of-cost/)
-- [Physical working conditions (cl. 19) · Medical Specialists](/ebas/medical-specialists/employment/19-physical-working-conditions/)
-- [On-Call (Full-Time Doctors) (cl. 26) · Medical Specialists](/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors/)
-- [Recall (Full-Time Doctors) (cl. 27) · Medical Specialists](/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Child Care Costs (cl. 91) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
-- [Telephone Allowance (cl. 92) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/92-telephone-allowance/)
-- [Clinical Perfusionists (cl. 41) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/41-clinical-perfusionists/)
-- [Employee Rosters (cl. 57) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57-employee-rosters/)
-- [On-Call/Re-Call (cl. 60) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/60-on-call-re-call/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [53. Recall - Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
+- [54. Recall - No Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
+
+### Biomedical Engineers
+
+- [47. Recall - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
+
+### Doctors In Training
+
+- [38. On Call - Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
+- [39. Recall Return To Workplace - Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
+- [39A. Recall Without Returning To Workplace - Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
+
+### Health Allied & Managers Admin
+
+- [44. On Call Recall - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/)
+
+### Medical Scientists, Pharm & Psych
+
+- [60. On Call Re Call - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/60-on-call-re-call/)
+
+### Medical Specialists
+
+- [26. On Call Full Time Doctors - Medical Specialists](/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors/)
+- [27. Recall Full Time Doctors - Medical Specialists](/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors/)
 
 ## overtime
 
-- [Allowances Related to Overtime and On-call (cl. 36) · Allied Health](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call/)
-- [Travel – Payment (cl. 42) · Allied Health](/ebas/allied-health/allowances/42-travel-payment/)
-- [Rates for Saturdays and Sundays (cl. 51) · Allied Health](/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays/)
-- [Overtime (cl. 52) · Allied Health](/ebas/allied-health/hours-of-work/52-overtime/)
-- [Recall – Return to Workplace (cl. 53) · Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
-- [Recall – No Return to Workplace (cl. 54) · Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 55) · Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 56) · Allied Health](/ebas/allied-health/hours-of-work/56-daylight-savings/)
-- [Individual Flexibility Arrangement (cl. 12) · Allied Health](/ebas/allied-health/preliminary/12-individual-flexibility-arrangement/)
-- [Childcare Costs (cl. 38) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/38-childcare-costs/)
-- [Allowances Related to Overtime and On-call (cl. 39) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call/)
-- [Workload (cl. 84) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/84-workload/)
-- [Casual Employment (cl. 20) · Biomedical Engineers](/ebas/biomedical-engineers/employment/20-casual-employment/)
-- [Rates for Saturdays & Sundays (cl. 45) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays/)
-- [Overtime (cl. 46) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/46-overtime/)
-- [Recall (cl. 47) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 48) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 49) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/49-daylight-savings/)
-- [Individual Flexibility Arrangements (cl. 11) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements/)
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Breaks (cl. 22) · Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Schedule H - Agreement for Time Off Instead Of Payment for Overtime · Children's Services · Schedules](/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Allowances (cl. 15) · Children's Services](/ebas/childrens-services/wages/15-allowances/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Child care costs reimbursement – out of hours work (cl. 57) · Doctors In Training](/ebas/doctors-in-training/allowances/57-child-care-costs-reimbursement-out-of-hours-work/)
-- [Overtime (cl. 36) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/36-overtime/)
-- [Penalty payments (cl. 37) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/37-penalty-payments/)
-- [Recall – Without Returning to Workplace (cl. 39A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
-- [Workload Management and Review (cl. 41) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
-- [Meal Allowances (cl. 39) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances/)
-- [Childcare Reimbursement (cl. 43) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/)
-- [Minimum Engagement (cl. 46) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/)
-- [Daylight Saving (cl. 49) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/49-daylight-saving/)
-- [Reasonable Additional Hours (cl. 52) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/52-reasonable-additional-hours/)
-- [Personal leave (cl. 55) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/55-personal-leave/)
-- [Overtime (cl. 25) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/)
-- [Overtime In Lieu (cl. 26) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu/)
-- [Definitions (cl. 3) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/preliminary/3-definitions/)
-- [Overtime (cl. 10) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/)
-- [Overtime In Lieu (cl. 11) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu/)
-- [Childcare costs reimbursement (cl. 42) · Medical Specialists](/ebas/medical-specialists/allowances/42-childcare-costs-reimbursement/)
-- [Daylight Saving (cl. 37) · Mental Health · Common Terms](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving/)
-- [Individual Flexible Working Arrangements (cl. 66) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements/)
-- [Meal allowance (cl. 116) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/116-meal-allowance/)
-- [Overtime (cl. 128) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/128-overtime/)
-- [Saturday and Sunday Work (cl. 130) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/130-saturday-and-sunday-work/)
-- [Ten-hour break (cl. 131) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break/)
-- [On-call & rostered overtime (cl. 132) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime/)
-- [Childcare Reimbursement (cl. 192) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/192-childcare-reimbursement/)
-- [Meal Allowances (cl. 193) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/193-meal-allowances/)
-- [Minimum Engagement (cl. 201) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/201-minimum-engagement/)
-- [Overtime (cl. 203) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/203-overtime/)
-- [Overtime – Royal Children’s Hospital (cl. 204) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital/)
-- [Overtime in Lieu (cl. 205) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/205-overtime-in-lieu/)
-- [Reasonable Additional Hours (cl. 206) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/206-reasonable-additional-hours/)
-- [Definitions Specific to Section 5 of this Agreement (cl. 186) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/preliminary/186-definitions-specific-to-section-5-of-this-agreement/)
-- [Childcare Reimbursement (cl. 76) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/76-childcare-reimbursement/)
-- [Meal Allowance (cl. 79) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/79-meal-allowance/)
-- [Saturday and Sunday Work (cl. 83) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work/)
-- [Overtime (cl. 89) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime/)
-- [Ten Hour break between overtime/recall (cl. 93) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
-- [Additional Payment of Wages Provisions (cl. 74) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions/)
-- [Definitions Specific to Section 4 of this Agreement (cl. 146) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/146-definitions-specific-to-section-4-of-this-agreement/)
-- [Childcare Reimbursement (cl. 152) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/152-childcare-reimbursement/)
-- [Meal Allowances (cl. 155) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/155-meal-allowances/)
-- [Minimum Engagement (cl. 167) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/167-minimum-engagement/)
-- [Overtime (cl. 169) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/169-overtime/)
-- [Overtime in Lieu (cl. 170) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/170-overtime-in-lieu/)
-- [Reasonable Additional Hours (cl. 171) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/171-reasonable-additional-hours/)
-- [Child Care Costs (cl. 91) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/91-child-care-costs/)
-- [Clinical Perfusionists (cl. 41) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/41-clinical-perfusionists/)
-- [Overtime (cl. 59) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/59-overtime/)
-- [Rural and Isolated Practice Allowance (cl. 32) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance/)
-- [Allowances Related to Overtime (cl. 33) · Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
-- [Childcare Reimbursement (cl. 39) · Nurses & Midwives](/ebas/nurses-midwives/allowances/39-childcare-reimbursement/)
-- [Hyperbaric Allowance (cl. 41B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41B-hyperbaric-allowance/)
-- [Four Clear Days Allowance (cl. 41C) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance/)
-- [Individual Flexible Working Arrangements (cl. 16A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16A-individual-flexible-working-arrangements/)
-- [Part-time Employment (cl. 18) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/18-part-time-employment/)
-- [Special Rates for Saturdays and Sundays (cl. 48) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/48-special-rates-for-saturdays-and-sundays/)
-- [Overtime (cl. 49) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/49-overtime/)
-- [Recall – Return to Workplace (cl. 50) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/50-recall-return-to-workplace/)
-- [Recall – Without Return to Workplace (cl. 51) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/51-recall-without-return-to-workplace/)
-- [Rest Period after Overtime/Recall (cl. 53) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall/)
-- [Daylight Saving (cl. 55) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/55-daylight-saving/)
+### Allied Health
+
+- [36. Allowances Related To Overtime And On Call - Allied Health](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call/)
+- [51. Rates For Saturdays And Sundays - Allied Health](/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays/)
+- [52. Overtime - Allied Health](/ebas/allied-health/hours-of-work/52-overtime/)
+- [53. Recall - Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
+- [54. Recall - No Return To Workplace - Allied Health](/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace/)
+- [55. Rest Period After Overtime/Recall - Ten Hour Break - Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
+
+### Biomedical Engineers
+
+- [39. Allowances Related To Overtime And On Call - Biomedical Engineers](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call/)
+- [45. Rates For Saturdays Sundays - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays/)
+- [46. Overtime - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/46-overtime/)
+- [47. Recall - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
+- [48. Rest Period After Overtime Recall Ten Hour Break - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break/)
+
+### Children's Services
+
+- [23. Overtime And Penalty Rates - Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
+- [Schedule H - Agreement For Time Off Instead Of Payment For Overtime - Children's Services](/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
+
+### Doctors In Training
+
+- [36. Overtime - Doctors In Training](/ebas/doctors-in-training/hours-of-work/36-overtime/)
+- [39A. Recall Without Returning To Workplace - Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
+
+### Health Allied & Managers Admin
+
+- [10. Overtime - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/)
+- [11. Overtime In Lieu - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu/)
+- [25. Overtime - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/)
+- [26. Overtime In Lieu - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu/)
+- [46. Minimum Engagement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/)
+
+### Medical Scientists, Pharm & Psych
+
+- [59. Overtime - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/59-overtime/)
+
+### Mental Health
+
+- [128. Overtime - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/128-overtime/)
+- [130. Saturday And Sunday Work - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/130-saturday-and-sunday-work/)
+- [131. Ten Hour Break - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break/)
+- [132. On Call Rostered Overtime - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime/)
+- [167. Minimum Engagement - Mental Health](/ebas/mental-health/support-services/preliminary/167-minimum-engagement/)
+- [169. Overtime - Mental Health](/ebas/mental-health/support-services/preliminary/169-overtime/)
+- [170. Overtime In Lieu - Mental Health](/ebas/mental-health/support-services/preliminary/170-overtime-in-lieu/)
+- [201. Minimum Engagement - Mental Health](/ebas/mental-health/management-admin/hours-of-work/201-minimum-engagement/)
+- [203. Overtime - Mental Health](/ebas/mental-health/management-admin/hours-of-work/203-overtime/)
+- [204. Overtime - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital/)
+- [205. Overtime In Lieu - Mental Health](/ebas/mental-health/management-admin/hours-of-work/205-overtime-in-lieu/)
+- [83. Saturday And Sunday Work - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work/)
+- [89. Overtime - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime/)
+- [93. Ten Hour Break Between Overtime Recall - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
+
+### Nurses & Midwives
+
+- [33. Allowances Related To Overtime - Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
+- [48. Special Rates For Saturdays And Sundays - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/48-special-rates-for-saturdays-and-sundays/)
+- [49. Overtime - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/49-overtime/)
+- [50. Recall Return To Workplace - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/50-recall-return-to-workplace/)
+- [51. Recall Without Return To Workplace - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/51-recall-without-return-to-workplace/)
+- [53. Rest Period After Overtime Recall - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall/)
 
 ## parental-leave
 
-- [Dispute Resolution Procedure (cl. 14) · Allied Health](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure/)
-- [Ending Employment During Parental Leave (cl. 26) · Allied Health](/ebas/allied-health/employment/26-ending-employment-during-parental-leave/)
-- [Pre-Natal Leave (cl. 68) · Allied Health](/ebas/allied-health/leave/68-pre-natal-leave/)
-- [Pre-Adoption Leave (cl. 69) · Allied Health](/ebas/allied-health/leave/69-pre-adoption-leave/)
-- [Parental Leave (cl. 70) · Allied Health](/ebas/allied-health/leave/70-parental-leave/)
-- [Index (cl. 3) · Allied Health](/ebas/allied-health/preliminary/3-index/)
-- [Union Matters (cl. 83) · Allied Health](/ebas/allied-health/union-matters/83-union-matters/)
-- [Consultation (cl. 13) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13-consultation/)
-- [Pre-Natal Leave (cl. 59) · Biomedical Engineers](/ebas/biomedical-engineers/leave/59-pre-natal-leave/)
-- [Pre-Adoption Leave (cl. 60) · Biomedical Engineers](/ebas/biomedical-engineers/leave/60-pre-adoption-leave/)
-- [Parental Leave (cl. 61) · Biomedical Engineers](/ebas/biomedical-engineers/leave/61-parental-leave/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Parental leave and related entitlements (cl. 25A) · Children's Services](/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements/)
-- [Dispute Resolution Procedure (cl. 12) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure/)
-- [Prenatal leave (cl. 65) · Doctors In Training](/ebas/doctors-in-training/leave/65-prenatal-leave/)
-- [Pre-adoption leave (cl. 66) · Doctors In Training](/ebas/doctors-in-training/leave/66-pre-adoption-leave/)
-- [Parental Leave (cl. 67) · Doctors In Training](/ebas/doctors-in-training/leave/67-parental-leave/)
-- [Dispute Resolution Procedure (cl. 17) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure/)
-- [Pre-Natal Leave (cl. 57) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/)
-- [Pre-adoption leave (cl. 58) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave/)
-- [Parental Leave (cl. 59) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/59-parental-leave/)
-- [Dispute Resolution Procedure (cl. 11) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure/)
-- [Prenatal leave (cl. 52) · Medical Specialists](/ebas/medical-specialists/leave/52-prenatal-leave/)
-- [Unpaid pre-adoption leave (cl. 53) · Medical Specialists](/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave/)
-- [Parental Leave (cl. 54) · Medical Specialists](/ebas/medical-specialists/leave/54-parental-leave/)
-- [Consultation (cl. 18) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
-- [Disputes Resolution Procedure (cl. 22) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure/)
-- [Parental Leave (cl. 50) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/50-parental-leave/)
-- [Discretionary Leave Without Pay - Royal Children's (cl. 212) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/212-discretionary-leave-without-pay-royal-children-s/)
-- [Disputes Settling Procedures (cl. 11) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/11-disputes-settling-procedures/)
-- [Consultation (cl. 30) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30-consultation/)
-- [Pre-Natal Leave (cl. 68) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/68-pre-natal-leave/)
-- [Parental Leave (cl. 70) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/70-parental-leave/)
-- [Commencement Date and Period of Operation (cl. 4) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/4-commencement-date-and-period-of-operation/)
-- [Secure Employment - Agency Staff and Bank Employees (cl. 87) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/87-secure-employment-agency-staff-and-bank-employees/)
-- [Consultation (cl. 11) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11-consultation/)
-- [Dispute Resolution Procedure (cl. 13) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 66) · Nurses & Midwives](/ebas/nurses-midwives/leave/66-pre-natal-leave-and-assisted-reproduction/)
-- [Pre-adoption leave (cl. 67) · Nurses & Midwives](/ebas/nurses-midwives/leave/67-pre-adoption-leave/)
-- [Parental Leave (cl. 68) · Nurses & Midwives](/ebas/nurses-midwives/leave/68-parental-leave/)
+### Allied Health
+
+- [26. Ending Employment During Parental Leave - Allied Health](/ebas/allied-health/employment/26-ending-employment-during-parental-leave/)
+- [68. Pre Natal Leave - Allied Health](/ebas/allied-health/leave/68-pre-natal-leave/)
+- [69. Pre Adoption Leave - Allied Health](/ebas/allied-health/leave/69-pre-adoption-leave/)
+- [70. Parental Leave - Allied Health](/ebas/allied-health/leave/70-parental-leave/)
+
+### Biomedical Engineers
+
+- [59. Pre Natal Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/59-pre-natal-leave/)
+- [60. Pre Adoption Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/60-pre-adoption-leave/)
+- [61. Parental Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/61-parental-leave/)
+
+### Children's Services
+
+- [25A. Parental Leave And Related Entitlements - Children's Services](/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements/)
+
+### Doctors In Training
+
+- [65. Prenatal Leave - Doctors In Training](/ebas/doctors-in-training/leave/65-prenatal-leave/)
+- [66. Pre Adoption Leave - Doctors In Training](/ebas/doctors-in-training/leave/66-pre-adoption-leave/)
+- [67. Parental Leave - Doctors In Training](/ebas/doctors-in-training/leave/67-parental-leave/)
+
+### Health Allied & Managers Admin
+
+- [57. Pre Natal Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/)
+- [58. Pre Adoption Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave/)
+- [59. Parental Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/59-parental-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [68. Pre Natal Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/68-pre-natal-leave/)
+- [70. Parental Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/70-parental-leave/)
+
+### Medical Specialists
+
+- [52. Prenatal Leave - Medical Specialists](/ebas/medical-specialists/leave/52-prenatal-leave/)
+- [53. Unpaid Pre Adoption Leave - Medical Specialists](/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave/)
+- [54. Parental Leave - Medical Specialists](/ebas/medical-specialists/leave/54-parental-leave/)
+
+### Mental Health
+
+- [50. Parental Leave - Mental Health](/ebas/mental-health/common-terms/leave/50-parental-leave/)
+
+### Nurses & Midwives
+
+- [66. Pre Natal Leave And Assisted Reproduction - Nurses & Midwives](/ebas/nurses-midwives/leave/66-pre-natal-leave-and-assisted-reproduction/)
+- [67. Pre Adoption Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/67-pre-adoption-leave/)
+- [68. Parental Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/68-parental-leave/)
 
 ## pay-rates
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Schedule 13 - Pharmacist Weekend Ordinary Hours · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours/)
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 13 - Pharmacist Weekend Ordinary Hours - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours/)
+- [Schedule 2 - Rates of Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## penalty-rates
 
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+### Children's Services
+
+- [10. Types Of Employment - Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
+- [12. Redundancy - Children's Services](/ebas/childrens-services/employment/12-redundancy/)
+- [23. Overtime And Penalty Rates - Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
+- [7. Individual Flexibility Arrangements - Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
 
 ## personal-leave
 
-- [Personal Leave (including Carer’s Leave) (cl. 62) · Allied Health](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave/)
-- [Casual Employment – Caring Responsibilities (cl. 63) · Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
-- [Pre-Natal Leave (cl. 68) · Allied Health](/ebas/allied-health/leave/68-pre-natal-leave/)
-- [Personal/Carer’s Leave (cl. 54) · Biomedical Engineers](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave/)
-- [Long Service Leave (cl. 63) · Biomedical Engineers](/ebas/biomedical-engineers/leave/63-long-service-leave/)
-- [Special Disaster Leave (cl. 69) · Biomedical Engineers](/ebas/biomedical-engineers/leave/69-special-disaster-leave/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Personal/carer's leave and compassionate leave (cl. 25) · Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
-- [Certificate of Service (cl. 29A) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
-- [Personal (sick)/carer’s leave (cl. 61) · Doctors In Training](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave/)
-- [Prenatal leave (cl. 65) · Doctors In Training](/ebas/doctors-in-training/leave/65-prenatal-leave/)
-- [Special Disaster Leave (cl. 70B) · Doctors In Training](/ebas/doctors-in-training/leave/70B-special-disaster-leave/)
-- [Personal leave (cl. 55) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/55-personal-leave/)
-- [Pre-Natal Leave (cl. 57) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/)
-- [Special Disaster Leave (cl. 65) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave/)
-- [Certificate of Service (cl. 24) · Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
-- [Personal/carer’s leave (cl. 49) · Medical Specialists](/ebas/medical-specialists/leave/49-personal-carer-s-leave/)
-- [Special Disaster Leave (cl. 58B) · Medical Specialists](/ebas/medical-specialists/leave/58B-special-disaster-leave/)
-- [Personal leave (cl. 38A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38A-personal-leave/)
-- [Personal Leave Pool (cl. 38B) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38B-personal-leave-pool/)
-- [Special Disaster Leave (cl. 41) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/41-special-disaster-leave/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 49) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/49-pre-natal-leave-and-assisted-reproduction/)
-- [Conversion of Unused Sick Leave to Annual Leave - (cl. 211) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave/)
-- [Uniforms and Protective Clothing (cl. 183) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing/)
-- [Personal/Carer’s Leave (cl. 64) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/64-personal-carer-s-leave/)
-- [Pre-Natal Leave (cl. 68) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/68-pre-natal-leave/)
-- [Special Disaster Leave (cl. 83) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/83-special-disaster-leave/)
-- [Personal Leave (cl. 61) · Nurses & Midwives](/ebas/nurses-midwives/leave/61-personal-leave/)
-- [Personal Leave Pool (cl. 61A) · Nurses & Midwives](/ebas/nurses-midwives/leave/61A-personal-leave-pool/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 66) · Nurses & Midwives](/ebas/nurses-midwives/leave/66-pre-natal-leave-and-assisted-reproduction/)
-- [Special Disaster Leave (cl. 72B) · Nurses & Midwives](/ebas/nurses-midwives/leave/72B-special-disaster-leave/)
+### Allied Health
+
+- [62. Personal Leave (Including Carer''s Leave) - Allied Health](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave/)
+- [63. Casual Employment Caring Responsibilities - Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
+
+### Biomedical Engineers
+
+- [54. Personal Carer's Leave - Biomedical Engineers](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave/)
+
+### Children's Services
+
+- [25. Personal Carer's Leave And Compassionate Leave - Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
+
+### Doctors In Training
+
+- [61. Personal Sick Carer S Leave - Doctors In Training](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave/)
+
+### Health Allied & Managers Admin
+
+- [55. Personal Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/55-personal-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [64. Personal Carer''s Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/64-personal-carer-s-leave/)
+
+### Medical Specialists
+
+- [49. Personal/Carer''s Leave - Medical Specialists](/ebas/medical-specialists/leave/49-personal-carer-s-leave/)
+
+### Mental Health
+
+- [38A. Personal Leave - Mental Health](/ebas/mental-health/common-terms/leave/38A-personal-leave/)
+- [38B. Personal Leave Pool - Mental Health](/ebas/mental-health/common-terms/leave/38B-personal-leave-pool/)
+
+### Nurses & Midwives
+
+- [61. Personal Leave - Nurses & Midwives](/ebas/nurses-midwives/leave/61-personal-leave/)
+- [61A. Personal Leave Pool - Nurses & Midwives](/ebas/nurses-midwives/leave/61A-personal-leave-pool/)
 
 ## preliminary
 
-- [Classifications Definitions and Wages (cl. 85) · Allied Health](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages/)
-- [Classification and Reclassification (cl. 86) · Allied Health](/ebas/allied-health/classification-staffing/86-classification-and-reclassification/)
-- [Allied Health Manager Structure (cl. 87) · Allied Health](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure/)
-- [Supervision and Management (cl. 89) · Allied Health](/ebas/allied-health/classification-staffing/89-supervision-and-management/)
-- [Safe Rostering and Fatigue (cl. 90A) · Allied Health](/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue/)
-- [Backfill (cl. 91) · Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
-- [Replacement Positions (cl. 93) · Allied Health](/ebas/allied-health/classification-staffing/93-replacement-positions/)
-- [Contractors and Labour Hire (cl. 94) · Allied Health](/ebas/allied-health/classification-staffing/94-contractors-and-labour-hire/)
-- [In-Service Education and Training – Royal Children’s (cl. 82) · Allied Health](/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s/)
-- [Letter of Offer (cl. 23) · Allied Health](/ebas/allied-health/employment/23-letter-of-offer/)
-- [Transition to Retirement (cl. 27) · Allied Health](/ebas/allied-health/employment/27-transition-to-retirement/)
-- [Biometric Timekeeping (cl. 50A) · Allied Health](/ebas/allied-health/hours-of-work/50A-biometric-timekeeping/)
-- [Public Holidays (cl. 58) · Allied Health](/ebas/allied-health/leave/58-public-holidays/)
-- [Annual Leave (cl. 59) · Allied Health](/ebas/allied-health/leave/59-annual-leave/)
-- [Personal Leave (including Carer’s Leave) (cl. 62) · Allied Health](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave/)
-- [Casual Employment – Caring Responsibilities (cl. 63) · Allied Health](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities/)
-- [Reasonable Adjustments (cl. 65) · Allied Health](/ebas/allied-health/leave/65-reasonable-adjustments/)
-- [Family Violence Leave (cl. 66) · Allied Health](/ebas/allied-health/leave/66-family-violence-leave/)
-- [Pre-Adoption Leave (cl. 69) · Allied Health](/ebas/allied-health/leave/69-pre-adoption-leave/)
-- [Long Service Leave (cl. 72) · Allied Health](/ebas/allied-health/leave/72-long-service-leave/)
-- [Blood Donors Leave (cl. 73) · Allied Health](/ebas/allied-health/leave/73-blood-donors-leave/)
-- [Leave to Engage in Voluntary Emergency Management (cl. 74) · Allied Health](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management/)
-- [Ceremonial Leave (cl. 75) · Allied Health](/ebas/allied-health/leave/75-ceremonial-leave/)
-- [Special Disaster Leave (cl. 77) · Allied Health](/ebas/allied-health/leave/77-special-disaster-leave/)
-- [Gender Transition Leave (cl. 78) · Allied Health](/ebas/allied-health/leave/78-gender-transition-leave/)
-- [Incident Reporting, Investigation and Prevention (cl. 100) · Allied Health](/ebas/allied-health/ohs/100-incident-reporting-investigation-and-prevention/)
-- [Designated Work Groups (cl. 101) · Allied Health](/ebas/allied-health/ohs/101-designated-work-groups/)
-- [Occupational Violence and Aggression Prevention and (cl. 103) · Allied Health](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and/)
-- [OHS Preliminary (cl. 97) · Allied Health](/ebas/allied-health/ohs/97-ohs-preliminary/)
-- [OHS Risk Management (cl. 99) · Allied Health](/ebas/allied-health/ohs/99-ohs-risk-management/)
-- [Agreement Title (cl. 1) · Allied Health](/ebas/allied-health/preliminary/1-agreement-title/)
-- [Arrangement (cl. 2) · Allied Health](/ebas/allied-health/preliminary/2-arrangement/)
-- [Definitions (cl. 4) · Allied Health](/ebas/allied-health/preliminary/4-definitions/)
-- [Incidence & Coverage (cl. 5) · Allied Health](/ebas/allied-health/preliminary/5-incidence-coverage/)
-- [Commencement Date and Period of Operation (cl. 6) · Allied Health](/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation/)
-- [Relationship To Previous Industrial Instruments and the (cl. 7) · Allied Health](/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the/)
-- [Copy of Agreement (cl. 8) · Allied Health](/ebas/allied-health/preliminary/8-copy-of-agreement/)
-- [No Extra Claims (cl. 9) · Allied Health](/ebas/allied-health/preliminary/9-no-extra-claims/)
-- [Patience in Bargaining Payment (cl. 28A) · Allied Health](/ebas/allied-health/wages/28A-patience-in-bargaining-payment/)
-- [Top of Band Payment (cl. 28B) · Allied Health](/ebas/allied-health/wages/28B-top-of-band-payment/)
-- [Skills and Incentive Payment (cl. 28C) · Allied Health](/ebas/allied-health/wages/28C-skills-and-incentive-payment/)
-- [Superannuation (cl. 30) · Allied Health](/ebas/allied-health/wages/30-superannuation/)
-- [Salary Packaging (cl. 31) · Allied Health](/ebas/allied-health/wages/31-salary-packaging/)
-- [Working from Home (cl. 95) · Allied Health](/ebas/allied-health/workplace-rights/95-working-from-home/)
-- [Flexible Working Arrangements (cl. 96) · Allied Health](/ebas/allied-health/workplace-rights/96-flexible-working-arrangements/)
-- [Higher Duties Allowance (cl. 35) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
-- [Classification and Reclassification (cl. 80) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification/)
-- [Disclosure of Qualification (cl. 81) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/81-disclosure-of-qualification/)
-- [Classification Definitions (cl. 82) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/82-classification-definitions/)
-- [Progression (cl. 83) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/83-progression/)
-- [Dispute Resolution Procedure (cl. 14) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure/)
-- [Study Leave (cl. 73) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/73-study-leave/)
-- [Staff Appraisals (cl. 75) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/75-staff-appraisals/)
-- [Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only) (cl. 77) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)
-- [Secure Employment (cl. 17) · Biomedical Engineers](/ebas/biomedical-engineers/employment/17-secure-employment/)
-- [Casual Employment (cl. 20) · Biomedical Engineers](/ebas/biomedical-engineers/employment/20-casual-employment/)
-- [Redundancy and Associated Entitlements (cl. 24) · Biomedical Engineers](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements/)
-- [Transition to Retirement (cl. 25) · Biomedical Engineers](/ebas/biomedical-engineers/employment/25-transition-to-retirement/)
-- [Tea Breaks (cl. 43) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/43-tea-breaks/)
-- [Public Holidays (cl. 50) · Biomedical Engineers](/ebas/biomedical-engineers/leave/50-public-holidays/)
-- [Personal/Carer’s Leave (cl. 54) · Biomedical Engineers](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave/)
-- [Family Violence Leave (cl. 56) · Biomedical Engineers](/ebas/biomedical-engineers/leave/56-family-violence-leave/)
-- [Reproductive Health Leave (cl. 58) · Biomedical Engineers](/ebas/biomedical-engineers/leave/58-reproductive-health-leave/)
-- [Pre-Adoption Leave (cl. 60) · Biomedical Engineers](/ebas/biomedical-engineers/leave/60-pre-adoption-leave/)
-- [Blood Donors Leave (cl. 64) · Biomedical Engineers](/ebas/biomedical-engineers/leave/64-blood-donors-leave/)
-- [Leave to Engage in Voluntary Emergency Management (cl. 65) · Biomedical Engineers](/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management/)
-- [Ceremonial Leave (cl. 66) · Biomedical Engineers](/ebas/biomedical-engineers/leave/66-ceremonial-leave/)
-- [Leave Without Pay (cl. 70) · Biomedical Engineers](/ebas/biomedical-engineers/leave/70-leave-without-pay/)
-- [Title (cl. 1) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/1-title/)
-- [Transfer of Business (cl. 12) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/12-transfer-of-business/)
-- [Arrangement (cl. 3) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/3-arrangement/)
-- [Definitions (cl. 4) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/4-definitions/)
-- [Coverage (cl. 5) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/5-coverage/)
-- [Commencement Date and Period of Operation (cl. 6) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/6-commencement-date-and-period-of-operation/)
-- [No Extra Claims (cl. 7) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/7-no-extra-claims/)
-- [Relationship to Previous Industrial Instruments and (cl. 8) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/8-relationship-to-previous-industrial-instruments-and/)
-- [Copy of Agreement (cl. 9) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/9-copy-of-agreement/)
-- [Best Practice Employment Commitment (cl. 79) · Biomedical Engineers](/ebas/biomedical-engineers/union-matters/79-best-practice-employment-commitment/)
-- [Top of Band Payment (cl. 27) · Biomedical Engineers](/ebas/biomedical-engineers/wages/27-top-of-band-payment/)
-- [Superannuation (cl. 30) · Biomedical Engineers](/ebas/biomedical-engineers/wages/30-superannuation/)
-- [Salary Packaging (cl. 31) · Biomedical Engineers](/ebas/biomedical-engineers/wages/31-salary-packaging/)
-- [Accident Make-up Pay (cl. 32) · Biomedical Engineers](/ebas/biomedical-engineers/wages/32-accident-make-up-pay/)
-- [Working from Home (cl. 86) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/86-working-from-home/)
-- [Title (cl. 1) · Children's Services](/ebas/childrens-services/application-operation/1-title/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Definitions and interpretation (cl. 3) · Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
-- [Coverage (cl. 4) · Children's Services](/ebas/childrens-services/application-operation/4-coverage/)
-- [Access to the award and the National Employment Standards (cl. 5) · Children's Services](/ebas/childrens-services/application-operation/5-access-to-the-award-and-the-national-employment-standards/)
-- [The National Employment Standards and this award (cl. 6) · Children's Services](/ebas/childrens-services/application-operation/6-the-national-employment-standards-and-this-award/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Termination of employment (cl. 11) · Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Breaks (cl. 22) · Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Requests for flexible working arrangements (cl. 23A) · Children's Services](/ebas/childrens-services/hours-of-work/23A-requests-for-flexible-working-arrangements/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Personal/carer's leave and compassionate leave (cl. 25) · Children's Services](/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave/)
-- [Parental leave and related entitlements (cl. 25A) · Children's Services](/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements/)
-- [Community service leave (cl. 26) · Children's Services](/ebas/childrens-services/leave/26-community-service-leave/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Family and domestic violence leave (cl. 28) · Children's Services](/ebas/childrens-services/leave/28-family-and-domestic-violence-leave/)
-- [Classifications (cl. 13) · Children's Services](/ebas/childrens-services/wages/13-classifications/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Higher duties (cl. 18) · Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Superannuation (cl. 20) · Children's Services](/ebas/childrens-services/wages/20-superannuation/)
-- [Deductions for board and lodging (cl. 75) · Doctors In Training](/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging/)
-- [Redundancy and Associated Entitlements (cl. 11) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements/)
-- [Flexible Working Arrangements (cl. 15) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements/)
-- [Individual Flexibility Arrangements (cl. 16) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/16-individual-flexibility-arrangements/)
-- [Climate Change Mitigation and Sustainability (cl. 16A) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/16A-climate-change-mitigation-and-sustainability/)
-- [Doctor Responsibilities (cl. 23) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/23-doctor-responsibilities/)
-- [Rotations between hospitals (cl. 24) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/24-rotations-between-hospitals/)
-- [Transition to Retirement (cl. 32) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement/)
-- [Continuing medical education allowance (cl. 47) · Doctors In Training](/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance/)
-- [Conference/seminar leave (cl. 50) · Doctors In Training](/ebas/doctors-in-training/education-pd/50-conference-seminar-leave/)
-- [Hours of work (cl. 33) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33-hours-of-work/)
-- [Training Time (cl. 34) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/34-training-time/)
-- [Overtime (cl. 36) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/36-overtime/)
-- [Leave not applying to casuals (cl. 58) · Doctors In Training](/ebas/doctors-in-training/leave/58-leave-not-applying-to-casuals/)
-- [Personal (sick)/carer’s leave (cl. 61) · Doctors In Training](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave/)
-- [Public holidays (cl. 63) · Doctors In Training](/ebas/doctors-in-training/leave/63-public-holidays/)
-- [Compassionate leave (cl. 64) · Doctors In Training](/ebas/doctors-in-training/leave/64-compassionate-leave/)
-- [Pre-adoption leave (cl. 66) · Doctors In Training](/ebas/doctors-in-training/leave/66-pre-adoption-leave/)
-- [Long service leave (cl. 68) · Doctors In Training](/ebas/doctors-in-training/leave/68-long-service-leave/)
-- [Leave to engage in Voluntary Emergency Management (cl. 70) · Doctors In Training](/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management/)
-- [Family Violence Leave (cl. 71) · Doctors In Training](/ebas/doctors-in-training/leave/71-family-violence-leave/)
-- [Title (cl. 1) · Doctors In Training](/ebas/doctors-in-training/preliminary/1-title/)
-- [Arrangement (cl. 2) · Doctors In Training](/ebas/doctors-in-training/preliminary/2-arrangement/)
-- [Definitions (cl. 3) · Doctors In Training](/ebas/doctors-in-training/preliminary/3-definitions/)
-- [Coverage (cl. 4) · Doctors In Training](/ebas/doctors-in-training/preliminary/4-coverage/)
-- [Date and Period of Operation (cl. 5) · Doctors In Training](/ebas/doctors-in-training/preliminary/5-date-and-period-of-operation/)
-- [Relationship to Previous Awards, Agreements and the NES (cl. 6) · Doctors In Training](/ebas/doctors-in-training/preliminary/6-relationship-to-previous-awards-agreements-and-the-nes/)
-- [Savings (cl. 7) · Doctors In Training](/ebas/doctors-in-training/preliminary/7-savings/)
-- [No Extra Claims (cl. 8) · Doctors In Training](/ebas/doctors-in-training/preliminary/8-no-extra-claims/)
-- [Nature of Relationship (cl. 9) · Doctors In Training](/ebas/doctors-in-training/preliminary/9-nature-of-relationship/)
-- [Remuneration and remuneration increases (cl. 42) · Doctors In Training](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases/)
-- [Employee Records (cl. 42A) · Doctors In Training](/ebas/doctors-in-training/remuneration/42A-employee-records/)
-- [Superannuation (cl. 43) · Doctors In Training](/ebas/doctors-in-training/remuneration/43-superannuation/)
-- [Salary packaging (cl. 44) · Doctors In Training](/ebas/doctors-in-training/remuneration/44-salary-packaging/)
-- [Workers compensation make-up pay (cl. 45) · Doctors In Training](/ebas/doctors-in-training/remuneration/45-workers-compensation-make-up-pay/)
-- [Recovery of Overpayments (cl. 46) · Doctors In Training](/ebas/doctors-in-training/remuneration/46-recovery-of-overpayments/)
-- [Best Practice Employment Commitment Committee (cl. 77) · Doctors In Training](/ebas/doctors-in-training/union-matters/77-best-practice-employment-commitment-committee/)
-- [Health Service obligations (cl. 78) · Doctors In Training](/ebas/doctors-in-training/union-matters/78-health-service-obligations/)
-- [Lead Apron Allowance (cl. 37) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance/)
-- [Supported Wage System for Employees with a (cl. 38) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a/)
-- [Travelling Allowance (cl. 41) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/41-travelling-allowance/)
-- [Shiftwork (cl. 45) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
-- [Requests For Flexible Working Arrangements (cl. 79) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements/)
-- [Managing Conduct and Performance (cl. 18) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance/)
-- [Redundancy and Associated Entitlements (cl. 26) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/)
-- [Transition to Retirement (cl. 27) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/27-transition-to-retirement/)
-- [Accrued Days Off (cl. 47) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/47-accrued-days-off/)
-- [Rest Breaks (cl. 51) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/51-rest-breaks/)
-- [Compassionate Leave (cl. 56) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave/)
-- [Pre-adoption leave (cl. 58) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave/)
-- [Long Service Leave (cl. 61) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave/)
-- [Leave to Engage in Voluntary Emergency (cl. 62) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency/)
-- [Excessive Leave Accrual (cl. 66) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual/)
-- [Family Violence Leave (cl. 67) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/)
-- [Public Holidays (cl. 69) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/69-public-holidays/)
-- [OH&S Department Placement (cl. 81) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement/)
-- [Agreement Title (cl. 1) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/1-agreement-title/)
-- [Best Practice Employment Commitment (cl. 10) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment/)
-- [Anti-Discrimination (cl. 11) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination/)
-- [Multi-cultural awareness (cl. 12) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/12-multi-cultural-awareness/)
-- [Individual Flexibility Arrangement (cl. 13) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement/)
-- [Police Check/Certificate (cl. 14) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate/)
-- [Working with Children Check (cl. 15) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check/)
-- [Arrangement of the Agreement (cl. 3) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement/)
-- [Application of this Section (cl. 4) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/4-application-of-this-section/)
-- [Incidence & Coverage (cl. 5) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage/)
-- [Definitions (cl. 6) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/6-definitions/)
-- [Commencement Date and Period of Operation (cl. 7) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation/)
-- [Relationship to Previous Industrial Instruments (cl. 8) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/8-relationship-to-previous-industrial-instruments/)
-- [No Extra Claims (cl. 9) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims/)
-- [Access to Computers (cl. 73) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/73-access-to-computers/)
-- [Statewide Industry Panel (cl. 74) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel/)
-- [Payment of Wages (cl. 29) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages/)
-- [Recovery of Overpayments (cl. 30) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments/)
-- [Superannuation (cl. 31) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/31-superannuation/)
-- [Salary Packaging (cl. 32) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/32-salary-packaging/)
-- [Accident Pay (cl. 33) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/33-accident-pay/)
-- [Employee Records (cl. 36) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/36-employee-records/)
-- [Certificate Allowance – Pathology Technicians (cl. 14) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians/)
-- [Reimbursement of Expenses (DHSV) (cl. 17) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv/)
-- [Code Black and/or Code Grey Response (cl. 19) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/19-code-black-and-or-code-grey-response/)
-- [Higher Duties (cl. 9) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties/)
-- [Wage Skill Group 1 Translation (cl. 43) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/43-wage-skill-group-1-translation/)
-- [Clinical Services Enhancement/Job Rotation (cl. 46) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/46-clinical-services-enhancement-job-rotation/)
-- [Review of Pharmacy Technician Structure (cl. 47) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure/)
-- [Staff Appraisal (cl. 30) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/education-pd/30-staff-appraisal/)
-- [Study Leave (cl. 31) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
-- [Make Up Time (cl. 27) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/27-make-up-time/)
-- [Wash-Up Time (cl. 28) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/28-wash-up-time/)
-- [Application of Section 2 (cl. 2) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/preliminary/2-application-of-section-2/)
-- [Experience Payments (cl. 7) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/wages/7-experience-payments/)
-- [Staffing Flexibility (DHSV) (cl. 48) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv/)
-- [Amenities (cl. 49) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/workplace-rights/49-amenities/)
-- [Higher Duties (cl. 5) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/)
-- [Removal Expenses (cl. 6) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/allowances/6-removal-expenses/)
-- [Worker Wellbeing and Employment Support Officers (cl. 16) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers/)
-- [Translation of Managers and Administrative Workers (cl. 17) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers/)
-- [Study Leave (cl. 12) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/)
-- [Overtime (cl. 10) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/)
-- [Application of Section 3 (cl. 2) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3/)
-- [Continuing Medical Education Support (cl. 41) · Medical Specialists](/ebas/medical-specialists/allowances/41-continuing-medical-education-support/)
-- [Redundancy and Associated Entitlements (cl. 10) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements/)
-- [Flexible Working Arrangements (cl. 14) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/14-flexible-working-arrangements/)
-- [Individual Flexibility Arrangements (cl. 15) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/15-individual-flexibility-arrangements/)
-- [Climate Change Mitigation and Sustainability (cl. 15A) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/15A-climate-change-mitigation-and-sustainability/)
-- [Internal Locum conversion (cl. 16A) · Medical Specialists](/ebas/medical-specialists/employment/16A-internal-locum-conversion/)
-- [Clinical Support Time (cl. 18) · Medical Specialists](/ebas/medical-specialists/employment/18-clinical-support-time/)
-- [Transition to Retirement (cl. 22) · Medical Specialists](/ebas/medical-specialists/employment/22-transition-to-retirement/)
-- [Compassionate Leave (cl. 50) · Medical Specialists](/ebas/medical-specialists/leave/50-compassionate-leave/)
-- [Unpaid pre-adoption leave (cl. 53) · Medical Specialists](/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave/)
-- [Long Service Leave (cl. 55) · Medical Specialists](/ebas/medical-specialists/leave/55-long-service-leave/)
-- [Public Holidays (cl. 56) · Medical Specialists](/ebas/medical-specialists/leave/56-public-holidays/)
-- [Sabbatical Leave (cl. 57) · Medical Specialists](/ebas/medical-specialists/leave/57-sabbatical-leave/)
-- [Leave to engage in Voluntary Emergency Management (cl. 58) · Medical Specialists](/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management/)
-- [Continuing Medical Education Leave (cl. 59) · Medical Specialists](/ebas/medical-specialists/leave/59-continuing-medical-education-leave/)
-- [Family Violence Leave (cl. 60) · Medical Specialists](/ebas/medical-specialists/leave/60-family-violence-leave/)
-- [Title (cl. 1) · Medical Specialists](/ebas/medical-specialists/preliminary/1-title/)
-- [Arrangement (cl. 2) · Medical Specialists](/ebas/medical-specialists/preliminary/2-arrangement/)
-- [Definitions (cl. 3) · Medical Specialists](/ebas/medical-specialists/preliminary/3-definitions/)
-- [Coverage (cl. 4) · Medical Specialists](/ebas/medical-specialists/preliminary/4-coverage/)
-- [Date and Period of Operation (cl. 5) · Medical Specialists](/ebas/medical-specialists/preliminary/5-date-and-period-of-operation/)
-- [Application and Relationship to the NES (cl. 6) · Medical Specialists](/ebas/medical-specialists/preliminary/6-application-and-relationship-to-the-nes/)
-- [No extra claims (cl. 8) · Medical Specialists](/ebas/medical-specialists/preliminary/8-no-extra-claims/)
-- [Best Practice Employment Commitment Committee (cl. 63) · Medical Specialists](/ebas/medical-specialists/union-matters/63-best-practice-employment-commitment-committee/)
-- [Remuneration and remuneration increases (cl. 31) · Medical Specialists](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases/)
-- [Doctor Records (cl. 31A) · Medical Specialists](/ebas/medical-specialists/wages/31A-doctor-records/)
-- [Superannuation (cl. 32) · Medical Specialists](/ebas/medical-specialists/wages/32-superannuation/)
-- [Salary Packaging (cl. 33) · Medical Specialists](/ebas/medical-specialists/wages/33-salary-packaging/)
-- [Accident Pay (cl. 34) · Medical Specialists](/ebas/medical-specialists/wages/34-accident-pay/)
-- [Recovery of Overpayments (cl. 35) · Medical Specialists](/ebas/medical-specialists/wages/35-recovery-of-overpayments/)
-- [Commuted Allowance (cl. 33) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/33-commuted-allowance/)
-- [Redundancy and Associated Entitlements (cl. 20) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements/)
-- [Redeployment – former s97 Employees (cl. 21) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/21-redeployment-former-s97-employees/)
-- [Employment Checks (cl. 26A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/26A-employment-checks/)
-- [Employee Retention (cl. 27) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/27-employee-retention/)
-- [Transition to Retirement (cl. 27A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/27A-transition-to-retirement/)
-- [Blood Donor Leave (cl. 38) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38-blood-donor-leave/)
-- [Personal leave (cl. 38A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38A-personal-leave/)
-- [Caring Responsibilities – Casual Employees (cl. 38C) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38C-caring-responsibilities-casual-employees/)
-- [Annual Leave (cl. 38D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38D-annual-leave/)
-- [Reproductive Health Leave (cl. 38G) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave/)
-- [Leave to engage in Voluntary Emergency Management (cl. 39) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/39-leave-to-engage-in-voluntary-emergency-management/)
-- [Ceremonial leave (cl. 43) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/43-ceremonial-leave/)
-- [Compassionate Leave (cl. 44) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/44-compassionate-leave/)
-- [Family and Domestic Violence Leave (cl. 45) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave/)
-- [Jury Service (cl. 46) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/46-jury-service/)
-- [Long Service Leave (cl. 47) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/47-long-service-leave/)
-- [Pre-Adoption Leave (cl. 48) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/48-pre-adoption-leave/)
-- [Foster and Kinship Care (cl. 48A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/48A-foster-and-kinship-care/)
-- [Purchased Leave (cl. 51) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/51-purchased-leave/)
-- [Fitness for Work (cl. 51A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/51A-fitness-for-work/)
-- [Climate Change Mitigation and Sustainability (cl. 51B) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/51B-climate-change-mitigation-and-sustainability/)
-- [Occupational Health and Safety / Workplace Violence (cl. 69) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence/)
-- [Designated Work Groups (cl. 69D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69D-designated-work-groups/)
-- [Occupational Violence and Aggression Prevention and (cl. 69F) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and/)
-- [Coverage (cl. 10) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/10-coverage/)
-- [Incidence and operation of this agreement (cl. 11) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement/)
-- [Implementation Committees (cl. 12) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/12-implementation-committees/)
-- [No further claims (cl. 13) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/13-no-further-claims/)
-- [Copy of Agreement (cl. 14) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/14-copy-of-agreement/)
-- [Savings Clause (cl. 15) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/15-savings-clause/)
-- [Anti-Discrimination (cl. 16) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
-- [Gender Based Discrimination (cl. 17) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination/)
-- [Division into Sections and Schedules (cl. 4) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules/)
-- [Application of Section 2 (cl. 5) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2/)
-- [Application of Section 3 (cl. 6) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3/)
-- [Application of Section 4 (cl. 7) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4/)
-- [Application of Section 5 (cl. 8) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/8-application-of-section-5/)
-- [Rural - Satellite Telephones (cl. 53) · Mental Health · Common Terms](/ebas/mental-health/common-terms/resources/53-rural-satellite-telephones/)
-- [Training (cl. 54) · Mental Health · Common Terms](/ebas/mental-health/common-terms/resources/54-training/)
-- [Community Health Teams staffing establishment (cl. 57A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/57A-community-health-teams-staffing-establishment/)
-- [Community Mental Health Engagement Worker (cl. 58) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/58-community-mental-health-engagement-worker/)
-- [Aboriginal Healthcare Worker Traineeship (Mental Health) (cl. 59) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/59-aboriginal-healthcare-worker-traineeship-mental-health/)
-- [Community Workload Management System (CWMS) (cl. 60) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms/)
-- [Crisis Team Workload Management System (CTWMS) (cl. 61) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/61-crisis-team-workload-management-system-ctwms/)
-- [Compensation Make-up Pay (cl. 30) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/30-compensation-make-up-pay/)
-- [Salary Packaging (cl. 31) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/31-salary-packaging/)
-- [Superannuation (cl. 32) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/32-superannuation/)
-- [Flexible Working Arrangements (cl. 65) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements/)
-- [Reasonable Adjustments for Employees with a disability (cl. 67) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/67-reasonable-adjustments-for-employees-with-a-disability/)
-- [Higher duties allowance (cl. 115) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/115-higher-duties-allowance/)
-- [Qualification Allowance (cl. 117) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/117-qualification-allowance/)
-- [Higher Education Recognition Allowance (cl. 118) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/118-higher-education-recognition-allowance/)
-- [Wages Review (cl. 143A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review/)
-- [Professional Development Leave (cl. 136) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/136-professional-development-leave/)
-- [Study leave (cl. 139) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
-- [Health Professionals (Medicare) Study Leave (cl. 140) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
-- [This Clause is deliberately Blank (cl. 112) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/employment-types/112-this-clause-is-deliberately-blank/)
-- [ADOs (cl. 123) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/123-ados/)
-- [Portfolio Work in Paid Time (cl. 125A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/125A-portfolio-work-in-paid-time/)
-- [Rest period (cl. 129) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/129-rest-period/)
-- [Public Holidays (cl. 135) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/leave/135-public-holidays/)
-- [Removal Expenses (cl. 195) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/195-removal-expenses/)
-- [Chief Executive Officers (cl. 222) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/classification-staffing/222-chief-executive-officers/)
-- [Study Leave (cl. 214) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
-- [Individual Performance Measures - Royal Children's (cl. 217) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/217-individual-performance-measures-royal-children-s/)
-- [Higher Duties (cl. 198) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/198-higher-duties/)
-- [Rosters (cl. 201A) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/201A-rosters/)
-- [Overtime (cl. 203) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/203-overtime/)
-- [Overtime – Royal Children’s Hospital (cl. 204) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital/)
-- [Rest Breaks (cl. 207) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/207-rest-breaks/)
-- [Saturday and Sunday Work (cl. 209) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/209-saturday-and-sunday-work/)
-- [Working from Home - Royal Children's Hospital (cl. 210) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/210-working-from-home-royal-children-s-hospital/)
-- [Public Holidays (cl. 213) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/213-public-holidays/)
-- [Best Practice - Royal Children's Hospital (cl. 187) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/preliminary/187-best-practice-royal-children-s-hospital/)
-- [Uniforms and Protective Clothing (cl. 220) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/resources/220-uniforms-and-protective-clothing/)
-- [Supported Wage System for Employees with a Disability (cl. 189) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/189-supported-wage-system-for-employees-with-a-disability/)
-- [Out of Hours Supervisor (cl. 80) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/80-out-of-hours-supervisor/)
-- [Qualification Allowance (cl. 81) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance/)
-- [Senior Allowance - MHO (cl. 87) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho/)
-- [Undergraduate Employment Models (cl. 103) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/103-undergraduate-employment-models/)
-- [Commencing Grades Nursing (cl. 105) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/105-commencing-grades-nursing/)
-- [Classification standards (cl. 106) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/106-classification-standards/)
-- [Psychiatric Enrolled Nurse classifications (cl. 109) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/109-psychiatric-enrolled-nurse-classifications/)
-- [Mental Health Officers classifications (cl. 110) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/110-mental-health-officers-classifications/)
-- [Study Leave (cl. 99A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
-- [Examination Leave – RPN and PEN (cl. 99B) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen/)
-- [Hours of work (cl. 88) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work/)
-- [Overtime (cl. 89) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime/)
-- [Portfolio Work in Paid Time (cl. 96A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96A-portfolio-work-in-paid-time/)
-- [Public Holidays (cl. 98) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays/)
-- [Letter of Appointment/Employment Arrangements (cl. 71) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/letter-of-employment/71-letter-of-appointment-employment-arrangements/)
-- [Trainees (cl. 148) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/148-trainees/)
-- [Supported Wage System for Employees with a Disability (cl. 151) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/151-supported-wage-system-for-employees-with-a-disability/)
-- [Interpreter Allowances (cl. 154) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/154-interpreter-allowances/)
-- [Nauseous Work Allowance (cl. 156) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/156-nauseous-work-allowance/)
-- [Travelling Allowances (cl. 161) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/161-travelling-allowances/)
-- [Higher Duties (cl. 163) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/163-higher-duties/)
-- [Meal Breaks (cl. 166) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/166-meal-breaks/)
-- [Overtime (cl. 169) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/169-overtime/)
-- [Rest Breaks (cl. 172) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/172-rest-breaks/)
-- [This Clause has Deliberately been Left Blank (cl. 174) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/174-this-clause-has-deliberately-been-left-blank/)
-- [Unplanned Absences (cl. 175) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/175-unplanned-absences/)
-- [Wash-Up Time (cl. 176) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/176-wash-up-time/)
-- [Saturday and Sunday Work (cl. 177) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/177-saturday-and-sunday-work/)
-- [Public Holidays (cl. 179) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/179-public-holidays/)
-- [Study Leave (cl. 180) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/180-study-leave/)
-- [Literacy and Numeracy (cl. 182) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/182-literacy-and-numeracy/)
-- [Definitions (cl. 89) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/89-definitions/)
-- [Accident Pay (cl. 90) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/90-accident-pay/)
-- [Medical scientists Merit Reclassification Guidelines (cl. 45) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/45-medical-scientists-merit-reclassification-guidelines/)
-- [Higher Duties (cl. 52) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/52-higher-duties/)
-- [Payment of Wages (cl. 53) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/53-payment-of-wages/)
-- [Clause intentionally omitted (cl. 14) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/14-clause-intentionally-omitted/)
-- [Notification of Classification (cl. 19) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/19-notification-of-classification/)
-- [Transition to Retirement (cl. 20) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/20-transition-to-retirement/)
-- [Full-Time Employment (cl. 23) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/23-full-time-employment/)
-- [Fixed Term Employment (cl. 26) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/26-fixed-term-employment/)
-- [Flexible Working Arrangements (cl. 27) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/27-flexible-working-arrangements/)
-- [Transfer of Business (cl. 28) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/28-transfer-of-business/)
-- [Notice of Termination (cl. 31) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/31-notice-of-termination/)
-- [Meal Intervals and Rest intervals (cl. 58) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals/)
-- [Annual Leave (cl. 61) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/61-annual-leave/)
-- [Purchased Leave (cl. 63) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/63-purchased-leave/)
-- [Compassionate Leave (cl. 65) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/65-compassionate-leave/)
-- [Parental Leave (cl. 70) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/70-parental-leave/)
-- [Additional Professional Registration Leave – (cl. 74) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/74-additional-professional-registration-leave/)
-- [Blood Donors Leave (cl. 77) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/77-blood-donors-leave/)
-- [Leave to Engage in Emergency Relief Activities (cl. 79) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/79-leave-to-engage-in-emergency-relief-activities/)
-- [Public Holidays (cl. 80) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/80-public-holidays/)
-- [Title (cl. 1) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/1-title/)
-- [Anti-Discrimination (cl. 10) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/10-anti-discrimination/)
-- [Arrangement (cl. 2) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/2-arrangement/)
-- [Coverage of Agreement (cl. 3) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/3-coverage-of-agreement/)
-- [Commencement Date and Period of Operation (cl. 4) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/4-commencement-date-and-period-of-operation/)
-- [Savings Clause (cl. 6) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/6-savings-clause/)
-- [No Extra Claims (cl. 7) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/7-no-extra-claims/)
-- [Posting of Agreement (cl. 8) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/8-posting-of-agreement/)
-- [Exposure to Hazardous Substances (cl. 36) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances/)
-- [Qualification Allowance (cl. 31) · Nurses & Midwives](/ebas/nurses-midwives/allowances/31-qualification-allowance/)
-- [Endorsed Midwife (cl. 32A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32A-endorsed-midwife/)
-- [Sole Midwife Allowance (cl. 32B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32B-sole-midwife-allowance/)
-- [Higher Duties (cl. 35) · Nurses & Midwives](/ebas/nurses-midwives/allowances/35-higher-duties/)
-- [Translation Arrangements for Registered Nurses/Midwives (cl. 84) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives/)
-- [Trainee Enrolled Nurse – Classifications (cl. 85A) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/85A-trainee-enrolled-nurse-classifications/)
-- [Not used (cl. 95) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/95-not-used/)
-- [Flexible Working Arrangements (cl. 16) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16-flexible-working-arrangements/)
-- [Climate Change Mitigation and Sustainability (cl. 16B) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/16B-climate-change-mitigation-and-sustainability/)
-- [Study Leave (cl. 76) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
-- [Examination Leave (cl. 77) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/77-examination-leave/)
-- [Victorian Maternal and Child Health Nurse Student (cl. 79A) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/79A-victorian-maternal-and-child-health-nurse-student/)
-- [Employment Checks (applicable from 24 June 2024) (cl. 22A) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/22A-employment-checks-applicable-from-24-june-2024/)
-- [Breaks (cl. 44) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/44-breaks/)
-- [Portfolio Work In Paid Time (cl. 45A) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/45A-portfolio-work-in-paid-time/)
-- [Rest Period after Excessive Hours (cl. 54) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/54-rest-period-after-excessive-hours/)
-- [Public Holidays (cl. 56) · Nurses & Midwives](/ebas/nurses-midwives/leave/56-public-holidays/)
-- [Annual Leave (cl. 57) · Nurses & Midwives](/ebas/nurses-midwives/leave/57-annual-leave/)
-- [Not Used (cl. 58) · Nurses & Midwives](/ebas/nurses-midwives/leave/58-not-used/)
-- [Personal Leave (cl. 61) · Nurses & Midwives](/ebas/nurses-midwives/leave/61-personal-leave/)
-- [Casual Employment – Caring Responsibilities (cl. 62) · Nurses & Midwives](/ebas/nurses-midwives/leave/62-casual-employment-caring-responsibilities/)
-- [Reasonable Adjustments for Employees with a disability (cl. 63A) · Nurses & Midwives](/ebas/nurses-midwives/leave/63A-reasonable-adjustments-for-employees-with-a-disability/)
-- [Family and Domestic Violence Leave (cl. 64) · Nurses & Midwives](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave/)
-- [Compassionate Leave (cl. 65) · Nurses & Midwives](/ebas/nurses-midwives/leave/65-compassionate-leave/)
-- [Pre-adoption leave (cl. 67) · Nurses & Midwives](/ebas/nurses-midwives/leave/67-pre-adoption-leave/)
-- [Long Service Leave (cl. 70) · Nurses & Midwives](/ebas/nurses-midwives/leave/70-long-service-leave/)
-- [Leave to Engage in Voluntary Emergency Management (cl. 72A) · Nurses & Midwives](/ebas/nurses-midwives/leave/72A-leave-to-engage-in-voluntary-emergency-management/)
-- [Cultural and Ceremonial leave (cl. 73) · Nurses & Midwives](/ebas/nurses-midwives/leave/73-cultural-and-ceremonial-leave/)
-- [Foster and Kinship Care (cl. 74A) · Nurses & Midwives](/ebas/nurses-midwives/leave/74A-foster-and-kinship-care/)
-- [Incident Reporting, Investigation and Prevention (cl. 100) · Nurses & Midwives](/ebas/nurses-midwives/ohs/100-incident-reporting-investigation-and-prevention/)
-- [Occupational Violence and Aggression Prevention and (cl. 103) · Nurses & Midwives](/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and/)
-- [Anti-Discrimination (cl. 10) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/10-anti-discrimination/)
-- [Gender Based Discrimination (cl. 10A) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination/)
-- [Coverage (cl. 5) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/5-coverage/)
-- [Incidence and Application (cl. 6) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/6-incidence-and-application/)
-- [Date and Period of Operation (cl. 7) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/7-date-and-period-of-operation/)
-- [Copy of Agreement (cl. 8) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/8-copy-of-agreement/)
-- [No Extra Claims (cl. 9) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/9-no-extra-claims/)
-- [Undergraduate Employment Models (cl. 106) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models/)
-- [Midwifery Continuity of Care Models (cl. 107) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models/)
-- [Salary (cl. 25) · Nurses & Midwives](/ebas/nurses-midwives/wages/25-salary/)
-- [Payment of Wages, Employee Records and Related Matters (cl. 26) · Nurses & Midwives](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters/)
-- [Superannuation (cl. 27) · Nurses & Midwives](/ebas/nurses-midwives/wages/27-superannuation/)
-- [Compensation Make-up Pay (cl. 29) · Nurses & Midwives](/ebas/nurses-midwives/wages/29-compensation-make-up-pay/)
+### Allied Health
+
+- [10. Anti Discrimination - Allied Health](/ebas/allied-health/preliminary/10-anti-discrimination/)
+- [2. Arrangement - Allied Health](/ebas/allied-health/preliminary/2-arrangement/)
+- [5. Incidence Coverage - Allied Health](/ebas/allied-health/preliminary/5-incidence-coverage/)
+- [6. Commencement Date And Period Of Operation - Allied Health](/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation/)
+- [7. Relationship To Previous Industrial Instruments And The NES - Allied Health](/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the/)
+- [8. Copy of Agreement - Allied Health](/ebas/allied-health/preliminary/8-copy-of-agreement/)
+- [9. No Extra Claims - Allied Health](/ebas/allied-health/preliminary/9-no-extra-claims/)
+- [Preliminary - Allied Health](/ebas/allied-health/preliminary/)
+
+### Biomedical Engineers
+
+- [1. Title - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/1-title/)
+- [10. Anti Discrimination - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/10-anti-discrimination/)
+- [3. Arrangement - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/3-arrangement/)
+- [5. Coverage - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/5-coverage/)
+- [6. Commencement Date And Period Of Operation - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/6-commencement-date-and-period-of-operation/)
+- [7. No Extra Claims - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/7-no-extra-claims/)
+- [8. Relationship To Previous Industrial Instruments and the NES - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/8-relationship-to-previous-industrial-instruments-and/)
+- [9. Copy Of Agreement - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/9-copy-of-agreement/)
+- [Preliminary - Biomedical Engineers](/ebas/biomedical-engineers/preliminary/)
+
+### Children's Services
+
+- [1. Title - Children's Services](/ebas/childrens-services/application-operation/1-title/)
+- [2. Commencement And Transitional - Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
+- [3. Definitions And Interpretation - Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
+- [4. Coverage - Children's Services](/ebas/childrens-services/application-operation/4-coverage/)
+- [5. Access To The Award And The National Employment Standards - Children's Services](/ebas/childrens-services/application-operation/5-access-to-the-award-and-the-national-employment-standards/)
+- [6. The National Employment Standards And This Award - Children's Services](/ebas/childrens-services/application-operation/6-the-national-employment-standards-and-this-award/)
+
+### Doctors In Training
+
+- [1. Title - Doctors In Training](/ebas/doctors-in-training/preliminary/1-title/)
+- [2. Arrangement - Doctors In Training](/ebas/doctors-in-training/preliminary/2-arrangement/)
+- [3. Definitions - Doctors In Training](/ebas/doctors-in-training/preliminary/3-definitions/)
+- [4. Coverage - Doctors In Training](/ebas/doctors-in-training/preliminary/4-coverage/)
+- [5. Date And Period Of Operation - Doctors In Training](/ebas/doctors-in-training/preliminary/5-date-and-period-of-operation/)
+- [6. Relationship To Previous Awards Agreements And The NES - Doctors In Training](/ebas/doctors-in-training/preliminary/6-relationship-to-previous-awards-agreements-and-the-nes/)
+- [7. Savings - Doctors In Training](/ebas/doctors-in-training/preliminary/7-savings/)
+- [8. No Extra Claims - Doctors In Training](/ebas/doctors-in-training/preliminary/8-no-extra-claims/)
+- [9. Nature Of Relationship - Doctors In Training](/ebas/doctors-in-training/preliminary/9-nature-of-relationship/)
+- [Preliminary - Doctors In Training](/ebas/doctors-in-training/preliminary/)
+
+### Health Allied & Managers Admin
+
+- [11. Anti Discrimination - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination/)
+- [2. Application Of Section 2 - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/preliminary/2-application-of-section-2/)
+- [2. Application Of Section 3 - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3/)
+- [3. Arrangement Of The Agreement - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement/)
+- [3. Definitions - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/preliminary/3-definitions/)
+- [4. Application Of This Section - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/4-application-of-this-section/)
+- [5. Incidence Coverage - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage/)
+- [6. Definitions - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/6-definitions/)
+- [7. Commencement Date And Period Of Operation - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation/)
+- [8. Relationship To Previous Industrial Instruments - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/8-relationship-to-previous-industrial-instruments/)
+- [9. No Extra Claims - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims/)
+- [Preliminary - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/)
+- [Preliminary - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/preliminary/)
+- [Preliminary - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/preliminary/)
+
+### Medical Scientists, Pharm & Psych
+
+- [1. Title - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/1-title/)
+- [10. Anti Discrimination - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/10-anti-discrimination/)
+- [2. Arrangement - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/2-arrangement/)
+- [4. Commencement Date And Period Of Operation - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/4-commencement-date-and-period-of-operation/)
+- [6. Savings Clause - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/6-savings-clause/)
+- [7. No Extra Claims - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/7-no-extra-claims/)
+- [8. Posting Of Agreement - Medical Scientists, Pharm & Psych](/ebas/mspp/operation/8-posting-of-agreement/)
+
+### Medical Specialists
+
+- [1. Title - Medical Specialists](/ebas/medical-specialists/preliminary/1-title/)
+- [2. Arrangement - Medical Specialists](/ebas/medical-specialists/preliminary/2-arrangement/)
+- [3. Definitions - Medical Specialists](/ebas/medical-specialists/preliminary/3-definitions/)
+- [4. Coverage - Medical Specialists](/ebas/medical-specialists/preliminary/4-coverage/)
+- [5. Date And Period Of Operation - Medical Specialists](/ebas/medical-specialists/preliminary/5-date-and-period-of-operation/)
+- [6. Application And Relationship To The Nes - Medical Specialists](/ebas/medical-specialists/preliminary/6-application-and-relationship-to-the-nes/)
+- [8. No Extra Claims - Medical Specialists](/ebas/medical-specialists/preliminary/8-no-extra-claims/)
+- [Preliminary - Medical Specialists](/ebas/medical-specialists/preliminary/)
+
+### Mental Health
+
+- [10. Coverage - Mental Health](/ebas/mental-health/common-terms/preliminary/10-coverage/)
+- [11. Incidence And Operation Of This Agreement - Mental Health](/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement/)
+- [12. Implementation Committees - Mental Health](/ebas/mental-health/common-terms/preliminary/12-implementation-committees/)
+- [13. No Further Claims - Mental Health](/ebas/mental-health/common-terms/preliminary/13-no-further-claims/)
+- [14. Copy Of Agreement - Mental Health](/ebas/mental-health/common-terms/preliminary/14-copy-of-agreement/)
+- [15. Savings Clause - Mental Health](/ebas/mental-health/common-terms/preliminary/15-savings-clause/)
+- [16. Anti Discrimination - Mental Health](/ebas/mental-health/common-terms/preliminary/16-anti-discrimination/)
+- [17. Gender Based Discrimination - Mental Health](/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination/)
+- [4. Division Into Sections And Schedules - Mental Health](/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules/)
+- [5. Application Of Section 2 - Mental Health](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2/)
+- [6. Application Of Section 3 - Mental Health](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3/)
+- [7. Application Of Section 4 - Mental Health](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4/)
+- [8. Application Of Section 5 - Mental Health](/ebas/mental-health/common-terms/preliminary/8-application-of-section-5/)
+- [Preliminary - Mental Health](/ebas/mental-health/management-admin/preliminary/)
+- [Preliminary - Mental Health](/ebas/mental-health/common-terms/preliminary/)
+- [Preliminary - Mental Health](/ebas/mental-health/rpn-pen-mho/preliminary/)
+- [Preliminary - Mental Health](/ebas/mental-health/health-professionals/preliminary/)
+- [Preliminary - Mental Health](/ebas/mental-health/support-services/preliminary/)
+
+### Nurses & Midwives
+
+- [10. Anti Discrimination - Nurses & Midwives](/ebas/nurses-midwives/preliminary/10-anti-discrimination/)
+- [5. Coverage - Nurses & Midwives](/ebas/nurses-midwives/preliminary/5-coverage/)
+- [8. Copy Of Agreement - Nurses & Midwives](/ebas/nurses-midwives/preliminary/8-copy-of-agreement/)
+- [9. No Extra Claims - Nurses & Midwives](/ebas/nurses-midwives/preliminary/9-no-extra-claims/)
+- [Preliminary - Nurses & Midwives](/ebas/nurses-midwives/preliminary/)
 
 ## professional-development
 
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
+### Doctors In Training
+
+- [47. Continuing Medical Education Allowance - Doctors In Training](/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance/)
+
+### Health Allied & Managers Admin
+
+- [15. Professional Development Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/education-pd/15-professional-development-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [73. Professional Development Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/73-professional-development-leave/)
+- [75. Reimbursement Of Professional Development Leave Expenses - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave/)
+- [Schedule 14 - Professional Development Expenses Standard Claim Form - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/14-professional-development-expenses-standard-claim-form/)
+
+### Medical Specialists
+
+- [41. Continuing Medical Education Support - Medical Specialists](/ebas/medical-specialists/allowances/41-continuing-medical-education-support/)
+- [59. Continuing Medical Education Leave - Medical Specialists](/ebas/medical-specialists/leave/59-continuing-medical-education-leave/)
+- [Appendix 3 - Continuing Medical Education Standard Claim Form - Medical Specialists](/ebas/medical-specialists/appendices/3-continuing-medical-education-standard-claim-form/)
+
+### Mental Health
+
+- [136. Professional Development Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/136-professional-development-leave/)
+- [218. Professional Development Leave - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/education-pd/218-professional-development-leave-royal-children-s/)
+- [99. Professional Development Leave - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave/)
+
+### Nurses & Midwives
+
+- [75. Professional Development Leave - Nurses & Midwives](/ebas/nurses-midwives/education-pd/75-professional-development-leave/)
 
 ## public-holidays
 
-- [Working Away from Home (cl. 43) · Allied Health](/ebas/allied-health/allowances/43-working-away-from-home/)
-- [Public Holidays (cl. 58) · Allied Health](/ebas/allied-health/leave/58-public-holidays/)
-- [Public Holidays (cl. 50) · Biomedical Engineers](/ebas/biomedical-engineers/leave/50-public-holidays/)
-- [Ceremonial Leave (cl. 66) · Biomedical Engineers](/ebas/biomedical-engineers/leave/66-ceremonial-leave/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Annual leave (cl. 60) · Doctors In Training](/ebas/doctors-in-training/leave/60-annual-leave/)
-- [Public holidays (cl. 63) · Doctors In Training](/ebas/doctors-in-training/leave/63-public-holidays/)
-- [Public Holidays (cl. 69) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/69-public-holidays/)
-- [Public Holidays (cl. 56) · Medical Specialists](/ebas/medical-specialists/leave/56-public-holidays/)
-- [CATT On-call/ Recall Allowances (cl. 133) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances/)
-- [On-Call/Recall allowance (non-CATT) (cl. 134) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt/)
-- [Public Holidays (cl. 135) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/leave/135-public-holidays/)
-- [On-Call/Recall (cl. 202) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/202-on-call-recall/)
-- [Public Holidays (cl. 213) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/leave/213-public-holidays/)
-- [Oncall/Recall (non CATT) (cl. 91) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt/)
-- [CATT On-call/ Recall Allowances (cl. 92) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances/)
-- [Public Holidays (cl. 98) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays/)
-- [On-Call/Recall (cl. 168) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/168-on-call-recall/)
-- [Public Holidays (cl. 179) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/179-public-holidays/)
-- [On-Call/Re-Call (cl. 60) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/60-on-call-re-call/)
-- [Public Holidays (cl. 80) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/80-public-holidays/)
+### Allied Health
+
+- [58. Public Holidays - Allied Health](/ebas/allied-health/leave/58-public-holidays/)
+
+### Biomedical Engineers
+
+- [50. Public Holidays - Biomedical Engineers](/ebas/biomedical-engineers/leave/50-public-holidays/)
+
+### Children's Services
+
+- [27. Public Holidays - Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
+
+### Doctors In Training
+
+- [63. Public Holidays - Doctors In Training](/ebas/doctors-in-training/leave/63-public-holidays/)
+
+### Health Allied & Managers Admin
+
+- [69. Public Holidays - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/69-public-holidays/)
+
+### Medical Scientists, Pharm & Psych
+
+- [80. Public Holidays - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/80-public-holidays/)
+
+### Mental Health
+
+- [135. Public Holidays - Mental Health](/ebas/mental-health/health-professionals/leave/135-public-holidays/)
+- [179. Public Holidays - Mental Health](/ebas/mental-health/support-services/preliminary/179-public-holidays/)
+- [213. Public Holidays - Mental Health](/ebas/mental-health/management-admin/leave/213-public-holidays/)
+- [98. Public Holidays - Mental Health](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays/)
 
 ## purchased-leave
 
-- [Purchased Leave (cl. 54) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
-- [Purchased Leave (cl. 63) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/63-purchased-leave/)
+### Health Allied & Managers Admin
+
+- [54. Purchased Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [63. Purchased Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/63-purchased-leave/)
 
 ## qualification-allowance
 
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## rates
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 2 - Rates of Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## redundancy
 
-- [Redundancy and Related Entitlements (cl. 25) · Allied Health](/ebas/allied-health/employment/25-redundancy-and-related-entitlements/)
-- [Redundancy and Associated Entitlements (cl. 24) · Biomedical Engineers](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Redundancy and Associated Entitlements (cl. 11) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements/)
-- [Redundancy and Associated Entitlements (cl. 26) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/)
-- [Redundancy and Associated Entitlements (cl. 10) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements/)
-- [Redundancy and Associated Entitlements (cl. 20) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements/)
-- [Redundancy and Associated Entitlements (cl. 32) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
-- [Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl/)
-- [Travelling and Relocation (cl. 37) · Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
-- [Redundancy and Associated Entitlements (cl. 12) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements/)
+### Allied Health
+
+- [25. Redundancy And Related Entitlements - Allied Health](/ebas/allied-health/employment/25-redundancy-and-related-entitlements/)
+
+### Biomedical Engineers
+
+- [24. Redundancy And Associated Entitlements - Biomedical Engineers](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements/)
+
+### Children's Services
+
+- [12. Redundancy - Children's Services](/ebas/childrens-services/employment/12-redundancy/)
+- [19. Payment Of Wages - Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
+
+### Doctors In Training
+
+- [11. Redundancy And Associated Entitlements - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements/)
+
+### Health Allied & Managers Admin
+
+- [26. Redundancy And Associated Entitlements - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/)
+
+### Medical Scientists, Pharm & Psych
+
+- [32. Redundancy And Associated Entitlements - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
+- [Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl/)
+
+### Medical Specialists
+
+- [10. Redundancy And Associated Entitlements - Medical Specialists](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements/)
+
+### Mental Health
+
+- [20. Redundancy And Associated Entitlements - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements/)
+
+### Nurses & Midwives
+
+- [12. Redundancy And Associated Entitlements - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements/)
+- [37. Travelling And Relocation - Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
+
+## rehabilitation-leave
+
+### Mental Health
+
+- [38H. Rehabilitation Leave - Mental Health](/ebas/mental-health/common-terms/leave/38H-rehabilitation-leave/)
 
 ## remuneration
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Schedule 3C - Allowances (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+- [Remuneration - Doctors In Training](/ebas/doctors-in-training/remuneration/)
+
+### Health Allied & Managers Admin
+
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 2C - Allowances (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+- [Schedule 3C - Allowances (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 2 - Rates of Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## reproductive-health-leave
 
-- [Reproductive Health Leave (cl. 38G) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave/)
+### Mental Health
+
+- [38G. Reproductive Health Leave - Mental Health](/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave/)
 
 ## right-to-disconnect
 
-- [Dispute resolution (cl. 9) · Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
-- [Employee right to disconnect (cl. 21A) · Children's Services](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect/)
-- [Right to Disconnect (cl. 36) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/36-right-to-disconnect/)
-- [Right to Disconnect (Supplementary Roster) (cl. 95A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
-- [Right to Disconnect (cl. 52) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect/)
+### Children's Services
+
+- [21A. Employee Right To Disconnect - Children's Services](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect/)
+- [9. Dispute Resolution - Children's Services](/ebas/childrens-services/consultation-disputes/9-dispute-resolution/)
+
+### Mental Health
+
+- [36. Right To Disconnect - Mental Health](/ebas/mental-health/common-terms/allowances/36-right-to-disconnect/)
+- [95A. Right To Disconnect (Supplementary Roster) - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
+
+### Nurses & Midwives
+
+- [52. Right To Disconnect - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect/)
 
 ## rosters
 
-- [Allowances Related to Overtime and On-call (cl. 36) · Allied Health](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call/)
-- [Shift Work Allowance (cl. 38) · Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
-- [Safe Rostering and Fatigue (cl. 90A) · Allied Health](/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue/)
-- [Consultation about Changes to Rosters or Hours of (cl. 13A) · Allied Health](/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
-- [Accrued Days Off (cl. 48) · Allied Health](/ebas/allied-health/hours-of-work/48-accrued-days-off/)
-- [Breaks (cl. 49) · Allied Health](/ebas/allied-health/hours-of-work/49-breaks/)
-- [Roster (cl. 50) · Allied Health](/ebas/allied-health/hours-of-work/50-roster/)
-- [Rates for Saturdays and Sundays (cl. 51) · Allied Health](/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays/)
-- [Recall – Return to Workplace (cl. 53) · Allied Health](/ebas/allied-health/hours-of-work/53-recall-return-to-workplace/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 55) · Allied Health](/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 56) · Allied Health](/ebas/allied-health/hours-of-work/56-daylight-savings/)
-- [Industry OHS Working Group (cl. 98) · Allied Health](/ebas/allied-health/ohs/98-industry-ohs-working-group/)
-- [Shift Allowances (cl. 34) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/34-shift-allowances/)
-- [Travelling Allowance (cl. 36) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/36-travelling-allowance/)
-- [Allowances Related to Overtime and On-call (cl. 39) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call/)
-- [Accrued Days Off (cl. 41) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off/)
-- [Rosters (cl. 44) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/44-rosters/)
-- [Rates for Saturdays & Sundays (cl. 45) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays/)
-- [Recall (cl. 47) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/47-recall/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 48) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 49) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/49-daylight-savings/)
-- [Index (cl. 2) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/2-index/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
-- [Consultation about changes to rosters or hours of work (cl. 8A) · Children's Services](/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Employee right to disconnect (cl. 21A) · Children's Services](/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Public holidays (cl. 27) · Children's Services](/ebas/childrens-services/leave/27-public-holidays/)
-- [Higher duties (cl. 51) · Doctors In Training](/ebas/doctors-in-training/allowances/51-higher-duties/)
-- [Child care costs reimbursement – out of hours work (cl. 57) · Doctors In Training](/ebas/doctors-in-training/allowances/57-child-care-costs-reimbursement-out-of-hours-work/)
-- [Consultation about changes to rosters or hours of work (cl. 10A) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Rotation to a General Practice Training Program (cl. 31) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program/)
-- [Examination leave (cl. 49) · Doctors In Training](/ebas/doctors-in-training/education-pd/49-examination-leave/)
-- [24 / 7 Rostering (cl. 33A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering/)
-- [Training Time (cl. 34) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/34-training-time/)
-- [Rosters (cl. 35) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/35-rosters/)
-- [Overtime (cl. 36) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/36-overtime/)
-- [On-call (cl. 38) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/38-on-call/)
-- [Recall – Return to Workplace (cl. 39) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace/)
-- [Recall – Without Returning to Workplace (cl. 39A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace/)
-- [Workload Management and Review (cl. 41) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
-- [Daylight Saving (cl. 42B) · Doctors In Training](/ebas/doctors-in-training/remuneration/42B-daylight-saving/)
-- [Flexibility (cl. 76) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/76-flexibility/)
-- [Rosters (cl. 48) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/48-rosters/)
-- [Rosters (DHSV) (cl. 23) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv/)
-- [Roster (cl. 8) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster/)
-- [Travelling allowance (cl. 40) · Medical Specialists](/ebas/medical-specialists/allowances/40-travelling-allowance/)
-- [Childcare costs reimbursement (cl. 42) · Medical Specialists](/ebas/medical-specialists/allowances/42-childcare-costs-reimbursement/)
-- [Consultation about changes to rosters or hours of work (cl. 9A) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Roster design – safe hours of work (cl. 20) · Medical Specialists](/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work/)
-- [Workload Management and review (cl. 21) · Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
-- [Fractional Allocation (Fractional Doctors) (cl. 30) · Medical Specialists](/ebas/medical-specialists/hours-of-work/30-fractional-allocation-fractional-doctors/)
-- [Annual leave (cl. 47) · Medical Specialists](/ebas/medical-specialists/leave/47-annual-leave/)
-- [Daylight Saving (cl. 31B) · Medical Specialists](/ebas/medical-specialists/wages/31B-daylight-saving/)
-- [Consultation about changes to rosters or hours or work (cl. 19) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work/)
-- [Change of Ward Allowance (cl. 121A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance/)
-- [Roster (cl. 124) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/124-roster/)
-- [Rosters (cl. 201A) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/201A-rosters/)
-- [Saturday and Sunday Work (cl. 83) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work/)
-- [Hours of work (cl. 88) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work/)
-- [Rosters (cl. 94) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters/)
-- [Supplementary Roster (cl. 95) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster/)
-- [Right to Disconnect (Supplementary Roster) (cl. 95A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
-- [Accrued Days Off (cl. 97) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/leave/97-accrued-days-off/)
-- [Rosters (cl. 173) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/173-rosters/)
-- [Consultation about changes to rosters or hours of work (cl. 30A) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Employee Rosters (cl. 57) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57-employee-rosters/)
-- [10 Hour Break Consultation – Transitional (cl. 57B) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional/)
-- [Schedule 15 - Rostering Protocols Exemption Agreement · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement/)
-- [Change of Roster Allowance (cl. 40) · Nurses & Midwives](/ebas/nurses-midwives/allowances/40-change-of-roster-allowance/)
-- [Four Clear Days Allowance (cl. 41C) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance/)
-- [Consultation about Changes to Rosters or Hours of Work (cl. 11A) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Accrued Days Off (cl. 43) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off/)
-- [Rosters (cl. 45) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/45-rosters/)
-- [Supplementary Roster and Additional Shifts (cl. 46) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts/)
+### Allied Health
+
+- [13A. Consultation About Changes To Rosters Or Hours Of Work - Allied Health](/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
+- [48. Accrued Days Off - Allied Health](/ebas/allied-health/hours-of-work/48-accrued-days-off/)
+- [50. Roster - Allied Health](/ebas/allied-health/hours-of-work/50-roster/)
+- [90A. Safe Rostering And Fatigue - Allied Health](/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue/)
+
+### Biomedical Engineers
+
+- [13A. Consultation about Changes to Rosters or Hours of Work - Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [41. Accrued Days Off - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off/)
+- [44. Rosters - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/44-rosters/)
+
+### Children's Services
+
+- [21. Ordinary Hours Of Work And Rostering - Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
+- [8A. Consultation About Changes To Rosters Or Hours Of Work - Children's Services](/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work/)
+
+### Doctors In Training
+
+- [10A. Consultation About Changes To Rosters Or Hours Of Work - Doctors In Training](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [33A. 24. 7. Rostering - Doctors In Training](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering/)
+- [35. Rosters - Doctors In Training](/ebas/doctors-in-training/hours-of-work/35-rosters/)
+
+### Health Allied & Managers Admin
+
+- [23. Rosters DHSV - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv/)
+- [48. Rosters - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/48-rosters/)
+- [8. Roster - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster/)
+
+### Medical Scientists, Pharm & Psych
+
+- [30A. Consultation About Changes To Rosters Or Hours Of Work - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [57. Employee Rosters - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/57-employee-rosters/)
+- [Schedule 15 - Rostering Protocols Exemption Agreement - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement/)
+
+### Medical Specialists
+
+- [20. Roster Design Safe Hours Of Work - Medical Specialists](/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work/)
+- [9A. Consultation About Changes To Rosters Or Hours Of Work - Medical Specialists](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work/)
+
+### Mental Health
+
+- [124. Roster - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/124-roster/)
+- [173. Rosters - Mental Health](/ebas/mental-health/support-services/preliminary/173-rosters/)
+- [19. Consultation About Changes To Rosters Or Hours Or Work - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work/)
+- [201A. Rosters - Mental Health](/ebas/mental-health/management-admin/hours-of-work/201A-rosters/)
+- [94. Rosters - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters/)
+- [95. Supplementary Roster - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster/)
+- [95A. Right To Disconnect (Supplementary Roster) - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster/)
+- [97. Accrued Days Off - Mental Health](/ebas/mental-health/rpn-pen-mho/leave/97-accrued-days-off/)
+
+### Nurses & Midwives
+
+- [11A. Consultation About Changes To Rosters Or Hours Of Work - Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work/)
+- [40. Change Of Roster Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/40-change-of-roster-allowance/)
+- [43. Accrued Days Off - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off/)
+- [45. Rosters - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/45-rosters/)
+- [46. Supplementary Roster And Additional Shifts - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts/)
 
 ## sabbatical-leave
 
-- [Sabbatical Leave (cl. 76) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/76-sabbatical-leave/)
+### Medical Scientists, Pharm & Psych
+
+- [76. Sabbatical Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/76-sabbatical-leave/)
 
 ## salary
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+
+### Medical Specialists
+
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## salary-circular
 
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Schedule 3C - Allowances (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Allied Health
+
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+
+### Doctors In Training
+
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 2C - Allowances (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+- [Schedule 3C - Allowances (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 2 - Rates of Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## salary-packaging
 
-- [Salary Packaging (cl. 31) · Allied Health](/ebas/allied-health/wages/31-salary-packaging/)
-- [Salary Packaging (cl. 31) · Biomedical Engineers](/ebas/biomedical-engineers/wages/31-salary-packaging/)
-- [Salary packaging (cl. 44) · Doctors In Training](/ebas/doctors-in-training/remuneration/44-salary-packaging/)
-- [Salary Packaging (cl. 32) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/32-salary-packaging/)
-- [Salary Packaging (cl. 33) · Medical Specialists](/ebas/medical-specialists/wages/33-salary-packaging/)
-- [Salary Packaging (cl. 31) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/31-salary-packaging/)
-- [Salary Packaging (cl. 28) · Nurses & Midwives](/ebas/nurses-midwives/wages/28-salary-packaging/)
+### Allied Health
+
+- [31. Salary Packaging - Allied Health](/ebas/allied-health/wages/31-salary-packaging/)
+
+### Biomedical Engineers
+
+- [31. Salary Packaging - Biomedical Engineers](/ebas/biomedical-engineers/wages/31-salary-packaging/)
+
+### Doctors In Training
+
+- [44. Salary Packaging - Doctors In Training](/ebas/doctors-in-training/remuneration/44-salary-packaging/)
+
+### Health Allied & Managers Admin
+
+- [32. Salary Packaging - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/32-salary-packaging/)
+
+### Medical Specialists
+
+- [33. Salary Packaging - Medical Specialists](/ebas/medical-specialists/wages/33-salary-packaging/)
+
+### Mental Health
+
+- [31. Salary Packaging - Mental Health](/ebas/mental-health/common-terms/wages/31-salary-packaging/)
+
+### Nurses & Midwives
+
+- [28. Salary Packaging - Nurses & Midwives](/ebas/nurses-midwives/wages/28-salary-packaging/)
 
 ## schedules
 
-- [Schedule A - Transitional Provisions · Children's Services · Schedules](/ebas/childrens-services/schedules/a-transitional-provisions/)
-- [Schedule B - Classification Structure · Children's Services · Schedules](/ebas/childrens-services/schedules/b-classification-structure/)
-- [Schedule C - Supported Wage System · Children's Services · Schedules](/ebas/childrens-services/schedules/c-supported-wage-system/)
-- [Schedule D - National Training Wage · Children's Services · Schedules](/ebas/childrens-services/schedules/d-national-training-wage/)
-- [Schedule E - School-based Apprentices · Children's Services · Schedules](/ebas/childrens-services/schedules/e-school-based-apprentices/)
-- [Schedule F - Agreement to Take Annual Leave in Advance · Children's Services · Schedules](/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance/)
-- [Schedule G - Agreement to Cash Out Annual Leave · Children's Services · Schedules](/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave/)
-- [Schedule H - Agreement for Time Off Instead Of Payment for Overtime · Children's Services · Schedules](/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
-- [Schedule 1A - Employers Covered · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/1a-employers-covered/)
-- [Schedule 1B - Supported Wage System for Employees with a Disability · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
-- [Schedule 2D - Classification Structure (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Schedule 3C - Allowances (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
-- [Schedule 3D - Classification Structure (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers/)
-- [Schedule 3E - Workplace Trainer / Careers Advisor · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3e-workplace-trainer-careers-advisor/)
-- [Schedule 3F - Worker Wellbeing Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3f-worker-wellbeing-officer/)
-- [Schedule 3G - Aboriginal Employment Support Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3g-aboriginal-employment-support-officer/)
-- [Schedule 3H - Disability Employment Support Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3h-disability-employment-support-officer/)
-- [Schedule 3I - Veteran Employment Support Officer · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3i-veteran-employment-support-officer/)
-- [Schedule 1 - List of Employers · Mental Health · Schedules](/ebas/mental-health/schedules/01-list-of-employers/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Schedule 3 - Role Statement - Mental Health Clinical Educator · Mental Health · Schedules](/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator/)
-- [Schedule 4 - PCNS and RPN 2 Advanced Application Process · Mental Health · Schedules](/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process/)
-- [Schedule 5 - Classification Definitions Applying to Health Professionals · Mental Health · Schedules](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals/)
-- [Schedule 6 - Support Services Employee Classifications · Mental Health · Schedules](/ebas/mental-health/schedules/06-support-services-employee-classifications/)
-- [Schedule 7 - Management and Administrative Officers Classifications · Mental Health · Schedules](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications/)
-- [Schedule 8 - Letter of Appointment · Mental Health · Schedules](/ebas/mental-health/schedules/08-letter-of-appointment/)
-- [Schedule 9 - Certificate of Service · Mental Health · Schedules](/ebas/mental-health/schedules/09-certificate-of-service/)
-- [Schedule 10 - Minimum Staffing Levels · Mental Health · Schedules](/ebas/mental-health/schedules/10-minimum-staffing-levels/)
-- [Schedule 11 - Additional Staffing · Mental Health · Schedules](/ebas/mental-health/schedules/11-additional-staffing/)
-- [Schedule 1 - Employer Parties · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/1-employer-parties/)
-- [Schedule 10 - St Vincent's Health (Melbourne) Ltd. General Conditions Agreement · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme/)
-- [Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at/)
-- [Schedule 12 - Additional Consultation and Redundancy and Associated Entitlements · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl/)
-- [Schedule 13 - Pharmacist Weekend Ordinary Hours · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours/)
-- [Schedule 14 - Professional Development Expenses Standard Claim Form · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/14-professional-development-expenses-standard-claim-form/)
-- [Schedule 15 - Rostering Protocols Exemption Agreement · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement/)
-- [Schedule 16 - SHPA Ratios - Pharmacist Staffing Levels · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels/)
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Schedule 4 - Alfred Health General Conditions · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/4-alfred-health-general-conditions/)
-- [Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital - Clinical Perfusionists · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica/)
-- [Schedule 6 - Eastern Health Turning Point Research and Education Employees · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee/)
-- [Schedule 7 - Maintenance of Public Sector Employment · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/7-maintenance-of-public-sector-employment/)
-- [Schedule 8 - Royal Women's Hospital, Royal Children's Hospital General Employment · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp/)
-- [Schedule 9 - Royal Children's Hospital - Clinical Perfusionists · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists/)
+### Children's Services
+
+- [Schedule A - Transitional Provisions - Children's Services](/ebas/childrens-services/schedules/a-transitional-provisions/)
+- [Schedule B - Classification Structure - Children's Services](/ebas/childrens-services/schedules/b-classification-structure/)
+- [Schedule C - Supported Wage System - Children's Services](/ebas/childrens-services/schedules/c-supported-wage-system/)
+- [Schedule D - National Training Wage - Children's Services](/ebas/childrens-services/schedules/d-national-training-wage/)
+- [Schedule E - School Based Apprentices - Children's Services](/ebas/childrens-services/schedules/e-school-based-apprentices/)
+- [Schedule F - Agreement To Take Annual Leave In Advance - Children's Services](/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance/)
+- [Schedule G - Agreement To Cash Out Annual Leave - Children's Services](/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave/)
+- [Schedule H - Agreement For Time Off Instead Of Payment For Overtime - Children's Services](/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
+- [Schedules - Children's Services](/ebas/childrens-services/schedules/)
+
+### Health Allied & Managers Admin
+
+- [Schedules - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedules - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/)
+
+### Mental Health
+
+- [Schedules - Mental Health](/ebas/mental-health/schedules/)
 
 ## screening
 
-- [Police Check/Certificate (cl. 14) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate/)
-- [Working with Children Check (cl. 15) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check/)
+### Health Allied & Managers Admin
+
+- [14. Police Check Certificate - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate/)
+- [15. Working With Children Check - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check/)
 
 ## shift-allowances
 
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Schedule 2C - Allowances (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
-- [Schedule 3C - Allowances (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Schedule 3 - Classification Descriptors and Higher Qualification Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
+### Health Allied & Managers Admin
+
+- [Schedule 2C - Allowances (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/)
+- [Schedule 3C - Allowances (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 3 - Allowances & Other Payments - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc/)
+
+### Mental Health
+
+- [Schedule 2 - Salaries and Allowances - Mental Health](/ebas/mental-health/schedules/02-salaries-and-allowances/)
+
+### Nurses & Midwives
+
+- [Appendix 2 - Wages and Allowances - Nurses & Midwives](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
 
 ## shift-work
 
-- [Increases to Allowances (cl. 33) · Allied Health](/ebas/allied-health/allowances/33-increases-to-allowances/)
-- [Allowances Related to Overtime and On-call (cl. 36) · Allied Health](/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call/)
-- [Shift Work Allowance (cl. 38) · Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
-- [Change of Shift Allowance (cl. 39) · Allied Health](/ebas/allied-health/allowances/39-change-of-shift-allowance/)
-- [Travelling and Relocation (cl. 42A) · Allied Health](/ebas/allied-health/allowances/42A-travelling-and-relocation/)
-- [Lead Apron Allowance (cl. 44A) · Allied Health](/ebas/allied-health/allowances/44A-lead-apron-allowance/)
-- [Part-Time Employment (cl. 19) · Allied Health](/ebas/allied-health/employment/19-part-time-employment/)
-- [Breaks (cl. 49) · Allied Health](/ebas/allied-health/hours-of-work/49-breaks/)
-- [Daylight Savings (cl. 56) · Allied Health](/ebas/allied-health/hours-of-work/56-daylight-savings/)
-- [Make-up Time (cl. 57) · Allied Health](/ebas/allied-health/hours-of-work/57-make-up-time/)
-- [Pre-Natal Leave (cl. 68) · Allied Health](/ebas/allied-health/leave/68-pre-natal-leave/)
-- [Shift Allowances (cl. 34) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/34-shift-allowances/)
-- [Allowances Related to Overtime and On-call (cl. 39) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call/)
-- [Meal Breaks (cl. 42) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/42-meal-breaks/)
-- [Rest Period After Overtime/Recall – Ten Hour Break (cl. 48) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break/)
-- [Daylight Savings (cl. 49) · Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/49-daylight-savings/)
-- [Pre-Natal Leave (cl. 59) · Biomedical Engineers](/ebas/biomedical-engineers/leave/59-pre-natal-leave/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Breaks (cl. 22) · Children's Services](/ebas/childrens-services/hours-of-work/22-breaks/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Allowances (cl. 15) · Children's Services](/ebas/childrens-services/wages/15-allowances/)
-- [Higher duties (cl. 18) · Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
-- [Meal allowance (cl. 53) · Doctors In Training](/ebas/doctors-in-training/allowances/53-meal-allowance/)
-- [24 / 7 Rostering (cl. 33A) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering/)
-- [Penalty payments (cl. 37) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/37-penalty-payments/)
-- [Prenatal leave (cl. 65) · Doctors In Training](/ebas/doctors-in-training/leave/65-prenatal-leave/)
-- [Daylight Saving (cl. 42B) · Doctors In Training](/ebas/doctors-in-training/remuneration/42B-daylight-saving/)
-- [Lead Apron Allowance (cl. 37) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance/)
-- [Meal Allowances (cl. 39) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances/)
-- [Shiftwork (cl. 45) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
-- [Daylight Saving (cl. 49) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/49-daylight-saving/)
-- [Meal Breaks (cl. 50) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/)
-- [Pre-Natal Leave (cl. 57) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/)
-- [Higher Duties (cl. 9) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties/)
-- [Hours of Work (cl. 22) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work/)
-- [Overtime (cl. 25) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/)
-- [Hours of Work (cl. 7) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work/)
-- [Prenatal leave (cl. 52) · Medical Specialists](/ebas/medical-specialists/leave/52-prenatal-leave/)
-- [Daylight Saving (cl. 31B) · Medical Specialists](/ebas/medical-specialists/wages/31B-daylight-saving/)
-- [Shift Penalty Payments (cl. 36) · Medical Specialists](/ebas/medical-specialists/wages/36-shift-penalty-payments/)
-- [Daylight Saving (cl. 37) · Mental Health · Common Terms](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 49) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/49-pre-natal-leave-and-assisted-reproduction/)
-- [Higher duties allowance (cl. 115) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/115-higher-duties-allowance/)
-- [Shift work allowance (cl. 119) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance/)
-- [Change of Ward Allowance (cl. 121A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance/)
-- [Hours of work (cl. 122) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work/)
-- [Make up time (cl. 126) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/126-make-up-time/)
-- [Meal interval (cl. 127) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/127-meal-interval/)
-- [Meal Allowances (cl. 193) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/193-meal-allowances/)
-- [Shift Work Allowances (cl. 194) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/194-shift-work-allowances/)
-- [Hours of Work (cl. 199) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/199-hours-of-work/)
-- [Ward Clerk Staffing (cl. 210A) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/210A-ward-clerk-staffing/)
-- [Annualised Salaries - Royal Children's Hospital (cl. 190) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/190-annualised-salaries-royal-children-s-hospital/)
-- [Change of Shift Allowance – PEN and MHO (cl. 75) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho/)
-- [Higher Duties Allowance (cl. 78) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/78-higher-duties-allowance/)
-- [Meal Allowance (cl. 79) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/79-meal-allowance/)
-- [Travelling and Relocation Allowance (cl. 82) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance/)
-- [Shift Allowances (cl. 84) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances/)
-- [Change of Ward Allowance (cl. 84A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance/)
-- [Workload Management (cl. 102) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management/)
-- [Hours of work (cl. 88) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work/)
-- [Make-up time (cl. 90) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90-make-up-time/)
-- [Permanent Night Shift (cl. 90A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift/)
-- [Night Shift Rostering Principles (other than permanent night (cl. 90B) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night/)
-- [Proposals to Vary Specific Matters (cl. 90C) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters/)
-- [Ten Hour break between overtime/recall (cl. 93) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall/)
-- [Rest and Meal Breaks (cl. 96) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks/)
-- [Definitions Specific to Section 2 (cl. 70) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/preliminary/70-definitions-specific-to-section-2/)
-- [Meal Allowances (cl. 155) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/155-meal-allowances/)
-- [Shift Work Allowances (cl. 157) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/157-shift-work-allowances/)
-- [Higher Duties (cl. 163) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/163-higher-duties/)
-- [Hours of Work (cl. 164) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/164-hours-of-work/)
-- [Shiftwork (cl. 178) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
-- [Clinical Perfusionists (cl. 41) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/41-clinical-perfusionists/)
-- [Hours of Work (cl. 55) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/55-hours-of-work/)
-- [Shift Work (cl. 56) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/56-shift-work/)
-- [Meal Intervals and Rest intervals (cl. 58) · Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals/)
-- [Excess Annual Leave (cl. 62) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/62-excess-annual-leave/)
-- [Pre-Natal Leave (cl. 68) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/68-pre-natal-leave/)
-- [Allowances (cl. 30) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30-allowances/)
-- [Lead Apron Allowance (cl. 30A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/30A-lead-apron-allowance/)
-- [Sole Midwife Allowance (cl. 32B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32B-sole-midwife-allowance/)
-- [Allowances Related to Overtime (cl. 33) · Nurses & Midwives](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime/)
-- [Shift Allowance (cl. 34) · Nurses & Midwives](/ebas/nurses-midwives/allowances/34-shift-allowance/)
-- [Higher Duties (cl. 35) · Nurses & Midwives](/ebas/nurses-midwives/allowances/35-higher-duties/)
-- [Travelling and Relocation (cl. 37) · Nurses & Midwives](/ebas/nurses-midwives/allowances/37-travelling-and-relocation/)
-- [Change of Shift Allowance Preservation – ENs only (cl. 41) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41-change-of-shift-allowance-preservation-ens-only/)
-- [Hyperbaric Allowance (cl. 41B) · Nurses & Midwives](/ebas/nurses-midwives/allowances/41B-hyperbaric-allowance/)
-- [Part-time Employment (cl. 18) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/18-part-time-employment/)
-- [Hours of Work (cl. 42) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42-hours-of-work/)
-- [Permanent Night Shift (cl. 42A) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift/)
-- [Night Shift Rostering Principles (other than permanent night (cl. 42B) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night/)
-- [Avoidance and Management of Short Shifts (cl. 47) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/47-avoidance-and-management-of-short-shifts/)
-- [Rest Period after Overtime/Recall (cl. 53) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall/)
-- [Daylight Saving (cl. 55) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/55-daylight-saving/)
-- [Pre-natal Leave and Assisted Reproduction (cl. 66) · Nurses & Midwives](/ebas/nurses-midwives/leave/66-pre-natal-leave-and-assisted-reproduction/)
+### Allied Health
+
+- [38. Shift Work Allowance - Allied Health](/ebas/allied-health/allowances/38-shift-work-allowance/)
+- [39. Change Of Shift Allowance - Allied Health](/ebas/allied-health/allowances/39-change-of-shift-allowance/)
+- [56. Daylight Savings - Allied Health](/ebas/allied-health/hours-of-work/56-daylight-savings/)
+- [57. Make Up Time - Allied Health](/ebas/allied-health/hours-of-work/57-make-up-time/)
+
+### Biomedical Engineers
+
+- [34. Shift Allowances - Biomedical Engineers](/ebas/biomedical-engineers/allowances/34-shift-allowances/)
+- [49. Daylight Savings - Biomedical Engineers](/ebas/biomedical-engineers/hours-of-work/49-daylight-savings/)
+
+### Children's Services
+
+- [23. Overtime And Penalty Rates - Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
+
+### Doctors In Training
+
+- [37. Penalty Payments - Doctors In Training](/ebas/doctors-in-training/hours-of-work/37-penalty-payments/)
+- [42B. Daylight Saving - Doctors In Training](/ebas/doctors-in-training/remuneration/42B-daylight-saving/)
+
+### Health Allied & Managers Admin
+
+- [45. Shiftwork - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/)
+- [49. Daylight Saving - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/hours-of-work/49-daylight-saving/)
+
+### Medical Scientists, Pharm & Psych
+
+- [56. Shift Work - Medical Scientists, Pharm & Psych](/ebas/mspp/hours-of-work/56-shift-work/)
+
+### Medical Specialists
+
+- [31B. Daylight Saving - Medical Specialists](/ebas/medical-specialists/wages/31B-daylight-saving/)
+- [36. Shift Penalty Payments - Medical Specialists](/ebas/medical-specialists/wages/36-shift-penalty-payments/)
+
+### Mental Health
+
+- [119. Shift Work Allowance - Mental Health](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance/)
+- [126. Make Up Time - Mental Health](/ebas/mental-health/health-professionals/hours-of-work/126-make-up-time/)
+- [157. Shift Work Allowances - Mental Health](/ebas/mental-health/support-services/preliminary/157-shift-work-allowances/)
+- [178. Shiftwork - Mental Health](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
+- [194. Shift Work Allowances - Mental Health](/ebas/mental-health/management-admin/allowances/194-shift-work-allowances/)
+- [37. Daylight Saving - Mental Health](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving/)
+- [75. Change Of Shift Allowance - PEN and MHO - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho/)
+- [84. Shift Allowances - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances/)
+- [90. Make Up Time - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/90-make-up-time/)
+- [90A. Permanent Night Shift - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift/)
+- [90B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees) - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night/)
+- [93A. Four Clear Days Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/hours-of-work/93A-four-clear-days-allowance/)
+
+### Nurses & Midwives
+
+- [34. Shift Allowance - Nurses & Midwives](/ebas/nurses-midwives/allowances/34-shift-allowance/)
+- [41. Change Of Shift Allowance Preservation Ens Only - Nurses & Midwives](/ebas/nurses-midwives/allowances/41-change-of-shift-allowance-preservation-ens-only/)
+- [42A. Permanent Night Shift - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift/)
+- [42B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees)  - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night/)
+- [55. Daylight Saving - Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/55-daylight-saving/)
 
 ## staffing
 
-- [Workload Allocation and Safe Staffing (cl. 90) · Allied Health](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing/)
-- [Backfill (cl. 91) · Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
-- [Independent Dispute Resolution Panel (cl. 14A) · Allied Health](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel/)
-- [Overtime (cl. 52) · Allied Health](/ebas/allied-health/hours-of-work/52-overtime/)
-- [Workload (cl. 84) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/84-workload/)
-- [Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only) (cl. 77) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)
-- [Workload Management and Review (cl. 41) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
-- [Replacement of Doctors when on leave (cl. 59) · Doctors In Training](/ebas/doctors-in-training/leave/59-replacement-of-doctors-when-on-leave/)
-- [Best Practice Employment Commitment Committee (cl. 77) · Doctors In Training](/ebas/doctors-in-training/union-matters/77-best-practice-employment-commitment-committee/)
-- [Secure Employment (cl. 77) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment/)
-- [Workload Management (cl. 78) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management/)
-- [Paid Union Meetings (cl. 71) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/71-paid-union-meetings/)
-- [Staffing Flexibility (DHSV) (cl. 48) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv/)
-- [Roster design – safe hours of work (cl. 20) · Medical Specialists](/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work/)
-- [Workload Management and review (cl. 21) · Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
-- [Replacement of Doctors when on leave (cl. 61) · Medical Specialists](/ebas/medical-specialists/leave/61-replacement-of-doctors-when-on-leave/)
-- [Best Practice Employment Commitment Committee (cl. 63) · Medical Specialists](/ebas/medical-specialists/union-matters/63-best-practice-employment-commitment-committee/)
-- [Recruitment to Vacant Position (cl. 55) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position/)
-- [Time Limit on Higher Duties (cl. 56) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/56-time-limit-on-higher-duties/)
-- [Community Health Teams staffing establishment (cl. 57A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/57A-community-health-teams-staffing-establishment/)
-- [Community Workload Management System (CWMS) (cl. 60) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms/)
-- [Crisis Team Workload Management System (CTWMS) (cl. 61) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/61-crisis-team-workload-management-system-ctwms/)
-- [Higher Education Recognition Allowance (cl. 118) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/allowances/118-higher-education-recognition-allowance/)
-- [Staffing (cl. 144A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/144A-staffing/)
-- [Higher Duties (cl. 198) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/198-higher-duties/)
-- [Ward Clerk Staffing (cl. 210A) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/210A-ward-clerk-staffing/)
-- [Higher Duties Allowance (cl. 78) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/78-higher-duties-allowance/)
-- [Staffing (cl. 101) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing/)
-- [Workload Management (cl. 102) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management/)
-- [Permanent Night Shift (cl. 90A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift/)
-- [Proposals to Vary Specific Matters (cl. 90C) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters/)
-- [Schedule 10 - Minimum Staffing Levels · Mental Health · Schedules](/ebas/mental-health/schedules/10-minimum-staffing-levels/)
-- [Schedule 11 - Additional Staffing · Mental Health · Schedules](/ebas/mental-health/schedules/11-additional-staffing/)
-- [Amenities (cl. 184) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/184-amenities/)
-- [Independent Dispute Resolution Panel (cl. 12) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/12-independent-dispute-resolution-panel/)
-- [Schedule 16 - SHPA Ratios - Pharmacist Staffing Levels · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels/)
-- [Workload (cl. 33) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/33-workload/)
-- [Planned and Unplanned Absences (cl. 34) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences/)
-- [Advertising and Filling Vacancies (cl. 35) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/35-advertising-and-filling-vacancies/)
-- [Qualification Allowance (cl. 31) · Nurses & Midwives](/ebas/nurses-midwives/allowances/31-qualification-allowance/)
-- [Endorsed Midwife (cl. 32A) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32A-endorsed-midwife/)
-- [Appendix 7 - NUM/MUM Matrix · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/07-num-mum-matrix/)
-- [RUSON/RUSOM – Classifications (cl. 85) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/85-ruson-rusom-classifications/)
-- [Skill/Mix (cl. 86) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/86-skill-mix/)
-- [Not used (cl. 88) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/88-not-used/)
-- [Deputy Director of Nursing (cl. 89) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/89-deputy-director-of-nursing/)
-- [Staffing – ANUM/AMUM and Above (cl. 90) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above/)
-- [Aged Care (cl. 91) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/91-aged-care/)
-- [Demand Escalation Policy (cl. 92) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/92-demand-escalation-policy/)
-- [Trainee Enrolled Nurses (cl. 94) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/94-trainee-enrolled-nurses/)
-- [No Amalgamation of Wards without Agreement of ANMF and (cl. 11B) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11B-no-amalgamation-of-wards-without-agreement-of-anmf-and/)
-- [Professional Development Leave (cl. 75) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/75-professional-development-leave/)
-- [Permanent Night Shift (cl. 42A) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift/)
-- [Accrued Days Off (cl. 43) · Nurses & Midwives](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off/)
-- [Fitness for Work (cl. 63) · Nurses & Midwives](/ebas/nurses-midwives/leave/63-fitness-for-work/)
-- [Interaction with the Safe Patient Care Act (cl. 105) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act/)
-- [Undergraduate Employment Models (cl. 106) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models/)
-- [Midwifery Continuity of Care Models (cl. 107) · Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models/)
-- [Not used (cl. 81) · Nurses & Midwives](/ebas/nurses-midwives/union-matters/81-not-used/)
+### Allied Health
+
+- [90. Workload Allocation And Safe Staffing - Allied Health](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing/)
+- [91. Backfill - Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
+- [Classification Staffing - Allied Health](/ebas/allied-health/classification-staffing/)
+
+### Biomedical Engineers
+
+- [77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only) - Biomedical Engineers](/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)
+- [Classification Staffing - Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/)
+
+### Doctors In Training
+
+- [41. Workload Management And Review - Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
+
+### Health Allied & Managers Admin
+
+- [48. Staffing Flexibility Dhsv - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv/)
+- [78. Workload Management - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management/)
+- [Classification Staffing - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/)
+- [Classification Staffing - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/classification-staffing/)
+- [Classification Staffing - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/classification-staffing/)
+
+### Medical Scientists, Pharm & Psych
+
+- [Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels/)
+
+### Medical Specialists
+
+- [21. Workload Management And Review - Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
+
+### Mental Health
+
+- [101. Staffing - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing/)
+- [102. Workload Management - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management/)
+- [102A. Staff Replacement - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement/)
+- [144A. Staffing - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/144A-staffing/)
+- [210A. Ward Clerk Staffing - Mental Health](/ebas/mental-health/management-admin/hours-of-work/210A-ward-clerk-staffing/)
+- [57A. Community Health Teams Staffing Establishment - Mental Health](/ebas/mental-health/common-terms/staffing/57A-community-health-teams-staffing-establishment/)
+- [60. Community Workload Management System Cwms - Mental Health](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms/)
+- [61. Crisis Team Workload Management System Ctwms - Mental Health](/ebas/mental-health/common-terms/staffing/61-crisis-team-workload-management-system-ctwms/)
+- [Classification Staffing - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/)
+- [Classification Staffing - Mental Health](/ebas/mental-health/management-admin/classification-staffing/)
+- [Classification Staffing - Mental Health](/ebas/mental-health/rpn-pen-mho/classification-staffing/)
+- [Schedule 10 - Minimum Staffing Levels - Mental Health](/ebas/mental-health/schedules/10-minimum-staffing-levels/)
+- [Schedule 11 - Additional Staffing - Mental Health](/ebas/mental-health/schedules/11-additional-staffing/)
+- [Staffing - Mental Health](/ebas/mental-health/common-terms/staffing/)
+
+### Nurses & Midwives
+
+- [106. Undergraduate Employment Models - Nurses & Midwives](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models/)
+- [90. Staffing Anum Amum And Above - Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above/)
+- [Classification Staffing - Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/)
 
 ## study-leave
 
-- [Study Leave (cl. 80) · Allied Health](/ebas/allied-health/education-pd/80-study-leave/)
-- [Examination Leave (cl. 81) · Allied Health](/ebas/allied-health/education-pd/81-examination-leave/)
-- [Index (cl. 3) · Allied Health](/ebas/allied-health/preliminary/3-index/)
-- [Study Leave (cl. 73) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/73-study-leave/)
-- [Examination Leave (cl. 74) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/74-examination-leave/)
-- [Examination leave (cl. 49) · Doctors In Training](/ebas/doctors-in-training/education-pd/49-examination-leave/)
-- [Conference/seminar leave (cl. 50) · Doctors In Training](/ebas/doctors-in-training/education-pd/50-conference-seminar-leave/)
-- [Study Leave (cl. 31) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
-- [Study Leave (cl. 12) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/)
-- [Continuous Duty (Full-Time Doctors) (cl. 25) · Medical Specialists](/ebas/medical-specialists/hours-of-work/25-continuous-duty-full-time-doctors/)
-- [Study leave (cl. 139) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
-- [Health Professionals (Medicare) Study Leave (cl. 140) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
-- [Discretionary backfill for certain absences (cl. 125) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences/)
-- [Study Leave (cl. 214) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
-- [Study Leave (cl. 99A) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
-- [Study Leave (cl. 180) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/180-study-leave/)
-- [Examination Leave (cl. 71) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/71-examination-leave/)
-- [Study Leave (cl. 72) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/72-study-leave/)
-- [Study Leave (cl. 76) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
-- [Staff Replacement (cl. 78) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/78-staff-replacement/)
+### Allied Health
+
+- [80. Study Leave - Allied Health](/ebas/allied-health/education-pd/80-study-leave/)
+- [81. Examination Leave - Allied Health](/ebas/allied-health/education-pd/81-examination-leave/)
+
+### Biomedical Engineers
+
+- [73. Study Leave - Biomedical Engineers](/ebas/biomedical-engineers/education-pd/73-study-leave/)
+- [74. Examination Leave - Biomedical Engineers](/ebas/biomedical-engineers/education-pd/74-examination-leave/)
+
+### Doctors In Training
+
+- [49. Examination Leave - Doctors In Training](/ebas/doctors-in-training/education-pd/49-examination-leave/)
+- [50. Conference Seminar Leave - Doctors In Training](/ebas/doctors-in-training/education-pd/50-conference-seminar-leave/)
+
+### Health Allied & Managers Admin
+
+- [12. Study Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/)
+- [31. Study Leave - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/)
+
+### Medical Scientists, Pharm & Psych
+
+- [71. Examination Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/71-examination-leave/)
+- [72. Study Leave - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/72-study-leave/)
+
+### Mental Health
+
+- [139. Study Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/139-study-leave/)
+- [140. Health Professionals Medicare Study Leave - Mental Health](/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave/)
+- [180. Study Leave - Mental Health](/ebas/mental-health/support-services/preliminary/180-study-leave/)
+- [214. Study Leave - Mental Health](/ebas/mental-health/management-admin/education-pd/214-study-leave/)
+- [99A. Study Leave - Mental Health](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave/)
+
+### Nurses & Midwives
+
+- [76. Study Leave - Nurses & Midwives](/ebas/nurses-midwives/education-pd/76-study-leave/)
 
 ## superannuation
 
-- [Parental Leave (cl. 70) · Allied Health](/ebas/allied-health/leave/70-parental-leave/)
-- [Superannuation (cl. 30) · Allied Health](/ebas/allied-health/wages/30-superannuation/)
-- [Cashing out of Annual Leave (cl. 52) · Biomedical Engineers](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave/)
-- [Parental Leave (cl. 61) · Biomedical Engineers](/ebas/biomedical-engineers/leave/61-parental-leave/)
-- [Superannuation (cl. 30) · Biomedical Engineers](/ebas/biomedical-engineers/wages/30-superannuation/)
-- [Definitions and interpretation (cl. 3) · Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
-- [Superannuation (cl. 20) · Children's Services](/ebas/childrens-services/wages/20-superannuation/)
-- [Parental Leave (cl. 67) · Doctors In Training](/ebas/doctors-in-training/leave/67-parental-leave/)
-- [Superannuation (cl. 43) · Doctors In Training](/ebas/doctors-in-training/remuneration/43-superannuation/)
-- [Parental Leave (cl. 59) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/59-parental-leave/)
-- [Superannuation (cl. 31) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/31-superannuation/)
-- [Parental Leave (cl. 54) · Medical Specialists](/ebas/medical-specialists/leave/54-parental-leave/)
-- [Superannuation (cl. 32) · Medical Specialists](/ebas/medical-specialists/wages/32-superannuation/)
-- [Parental Leave (cl. 50) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/50-parental-leave/)
-- [Superannuation (cl. 32) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/32-superannuation/)
-- [Superannuation (cl. 54) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/54-superannuation/)
-- [Rural and Isolated Practice Allowance (cl. 32) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance/)
-- [Parental Leave (cl. 68) · Nurses & Midwives](/ebas/nurses-midwives/leave/68-parental-leave/)
-- [Superannuation (cl. 27) · Nurses & Midwives](/ebas/nurses-midwives/wages/27-superannuation/)
+### Allied Health
+
+- [30. Superannuation - Allied Health](/ebas/allied-health/wages/30-superannuation/)
+
+### Biomedical Engineers
+
+- [30. Superannuation - Biomedical Engineers](/ebas/biomedical-engineers/wages/30-superannuation/)
+
+### Children's Services
+
+- [20. Superannuation - Children's Services](/ebas/childrens-services/wages/20-superannuation/)
+
+### Doctors In Training
+
+- [43. Superannuation - Doctors In Training](/ebas/doctors-in-training/remuneration/43-superannuation/)
+
+### Health Allied & Managers Admin
+
+- [31. Superannuation - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/31-superannuation/)
+
+### Medical Scientists, Pharm & Psych
+
+- [54. Superannuation - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/54-superannuation/)
+
+### Medical Specialists
+
+- [32. Superannuation - Medical Specialists](/ebas/medical-specialists/wages/32-superannuation/)
+
+### Mental Health
+
+- [32. Superannuation - Mental Health](/ebas/mental-health/common-terms/wages/32-superannuation/)
+
+### Nurses & Midwives
+
+- [27. Superannuation - Nurses & Midwives](/ebas/nurses-midwives/wages/27-superannuation/)
 
 ## supported-wage
 
-- [Schedule C - Supported Wage System · Children's Services · Schedules](/ebas/childrens-services/schedules/c-supported-wage-system/)
+### Children's Services
+
+- [Schedule C - Supported Wage System - Children's Services](/ebas/childrens-services/schedules/c-supported-wage-system/)
 
 ## termination
 
-- [Advertising Vacancies (cl. 92) · Allied Health](/ebas/allied-health/classification-staffing/92-advertising-vacancies/)
-- [Termination of Employment (cl. 24) · Allied Health](/ebas/allied-health/employment/24-termination-of-employment/)
-- [Termination of Employment (cl. 23) · Biomedical Engineers](/ebas/biomedical-engineers/employment/23-termination-of-employment/)
-- [Consultation about major workplace change (cl. 8) · Children's Services](/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Termination of employment (cl. 11) · Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
-- [Redundancy (cl. 12) · Children's Services](/ebas/childrens-services/employment/12-redundancy/)
-- [Overtime and penalty rates (cl. 23) · Children's Services](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates/)
-- [Annual leave (cl. 24) · Children's Services](/ebas/childrens-services/leave/24-annual-leave/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Termination of Employment (cl. 29) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29-termination-of-employment/)
-- [Certificate of Service (cl. 29A) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
-- [Part-Time Review of Hours (cl. 22) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours/)
-- [Notice of Termination - Employer (cl. 5) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer/)
-- [Notice of Termination - Employee (cl. 6) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee/)
-- [Notice of Termination – Employer (cl. 3) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer/)
-- [Notice of Termination - Employee (cl. 4) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee/)
-- [Application of Section 3 (cl. 2) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3/)
-- [Termination of employment – notice of termination (cl. 23) · Medical Specialists](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination/)
-- [Certificate of Service (cl. 24) · Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
-- [Termination of Employment (cl. 28) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
-- [Recruitment to Vacant Position (cl. 55) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position/)
-- [Notice of Termination (cl. 31) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/31-notice-of-termination/)
-- [Redundancy and Associated Entitlements (cl. 32) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
-- [Victorian Maternal and Child Health Nurse Student (cl. 79A) · Nurses & Midwives](/ebas/nurses-midwives/education-pd/79A-victorian-maternal-and-child-health-nurse-student/)
-- [Notice Period before Termination (cl. 23) · Nurses & Midwives](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination/)
+### Allied Health
+
+- [24. Termination Of Employment - Allied Health](/ebas/allied-health/employment/24-termination-of-employment/)
+
+### Biomedical Engineers
+
+- [23. Termination Of Employment - Biomedical Engineers](/ebas/biomedical-engineers/employment/23-termination-of-employment/)
+
+### Children's Services
+
+- [11. Termination Of Employment - Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
+- [12. Redundancy - Children's Services](/ebas/childrens-services/employment/12-redundancy/)
+
+### Doctors In Training
+
+- [29. Termination Of Employment - Doctors In Training](/ebas/doctors-in-training/doctor-employment/29-termination-of-employment/)
+- [29A. Certificate Of Service - Doctors In Training](/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service/)
+
+### Health Allied & Managers Admin
+
+- [3. Notice Of Termination - Employer - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer/)
+- [4. Notice Of Termination - Employee - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee/)
+- [5. Notice Of Termination - Employer - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer/)
+- [6. Notice Of Termination Employee - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee/)
+
+### Medical Scientists, Pharm & Psych
+
+- [31. Notice Of Termination - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/31-notice-of-termination/)
+- [32. Redundancy And Associated Entitlements - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
+
+### Medical Specialists
+
+- [23. Termination Of Employment Notice Of Termination - Medical Specialists](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination/)
+- [24. Certificate Of Service - Medical Specialists](/ebas/medical-specialists/employment/24-certificate-of-service/)
+
+### Mental Health
+
+- [28. Termination Of Employment - Mental Health](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
+
+### Nurses & Midwives
+
+- [23. Notice Period Before Termination - Nurses & Midwives](/ebas/nurses-midwives/employment-types/23-notice-period-before-termination/)
 
 ## top-of-band
 
-- [Appendix 3 - Allowances and Top of Band Payments - Allied Health - Appendices](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
-- [Appendix 3 - Allowances and Top of Band Payments · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/3-allowances-and-top-of-band-payments/)
+### Allied Health
+
+- [Appendix 3 - Allowances and Top of Band Payments - Allied Health](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments/)
+
+### Biomedical Engineers
+
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
 
 ## training
 
-- [Trainees (cl. 34) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/34-trainees/)
-- [Juniors (cl. 35) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/35-juniors/)
-- [Cooking Trade Proficiency Payments (cl. 15) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/15-cooking-trade-proficiency-payments/)
-- [Apprentices (cl. 8) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/wages/8-apprentices/)
-- [Trainee Scientists (cl. 29) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/29-trainee-scientists/)
+### Health Allied & Managers Admin
+
+- [34. Trainees - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/34-trainees/)
+
+### Medical Scientists, Pharm & Psych
+
+- [29. Trainee Scientists - Medical Scientists, Pharm & Psych](/ebas/mspp/employment/29-trainee-scientists/)
 
 ## training-wage
 
-- [Schedule D - National Training Wage · Children's Services · Schedules](/ebas/childrens-services/schedules/d-national-training-wage/)
+### Children's Services
+
+- [Schedule D - National Training Wage - Children's Services](/ebas/childrens-services/schedules/d-national-training-wage/)
 
 ## transitional
 
-- [Schedule A - Transitional Provisions · Children's Services · Schedules](/ebas/childrens-services/schedules/a-transitional-provisions/)
+### Children's Services
+
+- [Schedule A - Transitional Provisions - Children's Services](/ebas/childrens-services/schedules/a-transitional-provisions/)
 
 ## travel
 
-- [Travelling Allowance (cl. 41) · Allied Health](/ebas/allied-health/allowances/41-travelling-allowance/)
-- [Travel – Payment (cl. 42) · Allied Health](/ebas/allied-health/allowances/42-travel-payment/)
-- [Travelling and Relocation (cl. 42A) · Allied Health](/ebas/allied-health/allowances/42A-travelling-and-relocation/)
-- [Working Away from Home (cl. 43) · Allied Health](/ebas/allied-health/allowances/43-working-away-from-home/)
-- [Travelling Allowance (cl. 36) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/36-travelling-allowance/)
-- [Travelling allowance – use of private vehicle (cl. 55) · Doctors In Training](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle/)
-- [Dental Assistants Working in Mobile Dental Programs (cl. 42) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/)
-- [Reimbursement of Professional Development Leave (cl. 75) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave/)
-- [Travelling Transport and Fares (cl. 86) · Medical Scientists, Pharm & Psych](/ebas/mspp/transport/86-travelling-transport-and-fares/)
-- [Reimbursement of Road Tolls (cl. 87) · Medical Scientists, Pharm & Psych](/ebas/mspp/transport/87-reimbursement-of-road-tolls/)
+### Allied Health
+
+- [42. Travel Payment - Allied Health](/ebas/allied-health/allowances/42-travel-payment/)
+- [42A. Travelling And Relocation - Allied Health](/ebas/allied-health/allowances/42A-travelling-and-relocation/)
+- [43. Working Away From Home - Allied Health](/ebas/allied-health/allowances/43-working-away-from-home/)
+
+### Biomedical Engineers
+
+- [36. Travelling Allowance - Biomedical Engineers](/ebas/biomedical-engineers/allowances/36-travelling-allowance/)
+
+### Doctors In Training
+
+- [55. Travelling Allowance Use Of Private Vehicle - Doctors In Training](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle/)
+
+### Health Allied & Managers Admin
+
+- [42. Dental Assistants Working In Mobile Dental Programs - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/)
+
+### Medical Scientists, Pharm & Psych
+
+- [75. Reimbursement Of Professional Development Leave Expenses - Medical Scientists, Pharm & Psych](/ebas/mspp/leave/75-reimbursement-of-professional-development-leave/)
+- [86. Travelling Transport And Fares - Medical Scientists, Pharm & Psych](/ebas/mspp/transport/86-travelling-transport-and-fares/)
+- [87. Reimbursement Of Road Tolls - Medical Scientists, Pharm & Psych](/ebas/mspp/transport/87-reimbursement-of-road-tolls/)
 
 ## uniforms
 
-- [Uniform and Laundry Allowance (cl. 44) · Allied Health](/ebas/allied-health/allowances/44-uniform-and-laundry-allowance/)
-- [Uniform and Protective Clothing (cl. 37) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing/)
-- [Uniform/laundry allowance (cl. 56) · Doctors In Training](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance/)
-- [Uniforms and Protective Clothing (cl. 42) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing/)
-- [Uniforms (cl. 38) · Medical Specialists](/ebas/medical-specialists/allowances/38-uniforms/)
-- [Laundry allowance (cl. 39) · Medical Specialists](/ebas/medical-specialists/allowances/39-laundry-allowance/)
-- [Uniform Allowance (cl. 93) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/93-uniform-allowance/)
+### Allied Health
+
+- [44. Uniform And Laundry Allowance - Allied Health](/ebas/allied-health/allowances/44-uniform-and-laundry-allowance/)
+
+### Biomedical Engineers
+
+- [37. Uniform And Protective Clothing - Biomedical Engineers](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing/)
+
+### Doctors In Training
+
+- [56. Uniform Laundry Allowance - Doctors In Training](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance/)
+
+### Health Allied & Managers Admin
+
+- [42. Uniforms And Protective Clothing - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing/)
+
+### Medical Scientists, Pharm & Psych
+
+- [93. Uniform Allowance - Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/93-uniform-allowance/)
+
+### Medical Specialists
+
+- [38. Uniforms - Medical Specialists](/ebas/medical-specialists/allowances/38-uniforms/)
+- [39. Laundry Allowance - Medical Specialists](/ebas/medical-specialists/allowances/39-laundry-allowance/)
 
 ## union-matters
 
-- [Consultation (cl. 13) · Allied Health](/ebas/allied-health/consultation-disputes/13-consultation/)
-- [Dispute Resolution Procedure (cl. 14) · Allied Health](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure/)
-- [Independent Dispute Resolution Panel (cl. 14A) · Allied Health](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel/)
-- [Managing Conduct and Performance (cl. 16) · Allied Health](/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance/)
-- [Designated Work Groups (cl. 101) · Allied Health](/ebas/allied-health/ohs/101-designated-work-groups/)
-- [HSRs (cl. 102) · Allied Health](/ebas/allied-health/ohs/102-hsrs/)
-- [Occupational Violence and Aggression Prevention and (cl. 103) · Allied Health](/ebas/allied-health/ohs/103-occupational-violence-and-aggression-prevention-and/)
-- [Industry OHS Working Group (cl. 98) · Allied Health](/ebas/allied-health/ohs/98-industry-ohs-working-group/)
-- [Incidence & Coverage (cl. 5) · Allied Health](/ebas/allied-health/preliminary/5-incidence-coverage/)
-- [Best Practice Employment Commitment Committee and (cl. 84) · Allied Health](/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and/)
-- [Consultation (cl. 13) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/13-consultation/)
-- [Discipline (cl. 16) · Biomedical Engineers](/ebas/biomedical-engineers/consultation-disputes/16-discipline/)
-- [Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only) (cl. 77) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)
-- [Coverage (cl. 5) · Biomedical Engineers](/ebas/biomedical-engineers/preliminary/5-coverage/)
-- [Union Matters (cl. 78) · Biomedical Engineers](/ebas/biomedical-engineers/union-matters/78-union-matters/)
-- [Best Practice Employment Commitment (cl. 79) · Biomedical Engineers](/ebas/biomedical-engineers/union-matters/79-best-practice-employment-commitment/)
-- [Access to Employee File (cl. 88) · Biomedical Engineers](/ebas/biomedical-engineers/workplace-rights/88-access-to-employee-file/)
-- [Definitions and interpretation (cl. 3) · Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
-- [Workplace delegates' rights (cl. 7A) · Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
-- [Union Matters (cl. 76) · Doctors In Training](/ebas/doctors-in-training/union-matters/76-union-matters/)
-- [Best Practice Employment Commitment Committee (cl. 77) · Doctors In Training](/ebas/doctors-in-training/union-matters/77-best-practice-employment-commitment-committee/)
-- [Signatories (cl. 79) · Doctors In Training](/ebas/doctors-in-training/union-matters/79-signatories/)
-- [Managing Conduct and Performance (cl. 18) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance/)
-- [Union Matters (cl. 70) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters/)
-- [Paid Union Meetings (cl. 71) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/71-paid-union-meetings/)
-- [Payroll Deduction of Union Dues (cl. 72) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/72-payroll-deduction-of-union-dues/)
-- [Technology in cleaning (cl. 32) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/education-pd/32-technology-in-cleaning/)
-- [Union Matters (cl. 62) · Medical Specialists](/ebas/medical-specialists/union-matters/62-union-matters/)
-- [Best Practice Employment Commitment Committee (cl. 63) · Medical Specialists](/ebas/medical-specialists/union-matters/63-best-practice-employment-commitment-committee/)
-- [Signatories (cl. 64) · Medical Specialists](/ebas/medical-specialists/union-matters/64-signatories/)
-- [Alternative Dispute Resolution Procedure (cl. 23) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure/)
-- [Managing Conduct and Performance (cl. 24) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance/)
-- [Designated Work Groups (cl. 69D) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69D-designated-work-groups/)
-- [HSRs (cl. 69E) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69E-hsrs/)
-- [Coverage (cl. 10) · Mental Health · Common Terms](/ebas/mental-health/common-terms/preliminary/10-coverage/)
-- [Community Mental Health Discipline Mix (cl. 57) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/57-community-mental-health-discipline-mix/)
-- [Demand Escalation Policy (cl. 62) · Mental Health · Common Terms](/ebas/mental-health/common-terms/staffing/62-demand-escalation-policy/)
-- [Union Matters (cl. 63) · Mental Health · Common Terms](/ebas/mental-health/common-terms/workplace-rights/63-union-matters/)
-- [Staff Appraisal (cl. 216) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/education-pd/216-staff-appraisal/)
-- [Rosters (cl. 94) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters/)
-- [Staff Appraisal (cl. 181) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/181-staff-appraisal/)
-- [Disputes Settling Procedures (cl. 11) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/11-disputes-settling-procedures/)
-- [Best Practice Employment Commitment (cl. 13) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/13-best-practice-employment-commitment/)
-- [Disciplinary Procedure (cl. 16) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/16-disciplinary-procedure/)
-- [Consultation (cl. 30) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30-consultation/)
-- [Consultation about changes to rosters or hours of work (cl. 30A) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [Coverage of Agreement (cl. 3) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/3-coverage-of-agreement/)
-- [Union Rights (cl. 17) · Medical Scientists, Pharm & Psych](/ebas/mspp/union-rights/17-union-rights/)
-- [Demand Escalation Policy (cl. 92) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/92-demand-escalation-policy/)
-- [Consultation (cl. 11) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/11-consultation/)
-- [Managing Conduct and Performance (cl. 15) · Nurses & Midwives](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance/)
-- [Designated Work Groups (cl. 101) · Nurses & Midwives](/ebas/nurses-midwives/ohs/101-designated-work-groups/)
-- [No Extra Claims (cl. 9) · Nurses & Midwives](/ebas/nurses-midwives/preliminary/9-no-extra-claims/)
-- [Union Matters (cl. 80) · Nurses & Midwives](/ebas/nurses-midwives/union-matters/80-union-matters/)
+### Allied Health
+
+- [Union Matters - Allied Health](/ebas/allied-health/union-matters/)
+
+### Biomedical Engineers
+
+- [78. Union Matters - Biomedical Engineers](/ebas/biomedical-engineers/union-matters/78-union-matters/)
+- [Union Matters - Biomedical Engineers](/ebas/biomedical-engineers/union-matters/)
+
+### Children's Services
+
+- [7A. Workplace Delegates Rights - Children's Services](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights/)
+
+### Doctors In Training
+
+- [76. Union Matters - Doctors In Training](/ebas/doctors-in-training/union-matters/76-union-matters/)
+- [Union Matters - Doctors In Training](/ebas/doctors-in-training/union-matters/)
+
+### Health Allied & Managers Admin
+
+- [70. Union Matters - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters/)
+- [71. Paid Union Meetings - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/union-matters/71-paid-union-meetings/)
+- [72. Payroll Deduction Of Union Dues - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/union-matters/72-payroll-deduction-of-union-dues/)
+- [Union Matters - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/union-matters/)
+- [Union Matters - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/union-matters/)
+
+### Medical Scientists, Pharm & Psych
+
+- [17. Union Rights - Medical Scientists, Pharm & Psych](/ebas/mspp/union-rights/17-union-rights/)
+- [Union Rights - Medical Scientists, Pharm & Psych](/ebas/mspp/union-rights/)
+
+### Medical Specialists
+
+- [62. Union Matters - Medical Specialists](/ebas/medical-specialists/union-matters/62-union-matters/)
+- [Union Matters - Medical Specialists](/ebas/medical-specialists/union-matters/)
+
+### Mental Health
+
+- [63. Union Matters - Mental Health](/ebas/mental-health/common-terms/workplace-rights/63-union-matters/)
+
+### Nurses & Midwives
+
+- [80. Union Matters - Nurses & Midwives](/ebas/nurses-midwives/union-matters/80-union-matters/)
+- [Union Matters - Nurses & Midwives](/ebas/nurses-midwives/union-matters/)
 
 ## vehicle
 
-- [Vehicle Allowance (cl. 34) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/34-vehicle-allowance/)
-- [Rural - Four Wheel Drive/All-Wheel Drive (cl. 52) · Mental Health · Common Terms](/ebas/mental-health/common-terms/resources/52-rural-four-wheel-drive-all-wheel-drive/)
-- [Travelling Allowances (cl. 196) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/allowances/196-travelling-allowances/)
-- [Travelling and Relocation Allowance (cl. 82) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance/)
-- [FBT (cl. 73) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/wages/73-fbt/)
+### Mental Health
+
+- [196. Travelling Allowances - Mental Health](/ebas/mental-health/management-admin/allowances/196-travelling-allowances/)
+- [34. Vehicle Allowance - Mental Health](/ebas/mental-health/common-terms/allowances/34-vehicle-allowance/)
+- [52. Rural Four Wheel Drive All Wheel Drive - Mental Health](/ebas/mental-health/common-terms/resources/52-rural-four-wheel-drive-all-wheel-drive/)
+- [73. FBT - Mental Health](/ebas/mental-health/rpn-pen-mho/wages/73-fbt/)
+- [82. Travelling And Relocation Allowance - Mental Health](/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance/)
 
 ## wages
 
-- [Higher Duties Allowance (cl. 37) · Allied Health](/ebas/allied-health/allowances/37-higher-duties-allowance/)
-- [Appendix 2 - Wage Rates - Allied Health - Appendices](/ebas/allied-health/appendices/2-wage-rates/)
-- [Classifications Definitions and Wages (cl. 85) · Allied Health](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages/)
-- [Backfill (cl. 91) · Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
-- [Redundancy and Related Entitlements (cl. 25) · Allied Health](/ebas/allied-health/employment/25-redundancy-and-related-entitlements/)
-- [Accrued Days Off (cl. 48) · Allied Health](/ebas/allied-health/hours-of-work/48-accrued-days-off/)
-- [Purchased Leave (cl. 61) · Allied Health](/ebas/allied-health/leave/61-purchased-leave/)
-- [Parental Leave (cl. 70) · Allied Health](/ebas/allied-health/leave/70-parental-leave/)
-- [Workers' Compensation, Rehabilitation and Return to (cl. 104) · Allied Health](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to/)
-- [Wages and Wage Increases (cl. 28) · Allied Health](/ebas/allied-health/wages/28-wages-and-wage-increases/)
-- [Top of Band Payment (cl. 28B) · Allied Health](/ebas/allied-health/wages/28B-top-of-band-payment/)
-- [Payment of Wages (cl. 29) · Allied Health](/ebas/allied-health/wages/29-payment-of-wages/)
-- [Superannuation (cl. 30) · Allied Health](/ebas/allied-health/wages/30-superannuation/)
-- [Salary Packaging (cl. 31) · Allied Health](/ebas/allied-health/wages/31-salary-packaging/)
-- [Accident Pay (cl. 32) · Allied Health](/ebas/allied-health/wages/32-accident-pay/)
-- [Higher Duties Allowance (cl. 35) · Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
-- [Appendix 2 - Wage Rates · Biomedical Engineers · Appendices](/ebas/biomedical-engineers/appendices/2-wage-rates/)
-- [Examination Leave (cl. 74) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/74-examination-leave/)
-- [Redundancy and Associated Entitlements (cl. 24) · Biomedical Engineers](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements/)
-- [Cashing out of Annual Leave (cl. 52) · Biomedical Engineers](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave/)
-- [Purchased Leave (cl. 53) · Biomedical Engineers](/ebas/biomedical-engineers/leave/53-purchased-leave/)
-- [Parental Leave (cl. 61) · Biomedical Engineers](/ebas/biomedical-engineers/leave/61-parental-leave/)
-- [Wages and Allowances (cl. 26) · Biomedical Engineers](/ebas/biomedical-engineers/wages/26-wages-and-allowances/)
-- [Payment of Wages (cl. 29) · Biomedical Engineers](/ebas/biomedical-engineers/wages/29-payment-of-wages/)
-- [Superannuation (cl. 30) · Biomedical Engineers](/ebas/biomedical-engineers/wages/30-superannuation/)
-- [Salary Packaging (cl. 31) · Biomedical Engineers](/ebas/biomedical-engineers/wages/31-salary-packaging/)
-- [Accident Make-up Pay (cl. 32) · Biomedical Engineers](/ebas/biomedical-engineers/wages/32-accident-make-up-pay/)
-- [Commencement and transitional (cl. 2) · Children's Services](/ebas/childrens-services/application-operation/2-commencement-and-transitional/)
-- [Definitions and interpretation (cl. 3) · Children's Services](/ebas/childrens-services/application-operation/3-definitions-and-interpretation/)
-- [Individual flexibility arrangements (cl. 7) · Children's Services](/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements/)
-- [Types of employment (cl. 10) · Children's Services](/ebas/childrens-services/employment/10-types-of-employment/)
-- [Termination of employment (cl. 11) · Children's Services](/ebas/childrens-services/employment/11-termination-of-employment/)
-- [Ordinary hours of work and rostering (cl. 21) · Children's Services](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering/)
-- [Schedule C - Supported Wage System · Children's Services · Schedules](/ebas/childrens-services/schedules/c-supported-wage-system/)
-- [Schedule D - National Training Wage · Children's Services · Schedules](/ebas/childrens-services/schedules/d-national-training-wage/)
-- [Schedule E - School-based Apprentices · Children's Services · Schedules](/ebas/childrens-services/schedules/e-school-based-apprentices/)
-- [Classifications (cl. 13) · Children's Services](/ebas/childrens-services/wages/13-classifications/)
-- [Minimum wages (cl. 14) · Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
-- [Accident pay (cl. 17) · Children's Services](/ebas/childrens-services/wages/17-accident-pay/)
-- [Higher duties (cl. 18) · Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
-- [Payment of wages (cl. 19) · Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
-- [Superannuation (cl. 20) · Children's Services](/ebas/childrens-services/wages/20-superannuation/)
-- [Higher duties (cl. 51) · Doctors In Training](/ebas/doctors-in-training/allowances/51-higher-duties/)
-- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training - Appendices](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
-- [Redundancy and Associated Entitlements (cl. 11) · Doctors In Training](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements/)
-- [Part-Time Employment (cl. 18) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/18-part-time-employment/)
-- [Casual Employment (cl. 19) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/19-casual-employment/)
-- [Termination of Employment (cl. 29) · Doctors In Training](/ebas/doctors-in-training/doctor-employment/29-termination-of-employment/)
-- [Parental Leave (cl. 67) · Doctors In Training](/ebas/doctors-in-training/leave/67-parental-leave/)
-- [Remuneration and remuneration increases (cl. 42) · Doctors In Training](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases/)
-- [Employee Records (cl. 42A) · Doctors In Training](/ebas/doctors-in-training/remuneration/42A-employee-records/)
-- [Superannuation (cl. 43) · Doctors In Training](/ebas/doctors-in-training/remuneration/43-superannuation/)
-- [Salary packaging (cl. 44) · Doctors In Training](/ebas/doctors-in-training/remuneration/44-salary-packaging/)
-- [Workers compensation make-up pay (cl. 45) · Doctors In Training](/ebas/doctors-in-training/remuneration/45-workers-compensation-make-up-pay/)
-- [Recovery of Overpayments (cl. 46) · Doctors In Training](/ebas/doctors-in-training/remuneration/46-recovery-of-overpayments/)
-- [Redundancy and Associated Entitlements (cl. 26) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/)
-- [Parental Leave (cl. 59) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/leave/59-parental-leave/)
-- [Payroll Deduction of Union Dues (cl. 72) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/union-matters/72-payroll-deduction-of-union-dues/)
-- [Salary and Allowances Increases (cl. 28) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases/)
-- [Payment of Wages (cl. 29) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages/)
-- [Recovery of Overpayments (cl. 30) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments/)
-- [Superannuation (cl. 31) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/31-superannuation/)
-- [Salary Packaging (cl. 32) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/32-salary-packaging/)
-- [Accident Pay (cl. 33) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/33-accident-pay/)
-- [Trainees (cl. 34) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/34-trainees/)
-- [Juniors (cl. 35) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/wages/35-juniors/)
-- [Cooking Trade Proficiency Payments (cl. 15) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/allowances/15-cooking-trade-proficiency-payments/)
-- [Notice of Termination - Employee (cl. 6) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee/)
-- [Weekend Work (cl. 24) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/hours-of-work/24-weekend-work/)
-- [Apprentices (cl. 8) · Health Allied & Managers Admin · Health & Allied Services](/ebas/has-managers-admin/health-allied-services/wages/8-apprentices/)
-- [Higher Duties (cl. 5) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/)
-- [Notice of Termination – Employer (cl. 3) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer/)
-- [Notice of Termination - Employee (cl. 4) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee/)
-- [Weekend Work (cl. 9) · Health Allied & Managers Admin · Managers & Admin](/ebas/has-managers-admin/managers-admin/hours-of-work/9-weekend-work/)
-- [Schedule 1B - Supported Wage System for Employees with a Disability · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability/)
-- [Schedule 2B - Wage Rates (Health & Allied Services) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
-- [Schedule 3B - Wage Rates (Managers and Administrative Workers) · Health Allied & Managers Admin · Schedules](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
-- [Board and lodging (cl. 45) · Medical Specialists](/ebas/medical-specialists/accommodation/45-board-and-lodging/)
-- [Appendix 2 - Specialists Remuneration and Allowances · Medical Specialists · Appendices](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
-- [Redundancy and Associated Entitlements (cl. 10) · Medical Specialists](/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements/)
-- [Types of Employment (cl. 16) · Medical Specialists](/ebas/medical-specialists/employment/16-types-of-employment/)
-- [Parental Leave (cl. 54) · Medical Specialists](/ebas/medical-specialists/leave/54-parental-leave/)
-- [Sabbatical Leave (cl. 57) · Medical Specialists](/ebas/medical-specialists/leave/57-sabbatical-leave/)
-- [Saving of Local Agreements (cl. 7) · Medical Specialists](/ebas/medical-specialists/preliminary/7-saving-of-local-agreements/)
-- [Remuneration and remuneration increases (cl. 31) · Medical Specialists](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases/)
-- [Superannuation (cl. 32) · Medical Specialists](/ebas/medical-specialists/wages/32-superannuation/)
-- [Salary Packaging (cl. 33) · Medical Specialists](/ebas/medical-specialists/wages/33-salary-packaging/)
-- [Recovery of Overpayments (cl. 35) · Medical Specialists](/ebas/medical-specialists/wages/35-recovery-of-overpayments/)
-- [Travelling and Reimbursement (cl. 35) · Mental Health · Common Terms](/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement/)
-- [Alternative Dispute Resolution Procedure (cl. 23) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure/)
-- [Termination of Employment (cl. 28) · Mental Health · Common Terms](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment/)
-- [Parental Leave (cl. 50) · Mental Health · Common Terms](/ebas/mental-health/common-terms/leave/50-parental-leave/)
-- [Payment of Wages, Allowances, Employee Records and (cl. 29) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and/)
-- [Compensation Make-up Pay (cl. 30) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/30-compensation-make-up-pay/)
-- [Salary Packaging (cl. 31) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/31-salary-packaging/)
-- [Superannuation (cl. 32) · Mental Health · Common Terms](/ebas/mental-health/common-terms/wages/32-superannuation/)
-- [Classifications and wages (cl. 143) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages/)
-- [Wages Review (cl. 143A) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review/)
-- [Once Off Retention Payment (cl. 113) · Mental Health · Health Professionals](/ebas/mental-health/health-professionals/wages/113-once-off-retention-payment/)
-- [Accrued Days Off (cl. 197) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/197-accrued-days-off/)
-- [Higher Duties (cl. 198) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/198-higher-duties/)
-- [Minimum Engagement (cl. 201) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/201-minimum-engagement/)
-- [Overtime (cl. 203) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/203-overtime/)
-- [Overtime – Royal Children’s Hospital (cl. 204) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital/)
-- [Overtime in Lieu (cl. 205) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/205-overtime-in-lieu/)
-- [Time and Wages Records - Royal Children's Hospital (cl. 208) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/hours-of-work/208-time-and-wages-records-royal-children-s-hospital/)
-- [Underpayment of Wages (cl. 188) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/188-underpayment-of-wages/)
-- [Overpayment of Wages – Royal Children’s Hospital (cl. 191) · Mental Health · Management & Admin](/ebas/mental-health/management-admin/wages/191-overpayment-of-wages-royal-children-s-hospital/)
-- [Saturday and Sunday Work (cl. 83) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work/)
-- [Uniform and Laundry Allowance (cl. 86) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance/)
-- [Lump Sum Payment - MHO only (cl. 72) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/wages/72-lump-sum-payment-mho-only/)
-- [Additional Payment of Wages Provisions (cl. 74) · Mental Health · Nurses (RPN/PEN/MHO)](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions/)
-- [Schedule 2 - Salaries and Allowances · Mental Health · Schedules](/ebas/mental-health/schedules/02-salaries-and-allowances/)
-- [Underpayment of Wages (cl. 149) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/149-underpayment-of-wages/)
-- [Experience Payments (cl. 150) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/150-experience-payments/)
-- [Multi-Skilling Allowance – Patient Services Assistants (cl. 158) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/158-multi-skilling-allowance-patient-services-assistants/)
-- [Accrued Days Off (cl. 162) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/162-accrued-days-off/)
-- [Higher Duties (cl. 163) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/163-higher-duties/)
-- [Minimum Engagement (cl. 167) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/167-minimum-engagement/)
-- [Overtime (cl. 169) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/169-overtime/)
-- [Overtime in Lieu (cl. 170) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/170-overtime-in-lieu/)
-- [Shiftwork (cl. 178) · Mental Health · Support Services](/ebas/mental-health/support-services/preliminary/178-shiftwork/)
-- [Accident Pay (cl. 90) · Medical Scientists, Pharm & Psych](/ebas/mspp/accident-pay-allowances/90-accident-pay/)
-- [Management Higher Qualifications Allowances (cl. 39) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/39-management-higher-qualifications-allowances/)
-- [Audiologists (cl. 40) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/40-audiologists/)
-- [Dietitians (cl. 42) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/42-dietitians/)
-- [Genetic Counsellors (cl. 43) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/43-genetic-counsellors/)
-- [Medical Physicists (cl. 44) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/44-medical-physicists/)
-- [Medical Scientists Classification Descriptors (cl. 46) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/46-medical-scientists-classification-descriptors/)
-- [Pharmacists (cl. 47) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/47-pharmacists/)
-- [Psychologists (cl. 48) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/48-psychologists/)
-- [Progression Through Pay Points (cl. 49) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/49-progression-through-pay-points/)
-- [Overlapping Pay Points Between Grades (cl. 50) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/50-overlapping-pay-points-between-grades/)
-- [Salaries and Allowances (cl. 51) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/51-salaries-and-allowances/)
-- [Higher Duties (cl. 52) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/52-higher-duties/)
-- [Payment of Wages (cl. 53) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/53-payment-of-wages/)
-- [Superannuation (cl. 54) · Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/54-superannuation/)
-- [Individual Flexibility Arrangements (cl. 22) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/22-individual-flexibility-arrangements/)
-- [Redundancy and Associated Entitlements (cl. 32) · Medical Scientists, Pharm & Psych](/ebas/mspp/employment/32-redundancy-and-associated-entitlements/)
-- [Examination Leave (cl. 71) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/71-examination-leave/)
-- [Sabbatical Leave (cl. 76) · Medical Scientists, Pharm & Psych](/ebas/mspp/leave/76-sabbatical-leave/)
-- [Commencement Date and Period of Operation (cl. 4) · Medical Scientists, Pharm & Psych](/ebas/mspp/operation/4-commencement-date-and-period-of-operation/)
-- [Schedule 2 - Rates of Pay and Allowances · Medical Scientists, Pharm & Psych · Schedules](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
-- [Rural and Isolated Practice Allowance (cl. 32) · Nurses & Midwives](/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance/)
-- [Higher Duties (cl. 35) · Nurses & Midwives](/ebas/nurses-midwives/allowances/35-higher-duties/)
-- [Appendix 2 - Wages and Allowances · Nurses & Midwives · Appendices](/ebas/nurses-midwives/appendices/02-wages-and-allowances/)
-- [Staffing – ANUM/AMUM and Above (cl. 90) · Nurses & Midwives](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above/)
-- [Parental Leave (cl. 68) · Nurses & Midwives](/ebas/nurses-midwives/leave/68-parental-leave/)
-- [Payment of Wages, Employee Records and Related Matters (cl. 26) · Nurses & Midwives](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters/)
-- [Superannuation (cl. 27) · Nurses & Midwives](/ebas/nurses-midwives/wages/27-superannuation/)
-- [Salary Packaging (cl. 28) · Nurses & Midwives](/ebas/nurses-midwives/wages/28-salary-packaging/)
-- [Compensation Make-up Pay (cl. 29) · Nurses & Midwives](/ebas/nurses-midwives/wages/29-compensation-make-up-pay/)
+### Allied Health
+
+- [28. Wages And Wage Increases - Allied Health](/ebas/allied-health/wages/28-wages-and-wage-increases/)
+- [28B. Top Of Band Payment - Allied Health](/ebas/allied-health/wages/28B-top-of-band-payment/)
+- [29. Payment Of Wages - Allied Health](/ebas/allied-health/wages/29-payment-of-wages/)
+- [31. Salary Packaging - Allied Health](/ebas/allied-health/wages/31-salary-packaging/)
+- [37. Higher Duties Allowance - Allied Health](/ebas/allied-health/allowances/37-higher-duties-allowance/)
+- [85. Classifications Definitions And Wages - Allied Health](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages/)
+- [Appendix 2 - Wage Rates - Allied Health](/ebas/allied-health/appendices/2-wage-rates/)
+- [Wages - Allied Health](/ebas/allied-health/wages/)
+
+### Biomedical Engineers
+
+- [29. Payment Of Wages - Biomedical Engineers](/ebas/biomedical-engineers/wages/29-payment-of-wages/)
+- [31. Salary Packaging - Biomedical Engineers](/ebas/biomedical-engineers/wages/31-salary-packaging/)
+- [35. Higher Duties Allowance - Biomedical Engineers](/ebas/biomedical-engineers/allowances/35-higher-duties-allowance/)
+- [Appendix 2 — Salaries & Allowances - Biomedical Engineers](/ebas/biomedical-engineers/appendices/2-wage-rates/)
+- [Wages - Biomedical Engineers](/ebas/biomedical-engineers/wages/)
+
+### Children's Services
+
+- [14. Minimum Wages - Children's Services](/ebas/childrens-services/wages/14-minimum-wages/)
+- [18. Higher Duties - Children's Services](/ebas/childrens-services/wages/18-higher-duties/)
+- [19. Payment Of Wages - Children's Services](/ebas/childrens-services/wages/19-payment-of-wages/)
+- [Wages - Children's Services](/ebas/childrens-services/wages/)
+
+### Doctors In Training
+
+- [42. Remuneration And Remuneration Increases - Doctors In Training](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases/)
+- [44. Salary Packaging - Doctors In Training](/ebas/doctors-in-training/remuneration/44-salary-packaging/)
+- [51. Higher Duties - Doctors In Training](/ebas/doctors-in-training/allowances/51-higher-duties/)
+- [Appendix 2 - Doctors in Training Remuneration, Allowances and Deductions - Doctors In Training](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions/)
+
+### Health Allied & Managers Admin
+
+- [28. Salary And Allowances Increases - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases/)
+- [29. Payment Of Wages - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages/)
+- [32. Salary Packaging - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/32-salary-packaging/)
+- [5. Higher Duties - Health Allied & Managers Admin](/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/)
+- [Schedule 2B - Wage Rates (Health & Allied Services) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/)
+- [Schedule 3B - Wage Rates (Managers and Administrative Workers) - Health Allied & Managers Admin](/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/)
+- [Wages - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/wages/)
+- [Wages - Health Allied & Managers Admin](/ebas/has-managers-admin/health-allied-services/wages/)
+
+### Medical Scientists, Pharm & Psych
+
+- [52. Higher Duties - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/52-higher-duties/)
+- [53. Payment Of Wages - Medical Scientists, Pharm & Psych](/ebas/mspp/classification-salaries/53-payment-of-wages/)
+- [Schedule 2 - Rates of Pay - Medical Scientists, Pharm & Psych](/ebas/mspp/schedules/2-rates-of-pay-and-allowances/)
+
+### Medical Specialists
+
+- [31. Remuneration And Remuneration Increases - Medical Specialists](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases/)
+- [33. Salary Packaging - Medical Specialists](/ebas/medical-specialists/wages/33-salary-packaging/)
+- [Appendix 2 - Specialists Remuneration and Allowances - Medical Specialists](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances/)
+- [Wages - Medical Specialists](/ebas/medical-specialists/wages/)
+
+### Mental Health
+
+- [113. Once Off Retention Payment - Mental Health](/ebas/mental-health/health-professionals/wages/113-once-off-retention-payment/)
+- [143A. Wages Review - Mental Health](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review/)
+- [149. Underpayment Of Wages - Mental Health](/ebas/mental-health/support-services/preliminary/149-underpayment-of-wages/)
+- [150. Experience Payments - Mental Health](/ebas/mental-health/support-services/preliminary/150-experience-payments/)
+- [163. Higher Duties - Mental Health](/ebas/mental-health/support-services/preliminary/163-higher-duties/)
+- [188. Underpayment Of Wages - Mental Health](/ebas/mental-health/management-admin/wages/188-underpayment-of-wages/)
+- [191. Overpayment Of Wages - Royal Children''s Hospital - Mental Health](/ebas/mental-health/management-admin/wages/191-overpayment-of-wages-royal-children-s-hospital/)
+- [198. Higher Duties - Mental Health](/ebas/mental-health/management-admin/hours-of-work/198-higher-duties/)
+- [29. Payment Of Wages Allowances Employee Records And Related Matters - Mental Health](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and/)
+- [31. Salary Packaging - Mental Health](/ebas/mental-health/common-terms/wages/31-salary-packaging/)
+- [74. Additional Payment Of Wages Provisions - Mental Health](/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions/)
+- [Wages - Mental Health](/ebas/mental-health/common-terms/wages/)
+- [Wages - Mental Health](/ebas/mental-health/health-professionals/wages/)
+- [Wages - Mental Health](/ebas/mental-health/management-admin/wages/)
+- [Wages - Mental Health](/ebas/mental-health/rpn-pen-mho/wages/)
+
+### Nurses & Midwives
+
+- [26. Payment Of Wages Employee Records And Related Matters - Nurses & Midwives](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters/)
+- [28. Salary Packaging - Nurses & Midwives](/ebas/nurses-midwives/wages/28-salary-packaging/)
+- [35. Higher Duties - Nurses & Midwives](/ebas/nurses-midwives/allowances/35-higher-duties/)
+- [Wages - Nurses & Midwives](/ebas/nurses-midwives/wages/)
 
 ## workers-comp
 
-- [Consultation (cl. 18) · Mental Health · Common Terms](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
-- [Industry OHS Working Group (cl. 69A) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group/)
-- [Workers’ Compensation, Rehabilitation and Return to Work (cl. 69H) · Mental Health · Common Terms](/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work/)
-- [Workers' Compensation, Rehabilitation and Return to Work (cl. 104) · Nurses & Midwives](/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work/)
-- [Industry OHS Working Group (cl. 98) · Nurses & Midwives](/ebas/nurses-midwives/ohs/98-industry-ohs-working-group/)
+### Allied Health
+
+- [98. Industry OH&S Working Group - Allied Health](/ebas/allied-health/ohs/98-industry-ohs-working-group/)
+
+### Mental Health
+
+- [18. Consultation - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/18-consultation/)
+- [18A. Central Building Consultative Committee - Mental Health](/ebas/mental-health/common-terms/consultation-disputes/18a-central-building-consultative-committee/)
+- [69A. Industry Ohs Working Group - Mental Health](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group/)
+- [69H. Workers Compensation Rehabilitation And Return To Work - Mental Health](/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work/)
+
+### Nurses & Midwives
+
+- [104. Workers Compensation Rehabilitation and Return To Work - Nurses & Midwives](/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work/)
+- [98. Industry OH&S Working Group - Nurses & Midwives](/ebas/nurses-midwives/ohs/98-industry-ohs-working-group/)
 
 ## workload
 
-- [Workload Allocation and Safe Staffing (cl. 90) · Allied Health](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing/)
-- [Backfill (cl. 91) · Allied Health](/ebas/allied-health/classification-staffing/91-backfill/)
-- [Independent Dispute Resolution Panel (cl. 14A) · Allied Health](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel/)
-- [Overtime (cl. 52) · Allied Health](/ebas/allied-health/hours-of-work/52-overtime/)
-- [Workload (cl. 84) · Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/84-workload/)
-- [Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only) (cl. 77) · Biomedical Engineers](/ebas/biomedical-engineers/education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)
-- [Workload Management and Review (cl. 41) · Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
-- [Replacement of Doctors when on leave (cl. 59) · Doctors In Training](/ebas/doctors-in-training/leave/59-replacement-of-doctors-when-on-leave/)
-- [Best Practice Employment Commitment Committee (cl. 77) · Doctors In Training](/ebas/doctors-in-training/union-matters/77-best-practice-employment-commitment-committee/)
-- [Workload Management (cl. 78) · Health Allied & Managers Admin · Common Terms](/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management/)
-- [Roster design – safe hours of work (cl. 20) · Medical Specialists](/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work/)
-- [Workload Management and review (cl. 21) · Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
-- [Replacement of Doctors when on leave (cl. 61) · Medical Specialists](/ebas/medical-specialists/leave/61-replacement-of-doctors-when-on-leave/)
-- [Best Practice Employment Commitment Committee (cl. 63) · Medical Specialists](/ebas/medical-specialists/union-matters/63-best-practice-employment-commitment-committee/)
-- [Independent Dispute Resolution Panel (cl. 12) · Medical Scientists, Pharm & Psych](/ebas/mspp/disputes/12-independent-dispute-resolution-panel/)
-- [Workload (cl. 33) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/33-workload/)
-- [Planned and Unplanned Absences (cl. 34) · Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences/)
+### Allied Health
+
+- [90. Workload Allocation And Safe Staffing - Allied Health](/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing/)
+
+### Biomedical Engineers
+
+- [84. Workload - Biomedical Engineers](/ebas/biomedical-engineers/classification-staffing/84-workload/)
+
+### Doctors In Training
+
+- [41. Workload Management And Review - Doctors In Training](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review/)
+
+### Health Allied & Managers Admin
+
+- [78. Workload Management - Health Allied & Managers Admin](/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management/)
+
+### Medical Scientists, Pharm & Psych
+
+- [33. Workload - Medical Scientists, Pharm & Psych](/ebas/mspp/workforce-management/33-workload/)
+
+### Medical Specialists
+
+- [21. Workload Management And Review - Medical Specialists](/ebas/medical-specialists/employment/21-workload-management-and-review/)
 
