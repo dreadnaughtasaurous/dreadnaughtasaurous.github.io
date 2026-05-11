@@ -787,8 +787,17 @@ async function submitAsk() {
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
     const data = await res.json()
-    aiAnswer.value  = data.answer  ?? 'No answer returned.'
-    aiSources.value = data.sources ?? []
+    aiAnswer.value  = data.answer ?? 'No answer returned.'
+    // Transform plain URL strings into { url, title } objects for the template.
+    // Title is derived from the last path segment: '49-overtime' → 'Clause 49: Overtime'
+    aiSources.value = (data.sources ?? []).map(url => {
+      const segment = url.split('/').pop().replace('.html', '')
+      const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
+      const title   = match
+        ? `Clause ${match[1]}: ${match[2].replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`
+        : segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+      return { url, title }
+    })
   } catch (err) {
     aiError.value = err.message ?? 'Unknown error. Please try again.'
   }

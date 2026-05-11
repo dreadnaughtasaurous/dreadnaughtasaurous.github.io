@@ -5,6 +5,11 @@
 //     New comprehensive system prompt with BLUF, citation discipline, zero hallucination.
 
 const CORS_ORIGIN = 'https://dreadnaughtasaurous.github.io';
+const CORS_ALLOWED = new Set([
+  CORS_ORIGIN,
+  'http://localhost:5173',
+  'http://localhost:4173',
+]);
 const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/main/docs';
 
 // ─── EBA PAGE MAP ─────────────────────────────────────────────────────────────
@@ -1466,7 +1471,7 @@ async function askCloudflareAI(ai, question, pages) {
 // ─── CORS HELPERS ─────────────────────────────────────────────────────────────
 
 function corsHeaders(origin) {
-  const allowed = origin === CORS_ORIGIN ? origin : CORS_ORIGIN;
+  const allowed = CORS_ALLOWED.has(origin) ? origin : CORS_ORIGIN;
   return {
     'Access-Control-Allow-Origin': allowed,
     'Access-Control-Allow-Methods': 'POST, OPTIONS',
