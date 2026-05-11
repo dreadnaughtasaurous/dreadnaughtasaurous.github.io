@@ -1,12 +1,13 @@
 // eba-ask-worker/src/index.js
-// v7: All EBA_PAGE_MAP paths verified against __VP_HASH_MAP__ keys.
-//     Broken stub paths fixed. DIT, Medical Specialists, Mental Health,
-//     and HAS/Managers-Admin expanded with full topic coverage.
+// v8: Four-provider tiered AI (Cerebras → Groq → Gemini → Cloudflare Workers AI).
+//     All EBA_PAGE_MAP paths preserved from v7 (verified May 2026).
+//     RAG architecture retained: GitHub Raw Markdown fetched before AI call.
+//     New comprehensive system prompt with BLUF, citation discipline, zero hallucination.
 
 const CORS_ORIGIN = 'https://dreadnaughtasaurous.github.io';
-const GROQ_MODEL = 'llama-3.3-70b-versatile';
 const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/main/docs';
 
+// ─── EBA PAGE MAP ─────────────────────────────────────────────────────────────
 // Each entry maps keyword + topic signals to one or more raw GitHub Markdown paths.
 // Paths are relative to /docs — e.g. 'ebas/nurses-midwives/hours-of-work/49-overtime.md'
 // ALL paths verified from vp-hash-map-keys-2.txt (May 2026).
@@ -965,12 +966,6 @@ const EBA_PAGE_MAP = [
   },
 
   // ── MENTAL HEALTH ─────────────────────────────────────────────────────────
-  // Mental Health EBA has multiple workforce sections:
-  // rpn-pen-mho (Registered Psychiatric Nurses, Enrolled Nurses, Mental Health Officers)
-  // health-professionals (Allied health staff in mental health)
-  // support-services (Support services staff in mental health)
-  // management-admin (Management & admin staff in mental health)
-  // common-terms (Terms applying to all sections)
   {
     keywords: ['mental health', 'rpn', 'psychiatric nurse', 'pen', 'mho', 'mental health officer'],
     topic: ['overtime'],
@@ -1121,10 +1116,6 @@ const EBA_PAGE_MAP = [
   },
 
   // ── HAS / MANAGERS / ADMIN ────────────────────────────────────────────────
-  // HAS EBA has two workforce sections:
-  // health-allied-services (HAS workers — food, cleaning, pathology collectors, etc.)
-  // managers-admin (Managers and administrative officers)
-  // common-terms (Terms applying to both sections)
   {
     keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
     topic: ['overtime'],
@@ -1277,8 +1268,8 @@ const EBA_PAGE_MAP = [
 
 ];
 
-// Score and select the best matching paths for a given question.
-// Returns up to 4 paths, ranked by keyword + topic match score.
+// ─── PATH SCORING ─────────────────────────────────────────────────────────────
+
 function scoreAndSelectPaths(question) {
   const q = question.toLowerCase();
   const pathScores = new Map();
@@ -1305,8 +1296,8 @@ function scoreAndSelectPaths(question) {
     .map(([path]) => path);
 }
 
-// Fetch a raw Markdown file from GitHub and return its plain text.
-// Returns null if the file is not found or too short to be useful.
+// ─── MARKDOWN FETCHER ─────────────────────────────────────────────────────────
+
 async function fetchMarkdown(path) {
   const url = `${GITHUB_RAW_BASE}/${path}`;
   try {
@@ -1317,19 +1308,15 @@ async function fetchMarkdown(path) {
     if (!res.ok) return null;
 
     const raw = await res.text();
-
-    // Strip YAML frontmatter (--- ... ---)
     const stripped = raw.replace(/^---[\s\S]*?---\n?/, '');
-
-    // Strip Markdown link syntax but keep the link text: [text](url) → text
     const text = stripped
       .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-      .replace(/^#{1,6}\s+/gm, '')   // remove heading hashes
-      .replace(/\*\*/g, '')           // remove bold markers
-      .replace(/\*/g, '')             // remove italic markers
-      .replace(/`/g, '')              // remove code ticks
-      .replace(/^\s*[-*>]\s*/gm, '')  // remove list/quote markers
-      .replace(/\n{3,}/g, '\n\n')     // collapse excess blank lines
+      .replace(/^#{1,6}\s+/gm, '')
+      .replace(/\*\*/g, '')
+      .replace(/\*/g, '')
+      .replace(/`/g, '')
+      .replace(/^\s*[-*>]\s*/gm, '')
+      .replace(/\n{3,}/g, '\n\n')
       .trim();
 
     if (text.length < 100) return null;
@@ -1339,19 +1326,84 @@ async function fetchMarkdown(path) {
   }
 }
 
-const SYSTEM_PROMPT = `You are an expert assistant for the Austin Health EBA (Enterprise Bargaining Agreement) wiki, covering the Victorian public health sector.
+// ─── SYSTEM PROMPT ────────────────────────────────────────────────────────────
 
-Answer questions using ONLY the source content provided below. Follow these rules strictly:
-- Quote clause numbers, penalty rates, and conditions exactly as they appear in the sources.
-- If the sources do not contain enough information to fully answer, say so clearly and direct the user to the relevant wiki page.
-- Do NOT invent, estimate, or infer any figures, rates, or clause numbers not explicitly stated in the sources.
-- Be concise and factual. Use dot points where helpful.`;
+const SYSTEM_PROMPT = `You are the EBA Reference Assistant for the Austin Health EBA Wiki — a structured knowledge base covering Enterprise Bargaining Agreements (EBAs) in the Victorian public health sector.
 
-async function askGroq(apiKey, question, pages) {
+You answer questions about EBA entitlements — wages, allowances, leave, hours of work, penalty rates, and conditions — for healthcare workers covered by these EBAs: Allied Health Professionals, Biomedical Engineers, Children's Services, Doctors in Training, Health Allied/Managers/Admin (HAS), Medical Specialists, Mental Health, Medical Scientists/Pharmacists/Psychologists (MSPP), and Nurses & Midwives.
+
+## Source Discipline — Non-Negotiable
+Answer using ONLY the source content provided below each question. Rules:
+- Quote clause numbers, penalty rates, allowance amounts, and conditions exactly as they appear in the sources. Never round, estimate, or paraphrase figures.
+- If the sources do not contain enough information to fully answer, say so explicitly: "I cannot confirm this from the provided wiki content." Then direct the user to the relevant wiki page.
+- Never invent, estimate, or infer any figures, rates, or clause numbers not explicitly stated in the provided sources.
+- If a clause number is referenced in the text but its content is not in the provided sources, flag it: "(Clause N is referenced but its content was not retrieved — verify directly on the wiki)."
+
+## On Mistakes
+If you realise mid-response that an earlier statement was incorrect, issue an Update: block immediately: "Update: The figure stated above is incorrect. The correct figure is [X] per [EBA Name, Clause N]." Make corrections transparent — never silently overwrite.
+
+## Response Structure: BLUF + Tree-of-Thought
+Structure every response as follows:
+
+1. BLUF (1–2 sentences): The direct answer. What the entitlement is, in plain terms.
+2. Detail: The relevant clause text. Use numbered steps for procedural entitlements. Use tables for rate comparisons across classifications or years.
+3. Branches (where relevant): If the answer depends on conditions, present each branch explicitly — e.g., "If full-time: ... If part-time: ... If casual: ..."
+4. Next Steps (where relevant): If the user needs to act (submit a form, notify a manager, check a salary circular), list the steps.
+5. Sources: Compact list of cited clauses — clause number, EBA name, one-line summary of what it covers.
+
+## Citation Format
+After every factual claim, include a source reference: [EBA Name, Clause N] or [EBA Name, Appendix N] or [EBA Name, Schedule N].
+Example: "Casual employees receive a 25% casual loading [Allied Health EBA, Clause 12]."
+End every response with a Sources section listing each cited clause and a one-line description.
+
+## Brain Mode
+When you provide expert synthesis or interpretation of how clauses interact (beyond quoting the text directly), wrap it in 🧠 ... 🧠. Do not include source citations inside the 🧠 block — place them in Sources.
+
+## Tone
+Confident and direct. No apologies, no AI disclaimers, no hedging. Plain language — explain legal terminology on first use. Non-moralising. No repetition.
+
+## Thin Evidence
+If the provided sources are insufficient: state what you know, label the gap clearly ("Evidence gap: I cannot confirm [X] from the provided content"), and suggest a next step (e.g., "Check Clause N directly in the [EBA Name] PDF on the wiki").
+
+## Scope
+If a question falls outside EBA coverage (Fair Work Act procedures, unfair dismissal, WorkCover), acknowledge it: "This falls outside EBA coverage — consult [Fair Work Commission / WorkSafe Victoria / your union delegate]." Do not provide legal advice.`;
+
+// ─── AI PROVIDER FUNCTIONS ────────────────────────────────────────────────────
+
+function buildMessages(question, pages) {
   const context = pages
     .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
     .join('\n\n');
+  return [
+    { role: 'system', content: SYSTEM_PROMPT },
+    { role: 'user', content: `QUESTION: ${question}\n\nSOURCES:\n${context}` }
+  ];
+}
 
+// Tier 1: Cerebras — llama3.1-8b — 1,000,000 tokens/day free
+async function askCerebras(apiKey, question, pages) {
+  const res = await fetch('https://api.cerebras.ai/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`
+    },
+    body: JSON.stringify({
+      model: 'llama3.1-8b',
+      temperature: 0.1,
+      max_tokens: 1024,
+      messages: buildMessages(question, pages)
+    })
+  });
+  if (!res.ok) throw new Error(`Cerebras ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  const text = data?.choices?.[0]?.message?.content;
+  if (!text) throw new Error('Cerebras returned no content');
+  return { text, provider: 'Cerebras (llama3.1-8b)' };
+}
+
+// Tier 2: Groq — llama-3.3-70b-versatile — ~14,400 req/day free
+async function askGroq(apiKey, question, pages) {
   const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -1359,24 +1411,59 @@ async function askGroq(apiKey, question, pages) {
       'Authorization': `Bearer ${apiKey}`
     },
     body: JSON.stringify({
-      model: GROQ_MODEL,
+      model: 'llama-3.3-70b-versatile',
       temperature: 0.1,
       max_tokens: 1024,
-      messages: [
-        { role: 'system', content: SYSTEM_PROMPT },
-        { role: 'user', content: `QUESTION: ${question}\n\nSOURCES:\n${context}` }
-      ]
+      messages: buildMessages(question, pages)
     })
   });
-
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Groq error ${res.status}: ${err}`);
-  }
-
+  if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`);
   const data = await res.json();
-  return data?.choices?.[0]?.message?.content || 'No response from Groq.';
+  const text = data?.choices?.[0]?.message?.content;
+  if (!text) throw new Error('Groq returned no content');
+  return { text, provider: 'Groq (llama-3.3-70b-versatile)' };
 }
+
+// Tier 3: Gemini — gemini-2.5-flash-lite — 1,000 req/day free
+async function askGemini(apiKey, question, pages) {
+  const context = pages
+    .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
+    .join('\n\n');
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${apiKey}`;
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
+      contents: [{
+        role: 'user',
+        parts: [{ text: `QUESTION: ${question}\n\nSOURCES:\n${context}` }]
+      }],
+      generationConfig: { maxOutputTokens: 1024, temperature: 0.1 }
+    })
+  });
+  if (!res.ok) throw new Error(`Gemini ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+  if (!text) throw new Error('Gemini returned no content');
+  return { text, provider: 'Gemini (gemini-2.5-flash-lite)' };
+}
+
+// Tier 4: Cloudflare Workers AI — llama-3.1-8b — native binding, no API key
+async function askCloudflareAI(ai, question, pages) {
+  const messages = buildMessages(question, pages);
+  const res = await ai.run('@cf/meta/llama-3.1-8b-instruct-fp8-fast', {
+    messages,
+    max_tokens: 1024
+  });
+  const text = typeof res === 'string'
+    ? res
+    : res?.response ?? res?.choices?.[0]?.message?.content;
+  if (!text) throw new Error('Cloudflare AI returned no content');
+  return { text, provider: 'Cloudflare Workers AI (llama-3.1-8b)' };
+}
+
+// ─── CORS HELPERS ─────────────────────────────────────────────────────────────
 
 function corsHeaders(origin) {
   const allowed = origin === CORS_ORIGIN ? origin : CORS_ORIGIN;
@@ -1386,6 +1473,15 @@ function corsHeaders(origin) {
     'Access-Control-Allow-Headers': 'Content-Type',
   };
 }
+
+function jsonResponse(body, status, origin) {
+  return new Response(JSON.stringify(body), {
+    status,
+    headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
+  });
+}
+
+// ─── MAIN HANDLER ─────────────────────────────────────────────────────────────
 
 export default {
   async fetch(request, env) {
@@ -1404,63 +1500,103 @@ export default {
       const body = await request.json();
       question = (body.question || '').trim();
     } catch {
-      return new Response(JSON.stringify({ error: 'Invalid JSON body.' }), {
-        status: 400,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
+      return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin);
     }
 
     if (!question || question.length < 5) {
-      return new Response(JSON.stringify({ error: 'Question is too short.' }), {
-        status: 400,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
+      return jsonResponse({ error: 'Question is too short.' }, 400, origin);
     }
 
+    // Step 1: Score and select relevant EBA pages
     const paths = scoreAndSelectPaths(question);
 
     if (paths.length === 0) {
-      return new Response(JSON.stringify({
+      return jsonResponse({
         answer: 'I could not identify which EBA or topic your question relates to. Try including the EBA name (e.g. "Nurses and Midwives EBA") and a specific topic (e.g. "overtime", "public holiday", "wages").'
-      }), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
+      }, 200, origin);
     }
 
+    // Step 2: Fetch Markdown content from GitHub Raw
     const pageResults = await Promise.all(paths.map(fetchMarkdown));
     const pages = pageResults.filter(Boolean);
 
     if (pages.length === 0) {
-      return new Response(JSON.stringify({
+      return jsonResponse({
         answer: `I matched your question to EBA content but could not retrieve it. Please visit the wiki directly:\n\nhttps://dreadnaughtasaurous.github.io/${paths[0].replace('.md', '.html')}`
-      }), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
+      }, 200, origin);
     }
 
-    if (!env.GROQ_API_KEY) {
-      return new Response(JSON.stringify({ error: 'GROQ_API_KEY is not configured in the Worker environment.' }), {
-        status: 500,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
+    // Step 3: Try each AI provider in tier order
+    const attempts = [];
+
+    // Tier 1: Cerebras
+    if (env.CEREBRAS_API_KEY) {
+      try {
+        const result = await askCerebras(env.CEREBRAS_API_KEY, question, pages);
+        return jsonResponse({
+          answer: result.text,
+          provider: result.provider,
+          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
+        }, 200, origin);
+      } catch (err) {
+        attempts.push({ provider: 'Cerebras', error: err.message });
+      }
+    } else {
+      attempts.push({ provider: 'Cerebras', error: 'CEREBRAS_API_KEY not configured' });
     }
 
-    try {
-      const answer = await askGroq(env.GROQ_API_KEY, question, pages);
-      return new Response(JSON.stringify({
-        answer,
-        sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
-      }), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
-    } catch (err) {
-      return new Response(JSON.stringify({ error: `AI error: ${err.message}` }), {
-        status: 500,
-        headers: { 'Content-Type': 'application/json', ...corsHeaders(origin) }
-      });
+    // Tier 2: Groq
+    if (env.GROQ_API_KEY) {
+      try {
+        const result = await askGroq(env.GROQ_API_KEY, question, pages);
+        return jsonResponse({
+          answer: result.text,
+          provider: result.provider,
+          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
+        }, 200, origin);
+      } catch (err) {
+        attempts.push({ provider: 'Groq', error: err.message });
+      }
+    } else {
+      attempts.push({ provider: 'Groq', error: 'GROQ_API_KEY not configured' });
     }
+
+    // Tier 3: Gemini
+    if (env.GEMINI_API_KEY) {
+      try {
+        const result = await askGemini(env.GEMINI_API_KEY, question, pages);
+        return jsonResponse({
+          answer: result.text,
+          provider: result.provider,
+          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
+        }, 200, origin);
+      } catch (err) {
+        attempts.push({ provider: 'Gemini', error: err.message });
+      }
+    } else {
+      attempts.push({ provider: 'Gemini', error: 'GEMINI_API_KEY not configured' });
+    }
+
+    // Tier 4: Cloudflare Workers AI (native binding — no API key required)
+    if (env.AI) {
+      try {
+        const result = await askCloudflareAI(env.AI, question, pages);
+        return jsonResponse({
+          answer: result.text,
+          provider: result.provider,
+          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
+        }, 200, origin);
+      } catch (err) {
+        attempts.push({ provider: 'Cloudflare AI', error: err.message });
+      }
+    } else {
+      attempts.push({ provider: 'Cloudflare AI', error: 'AI binding not configured in wrangler.jsonc' });
+    }
+
+    // All providers failed
+    return jsonResponse({
+      error: 'All AI providers are currently unavailable. Please try again shortly.',
+      attempts
+    }, 503, origin);
   }
 };

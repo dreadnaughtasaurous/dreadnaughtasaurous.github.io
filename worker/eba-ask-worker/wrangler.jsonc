@@ -5,8 +5,14 @@
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
   "preview_urls": false,
+  "ai": {
+    "binding": "AI"
+  },
   "vars": {
     "PAGEFIND_BASE_URL": "https://dreadnaughtasaurous.github.io"
   }
-  // GEMINI_API_KEY is NOT stored here — set it via: wrangler secret put GEMINI_API_KEY
+  // Secrets are NOT stored here — set each via wrangler secret put:
+  //   npx wrangler secret put CEREBRAS_API_KEY
+  //   npx wrangler secret put GROQ_API_KEY
+  //   npx wrangler secret put GEMINI_API_KEY
 }
