@@ -94,8 +94,8 @@ The Health Service must give the Doctor a written response to the request made u
   - **(ii)** the Doctor’s position will cease to exist in the period of 12 months after giving the request;
   - **(iii)** the hours of work which the Doctor is required to perform will be significantly reduced in the period of 12 months after giving the request;
   - **(iv)** there will be a significant change in either or both of the following in the period of 12 months after giving the request:  
-    **(A)** the days on which the Doctor’s hours of work are required to be performed;  
-    **(B)** the times at which the Doctor’s hours of work are required to be performed;  
+    - **(A)** the days on which the Doctor’s hours of work are required to be performed;  
+    - **(B)** the times at which the Doctor’s hours of work are required to be performed;  
     which cannot be accommodated within the days or times the Doctor is available to work during that period;
   - **(v)** granting the request would not comply with a recruitment or selection process required by or under a law of the Commonwealth or a State or a Territory
 - **(c)** If the Health Service refuses the request, the written response under subclause **20.6** must include details of the reasons for the refusal.
@@ -110,7 +110,7 @@ The Health Service must give the Doctor a written response to the request made u
 - **(c)** The day specified for the purposes of [subclause 20.8(a)(iii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion)1.1(a)(iii) must be the first day of the Doctor's first full pay period that starts after the day the notice is given, unless the Doctor and Health Service agree to another day.
 - **(d)** To avoid doubt, the notice may be included in the written response under [subclause 20.6](/ebas/doctors-in-training/doctor-employment/20-casual-conversion).
 
-**20.9* Effect of conversion**
+**20.9 Effect of conversion**
 
 - **(a)** A Doctor is taken, on and after the day specified in a notice for the purposes of [subclauses 20.4(a)(iii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) and 20.8(a)(iii) to be a full-time Doctor or a part-time Doctor of the Health Service.
 - **(b)** Casual loading will cease, and, subject to [subclause 20.6](/ebas/doctors-in-training/doctor-employment/20-casual-conversion), any benefits relating to permanent employment will commence on the day specified in a notice for the purposes of [subclauses 20.4(a)(iii)](/ebas/doctors-in-training/doctor-employment/20-casual-conversion) and 20.8(a)(iii).

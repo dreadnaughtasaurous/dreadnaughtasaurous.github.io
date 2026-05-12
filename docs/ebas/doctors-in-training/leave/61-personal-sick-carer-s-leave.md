@@ -1,5 +1,5 @@
 ---
-title: '61. Personal Sick Carer S Leave'
+title: '61. Personal (Sick) / Carer''s Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'personal-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'personal-leave']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 61. Personal Sick Carer S Leave
+# 61. Personal (Sick) / Carer's Leave
 
 **61.1 Entitlement**
 

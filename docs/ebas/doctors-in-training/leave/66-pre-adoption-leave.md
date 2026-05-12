@@ -1,5 +1,5 @@
 ---
-title: '66. Pre Adoption Leave'
+title: '66. Pre-Adoption Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'parental-leave']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 66. Pre Adoption Leave
+# 66. Pre-Adoption Leave
 
 **66.1** A Doctor seeking to adopt a child is, on the production of satisfactory evidence if required, entitled to unpaid leave for the purpose of attending any interviews or examinations necessary to the adoption procedure.
 

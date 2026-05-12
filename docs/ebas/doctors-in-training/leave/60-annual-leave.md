@@ -65,14 +65,14 @@ Prior to going on annual leave, the Doctor must be paid for the period of leave,
 - **(h)** The maximum amount of accrued paid annual leave that may be cashed out in any period of 12 months is 2 weeks.
 - **(i)** The Health Service must keep a copy of any agreement under [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave) as an employee record.
 
-> **Note 1:**  
-> Under section 344 of the Act, an employer must not exert undue influence or undue pressure on an employee to make, or not make, an agreement under [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave).  
-  
-> **Note 2:**  
-> Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave).  
+  > **Note 1:**  
+  > Under section 344 of the Act, an employer must not exert undue influence or undue pressure on an employee to make, or not make, an agreement under [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave).  
+    
+  > **Note 2:**  
+  > Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave).  
 
-> **Note 3:**  
-> An example of the type of agreement required by [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave) is set out at of agreement set out at [Appendix 5](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave)—Agreement to Cash Out Annual Leave.
+  > **Note 3:**  
+  > An example of the type of agreement required by [clause 60.5](/ebas/doctors-in-training/leave/60-annual-leave) is set out at of agreement set out at [Appendix 5](/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave)—Agreement to Cash Out Annual Leave.
 
 **60.6 Excessive annual leave accruals: general provision**
 
@@ -95,11 +95,11 @@ Prior to going on annual leave, the Doctor must be paid for the period of leave,
 - **(c)** The Doctor must take paid annual leave in accordance with a notice under [clause 60.6(a)](/ebas/doctors-in-training/leave/60-annual-leave) that is in effect.
 - **(d)** A Doctor to whom a notice has been given under [clause 60.7(a)](/ebas/doctors-in-training/leave/60-annual-leave) may request to take a period of paid annual leave as if the notice had not been given.
 
-> **Note 1:**  
-> Paid annual leave arising from a request mentioned in [clause 60.7(d)](/ebas/doctors-in-training/leave/60-annual-leave) may result in the direction ceasing to have effect. See [clause 60.7(b)(i)](/ebas/doctors-in-training/leave/60-annual-leave).  
->  
-> **Note 2:**  
-> Under section 88(2) of the Act, the Health Service must not unreasonably refuse to agree to a request by the Doctor to take paid annual leave.
+  > **Note 1:**  
+  > Paid annual leave arising from a request mentioned in [clause 60.7(d)](/ebas/doctors-in-training/leave/60-annual-leave) may result in the direction ceasing to have effect. See [clause 60.7(b)(i)](/ebas/doctors-in-training/leave/60-annual-leave).  
+
+  > **Note 2:**  
+  > Under section 88(2) of the Act, the Health Service must not unreasonably refuse to agree to a request by the Doctor to take paid annual leave.
 
 **60.8 Excessive annual leave accruals: request by Doctor for leave**
 

@@ -101,9 +101,8 @@ Consultation in this [clause 14.7](/ebas/doctors-in-training/consultation-disput
 
 Further information about workplace bullying and principles to manage and resolve bullying matters can be found at:
 
-• [www.worksafe.vic.gov.au/bullying-workplace](www.worksafe.vic.gov.au/bullying-workplace); and
-
-• [Victorian Public Sector Standards Commissioner’s Guide – Managing Poor Behaviour in the Workplace](https://www.vgls.vic.gov.au/client/en_AU/search/asset/1306156/0)
+- [www.worksafe.vic.gov.au/bullying-workplace](www.worksafe.vic.gov.au/bullying-workplace); and
+- [Victorian Public Sector Standards Commissioner’s Guide – Managing Poor Behaviour in the Workplace](https://www.vgls.vic.gov.au/client/en_AU/search/asset/1306156/0)
 
 **14.9** Employers will review and use for guidance the Best Practice Guide developed jointly by the Association and VHIA and make it available at the workplace.
 

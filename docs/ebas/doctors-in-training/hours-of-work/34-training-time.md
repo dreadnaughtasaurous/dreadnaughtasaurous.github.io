@@ -76,17 +76,17 @@ the Health Service must reallocate the Training Time by the end of the following
   - **(i)** overtime rates for work performed above ordinary hours; and
   - **(ii)** ordinary pay for any portion of Training Time not taken.
 
-> **Example 1**  
-> A Doctor rostered for 76 ordinary hours + 10 hours Training Time performs work during the 10 hours and Training Time cannot be reallocated. Payment:  
-> – 76 hours at ordinary rate  
-> – 10 hours at overtime rates (for work above ordinary hours)  
-> – 10 hours at ordinary rate (for Training Time not taken)
+  > **Example 1**  
+  > A Doctor rostered for 76 ordinary hours + 10 hours Training Time performs work during the 10 hours and Training Time cannot be reallocated. Payment:  
+  > – 76 hours at ordinary rate  
+  > – 10 hours at overtime rates (for work above ordinary hours)  
+  > – 10 hours at ordinary rate (for Training Time not taken)
 
-> **Example 2**  
-> A Doctor rostered for 76 ordinary hours + 10 hours Training Time accesses 4 hours, and 6 hours are carried over but worked. Payment:  
-> – 76 hours at ordinary rate  
-> – 6 hours at overtime rates  
-> – 4 hours at ordinary rate (Training Time taken)  
-> – The 6 carried-over hours must be rostered in addition to the next fortnight’s Training Time entitlement.
+  > **Example 2**  
+  > A Doctor rostered for 76 ordinary hours + 10 hours Training Time accesses 4 hours, and 6 hours are carried over but worked. Payment:  
+  > – 76 hours at ordinary rate  
+  > – 6 hours at overtime rates  
+  > – 4 hours at ordinary rate (Training Time taken)  
+  > – The 6 carried-over hours must be rostered in addition to the next fortnight’s Training Time entitlement.
 
 Plain language terms: protected training time.

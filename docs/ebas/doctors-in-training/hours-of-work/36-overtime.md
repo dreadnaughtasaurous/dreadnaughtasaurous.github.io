@@ -36,7 +36,7 @@ Where Doctor works overtime the Health Service must, subject to [subclauses 36.4
 | Sunday—all day | 200% | 225% |
 | Public holidays—all day | 250% | 275% |
 
-¹Includes **25%** casual loading provided in [clause 19.3](/ebas/doctors-in-training/doctor-employment/19-casual-employment).
+¹ Includes **25%** casual loading provided in [clause 19.3](/ebas/doctors-in-training/doctor-employment/19-casual-employment).
 
 **36.4 Part-time doctors**
 

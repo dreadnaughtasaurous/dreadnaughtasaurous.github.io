@@ -1,5 +1,5 @@
 ---
-title: '33A. 24. 7. Rostering'
+title: '33A. 24/7 Rostering'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 33A. 24. 7. Rostering
+# 33A. 24/7 Rostering
 
 **33A.1** Where a Health Service rosters Doctors on a 24/7 basis in any part of its organisation, the rosters will include overlap between the shifts to allow for handover.
 
