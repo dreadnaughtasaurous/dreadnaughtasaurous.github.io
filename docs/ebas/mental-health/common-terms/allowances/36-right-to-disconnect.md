@@ -29,7 +29,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
     - **(d)** the nature of the employee's role and the employee's level of responsibility;
     - **(e)** the employee's personal circumstances (including family or caring responsibilities).
 
-Note: For the purposes of paragraph (c), the extent to which an employee is compensated includes any non - monetary compensation.
+    >**Note:** For the purposes of paragraph (c), the extent to which an employee is compensated includes any non - monetary compensation.
 
 - **(4)** For the avoidance of doubt, an employee's refusal to monitor, read or respond to contact, or attempted contact, from their employer, or from a third party if the contact or attempted contact relates to their work, will be unreasonable if the contact or attempted contact is required under a law of the Commonwealth, a State or a Territory.
 - **(5)** The dispute resolution procedure in this Agreement will apply to disputes arising in relation to this clause.

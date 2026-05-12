@@ -8,13 +8,16 @@ import SearchModal from './components/SearchModal.vue'
 import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 import FileAttachment from './components/FileAttachment.vue'
+import CopyButton from './components/CopyButton.vue'
 
 export default {
   extends: DefaultTheme,
   Layout() {
   return h(DefaultTheme.Layout, null, {
     'nav-bar-content-before': () => h(SearchModal),
-    'doc-before': () => h('div', { 'data-pagefind-body': true, style: 'display:contents' }),
+    'doc-before': () => h('div', { 'data-pagefind-body': true, style: 'display:contents' },
+    h(CopyButton)
+  ),
   })
 },
   enhanceApp({ app }) {
@@ -24,5 +27,6 @@ export default {
     app.component('PayTable', PayTable)
     app.component('HomeCards', HomeCards)
     app.component('FileAttachment', FileAttachment)
+    app.component('CopyButton', CopyButton)
   }
 }

@@ -21,7 +21,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(c)** An Employee will not be entitled to reimbursement for work-related travelling expenses that exceed the mode of transport, meals or the standard of accommodation agreed for the purpose with the Employer.
 - **(d)** Where an Employer requires an Employee to use their own motor vehicle in the performance of their duties, such Employee will be paid the per kilometre vehicle allowances pursuant to Part 1 of [Schedule 2C](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services) or Part 1 or 2 of [Schedule 3C](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers) (as applicable).
 
-**41.2** Dental Assistants employed by DHSV This [subclause 41.2](/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker) only applies to Dental Assistants employed by DHSV.
+**41.2** Dental Assistants employed by DHSV 
+
+This [subclause 41.2](/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker) only applies to Dental Assistants employed by DHSV.
 
 - **(a) Use of Own Vehicle**
   - **(i)** In accordance with the Employer’s Reimbursement of Expenses policy, as varied from time to time, where an Employee is required to work at a location that involves travel using their own motor vehicle, and such travel is in excess of their nominated daily threshold, they will be entitled to claim travel expenses for the distance travelled in excess of the threshold.
