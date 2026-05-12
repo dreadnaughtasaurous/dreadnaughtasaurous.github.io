@@ -375,6 +375,128 @@ function fireShortcut(shortcut) {
   doSearch()
 }
 
+// ─── Markdown → HTML renderer for AI responses ────────────────────────────────
+// Converts the subset of Markdown the AI system prompt produces into safe HTML.
+// Handles: headings, bold, italic, inline code, numbered lists, bullet lists,
+// blockquotes (🧠 Brain Mode), horizontal rules, paragraphs, and line breaks.
+// Does NOT use an external library — keeps the bundle lean.
+// ─── Markdown → HTML renderer for AI responses ────────────────────────────────
+// ─── Markdown → HTML renderer for AI responses ────────────────────────────────
+function renderMarkdown(md) {
+  if (!md) return ''
+
+  // 0. Normalise line endings
+  md = md.replace(/\r\n/g, '\n').replace(/\r/g, '\n')
+
+  // 1. Promote plain-text section labels to bold Markdown (model compliance fallback)
+  md = md.replace(
+    /^(BLUF|Detail|Branches|Branch|Sources?|Update):\s*/gm,
+    '**$1:** '
+  )
+
+  // 2. Auto-bold bare percentages and dollar amounts not already bolded
+  md = md.replace(/(?<!\*)\b(\d+(?:\.\d+)?%)\b(?!\*)/g, '**$1**')
+  md = md.replace(/(?<!\*)\b(\$\d+(?:\.\d+)?)\b(?!\*)/g, '**$1**')
+
+  // 3a. Collapse label-only lines: **Label:**\n\ncontent → **Label:**\ncontent
+  //     The model consistently outputs a blank line between every section label
+  //     and its content. This joins them into one chunk before paragraph splitting.
+  md = md.replace(
+    /^(\*\*(?:BLUF|Detail|Branches|Branch|Sources?|Update):\*\*)\n\n/gm,
+    '$1\n'
+  )
+
+  // 3b. Collapse 3+ consecutive newlines to exactly 2
+  md = md.replace(/\n{3,}/g, '\n\n')
+
+  // 4. Escape HTML to prevent XSS
+  let html = md
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+
+  // 5. Horizontal rules
+  html = html.replace(/^[-*]{3,}\s*$/gm, '<hr>')
+
+  // 6. Headings
+  html = html.replace(/^### (.+)$/gm, '<h4>$1</h4>')
+  html = html.replace(/^## (.+)$/gm,  '<h3>$1</h3>')
+  html = html.replace(/^# (.+)$/gm,   '<h2>$1</h2>')
+
+  // 7. Bold and italic
+  html = html.replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>')
+  html = html.replace(/\*([^*\n]+)\*/g,     '<em>$1</em>')
+
+  // 8. Inline code
+  html = html.replace(/`([^`\n]+)`/g, '<code>$1</code>')
+
+  // 9. Blockquotes
+  html = html.replace(/^&gt;\s?(.+)$/gm, '<blockquote>$1</blockquote>')
+
+  // 10. Process line-by-line: build list blocks AND extract section labels
+  //     that sit on their own line immediately before a list item.
+  //     This prevents <p><ul> invalid nesting that breaks browser layout.
+  const sectionLabelRe = /^<strong>(BLUF|Detail|Branches|Branch|Sources?|Update):<\/strong>\s*$/
+  const lines = html.split('\n')
+  const out   = []
+  let inOl    = false
+  let inUl    = false
+
+  for (let i = 0; i < lines.length; i++) {
+    const line    = lines[i]
+    const olMatch = line.match(/^(\d+)\.\s+(.+)/)
+    const ulMatch = line.match(/^[-*+]\s+(.+)/)
+
+    if (olMatch) {
+      if (inUl) { out.push('</ul>'); inUl = false }
+      if (!inOl) { out.push('<ol>'); inOl = true }
+      out.push(`<li>${olMatch[2]}</li>`)
+    } else if (ulMatch) {
+      if (inOl) { out.push('</ol>'); inOl = false }
+      if (!inUl) { out.push('<ul>'); inUl = true }
+      out.push(`<li>${ulMatch[1]}</li>`)
+    } else {
+      // Close any open list before emitting a non-list line
+      if (inOl) { out.push('</ol>'); inOl = false }
+      if (inUl) { out.push('</ul>'); inUl = false }
+
+      // If this line is a standalone section label AND the next line is a
+      // list item, emit the label as a standalone section paragraph now,
+      // then let the next iteration open the list cleanly.
+      const nextLine = lines[i + 1] || ''
+      const nextIsList = /^[-*+\d]/.test(nextLine.trim())
+      if (sectionLabelRe.test(line.trim()) && nextIsList) {
+        out.push(`<p class="ai-section">${line.trim()}</p>`)
+      } else {
+        out.push(line)
+      }
+    }
+  }
+  if (inOl) out.push('</ol>')
+  if (inUl) out.push('</ul>')
+  html = out.join('\n')
+
+  // 11. Paragraphs — split on double newlines
+  //     Lines that start with a bold section label get class="ai-section"
+  const blockTags   = /^<(h[2-6]|ul|ol|blockquote|hr|pre|div|p\s)/
+  const sectionOpen = /^<strong>(BLUF|Detail|Branches|Branch|Sources?|Update):/
+  const paragraphs  = html.split(/\n{2,}/).map(chunk => {
+    const trimmed = chunk.trim()
+    if (!trimmed) return ''
+    // Already a block element (including our pre-built <p class="ai-section">)
+    if (blockTags.test(trimmed)) return trimmed
+    const cls = sectionOpen.test(trimmed) ? ' class="ai-section"' : ''
+    return `<p${cls}>${trimmed.replace(/\n/g, '<br>')}</p>`
+  })
+  html = paragraphs.filter(Boolean).join('\n')
+
+  // 12. Merge adjacent same-type list tags split across paragraph boundaries
+  html = html.replace(/<\/ol>\n<ol>/g, '')
+  html = html.replace(/<\/ul>\n<ul>/g, '')
+
+  return html
+}
+
 // ─── Option 4: Excerpt cleaner ────────────────────────────────────────────────
 // Pagefind returns raw indexed text that still contains markdown syntax characters
 // because they were present as text nodes in the crawled HTML.
@@ -787,7 +909,7 @@ async function submitAsk() {
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
     const data = await res.json()
-    aiAnswer.value  = data.answer ?? 'No answer returned.'
+    aiAnswer.value  = renderMarkdown(data.answer ?? 'No answer returned.')
     // Transform plain URL strings into { url, title } objects for the template.
     // Title is derived from the last path segment: '49-overtime' → 'Clause 49: Overtime'
     aiSources.value = (data.sources ?? []).map(url => {
@@ -1059,9 +1181,92 @@ async function submitAsk() {
 .ai-error { padding: 1rem; border-radius: 8px; background: var(--vp-c-danger-soft); color: var(--vp-c-danger-1); font-size: 0.875rem; }
 .ai-answer { display: flex; flex-direction: column; gap: 0.75rem; }
 .ai-answer-body {
-  font-size: 0.9rem; line-height: 1.7; color: var(--vp-c-text-1);
-  padding: 1rem; background: var(--vp-c-bg-soft);
-  border-radius: 8px; border: 1px solid var(--vp-c-divider);
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--vp-c-text-1);
+}
+
+/* Headings inside AI response */
+.ai-answer-body h2,
+.ai-answer-body h3,
+.ai-answer-body h4 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  margin: 1rem 0 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Paragraphs */
+.ai-answer-body p {
+  margin: 0 0 0.5rem;
+}
+.ai-answer-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Section-opening paragraphs — bold label lines get extra top spacing */
+.ai-answer-body p.ai-section {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+/* First section label never gets a top border or extra top margin */
+.ai-answer-body p.ai-section:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+/* Bold and italic */
+.ai-answer-body strong {
+  font-weight: 650;
+  color: var(--vp-c-text-1);
+}
+.ai-answer-body em {
+  font-style: italic;
+  color: var(--vp-c-text-2);
+}
+
+/* Inline code — clause references */
+.ai-answer-body code {
+  font-family: var(--vp-font-family-mono, monospace);
+  font-size: 0.8rem;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+}
+
+/* Numbered and bullet lists */
+.ai-answer-body ol,
+.ai-answer-body ul {
+  margin: 0.4rem 0 0.65rem 1.25rem;
+  padding: 0;
+}
+.ai-answer-body li {
+  margin-bottom: 0.3rem;
+  line-height: 1.6;
+}
+
+/* Blockquote — Brain Mode 🧠 */
+.ai-answer-body blockquote {
+  margin: 0.65rem 0;
+  padding: 0.5rem 0.75rem;
+  border-left: 3px solid var(--vp-c-brand);
+  background: var(--vp-c-bg-soft);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+}
+
+/* Horizontal rule — section divider */
+.ai-answer-body hr {
+  border: none;
+  border-top: 1px solid var(--vp-c-divider);
+  margin: 0.75rem 0;
 }
 .ai-sources { display: flex; flex-direction: column; gap: 0.3rem; }
 .ai-sources-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--vp-c-text-3); margin: 0; }

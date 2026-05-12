@@ -1353,8 +1353,7 @@ Structure every response as follows:
 1. BLUF (1–2 sentences): The direct answer. What the entitlement is, in plain terms.
 2. Detail: The relevant clause text. Use numbered steps for procedural entitlements. Use tables for rate comparisons across classifications or years.
 3. Branches (where relevant): If the answer depends on conditions, present each branch explicitly — e.g., "If full-time: ... If part-time: ... If casual: ..."
-4. Next Steps (where relevant): If the user needs to act (submit a form, notify a manager, check a salary circular), list the steps.
-5. Sources: Compact list of cited clauses — clause number, EBA name, one-line summary of what it covers.
+4. Sources: Compact list of cited clauses — clause number, EBA name, one-line summary of what it covers.
 
 ## Citation Format
 After every factual claim, include a source reference: [EBA Name, Clause N] or [EBA Name, Appendix N] or [EBA Name, Schedule N].
@@ -1381,7 +1380,21 @@ function buildMessages(question, pages) {
     .join('\n\n');
   return [
     { role: 'system', content: SYSTEM_PROMPT },
-    { role: 'user', content: `QUESTION: ${question}\n\nSOURCES:\n${context}` }
+    {
+      role: 'user',
+      content: `QUESTION: ${question}\n\nSOURCES:\n${context}\n\n` +
+      `FORMAT REQUIREMENTS (mandatory):\n` +
+      `- First line must be: **BLUF:** your one-sentence answer.\n` +
+      `- Every section label must use bold: **Detail:** **Branches:** **Sources:**\n` +
+      `- Clause numbers must be bold: e.g. **Clause 49** not plain text.\n` +
+      `- Percentages and dollar amounts must be bold: e.g. **250%** or **$45.60**.\n` +
+      `- Use bullet lists with - for all list items. Example:\n` +
+      `  - First item\n` +
+      `  - Second item\n` +
+      `- Separate every section with a blank line.\n` +
+      `- Never write a section label without ** on both sides.\n` +
+      `- Never return a wall of text — every section must be visually distinct.`
+    }
   ];
 }
 
