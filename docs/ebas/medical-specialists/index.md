@@ -22,11 +22,9 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 ---
 
-**Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/medical-specialists/preliminary/1-title). 
-
-**Nominal expiry:** 2026-02-28. 
-
-**Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+- **Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/medical-specialists/preliminary/1-title). 
+- **Nominal expiry:** 2026-02-28. 
+- **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
 
 ---
 

@@ -22,11 +22,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 ---
 
-**Coverage:** Victorian public health sector Health and Allied Services Employees, Dental Assistants, Managers and Administrative Workers (see [Schedule 1A](/ebas/has-managers-admin/schedules/1a-employers-covered)). 
-
-**Nominal expiry:** 2025-06-30. 
-
-**Parties:** VHIA (employers), HSU, ASU, VAHPA, ANMF, AMA, HACSU, CPSU.
+- **Coverage:** Victorian public health sector Health and Allied Services Employees, Dental Assistants, Managers and Administrative Workers (see [Schedule 1A](/ebas/has-managers-admin/schedules/1a-employers-covered)). 
+- **Nominal expiry:** 2025-06-30. 
+- **Parties:** VHIA (employers), HSU, ASU, VAHPA, ANMF, AMA, HACSU, CPSU.
 
 ---
 

@@ -22,11 +22,9 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 ---
 
-**Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at [Schedule 1](/ebas/mspp/schedules/1-employer-parties). 
-
-**Nominal expiry:** 2025-11-30. 
-
-**Parties:** HSU Victoria No. 2 Branch and the listed public health employers.
+- **Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at [Schedule 1](/ebas/mspp/schedules/1-employer-parties). 
+- **Nominal expiry:** 2025-11-30. 
+- **Parties:** HSU Victoria No. 2 Branch and the listed public health employers.
 
 ---
 

@@ -22,11 +22,9 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 ---
 
-**Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/doctors-in-training/preliminary/1-title). 
-
-**Nominal expiry:** 2026-02-28. 
-
-**Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+- **Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/doctors-in-training/preliminary/1-title). 
+- **Nominal expiry:** 2026-02-28. 
+- **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
 
 ---
 

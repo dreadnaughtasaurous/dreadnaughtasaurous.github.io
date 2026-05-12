@@ -22,11 +22,9 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 ---
 
-**Coverage:** 20 Victorian public mental health employers (see [Schedule 1](/ebas/mental-health/schedules/01-list-of-employers) of the agreement). 
-
-**Nominal expiry:** 2028-12-30. 
-
-**Parties:** VHIA (employers), ANMF, HACSU.
+- **Coverage:** 20 Victorian public mental health employers (see [Schedule 1](/ebas/mental-health/schedules/01-list-of-employers) of the agreement). 
+- **Nominal expiry:** 2028-12-30. 
+- **Parties:** VHIA (employers), ANMF, HACSU.
 
 ---
 

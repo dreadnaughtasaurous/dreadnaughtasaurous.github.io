@@ -23,13 +23,11 @@ childrens services childcare worker early childhood educator family day care ECE
 
 ---
 
-**Coverage:** National Fair Work Commission modern award for employers and employees in the children's services industry (long day care, preschools, outside-school-hours care, occasional care, adjunct care and similar). Use this award alongside the National Employment Standards. 
+- **Coverage:** National Fair Work Commission modern award for employers and employees in the children's services industry (long day care, preschools, outside-school-hours care, occasional care, adjunct care and similar). Use this award alongside the National Employment Standards. 
+- **Type:** Modern Award (Fair Work Commission). Consolidated to 2025-07-01. 
+- **Authoritative source:** [Award MA000120 on the Fair Work Commission website](https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000120-summary).
 
-**Type:** Modern Award (Fair Work Commission). Consolidated to 2025-07-01. 
-
-**Authoritative source:** [Award MA000120 on the Fair Work Commission website](https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000120-summary).
-
-Modern award, not an enterprise agreement
+The Children's Services agreement is a Modern award, not an enterprise agreement
 
 Unlike the other seven instruments in this wiki, the Children's Services Award is a nationally-made modern award and is periodically varied by Fair Work Commission determinations rather than replaced through bargaining. Always check the latest PR (variation) references on the FWC page before giving advice on pay or allowances.
 

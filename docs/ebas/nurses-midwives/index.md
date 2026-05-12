@@ -22,11 +22,9 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 ---
 
-**Coverage:** Victorian public sector nurses and midwives (Single Interest Employer agreement). 
-
-**Nominal expiry:** 2028-04-30. 
-
-**Parties:** VHIA (employers), ANMF, HSU.
+- **Coverage:** Victorian public sector nurses and midwives (Single Interest Employer agreement). 
+- **Nominal expiry:** 2028-04-30. 
+- **Parties:** VHIA (employers), ANMF, HSU.
 
 ---
 
