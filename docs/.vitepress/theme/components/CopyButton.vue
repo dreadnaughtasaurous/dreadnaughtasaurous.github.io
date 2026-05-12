@@ -43,7 +43,7 @@ const copying  = ref(false)
 const buttonTitle = computed(() => {
   if (copied.value)   return 'Copied!'
   if (hasError.value) return 'Copy failed — try again'
-  return 'Copy page contents for Jira Service Management'
+  return 'Copy page contents'
 })
 
 async function copyContents() {
