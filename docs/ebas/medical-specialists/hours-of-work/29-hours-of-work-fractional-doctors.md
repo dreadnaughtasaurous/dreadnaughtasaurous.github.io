@@ -1,5 +1,5 @@
 ---
-title: '29. Hours Of Work Fractional Doctors'
+title: '29. Hours of Work (Fractional Doctors)'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours']
 ---
@@ -11,7 +11,7 @@ topics: ['hours']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 29. Hours Of Work Fractional Doctors
+# 29. Hours of Work (Fractional Doctors)
 
 **29.1** Subject to this clause, the ordinary hours of work for a Fractional Doctor will be in accordance with their fractional allocation of hours as agreed between the Health Service and the Doctor.
 

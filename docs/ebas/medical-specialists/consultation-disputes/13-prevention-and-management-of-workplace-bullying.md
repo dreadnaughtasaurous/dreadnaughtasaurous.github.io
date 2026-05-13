@@ -1,5 +1,5 @@
 ---
-title: '13. Prevention And Management Of Workplace Bullying'
+title: '13. Prevention and Management of Workplace Bullying'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 13. Prevention And Management Of Workplace Bullying
+# 13. Prevention and Management of Workplace Bullying
 
 ---
 
@@ -28,23 +28,23 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 - **(a)** **Workplace Bullying** is repeated, unreasonable behaviour directed at an employee or group of employees that creates a risk to health and safety. Reasonable management action carried out in a reasonable manner is not bullying.
 
-> **Example:**
->
-> Examples of **workplace bullying** include repeated:
->
-> - **(i)** Verbal abuse. For example, being sworn at, threatened, insulted, continual inappropriate and/or invalid criticism, name calling, practical jokes, unjustified threats of punishment, belittling and humiliation, gossip and malicious rumours, inappropriate language, yelling.
-> - **(ii)** Unreasonable demands, unnecessary pressure and impossible deadlines, which are targeted at an employee or group of employees
-> - **(iii)** Unfair allocation of tasks and/or working hours. For example, repeatedly requiring a particular person to stay back after hours or rostering them onto night duty
-> - **(iv)** Undermining a person’s work performance, recognition or position, especially with their managers or co-workers
-> - **(v)** Hostile behaviour toward an employee or group of Employees. For example, excluding them from conversations or various activities
+  > **Example:**
+  >
+  > Examples of **workplace bullying** include repeated:
+  >
+  > - **(i)** Verbal abuse. For example, being sworn at, threatened, insulted, continual inappropriate and/or invalid criticism, name calling, practical jokes, unjustified threats of punishment, belittling and humiliation, gossip and malicious rumours, inappropriate language, yelling.
+  > - **(ii)** Unreasonable demands, unnecessary pressure and impossible deadlines, which are targeted at an employee or group of employees
+  > - **(iii)** Unfair allocation of tasks and/or working hours. For example, repeatedly requiring a particular person to stay back after hours or rostering them onto night duty
+  > - **(iv)** Undermining a person’s work performance, recognition or position, especially with their managers or co-workers
+  > - **(v)** Hostile behaviour toward an employee or group of Employees. For example, excluding them from conversations or various activities
 
-> **Example:**
->
-> Examples of **reasonable management action** carried out in a reasonable manner include:
->
-> - **(vi)** Genuine and reasonable instructions;
-> - **(vii)** Rostering and allocating working hours, where the requirements are reasonable; and
-> - **(viii)** Constructively delivered feedback or counselling intended to help employees to improve their work performance or the standard of their behaviour.
+  > **Example:**
+  >
+  > Examples of **reasonable management action** carried out in a reasonable manner include:
+  >
+  > - **(vi)** Genuine and reasonable instructions;
+  > - **(vii)** Rostering and allocating working hours, where the requirements are reasonable; and
+  > - **(viii)** Constructively delivered feedback or counselling intended to help employees to improve their work performance or the standard of their behaviour.
 
 - **(b)** **OHS Act** means the Occupational and Health Safety Act 2004.
 
@@ -122,7 +122,7 @@ Consultation in this [subclause 13.7](/ebas/medical-specialists/consultation-dis
 Further information about workplace bullying and principles to manage and resolve bullying matters can be found at:
 
 - **(a)** [www.worksafe.vic.gov.au/bullying-workplace](www.worksafe.vic.gov.au/bullying-workplace)
-- **(b)** Victorian Public Sector Standards Commissioner’s Guide – Managing Poor Behaviour in the Workplace.
+- **(b)** [Victorian Public Sector Standards Commissioner’s Guide – Managing Poor Behaviour in the Workplace](https://www.vpsc.vic.gov.au/wp-content/uploads/2016/12/Managing-Poor-behaviour-in-the-workplace-version-2.pdf)
 
 ---
 

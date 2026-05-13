@@ -1,5 +1,5 @@
 ---
-title: '58. Leave To Engage In Voluntary Emergency Management Activities'
+title: '58. Leave to Engage in Voluntary Emergency Management Activities'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 58. Leave To Engage In Voluntary Emergency Management Activities
+# 58. Leave to Engage in Voluntary Emergency Management Activities
 
 **58.1** A Doctor who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Doctor at a time when the Doctor would otherwise be required to be at work is entitled to leave for:
 

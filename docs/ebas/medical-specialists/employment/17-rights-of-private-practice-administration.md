@@ -1,5 +1,5 @@
 ---
-title: '17. Rights Of Private Practice Administration'
+title: '17. Rights of Private Practice Administration'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 17. Rights Of Private Practice Administration
+# 17. Rights of Private Practice Administration
 
 **17.1** Where a Doctor engages the Health Service as agent to bill his or her private patients:
 

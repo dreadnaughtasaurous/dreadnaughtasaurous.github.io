@@ -98,9 +98,9 @@ For the purposes of this clause:
 - **(h) Hospitalised children – agreement to not take unpaid Long Parental Leave**
   - **(i)** If:
     - **A.** a Child is required to remain in hospital after the Child's birth, or is hospitalised immediately after the Child's birth, including because:
-      - 1) the Child was born prematurely; or
-      - 2) the Child developed a complication or contracted an illness during the child's period of gestation or at birth; or
-      - 3) the Child developed a complication or contracted an illness following the Child's birth; and
+      - **1)** the Child was born prematurely; or
+      - **2)** the Child developed a complication or contracted an illness during the child's period of gestation or at birth; or
+      - **3)** the Child developed a complication or contracted an illness following the Child's birth; and
     - **B.** a Doctor, whether before or after the birth of the Child, gives notice in accordance with [subclause 54.6](/ebas/medical-specialists/leave/54-parental-leave) of the taking of a period of unpaid parental leave (the **original leave period**) in relation to the Child,
     - then the Doctor may agree with their Employer that the Doctor will not take unpaid parental leave for a period (**the permitted work period**) while the Child remains in hospital.
   - **(ii)** If the Doctor and Employer so agree, then the following rules have effect:
@@ -175,8 +175,8 @@ For the purposes of this clause:
 - **(e) Notice requirements – Flexible Long Parental Leave**
   - **(i)** If a Doctor wishes to take Flexible Long Parental Leave, the Doctor must give notice to the Employer as follows:
     - **A.** where the Doctor also takes unpaid Long Parental Leave or Short Parental Leave under [subclauses 54.3 or 54.4](/ebas/medical-specialists/leave/54-parental-leave) (the original leave);
-      - 1) at the same time as the Doctor gives notice in accordance with [subclause 54.6(a)](/ebas/medical-specialists/leave/54-parental-leave) in relation to the original leave, unless [subclause 2](/ebas/medical-specialists/preliminary/2-arrangement)) below applies; or
-      - 2) if the Doctor takes more than one period of unpaid Short Parental Leave, at the same time as the Doctor gives notice in accordance with [subclause 54.6(a)](/ebas/medical-specialists/leave/54-parental-leave) in relation to the first of those periods of leave; or
+      - **1)** at the same time as the Doctor gives notice in accordance with [subclause 54.6(a)](/ebas/medical-specialists/leave/54-parental-leave) in relation to the original leave, unless [subclause 2](/ebas/medical-specialists/preliminary/2-arrangement)) below applies; or
+      - **2)** if the Doctor takes more than one period of unpaid Short Parental Leave, at the same time as the Doctor gives notice in accordance with [subclause 54.6(a)](/ebas/medical-specialists/leave/54-parental-leave) in relation to the first of those periods of leave; or
     - **B.** otherwise - at least 10 weeks before starting the Flexible Long Parental Leave.
   - **(ii)** If the Employer agrees, the notice may be given at a later time than that specified in [subclause 54.6(e)(i)](/ebas/medical-specialists/leave/54-parental-leave).
   - **(iii)** The notice under [subclause 54.6(e)(i)](/ebas/medical-specialists/leave/54-parental-leave) must specify the total number of days (Flexible Days) of Flexible Long Parental Leave that the Doctor intends to take in relation to the Child.
@@ -223,8 +223,8 @@ Doctors’ entitlement to pre-adoption leave is set out at [clause 53](/ebas/med
   - **(i)** A female Eligible Doctor is entitled to a period of unpaid special leave if she is not fit for work during that period because:
     - **A.** she has a pregnancy-related illness; or
     - **B.** all of the following apply:
-      - 1) she has been pregnant; and
-      - 2) the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
+      - **1)** she has been pregnant; and
+      - **2)** the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
   - **(ii)** A female Eligible Doctor who has an entitlement to personal leave may, in part or whole, take personal leave instead of unpaid special leave under this clause.
   - **(iii)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child, the Eligible Doctor is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
 - **(b) Entitlement to paid special birth-related leave**

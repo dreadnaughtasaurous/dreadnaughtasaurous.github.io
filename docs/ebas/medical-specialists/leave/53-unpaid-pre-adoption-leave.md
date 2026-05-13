@@ -1,5 +1,5 @@
 ---
-title: '53. Unpaid Pre Adoption Leave'
+title: '53. Unpaid Pre-Adoption Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave', 'parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'parental-leave']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 53. Unpaid Pre Adoption Leave
+# 53. Unpaid Pre-Adoption Leave
 
 **53.1** A Doctor seeking to adopt a child is, on the production of satisfactory evidence if required, entitled to unpaid leave for the purpose of attending any interviews or examinations necessary to the adoption procedure.
 

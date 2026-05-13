@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 1 - List Of Employers / Health Services: Medical Specialists EBA'
+title: 'Appendix 1 - List of Employers / Health Services: Medical Specialists EBA'
 eba: 'Medical Specialists 2022-2026'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Appendix 1 - List Of Employers / Health Services: Medical Specialists EBA
+# Appendix 1 - List of Employers / Health Services: Medical Specialists EBA
 
 1. Albury Wodonga Health (Wodonga Hospital only)
 2. Alfred Health

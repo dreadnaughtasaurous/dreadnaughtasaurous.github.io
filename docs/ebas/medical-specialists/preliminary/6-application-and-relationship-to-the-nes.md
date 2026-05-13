@@ -1,5 +1,5 @@
 ---
-title: '6. Application And Relationship To The Nes'
+title: '6. Application and Relationship to the NES'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 6. Application And Relationship To The Nes
+# 6. Application and Relationship to the NES
 
 **6.1** The Appendices to this Agreement form part of the terms of the Agreement and are to be read in conjunction with this Agreement for all purposes, including for enforcement.
 

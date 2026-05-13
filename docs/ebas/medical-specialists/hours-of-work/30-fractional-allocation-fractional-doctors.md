@@ -1,5 +1,5 @@
 ---
-title: '30. Fractional Allocation Fractional Doctors'
+title: '30. Fractional Allocation (Fractional Doctors)'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 30. Fractional Allocation Fractional Doctors
+# 30. Fractional Allocation (Fractional Doctors)
 
 **30.1** The method of fractional allocation for Fractional Doctors will be in accordance with the following:
 

@@ -1,5 +1,5 @@
 ---
-title: '22. Transition To Retirement'
+title: '22. Transition to Retirement'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 22. Transition To Retirement
+# 22. Transition to Retirement
 
 **22.1** A Doctor may advise their Health Service in writing of their intention to retire within the next five years and participate in a retirement transition arrangement.
 

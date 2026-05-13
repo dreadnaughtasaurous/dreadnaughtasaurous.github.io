@@ -1,5 +1,5 @@
 ---
-title: '58A. Absences On Defence Leave'
+title: '58A. Absences on Defence Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 58A. Absences On Defence Leave
+# 58A. Absences on Defence Leave
 
 
 

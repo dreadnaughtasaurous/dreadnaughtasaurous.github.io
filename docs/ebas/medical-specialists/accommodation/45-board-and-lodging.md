@@ -1,5 +1,5 @@
 ---
-title: '45. Board And Lodging'
+title: '45. Board and Lodging'
 eba: 'Medical Specialists 2022-2026'
 topics: ['accommodation']
 ---
@@ -11,6 +11,6 @@ topics: ['accommodation']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 45. Board And Lodging
+# 45. Board and Lodging
 
 Where a Doctor as a condition of employment is required by the Health Service to reside in premises leased from the Health Service a deduction not exceeding $50.00 per week may be taken from the Doctor’s wages as rental.

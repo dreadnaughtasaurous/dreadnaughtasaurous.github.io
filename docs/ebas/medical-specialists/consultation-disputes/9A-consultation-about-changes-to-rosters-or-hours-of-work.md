@@ -1,5 +1,5 @@
 ---
-title: '9A. Consultation About Changes To Rosters Or Hours Of Work'
+title: '9A. Consultation About Changes to Rosters or Hours of Work'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters', 'consultation']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters', 'consultation']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 9A. Consultation About Changes To Rosters Or Hours Of Work
+# 9A. Consultation About Changes to Rosters or Hours of Work
 
 *This [clause 9A](/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work). applies where a change to regular rosters or ordinary hours of work (which may impact upon a Doctor, particularly in relation to their family and caring responsibilities) does not constitute ‘Major Change in accordance with [subclause 9.2(c)](/ebas/medical-specialists/consultation-disputes/9-consultation).*
 

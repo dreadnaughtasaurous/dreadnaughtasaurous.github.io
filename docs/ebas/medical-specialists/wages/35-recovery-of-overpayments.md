@@ -1,5 +1,5 @@
 ---
-title: '35. Recovery Of Overpayments'
+title: '35. Recovery of Overpayments'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 35. Recovery Of Overpayments
+# 35. Recovery of Overpayments
 
 **35.1 Details of overpayment**
 

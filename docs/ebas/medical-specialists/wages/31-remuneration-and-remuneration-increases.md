@@ -1,5 +1,5 @@
 ---
-title: '31. Remuneration And Remuneration Increases'
+title: '31. Remuneration and Remuneration Increases'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages']
 ---
@@ -13,7 +13,7 @@ topics: ['wages']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 31. Remuneration And Remuneration Increases
+# 31. Remuneration and Remuneration Increases
 
 **31.1** Weekly rates of pay will be increased by the amounts set out below:
 

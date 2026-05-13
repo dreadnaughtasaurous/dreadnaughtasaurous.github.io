@@ -1,5 +1,5 @@
 ---
-title: '15A. Climate Change Mitigation And Sustainability'
+title: '15A. Climate Change Mitigation and Sustainability'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 15A. Climate Change Mitigation And Sustainability
+# 15A. Climate Change Mitigation and Sustainability
 
 **15A.1 Acknowledgment**
 

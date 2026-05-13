@@ -1,5 +1,5 @@
 ---
-title: '26. On Call Full Time Doctors'
+title: '26. On-Call (Full-Time Doctors)'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'on-call']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'on-call']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 26. On Call Full Time Doctors
+# 26. On-Call (Full-Time Doctors)
 
 **26.1** All full time Doctors will hold themselves available to perform duty outside ordinary hours. Payment for this availability is included in the rates of pay for Full-time Doctors in Part 1 of [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances).
 

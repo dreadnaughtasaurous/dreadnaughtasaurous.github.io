@@ -1,5 +1,5 @@
 ---
-title: '12. Managing Conduct And Performance Discipline'
+title: '12. Managing Conduct and Performance Discipline'
 eba: 'Medical Specialists 2022-2026'
 topics: ['discipline']
 ---
@@ -13,7 +13,7 @@ topics: ['discipline']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 12. Managing Conduct And Performance Discipline
+# 12. Managing Conduct and Performance Discipline
 
 ---
 
@@ -29,6 +29,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 - **(c)** A Doctor will be provided a reasonable opportunity to be represented at any time (including by the Association) with respect to all matters set out in this clause.
 - **(d)** The Health Service will notify the Doctor in accordance with [subclause 12.4(b)](/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline)as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 12.1(a)](/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline).
 - **(e) Exception – Doctors who have not completed a minimum period of employment with their Health Service**
+
   Where a Doctor has not completed a period of employment with their Health Service of at least the minimum employment period defined at section 383 of the Act, and the Health Service is considering the termination of the Doctor's employment, the Health Service will:
   - **(i)** provide the concerns in writing to the Doctor as soon as practicable following the Health Service becoming aware of the alleged concerns;
   - **(ii)** advise the Doctor of their right to have a representative, including an Association representative;

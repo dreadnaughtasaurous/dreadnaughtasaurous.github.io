@@ -1,5 +1,5 @@
 ---
-title: '20. Roster Design Safe Hours Of Work'
+title: '20. Roster Design - Safe Hours of Work'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours', 'rosters']
 ---
@@ -13,7 +13,7 @@ topics: ['hours', 'rosters']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 20. Roster Design Safe Hours Of Work
+# 20. Roster Design - Safe Hours of Work
 
 **20.1** The provisions of this clause are to be read in conjunction with [clause 21](/ebas/medical-specialists/employment/21-workload-management-and-review) (Workload Management).
 

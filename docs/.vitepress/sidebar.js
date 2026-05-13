@@ -689,7 +689,7 @@ const sidebar = [
     collapsed: true,
     items: [
     { text: 'Accommodation', link: '/ebas/medical-specialists/accommodation', collapsed: true, items: [
-        { text: '45. Board And Lodging', link: '/ebas/medical-specialists/accommodation/45-board-and-lodging' },
+        { text: '45. Board and Lodging', link: '/ebas/medical-specialists/accommodation/45-board-and-lodging' },
         { text: '46. Breastfeeding', link: '/ebas/medical-specialists/accommodation/46-breastfeeding' }
       ] },
     { text: 'Allowances', link: '/ebas/medical-specialists/allowances', collapsed: true, items: [
@@ -699,79 +699,79 @@ const sidebar = [
         { text: '40. Travelling Allowance', link: '/ebas/medical-specialists/allowances/40-travelling-allowance' },
         { text: '41. Continuing Medical Education Support', link: '/ebas/medical-specialists/allowances/41-continuing-medical-education-support' },
         { text: '42. Childcare Costs Reimbursement', link: '/ebas/medical-specialists/allowances/42-childcare-costs-reimbursement' },
-        { text: '43. Provision Of Mobile Phone Or Reimbursement Of Cost', link: '/ebas/medical-specialists/allowances/43-provision-of-mobile-phone-or-reimbursement-of-cost' },
+        { text: '43. Provision of Mobile Phone or Reimbursement of Cost', link: '/ebas/medical-specialists/allowances/43-provision-of-mobile-phone-or-reimbursement-of-cost' },
         { text: '44. Insurance Allowance', link: '/ebas/medical-specialists/allowances/44-insurance-allowance' },
         { text: '44A. Manager Allowance', link: '/ebas/medical-specialists/allowances/44A-manager-allowance' },
         { text: '44B. Designated Location Bonus', link: '/ebas/medical-specialists/allowances/44B-designated-location-bonus' }
       ] },
     { text: 'Appendices', link: '/ebas/medical-specialists/appendices', collapsed: true, items: [
-        { text: '1. List Of Employers Health Services', link: '/ebas/medical-specialists/appendices/1-list-of-employers-health-services' },
+        { text: '1. List of Employers Health Services', link: '/ebas/medical-specialists/appendices/1-list-of-employers-health-services' },
         { text: '2. Specialists Remuneration And Allowances', link: '/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances' },
         { text: '3. Continuing Medical Education Standard Claim Form', link: '/ebas/medical-specialists/appendices/3-continuing-medical-education-standard-claim-form' },
-        { text: '4. Template Certificate Of Service', link: '/ebas/medical-specialists/appendices/4-template-certificate-of-service' },
-        { text: '5. List Of Local Certified Agreements And Enterprise Agreements', link: '/ebas/medical-specialists/appendices/5-list-of-local-certified-agreements-and-enterprise-agreements' },
-        { text: '6. Agreement To Take Annual Leave In Advance', link: '/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance' },
-        { text: '7. Agreement To Cash Out Annual Leave', link: '/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave' }
+        { text: '4. Template Certificate of Service', link: '/ebas/medical-specialists/appendices/4-template-certificate-of-service' },
+        { text: '5. List of Local Certified Agreements and Enterprise Agreements', link: '/ebas/medical-specialists/appendices/5-list-of-local-certified-agreements-and-enterprise-agreements' },
+        { text: '6. Agreement to Take Annual Leave In Advance', link: '/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance' },
+        { text: '7. Agreement to Cash Out Annual Leave', link: '/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave' }
       ] },
     { text: 'Consultation Disputes', link: '/ebas/medical-specialists/consultation-disputes', collapsed: true, items: [
         { text: '9. Consultation', link: '/ebas/medical-specialists/consultation-disputes/9-consultation' },
-        { text: '9A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work' },
-        { text: '10. Redundancy And Associated Entitlements', link: '/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements' },
+        { text: '9A. Consultation About Changes to Rosters or Hours of Work', link: '/ebas/medical-specialists/consultation-disputes/9A-consultation-about-changes-to-rosters-or-hours-of-work' },
+        { text: '10. Redundancy and Associated Entitlements', link: '/ebas/medical-specialists/consultation-disputes/10-redundancy-and-associated-entitlements' },
         { text: '11. Dispute Resolution Procedure', link: '/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure' },
-        { text: '12. Managing Conduct And Performance Discipline', link: '/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline' },
+        { text: '12. Managing Conduct and Performance Discipline', link: '/ebas/medical-specialists/consultation-disputes/12-managing-conduct-and-performance-discipline' },
         { text: '12A. Performance Management', link: '/ebas/medical-specialists/consultation-disputes/12A-performance-management' },
-        { text: '13. Prevention And Management Of Workplace Bullying', link: '/ebas/medical-specialists/consultation-disputes/13-prevention-and-management-of-workplace-bullying' },
+        { text: '13. Prevention and Management of Workplace Bullying', link: '/ebas/medical-specialists/consultation-disputes/13-prevention-and-management-of-workplace-bullying' },
         { text: '14. Flexible Working Arrangements', link: '/ebas/medical-specialists/consultation-disputes/14-flexible-working-arrangements' },
         { text: '15. Individual Flexibility Arrangements', link: '/ebas/medical-specialists/consultation-disputes/15-individual-flexibility-arrangements' },
-        { text: '15A. Climate Change Mitigation And Sustainability', link: '/ebas/medical-specialists/consultation-disputes/15A-climate-change-mitigation-and-sustainability' }
+        { text: '15A. Climate Change Mitigation and Sustainability', link: '/ebas/medical-specialists/consultation-disputes/15A-climate-change-mitigation-and-sustainability' }
       ] },
     { text: 'Employment', link: '/ebas/medical-specialists/employment', collapsed: true, items: [
-        { text: '16. Types Of Employment', link: '/ebas/medical-specialists/employment/16-types-of-employment' },
+        { text: '16. Types of Employment', link: '/ebas/medical-specialists/employment/16-types-of-employment' },
         { text: '16A. Internal Locum Conversion', link: '/ebas/medical-specialists/employment/16A-internal-locum-conversion' },
-        { text: '17. Rights Of Private Practice Administration', link: '/ebas/medical-specialists/employment/17-rights-of-private-practice-administration' },
+        { text: '17. Rights of Private Practice Administration', link: '/ebas/medical-specialists/employment/17-rights-of-private-practice-administration' },
         { text: '18. Clinical Support Time', link: '/ebas/medical-specialists/employment/18-clinical-support-time' },
         { text: '19. Physical Working Conditions', link: '/ebas/medical-specialists/employment/19-physical-working-conditions' },
-        { text: '20. Roster Design Safe Hours Of Work', link: '/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work' },
-        { text: '21. Workload Management And Review', link: '/ebas/medical-specialists/employment/21-workload-management-and-review' },
-        { text: '22. Transition To Retirement', link: '/ebas/medical-specialists/employment/22-transition-to-retirement' },
-        { text: '23. Termination Of Employment Notice Of Termination', link: '/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination' },
-        { text: '24. Certificate Of Service', link: '/ebas/medical-specialists/employment/24-certificate-of-service' }
+        { text: '20. Roster Design - Safe Hours of Work', link: '/ebas/medical-specialists/employment/20-roster-design-safe-hours-of-work' },
+        { text: '21. Workload Management and Review', link: '/ebas/medical-specialists/employment/21-workload-management-and-review' },
+        { text: '22. Transition to Retirement', link: '/ebas/medical-specialists/employment/22-transition-to-retirement' },
+        { text: '23. Termination of Employment - Notice of Termination', link: '/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination' },
+        { text: '24. Certificate of Service', link: '/ebas/medical-specialists/employment/24-certificate-of-service' }
       ] },
     { text: 'Hours Of Work', link: '/ebas/medical-specialists/hours-of-work', collapsed: true, items: [
-        { text: '25. Continuous Duty Full Time Doctors', link: '/ebas/medical-specialists/hours-of-work/25-continuous-duty-full-time-doctors' },
-        { text: '26. On Call Full Time Doctors', link: '/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors' },
-        { text: '27. Recall Full Time Doctors', link: '/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors' },
-        { text: '28. Hours Of Work Full Time Doctors', link: '/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors' },
-        { text: '29. Hours Of Work Fractional Doctors', link: '/ebas/medical-specialists/hours-of-work/29-hours-of-work-fractional-doctors' },
-        { text: '30. Fractional Allocation Fractional Doctors', link: '/ebas/medical-specialists/hours-of-work/30-fractional-allocation-fractional-doctors' }
+        { text: '25. Continuous Duty (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/25-continuous-duty-full-time-doctors' },
+        { text: '26. On-Call (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors' },
+        { text: '27. Recall (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors' },
+        { text: '28. Hours of Work (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors' },
+        { text: '29. Hours of Work (Fractional Doctors)', link: '/ebas/medical-specialists/hours-of-work/29-hours-of-work-fractional-doctors' },
+        { text: '30. Fractional Allocation (Fractional Doctors)', link: '/ebas/medical-specialists/hours-of-work/30-fractional-allocation-fractional-doctors' }
       ] },
     { text: 'Leave', link: '/ebas/medical-specialists/leave', collapsed: true, items: [
         { text: '47. Annual Leave', link: '/ebas/medical-specialists/leave/47-annual-leave' },
-        { text: '48. Annual Leave Loading Full Time Doctors', link: '/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors' },
-        { text: '49. Personal Carer S Leave', link: '/ebas/medical-specialists/leave/49-personal-carer-s-leave' },
+        { text: '48. Annual Leave Loading (Full-Time Doctors)', link: '/ebas/medical-specialists/leave/48-annual-leave-loading-full-time-doctors' },
+        { text: "49. Personal/Carer's Leave", link: '/ebas/medical-specialists/leave/49-personal-carer-s-leave' },
         { text: '50. Compassionate Leave', link: '/ebas/medical-specialists/leave/50-compassionate-leave' },
         { text: '51. Fitness For Work', link: '/ebas/medical-specialists/leave/51-fitness-for-work' },
         { text: '52. Prenatal Leave', link: '/ebas/medical-specialists/leave/52-prenatal-leave' },
-        { text: '53. Unpaid Pre Adoption Leave', link: '/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave' },
+        { text: '53. Unpaid Pre-Adoption Leave', link: '/ebas/medical-specialists/leave/53-unpaid-pre-adoption-leave' },
         { text: '54. Parental Leave', link: '/ebas/medical-specialists/leave/54-parental-leave' },
         { text: '55. Long Service Leave', link: '/ebas/medical-specialists/leave/55-long-service-leave' },
         { text: '56. Public Holidays', link: '/ebas/medical-specialists/leave/56-public-holidays' },
         { text: '57. Sabbatical Leave', link: '/ebas/medical-specialists/leave/57-sabbatical-leave' },
-        { text: '58. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management' },
-        { text: '58A. Absences On Defence Leave', link: '/ebas/medical-specialists/leave/58A-absences-on-defence-leave' },
+        { text: '58. Leave to Engage in Voluntary Emergency Management Activities', link: '/ebas/medical-specialists/leave/58-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '58A. Absences on Defence Leave', link: '/ebas/medical-specialists/leave/58A-absences-on-defence-leave' },
         { text: '58B. Special Disaster Leave', link: '/ebas/medical-specialists/leave/58B-special-disaster-leave' },
         { text: '59. Continuing Medical Education Leave', link: '/ebas/medical-specialists/leave/59-continuing-medical-education-leave' },
         { text: '60. Family Violence Leave', link: '/ebas/medical-specialists/leave/60-family-violence-leave' },
-        { text: '61. Replacement Of Doctors When On Leave', link: '/ebas/medical-specialists/leave/61-replacement-of-doctors-when-on-leave' }
+        { text: '61. Replacement of Doctors When on Leave', link: '/ebas/medical-specialists/leave/61-replacement-of-doctors-when-on-leave' }
       ] },
     { text: 'Preliminary', link: '/ebas/medical-specialists/preliminary', collapsed: true, items: [
         { text: '1. Title', link: '/ebas/medical-specialists/preliminary/1-title' },
         { text: '2. Arrangement', link: '/ebas/medical-specialists/preliminary/2-arrangement' },
         { text: '3. Definitions', link: '/ebas/medical-specialists/preliminary/3-definitions' },
         { text: '4. Coverage', link: '/ebas/medical-specialists/preliminary/4-coverage' },
-        { text: '5. Date And Period Of Operation', link: '/ebas/medical-specialists/preliminary/5-date-and-period-of-operation' },
-        { text: '6. Application And Relationship To The Nes', link: '/ebas/medical-specialists/preliminary/6-application-and-relationship-to-the-nes' },
-        { text: '7. Saving Of Local Agreements', link: '/ebas/medical-specialists/preliminary/7-saving-of-local-agreements' },
+        { text: '5. Date and Period of Operation', link: '/ebas/medical-specialists/preliminary/5-date-and-period-of-operation' },
+        { text: '6. Application and Relationship to the NES', link: '/ebas/medical-specialists/preliminary/6-application-and-relationship-to-the-nes' },
+        { text: '7. Saving of Local Agreements', link: '/ebas/medical-specialists/preliminary/7-saving-of-local-agreements' },
         { text: '8. No Extra Claims', link: '/ebas/medical-specialists/preliminary/8-no-extra-claims' }
       ] },
     { text: 'Union Matters', link: '/ebas/medical-specialists/union-matters', collapsed: true, items: [
@@ -780,13 +780,13 @@ const sidebar = [
         { text: '64. Signatories', link: '/ebas/medical-specialists/union-matters/64-signatories' }
       ] },
     { text: 'Wages', link: '/ebas/medical-specialists/wages', collapsed: true, items: [
-        { text: '31. Remuneration And Remuneration Increases', link: '/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases' },
+        { text: '31. Remuneration and Remuneration Increases', link: '/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases' },
         { text: '31A. Doctor Records', link: '/ebas/medical-specialists/wages/31A-doctor-records' },
         { text: '31B. Daylight Saving', link: '/ebas/medical-specialists/wages/31B-daylight-saving' },
         { text: '32. Superannuation', link: '/ebas/medical-specialists/wages/32-superannuation' },
         { text: '33. Salary Packaging', link: '/ebas/medical-specialists/wages/33-salary-packaging' },
         { text: '34. Accident Pay', link: '/ebas/medical-specialists/wages/34-accident-pay' },
-        { text: '35. Recovery Of Overpayments', link: '/ebas/medical-specialists/wages/35-recovery-of-overpayments' },
+        { text: '35. Recovery of Overpayments', link: '/ebas/medical-specialists/wages/35-recovery-of-overpayments' },
         { text: '36. Shift Penalty Payments', link: '/ebas/medical-specialists/wages/36-shift-penalty-payments' }
       ] }
     ]

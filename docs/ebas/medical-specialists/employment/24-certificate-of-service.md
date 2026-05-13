@@ -1,5 +1,5 @@
 ---
-title: '24. Certificate Of Service'
+title: '24. Certificate of Service'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'termination']
 ---
@@ -11,7 +11,7 @@ topics: ['employment', 'termination']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 24. Certificate Of Service
+# 24. Certificate of Service
 
 **24.1** The Health Service will record the following particulars in respect of each Doctor:
 

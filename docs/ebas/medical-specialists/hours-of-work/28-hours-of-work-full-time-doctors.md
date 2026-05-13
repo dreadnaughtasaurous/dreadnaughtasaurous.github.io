@@ -1,5 +1,5 @@
 ---
-title: '28. Hours Of Work Full Time Doctors'
+title: '28. Hours of Work (Full-Time Doctors)'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours']
 ---
@@ -11,7 +11,7 @@ topics: ['hours']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 28. Hours Of Work Full Time Doctors
+# 28. Hours of Work (Full-Time Doctors)
 
 **28.1** The ordinary hours of work for a Full-time Doctor will be an average of 38 hours per week and may be worked by agreement between the Health Service and the Full-time Doctor in one of the following ways:
 

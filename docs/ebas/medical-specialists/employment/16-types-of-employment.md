@@ -1,5 +1,5 @@
 ---
-title: '16. Types Of Employment'
+title: '16. Types of Employment'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 16. Types Of Employment
+# 16. Types of Employment
 
 Doctors will be employed in Full-time or Fractional Employment.
 

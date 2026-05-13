@@ -1,5 +1,5 @@
 ---
-title: '10. Redundancy And Associated Entitlements'
+title: '10. Redundancy and Associated Entitlements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['employment', 'redundancy']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'redundancy']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 10. Redundancy And Associated Entitlements
+# 10. Redundancy and Associated Entitlements
 
 ---
 
@@ -82,8 +82,8 @@ This clause is arranged as follows:
   - **(ii)** take into account the personal circumstances of the Affected Doctor, including family commitments and responsibilities; and
   - **(iii)** where the Health Service is creating a new role/s substantially similar to the Affected Doctor’s redundant role; give priority to the redeployment of an Affected Doctor/s to the new position/s before considering applicants that are not Affected Doctors.
 
-> **Example:**
-> The Health Service needs fewer Doctors to do particular work and roles are being restructured to take this into account. In a 'spill and fill', the Employer will consider the Affected Doctors for the new roles before other applicants.
+  > **Example:**
+  > The Health Service needs fewer Doctors to do particular work and roles are being restructured to take this into account. In a 'spill and fill', the Employer will consider the Affected Doctors for the new roles before other applicants.
 
 - **(d) Doctor obligations**
   The Doctor must actively participate in the redeployment process including:

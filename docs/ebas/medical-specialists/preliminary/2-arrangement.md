@@ -13,6 +13,14 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 # 2. Arrangement
 
+---
+
+<FileAttachment
+  href="/attachments/medical-specialists/medical-specialists-eba-2022-2026.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Medical Specialists EBA 2022–2026"
+/>
+
 ## Part A – Preliminary
 
 | Clause | Title | Page |

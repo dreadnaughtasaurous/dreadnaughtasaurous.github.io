@@ -112,6 +112,7 @@ The onus of proving a sufficient aggregate of service to support a claim for any
 **55.4 Taking of leave**
 
 - **(a) When leave is to be taken**
+
   A Doctor who is eligible to take long service leave under [subclause 55.2(a)](/ebas/medical-specialists/leave/55-long-service-leave) must be granted long service leave within six months of the date eligibility arose. By agreement, the taking of the leave may be postponed to such a date mutually agreed.
 - **(b) How leave is to be taken**
   - **(i)** Doctors may request to take long service leave as a single entitlement or in multiple separate periods, with each period being not less than:
@@ -139,6 +140,7 @@ The onus of proving a sufficient aggregate of service to support a claim for any
 **55.5 Payment on termination of employment**
 
 - **(a) Basic entitlement at termination of employment**
+
   Except where an election is made under [subclause 55.5(b)](/ebas/medical-specialists/leave/55-long-service-leave) below, a Doctor with an entitlement to long service leave under [subclause 55.2](/ebas/medical-specialists/leave/55-long-service-leave) is entitled to payment in lieu of untaken long service leave upon termination of employment, calculated one thirtieth of the period of Continuous Service.
 - **(b) Election for payment of entitlement or transfer of entitlement at termination**
   - **(i)** A Doctor who has an entitlement to take long service leave on a pro rata basis under [subclause 55.2(b)](/ebas/medical-specialists/leave/55-long-service-leave) (who therefore has less than 15 years' continuous service) and who intends to be re- employed by another Institution or Statutory Body may:
@@ -147,6 +149,7 @@ The onus of proving a sufficient aggregate of service to support a claim for any
   - **(ii)** Where the notice referred to at 55.5(b)(i)B is not provided prior to or within the Allowable Period of Absence, the Health Service will, upon the expiration of the allowable period of absence, make payment in lieu of long service leave as per [subclause 55.5(a)](/ebas/medical-specialists/leave/55-long-service-leave).
   - **(iii)** For the removal of doubt, a Doctor who has an entitlement to take long service leave under [subclause 55.2(a)](/ebas/medical-specialists/leave/55-long-service-leave) may not make an election under this clause in respect of that entitlement.
 - **(c) Payment in lieu of long service leave on the death of a Doctor**
+
   Where a Doctor who has an entitlement to long service leave (or pro rata long service leave) under [subclause 55.2](/ebas/medical-specialists/leave/55-long-service-leave) dies while still in the employ of the Health Service, payment in lieu of long service leave will be made to the Doctor’s personal representative equal to that in [subclause 55.5(a)](/ebas/medical-specialists/leave/55-long-service-leave) above.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: '61. Replacement Of Doctors When On Leave'
+title: '61. Replacement of Doctors When on Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# 61. Replacement Of Doctors When On Leave
+# 61. Replacement of Doctors When on Leave
 
 **61.1** Where a Doctor is absent on planned or unplanned leave, the Health Service will replace the Doctor if not replacing will result or will likely result in an unreasonable workload.
 
