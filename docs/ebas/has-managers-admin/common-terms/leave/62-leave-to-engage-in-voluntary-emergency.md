@@ -1,5 +1,5 @@
 ---
-title: '62. Leave To Engage In Voluntary Emergency'
+title: '62. Leave To Engage In Voluntary Emergency Management Activities'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave']
 ---
@@ -11,11 +11,7 @@ topics: ['leave']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 62. Leave To Engage In Voluntary Emergency
-
-
-
-Management Activities
+# 62. Leave To Engage In Voluntary Emergency Management Activities
 
 **62.1** An Employee who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to leave for:
 
@@ -33,6 +29,6 @@ Management Activities
 
 **62.6** Nothing in this clause limits the ability of an Employee to be absent from employment for engaging in eligible community service activity in accordance with Division 8 of the Act. 
 
-*Note: Under the Act, an employee who engages in an eligible community service activity is entitled to be absent from employment without pay (or in some circumstances, with pay). The relevant period consists of time engaged in the community service activity, reasonable travel time and reasonable rest time. Eligible community service activity means jury service, a voluntary emergency service management activity (such as voluntary work relating to an emergency or natural disaster when performed for a recognised emergency management body - as defined), or an activity prescribed from time to time. There are particular notice requirements so that the employer is advised of the forthcoming absence and how long it is expected to last. For jury service, there are special rules about pay rates, there is a limit of 10 days' paid leave and jury service does not apply to casual employees. Note also that any more generous State or Territory community service leave entitlements may nevertheless apply.*
+>**Note:** Under the Act, an employee who engages in an eligible community service activity is entitled to be absent from employment without pay (or in some circumstances, with pay). The relevant period consists of time engaged in the community service activity, reasonable travel time and reasonable rest time. Eligible community service activity means jury service, a voluntary emergency service management activity (such as voluntary work relating to an emergency or natural disaster when performed for a recognised emergency management body - as defined), or an activity prescribed from time to time. There are particular notice requirements so that the employer is advised of the forthcoming absence and how long it is expected to last. For jury service, there are special rules about pay rates, there is a limit of 10 days' paid leave and jury service does not apply to casual employees. Note also that any more generous State or Territory community service leave entitlements may nevertheless apply.
 
 

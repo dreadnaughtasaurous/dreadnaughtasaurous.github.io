@@ -30,7 +30,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 - **(a)** Subject to the conditions set out in this clause, an Employee may take paid personal leave if the leave is taken:
   - **(i)** due to personal illness or injury (sick leave); or
-  - **(ii)** to care for or support a member of the Employee's immediate family or household because of: **(A)** a personal illness or injury affecting them; or **(B)** an unexpected emergency affecting them (carer's leave).
+  - **(ii)** to care for or support a member of the Employee's immediate family or household because of: 
+    - **(A)** a personal illness or injury affecting them; or 
+    - **(B)** an unexpected emergency affecting them (carer's leave).
 - **(b)** In normal circumstances an Employee must not take carer's leave under this clause where another person has taken leave on the same occasion to care for the same person.
 
 **55.3 Sick leave**
@@ -41,19 +43,30 @@ An Employee may take personal leave for the reasons described at [subclause 55.2
 
 **(b) Personal Leave to Attend Registered Health Practitioner Appointments**
 
-- **(i)** Employees who are required to be absent from rostered ordinary shifts on account of attending a registered health practitioner for an appointment for: **(A)** treatment **(B)** rehabilitation **(C)** diagnosis Will be entitled to use accumulated personal/carer’s leave for the duration of the appointment and reasonable travel time where the appointment cannot be reasonably obtained at a time that doesn’t conflict with the Employee’s rostered ordinary shifts, subject to the following requirements.
-- **(ii)** Employees, when seeking to utilise accumulated personal/carers leave in accordance with this clause: **(A)** must give reasonable notice to the Employer of their intent to take leave in accordance with this clause; **(B)** must receive approval from the Employer prior to the appointment; **(C)** must provide evidence that satisfies a reasonable purpose that the request is in accordance with this clause; **(D)** will endeavour to arrange the appointment, where possible, at the start or end of their rostered shift.
+- **(i)** Employees who are required to be absent from rostered ordinary shifts on account of attending a registered health practitioner for an appointment for: 
+  - **(A)** treatment 
+  - **(B)** rehabilitation 
+  - **(C)** diagnosis Will be entitled to use accumulated personal/carer’s leave for the duration of the appointment and reasonable travel time where the appointment cannot be reasonably obtained at a time that doesn’t conflict with the Employee’s rostered ordinary shifts, subject to the following requirements.
+- **(ii)** Employees, when seeking to utilise accumulated personal/carers leave in accordance with this clause: 
+  - **(A)** must give reasonable notice to the Employer of their intent to take leave in accordance with this clause; 
+  - **(B)** must receive approval from the Employer prior to the appointment; 
+  - **(C)** must provide evidence that satisfies a reasonable purpose that the request is in accordance with this clause; 
+  - **(D)** will endeavour to arrange the appointment, where possible, at the start or end of their rostered shift.
 
 **(c) Evidence requirements**
 
-- **(i)** An Employee taking sick leave in accordance with sub- [clause 55.2](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes: **(A)** a medical certificate from a registered health practitioner; or **(B)** a Statutory Declaration signed by the Employee with respect to absences on three occasions in any one year not exceeding three consecutive working days each.
+- **(i)** An Employee taking sick leave in accordance with sub- [clause 55.2](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes: 
+  - **(A)** a medical certificate from a registered health practitioner; or 
+  - **(B)** a Statutory Declaration signed by the Employee with respect to absences on three occasions in any one year not exceeding three consecutive working days each.
 - **(ii)** Evidence requirements for sick leave taken in accordance with sub-[clause 55.3(b)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) is dealt with at sub-[clause 55.3(b)(ii)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave)
 
 **(d) Exception to evidence requirement – single day absences**
 
 *An Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at [subclause 55.3(e)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave) below.*
 
-- **(i)** An Employee other than those listed at [subclauses 55.3(d)(ii)-(iii)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave): **(A)** may be absent through personal illness or injury for one day without furnishing evidence on not more than three (3) occasions in any one year of service; and, **(B)** where the Employees do not utilise the single day absences referred to in [subclause 55.3(d)(i)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave)((A)) for a period of five years, an additional 5 days’ personal/carer’s leave will be added to the Employee’s accrued entitlement.
+- **(i)** An Employee other than those listed at [subclauses 55.3(d)(ii)-(iii)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave): 
+  - **(A)** may be absent through personal illness or injury for one day without furnishing evidence on not more than three (3) occasions in any one year of service; and, 
+  - **(B)** where the Employees do not utilise the single day absences referred to in [subclause 55.3(d)(i)](/ebas/has-managers-admin/common-terms/leave/55-personal-leave)((A)) for a period of five years, an additional 5 days’ personal/carer’s leave will be added to the Employee’s accrued entitlement.
 - **(ii)** Dental Assistants employed by DHSV or Ballarat Health Service may be absent through personal illness or injury for one day without furnishing evidence on not more than five (5) occasions in any one year of service
 - **(iii)** Managers & Administrative Workers employed by the Royal Women’s Hospital or Royal Children’s Hospital may be absent through personal illness or injury on six (6) days in any one year of service (as either single days or as two days at a time) without having to provide evidence to the Employer.
 
@@ -67,12 +80,17 @@ An Employee may take personal leave for the reasons described at [subclause 55.2
 
 **(a) Evidence requirements**
 
-- **(i)** The Employee must, if required by the Employer, establish by production of a statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either: **(A)** an illness or injury; or **(B)** an unexpected emergency,
+- **(i)** The Employee must, if required by the Employer, establish by production of a statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either: 
+  - **(A)** an illness or injury; or 
+  - **(B)** an unexpected emergency,
 - **(ii)** that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member experiencing family violence.
 
 **(b) Notice requirements**
 
-- **(i)** The Employee must, where practicable, give the Employer notice of the intention to take leave prior to the absence, that includes: **(A)** the name of the person requiring care or support and their relationship to the Employee; **(B)** the reasons for taking such leave; and **(C)** the estimated length of absence.
+- **(i)** The Employee must, where practicable, give the Employer notice of the intention to take leave prior to the absence, that includes: 
+  - **(A)** the name of the person requiring care or support and their relationship to the Employee; 
+  - **(B)** the reasons for taking such leave; and 
+  - **(C)** the estimated length of absence.
 - **(ii)** If it is not practicable for the Employee to give prior notice of absence, the Employee must notify the Employer of the absence by telephone at the first opportunity on the day of absence.
 
 **(c) Unpaid leave where accruals exhausted**

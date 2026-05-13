@@ -15,8 +15,6 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 # 31. Study Leave
 
----
-
 **31.1 Quantum of study leave available**
 - **(a)** Employees will be entitled to four hours paid study leave per week up to a maximum of 26 weeks per annum, where undertaking study at Australian Qualification Framework Level 3 or above with an education institution or approved provider.
 

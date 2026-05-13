@@ -31,18 +31,18 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **27.5** The Employer will consider, and not unreasonably withhold its approval of a request by an Employee to transition to retirement through:
 - **(a)** using accrued LSL or Annual Leave for the purpose of reducing the number of days worked or their working hours but retaining their previous employment status:
-> **Examples:**
-> 1. A full-time Employee may work 3 days per week and have 2 days of accrued long service leave per week, retaining their full-time status.
-> 2. A part-time Employee employed for 24 hours per week may work 20 hours per week and take 4 hours of accrued annual leave per week, retaining their status as a part-time Employee employed for 24 hours per week.
+  > **Examples:**
+  > 1. A full-time Employee may work 3 days per week and have 2 days of accrued long service leave per week, retaining their full-time status.
+  > 2. A part-time Employee employed for 24 hours per week may work 20 hours per week and take 4 hours of accrued annual leave per week, retaining their status as a part-time Employee employed for 24 hours per week.
 
 or;
 
 - **(b)** accepting appointment to a role that has a lower hourly rate of pay and/or reduced hours (post transition role), in which case:
   - **(i)** the Employee will retain the accrual of LSL they had immediately prior to the reduction in their rate of pay and/or hours (preserved LSL). Where LSL is taken, the Employee will be paid LSL hours at the wage rate and/or their hours of work prior to the post transition role until the preserved LSL hours exhausted;
-> **Examples:**
-> 1. An Employee’s hourly rate of pay is reduced under this subclause (b) from $35 to $30. When the Employee takes LSL their LSL will be paid at the rate of $35 per hour until the preserved LSL is exhausted.
-> 2. An Employee’s hours of work are reduced under this subclause (b) from 32 hours per week to 24 hours per week. When the Employee takes LSL they will be paid for 32 hours of LSL per week until the preserved LSL is exhausted.
-> 3. An Employee’s hourly rate of pay is reduced under this subclause (b) from $40 to $35 and their hours of work from 38 to 30 hours per week. When the Employee takes LSL it will be paid at the rate of $40 per hour and they will be paid for 38 hours of LSL per week until the preserved LSL is exhausted.
+  > **Examples:**
+  > 1. An Employee’s hourly rate of pay is reduced under this subclause (b) from $35 to $30. When the Employee takes LSL their LSL will be paid at the rate of $35 per hour until the preserved LSL is exhausted.
+  > 2. An Employee’s hours of work are reduced under this subclause (b) from 32 hours per week to 24 hours per week. When the Employee takes LSL they will be paid for 32 hours of LSL per week until the preserved LSL is exhausted.
+  > 3. An Employee’s hourly rate of pay is reduced under this subclause (b) from $40 to $35 and their hours of work from 38 to 30 hours per week. When the Employee takes LSL it will be paid at the rate of $40 per hour and they will be paid for 38 hours of LSL per week until the preserved LSL is exhausted.
   - **(ii)** however, if the Employee's hourly wage rate in the post- transition role over time exceeds the wage rate of the pre-transition role, the higher wage rate will be used to calculate LSL.
 
 Plain language terms: phased retirement, winding down, TTR.

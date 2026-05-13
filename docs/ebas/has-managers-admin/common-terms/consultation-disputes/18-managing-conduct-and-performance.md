@@ -24,7 +24,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
   - **(ii)** disciplinary procedure.
 - **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 - **(d)** The Employer will notify the Employee in accordance with [subclause 18.3(b)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 18.1(a)](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance).
-- **(e) Exception – Employees who have not completed a minimum period of employment with their Employer** Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at section 383 of the Act (six months continuous service as defined within the Act unless amended) and the Employer is considering the termination of the Employee's employment, the Employer will:
+- **(e) Exception – Employees who have not completed a minimum period of employment with their Employer** 
+
+  Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at section 383 of the Act (six months continuous service as defined within the Act unless amended) and the Employer is considering the termination of the Employee's employment, the Employer will:
   - **(i)** provide the concerns in writing to the Employee as soon as practicable following the Employer becoming aware of the alleged concerns;
   - **(ii)** advise the Employee of their right to have a representative, including a Union representative;
   - **(iii)** other than in the case of Serious Misconduct, provide the Employee an opportunity to improve their Performance or Conduct);
@@ -84,7 +86,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(b)** The Employer’s decision and a summary of its reasons will be notified to the Employee in writing.
 - **(c)** If after any warning or counselling, a period of 12 months elapses (as relevant) without the Employee repeating a course of Conduct for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning.
 
-**18.6 Disputes** A dispute over the clause (including [subclause 18.7](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
+**18.6 Disputes** 
+
+A dispute over the clause (including [subclause 18.7](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
 **18.7 Performance Management**
 - **(a)** Nothing in this [clause 18](/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance) will prevent the Employer from undertaking performance management to support Employees.

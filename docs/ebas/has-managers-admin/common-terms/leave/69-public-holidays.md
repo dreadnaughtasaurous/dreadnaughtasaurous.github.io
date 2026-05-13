@@ -64,7 +64,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **69.4 Additional Days**
 
-- **(a)** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in [subclauses 69.2](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) and **69.3** above, those days will constitute additional holidays for the purposes of the Agreement.
+- **(a)** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in [subclauses 69.2](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) and 69.3 above, those days will constitute additional holidays for the purposes of the Agreement.
 
 ---
 
@@ -108,13 +108,13 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(a)** An Employee who is not ordinarily required to work on the day on which a public holiday is observed will not be entitled to the Rostered Off Benefit provided in [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays).
 - **(b)** In determining whether an Employee is ordinarily required to work on the day on which a public holiday is observed, the Employer will review the Employee’s roster pattern over the preceding six-month period. If the rosters show that the Employee has worked 50% or more of the days on which a particular public holiday falls, the Employee will be entitled to receive the Rostered Off Benefit for that public holiday (see [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays)).
 
-> **Example 1:**
->
-> A full-time or part-time employee who only works Monday to Friday will not receive a Rostered Off Benefit for a public holidays that occur on a Saturday or Sunday.
+  > **Example 1:**
+  >
+  > A full-time or part-time employee who only works Monday to Friday will not receive a Rostered Off Benefit for a public holidays that occur on a Saturday or Sunday.
 
-> **Example 2:**
->
-> A full-time employee works a rotating roster and has worked more than 50% of Saturdays in the preceding 6-month period. The employee is rostered to work Monday to Friday in a week where a public holiday falls on the Saturday. The employee will receive the Rostered Off Benefit at [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) in addition to their contracted hours for that week (i.e. 38 hours of ordinary pay plus the equivalent of 1.5 days’ ordinary pay or TOIL or Annual Leave credit).
+  > **Example 2:**
+  >
+  > A full-time employee works a rotating roster and has worked more than 50% of Saturdays in the preceding 6-month period. The employee is rostered to work Monday to Friday in a week where a public holiday falls on the Saturday. The employee will receive the Rostered Off Benefit at [clause 69.10](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) in addition to their contracted hours for that week (i.e. 38 hours of ordinary pay plus the equivalent of 1.5 days’ ordinary pay or TOIL or Annual Leave credit).
 
 ---
 
@@ -131,9 +131,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(a)** If an Employee is absent from their employment on a day or part-day that is a public holiday, the Employer must pay the Employee at the Employee’s base rate of pay for the Employee’s ordinary hours of work on the day or part-day.
 - **(a)** For the purposes of [subclause 69.11(a)](/ebas/has-managers-admin/common-terms/leave/69-public-holidays) absent from employment means that the employee was rostered to work on the day that the public holiday was observed but was given the day off by the Employer.
 
-> **Example:**
->
-> A part-time employee works an 8-hour shift on every Monday, Wednesday and Friday. The employer confirms that the employee is not required to work their rostered Friday shift due to a public holiday on that day. The employee will receive the entitlement of one day’s pay in accordance with [clause 69.11](/ebas/has-managers-admin/common-terms/leave/69-public-holidays).
+  > **Example:**
+  >
+  > A part-time employee works an 8-hour shift on every Monday, Wednesday and Friday. The employer confirms that the employee is not required to work their rostered Friday shift due to a public holiday on that day. The employee will receive the entitlement of one day’s pay in accordance with [clause 69.11](/ebas/has-managers-admin/common-terms/leave/69-public-holidays).
 
 ---
 

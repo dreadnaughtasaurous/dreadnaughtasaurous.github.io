@@ -1,5 +1,5 @@
 ---
-title: '58. Pre Adoption Leave'
+title: '58. Pre-Adoption Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'parental-leave']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 58. Pre Adoption Leave
+# 58. Pre-Adoption Leave
 
 **58.1** An Employee seeking to adopt a child is entitled to unpaid leave for the purpose of attending any compulsory interviews or examinations as are necessary as part of the adoption procedure.
 

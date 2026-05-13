@@ -72,7 +72,9 @@ For the purposes of this clause:
 **59.3 Long Parental Leave – Unpaid**
 
 - **(a)** An Eligible Employee is entitled to 12 months' unpaid Long Parental Leave if:
-  - **(i)** the leave is associated with: **(A)** the birth of a Child (including a Stillbirth) of the Eligible Employee or the Eligible Employee's Spouse; or **(B)** the placement of a Child with the Eligible Employee for adoption; and
+  - **(i)** the leave is associated with: 
+    - **(A)** the birth of a Child (including a Stillbirth) of the Eligible Employee or the Eligible Employee's Spouse; or 
+    - **(B)** the placement of a Child with the Eligible Employee for adoption; and
   - **(ii)** the Eligible Employee is the Primary Carer, or in the case of a Stillbirth, the Eligible Employee would have been the Primary Carer if the Child had been born alive.
 - **(b)** Except as provided at [subclause 59.3(g)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) (Flexible Long Parental Leave) and [subclause 59.18](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) (Keeping in Touch Days), the Eligible Employee must take the leave in a single continuous period.
 - **(c)** Where an Eligible Employee is a member of an Employee Couple, except as provided at [subclauses 59.3(g)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) (Flexible Long Parental Leave) and 59.4 (Short Parental Leave – Unpaid), parental leave must be taken by only one parent of an Employee Couple at a time in a single continuous period.
@@ -82,9 +84,13 @@ For the purposes of this clause:
 - **(g) Flexible Long Parental Leave**
   - **(i)** An Eligible Employee may take up to 30 days of their Long Parental Leave entitlement (**Flexible Long Parental Leave**) during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child if the requirements of this sub-clause are satisfied in relation to the leave.
   - **(ii)** The number of days of Flexible Long Parental Leave that the Eligible Employee takes must not be more than the number of flexible days notified to the Employer under sub-[clause 59.6(e)(iii)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) (subject to any agreement under sub-[clause 59.6(e)(iv)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave)).
-  - **(iii)** An Eligible Employee must take the Flexible Long Parental Leave as: **(A)** a single continuous period of one or more days; or **(B)** separate periods of one or more days each.
+  - **(iii)** An Eligible Employee must take the Flexible Long Parental Leave as: 
+    - **(A)** a single continuous period of one or more days; or 
+    - **(B)** separate periods of one or more days each.
   - **(iv)** An Eligible Employee may take the Flexible Long Parental Leave whether or not they have taken unpaid Long Parental Leave under [subclause 59.3(b)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave).
-  - **(v)** An Eligible Employee may take Flexible Long Parental Leave after taking one or more periods of unpaid Long Parental Leave under [subclause 59.3(b)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) only if the total of those periods (disregarding any extension under sub-clause **59.11** or 59.12) is no longer than 12 months, less the employee's Notional Flexible Period, provided that the calculation is based on the assumption that: **(A)** the Eligible Employee ordinarily works each day that is not a Saturday or Sunday; and **(B)** there are no public holidays during the period.
+  - **(v)** An Eligible Employee may take Flexible Long Parental Leave after taking one or more periods of unpaid Long Parental Leave under [subclause 59.3(b)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) only if the total of those periods (disregarding any extension under sub-clause **59.11** or 59.12) is no longer than 12 months, less the employee's Notional Flexible Period, provided that the calculation is based on the assumption that: 
+    - **(A)** the Eligible Employee ordinarily works each day that is not a Saturday or Sunday; and 
+    - **(B)** there are no public holidays during the period.
   - **(vi)** A member of an Employee Couple (the first employee) may take Flexible Long Parental Leave on the same day as the other member of the Employee Couple (the other employee) is taking unpaid Long Parental Leave only if the total of all periods of unpaid parental leave the first employee takes at the same time as the other employee is no longer than 8 weeks.
 - **(h)** Hospitalised children – agreement to not take unpaid Long Parental Leave
   - **(i)** If:
@@ -99,9 +105,14 @@ For the purposes of this clause:
     - **(B)** the permitted work period does not break the continuity of the original leave period; and
     - **(C)** the Employee is taken to have advised the Employer, for the purposes of [subclause 59.6(b)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave), of an end date for the original leave period that is the date on which that period would end if it were extended by a period equal to the permitted work period.
   - **(iii)** The permitted work period must start after the birth of the Child.
-  - **(iv)** The permitted work period ends at the earliest of the following: **(A)** the time agreed by the Employer and Employee; **(B)** the end of the day of the Child's first discharge from hospital after birth; or **(C)** if the Child dies before being discharged, the end of the day the Child dies.
+  - **(iv)** The permitted work period ends at the earliest of the following: 
+    - **(A)** the time agreed by the Employer and Employee; 
+    - **(B)** the end of the day of the Child's first discharge from hospital after birth; or 
+    - **(C)** if the Child dies before being discharged, the end of the day the Child dies.
   - **(v)** Only one period may be agreed to under [subclause 59.3(h)(i)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) for which the Employee will not take unpaid parental leave in relation to the Child.
-  - **(vi)** The Employee must, if required by the Employer, give the Employer evidence (including without limitation, a medical certificate) that would satisfy a reasonable person of either or both of the following: **(A)** that [subclause 59.3(h)(i)(A)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) applies in relation to the child; **(B)** that the Employee is fit for work.
+  - **(vi)** The Employee must, if required by the Employer, give the Employer evidence (including without limitation, a medical certificate) that would satisfy a reasonable person of either or both of the following: 
+    - **(A)** that [subclause 59.3(h)(i)(A)](/ebas/has-managers-admin/common-terms/leave/59-parental-leave) applies in relation to the child; 
+    - **(B)** that the Employee is fit for work.
 
 **59.4 Short Parental Leave – Unpaid**
 
@@ -180,8 +191,8 @@ Employees' entitlement to pre-adoption leave is set out at [clause 58](/ebas/has
   - **(i)** A female Eligible Employee is entitled to a period of unpaid special leave if she is not fit for work during that period because:
     - **(A)** she has a pregnancy-related illness; or
     - **(B)** all of the following apply:
-      1) she has been pregnant; and  
-      2) the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
+      - **1)** she has been pregnant; and  
+      - **2)** the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
   - **(ii)** A female Eligible Employee who has an entitlement to personal leave may, in part or whole, take personal leave instead of unpaid special leave under this clause.
   - **(iii)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child, the Eligible Employee is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
 - **(b) Entitlement to paid special birth-related leave**

@@ -1,5 +1,5 @@
 ---
-title: '23. Rosters DHSV'
+title: '23. Rosters (DHSV)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours', 'rosters']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 23. Rosters DHSV
+# 23. Rosters (DHSV)
 
 *This clause only applies to Dental Assistants employed by DHSV.* 
 

@@ -1,5 +1,5 @@
 ---
-title: '19. Code Black And Or Code Grey Response'
+title: '19. Code Black and/or Code Grey Response'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 19. Code Black And Or Code Grey Response
+# 19. Code Black and/or Code Grey Response
 
 **19.1 Purpose**
 - **(a)** The parties acknowledge that response to Code Grey and Code Black may be performed by dedicated Security Officer Employees or appropriately trained PSA’s or a mixture of both. To facilitate those arrangements, this clause is proposed to ensure PSA’s are appropriately trained and remunerated for the performance of this work.

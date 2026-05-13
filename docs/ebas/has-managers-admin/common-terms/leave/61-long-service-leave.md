@@ -177,11 +177,11 @@ The onus of proving a sufficient aggregate of service to support a claim for any
 </div>
 
 - **(g) Transitional Arrangements for Parental Leave taken after 1 November 2018 and before the commencement date of this Agreement** 
-> **Note 1:**
-> Unpaid Parental Leave taken prior to 1 November 2018 does not count as Continuous Service unless otherwise agreed, per [clause 61.2(b)(iii)(F)](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave).
+  > **Note 1:**
+  > Unpaid Parental Leave taken prior to 1 November 2018 does not count as Continuous Service unless otherwise agreed, per [clause 61.2(b)(iii)(F)](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave).
 
-> **Note 2:**
-> Unpaid Parental Leave taken after the commencement date of this Agreement will constitute Continuous Service, per [clause 61.2(b)(iii)(F)](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave).
+  > **Note 2:**
+  > Unpaid Parental Leave taken after the commencement date of this Agreement will constitute Continuous Service, per [clause 61.2(b)(iii)(F)](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave).
 
   - **(i)** As an exception to [clause 61.2(b)(iii)(F)](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave), an Employee who took a period of unpaid Parental Leave that included any commencement date of this agreement (inclusive) may make an application to the Employer to have that service recognised for Long Service Leave purposes. The Employer will approve the application and provide to the Employee an updated Certificate of Service reflecting the adjusted service arrangements.
   - **(ii)** An Employee electing to make an application under 61.2(g)(i) must make the application to the Employer no later than 6 months of the following (whichever occurs last): 

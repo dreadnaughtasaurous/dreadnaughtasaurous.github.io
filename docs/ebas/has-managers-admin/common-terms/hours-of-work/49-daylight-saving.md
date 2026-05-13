@@ -22,7 +22,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 >An Employee is rostered to work a ten hour night shift from 9pm through to 7:30am (including a 30 minute meal break). During the course of this shift, the clock is wound forward one hour due to the commencement of daylight saving. 
 >
 >The Employee therefore works nine hours. The Employee is paid nine hours at the applicable ordinary time rate of pay (including any shift allowances, allowances ordinarily payable in respect of this shift and special rates for Saturdays and Sundays). 
->
+
 >**Example:** 
 >
 >An Employee is rostered in a ten hour night shift from 9pm through to 7.30am (including a 30 minute meal break). During the course of this shift, the clock is wound back one hour due to the cessation of daylight saving. The Employee therefore works 11 hours. 

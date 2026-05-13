@@ -31,6 +31,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
   - **(ii)** the total weekly wage rate, as varied from time to time, and any weekly over Agreement payment being paid to the Employee at the date of the injury and which would have been payable for the Employee's classification for the week in question if they had been performing their normal duties, provided that - in making such calculation any payment for overtime earnings, shift premiums, penalty rates and any other ancillary payment payable by the Employer will not be taken into account.
 
 **33.5 Payment for part of a week**
+
 Where an Employee is incapacitated, either totally or partially, for part of a week, such an Employee will receive pro rata accident pay for that part of the week.
 
 **33.6 Qualifications for payment**
@@ -47,9 +48,11 @@ Where an Employee is incapacitated, either totally or partially, for part of a w
 - **(a)** The maximum period or aggregate period of accident make-up pay to be made by the Employer will be a total of 39 weeks for any one injury.
 
 **33.8 Absences on other than paid leave**
+
 An Employee will not be entitled to the payment of accident pay in respect of any period of paid annual leave, or long service leave or for any paid public holiday in accordance this Agreement.
 
 **33.9 Notice of injury**
+
 Following an injury for which they claim to be entitled to receive accident pay, an Employee will give notice in writing of the injury to their Employer as soon as reasonably practicable after the occurrence thereof, provided that such notice may be given by a representative of the Employee.
 
 **33.10 Medical examination**
@@ -57,6 +60,7 @@ Following an injury for which they claim to be entitled to receive accident pay,
 - **(b)** Where, in accordance with the WIRC Act, a medical referee gives a certificate as to the condition of the Employee and their fitness for work or specifies work for which the Employee is fit and such work is made available by the Employer, and is refused by the Employee or the Employee fails to commence the work, accident pay will cease from the date of such refusal or failure to commence the work.
 
 **33.11 Cessation or redemption of weekly payments**
+
 Where there is a cessation or redemption of weekly compensation payments under the WIRC Act, the Employer’s liability to pay accident pay will cease as from the date of such cessation or redemption.
 
 **33.12 Civil damages**
@@ -65,15 +69,19 @@ Where there is a cessation or redemption of weekly compensation payments under t
 - **(c)** Where an Employee obtains a judgement or settlement for damages against a person other than the Employer in respect of an injury for which he or she has received accident pay, the Employers liability to pay accident pay will cease from the date of such judgement or settlement, provided that if the judgement or settlement for damages is not reduced either in whole or part by the amount of accident pay made by the Employer, the Employee will pay to the Employer any amount of accident pay already received in respect of that injury by which the judgement or settlement has not been so reduced.
 
 **33.13 Insurance against liability**
+
 Nothing in this Agreement will require an Employer to insure against liability for accident pay.
 
 **33.14 Variations in compensation rates**
+
 Any changes in compensation rates under the WIRC Act will not increase the amount of accident pay above the amount that would have been payable had the rates of compensation remained unchanged.
 
 **33.15 Death of an Employee**
+
 All rights to accident pay will cease on the death of an Employee.
 
 **33.16 Commencement**
+
 This [clause 33](/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility) will only apply in respect of incapacity arising from an injury occurring or recurring on or after 3 March 1975 or, in the case of Section 3 Employees employed by Royal Women’s Hospital or Royal Children’s Hospital, 22 September 1975.
 
 Plain language terms: workers comp top-up, accident makeup pay.

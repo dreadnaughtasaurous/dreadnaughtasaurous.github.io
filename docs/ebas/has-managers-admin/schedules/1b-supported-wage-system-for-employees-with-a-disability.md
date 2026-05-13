@@ -31,17 +31,17 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 - **3.1** Employees to whom this clause applies will be paid the applicable percentage of the minimum rate of pay prescribed in **[Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) or 3B** of this Agreement for the class of work which the person is performing, according to the following schedule:
 
-| Assessed Capacity | % Wage Rate |
-|---|---|
-| 10%* | 10% |
-| 20% | 20% |
-| 30% | 30% |
-| 40% | 40% |
-| 50% | 50% |
-| 60% | 60% |
-| 70% | 70% |
-| 80% | 80% |
-| 90% | 90% |
+    | Assessed Capacity | % Wage Rate |
+    |---|---|
+    | 10%* | 10% |
+    | 20% | 20% |
+    | 30% | 30% |
+    | 40% | 40% |
+    | 50% | 50% |
+    | 60% | 60% |
+    | 70% | 70% |
+    | 80% | 80% |
+    | 90% | 90% |
 
 - **3.2** Where a person's assessed capacity is 10 per cent, they will receive a high degree of assistance and support.
 - **3.3** Provided that the minimum amount payable will be not less than $90 per week, or the minimum prescribed by the Award, whichever is greater.

@@ -61,6 +61,8 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(c)** Subject to [subclause 17.7(d)](/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers) below, a decision of the Commission is binding upon the persons covered by this Agreement.
 - **(d)** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 
-**17.8 Conduct of matters before the Commission** Subject to any agreement between the parties to the dispute in relation to a particular dispute or grievance and the provisions of this clause, in dealing with a dispute or grievance through conciliation or arbitration, the Commission will conduct the matter in accordance with sections 577, 578 and Subdivision B of Division 3 of Part 5-1 of the Act.
+**17.8 Conduct of matters before the Commission** 
+
+Subject to any agreement between the parties to the dispute in relation to a particular dispute or grievance and the provisions of this clause, in dealing with a dispute or grievance through conciliation or arbitration, the Commission will conduct the matter in accordance with sections 577, 578 and Subdivision B of Division 3 of Part 5-1 of the Act.
 
 Plain language terms: dispute, grievance, FWC dispute.

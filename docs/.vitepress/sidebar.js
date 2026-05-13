@@ -515,12 +515,12 @@ const sidebar = [
         { text: '54. Purchased Leave', link: '/ebas/has-managers-admin/common-terms/leave/54-purchased-leave' },
         { text: '55. Personal Leave', link: '/ebas/has-managers-admin/common-terms/leave/55-personal-leave' },
         { text: '56. Compassionate Leave', link: '/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave' },
-        { text: '57. Pre Natal Leave', link: '/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave' },
-        { text: '58. Pre Adoption Leave', link: '/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave' },
+        { text: '57. Pre-Natal Leave', link: '/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave' },
+        { text: '58. Pre-Adoption Leave', link: '/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave' },
         { text: '59. Parental Leave', link: '/ebas/has-managers-admin/common-terms/leave/59-parental-leave' },
         { text: '60. Breastfeeding', link: '/ebas/has-managers-admin/common-terms/leave/60-breastfeeding' },
         { text: '61. Long Service Leave', link: '/ebas/has-managers-admin/common-terms/leave/61-long-service-leave' },
-        { text: '62. Leave To Engage In Voluntary Emergency', link: '/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency' },
+        { text: '62. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency' },
         { text: '63. Jury Service Leave', link: '/ebas/has-managers-admin/common-terms/leave/63-jury-service-leave' },
         { text: '64. Absences On Defence Leave', link: '/ebas/has-managers-admin/common-terms/leave/64-absences-on-defence-leave' },
         { text: '65. Special Disaster Leave', link: '/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave' },
@@ -531,7 +531,7 @@ const sidebar = [
       ] },
         { text: 'Occupational Health & Safety', link: '/ebas/has-managers-admin/common-terms/ohs', collapsed: true, items: [
         { text: '80. Occupational Health Safety', link: '/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety' },
-        { text: '81. Oh S Department Placement', link: '/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement' },
+        { text: '81. OH&S Department Placement', link: '/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement' },
         { text: '82. Fitness For Work', link: '/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work' }
       ] },
         { text: 'Preliminary', link: '/ebas/has-managers-admin/common-terms/preliminary', collapsed: true, items: [
@@ -575,13 +575,13 @@ const sidebar = [
         { text: '10. In Charge Allowances', link: '/ebas/has-managers-admin/health-allied-services/allowances/10-in-charge-allowances' },
         { text: '11. Nauseous Work Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance' },
         { text: '12. Seniors Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance' },
-        { text: '13. Tool Allowance Chefs And Cooks Only', link: '/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only' },
-        { text: '14. Certificate Allowance Pathology Technicians', link: '/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians' },
+        { text: '13. Tool Allowance (Chefs And Cooks Only)', link: '/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only' },
+        { text: '14. Certificate Allowance - Pathology Technicians', link: '/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians' },
         { text: '15. Cooking Trade Proficiency Payments', link: '/ebas/has-managers-admin/health-allied-services/allowances/15-cooking-trade-proficiency-payments' },
         { text: '16. Educational Incentive Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance' },
-        { text: '17. Reimbursement Of Expenses Dhsv', link: '/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv' },
+        { text: '17. Reimbursement Of Expenses (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv' },
         { text: '18. Tow Motor Driver Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance' },
-        { text: '19. Code Black And Or Code Grey Response', link: '/ebas/has-managers-admin/health-allied-services/allowances/19-code-black-and-or-code-grey-response' },
+        { text: '19. Code Black and/or Code Grey Response', link: '/ebas/has-managers-admin/health-allied-services/allowances/19-code-black-and-or-code-grey-response' },
         { text: '20. Patient Transport Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance' },
         { text: '21. Security Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance' }
       ] },
@@ -612,7 +612,7 @@ const sidebar = [
       ] },
         { text: 'Hours Of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work', collapsed: true, items: [
         { text: '22. Hours Of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work' },
-        { text: '23. Rosters DHSV', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv' },
+        { text: '23. Rosters (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv' },
         { text: '24. Weekend Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/24-weekend-work' },
         { text: '25. Overtime', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime' },
         { text: '26. Overtime In Lieu', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu' },
@@ -623,17 +623,17 @@ const sidebar = [
         { text: 'Preliminary', link: '/ebas/has-managers-admin/health-allied-services/preliminary', collapsed: true, items: [
         { text: '2. Application Of Section 2', link: '/ebas/has-managers-admin/health-allied-services/preliminary/2-application-of-section-2' },
         { text: '3. Definitions', link: '/ebas/has-managers-admin/health-allied-services/preliminary/3-definitions' },
-        { text: '4. Performance Management Dhsv', link: '/ebas/has-managers-admin/health-allied-services/preliminary/4-performance-management-dhsv' }
+        { text: '4. Performance Management (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/preliminary/4-performance-management-dhsv' }
       ] },
         { text: 'Union Matters', link: '/ebas/has-managers-admin/health-allied-services/union-matters', collapsed: true, items: [
-        { text: '33. Workforce Skills Capability And Mobility', link: '/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility' }
+        { text: '33. Workforce Skills, Capability And Mobility', link: '/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility' }
       ] },
         { text: 'Wages', link: '/ebas/has-managers-admin/health-allied-services/wages', collapsed: true, items: [
         { text: '7. Experience Payments', link: '/ebas/has-managers-admin/health-allied-services/wages/7-experience-payments' },
         { text: '8. Apprentices', link: '/ebas/has-managers-admin/health-allied-services/wages/8-apprentices' }
       ] },
         { text: 'Workplace Rights', link: '/ebas/has-managers-admin/health-allied-services/workplace-rights', collapsed: true, items: [
-        { text: '48. Staffing Flexibility Dhsv', link: '/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv' },
+        { text: '48. Staffing Flexibility (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv' },
         { text: '49. Amenities', link: '/ebas/has-managers-admin/health-allied-services/workplace-rights/49-amenities' }
       ] }
       ] },
@@ -657,7 +657,7 @@ const sidebar = [
         { text: '4. Notice Of Termination - Employee', link: '/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work', collapsed: true, items: [
-        { text: '7. Hours Of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work' },
+        { text: '7. Hours of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work' },
         { text: '8. Roster', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster' },
         { text: '9. Weekend Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/9-weekend-work' },
         { text: '10. Overtime', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime' },
@@ -672,10 +672,10 @@ const sidebar = [
         { text: '1B. Supported Wage System For Employees With A Disability', link: '/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability' },
         { text: '2B. Wage Rates Health Allied Services', link: '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services' },
         { text: '2C. Allowances Health Allied Services', link: '/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services' },
-        { text: '2D. Classification Structure Health Allied Services', link: '/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services' },
+        { text: '2D. Classification Structure: Health Allied Services', link: '/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services' },
         { text: '3B. Wage Rates Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers' },
         { text: '3C. Allowances Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers' },
-        { text: '3D. Classification Structure Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers' },
+        { text: '3D. Classification Structure: Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers' },
         { text: '3E. Workplace Trainer Careers Advisor', link: '/ebas/has-managers-admin/schedules/3e-workplace-trainer-careers-advisor' },
         { text: '3F. Worker Wellbeing Officer', link: '/ebas/has-managers-admin/schedules/3f-worker-wellbeing-officer' },
         { text: '3G. Aboriginal Employment Support Officer', link: '/ebas/has-managers-admin/schedules/3g-aboriginal-employment-support-officer' },

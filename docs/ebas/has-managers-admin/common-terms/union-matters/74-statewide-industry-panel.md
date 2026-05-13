@@ -37,6 +37,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(c)** An Employee who is a Party to the dispute will be released by the Employer from normal duties as is reasonably necessary to enable them to participate in this dispute settling procedure so long as it does not unduly affect the operations of the Employer.
 
 **74.4 Materials to be provided to the Panel for classification applications**
+
 Where an application to the Panel is made under 74.3.
 - **(a)** the Employer will provide the following materials (where available) as soon as practicable:
   - **(i)** the position description of the role;

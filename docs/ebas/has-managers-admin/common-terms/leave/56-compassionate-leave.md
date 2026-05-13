@@ -18,7 +18,9 @@ HAS HASMA health administrative services manager administrative worker clerical 
 **56.1 Entitlement**
 
 - **(a)** Compassionate leave may be available under this clause to an Employee if:
-  - **(i)** a member of the Employee’s immediate family or household: **(A)** contracts or develops a personal illness or sustains a personal injury that poses a serious threat to their life; or **(B)** dies;
+  - **(i)** a member of the Employee’s immediate family or household: 
+    - **(A)** contracts or develops a personal illness or sustains a personal injury that poses a serious threat to their life; or 
+    - **(B)** dies;
   - **(ii)** a child is stillborn, where the child would have been a member of the Employee’s immediate family or household, if the child had been born alive; or
   - **(iii)** the Employee, or the Employee’s spouse or de facto partner, has a miscarriage, (a **“permissible occasion”**).
 - **(b)** If the permissible occasion is the contraction or development of a personal illness, or the sustaining of a personal injury, the Employee may take the compassionate leave for that occasion at any time while the illness or injury persists.

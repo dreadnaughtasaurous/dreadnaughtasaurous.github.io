@@ -1,5 +1,5 @@
 ---
-title: '48. Staffing Flexibility Dhsv'
+title: '48. Staffing Flexibility (DHSV)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['staffing']
 ---
@@ -11,7 +11,7 @@ topics: ['staffing']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 48. Staffing Flexibility Dhsv
+# 48. Staffing Flexibility (DHSV)
 
 *This clause only applies to Dental Assistants employed by DHSV.*
 

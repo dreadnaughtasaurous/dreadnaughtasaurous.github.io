@@ -21,6 +21,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 The HWU will have access to Employees for any process arising under this Agreement.
 
 **70.2 Access to Employees – Electronic communication**
+
 The Employer will ensure that:
 - **(a)** emails from the HWU domain name are not blocked or restricted by or on behalf of the Employer, except in respect of any individual Employee who has made a written request to the Employer to block such emails;
 - **(b)** emails from Employees to the HWU are not blocked or restricted by or on behalf of the Employer;
@@ -55,12 +56,15 @@ The Employer will ensure that:
 - **(d)** Where discussions referred to in 70.5(c) are unsuccessful, either party may refer the matter to the Fair Work Commission in accordance with [Clause 17](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure) – Dispute Resolution
 
 **70.6 Meeting Space**
+
 In the absence of agreement on a location for the holding of HWU meetings, the room where one or more of the Employees who may participate in the meeting ordinarily take meal or other breaks will be the meeting room for the purpose of HWU meetings. Nothing in this clause is intended to override the operation of the Act.
 
 **70.7 Secondment to the HWU**
+
 The Employer will, on application, grant leave without pay to an Employee for the purpose of secondment to work for the HWU subject to the Employer’s reasonable operational requirements.
 
 **70.8 Employees holding HWU official positions**
+
 The Employer will, on application by the HWU, grant leave without loss of pay (including reasonable travelling time) to an Employee for the purpose of fulfilling their duties as an official of the HWU Branch Committee of Management or HWU delegate to the Health Services HWU National Council. For a member of the HWU Branch Committee of Management this currently involves 11 full day meetings per year.
 
 **70.9 Union Training**
@@ -103,7 +107,10 @@ The Employer will, on application by the HWU, grant leave without loss of pay (i
   - **(ii)** the Employee recognises that the Employee may not be able to return to their substantive role earlier than the requested end date.
   - **(iii)** Where an Employee seeks to extend their secondment beyond a period of twelve months, the Employee must submit a new application to their Employer no less than six- weeks prior to the end of their current secondment arrangement.
 - **(c)** Where an Employee is seconded in accordance with this clause:
-  - **(i)** the Employee’s absence will not contribute to, but not break continuity of service for the purpose of: **(A)** Long Service Leave ([Clause 61](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave)); **(B)** Notice of Termination – Employer ([Clause 5](/ebas/allied-health/preliminary/5-incidence-coverage) of Section 2 and [Clause 3](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement) of Section 3) and **(C)** Redundancy and Associated Entitlements ([Clause 26](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements))
+  - **(i)** the Employee’s absence will not contribute to, but not break continuity of service for the purpose of: 
+    - **(A)** Long Service Leave ([Clause 61](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave)); 
+    - **(B)** Notice of Termination – Employer ([Clause 5](/ebas/allied-health/preliminary/5-incidence-coverage) of Section 2 and [Clause 3](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement) of Section 3) and 
+    - **(C)** Redundancy and Associated Entitlements ([Clause 26](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements))
   - **(ii)** An Employee who possesses an ongoing contract of employment will return to their pre-secondment contracted hours of work at the cessation of the secondment arrangement.
   - **(iii)** An Employer will not be required to return to the Employee to their substantive role earlier than the requested end date.
   - **(iv)** The Employee will be expected to maintain confidentiality on matters pertaining to their substantive work with the Employer and the secondment with the HWU.

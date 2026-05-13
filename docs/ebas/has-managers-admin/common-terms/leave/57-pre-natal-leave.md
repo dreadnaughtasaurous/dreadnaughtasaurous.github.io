@@ -1,5 +1,5 @@
 ---
-title: '57. Pre Natal Leave'
+title: '57. Pre-Natal Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['parental-leave']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 57. Pre Natal Leave
+# 57. Pre-Natal Leave
 
 **57.1** An Employee required to attend pre-natal appointments or parenting classes that are only available or can only be attended during the Employee’s ordinary rostered shift may, subject to the provision of satisfactory evidence of attendance, access his or her personal leave credit.
 

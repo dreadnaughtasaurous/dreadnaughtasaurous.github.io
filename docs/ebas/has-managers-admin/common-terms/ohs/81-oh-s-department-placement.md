@@ -1,5 +1,5 @@
 ---
-title: '81. Oh S Department Placement'
+title: '81. OH&S Department Placement'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['ohs']
 ---
@@ -11,7 +11,7 @@ topics: ['ohs']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 81. Oh S Department Placement
+# 81. OH&S Department Placement
 
 **81.1** The parties recognise the valuable role of OH&S Representatives in facilitating safe working environments and the understanding of the interests of their peers within the Designated Working Group.
 

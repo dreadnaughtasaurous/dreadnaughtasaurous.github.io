@@ -29,6 +29,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
   - **(iii)** genuinely consider the Employee's response with a view to promoting physical, mental and emotional health so that Employees can safely undertake and sustain work; and
   - **(iv)** take these responses into account in considering whether reasonable adjustments can be made in order that the Employee can safely undertake and sustain work.
 - **(e) Report from Treating Medical Practitioner**
+
   Where, after discussion with the Employee, the Employer continues to have a reasonable belief that the Employee is unfit to perform the duties, the Employer may request the Employee to obtain a report from the Employee's treating medical practitioner regarding the Employee's fitness for work. Where this occurs, the Employer will provide to the Employee, in writing, the concerns and information that form the basis of the reasonable belief to assist the Employee's treating medical practitioner.
 - **(f)** The Employee will:
   - **(i)** advise the Employer of the Employee's treating medical practitioner;
@@ -36,6 +37,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
   - **(iii)** meet with the Employer to discuss any report.
 
 **82.3 Report from IME**
+
 If, on receipt of the report, and (where reasonably practicable) following discussion, the Employer continues to have a reasonable belief that the Employee is unfit for duty, or the Employee does not provide a report from the treating medical practitioner, the Employer may require the Employee to attend an independent medical practitioner (IME).
 - **(a)** The Employer will:
   - **(i)** pay for the cost and expenses of the appointment and report;
@@ -43,16 +45,19 @@ If, on receipt of the report, and (where reasonably practicable) following discu
   - **(iii)** meet with the Employee to discuss any report.
 
 **82.4 Information to Employee before IME**
+
 Before the Employee attends an IME under [subclause 82.3](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) above, the Employee will be provided with a copy of:
 - **(a)** the name of the proposed IME: and
 - **(b)** any correspondence (including any supporting material) proposed to be sent to the IME.
 
 **82.5 Employee consultation and right to supplement information**
+
 Before attending an IME, the Employee may:
 - **(a)** supplement the material to be provided to the IME;
 - **(b)** request to meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting.
 
 **82.6 Relationship to WIRC**
+
 This [subclause 82](/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work) does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
 
 **82.7 Safe Work Environment is paramount**

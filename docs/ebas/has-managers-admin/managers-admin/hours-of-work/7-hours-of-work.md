@@ -1,5 +1,5 @@
 ---
-title: '7. Hours Of Work'
+title: '7. Hours of Work'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 7. Hours Of Work
+# 7. Hours of Work
 
 **7.1** The ordinary hours of work for a full-time Employee will be 38 hours, or an average of 38 hours, per week in a fortnight or 4 week period.
 

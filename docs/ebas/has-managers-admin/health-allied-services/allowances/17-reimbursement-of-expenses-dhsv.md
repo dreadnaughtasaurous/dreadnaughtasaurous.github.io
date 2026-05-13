@@ -1,5 +1,5 @@
 ---
-title: '17. Reimbursement Of Expenses Dhsv'
+title: '17. Reimbursement Of Expenses (DHSV)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 17. Reimbursement Of Expenses Dhsv
+# 17. Reimbursement Of Expenses (DHSV)
 
 *This clause only applies to Dental Assistants employed by DHSV.* 
 

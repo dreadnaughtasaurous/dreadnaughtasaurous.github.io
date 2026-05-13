@@ -33,7 +33,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
   - **(ii)** work is performed in excess of twelve hours in any one shift.
 
 **25.3** Only authorised overtime will be paid for at the following overtime rates:
-- **(a) For Overtime that arises pursuant to [subclause 25.2(a)](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime)-25.2(b).**
+- **(a) For Overtime that arises pursuant to [subclause 25.2(a)-25.2(b)](/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime).**
   - **(i)** 150% (based on 1/38th of the weekly salary set out in Schedule 2B) for the first two hours and 200% (based on 1/38th of the weekly salary set out in [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services)) thereafter.
 
 Plain language terms: OT, extra hours, time and a half, double time, additional hours.
