@@ -1,5 +1,5 @@
 ---
-title: '34. Planned And Unplanned Absences'
+title: '34. Planned and Unplanned Absences'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 34. Planned And Unplanned Absences
+# 34. Planned and Unplanned Absences
 
 **34.1 Purpose**
 

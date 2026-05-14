@@ -1,5 +1,5 @@
 ---
-title: '35. Advertising And Filling Vacancies'
+title: '35. Advertising and Filling Vacancies'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 35. Advertising And Filling Vacancies
+# 35. Advertising and Filling Vacancies
 
 **35.1** Subject [clause 35.3](/ebas/mspp/workforce-management/35-advertising-and-filling-vacancies), each vacancy that arises will be filled by the Employer.
 

@@ -1,5 +1,5 @@
 ---
-title: '75. Reimbursement Of Professional Development Leave Expenses'
+title: '75. Reimbursement of Professional Development Leave Expenses'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['professional-development', 'travel']
 ---
@@ -11,7 +11,7 @@ topics: ['professional-development', 'travel']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 75. Reimbursement Of Professional Development Leave Expenses
+# 75. Reimbursement of Professional Development Leave Expenses
 
 - **(a)** An Employee will be entitled to the reimbursement of reasonable expenses incurred in the course of their approved Professional Development Leave, such as:
   - **(i)** Registration fees, reasonable travel, accommodation and per diem expenses; and/or

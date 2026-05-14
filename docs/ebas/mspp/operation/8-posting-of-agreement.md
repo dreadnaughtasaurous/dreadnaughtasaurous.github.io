@@ -1,5 +1,5 @@
 ---
-title: '8. Posting Of Agreement'
+title: '8. Posting of Agreement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 8. Posting Of Agreement
+# 8. Posting of Agreement
 
 A copy of this Agreement shall be available for the perusal of Employees.
 

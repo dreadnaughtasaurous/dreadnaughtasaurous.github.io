@@ -1,5 +1,5 @@
 ---
-title: '21. Request To Reduce Ordinary Hours'
+title: '21. Request to Reduce Ordinary Hours'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours']
 ---
@@ -11,7 +11,7 @@ topics: ['hours']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 21. Request To Reduce Ordinary Hours
+# 21. Request to Reduce Ordinary Hours
 
 - **(a)** An Employee may for reasons of family responsibilities or personal health request to reduce their ordinary hours of work on a temporary or permanent basis, for a minimum of 12 months, unless a shorter period is agreed.
 - **(b)** An Employee who intends to reduce their ordinary hours of work will provide the Employer with a written request no less than one month before the date of the proposed change.

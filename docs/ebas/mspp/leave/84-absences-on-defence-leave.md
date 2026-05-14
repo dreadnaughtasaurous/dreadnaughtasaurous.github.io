@@ -1,5 +1,5 @@
 ---
-title: '84. Absences On Defence Leave'
+title: '84. Absences on Defence Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 84. Absences On Defence Leave
+# 84. Absences on Defence Leave
 
 - **a.** A Full-time or Part-time Employee absent on defence service will be reimbursed by the Employer an amount equal to the difference between:
     - **(i)** the amount paid in respect of a period during which the Employee was absent on defence service; and

@@ -1,5 +1,5 @@
 ---
-title: '51. Salaries And Allowances'
+title: '51. Salaries and Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 51. Salaries And Allowances
+# 51. Salaries and Allowances
 
 **51.1 Salaries**
 

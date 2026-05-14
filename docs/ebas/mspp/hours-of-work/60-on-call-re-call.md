@@ -1,5 +1,5 @@
 ---
-title: '60. On Call Re Call'
+title: '60. On-Call/Re-Call'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'on-call']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'on-call']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 60. On Call Re Call
+# 60. On-Call/Re-Call
 
 **60.1 On Call Allowance**
 

@@ -1,5 +1,5 @@
 ---
-title: '57B. 10. Hour Break Consultation Transitional'
+title: '57B. 10 Hour Break Consultation - Transitional'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['consultation']
 ---
@@ -11,7 +11,7 @@ topics: ['consultation']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 57B. 10. Hour Break Consultation Transitional
+# 57B. 10 Hour Break Consultation - Transitional
 
 In the period before [clause 57.6a](/ebas/mspp/hours-of-work/57-employee-rosters)(ii) becomes operational, to support the introduction of rosters with a 10 hour break between ordinary shifts, an Employer may consult with Employees with a view to developing a new roster that:
 

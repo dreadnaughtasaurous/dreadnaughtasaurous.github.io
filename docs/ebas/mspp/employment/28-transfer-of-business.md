@@ -1,5 +1,5 @@
 ---
-title: '28. Transfer Of Business'
+title: '28. Transfer of Business'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 28. Transfer Of Business
+# 28. Transfer of Business
 
 - **a.** Where a business is before or after the date of this Agreement transmitted from an Employer (in this clause called the transmittor) to another Employer (in this clause called the transmittee) and an Employee who at the time of such transmission was an Employee of the transmittor in that business becomes an Employee of the transmittee:
     - **(i)** the continuity of the employment of the Employee shall be deemed not to have been broken by reason of such transmission; and

@@ -1,5 +1,5 @@
 ---
-title: '32. Redundancy And Associated Entitlements'
+title: '32. Redundancy and Associated Entitlements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'redundancy', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'redundancy', 'termination']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 32. Redundancy And Associated Entitlements
+# 32. Redundancy and Associated Entitlements
 
 **32.1 Arrangement** 
 

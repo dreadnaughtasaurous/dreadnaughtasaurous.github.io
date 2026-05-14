@@ -1,5 +1,5 @@
 ---
-title: '87. Reimbursement Of Road Tolls'
+title: '87. Reimbursement of Road Tolls'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['travel']
 ---
@@ -11,7 +11,7 @@ topics: ['travel']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 87. Reimbursement Of Road Tolls
+# 87. Reimbursement of Road Tolls
 
 An Employee who is required to travel on Employer business or who is recalled to duty outside normal working hours, and who incurs expenses for road tolls, will be fully reimbursed for such expenses on production of receipts.
 

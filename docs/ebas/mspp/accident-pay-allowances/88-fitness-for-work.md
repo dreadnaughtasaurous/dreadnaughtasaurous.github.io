@@ -1,5 +1,5 @@
 ---
-title: '88. Fitness For Work'
+title: '88. Fitness for Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 88. Fitness For Work
+# 88. Fitness for Work
 
 **88.1 Fit for Work**
 

@@ -1,5 +1,5 @@
 ---
-title: '95. Clinical Supervision Of Psychologists'
+title: '95. Clinical Supervision of Psychologists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['clinical-supervision']
 ---
@@ -11,7 +11,7 @@ topics: ['clinical-supervision']
 MSPP medical scientists pharmacists medical scientist pharmacist psychologist laboratory scientist psychologist research scientist hospital pharmacist
 </div>
 
-# 95. Clinical Supervision Of Psychologists
+# 95. Clinical Supervision of Psychologists
 
 - **a.** Grade 1 and Grade 2 Psychologists will be provided with individual fortnightly clinical supervision from a psychologist classified as Grade 3 and above.
 - **b.** Grade 3, Grade 4, Grade 5 and Grade 6 Psychologists will be provided with a minimum of 10 hours of individual clinical supervision per annum plus an additional 12 hours per annum peer supervision, as defined by the PBA.

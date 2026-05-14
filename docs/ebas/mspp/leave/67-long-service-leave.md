@@ -35,8 +35,6 @@ This clause contains several parts:
 - **(e) Pay**: Remuneration for normal weekly hours at the ordinary time rate, including specific allowances (e.g., Higher Qualification, Radiation Safety Officer) and casual loadings.
 - **(f) Regular Casual Employee**: A casual employee employed on a regular and systematic basis.
 
----
-
 ## Part 2 – Full-time, Part-time, Locum Pharmacists, and Regular Casuals
 
 **67.4 Entitlement**
@@ -76,14 +74,10 @@ This clause contains several parts:
   - The Employee has reached the pro rata threshold (e.g., 7 years for Regular Casuals) and was not terminated for serious/wilful misconduct.
 - **(b) Transfer of Entitlement**: Employees moving to another Institution may elect to defer payment and transfer their service credit to the new Employer, provided they are re-employed within the allowable period of absence.
 
----
-
 ## Part 3 - Other Casual Employees
 
 **67.10 Entitlement** 
 Other Casual Employees are entitled to long service leave in accordance with the *Long Service Leave Act 2018 (Vic)*. They may also request double leave at half pay, which the Employer must grant unless there are reasonable business grounds for refusal or additional costs involved.
-
----
 
 ## Part 4 - Common Conditions
 
@@ -98,9 +92,5 @@ Employers must maintain records of service, leave taken, and prior service recog
 
 **67.15 Concurrent Service**
 Service with two or more Employers is generally distinct. However, if an Employee moves from a permanent role at one Employer to a permanent role at another while keeping a casual role at the first, service may be transferred under specific conditions.
-
----
-
-
 
 Plain language terms: LSL, long service.

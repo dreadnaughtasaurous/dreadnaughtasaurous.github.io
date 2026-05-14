@@ -1,5 +1,5 @@
 ---
-title: '5. Relationship With Award And Previous Certified Agreements'
+title: '5. Relationship with Award and Previous Certified Agreements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 5. Relationship With Award And Previous Certified Agreements
+# 5. Relationship with Award and Previous Certified Agreements
 
 - **(a)** This is a comprehensive agreement that operates to the exclusion of any award or enterprise agreement which previously applied to the Employees covered by this agreement.
 

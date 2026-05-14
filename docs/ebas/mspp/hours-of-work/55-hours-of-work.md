@@ -1,5 +1,5 @@
 ---
-title: '55. Hours Of Work'
+title: '55. Hours of Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 55. Hours Of Work
+# 55. Hours of Work
 
 **55.1 Ordinary Hours of Work (Full-time)**
 
@@ -63,15 +63,15 @@ Notwithstanding anything else in this clause, with the agreement of the Employer
 
 - **(a)** Despite the overtime provisions of this Agreement, if an Employee works on a shift during which time changes because of the introduction of, or cessation to, daylight saving, that Employee will be paid for the actual hours worked at the applicable ordinary time rate of pay (including any applicable shift allowances, allowances ordinarily payable in respect of the shift and special rates for Saturdays and Sundays).
 
-> **Example:**
-> An Employee is rostered to work a ten hour night shift from 11pm through to 9:30am (including a 30 minute meal break). During the course of this shift, the clock is wound forward one hour due to the commencement of daylight saving. 
->
-> The Employee therefore works nine hours. The Employee is paid nine hours at their ordinary time rate of pay (including any shift allowances, allowances ordinarily payable in respect of this shift and special rates for Saturdays and Sundays). 
+    > **Example:**
+    > An Employee is rostered to work a ten hour night shift from 11pm through to 9:30am (including a 30 minute meal break). During the course of this shift, the clock is wound forward one hour due to the commencement of daylight saving. 
+    >
+    > The Employee therefore works nine hours. The Employee is paid nine hours at their ordinary time rate of pay (including any shift allowances, allowances ordinarily payable in respect of this shift and special rates for Saturdays and Sundays). 
 
-> **Example:**
-> An Employee is rostered in a ten hour night shift from 11pm through to 9:30am (including a 30 minute meal break). During the course of this shift, the clock is wound back one hour due to the cessation of daylight saving. 
->
-> The Employee therefore works 11 hours. The Employee is paid 11 hours at their ordinary time rate of pay (including any shift allowances, allowances ordinarily payable in respect of this shift and special rates for Saturdays and Sundays). No overtime is paid for the additional hour worked.
+    > **Example:**
+    > An Employee is rostered in a ten hour night shift from 11pm through to 9:30am (including a 30 minute meal break). During the course of this shift, the clock is wound back one hour due to the cessation of daylight saving. 
+    >
+    > The Employee therefore works 11 hours. The Employee is paid 11 hours at their ordinary time rate of pay (including any shift allowances, allowances ordinarily payable in respect of this shift and special rates for Saturdays and Sundays). No overtime is paid for the additional hour worked.
 
 - **(b)** Despite the above, for the purpose of calculating accrued days off, Employees will be taken to have worked the standard hours for a night shift in accordance with the roster.
 

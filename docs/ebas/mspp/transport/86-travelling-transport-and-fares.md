@@ -1,5 +1,5 @@
 ---
-title: '86. Travelling Transport And Fares'
+title: '86. Travelling Transport and Fares'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['travel']
 ---
@@ -11,7 +11,7 @@ topics: ['travel']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 86. Travelling Transport And Fares
+# 86. Travelling Transport and Fares
 
 - **a.** An Employee who is recalled to work outside the normal working hours (provided such work is not continuous with a rostered period of duty) and who uses their vehicle for transport to a place of work shall receive allowances in accordance with this clause.
 - **b.** Should any Employee be required to use their vehicle during normal working hours on Employer business, the Employee shall receive such allowance based on distance per kilometre travelled as specified by the ATO. The rates will be adjusted each financial year in accordance with the Australian Taxation Office per kilometre rate.

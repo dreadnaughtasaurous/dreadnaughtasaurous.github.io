@@ -1,5 +1,5 @@
 ---
-title: '81. Cultural And Ceremonial Leave'
+title: '81. Cultural and Ceremonial Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'ceremonial-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'ceremonial-leave']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 81. Cultural And Ceremonial Leave
+# 81. Cultural and Ceremonial Leave
 
 - **(a)** The Employer may approve attendance during working hours by an Employee of Aboriginal or Torres Strait Islander descent at any Aboriginal or Torres Strait Islander community meetings, except the Annual General Meetings of Aboriginal or Torres Strait Islander community organisations at which the election of office bearers will occur.
 

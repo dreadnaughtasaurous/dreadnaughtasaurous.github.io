@@ -1,5 +1,5 @@
 ---
-title: '4. Commencement Date And Period Of Operation'
+title: '4. Commencement Date and Period of Operation'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']
 ---
@@ -11,15 +11,15 @@ topics: ['preliminary']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 4. Commencement Date And Period Of Operation
+# 4. Commencement Date and Period of Operation
 
 - **(a)** This Agreement shall come into effect seven days from the date of approval by Fair Work Commission. Wages come into operation from the beginning of the first full pay period commencing on or after 1 December 2021.
 
 - **(b)** In this Agreement, non-wage related matters (excluding wages and allowances) will come into effect from 21 December 2021, notwithstanding, that the entitlement will be applied seven days from the date of approval by the Fair Work Commission.
 
-> **Example:**
->
-> An Employee engaged by the Employer at 21 December 2021, is entitled to 14 weeks of paid parental leave from that date if they are the primary carer. Once the Agreement becomes operative, the Employee will be entitled to be paid 4 weeks paid parental leave for the primary carer.
+    > **Example:**
+    >
+    > An Employee engaged by the Employer at 21 December 2021, is entitled to 14 weeks of paid parental leave from that date if they are the primary carer. Once the Agreement becomes operative, the Employee will be entitled to be paid 4 weeks paid parental leave for the primary carer.
 
 - **(c)** [Clause 6.15](/ebas/mspp/operation/6-savings-clause) of [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc) and [Schedule 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) (Medical Scientist Progression from Grade 1 to Grade 2) will apply as of 1 December 2017 or the operative date of the Agreement which ever is the later date.
 

@@ -13,6 +13,16 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 2. Arrangement
 
+---
+
+<FileAttachment
+  href="/attachments/mspp/mspp-eba-2021-2025.pdf"
+  label="Enterprise Bargaining Agreement"
+  description="Medical Scientists, Pharmacists and Psychologists EBA 2021–2025"
+/>
+
+---
+
 | Clause | Title | Page |
 |--------|-------|------|
 | **PART 1: OPERATION OF AGREEMENT** | | |

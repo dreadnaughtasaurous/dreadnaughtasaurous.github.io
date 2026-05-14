@@ -1,5 +1,5 @@
 ---
-title: '64. Personal Carer''s Leave'
+title: '64. Personal/Carer''s Leave'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave', 'personal-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'personal-leave']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 64. Personal Carer's Leave
+# 64. Personal/Carer's Leave
 
 **64.1 Additional schedules**
 

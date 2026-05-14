@@ -1,5 +1,5 @@
 ---
-title: '18. Types Of Employment'
+title: '18. Types of Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 18. Types Of Employment
+# 18. Types of Employment
 
 Employees under this Agreement shall be employed in any one of the following categories:
 

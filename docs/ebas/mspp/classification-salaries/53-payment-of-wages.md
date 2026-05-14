@@ -1,5 +1,5 @@
 ---
-title: '53. Payment Of Wages'
+title: '53. Payment of Wages'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 53. Payment Of Wages
+# 53. Payment of Wages
 
 - **a.** Subject to any individual arrangements between an Employer and an Employee wages shall be paid no later than a Thursday.
 

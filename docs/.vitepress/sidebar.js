@@ -1154,7 +1154,7 @@ const sidebar = [
     collapsed: true,
     items: [
     { text: 'Accident Pay Allowances', link: '/ebas/mspp/accident-pay-allowances', collapsed: true, items: [
-        { text: '88. Fitness For Work', link: '/ebas/mspp/accident-pay-allowances/88-fitness-for-work' },
+        { text: '88. Fitness for Work', link: '/ebas/mspp/accident-pay-allowances/88-fitness-for-work' },
         { text: '89. Definitions', link: '/ebas/mspp/accident-pay-allowances/89-definitions' },
         { text: '90. Accident Pay', link: '/ebas/mspp/accident-pay-allowances/90-accident-pay' },
         { text: '91. Child Care Costs', link: '/ebas/mspp/accident-pay-allowances/91-child-care-costs' },
@@ -1174,15 +1174,15 @@ const sidebar = [
         { text: '48. Psychologists', link: '/ebas/mspp/classification-salaries/48-psychologists' },
         { text: '49. Progression Through Pay Points', link: '/ebas/mspp/classification-salaries/49-progression-through-pay-points' },
         { text: '50. Overlapping Pay Points Between Grades', link: '/ebas/mspp/classification-salaries/50-overlapping-pay-points-between-grades' },
-        { text: '51. Salaries And Allowances', link: '/ebas/mspp/classification-salaries/51-salaries-and-allowances' },
+        { text: '51. Salaries and Allowances', link: '/ebas/mspp/classification-salaries/51-salaries-and-allowances' },
         { text: '52. Higher Duties', link: '/ebas/mspp/classification-salaries/52-higher-duties' },
-        { text: '53. Payment Of Wages', link: '/ebas/mspp/classification-salaries/53-payment-of-wages' },
+        { text: '53. Payment of Wages', link: '/ebas/mspp/classification-salaries/53-payment-of-wages' },
         { text: '54. Superannuation', link: '/ebas/mspp/classification-salaries/54-superannuation' }
       ] },
     { text: 'Clinical Supervision', link: '/ebas/mspp/clinical-supervision', collapsed: true, items: [
         { text: '94. Psychologist Supervisor Training', link: '/ebas/mspp/clinical-supervision/94-psychologist-supervisor-training' },
-        { text: '95. Clinical Supervision Of Psychologists', link: '/ebas/mspp/clinical-supervision/95-clinical-supervision-of-psychologists' },
-        { text: '96. No Restraint Of Patients', link: '/ebas/mspp/clinical-supervision/96-no-restraint-of-patients' },
+        { text: '95. Clinical Supervision of Psychologists', link: '/ebas/mspp/clinical-supervision/95-clinical-supervision-of-psychologists' },
+        { text: '96. No Restraint of Patients', link: '/ebas/mspp/clinical-supervision/96-no-restraint-of-patients' },
         { text: '97. Amenities', link: '/ebas/mspp/clinical-supervision/97-amenities' },
         { text: '98. Royal Commission Working Group', link: '/ebas/mspp/clinical-supervision/98-royal-commission-working-group' }
       ] },
@@ -1195,75 +1195,75 @@ const sidebar = [
         { text: '16. Disciplinary Procedure', link: '/ebas/mspp/disputes/16-disciplinary-procedure' }
       ] },
     { text: 'Employment', link: '/ebas/mspp/employment', collapsed: true, items: [
-        { text: '18. Types Of Employment', link: '/ebas/mspp/employment/18-types-of-employment' },
-        { text: '19. Notification Of Classification', link: '/ebas/mspp/employment/19-notification-of-classification' },
-        { text: '20. Transition To Retirement', link: '/ebas/mspp/employment/20-transition-to-retirement' },
-        { text: '21. Request To Reduce Ordinary Hours', link: '/ebas/mspp/employment/21-request-to-reduce-ordinary-hours' },
+        { text: '18. Types of Employment', link: '/ebas/mspp/employment/18-types-of-employment' },
+        { text: '19. Notification of Classification', link: '/ebas/mspp/employment/19-notification-of-classification' },
+        { text: '20. Transition to Retirement', link: '/ebas/mspp/employment/20-transition-to-retirement' },
+        { text: '21. Request to Reduce Ordinary Hours', link: '/ebas/mspp/employment/21-request-to-reduce-ordinary-hours' },
         { text: '22. Individual Flexibility Arrangements', link: '/ebas/mspp/employment/22-individual-flexibility-arrangements' },
-        { text: '23. Full Time Employment', link: '/ebas/mspp/employment/23-full-time-employment' },
-        { text: '24. Part Time Employment', link: '/ebas/mspp/employment/24-part-time-employment' },
+        { text: '23. Full-Time Employment', link: '/ebas/mspp/employment/23-full-time-employment' },
+        { text: '24. Part-Time Employment', link: '/ebas/mspp/employment/24-part-time-employment' },
         { text: '25. Casual Employment', link: '/ebas/mspp/employment/25-casual-employment' },
         { text: '26. Fixed Term Employment', link: '/ebas/mspp/employment/26-fixed-term-employment' },
         { text: '27. Flexible Working Arrangements', link: '/ebas/mspp/employment/27-flexible-working-arrangements' },
-        { text: '28. Transfer Of Business', link: '/ebas/mspp/employment/28-transfer-of-business' },
+        { text: '28. Transfer of Business', link: '/ebas/mspp/employment/28-transfer-of-business' },
         { text: '29. Trainee Scientists', link: '/ebas/mspp/employment/29-trainee-scientists' },
         { text: '30. Consultation', link: '/ebas/mspp/employment/30-consultation' },
-        { text: '30A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work' },
-        { text: '31. Notice Of Termination', link: '/ebas/mspp/employment/31-notice-of-termination' },
-        { text: '32. Redundancy And Associated Entitlements', link: '/ebas/mspp/employment/32-redundancy-and-associated-entitlements' }
+        { text: '30A. Consultation About Changes to Rosters or Hours of Work', link: '/ebas/mspp/employment/30A-consultation-about-changes-to-rosters-or-hours-of-work' },
+        { text: '31. Notice of Termination', link: '/ebas/mspp/employment/31-notice-of-termination' },
+        { text: '32. Redundancy and Associated Entitlements', link: '/ebas/mspp/employment/32-redundancy-and-associated-entitlements' }
       ] },
-    { text: 'Hours Of Work', link: '/ebas/mspp/hours-of-work', collapsed: true, items: [
-        { text: '55. Hours Of Work', link: '/ebas/mspp/hours-of-work/55-hours-of-work' },
+    { text: 'Hours of Work', link: '/ebas/mspp/hours-of-work', collapsed: true, items: [
+        { text: '55. Hours of Work', link: '/ebas/mspp/hours-of-work/55-hours-of-work' },
         { text: '56. Shift Work', link: '/ebas/mspp/hours-of-work/56-shift-work' },
         { text: '57. Employee Rosters', link: '/ebas/mspp/hours-of-work/57-employee-rosters' },
-        { text: '57A. 10. Hour Break Not Given', link: '/ebas/mspp/hours-of-work/57A-10-hour-break-not-given' },
-        { text: '57B. 10. Hour Break Consultation Transitional', link: '/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional' },
-        { text: '58. Meal Intervals And Rest Intervals', link: '/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals' },
+        { text: '57A. 10 Hour Break Not Given', link: '/ebas/mspp/hours-of-work/57A-10-hour-break-not-given' },
+        { text: '57B. 10 Hour Break Consultation - Transitional', link: '/ebas/mspp/hours-of-work/57B-10-hour-break-consultation-transitional' },
+        { text: '58. Meal Intervals and Rest Intervals', link: '/ebas/mspp/hours-of-work/58-meal-intervals-and-rest-intervals' },
         { text: '59. Overtime', link: '/ebas/mspp/hours-of-work/59-overtime' },
-        { text: '60. On Call Re Call', link: '/ebas/mspp/hours-of-work/60-on-call-re-call' }
+        { text: '60. On-Call/Re-Call', link: '/ebas/mspp/hours-of-work/60-on-call-re-call' }
       ] },
     { text: 'Leave', link: '/ebas/mspp/leave', collapsed: true, items: [
         { text: '61. Annual Leave', link: '/ebas/mspp/leave/61-annual-leave' },
         { text: '62. Excess Annual Leave', link: '/ebas/mspp/leave/62-excess-annual-leave' },
         { text: '63. Purchased Leave', link: '/ebas/mspp/leave/63-purchased-leave' },
-        { text: '64. Personal Carer S Leave', link: '/ebas/mspp/leave/64-personal-carer-s-leave' },
+        { text: "64. Personal/Carer's Leave", link: '/ebas/mspp/leave/64-personal-carer-s-leave' },
         { text: '65. Compassionate Leave', link: '/ebas/mspp/leave/65-compassionate-leave' },
         { text: '66. Jury Service', link: '/ebas/mspp/leave/66-jury-service' },
         { text: '67. Long Service Leave', link: '/ebas/mspp/leave/67-long-service-leave' },
-        { text: '68. Pre Natal Leave', link: '/ebas/mspp/leave/68-pre-natal-leave' },
-        { text: '69. Breast Feeding Facilities', link: '/ebas/mspp/leave/69-breast-feeding-facilities' },
+        { text: '68. Pre-Natal Leave', link: '/ebas/mspp/leave/68-pre-natal-leave' },
+        { text: '69. Breast-Feeding Facilities', link: '/ebas/mspp/leave/69-breast-feeding-facilities' },
         { text: '70. Parental Leave', link: '/ebas/mspp/leave/70-parental-leave' },
         { text: '71. Examination Leave', link: '/ebas/mspp/leave/71-examination-leave' },
         { text: '72. Study Leave', link: '/ebas/mspp/leave/72-study-leave' },
         { text: '73. Professional Development Leave', link: '/ebas/mspp/leave/73-professional-development-leave' },
-        { text: '74. Additional Professional Registration Leave', link: '/ebas/mspp/leave/74-additional-professional-registration-leave' },
-        { text: '75. Reimbursement Of Professional Development Leave Expenses', link: '/ebas/mspp/leave/75-reimbursement-of-professional-development-leave' },
+        { text: '74. Additional Professional Registration Leave - Psychologists & Pharmacists', link: '/ebas/mspp/leave/74-additional-professional-registration-leave' },
+        { text: '75. Reimbursement of Professional Development Leave Expenses', link: '/ebas/mspp/leave/75-reimbursement-of-professional-development-leave' },
         { text: '76. Sabbatical Leave', link: '/ebas/mspp/leave/76-sabbatical-leave' },
         { text: '77. Blood Donors Leave', link: '/ebas/mspp/leave/77-blood-donors-leave' },
         { text: '78. Twelve Month Career Breaks', link: '/ebas/mspp/leave/78-twelve-month-career-breaks' },
-        { text: '79. Leave To Engage In Emergency Relief Activities', link: '/ebas/mspp/leave/79-leave-to-engage-in-emergency-relief-activities' },
+        { text: '79. Leave to Engage in Emergency Relief Activities', link: '/ebas/mspp/leave/79-leave-to-engage-in-emergency-relief-activities' },
         { text: '80. Public Holidays', link: '/ebas/mspp/leave/80-public-holidays' },
-        { text: '81. Cultural And Ceremonial Leave', link: '/ebas/mspp/leave/81-cultural-and-ceremonial-leave' },
+        { text: '81. Cultural and Ceremonial Leave', link: '/ebas/mspp/leave/81-cultural-and-ceremonial-leave' },
         { text: '82. Family Violence Leave', link: '/ebas/mspp/leave/82-family-violence-leave' },
         { text: '83. Special Disaster Leave', link: '/ebas/mspp/leave/83-special-disaster-leave' },
-        { text: '84. Absences On Defence Leave', link: '/ebas/mspp/leave/84-absences-on-defence-leave' },
+        { text: '84. Absences on Defence Leave', link: '/ebas/mspp/leave/84-absences-on-defence-leave' },
         { text: '85. Gender Transition Leave', link: '/ebas/mspp/leave/85-gender-transition-leave' }
       ] },
     { text: 'Operation', link: '/ebas/mspp/operation', collapsed: true, items: [
         { text: '1. Title', link: '/ebas/mspp/operation/1-title' },
-        { text: '10. Anti Discrimination', link: '/ebas/mspp/operation/10-anti-discrimination' },
         { text: '2. Arrangement', link: '/ebas/mspp/operation/2-arrangement' },
-        { text: '3. Coverage Of Agreement', link: '/ebas/mspp/operation/3-coverage-of-agreement' },
-        { text: '4. Commencement Date And Period Of Operation', link: '/ebas/mspp/operation/4-commencement-date-and-period-of-operation' },
-        { text: '5. Relationship With Award And Previous Certified Agreements', link: '/ebas/mspp/operation/5-relationship-with-award-and-previous-certified' },
+        { text: '3. Coverage of Agreement', link: '/ebas/mspp/operation/3-coverage-of-agreement' },
+        { text: '4. Commencement Date and Period Of Operation', link: '/ebas/mspp/operation/4-commencement-date-and-period-of-operation' },
+        { text: '5. Relationship with Award and Previous Certified Agreements', link: '/ebas/mspp/operation/5-relationship-with-award-and-previous-certified' },
         { text: '6. Savings Clause', link: '/ebas/mspp/operation/6-savings-clause' },
         { text: '7. No Extra Claims', link: '/ebas/mspp/operation/7-no-extra-claims' },
-        { text: '8. Posting Of Agreement', link: '/ebas/mspp/operation/8-posting-of-agreement' },
-        { text: '9. Definitions', link: '/ebas/mspp/operation/9-definitions' }
+        { text: '8. Posting of Agreement', link: '/ebas/mspp/operation/8-posting-of-agreement' },
+        { text: '9. Definitions', link: '/ebas/mspp/operation/9-definitions' },
+        { text: '10. Anti-Discrimination', link: '/ebas/mspp/operation/10-anti-discrimination' }
       ] },
     { text: 'Schedules', link: '/ebas/mspp/schedules', collapsed: true, items: [
         { text: '1. Employer Parties', link: '/ebas/mspp/schedules/1-employer-parties' },
-        { text: '2. Rates Of Pay', link: '/ebas/mspp/schedules/2-rates-of-pay-and-allowances' },
+        { text: '2. Rates of Pay', link: '/ebas/mspp/schedules/2-rates-of-pay-and-allowances' },
         { text: '3. Allowances & Other Payments', link: '/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc' },
         { text: '4. Alfred Health General Conditions', link: '/ebas/mspp/schedules/4-alfred-health-general-conditions' },
         { text: '5. Alfred Health Austin Health Royal Melbourne Hospital - Clinical Perfusionists', link: '/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica' },
@@ -1280,19 +1280,19 @@ const sidebar = [
         { text: '16. SHPA Ratios – Pharmacist Staffing Levels', link: '/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels' },
       ] },
     { text: 'Transport', link: '/ebas/mspp/transport', collapsed: true, items: [
-        { text: '86. Travelling Transport And Fares', link: '/ebas/mspp/transport/86-travelling-transport-and-fares' },
-        { text: '87. Reimbursement Of Road Tolls', link: '/ebas/mspp/transport/87-reimbursement-of-road-tolls' }
+        { text: '86. Travelling Transport and Fares', link: '/ebas/mspp/transport/86-travelling-transport-and-fares' },
+        { text: '87. Reimbursement of Road Tolls', link: '/ebas/mspp/transport/87-reimbursement-of-road-tolls' }
       ] },
     { text: 'Union Rights', link: '/ebas/mspp/union-rights', collapsed: true, items: [
         { text: '17. Union Rights', link: '/ebas/mspp/union-rights/17-union-rights' }
       ] },
     { text: 'Workforce Management', link: '/ebas/mspp/workforce-management', collapsed: true, items: [
         { text: '33. Workload', link: '/ebas/mspp/workforce-management/33-workload' },
-        { text: '34. Planned And Unplanned Absences', link: '/ebas/mspp/workforce-management/34-planned-and-unplanned-absences' },
-        { text: '35. Advertising And Filling Vacancies', link: '/ebas/mspp/workforce-management/35-advertising-and-filling-vacancies' },
-        { text: '36. Exposure To Hazardous Substances', link: '/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances' },
-        { text: '37. Health And Safety Rehabilitation And Workcover', link: '/ebas/mspp/workforce-management/37-health-and-safety-rehabilitation-and-workcover' },
-        { text: '38. Prevention And Management Of Workplace Bullying', link: '/ebas/mspp/workforce-management/38-prevention-and-management-of-workplace-bullying' }
+        { text: '34. Planned and Unplanned Absences', link: '/ebas/mspp/workforce-management/34-planned-and-unplanned-absences' },
+        { text: '35. Advertising and Filling Vacancies', link: '/ebas/mspp/workforce-management/35-advertising-and-filling-vacancies' },
+        { text: '36. Exposure to Hazardous Substances', link: '/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances' },
+        { text: '37. Health and Safety Rehabilitation and Workcover', link: '/ebas/mspp/workforce-management/37-health-and-safety-rehabilitation-and-workcover' },
+        { text: '38. Prevention and Management of Workplace Bullying', link: '/ebas/mspp/workforce-management/38-prevention-and-management-of-workplace-bullying' }
       ] }
     ]
   },

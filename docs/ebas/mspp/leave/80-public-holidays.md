@@ -43,12 +43,12 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
   - **(ii)** Where a public holiday occurs on a day a part-time Employee is not rostered to work the Employee shall receive payment according to the formula in [clause 80.3(iii)](/ebas/mspp/leave/80-public-holidays).
   - **(iii)** Average weekly hours over the previous six months are to be determined and a pro-rata payment made, regardless of whether the Employee would ever work on that day of the week. 
 
-> **Example:**
->
-> | Average Hours | Shift Length | Base Payment | Penalty | Payment |
-> |---------------|--------------|--------------|---------|---------|
-> | 24/38 hours | 8 hours (Where the ordinary shift length is 8 hours) | 5.05 hours | T 1.0 | 5.05 |
-> | 20/38 hours | 10 hours (Where the ordinary shift length is 10 hours) | 5.26 | T1.0 | 5.26 hours |
+  > **Example:**
+  >
+  > | Average Hours | Shift Length | Base Payment | Penalty | Payment |
+  > |---------------|--------------|--------------|---------|---------|
+  > | 24/38 hours | 8 hours (Where the ordinary shift length is 8 hours) | 5.05 hours | T 1.0 | 5.05 |
+  > | 20/38 hours | 10 hours (Where the ordinary shift length is 10 hours) | 5.26 | T1.0 | 5.26 hours |
 
 - **(b)** A part-time Employee who is only ever employed on a day or days between Monday and Friday (inclusive), will not receive any entitlement for a public holiday falling on a Saturday or Sunday. If an additional day or substitute day is declared on a weekday in respect to the relevant Saturday or Sunday, this exclusion will not affect the benefits applicable to the additional day or substitute day.
 

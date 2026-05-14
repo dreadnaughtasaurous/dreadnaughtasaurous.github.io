@@ -1,5 +1,5 @@
 ---
-title: '69. Breast Feeding Facilities'
+title: '69. Breast-Feeding Facilities'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['breaks']
 ---
@@ -11,7 +11,7 @@ topics: ['breaks']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 69. Breast Feeding Facilities
+# 69. Breast-Feeding Facilities
 
 **69.1 Paid break** 
 

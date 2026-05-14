@@ -1,5 +1,5 @@
 ---
-title: '38. Prevention And Management Of Workplace Bullying'
+title: '38. Prevention and Management of Workplace Bullying'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 38. Prevention And Management Of Workplace Bullying
+# 38. Prevention and Management of Workplace Bullying
 
 **38.1 Purpose**
 

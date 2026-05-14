@@ -1,5 +1,5 @@
 ---
-title: '31. Notice Of Termination'
+title: '31. Notice of Termination'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'termination']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 31. Notice Of Termination
+# 31. Notice of Termination
 
 **31.1 Notice Of Termination By Employer**
 

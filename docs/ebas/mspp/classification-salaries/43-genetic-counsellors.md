@@ -13,6 +13,6 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 43. Genetic Counsellors
 
-For Genetic Counsellor classification definitions and Higher Qualification Allowances see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), [clause 4](/ebas/mspp/operation/4-commencement-date-and-period-of-operation)
+For Genetic Counsellor classification definitions and Higher Qualification Allowances see [Schedule 3, clause 4](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc)
 
 Plain language terms: genetic counsellor.

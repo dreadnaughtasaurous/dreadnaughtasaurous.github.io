@@ -1,5 +1,5 @@
 ---
-title: '24. Part Time Employment'
+title: '24. Part-Time Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['employment']
 ---
@@ -13,7 +13,7 @@ topics: ['employment']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 24. Part Time Employment
+# 24. Part-Time Employment
 
 An Employer may employ part-time Employees in any classification in this Agreement. A regular part-time Employee is a person who:
 

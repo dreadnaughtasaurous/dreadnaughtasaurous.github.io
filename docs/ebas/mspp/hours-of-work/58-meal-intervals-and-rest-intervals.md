@@ -1,5 +1,5 @@
 ---
-title: '58. Meal Intervals And Rest Intervals'
+title: '58. Meal Intervals and Rest Intervals'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'breaks']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'breaks']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# 58. Meal Intervals And Rest Intervals
+# 58. Meal Intervals and Rest Intervals
 
 **58.1 Meal Intervals - All Employees**
 
