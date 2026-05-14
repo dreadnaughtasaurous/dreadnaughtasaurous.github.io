@@ -312,6 +312,7 @@
 
 <script setup>
 import { ref, computed, watch, onMounted, onUnmounted, nextTick } from 'vue'
+import { topicList } from '../../generated/topic-list.mjs'
 
 // ─── AI Worker URL ────────────────────────────────────────────────────────────
 const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
@@ -685,22 +686,6 @@ const ebaList = [
   'Mental Health Services 2024-2028',
   'Medical Scientists, Pharm & Psych 2021-2025',
   'Nurses and Midwives 2024-2028',
-]
-
-const topicList = [
-  'accident-pay','accommodation','allowances','annual-leave','appendices',
-  'apprentices','breaks','cash-payments','casual-conversion','ceremonial-leave',
-  'childcare','classification','consultation','definitions','delegates',
-  'discipline','discrimination','disputes','education-pd','employment',
-  'flexible-work','gender-affirmation-leave','gendered-violence','governance',
-  'higher-duties','higher-qualifications','hours','hourly-rates','leave',
-  'long-service-leave','meal','meal-allowance','ohs','on-call','overtime',
-  'parental-leave','pay-rates','penalty-rates','personal-leave','preliminary',
-  'professional-development','public-holidays','purchased-leave','redundancy',
-  'remuneration','right-to-disconnect','rosters','salary','salary-packaging',
-  'schedules','shift-allowances','shift-work','staffing','study-leave',
-  'superannuation','termination','top-of-band','training','travel',
-  'uniforms','union-matters','wages','workers-comp','workload',
 ]
 
 // ─── Keyboard navigation ──────────────────────────────────────────────────────
