@@ -18,8 +18,8 @@ nurse midwife nursing staff RN EN registered nurse nurse midwifery NUM nurse uni
 - **(a)** This clause applies only to the employment of a Trainee Enrolled Nurse undertaking a Diploma of Nursing in Traineeship mode where that Trainee at any time during their Training Contract forms part of a Local Agreement under the *Safe Patient Care Act*.
 - **(b)** A Trainee who is initially engaged to be supernumerary at all times during their Training Contract, but subsequently forms part of a Local Agreement under the *Safe Patient Care Act* will for the entirety of their Training Contract be treated as a Trainee in accordance with this clause.
 
-> **Example:**
-> A Trainee engaged under the YES program who was intended to be totally supernumerary for the duration of their Training Contract is subsequently utilised by the Employer to meet the Local Agreement under the Safe Patient Care Act when this was not anticipated at the commencement of the Training Contract.
+    > **Example:**
+    > A Trainee engaged under the YES program who was intended to be totally supernumerary for the duration of their Training Contract is subsequently utilised by the Employer to meet the Local Agreement under the Safe Patient Care Act when this was not anticipated at the commencement of the Training Contract.
 
 **94.2 Definitions**
 

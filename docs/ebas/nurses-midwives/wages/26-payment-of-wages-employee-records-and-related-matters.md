@@ -1,5 +1,5 @@
 ---
-title: '26. Payment Of Wages Employee Records And Related Matters'
+title: '26. Payment of Wages Employee Records and Related Matters'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 26. Payment Of Wages Employee Records And Related Matters
+# 26. Payment of Wages Employee Records and Related Matters
 
 **26.1 Payment**
 

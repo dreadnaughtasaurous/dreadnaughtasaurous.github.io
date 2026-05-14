@@ -1,5 +1,5 @@
 ---
-title: '64. Family And Domestic Violence Leave'
+title: '64. Family and Domestic Violence Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'family-violence-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'family-violence-leave']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 64. Family And Domestic Violence Leave
+# 64. Family and Domestic Violence Leave
 
 > **Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of Immediate family in [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
 

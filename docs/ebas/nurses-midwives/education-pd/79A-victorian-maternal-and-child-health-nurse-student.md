@@ -1,5 +1,5 @@
 ---
-title: '79A. Victorian Maternal And Child Health Nurse Student'
+title: '79A. Victorian Maternal and Child Health Nurse Student'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 midwife nursing staff RN EN registered enrolled midwifery NUM unit manager ANUM associate unit manager CNS clinical specialist CNE clinical educator CNC clinical consultant
 </div>
 
-# 79A. Victorian Maternal And Child Health Nurse Student
+# 79A. Victorian Maternal and Child Health Nurse Student
 
 **79A.1 Definition**
 

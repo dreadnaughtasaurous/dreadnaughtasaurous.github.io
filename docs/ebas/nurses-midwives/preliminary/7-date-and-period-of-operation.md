@@ -1,5 +1,5 @@
 ---
-title: '7. Date And Period Of Operation'
+title: '7. Date and Period of Operation'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 7. Date And Period Of Operation
+# 7. Date and Period of Operation
 
 **7.1** This Agreement will operate seven days after the date upon which it is approved by the Commission.
 

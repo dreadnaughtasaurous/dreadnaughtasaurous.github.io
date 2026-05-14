@@ -1,5 +1,5 @@
 ---
-title: '52. Right To Disconnect'
+title: '52. Right to Disconnect'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['right-to-disconnect']
 ---
@@ -13,7 +13,7 @@ topics: ['right-to-disconnect']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 52. Right To Disconnect
+# 52. Right to Disconnect
 
 *This clause does not apply to casual Employees.*
 

@@ -1,5 +1,5 @@
 ---
-title: '85A. Trainee Enrolled Nurse Classifications'
+title: '85A. Trainee Enrolled Nurse - Classifications'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 midwife nursing staff RN EN registered midwifery NUM unit manager ANUM associate unit manager CNS clinical specialist CNE clinical educator CNC clinical consultant
 </div>
 
-# 85A. Trainee Enrolled Nurse Classifications
+# 85A. Trainee Enrolled Nurse - Classifications
 
 **85A.1 Application**
 

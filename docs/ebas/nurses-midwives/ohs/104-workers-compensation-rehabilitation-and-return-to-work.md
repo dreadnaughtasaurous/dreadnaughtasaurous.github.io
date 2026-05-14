@@ -1,5 +1,5 @@
 ---
-title: '104. Workers Compensation Rehabilitation and Return To Work'
+title: '104. Workers Compensation Rehabilitation and Return to Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['workers-comp']
 ---
@@ -13,7 +13,7 @@ topics: ['workers-comp']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 104. Workers Compensation Rehabilitation and Return To Work
+# 104. Workers Compensation Rehabilitation and Return to Work
 
 **104.1 Workers Compensation Information**
 

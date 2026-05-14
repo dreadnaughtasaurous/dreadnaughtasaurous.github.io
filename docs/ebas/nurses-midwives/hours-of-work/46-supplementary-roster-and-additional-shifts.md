@@ -1,5 +1,5 @@
 ---
-title: '46. Supplementary Roster And Additional Shifts'
+title: '46. Supplementary Roster and Additional Shifts'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 46. Supplementary Roster And Additional Shifts
+# 46. Supplementary Roster and Additional Shifts
 
 **46.1** In addition to the roster under [clause 45](/ebas/nurses-midwives/hours-of-work/45-rosters) (Rosters), the Employer will maintain a supplementary roster.
 

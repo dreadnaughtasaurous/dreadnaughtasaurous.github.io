@@ -1,5 +1,5 @@
 ---
-title: '50. Recall Return To Workplace'
+title: '50. Recall - Return to Workplace'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'overtime']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 50. Recall Return To Workplace
+# 50. Recall - Return to Workplace
 
 **50.1** An Employee recalled to work during an off duty period will be paid overtime for a minimum of three hours' pay at the appropriate overtime rate where that work is not continuous with the next succeeding rostered period of duty.
 

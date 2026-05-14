@@ -1,5 +1,5 @@
 ---
-title: '90. Staffing Anum Amum And Above'
+title: '90. Staffing - ANUM/AMUM and Above'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['staffing']
 ---
@@ -11,7 +11,7 @@ topics: ['staffing']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 90. Staffing Anum Amum And Above
+# 90. Staffing - ANUM/AMUM and Above
 
 > **Note:** See [clause 35](/ebas/nurses-midwives/allowances/35-higher-duties) (Higher Duties) for any applicable payments related to performing higher duties under this clause.
 
@@ -51,6 +51,7 @@ There must be:
 ANUMs (or AMUMs in a Maternity Ward) are appointed to undertake in-charge functions during the off duty periods of the NUM/MUM. Except as set out in [clause 35](/ebas/nurses-midwives/allowances/35-higher-duties) (Higher Duties), the salary rate specified in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) of this Agreement includes the performance of the in-charge function during the off duty periods of the NUM/MUM.
 
 - **(a) 24 Hour a day, seven days per week wards/units**
+
   The following provisions apply to 24 hour a day, seven days per week wards/units.
   - **(i)** There must be five EFT ANUM/AMUM shift positions available for appointment, and four out of the five positions must be permanently appointed.
   - **(ii)** Nothing in any of these provisions prevents ANUM/AMUM positions being either full-time or part-time.
@@ -59,6 +60,7 @@ ANUMs (or AMUMs in a Maternity Ward) are appointed to undertake in-charge functi
   - **(v)** Where less than four EFT of ANUM/AMUMs are permanently appointed due to recruitment difficulties or delays or to circumstances beyond an Employer's control, a Registered Nurse or Midwife, other than an ANUM/AMUM, may be required to act in charge during the off duty period of a NUM/MUM (which event will be the exception to the rule).
   - **(vi)** Where an Employer experiences difficulties in recruiting Employees to permanent ANUM/AMUM positions despite having taken reasonable and practical steps to fill the position(s), the Employer will contact the ANMF at the earliest opportunity. The ANMF and the Employer may then discuss and agree on alternative arrangements. Any agreement reached will be recorded in writing.
 - **(b) Non-24 hour a day, seven days per week wards or units**
+
   For wards or units which are not 24 hours a day, seven days per week, the Employer is to appoint an ANUM/AMUM to cover all off duty periods of the NUM/MUM. In exceptional circumstances, a Registered Nurse or Midwife who is not an appointed ANUM/AMUM may be required to act in charge during the off duty period of a NUM/MUM.
 
 **90.3 Registered Nurse – Director of Nursing**

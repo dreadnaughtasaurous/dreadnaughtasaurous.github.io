@@ -1,5 +1,5 @@
 ---
-title: '93. Proposals To Vary Specific Matters'
+title: '93. Proposals to Vary Specific Matters'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 93. Proposals To Vary Specific Matters
+# 93. Proposals to Vary Specific Matters
 
 **93.1 Application**
 
@@ -49,10 +49,13 @@ A maximum of three weeks from the date of provision of the information in [claus
 **93.6 Implementing a complying proposal**
 
 - **(a) Genuine majority agree**
+
   Except as provided at (c), below, where a genuine majority of Affected Employees agree to a complying proposal at the local level it may be implemented from the beginning of the next roster period. Such agreement will not be unreasonably withheld.
 - **(b) Disputes**
+
   Should there be concern as to the 'genuine' nature of the agreement of the affected Employee, or agreement being unreasonably withheld, either party may progress such concerns through the Dispute Resolution Procedure within seven days of the view of the Affected Employees being determined. While the Dispute Resolution Procedure is being conducted work will continue normally according to the usual practice that existed before the dispute, until the dispute is resolved.
 - **(c) Exception – flexible work arrangement**
+
   The requirement at [subclause 93.6(a)](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of [clause 16](/ebas/nurses-midwives/consultation-disputes/16-flexible-working-arrangements) (Flexible Working Arrangements). Following the consultation period at [clause 93.5](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters), a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period.
 
 **93.7 Meaning of Non-Complying Proposal**

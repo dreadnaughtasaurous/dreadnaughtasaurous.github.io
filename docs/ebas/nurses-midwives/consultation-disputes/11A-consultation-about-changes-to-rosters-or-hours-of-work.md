@@ -1,5 +1,5 @@
 ---
-title: '11A. Consultation About Changes To Rosters Or Hours Of Work'
+title: '11A. Consultation About Changes to Rosters or Hours of Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'rosters', 'consultation']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters', 'consultation']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 11A. Consultation About Changes To Rosters Or Hours Of Work
+# 11A. Consultation About Changes to Rosters or Hours of Work
 
 *This [clause 11A](/ebas/nurses-midwives/consultation-disputes/11A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute a ‘Major Change’ in accordance with [subclause 11.2(c)](/ebas/nurses-midwives/consultation-disputes/11-consultation).*
 

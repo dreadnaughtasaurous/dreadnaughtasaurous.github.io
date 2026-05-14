@@ -52,6 +52,7 @@ An Employee holding more than one qualification is entitled to one qualification
 **31.5 Rates for Qualification Allowances**
 
 - **(a) Registered Nurses and Midwives**
+
   A Registered Nurse or Midwife entitled to a qualification allowance under this clause will be paid, in addition to the Employee's salary, as follows:
   - **(i)** The rate for "**RN/Midwife Hospital / Grad Certificate**" in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances), Part 2 – for a Hospital Certificate or Graduate Certificate or equivalent. An equivalent may include a Certificate obtained from training or an education facilities provider (such as infection control certificates from the Mayfield Centre) where the programmes are equivalent to a University Graduate Certificate and the training/education provider verifies that in writing;
   - **(ii)** The rate for "**RN/Midwife Post Grad Diploma or Degree**" in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances), Part 2 – for a Postgraduate Diploma, Degree or a Double Degree;
@@ -74,8 +75,10 @@ An Employee holding more than one qualification is entitled to one qualification
   Notwithstanding anything contained elsewhere in this clause an Enrolled Nurse who holds any other relevant certificate or qualification which may from time to time be approved by the NMBA is entitled to a qualification allowance in accordance with this clause.
 
 - **(d) Exclusion – Enrolled Nurses**
+
   An Enrolled Nurse is not entitled to a qualification allowance for a pre- registration or post-registration course leading to an endorsement to administer medication.
 - **(e) Certificate IV in Training and Assessment Allowance rate**
+
   The rate for "**Cert IV TAE Allowance**" as set out in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances), Part 2.
 
 **31.6 Relocation**

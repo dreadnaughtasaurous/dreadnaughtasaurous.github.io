@@ -1,5 +1,5 @@
 ---
-title: '33. Allowances Related To Overtime'
+title: '33. Allowances Related to Overtime'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'overtime', 'allowances']
 ---
@@ -11,11 +11,12 @@ topics: ['hours', 'overtime', 'allowances']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 33. Allowances Related To Overtime
+# 33. Allowances Related to Overtime
 
 **33.1 Meal allowance**
 
 - **(a) Meals where overtime worked beyond one hour**
+
   An Employee who works overtime will in the circumstances described in [subclause 33.1(b)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) receive either:
   - **(i)** where an Employer has its own cooking and dining facilities, an adequate meal; or
   - **(ii)** the relevant meal allowance as set out in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances).
@@ -27,12 +28,15 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
     - **(A)** five hours overtime, in which case the relevant allowance is 'Allowance A'; or
     - **(B)** nine hours overtime, in which case the relevant allowances are 'Allowance A' and 'Allowance B'.
 - **(c) Where provision does not apply**
+
   The allowance described at [subclauses 33.1(b)(i)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) and 33.1(b)(ii) above is not payable where the Employee:
   - **(i)** receives an adequate meal as described at [subclause 33.1(a)(i)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime); or
   - **(ii)** the Employee could reasonably return home for a meal within the period allowed.
 - **(d) Same day payment**
+
   On request meal money will be paid on the same day overtime is worked where practicable.
 - **(e) Payments are in addition**
+
   The payment of a meal allowance under this clause is in addition to any overtime payment.
 
 **33.2 On Call Allowance**

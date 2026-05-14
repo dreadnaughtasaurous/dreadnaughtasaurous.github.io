@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 11B. No Amalgamation of Wards Without Agreement of ANMF And Employer
+# 11B. No Amalgamation of Wards Without Agreement of ANMF and Employer
 
 **11B.1** A proposed amalgamation of wards will be subject to consultation under [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation), save that [clause 11.10](/ebas/nurses-midwives/consultation-disputes/11-consultation) will not apply and instead the dispute will be notified to the Statewide Industry Panel under [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
 

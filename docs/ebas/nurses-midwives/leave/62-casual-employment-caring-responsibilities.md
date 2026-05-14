@@ -1,5 +1,5 @@
 ---
-title: '62. Casual Employment Caring Responsibilities'
+title: '62. Casual Employment - Caring Responsibilities'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'employment']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'employment']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 62. Casual Employment Caring Responsibilities
+# 62. Casual Employment - Caring Responsibilities
 
 **62.1** Subject to the evidentiary and notice requirements that apply to carer's leave under [clause 61.6](/ebas/nurses-midwives/leave/61-personal-leave), a casual Employee is entitled to be unavailable to attend work, or to leave work, if they need to provide care or support to a member of the Employee's Immediate family or household because of:
 

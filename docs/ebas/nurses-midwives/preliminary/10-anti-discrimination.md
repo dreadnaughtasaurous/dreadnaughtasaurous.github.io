@@ -1,5 +1,5 @@
 ---
-title: '10. Anti Discrimination'
+title: '10. Anti-Discrimination'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary', 'discrimination']
 ---
@@ -13,7 +13,7 @@ topics: ['preliminary', 'discrimination']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 10. Anti Discrimination
+# 10. Anti-Discrimination
 
 **10.1** Those covered by this Agreement respect and value the diversity of the work force and protection against unfair treatment and discrimination on the basis of race, colour, sex, sexual orientation, breastfeeding, gender identity, intersex status, an experience of family or domestic violence, age, physical or mental disability, marital status, family or carer responsibilities, pregnancy, religion, political opinion, national extraction or social origin.
 

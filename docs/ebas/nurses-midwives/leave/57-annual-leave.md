@@ -28,8 +28,8 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   - **(ii)** For Part-Time Employees:
     - **(A)** As a proportion of 3.8 hours for each week in which ordinary hours were worked on a weekend (or part thereof) up to a maximum of 10 weekends.
 
-> **Example:**
-> If a part-time Employee who works 24 hours in a week that includes a weekend, they would accrue a proportion of 3.8 hours as follows: 24/38 x 3.8 = 2.4 hours.
+  > **Example:**
+  > If a part-time Employee who works 24 hours in a week that includes a weekend, they would accrue a proportion of 3.8 hours as follows: 24/38 x 3.8 = 2.4 hours.
 
 - **(c)** Annual leave accrues progressively during a year of service according to the Employee's ordinary hours of work and accumulates from year to year.
   - **(i)** Savings – weekend worker as at 30 June 2022
@@ -38,9 +38,9 @@ If an Employee was accruing six weeks of annual leave as at 30 June 2022 (or wou
     - **(B)** the Employee changes Employers;
     - **(C)** the Employee requests (and the Employer agrees) to move the Employee from full-time to part-time employment other than as part of a Flexible Working Arrangement, Individual Flexible Working Arrangement, family violence arrangement or reduced hours on return from parental leave); or
     - **(D)** the Employee initiates a change that means they no longer perform weekend work. For example:
-      1) where an Employee requests a change to a different role that does not require the performance of weekend work;
-      2) where an Employee requests to move from a rotating or similar roster that includes weekends, to fixed shifts that do not include weekend work; or
-      3) where an Employee (at their request) relocates to a ward with a different system of work (for the removal of doubt, this does not include where an Employee requests to move to a ward with the same general system of work).
+      - **1)** where an Employee requests a change to a different role that does not require the performance of weekend work;
+      - **2)** where an Employee requests to move from a rotating or similar roster that includes weekends, to fixed shifts that do not include weekend work; or
+      - **3)** where an Employee (at their request) relocates to a ward with a different system of work (for the removal of doubt, this does not include where an Employee requests to move to a ward with the same general system of work).
 
 ## Taking paid annual leave
 
@@ -64,8 +64,8 @@ If an Employee was accruing six weeks of annual leave as at 30 June 2022 (or wou
     - **(B)** the Employee's family responsibilities; and
     - **(C)** whether previous leave applications for the same high demand period were or were not successful.
 
-> **Example:**
-> A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are 'high demand periods' for that ward within the meaning of this [subclause 57.2(f)](/ebas/nurses-midwives/leave/57-annual-leave)) and the NUM/MUM must publish the information specified above at [subclauses 57.2(g)(i)(A) to (C)](/ebas/nurses-midwives/leave/57-annual-leave) and, when determining the applications, apply the considerations at [subclause 57.2(f)(ii)](/ebas/nurses-midwives/leave/57-annual-leave).
+    > **Example:**
+    > A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are 'high demand periods' for that ward within the meaning of this [subclause 57.2(f)](/ebas/nurses-midwives/leave/57-annual-leave)) and the NUM/MUM must publish the information specified above at [subclauses 57.2(g)(i)(A) to (C)](/ebas/nurses-midwives/leave/57-annual-leave) and, when determining the applications, apply the considerations at [subclause 57.2(f)(ii)](/ebas/nurses-midwives/leave/57-annual-leave).
 
 ## Excess annual leave accruals
 

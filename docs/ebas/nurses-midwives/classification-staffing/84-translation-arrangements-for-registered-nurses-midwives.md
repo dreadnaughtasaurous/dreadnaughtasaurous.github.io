@@ -1,5 +1,5 @@
 ---
-title: '84. Translation Arrangements For Registered Nurses Midwives'
+title: '84. Translation Arrangements for Registered Nurses/Midwives'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 84. Translation Arrangements For Registered Nurses Midwives
+# 84. Translation Arrangements for Registered Nurses/Midwives
 
 **84.1 Translation to four stream grading structure**
 

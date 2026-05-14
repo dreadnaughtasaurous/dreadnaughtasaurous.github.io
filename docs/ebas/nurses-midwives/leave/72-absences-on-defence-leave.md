@@ -1,5 +1,5 @@
 ---
-title: '72. Absences On Defence Leave'
+title: '72. Absences on Defence Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 72. Absences On Defence Leave
+# 72. Absences on Defence Leave
 
 - **(a)** A Full-Time or Part-Time Employee absent on defence service will be reimbursed by the Employer an amount equal to the difference between:
   - **(i)** the amount paid in respect of a period during which the Employee was absent on defence service; and

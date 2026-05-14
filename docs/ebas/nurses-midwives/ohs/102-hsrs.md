@@ -1,5 +1,5 @@
 ---
-title: '102. Health & Safety Representitives'
+title: '102. Health & Safety Representitives (HSRs)'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 102. Health & Safety Representitives
+# 102. Health & Safety Representitives (HSRs)
 
 **102.1 HSR(s) Election Process**
 

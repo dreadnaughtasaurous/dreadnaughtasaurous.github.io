@@ -1,5 +1,5 @@
 ---
-title: '24. Transition To Retirement'
+title: '24. Transition to Retirement'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 24. Transition To Retirement
+# 24. Transition to Retirement
 
 **24.1** An Employee may advise their Employer in writing of their intention to retire within the next five years and participate in a retirement transition arrangement.
 

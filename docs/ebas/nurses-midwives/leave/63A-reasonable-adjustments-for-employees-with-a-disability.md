@@ -1,5 +1,5 @@
 ---
-title: '63A. Reasonable Adjustments For Employees With A Disability'
+title: '63A. Reasonable Adjustments for Employees with a Disability'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 63A. Reasonable Adjustments For Employees With A Disability
+# 63A. Reasonable Adjustments for Employees with a Disability
 
 **63A.1 Purpose**
 
@@ -20,6 +20,7 @@ The purpose of this clause is to reflect the obligations of the **EO Act** (Equa
 **63A.2 Definitions**
 
 - **(a) Disability**
+
   Has the same meaning as section 4 of the EO Act and includes:
   - **(i)** malfunction of a part of the body including a mental or psychological disease or disorder or condition or disorder that results in a person learning more slowly than those without the condition or disorder;
   - **(ii)** total or partial loss of a bodily function;
@@ -28,6 +29,7 @@ The purpose of this clause is to reflect the obligations of the **EO Act** (Equa
   and includes a disability which is temporary or ongoing and that may exist in the future (including because of a genetic predisposition to that disability) and, to avoid doubt, behaviour that is a symptom or manifestation of a disability.
 
 - **(b) Reasonable adjustments**
+
   Has the same meaning as section 20 of the EO Act and requires consideration of all relevant facts and circumstances including:
   - **(i)** the Employee's circumstances, including the nature of the disability;
   - **(ii)** the nature of the Employee's role;

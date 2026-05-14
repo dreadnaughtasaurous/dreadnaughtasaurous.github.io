@@ -1,5 +1,5 @@
 ---
-title: '42. Hours Of Work'
+title: '42. Hours of Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 42. Hours Of Work
+# 42. Hours of Work
 
 **42.1** The ordinary hours of work will be 38 or an average of 38 hours per week worked:
 

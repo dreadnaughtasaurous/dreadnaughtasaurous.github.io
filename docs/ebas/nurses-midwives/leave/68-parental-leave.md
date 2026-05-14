@@ -91,9 +91,9 @@ For the purposes of this clause:
 - **(h) Hospitalised children – agreement to not take unpaid Long Parental Leave**
   - **(i)** If:
     - **(A)** a Child is required to remain in hospital after the Child's birth, or is hospitalised immediately after the Child's birth, including because:
-      - 1\) the Child was born prematurely; or
-      - 2\) the Child developed a complication or contracted an illness during the Child's period of gestation or at birth; or
-      - 3\) the Child developed a complication or contracted an illness following the Child's birth; and
+      - **1)** the Child was born prematurely; or
+      - **2)** the Child developed a complication or contracted an illness during the Child's period of gestation or at birth; or
+      - **3)** the Child developed a complication or contracted an illness following the Child's birth; and
     - **(B)** an Employee, whether before or after the birth of the Child, gives notice in accordance with [clause 68.6](/ebas/nurses-midwives/leave/68-parental-leave) of the taking of a period of unpaid parental leave (the **original leave period**) in relation to the Child,
     - then the Employee may agree with their Employer that the Employee will not take unpaid parental leave for a period (the **permitted work period**) while the Child remains in hospital.
   - **(ii)** If the Employee and Employer so agree, then the following rules have effect:
@@ -121,8 +121,10 @@ For the purposes of this clause:
 - **(a)** An Eligible Employee commencing parental leave is entitled to paid parental leave on the following basis:
   - **(i)** a Primary Carer taking Long Parental Leave will be entitled to 14 weeks' paid parental leave, provided that the Long Parental Leave is taken contemporaneously with the birth or placement of the Child (subject to [subclause 68.3(h)](/ebas/nurses-midwives/leave/68-parental-leave), in which case the Employee taking Long Parental Leave may agree with the Employer that the Employee will not take Long Parental Leave during the permitted work period while the Child remains hospitalised); and
   - **(ii)** a non-Primary Carer taking Short Parental Leave will be entitled to two weeks' paid parental leave,
-  - save that an Eligible Employee is not entitled to both paid Long Parental Leave and paid Short Parental Leave in respect of the same birth or Adoption event.
-  - Paid parental leave is in addition to any relevant Commonwealth Government paid parental leave scheme (subject to the requirements of any applicable legislation).
+  
+  save that an Eligible Employee is not entitled to both paid Long Parental Leave and paid Short Parental Leave in respect of the same birth or Adoption event.
+  
+  Paid parental leave is in addition to any relevant Commonwealth Government paid parental leave scheme (subject to the requirements of any applicable legislation).
 - **(b)** The Employer and Eligible Employee may reach agreement as to how the paid parental leave under this Agreement is paid. For example, such leave may be paid in smaller amounts over a longer period, consecutively or concurrently with any relevant Commonwealth Government parental leave scheme (subject to the requirements of any applicable legislation) and may include a voluntary contribution to superannuation.
 - **(c)** Such agreement must be in writing and signed by the parties. The Eligible Employee must nominate a preferred payment arrangement at least four weeks prior to the expected date of birth or date of placement of the Child. In the absence of agreement, such leave will be paid during the ordinary pay periods corresponding with the period of the leave.
 - **(d)** A variation to the payment of paid parental leave resulting in, for example, the paid leave being spread over more than 14 weeks does not affect the period of continuous service recognised. For example, an Employee taking 28 weeks at half pay will, for the purpose of calculating continuous service, have fourteen weeks of continuous service recognised. An Employee taking seven (7) weeks at double pay will have 14 weeks of continuous service recognised.
@@ -148,8 +150,8 @@ For the purposes of this clause:
 - **(e) Notice requirements - Flexible Long Parental Leave**
   - **(i)** If an Employee wishes to take Flexible Long Parental Leave, the Employee must give notice to the Employer as follows:
     - **(A)** where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under [clauses 68.3 or 68.4](/ebas/nurses-midwives/leave/68-parental-leave) (**the original leave**);
-      - 1) at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the original leave, unless [subclause 2](/ebas/nurses-midwives/leave/68-parental-leave)) below applies; or
-      - 2) if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the first of those periods of leave; or
+      - **1)** at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the original leave, unless [subclause 2](/ebas/nurses-midwives/leave/68-parental-leave)) below applies; or
+      - **2)** if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 68.6(a)](/ebas/nurses-midwives/leave/68-parental-leave) in relation to the first of those periods of leave; or
     - **(B)** otherwise - at least 10 weeks before starting the Flexible Long Parental Leave.
   - **(ii)** If the Employer agrees, the notice may be given at a later time than that specified in [subclause 68.6(e)(i)](/ebas/nurses-midwives/leave/68-parental-leave).
   - **(iii)** The notice under [subclause 68.6(e)(i)](/ebas/nurses-midwives/leave/68-parental-leave) must specify the total number of days (**Flexible Days**) of Flexible Long Parental Leave that the Employee intends to take in relation to the Child.
@@ -189,8 +191,8 @@ Employees' entitlement to pre-adoption leave is set out at [clause 67](/ebas/nur
   - **(i)** An Eligible Employee is entitled to a period of unpaid special leave if they are not fit for work during that period because:
     - **(A)** they have a pregnancy-related illness; or
     - **(B)** all of the following apply:
-      - 1) they have been pregnant; and
-      - 2) the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
+      - **1)** they have been pregnant; and
+      - **2)** the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
   - **(ii)** An Eligible Employee who has an entitlement to personal leave may, in part or whole, take personal leave instead of unpaid special leave under this clause.
   - **(iii)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child, the Eligible Employee is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
 - **(b) Entitlement to paid special birth-related leave**
@@ -260,11 +262,13 @@ Employees' entitlement to pre-adoption leave is set out at [clause 67](/ebas/nur
   - **(ii)** hazards connected with the position,
   - the Employee must be transferred to an appropriate safe job if one is available for the risk period, with no other change to the Employee's terms and conditions of employment.
 - **(b) Paid no safe job leave**
-  - If:
+  
+  If:
     - **(i)** [subclause 68.14(a)](/ebas/nurses-midwives/leave/68-parental-leave) applies to a pregnant Eligible Employee but there is no appropriate safe job available;
     - **(ii)** the Eligible Employee is entitled to Long Parental Leave; and
     - **(iii)** the Eligible Employee has complied with the notice of intended start and end dates of leave and evidence requirements under [clause 68.6](/ebas/nurses-midwives/leave/68-parental-leave) for taking Long Parental Leave,
-    - then the Eligible Employee is entitled to paid no safe job leave for the risk period.
+    
+    then the Eligible Employee is entitled to paid no safe job leave for the risk period.
 - **(c)** If the Eligible Employee takes paid no safe job leave for the risk period, the Employer must pay the Eligible Employee at the Eligible Employee's rate of pay set out in Part 1 of [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) for the Eligible Employee's ordinary hours of work in the risk period.
 - **(d)** This entitlement to paid no safe job leave is in addition to any other leave entitlement the Eligible Employee may have.
 - **(e)** If an Eligible Employee, during the six-week period before the expected date of birth, is on paid no safe job leave, the Employer may request that the Eligible Employee provide a medical certificate within seven (7) days stating whether the Eligible Employee is fit for work.
@@ -277,7 +281,8 @@ Employees' entitlement to pre-adoption leave is set out at [clause 67](/ebas/nur
     - **(i)** [subclause 68.14(a)](/ebas/nurses-midwives/leave/68-parental-leave) applies to a pregnant Employee but there is no appropriate safe job available;
     - **(ii)** the Employee will not be entitled to Long Parental Leave as at the expected date of birth; and
     - **(iii)** the Employee has given the Employer evidence that would satisfy a reasonable person of the pregnancy if required by the Employer (which may include a requirement to provide a medical certificate),
-    - the Employee is entitled to unpaid no safe job leave for the risk period.
+    
+    the Employee is entitled to unpaid no safe job leave for the risk period.
 
 **68.15 Returning to work after a period of parental leave**
 

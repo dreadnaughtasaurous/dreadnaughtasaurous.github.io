@@ -1,5 +1,5 @@
 ---
-title: '15. Managing Conduct And Performance'
+title: '15. Managing Conduct and Performance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['discipline']
 ---
@@ -13,7 +13,7 @@ topics: ['discipline']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 15. Managing Conduct And Performance
+# 15. Managing Conduct and Performance
 
 **15.1 Application**
 
@@ -27,6 +27,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 - **(d)** The Employer will notify the Employee in accordance with [subclause 15.3(b)](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 15.1(a)](/ebas/nurses-midwives/consultation-disputes/15-managing-conduct-and-performance).
 - **(e) Exception - Employees who have not completed a minimum period of employment with their Employer**
+
   Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at section 383 of the Act, and the Employer is considering the termination of the Employee's employment, the Employer will:
   - **(i)** provide the concerns in writing to the Employee as soon as practicable following the Employer becoming aware of the alleged concerns;
   - **(ii)** advise the Employee of their right to have a representative, including a Union representative;

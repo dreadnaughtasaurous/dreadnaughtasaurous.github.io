@@ -1,5 +1,5 @@
 ---
-title: '107. Midwifery Continuity Of Care Models'
+title: '107. Midwifery Continuity of Care Models'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 107. Midwifery Continuity Of Care Models
+# 107. Midwifery Continuity of Care Models
 
 **107.1 Safe Patient Care Act**
 

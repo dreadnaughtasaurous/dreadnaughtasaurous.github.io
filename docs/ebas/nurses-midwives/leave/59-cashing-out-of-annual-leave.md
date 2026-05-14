@@ -1,5 +1,5 @@
 ---
-title: '59. Cashing Out Of Annual Leave'
+title: '59. Cashing Out of Annual Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'annual-leave']
 ---
@@ -11,14 +11,16 @@ topics: ['leave', 'annual-leave']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 59. Cashing Out Of Annual Leave
+# 59. Cashing Out of Annual Leave
 
 **59.1** An Employee may, with the consent of the Employer, choose to cash out paid annual leave in accordance with this clause.
 
 - **(a) Written request and written agreement**
-An Employee wishing to cash out annual leave must make a written request to the Employer. Where the Employer agrees to that request, the Employee and the Employer will record the agreement in writing.
+
+  An Employee wishing to cash out annual leave must make a written request to the Employer. Where the Employer agrees to that request, the Employee and the Employer will record the agreement in writing.
 - **(b) Terms of agreement must comply with terms**
-A written agreement must comply with the following terms:
+
+  A written agreement must comply with the following terms:
   - **(i)** paid annual leave must not be cashed out if the cashing out would result in the Employee having less than six weeks of accrued annual leave;
   - **(ii)** each cashing out of a particular amount of paid annual leave must be by a separate agreement in writing between the Employer and the Employee;
   - **(iii)** the Employee must be paid at least the full amount that would have been payable to the Employee had the Employee taken the leave that the Employee has forgone, including annual leave loading and superannuation to the Employee's nominated Fund; and

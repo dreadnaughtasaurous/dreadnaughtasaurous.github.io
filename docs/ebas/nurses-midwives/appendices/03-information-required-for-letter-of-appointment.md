@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 3 - Information Required For Letter Of Appointment: Nurses and Midwives EBA'
+title: 'Appendix 3 - Information Required for Letter of Appointment: Nurses and Midwives EBA'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Appendix 3 - Information Required For Letter Of Appointment: Nurses and Midwives EBA
+# Appendix 3 - Information Required for Letter of Appointment: Nurses and Midwives EBA
 
 The letter of appointment will contain the following information:
 

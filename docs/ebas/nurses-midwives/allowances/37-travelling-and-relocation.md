@@ -1,5 +1,5 @@
 ---
-title: '37. Travelling And Relocation'
+title: '37. Travelling and Relocation'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['allowances', 'redundancy']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'redundancy']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 37. Travelling And Relocation
+# 37. Travelling and Relocation
 
 *This clause concerns payment only and is not intended to exclude the requirements of [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation) or 12 (Redundancy and Associated Entitlements) or create a new right to be directed to work at another location.*
 
@@ -29,7 +29,7 @@ For the avoidance of doubt, the travel will occur within paid time.
     - **(A)** at the maximum applicable rate determined by the ATO for the relevant benefit (i.e. food, drink and/or accommodation expenses) from time to time; or
     - **(B)** if the amount paid by the Employee for accommodation, food or drink exceeds the ATO guideline amount and was reasonably incurred, the total cost of the accommodation, food and/or drink, subject to the Employee providing reasonable evidence to substantiate the cost(s) and their reasonableness.
 
-> **Note:** For vehicle allowances, see [clause 36](/ebas/nurses-midwives/allowances/36-vehicle-allowance).
+    > **Note:** For vehicle allowances, see [clause 36](/ebas/nurses-midwives/allowances/36-vehicle-allowance).
 
 **37.4** Where an Employee is required by the Employer to temporarily relocate from their Base Employment Campus to another Campus prior to a shift, the Employee will:
 

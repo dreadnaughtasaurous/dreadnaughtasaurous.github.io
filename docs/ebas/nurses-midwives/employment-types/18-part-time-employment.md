@@ -1,5 +1,5 @@
 ---
-title: '18. Part Time Employment'
+title: '18. Part-Time Employment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 18. Part Time Employment
+# 18. Part-Time Employment
 
 **18.1** A part-time Employee is one who is engaged to work less than an average of 38 hours per week.
 

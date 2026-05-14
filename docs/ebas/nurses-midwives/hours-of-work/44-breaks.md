@@ -20,15 +20,12 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(c)** An Employee unable to take a meal break (including where an Employee is not entitled to leave the ward/unit area for their meal break) will be paid for the meal break as time worked at their ordinary rate plus 50%.
 - **(d) Meal break not taken - escalation**
 
-Each Employer will describe, in writing, the steps to be taken where an Employee does not take a scheduled meal break to ensure that:
+    Each Employer will describe, in writing, the steps to be taken where an Employee does not take a scheduled meal break to ensure that:
+    - **(i)** wherever possible, the meal break is rescheduled and taken during the shift; and
+    - **(ii)** consideration is given to what caused the Employee to miss the scheduled meal break and whether any additional action is required to address those causes to reduce the likelihood of recurrence.
+- **(e) Crib time**
 
-**(i)** wherever possible, the meal break is rescheduled and taken during the shift; and
-
-**(ii)** consideration is given to what caused the Employee to miss the scheduled meal break and whether any additional action is required to address those causes to reduce the likelihood of recurrence.
-
-**(e) Crib time**
-
-Where Employees are regularly unable to take their meal breaks (including because the Employee is not entitled to leave the ward for their meal break), a 'crib time' arrangement will operate. The crib time arrangement entitles an Employee to a paid meal interval of not less than 20 minutes to commence between three hours and five hours of duty.
+    Where Employees are regularly unable to take their meal breaks (including because the Employee is not entitled to leave the ward for their meal break), a 'crib time' arrangement will operate. The crib time arrangement entitles an Employee to a paid meal interval of not less than 20 minutes to commence between three hours and five hours of duty.
 
 **44.2 Tea breaks**
 

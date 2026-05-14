@@ -1,5 +1,5 @@
 ---
-title: '41. Change Of Shift Allowance Preservation Ens Only'
+title: '41. Change Of Shift Allowance Preservation - ENs Only'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['shift-work', 'allowances']
 ---
@@ -11,7 +11,7 @@ topics: ['shift-work', 'allowances']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 41. Change Of Shift Allowance Preservation Ens Only
+# 41. Change of Shift Allowance Preservation - ENs Only
 
 **41.1 Change of Shift Allowance preservation**
 

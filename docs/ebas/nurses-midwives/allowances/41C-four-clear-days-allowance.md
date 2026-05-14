@@ -21,9 +21,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **41C.3 Alternative**
 
-- **(a)** An Employer or Union covered by this Agreement may propose alternative arrangements to [clause 41C.2](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance) to apply to a ward or unit. The proposal may be
-
-implemented where the Employer, the Union and the majority of affected Employees genuinely agree.
+- **(a)** An Employer or Union covered by this Agreement may propose alternative arrangements to [clause 41C.2](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance) to apply to a ward or unit. The proposal may be implemented where the Employer, the Union and the majority of affected Employees genuinely agree.
 
 - **(b)** Any proposal under [subclause 41C.3(a)](/ebas/nurses-midwives/allowances/41C-four-clear-days-allowance) will be provided in writing to the affected Employees and Union.
 

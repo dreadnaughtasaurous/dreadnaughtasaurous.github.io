@@ -1,5 +1,5 @@
 ---
-title: '72A. Leave To Engage In Voluntary Emergency Management Activities'
+title: '72A. Leave to Engage in Voluntary Emergency Management Activities'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 72A. Leave To Engage In Voluntary Emergency Management Activities
+# 72A. Leave to Engage in Voluntary Emergency Management Activities
 
 - **(a)** An Employee who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to leave for:
   - **(i)** time when the Employee engages in the activity;

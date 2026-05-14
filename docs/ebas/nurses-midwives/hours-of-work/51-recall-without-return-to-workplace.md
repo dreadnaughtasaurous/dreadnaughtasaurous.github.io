@@ -1,5 +1,5 @@
 ---
-title: '51. Recall Without Return To Workplace'
+title: '51. Recall - Without Return to Workplace'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours', 'overtime']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 51. Recall Without Return To Workplace
+# 51. Recall - Without Return to Workplace
 
 **51.1** Where recall to duty can be managed without the Employee having to return to their workplace, such as by telephone or computer, the Employee will be paid a minimum of 1 hour at the appropriate overtime rate for each occasion, provided that multiple recalls within a discrete hour will not attract additional payment.
 

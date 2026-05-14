@@ -1,5 +1,5 @@
 ---
-title: '67. Pre Adoption Leave'
+title: '67. Pre-Adoption Leave'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave', 'parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'parental-leave']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 67. Pre Adoption Leave
+# 67. Pre-Adoption Leave
 
 **67.1** An Employee seeking to adopt a child is entitled to unpaid leave for the purpose of attending any compulsory interviews or examinations as are necessary as part of the Adoption procedure.
 

@@ -1,5 +1,5 @@
 ---
-title: '41A. Change Of Ward Allowance'
+title: '41A. Change of Ward Allowance'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 41A. Change Of Ward Allowance
+# 41A. Change of Ward Allowance
 
 **41A.1 Definitions**
 

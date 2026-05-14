@@ -1,5 +1,5 @@
 ---
-title: '29. Compensation Make Up Pay'
+title: '29. Compensation Make-Up Pay'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 29. Compensation Make Up Pay
+# 29. Compensation Make-Up Pay
 
 **29.1 Entitlement to compensation make-up pay**
 

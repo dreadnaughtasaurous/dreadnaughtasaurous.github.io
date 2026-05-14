@@ -102,9 +102,7 @@ The entitlement to public holiday benefits for a part-time Employee who is roste
 
 | Average Hours | Shift Length | Base Payment | Penalty | Payment |
 | --- | --- | --- | --- | --- |
-| 24 hours | | | | |
-| 38 hours | | | | |
-| X | 8 hours | 5.05 hours | T1 | 5.05 hrs |
+| 24 hours<br>38 hours | x 8 hours | 5.05 hours | T1 | 5.05 hours |
 
 - **(c)** A part-time Employee who is only ever employed between Monday to Friday, will not receive any entitlement for a public holiday falling on a Saturday or Sunday. If an additional day or substitute day is declared on a weekday in respect to the relevant Saturday or Sunday, this exclusion will not affect the benefits applicable to the additional day or substitute day.
 

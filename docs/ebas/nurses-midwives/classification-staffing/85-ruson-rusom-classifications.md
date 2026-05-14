@@ -1,5 +1,5 @@
 ---
-title: '85. Ruson Rusom Classifications'
+title: '85. RUSON/RUSOM Classifications'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 85. Ruson Rusom Classifications
+# 85. RUSON/RUSOM Classifications
 
 **85.1 Definitions**
 

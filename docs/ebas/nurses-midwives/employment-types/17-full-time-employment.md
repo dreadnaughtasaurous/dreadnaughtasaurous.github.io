@@ -1,5 +1,5 @@
 ---
-title: '17. Full Time Employment'
+title: '17. Full-Time Employment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 17. Full Time Employment
+# 17. Full-Time Employment
 
 **17.1** A full-time Employee is one who is engaged to work 38 hours per week or an average of 38 hours as per [clause 42.1](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) (Hours of Work).
 

@@ -1,5 +1,5 @@
 ---
-title: '63. Fitness For Work'
+title: '63. Fitness for Work'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 63. Fitness For Work
+# 63. Fitness for Work
 
 **63.1** In this [clause 63](/ebas/nurses-midwives/leave/63-fitness-for-work), **Treating Practitioner** means any AHPRA Registered Health Practitioner relevant to the fitness for work concern including, where relevant, an AHPRA-registered health practitioner delivering a program (such as the Nursing and Midwifery Health Program Victoria) attended by the Employee, or a psychologist.
 
@@ -43,24 +43,29 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
     - **(B)** provide a copy of the report to the Employer; and
     - **(C)** meet with the Employer to discuss any report.
 - **(c) Report from IME**
-If, on receipt of the report, and (where reasonably practicable) following discussion, the Employer continues to have a reasonable belief that the Employee is unfit for duty, or the Employee does not provide a report from the Treating Practitioner, the Employer may require the Employee to attend an independent medical examination (**IME**). 
-The Employer will:
+
+  If, on receipt of the report, and (where reasonably practicable) following discussion, the Employer continues to have a reasonable belief that the Employee is unfit for duty, or the Employee does not provide a report from the Treating Practitioner, the Employer may require the Employee to attend an independent medical examination (**IME**). 
+  The Employer will:
   - **(i)** pay for the cost and expenses of the appointment and report;
   - **(ii)** provide a copy of the IME report to the Employee; and
   - **(iii)** meet with the Employee to discuss any report.
 - **(d) Information to Employee before IME**
-Before the Employee attends an IME under [subclause 63.3(c)](/ebas/nurses-midwives/leave/63-fitness-for-work) above, the Employee will be provided with a copy of:
+
+  Before the Employee attends an IME under [subclause 63.3(c)](/ebas/nurses-midwives/leave/63-fitness-for-work) above, the Employee will be provided with a copy of:
   - **(i)** the name of the proposed IME: and
   - **(ii)** any correspondence (including any supporting material) proposed to be sent to the IME.
 - **(e) Employee consultation and right to supplement information**
-Before attending an IME, the Employee may:
+
+  Before attending an IME, the Employee may:
   - **(i)** supplement the material to be provided to the IME; and/or
   - **(ii)** meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting.
 - **(f) Relationship to WIRC**
   - **(i)** This sub-[clause 63.4](/ebas/nurses-midwives/leave/63-fitness-for-work) does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim will be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
 - **(g) Relationship to Personal Leave**
-The processes in this [clause 63](/ebas/nurses-midwives/leave/63-fitness-for-work) do not apply to a period of personal leave under [clause 61](/ebas/nurses-midwives/leave/61-personal-leave) of this Agreement.
+
+  The processes in this [clause 63](/ebas/nurses-midwives/leave/63-fitness-for-work) do not apply to a period of personal leave under [clause 61](/ebas/nurses-midwives/leave/61-personal-leave) of this Agreement.
 - **(h) Safe Work Environment is paramount**
-Nothing in this [clause 63](/ebas/nurses-midwives/leave/63-fitness-for-work) prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
+
+  Nothing in this [clause 63](/ebas/nurses-midwives/leave/63-fitness-for-work) prevents an Employer from taking any reasonable step in the workplace to ensure a safe work environment.
 
 Plain language terms: FFW, medical assessment, fit for duty.

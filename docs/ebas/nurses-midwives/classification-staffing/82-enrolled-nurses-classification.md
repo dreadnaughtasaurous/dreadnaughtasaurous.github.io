@@ -1,5 +1,5 @@
 ---
-title: '82. Enrolled Nurses Classification'
+title: '82. Enrolled Nurses - Classification'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['classifications']
 nurse midwife nursing staff RN EN registered nurse nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 82. Enrolled Nurses Classification
+# 82. Enrolled Nurses - Classification
 
 ## Part 1 – Scope
 
@@ -141,9 +141,9 @@ The following are examples of competency standards that meet the criteria in [su
   - **(iii)** The written application must address the criteria in this Agreement, including:
     - **(A)** evidence of achievement of four out of ten of the Advanced Enrolled Nurse Level 3 criteria; and
     - **(B)** either:
-      - 1) a minimum of four years post-registration experience as an Enrolled Nurse;
+      - **1)** a minimum of four years post-registration experience as an Enrolled Nurse;
       OR
-      - 2) a post-registration qualification (of at least 6 months or 200 hours duration), a component of which is relevant to the role;
+      - **2)** a post-registration qualification (of at least 6 months or 200 hours duration), a component of which is relevant to the role;
   - **(iv)** Interviews, if required:
     - **(A)** will be held within 10 days of the closure of applications;
     - **(B)** will be conducted at the local level by the NUM (or equivalent position) and may also include up to two other nursing staff such as an ANUM or Nurse Educator; and

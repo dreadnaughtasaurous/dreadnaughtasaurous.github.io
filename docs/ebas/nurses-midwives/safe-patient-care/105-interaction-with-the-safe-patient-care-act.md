@@ -1,5 +1,5 @@
 ---
-title: '105. Interaction With The Safe Patient Care Act'
+title: '105. Interaction with the Safe Patient Care Act'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 105. Interaction With The Safe Patient Care Act
+# 105. Interaction with the Safe Patient Care Act
 
 **105.1** The provisions in [clauses 105.3](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act) to 105.6 (inclusive) below will commence operation if either of the following conditions are met:
 

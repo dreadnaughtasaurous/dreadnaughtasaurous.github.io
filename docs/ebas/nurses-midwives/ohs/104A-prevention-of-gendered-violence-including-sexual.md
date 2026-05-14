@@ -1,5 +1,5 @@
 ---
-title: '104A. Prevention Of Gendered Violence Including Sexual Harassment'
+title: '104A. Prevention of Gendered Violence Including Sexual Harassment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['gendered-violence']
 ---
@@ -13,7 +13,7 @@ topics: ['gendered-violence']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# 104A. Prevention Of Gendered Violence Including Sexual Harassment
+# 104A. Prevention of Gendered Violence Including Sexual Harassment
 
 **104A.1 Duties**
 
@@ -23,8 +23,10 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 **104A.2 Definitions**
 
 - **(a) Work-related gendered violence**
+
   Work-related gendered violence is any behaviour, directed at any person, or that affects a person, because of their sex, gender or sexual orientation, or because they do not adhere to socially prescribed gender roles, that creates a risk to health and safety.
 - **(b) Sexual harassment**
+
   A person sexually harasses another person if he or she:
   - **(i)** makes an unwelcome sexual advance, or an unwelcome request for sexual favours, to the other person; or
   - **(ii)** engages in any other unwelcome conduct of a sexual nature in relation to the other person,
@@ -32,6 +34,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   - **(iv)** A person can be a victim of sexual harassment if they witnessed, overheard or were in the presence of unwelcome conduct of a sexual nature, even if the conduct was not directed at them.
   - **(v)** A person may be taken to have engaged in sexual harassment if they cause, instruct, induce, aid or permit another person to engage in sexual harassment, even if they did not directly carry out the sexual harassment themselves.
 - **(c) Examples of work-related sexual harassment**
+
   Work-related sexual harassment is sexual harassment (as described above) directed at a person, that can happen at work, work-related events, or between people sharing the same workplace. Work-related sexual harassment isn’t always obvious, repeated or continuous.
 
   Work-related events include external meetings or conferences, training courses or workshops, social gatherings (e.g. team lunches), etc.
@@ -53,6 +56,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 **104A.3 Polices**
 
 - **(a) Maintenance of policies**
+
   Each Employer will:
   - **(i)** maintain policies regarding work-related gendered violence including sexual harassment;
   - **(ii)** ensure those policies are accessible to Employees;
@@ -61,12 +65,14 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
   A copy of these polices is available to a Union on request.
 - **(b) Standard of Policies**
+
   Each policy will define work-related gendered violence and sexual harassment and identify:
   - **(i)** how and to whom complaints can be made;
   - **(ii)** the support available to affected Employees;
   - **(iii)** the steps taken to identify risk, assess that risk, and as far as is practicable eliminate that risk. Where the risk cannot be practicably eliminated, then the policy will describe the controls in place to minimise that risk.
   - **(iv)** the steps that will be taken to address the complaint including investigation, outcome and, where appropriate, contact with external agencies such as Victoria Police.
 - **(c) Resources**
+
   Resources that should be considered in reviewing or developing work-related gendered violence and sexual harassment policies include:
   - **(i)** WorkSafe’s work-related gendered violence including sexual harassment resources; and
   - **(ii)** Victorian Public Sector Commission’s Model Sexual Harassment Policy and Practice Guide.
