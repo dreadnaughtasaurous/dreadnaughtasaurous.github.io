@@ -1,5 +1,5 @@
 ---
-title: '60. Community Workload Management System Cwms'
+title: '60. Community Workload Management System (CWMS)'
 eba: 'Mental Health Services 2024-2028'
 topics: ['staffing']
 ---
@@ -11,7 +11,7 @@ topics: ['staffing']
 mental health worker psychiatric nurse mental health nurse mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 60. Community Workload Management System Cwms
+# 60. Community Workload Management System (CWMS)
 
 **60.1 Each Employer to operate and maintain a CWMS**
 

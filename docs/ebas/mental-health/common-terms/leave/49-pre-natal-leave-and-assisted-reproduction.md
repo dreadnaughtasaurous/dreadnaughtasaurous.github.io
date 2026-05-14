@@ -1,5 +1,5 @@
 ---
-title: '49. Pre Natal Leave And Assisted Reproduction'
+title: '49. Pre-Natal Leave and Assisted Reproduction'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 49. Pre Natal Leave And Assisted Reproduction
+# 49. Pre-Natal Leave and Assisted Reproduction
 
 **49.1** An Employee required to attend pre-natal appointments, assisted reproduction appointments or parenting classes that are only available or can only be attended during the Employee’s ordinary rostered shift may, subject to the provision of satisfactory evidence of attendance, access their personal leave credit.
 

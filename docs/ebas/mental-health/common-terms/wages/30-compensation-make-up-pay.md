@@ -1,5 +1,5 @@
 ---
-title: '30. Compensation Make Up Pay'
+title: '30. Compensation Make-Up Pay'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 30. Compensation Make Up Pay
+# 30. Compensation Make-Up Pay
 
 > **Note:** This clause was previously titled Accident Make-Up Pay.
 
@@ -27,9 +27,13 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(b) Injury** under this clause has the same meaning as workers' compensation legislation and includes a disease contracted by an Employee in the course of the Employee's employment.
 - **(c) Scheme-determined Pre-Injury Average Weekly Earnings (or PIAWE)** is the amount determined by the WorkCover Agent or WorkSafe Victoria under the WIRC Act to be the Employee's PIAWE for the purposes of the claim.
 
-**30.3 Maximum payment** The maximum period or aggregate periods of compensation make-up pay to be made up by an Employer will be a total of 39 weeks for any one injury.
+**30.3 Maximum payment** 
 
-**30.4 Compensation make-up pay will not apply in some circumstances** Compensation make-up pay in accordance with this clause will not apply:
+The maximum period or aggregate periods of compensation make-up pay to be made up by an Employer will be a total of 39 weeks for any one injury.
+
+**30.4 Compensation make-up pay will not apply in some circumstances** 
+
+Compensation make-up pay in accordance with this clause will not apply:
 
 - **(a)** in respect of any injury during the first five days of incapacity, except where the Employee contracts an infectious disease for which the Employee is entitled to receive worker compensation in which case compensation make-up pay will apply from the first day of the incapacity
 - **(b)** to any incapacity occurring during the first two weeks of employment unless that incapacity continues beyond the first two weeks in which case Compensation make-up pay will apply only to the period of incapacity after the first two weeks; or
@@ -42,11 +46,11 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(f)** when the claim has been ceased or redeemed in accordance with the WIRC Act; or
 - **(g)** in respect of any paid leave of absence.
 
-**30.5 Reduction of compensation** Where an Employee receives a weekly payment under this clause and subsequently that payment is reduced pursuant to the WIRC Act, that reduction will not render the Employer liable to increase the amount of Compensation make-up pay in respect of that injury.
+**30.5 Reduction of compensation** 
+
+Where an Employee receives a weekly payment under this clause and subsequently that payment is reduced pursuant to the WIRC Act, that reduction will not render the Employer liable to increase the amount of Compensation make-up pay in respect of that injury.
 
 **30.6 Termination of Employment**
-
----
 
 - **(a) Termination of Employment by the Employee** Compensation make-up pay ceases where the Employee terminates their employment except:
   - **(i)** if an Employee with partial incapacity cannot obtain suitable employment from the Employer but such alternative employment is available with another Employer; and
@@ -54,8 +58,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(b) Termination of Employment by the Employer** An entitlement to Compensation make-up pay does not cease on termination where the Employer terminates the Employee's employment, except where the termination is for serious and wilful misconduct.
 
 **30.7 Civil damage claims**
-
----
 
 - **(a)** An Employee receiving or who received Compensation make-up pay must advise the Employer of any action or claim the Employee may institute for damages. If requested, the Employee will provide an authority to the Employer entitling the Employer to a charge upon any money payable pursuant to any judgment or settlement on that injury.
 - **(b)** Where an Employee obtains a judgment or settlement for damages in respect of an Injury for which the Employee received Compensation make-up pay, the Employer's liability to pay Compensation make-up pay ceases from the date of such judgment or settlement where the damages are not reduced (in whole or part) by the Compensation make-up pay paid by the Employer. Where damages from a judgment or settlement are not reduced to take into account Compensation make-up pay paid by the Employer (in whole or part), the Employee must repay the Employer the Compensation make-up pay to the extent the damages were not reduced.

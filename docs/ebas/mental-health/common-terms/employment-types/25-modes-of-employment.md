@@ -1,5 +1,5 @@
 ---
-title: '25. Modes Of Employment'
+title: '25. Modes of Employment'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 25. Modes Of Employment
+# 25. Modes of Employment
 
 **25.1 Full-time Employment**
 
@@ -120,8 +120,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(ix)** Aboriginal Cadetship
   - **(x)** Pre-Qualification Health Professional Students 
 
-> **Note:**
-> In this context, backfill to support flexible working arrangements does not refer to the Employee on the flexible working arrangement, but instead to an arrangement to work hours that arise from a flexible work arrangement that includes a temporary reduction in hours.
+  > **Note:** In this context, backfill to support flexible working arrangements does not refer to the Employee on the flexible working arrangement, but instead to an arrangement to work hours that arise from a flexible work arrangement that includes a temporary reduction in hours.
 
 ---
 

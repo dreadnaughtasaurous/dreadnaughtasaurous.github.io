@@ -1,5 +1,5 @@
 ---
-title: '93. Ten Hour Break Between Overtime Recall'
+title: '93. Ten Hour Break Between Overtime/Recall'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'breaks']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime', 'breaks']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 93. Ten Hour Break Between Overtime Recall
+# 93. Ten Hour Break Between Overtime/Recall
 
 This clause does not apply to recall work performed under sub-[clause 91.3](/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt) (Recall Without Return to Workplace).
 

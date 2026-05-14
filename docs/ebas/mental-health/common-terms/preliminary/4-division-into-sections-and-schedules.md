@@ -1,5 +1,5 @@
 ---
-title: '4. Division Into Sections And Schedules'
+title: '4. Division into Sections and Schedules'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 4. Division Into Sections And Schedules
+# 4. Division into Sections and Schedules
 
 **4.1 This Agreement is divided into the following:** 
 

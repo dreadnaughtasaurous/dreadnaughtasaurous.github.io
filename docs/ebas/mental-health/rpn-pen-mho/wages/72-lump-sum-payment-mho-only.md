@@ -1,5 +1,5 @@
 ---
-title: '72. Lump Sum Payment Mho Only'
+title: '72. Lump Sum Payment - MHO Only'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 72. Lump Sum Payment Mho Only
+# 72. Lump Sum Payment - MHO Only
 
 *Note: This clause applies to MHO Employees.*
 

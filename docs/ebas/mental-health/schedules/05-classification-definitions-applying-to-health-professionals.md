@@ -25,8 +25,6 @@ mental worker psychiatric nurse mental nurse community mental AMHS authorised me
 - Part 4 – Classification Definitions applying to AHP2 Employees in Mental Health
 - Part 5 – Classification Definitions applying to LLEW Employees in Mental Health
 
----
-
 ## Part 2: Classification Definitions Applying to AHP1 Employees in Mental Health
 
 ### Part 2.1 — Application of this Part
@@ -55,8 +53,6 @@ This Part applies to an Employee employed as such with a relevant qualification 
 - **(c)** The grouping of duties/responsibilities under each work area is not meant to necessarily represent a position in its entirety. In no case should indicative duties/responsibilities from this Agreement be used as a definitive position description for an individual position.
 - **(d)** No Employer will utilise the full range of work described at every level in the classification standards. The number and level of positions will be determined by the need to undertake certain tasks and any applicable requirement arising under this Agreement. Some of the work described in the classification standards (e.g. some project duties) may be temporarily assigned to employees classified at a suitable level where there is not an on-going requirement to perform such tasks, and therefore to create a permanent position.
 - **(e)** Positions may be routinely required to undertake some duties normally expected of positions classified at lower levels in the structure. The basis of classification of all positions will be according to the chief focus of the position and the highest function regularly performed by the incumbent.
-
----
 
 ## 2. AHP1 Grade 1 — Employment Model for Pre-Qualified Health Professional Students
 
@@ -115,8 +111,6 @@ The Employer will notify HACSU, on request, of:
 - **(b)** EFT quantum and fraction of each of the Health Professional Student disciplines operating within any unit/team/service
 - **(c)** the Pre-Qualified Health Professional Student Employment Model Position Description and any other policies or procedures specific to the employment of Health Professional Students.
 
----
-
 ## 3. AHP1 Grade 2 — Generic
 
 ### 3.1 Grade 2 — General Definition
@@ -156,8 +150,6 @@ An Employer may utilise a 2-year graduate program consisting of the following el
 - **(a)** Nothing in this sub-clause prevents an experienced clinician from progressing, by agreement between the Employee and Employer within the career structure prior to the completion of the graduate program.
 - **(b)** For the avoidance of doubt, this clause does not require an Employer to establish/maintain a 2-year graduate program as described in this clause.
 
----
-
 ## 4. AHP1 Grade 3 — Generic
 
 ### 4.1 Grade 3 — General Definition
@@ -174,8 +166,6 @@ An Employer may utilise a 2-year graduate program consisting of the following el
 - **(h)** in the case of a Play Therapist, research/case studies, and/or client and group program supervision and/or evaluation.
 
 **4.1.2** A Grade 3 Employee may be rostered on night shift and for on-call.
-
----
 
 ## 5. AHP1 Grade 4 – Clinical, Managerial, Education, Research Streams
 
@@ -244,8 +234,6 @@ An Employee in a Grade 4 position performs duties within or across the following
     - **(v)** contributing to the research program and mentoring staff; and/or
     - **(vi)** assisting a Grade 5 Researcher (if applicable).
 - **(b)** A Grade 4 Employee whose duties are mostly within the Research area of expertise may be described as a **Senior Clinician (Research)/Research Assistant (Mental Health)**.
-
----
 
 ## 6. AHP1 Grade 5 – Clinical, Managerial, Education, Research Streams
 
@@ -325,7 +313,7 @@ An Employee in a Grade 5 position performs duties within or across the following
     - **(viii)** leading and driving the research agenda and capability within a discipline or area.
 - **(b)** A Grade 5 Employee whose duties are mostly within the Research area of expertise may be described as a **Senior Researcher (Mental Health)**.
 
----
+
 
 ## 7. AHP1 Grade 6 – Clinical, Managerial, Education, Research
 
@@ -371,7 +359,7 @@ A Grade 6 Employee appointed within the Clinical area of expertise may be descri
     - **(vi)** leading and driving the research agenda and capability in the department or service.
 - **(b)** A Grade 6 Employee whose duties are mostly within the Research area of expertise may be described as **Lead Researcher (Mental Health)** or **Academic Partnership Officer**. A Grade 6 Employee whose duties are mostly within the Research area of expertise is not required to carry a clinical load.
 
----
+
 
 ## 8. AHP1 Grade 7
 
@@ -379,7 +367,7 @@ A Grade 6 Employee appointed within the Clinical area of expertise may be descri
 
 A Grade 7 Employee is an Employee who is appointed as a **Deputy Director of Allied Health (Mental Health)** however titled.
 
----
+
 
 ## 9. AHP1 Grade 8
 
@@ -387,7 +375,7 @@ A Grade 7 Employee is an Employee who is appointed as a **Deputy Director of All
 
 A Grade 8 Employee is an Employee who is appointed as a **Director of Allied Health (Mental Health)**.
 
----
+
 
 ## Part 3: Relevant Qualifications for AHP1 Classifications in Mental Health
 
@@ -408,7 +396,7 @@ A Grade 8 Employee is an Employee who is appointed as a **Director of Allied Hea
 | **Speech Pathologist** | An Employee who holds a Bachelor of Applied Science in Speech Pathology or an equivalent qualification as recognised by Speech Pathology Australia. |
 | **Youth Worker** | An Employee engaged in Youth Work who holds a related tertiary qualification (of at least three years duration) at a university or college of advanced education with a major in the group dynamics and behavioural studies area. |
 
----
+
 
 ## Part 4: Classification Definitions Applying to AHP3 Employees in Mental Health
 
@@ -473,7 +461,7 @@ All qualified Welfare Workers who are required to undertake senior administrativ
 
 **4.2(g)** For the purposes of [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2), Part 3, clause 3.2, yearly increments are based on years of full-time practical experience or service or part-time equivalent service in the performance of welfare work.
 
----
+
 
 ### 4.3 Community Development Work
 
@@ -563,7 +551,7 @@ All persons performing Community Development Work who are required to provide di
 
 For the purposes of this [clause 3.3](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals), yearly increments are based on years of full-time practical experience or service or part-time equivalent in the performance of community development work.
 
----
+
 
 ### 4.4 Youth Worker (Non-Degree Qualified)
 
@@ -628,7 +616,7 @@ See [subclause 29.2](/ebas/mental-health/common-terms/wages/29-payment-of-wages-
 
 For the purposes of clause 11 of this Section E of this [Appendix 4](/ebas/mental-health/common-terms/preli[clause 11](/ebas/mental-health/schedules/11-additional-staffing)division-into-sections-and-schedules), yearly increments are based on years of full-time practical experience or service, or part-time equivalent service in the performance of youth work.
 
----
+
 
 ## Part 5: Lived and Living Experience Worker (LLEW) Classification Structure
 
@@ -655,7 +643,7 @@ For the purposes of clause 11 of this Section E of this [Appendix 4](/ebas/menta
 
 **A.4** The implementation of this classification structure will not result in any LLEW employee having their classification downgraded, or suffering any detriment to their classification grade and/or rate of pay as it was immediately prior to the coming into force of this Agreement.
 
----
+
 
 ### B. Peer Cadet Program
 
@@ -674,7 +662,7 @@ For the purposes of clause 11 of this Section E of this [Appendix 4](/ebas/menta
 - **(b)** All other terms and conditions of employment will be those applying to a LLEW Employee under this Agreement except where this clause explicitly says otherwise.
 - **(c)** Where a Peer Cadet is later employed in a mental health service on an ongoing basis, continuity of service as a LLEW Employee will include any period of service in the Peer Cadet Program, provided that any gap between employment as a Peer Cadet and as a LLEW Employee is less than twelve (12) months.
 
----
+
 
 ### C. LLEW Classification Streams
 
@@ -685,7 +673,7 @@ Lived and Living Experience Worker roles will be classified in one of the follow
 - **(c)** Education
 - **(d)** Research
 
----
+
 
 ## 1. LLEW Grade 1
 
@@ -762,7 +750,7 @@ A Grade 1 Employee can demonstrate most or all of the following features:
 
 - **(i)** The Family Carer Peer Worker's understanding of the needs of families, carers and supporters derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to families, carers and supporters in navigating services and being involved in the treatment and recovery planning of the consumer through their mental health service journey. The Family Carer Peer Worker supports families, carers and supporters by providing education, information, linkages and referrals and by promoting self-advocacy and relational recovery.
 
----
+
 
 ## 2. LLEW Grade 2
 
@@ -850,7 +838,7 @@ In addition to those at Grade 1, a Grade 2 Employee can demonstrate most or all 
 
 - **(i)** The Family Carer Peer Worker's understanding of the needs of families, carers and supporters derives primarily from their Lived and Living Experience and compliments the professional knowledge and skills of the multi-disciplinary team. The purpose of the position is to provide peer support to families, carers and supporters in navigating services and being involved in the treatment and recovery planning of the consumer through their mental health service journey. The Family Carer Peer Worker supports families, carers and supporters by providing education, information, linkages and referrals and by promoting self-advocacy and relational recovery.
 
----
+
 
 ## 3. LLEW Grade 3
 
@@ -937,7 +925,7 @@ In addition to those at Grades 1 and 2, a Grade 3 Employee can demonstrate most 
 
 - **(i)** The LLEW Shift Leader is appointed to supervise a team of LLEW employees on a shift-by-shift basis.
 
----
+
 
 ## 4. LLEW Grade 4
 
@@ -963,7 +951,7 @@ The focus of the Consumer Consultants' work is to assist consumers to be involve
 
 The focus of the Family Carer Consultants' work is to assist families and carers to provide assistance and support to carer/families to be involved in their treatment, support, recovery planning and clinical decisions of the person they support.
 
----
+
 
 ## 5. LLEW Grade 5
 
@@ -1010,7 +998,7 @@ This is the most senior level within the Practice Stream.
 
 - **(i)** A LLEW Researcher is appointed to lead research approved by the Health Services Ethics committee.
 
----
+
 
 ## 6. LLEW Grade 6
 
@@ -1039,7 +1027,7 @@ A LLEW Education Manager is appointed to manage the Education function of the LL
 
 - **(i)** A LLEW Research Manager is appointed to manage the Research function of the LLEW Workforce within the mental health workforce of the health service.
 
----
+
 
 ## 7. LLEW Grade 7
 
@@ -1048,7 +1036,7 @@ A LLEW Education Manager is appointed to manage the Education function of the LL
 - **(a)** A LLEW Deputy Director is appointed within the Executive to support the LLEW Director to provide strategic/operational leadership and overall management of the LLEW Workforce within a mental health service.
 - **(b)** A Grade 7 Employee will have extensive knowledge and experience as a Lived and Living Experience Worker within the mental health system.
 
----
+
 
 ## 8. LLEW Grade 8
 

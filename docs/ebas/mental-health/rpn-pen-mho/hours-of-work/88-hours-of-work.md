@@ -1,5 +1,5 @@
 ---
-title: '88. Hours Of Work'
+title: '88. Hours of Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 88. Hours Of Work
+# 88. Hours of Work
 
 **88.1** A full time Employee will work an average of 152 hours per four-week period.
 

@@ -1,5 +1,5 @@
 ---
-title: '5. Application Of Section 2'
+title: '5. Application of Section 2'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 5. Application Of Section 2
+# 5. Application of Section 2
 
 The terms of Section 2 of this Agreement apply to Employees engaged in one of the following classifications:
 

@@ -1,5 +1,5 @@
 ---
-title: '40. Absence On Defence Leave'
+title: '40. Absence on Defence Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 40. Absence On Defence Leave
+# 40. Absence on Defence Leave
 
 **40.1** A Full Time or Part Time Employee absent on defence service will be reimbursed by the Employer an amount equal to the difference between:
 

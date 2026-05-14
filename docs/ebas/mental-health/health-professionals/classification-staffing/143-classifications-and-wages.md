@@ -1,5 +1,5 @@
 ---
-title: '143. Classifications And Wages'
+title: '143. Classifications and Wages'
 eba: 'Mental Health Services 2024-2028'
 topics: ['classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['classifications']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 143. Classifications And Wages
+# 143. Classifications and Wages
 
 **143.1** The classification descriptors are set out in [Schedule 5](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals) – Classification Definitions Applying to Health Professionals.
 

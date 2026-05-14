@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 90B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees) 
 
-*Note: This clause does not apply to casual Employees.*
+>**Note:** This clause does not apply to casual Employees.
 
 **90B.1. General** 
 

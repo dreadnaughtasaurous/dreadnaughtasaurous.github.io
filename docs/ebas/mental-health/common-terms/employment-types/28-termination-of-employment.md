@@ -1,5 +1,5 @@
 ---
-title: '28. Termination Of Employment'
+title: '28. Termination of Employment'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'termination']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 28. Termination Of Employment
+# 28. Termination of Employment
 
 **28.1 Notice Period/Payment in Lieu**
 

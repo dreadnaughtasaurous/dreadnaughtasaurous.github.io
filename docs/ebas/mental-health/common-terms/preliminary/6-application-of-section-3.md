@@ -1,5 +1,5 @@
 ---
-title: '6. Application Of Section 3'
+title: '6. Application of Section 3'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 6. Application Of Section 3
+# 6. Application of Section 3
 
 The terms of Section 3 of this Agreement apply to Employees engaged as Health Professionals in one of the following
 

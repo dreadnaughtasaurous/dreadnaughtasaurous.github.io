@@ -1,5 +1,5 @@
 ---
-title: '211. Conversion Of Unused Sick Leave To Annual Leave - Royal Children''s Hospital'
+title: '211. Conversion of Unused Sick Leave to Annual Leave - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'annual-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'annual-leave']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 211. Conversion Of Unused Sick Leave To Annual Leave - Royal Children's Hospital
+# 211. Conversion of Unused Sick Leave to Annual Leave - Royal Children's Hospital
 
 *Royal Children's Hospital This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
 

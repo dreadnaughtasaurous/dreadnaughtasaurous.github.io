@@ -1,5 +1,5 @@
 ---
-title: '69C. Incident Reporting Investigation And Prevention'
+title: '69C. Incident Reporting Investigation and Prevention'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs']
 ---
@@ -11,7 +11,7 @@ topics: ['ohs']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69C. Incident Reporting Investigation And Prevention
+# 69C. Incident Reporting Investigation and Prevention
 
 - **(a)** The Employer will facilitate timely reporting of incidents by Employees and ensure Employees who report incidents are appropriately supported.
 

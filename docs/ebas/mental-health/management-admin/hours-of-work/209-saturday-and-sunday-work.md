@@ -1,5 +1,5 @@
 ---
-title: '209. Saturday And Sunday Work'
+title: '209. Saturday and Sunday Work'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 209. Saturday And Sunday Work
+# 209. Saturday and Sunday Work
 
 **209.1** All rostered time of ordinary duty performed between midnight on Friday and Midnight on Sunday shall be paid for at the rate of time and one half.
 

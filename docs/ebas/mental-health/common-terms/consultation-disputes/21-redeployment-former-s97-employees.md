@@ -1,5 +1,5 @@
 ---
-title: '21. Redeployment Former S97 Employees'
+title: '21. Redeployment - Former S97 Employees'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 21. Redeployment Former S97 Employees
+# 21. Redeployment - Former S97 Employees
 
 **21.1** An Employee who was a s97 Employee as at 19 December 1997, who transferred to an Employer on or after 19 December 1997 and has been continuously employed by the same Employer since the date of transfer in the same position, and who is redeployed as a result of their position being made redundant to a position having a lower salary than the salary of their former position, must be paid a salary which is not less than the actual salary of the Employee at the date of redeployment adjusted from time to time in accordance with this Agreement and adjusted to reflect each incremental step through the former classification on the anniversary of each increment.
 

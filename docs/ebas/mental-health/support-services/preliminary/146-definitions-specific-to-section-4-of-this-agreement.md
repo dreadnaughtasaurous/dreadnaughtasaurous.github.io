@@ -1,5 +1,5 @@
 ---
-title: '146. Definitions Specific To Section 4 of this Agreement'
+title: '146. Definitions Specific to Section 4 of this Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 146. Definitions Specific To Section 4 of this Agreement
+# 146. Definitions Specific to Section 4 of this Agreement
 
 **146.1** **Base rate of pay** means the rate of pay payable to an Employee in accordance with [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for their ordinary hours of work, but not including any incentive- based payments and bonuses, loadings, allowances, overtime, penalty rates or any other separately identifiable amounts.
 

@@ -37,6 +37,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
     - **(A)** Any new increment is payable from the FFPPOOA, the evidence is provided; and 
     - **(B)** Notwithstanding this term, any previously recognised concurrent service is unaffected by this term. 
 
-> **Note:** Experience and Years of Experience are only relevant to determining what constitutes experience (including previous experience) for the purpose of incremental progression through an Employee’s classification.
+  > **Note:** Experience and Years of Experience are only relevant to determining what constitutes experience (including previous experience) for the purpose of incremental progression through an Employee’s classification.
 
 - **(e)** In Section 2 of the Agreement, allowances will be calculated to the nearest 10 cents, an exact amount of 5 cents in the result going to the higher figure, unless otherwise specified.

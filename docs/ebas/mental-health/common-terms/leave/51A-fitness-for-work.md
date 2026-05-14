@@ -1,5 +1,5 @@
 ---
-title: '51A. Fitness For Work'
+title: '51A. Fitness for Work'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 51A. Fitness For Work
+# 51A. Fitness for Work
 
 **51A.1 Definition**
 
@@ -51,16 +51,19 @@ In this [clause 51A](/ebas/mental-health/common-terms/leave/51A-fitness-for-work
     - **(B)** provide a copy of the report to the Employer; and
     - **(C)** meet with the Employer to discuss any report.
 - **(c) Report from IME**
+
   If, on receipt of the report, and (where reasonably practicable) following discussion, the Employer continues to have a reasonable belief that the Employee is unfit for duty, or the Employee does not provide a report from the Treating Practitioner, the Employer may require the Employee to attend an independent medical examination (IME).
   The Employer will:
   - **(i)** pay for the cost and expenses of the appointment and report
   - **(ii)** provide a copy of the IME report to the Employee; and
   - **(iii)** meet with the Employee to discuss any report.
 - **(d) Information to Employee before IME**
+
   Before the Employee attends an IME under [subclause 51A.3(c)](/ebas/mental-health/common-terms/leave/51A-fitness-for-work) above, the Employee will be provided with a copy of:
   - **(i)** the name of the proposed IME; and
   - **(ii)** any correspondence (including any supporting material) proposed to be sent to the IME.
 - **(e) Employee consultation and right to supplement information**
+
   Before attending an IME, the Employee may:
   - **(i)** supplement the material to be provided to the IME; and/or
   - **(ii)** meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting.

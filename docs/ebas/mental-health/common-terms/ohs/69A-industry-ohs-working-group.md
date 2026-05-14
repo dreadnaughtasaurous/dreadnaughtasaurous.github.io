@@ -1,5 +1,5 @@
 ---
-title: '69A. Industry Ohs Working Group'
+title: '69A. Industry OH&S Working Group'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs', 'workers-comp']
 ---
@@ -11,7 +11,7 @@ topics: ['ohs', 'workers-comp']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69A. Industry Ohs Working Group
+# 69A. Industry OH&S Working Group
 
 - **(a)** The Employers (and their representative), the Employees and the Unions will proactively cooperate in development and recommendation of measures to improve occupational health and safety (OHS) outcomes, with the intent of improving Employee health and safety, preventing injury, illness and incapacity (and hence workers compensation payments), and supporting effective and responsive return to work, with a particular focus on the following:
   - **(i)** safe patient and manual handling processes

@@ -1,5 +1,5 @@
 ---
-title: '90. Make Up Time'
+title: '90. Make-Up Time'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'shift-work']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'shift-work']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 90. Make Up Time
+# 90. Make-Up Time
 
 **90.1** Notwithstanding provisions elsewhere in the agreement, the Employer and the majority of Employees at an enterprise may agree to establish a system of make- up time provided that:
 

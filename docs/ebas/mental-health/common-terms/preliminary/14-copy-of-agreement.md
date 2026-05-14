@@ -1,5 +1,5 @@
 ---
-title: '14. Copy Of Agreement'
+title: '14. Copy of Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: ['preliminary']
 ---
@@ -11,6 +11,6 @@ topics: ['preliminary']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 14. Copy Of Agreement
+# 14. Copy of Agreement
 
 Each Employer must make readily available to all Employees a copy of this Agreement and a copy of the National Employment Standards.

@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 8 - Letter Of Appointment: Mental Health EBA'
+title: 'Schedule 8 - Letter of Appointment: Mental Health EBA'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Schedule 8 - Letter Of Appointment: Mental Health EBA
+# Schedule 8 - Letter of Appointment: Mental Health EBA
 
 The letter of appointment will contain the following information:
 

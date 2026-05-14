@@ -1,5 +1,5 @@
 ---
-title: '69H. Workers Compensation Rehabilitation And Return To Work'
+title: '69H. Workers Compensation Rehabilitation and Return to Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['workers-comp']
 ---
@@ -13,7 +13,7 @@ topics: ['workers-comp']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69H. Workers Compensation Rehabilitation And Return To Work
+# 69H. Workers Compensation Rehabilitation and Return to Work
 
 **69H.1 Workers Compensation Information**
 

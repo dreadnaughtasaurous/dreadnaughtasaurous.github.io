@@ -1,5 +1,5 @@
 ---
-title: '168. On Call Recall'
+title: '168. On-Call/Recall'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 168. On Call Recall
+# 168. On-Call/Recall
 
 **168.1** The Employer shall pay an on-call allowance to Employees who are required to be on call.
 

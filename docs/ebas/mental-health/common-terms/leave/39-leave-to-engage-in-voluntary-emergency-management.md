@@ -1,5 +1,5 @@
 ---
-title: '39. Leave To Engage In Voluntary Emergency Management Activities'
+title: '39. Leave to Engage in Voluntary Emergency Management Activities'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 39. Leave To Engage In Voluntary Emergency Management Activities
+# 39. Leave to Engage in Voluntary Emergency Management Activities
 
 **39.1** An Employee who engages in a voluntary emergency management activity, with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to leave for:
 

@@ -1,5 +1,5 @@
 ---
-title: '59. Aboriginal Healthcare Worker Traineeship Mental Health'
+title: '59. Aboriginal Healthcare Worker Traineeship (Mental Health)'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 psychiatric nurse nurse community AMHS authorised practitioner psychosocial disability support
 </div>
 
-# 59. Aboriginal Healthcare Worker Traineeship Mental Health
+# 59. Aboriginal Healthcare Worker Traineeship (Mental Health)
 
 **59.1 Application**
 

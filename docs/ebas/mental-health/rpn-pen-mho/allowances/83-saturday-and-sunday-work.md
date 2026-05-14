@@ -1,5 +1,5 @@
 ---
-title: '83. Saturday And Sunday Work'
+title: '83. Saturday and Sunday Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime']
 ---
@@ -13,7 +13,7 @@ topics: ['hours', 'overtime']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 83. Saturday And Sunday Work
+# 83. Saturday and Sunday Work
 
 *Note: The term ‘ordinary hours of work’ is a reference to hours of work that are not at overtime rates.*
 

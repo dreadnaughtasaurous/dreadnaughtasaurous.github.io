@@ -60,13 +60,13 @@ An Intensive Care Area (ICA), which includes a High Dependency Unit (HDU), ECU, 
 - **(c)** Each Employer who operates a ICA will be required to adhere to health and safety standards and requirements for Employees working within a ICA.
 - **(d)** Within the staffing allocation referred to in [clause 102.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management), the following numbers of nursing staff will be rostered to the ICA: 
 
-| Number of Beds | Minimum Number of Nurses for ICA |
-| :--- | :--- |
-| 1–2 beds | 1 nurse |
-| 3–5 beds | 2 nurses |
-| 6–7 beds | 3 nurses |
-| 8–9 beds | 4 nurses |
-| 10 beds or more | 1 nurse per 2 beds |
+  | Number of Beds | Minimum Number of Nurses for ICA |
+  | :--- | :--- |
+  | 1–2 beds | 1 nurse |
+  | 3–5 beds | 2 nurses |
+  | 6–7 beds | 3 nurses |
+  | 8–9 beds | 4 nurses |
+  | 10 beds or more | 1 nurse per 2 beds |
 
 - **(e)** Local ICA policies and/or agreements shall include (but are not limited to) the following health and safety principles:
   - **(i)** At least the numbers of nurses specified in clause (d) above shall be allocated/rostered to a ICA, unless determined by the ANUM (shift leader) as being clinically unwarranted.

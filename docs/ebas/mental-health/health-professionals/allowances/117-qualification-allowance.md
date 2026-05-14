@@ -15,7 +15,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 117. Qualification Allowance
 
-*NOTE: see [subclause 9.1(kk)](/ebas/mental-health/common-terms/preliminary/9-definitions) (Definitions) regarding the interpretation of relevance.*
+>**Note:** see [subclause 9.1(kk)](/ebas/mental-health/common-terms/preliminary/9-definitions) (Definitions) regarding the interpretation of relevance.
 
 **117.1 Entitlement**
 

@@ -15,9 +15,13 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 63. Union Matters
 
-**63.1 Access to Employees – General** The Union will have access to Employees for any process arising under this Agreement.
+**63.1 Access to Employees – General** 
 
-**63.2 Access to Employees – Electronic communication** The Employer will ensure that:
+The Union will have access to Employees for any process arising under this Agreement.
+
+**63.2 Access to Employees – Electronic communication** 
+
+The Employer will ensure that:
 
 - **(a)** emails from the Union domain name are not blocked or restricted by or on behalf of the Employer, except in respect of any individual Employee who has made a written request to the Employer to block such emails
 - **(b)** emails from Employees to the Union are not blocked or restricted by or on behalf of the Employer
@@ -73,11 +77,17 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(a)** A noticeboard for the Union’s use will be readily accessible in each ward/unit/work area or nearest staff room where persons eligible to be members of the Union are employed.
 - **(b)** The Union and members covered by this Agreement will, during the life of this Agreement, consult over the development of an electronic noticeboard managed by the Union.
 
-**63.6 Meeting Space** In the absence of agreement on a location for the holding of Union meetings, the room where one or more of the Employees who may participate in the meeting ordinarily take meal or other breaks will be the meeting room for the purpose of union meetings. Nothing in this clause is intended to override the operation of the Act.
+**63.6 Meeting Space** 
 
-**63.7 Secondment to the Union** The Employer will, on application, grant leave without pay in writing, to an Employee for the purpose of secondment to work for the Union subject to the Employer’s reasonable operational requirements. Such absence will not break service but not count as service for LSL purposes.
+In the absence of agreement on a location for the holding of Union meetings, the room where one or more of the Employees who may participate in the meeting ordinarily take meal or other breaks will be the meeting room for the purpose of union meetings. Nothing in this clause is intended to override the operation of the Act.
 
-**63.8 Employees holding union official positions** The Employer will, on application by the Union, grant leave without loss of pay to an Employee for the purpose of fulfilling their duties as an official of the Council, Executive Council, Branch Committee of Management and National Council, however so named.
+**63.7 Secondment to the Union** 
+
+The Employer will, on application, grant leave without pay in writing, to an Employee for the purpose of secondment to work for the Union subject to the Employer’s reasonable operational requirements. Such absence will not break service but not count as service for LSL purposes.
+
+**63.8 Employees holding union official positions** 
+
+The Employer will, on application by the Union, grant leave without loss of pay to an Employee for the purpose of fulfilling their duties as an official of the Council, Executive Council, Branch Committee of Management and National Council, however so named.
 
 **63.9 Union Training**
 

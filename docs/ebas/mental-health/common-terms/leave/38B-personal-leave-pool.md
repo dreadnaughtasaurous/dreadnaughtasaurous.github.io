@@ -17,9 +17,8 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **38B.2** Where this occurs, the Employer will publish criteria that defines the circumstances under which an Employee can (subject to the NES):
 
-**(a)** Donate accrued personal leave,
-
-**(b)** Access personal leave from the personal leave pool.
+- **(a)** Donate accrued personal leave,
+- **(b)** Access personal leave from the personal leave pool.
 
 **38B.3** A donation to a personal leave pool is irrevocable and the personal leave balance of the donating Employee under [clause 38A](/ebas/mental-health/common-terms/leave/38A-personal-leave) will be adjusted.
 

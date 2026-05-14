@@ -1,5 +1,5 @@
 ---
-title: '56. Time Limit On Higher Duties'
+title: '56. Time Limit on Higher Duties'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 56. Time Limit On Higher Duties
+# 56. Time Limit on Higher Duties
 
 **56.1** Where following vacancy advertisement as per [clause 55](/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position), an Employee has been performing higher duties due to a vacancy for a continuous period of 9 months, the employee will be permanently appointed to the role unless the employee requests otherwise in writing.
 

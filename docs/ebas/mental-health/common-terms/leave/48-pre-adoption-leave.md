@@ -1,5 +1,5 @@
 ---
-title: '48. Pre Adoption Leave'
+title: '48. Pre-Adoption Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 48. Pre Adoption Leave
+# 48. Pre-Adoption Leave
 
 **48.1** An Employee seeking to adopt a child is entitled to unpaid leave for the purpose of attending any compulsory interviews or examinations as are necessary as part of the adoption procedure.
 

@@ -800,25 +800,25 @@ const sidebar = [
         { text: '33. Commuted Allowance', link: '/ebas/mental-health/common-terms/allowances/33-commuted-allowance' },
         { text: '34. Vehicle Allowance', link: '/ebas/mental-health/common-terms/allowances/34-vehicle-allowance' },
         { text: '35. Travelling And Reimbursement', link: '/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement' },
-        { text: '36. Right To Disconnect', link: '/ebas/mental-health/common-terms/allowances/36-right-to-disconnect' }
+        { text: '36. Right to Disconnect', link: '/ebas/mental-health/common-terms/allowances/36-right-to-disconnect' }
       ] },
         { text: 'Consultation Disputes', link: '/ebas/mental-health/common-terms/consultation-disputes', collapsed: true, items: [
         { text: '18. Consultation', link: '/ebas/mental-health/common-terms/consultation-disputes/18-consultation' },
         { text: '18A. Central Building Consultative Committee', link: '/ebas/mental-health/common-terms/consultation-disputes/18a-central-building-consultative-committee' },
-        { text: '19. Consultation About Changes To Rosters Or Hours Or Work', link: '/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work' },
-        { text: '20. Redundancy And Associated Entitlements', link: '/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements' },
-        { text: '21. Redeployment Former S97 Employees', link: '/ebas/mental-health/common-terms/consultation-disputes/21-redeployment-former-s97-employees' },
+        { text: '19. Consultation About Changes to Rosters or Hours or Work', link: '/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work' },
+        { text: '20. Redundancy and Associated Entitlements', link: '/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements' },
+        { text: '21. Redeployment - Former S97 Employees', link: '/ebas/mental-health/common-terms/consultation-disputes/21-redeployment-former-s97-employees' },
         { text: '22. Disputes Resolution Procedure', link: '/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure' },
         { text: '23. Alternative Dispute Resolution Procedure', link: '/ebas/mental-health/common-terms/consultation-disputes/23-alternative-dispute-resolution-procedure' },
-        { text: '24. Managing Conduct And Performance', link: '/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance' }
+        { text: '24. Managing Conduct and Performance', link: '/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance' }
       ] },
         { text: 'Employment Types', link: '/ebas/mental-health/common-terms/employment-types', collapsed: true, items: [
-        { text: '25. Modes Of Employment', link: '/ebas/mental-health/common-terms/employment-types/25-modes-of-employment' },
+        { text: '25. Modes of Employment', link: '/ebas/mental-health/common-terms/employment-types/25-modes-of-employment' },
         { text: '26. Casual Conversion', link: '/ebas/mental-health/common-terms/employment-types/26-casual-conversion' },
         { text: '26A. Employment Checks', link: '/ebas/mental-health/common-terms/employment-types/26A-employment-checks' },
         { text: '27. Employee Retention', link: '/ebas/mental-health/common-terms/employment-types/27-employee-retention' },
-        { text: '27A. Transition To Retirement', link: '/ebas/mental-health/common-terms/employment-types/27A-transition-to-retirement' },
-        { text: '28. Termination Of Employment', link: '/ebas/mental-health/common-terms/employment-types/28-termination-of-employment' }
+        { text: '27A. Transition to Retirement', link: '/ebas/mental-health/common-terms/employment-types/27A-transition-to-retirement' },
+        { text: '28. Termination of Employment', link: '/ebas/mental-health/common-terms/employment-types/28-termination-of-employment' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/mental-health/common-terms/hours-of-work', collapsed: true, items: [
         { text: '37. Daylight Saving', link: '/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving' }
@@ -827,74 +827,74 @@ const sidebar = [
         { text: '38. Blood Donor Leave', link: '/ebas/mental-health/common-terms/leave/38-blood-donor-leave' },
         { text: '38A. Personal Leave', link: '/ebas/mental-health/common-terms/leave/38A-personal-leave' },
         { text: '38B. Personal Leave Pool', link: '/ebas/mental-health/common-terms/leave/38B-personal-leave-pool' },
-        { text: '38C. Caring Responsibilities Casual Employees', link: '/ebas/mental-health/common-terms/leave/38C-caring-responsibilities-casual-employees' },
+        { text: '38C. Caring Responsibilities - Casual Employees', link: '/ebas/mental-health/common-terms/leave/38C-caring-responsibilities-casual-employees' },
         { text: '38D. Annual Leave', link: '/ebas/mental-health/common-terms/leave/38D-annual-leave' },
         { text: '38G. Reproductive Health Leave', link: '/ebas/mental-health/common-terms/leave/38G-reproductive-health-leave' },
         { text: '38H. Rehabilitation', link: '/ebas/mental-health/common-terms/leave/38H-rehabilitation-leave' },
-        { text: '39. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/mental-health/common-terms/leave/39-leave-to-engage-in-voluntary-emergency-management' },
-        { text: '40. Absence On Defence Leave', link: '/ebas/mental-health/common-terms/leave/40-absence-on-defence-leave' },
+        { text: '39. Leave to Engage in Voluntary Emergency Management Activities', link: '/ebas/mental-health/common-terms/leave/39-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '40. Absence on Defence Leave', link: '/ebas/mental-health/common-terms/leave/40-absence-on-defence-leave' },
         { text: '41. Special Disaster Leave', link: '/ebas/mental-health/common-terms/leave/41-special-disaster-leave' },
         { text: '42. Gender Affirmation Leave', link: '/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave' },
         { text: '43. Ceremonial Leave', link: '/ebas/mental-health/common-terms/leave/43-ceremonial-leave' },
         { text: '44. Compassionate Leave', link: '/ebas/mental-health/common-terms/leave/44-compassionate-leave' },
-        { text: '45. Family And Domestic Violence Leave', link: '/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave' },
+        { text: '45. Family and Domestic Violence Leave', link: '/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave' },
         { text: '46. Jury Service', link: '/ebas/mental-health/common-terms/leave/46-jury-service' },
         { text: '47. Long Service Leave', link: '/ebas/mental-health/common-terms/leave/47-long-service-leave' },
-        { text: '48. Pre Adoption Leave', link: '/ebas/mental-health/common-terms/leave/48-pre-adoption-leave' },
-        { text: '48A. Foster And Kinship Care', link: '/ebas/mental-health/common-terms/leave/48A-foster-and-kinship-care' },
-        { text: '49. Pre Natal Leave And Assisted Reproduction', link: '/ebas/mental-health/common-terms/leave/49-pre-natal-leave-and-assisted-reproduction' },
+        { text: '48. Pre-Adoption Leave', link: '/ebas/mental-health/common-terms/leave/48-pre-adoption-leave' },
+        { text: '48A. Foster and Kinship Care', link: '/ebas/mental-health/common-terms/leave/48A-foster-and-kinship-care' },
+        { text: '49. Pre-Natal Leave and Assisted Reproduction', link: '/ebas/mental-health/common-terms/leave/49-pre-natal-leave-and-assisted-reproduction' },
         { text: '50. Parental Leave', link: '/ebas/mental-health/common-terms/leave/50-parental-leave' },
         { text: '51. Purchased Leave', link: '/ebas/mental-health/common-terms/leave/51-purchased-leave' },
-        { text: '51A. Fitness For Work', link: '/ebas/mental-health/common-terms/leave/51A-fitness-for-work' },
-        { text: '51B. Climate Change Mitigation And Sustainability', link: '/ebas/mental-health/common-terms/leave/51B-climate-change-mitigation-and-sustainability' }
+        { text: '51A. Fitness for Work', link: '/ebas/mental-health/common-terms/leave/51A-fitness-for-work' },
+        { text: '51B. Climate Change Mitigation and Sustainability', link: '/ebas/mental-health/common-terms/leave/51B-climate-change-mitigation-and-sustainability' }
       ] },
         { text: 'Occupational Health & Safety', link: '/ebas/mental-health/common-terms/ohs', collapsed: true, items: [
-        { text: '69. Occupational Health And Safety / Workplace Violence', link: '/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence' },
-        { text: '69A. Industry Ohs Working Group', link: '/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group' },
-        { text: '69B. Ohs Risk Management', link: '/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management' },
-        { text: '69C. Incident Reporting Investigation And Prevention', link: '/ebas/mental-health/common-terms/ohs/69C-incident-reporting-investigation-and-prevention' },
+        { text: '69. Occupational Health and Safety / Workplace Violence', link: '/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence' },
+        { text: '69A. Industry OH&S Working Group', link: '/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group' },
+        { text: '69B. OH&S Risk Management', link: '/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management' },
+        { text: '69C. Incident Reporting Investigation and Prevention', link: '/ebas/mental-health/common-terms/ohs/69C-incident-reporting-investigation-and-prevention' },
         { text: '69D. Designated Work Groups', link: '/ebas/mental-health/common-terms/ohs/69D-designated-work-groups' },
-        { text: '69E. Hsrs', link: '/ebas/mental-health/common-terms/ohs/69E-hsrs' },
-        { text: '69F. Occupational Violence And Aggression Prevention And Management', link: '/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and' },
+        { text: '69E. HSRs', link: '/ebas/mental-health/common-terms/ohs/69E-hsrs' },
+        { text: '69F. Occupational Violence and Aggression Prevention and Management', link: '/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and' },
         { text: '69G. Hazardous Weather Conditions', link: '/ebas/mental-health/common-terms/ohs/69G-hazardous-weather-conditions' },
-        { text: '69H. Workers Compensation Rehabilitation And Return To Work', link: '/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work' },
-        { text: '69I. Prevention Of Gendered Violence Including Sexual Harassment', link: '/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment' }
+        { text: '69H. Workers Compensation Rehabilitation and Return to Work', link: '/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work' },
+        { text: '69I. Prevention of Gendered Violence Including Sexual Harassment', link: '/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment' }
       ] },
         { text: 'Preliminary', link: '/ebas/mental-health/common-terms/preliminary', collapsed: true, items: [
-        { text: '4. Division Into Sections And Schedules', link: '/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules' },
-        { text: '5. Application Of Section 2', link: '/ebas/mental-health/common-terms/preliminary/5-application-of-section-2' },
-        { text: '6. Application Of Section 3', link: '/ebas/mental-health/common-terms/preliminary/6-application-of-section-3' },
-        { text: '7. Application Of Section 4', link: '/ebas/mental-health/common-terms/preliminary/7-application-of-section-4' },
-        { text: '8. Application Of Section 5', link: '/ebas/mental-health/common-terms/preliminary/8-application-of-section-5' },
+        { text: '4. Division into Sections and Schedules', link: '/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules' },
+        { text: '5. Application of Section 2', link: '/ebas/mental-health/common-terms/preliminary/5-application-of-section-2' },
+        { text: '6. Application of Section 3', link: '/ebas/mental-health/common-terms/preliminary/6-application-of-section-3' },
+        { text: '7. Application of Section 4', link: '/ebas/mental-health/common-terms/preliminary/7-application-of-section-4' },
+        { text: '8. Application of Section 5', link: '/ebas/mental-health/common-terms/preliminary/8-application-of-section-5' },
         { text: '9. Definitions', link: '/ebas/mental-health/common-terms/preliminary/9-definitions' },
         { text: '10. Coverage', link: '/ebas/mental-health/common-terms/preliminary/10-coverage' },
-        { text: '11. Incidence And Operation Of This Agreement', link: '/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement' },
+        { text: '11. Incidence and Operation of this Agreement', link: '/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement' },
         { text: '12. Implementation Committees', link: '/ebas/mental-health/common-terms/preliminary/12-implementation-committees' },
         { text: '13. No Further Claims', link: '/ebas/mental-health/common-terms/preliminary/13-no-further-claims' },
-        { text: '14. Copy Of Agreement', link: '/ebas/mental-health/common-terms/preliminary/14-copy-of-agreement' },
+        { text: '14. Copy of Agreement', link: '/ebas/mental-health/common-terms/preliminary/14-copy-of-agreement' },
         { text: '15. Savings Clause', link: '/ebas/mental-health/common-terms/preliminary/15-savings-clause' },
-        { text: '16. Anti Discrimination', link: '/ebas/mental-health/common-terms/preliminary/16-anti-discrimination' },
+        { text: '16. Anti-Discrimination', link: '/ebas/mental-health/common-terms/preliminary/16-anti-discrimination' },
         { text: '17. Gender Based Discrimination', link: '/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination' }
       ] },
         { text: 'Resources', link: '/ebas/mental-health/common-terms/resources', collapsed: true, items: [
-        { text: '52. Rural Four Wheel Drive All Wheel Drive', link: '/ebas/mental-health/common-terms/resources/52-rural-four-wheel-drive-all-wheel-drive' },
-        { text: '53. Rural Satellite Telephones', link: '/ebas/mental-health/common-terms/resources/53-rural-satellite-telephones' },
+        { text: '52. Rural - Four Wheel Drive/All-Wheel Drive', link: '/ebas/mental-health/common-terms/resources/52-rural-four-wheel-drive-all-wheel-drive' },
+        { text: '53. Rural - Satellite Telephones', link: '/ebas/mental-health/common-terms/resources/53-rural-satellite-telephones' },
         { text: '54. Training', link: '/ebas/mental-health/common-terms/resources/54-training' }
       ] },
         { text: 'Staffing', link: '/ebas/mental-health/common-terms/staffing', collapsed: true, items: [
-        { text: '55. Recruitment To Vacant Position', link: '/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position' },
-        { text: '56. Time Limit On Higher Duties', link: '/ebas/mental-health/common-terms/staffing/56-time-limit-on-higher-duties' },
+        { text: '55. Recruitment to Vacant Position', link: '/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position' },
+        { text: '56. Time Limit on Higher Duties', link: '/ebas/mental-health/common-terms/staffing/56-time-limit-on-higher-duties' },
         { text: '57. Community Mental Health Discipline Mix', link: '/ebas/mental-health/common-terms/staffing/57-community-mental-health-discipline-mix' },
         { text: '57A. Community Health Teams Staffing Establishment', link: '/ebas/mental-health/common-terms/staffing/57A-community-health-teams-staffing-establishment' },
         { text: '58. Community Mental Health Engagement Worker', link: '/ebas/mental-health/common-terms/staffing/58-community-mental-health-engagement-worker' },
-        { text: '59. Aboriginal Healthcare Worker Traineeship Mental Health', link: '/ebas/mental-health/common-terms/staffing/59-aboriginal-healthcare-worker-traineeship-mental-health' },
-        { text: '60. Community Workload Management System Cwms', link: '/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms' },
-        { text: '61. Crisis Team Workload Management System Ctwms', link: '/ebas/mental-health/common-terms/staffing/61-crisis-team-workload-management-system-ctwms' },
+        { text: '59. Aboriginal Healthcare Worker Traineeship (Mental Health)', link: '/ebas/mental-health/common-terms/staffing/59-aboriginal-healthcare-worker-traineeship-mental-health' },
+        { text: '60. Community Workload Management System (CWMS)', link: '/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms' },
+        { text: '61. Crisis Team Workload Management System (CTWMS)', link: '/ebas/mental-health/common-terms/staffing/61-crisis-team-workload-management-system-ctwms' },
         { text: '62. Demand Escalation Policy', link: '/ebas/mental-health/common-terms/staffing/62-demand-escalation-policy' }
       ] },
         { text: 'Wages', link: '/ebas/mental-health/common-terms/wages', collapsed: true, items: [
-        { text: '29. Payment Of Wages Allowances Employee Records And Related Manners', link: '/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and' },
-        { text: '30. Compensation Make Up Pay', link: '/ebas/mental-health/common-terms/wages/30-compensation-make-up-pay' },
+        { text: '29. Payment Of Wages, Allowances, Employee Records, and Related Matters', link: '/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and' },
+        { text: '30. Compensation Make-Up Pay', link: '/ebas/mental-health/common-terms/wages/30-compensation-make-up-pay' },
         { text: '31. Salary Packaging', link: '/ebas/mental-health/common-terms/wages/31-salary-packaging' },
         { text: '32. Superannuation', link: '/ebas/mental-health/common-terms/wages/32-superannuation' }
       ] },
@@ -903,7 +903,7 @@ const sidebar = [
         { text: '64. Breastfeeding', link: '/ebas/mental-health/common-terms/workplace-rights/64-breastfeeding' },
         { text: '65. Flexible Working Arrangements', link: '/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements' },
         { text: '66. Individual Flexible Working Arrangements', link: '/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements' },
-        { text: '67. Reasonable Adjustments For Employees With A Disability', link: '/ebas/mental-health/common-terms/workplace-rights/67-reasonable-adjustments-for-employees-with-a-disability' },
+        { text: '67. Reasonable Adjustments for Employees with a Disability', link: '/ebas/mental-health/common-terms/workplace-rights/67-reasonable-adjustments-for-employees-with-a-disability' },
         { text: '68. Royal Commission Working Group', link: '/ebas/mental-health/common-terms/workplace-rights/68-royal-commission-working-group' }
       ] }
       ] },
@@ -917,48 +917,48 @@ const sidebar = [
         { text: '119. Shift Work Allowance', link: '/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance' },
         { text: '120. Sole Allowance', link: '/ebas/mental-health/health-professionals/allowances/120-sole-allowance' },
         { text: '121. Uniform Allowance', link: '/ebas/mental-health/health-professionals/allowances/121-uniform-allowance' },
-        { text: '121A. Change Of Ward Allowance', link: '/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance' }
+        { text: '121A. Change of Ward Allowance', link: '/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance' }
       ] },
         { text: 'Classification Staffing', link: '/ebas/mental-health/health-professionals/classification-staffing', collapsed: true, items: [
-        { text: '143. Classifications And Wages', link: '/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages' },
+        { text: '143. Classifications and Wages', link: '/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages' },
         { text: '143A. Wages Review', link: '/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review' },
-        { text: '144. Notification Of Classification', link: '/ebas/mental-health/health-professionals/classification-staffing/144-notification-of-classification' },
+        { text: '144. Notification of Classification', link: '/ebas/mental-health/health-professionals/classification-staffing/144-notification-of-classification' },
         { text: '144A. Staffing', link: '/ebas/mental-health/health-professionals/classification-staffing/144A-staffing' },
         { text: '145. Trainee Supervision', link: '/ebas/mental-health/health-professionals/classification-staffing/145-trainee-supervision' }
       ] },
         { text: 'Education & Professional Development', link: '/ebas/mental-health/health-professionals/education-pd', collapsed: true, items: [
         { text: '136. Professional Development Leave', link: '/ebas/mental-health/health-professionals/education-pd/136-professional-development-leave' },
         { text: '137. Examination Leave', link: '/ebas/mental-health/health-professionals/education-pd/137-examination-leave' },
-        { text: '138. In Service Education Training Royal Children S Hospital', link: '/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital' },
+        { text: "138. In-Service Education & Training - Royal Children's Hospital", link: '/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital' },
         { text: '139. Study Leave', link: '/ebas/mental-health/health-professionals/education-pd/139-study-leave' },
-        { text: '140. Health Professionals Medicare Study Leave', link: '/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave' },
-        { text: '141. Clinical Supervision For Allied Health Professionals (Not LLEWs)', link: '/ebas/mental-health/health-professionals/education-pd/141-clinical-supervision-for-allied-health-professionals-not' },
-        { text: '142. Discipline Specific Supervision Only Llews', link: '/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews' }
+        { text: '140. Health Professionals (Medicare) Study Leave', link: '/ebas/mental-health/health-professionals/education-pd/140-health-professionals-medicare-study-leave' },
+        { text: '141. Clinical Supervision for Allied Health Professionals (Not LLEWs)', link: '/ebas/mental-health/health-professionals/education-pd/141-clinical-supervision-for-allied-health-professionals-not' },
+        { text: '142. Discipline Specific Supervision (Only LLEWs)', link: '/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews' }
       ] },
         { text: 'Employment Types', link: '/ebas/mental-health/health-professionals/employment-types', collapsed: true, items: [
         { text: '112. This Clause Is Deliberately Blank', link: '/ebas/mental-health/health-professionals/employment-types/112-this-clause-is-deliberately-blank' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/mental-health/health-professionals/hours-of-work', collapsed: true, items: [
-        { text: '122. Hours Of Work', link: '/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work' },
+        { text: '122. Hours of Work', link: '/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work' },
         { text: '123. ADOs', link: '/ebas/mental-health/health-professionals/hours-of-work/123-ados' },
         { text: '124. Roster', link: '/ebas/mental-health/health-professionals/hours-of-work/124-roster' },
-        { text: '125. Discretionary Backfill For Certain Absences', link: '/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences' },
-        { text: '125A. Portfolio Work In Paid Time', link: '/ebas/mental-health/health-professionals/hours-of-work/125A-portfolio-work-in-paid-time' },
+        { text: '125. Discretionary Backfill for Certain Absences', link: '/ebas/mental-health/health-professionals/hours-of-work/125-discretionary-backfill-for-certain-absences' },
+        { text: '125A. Portfolio Work in Paid Time', link: '/ebas/mental-health/health-professionals/hours-of-work/125A-portfolio-work-in-paid-time' },
         { text: '126. Make Up Time', link: '/ebas/mental-health/health-professionals/hours-of-work/126-make-up-time' },
         { text: '127. Meal Interval', link: '/ebas/mental-health/health-professionals/hours-of-work/127-meal-interval' },
         { text: '128. Overtime', link: '/ebas/mental-health/health-professionals/hours-of-work/128-overtime' },
         { text: '129. Rest Period', link: '/ebas/mental-health/health-professionals/hours-of-work/129-rest-period' },
         { text: '130. Saturday And Sunday Work', link: '/ebas/mental-health/health-professionals/hours-of-work/130-saturday-and-sunday-work' },
-        { text: '131. Ten Hour Break', link: '/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break' },
-        { text: '132. On Call Rostered Overtime', link: '/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime' },
-        { text: '133. Catt On Call Recall Allowances', link: '/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances' },
-        { text: '134. On Call Recall Allowance Non Catt', link: '/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt' }
+        { text: '131. Ten-Hour Break', link: '/ebas/mental-health/health-professionals/hours-of-work/131-ten-hour-break' },
+        { text: '132. On-Call & Rostered Overtime', link: '/ebas/mental-health/health-professionals/hours-of-work/132-on-call-rostered-overtime' },
+        { text: '133. CATT On-Call/Recall Allowances', link: '/ebas/mental-health/health-professionals/hours-of-work/133-catt-on-call-recall-allowances' },
+        { text: '134. On-Call/Recall Allowance (Non-CATT)', link: '/ebas/mental-health/health-professionals/hours-of-work/134-on-call-recall-allowance-non-catt' }
       ] },
         { text: 'Leave', link: '/ebas/mental-health/health-professionals/leave', collapsed: true, items: [
         { text: '135. Public Holidays', link: '/ebas/mental-health/health-professionals/leave/135-public-holidays' }
       ] },
         { text: 'Preliminary', link: '/ebas/mental-health/health-professionals/preliminary', collapsed: true, items: [
-        { text: '111. Definitions Specific To This Part Of This Agreement', link: '/ebas/mental-health/health-professionals/preliminary/111-definitions-specific-to-this-part-of-this-agreement' }
+        { text: '111. Definitions Specific to this Part of this Agreement', link: '/ebas/mental-health/health-professionals/preliminary/111-definitions-specific-to-this-part-of-this-agreement' }
       ] },
         { text: 'Wages', link: '/ebas/mental-health/health-professionals/wages', collapsed: true, items: [
         { text: '113. Once Off Retention Payment', link: '/ebas/mental-health/health-professionals/wages/113-once-off-retention-payment' }
@@ -982,7 +982,7 @@ const sidebar = [
         { text: '216. Staff Appraisal', link: '/ebas/mental-health/management-admin/education-pd/216-staff-appraisal' },
         { text: "217. Individual Performance Measures - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/education-pd/217-individual-performance-measures-royal-children-s' },
         { text: "218. Professional Development Leave - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/education-pd/218-professional-development-leave-royal-children-s' },
-        { text: "219. Education And Training - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/education-pd/219-education-and-training-royal-children-s-hospital' }
+        { text: "219. Education and Training - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/education-pd/219-education-and-training-royal-children-s-hospital' }
       ] },
         { text: 'Hours Of Work', link: '/ebas/mental-health/management-admin/hours-of-work', collapsed: true, items: [
         { text: '197. Accrued Days Off', link: '/ebas/mental-health/management-admin/hours-of-work/197-accrued-days-off' },
@@ -991,51 +991,51 @@ const sidebar = [
         { text: '200. Meal Breaks', link: '/ebas/mental-health/management-admin/hours-of-work/200-meal-breaks' },
         { text: '201. Minimum Engagement', link: '/ebas/mental-health/management-admin/hours-of-work/201-minimum-engagement' },
         { text: '201A. Rosters', link: '/ebas/mental-health/management-admin/hours-of-work/201A-rosters' },
-        { text: '202. On Call Recall', link: '/ebas/mental-health/management-admin/hours-of-work/202-on-call-recall' },
+        { text: '202. On-Call/Recall', link: '/ebas/mental-health/management-admin/hours-of-work/202-on-call-recall' },
         { text: '203. Overtime', link: '/ebas/mental-health/management-admin/hours-of-work/203-overtime' },
         { text: "204. Overtime - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/hours-of-work/204-overtime-royal-children-s-hospital' },
         { text: '205. Overtime In Lieu', link: '/ebas/mental-health/management-admin/hours-of-work/205-overtime-in-lieu' },
         { text: '206. Reasonable Additional Hours', link: '/ebas/mental-health/management-admin/hours-of-work/206-reasonable-additional-hours' },
         { text: '207. Rest Breaks', link: '/ebas/mental-health/management-admin/hours-of-work/207-rest-breaks' },
-        { text: '208. Time And Wages Records Royal Children S Hospital', link: '/ebas/mental-health/management-admin/hours-of-work/208-time-and-wages-records-royal-children-s-hospital' },
-        { text: '209. Saturday And Sunday Work', link: '/ebas/mental-health/management-admin/hours-of-work/209-saturday-and-sunday-work' },
+        { text: "208. Time And Wages Records - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/hours-of-work/208-time-and-wages-records-royal-children-s-hospital' },
+        { text: '209. Saturday and Sunday Work', link: '/ebas/mental-health/management-admin/hours-of-work/209-saturday-and-sunday-work' },
         { text: "210. Working From Home - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/hours-of-work/210-working-from-home-royal-children-s-hospital' },
         { text: '210A. Ward Clerk Staffing', link: '/ebas/mental-health/management-admin/hours-of-work/210A-ward-clerk-staffing' }
       ] },
         { text: 'Leave', link: '/ebas/mental-health/management-admin/leave', collapsed: true, items: [
-        { text: "211. Conversion Of Unused Sick Leave To Annual Leave - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave' },
+        { text: "211. Conversion of Unused Sick Leave to Annual Leave - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/leave/211-conversion-of-unused-sick-leave-to-annual-leave' },
         { text: "212. Discretionary Leave Without Pay - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/leave/212-discretionary-leave-without-pay-royal-children-s' },
         { text: '213. Public Holidays', link: '/ebas/mental-health/management-admin/leave/213-public-holidays' }
       ] },
         { text: 'Preliminary', link: '/ebas/mental-health/management-admin/preliminary', collapsed: true, items: [
-        { text: '186. Definitions Specific To Section 5 of this Agreement', link: '/ebas/mental-health/management-admin/preliminary/186-definitions-specific-to-section-5-of-this-agreement' },
+        { text: '186. Definitions Specific to Section 5 of this Agreement', link: '/ebas/mental-health/management-admin/preliminary/186-definitions-specific-to-section-5-of-this-agreement' },
         { text: "187. Best Practice - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/preliminary/187-best-practice-royal-children-s-hospital' }
       ] },
         { text: 'Resources', link: '/ebas/mental-health/management-admin/resources', collapsed: true, items: [
-        { text: '220. Uniforms And Protective Clothing', link: '/ebas/mental-health/management-admin/resources/220-uniforms-and-protective-clothing' }
+        { text: '220. Uniforms and Protective Clothing', link: '/ebas/mental-health/management-admin/resources/220-uniforms-and-protective-clothing' }
       ] },
         { text: 'Wages', link: '/ebas/mental-health/management-admin/wages', collapsed: true, items: [
-        { text: '188. Underpayment Of Wages', link: '/ebas/mental-health/management-admin/wages/188-underpayment-of-wages' },
-        { text: '189. Supported Wage System For Employees With A Disability', link: '/ebas/mental-health/management-admin/wages/189-supported-wage-system-for-employees-with-a-disability' },
+        { text: '188. Underpayment of Wages', link: '/ebas/mental-health/management-admin/wages/188-underpayment-of-wages' },
+        { text: '189. Supported Wage System for Employees with a Disability', link: '/ebas/mental-health/management-admin/wages/189-supported-wage-system-for-employees-with-a-disability' },
         { text: "190. Annualised Salaries - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/wages/190-annualised-salaries-royal-children-s-hospital' },
-        { text: "191. Overpayment Of Wages - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/wages/191-overpayment-of-wages-royal-children-s-hospital' }
+        { text: "191. Overpayment of Wages - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/wages/191-overpayment-of-wages-royal-children-s-hospital' }
       ] }
       ] },
     { text: 'Registered & Enrolled Psychiatric Nurses and Mental Health Officers', link: '/ebas/mental-health/rpn-pen-mho', collapsed: true, items: [
         { text: 'Allowances', link: '/ebas/mental-health/rpn-pen-mho/allowances', collapsed: true, items: [
-        { text: '75. Change Of Shift Allowance - PEN and MHO', link: '/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho' },
+        { text: '75. Change of Shift Allowance - PEN and MHO', link: '/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho' },
         { text: '76. Childcare Reimbursement', link: '/ebas/mental-health/rpn-pen-mho/allowances/76-childcare-reimbursement' },
         { text: '77. Damaged Clothing Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/77-damaged-clothing-allowance' },
         { text: '78. Higher Duties Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/78-higher-duties-allowance' },
         { text: '79. Meal Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/79-meal-allowance' },
-        { text: '80. Out Of Hours Supervisor', link: '/ebas/mental-health/rpn-pen-mho/allowances/80-out-of-hours-supervisor' },
+        { text: '80. Out of Hours Supervisor', link: '/ebas/mental-health/rpn-pen-mho/allowances/80-out-of-hours-supervisor' },
         { text: '81. Qualification Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/81-qualification-allowance' },
-        { text: '82. Travelling And Relocation Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance' },
-        { text: '83. Saturday And Sunday Work', link: '/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work' },
+        { text: '82. Travelling and Relocation Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/82-travelling-and-relocation-allowance' },
+        { text: '83. Saturday and Sunday Work', link: '/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work' },
         { text: '84. Shift Allowances', link: '/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances' },
-        { text: '84A. Change Of Ward Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance' },
+        { text: '84A. Change of Ward Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/84A-change-of-ward-allowance' },
         { text: '85. Sole Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/85-sole-allowance' },
-        { text: '86. Uniform And Laundry Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance' },
+        { text: '86. Uniform and Laundry Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance' },
         { text: '87. Senior Allowance - MHO', link: '/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho' }
       ] },
         { text: 'Classification Staffing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing', collapsed: true, items: [
@@ -1052,97 +1052,97 @@ const sidebar = [
         { text: '110. Mental Health Officers Classifications', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/110-mental-health-officers-classifications' }
       ] },
         { text: 'Education & Professional Development', link: '/ebas/mental-health/rpn-pen-mho/education-pd', collapsed: true, items: [
-        { text: '100. Clinical Supervision', link: '/ebas/mental-health/rpn-pen-mho/education-pd/100-clinical-supervision' },
         { text: '99. Professional Development Leave', link: '/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave' },
         { text: '99A. Study Leave', link: '/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave' },
-        { text: '99B. Examination Leave - RPN and PEN', link: '/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen' }
+        { text: '99B. Examination Leave - RPN and PEN', link: '/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen' },
+        { text: '100. Clinical Supervision', link: '/ebas/mental-health/rpn-pen-mho/education-pd/100-clinical-supervision' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work', collapsed: true, items: [
-        { text: '88. Hours Of Work', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work' },
+        { text: 'Hours of Work', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work', collapsed: true, items: [
+        { text: '88. Hours of Work', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work' },
         { text: '89. Overtime', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime' },
-        { text: '90. Make Up Time', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/90-make-up-time' },
+        { text: '90. Make-Up Time', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/90-make-up-time' },
         { text: '90A. Permanent Night Shift', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift' },
         { text: '90B. Night Shift Rostering Principles (Other Than Permanent Night Shift Employees)', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/90B-night-shift-rostering-principles-other-than-permanent-night' },
-        { text: '90C. Proposals To Vary Specific Matters', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters' },
-        { text: '91. Oncall Recall Non Catt', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt' },
-        { text: '92. Catt On Call Recall Allowances', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances' },
-        { text: '93. Ten Hour Break Between Overtime Recall', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall' },
+        { text: '90C. Proposals to Vary Specific Matters', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters' },
+        { text: '91. Oncall/Recall (Non CATT)', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/91-oncall-recall-non-catt' },
+        { text: '92. CATT On-Call/Recall Allowances', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/92-catt-on-call-recall-allowances' },
+        { text: '93. Ten Hour Break Between Overtime/Recall', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/93-ten-hour-break-between-overtime-recall' },
         { text: '93A. Four Clear Days Allowance', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/93A-four-clear-days-allowance' },
         { text: '94. Rosters', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters' },
         { text: '95. Supplementary Roster', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster' },
-        { text: '95A. Right To Disconnect (Supplementary Roster)', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster' },
-        { text: '96. Rest And Meal Breaks', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks' },
-        { text: '96A. Portfolio Work In Paid Time', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/96A-portfolio-work-in-paid-time' }
+        { text: '95A. Right to Disconnect (Supplementary Roster)', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster' },
+        { text: '96. Rest and Meal Breaks', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks' },
+        { text: '96A. Portfolio Work in Paid Time', link: '/ebas/mental-health/rpn-pen-mho/hours-of-work/96A-portfolio-work-in-paid-time' }
       ] },
         { text: 'Leave', link: '/ebas/mental-health/rpn-pen-mho/leave', collapsed: true, items: [
         { text: '97. Accrued Days Off', link: '/ebas/mental-health/rpn-pen-mho/leave/97-accrued-days-off' },
         { text: '98. Public Holidays', link: '/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays' }
       ] },
         { text: 'Letter Of Employment', link: '/ebas/mental-health/rpn-pen-mho/letter-of-employment', collapsed: true, items: [
-        { text: '71. Letter Of Appointment Employment Arrangements', link: '/ebas/mental-health/rpn-pen-mho/letter-of-employment/71-letter-of-appointment-employment-arrangements' }
+        { text: '71. Letter of Appointment/Employment Arrangements', link: '/ebas/mental-health/rpn-pen-mho/letter-of-employment/71-letter-of-appointment-employment-arrangements' }
       ] },
         { text: 'Preliminary', link: '/ebas/mental-health/rpn-pen-mho/preliminary', collapsed: true, items: [
         { text: '70. Definitions Specific To Section 2', link: '/ebas/mental-health/rpn-pen-mho/preliminary/70-definitions-specific-to-section-2' }
       ] },
         { text: 'Wages', link: '/ebas/mental-health/rpn-pen-mho/wages', collapsed: true, items: [
-        { text: '72. Lump Sum Payment Mho Only', link: '/ebas/mental-health/rpn-pen-mho/wages/72-lump-sum-payment-mho-only' },
+        { text: '72. Lump Sum Payment - MHO Only', link: '/ebas/mental-health/rpn-pen-mho/wages/72-lump-sum-payment-mho-only' },
         { text: '73. FBT', link: '/ebas/mental-health/rpn-pen-mho/wages/73-fbt' },
-        { text: '74. Additional Payment Of Wages Provisions', link: '/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions' }
+        { text: '74. Additional Payment of Wages Provisions', link: '/ebas/mental-health/rpn-pen-mho/wages/74-additional-payment-of-wages-provisions' }
       ] }
       ] },
     { text: 'Schedules', link: '/ebas/mental-health/schedules', collapsed: true, items: [
-        { text: '01. List Of Employers', link: '/ebas/mental-health/schedules/01-list-of-employers' },
-        { text: '02. Salaries And Allowances', link: '/ebas/mental-health/schedules/02-salaries-and-allowances' },
+        { text: '01. List of Employers', link: '/ebas/mental-health/schedules/01-list-of-employers' },
+        { text: '02. Salaries and Allowances', link: '/ebas/mental-health/schedules/02-salaries-and-allowances' },
         { text: '03. Role Statement - Mental Health Clinical Educator', link: '/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator' },
-        { text: '04. PCNS And RPN 2 Advanced Application Process', link: '/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process' },
-        { text: '05. Classification Definitions Applying To Health Professionals', link: '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals' },
+        { text: '04. PCNS and RPN 2 Advanced Application Process', link: '/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process' },
+        { text: '05. Classification Definitions Applying to Health Professionals', link: '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals' },
         { text: '06. Support Services Employee Classifications', link: '/ebas/mental-health/schedules/06-support-services-employee-classifications' },
-        { text: '07. Management And Administrative Officers Classifications', link: '/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications' },
-        { text: '08. Letter Of Appointment', link: '/ebas/mental-health/schedules/08-letter-of-appointment' },
-        { text: '09. Certificate Of Service', link: '/ebas/mental-health/schedules/09-certificate-of-service' },
+        { text: '07. Management and Administrative Officers Classifications', link: '/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications' },
+        { text: '08. Letter of Appointment', link: '/ebas/mental-health/schedules/08-letter-of-appointment' },
+        { text: '09. Certificate of Service', link: '/ebas/mental-health/schedules/09-certificate-of-service' },
         { text: '10. Minimum Staffing Levels', link: '/ebas/mental-health/schedules/10-minimum-staffing-levels' },
         { text: '11. Additional Staffing', link: '/ebas/mental-health/schedules/11-additional-staffing' }
       ] },
     { text: 'Support Services', link: '/ebas/mental-health/support-services', collapsed: true, items: [
         { text: 'Preliminary', link: '/ebas/mental-health/support-services/preliminary', collapsed: true, items: [
-        { text: '146. Definitions Specific To Section 4 of this Agreement', link: '/ebas/mental-health/support-services/preliminary/146-definitions-specific-to-section-4-of-this-agreement' },
-        { text: '147. Dual Part Time Appointments', link: '/ebas/mental-health/support-services/preliminary/147-dual-part-time-appointments' },
+        { text: '146. Definitions Specific to Section 4 of this Agreement', link: '/ebas/mental-health/support-services/preliminary/146-definitions-specific-to-section-4-of-this-agreement' },
+        { text: '147. Dual Part-Time Appointments', link: '/ebas/mental-health/support-services/preliminary/147-dual-part-time-appointments' },
         { text: '148. Trainees', link: '/ebas/mental-health/support-services/preliminary/148-trainees' },
-        { text: '149. Underpayment Of Wages', link: '/ebas/mental-health/support-services/preliminary/149-underpayment-of-wages' },
+        { text: '149. Underpayment of Wages', link: '/ebas/mental-health/support-services/preliminary/149-underpayment-of-wages' },
         { text: '150. Experience Payments', link: '/ebas/mental-health/support-services/preliminary/150-experience-payments' },
-        { text: '151. Supported Wage System For Employees With A Disability', link: '/ebas/mental-health/support-services/preliminary/151-supported-wage-system-for-employees-with-a-disability' },
+        { text: '151. Supported Wage System for Employees with a Disability', link: '/ebas/mental-health/support-services/preliminary/151-supported-wage-system-for-employees-with-a-disability' },
         { text: '152. Childcare Reimbursement', link: '/ebas/mental-health/support-services/preliminary/152-childcare-reimbursement' },
         { text: '153. In Charge Allowances', link: '/ebas/mental-health/support-services/preliminary/153-in-charge-allowances' },
         { text: '154. Interpreter Allowances', link: '/ebas/mental-health/support-services/preliminary/154-interpreter-allowances' },
         { text: '155. Meal Allowances', link: '/ebas/mental-health/support-services/preliminary/155-meal-allowances' },
         { text: '156. Nauseous Work Allowance', link: '/ebas/mental-health/support-services/preliminary/156-nauseous-work-allowance' },
         { text: '157. Shift Work Allowances', link: '/ebas/mental-health/support-services/preliminary/157-shift-work-allowances' },
-        { text: '158. Multi Skilling Allowance Patient Services Assistants', link: '/ebas/mental-health/support-services/preliminary/158-multi-skilling-allowance-patient-services-assistants' },
+        { text: '158. Multi-Skilling Allowance - Patient Services Assistants', link: '/ebas/mental-health/support-services/preliminary/158-multi-skilling-allowance-patient-services-assistants' },
         { text: '159. Senior Allowance', link: '/ebas/mental-health/support-services/preliminary/159-senior-allowance' },
         { text: '160. Tool Allowance', link: '/ebas/mental-health/support-services/preliminary/160-tool-allowance' },
         { text: '161. Travelling Allowances', link: '/ebas/mental-health/support-services/preliminary/161-travelling-allowances' },
         { text: '162. Accrued Days Off', link: '/ebas/mental-health/support-services/preliminary/162-accrued-days-off' },
         { text: '163. Higher Duties', link: '/ebas/mental-health/support-services/preliminary/163-higher-duties' },
-        { text: '164. Hours Of Work', link: '/ebas/mental-health/support-services/preliminary/164-hours-of-work' },
+        { text: '164. Hours of Work', link: '/ebas/mental-health/support-services/preliminary/164-hours-of-work' },
         { text: '165. Make Up Time', link: '/ebas/mental-health/support-services/preliminary/165-make-up-time' },
         { text: '166. Meal Breaks', link: '/ebas/mental-health/support-services/preliminary/166-meal-breaks' },
         { text: '167. Minimum Engagement', link: '/ebas/mental-health/support-services/preliminary/167-minimum-engagement' },
-        { text: '168. On Call Recall', link: '/ebas/mental-health/support-services/preliminary/168-on-call-recall' },
+        { text: '168. On-Call/Recall', link: '/ebas/mental-health/support-services/preliminary/168-on-call-recall' },
         { text: '169. Overtime', link: '/ebas/mental-health/support-services/preliminary/169-overtime' },
         { text: '170. Overtime In Lieu', link: '/ebas/mental-health/support-services/preliminary/170-overtime-in-lieu' },
         { text: '171. Reasonable Additional Hours', link: '/ebas/mental-health/support-services/preliminary/171-reasonable-additional-hours' },
         { text: '172. Rest Breaks', link: '/ebas/mental-health/support-services/preliminary/172-rest-breaks' },
         { text: '173. Rosters', link: '/ebas/mental-health/support-services/preliminary/173-rosters' },
-        { text: '174. This Clause Has Deliberately Been Left Blank', link: '/ebas/mental-health/support-services/preliminary/174-this-clause-has-deliberately-been-left-blank' },
+        { text: '174. This Clause has Deliberately been Left Blank', link: '/ebas/mental-health/support-services/preliminary/174-this-clause-has-deliberately-been-left-blank' },
         { text: '175. Unplanned Absences', link: '/ebas/mental-health/support-services/preliminary/175-unplanned-absences' },
-        { text: '176. Wash Up Time', link: '/ebas/mental-health/support-services/preliminary/176-wash-up-time' },
-        { text: '177. Saturday And Sunday Work', link: '/ebas/mental-health/support-services/preliminary/177-saturday-and-sunday-work' },
+        { text: '176. Wash-Up Time', link: '/ebas/mental-health/support-services/preliminary/176-wash-up-time' },
+        { text: '177. Saturday and Sunday Work', link: '/ebas/mental-health/support-services/preliminary/177-saturday-and-sunday-work' },
         { text: '178. Shiftwork', link: '/ebas/mental-health/support-services/preliminary/178-shiftwork' },
         { text: '179. Public Holidays', link: '/ebas/mental-health/support-services/preliminary/179-public-holidays' },
         { text: '180. Study Leave', link: '/ebas/mental-health/support-services/preliminary/180-study-leave' },
         { text: '181. Staff Appraisal', link: '/ebas/mental-health/support-services/preliminary/181-staff-appraisal' },
-        { text: '182. Literacy And Numeracy', link: '/ebas/mental-health/support-services/preliminary/182-literacy-and-numeracy' },
-        { text: '183. Uniforms And Protective Clothing', link: '/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing' },
+        { text: '182. Literacy and Numeracy', link: '/ebas/mental-health/support-services/preliminary/182-literacy-and-numeracy' },
+        { text: '183. Uniforms and Protective Clothing', link: '/ebas/mental-health/support-services/preliminary/183-uniforms-and-protective-clothing' },
         { text: '184. Amenities', link: '/ebas/mental-health/support-services/preliminary/184-amenities' },
         { text: '185. Classifications', link: '/ebas/mental-health/support-services/preliminary/185-classifications' }
       ] }

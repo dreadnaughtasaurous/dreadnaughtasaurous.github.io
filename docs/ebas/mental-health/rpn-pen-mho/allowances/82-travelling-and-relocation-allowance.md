@@ -1,5 +1,5 @@
 ---
-title: '82. Travelling And Relocation Allowance'
+title: '82. Travelling and Relocation Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'vehicle']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'vehicle']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 82. Travelling And Relocation Allowance
+# 82. Travelling and Relocation Allowance
 
 *This clause concerns payment only and is not intended to exclude the requirements of [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation) or 20 (Redundancy and Associated Entitlements) or create a new right to be directed to work at another location.*
 

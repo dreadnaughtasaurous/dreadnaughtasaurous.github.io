@@ -1,5 +1,5 @@
 ---
-title: '131. Ten Hour Break'
+title: '131. Ten-Hour Break'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime', 'breaks']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime', 'breaks']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 131. Ten Hour Break
+# 131. Ten-Hour Break
 
 **131.1** When overtime work, including recall work, is necessary it should be arranged so that Employees have at least ten consecutive hours off duty between all bodies of work.
 

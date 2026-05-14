@@ -103,12 +103,12 @@ The entitlement to public holiday benefits under this Agreement for a part-time 
   - **(ii)** a part-time Employee works only on one of either the actual day or the Other Day, and receives penalty rates for the day worked, the part-time Employee will not receive a payment in respect of the day not worked.
 - **(b)** Where a public holiday occurs on a day a part-time Employee is not rostered to work, the part-time Employee will receive a payment in respect of that public holiday equal to their ordinary pay for the average daily hours worked by that Employee over the previous six months, or their period of employment by the Employer if less than six months 
 
-> **Example:**
-> 
-> | Average Hours | Shift Length | Base Payment | Penalty Payment |
-> |---------------|--------------|--------------|-----------------|
-> | 24 hours |  |  |  |
-> | 38 hours | x 8 hours | 5.05 hours | T1 5.05 hrs |
+  > **Example:**
+  > 
+  > | Average Hours | Shift Length | Base Payment | Penalty Payment |
+  > |---------------|--------------|--------------|-----------------|
+  > | 24 hours |  |  |  |
+  > | 38 hours | x 8 hours | 5.05 hours | T1 5.05 hrs |
 
 - **(c)** Notwithstanding where otherwise provided, a part-time Employee who is only ever employed between a Monday to Friday, will not receive any entitlement to the Saturday before Easter Sunday.
 

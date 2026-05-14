@@ -1,5 +1,5 @@
 ---
-title: '219. Education And Training Royal Children S Hospital'
+title: '219. Education and Training Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['education']
 ---
@@ -11,7 +11,7 @@ topics: ['education']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 219. Education And Training Royal Children S Hospital
+# 219. Education and Training - Royal Children's Hospital
 
 *This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
 

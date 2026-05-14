@@ -1,5 +1,5 @@
 ---
-title: '36. Right To Disconnect'
+title: '36. Right to Disconnect'
 eba: 'Mental Health Services 2024-2028'
 topics: ['right-to-disconnect']
 ---
@@ -13,7 +13,7 @@ topics: ['right-to-disconnect']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 36. Right To Disconnect
+# 36. Right to Disconnect
 
 *This clause is to be read in conjunction with [clause 95A](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster).*
 

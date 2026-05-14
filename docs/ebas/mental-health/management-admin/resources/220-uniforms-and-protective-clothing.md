@@ -1,5 +1,5 @@
 ---
-title: '220. Uniforms And Protective Clothing'
+title: '220. Uniforms and Protective Clothing'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 220. Uniforms And Protective Clothing
+# 220. Uniforms and Protective Clothing
 
 **220.1** Where an Employee is required to wear a uniform or any special clothing, the Employer will supply such uniform at no cost to the Employee and will replace it where necessary on a fair ‘wear and tear’ basis.
 

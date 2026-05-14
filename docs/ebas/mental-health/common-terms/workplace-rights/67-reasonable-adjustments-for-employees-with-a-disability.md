@@ -1,5 +1,5 @@
 ---
-title: '67. Reasonable Adjustments For Employees With A Disability'
+title: '67. Reasonable Adjustments for Employees with a Disability'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial support
 </div>
 
-# 67. Reasonable Adjustments For Employees With A Disability
+# 67. Reasonable Adjustments for Employees with a Disability
 
 **67.1 Purpose**
 

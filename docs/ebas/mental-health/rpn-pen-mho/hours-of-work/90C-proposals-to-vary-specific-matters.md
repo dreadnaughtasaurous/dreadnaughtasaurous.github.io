@@ -1,5 +1,5 @@
 ---
-title: '90C. Proposals To Vary Specific Matters'
+title: '90C. Proposals to Vary Specific Matters'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 90C. Proposals To Vary Specific Matters
+# 90C. Proposals to Vary Specific Matters
 
 **90C.1. Application**
 
@@ -50,9 +50,15 @@ A maximum of three weeks from the date of provision of the information in [claus
 
 **90C.6. Implementing a complying proposal**
 
-- **(a) Genuine majority agrees** Except as provided at (c), below, where a genuine majority of Affected Employees agree to a complying proposal at the local level it may be implemented from the beginning of the next roster period. Such agreement will not be unreasonably withheld.
-- **(b) Disputes** Should there be concern as to the 'genuine' nature of the agreement of the affected Employee, or agreement being unreasonably withheld, either party may progress such concerns through the Dispute Resolution Procedure within seven days of the view of the Affected Employees being determined. While the Dispute Resolution Procedure is being conducted work will continue normally according to the usual practice that existed before the dispute, until the dispute is resolved.
-- **(c) Exception – flexible work arrangement** The requirement at [subclause 90C.6(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements). Following the consultation period at [clause 90C.5](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters), a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period.
+- **(a) Genuine majority agrees**
+  
+  Except as provided at (c), below, where a genuine majority of Affected Employees agree to a complying proposal at the local level it may be implemented from the beginning of the next roster period. Such agreement will not be unreasonably withheld.
+- **(b) Disputes** 
+
+  Should there be concern as to the 'genuine' nature of the agreement of the affected Employee, or agreement being unreasonably withheld, either party may progress such concerns through the Dispute Resolution Procedure within seven days of the view of the Affected Employees being determined. While the Dispute Resolution Procedure is being conducted work will continue normally according to the usual practice that existed before the dispute, until the dispute is resolved.
+- **(c) Exception – flexible work arrangement** 
+
+  The requirement at [subclause 90C.6(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters) does not apply where the complying proposal is facilitating a flexible work arrangement within the meaning of [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements). Following the consultation period at [clause 90C.5](/ebas/mental-health/rpn-pen-mho/hours-of-work/90C-proposals-to-vary-specific-matters), a complying proposal facilitating a flexible work arrangement may be implemented from the beginning of the next roster period.
 
 ---
 

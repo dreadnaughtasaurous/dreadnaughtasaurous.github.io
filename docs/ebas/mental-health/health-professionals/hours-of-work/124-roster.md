@@ -36,24 +36,22 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(i) Rosters which include work on public holiday** 
     - **(A)** Employers must implement a policy or procedure for the issuance and finalisation of rosters which cover the performance of work on a public holiday under the Act. 
     - **(B)** The policy/procedure referenced at [subclause 124.1(d)(i)(A)](/ebas/mental-health/health-professionals/hours-of-work/124-roster)above should: 
-      1. Set out the process for an Employee to request not to work on a public holiday they are requested to work; and 
-      2. Set out the process for the Employer to provide a written response to an Employee's request not to work on a public holiday they are requested to work. 
+      - **1.** Set out the process for an Employee to request not to work on a public holiday they are requested to work; and 
+      - **2.** Set out the process for the Employer to provide a written response to an Employee's request not to work on a public holiday they are requested to work. 
 
 An Employer who receives a request under 124.1(d)(i)(B)(1.) must accept that request unless the Employer determines that the refusal is not reasonable in the circumstances. The factors an Employer must not consider when determining whether a request is not reasonable include:
 
-- **(ii)** Whether the Employee has clearly explained a reason for refusing to work on the relevant public holiday
-- **(iii)** The nature of the Employers' workplace or enterprise (including its operational requirements), and the nature of the work performed by the Employee
-- **(iv)** The capacity for the Employer to find replacement Employee to perform the same work
-- **(v)** The Employee's personal circumstances (including family responsibilities) to the extent that those circumstances have been disclosed to the Employer
-- **(vi)** Whether the Employee could reasonably have expected the Employer to request that they work on the public holiday(s)
-- **(vii)** Whether the Employee is entitled to receive overtime payments, penalty rates or other compensation for, or a level of remuneration that reflects expectation of, work on the public holiday(s)
-- **(viii)** The type of employment of the Employee (e.g. whether full-time, part- time, casual or shiftwork)
-- **(ix)** The amount of notice in advance of the public holiday given by the Employer when making the request
-- **(x)** The amount of notice in advance of the public holiday given by the Employee when refusing the request
-- **(xi)** Any other relevant matter. 
+  - **(ii)** Whether the Employee has clearly explained a reason for refusing to work on the relevant public holiday
+  - **(iii)** The nature of the Employers' workplace or enterprise (including its operational requirements), and the nature of the work performed by the Employee
+  - **(iv)** The capacity for the Employer to find replacement Employee to perform the same work
+  - **(v)** The Employee's personal circumstances (including family responsibilities) to the extent that those circumstances have been disclosed to the Employer
+  - **(vi)** Whether the Employee could reasonably have expected the Employer to request that they work on the public holiday(s)
+  - **(vii)** Whether the Employee is entitled to receive overtime payments, penalty rates or other compensation for, or a level of remuneration that reflects expectation of, work on the public holiday(s)
+  - **(viii)** The type of employment of the Employee (e.g. whether full-time, part- time, casual or shiftwork)
+  - **(ix)** The amount of notice in advance of the public holiday given by the Employer when making the request
+  - **(x)** The amount of notice in advance of the public holiday given by the Employee when refusing the request
+  - **(xi)** Any other relevant matter. 
 
----
-
-- **(C)** Where the Employer has requested an Employee to work any public holiday(s) and either:
-  - **(i)** The Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at [subclause 124.1(d)(i)(B)](/ebas/mental-health/health-professionals/hours-of-work/124-roster)above; or
-  - **(ii)** The Employer has determined that a request was not reasonable (taking into account the factors in [subclause 124.1(d)(i)(B)](/ebas/mental-health/health-professionals/hours-of-work/124-roster)(2.)), The Employer may require the Employee to work on the relevant public holiday(s).
+    - **(C)** Where the Employer has requested an Employee to work any public holiday(s) and either:
+      - **(i)** The Employee has not made a request not to work the public holiday in accordance with the policy or procedure referenced at [subclause 124.1(d)(i)(B)](/ebas/mental-health/health-professionals/hours-of-work/124-roster)above; or
+      - **(ii)** The Employer has determined that a request was not reasonable (taking into account the factors in [subclause 124.1(d)(i)(B)](/ebas/mental-health/health-professionals/hours-of-work/124-roster)(2.)), The Employer may require the Employee to work on the relevant public holiday(s).

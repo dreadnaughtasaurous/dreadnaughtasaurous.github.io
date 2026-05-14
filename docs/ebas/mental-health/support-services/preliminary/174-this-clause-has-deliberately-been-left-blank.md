@@ -1,5 +1,5 @@
 ---
-title: '174. This Clause Has Deliberately Been Left Blank'
+title: '174. This Clause has Deliberately been Left Blank'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,4 +11,4 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 174. This Clause Has Deliberately Been Left Blank
+# 174. This Clause has Deliberately been Left Blank

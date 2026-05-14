@@ -65,7 +65,9 @@ Under this [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18
 - **(a)** Prior to Consultation required by this clause, the Employer will provide Affected Employee/s and Union with a written Change Impact Statement setting out all relevant information including:
   - **(i)** the details of proposed change
   - **(ii)** the reasons for the proposed change
-  - **(iii)** the possible effect of the proposed change on Employees': **(A)** workload; and **(B)** occupational health and safety impacts matters, such as those set out in [Clause 69](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence); Where occupational health and safety impacts are identified, a risk assessment of the potential effects of the change on the health and safety of Employees must be undertaken in consultation with HSRs, and the proposed mitigating actions to be implemented to prevent such effects;
+  - **(iii)** the possible effect of the proposed change on Employees': 
+    - **(A)** workload; and 
+    - **(B)** occupational health and safety impacts matters, such as those set out in [Clause 69](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence); Where occupational health and safety impacts are identified, a risk assessment of the potential effects of the change on the health and safety of Employees must be undertaken in consultation with HSRs, and the proposed mitigating actions to be implemented to prevent such effects;
   - **(iv)** the expected benefit of the change
   - **(v)** measures the Employer is considering that may mitigate or avert the effects of the proposed change
   - **(vi)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Employees or managers where reporting lines change

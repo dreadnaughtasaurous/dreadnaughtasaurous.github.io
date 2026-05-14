@@ -1,5 +1,5 @@
 ---
-title: '164. Hours Of Work'
+title: '164. Hours of Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 164. Hours Of Work
+# 164. Hours of Work
 
 **164.1** The ordinary hours of work for a full-time Employee shall be 38 hours, or an average of 38 hours, per week.
 

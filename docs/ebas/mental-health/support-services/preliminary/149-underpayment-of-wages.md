@@ -1,5 +1,5 @@
 ---
-title: '149. Underpayment Of Wages'
+title: '149. Underpayment of Wages'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 149. Underpayment Of Wages
+# 149. Underpayment of Wages
 
 **149.1** Where an Employee considers that they have been underpaid as a result of error on the part of the Employer, the Employee may request that the Employer rectify the error or validate the payment.
 

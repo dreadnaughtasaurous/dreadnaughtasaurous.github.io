@@ -1,5 +1,5 @@
 ---
-title: '138. In Service Education Training Royal Children S Hospital'
+title: '138. In-Service Education & Training - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['education']
 ---
@@ -11,7 +11,7 @@ topics: ['education']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 138. In Service Education Training Royal Children S Hospital
+# 138. In-Service Education & Training - Royal Children's Hospital
 
 **138.1** Sub-[clause 138.2](/ebas/mental-health/health-professionals/education-pd/138-in-service-education-training-royal-children-s-hospital) below applies to the following Health Service only:
 

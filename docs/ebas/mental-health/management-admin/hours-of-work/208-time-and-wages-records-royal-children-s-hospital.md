@@ -1,5 +1,5 @@
 ---
-title: '208. Time And Wages Records Royal Children S Hospital'
+title: '208. Time And Wages Records - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 208. Time And Wages Records Royal Children S Hospital
+# 208. Time And Wages Records - Royal Children's Hospital
 
 *This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
 

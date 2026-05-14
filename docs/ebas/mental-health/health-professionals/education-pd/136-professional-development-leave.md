@@ -30,7 +30,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 ---
 
-**136.3 Intentional Peer Support Training (ONLY LLEW)**
+**136.3 Intentional Peer Support Training (Only LLEW)**
 
 - **(a)** Subject to course availability, it is the intention of this clause that all LLEW Employees will be provided with paid leave to complete IPS Core Training, or equivalent, as soon as practicable, after the commencement of their employment.
 - **(b)** An application for this leave, nominating the preferred date(s) will be made in writing to the Manager/Supervisor. The application must be made at least four (4) weeks prior to the requested date(s).

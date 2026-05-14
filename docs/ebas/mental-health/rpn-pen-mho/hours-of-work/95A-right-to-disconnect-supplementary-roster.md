@@ -1,5 +1,5 @@
 ---
-title: '95A. Right To Disconnect (Supplementary Roster)'
+title: '95A. Right to Disconnect (Supplementary Roster)'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'rosters', 'right-to-disconnect']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters', 'right-to-disconnect']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 95A. Right To Disconnect (Supplementary Roster)
+# 95A. Right to Disconnect (Supplementary Roster)
 
 > **Note:** This clause is additional to [clause 36](/ebas/mental-health/common-terms/allowances/36-right-to-disconnect) (Right to Disconnect).
 >

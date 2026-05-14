@@ -1,5 +1,5 @@
 ---
-title: '27A. Transition To Retirement'
+title: '27A. Transition to Retirement'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 27A. Transition To Retirement
+# 27A. Transition to Retirement
 
 **27A.1** An Employee may advise their Employer in writing of their intention to retire within the next five years and participate in a retirement transition arrangement.
 

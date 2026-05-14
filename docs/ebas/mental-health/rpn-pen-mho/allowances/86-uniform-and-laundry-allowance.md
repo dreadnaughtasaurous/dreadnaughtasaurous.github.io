@@ -1,5 +1,5 @@
 ---
-title: '86. Uniform And Laundry Allowance'
+title: '86. Uniform and Laundry Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 86. Uniform And Laundry Allowance
+# 86. Uniform and Laundry Allowance
 
 **86.1** Where an Employer requires an Employee to wear a particular type or style of uniform then the Employer shall provide this at no cost to the Employee. Payment in lieu of providing the uniform is not permitted.
 

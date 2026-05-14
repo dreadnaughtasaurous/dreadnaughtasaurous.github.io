@@ -27,9 +27,7 @@ The Independent Disputes Resolution Industry Panel (**Panel**) is empowered to h
   - **(ii)** A nominee of the VHIA (on behalf of Employers); and
   - **(iii)** an independent chairperson (Chair) agreed by the Unions and the VHIA or, in the absence of agreement, as nominated by the Minister for Health.
 
-> **Note:**
->
-> The nominee of the Unions or VHIA will be for each matter before the Panel but may be renominated as required.
+  > **Note:** The nominee of the Unions or VHIA will be for each matter before the Panel but may be renominated as required.
 
 - **(b)** The Panel Chair shall act as an independent third party in deliberations of the Panel.
 - **(c)** A nominee on the Panel does not receive any additional remuneration for their service and must not accept the nomination if it results in a conflict of interest.

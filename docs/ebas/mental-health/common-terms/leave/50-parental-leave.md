@@ -95,9 +95,9 @@ For the purposes of this clause:
 - **(g) Hospitalised children – agreement to not take unpaid Long Parental Leave**
   - **(i)** If:
     - **(A)** a Child is required to remain in hospital after the Child's birth, or is hospitalised immediately after the Child's birth, including because:
-      - 1) the Child was born prematurely; or
-      - 2) the Child developed a complication or contracted an illness during the Child's period of gestation or at birth; or
-      - 3) the Child developed a complication or contracted an illness following the Child's birth; and
+      - **1)** the Child was born prematurely; or
+      - **2)** the Child developed a complication or contracted an illness during the Child's period of gestation or at birth; or
+      - **3)** the Child developed a complication or contracted an illness following the Child's birth; and
     - **(B)** an Employee, whether before or after the birth of the Child, gives notice in accordance with [subclause 50.6](/ebas/mental-health/common-terms/leave/50-parental-leave) of the taking of a period of unpaid parental leave (**the original leave period**) in relation to the Child, then the Employee may agree with their Employer that the Employee will not take unpaid parental leave for a period (**the permitted work period**) while the Child remains in hospital.
   - **(ii)** If the Employee and Employer so agree, then the following rules have effect:
     - **(A)** the Employee is taken to not be taking unpaid parental leave during the permitted work period
@@ -154,15 +154,17 @@ For the purposes of this clause:
 - **(e) Notice requirements – Flexible Long Parental Leave**
   - **(i)** If an Employee wishes to take Flexible Long Parental Leave, the Employee must give notice to the Employer as follows:
     - **(A)** where the Employee also takes unpaid Long Parental Leave or Short Parental Leave under [subclauses 50.3 or 50.4](/ebas/mental-health/common-terms/leave/50-parental-leave) (the original leave);
-      - 1) at the same time as the Employee gives notice in accordance with [subclause 50.6(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) in relation to the original leave, unless subclause 2) below applies; or
-      - 2) if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 50.6(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) in relation to the first of those periods of leave; or
+      - **1)** at the same time as the Employee gives notice in accordance with [subclause 50.6(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) in relation to the original leave, unless subclause 2) below applies; or
+      - **2)** if the Employee takes more than one period of unpaid Short Parental Leave, at the same time as the Employee gives notice in accordance with [subclause 50.6(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) in relation to the first of those periods of leave; or
     - **(B)** otherwise - at least 10 weeks before starting the Flexible Long Parental Leave.
   - **(ii)** If the Employer agrees, the notice may be given at a later time than that specified in [subclause 50.6(e)(i)](/ebas/mental-health/common-terms/leave/50-parental-leave).
   - **(iii)** The notice under [subclause 50.6(e)(i)](/ebas/mental-health/common-terms/leave/50-parental-leave) must specify the total number of days (**Flexible Days**) of Flexible Long Parental Leave that the Employee intends to take in relation to the Child.
   - **(iv)** If the Employer agrees, the Employee may:
     - **(A)** reduce the number of flexible days, including by reducing the number of flexible days to zero; or
     - **(B)** increase the number of flexible days, but not so as to increase the number of flexible days above 30.
-  - **(v)** The Employee must give the Employer written notice of a flexible day on which the Employee will take Flexible Long Parental Leave: **(A)** at least 4 weeks before that day; or **(B)** if that is not practicable, as soon as practicable (which may be a time after the leave has started).
+  - **(v)** The Employee must give the Employer written notice of a flexible day on which the Employee will take Flexible Long Parental Leave: 
+    - **(A)** at least 4 weeks before that day; or 
+    - **(B)** if that is not practicable, as soon as practicable (which may be a time after the leave has started).
   - **(vi)** If the Employer agrees, the Employee may change a day on which the Employee takes Flexible Long Parental Leave from a day specified in a notice under subsection 50.6(e)(v) .
 
 ---
@@ -200,8 +202,8 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
   - **(i)** An Eligible Employee is entitled to a period of unpaid special leave if they are not fit for work during that period because:
     - **(A)** They have a pregnancy-related illness; or
     - **(B)** all of the following apply:
-      - 1) they have been pregnant; and
-      - 2) the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
+      - **1)** they have been pregnant; and
+      - **2)** the pregnancy ends after a period of gestation of at least 12 weeks otherwise than by the birth of a living Child or a Stillbirth.
   - **(ii)** An Eligible Employee who has an entitlement to personal leave may, in part or whole, take personal leave instead of unpaid special leave under this clause.
   - **(iii)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child, the Eligible Employee is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
 - **(b) Entitlement to paid special birth-related leave**
@@ -228,10 +230,13 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
 
 - **(a)** An Eligible Employee entitled to Long Parental Leave pursuant to the provisions of [subclause 50.3](/ebas/mental-health/common-terms/leave/50-parental-leave) may request the Employer to allow the Eligible Employee to extend the period of Long Parental Leave by a further continuous period of up to 12 months immediately following the end of the available parental leave.
 - **(b) Request to be in writing**
+
   The request must be in writing and must be given to the Employer at least four weeks before the end of the available parental leave period.
 - **(c) Response to be in writing**
+
   The Employer must give the Eligible Employee a written response to the request stating whether the Employer grants or refuses the request. The response must be given as soon as practicable, and not later than 21 days, after the request is made.
 - **(d) Refusal only on reasonable business grounds**
+
   The Employer may only refuse the request on reasonable business grounds. Reasonable business grounds include, but are not limited to, the following:
   - **(A)** that the extension of the period of unpaid parental leave requested by the Employee would be too costly for the Employer
   - **(B)** that there is no capacity to change the working arrangements of other Employees to accommodate the extension of the period of unpaid parental leave requested by the Employee
@@ -239,6 +244,7 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
   - **(D)** that the extension of the period of unpaid parental leave requested by the Employee would be likely to result in a significant loss in efficiency or productivity; or
   - **(E)** that the extension of the period of unpaid parental leave requested by the Employee would be likely to have a significant negative impact on patient care.
 - **(e) Reasons for refusal to be specified**
+
   If the Employer refuses the request, the written response must include:
   - **(i)** the details of the reasons for the refusal, including the business grounds for refusing the request and how those grounds apply to the Employee’s request; and
   - **(ii)** either:
@@ -247,14 +253,17 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
   - **(iii)** their right for the dispute to be resolved at the workplace level or by arbitration in accordance with the Dispute Resolution Process in this Agreement.
 - **(f)** The Dispute Resolution Procedure in the Agreement will apply to any grievance/dispute arising in relation to a request for flexible working arrangements. Without limiting the Dispute Resolution Procedure in the Agreement at first instance, the Employer and Employee will attempt to resolve the dispute at the workplace level through discussion before it is referred to the Commission.
 - **(g) Reasonable opportunity to discuss**
+
   The Employer must not refuse the request unless the Employer has given the Eligible Employee a reasonable opportunity to discuss the request.
 - **(h) Employee Couples**
+
   Where a member of an Employee Couple is requesting an extension to a period of Long Parental Leave in relation to a Child:
   - **(i)** the request must specify any amount of Long Parental Leave that the other member of the Employee Couple has taken, or will have taken in relation to the Child before the extension starts
   - **(ii)** if the other member of the Employee Couple has given notice of an intention to take Flexible Long Parental Leave (in accordance with [subclause 50.6(e)](/ebas/mental-health/common-terms/leave/50-parental-leave)), the request must specify the number of flexible days that will not have been taken when the period of extended leave commences;
   - **(iii)** the period of extension cannot exceed 12 months, less any period of Long Parental Leave (other than Flexible Long Parental Leave) that the other member of the Employee Couple has taken, or will have taken, in relation to the Child before the extension starts, as well as a period equal to the other member’s Notional Flexible Period (if subparagraph 50.12(h)(ii) applies above); and
   - **(iv)** the amount of Long Parental Leave to which the other member of the Employee Couple is entitled under [subclause 50.3](/ebas/mental-health/common-terms/leave/50-parental-leave) in relation to the Child is reduced by the period of the extension.
 - **(i) No extension beyond 24 months**
+
   An Eligible Employee is not entitled to extend the period of Long Parental Leave beyond 24 months after the date of birth or day of placement of the Child.
 
 ---
@@ -275,6 +284,7 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
   - **(i)** illness or risks arising out of the pregnancy, or
   - **(ii)** hazards connected with the position, the Employee must be transferred to an appropriate safe job if one is available for the risk period, with no other change to the Employee’s terms and conditions of employment.
 - **(b) Paid no safe job leave**
+
   If:
   - **(i)** [subclause 50.14(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) applies to a pregnant Eligible Employee but there is no appropriate safe job available; and
   - **(ii)** the Eligible Employee is entitled to Long Parental Leave; and
@@ -287,6 +297,7 @@ Employees’ entitlement to pre-adoption leave is set out at [clause 48](/ebas/m
     - **(B)** provided a medical certificate stating that she is not fit for work; then
   the Eligible Employee is not entitled to no safe job leave and the Employer may require the Eligible Employee to take parental leave as soon as practicable.
 - **(f) Unpaid no safe job leave**
+
   If:
   - **(i)** [subclause 50.14(a)](/ebas/mental-health/common-terms/leave/50-parental-leave) applies to a pregnant Employee but there is no appropriate safe job available; and
   - **(ii)** the Employee will not be entitled to Long Parental Leave as at the expected date of birth; and

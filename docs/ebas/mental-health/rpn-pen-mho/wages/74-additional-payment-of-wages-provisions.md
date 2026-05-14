@@ -1,5 +1,5 @@
 ---
-title: '74. Additional Payment Of Wages Provisions'
+title: '74. Additional Payment of Wages Provisions'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 74. Additional Payment Of Wages Provisions
+# 74. Additional Payment of Wages Provisions
 
 > **Note:** To be read in conjunction with common provisions located at [clause 29](/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and).
 

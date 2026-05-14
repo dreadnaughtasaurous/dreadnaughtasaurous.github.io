@@ -1,5 +1,5 @@
 ---
-title: '24. Managing Conduct And Performance'
+title: '24. Managing Conduct and Performance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['discipline']
 ---
@@ -13,7 +13,7 @@ topics: ['discipline']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 24. Managing Conduct And Performance
+# 24. Managing Conduct and Performance
 
 **24.1 Application**
 
@@ -26,6 +26,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 - **(d)** The Employer will notify the Employee in accordance with sub-[clause 24.3(b)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) as soon as practicable following the Employer becoming aware of the alleged concerns at sub-[clause 24.1(a)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance).
 - **(e) Exception - Employees who have not completed a minimum period of employment with their Employer** 
+
   Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at s.383 of the Act and the Employer is considering the termination of the Employee's employment, the Employer will:
   - **(i)** provide the concerns in writing to the Employee as soon as practicable following the Employer becoming aware of the alleged concerns
   - **(ii)** advise the Employee of their right to have a representative, including a Union representative
@@ -40,8 +41,14 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(c) Performance** means the manner in which the Employee fulfils their job requirements. The level of performance is determined by reference to an Employee’s knowledge, skills, qualifications, abilities and the requirements of the role.
 - **(d) Serious Misconduct** is as defined under the Act and is both wilful and deliberate. Currently the Act defines serious misconduct, in part, as:
   - **(i)** wilful or deliberate behaviour by an Employee that is inconsistent with the continuation of the contract of employment
-  - **(ii)** conduct that causes serious and imminent risk to: **(A)** the health or safety of a person; or **(B)** the reputation, viability or profitability of the Employer’s business. Conduct that is serious misconduct includes each of the following:
-  - **(iii)** the Employee, in the course of the Employee's employment, engaging in: **(A)** theft; or **(B)** fraud; or **(C)** assault; or **(D)** sexual harassment.
+  - **(ii)** conduct that causes serious and imminent risk to: 
+    - **(A)** the health or safety of a person; or 
+    - **(B)** the reputation, viability or profitability of the Employer’s business. Conduct that is serious misconduct includes each of the following:
+  - **(iii)** the Employee, in the course of the Employee's employment, engaging in: 
+    - **(A)** theft; or 
+    - **(B)** fraud; or 
+    - **(C)** assault; or 
+    - **(D)** sexual harassment.
   - **(iv)** the Employee being intoxicated at work
   - **(v)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment.
 - **(e)** [Subclauses 24.2(d)(iii)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) - 24.2(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
@@ -74,7 +81,12 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **24.5 Possible outcomes**
 
 - **(a)** Where it is determined that after following the procedures in this [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) that disciplinary action is warranted, the Employer may take any of the following steps depending on the seriousness of the Conduct or Performance and the steps shall be recorded on the Employee's personnel file:
-  - **(i)** where the Performance or Conduct issue does not constitute Serious Misconduct: **(A)** counsel the Employee **(B)** give the Employee a first written warning **(C)** give the Employee a second written warning in the event the Employee has previously been given a first warning within the previous 12 months for that course of Conduct **(D)** give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18-month period for that course of conduct; or **(E)** terminate the Employee’s employment on notice in the case of an employee who repeats a course of conduct for which a final warning was given in the preceding 18 months; or
+  - **(i)** where the Performance or Conduct issue does not constitute Serious Misconduct: 
+    - **(A)** counsel the Employee 
+    - **(B)** give the Employee a first written warning 
+    - **(C)** give the Employee a second written warning in the event the Employee has previously been given a first warning within the previous 12 months for that course of Conduct 
+    - **(D)** give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18-month period for that course of conduct; or 
+    - **(E)** terminate the Employee’s employment on notice in the case of an employee who repeats a course of conduct for which a final warning was given in the preceding 18 months; or
   - **(ii)** Where the Performance or Conduct does constitute Serious Misconduct: **(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in [subclause 24.5(a)(i)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) above.
 - **(b)** The Employer’s decision and a summary of its reasons will be notified to the Employee in writing.
 - **(c)** If after any warning or counselling, a period of 12- or 18-months elapses (as relevant) without the Employee repeating a course of conduct for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning.

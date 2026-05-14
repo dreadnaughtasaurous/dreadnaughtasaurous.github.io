@@ -1,5 +1,5 @@
 ---
-title: '71. Letter Of Appointment Employment Arrangements'
+title: '71. Letter of Appointment/Employment Arrangements'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 71. Letter Of Appointment Employment Arrangements
+# 71. Letter of Appointment/Employment Arrangements
 
 **71.1** On commencement of employment, the Employer will provide each Employee with a Letter of Appointment containing the information set out in [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) to this Agreement.
 

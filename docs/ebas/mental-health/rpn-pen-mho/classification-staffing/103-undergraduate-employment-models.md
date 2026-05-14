@@ -15,11 +15,13 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **103.1 Registered Undergraduate Student of Nursing (RUSON)**
 
-- **(a) Definition** 
-A Registered Undergraduate Student of Nursing or RUSON for the purposes of this clause is a person currently enrolled at a university to undertake undergraduate nursing study, who is registered with AHPRA as a student nurse, and who at commencement, has successfully completed not less than twelve months of the Bachelor of Nursing Degree.
+- **(a) Definition**
+
+  A Registered Undergraduate Student of Nursing or RUSON for the purposes of this clause is a person currently enrolled at a university to undertake undergraduate nursing study, who is registered with AHPRA as a student nurse, and who at commencement, has successfully completed not less than twelve months of the Bachelor of Nursing Degree.
 
 - **(b) Implementation of Registered Undergraduate Student of Nursing Employment Model** 
-By agreement between the Employer and the Unions, an Employer may implement a Registered Undergraduate Student of Nursing Employment Model. It is at the discretion of each Employer as to whether they participate in the Registered Undergraduate Student of Nursing Employment Model.
+
+  By agreement between the Employer and the Unions, an Employer may implement a Registered Undergraduate Student of Nursing Employment Model. It is at the discretion of each Employer as to whether they participate in the Registered Undergraduate Student of Nursing Employment Model.
 
 - **(c) Employment of RUSONs**
   - **(i)** RUSON will be employed on a fixed term basis or engaged on a casual basis.
@@ -45,10 +47,12 @@ By agreement between the Employer and the Unions, an Employer may implement a Re
 | RUSON | 81.5% |
 
 - **(f) Other terms and conditions for RUSONs**
-All other terms and conditions of employment will be those applying to a Registered Psychiatric Nurse under this Agreement except where this clause explicitly says otherwise.
+
+  All other terms and conditions of employment will be those applying to a Registered Psychiatric Nurse under this Agreement except where this clause explicitly says otherwise.
 
 - **(g) Continuity of service** 
-Continuity of Service as a Registered Nurse will include any period of service in the program, provided any gap between employment as a student and commencement of employment as a Registered Nurse is less than twelve months.
+
+  Continuity of Service as a Registered Nurse will include any period of service in the program, provided any gap between employment as a student and commencement of employment as a Registered Nurse is less than twelve months.
 
 - **(h) Working Party**
   - **(i)** At the request of either Union, a Working Party will be established comprising representatives of the Unions, the Employer and, if practicable, the participating University/s.
@@ -63,10 +67,12 @@ Continuity of Service as a Registered Nurse will include any period of service i
 **103.2 Enrolled Nurse Pre-Qualification Employment Model (PQEN)**
 
 - **(a) Enrolled Nurse Pre-Qualification Employment Model Definition** 
-A Pre-Qualification Enrolled Nurse (PQEN) for the purposes of this clause is a person currently enrolled at a TAFE or RTO to undertake diploma of nursing study, who is registered with AHPRA as a student nurse.
+
+  A Pre-Qualification Enrolled Nurse (PQEN) for the purposes of this clause is a person currently enrolled at a TAFE or RTO to undertake diploma of nursing study, who is registered with AHPRA as a student nurse.
 
 - **(b) Implementation of Enrolled Nurse Pre-Qualification Employment Model** 
-By agreement between the Employer and the Unions, an Employer may implement a Pre-Qualification Enrolled Nurse Employment Model. It is at the discretion of each Employer as to whether they participate in the model.
+
+  By agreement between the Employer and the Unions, an Employer may implement a Pre-Qualification Enrolled Nurse Employment Model. It is at the discretion of each Employer as to whether they participate in the model.
 
 - **(c)** Nothing in this sub-clause impacts the pay rate of an existing Pre-Qualified Enrolled Nurse (**PQEN**) employed as such at the commencement of the Agreement.
 
@@ -86,10 +92,12 @@ By agreement between the Employer and the Unions, an Employer may implement a Pr
   - **(i)** A PQEN will be paid at the same rate as the RUSON.
 
 - **(f) Other terms and conditions for PQENs** 
-All other terms and conditions of employment will be those applying to an Enrolled Nurse under this Agreement except where this clause explicitly says otherwise.
+
+  All other terms and conditions of employment will be those applying to an Enrolled Nurse under this Agreement except where this clause explicitly says otherwise.
 
 - **(g) Continuity of service** 
-Continuity of Service as an Enrolled Nurse will include any period of service in the program, provided any gap between employment as a student and commencement of employment an Enrolled Nurse is less than twelve months.
+
+  Continuity of Service as an Enrolled Nurse will include any period of service in the program, provided any gap between employment as a student and commencement of employment an Enrolled Nurse is less than twelve months.
 
 - **(h) Working Party**
   - **(i)** At the request of either Union, a Working Party will be established comprising representatives of the Unions, the Employer, Department of Health and, if practicable, the participating University/s.

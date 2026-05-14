@@ -15,7 +15,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 47. Long Service Leave
 
-**Part 1 - General**
+## Part 1 - General
 
 **47.1 Scope** 
 
@@ -82,9 +82,7 @@ The following meanings shall apply to the terms referred to below for the purpos
 - **(j)** **Statutory Body** means the Hospital and Charities Commission of Victoria, a public entity within the meaning of the Public Administration Act 2004 (Vic), the Department of Education and Early Childhood Development, the Health Commission of Victoria, the Department and the NMBA (and predecessors etc) (however named).
 - **(k)** **Transfer of business** occurs in the circumstances described at s.311 of the Act. 
 
----
-
-**Part 2 - Long service leave for Group A and Group B Employees**
+## Part 2 - Long service leave for Group A and Group B Employees
 
 **47.3 Application of Part 2** 
 
@@ -186,7 +184,8 @@ Except where an election is made under [clause 47.7(c)](/ebas/mental-health/comm
     - **(A)** the Employee has an entitlement to take long service leave under [clause 47.4(a)](/ebas/mental-health/common-terms/leave/47-long-service-leave); and 
     - **(B)** if the receiving employer is not covered by this Agreement, that receiving employer has agreed to the transfer.
 - **(d) Payment in lieu of long service leave on the death of an Employee** 
-Where an Employee dies while still in the employ of the Employer, payment in lieu of long service leave will be made to the Employee’s personal representative in accordance with [clause 47.7(b)](/ebas/mental-health/common-terms/leave/47-long-service-leave) above.
+
+  Where an Employee dies while still in the employ of the Employer, payment in lieu of long service leave will be made to the Employee’s personal representative in accordance with [clause 47.7(b)](/ebas/mental-health/common-terms/leave/47-long-service-leave) above.
 
 **47.8 Public holidays and Accrued Days Off** 
 
@@ -202,9 +201,7 @@ The onus of proving a sufficient aggregate of service to support a claim for any
 
 For the removal of doubt, where an Employee makes an election under [clause 47.7(c)](/ebas/mental-health/common-terms/leave/47-long-service-leave) such that their previous service is recognised by the new Employer, the Employee’s previous employer is no longer liable to make any payment in lieu of that employee’s service. 
 
----
-
-**Part 3 - Long service leave for Group C Employees**
+## Part 3 - Long service leave for Group C Employees
 
 **47.11 Application of Part 3** 
 
@@ -226,9 +223,11 @@ At any time after completing 7 years of continuous employment with one Employer,
 **47.14 Taking of leave**
 
 - **(a) When leave is to be taken** 
-In accordance with s.18(2) of the LSL Act, an Employer must grant an Employee's request to take long service leave as soon as practicable after receiving the request unless the Employer has reasonable business grounds for refusing the request.
+
+  In accordance with s.18(2) of the LSL Act, an Employer must grant an Employee's request to take long service leave as soon as practicable after receiving the request unless the Employer has reasonable business grounds for refusing the request.
 - **(b) How leave is to be taken** 
-In accordance with s.18(1) of the LSL Act, an Employee may request to take long service leave for a period of not less than 1 day.
+
+  In accordance with s.18(1) of the LSL Act, an Employee may request to take long service leave for a period of not less than 1 day.
 - **(c) Long service leave in advance**
   - **(i)** Subject otherwise to this Part 3 and in accordance with s.8(1) of the LSL Act, an Employer may agree to an Employee taking long service leave prior to them completing 7 years of continuous employment and at any time before they become entitled to long service leave.
   - **(ii)** If an Employee takes long service leave in advance and the Employee's employment ends before the entitlement to the leave would otherwise have accrued: 
@@ -246,9 +245,11 @@ In accordance with s.18(1) of the LSL Act, an Employee may request to take long 
 **47.15 Payment on termination of employment**
 
 - **(a) Basic entitlement at termination of employment** 
-An Employee with seven or more years of continuous employment is entitled to payment in lieu of untaken long service leave upon termination of employment, calculated at 1/60th of the period of continuous employment.
+
+  An Employee with seven or more years of continuous employment is entitled to payment in lieu of untaken long service leave upon termination of employment, calculated at 1/60th of the period of continuous employment.
 - **(b) Payment in lieu of long service leave on the death of an Employee** 
-Where an Employee has completed at least seven years’ continuous employment and dies while still in the employ of the Employer, payment in lieu of long service leave will be made to the Employee’s personal representative equal to that in [clause 47.15(a)](/ebas/mental-health/common-terms/leave/47-long-service-leave) above.
+
+  Where an Employee has completed at least seven years’ continuous employment and dies while still in the employ of the Employer, payment in lieu of long service leave will be made to the Employee’s personal representative equal to that in [clause 47.15(a)](/ebas/mental-health/common-terms/leave/47-long-service-leave) above.
 
 **47.16 Public holidays & Annual leave** 
 
@@ -262,9 +263,7 @@ For the removal of doubt, no entitlement to long service leave (or payment in li
 
 Any other term or condition necessary for the operation of this Part shall be in accordance with the applicable term or condition in the LSL Act. 
 
----
-
-**Part 4 - Common conditions applicable to all Employees**
+## Part 4 - Common conditions applicable to all Employees
 
 **47.19 Payment for period of leave**
 
@@ -297,21 +296,21 @@ Where a Transfer of Business occurs, an Employee who worked with the old Employe
     - **(C)** the Employee's prior service with the first Employer is to be disregarded when calculating the Employee's normal weekly hours with the first Employer (e.g. for the purpose of sections 16 and 17 of the LSL Act).
   - **(iii)** If the employee is not entitled to transfer their service from the first Employer to the new Employer, or does not take the steps required in sub-[clause 47.7(c)](/ebas/mental-health/common-terms/leave/47-long-service-leave) within the allowable period of absence, the first Employer will make payment in lieu of long service leave for the Continuous Service with the first Employer upon ceasing permanent employment with the first Employer (under [clause 47.7(b)](/ebas/mental-health/common-terms/leave/47-long-service-leave) - Basic entitlement at termination of employment): 
 
-> **Example 1:** 
-> 
-> A Group B Employee is employed at the same time by Employer A, and Employer B. 
-> The Group B Employee accrues service towards long service leave at each of Employer A and Employer B. 
-> If the Employee had been employed by Employer A for 11 years and Employer B for 6 years, the Employee can take LSL from Employer A, but would need to continue working at Employer B until sufficient Continuous Service had accrued. 
-> If the Employee resigned from both Employer A and Employer B, and went to work for Employer C, the Employee could:
-> - **(a)** transfer the 6 years' service with Employer B to Employer C; and
-> - **(b)** have the accrued LSL from the 11 years' service with Employer A paid out in lieu on termination. 
+  > **Example 1:** 
+  > 
+  > A Group B Employee is employed at the same time by Employer A, and Employer B. 
+  > The Group B Employee accrues service towards long service leave at each of Employer A and Employer B. 
+  > If the Employee had been employed by Employer A for 11 years and Employer B for 6 years, the Employee can take LSL from Employer A, but would need to continue working at Employer B until sufficient Continuous Service had accrued. 
+  > If the Employee resigned from both Employer A and Employer B, and went to work for Employer C, the Employee could:
+  > - **(a)** transfer the 6 years' service with Employer B to Employer C; and
+  > - **(b)** have the accrued LSL from the 11 years' service with Employer A paid out in lieu on termination. 
 
-> **Example 2:** 
-> 
-> A Group A Employee has worked for Employer A for 6 years. The Employee commences employment with Employer B as a full-time Employee. To take up this opportunity, the Employee ceases permanent employment with Employer A. However, the Employee commences a casual employment relationship with Employer A within 12 weeks after resigning from their permanent position with Employer A. 
-> The Employee:
-> - **(a)** will be paid in lieu of 6 years' service with Employer A (in accordance with [clause 47.7(b)(i)(A)](/ebas/mental-health/common-terms/leave/47-long-service-leave)) unless a valid election is made to transfer the 6 years' service with Employer A to Employer B. If a valid election is made, the Employee would be eligible to take LSL with Employer B once sufficient Continuous Service had accrued (taking into account the transferred service); and
-> - **(b)** could take LSL on a pro rata basis with Employer A after sufficient Continuous Service had accrued, save that if a valid election was made to transfer the Employee's initial service to Employer B, no entitlement would arise in respect of that period with Employer A.
+  > **Example 2:** 
+  > 
+  > A Group A Employee has worked for Employer A for 6 years. The Employee commences employment with Employer B as a full-time Employee. To take up this opportunity, the Employee ceases permanent employment with Employer A. However, the Employee commences a casual employment relationship with Employer A within 12 weeks after resigning from their permanent position with Employer A. 
+  > The Employee:
+  > - **(a)** will be paid in lieu of 6 years' service with Employer A (in accordance with [clause 47.7(b)(i)(A)](/ebas/mental-health/common-terms/leave/47-long-service-leave)) unless a valid election is made to transfer the 6 years' service with Employer A to Employer B. If a valid election is made, the Employee would be eligible to take LSL with Employer B once sufficient Continuous Service had accrued (taking into account the transferred service); and
+  > - **(b)** could take LSL on a pro rata basis with Employer A after sufficient Continuous Service had accrued, save that if a valid election was made to transfer the Employee's initial service to Employer B, no entitlement would arise in respect of that period with Employer A.
 
 **47.23 Savings**
 

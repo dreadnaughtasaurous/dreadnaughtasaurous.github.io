@@ -1,5 +1,5 @@
 ---
-title: '130. Saturday And Sunday Work'
+title: '130. Saturday and Sunday Work'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'overtime']
 ---
@@ -13,7 +13,7 @@ topics: ['hours', 'overtime']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 130. Saturday And Sunday Work
+# 130. Saturday and Sunday Work
 
 **130.1** All rostered time of ordinary duty performed on Saturday and Sunday shall be paid for at the rate of time and a half.
 

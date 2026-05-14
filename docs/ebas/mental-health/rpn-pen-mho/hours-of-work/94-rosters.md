@@ -47,8 +47,8 @@ The roster or rosters will be drawn up to so as to provide at least eight hours 
 
 - **(a)** Where a roster is not posted 28 days in advance as required by [clause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters), each shift in the roster that is worked with less than 28 days' notice shall attract a change of roster allowance as prescribed at [subclause 94.8(ii)](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) (change of roster allowance).
 
-> **Example:**
-> A roster for a ward was posted 25 days before coming into effect, rather than 28 days as required by [clause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters). A change of roster is payable for those shifts worked on the roster with less than 28 days' notice.
+  > **Example:**
+  > A roster for a ward was posted 25 days before coming into effect, rather than 28 days as required by [clause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters). A change of roster is payable for those shifts worked on the roster with less than 28 days' notice.
 
 - **(b)** The provisions of [subclause 94.1](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) do not apply where:
   - **(i)** In respect of a shift that the Employee agrees to work as an additional shift under the supplementary roster

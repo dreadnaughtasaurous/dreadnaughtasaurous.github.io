@@ -1,5 +1,5 @@
 ---
-title: '111. Definitions Specific To This Part Of This Agreement'
+title: '111. Definitions Specific to this Part of this Agreement'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,6 +11,6 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 111. Definitions Specific To This Part Of This Agreement
+# 111. Definitions Specific to this Part of this Agreement
 
 **111.1** Experience means experience in the Employee’s occupation obtained within the last five years, excluding any unpaid leave provisions in the Agreement (or any previous applicable instrument).

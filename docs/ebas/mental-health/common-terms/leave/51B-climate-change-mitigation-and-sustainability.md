@@ -1,5 +1,5 @@
 ---
-title: '51B. Climate Change Mitigation And Sustainability'
+title: '51B. Climate Change Mitigation and Sustainability'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 51B. Climate Change Mitigation And Sustainability
+# 51B. Climate Change Mitigation and Sustainability
 
 **51B.1 Acknowledgment**
 

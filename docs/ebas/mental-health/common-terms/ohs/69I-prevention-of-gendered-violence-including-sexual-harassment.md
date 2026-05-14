@@ -1,5 +1,5 @@
 ---
-title: '69I. Prevention Of Gendered Violence Including Sexual Harassment'
+title: '69I. Prevention of Gendered Violence Including Sexual Harassment'
 eba: 'Mental Health Services 2024-2028'
 topics: ['gendered-violence']
 ---
@@ -11,7 +11,7 @@ topics: ['gendered-violence']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69I. Prevention Of Gendered Violence Including Sexual Harassment
+# 69I. Prevention of Gendered Violence Including Sexual Harassment
 
 **69I.1 Duties**
 
@@ -23,6 +23,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **69I.2 Definitions**
 
 - **(a) Work-related gendered violence**
+
   Work-related gendered violence is any behaviour, directed at any person, or that affects a person, because of their sex, gender or sexual orientation, or because they do not adhere to socially prescribed gender roles, that creates a risk to health and safety.
 
 - **(b) Sexual harassment**
@@ -34,6 +35,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(iii)** A person may be taken to have engaged in sexual harassment if they cause, instruct, induce, aid or permit another person to engage in sexual harassment, even if they did not directly carry out the sexual harassment themselves.
 
 - **(c) Examples of work-related sexual harassment** 
+
   Work-related sexual harassment is sexual harassment (as described above) directed at a person, that can happen at work, work related events, or between people sharing the same workplace. Work-related sexual harassment isn’t always obvious, repeated or continuous. Work related evets include external meetings or conferences, training courses or workshops, social gatherings (e.g. team lunches), etc.
   
   It can be a one-off incident and can involve unwanted or unwelcome:
@@ -64,6 +66,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   A copy of these polices is available to a Union on request.
 
 - **(b) Standard of Policies**
+
   Each policy will define work-related gendered violence and sexual harassment and identify:
   - **(i)** how and to whom complaints can be made
   - **(ii)** the supports available to affected employees
@@ -71,6 +74,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(iv)** The steps that will be taken to address the complaint including investigation, outcome and, where appropriate, contact with external agencies such as Victoria Police.
 
 - **(c) Resources**
+
   Resources that should be considered in reviewing or developing work related gendered violence and sexual harassment policies include:
   - **(i)** WorkSafe’s Work-related gendered violence including sexual harassment resources; and
   - **(ii)** Victorian Public Sector Commission’s Model Sexual Harassment Policy and Practice Guide.

@@ -193,8 +193,6 @@ This Schedule is arranged as follows:
 |---|---|
 | **General Services** | Supervision, work allocation, on-the-job training and rostering and/or guidance of staff. — General Services Supervisor |
 
----
-
 ## Part 2: Classification Definitions
 
 ### Food Services Classifications
@@ -264,8 +262,6 @@ This Schedule is arranged as follows:
 
 - **(a)** An Employee as per Security Officer Grade 1 who is required to regularly access computers in the course of their employment and/or has been provided with relevant training.
 
----
-
 ## Part 3: Patient Services Assistant Structure
 
 - **(a)** A Patient Services Assistant (PSA) is a multi-skilled Employee; the majority of whose work is ward based in an acute setting or community health centre. The work of PSAs involves the performance of duties across three or more functional areas of patient support services. PSAs are essentially ward based. PSAs will be encouraged to undertake training, which may include further training to enable them to obtain the certificate or equivalent for career development.
@@ -307,8 +303,6 @@ This Schedule is arranged as follows:
     - **(v)** is responsible for work performed in accordance with established policies, procedures and approaches
     - **(vi)** works under limited supervision, either individually or in a team; and
     - **(vii)** possesses good communication, interpersonal and/or arithmetic skills.
-
----
 
 ## Part 4: Allied Health Assistant Structure
 

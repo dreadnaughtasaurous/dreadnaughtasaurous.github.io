@@ -1,5 +1,5 @@
 ---
-title: '125A. Portfolio Work In Paid Time'
+title: '125A. Portfolio Work in Paid Time'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 125A. Portfolio Work In Paid Time
+# 125A. Portfolio Work in Paid Time
 
 **125A.1** Employees with a portfolio or administrative responsibility allocated by their Employer, will be provided with reasonable paid time to undertake such responsibilities.
 

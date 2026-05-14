@@ -1,5 +1,5 @@
 ---
-title: '191. Overpayment Of Wages - Royal Children''s Hospital'
+title: '191. Overpayment of Wages - Royal Children''s Hospital'
 eba: 'Mental Health Services 2024-2028'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 191. Overpayment Of Wages - Royal Children's Hospital
+# 191. Overpayment of Wages - Royal Children's Hospital
 
 *This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of of this Agreement.*
 

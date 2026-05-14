@@ -1,5 +1,5 @@
 ---
-title: '147. Dual Part Time Appointments'
+title: '147. Dual Part-Time Appointments'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,6 +11,6 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 147. Dual Part Time Appointments
+# 147. Dual Part-Time Appointments
 
 A person engaged in two classifications on a part-time basis shall be paid at the appropriate classification rate for the actual hours worked in each classification.

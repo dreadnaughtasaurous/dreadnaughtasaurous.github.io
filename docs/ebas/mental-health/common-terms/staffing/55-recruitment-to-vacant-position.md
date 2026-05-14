@@ -1,5 +1,5 @@
 ---
-title: '55. Recruitment To Vacant Position'
+title: '55. Recruitment to Vacant Position'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 55. Recruitment To Vacant Position
+# 55. Recruitment to Vacant Position
 
 **55.1** The process for advertising and filling vacancies will be as follows:
 

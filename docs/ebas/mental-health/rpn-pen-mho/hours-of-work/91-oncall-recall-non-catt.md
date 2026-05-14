@@ -1,5 +1,5 @@
 ---
-title: '91. Oncall Recall Non Catt'
+title: '91. Oncall/Recall (Non CATT)'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 91. Oncall Recall Non Catt
+# 91. Oncall/Recall (Non CATT)
 
 **91.1 On-call Allowance**
 

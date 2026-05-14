@@ -218,20 +218,20 @@ At 1 July 2020, each of the three Mental Health training and development Cluster
 
 - **(a)** The following translation has occurred and will continue to apply:
 
-| Current | No Meds | Plus Meds | Plus Senior | Plus Both |
-|---------|---------|-----------|-------------|-----------|
-| **PSEN 1** | | | | |
-| Year 1 | PEN 1.1 | PEN 1.5 | | |
-| Year 2 | PEN 1.2 | PEN 1.6 | | |
-| Year 3 | PEN 1.3 | PEN 2.1 | | |
-| Year 4 | PEN 1.4 | PEN 2.1 | | |
-| Year 5 | PEN 1.6 | PEN 2.1 | | |
-| Year 6 | PEN 1.6 | PEN 2.1 | PEN 3.1 | PEN 3.1 |
-| Year 7 | PEN 1.7 | PEN 2.1 | PEN 3.1 | PEN 3.2 |
-| Year 8 | PEN 1.8 | PEN 2.2 | PEN 3.1 | PEN 3.3 |
-| **PSEN 2** | | | | |
-| Year 1 | PEN 1.8 | PEN 2.2 | PEN 3.1 | PEN 3.3 |
-| Year 2 | PEN 2.1 | PEN 2.4 | PEN 3.2 | PEN 3.3 |
-| Year 3 | PEN 2.2 | PEN 2.4 | PEN 3.2 | PEN 3.4# |
+  | Current | No Meds | Plus Meds | Plus Senior | Plus Both |
+  |---------|---------|-----------|-------------|-----------|
+  | **PSEN 1** | | | | |
+  | Year 1 | PEN 1.1 | PEN 1.5 | | |
+  | Year 2 | PEN 1.2 | PEN 1.6 | | |
+  | Year 3 | PEN 1.3 | PEN 2.1 | | |
+  | Year 4 | PEN 1.4 | PEN 2.1 | | |
+  | Year 5 | PEN 1.6 | PEN 2.1 | | |
+  | Year 6 | PEN 1.6 | PEN 2.1 | PEN 3.1 | PEN 3.1 |
+  | Year 7 | PEN 1.7 | PEN 2.1 | PEN 3.1 | PEN 3.2 |
+  | Year 8 | PEN 1.8 | PEN 2.2 | PEN 3.1 | PEN 3.3 |
+  | **PSEN 2** | | | | |
+  | Year 1 | PEN 1.8 | PEN 2.2 | PEN 3.1 | PEN 3.3 |
+  | Year 2 | PEN 2.1 | PEN 2.4 | PEN 3.2 | PEN 3.3 |
+  | Year 3 | PEN 2.2 | PEN 2.4 | PEN 3.2 | PEN 3.4# |
 
 - **(b)** PEN3.4 available only to existing PSEN2 y3 Employees in receipt of medication endorsement allowance and senior allowance as at 31 March 2012. These Employees translate to the PEN3.4 as a result of the implementation of this Agreement. The PEN3.4 rate cannot be accessed through incremental progression.

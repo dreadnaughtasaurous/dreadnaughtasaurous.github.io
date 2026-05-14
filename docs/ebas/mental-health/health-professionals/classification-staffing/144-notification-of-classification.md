@@ -1,5 +1,5 @@
 ---
-title: '144. Notification Of Classification'
+title: '144. Notification of Classification'
 eba: 'Mental Health Services 2024-2028'
 topics: ['classifications']
 ---
@@ -13,7 +13,7 @@ topics: ['classifications']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 144. Notification Of Classification
+# 144. Notification of Classification
 
 **144.1** The Employer shall notify each Employee in writing on commencement of their classification and terms of employment.
 

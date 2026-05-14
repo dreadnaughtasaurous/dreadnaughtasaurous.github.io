@@ -413,7 +413,7 @@ Positions at the Grade 2 level are regarded as base grade administrators or oper
 ### 18.4 Benchmark Descriptors
 
 | Function | Description |
-|||
+|---|---|
 | **Administration** | Office Co-ordinator, responsible for coordinating a range of complex secretarial functions including typing, compiling agendas for meetings, answering the telephone, photocopying and organising meetings and functions, to ensure the smooth running of an office, where at least one other person is employed. Responsible for providing clerical and word processing support. |
 | **Administration** | Functions can vary including having contact with members of the public and diverting the calls as needed, or providing advice to the enquirers, and providing a high level of support to management to ensure the smooth operation of an executive office. Use a range of software packages and administrative procedures occurs at this level. |
 | **Finance** | Positions responsible for the preparation of standard statistical reports, preparing information for the general ledger to ensure that complete and accurate records are supplied. |
@@ -449,7 +449,7 @@ Positions at the Grade 2 level are regarded as base grade administrators or oper
 ### 19.4 Benchmark Descriptors
 
 | Function | Description |
-|||
+|---|---|
 | **Personnel** | Supervise pay clerks in the day to day functions of payroll services, process pay documents, train staff and assist the Pay Manager, to ensure that all pays are processed accurately. |
 | **Personnel** | Assistance to an experienced personnel practitioner/specialist within a specific and small range of activities (e.g. Recruitment, payroll, induction). Involvement typically includes documentation of proposals, co-ordination of recruitment events and organisation of induction programs. |
 | **Supply** | As Purchasing Officer in the Supply Department of a major agency responsible for sourcing products, preparing specifications, evaluating quotations, purchasing goods, interviewing representatives and keeping abreast of products, within Departmental and Hospital guidelines. |
@@ -490,7 +490,7 @@ Positions at the Grade 2 level are regarded as base grade administrators or oper
 ### 20.4 Benchmark Descriptors
 
 | Function | Description |
-|||
+|---|---|
 | **Engineering** | As a broadly experienced trade engineer, responsible for: the supervision of maintenance/contract staff, provision of preventative maintenance programs for buildings, plant and equipment under direction from a more senior engineer. Experienced project/contracts officer responsible for: major and minor works administration, quotations and supervision of contract staff, application of tender document and quality control within set financial guidelines and budgets under the direction of a more senior engineer. Experienced training officer responsible for the formal training of staff and contractors in the process of emergency response and contingency and contractors policies and procedures. |
 | **Food Services** | Responsible for the supervision of staff and the provision of services in a Food Production section across the health service. Encompasses apprentice training and monitoring, fresh food orderings, staff supervision and ensuring meals are produced to schedule. |
 | **Finance** | A senior supervisory position responsible for all aspects of financial management or patient accounts through more junior supervisors or staff. The role involves: responsibility for the financial and management accounts for the Board of Directors, Department of Human Services and Department Heads; Tasks such as patient admissions, fee classifications, length of stay registers, refunds, debt collection, and patient statistics. |
@@ -528,7 +528,7 @@ Positions at this level are regarded as an experienced specialist role within a 
 ### 21.4 Benchmark Descriptors
 
 | Function | Description |
-|||
+|---|---|
 | **Finance** | Responsible for the preparation of monthly financial performance figures to a senior finance specialist so that targets can be measured, budgets updated, and advice provided to a major division (e.g. Nursing), on activity levels, costing and budget strategy. An experienced and/or qualified accountant supervising a team, reporting to a more senior accountant. |
 | **Personnel** | As an experienced personnel practitioner with day-to-day responsibility for training and development, or a group of specialist HR activities, responsibility for industrial relations under direction of a senior human resource specialist. |
 | **Food Services** | Assistant Food Services Manager at a large campus responsible for commercial aspects and service standards of food production, presentation and distribution. Activities include quality control over special/ethnic dietary requirements of patients and clients attending functions, organising and supervising major functions and "meals on wheels" services, supervision of cafeteria staff and food service officers, and stock management of food supplies and catering requirements. |
@@ -563,7 +563,7 @@ Positions at this level are senior managers, professionals and specialists who a
 ### 22.4 Benchmark Descriptors
 
 | Function | Description |
-|||
+|---|---|
 | **Finance** | As an experienced qualified financial manager reporting to a more senior financial manager, provide specialist financial advice, ensure that the hospital financial systems are maintained effectively, that statutory and legislative requirements are followed and professional standards maintained. Be responsible for the accounts section and supervising and guiding accounts staff. |
 | **Material Resources** | Plans, directs and controls the purchasing, warehousing and distribution of supplies to the health service. The role involves recommending policies and developing systems and procedures for the department, which are implemented through subordinate supervisors. Ensures significant pricing benefits are obtained through bulk purchasing arrangements with other large agencies. |
 | **Personnel** | Unit Human Resources manager providing advice, counsel and recommendations on improving Employee relations, training needs, work practice or staffing matters. Typically reports to a more senior Human Resources manager. |
@@ -596,7 +596,7 @@ Positions at this level are senior managers, professionals and specialists who a
 ### 23.4 Benchmark Descriptors
 
 | Function | Description |
-|||
+|---|---|
 | **Food Services** | As Food Services Manager of a large hospital/campus, ensure that meals are provided to all patients, staff and other organisations in an effective and efficient manner, determine budget requirements with the finance department, and determine menus in accordance with the nutrition department and purchasing requirements. Ensure that the department operates within the allocated budget allocation and develop policies and standards for the Department. |
 | **Engineering** | Maintenance Engineer for the health service reporting to a more senior engineer, responsible for providing, organising and directing human and physical resources to provide an efficient maintenance service with minor works responsibility. Maintenance includes planned, breakdown and safety testing across all trades including contractors for building fabric and building services reticulation. Minor works are managed where standard building specifications would be adapted (for example to ward refurbishment); includes procurement; installation and commissioning of specialised equipment. An emphasis is placed on safety and technical aspects with financial control, co-ordinating and planning, industrial relations, education as being among important issues. |
 | **MIS** | Functional Manager for a medium computing facility including operations, development, maintenance and network management. Supervises staff and has budgetary responsibility for acquisition of peripherals, additional computing hardware and supplies. A key focus of the position is ensuring that projects are completed on time/budget, provide users with the information needed, access to computing facilities is within accepted standards, and computing facilities are adequate for the needs of the institution, fast effective and reliable. |

@@ -1,5 +1,5 @@
 ---
-title: '69. Occupational Health And Safety / Workplace Violence'
+title: '69. Occupational Health and Safety / Workplace Violence'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs']
 ---
@@ -11,13 +11,15 @@ topics: ['ohs']
 mental worker psychiatric nurse mental nurse community mental AMHS authorised mental practitioner psychosocial disability support
 </div>
 
-# 69. Occupational Health And Safety / Workplace Violence
+# 69. Occupational Health and Safety / Workplace Violence
 
 **69.1 OHS Preliminary**
 
 - **(a) Relationship to legislation**
+
   These provisions will be read and interpreted in conjunction with the OHS Act, EO Act, WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to above, the legislation prevails to the extent of any inconsistency.
 - **(b) Arrangement of this Part K**
+
   This part is arranged as follows:
   - **(i)** OHS Preliminary ([clause 69](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence) )
   - **(ii)** OHS Working Group ([clause 69A](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group))
@@ -32,6 +34,7 @@ mental worker psychiatric nurse mental nurse community mental AMHS authorised me
   - **(xi)** Workers’ Compensation, Rehabilitation and Return to Work ([Clause 69H](/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work))
   - **(xii)** Prevention of Gendered Violence Including Sexual Harassment ([clause 69I](/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment)).
 - **(c) Definitions**
+
   For the purposes of this Part K of this Agreement:
   - **(i)** DWG means designated work group as defined under the OHS Act as amended from time to time and may include Employees other than nurses and/or midwives.
   - **(ii)** Incident means an event or circumstance that led or could have led to unintended or unnecessary harm.

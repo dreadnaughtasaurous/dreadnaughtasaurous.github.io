@@ -1,5 +1,5 @@
 ---
-title: '69E. Hsrs'
+title: '69E. HSRs'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69E. Hsrs
+# 69E. HSRs
 
 **69E.1 HSR(s) Election Process**
 

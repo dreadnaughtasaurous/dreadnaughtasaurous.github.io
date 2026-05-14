@@ -1,5 +1,5 @@
 ---
-title: '133. Catt On Call Recall Allowances'
+title: '133. CATT On-Call/Recall Allowances'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 133. Catt On Call Recall Allowances
+# 133. CATT On-Call/Recall Allowances
 
 **133.1 On-call Allowance**
 

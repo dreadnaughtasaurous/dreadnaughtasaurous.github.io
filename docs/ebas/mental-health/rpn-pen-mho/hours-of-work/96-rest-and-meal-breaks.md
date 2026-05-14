@@ -1,5 +1,5 @@
 ---
-title: '96. Rest And Meal Breaks'
+title: '96. Rest and Meal Breaks'
 eba: 'Mental Health Services 2024-2028'
 topics: ['hours', 'breaks']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'breaks']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 96. Rest And Meal Breaks
+# 96. Rest and Meal Breaks
 
 **96.1 Rest Intervals**
 

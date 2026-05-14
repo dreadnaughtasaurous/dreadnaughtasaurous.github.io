@@ -1,5 +1,5 @@
 ---
-title: '84A. Change Of Ward Allowance'
+title: '84A. Change of Ward Allowance'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 84A. Change Of Ward Allowance
+# 84A. Change of Ward Allowance
 
 **84A.1 Definitions**
 

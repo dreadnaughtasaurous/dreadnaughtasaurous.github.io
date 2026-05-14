@@ -1,5 +1,5 @@
 ---
-title: '69F. Occupational Violence And Aggression Prevention And Management'
+title: '69F. Occupational Violence and Aggression Prevention and Management'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs']
 ---
@@ -13,7 +13,7 @@ topics: ['ohs']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69F. Occupational Violence And Aggression Prevention And Management
+# 69F. Occupational Violence and Aggression Prevention and Management
 
 **69F.1 Prevention and Management of Occupational Violence and Aggression** 
 

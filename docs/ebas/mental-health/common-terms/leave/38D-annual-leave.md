@@ -31,12 +31,13 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(v)** For Part-Time Employees 
     - **(A)** As a proportion of 3.8 hours for each week in which ordinary hours were worked on a weekend (or part thereof) up to a maximum of 10 weekends. 
 
-> **Example:**
-> If a part-time Employee works 24 hours in a week and those 24 hours include hours worked on a weekend, they would accrue a proportion of 3.8 hours as follows: 24/38 x 3.8 = 2.4 hours.
+    > **Example:** If a part-time Employee works 24 hours in a week and those 24 hours include hours worked on a weekend, they would accrue a proportion of 3.8 hours as follows: 24/38 x 3.8 = 2.4 hours.
 
 - **(b)** A
 - **(c)** Annual Leave accrues progressively during a year of service according to the employees ordinary hours of work and accumulates from year to year.
-- **(d) Savings - Weekend worker as at 30 June 2022 (Section 2 Employees only)** If an Employee was accruing 6 weeks annual leave as at 30 June 2022 (or would have been but for the operation of an arrangement under [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements) or [clause 66](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements) (Individual Flexible Working Arrangements) or an absence from work on parental leave), the Employee will continue to accrue six weeks of annual leave unless or until:
+- **(d) Savings - Weekend worker as at 30 June 2022 (Section 2 Employees only)** 
+
+  If an Employee was accruing 6 weeks annual leave as at 30 June 2022 (or would have been but for the operation of an arrangement under [clause 65](/ebas/mental-health/common-terms/workplace-rights/65-flexible-working-arrangements) (Flexible Working Arrangements) or [clause 66](/ebas/mental-health/common-terms/workplace-rights/66-individual-flexible-working-arrangements) (Individual Flexible Working Arrangements) or an absence from work on parental leave), the Employee will continue to accrue six weeks of annual leave unless or until:
   - **(i)** the arrangement at sub-[clause 38D.2(a)](/ebas/mental-health/common-terms/leave/38D-annual-leave) or (b) is more beneficial for the Employee
   - **(ii)** the Employee changes Employers
   - **(iii)** the Employee requests (and the Employer agrees) to move the Employee from full time to part-time employment other than as part of a flexible working arrangement, family and domestic violence arrangement or reduced hours on return from parental leave); or
@@ -67,8 +68,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
     - **(B)** the Employee's family responsibilities; and
     - **(C)** whether previous leave applications for the same high-demand period were or were not successful.
 
-> **Example:**
-> A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are ‘high demand periods’ for that ward within the meaning of this sub [clause 38D.4](/ebas/mental-health/common-terms/leave/38D-annual-leave) and the Manager must publish the information specified above at 38D.4(i) to (iii) and, when determining the applications, apply the considerations at 38D.4(iv).
+    > **Example:** A ward generally receives more applications for annual leave over school term breaks than it can accommodate. This means that school term breaks are ‘high demand periods’ for that ward within the meaning of this sub [clause 38D.4](/ebas/mental-health/common-terms/leave/38D-annual-leave) and the Manager must publish the information specified above at 38D.4(i) to (iii) and, when determining the applications, apply the considerations at 38D.4(iv).
 
 **Short periods of annual leave** 
 
@@ -100,8 +100,12 @@ Paid annual leave under this clause can be taken in periods less than an Employe
 
 **38D.7. Employee not taken to be on paid annual leave at certain times**
 
-- **(a) Public Holidays** See also [clauses 98](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays), 135, 179 and 213(Public Holidays). If an Employee takes paid annual leave during a period that includes a public holiday, the Employee is taken not be on paid annual leave on that day.
-- **(b) Other Periods of Leave** See also [clause 38A](/ebas/mental-health/common-terms/leave/38A-personal-leave) (Personal Leave) and 44 (Compassionate Leave)
+- **(a) Public Holidays** 
+
+  See also [clauses 98](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays), 135, 179 and 213(Public Holidays). If an Employee takes paid annual leave during a period that includes a public holiday, the Employee is taken not be on paid annual leave on that day.
+- **(b) Other Periods of Leave** 
+
+  See also [clause 38A](/ebas/mental-health/common-terms/leave/38A-personal-leave) (Personal Leave) and 44 (Compassionate Leave)
   - **(i)** An Employee may take other types of leave, such as personal leave or compassionate leave whilst on annual leave. An Employee is taken not to be on paid annual leave whilst on other leave and the Employee’s paid annual leave accrual will be amended to reflect this. These provisions do not apply to unpaid parental leave.
   - **(i)** An Employee taking personal leave whilst on annual leave will provide the Employer with evidence in accordance with [clause 38A](/ebas/mental-health/common-terms/leave/38A-personal-leave) (Personal Leave).
   - **(ii)** Where an Employee takes other leave during annual leave, any annual leave loading received for a period that is no longer annual leave is taken to have been paid in advance as required in [clause 38B.6](/ebas/mental-health/common-terms/leave/38B-personal-leave-pool) (Payment for Leave) or may be deducted from any payment required to be made under [clause 38B.9](/ebas/mental-health/common-terms/leave/38B-personal-leave-pool) (Effect of termination on annual leave). 
@@ -168,6 +172,7 @@ A part-time Employee that has reduced their EFT fraction, may request to cash ou
 > The Employee has 160 hours of accrued annual leave (i.e. 5 weeks' leave at their previous EFT, or 10 weeks' leave at their new EFT), before taking or cashing out any annual leave. Subject to the Employee complying with this clause, the Employee may elect to cash out an additional 32 hours' annual leave (plus annual leave loading), at the same time as taking annual leave, so that the total paid to the Employee during the period of leave is:
 >
 > - **(a)** 32 hours' pay (16 hours per week multiplied by 2), plus annual leave loading, for annual leave taken; plus 
+>
 > 32 hours' pay, plus annual leave loading, for annual leave cashed out. At the end of the annual leave period, the Employee retains 6 weeks' annual leave, at the Employee's part-time hours. That is, the Employee will have: 
 > 160 hours accrued prior to the leave period, minus 32 hours taken, minus 32 hours cashed out = 96 hours (16 hours multiplied by 6 weeks) accrued annual leave at the end of the leave period.
 

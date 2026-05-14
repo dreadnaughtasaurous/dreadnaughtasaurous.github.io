@@ -43,7 +43,9 @@ Subject to the conditions set out in this clause, an Employee may take paid pers
   - **(ii)** an unexpected emergency; or
   - **(iii)** the requirement to provide ongoing care or attention to another person who is wholly or substantially dependent on the Employee, provided that the care or attention is not wholly or substantially on a commercial basis (carer’s leave).
 - **(c)** In normal circumstances an Employee must not take personal leave under this clause to care for someone where another person has taken leave to care for the same person.
-- **(d) Personal Leave to Attend Appointments** Notwithstanding [subclause 38A.3(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave), an Employee may use up to five days personal leave, in aggregate, in any year of service on account of a disability or where the Employee is required to attend a registered health practitioner or diagnostic appointment. 
+- **(d) Personal Leave to Attend Appointments** 
+
+  Notwithstanding [subclause 38A.3(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave), an Employee may use up to five days personal leave, in aggregate, in any year of service on account of a disability or where the Employee is required to attend a registered health practitioner or diagnostic appointment. 
 
 **38A.4. Evidence requirements – Sick Leave**
 
@@ -56,11 +58,15 @@ Subject to the conditions set out in this clause, an Employee may take paid pers
 
 - **(a)** An Employee should inform the Employer of their absence no less than 1.5 hours prior to the commencement of the rostered shift or as soon as reasonably practicable to allow the Employer to take necessary steps to backfill the absence. This provision does not apply where an Employee could not comply because of circumstances beyond the Employee's control.
 - **(b)** The Employer will inform Employees of the procedure for notification by Employees of their inability to attend work due to illness or injury, such notifications will be registered, detailing the time of notification and the name of the Employee.
-- **(c) Failure to provide notice of absence** Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee's lack of notification as required by [clause 38A.5](/ebas/mental-health/common-terms/leave/38A-personal-leave). (a) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given. 
+- **(c) Failure to provide notice of absence** 
+  
+  Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee's lack of notification as required by [clause 38A.5](/ebas/mental-health/common-terms/leave/38A-personal-leave). (a) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given. 
 
 **38A.6. Evidence Requirements - Carers Leave**
 
-- **(a) Evidence requirements** The Employee must, if required by the Employer, establish by production of a Proof of Attendance or statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either:
+- **(a) Evidence requirements** 
+
+  The Employee must, if required by the Employer, establish by production of a Proof of Attendance or statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either:
   - **(i)** an illness or injury; or
   - **(ii)** an unexpected emergency that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member of the Employee’s immediate family or household experiencing family and domestic violence as described at [clause 45](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave)(Family and Domestic Violence).
 - **(b) Notice requirements**
@@ -70,7 +76,9 @@ Subject to the conditions set out in this clause, an Employee may take paid pers
     - **C.** the estimated length of absence.
   - **(ii)** If it is not practicable for the Employee to give prior notice of absence, the Employee must notify the Employer of the absence as soon as reasonably practicable.
   - **(iii)** Notification of absence due to this clause shall be as per procedure at 38A.5(b).
-- **(c) Unpaid leave where paid personal leave accruals exhausted** An Employee who has exhausted paid personal leave entitlements is entitled to take unpaid carer's leave. The Employee is entitled to take up to two days (or two full shifts where ordinary shifts exceed 8 hours) per occasion, provided the evidentiary requirements are met. The Employee may also take unpaid carer's leave in shorter or longer periods to which the Employee and Employer agree. 
+- **(c) Unpaid leave where paid personal leave accruals exhausted** 
+
+  An Employee who has exhausted paid personal leave entitlements is entitled to take unpaid carer's leave. The Employee is entitled to take up to two days (or two full shifts where ordinary shifts exceed 8 hours) per occasion, provided the evidentiary requirements are met. The Employee may also take unpaid carer's leave in shorter or longer periods to which the Employee and Employer agree. 
 
 **38A.7. Payment for leave**
 
@@ -83,19 +91,31 @@ If the period during which an Employee takes paid personal leave includes a day 
 
 **38A.9. Portability of Personal Leave**
 
-- **(a) Entitlement** Subject to 38A.9(b) and (c), the Employer will credit accrued untaken personal leave to an Employee who transfers to the Employer from:
+- **(a) Entitlement** 
+
+  Subject to 38A.9(b) and (c), the Employer will credit accrued untaken personal leave to an Employee who transfers to the Employer from:
   - **(i)** An Institution (as defined in [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(e)); or
   - **(ii)** subject to 38A.9(d) below: 
     - **(A)** a Council in Victoria as defined in the Local Government Act 2020 (Vic); or 
     - **(B)** a public health service in another State or Territory.
-- **(b) Allowable Period** Continuity of service will be deemed to be unbroken where the period of absence is equal to or less than an Employee’s Allowable Period of Absence (as defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) between an engagement with one employer named in [subclause 38A.9(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave) and another. An absence in excess of the Allowable Period of Absence (defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) will exclude the Employee from any benefit under 38A.9.
-- **(c) Exception to Allowable Period** Where any Employee for the sole purpose of undertaking is, with the written approval of the Employer, absent without pay for up to but not exceeding 104 weeks, such absence will not be deemed to have broken continuity of service but will not be counted as service for the purpose of establishing entitlement to personal leave portability·
-- **(d) Additional transfer limitations** For the purposes of [subclause 38A.9(a)(ii)](/ebas/mental-health/common-terms/leave/38A-personal-leave), the portability of accrued untaken personal leave with a Council in Victoria, or a public health service in another State or Territory is subject to the following additional matters:
+- **(b) Allowable Period** 
+
+  Continuity of service will be deemed to be unbroken where the period of absence is equal to or less than an Employee’s Allowable Period of Absence (as defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) between an engagement with one employer named in [subclause 38A.9(a)](/ebas/mental-health/common-terms/leave/38A-personal-leave) and another. An absence in excess of the Allowable Period of Absence (defined at [clause 47.2](/ebas/mental-health/common-terms/leave/47-long-service-leave)(a)) will exclude the Employee from any benefit under 38A.9.
+- **(c) Exception to Allowable Period** 
+
+  Where any Employee for the sole purpose of undertaking is, with the written approval of the Employer, absent without pay for up to but not exceeding 104 weeks, such absence will not be deemed to have broken continuity of service but will not be counted as service for the purpose of establishing entitlement to personal leave portability·
+- **(d) Additional transfer limitations** 
+
+  For the purposes of [subclause 38A.9(a)(ii)](/ebas/mental-health/common-terms/leave/38A-personal-leave), the portability of accrued untaken personal leave with a Council in Victoria, or a public health service in another State or Territory is subject to the following additional matters:
   - **(i)** portability will only apply on the first occasion that the Employee commences employment with an Employer on or after 20 May 2025; and
   - **(ii)** portability will only apply where the break between ceasing employment with the relevant Council or interstate public health service, and commencing employment with an Employer, is no more than the greater of two months or the Allowable Period of Absence.
   - **(iii)** once interstate accrual of personal leave is recognised in accordance with this clause, portability of that leave accrual will continue to be applicable subject to [clause 38A.9](/ebas/mental-health/common-terms/leave/38A-personal-leave).
-- **(e) Evidence Requirements:** The Employer may require an Employee to produce a written statement from their previous employer specifying the amount of accrued untaken personal leave standing to the credit of such Employee at the time of leaving that previous employment.
-- **(f) Additional Provision** Where an Employee transfers to an (or another) Employer and remains engaged on casual bank/or as a casual Employee with their previous Employer, the new Employer will not exclude the Employee from any benefit under this sub-clause on the basis of the ongoing casual engagement.
+- **(e) Evidence Requirements:** 
+
+  The Employer may require an Employee to produce a written statement from their previous employer specifying the amount of accrued untaken personal leave standing to the credit of such Employee at the time of leaving that previous employment.
+- **(f) Additional Provision** 
+
+  Where an Employee transfers to an (or another) Employer and remains engaged on casual bank/or as a casual Employee with their previous Employer, the new Employer will not exclude the Employee from any benefit under this sub-clause on the basis of the ongoing casual engagement.
 
 **38A.10. Termination of Employment while on Personal Leave** 
 

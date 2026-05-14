@@ -1,5 +1,5 @@
 ---
-title: '69B. Ohs Risk Management'
+title: '69B. OH&S Risk Management'
 eba: 'Mental Health Services 2024-2028'
 topics: ['ohs']
 ---
@@ -11,7 +11,7 @@ topics: ['ohs']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 69B. Ohs Risk Management
+# 69B. OH&S Risk Management
 
 **69B.1.** Those covered by this Agreement will take a pro-active approach to the prevention and management of workplace injuries to the highest level of protection reasonably practicable in the circumstances, and to the achievement of a reduction in workplace injuries through the implementation of risk management systems incorporating hazard identification, risk assessment and control, and safe work practices. 
 

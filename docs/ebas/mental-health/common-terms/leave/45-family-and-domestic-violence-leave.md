@@ -1,5 +1,5 @@
 ---
-title: '45. Family And Domestic Violence Leave'
+title: '45. Family and Domestic Violence Leave'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave', 'family-violence-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'family-violence-leave']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 45. Family And Domestic Violence Leave
+# 45. Family and Domestic Violence Leave
 
 > **Note:**
 > family member is defined in section 8 of the Family Violence Protection Act 2008 and is broader than the definition of immediate family under the NES.

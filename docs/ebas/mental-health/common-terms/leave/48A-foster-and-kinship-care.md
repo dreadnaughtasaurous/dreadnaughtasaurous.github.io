@@ -1,5 +1,5 @@
 ---
-title: '48A. Foster And Kinship Care'
+title: '48A. Foster and Kinship Care'
 eba: 'Mental Health Services 2024-2028'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 48A. Foster And Kinship Care
+# 48A. Foster and Kinship Care
 
 **48A.1** An Employee who provides short-term foster or kinship care as the primary caregiver to a child who cannot live with their parents as a result of an eligible child protection intervention is entitled to up to two days' paid leave on up to five occasions per calendar year to be taken at the time the placement of the child with the Employee commences.
 

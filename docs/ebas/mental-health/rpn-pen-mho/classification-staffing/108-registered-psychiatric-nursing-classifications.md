@@ -98,7 +98,8 @@ Within mental health settings, the following, responsibilities are unique to RPN
 **108.6 Areas of work**
 
 - **(a) Clinical area** 
-Clinical mental health nursing duties involve the application of practical skills and specialist mental health knowledge associated with professional procedures to achieve a high standard of nursing care or advice in a range of service-based settings. Clinical activities include:
+
+  Clinical mental health nursing duties involve the application of practical skills and specialist mental health knowledge associated with professional procedures to achieve a high standard of nursing care or advice in a range of service-based settings. Clinical activities include:
   - **(i)** direct patient care, including the assessment, planning, implementation and evaluation of nursing care
   - **(ii)** the provision of guidance in clinical matters to less experienced practitioners
   - **(iii)** research into the clinical nursing function; and
@@ -113,7 +114,8 @@ Clinical mental health nursing duties involve the application of practical skill
   - **(iii)** In undertaking initial and overall mental and physical status assessments in the community, CMHNs may decide whether or not to offer treatment and use judgment, in deciding if the case should be brought to the immediate attention of a psychiatrist.
   - **(iv)** In the absence of medical personnel and pharmacists, and within the limits of their knowledge and experience as nurses, CMHNs also may act as consultants to non-medical staff on psychopharmacology issues (ie., the applications and side-effects of medication).
 - **(c) Education area** 
-Educational activities undertaken by nurse educators employed under this Agreement include:
+
+  Educational activities undertaken by nurse educators employed under this Agreement include:
   - **(i)** the provision of specialist mental health theoretical and practical tuition
   - **(ii)** the provision of informal specialist mental health tuition and clinical guidance to less experienced mental health nursing staff
   - **(iii)** the use of formal programs and informal means to educate consumers and their relatives
@@ -121,7 +123,8 @@ Educational activities undertaken by nurse educators employed under this Agreeme
   - **(v)** the identification of educational needs and curriculum development; and
   - **(vi)** the planning, design and evaluation of courses.
 - **(d) Management** 
-Management duties typically involve the management of the mental health nursing function at various levels and the provision of non-clinical support to clinical practitioners. Management activities include:
+
+  Management duties typically involve the management of the mental health nursing function at various levels and the provision of non-clinical support to clinical practitioners. Management activities include:
   - **(i)** management of the function at unit, unit or program level, or in the community
   - **(ii)** staff management, deployment and development
   - **(iii)** budget activities, including assessment of human resource requirements in the mental health nursing and related direct care field
@@ -176,7 +179,8 @@ Training and experience are undertaken in mental health settings in which extens
 **108.9 Registered Psychiatric Nurse - work level standards**
 
 - **(a) RPN 2 - Definition** 
-Positions require a knowledge of Mental Health Nursing principles and practices as provided by the current mandatory basic course, and decision- making is required consistent with the extent of this knowledge. RPN-2 nurses are professionally accountable for these decisions.
+
+  Positions require a knowledge of Mental Health Nursing principles and practices as provided by the current mandatory basic course, and decision- making is required consistent with the extent of this knowledge. RPN-2 nurses are professionally accountable for these decisions.
 - **(b) RPN-2 - Features**
   - **(i)** RPN 2s perform tasks according to established procedures, specific guidelines and standard instructions from more senior mental health A nurse (RPN2)is taken to have demonstrated this level of skill where they are able to routinely demonstrate advanced levels of Mental Health Nursing clinical decision making - in particular, problem identification and solution, and the analysis and interpretation of clinical data in a mental health setting.
   - **(ii)** nurses (RPN 3 or above). Positions at a RPN 2 level may be required to select certain methods or procedures to meet consumer needs. The focus of the position is clinical practice in a bed based or community setting.
@@ -252,7 +256,8 @@ At this level, employees utilise the knowledge gained from the basic RPN course 
   - **(iii)** RPN 3s at this level will be accountable for decisions made on clinical or unit program management matters according to professional practice and service policies. They will determine day-to-day matters and report regularly to a more senior nurse.
 
 - **(b) RPN 3 - typical duties** 
-Within the context of the definitions above, the following roles within each work area have been assessed as being able to be undertaken by RPN 3s. However, particular positions may combine duties from more than one role. Note that no single duty can be used as the final determinant of job level.
+
+  Within the context of the definitions above, the following roles within each work area have been assessed as being able to be undertaken by RPN 3s. However, particular positions may combine duties from more than one role. Note that no single duty can be used as the final determinant of job level.
 
 - **(c) Associate Nurse Unit Manager**
   - **(i)** Undertake nursing assessments and independently institute a nursing care plan for consumers and staff. This includes supervising other nursing staff involved (if any), coordinating various treatment components and liaising with other professional staff.
@@ -351,14 +356,16 @@ Within the context of the definitions above, the following roles within each wor
   - **(viii)** Establish priorities in delivery of CMHN services within the sub- discipline for the work setting, in conjunction with senior staff of other professions in the work setting.
 
 - **(g) Community Nurse - Manager of Crisis Intervention Program** 
-A crisis intervention program involves ensuring that staff are available to respond to urgent requests for assistance in the community. Typically, a two-person team (two nurses or a nurse and a clinician) would go out to assess the situation and take whatever action required. The management of the service involves:
+
+  A crisis intervention program involves ensuring that staff are available to respond to urgent requests for assistance in the community. Typically, a two-person team (two nurses or a nurse and a clinician) would go out to assess the situation and take whatever action required. The management of the service involves:
   - **(i)** Rostering of staff to requests for assistance.
   - **(ii)** Determining the extent of service required for the catchment area serviced by the workplace (ie numbers of hours per week and number and type of staff).
   - **(iii)** Marketing the service to the community.
   - **(iv)** Ensuring that the service is responsive to the needs of the catchment area without disrupting the clinic/workplace routines.
 
 - **(h) Clinical Nurse Educator (CNE)** 
-The CNE will provide professional supervision and support to ensure effective delivery of quality clinical services and increased knowledge and skills of staff. The role will not carry a clinical caseload.
+
+  The CNE will provide professional supervision and support to ensure effective delivery of quality clinical services and increased knowledge and skills of staff. The role will not carry a clinical caseload.
   - **(i)** Provide professional support, education, training and supervision to mental health nursing staff.
   - **(ii)** Monitor and advise on standards of nursing practice and develop strategies to meet identified needs.
   - **(iii)** Identify models of best practice and assist in their implementation.

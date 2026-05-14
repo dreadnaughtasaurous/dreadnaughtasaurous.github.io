@@ -1,5 +1,5 @@
 ---
-title: '16. Anti Discrimination'
+title: '16. Anti-Discrimination'
 eba: 'Mental Health Services 2024-2028'
 topics: ['family-violence-leave', 'preliminary', 'discrimination']
 ---
@@ -13,7 +13,7 @@ topics: ['family-violence-leave', 'preliminary', 'discrimination']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 16. Anti Discrimination
+# 16. Anti-Discrimination
 
 **16.1** It is the intention of the parties covered by this Agreement to achieve the principal object in section 3(e) of the Act through respecting and valuing the diversity of the workforce by helping to prevent and eliminate discrimination on the basis of race, colour, sex, sexual orientation , breastfeeding, gender identity, intersex status, and experience of family and domestic violence, age, physical or mental disability, marital status, family or carer responsibilities, pregnancy, religion, political opinion, national extraction or social origin.
 
