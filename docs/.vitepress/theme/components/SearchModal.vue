@@ -33,6 +33,18 @@
               @keydown.down.prevent="focusResult(0)"
               autocomplete="off"
             />
+            <!-- Save / bookmark button — only shown when there is an active query on the Search tab -->
+            <button
+              v-if="activeTab === 'search' && query.trim().length >= 2"
+              class="save-search-btn"
+              :class="{ saved: isCurrentQuerySaved }"
+              @click="toggleSaveSearch"
+              :aria-label="isCurrentQuerySaved ? 'Remove saved search' : 'Save this search'"
+              :title="isCurrentQuerySaved ? 'Remove saved search' : 'Save this search'"
+            >
+              <svg v-if="isCurrentQuerySaved" width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+              <svg v-else width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            </button>
             <button class="close-btn" @click="close" aria-label="Close search">
               <kbd>Esc</kbd>
             </button>
@@ -94,7 +106,7 @@
                 <span class="loading-dots">Searching<span>.</span><span>.</span><span>.</span></span>
               </div>
 
-              <!-- Option 9: Did You Mean — fuzzy fallback when zero results -->
+              <!-- No results + optional fuzzy fallback -->
               <div v-else-if="query.length > 1 && results.length === 0 && !fuzzyLoading" class="search-status">
                 <p>No results for <strong>{{ query }}</strong><span v-if="selectedEba || selectedTopic"> with current filters</span>.</p>
                 <p v-if="fuzzyResults.length > 0" class="fuzzy-suggestion">
@@ -137,8 +149,32 @@
                 </p>
               </div>
 
-              <!-- Option 7: Quick Access panel -->
+              <!-- Quick Access panel (no query, no filters) -->
               <div v-else-if="query.length <= 1 && !selectedEba && !selectedTopic" class="quick-access">
+
+                <!-- Saved searches section -->
+                <div v-if="savedSearches.length > 0" class="qa-section">
+                  <div class="qa-section-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                    Saved searches
+                    <button class="qa-clear-recent" @click="clearAllSavedSearches" aria-label="Clear all saved searches">Clear all</button>
+                  </div>
+                  <div class="qa-chips">
+                    <span
+                      v-for="saved in savedSearches"
+                      :key="saved.id"
+                      class="qa-chip qa-chip-saved"
+                    >
+                      <button class="qa-chip-label" @click="useSavedSearch(saved)">
+                        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                        {{ saved.label }}
+                      </button>
+                      <button class="qa-chip-remove" @click.stop="removeSavedSearch(saved.id)" :aria-label="`Remove saved search: ${saved.label}`">×</button>
+                    </span>
+                  </div>
+                </div>
+
+                <!-- Recent searches section -->
                 <div v-if="recentSearches.length > 0" class="qa-section">
                   <div class="qa-section-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
@@ -154,6 +190,8 @@
                     >{{ recent }}</button>
                   </div>
                 </div>
+
+                <!-- Quick access shortcuts -->
                 <div class="qa-section">
                   <div class="qa-section-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
@@ -172,6 +210,7 @@
                     </button>
                   </div>
                 </div>
+
                 <p class="search-hint-small">Type to search across all 1,275 clauses · Use filters to narrow by EBA or topic</p>
               </div>
 
@@ -207,7 +246,6 @@
                     <span v-if="result.meta?.section && result.meta?.clause" class="breadcrumb-sep">›</span>
                     <span v-if="result.meta?.clause" class="breadcrumb-clause">{{ result.meta.clause }}</span>
                   </div>
-                  <!-- Cleaned excerpt — markdown noise stripped, list items formatted -->
                   <div v-if="result.excerpt" class="result-excerpt" v-html="cleanExcerpt(result.excerpt)"></div>
                   <div v-if="result.filters?.topics?.length" class="result-topics">
                     <span v-for="t in result.filters.topics" :key="t" class="result-tag">{{ t }}</span>
@@ -271,7 +309,7 @@
     </Transition>
   </Teleport>
 
-  <!-- Option 8: Floating preview pane — Teleported outside the modal, positioned fixed -->
+  <!-- Floating preview pane -->
   <Teleport to="body">
     <Transition name="preview">
       <div
@@ -318,14 +356,15 @@ import { topicList } from '../../generated/topic-list.mjs'
 const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
 const aiConfigured  = AI_WORKER_URL.length > 0
 
-// ─── sessionStorage keys ─────────────────────────────────────────────────────
+// ─── Storage keys ─────────────────────────────────────────────────────────────
 const SESSION_QUERY_KEY  = 'eba-search-last-query'
 const SESSION_EBA_KEY    = 'eba-search-last-eba'
 const SESSION_TOPIC_KEY  = 'eba-search-last-topic'
 const SESSION_SCROLL_KEY = 'eba-search-last-scroll'
 const SESSION_RECENT_KEY = 'eba-search-recent'
+const LOCAL_SAVED_KEY    = 'eba-search-saved'
 
-// ─── Core state ──────────────────────────────────────────────────────────────
+// ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
 const activeTab           = ref('search')
 const query               = ref('')
@@ -337,22 +376,26 @@ const inputRef            = ref(null)
 const modalRef            = ref(null)
 const resultsContainerRef = ref(null)
 
-// ─── Option 8: floating preview state ────────────────────────────────────────
+// ─── Floating preview state ───────────────────────────────────────────────────
 const previewResult  = ref(null)
 const previewVisible = ref(false)
 const previewStyle   = ref({})
 let previewHideTimer = null
 let previewKeep      = false
 
-// ─── Option 9: fuzzy fallback ─────────────────────────────────────────────────
+// ─── Fuzzy fallback ───────────────────────────────────────────────────────────
 const fuzzyResults  = ref([])
 const fuzzyQuery    = ref('')
 const fuzzyLoading  = ref(false)
 
-// ─── Option 7: recent searches ───────────────────────────────────────────────
+// ─── Recent searches (sessionStorage — session-scoped) ────────────────────────
 const recentSearches = ref([])
 
-// ─── AI state ────────────────────────────────────────────────────────────────
+// ─── Saved searches (localStorage — persists across sessions) ─────────────────
+// Each entry: { id: string, label: string, query: string, eba: string, topic: string }
+const savedSearches = ref([])
+
+// ─── AI state ─────────────────────────────────────────────────────────────────
 const aiLoading = ref(false)
 const aiAnswer  = ref('')
 const aiSources = ref([])
@@ -361,7 +404,7 @@ const aiError   = ref('')
 let searchTimer = null
 let pagefind    = null
 
-// ─── Option 7: Quick Access shortcuts (5 items, wages + allowances split) ────
+// ─── Quick Access shortcuts ───────────────────────────────────────────────────
 const quickAccessShortcuts = [
   { icon: '⏱️', label: 'Overtime & Penalty Rates', topic: 'overtime',    query: '' },
   { icon: '📅', label: 'Leave Entitlements',        topic: 'leave',       query: '' },
@@ -376,78 +419,123 @@ function fireShortcut(shortcut) {
   doSearch()
 }
 
-// ─── Markdown → HTML renderer for AI responses ────────────────────────────────
-// Converts the subset of Markdown the AI system prompt produces into safe HTML.
-// Handles: headings, bold, italic, inline code, numbered lists, bullet lists,
-// blockquotes (🧠 Brain Mode), horizontal rules, paragraphs, and line breaks.
-// Does NOT use an external library — keeps the bundle lean.
-// ─── Markdown → HTML renderer for AI responses ────────────────────────────────
-// ─── Markdown → HTML renderer for AI responses ────────────────────────────────
+// ─── EBA colour map ───────────────────────────────────────────────────────────
+const ebaColors = {
+  'Allied Health Professionals 2021-2026':       { color: '#EA580C', bg: '#EA580C1A' },
+  'Biomedical Engineers 2025-2028':              { color: '#4F46E5', bg: '#4F46E51A' },
+  "Children's Services Award 2010":              { color: '#DB2777', bg: '#DB27771A' },
+  'Doctors in Training 2022-2026':               { color: '#D97706', bg: '#D977061A' },
+  'Health Allied & Managers Admin 2021-2025':    { color: '#3B82F6', bg: '#3B82F61A' },
+  'Medical Specialists 2022-2026':               { color: '#0891B2', bg: '#0891B21A' },
+  'Mental Health Services 2024-2028':            { color: '#7C3AED', bg: '#7C3AED1A' },
+  'Medical Scientists, Pharm & Psych 2021-2025': { color: '#059669', bg: '#0596691A' },
+  'Nurses and Midwives 2024-2028':               { color: '#E11D48', bg: '#E11D481A' },
+}
+
+function ebaStyle(ebaName) {
+  const c = ebaColors[ebaName]
+  if (!c) return {}
+  return { color: c.color, backgroundColor: c.bg, borderColor: c.color + '40' }
+}
+
+const ebaList = [
+  'Allied Health Professionals 2021-2026',
+  'Biomedical Engineers 2025-2028',
+  "Children's Services Award 2010",
+  'Doctors in Training 2022-2026',
+  'Health Allied & Managers Admin 2021-2025',
+  'Medical Specialists 2022-2026',
+  'Mental Health Services 2024-2028',
+  'Medical Scientists, Pharm & Psych 2021-2025',
+  'Nurses and Midwives 2024-2028',
+]
+
+// ─── Saved searches logic ─────────────────────────────────────────────────────
+
+const isCurrentQuerySaved = computed(() => {
+  const q = query.value.trim()
+  const e = selectedEba.value
+  const t = selectedTopic.value
+  return savedSearches.value.some(s => s.query === q && s.eba === e && s.topic === t)
+})
+
+function buildSavedLabel() {
+  const parts = []
+  if (query.value.trim()) parts.push(`"${query.value.trim()}"`)
+  if (selectedEba.value)  parts.push(selectedEba.value.split(' ')[0])
+  if (selectedTopic.value) parts.push(selectedTopic.value)
+  return parts.join(' · ') || 'Search'
+}
+
+function toggleSaveSearch() {
+  const q = query.value.trim()
+  const e = selectedEba.value
+  const t = selectedTopic.value
+  const existing = savedSearches.value.find(s => s.query === q && s.eba === e && s.topic === t)
+  if (existing) {
+    savedSearches.value = savedSearches.value.filter(s => s.id !== existing.id)
+  } else {
+    const entry = { id: Date.now().toString(), label: buildSavedLabel(), query: q, eba: e, topic: t }
+    savedSearches.value = [entry, ...savedSearches.value].slice(0, 10)
+  }
+  persistSavedSearches()
+}
+
+function removeSavedSearch(id) {
+  savedSearches.value = savedSearches.value.filter(s => s.id !== id)
+  persistSavedSearches()
+}
+
+function clearAllSavedSearches() {
+  savedSearches.value = []
+  try { localStorage.removeItem(LOCAL_SAVED_KEY) } catch { /* ignore */ }
+}
+
+function useSavedSearch(saved) {
+  query.value         = saved.query
+  selectedEba.value   = saved.eba
+  selectedTopic.value = saved.topic
+  doSearch()
+  nextTick(() => inputRef.value?.focus())
+}
+
+function persistSavedSearches() {
+  try { localStorage.setItem(LOCAL_SAVED_KEY, JSON.stringify(savedSearches.value)) } catch { /* ignore */ }
+}
+
+function loadSavedSearches() {
+  try {
+    const raw = localStorage.getItem(LOCAL_SAVED_KEY)
+    if (raw) savedSearches.value = JSON.parse(raw)
+  } catch { /* ignore */ }
+}
+
+// ─── Markdown → HTML renderer ────────────────────────────────────────────────
 function renderMarkdown(md) {
   if (!md) return ''
-
-  // 0. Normalise line endings
   md = md.replace(/\r\n/g, '\n').replace(/\r/g, '\n')
-
-  // 1. Promote plain-text section labels to bold Markdown (model compliance fallback)
-  md = md.replace(
-    /^(BLUF|Detail|Branches|Branch|Sources?|Update):\s*/gm,
-    '**$1:** '
-  )
-
-  // 2. Auto-bold bare percentages and dollar amounts not already bolded
+  md = md.replace(/^(BLUF|Detail|Branches|Branch|Sources?|Update):\s*/gm, '**$1:** ')
   md = md.replace(/(?<!\*)\b(\d+(?:\.\d+)?%)\b(?!\*)/g, '**$1**')
   md = md.replace(/(?<!\*)\b(\$\d+(?:\.\d+)?)\b(?!\*)/g, '**$1**')
-
-  // 3a. Collapse label-only lines: **Label:**\n\ncontent → **Label:**\ncontent
-  //     The model consistently outputs a blank line between every section label
-  //     and its content. This joins them into one chunk before paragraph splitting.
-  md = md.replace(
-    /^(\*\*(?:BLUF|Detail|Branches|Branch|Sources?|Update):\*\*)\n\n/gm,
-    '$1\n'
-  )
-
-  // 3b. Collapse 3+ consecutive newlines to exactly 2
+  md = md.replace(/^(\*\*(?:BLUF|Detail|Branches|Branch|Sources?|Update):\*\*)\n\n/gm, '$1\n')
   md = md.replace(/\n{3,}/g, '\n\n')
-
-  // 4. Escape HTML to prevent XSS
-  let html = md
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-
-  // 5. Horizontal rules
+  let html = md.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   html = html.replace(/^[-*]{3,}\s*$/gm, '<hr>')
-
-  // 6. Headings
   html = html.replace(/^### (.+)$/gm, '<h4>$1</h4>')
   html = html.replace(/^## (.+)$/gm,  '<h3>$1</h3>')
   html = html.replace(/^# (.+)$/gm,   '<h2>$1</h2>')
-
-  // 7. Bold and italic
   html = html.replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>')
   html = html.replace(/\*([^*\n]+)\*/g,     '<em>$1</em>')
-
-  // 8. Inline code
   html = html.replace(/`([^`\n]+)`/g, '<code>$1</code>')
-
-  // 9. Blockquotes
   html = html.replace(/^&gt;\s?(.+)$/gm, '<blockquote>$1</blockquote>')
-
-  // 10. Process line-by-line: build list blocks AND extract section labels
-  //     that sit on their own line immediately before a list item.
-  //     This prevents <p><ul> invalid nesting that breaks browser layout.
   const sectionLabelRe = /^<strong>(BLUF|Detail|Branches|Branch|Sources?|Update):<\/strong>\s*$/
   const lines = html.split('\n')
   const out   = []
-  let inOl    = false
-  let inUl    = false
-
+  let inOl = false, inUl = false
   for (let i = 0; i < lines.length; i++) {
     const line    = lines[i]
     const olMatch = line.match(/^(\d+)\.\s+(.+)/)
     const ulMatch = line.match(/^[-*+]\s+(.+)/)
-
     if (olMatch) {
       if (inUl) { out.push('</ul>'); inUl = false }
       if (!inOl) { out.push('<ol>'); inOl = true }
@@ -457,14 +545,9 @@ function renderMarkdown(md) {
       if (!inUl) { out.push('<ul>'); inUl = true }
       out.push(`<li>${ulMatch[1]}</li>`)
     } else {
-      // Close any open list before emitting a non-list line
       if (inOl) { out.push('</ol>'); inOl = false }
       if (inUl) { out.push('</ul>'); inUl = false }
-
-      // If this line is a standalone section label AND the next line is a
-      // list item, emit the label as a standalone section paragraph now,
-      // then let the next iteration open the list cleanly.
-      const nextLine = lines[i + 1] || ''
+      const nextLine   = lines[i + 1] || ''
       const nextIsList = /^[-*+\d]/.test(nextLine.trim())
       if (sectionLabelRe.test(line.trim()) && nextIsList) {
         out.push(`<p class="ai-section">${line.trim()}</p>`)
@@ -476,110 +559,51 @@ function renderMarkdown(md) {
   if (inOl) out.push('</ol>')
   if (inUl) out.push('</ul>')
   html = out.join('\n')
-
-  // 11. Paragraphs — split on double newlines
-  //     Lines that start with a bold section label get class="ai-section"
   const blockTags   = /^<(h[2-6]|ul|ol|blockquote|hr|pre|div|p\s)/
   const sectionOpen = /^<strong>(BLUF|Detail|Branches|Branch|Sources?|Update):/
-  const paragraphs  = html.split(/\n{2,}/).map(chunk => {
+  html = html.split(/\n{2,}/).map(chunk => {
     const trimmed = chunk.trim()
     if (!trimmed) return ''
-    // Already a block element (including our pre-built <p class="ai-section">)
     if (blockTags.test(trimmed)) return trimmed
     const cls = sectionOpen.test(trimmed) ? ' class="ai-section"' : ''
     return `<p${cls}>${trimmed.replace(/\n/g, '<br>')}</p>`
-  })
-  html = paragraphs.filter(Boolean).join('\n')
-
-  // 12. Merge adjacent same-type list tags split across paragraph boundaries
-  html = html.replace(/<\/ol>\n<ol>/g, '')
-  html = html.replace(/<\/ul>\n<ul>/g, '')
-
+  }).filter(Boolean).join('\n')
+  html = html.replace(/<\/ol>\n<ol>/g, '').replace(/<\/ul>\n<ul>/g, '')
   return html
 }
 
-// ─── Option 4: Excerpt cleaner ────────────────────────────────────────────────
-// Pagefind returns raw indexed text that still contains markdown syntax characters
-// because they were present as text nodes in the crawled HTML.
-// This function strips that noise and re-formats list items into a readable
-// sentence-like form, preserving Pagefind's <mark> highlight tags.
+// ─── Excerpt cleaner ─────────────────────────────────────────────────────────
 function cleanExcerpt(raw) {
   if (!raw) return ''
-
-  // 1. Strip all HTML tags except <mark> and </mark>
   let text = raw.replace(/<(?!\/?mark\b)[^>]+>/gi, '')
-
-  // 2. Decode common HTML entities
-  text = text
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-
-  // 3. Strip leading slug/metadata tokens — these are lowercase hyphenated
-  //    strings (e.g. "allowanceswageshigher-duties") that can bleed in from
-  //    Pagefind filter spans before the real sentence begins. We drop everything
-  //    up to and including the last such token before the first capital letter
-  //    or <mark> tag that starts a real word.
-  text = text.replace(/^[\s\w\-]+?(?=[A-Z]|<mark>[A-Z])/, (match) => {
-    // Only strip if the match looks like slug/metadata (no spaces = concatenated
-    // filter values, or all-lowercase hyphenated tokens)
-    if (/^[\s\da-z\-]+$/.test(match)) return ''
-    return match
-  })
-
-  // 4. Strip markdown syntax remnants
-  text = text
-    .replace(/#{1,6}\s+/g, '')      // headings
-    .replace(/\*\*([^*]+)\*\*/g, '$1') // bold
-    .replace(/\*([^*]+)\*/g, '$1')   // italic
-    .replace(/`([^`]+)`/g, '$1')     // inline code
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links
-    .replace(/^[-*+]\s+/gm, '')      // list bullets
-    .replace(/^>\s*/gm, '')          // blockquotes
-
-  // 5. Collapse whitespace
+  text = text.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+             .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+  text = text.replace(/^[\s\w\-]+?(?=[A-Z]|<mark>[A-Z])/, match => /^[\s\da-z\-]+$/.test(match) ? '' : match)
+  text = text.replace(/#{1,6}\s+/g, '').replace(/\*\*([^*]+)\*\*/g, '$1')
+             .replace(/\*([^*]+)\*/g, '$1').replace(/`([^`]+)`/g, '$1')
+             .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/^[-*+]\s+/gm, '').replace(/^>\s*/gm, '')
   text = text.replace(/\s+/g, ' ').trim()
-
-  // 6. Trim to a readable length (300 chars) without cutting mid-word
-  if (text.length > 300) {
-    text = text.slice(0, 300).replace(/\s\S*$/, '') + '…'
-  }
-
+  if (text.length > 300) text = text.slice(0, 300).replace(/\s\S*$/, '') + '…'
   return text
 }
 
-// ─── Option 8: Preview pane positioning ──────────────────────────────────────
-// Reads the modal's bounding rect and positions the preview pane
-// to the right of it, aligned to the hovered card's vertical position.
+// ─── Preview pane ────────────────────────────────────────────────────────────
 function setPreview(result, event) {
   clearTimeout(previewHideTimer)
   previewKeep = false
-
-  // Don't show on narrow viewports where there's no space to the right
   if (window.innerWidth < 900) return
-
   const modal = modalRef.value?.getBoundingClientRect()
   if (!modal) return
-
-  // Position the pane to the right of the modal with a small gap
-  const left   = modal.right + 12
-  const right  = window.innerWidth - left
-
-  // If there's less than 240px to the right, don't show the pane
+  const left  = modal.right + 12
+  const right = window.innerWidth - left
   if (right < 240) return
-
-  // Align vertically to the hovered card, clamped to viewport
-  const card   = event?.currentTarget?.getBoundingClientRect?.() ?? null
-  const top    = card ? Math.min(card.top, window.innerHeight - 360) : modal.top
-  const width  = Math.min(280, right - 16)
-
-  previewStyle.value  = {
-    left:     `${left}px`,
-    top:      `${Math.max(80, top)}px`,
-    width:    `${width}px`,
+  const card  = event?.currentTarget?.getBoundingClientRect?.() ?? null
+  const top   = card ? Math.min(card.top, window.innerHeight - 360) : modal.top
+  const width = Math.min(280, right - 16)
+  previewStyle.value = {
+    left:      `${left}px`,
+    top:       `${Math.max(80, top)}px`,
+    width:     `${width}px`,
     maxHeight: `${window.innerHeight - Math.max(80, top) - 24}px`,
   }
   previewResult.value  = result
@@ -596,13 +620,12 @@ function clearPreview() {
   }, 120)
 }
 
-// Keeps the preview alive if the cursor moves onto the pane itself
 function keepPreview() {
   previewKeep = true
   clearTimeout(previewHideTimer)
 }
 
-// ─── Option 10: Persist & restore session state ───────────────────────────────
+// ─── Session persistence ──────────────────────────────────────────────────────
 function loadPersistedState() {
   try {
     const savedQuery  = sessionStorage.getItem(SESSION_QUERY_KEY)  || ''
@@ -621,7 +644,7 @@ function loadPersistedState() {
         }
       }))
     }
-  } catch { /* sessionStorage unavailable — degrade silently */ }
+  } catch { /* degrade silently */ }
 }
 
 function persistState() {
@@ -657,37 +680,6 @@ function useRecentSearch(term) {
   nextTick(() => inputRef.value?.focus())
 }
 
-// ─── EBA colour map ───────────────────────────────────────────────────────────
-const ebaColors = {
-  'Allied Health Professionals 2021-2026':         { color: '#EA580C', bg: '#EA580C1A' },
-  'Biomedical Engineers 2025-2028':                { color: '#4F46E5', bg: '#4F46E51A' },
-  "Children's Services Award 2010":                { color: '#DB2777', bg: '#DB27771A' },
-  'Doctors in Training 2022-2026':                 { color: '#D97706', bg: '#D977061A' },
-  'Health Allied & Managers Admin 2021-2025':      { color: '#3B82F6', bg: '#3B82F61A' },
-  'Medical Specialists 2022-2026':                 { color: '#0891B2', bg: '#0891B21A' },
-  'Mental Health Services 2024-2028':              { color: '#7C3AED', bg: '#7C3AED1A' },
-  'Medical Scientists, Pharm & Psych 2021-2025':   { color: '#059669', bg: '#0596691A' },
-  'Nurses and Midwives 2024-2028':                 { color: '#E11D48', bg: '#E11D481A' },
-}
-
-function ebaStyle(ebaName) {
-  const c = ebaColors[ebaName]
-  if (!c) return {}
-  return { color: c.color, backgroundColor: c.bg, borderColor: c.color + '40' }
-}
-
-const ebaList = [
-  'Allied Health Professionals 2021-2026',
-  'Biomedical Engineers 2025-2028',
-  "Children's Services Award 2010",
-  'Doctors in Training 2022-2026',
-  'Health Allied & Managers Admin 2021-2025',
-  'Medical Specialists 2022-2026',
-  'Mental Health Services 2024-2028',
-  'Medical Scientists, Pharm & Psych 2021-2025',
-  'Nurses and Midwives 2024-2028',
-]
-
 // ─── Keyboard navigation ──────────────────────────────────────────────────────
 function focusResult(index) {
   nextTick(() => {
@@ -700,25 +692,21 @@ function focusResult(index) {
 
 // ─── Load Pagefind ────────────────────────────────────────────────────────────
 onMounted(async () => {
+  loadSavedSearches()
+  try {
+    const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
+    if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
+  } catch { /* silently ignore */ }
   try {
     const importPath = '/pagefind/pagefind.js'
     pagefind = await new Function('path', 'return import(path)')(importPath)
     await pagefind.init()
     await pagefind.options({
-      ranking: {
-        pageLength:     0.4,
-        termFrequency:  0.8,
-        termSimilarity: 1.2,
-        termSaturation: 1.6,
-      }
+      ranking: { pageLength: 0.4, termFrequency: 0.8, termSimilarity: 1.2, termSaturation: 1.6 }
     })
   } catch {
     console.warn('Pagefind not available — run npm run docs:index first.')
   }
-  try {
-    const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
-    if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
-  } catch { /* silently ignore */ }
 })
 
 // ─── Open / close ─────────────────────────────────────────────────────────────
@@ -806,29 +794,18 @@ async function doSearch() {
       } catch { /* exact search optional */ }
     }
     const allResults = await Promise.all(search.results.slice(0, 25).map(r => r.data()))
-
-    // ── Filter-only relevance sort ──────────────────────────────────────────
-    // When a filter is active but there is no query string, Pagefind has no
-    // relevance score to rank by and falls back to index order (alphabetical
-    // by file path). We re-sort by how prominently the active topic appears
-    // in each page's title, clause name, and section metadata.
     const isFilterOnly = !query.value.trim() && (selectedTopic.value || selectedEba.value)
     if (isFilterOnly && selectedTopic.value) {
       const topic = selectedTopic.value.toLowerCase().replace(/-/g, ' ')
-      const score = (r) => {
-        const title   = (r.meta?.title   || '').toLowerCase()
-        const clause  = (r.meta?.clause  || '').toLowerCase()
-        const section = (r.meta?.section || '').toLowerCase()
+      const score = r => {
         let s = 0
-        if (title.includes(topic))   s += 3
-        if (clause.includes(topic))  s += 2
-        if (section.includes(topic)) s += 1
+        if ((r.meta?.title   || '').toLowerCase().includes(topic)) s += 3
+        if ((r.meta?.clause  || '').toLowerCase().includes(topic)) s += 2
+        if ((r.meta?.section || '').toLowerCase().includes(topic)) s += 1
         return s
       }
       allResults.sort((a, b) => score(b) - score(a))
     }
-    // ───────────────────────────────────────────────────────────────────────
-
     results.value = [
       ...allResults.filter(r => exactIds.has(r.url)),
       ...allResults.filter(r => !exactIds.has(r.url)),
@@ -894,9 +871,7 @@ async function submitAsk() {
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
     const data = await res.json()
-    aiAnswer.value  = renderMarkdown(data.answer ?? 'No answer returned.')
-    // Transform plain URL strings into { url, title } objects for the template.
-    // Title is derived from the last path segment: '49-overtime' → 'Clause 49: Overtime'
+    aiAnswer.value = renderMarkdown(data.answer ?? 'No answer returned.')
     aiSources.value = (data.sources ?? []).map(url => {
       const segment = url.split('/').pop().replace('.html', '')
       const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
@@ -1020,11 +995,11 @@ async function submitAsk() {
   color: var(--vp-c-brand-1); font-size: inherit; cursor: pointer; text-decoration: underline;
 }
 
-/* ── Option 9: fuzzy suggestion ── */
+/* ── Fuzzy suggestion ── */
 .fuzzy-suggestion { font-size: 0.82rem; color: var(--vp-c-text-3); margin-top: 0.75rem; margin-bottom: 0.5rem; }
 .fuzzy-results { opacity: 0.92; }
 
-/* ── Option 7: Quick Access ── */
+/* ── Quick Access ── */
 .quick-access { padding: 0.25rem 0; }
 .qa-section { margin-bottom: 1.25rem; }
 .qa-section-header {
@@ -1039,6 +1014,8 @@ async function submitAsk() {
 }
 .qa-clear-recent:hover { color: var(--vp-c-text-2); }
 .qa-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+
+/* ── Recent search chips (pill style — unchanged) ── */
 .qa-chip {
   padding: 0.25rem 0.65rem; border-radius: 999px;
   border: 1px solid var(--vp-c-divider); background: var(--vp-c-bg-soft);
@@ -1046,6 +1023,37 @@ async function submitAsk() {
   transition: border-color 0.15s, color 0.15s;
 }
 .qa-chip:hover { border-color: var(--vp-c-brand); color: var(--vp-c-brand-1); }
+
+/* ── Saved search chips (inline-code style) ── */
+.qa-chip-saved {
+  display: inline-flex; align-items: center;
+  padding: 0; overflow: hidden;
+  border-radius: 4px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  font-family: var(--vp-font-family-mono, ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace);
+}
+.qa-chip-saved .qa-chip-label {
+  display: flex; align-items: center; gap: 0.3rem;
+  padding: 0.15rem 0.45rem 0.15rem 0.55rem;
+  font-size: 0.78rem; color: var(--vp-c-text-2);
+  background: none; border: none; cursor: pointer;
+  transition: color 0.15s;
+  font-family: inherit;
+}
+.qa-chip-saved .qa-chip-label svg { color: #F59E0B; flex-shrink: 0; }
+.qa-chip-saved .qa-chip-label:hover { color: var(--vp-c-brand-1); }
+.qa-chip-saved .qa-chip-remove {
+  display: flex; align-items: center; justify-content: center;
+  width: 20px; height: 100%; padding: 0 3px;
+  font-size: 0.82rem; line-height: 1;
+  background: none; border: none; border-left: 1px solid var(--vp-c-divider);
+  color: var(--vp-c-text-3); cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+  font-family: inherit;
+}
+.qa-chip-saved .qa-chip-remove:hover { background: var(--vp-c-danger-soft); color: var(--vp-c-danger-1); }
+
 .qa-shortcuts { display: flex; flex-direction: column; gap: 0.35rem; }
 .qa-shortcut {
   display: flex; align-items: center; gap: 0.6rem;
@@ -1088,11 +1096,10 @@ async function submitAsk() {
 .breadcrumb-sep { color: var(--vp-c-text-3); opacity: 0.5; }
 .breadcrumb-clause { font-weight: 600; color: var(--vp-c-text-2); }
 
-/* ── Option 4: Cleaned excerpt ── */
+/* ── Cleaned excerpt ── */
 .result-excerpt {
   font-size: 0.825rem; color: var(--vp-c-text-2);
   line-height: 1.65; margin: 0;
-  /* Prevent the dot-separated list items from becoming excessively long */
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -1109,7 +1116,7 @@ async function submitAsk() {
   color: var(--vp-c-text-3); padding: 0.1rem 0.4rem; border-radius: 999px;
 }
 
-/* ── Option 8: Floating preview pane (outside modal, fixed position) ── */
+/* ── Floating preview pane ── */
 .floating-preview {
   position: fixed;
   z-index: 10000;
@@ -1165,94 +1172,34 @@ async function submitAsk() {
 .ai-loading { text-align: center; color: var(--vp-c-text-2); padding: 2rem 0; font-size: 0.875rem; }
 .ai-error { padding: 1rem; border-radius: 8px; background: var(--vp-c-danger-soft); color: var(--vp-c-danger-1); font-size: 0.875rem; }
 .ai-answer { display: flex; flex-direction: column; gap: 0.75rem; }
-.ai-answer-body {
-  font-size: 0.9rem;
-  line-height: 1.7;
-  color: var(--vp-c-text-1);
-}
-
-/* Headings inside AI response */
+.ai-answer-body { font-size: 0.9rem; line-height: 1.7; color: var(--vp-c-text-1); }
 .ai-answer-body h2,
 .ai-answer-body h3,
 .ai-answer-body h4 {
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--vp-c-text-1);
-  margin: 1rem 0 0.25rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
+  font-size: 0.85rem; font-weight: 700; color: var(--vp-c-text-1);
+  margin: 1rem 0 0.25rem; text-transform: uppercase; letter-spacing: 0.04em;
 }
-
-/* Paragraphs */
-.ai-answer-body p {
-  margin: 0 0 0.5rem;
-}
-.ai-answer-body p:last-child {
-  margin-bottom: 0;
-}
-
-/* Section-opening paragraphs — bold label lines get extra top spacing */
+.ai-answer-body p { margin: 0 0 0.5rem; }
+.ai-answer-body p:last-child { margin-bottom: 0; }
 .ai-answer-body p.ai-section {
-  margin-top: 1rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid var(--vp-c-divider);
+  margin-top: 1rem; padding-top: 0.75rem; border-top: 1px solid var(--vp-c-divider);
 }
-
-/* First section label never gets a top border or extra top margin */
-.ai-answer-body p.ai-section:first-child {
-  margin-top: 0;
-  padding-top: 0;
-  border-top: none;
-}
-
-/* Bold and italic */
-.ai-answer-body strong {
-  font-weight: 650;
-  color: var(--vp-c-text-1);
-}
-.ai-answer-body em {
-  font-style: italic;
-  color: var(--vp-c-text-2);
-}
-
-/* Inline code — clause references */
+.ai-answer-body p.ai-section:first-child { margin-top: 0; padding-top: 0; border-top: none; }
+.ai-answer-body strong { font-weight: 650; color: var(--vp-c-text-1); }
+.ai-answer-body em { font-style: italic; color: var(--vp-c-text-2); }
 .ai-answer-body code {
-  font-family: var(--vp-font-family-mono, monospace);
-  font-size: 0.8rem;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  padding: 0.1em 0.35em;
+  font-family: var(--vp-font-family-mono, monospace); font-size: 0.8rem;
+  background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider);
+  border-radius: 4px; padding: 0.1em 0.35em;
 }
-
-/* Numbered and bullet lists */
-.ai-answer-body ol,
-.ai-answer-body ul {
-  margin: 0.4rem 0 0.65rem 1.25rem;
-  padding: 0;
-}
-.ai-answer-body li {
-  margin-bottom: 0.3rem;
-  line-height: 1.6;
-}
-
-/* Blockquote — Brain Mode 🧠 */
+.ai-answer-body ol, .ai-answer-body ul { margin: 0.4rem 0 0.65rem 1.25rem; padding: 0; }
+.ai-answer-body li { margin-bottom: 0.3rem; line-height: 1.6; }
 .ai-answer-body blockquote {
-  margin: 0.65rem 0;
-  padding: 0.5rem 0.75rem;
-  border-left: 3px solid var(--vp-c-brand);
-  background: var(--vp-c-bg-soft);
-  border-radius: 0 6px 6px 0;
-  font-size: 0.875rem;
-  color: var(--vp-c-text-2);
+  margin: 0.65rem 0; padding: 0.5rem 0.75rem;
+  border-left: 3px solid var(--vp-c-brand); background: var(--vp-c-bg-soft);
+  border-radius: 0 6px 6px 0; font-size: 0.875rem; color: var(--vp-c-text-2);
 }
-
-/* Horizontal rule — section divider */
-.ai-answer-body hr {
-  border: none;
-  border-top: 1px solid var(--vp-c-divider);
-  margin: 0.75rem 0;
-}
+.ai-answer-body hr { border: none; border-top: 1px solid var(--vp-c-divider); margin: 0.75rem 0; }
 .ai-sources { display: flex; flex-direction: column; gap: 0.3rem; }
 .ai-sources-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--vp-c-text-3); margin: 0; }
 .ai-source-link { font-size: 0.82rem; color: var(--vp-c-brand-1); text-decoration: underline; text-underline-offset: 2px; }
@@ -1281,4 +1228,17 @@ async function submitAsk() {
 .modal-enter-active .search-modal, .modal-leave-active .search-modal { transition: transform 0.18s ease, opacity 0.18s ease; }
 .modal-enter-from, .modal-leave-to { opacity: 0; }
 .modal-enter-from .search-modal, .modal-leave-to .search-modal { transform: translateY(-8px); opacity: 0; }
+
+/* ── Save search button ── */
+.save-search-btn {
+  flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px;
+  border: none; background: none; cursor: pointer;
+  color: var(--vp-c-text-3); border-radius: 6px;
+  transition: color 0.15s, background 0.15s;
+}
+.save-search-btn:hover { color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft); }
+.save-search-btn.saved { color: #F59E0B; }
+.save-search-btn.saved:hover { color: #D97706; }
 </style>
