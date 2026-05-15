@@ -9,17 +9,19 @@ import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-chang
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 import FileAttachment from './components/FileAttachment.vue'
 import CopyButton from './components/CopyButton.vue'
+import KeyboardHelp from './components/KeyboardHelp.vue'
 
 export default {
   extends: DefaultTheme,
   Layout() {
-  return h(DefaultTheme.Layout, null, {
-    'nav-bar-content-before': () => h(SearchModal),
-    'doc-before': () => h('div', { 'data-pagefind-body': true, style: 'display:contents' },
-    h(CopyButton)
-  ),
-  })
-},
+    return h(DefaultTheme.Layout, null, {
+      'nav-bar-content-before': () => h(SearchModal),
+      'doc-before': () => h('div', { 'data-pagefind-body': true, style: 'display:contents' },
+        h(CopyButton)
+      ),
+      'layout-bottom': () => h(KeyboardHelp),
+    })
+  },
   enhanceApp({ app }) {
     app.use(NolebaseGitChangelogPlugin)
     app.component('SearchPage', SearchPage)
@@ -28,5 +30,6 @@ export default {
     app.component('HomeCards', HomeCards)
     app.component('FileAttachment', FileAttachment)
     app.component('CopyButton', CopyButton)
+    app.component('KeyboardHelp', KeyboardHelp)
   }
 }
