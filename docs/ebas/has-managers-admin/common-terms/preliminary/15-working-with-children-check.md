@@ -1,5 +1,5 @@
 ---
-title: '15. Working With Children Check'
+title: '15. Working with Children Check'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['screening']
 ---
@@ -11,7 +11,7 @@ topics: ['screening']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 15. Working With Children Check
+# 15. Working with Children Check
 
 **15.1 Requirement to obtain and maintain Working with Children Check** 
 

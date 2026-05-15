@@ -1,5 +1,5 @@
 ---
-title: '30. Advertisement Of Positions'
+title: '30. Advertisement of Positions'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 30. Advertisement Of Positions
+# 30. Advertisement of Positions
 
 Any notice, circular or advertisement for a position covered by the Agreement must specify the applicable rate of pay and classification.
 

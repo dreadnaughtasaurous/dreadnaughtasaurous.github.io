@@ -1,5 +1,5 @@
 ---
-title: '37. Uniform And Protective Clothing'
+title: '37. Uniform and Protective Clothing'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances', 'uniforms']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'uniforms']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 37. Uniform And Protective Clothing
+# 37. Uniform and Protective Clothing
 
 *For the purposes of this [clause 37](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing), uniform means such specific apparel as may be required by the Employer.*
 

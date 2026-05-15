@@ -1,5 +1,5 @@
 ---
-title: '21. Period Of Employment'
+title: '21. Period of Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 21. Period Of Employment
+# 21. Period of Employment
 
 *This clause does not apply to casual employees.*
 

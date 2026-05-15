@@ -1,5 +1,5 @@
 ---
-title: '25. Transition To Retirement'
+title: '25. Transition to Retirement'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 25. Transition To Retirement
+# 25. Transition to Retirement
 
 **25.1** An Employee may advise their Employer in writing of their intention to retire within the next five years and participate in a retirement transition arrangement.
 

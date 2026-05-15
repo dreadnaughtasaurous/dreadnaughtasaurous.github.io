@@ -1,5 +1,5 @@
 ---
-title: '27. Transition To Retirement'
+title: '27. Transition to Retirement'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 27. Transition To Retirement
+# 27. Transition to Retirement
 
 **27.1** Employees may advise their Employer in writing of their intention to retire within the next five years from their Employer and may participate in a transition to retirement arrangement. Subject to this Agreement, a transition to retirement arrangement is a permanent arrangement that is agreed between the Employee and the Employer.
 

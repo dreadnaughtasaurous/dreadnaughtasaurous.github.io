@@ -1,5 +1,5 @@
 ---
-title: '24. Termination Of Employment'
+title: '24. Termination of Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'termination']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 24. Termination Of Employment
+# 24. Termination of Employment
 
 >**Note:** this [clause 24](/ebas/allied-health/employment/24-termination-of-employment) only applies to full-time and part-time Employees unless otherwise indicated.
 

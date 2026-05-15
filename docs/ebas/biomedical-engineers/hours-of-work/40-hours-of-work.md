@@ -1,5 +1,5 @@
 ---
-title: '40. Hours Of Work'
+title: '40. Hours of Work'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 40. Hours Of Work
+# 40. Hours of Work
 
 **40.1 All Employers excluding the Royal Children’s Hospital and the Royal Women’s Hospital**
 

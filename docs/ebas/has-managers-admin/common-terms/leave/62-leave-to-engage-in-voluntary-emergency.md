@@ -1,5 +1,5 @@
 ---
-title: '62. Leave To Engage In Voluntary Emergency Management Activities'
+title: '62. Leave to Engage in Voluntary Emergency Management Activities'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 62. Leave To Engage In Voluntary Emergency Management Activities
+# 62. Leave to Engage in Voluntary Emergency Management Activities
 
 **62.1** An Employee who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Employee at a time when the Employee would otherwise be required to be at work is entitled to leave for:
 

@@ -1,5 +1,5 @@
 ---
-title: '29. Payment Of Wages, Allowances, Employee Records, and Related Matters'
+title: '29. Payment of Wages, Allowances, Employee Records, and Related Matters'
 eba: 'Mental Health Services 2024-2028'
 topics: ['allowances', 'wages']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'wages']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 29. Payment Of Wages, Allowances, Employee Records, and Related Matters
+# 29. Payment of Wages, Allowances, Employee Records, and Related Matters
 
 **29.1 Wages and allowances** 
 

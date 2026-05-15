@@ -1,5 +1,5 @@
 ---
-title: "Schedule F - Agreement To Take Annual Leave In Advance: Children's Services EBA"
+title: "Schedule F - Agreement to Take Annual Leave in Advance: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'leave', 'annual-leave']
 ---
@@ -8,7 +8,7 @@ topics: ['schedules', 'leave', 'annual-leave']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Schedule F - Agreement To Take Annual Leave In Advance: Children's Services EBA
+# Schedule F - Agreement to Take Annual Leave in Advance: Children's Services EBA
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '29A. Certificate Of Service'
+title: '29A. Certificate of Service'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'termination']
 ---
@@ -11,7 +11,7 @@ topics: ['employment', 'termination']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 29A. Certificate Of Service
+# 29A. Certificate of Service
 
 **29A.1** The Health Service will record the following particulars in respect of each Doctor:
 

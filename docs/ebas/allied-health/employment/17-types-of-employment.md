@@ -1,5 +1,5 @@
 ---
-title: '17. Types Of Employment'
+title: '17. Types of Employment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 17. Types Of Employment
+# 17. Types of Employment
 
 
 

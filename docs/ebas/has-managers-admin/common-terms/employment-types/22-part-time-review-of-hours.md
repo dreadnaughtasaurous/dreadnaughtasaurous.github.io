@@ -1,5 +1,5 @@
 ---
-title: '22. Part Time Review Of Hours'
+title: '22. Part-Time Review of Hours'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 22. Part Time Review Of Hours
+# 22. Part-Time Review of Hours
 
 **22.1** Where over a period of 26 weeks or more a part-time Employee regularly and systematically works more than their contracted hours, the Employer or the Employee may request in writing a contract reflecting that the Employee’s hours have increased on a permanent basis. Such a request will not be unreasonably refused by either party.
 

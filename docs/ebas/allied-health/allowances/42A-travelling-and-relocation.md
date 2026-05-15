@@ -1,5 +1,5 @@
 ---
-title: '42A. Travelling And Relocation'
+title: '42A. Travelling and Relocation'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances', 'travel']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'travel']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 42A. Travelling And Relocation
+# 42A. Travelling and Relocation
 
 
 

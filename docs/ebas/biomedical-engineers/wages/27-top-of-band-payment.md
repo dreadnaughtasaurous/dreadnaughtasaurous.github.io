@@ -1,5 +1,5 @@
 ---
-title: '27. Top Of Band Payment'
+title: '27. Top of Band Payment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 27. Top Of Band Payment
+# 27. Top of Band Payment
 
 **27.1 Eligibility** 
 

@@ -1,5 +1,5 @@
 ---
-title: '13A. Consultation About Changes To Rosters Or Hours Of Work'
+title: '13A. Consultation About Changes to Rosters or Hours of Work'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'rosters', 'consultation']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters', 'consultation']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 13A. Consultation About Changes To Rosters Or Hours Of Work
+# 13A. Consultation About Changes to Rosters or Hours of Work
 
 
 

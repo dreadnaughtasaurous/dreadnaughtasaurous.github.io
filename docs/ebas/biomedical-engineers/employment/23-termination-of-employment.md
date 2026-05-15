@@ -1,5 +1,5 @@
 ---
-title: '23. Termination Of Employment'
+title: '23. Termination of Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'termination']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 23. Termination Of Employment
+# 23. Termination of Employment
 
 This clause only applies to full-time and part-time Employees.
 

@@ -1,5 +1,5 @@
 ---
-title: '55. Fitness For Work'
+title: '55. Fitness for Work'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 55. Fitness For Work
+# 55. Fitness for Work
 
 **55.1 Fit for Work**
 

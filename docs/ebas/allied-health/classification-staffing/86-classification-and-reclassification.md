@@ -1,5 +1,5 @@
 ---
-title: '86. Classification And Reclassification'
+title: '86. Classification and Reclassification'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 86. Classification And Reclassification
+# 86. Classification and Reclassification
 
 
 

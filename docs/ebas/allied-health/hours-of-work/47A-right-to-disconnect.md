@@ -1,5 +1,5 @@
 ---
-title: '47A. Right To Disconnect'
+title: '47A. Right to Disconnect'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 47A. Right To Disconnect
+# 47A. Right to Disconnect
 
 **47A.1** The Employer will respect an Employee’s’ periods of leave and rest days.
 

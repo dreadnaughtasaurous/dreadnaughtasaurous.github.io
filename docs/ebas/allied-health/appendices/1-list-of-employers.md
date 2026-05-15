@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 1 - List Of Employers: Allied Health EBA'
+title: 'Appendix 1 - List of Employers: Allied Health EBA'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Appendix 1 - List Of Employers: Allied Health EBA
+# Appendix 1 - List of Employers: Allied Health EBA
 
 1. Albury Wodonga Health (locations in Victoria including Wodonga Campus)
 2. Alexandra District Health

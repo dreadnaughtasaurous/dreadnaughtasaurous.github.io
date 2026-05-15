@@ -1,5 +1,5 @@
 ---
-title: '90. Workload Allocation And Safe Staffing'
+title: '90. Workload Allocation and Safe Staffing'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'staffing', 'workload']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'staffing', 'workload']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 90. Workload Allocation And Safe Staffing
+# 90. Workload Allocation and Safe Staffing
 
 
 

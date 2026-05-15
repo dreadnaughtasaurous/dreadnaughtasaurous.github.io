@@ -1,5 +1,5 @@
 ---
-title: '21. Ordinary Hours Of Work And Rostering'
+title: '21. Ordinary Hours of Work and Rostering'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'rosters']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school care OSHC children's
 </div>
 
-# 21. Ordinary Hours Of Work And Rostering
+# 21. Ordinary Hours of Work and Rostering
 
 >[Varied by PR503637, PR530861, PR723626, PR724049]
 

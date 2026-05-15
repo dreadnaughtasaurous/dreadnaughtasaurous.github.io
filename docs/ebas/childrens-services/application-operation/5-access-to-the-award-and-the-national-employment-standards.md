@@ -11,7 +11,7 @@ topics: ['preliminary']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 5. Access To The Award And The National Employment Standards
+# 5. Access to the Award and the National Employment Standards
 
 The employer must ensure that copies of this award and the [NES](http://www.fwc.gov.au/documents/awards/resources/nes.pdf) are available to all employees to whom they apply either on a noticeboard which is conveniently located at or near the workplace or through electronic means, whichever makes them more accessible.
 

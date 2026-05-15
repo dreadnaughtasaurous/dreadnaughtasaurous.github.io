@@ -1,5 +1,5 @@
 ---
-title: '10A. Consultation About Changes To Rosters Or Hours Of Work'
+title: '10A. Consultation About Changes to Rosters or Hours of Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'rosters', 'consultation']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters', 'consultation']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 10A. Consultation About Changes To Rosters Or Hours Of Work
+# 10A. Consultation About Changes to Rosters or Hours of Work
 
 *This [clause 10A](/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work) applies where a change to regular rosters or ordinary hours of work (which may impact upon a Doctor, particularly in relation to their family and caring responsibilities) does not constitute ‘Major Change in accordance with [subclause 10.2(c)](/ebas/doctors-in-training/consultation-disputes/10-consultation)).*
 

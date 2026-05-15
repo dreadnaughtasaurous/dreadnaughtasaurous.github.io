@@ -1,5 +1,5 @@
 ---
-title: '21A. Employee Right To Disconnect'
+title: '21A. Employee Right to Disconnect'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'right-to-disconnect']
 ---
@@ -13,7 +13,7 @@ topics: ['hours', 'right-to-disconnect']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 21A. Employee Right To Disconnect
+# 21A. Employee Right to Disconnect
 
 >[21A inserted by PR778104 from 26Aug24]
 

@@ -1,5 +1,5 @@
 ---
-title: '68. Absences On Defence Service'
+title: '68. Absences on Defence Service'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 68. Absences On Defence Service
+# 68. Absences on Defence Service
 
 *This clause does not apply to casual Employees.*
 

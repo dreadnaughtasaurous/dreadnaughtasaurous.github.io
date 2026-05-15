@@ -1,5 +1,5 @@
 ---
-title: '87. Occupational Health And Safety Workplace Violence'
+title: '87. Occupational Health and Safety / Workplace Violence'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 87. Occupational Health And Safety Workplace Violence
+# 87. Occupational Health and Safety / Workplace Violence
 
 **87.1 OHS Risk Management**
 

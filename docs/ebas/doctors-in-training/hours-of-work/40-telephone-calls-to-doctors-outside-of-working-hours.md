@@ -1,5 +1,5 @@
 ---
-title: '40. Telephone Calls To Doctors Outside Of Working Hours'
+title: '40. Telephone Calls to Doctors Outside of Working Hours'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 40. Telephone Calls To Doctors Outside Of Working Hours
+# 40. Telephone Calls to Doctors Outside of Working Hours
 
 **40.1** The provisions of this [clause 40](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours) are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-call).
 

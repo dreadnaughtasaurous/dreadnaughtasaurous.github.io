@@ -1,5 +1,5 @@
 ---
-title: '2. Commencement And Transitional'
+title: '2. Commencement and Transitional'
 eba: 'Children''s Services Award 2010'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 2. Commencement And Transitional
+# 2. Commencement and Transitional
 
 >[Varied by PR542240, PR794818]
 

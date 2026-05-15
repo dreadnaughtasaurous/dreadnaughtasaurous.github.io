@@ -1,5 +1,5 @@
 ---
-title: '28. Salary And Allowances Increases'
+title: '28. Salary and Allowances Increases'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'wages']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances', 'wages']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 28. Salary And Allowances Increases
+# 28. Salary and Allowances Increases
 
 **28.1** The weekly salaries over the life of the Agreement are set out in Schedules 2B and 3B.
 

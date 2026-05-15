@@ -1,5 +1,5 @@
 ---
-title: "Schedule H - Agreement For Time Off Instead Of Payment For Overtime: Children's Services EBA"
+title: "Schedule H - Agreement for Time Off Instead of Payment for Overtime: Children's Services EBA"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'hours', 'overtime']
 ---
@@ -8,7 +8,7 @@ topics: ['schedules', 'hours', 'overtime']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Schedule H - Agreement For Time Off Instead Of Payment For Overtime: Children's Services EBA
+# Schedule H - Agreement for Time Off Instead of Payment for Overtime: Children's Services EBA
 
 >[Sched I inserted by PR584086 ppc 22Aug16; renumbered as Sched H by PR747480 ppc 14Nov22]
 

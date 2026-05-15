@@ -1,5 +1,5 @@
 ---
-title: '52. Cashing Out Of Annual Leave'
+title: '52. Cashing Out of Annual Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'annual-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'annual-leave']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 52. Cashing Out Of Annual Leave
+# 52. Cashing Out of Annual Leave
 
 **52.1** Subject to [subclause 52.2](/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave) below, where an Employee has accrued annual leave in excess of eight (8) weeks then by mutual written agreement between the Employee and the Employer, the Employee may cash out some of the annual leave (and annual leave loading as applicable) due to the Employee as a one off cash payment. Superannuation contributions will be paid by the Employer in respect of the period of annual leave to be paid out.
 

@@ -1,5 +1,5 @@
 ---
-title: '28B. Top Of Band Payment'
+title: '28B. Top of Band Payment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages']
 ---
@@ -13,7 +13,7 @@ topics: ['wages']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 28B. Top Of Band Payment
+# 28B. Top of Band Payment
 
 *This [clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment) applies to full-time, part-time, fixed term and casual Employees.*
 

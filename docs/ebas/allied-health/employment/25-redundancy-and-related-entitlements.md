@@ -1,5 +1,5 @@
 ---
-title: '25. Redundancy And Related Entitlements'
+title: '25. Redundancy and Related Entitlements'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['employment', 'redundancy']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'redundancy']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 25. Redundancy And Related Entitlements
+# 25. Redundancy and Related Entitlements
 
 
 

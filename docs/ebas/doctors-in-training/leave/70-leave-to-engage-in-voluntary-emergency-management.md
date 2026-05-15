@@ -1,5 +1,5 @@
 ---
-title: '70. Leave To Engage In Voluntary Emergency Management Activities'
+title: '70. Leave to Engage in Voluntary Emergency Management Activities'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 70. Leave To Engage In Voluntary Emergency Management Activities
+# 70. Leave to Engage in Voluntary Emergency Management Activities
 
 **70.1** A Doctor who engages in a voluntary emergency management activity with a recognised emergency management body that requires the attendance of the Doctor at a time when the Doctor would otherwise be required to be at work is entitled to leave for:
 

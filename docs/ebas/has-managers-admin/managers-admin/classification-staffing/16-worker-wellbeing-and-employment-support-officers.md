@@ -1,5 +1,5 @@
 ---
-title: '16. Worker Wellbeing And Employment Support Officers'
+title: '16. Worker Wellbeing and Employment Support Officers'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative clerical officer administration health manager patient services officer
 </div>
 
-# 16. Worker Wellbeing And Employment Support Officers
+# 16. Worker Wellbeing and Employment Support Officers
 
 **16.1** From commencement of this Agreement, the role of:
 

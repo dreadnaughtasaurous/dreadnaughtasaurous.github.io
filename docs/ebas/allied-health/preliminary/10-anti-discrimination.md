@@ -1,5 +1,5 @@
 ---
-title: '10. Anti Discrimination'
+title: '10. Anti-Discrimination'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary', 'discrimination']
 ---
@@ -13,7 +13,7 @@ topics: ['preliminary', 'discrimination']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 10. Anti Discrimination
+# 10. Anti-Discrimination
 
 **10.1** Those covered by this Agreement respect and value the diversity of the work force and will help protect Employees against unfair treatment and unlawful discrimination on the basis of race, colour, sex (gender), sexual orientation, age, physical or mental disability, marital status, family responsibilities, pregnancy, religion (religious belief or activity), political opinion (political belief or activity), national extraction, social origin, carer and parental status, employment activity, gender activity, lawful sexual activity, industrial activity, physical features, breastfeeding, expunged homosexual activity, personal association, or any other attributes protected by anti-discrimination legislation.
 

@@ -1,5 +1,5 @@
 ---
-title: '6. Commencement Date And Period Of Operation'
+title: '6. Commencement Date and Period of Operation'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 6. Commencement Date And Period Of Operation
+# 6. Commencement Date and Period of Operation
 
 **6.1** This Agreement will come into effect seven days after the date of approval by the Commission.
 

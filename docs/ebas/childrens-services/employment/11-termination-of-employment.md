@@ -1,5 +1,5 @@
 ---
-title: '11. Termination Of Employment'
+title: '11. Termination of Employment'
 eba: 'Children''s Services Award 2010'
 topics: ['employment', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'termination']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 11. Termination Of Employment
+# 11. Termination of Employment
 
 >**Note:** 
 >

@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 1 - List Of Employers / Health Services: Doctors in Training EBA'
+title: 'Appendix 1 - List of Employers / Health Services: Doctors in Training EBA'
 eba: 'Doctors in Training 2022-2026'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Appendix 1 - List Of Employers / Health Services: Doctors in Training EBA
+# Appendix 1 - List of Employers / Health Services: Doctors in Training EBA
 
 
 1. Albury Wodonga Health (Wodonga Hospital only)

@@ -1,5 +1,5 @@
 ---
-title: '26. Wages And Allowances'
+title: '26. Wages and Allowances'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 26. Wages And Allowances
+# 26. Wages and Allowances
 
 *The weekly salaries and allowances over the life of the Agreement (incorporating the increases set out in this clause) are contained in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates).*
 

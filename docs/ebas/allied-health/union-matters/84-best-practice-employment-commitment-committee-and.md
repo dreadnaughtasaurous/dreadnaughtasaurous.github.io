@@ -1,5 +1,5 @@
 ---
-title: '84. Best Practice Employment Commitment Committee And Classification Review'
+title: '84. Best Practice Employment Commitment Committee and Classification Review'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 84. Best Practice Employment Commitment Committee And Classification Review
+# 84. Best Practice Employment Commitment Committee and Classification Review
 
 **84.1** A Best Practice Employment Commitment Committee (BPECC) will be established during the life of the Agreement and will meet to discuss matters including:
 

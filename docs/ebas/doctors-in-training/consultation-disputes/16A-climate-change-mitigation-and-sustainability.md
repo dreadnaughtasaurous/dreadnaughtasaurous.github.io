@@ -1,5 +1,5 @@
 ---
-title: '16A. Climate Change Mitigation And Sustainability'
+title: '16A. Climate Change Mitigation and Sustainability'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 16A. Climate Change Mitigation And Sustainability
+# 16A. Climate Change Mitigation and Sustainability
 
 **16A.1 Acknowledgment**
 

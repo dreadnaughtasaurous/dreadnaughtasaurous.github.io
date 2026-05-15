@@ -1,5 +1,5 @@
 ---
-title: '6. Commencement Date And Period Of Operation'
+title: '6. Commencement Date and Period of Operation'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 6. Commencement Date And Period Of Operation
+# 6. Commencement Date and Period of Operation
 
 **6.1** This Agreement will come into effect seven (7) days after the date of approval by the Commission.
 

@@ -1,5 +1,5 @@
 ---
-title: '33. Increases To Allowances'
+title: '33. Increases to Allowances'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 33. Increases To Allowances
+# 33. Increases to Allowances
 
 
 

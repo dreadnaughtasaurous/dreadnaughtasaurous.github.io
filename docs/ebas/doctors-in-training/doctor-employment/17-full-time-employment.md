@@ -1,5 +1,5 @@
 ---
-title: '17. Full Time Employment'
+title: '17. Full-Time Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 17. Full Time Employment
+# 17. Full-Time Employment
 
 **(a)** Full-time means:
 

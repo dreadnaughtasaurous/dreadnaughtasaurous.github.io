@@ -1,5 +1,5 @@
 ---
-title: '37. Introduction Of Revised Food Services Classification Structure'
+title: '37. Introduction of Revised Food Services Classification Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['classifications']
 HAS HASMA health administrative manager administrative worker clerical officer administration health manager patient officer
 </div>
 
-# 37. Introduction Of Revised Food Services Classification Structure
+# 37. Introduction of Revised Food Services Classification Structure
 
 **37.1 Food & Domestic Services Assistants**
 

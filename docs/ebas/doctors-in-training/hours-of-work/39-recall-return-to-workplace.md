@@ -1,5 +1,5 @@
 ---
-title: '39. Recall Return To Workplace'
+title: '39. Recall - Return to Workplace'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'on-call', 'allowances']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'on-call', 'allowances']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 39. Recall Return To Workplace
+# 39. Recall - Return to Workplace
 
 **39.1** The provisions of this [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace) are to be read in conjunction with [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) (On-Call) and [clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle) (Travelling Allowance – Use of Private Motor Vehicle)
 

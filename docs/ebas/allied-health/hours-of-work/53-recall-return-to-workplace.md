@@ -1,5 +1,5 @@
 ---
-title: '53. Recall - Return To Workplace'
+title: '53. Recall - Return to Workplace'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'overtime', 'on-call']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime', 'on-call']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 53. Recall - Return To Workplace
+# 53. Recall - Return to Workplace
 
 **53.1** The relevant rate for recall is at [subclause 52.6](/ebas/allied-health/hours-of-work/52-overtime) (Payment of Authorised Overtime and Recall to Duty) above.
 

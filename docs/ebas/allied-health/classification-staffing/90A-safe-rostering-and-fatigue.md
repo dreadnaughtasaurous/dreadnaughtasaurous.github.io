@@ -1,5 +1,5 @@
 ---
-title: '90A. Safe Rostering And Fatigue'
+title: '90A. Safe Rostering and Fatigue'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'rosters']
 ---
@@ -13,7 +13,7 @@ topics: ['hours', 'rosters']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 90A. Safe Rostering And Fatigue
+# 90A. Safe Rostering and Fatigue
 
 
 

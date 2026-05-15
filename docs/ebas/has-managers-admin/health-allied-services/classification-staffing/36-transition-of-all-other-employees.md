@@ -1,5 +1,5 @@
 ---
-title: '36. Transition Of All Other Employees'
+title: '36. Transition of All Other Employees'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 36. Transition Of All Other Employees
+# 36. Transition of All Other Employees
 
 **36.1** Employees who are classified as All Other Employees (not provided for elsewhere) will be reclassified to appropriate classifications no later than 12 months from the commencement date of this Agreement.
 

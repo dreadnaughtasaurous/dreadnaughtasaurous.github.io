@@ -1,5 +1,5 @@
 ---
-title: '4. Application Of This Section'
+title: '4. Application of this Section'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 4. Application Of This Section
+# 4. Application of this Section
 
 The terms and conditions contained in Section 1 of this Agreement apply equally to all Employees, except where expressly excluded.
 

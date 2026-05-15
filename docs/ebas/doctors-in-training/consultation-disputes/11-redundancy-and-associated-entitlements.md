@@ -1,5 +1,5 @@
 ---
-title: '11. Redundancy And Associated Entitlements'
+title: '11. Redundancy and Associated Entitlements'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'redundancy']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'redundancy']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 11. Redundancy And Associated Entitlements
+# 11. Redundancy and Associated Entitlements
 
 **11.1 Arrangement**
 

@@ -1,5 +1,5 @@
 ---
-title: '36. Allowances Related To Overtime And On Call'
+title: '36. Allowances Related to Overtime and On-Call'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'overtime']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 36. Allowances Related To Overtime And On Call
+# 36. Allowances Related to Overtime and On-Call
 
 
 

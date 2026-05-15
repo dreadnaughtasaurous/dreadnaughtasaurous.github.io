@@ -1,5 +1,5 @@
 ---
-title: '23A. Requests For Flexible Working Arrangements'
+title: '23A. Requests for Flexible Working Arrangements'
 eba: 'Children''s Services Award 2010'
 topics: ['flexible-work']
 ---
@@ -11,7 +11,7 @@ topics: ['flexible-work']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 23A. Requests For Flexible Working Arrangements
+# 23A. Requests for Flexible Working Arrangements
 
 >[23A inserted by PR701523 ppc 01Dec18; substituted by PR763327 ppc 01Aug23]
 

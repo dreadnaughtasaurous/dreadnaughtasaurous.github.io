@@ -1,5 +1,5 @@
 ---
-title: '40. Introduction Of Revised Allied Health Assistant Classification Structure'
+title: '40. Introduction of Revised Allied Health Assistant Classification Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA administrative services manager administrative worker clerical officer administration manager patient services officer
 </div>
 
-# 40. Introduction Of Revised Allied Health Assistant Classification Structure
+# 40. Introduction of Revised Allied Health Assistant Classification Structure
 
 **40.1** From FFPPOA 1 July 2021, Employees classified as Allied Health Assistants, Dietary Supervisor, Instructor Trades, Orthotic Technician or Social Worker/Welfare Aide will translate to the new Allied Health Assistant classification structure as follows:
 

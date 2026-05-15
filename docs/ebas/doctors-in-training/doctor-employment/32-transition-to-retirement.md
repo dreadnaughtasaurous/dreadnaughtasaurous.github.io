@@ -1,5 +1,5 @@
 ---
-title: '32. Transition To Retirement'
+title: '32. Transition to Retirement'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 32. Transition To Retirement
+# 32. Transition to Retirement
 
 **32.1** A Doctor may advise their Health Service in writing of their intention to retire within the next five years and participate in a retirement transition arrangement.
 

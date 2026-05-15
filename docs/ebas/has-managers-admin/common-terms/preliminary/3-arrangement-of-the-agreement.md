@@ -1,5 +1,5 @@
 ---
-title: '3. Arrangement Of The Agreement'
+title: '3. Arrangement of the Agreement'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 3. Arrangement Of The Agreement
+# 3. Arrangement of the Agreement
 
 This Agreement is made up of:
 

@@ -1,5 +1,5 @@
 ---
-title: '44. Introduction Of Lifestyle Assistant And Complimentary Therapies Worker Structure'
+title: '44. Introduction of Lifestyle Assistant and Complimentary Therapies Worker Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 44. Introduction Of Lifestyle Assistant And Complimentary Therapies Worker Structure
+# 44. Introduction of Lifestyle Assistant and Complimentary Therapies Worker Structure
 
 **44.1** From 1 April 2022, Employers will commence the review of Employees to determine whether any Employees ought to be reclassified to Lifestyle Assistant or Complimentary Therapies Worker classifications in accordance with [Schedule 2D](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services).
 

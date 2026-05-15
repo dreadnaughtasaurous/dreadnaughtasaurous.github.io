@@ -1,5 +1,5 @@
 ---
-title: '28C. Skills And Incentive Payment'
+title: '28C. Skills and Incentive Payment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 28C. Skills And Incentive Payment
+# 28C. Skills and Incentive Payment
 
 *This [clause 28C](/ebas/allied-health/wages/28C-skills-and-incentive-payment) applies to full-time, part-time and fixed term Employees. It does not apply to casual Employees.*
 

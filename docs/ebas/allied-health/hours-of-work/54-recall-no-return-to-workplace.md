@@ -1,5 +1,5 @@
 ---
-title: '54. Recall - No Return To Workplace'
+title: '54. Recall - No Return to Workplace'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours', 'overtime', 'on-call', 'allowances']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime', 'on-call', 'allowances']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 54. Recall - No Return To Workplace
+# 54. Recall - No Return to Workplace
 
 **54.1 Non CATT areas**
 

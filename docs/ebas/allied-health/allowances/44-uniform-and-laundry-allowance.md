@@ -1,5 +1,5 @@
 ---
-title: '44. Uniform And Laundry Allowance'
+title: '44. Uniform and Laundry Allowance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances', 'uniforms']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances', 'uniforms']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 44. Uniform And Laundry Allowance
+# 44. Uniform and Laundry Allowance
 
 
 

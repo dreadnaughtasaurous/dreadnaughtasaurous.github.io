@@ -1,5 +1,5 @@
 ---
-title: '25A. Parental Leave And Related Entitlements'
+title: '25A. Parental Leave and Related Entitlements'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'parental-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'parental-leave']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 25A. Parental Leave And Related Entitlements
+# 25A. Parental Leave and Related Entitlements
 
 Parental leave and related entitlements are provided for in the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf).
 

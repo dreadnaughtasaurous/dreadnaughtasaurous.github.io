@@ -1,5 +1,5 @@
 ---
-title: '23. Overtime And Penalty Rates'
+title: '23. Overtime and Penalty Rates'
 eba: 'Children''s Services Award 2010'
 topics: ['hours', 'overtime', 'penalty-rates', 'shift-work']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime', 'penalty-rates', 'shift-work']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 23. Overtime And Penalty Rates
+# 23. Overtime and Penalty Rates
 
 >[Varied by PR584086, PR723880, PR747480, PR763327]
 

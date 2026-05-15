@@ -1,5 +1,5 @@
 ---
-title: '55. Travelling Allowance Use Of Private Vehicle'
+title: '55. Travelling Allowance - Use of Private Vehicle'
 eba: 'Doctors in Training 2022-2026'
 topics: ['allowances', 'travel']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'travel']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 55. Travelling Allowance Use Of Private Vehicle
+# 55. Travelling Allowance - Use of Private Vehicle
 
 **55.1** The provisions of this [clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle) are to be read in conjunction with [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace) (Recall).
 

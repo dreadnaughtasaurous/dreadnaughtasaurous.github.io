@@ -1,5 +1,5 @@
 ---
-title: '39. Change Of Shift Allowance'
+title: '39. Change of Shift Allowance'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['shift-work', 'allowances']
 ---
@@ -13,7 +13,7 @@ topics: ['shift-work', 'allowances']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 39. Change Of Shift Allowance
+# 39. Change of Shift Allowance
 
 
 

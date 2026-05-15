@@ -1,5 +1,5 @@
 ---
-title: '18. Managing Conduct And Performance'
+title: '18. Managing Conduct and Performance'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['discipline']
 ---
@@ -13,7 +13,7 @@ topics: ['discipline']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 18. Managing Conduct And Performance
+# 18. Managing Conduct and Performance
 
 **18.1 Application**
 - **(a)** Where an Employer has concerns about:

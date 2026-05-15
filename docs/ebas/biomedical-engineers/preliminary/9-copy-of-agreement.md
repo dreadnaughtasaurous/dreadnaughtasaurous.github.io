@@ -1,5 +1,5 @@
 ---
-title: '9. Copy Of Agreement'
+title: '9. Copy of Agreement'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary']
 ---
@@ -11,6 +11,6 @@ topics: ['preliminary']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 9. Copy Of Agreement
+# 9. Copy of Agreement
 
 The Employer will make a copy of the Agreement and the NES accessible to all Employees either physically or electronically.

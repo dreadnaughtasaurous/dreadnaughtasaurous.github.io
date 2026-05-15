@@ -1,5 +1,5 @@
 ---
-title: '50. Conference Seminar Leave'
+title: '50. Conference/Seminar Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave', 'study-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'study-leave']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 50. Conference Seminar Leave
+# 50. Conference/Seminar Leave
 
 **50.1 Entitlement**
 

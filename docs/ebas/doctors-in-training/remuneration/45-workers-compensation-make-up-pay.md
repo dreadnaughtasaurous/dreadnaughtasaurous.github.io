@@ -1,5 +1,5 @@
 ---
-title: '45. Workers Compensation Make Up Pay'
+title: '45. Workers Compensation Make-Up Pay'
 eba: 'Doctors in Training 2022-2026'
 topics: ['accident-pay']
 ---
@@ -11,7 +11,7 @@ topics: ['accident-pay']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 45. Workers Compensation Make Up Pay
+# 45. Workers Compensation Make-Up Pay
 
 **45.1 Entitlement to Workers Compensation Make-up Pay**
 

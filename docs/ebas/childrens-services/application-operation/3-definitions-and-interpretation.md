@@ -1,5 +1,5 @@
 ---
-title: '3. Definitions And Interpretation'
+title: '3. Definitions and Interpretation'
 eba: 'Children''s Services Award 2010'
 topics: ['delegates', 'preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['delegates', 'preliminary']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 3. Definitions And Interpretation
+# 3. Definitions and Interpretation
 
 **3.1** In this award, unless the contrary intention appears:
 

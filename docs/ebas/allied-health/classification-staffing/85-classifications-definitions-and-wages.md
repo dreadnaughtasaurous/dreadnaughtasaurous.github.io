@@ -1,5 +1,5 @@
 ---
-title: '85. Classifications Definitions And Wages'
+title: '85. Classifications Definitions and Wages'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 85. Classifications Definitions And Wages
+# 85. Classifications Definitions and Wages
 
 
 

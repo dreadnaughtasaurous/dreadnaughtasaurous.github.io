@@ -1,5 +1,5 @@
 ---
-title: '70A. Absences On Defence Leave'
+title: '70A. Absences on Defence Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 70A. Absences On Defence Leave
+# 70A. Absences on Defence Leave
 
 **70A.1** A Full-Time or Part-Time Doctor absent on defence service will be reimbursed by the Employer an amount equal to the difference between:
 

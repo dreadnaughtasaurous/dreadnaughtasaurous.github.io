@@ -1,5 +1,5 @@
 ---
-title: '22. Incidental And Peripheral Duties'
+title: '22. Incidental and Peripheral Duties'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 22. Incidental And Peripheral Duties
+# 22. Incidental and Peripheral Duties
 
 **22.1** The Health Service may direct a Doctor to carry out such duties as are within the limits of the Doctor’s skill, competence and training consistent with the classification structure of the Agreement, provided that such duties are not designed to promote de-skilling.
 

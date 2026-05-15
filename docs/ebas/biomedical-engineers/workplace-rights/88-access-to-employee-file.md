@@ -1,5 +1,5 @@
 ---
-title: '88. Access To Employee File'
+title: '88. Access to Employee File'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -11,6 +11,6 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 88. Access To Employee File
+# 88. Access to Employee File
 
 Upon request the Employee’s personnel file will be available for the Employee to view.

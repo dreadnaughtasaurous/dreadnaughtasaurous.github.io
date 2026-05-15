@@ -1,5 +1,5 @@
 ---
-title: '27. Transition To Retirement'
+title: '27. Transition to Retirement'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 27. Transition To Retirement
+# 27. Transition to Retirement
 
 **27.1** Employees may advise their Employer in writing of their intention to retire within the next five (5) years from their Employer and may participate in a transition to retirement arrangement.
 

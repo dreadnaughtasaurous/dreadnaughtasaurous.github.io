@@ -1,5 +1,5 @@
 ---
-title: "54. Personal Carer's Leave"
+title: "54. Personal/Carer's Leave"
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'personal-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'personal-leave']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 54. Personal Carer's Leave
+# 54. Personal/Carer's Leave
 
 *The provisions of this clause apply to full-time and part-time Employees. See subclause 54.8 for casual Employees’ entitlements.*
 

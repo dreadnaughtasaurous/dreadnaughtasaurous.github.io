@@ -1,5 +1,5 @@
 ---
-title: '5. Date And Period Of Operation'
+title: '5. Date and Period of Operation'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 5. Date And Period Of Operation
+# 5. Date and Period of Operation
 
 **5.1** This Agreement will operate seven days after the date upon which it is approved by the FWC.
 

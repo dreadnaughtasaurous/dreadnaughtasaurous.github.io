@@ -1,5 +1,5 @@
 ---
-title: '9. Nature Of Relationship'
+title: '9. Nature of Relationship'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 9. Nature Of Relationship
+# 9. Nature of Relationship
 
 **9.1** All minimum entitlements available to the Doctor arise through this Agreement and the NES. In most cases, the employment contract will only prescribe and enforce the time period for the employment relationship, whether the employment is full time or part time or casual and require the Doctor to abide by Health Service policies and procedures.
 

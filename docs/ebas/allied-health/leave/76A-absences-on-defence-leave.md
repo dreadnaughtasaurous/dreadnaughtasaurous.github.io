@@ -1,5 +1,5 @@
 ---
-title: '76A. Absences On Defence Leave'
+title: '76A. Absences on Defence Leave'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 76A. Absences On Defence Leave
+# 76A. Absences on Defence Leave
 
 **76A.1** A Full-Time or Part-Time Employee absent on defence service will be reimbursed by the Employer an amount equal to the difference between:
 

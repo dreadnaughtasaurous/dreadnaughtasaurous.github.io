@@ -1,5 +1,5 @@
 ---
-title: '45. Rates For Saturdays Sundays'
+title: '45. Rates for Saturdays & Sundays'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 45. Rates For Saturdays Sundays
+# 45. Rates for Saturdays & Sundays
 
 **45.1** All rostered time of ordinary duty performed on a Saturday or on a Sunday shall be paid for at the rate of time and a half.
 

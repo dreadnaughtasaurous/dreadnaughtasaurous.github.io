@@ -1,5 +1,5 @@
 ---
-title: '59. Replacement Of Doctors When On Leave'
+title: '59. Replacement of Doctors When on Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 59. Replacement Of Doctors When On Leave
+# 59. Replacement of Doctors When on Leave
 
 **59.1** Where a Doctor is absent on planned or unplanned leave, the Health Service will replace the Doctor if not replacing will result or will likely result in an unreasonable workload.
 

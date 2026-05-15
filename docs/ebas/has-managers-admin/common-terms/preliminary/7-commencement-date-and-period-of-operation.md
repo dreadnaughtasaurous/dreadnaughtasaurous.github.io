@@ -1,5 +1,5 @@
 ---
-title: '7. Commencement Date And Period Of Operation'
+title: '7. Commencement Date and Period of Operation'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 7. Commencement Date And Period Of Operation
+# 7. Commencement Date and Period of Operation
 
 **7.1** This Agreement will come into effect seven days after the date of approval by the Commission.
 

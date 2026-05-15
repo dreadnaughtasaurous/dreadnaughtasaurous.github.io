@@ -1,5 +1,5 @@
 ---
-title: '72. Payroll Deduction Of Union Dues'
+title: '72. Payroll Deduction of Union Dues'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['union-matters']
 ---
@@ -11,7 +11,7 @@ topics: ['union-matters']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 72. Payroll Deduction Of Union Dues
+# 72. Payroll Deduction of Union Dues
 
 **72.1** On written request by an Employee, the Employer must deduct HWU membership dues from the Employee’s after tax wages. The Employee must indicate their category of HWU membership to determine the applicable amount of dues to be deducted. The Employee may change their nominated category of membership for the purpose of deductions once a year.
 

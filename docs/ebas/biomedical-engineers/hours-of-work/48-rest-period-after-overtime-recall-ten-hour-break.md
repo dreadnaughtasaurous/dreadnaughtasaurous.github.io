@@ -1,5 +1,5 @@
 ---
-title: '48. Rest Period After Overtime Recall Ten Hour Break'
+title: '48. Rest Period After Overtime/Recall - Ten Hour Break'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 48. Rest Period After Overtime Recall Ten Hour Break
+# 48. Rest Period After Overtime/Recall - Ten Hour Break
 
 **48.1** When overtime, including recall (but excluding recall – no return to workplace) is necessary, it should be arranged so that Employees have at least 10 consecutive hours off duty between that work and the next successive shift.
 

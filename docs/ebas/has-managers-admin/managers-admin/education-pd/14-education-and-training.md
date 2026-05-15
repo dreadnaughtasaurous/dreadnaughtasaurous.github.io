@@ -1,5 +1,5 @@
 ---
-title: '14. Education And Training'
+title: '14. Education and Training'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['education']
 ---
@@ -11,7 +11,7 @@ topics: ['education']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 14. Education And Training
+# 14. Education and Training
 
 *This clause only applies to Managers and Administrative Workers employed by Royal Women’s Hospital or Royal Children’s Hospital.*
 

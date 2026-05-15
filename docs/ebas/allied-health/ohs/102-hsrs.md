@@ -1,5 +1,5 @@
 ---
-title: '102. Health &amp; Safety Representitives'
+title: '102. Health & Safety Representitives (HSRs)'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 102. Health & Safety Representitives
+# 102. Health & Safety Representitives (HSRs)
 
 **102.1 HSR(s) Election Process**
 

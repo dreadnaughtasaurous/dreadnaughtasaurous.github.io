@@ -1,5 +1,5 @@
 ---
-title: '29. Termination Of Employment'
+title: '29. Termination of Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['employment', 'termination']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'termination']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 29. Termination Of Employment
+# 29. Termination of Employment
 
 **29.1** The employment of a full-time or part-time Doctor may be terminated:
 

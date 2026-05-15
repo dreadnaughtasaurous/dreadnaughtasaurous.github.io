@@ -4,107 +4,107 @@ const sidebar = [
     collapsed: true,
     items: [
     { text: 'Allowances', link: '/ebas/allied-health/allowances', collapsed: true, items: [
-        { text: '33. Increases To Allowances', link: '/ebas/allied-health/allowances/33-increases-to-allowances' },
+        { text: '33. Increases to Allowances', link: '/ebas/allied-health/allowances/33-increases-to-allowances' },
         { text: '34. Sole Allowance', link: '/ebas/allied-health/allowances/34-sole-allowance' },
         { text: '35. Higher Qualifications Allowance', link: '/ebas/allied-health/allowances/35-higher-qualifications-allowance' },
-        { text: '36. Allowances Related To Overtime And On Call', link: '/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call' },
+        { text: '36. Allowances Related to Overtime and On-Call', link: '/ebas/allied-health/allowances/36-allowances-related-to-overtime-and-on-call' },
         { text: '37. Higher Duties Allowance', link: '/ebas/allied-health/allowances/37-higher-duties-allowance' },
         { text: '38. Shift Work Allowance', link: '/ebas/allied-health/allowances/38-shift-work-allowance' },
-        { text: '39. Change Of Shift Allowance', link: '/ebas/allied-health/allowances/39-change-of-shift-allowance' },
+        { text: '39. Change of Shift Allowance', link: '/ebas/allied-health/allowances/39-change-of-shift-allowance' },
         { text: '40. Sleepover Allowance', link: '/ebas/allied-health/allowances/40-sleepover-allowance' },
         { text: '41. Travelling Allowance', link: '/ebas/allied-health/allowances/41-travelling-allowance' },
         { text: '42. Travel Payment', link: '/ebas/allied-health/allowances/42-travel-payment' },
-        { text: '42A. Travelling And Relocation', link: '/ebas/allied-health/allowances/42A-travelling-and-relocation' },
-        { text: '43. Working Away From Home', link: '/ebas/allied-health/allowances/43-working-away-from-home' },
-        { text: '44. Uniform And Laundry Allowance', link: '/ebas/allied-health/allowances/44-uniform-and-laundry-allowance' },
+        { text: '42A. Travelling and Relocation', link: '/ebas/allied-health/allowances/42A-travelling-and-relocation' },
+        { text: '43. Working Away from Home', link: '/ebas/allied-health/allowances/43-working-away-from-home' },
+        { text: '44. Uniform and Laundry Allowance', link: '/ebas/allied-health/allowances/44-uniform-and-laundry-allowance' },
         { text: '44A. Lead Apron Allowance', link: '/ebas/allied-health/allowances/44A-lead-apron-allowance' },
         { text: '45. Damaged Clothing Allowance', link: '/ebas/allied-health/allowances/45-damaged-clothing-allowance' },
-        { text: '46. Supervisor Allowance - Medical Technician And Renal Dialysis Technician (Clinical Renal Physiologist) Only', link: '/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal' }
+        { text: '46. Supervisor Allowance - Medical Technician and Renal Dialysis Technician (Clinical Renal Physiologist) Only', link: '/ebas/allied-health/allowances/46-supervisor-allowance-medical-technician-and-renal' }
       ] },
     { text: 'Appendices', link: '/ebas/allied-health/appendices', collapsed: true, items: [
-        { text: '1. List Of Employers', link: '/ebas/allied-health/appendices/1-list-of-employers' },
+        { text: '1. List of Employers', link: '/ebas/allied-health/appendices/1-list-of-employers' },
         { text: '2. Wage Rates', link: '/ebas/allied-health/appendices/2-wage-rates' },
-        { text: '3. Allowances And Top Of Band Payments', link: '/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments' },
+        { text: '3. Allowances and Top of Band Payments', link: '/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments' },
         { text: '4. Classification Definitions', link: '/ebas/allied-health/appendices/4-classification-definitions' },
-        { text: '5. Letter Of Offer', link: '/ebas/allied-health/appendices/5-letter-of-offer' },
-        { text: '6. Certificate Of Service', link: '/ebas/allied-health/appendices/6-certificate-of-service' }
+        { text: '5. Letter of Offer', link: '/ebas/allied-health/appendices/5-letter-of-offer' },
+        { text: '6. Certificate of Service', link: '/ebas/allied-health/appendices/6-certificate-of-service' }
       ] },
     { text: 'Classification Staffing', link: '/ebas/allied-health/classification-staffing', collapsed: true, items: [
-        { text: '85. Classifications Definitions And Wages', link: '/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages' },
-        { text: '86. Classification And Reclassification', link: '/ebas/allied-health/classification-staffing/86-classification-and-reclassification' },
+        { text: '85. Classifications Definitions and Wages', link: '/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages' },
+        { text: '86. Classification and Reclassification', link: '/ebas/allied-health/classification-staffing/86-classification-and-reclassification' },
         { text: '87. Allied Health Manager Structure', link: '/ebas/allied-health/classification-staffing/87-allied-health-manager-structure' },
         { text: '88. Trainee Supervision', link: '/ebas/allied-health/classification-staffing/88-trainee-supervision' },
         { text: '89. Supervision And Management', link: '/ebas/allied-health/classification-staffing/89-supervision-and-management' },
-        { text: '90. Workload Allocation And Safe Staffing', link: '/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing' },
-        { text: '90A. Safe Rostering And Fatigue', link: '/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue' },
+        { text: '90. Workload Allocation and Safe Staffing', link: '/ebas/allied-health/classification-staffing/90-workload-allocation-and-safe-staffing' },
+        { text: '90A. Safe Rostering and Fatigue', link: '/ebas/allied-health/classification-staffing/90A-safe-rostering-and-fatigue' },
         { text: '91. Backfill', link: '/ebas/allied-health/classification-staffing/91-backfill' },
         { text: '92. Advertising Vacancies', link: '/ebas/allied-health/classification-staffing/92-advertising-vacancies' },
         { text: '93. Replacement Positions', link: '/ebas/allied-health/classification-staffing/93-replacement-positions' },
-        { text: '94. Contractors And Labour Hire', link: '/ebas/allied-health/classification-staffing/94-contractors-and-labour-hire' }
+        { text: '94. Contractors and Labour Hire', link: '/ebas/allied-health/classification-staffing/94-contractors-and-labour-hire' }
       ] },
     { text: 'Consultation Disputes', link: '/ebas/allied-health/consultation-disputes', collapsed: true, items: [
         { text: '13. Consultation', link: '/ebas/allied-health/consultation-disputes/13-consultation' },
-        { text: '13A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of' },
+        { text: '13A. Consultation About Changes to Rosters or Hours of Work', link: '/ebas/allied-health/consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of' },
         { text: '14. Dispute Resolution Procedure', link: '/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure' },
         { text: '14A. Independent Dispute Resolution Panel', link: '/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel' },
         { text: '15. Performance Management', link: '/ebas/allied-health/consultation-disputes/15-performance-management' },
-        { text: '16. Managing Conduct And Performance', link: '/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance' }
+        { text: '16. Managing Conduct and Performance', link: '/ebas/allied-health/consultation-disputes/16-managing-conduct-and-performance' }
       ] },
     { text: 'Education & Professional Development', link: '/ebas/allied-health/education-pd', collapsed: true, items: [
         { text: '79. Professional Development Leave', link: '/ebas/allied-health/education-pd/79-professional-development-leave' },
         { text: '80. Study Leave', link: '/ebas/allied-health/education-pd/80-study-leave' },
         { text: '81. Examination Leave', link: '/ebas/allied-health/education-pd/81-examination-leave' },
-        { text: '82. In-Service Education And Training - Royal Childrens Hospital and Royal Womens Hospital', link: '/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s' }
+        { text: "82. In-Service Education And Training - Royal Children's Hospital and Royal Women's Hospital", link: '/ebas/allied-health/education-pd/82-in-service-education-and-training-royal-children-s' }
       ] },
     { text: 'Employment', link: '/ebas/allied-health/employment', collapsed: true, items: [
-        { text: '17. Types Of Employment', link: '/ebas/allied-health/employment/17-types-of-employment' },
+        { text: '17. Types of Employment', link: '/ebas/allied-health/employment/17-types-of-employment' },
         { text: '18. Full-Time Employment', link: '/ebas/allied-health/employment/18-full-time-employment' },
         { text: '19. Part-Time Employment', link: '/ebas/allied-health/employment/19-part-time-employment' },
         { text: '20. Casual Employment', link: '/ebas/allied-health/employment/20-casual-employment' },
         { text: '21. Casual Conversion', link: '/ebas/allied-health/employment/21-casual-conversion' },
         { text: '22. Fixed Term Employment', link: '/ebas/allied-health/employment/22-fixed-term-employment' },
-        { text: '23. Letter Of Offer', link: '/ebas/allied-health/employment/23-letter-of-offer' },
-        { text: '24. Termination Of Employment', link: '/ebas/allied-health/employment/24-termination-of-employment' },
-        { text: '25. Redundancy And Related Entitlements', link: '/ebas/allied-health/employment/25-redundancy-and-related-entitlements' },
+        { text: '23. Letter of Offer', link: '/ebas/allied-health/employment/23-letter-of-offer' },
+        { text: '24. Termination of Employment', link: '/ebas/allied-health/employment/24-termination-of-employment' },
+        { text: '25. Redundancy and Related Entitlements', link: '/ebas/allied-health/employment/25-redundancy-and-related-entitlements' },
         { text: '26. Ending Employment During Parental Leave', link: '/ebas/allied-health/employment/26-ending-employment-during-parental-leave' },
-        { text: '27. Transition To Retirement', link: '/ebas/allied-health/employment/27-transition-to-retirement' }
+        { text: '27. Transition to Retirement', link: '/ebas/allied-health/employment/27-transition-to-retirement' }
       ] },
     { text: 'Hours of Work', link: '/ebas/allied-health/hours-of-work', collapsed: true, items: [
         { text: '47. Hours of Work', link: '/ebas/allied-health/hours-of-work/47-hours-of-work' },
-        { text: '47A. Right To Disconnect', link: '/ebas/allied-health/hours-of-work/47A-right-to-disconnect' },
+        { text: '47A. Right to Disconnect', link: '/ebas/allied-health/hours-of-work/47A-right-to-disconnect' },
         { text: '48. Accrued Days Off', link: '/ebas/allied-health/hours-of-work/48-accrued-days-off' },
         { text: '49. Breaks', link: '/ebas/allied-health/hours-of-work/49-breaks' },
         { text: '50. Roster', link: '/ebas/allied-health/hours-of-work/50-roster' },
         { text: '50A. Biometric Timekeeping', link: '/ebas/allied-health/hours-of-work/50A-biometric-timekeeping' },
-        { text: '51. Rates For Saturdays And Sundays', link: '/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays' },
+        { text: '51. Rates for Saturdays and Sundays', link: '/ebas/allied-health/hours-of-work/51-rates-for-saturdays-and-sundays' },
         { text: '52. Overtime', link: '/ebas/allied-health/hours-of-work/52-overtime' },
-        { text: '53. Recall - Return To Workplace', link: '/ebas/allied-health/hours-of-work/53-recall-return-to-workplace' },
-        { text: '54. Recall - No Return To Workplace', link: '/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace' },
+        { text: '53. Recall - Return to Workplace', link: '/ebas/allied-health/hours-of-work/53-recall-return-to-workplace' },
+        { text: '54. Recall - No Return to Workplace', link: '/ebas/allied-health/hours-of-work/54-recall-no-return-to-workplace' },
         { text: '55. Rest Period After Overtime/Recall - Ten Hour Break', link: '/ebas/allied-health/hours-of-work/55-rest-period-after-overtime-recall-ten-hour-break' },
         { text: '56. Daylight Savings', link: '/ebas/allied-health/hours-of-work/56-daylight-savings' },
-        { text: '57. Make Up Time', link: '/ebas/allied-health/hours-of-work/57-make-up-time' }
+        { text: '57. Make-Up Time', link: '/ebas/allied-health/hours-of-work/57-make-up-time' }
       ] },
     { text: 'Leave', link: '/ebas/allied-health/leave', collapsed: true, items: [
         { text: '58. Public Holidays', link: '/ebas/allied-health/leave/58-public-holidays' },
         { text: '59. Annual Leave', link: '/ebas/allied-health/leave/59-annual-leave' },
-        { text: '60. Cashing Out Of Annual Leave', link: '/ebas/allied-health/leave/60-cashing-out-of-annual-leave' },
+        { text: '60. Cashing Out of Annual Leave', link: '/ebas/allied-health/leave/60-cashing-out-of-annual-leave' },
         { text: '61. Purchased Leave', link: '/ebas/allied-health/leave/61-purchased-leave' },
         { text: "62. Personal Leave (Including Carer's Leave)", link: '/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave' },
-        { text: '63. Casual Employment Caring Responsibilities', link: '/ebas/allied-health/leave/63-casual-employment-caring-responsibilities' },
-        { text: '64. Fitness For Work', link: '/ebas/allied-health/leave/64-fitness-for-work' },
+        { text: '63. Casual Employment - Caring Responsibilities', link: '/ebas/allied-health/leave/63-casual-employment-caring-responsibilities' },
+        { text: '64. Fitness for Work', link: '/ebas/allied-health/leave/64-fitness-for-work' },
         { text: '65. Reasonable Adjustments', link: '/ebas/allied-health/leave/65-reasonable-adjustments' },
         { text: '66. Family Violence Leave', link: '/ebas/allied-health/leave/66-family-violence-leave' },
         { text: '67. Compassionate Leave', link: '/ebas/allied-health/leave/67-compassionate-leave' },
-        { text: '68. Pre Natal Leave', link: '/ebas/allied-health/leave/68-pre-natal-leave' },
-        { text: '69. Pre Adoption Leave', link: '/ebas/allied-health/leave/69-pre-adoption-leave' },
+        { text: '68. Pre-Natal Leave', link: '/ebas/allied-health/leave/68-pre-natal-leave' },
+        { text: '69. Pre-Adoption Leave', link: '/ebas/allied-health/leave/69-pre-adoption-leave' },
         { text: '70. Parental Leave', link: '/ebas/allied-health/leave/70-parental-leave' },
         { text: '71. Breastfeeding', link: '/ebas/allied-health/leave/71-breastfeeding' },
         { text: '72. Long Service Leave', link: '/ebas/allied-health/leave/72-long-service-leave' },
         { text: '73. Blood Donors Leave', link: '/ebas/allied-health/leave/73-blood-donors-leave' },
-        { text: '74. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '74. Leave to Engage in Voluntary Emergency Management Activities', link: '/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management' },
         { text: '75. Ceremonial Leave', link: '/ebas/allied-health/leave/75-ceremonial-leave' },
         { text: '76. Jury Service', link: '/ebas/allied-health/leave/76-jury-service' },
-        { text: '76A. Absences On Defence Leave', link: '/ebas/allied-health/leave/76A-absences-on-defence-leave' },
+        { text: '76A. Absences on Defence Leave', link: '/ebas/allied-health/leave/76A-absences-on-defence-leave' },
         { text: '77. Special Disaster Leave', link: '/ebas/allied-health/leave/77-special-disaster-leave' },
         { text: '78. Gender Transition Leave', link: '/ebas/allied-health/leave/78-gender-transition-leave' }
       ] },
@@ -126,24 +126,24 @@ const sidebar = [
         { text: '3. Index', link: '/ebas/allied-health/preliminary/3-index' },
         { text: '4. Definitions', link: '/ebas/allied-health/preliminary/4-definitions' },
         { text: '5. Incidence Coverage', link: '/ebas/allied-health/preliminary/5-incidence-coverage' },
-        { text: '6. Commencement Date And Period Of Operation', link: '/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation' },
-        { text: '7. Relationship To Previous Industrial Instruments And The NES', link: '/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the' },
+        { text: '6. Commencement Date and Period of Operation', link: '/ebas/allied-health/preliminary/6-commencement-date-and-period-of-operation' },
+        { text: '7. Relationship to Previous Industrial Instruments and the NES', link: '/ebas/allied-health/preliminary/7-relationship-to-previous-industrial-instruments-and-the' },
         { text: '8. Copy of Agreement', link: '/ebas/allied-health/preliminary/8-copy-of-agreement' },
         { text: '9. No Extra Claims', link: '/ebas/allied-health/preliminary/9-no-extra-claims' },
-        { text: '10. Anti Discrimination', link: '/ebas/allied-health/preliminary/10-anti-discrimination' },
-        { text: '11. Transfer Of Business', link: '/ebas/allied-health/preliminary/11-transfer-of-business' },
+        { text: '10. Anti-Discrimination', link: '/ebas/allied-health/preliminary/10-anti-discrimination' },
+        { text: '11. Transfer of Business', link: '/ebas/allied-health/preliminary/11-transfer-of-business' },
         { text: '12. Individual Flexibility Arrangement', link: '/ebas/allied-health/preliminary/12-individual-flexibility-arrangement' }
       ] },
     { text: 'Union Matters', link: '/ebas/allied-health/union-matters', collapsed: true, items: [
         { text: '83. Union Matters', link: '/ebas/allied-health/union-matters/83-union-matters' },
-        { text: '84. Best Practice Employment Commitment Committee And Classification Review', link: '/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and' }
+        { text: '84. Best Practice Employment Commitment Committee and Classification Review', link: '/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and' }
       ] },
     { text: 'Wages', link: '/ebas/allied-health/wages', collapsed: true, items: [
-        { text: '28. Wages And Wage Increases', link: '/ebas/allied-health/wages/28-wages-and-wage-increases' },
-        { text: '28A. Patience In Bargaining Payment', link: '/ebas/allied-health/wages/28A-patience-in-bargaining-payment' },
-        { text: '28B. Top Of Band Payment', link: '/ebas/allied-health/wages/28B-top-of-band-payment' },
-        { text: '28C. Skills And Incentive Payment', link: '/ebas/allied-health/wages/28C-skills-and-incentive-payment' },
-        { text: '29. Payment Of Wages', link: '/ebas/allied-health/wages/29-payment-of-wages' },
+        { text: '28. Wages and Wage Increases', link: '/ebas/allied-health/wages/28-wages-and-wage-increases' },
+        { text: '28A. Patience in Bargaining Payment', link: '/ebas/allied-health/wages/28A-patience-in-bargaining-payment' },
+        { text: '28B. Top of Band Payment', link: '/ebas/allied-health/wages/28B-top-of-band-payment' },
+        { text: '28C. Skills and Incentive Payment', link: '/ebas/allied-health/wages/28C-skills-and-incentive-payment' },
+        { text: '29. Payment of Wages', link: '/ebas/allied-health/wages/29-payment-of-wages' },
         { text: '30. Superannuation', link: '/ebas/allied-health/wages/30-superannuation' },
         { text: '31. Salary Packaging', link: '/ebas/allied-health/wages/31-salary-packaging' },
         { text: '32. Accident Pay', link: '/ebas/allied-health/wages/32-accident-pay' }
@@ -163,19 +163,19 @@ const sidebar = [
         { text: '34. Shift Allowances', link: '/ebas/biomedical-engineers/allowances/34-shift-allowances' },
         { text: '35. Higher Duties Allowance', link: '/ebas/biomedical-engineers/allowances/35-higher-duties-allowance' },
         { text: '36. Travelling Allowance', link: '/ebas/biomedical-engineers/allowances/36-travelling-allowance' },
-        { text: '37. Uniform And Protective Clothing', link: '/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing' },
+        { text: '37. Uniform and Protective Clothing', link: '/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing' },
         { text: '38. Childcare Costs', link: '/ebas/biomedical-engineers/allowances/38-childcare-costs' },
-        { text: '39. Allowances Related To Overtime And On Call', link: '/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call' }
+        { text: '39. Allowances Related to Overtime and On-Call', link: '/ebas/biomedical-engineers/allowances/39-allowances-related-to-overtime-and-on-call' }
       ] },
     { text: 'Appendices', link: '/ebas/biomedical-engineers/appendices', collapsed: true, items: [
-        { text: '1. List Of Employers', link: '/ebas/biomedical-engineers/appendices/1-list-of-employers' },
+        { text: '1. List of Employers', link: '/ebas/biomedical-engineers/appendices/1-list-of-employers' },
         { text: '2. Salaries & Allowances', link: '/ebas/biomedical-engineers/appendices/2-wage-rates' },
         { text: '3. Fixed Term Contract Conversion', link: '/ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion' },
         { text: '4. Certificate of Service', link: '/ebas/biomedical-engineers/appendices/4-certificate-of-service' }
       ] },
     { text: 'Classification Staffing', link: '/ebas/biomedical-engineers/classification-staffing', collapsed: true, items: [
-        { text: '80. Classification And Reclassification', link: '/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification' },
-        { text: '81. Disclosure Of Qualification', link: '/ebas/biomedical-engineers/classification-staffing/81-disclosure-of-qualification' },
+        { text: '80. Classification and Reclassification', link: '/ebas/biomedical-engineers/classification-staffing/80-classification-and-reclassification' },
+        { text: '81. Disclosure of Qualification', link: '/ebas/biomedical-engineers/classification-staffing/81-disclosure-of-qualification' },
         { text: '82. Classification Definitions', link: '/ebas/biomedical-engineers/classification-staffing/82-classification-definitions' },
         { text: '83. Progression', link: '/ebas/biomedical-engineers/classification-staffing/83-progression' },
         { text: '84. Workload', link: '/ebas/biomedical-engineers/classification-staffing/84-workload' }
@@ -199,47 +199,47 @@ const sidebar = [
       ] },
     { text: 'Employment', link: '/ebas/biomedical-engineers/employment', collapsed: true, items: [
         { text: '17. Secure Employment', link: '/ebas/biomedical-engineers/employment/17-secure-employment' },
-        { text: '18. Full Time Employment', link: '/ebas/biomedical-engineers/employment/18-full-time-employment' },
-        { text: '19. Part Time Employment', link: '/ebas/biomedical-engineers/employment/19-part-time-employment' },
+        { text: '18. Full-Time Employment', link: '/ebas/biomedical-engineers/employment/18-full-time-employment' },
+        { text: '19. Part-Time Employment', link: '/ebas/biomedical-engineers/employment/19-part-time-employment' },
         { text: '20. Casual Employment', link: '/ebas/biomedical-engineers/employment/20-casual-employment' },
         { text: '21. Casual Conversion', link: '/ebas/biomedical-engineers/employment/21-casual-conversion' },
         { text: '22. Fixed Term Employment', link: '/ebas/biomedical-engineers/employment/22-fixed-term-employment' },
         { text: '23. Termination Of Employment', link: '/ebas/biomedical-engineers/employment/23-termination-of-employment' },
-        { text: '24. Redundancy And Associated Entitlements', link: '/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements' },
-        { text: '25. Transition To Retirement', link: '/ebas/biomedical-engineers/employment/25-transition-to-retirement' }
+        { text: '24. Redundancy and Associated Entitlements', link: '/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements' },
+        { text: '25. Transition to Retirement', link: '/ebas/biomedical-engineers/employment/25-transition-to-retirement' }
       ] },
-    { text: 'Hours Of Work', link: '/ebas/biomedical-engineers/hours-of-work', collapsed: true, items: [
-        { text: '40. Hours Of Work', link: '/ebas/biomedical-engineers/hours-of-work/40-hours-of-work' },
+    { text: 'Hours of Work', link: '/ebas/biomedical-engineers/hours-of-work', collapsed: true, items: [
+        { text: '40. Hours of Work', link: '/ebas/biomedical-engineers/hours-of-work/40-hours-of-work' },
         { text: '41. Accrued Days Off', link: '/ebas/biomedical-engineers/hours-of-work/41-accrued-days-off' },
         { text: '42. Meal Breaks', link: '/ebas/biomedical-engineers/hours-of-work/42-meal-breaks' },
         { text: '43. Tea Breaks', link: '/ebas/biomedical-engineers/hours-of-work/43-tea-breaks' },
         { text: '44. Rosters', link: '/ebas/biomedical-engineers/hours-of-work/44-rosters' },
-        { text: '45. Rates For Saturdays Sundays', link: '/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays' },
+        { text: '45. Rates for Saturdays & Sundays', link: '/ebas/biomedical-engineers/hours-of-work/45-rates-for-saturdays-sundays' },
         { text: '46. Overtime', link: '/ebas/biomedical-engineers/hours-of-work/46-overtime' },
         { text: '47. Recall', link: '/ebas/biomedical-engineers/hours-of-work/47-recall' },
-        { text: '48. Rest Period After Overtime Recall Ten Hour Break', link: '/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break' },
+        { text: '48. Rest Period After Overtime/Recall - Ten Hour Break', link: '/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break' },
         { text: '49. Daylight Savings', link: '/ebas/biomedical-engineers/hours-of-work/49-daylight-savings' }
       ] },
     { text: 'Leave', link: '/ebas/biomedical-engineers/leave', collapsed: true, items: [
         { text: '50. Public Holidays', link: '/ebas/biomedical-engineers/leave/50-public-holidays' },
         { text: '51. Annual Leave', link: '/ebas/biomedical-engineers/leave/51-annual-leave' },
-        { text: '52. Cashing Out Of Annual Leave', link: '/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave' },
+        { text: '52. Cashing Out of Annual Leave', link: '/ebas/biomedical-engineers/leave/52-cashing-out-of-annual-leave' },
         { text: '53. Purchased Leave', link: '/ebas/biomedical-engineers/leave/53-purchased-leave' },
-        { text: "54. Personal Carer's Leave", link: '/ebas/biomedical-engineers/leave/54-personal-carer-s-leave' },
+        { text: "54. Personal/Carer's Leave", link: '/ebas/biomedical-engineers/leave/54-personal-carer-s-leave' },
         { text: '55. Fitness For Work', link: '/ebas/biomedical-engineers/leave/55-fitness-for-work' },
         { text: '56. Family Violence Leave', link: '/ebas/biomedical-engineers/leave/56-family-violence-leave' },
         { text: '57. Compassionate Leave', link: '/ebas/biomedical-engineers/leave/57-compassionate-leave' },
         { text: '58. Reproductive Health Leave', link: '/ebas/biomedical-engineers/leave/58-reproductive-health-leave' },
-        { text: '59. Pre Natal Leave', link: '/ebas/biomedical-engineers/leave/59-pre-natal-leave' },
-        { text: '60. Pre Adoption Leave', link: '/ebas/biomedical-engineers/leave/60-pre-adoption-leave' },
+        { text: '59. Pre-Natal Leave', link: '/ebas/biomedical-engineers/leave/59-pre-natal-leave' },
+        { text: '60. Pre-Adoption Leave', link: '/ebas/biomedical-engineers/leave/60-pre-adoption-leave' },
         { text: '61. Parental Leave', link: '/ebas/biomedical-engineers/leave/61-parental-leave' },
         { text: '62. Breastfeeding', link: '/ebas/biomedical-engineers/leave/62-breastfeeding' },
         { text: '63. Long Service Leave', link: '/ebas/biomedical-engineers/leave/63-long-service-leave' },
         { text: '64. Blood Donors Leave', link: '/ebas/biomedical-engineers/leave/64-blood-donors-leave' },
-        { text: '65. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '65. Leave to Engage in Voluntary Emergency Management Activities', link: '/ebas/biomedical-engineers/leave/65-leave-to-engage-in-voluntary-emergency-management' },
         { text: '66. Ceremonial Leave', link: '/ebas/biomedical-engineers/leave/66-ceremonial-leave' },
         { text: '67. Jury Service', link: '/ebas/biomedical-engineers/leave/67-jury-service' },
-        { text: '68. Absences On Defence Service', link: '/ebas/biomedical-engineers/leave/68-absences-on-defence-service' },
+        { text: '68. Absences on Defence Service', link: '/ebas/biomedical-engineers/leave/68-absences-on-defence-service' },
         { text: '69. Special Disaster Leave', link: '/ebas/biomedical-engineers/leave/69-special-disaster-leave' },
         { text: '70. Leave Without Pay', link: '/ebas/biomedical-engineers/leave/70-leave-without-pay' }
       ] },
@@ -249,32 +249,32 @@ const sidebar = [
         { text: '3. Arrangement', link: '/ebas/biomedical-engineers/preliminary/3-arrangement' },
         { text: '4. Definitions', link: '/ebas/biomedical-engineers/preliminary/4-definitions' },
         { text: '5. Coverage', link: '/ebas/biomedical-engineers/preliminary/5-coverage' },
-        { text: '6. Commencement Date And Period Of Operation', link: '/ebas/biomedical-engineers/preliminary/6-commencement-date-and-period-of-operation' },
+        { text: '6. Commencement Date and Period of Operation', link: '/ebas/biomedical-engineers/preliminary/6-commencement-date-and-period-of-operation' },
         { text: '7. No Extra Claims', link: '/ebas/biomedical-engineers/preliminary/7-no-extra-claims' },
-        { text: '8. Relationship To Previous Industrial Instruments and the NES', link: '/ebas/biomedical-engineers/preliminary/8-relationship-to-previous-industrial-instruments-and' },
-        { text: '9. Copy Of Agreement', link: '/ebas/biomedical-engineers/preliminary/9-copy-of-agreement' },
-        { text: '10. Anti Discrimination', link: '/ebas/biomedical-engineers/preliminary/10-anti-discrimination' },
+        { text: '8. Relationship to Previous Industrial Instruments and the NES', link: '/ebas/biomedical-engineers/preliminary/8-relationship-to-previous-industrial-instruments-and' },
+        { text: '9. Copy of Agreement', link: '/ebas/biomedical-engineers/preliminary/9-copy-of-agreement' },
+        { text: '10. Anti-Discrimination', link: '/ebas/biomedical-engineers/preliminary/10-anti-discrimination' },
         { text: '11. Individual Flexibility Arrangements', link: '/ebas/biomedical-engineers/preliminary/11-individual-flexibility-arrangements' },
-        { text: '12. Transfer Of Business', link: '/ebas/biomedical-engineers/preliminary/12-transfer-of-business' }
+        { text: '12. Transfer of Business', link: '/ebas/biomedical-engineers/preliminary/12-transfer-of-business' }
       ] },
     { text: 'Union Matters', link: '/ebas/biomedical-engineers/union-matters', collapsed: true, items: [
         { text: '78. Union Matters', link: '/ebas/biomedical-engineers/union-matters/78-union-matters' },
         { text: '79. Best Practice Employment Commitment', link: '/ebas/biomedical-engineers/union-matters/79-best-practice-employment-commitment' }
       ] },
     { text: 'Wages', link: '/ebas/biomedical-engineers/wages', collapsed: true, items: [
-        { text: '26. Wages And Allowances', link: '/ebas/biomedical-engineers/wages/26-wages-and-allowances' },
-        { text: '27. Top Of Band Payment', link: '/ebas/biomedical-engineers/wages/27-top-of-band-payment' },
+        { text: '26. Wages and Allowances', link: '/ebas/biomedical-engineers/wages/26-wages-and-allowances' },
+        { text: '27. Top of Band Payment', link: '/ebas/biomedical-engineers/wages/27-top-of-band-payment' },
         { text: '28. Peter Maccallum Cancer Centre Allowance', link: '/ebas/biomedical-engineers/wages/28-peter-maccallum-cancer-centre-allowance' },
-        { text: '29. Payment Of Wages', link: '/ebas/biomedical-engineers/wages/29-payment-of-wages' },
+        { text: '29. Payment of Wages', link: '/ebas/biomedical-engineers/wages/29-payment-of-wages' },
         { text: '30. Superannuation', link: '/ebas/biomedical-engineers/wages/30-superannuation' },
         { text: '31. Salary Packaging', link: '/ebas/biomedical-engineers/wages/31-salary-packaging' },
-        { text: '32. Accident Make Up Pay', link: '/ebas/biomedical-engineers/wages/32-accident-make-up-pay' }
+        { text: '32. Accident Make-Up Pay', link: '/ebas/biomedical-engineers/wages/32-accident-make-up-pay' }
       ] },
     { text: 'Workplace Rights', link: '/ebas/biomedical-engineers/workplace-rights', collapsed: true, items: [
         { text: '85. Flexible Working Arrangements', link: '/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements' },
         { text: '86. Working From Home', link: '/ebas/biomedical-engineers/workplace-rights/86-working-from-home' },
-        { text: '87. Occupational Health And Safety Workplace Violence', link: '/ebas/biomedical-engineers/workplace-rights/87-occupational-health-and-safety-workplace-violence' },
-        { text: '88. Access To Employee File', link: '/ebas/biomedical-engineers/workplace-rights/88-access-to-employee-file' }
+        { text: '87. Occupational Health and Safety / Workplace Violence', link: '/ebas/biomedical-engineers/workplace-rights/87-occupational-health-and-safety-workplace-violence' },
+        { text: '88. Access to Employee File', link: '/ebas/biomedical-engineers/workplace-rights/88-access-to-employee-file' }
       ] }
     ]
   },
@@ -284,38 +284,38 @@ const sidebar = [
     items: [
     { text: 'Application Operation', link: '/ebas/childrens-services/application-operation', collapsed: true, items: [
         { text: '1. Title', link: '/ebas/childrens-services/application-operation/1-title' },
-        { text: '2. Commencement And Transitional', link: '/ebas/childrens-services/application-operation/2-commencement-and-transitional' },
-        { text: '3. Definitions And Interpretation', link: '/ebas/childrens-services/application-operation/3-definitions-and-interpretation' },
+        { text: '2. Commencement and Transitional', link: '/ebas/childrens-services/application-operation/2-commencement-and-transitional' },
+        { text: '3. Definitions and Interpretation', link: '/ebas/childrens-services/application-operation/3-definitions-and-interpretation' },
         { text: '4. Coverage', link: '/ebas/childrens-services/application-operation/4-coverage' },
-        { text: '5. Access To The Award And The National Employment Standards', link: '/ebas/childrens-services/application-operation/5-access-to-the-award-and-the-national-employment-standards' },
-        { text: '6. The National Employment Standards And This Award', link: '/ebas/childrens-services/application-operation/6-the-national-employment-standards-and-this-award' },
+        { text: '5. Access to the Award and the National Employment Standards', link: '/ebas/childrens-services/application-operation/5-access-to-the-award-and-the-national-employment-standards' },
+        { text: '6. The National Employment Standards and This Award', link: '/ebas/childrens-services/application-operation/6-the-national-employment-standards-and-this-award' },
         { text: '7. Individual Flexibility Arrangements', link: '/ebas/childrens-services/application-operation/7-individual-flexibility-arrangements' }
       ] },
     { text: 'Consultation Disputes', link: '/ebas/childrens-services/consultation-disputes', collapsed: true, items: [
         { text: '7A. Workplace Delegates Rights', link: '/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights' },
         { text: '8. Consultation About Major Workplace Change', link: '/ebas/childrens-services/consultation-disputes/8-consultation-about-major-workplace-change' },
-        { text: '8A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work' },
+        { text: '8A. Consultation About Changes to Rosters or Hours of Work', link: '/ebas/childrens-services/consultation-disputes/8A-consultation-about-changes-to-rosters-or-hours-of-work' },
         { text: '9. Dispute Resolution', link: '/ebas/childrens-services/consultation-disputes/9-dispute-resolution' }
       ] },
     { text: 'Employment', link: '/ebas/childrens-services/employment', collapsed: true, items: [
-        { text: '10. Types Of Employment', link: '/ebas/childrens-services/employment/10-types-of-employment' },
-        { text: '11. Termination Of Employment', link: '/ebas/childrens-services/employment/11-termination-of-employment' },
+        { text: '10. Types of Employment', link: '/ebas/childrens-services/employment/10-types-of-employment' },
+        { text: '11. Termination of Employment', link: '/ebas/childrens-services/employment/11-termination-of-employment' },
         { text: '12. Redundancy', link: '/ebas/childrens-services/employment/12-redundancy' }
       ] },
-    { text: 'Hours Of Work', link: '/ebas/childrens-services/hours-of-work', collapsed: true, items: [
-        { text: '21. Ordinary Hours Of Work And Rostering', link: '/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering' },
-        { text: '21A. Employee Right To Disconnect', link: '/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect' },
+    { text: 'Hours of Work', link: '/ebas/childrens-services/hours-of-work', collapsed: true, items: [
+        { text: '21. Ordinary Hours of Work and Rostering', link: '/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering' },
+        { text: '21A. Employee Right to Disconnect', link: '/ebas/childrens-services/hours-of-work/21A-employee-right-to-disconnect' },
         { text: '22. Breaks', link: '/ebas/childrens-services/hours-of-work/22-breaks' },
-        { text: '23. Overtime And Penalty Rates', link: '/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates' },
-        { text: '23A. Requests For Flexible Working Arrangements', link: '/ebas/childrens-services/hours-of-work/23A-requests-for-flexible-working-arrangements' }
+        { text: '23. Overtime and Penalty Rates', link: '/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates' },
+        { text: '23A. Requests for Flexible Working Arrangements', link: '/ebas/childrens-services/hours-of-work/23A-requests-for-flexible-working-arrangements' }
       ] },
     { text: 'Leave', link: '/ebas/childrens-services/leave', collapsed: true, items: [
         { text: '24. Annual Leave', link: '/ebas/childrens-services/leave/24-annual-leave' },
-        { text: '25. Personal Carer S Leave And Compassionate Leave', link: '/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave' },
-        { text: '25A. Parental Leave And Related Entitlements', link: '/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements' },
+        { text: "25. Personal/Carer's Leave and Compassionate Leave", link: '/ebas/childrens-services/leave/25-personal-carer-s-leave-and-compassionate-leave' },
+        { text: '25A. Parental Leave and Related Entitlements', link: '/ebas/childrens-services/leave/25A-parental-leave-and-related-entitlements' },
         { text: '26. Community Service Leave', link: '/ebas/childrens-services/leave/26-community-service-leave' },
         { text: '27. Public Holidays', link: '/ebas/childrens-services/leave/27-public-holidays' },
-        { text: '28. Family And Domestic Violence Leave', link: '/ebas/childrens-services/leave/28-family-and-domestic-violence-leave' }
+        { text: '28. Family and Domestic Violence Leave', link: '/ebas/childrens-services/leave/28-family-and-domestic-violence-leave' }
       ] },
     { text: 'Schedules', link: '/ebas/childrens-services/schedules', collapsed: true, items: [
         { text: 'A - Transitional Provisions', link: '/ebas/childrens-services/schedules/a-transitional-provisions' },
@@ -323,9 +323,9 @@ const sidebar = [
         { text: 'C - Supported Wage System', link: '/ebas/childrens-services/schedules/c-supported-wage-system' },
         { text: 'D - National Training Wage', link: '/ebas/childrens-services/schedules/d-national-training-wage' },
         { text: 'E - School Based Apprentices', link: '/ebas/childrens-services/schedules/e-school-based-apprentices' },
-        { text: 'F - Agreement To Take Annual Leave In Advance', link: '/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance' },
-        { text: 'G - Agreement To Cash Out Annual Leave', link: '/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave' },
-        { text: 'H - Agreement For Time Off Instead Of Payment For Overtime', link: '/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime' }
+        { text: 'F - Agreement to Take Annual Leave In Advance', link: '/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance' },
+        { text: 'G - Agreement to Cash Out Annual Leave', link: '/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave' },
+        { text: 'H - Agreement for Time Off Instead of Payment for Overtime', link: '/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime' }
       ] },
     { text: 'Wages', link: '/ebas/childrens-services/wages', collapsed: true, items: [
         { text: '13. Classifications', link: '/ebas/childrens-services/wages/13-classifications' },
@@ -334,7 +334,7 @@ const sidebar = [
         { text: '16. District Allowances', link: '/ebas/childrens-services/wages/16-district-allowances' },
         { text: '17. Accident Pay', link: '/ebas/childrens-services/wages/17-accident-pay' },
         { text: '18. Higher Duties', link: '/ebas/childrens-services/wages/18-higher-duties' },
-        { text: '19. Payment Of Wages', link: '/ebas/childrens-services/wages/19-payment-of-wages' },
+        { text: '19. Payment of Wages', link: '/ebas/childrens-services/wages/19-payment-of-wages' },
         { text: '20. Superannuation', link: '/ebas/childrens-services/wages/20-superannuation' }
       ] }
     ]
@@ -344,84 +344,84 @@ const sidebar = [
     collapsed: true,
     items: [
     { text: 'Accommodation', link: '/ebas/doctors-in-training/accommodation', collapsed: true, items: [
-        { text: '72. Amenities And Facilities', link: '/ebas/doctors-in-training/accommodation/72-amenities-and-facilities' },
-        { text: '73. Facilities When On Rotation', link: '/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation' },
+        { text: '72. Amenities and Facilities', link: '/ebas/doctors-in-training/accommodation/72-amenities-and-facilities' },
+        { text: '73. Facilities When on Rotation', link: '/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation' },
         { text: '74. Breastfeeding', link: '/ebas/doctors-in-training/accommodation/74-breastfeeding' },
-        { text: '75. Deductions For Board And Lodging', link: '/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging' }
+        { text: '75. Deductions for Board and Lodging', link: '/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging' }
       ] },
     { text: 'Allowances', link: '/ebas/doctors-in-training/allowances', collapsed: true, items: [
         { text: '51. Higher Duties', link: '/ebas/doctors-in-training/allowances/51-higher-duties' },
         { text: '52. Rotation Allowances', link: '/ebas/doctors-in-training/allowances/52-rotation-allowances' },
         { text: '53. Meal Allowance', link: '/ebas/doctors-in-training/allowances/53-meal-allowance' },
         { text: '54. Telephone Allowance', link: '/ebas/doctors-in-training/allowances/54-telephone-allowance' },
-        { text: '55. Travelling Allowance Use Of Private Vehicle', link: '/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle' },
-        { text: '56. Uniform Laundry Allowance', link: '/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance' },
-        { text: '57. Child Care Costs Reimbursement Out Of Hours Work', link: '/ebas/doctors-in-training/allowances/57-child-care-costs-reimbursement-out-of-hours-work' },
+        { text: '55. Travelling Allowance - Use of Private Vehicle', link: '/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle' },
+        { text: '56. Uniform/Laundry Allowance', link: '/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance' },
+        { text: '57. Child Care Costs Reimbursement - Out of Hours Work', link: '/ebas/doctors-in-training/allowances/57-child-care-costs-reimbursement-out-of-hours-work' },
         { text: '57A. Designated Location Bonus', link: '/ebas/doctors-in-training/allowances/57A-designated-location-bonus' }
       ] },
     { text: 'Appendices', link: '/ebas/doctors-in-training/appendices', collapsed: true, items: [
-        { text: '1. List Of Employers Health Services', link: '/ebas/doctors-in-training/appendices/1-list-of-employers-health-services' },
-        { text: '2. Doctors In Training Remuneration Allowances And Deductions', link: '/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions' },
-        { text: '3. Template Certificate Of Service', link: '/ebas/doctors-in-training/appendices/3-template-certificate-of-service' },
-        { text: '4. Agreement To Take Annual Leave In Advance', link: '/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance' },
-        { text: '5. Agreement To Cash Out Annual Leave', link: '/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave' }
+        { text: '1. List of Employers / Health Services', link: '/ebas/doctors-in-training/appendices/1-list-of-employers-health-services' },
+        { text: '2. Doctors in Training Remuneration Allowances and Deductions', link: '/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions' },
+        { text: '3. Template Certificate of Service', link: '/ebas/doctors-in-training/appendices/3-template-certificate-of-service' },
+        { text: '4. Agreement to Take Annual Leave in Advance', link: '/ebas/doctors-in-training/appendices/4-agreement-to-take-annual-leave-in-advance' },
+        { text: '5. Agreement to Cash Out Annual Leave', link: '/ebas/doctors-in-training/appendices/5-agreement-to-cash-out-annual-leave' }
       ] },
     { text: 'Consultation Disputes', link: '/ebas/doctors-in-training/consultation-disputes', collapsed: true, items: [
         { text: '10. Consultation', link: '/ebas/doctors-in-training/consultation-disputes/10-consultation' },
-        { text: '10A. Consultation About Changes To Rosters Or Hours Of Work', link: '/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work' },
-        { text: '11. Redundancy And Associated Entitlements', link: '/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements' },
+        { text: '10A. Consultation About Changes to Rosters or Hours of Work', link: '/ebas/doctors-in-training/consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work' },
+        { text: '11. Redundancy and Associated Entitlements', link: '/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements' },
         { text: '12. Dispute Resolution Procedure', link: '/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure' },
-        { text: '13. Managing Conduct And Performance Discipline', link: '/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline' },
+        { text: '13. Managing Conduct and Performance (Discipline)', link: '/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline' },
         { text: '13A. Performance Management', link: '/ebas/doctors-in-training/consultation-disputes/13A-performance-management' },
-        { text: '14. Prevention And Management Of Workplace Bullying', link: '/ebas/doctors-in-training/consultation-disputes/14-prevention-and-management-of-workplace-bullying' },
+        { text: '14. Prevention and Management of Workplace Bullying', link: '/ebas/doctors-in-training/consultation-disputes/14-prevention-and-management-of-workplace-bullying' },
         { text: '15. Flexible Working Arrangements', link: '/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements' },
         { text: '16. Individual Flexibility Arrangements', link: '/ebas/doctors-in-training/consultation-disputes/16-individual-flexibility-arrangements' },
-        { text: '16A. Climate Change Mitigation And Sustainability', link: '/ebas/doctors-in-training/consultation-disputes/16A-climate-change-mitigation-and-sustainability' }
+        { text: '16A. Climate Change Mitigation and Sustainability', link: '/ebas/doctors-in-training/consultation-disputes/16A-climate-change-mitigation-and-sustainability' }
       ] },
     { text: 'Doctor Employment', link: '/ebas/doctors-in-training/doctor-employment', collapsed: true, items: [
-        { text: '17. Full Time Employment', link: '/ebas/doctors-in-training/doctor-employment/17-full-time-employment' },
-        { text: '18. Part Time Employment', link: '/ebas/doctors-in-training/doctor-employment/18-part-time-employment' },
+        { text: '17. Full-Time Employment', link: '/ebas/doctors-in-training/doctor-employment/17-full-time-employment' },
+        { text: '18. Part-Time Employment', link: '/ebas/doctors-in-training/doctor-employment/18-part-time-employment' },
         { text: '19. Casual Employment', link: '/ebas/doctors-in-training/doctor-employment/19-casual-employment' },
         { text: '20. Casual Conversion', link: '/ebas/doctors-in-training/doctor-employment/20-casual-conversion' },
-        { text: '21. Period Of Employment', link: '/ebas/doctors-in-training/doctor-employment/21-period-of-employment' },
-        { text: '22. Incidental And Peripheral Duties', link: '/ebas/doctors-in-training/doctor-employment/22-incidental-and-peripheral-duties' },
+        { text: '21. Period of Employment', link: '/ebas/doctors-in-training/doctor-employment/21-period-of-employment' },
+        { text: '22. Incidental and Peripheral Duties', link: '/ebas/doctors-in-training/doctor-employment/22-incidental-and-peripheral-duties' },
         { text: '23. Doctor Responsibilities', link: '/ebas/doctors-in-training/doctor-employment/23-doctor-responsibilities' },
         { text: '24. Rotations Between Hospitals', link: '/ebas/doctors-in-training/doctor-employment/24-rotations-between-hospitals' },
         { text: '25. Private Practice Rights', link: '/ebas/doctors-in-training/doctor-employment/25-private-practice-rights' },
-        { text: '26. Notification Of Classification', link: '/ebas/doctors-in-training/doctor-employment/26-notification-of-classification' },
-        { text: '27. Orientation On Appointment', link: '/ebas/doctors-in-training/doctor-employment/27-orientation-on-appointment' },
-        { text: '28. Orientation Association Notification', link: '/ebas/doctors-in-training/doctor-employment/28-orientation-association-notification' },
-        { text: '29. Termination Of Employment', link: '/ebas/doctors-in-training/doctor-employment/29-termination-of-employment' },
-        { text: '29A. Certificate Of Service', link: '/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service' },
-        { text: '30. Advertisement Of Positions', link: '/ebas/doctors-in-training/doctor-employment/30-advertisement-of-positions' },
-        { text: '31. Rotation To A General Practice Training Program', link: '/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program' },
-        { text: '32. Transition To Retirement', link: '/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement' }
+        { text: '26. Notification of Classification', link: '/ebas/doctors-in-training/doctor-employment/26-notification-of-classification' },
+        { text: '27. Orientation on Appointment', link: '/ebas/doctors-in-training/doctor-employment/27-orientation-on-appointment' },
+        { text: '28. Orientation - Association Notification', link: '/ebas/doctors-in-training/doctor-employment/28-orientation-association-notification' },
+        { text: '29. Termination of Employment', link: '/ebas/doctors-in-training/doctor-employment/29-termination-of-employment' },
+        { text: '29A. Certificate of Service', link: '/ebas/doctors-in-training/doctor-employment/29A-certificate-of-service' },
+        { text: '30. Advertisement of Positions', link: '/ebas/doctors-in-training/doctor-employment/30-advertisement-of-positions' },
+        { text: '31. Rotation to a General Practice Training Program', link: '/ebas/doctors-in-training/doctor-employment/31-rotation-to-a-general-practice-training-program' },
+        { text: '32. Transition to Retirement', link: '/ebas/doctors-in-training/doctor-employment/32-transition-to-retirement' }
       ] },
     { text: 'Education & Professional Development', link: '/ebas/doctors-in-training/education-pd', collapsed: true, items: [
         { text: '47. Continuing Medical Education Allowance', link: '/ebas/doctors-in-training/education-pd/47-continuing-medical-education-allowance' },
         { text: '48. Internal Training', link: '/ebas/doctors-in-training/education-pd/48-internal-training' },
         { text: '49. Examination Leave', link: '/ebas/doctors-in-training/education-pd/49-examination-leave' },
-        { text: '50. Conference Seminar Leave', link: '/ebas/doctors-in-training/education-pd/50-conference-seminar-leave' }
+        { text: '50. Conference/Seminar Leave', link: '/ebas/doctors-in-training/education-pd/50-conference-seminar-leave' }
       ] },
-    { text: 'Hours Of Work', link: '/ebas/doctors-in-training/hours-of-work', collapsed: true, items: [
-        { text: '33. Hours Of Work', link: '/ebas/doctors-in-training/hours-of-work/33-hours-of-work' },
+    { text: 'Hours of Work', link: '/ebas/doctors-in-training/hours-of-work', collapsed: true, items: [
+        { text: '33. Hours of Work', link: '/ebas/doctors-in-training/hours-of-work/33-hours-of-work' },
         { text: '33A. 24/7 Rostering', link: '/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering' },
         { text: '34. Training Time', link: '/ebas/doctors-in-training/hours-of-work/34-training-time' },
         { text: '35. Rosters', link: '/ebas/doctors-in-training/hours-of-work/35-rosters' },
         { text: '36. Overtime', link: '/ebas/doctors-in-training/hours-of-work/36-overtime' },
         { text: '37. Penalty Payments', link: '/ebas/doctors-in-training/hours-of-work/37-penalty-payments' },
-        { text: '38. On Call', link: '/ebas/doctors-in-training/hours-of-work/38-on-call' },
-        { text: '39. Recall Return To Workplace', link: '/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace' },
-        { text: '39A. Recall Without Returning To Workplace', link: '/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace' },
-        { text: '40. Telephone Calls To Doctors Outside Of Working Hours', link: '/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours' },
-        { text: '41. Workload Management And Review', link: '/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review' }
+        { text: '38. On-Call', link: '/ebas/doctors-in-training/hours-of-work/38-on-call' },
+        { text: '39. Recall - Return to Workplace', link: '/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace' },
+        { text: '39A. Recall - Without Returning to Workplace', link: '/ebas/doctors-in-training/hours-of-work/39A-recall-without-returning-to-workplace' },
+        { text: '40. Telephone Calls to Doctors Outside of Working Hours', link: '/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours' },
+        { text: '41. Workload Management and Review', link: '/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review' }
       ] },
     { text: 'Leave', link: '/ebas/doctors-in-training/leave', collapsed: true, items: [
-        { text: '58. Leave Not Applying To Casuals', link: '/ebas/doctors-in-training/leave/58-leave-not-applying-to-casuals' },
-        { text: '59. Replacement Of Doctors When On Leave', link: '/ebas/doctors-in-training/leave/59-replacement-of-doctors-when-on-leave' },
+        { text: '58. Leave Not Applying to Casuals', link: '/ebas/doctors-in-training/leave/58-leave-not-applying-to-casuals' },
+        { text: '59. Replacement of Doctors When on Leave', link: '/ebas/doctors-in-training/leave/59-replacement-of-doctors-when-on-leave' },
         { text: '60. Annual Leave', link: '/ebas/doctors-in-training/leave/60-annual-leave' },
         { text: "61. Personal (Sick) / Carer's Leave", link: '/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave' },
-        { text: '62. Fitness For Work', link: '/ebas/doctors-in-training/leave/62-fitness-for-work' },
+        { text: '62. Fitness for Work', link: '/ebas/doctors-in-training/leave/62-fitness-for-work' },
         { text: '63. Public Holidays', link: '/ebas/doctors-in-training/leave/63-public-holidays' },
         { text: '64. Compassionate Leave', link: '/ebas/doctors-in-training/leave/64-compassionate-leave' },
         { text: '65. Prenatal Leave', link: '/ebas/doctors-in-training/leave/65-prenatal-leave' },
@@ -429,8 +429,8 @@ const sidebar = [
         { text: '67. Parental Leave', link: '/ebas/doctors-in-training/leave/67-parental-leave' },
         { text: '68. Long Service Leave', link: '/ebas/doctors-in-training/leave/68-long-service-leave' },
         { text: '69. Jury Service Leave', link: '/ebas/doctors-in-training/leave/69-jury-service-leave' },
-        { text: '70. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management' },
-        { text: '70A. Absences On Defence Leave', link: '/ebas/doctors-in-training/leave/70A-absences-on-defence-leave' },
+        { text: '70. Leave to Engage in Voluntary Emergency Management Activities', link: '/ebas/doctors-in-training/leave/70-leave-to-engage-in-voluntary-emergency-management' },
+        { text: '70A. Absences on Defence Leave', link: '/ebas/doctors-in-training/leave/70A-absences-on-defence-leave' },
         { text: '70B. Special Disaster Leave', link: '/ebas/doctors-in-training/leave/70B-special-disaster-leave' },
         { text: '71. Family Violence Leave', link: '/ebas/doctors-in-training/leave/71-family-violence-leave' }
       ] },
@@ -439,20 +439,20 @@ const sidebar = [
         { text: '2. Arrangement', link: '/ebas/doctors-in-training/preliminary/2-arrangement' },
         { text: '3. Definitions', link: '/ebas/doctors-in-training/preliminary/3-definitions' },
         { text: '4. Coverage', link: '/ebas/doctors-in-training/preliminary/4-coverage' },
-        { text: '5. Date And Period Of Operation', link: '/ebas/doctors-in-training/preliminary/5-date-and-period-of-operation' },
-        { text: '6. Relationship To Previous Awards Agreements And The NES', link: '/ebas/doctors-in-training/preliminary/6-relationship-to-previous-awards-agreements-and-the-nes' },
+        { text: '5. Date and Period of Operation', link: '/ebas/doctors-in-training/preliminary/5-date-and-period-of-operation' },
+        { text: '6. Relationship to Previous Awards, Agreements and the NES', link: '/ebas/doctors-in-training/preliminary/6-relationship-to-previous-awards-agreements-and-the-nes' },
         { text: '7. Savings', link: '/ebas/doctors-in-training/preliminary/7-savings' },
         { text: '8. No Extra Claims', link: '/ebas/doctors-in-training/preliminary/8-no-extra-claims' },
-        { text: '9. Nature Of Relationship', link: '/ebas/doctors-in-training/preliminary/9-nature-of-relationship' }
+        { text: '9. Nature of Relationship', link: '/ebas/doctors-in-training/preliminary/9-nature-of-relationship' }
       ] },
     { text: 'Remuneration', link: '/ebas/doctors-in-training/remuneration', collapsed: true, items: [
-        { text: '42. Remuneration And Remuneration Increases', link: '/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases' },
+        { text: '42. Remuneration and Remuneration Increases', link: '/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases' },
         { text: '42A. Employee Records', link: '/ebas/doctors-in-training/remuneration/42A-employee-records' },
         { text: '42B. Daylight Saving', link: '/ebas/doctors-in-training/remuneration/42B-daylight-saving' },
         { text: '43. Superannuation', link: '/ebas/doctors-in-training/remuneration/43-superannuation' },
         { text: '44. Salary Packaging', link: '/ebas/doctors-in-training/remuneration/44-salary-packaging' },
-        { text: '45. Workers Compensation Make Up Pay', link: '/ebas/doctors-in-training/remuneration/45-workers-compensation-make-up-pay' },
-        { text: '46. Recovery Of Overpayments', link: '/ebas/doctors-in-training/remuneration/46-recovery-of-overpayments' }
+        { text: '45. Workers Compensation Make-Up Pay', link: '/ebas/doctors-in-training/remuneration/45-workers-compensation-make-up-pay' },
+        { text: '46. Recovery of Overpayments', link: '/ebas/doctors-in-training/remuneration/46-recovery-of-overpayments' }
       ] },
     { text: 'Union Matters', link: '/ebas/doctors-in-training/union-matters', collapsed: true, items: [
         { text: '76. Union Matters', link: '/ebas/doctors-in-training/union-matters/76-union-matters' },
@@ -469,13 +469,13 @@ const sidebar = [
     { text: 'Common Terms', link: '/ebas/has-managers-admin/common-terms', collapsed: true, items: [
         { text: 'Allowances', link: '/ebas/has-managers-admin/common-terms/allowances', collapsed: true, items: [
         { text: '37. Lead Apron Allowance', link: '/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance' },
-        { text: '38. Supported Wage System For Employees With a Disability', link: '/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a' },
+        { text: '38. Supported Wage System for Employees with a Disability', link: '/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a' },
         { text: '39. Meal Allowances', link: '/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances' },
         { text: '40. Telephone Allowance', link: '/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance' },
         { text: '41. Travelling Allowance', link: '/ebas/has-managers-admin/common-terms/allowances/41-travelling-allowance' },
-        { text: '42. Uniforms And Protective Clothing', link: '/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing' },
+        { text: '42. Uniforms and Protective Clothing', link: '/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing' },
         { text: '43. Childcare Reimbursement', link: '/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement' },
-        { text: '44. On Call Recall', link: '/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall' },
+        { text: '44. On Call / Recall', link: '/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall' },
         { text: '45. Shiftwork', link: '/ebas/has-managers-admin/common-terms/allowances/45-shiftwork' }
       ] },
         { text: 'Classification Staffing', link: '/ebas/has-managers-admin/common-terms/classification-staffing', collapsed: true, items: [
@@ -483,25 +483,25 @@ const sidebar = [
         { text: '76. Flexibility', link: '/ebas/has-managers-admin/common-terms/classification-staffing/76-flexibility' },
         { text: '77. Secure Employment', link: '/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment' },
         { text: '78. Workload Management', link: '/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management' },
-        { text: '79. Requests For Flexible Working Arrangements', link: '/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements' }
+        { text: '79. Requests for Flexible Working Arrangements', link: '/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements' }
       ] },
         { text: 'Consultation Disputes', link: '/ebas/has-managers-admin/common-terms/consultation-disputes', collapsed: true, items: [
         { text: '16. Consultation', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation' },
         { text: '17. Dispute Resolution Procedure', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure' },
-        { text: '18. Managing Conduct And Performance', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance' }
+        { text: '18. Managing Conduct and Performance', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance' }
       ] },
         { text: 'Employment Types', link: '/ebas/has-managers-admin/common-terms/employment-types', collapsed: true, items: [
         { text: '19. Types Of Employment', link: '/ebas/has-managers-admin/common-terms/employment-types/19-types-of-employment' },
         { text: '20. Full Time Employment', link: '/ebas/has-managers-admin/common-terms/employment-types/20-full-time-employment' },
-        { text: '21. Regular Part Time Employment', link: '/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment' },
-        { text: '22. Part Time Review Of Hours', link: '/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours' },
+        { text: '21. Regular Part-Time Employment', link: '/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment' },
+        { text: '22. Part-Time Review Of Hours', link: '/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours' },
         { text: '23. Casual Employment', link: '/ebas/has-managers-admin/common-terms/employment-types/23-casual-employment' },
         { text: '24. Casual Conversion', link: '/ebas/has-managers-admin/common-terms/employment-types/24-casual-conversion' },
         { text: '25. Fixed Term Employment', link: '/ebas/has-managers-admin/common-terms/employment-types/25-fixed-term-employment' },
-        { text: '26. Redundancy And Associated Entitlements', link: '/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements' },
-        { text: '27. Transition To Retirement', link: '/ebas/has-managers-admin/common-terms/employment-types/27-transition-to-retirement' }
+        { text: '26. Redundancy and Associated Entitlements', link: '/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements' },
+        { text: '27. Transition to Retirement', link: '/ebas/has-managers-admin/common-terms/employment-types/27-transition-to-retirement' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/has-managers-admin/common-terms/hours-of-work', collapsed: true, items: [
+        { text: 'Hours of Work', link: '/ebas/has-managers-admin/common-terms/hours-of-work', collapsed: true, items: [
         { text: '46. Minimum Engagement', link: '/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement' },
         { text: '47. Accrued Days Off', link: '/ebas/has-managers-admin/common-terms/hours-of-work/47-accrued-days-off' },
         { text: '48. Rosters', link: '/ebas/has-managers-admin/common-terms/hours-of-work/48-rosters' },
@@ -520,47 +520,47 @@ const sidebar = [
         { text: '59. Parental Leave', link: '/ebas/has-managers-admin/common-terms/leave/59-parental-leave' },
         { text: '60. Breastfeeding', link: '/ebas/has-managers-admin/common-terms/leave/60-breastfeeding' },
         { text: '61. Long Service Leave', link: '/ebas/has-managers-admin/common-terms/leave/61-long-service-leave' },
-        { text: '62. Leave To Engage In Voluntary Emergency Management Activities', link: '/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency' },
+        { text: '62. Leave to Engage in Voluntary Emergency Management Activities', link: '/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency' },
         { text: '63. Jury Service Leave', link: '/ebas/has-managers-admin/common-terms/leave/63-jury-service-leave' },
-        { text: '64. Absences On Defence Leave', link: '/ebas/has-managers-admin/common-terms/leave/64-absences-on-defence-leave' },
+        { text: '64. Absences on Defence Leave', link: '/ebas/has-managers-admin/common-terms/leave/64-absences-on-defence-leave' },
         { text: '65. Special Disaster Leave', link: '/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave' },
         { text: '66. Excessive Leave Accrual', link: '/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual' },
         { text: '67. Family Violence Leave', link: '/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave' },
-        { text: '68. Cultural And Ceremonial Leave', link: '/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave' },
+        { text: '68. Cultural and Ceremonial Leave', link: '/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave' },
         { text: '69. Public Holidays', link: '/ebas/has-managers-admin/common-terms/leave/69-public-holidays' }
       ] },
         { text: 'Occupational Health & Safety', link: '/ebas/has-managers-admin/common-terms/ohs', collapsed: true, items: [
-        { text: '80. Occupational Health Safety', link: '/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety' },
+        { text: '80. Occupational Health & Safety', link: '/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety' },
         { text: '81. OH&S Department Placement', link: '/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement' },
-        { text: '82. Fitness For Work', link: '/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work' }
+        { text: '82. Fitness for Work', link: '/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work' }
       ] },
         { text: 'Preliminary', link: '/ebas/has-managers-admin/common-terms/preliminary', collapsed: true, items: [
         { text: '1. Agreement Title', link: '/ebas/has-managers-admin/common-terms/preliminary/1-agreement-title' },
-        { text: '3. Arrangement Of The Agreement', link: '/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement' },
-        { text: '4. Application Of This Section', link: '/ebas/has-managers-admin/common-terms/preliminary/4-application-of-this-section' },
+        { text: '3. Arrangement of the Agreement', link: '/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement' },
+        { text: '4. Application of this Section', link: '/ebas/has-managers-admin/common-terms/preliminary/4-application-of-this-section' },
         { text: '5. Incidence Coverage', link: '/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage' },
         { text: '6. Definitions', link: '/ebas/has-managers-admin/common-terms/preliminary/6-definitions' },
-        { text: '7. Commencement Date And Period Of Operation', link: '/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation' },
-        { text: '8. Relationship To Previous Industrial Instruments', link: '/ebas/has-managers-admin/common-terms/preliminary/8-relationship-to-previous-industrial-instruments' },
+        { text: '7. Commencement Date and Period of Operation', link: '/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation' },
+        { text: '8. Relationship to Previous Industrial Instruments', link: '/ebas/has-managers-admin/common-terms/preliminary/8-relationship-to-previous-industrial-instruments' },
         { text: '9. No Extra Claims', link: '/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims' },
         { text: '10. Best Practice Employment Commitment', link: '/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment' },
-        { text: '11. Anti Discrimination', link: '/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination' },
-        { text: '12. Multi Cultural Awareness', link: '/ebas/has-managers-admin/common-terms/preliminary/12-multi-cultural-awareness' },
+        { text: '11. Anti-Discrimination', link: '/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination' },
+        { text: '12. Multi-Cultural Awareness', link: '/ebas/has-managers-admin/common-terms/preliminary/12-multi-cultural-awareness' },
         { text: '13. Individual Flexibility Arrangement', link: '/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement' },
         { text: '14. Police Check Certificate', link: '/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate' },
-        { text: '15. Working With Children Check', link: '/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check' }
+        { text: '15. Working with Children Check', link: '/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check' }
       ] },
         { text: 'Union Matters', link: '/ebas/has-managers-admin/common-terms/union-matters', collapsed: true, items: [
         { text: '70. Union Matters', link: '/ebas/has-managers-admin/common-terms/union-matters/70-union-matters' },
         { text: '71. Paid Union Meetings', link: '/ebas/has-managers-admin/common-terms/union-matters/71-paid-union-meetings' },
-        { text: '72. Payroll Deduction Of Union Dues', link: '/ebas/has-managers-admin/common-terms/union-matters/72-payroll-deduction-of-union-dues' },
-        { text: '73. Access To Computers', link: '/ebas/has-managers-admin/common-terms/union-matters/73-access-to-computers' },
+        { text: '72. Payroll Deduction of Union Dues', link: '/ebas/has-managers-admin/common-terms/union-matters/72-payroll-deduction-of-union-dues' },
+        { text: '73. Access to Computers', link: '/ebas/has-managers-admin/common-terms/union-matters/73-access-to-computers' },
         { text: '74. Statewide Industry Panel', link: '/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel' }
       ] },
         { text: 'Wages', link: '/ebas/has-managers-admin/common-terms/wages', collapsed: true, items: [
-        { text: '28. Salary And Allowances Increases', link: '/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases' },
-        { text: '29. Payment Of Wages', link: '/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages' },
-        { text: '30. Recovery Of Overpayments', link: '/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments' },
+        { text: '28. Salary and Allowances Increases', link: '/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases' },
+        { text: '29. Payment of Wages', link: '/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages' },
+        { text: '30. Recovery of Overpayments', link: '/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments' },
         { text: '31. Superannuation', link: '/ebas/has-managers-admin/common-terms/wages/31-superannuation' },
         { text: '32. Salary Packaging', link: '/ebas/has-managers-admin/common-terms/wages/32-salary-packaging' },
         { text: '33. Accident Pay', link: '/ebas/has-managers-admin/common-terms/wages/33-accident-pay' },
@@ -575,58 +575,58 @@ const sidebar = [
         { text: '10. In Charge Allowances', link: '/ebas/has-managers-admin/health-allied-services/allowances/10-in-charge-allowances' },
         { text: '11. Nauseous Work Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance' },
         { text: '12. Seniors Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance' },
-        { text: '13. Tool Allowance (Chefs And Cooks Only)', link: '/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only' },
+        { text: '13. Tool Allowance (Chefs and Cooks Only)', link: '/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only' },
         { text: '14. Certificate Allowance - Pathology Technicians', link: '/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians' },
         { text: '15. Cooking Trade Proficiency Payments', link: '/ebas/has-managers-admin/health-allied-services/allowances/15-cooking-trade-proficiency-payments' },
         { text: '16. Educational Incentive Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance' },
-        { text: '17. Reimbursement Of Expenses (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv' },
+        { text: '17. Reimbursement of Expenses (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv' },
         { text: '18. Tow Motor Driver Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance' },
         { text: '19. Code Black and/or Code Grey Response', link: '/ebas/has-managers-admin/health-allied-services/allowances/19-code-black-and-or-code-grey-response' },
         { text: '20. Patient Transport Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance' },
         { text: '21. Security Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance' }
       ] },
         { text: 'Classification Staffing', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing', collapsed: true, items: [
-        { text: '34. Transition To New Instrument Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure' },
-        { text: '35. Transition To New Theatre Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure' },
-        { text: '36. Transition Of All Other Employees', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/36-transition-of-all-other-employees' },
-        { text: '37. Introduction Of Revised Food Services Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification' },
-        { text: '38. Introduction Of Revised General Services Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification' },
-        { text: '39. Introduction Of Revised Pathology Collector Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure' },
-        { text: '40. Introduction Of Revised Allied Health Assistant Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant' },
-        { text: '41. Introduction Of Revised Health Care Worker Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker' },
-        { text: '42. Dental Assistants Working In Mobile Dental Programs', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs' },
+        { text: '34. Transition to New Instrument Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure' },
+        { text: '35. Transition to New Theatre Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure' },
+        { text: '36. Transition of All Other Employees', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/36-transition-of-all-other-employees' },
+        { text: '37. Introduction of Revised Food Services Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification' },
+        { text: '38. Introduction of Revised General Services Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification' },
+        { text: '39. Introduction of Revised Pathology Collector Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure' },
+        { text: '40. Introduction of Revised Allied Health Assistant Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant' },
+        { text: '41. Introduction of Revised Health Care Worker Classification Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker' },
+        { text: '42. Dental Assistants Working in Mobile Dental Programs', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs' },
         { text: '43. Wage Skill Group 1 Translation', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/43-wage-skill-group-1-translation' },
-        { text: '44. Introduction Of Lifestyle Assistant And Complimentary Therapies Worker Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary' },
-        { text: '45. Dual Part Time Appointments', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments' },
+        { text: '44. Introduction of Lifestyle Assistant and Complimentary Therapies Worker Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary' },
+        { text: '45. Dual Part-Time Appointments', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments' },
         { text: '46. Clinical Services Enhancement Job Rotation', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/46-clinical-services-enhancement-job-rotation' },
-        { text: '47. Review Of Pharmacy Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure' }
+        { text: '47. Review of Pharmacy Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure' }
       ] },
         { text: 'Education & Professional Development', link: '/ebas/has-managers-admin/health-allied-services/education-pd', collapsed: true, items: [
         { text: '30. Staff Appraisal', link: '/ebas/has-managers-admin/health-allied-services/education-pd/30-staff-appraisal' },
         { text: '31. Study Leave', link: '/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave' },
-        { text: '32. Technology In Cleaning', link: '/ebas/has-managers-admin/health-allied-services/education-pd/32-technology-in-cleaning' }
+        { text: '32. Technology in Cleaning', link: '/ebas/has-managers-admin/health-allied-services/education-pd/32-technology-in-cleaning' }
       ] },
         { text: 'Employment Types', link: '/ebas/has-managers-admin/health-allied-services/employment-types', collapsed: true, items: [
-        { text: '5. Notice Of Termination - Employer', link: '/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer' },
-        { text: '6. Notice Of Termination - Employee', link: '/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee' }
+        { text: '5. Notice of Termination - Employer', link: '/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer' },
+        { text: '6. Notice of Termination - Employee', link: '/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work', collapsed: true, items: [
-        { text: '22. Hours Of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work' },
+        { text: 'Hours of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work', collapsed: true, items: [
+        { text: '22. Hours of Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work' },
         { text: '23. Rosters (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv' },
         { text: '24. Weekend Work', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/24-weekend-work' },
         { text: '25. Overtime', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime' },
         { text: '26. Overtime In Lieu', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu' },
         { text: '27. Make Up Time', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/27-make-up-time' },
-        { text: '28. Wash Up Time', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/28-wash-up-time' },
-        { text: '29. Promotion Of Local Workforce', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce' }
+        { text: '28. Wash-Up Time', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/28-wash-up-time' },
+        { text: '29. Promotion of Local Workforce', link: '/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce' }
       ] },
         { text: 'Preliminary', link: '/ebas/has-managers-admin/health-allied-services/preliminary', collapsed: true, items: [
-        { text: '2. Application Of Section 2', link: '/ebas/has-managers-admin/health-allied-services/preliminary/2-application-of-section-2' },
+        { text: '2. Application of Section 2', link: '/ebas/has-managers-admin/health-allied-services/preliminary/2-application-of-section-2' },
         { text: '3. Definitions', link: '/ebas/has-managers-admin/health-allied-services/preliminary/3-definitions' },
         { text: '4. Performance Management (DHSV)', link: '/ebas/has-managers-admin/health-allied-services/preliminary/4-performance-management-dhsv' }
       ] },
         { text: 'Union Matters', link: '/ebas/has-managers-admin/health-allied-services/union-matters', collapsed: true, items: [
-        { text: '33. Workforce Skills, Capability And Mobility', link: '/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility' }
+        { text: '33. Workforce Skills, Capability and Mobility', link: '/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility' }
       ] },
         { text: 'Wages', link: '/ebas/has-managers-admin/health-allied-services/wages', collapsed: true, items: [
         { text: '7. Experience Payments', link: '/ebas/has-managers-admin/health-allied-services/wages/7-experience-payments' },
@@ -643,20 +643,20 @@ const sidebar = [
         { text: '6. Removal Expenses', link: '/ebas/has-managers-admin/managers-admin/allowances/6-removal-expenses' }
       ] },
         { text: 'Classification Staffing', link: '/ebas/has-managers-admin/managers-admin/classification-staffing', collapsed: true, items: [
-        { text: '16. Worker Wellbeing And Employment Support Officers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers' },
-        { text: "17. Translation Of Managers And Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)", link: '/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers' }
+        { text: '16. Worker Wellbeing and Employment Support Officers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers' },
+        { text: "17. Translation Of Managers and Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)", link: '/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers' }
       ] },
         { text: 'Education & Professional Development', link: '/ebas/has-managers-admin/managers-admin/education-pd', collapsed: true, items: [
         { text: '12. Study Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave' },
         { text: '13. Examination Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/13-examination-leave' },
-        { text: '14. Education And Training', link: '/ebas/has-managers-admin/managers-admin/education-pd/14-education-and-training' },
+        { text: '14. Education and Training', link: '/ebas/has-managers-admin/managers-admin/education-pd/14-education-and-training' },
         { text: '15. Professional Development Leave', link: '/ebas/has-managers-admin/managers-admin/education-pd/15-professional-development-leave' }
       ] },
         { text: 'Employment Types', link: '/ebas/has-managers-admin/managers-admin/employment-types', collapsed: true, items: [
-        { text: '3. Notice Of Termination - Employer', link: '/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer' },
-        { text: '4. Notice Of Termination - Employee', link: '/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee' }
+        { text: '3. Notice of Termination - Employer', link: '/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer' },
+        { text: '4. Notice of Termination - Employee', link: '/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work', collapsed: true, items: [
+        { text: 'Hours of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work', collapsed: true, items: [
         { text: '7. Hours of Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work' },
         { text: '8. Roster', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster' },
         { text: '9. Weekend Work', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/9-weekend-work' },
@@ -664,18 +664,18 @@ const sidebar = [
         { text: '11. Overtime In Lieu', link: '/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu' }
       ] },
         { text: 'Preliminary', link: '/ebas/has-managers-admin/managers-admin/preliminary', collapsed: true, items: [
-        { text: '2. Application Of Section 3', link: '/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3' }
+        { text: '2. Application of Section 3', link: '/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3' }
       ] }
       ] },
     { text: 'Schedules', link: '/ebas/has-managers-admin/schedules', collapsed: true, items: [
         { text: '1A. Employers Covered', link: '/ebas/has-managers-admin/schedules/1a-employers-covered' },
-        { text: '1B. Supported Wage System For Employees With A Disability', link: '/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability' },
-        { text: '2B. Wage Rates Health Allied Services', link: '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services' },
-        { text: '2C. Allowances Health Allied Services', link: '/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services' },
-        { text: '2D. Classification Structure: Health Allied Services', link: '/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services' },
-        { text: '3B. Wage Rates Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers' },
-        { text: '3C. Allowances Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers' },
-        { text: '3D. Classification Structure: Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers' },
+        { text: '1B. Supported Wage System for Employees with a Disability', link: '/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability' },
+        { text: '2B. Wage Rates - Health Allied Services', link: '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services' },
+        { text: '2C. Allowances - Health Allied Services', link: '/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services' },
+        { text: '2D. Classification Structure - Health Allied Services', link: '/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services' },
+        { text: '3B. Wage Rates - Managers and Administrative Workers', link: '/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers' },
+        { text: '3C. Allowances - Managers and Administrative Workers', link: '/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers' },
+        { text: '3D. Classification Structure - Managers And Administrative Workers', link: '/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers' },
         { text: '3E. Workplace Trainer Careers Advisor', link: '/ebas/has-managers-admin/schedules/3e-workplace-trainer-careers-advisor' },
         { text: '3F. Worker Wellbeing Officer', link: '/ebas/has-managers-admin/schedules/3f-worker-wellbeing-officer' },
         { text: '3G. Aboriginal Employment Support Officer', link: '/ebas/has-managers-admin/schedules/3g-aboriginal-employment-support-officer' },
@@ -737,7 +737,7 @@ const sidebar = [
         { text: '23. Termination of Employment - Notice of Termination', link: '/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination' },
         { text: '24. Certificate of Service', link: '/ebas/medical-specialists/employment/24-certificate-of-service' }
       ] },
-    { text: 'Hours Of Work', link: '/ebas/medical-specialists/hours-of-work', collapsed: true, items: [
+    { text: 'Hours of Work', link: '/ebas/medical-specialists/hours-of-work', collapsed: true, items: [
         { text: '25. Continuous Duty (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/25-continuous-duty-full-time-doctors' },
         { text: '26. On-Call (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/26-on-call-full-time-doctors' },
         { text: '27. Recall (Full-Time Doctors)', link: '/ebas/medical-specialists/hours-of-work/27-recall-full-time-doctors' },
@@ -799,7 +799,7 @@ const sidebar = [
         { text: 'Allowances', link: '/ebas/mental-health/common-terms/allowances', collapsed: true, items: [
         { text: '33. Commuted Allowance', link: '/ebas/mental-health/common-terms/allowances/33-commuted-allowance' },
         { text: '34. Vehicle Allowance', link: '/ebas/mental-health/common-terms/allowances/34-vehicle-allowance' },
-        { text: '35. Travelling And Reimbursement', link: '/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement' },
+        { text: '35. Travelling and Reimbursement', link: '/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement' },
         { text: '36. Right to Disconnect', link: '/ebas/mental-health/common-terms/allowances/36-right-to-disconnect' }
       ] },
         { text: 'Consultation Disputes', link: '/ebas/mental-health/common-terms/consultation-disputes', collapsed: true, items: [
@@ -820,7 +820,7 @@ const sidebar = [
         { text: '27A. Transition to Retirement', link: '/ebas/mental-health/common-terms/employment-types/27A-transition-to-retirement' },
         { text: '28. Termination of Employment', link: '/ebas/mental-health/common-terms/employment-types/28-termination-of-employment' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/mental-health/common-terms/hours-of-work', collapsed: true, items: [
+        { text: 'Hours of Work', link: '/ebas/mental-health/common-terms/hours-of-work', collapsed: true, items: [
         { text: '37. Daylight Saving', link: '/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving' }
       ] },
         { text: 'Leave', link: '/ebas/mental-health/common-terms/leave', collapsed: true, items: [
@@ -893,7 +893,7 @@ const sidebar = [
         { text: '62. Demand Escalation Policy', link: '/ebas/mental-health/common-terms/staffing/62-demand-escalation-policy' }
       ] },
         { text: 'Wages', link: '/ebas/mental-health/common-terms/wages', collapsed: true, items: [
-        { text: '29. Payment Of Wages, Allowances, Employee Records, and Related Matters', link: '/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and' },
+        { text: '29. Payment of Wages, Allowances, Employee Records, and Related Matters', link: '/ebas/mental-health/common-terms/wages/29-payment-of-wages-allowances-employee-records-and' },
         { text: '30. Compensation Make-Up Pay', link: '/ebas/mental-health/common-terms/wages/30-compensation-make-up-pay' },
         { text: '31. Salary Packaging', link: '/ebas/mental-health/common-terms/wages/31-salary-packaging' },
         { text: '32. Superannuation', link: '/ebas/mental-health/common-terms/wages/32-superannuation' }
@@ -938,7 +938,7 @@ const sidebar = [
         { text: 'Employment Types', link: '/ebas/mental-health/health-professionals/employment-types', collapsed: true, items: [
         { text: '112. This Clause Is Deliberately Blank', link: '/ebas/mental-health/health-professionals/employment-types/112-this-clause-is-deliberately-blank' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/mental-health/health-professionals/hours-of-work', collapsed: true, items: [
+        { text: 'Hours of Work', link: '/ebas/mental-health/health-professionals/hours-of-work', collapsed: true, items: [
         { text: '122. Hours of Work', link: '/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work' },
         { text: '123. ADOs', link: '/ebas/mental-health/health-professionals/hours-of-work/123-ados' },
         { text: '124. Roster', link: '/ebas/mental-health/health-professionals/hours-of-work/124-roster' },
@@ -984,7 +984,7 @@ const sidebar = [
         { text: "218. Professional Development Leave - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/education-pd/218-professional-development-leave-royal-children-s' },
         { text: "219. Education and Training - Royal Children's Hospital", link: '/ebas/mental-health/management-admin/education-pd/219-education-and-training-royal-children-s-hospital' }
       ] },
-        { text: 'Hours Of Work', link: '/ebas/mental-health/management-admin/hours-of-work', collapsed: true, items: [
+        { text: 'Hours of Work', link: '/ebas/mental-health/management-admin/hours-of-work', collapsed: true, items: [
         { text: '197. Accrued Days Off', link: '/ebas/mental-health/management-admin/hours-of-work/197-accrued-days-off' },
         { text: '198. Higher Duties', link: '/ebas/mental-health/management-admin/hours-of-work/198-higher-duties' },
         { text: '199. Hours Of Work', link: '/ebas/mental-health/management-admin/hours-of-work/199-hours-of-work' },
@@ -1307,7 +1307,7 @@ const sidebar = [
         { text: '32. Rural and Isolated Practice Allowance', link: '/ebas/nurses-midwives/allowances/32-rural-and-isolated-practice-allowance' },
         { text: '32A. Endorsed Midwife', link: '/ebas/nurses-midwives/allowances/32A-endorsed-midwife' },
         { text: '32B. Sole Midwife Allowance', link: '/ebas/nurses-midwives/allowances/32B-sole-midwife-allowance' },
-        { text: '33. Allowances Related To Overtime', link: '/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime' },
+        { text: '33. Allowances Related to Overtime', link: '/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime' },
         { text: '34. Shift Allowance', link: '/ebas/nurses-midwives/allowances/34-shift-allowance' },
         { text: '35. Higher Duties', link: '/ebas/nurses-midwives/allowances/35-higher-duties' },
         { text: '36. Vehicle Allowance', link: '/ebas/nurses-midwives/allowances/36-vehicle-allowance' },

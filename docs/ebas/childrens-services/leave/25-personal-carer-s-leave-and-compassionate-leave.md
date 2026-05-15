@@ -1,5 +1,5 @@
 ---
-title: "25. Personal Carer's Leave And Compassionate Leave"
+title: "25. Personal/Carer's Leave and Compassionate Leave"
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'personal-leave', 'compassionate-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'personal-leave', 'compassionate-leave']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 25. Personal Carer's Leave And Compassionate Leave
+# 25. Personal/Carer's Leave and Compassionate Leave
 
 Personal/carer's leave and compassionate leave are provided for in the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf).
 

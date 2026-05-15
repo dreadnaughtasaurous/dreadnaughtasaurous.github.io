@@ -1,5 +1,5 @@
 ---
-title: '28. Orientation Association Notification'
+title: '28. Orientation - Association Notification'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 28. Orientation Association Notification
+# 28. Orientation - Association Notification
 
 **28.1** On a quarterly basis, the Health Service must provide the Association with the dates, times and venues of any orientation/induction programs involving Doctors and the Association must be permitted to attend such programs.
 

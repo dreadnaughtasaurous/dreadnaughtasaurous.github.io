@@ -1,5 +1,5 @@
 ---
-title: '33. Hours Of Work'
+title: '33. Hours of Work'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours']
 ---
@@ -13,7 +13,7 @@ topics: ['hours']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 33. Hours Of Work
+# 33. Hours of Work
 
 **33.1 Ordinary Hours of Work per Week**
 

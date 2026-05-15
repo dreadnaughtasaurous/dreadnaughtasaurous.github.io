@@ -1,5 +1,5 @@
 ---
-title: '38. Introduction Of Revised General Services Classification Structure'
+title: '38. Introduction of Revised General Services Classification Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['classifications']
 HAS HASMA health administrative manager administrative worker clerical officer administration health manager patient officer
 </div>
 
-# 38. Introduction Of Revised General Services Classification Structure
+# 38. Introduction of Revised General Services Classification Structure
 
 **38.1 Orderly/Cleaner** 
 

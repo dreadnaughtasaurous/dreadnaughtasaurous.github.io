@@ -1,5 +1,5 @@
 ---
-title: '42. Uniforms And Protective Clothing'
+title: '42. Uniforms and Protective Clothing'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'uniforms']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'uniforms']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 42. Uniforms And Protective Clothing
+# 42. Uniforms and Protective Clothing
 
 *This clause does not apply to Dental Assistants employed by DHSV or Ballarat Health Service*
 

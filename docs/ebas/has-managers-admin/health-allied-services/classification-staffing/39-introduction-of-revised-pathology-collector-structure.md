@@ -1,5 +1,5 @@
 ---
-title: '39. Introduction Of Revised Pathology Collector Structure'
+title: '39. Introduction of Revised Pathology Collector Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 39. Introduction Of Revised Pathology Collector Structure
+# 39. Introduction of Revised Pathology Collector Structure
 
 **39.1** From FFPPOA 1 July 2021, Employees classified as Pathology Collectors will translate to the new Pathology Collector classification structure as follows:
 

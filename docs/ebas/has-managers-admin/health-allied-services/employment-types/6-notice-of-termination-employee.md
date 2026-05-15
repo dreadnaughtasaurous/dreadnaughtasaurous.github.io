@@ -1,5 +1,5 @@
 ---
-title: '6. Notice Of Termination - Employee'
+title: '6. Notice of Termination - Employee'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['employment', 'termination']
 ---
@@ -11,7 +11,7 @@ topics: ['employment', 'termination']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 6. Notice Of Termination - Employee
+# 6. Notice of Termination - Employee
 
 **6.1** The notice of termination required by an Employee is:
 

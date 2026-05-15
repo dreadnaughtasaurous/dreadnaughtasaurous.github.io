@@ -1,5 +1,5 @@
 ---
-title: '33. Workforce Skills, Capability And Mobility'
+title: '33. Workforce Skills, Capability and Mobility'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 33. Workforce Skills, Capability And Mobility
+# 33. Workforce Skills, Capability and Mobility
 
 *This clause does not apply to casual Employees*
 

@@ -1,5 +1,5 @@
 ---
-title: '12. Transfer Of Business'
+title: '12. Transfer of Business'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 12. Transfer Of Business
+# 12. Transfer of Business
 
 **12.1 Maintenance of Public Sector Employment**
 

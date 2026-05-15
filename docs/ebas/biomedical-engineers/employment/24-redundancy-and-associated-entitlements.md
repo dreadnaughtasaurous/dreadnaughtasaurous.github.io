@@ -1,5 +1,5 @@
 ---
-title: '24. Redundancy And Associated Entitlements'
+title: '24. Redundancy and Associated Entitlements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment', 'redundancy']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'redundancy']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 24. Redundancy And Associated Entitlements
+# 24. Redundancy and Associated Entitlements
 
 **24.1 Arrangement**
 

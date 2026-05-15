@@ -1,5 +1,5 @@
 ---
-title: '68. Cultural And Ceremonial Leave'
+title: '68. Cultural and Ceremonial Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['leave', 'ceremonial-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'ceremonial-leave']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 68. Cultural And Ceremonial Leave
+# 68. Cultural and Ceremonial Leave
 
 **68.1** The Employer may approve attendance during working hours by an Employee of Aboriginal or Torres Strait Islander descent at any Aboriginal community meetings, except the Annual general Meetings of Aboriginal community organisations at which the election of office bearers will occur.
 

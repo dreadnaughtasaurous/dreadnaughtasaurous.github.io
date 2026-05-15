@@ -1,5 +1,5 @@
 ---
-title: '39. Allowances Related To Overtime And On Call'
+title: '39. Allowances Related to Overtime and On-Call'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours', 'overtime']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'overtime']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 39. Allowances Related To Overtime And On Call
+# 39. Allowances Related to Overtime and On-Call
 
 **39.1 Meal Allowance**
 

@@ -1,5 +1,5 @@
 ---
-title: '41. Workload Management And Review'
+title: '41. Workload Management and Review'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours', 'staffing', 'workload']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'staffing', 'workload']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 41. Workload Management And Review
+# 41. Workload Management and Review
 
 **41.1** The provisions of this clause are to be read in conjunction with [subclause 35.3](/ebas/doctors-in-training/hours-of-work/35-rosters) (Roster Design – Safe Hours of Work).
 

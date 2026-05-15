@@ -1,5 +1,5 @@
 ---
-title: '75. Deductions For Board And Lodging'
+title: '75. Deductions for Board and Lodging'
 eba: 'Doctors in Training 2022-2026'
 topics: ['accommodation']
 ---
@@ -11,7 +11,7 @@ topics: ['accommodation']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 75. Deductions For Board And Lodging
+# 75. Deductions for Board and Lodging
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: '26. Redundancy And Associated Entitlements'
+title: '26. Redundancy and Associated Entitlements'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['employment', 'redundancy']
 ---
@@ -13,7 +13,7 @@ topics: ['employment', 'redundancy']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 26. Redundancy And Associated Entitlements
+# 26. Redundancy and Associated Entitlements
 
 **26.1 Arrangement** This clause is arranged as follows:
 - **(a)** Arrangement ([subclause 26.1](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),

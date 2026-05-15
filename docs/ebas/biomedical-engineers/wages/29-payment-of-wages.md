@@ -1,5 +1,5 @@
 ---
-title: '29. Payment Of Wages'
+title: '29. Payment of Wages'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 29. Payment Of Wages
+# 29. Payment of Wages
 
 **29.1 Frequency of payment** 
 

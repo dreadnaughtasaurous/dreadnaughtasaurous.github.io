@@ -1,5 +1,5 @@
 ---
-title: '28. Wages And Wage Increases'
+title: '28. Wages and Wage Increases'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages']
 ---
@@ -13,7 +13,7 @@ topics: ['wages']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 28. Wages And Wage Increases
+# 28. Wages and Wage Increases
 
 **28.1** Weekly rates of pay prescribed by the 2020 Agreement will be increased by the amounts set out below:
 

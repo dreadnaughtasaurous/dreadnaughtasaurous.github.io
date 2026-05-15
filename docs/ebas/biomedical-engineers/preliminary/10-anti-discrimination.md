@@ -1,5 +1,5 @@
 ---
-title: '10. Anti Discrimination'
+title: '10. Anti-Discrimination'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['preliminary', 'discrimination']
 ---
@@ -13,7 +13,7 @@ topics: ['preliminary', 'discrimination']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 10. Anti Discrimination
+# 10. Anti-Discrimination
 
 **10.1** Those covered by this Agreement respect and value the diversity of the work force and protection against unfair treatment and unlawful discrimination on the basis of race, colour, sex, sexual orientation, breastfeeding, gender identity, intersex status, age, physical or mental disability, marital status, family or carer’s responsibilities, subjection to family and domestic violence, pregnancy, religion, political opinion, national extraction or social origin.
 

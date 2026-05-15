@@ -1,5 +1,5 @@
 ---
-title: '64. Absences On Defence Leave'
+title: '64. Absences on Defence Leave'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 64. Absences On Defence Leave
+# 64. Absences on Defence Leave
 
 
 

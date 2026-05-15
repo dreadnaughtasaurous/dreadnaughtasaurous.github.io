@@ -1,5 +1,5 @@
 ---
-title: '60. Pre Adoption Leave'
+title: '60. Pre-Adoption Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave', 'parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave', 'parental-leave']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 60. Pre Adoption Leave
+# 60. Pre-Adoption Leave
 
 **60.1** An Employee seeking to adopt a child is entitled to unpaid leave for the purpose of attending any compulsory interviews or examinations as are necessary as part of the adoption procedure.
 

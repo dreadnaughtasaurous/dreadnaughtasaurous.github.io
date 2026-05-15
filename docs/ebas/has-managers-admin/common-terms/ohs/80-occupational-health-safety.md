@@ -1,5 +1,5 @@
 ---
-title: '80. Occupational Health Safety'
+title: '80. Occupational Health & Safety'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['ohs']
 ---
@@ -11,7 +11,7 @@ topics: ['ohs']
 HAS HASMA administrative services manager administrative worker clerical officer administration manager patient services officer
 </div>
 
-# 80. Occupational Health Safety
+# 80. Occupational Health & Safety
 
 **80.1 General Principles**
 

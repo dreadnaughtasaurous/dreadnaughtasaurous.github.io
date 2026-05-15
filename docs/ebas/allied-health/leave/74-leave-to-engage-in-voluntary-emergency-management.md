@@ -1,5 +1,5 @@
 ---
-title: '74. Leave To Engage In Voluntary Emergency Management Activities'
+title: '74. Leave to Engage in Voluntary Emergency Management Activities'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave']
 ---
@@ -11,7 +11,7 @@ topics: ['leave']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 74. Leave To Engage In Voluntary Emergency Management Activities
+# 74. Leave to Engage in Voluntary Emergency Management Activities
 
 >**Note:** In this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management), ‘up to’ refers to the total amount of paid leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than two (2) weeks leave. That is where the Employee qualifies in accordance with this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) for two (2) weeks paid leave, the Employer must provide them with two (2) weeks paid leave.
 

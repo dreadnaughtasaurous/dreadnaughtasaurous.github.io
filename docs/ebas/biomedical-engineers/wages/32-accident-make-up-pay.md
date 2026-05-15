@@ -1,5 +1,5 @@
 ---
-title: '32. Accident Make Up Pay'
+title: '32. Accident Make-Up Pay'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['accident-pay']
 ---
@@ -13,7 +13,7 @@ topics: ['accident-pay']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 32. Accident Make Up Pay
+# 32. Accident Make-Up Pay
 
 **32.1 Entitlement to accident make-up pay** 
 

@@ -1,5 +1,5 @@
 ---
-title: '80. Classification And Reclassification'
+title: '80. Classification and Reclassification'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 80. Classification And Reclassification
+# 80. Classification and Reclassification
 
 **80.1** Employees will be classified (including a reclassification request) as per the classification descriptors in [clause 82](/ebas/biomedical-engineers/classification-staffing/82-classification-definitions).
 

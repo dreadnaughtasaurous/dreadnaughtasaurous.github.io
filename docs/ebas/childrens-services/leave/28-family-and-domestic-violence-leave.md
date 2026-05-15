@@ -1,5 +1,5 @@
 ---
-title: '28. Family And Domestic Violence Leave'
+title: '28. Family and Domestic Violence Leave'
 eba: 'Children''s Services Award 2010'
 topics: ['leave', 'family-violence-leave']
 ---
@@ -13,7 +13,7 @@ topics: ['leave', 'family-violence-leave']
 childrens services childcare worker early childhood educator day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# 28. Family And Domestic Violence Leave
+# 28. Family and Domestic Violence Leave
 
 
 

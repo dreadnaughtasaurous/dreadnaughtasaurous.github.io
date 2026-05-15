@@ -1,5 +1,5 @@
 ---
-title: '29. Payment Of Wages'
+title: '29. Payment of Wages'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 29. Payment Of Wages
+# 29. Payment of Wages
 
 **29.1 Frequency of payment**
 

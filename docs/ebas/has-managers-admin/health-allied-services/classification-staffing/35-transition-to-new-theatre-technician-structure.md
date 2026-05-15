@@ -1,5 +1,5 @@
 ---
-title: '35. Transition To New Theatre Technician Structure'
+title: '35. Transition to New Theatre Technician Structure'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 35. Transition To New Theatre Technician Structure
+# 35. Transition to New Theatre Technician Structure
 
 **35.1** From FFPPOA 1 July 2021, Employees classified as Theatre Technicians will translate to the new Theatre Technician classification structure as follows
 

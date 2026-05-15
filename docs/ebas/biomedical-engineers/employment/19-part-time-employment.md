@@ -1,5 +1,5 @@
 ---
-title: '19. Part Time Employment'
+title: '19. Part-Time Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['employment']
 ---
@@ -13,7 +13,7 @@ topics: ['employment']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 19. Part Time Employment
+# 19. Part-Time Employment
 
 **19.1** A part-time Employee is an Employee who:
 

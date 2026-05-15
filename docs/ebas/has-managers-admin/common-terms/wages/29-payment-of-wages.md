@@ -1,5 +1,5 @@
 ---
-title: '29. Payment Of Wages'
+title: '29. Payment of Wages'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['wages']
 ---
@@ -11,7 +11,7 @@ topics: ['wages']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 29. Payment Of Wages
+# 29. Payment of Wages
 
 ---
 

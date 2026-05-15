@@ -1,5 +1,5 @@
 ---
-title: '6. Relationship To Previous Awards Agreements And The NES'
+title: '6. Relationship to Previous Awards, Agreements and the NES'
 eba: 'Doctors in Training 2022-2026'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 6. Relationship To Previous Awards Agreements And The NES
+# 6. Relationship to Previous Awards, Agreements and the NES
 
 **6.1** This is a comprehensive agreement that regulates all terms and conditions of employment and expressly excludes and displaces the operation of all prior agreements and any Award(s) that may otherwise apply.
 

@@ -1,5 +1,5 @@
 ---
-title: '31. Rotation To A General Practice Training Program'
+title: '31. Rotation to a General Practice Training Program'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 31. Rotation To A General Practice Training Program
+# 31. Rotation to a General Practice Training Program
 
 **31.1** The Program Teaching Practice must provide in writing the terms and conditions of Rotation one month prior to the Doctor commencing the term. Such terms and conditions must include details of:
 

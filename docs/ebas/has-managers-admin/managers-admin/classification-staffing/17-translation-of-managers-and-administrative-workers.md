@@ -1,5 +1,5 @@
 ---
-title: "17. Translation Of Managers And Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)"
+title: "17. Translation of Managers and Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)"
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health services manager worker clerical officer administration health manager patient services officer
 </div>
 
-# 17. Translation Of Managers And Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)
+# 17. Translation of Managers and Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)
 
 **17.1** From FFPPOA 1 July 2021, Employees classified as Grade 1 Level 5 (AO12) will translate to Grade 2 Level 2 (AO22)
 

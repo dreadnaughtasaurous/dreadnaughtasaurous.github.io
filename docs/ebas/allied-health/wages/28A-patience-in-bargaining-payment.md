@@ -1,5 +1,5 @@
 ---
-title: '28A. Patience In Bargaining Payment'
+title: '28A. Patience in Bargaining Payment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# 28A. Patience In Bargaining Payment
+# 28A. Patience in Bargaining Payment
 
 *This [clause 28A](/ebas/allied-health/wages/28A-patience-in-bargaining-payment) applies to full-time, part-time, fixed term and casual Employees.*
 

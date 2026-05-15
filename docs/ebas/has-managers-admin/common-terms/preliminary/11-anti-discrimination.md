@@ -1,5 +1,5 @@
 ---
-title: '11. Anti Discrimination'
+title: '11. Anti-Discrimination'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary', 'discrimination']
 ---
@@ -13,7 +13,7 @@ topics: ['preliminary', 'discrimination']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 11. Anti Discrimination
+# 11. Anti-Discrimination
 
 **11.1** It is the intention of the parties covered by this Agreement to achieve the principal object in section 3(e) of the Act through respecting and valuing the diversity of the workforce by helping to prevent and eliminate discrimination on the basis of race, colour, sex, sexual preference, age, physical or mental disability, marital status, family responsibilities, pregnancy, religion, political opinion, national extraction or social origin.
 

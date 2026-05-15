@@ -1,5 +1,5 @@
 ---
-title: '32. Technology In Cleaning'
+title: '32. Technology in Cleaning'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 32. Technology In Cleaning
+# 32. Technology in Cleaning
 
 **32.1** The parties recognise the important role that Health and Allied Services Employees play in protecting patients’ welfare by preventing the spread of infection.
 

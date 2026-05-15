@@ -1,5 +1,5 @@
 ---
-title: '18. Part Time Employment'
+title: '18. Part-Time Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -13,7 +13,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# 18. Part Time Employment
+# 18. Part-Time Employment
 
 **18.1** Part-time means a Doctor who is ready, willing and available to work on a regular basis any number of hours less than the ordinary hours of work prescribed in [clause 17](/ebas/doctors-in-training/doctor-employment/17-full-time-employment).
 

@@ -1,5 +1,5 @@
 ---
-title: '2. Application Of Section 3'
+title: '2. Application of Section 3'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['preliminary']
 ---
@@ -11,7 +11,7 @@ topics: ['preliminary']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 2. Application Of Section 3
+# 2. Application of Section 3
 
 **2.1** The terms of Section 3 of this Agreement are additional terms specific to Managers and Administrative Workers (as defined in [Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers)).
 

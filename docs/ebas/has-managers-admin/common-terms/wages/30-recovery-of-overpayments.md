@@ -1,5 +1,5 @@
 ---
-title: '30. Recovery Of Overpayments'
+title: '30. Recovery of Overpayments'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 30. Recovery Of Overpayments
+# 30. Recovery of Overpayments
 
 **30.1 Details of overpayment** 
 

@@ -1,5 +1,5 @@
 ---
-title: '42. Dental Assistants Working In Mobile Dental Programs'
+title: '42. Dental Assistants Working in Mobile Dental Programs'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['travel']
 ---
@@ -11,7 +11,7 @@ topics: ['travel']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# 42. Dental Assistants Working In Mobile Dental Programs
+# 42. Dental Assistants Working in Mobile Dental Programs
 
 **42.1** Where a Dental Assistant is required by their Employer to work off-site as part of a mobile dental program (e.g. Smile Squad), the Dental Assistant:
 

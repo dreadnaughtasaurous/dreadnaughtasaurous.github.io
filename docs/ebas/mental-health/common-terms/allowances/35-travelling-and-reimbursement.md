@@ -1,5 +1,5 @@
 ---
-title: '35. Travelling And Reimbursement'
+title: '35. Travelling and Reimbursement'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# 35. Travelling And Reimbursement
+# 35. Travelling and Reimbursement
 
 **35.1 Living away from home**
 

@@ -1,5 +1,5 @@
 ---
-title: '59. Pre Natal Leave'
+title: '59. Pre-Natal Leave'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['parental-leave']
 ---
@@ -11,7 +11,7 @@ topics: ['parental-leave']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# 59. Pre Natal Leave
+# 59. Pre-Natal Leave
 
 **59.1** An Employee required to attend pre-natal appointments or parenting classes that are only available or can only be attended during the Employee’s ordinary rostered shift may, subject to the provision of satisfactory evidence of attendance, access his or her personal leave credit.
 
