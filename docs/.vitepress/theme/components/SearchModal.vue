@@ -354,6 +354,7 @@ import { topicList } from '../../generated/topic-list.mjs'
 
 // ─── AI Worker URL ────────────────────────────────────────────────────────────
 const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
+const ANALYTICS_WORKER_URL = 'https://eba-analytics-worker.irresistibl.workers.dev'
 const aiConfigured  = AI_WORKER_URL.length > 0
 
 // ─── Storage keys ─────────────────────────────────────────────────────────────
@@ -412,6 +413,18 @@ const quickAccessShortcuts = [
   { icon: '💰', label: 'Allowances',                topic: 'allowances',  query: '' },
   { icon: '📋', label: 'Termination & Redundancy',  topic: 'termination', query: '' },
 ]
+
+// ─── Analytics logging ────────────────────────────────────────────────────────
+function logSearch(tab, query, eba, topic, resultCount) {
+  if (!ANALYTICS_WORKER_URL || !query?.trim()) return
+  try {
+    fetch(ANALYTICS_WORKER_URL + '/log', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ tab, query: query.trim(), eba, topic, resultCount }),
+    }).catch(() => { /* fire-and-forget; never block the UI */ })
+  } catch { /* silently ignore */ }
+}
 
 function fireShortcut(shortcut) {
   selectedTopic.value = shortcut.topic
@@ -813,6 +826,7 @@ async function doSearch() {
     if (results.value.length === 0 && query.value.trim().length > 3) {
       await runFuzzyFallback(query.value.trim(), filters)
     }
+    logSearch('search', query.value, selectedEba.value, selectedTopic.value, results.value.length)
   } catch {
     results.value = []
   }
@@ -880,6 +894,7 @@ async function submitAsk() {
         : segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
       return { url, title }
     })
+    logSearch('ask', query.value, '', '', null)
   } catch (err) {
     aiError.value = err.message ?? 'Unknown error. Please try again.'
   }
