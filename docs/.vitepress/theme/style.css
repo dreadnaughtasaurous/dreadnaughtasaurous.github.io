@@ -627,3 +627,41 @@
   background-color: var(--vp-c-bg-soft);
   box-shadow: 0 1px 0 var(--vp-c-divider);
 }
+
+/* ── Related Clauses Panel — position and overflow fixes ────────────────────
+   The panel is teleported into .vp-doc > div as the last child, after the
+   changelog plugin. We make .vp-doc > div a flex column and push the
+   changelog to order: 99 so our panel (order: 2) appears before it.
+   Clause content elements have no order set, defaulting to 0, so they
+   remain first. overflow: visible prevents tooltip clipping.                 */
+
+.VPDoc .content-container {
+  overflow: visible !important;
+}
+
+.vp-doc > div {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Push the changelog plugin and its preceding H2 heading to the very end.
+   The H2 "Changelog" is a direct sibling immediately before the changelog
+   container — we target it with the adjacent sibling combinator.           */
+.vp-doc > div > [class*="vp-nolebase-git-changelog"] {
+  order: 99;
+}
+
+.vp-doc > div > [class*="vp-nolebase-git-changelog"] + * {
+  order: 99;
+}
+
+/* Target the H2 that sits immediately before the changelog container.
+   CSS has no "previous sibling" selector, so we use :has() instead.   */
+.vp-doc > div:has(> [class*="vp-nolebase-git-changelog"]) > h2:last-of-type {
+  order: 98;
+}
+
+/* Pull our panel before the changelog */
+.vp-doc > div > .related-clauses-panel {
+  order: 2;
+}

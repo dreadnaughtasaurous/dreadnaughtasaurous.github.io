@@ -722,6 +722,20 @@ onMounted(async () => {
   }
 })
 
+// Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
+// Receives optional { eba, topic } from event.detail and pre-applies them as filters.
+function openFromExternal(e) {
+  const { eba = '', topic = '' } = e?.detail ?? {}
+  selectedEba.value   = eba
+  selectedTopic.value = topic
+  open.value = true
+  if (eba || topic) {
+    nextTick(() => doSearch())
+  } else {
+    nextTick(() => inputRef.value?.focus())
+  }
+}
+
 // ─── Open / close ─────────────────────────────────────────────────────────────
 function openModal() {
   open.value = true
@@ -755,8 +769,14 @@ function onKeydown(e) {
   }
   if (e.key === 'Escape') close()
 }
-onMounted(() => window.addEventListener('keydown', onKeydown))
-onUnmounted(() => window.removeEventListener('keydown', onKeydown))
+onMounted(() => {
+  window.addEventListener('keydown', onKeydown)
+  window.addEventListener('open-search', openFromExternal)
+})
+onUnmounted(() => {
+  window.removeEventListener('keydown', onKeydown)
+  window.removeEventListener('open-search', openFromExternal)
+})
 
 function close() {
   persistState()

@@ -5,3 +5,4 @@ docs/node_modules
 docs/.vitepress/dist/
 docs/.vitepress/cache/
 link-clauses-log.txt
+related-clauses-log.txt

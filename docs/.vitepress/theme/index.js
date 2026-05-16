@@ -10,6 +10,7 @@ import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 import FileAttachment from './components/FileAttachment.vue'
 import CopyButton from './components/CopyButton.vue'
 import KeyboardHelp from './components/KeyboardHelp.vue'
+import RelatedClauses from './components/RelatedClauses.vue'
 
 export default {
   extends: DefaultTheme,
@@ -20,6 +21,7 @@ export default {
         h(CopyButton)
       ),
       'layout-bottom': () => h(KeyboardHelp),
+      'doc-after': () => h(RelatedClauses),
     })
   },
   enhanceApp({ app }) {
