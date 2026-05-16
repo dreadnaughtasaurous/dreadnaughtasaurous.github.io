@@ -1,8 +1,12 @@
 // eba-ask-worker/src/index.js
-// v8: Four-provider tiered AI (Cerebras → Groq → Gemini → Cloudflare Workers AI).
-//     All EBA_PAGE_MAP paths preserved from v7 (verified May 2026).
-//     RAG architecture retained: GitHub Raw Markdown fetched before AI call.
-//     New comprehensive system prompt with BLUF, citation discipline, zero hallucination.
+// v9: Adds Cloudflare KV response caching keyed by content hash.
+//     Cache key = SHA-256(clauseTitle + ebaName + pagePathname) — computed
+//     client-side and sent as `contentHash` in the POST body.
+//     Cache TTL: 30 days. Cache is bypassed and re-written on miss.
+//     Also adds support for the AskThisPage contextual button:
+//     the request body may now include `{ question, contentHash }`.
+//     All EBA_PAGE_MAP paths, SYSTEM_PROMPT, and AI provider functions
+//     are carried forward unchanged from v8.
 
 const CORS_ORIGIN = 'https://dreadnaughtasaurous.github.io';
 const CORS_ALLOWED = new Set([
@@ -11,6 +15,9 @@ const CORS_ALLOWED = new Set([
   'http://localhost:4173',
 ]);
 const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/main/docs';
+
+// Cache TTL: 30 days in seconds
+const CACHE_TTL_SECONDS = 60 * 60 * 24 * 30;
 
 // ─── EBA PAGE MAP ─────────────────────────────────────────────────────────────
 // Each entry maps keyword + topic signals to one or more raw GitHub Markdown paths.
@@ -1332,6 +1339,12 @@ async function fetchMarkdown(path) {
 }
 
 // ─── SYSTEM PROMPT ────────────────────────────────────────────────────────────
+// Optimised for both general Ask AI questions and the AskThisPage contextual
+// button. The two-question sub-structure in the user message ("what it says"
+// and "what it means for employees") anchors all models — including the smaller
+// Cerebras llama3.1-8b — to concrete, actionable output rather than vague
+// paraphrase. The explicit 300-word cap prevents the 8B model from rambling
+// into uncertain territory where hallucination risk rises.
 
 const SYSTEM_PROMPT = `You are the EBA Reference Assistant for the Austin Health EBA Wiki — a structured knowledge base covering Enterprise Bargaining Agreements (EBAs) in the Victorian public health sector.
 
@@ -1364,7 +1377,7 @@ End every response with a Sources section listing each cited clause and a one-li
 When you provide expert synthesis or interpretation of how clauses interact (beyond quoting the text directly), wrap it in 🧠 ... 🧠. Do not include source citations inside the 🧠 block — place them in Sources.
 
 ## Tone
-Confident and direct. No apologies, no AI disclaimers, no hedging. Plain language — explain legal terminology on first use. Non-moralising. No repetition.
+Confident and direct. No apologies, no AI disclaimers, no hedging. Plain language — explain legal terminology on first use. Non-moralising. No repetition. Keep answers under 300 words where possible.
 
 ## Thin Evidence
 If the provided sources are insufficient: state what you know, label the gap clearly ("Evidence gap: I cannot confirm [X] from the provided content"), and suggest a next step (e.g., "Check Clause N directly in the [EBA Name] PDF on the wiki").
@@ -1499,6 +1512,45 @@ function jsonResponse(body, status, origin) {
   });
 }
 
+// ─── KV CACHE HELPERS ─────────────────────────────────────────────────────────
+
+/**
+ * Validates that a contentHash is a well-formed SHA-256 hex string.
+ * This prevents cache poisoning from malformed or injected hash values.
+ */
+function isValidHash(hash) {
+  return typeof hash === 'string' && /^[0-9a-f]{64}$/.test(hash);
+}
+
+/**
+ * Reads a cached AI response from KV by content hash.
+ * Returns the parsed cached object or null on miss/error.
+ */
+async function readCache(kv, contentHash) {
+  try {
+    const cached = await kv.get(`ai:${contentHash}`, { type: 'json' });
+    return cached ?? null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Writes an AI response to KV with a 30-day TTL.
+ * Fires-and-forgets — a write failure never blocks the response.
+ */
+async function writeCache(kv, contentHash, payload) {
+  try {
+    await kv.put(
+      `ai:${contentHash}`,
+      JSON.stringify(payload),
+      { expirationTtl: CACHE_TTL_SECONDS }
+    );
+  } catch {
+    // Non-fatal — cache miss on next request is acceptable
+  }
+}
+
 // ─── MAIN HANDLER ─────────────────────────────────────────────────────────────
 
 export default {
@@ -1513,10 +1565,11 @@ export default {
       return new Response('Method not allowed', { status: 405, headers: corsHeaders(origin) });
     }
 
-    let question;
+    let question, contentHash;
     try {
       const body = await request.json();
-      question = (body.question || '').trim();
+      question    = (body.question || '').trim();
+      contentHash = body.contentHash || null;
     } catch {
       return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin);
     }
@@ -1525,7 +1578,18 @@ export default {
       return jsonResponse({ error: 'Question is too short.' }, 400, origin);
     }
 
-    // Step 1: Score and select relevant EBA pages
+    // ── KV Cache Read ────────────────────────────────────────────────────────
+    // Only attempt cache lookup when a valid content hash is provided.
+    // The hash is computed client-side as SHA-256(title + eba + pathname).
+    if (contentHash && isValidHash(contentHash) && env.EBA_AI_CACHE) {
+      const cached = await readCache(env.EBA_AI_CACHE, contentHash);
+      if (cached) {
+        // Serve from edge cache — no LLM call needed
+        return jsonResponse({ ...cached, cached: true }, 200, origin);
+      }
+    }
+
+    // ── Step 1: Score and select relevant EBA pages ──────────────────────────
     const paths = scoreAndSelectPaths(question);
 
     if (paths.length === 0) {
@@ -1534,7 +1598,7 @@ export default {
       }, 200, origin);
     }
 
-    // Step 2: Fetch Markdown content from GitHub Raw
+    // ── Step 2: Fetch Markdown content from GitHub Raw ───────────────────────
     const pageResults = await Promise.all(paths.map(fetchMarkdown));
     const pages = pageResults.filter(Boolean);
 
@@ -1544,18 +1608,14 @@ export default {
       }, 200, origin);
     }
 
-    // Step 3: Try each AI provider in tier order
+    // ── Step 3: Try each AI provider in tier order ───────────────────────────
     const attempts = [];
+    let aiResult = null;
 
     // Tier 1: Cerebras
     if (env.CEREBRAS_API_KEY) {
       try {
-        const result = await askCerebras(env.CEREBRAS_API_KEY, question, pages);
-        return jsonResponse({
-          answer: result.text,
-          provider: result.provider,
-          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
-        }, 200, origin);
+        aiResult = await askCerebras(env.CEREBRAS_API_KEY, question, pages);
       } catch (err) {
         attempts.push({ provider: 'Cerebras', error: err.message });
       }
@@ -1564,57 +1624,61 @@ export default {
     }
 
     // Tier 2: Groq
-    if (env.GROQ_API_KEY) {
+    if (!aiResult && env.GROQ_API_KEY) {
       try {
-        const result = await askGroq(env.GROQ_API_KEY, question, pages);
-        return jsonResponse({
-          answer: result.text,
-          provider: result.provider,
-          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
-        }, 200, origin);
+        aiResult = await askGroq(env.GROQ_API_KEY, question, pages);
       } catch (err) {
         attempts.push({ provider: 'Groq', error: err.message });
       }
-    } else {
+    } else if (!aiResult) {
       attempts.push({ provider: 'Groq', error: 'GROQ_API_KEY not configured' });
     }
 
     // Tier 3: Gemini
-    if (env.GEMINI_API_KEY) {
+    if (!aiResult && env.GEMINI_API_KEY) {
       try {
-        const result = await askGemini(env.GEMINI_API_KEY, question, pages);
-        return jsonResponse({
-          answer: result.text,
-          provider: result.provider,
-          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
-        }, 200, origin);
+        aiResult = await askGemini(env.GEMINI_API_KEY, question, pages);
       } catch (err) {
         attempts.push({ provider: 'Gemini', error: err.message });
       }
-    } else {
+    } else if (!aiResult) {
       attempts.push({ provider: 'Gemini', error: 'GEMINI_API_KEY not configured' });
     }
 
-    // Tier 4: Cloudflare Workers AI (native binding — no API key required)
-    if (env.AI) {
+    // Tier 4: Cloudflare Workers AI
+    if (!aiResult && env.AI) {
       try {
-        const result = await askCloudflareAI(env.AI, question, pages);
-        return jsonResponse({
-          answer: result.text,
-          provider: result.provider,
-          sources: pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
-        }, 200, origin);
+        aiResult = await askCloudflareAI(env.AI, question, pages);
       } catch (err) {
         attempts.push({ provider: 'Cloudflare AI', error: err.message });
       }
-    } else {
+    } else if (!aiResult) {
       attempts.push({ provider: 'Cloudflare AI', error: 'AI binding not configured in wrangler.jsonc' });
     }
 
     // All providers failed
-    return jsonResponse({
-      error: 'All AI providers are currently unavailable. Please try again shortly.',
-      attempts
-    }, 503, origin);
+    if (!aiResult) {
+      return jsonResponse({
+        error: 'All AI providers are currently unavailable. Please try again shortly.',
+        attempts
+      }, 503, origin);
+    }
+
+    // ── Step 4: Build response payload and write to KV cache ─────────────────
+    const responsePayload = {
+      answer:   aiResult.text,
+      provider: aiResult.provider,
+      sources:  pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
+    };
+
+    // Write to KV only when a valid content hash was supplied (i.e. the request
+    // came from the AskThisPage button with a deterministic prompt). General
+    // free-form Ask AI questions are not cached because their phrasing varies
+    // too much for the hash to be a reliable cache key.
+    if (contentHash && isValidHash(contentHash) && env.EBA_AI_CACHE) {
+      await writeCache(env.EBA_AI_CACHE, contentHash, responsePayload);
+    }
+
+    return jsonResponse(responsePayload, 200, origin);
   }
 };

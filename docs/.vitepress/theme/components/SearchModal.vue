@@ -404,6 +404,7 @@ const aiError   = ref('')
 
 let searchTimer = null
 let pagefind    = null
+let pendingContentHash = null
 
 // ─── Quick Access shortcuts ───────────────────────────────────────────────────
 const quickAccessShortcuts = [
@@ -725,7 +726,20 @@ onMounted(async () => {
 // Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
 // Receives optional { eba, topic } from event.detail and pre-applies them as filters.
 function openFromExternal(e) {
-  const { eba = '', topic = '' } = e?.detail ?? {}
+  const detail = e?.detail ?? {}
+
+  // ── Ask AI tab shortcut (from AskThisPage button) ──────────────────────────
+  if (detail.tab === 'ask' && detail.query) {
+    pendingContentHash  = detail.contentHash ?? null
+    query.value         = detail.query
+    activeTab.value     = 'ask'
+    open.value          = true
+    nextTick(() => submitAsk())
+    return
+  }
+
+  // ── Standard search tab shortcut (from RelatedClauses "See all" button) ───
+  const { eba = '', topic = '' } = detail
   selectedEba.value   = eba
   selectedTopic.value = topic
   open.value = true
@@ -901,7 +915,10 @@ async function submitAsk() {
     const res = await fetch(AI_WORKER_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question: query.value.trim() }),
+      body: JSON.stringify({
+        question:    query.value.trim(),
+        contentHash: pendingContentHash ?? undefined,
+      }),
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
     const data = await res.json()

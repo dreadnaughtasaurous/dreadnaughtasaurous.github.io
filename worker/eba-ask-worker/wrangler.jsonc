@@ -8,6 +8,12 @@
   "ai": {
     "binding": "AI"
   },
+  "kv_namespaces": [
+    {
+      "binding": "EBA_AI_CACHE",
+      "id": "3c4717f6c42442d0b9ac34766f506107"
+    }
+  ],
   "vars": {
     "PAGEFIND_BASE_URL": "https://dreadnaughtasaurous.github.io"
   }
