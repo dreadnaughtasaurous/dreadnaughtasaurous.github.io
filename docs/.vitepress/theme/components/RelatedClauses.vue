@@ -2,11 +2,17 @@
 /**
  * RelatedClauses.vue
  *
- * Renders a "Related Clauses" panel directly inside .vp-doc > div using
- * <Teleport>, appearing after clause content but before the changelog plugin.
- * Data sourced from /generated/related-clauses.json built by generate-related-clauses.mjs.
+ * Renders a "Related Clauses" panel inside .vp-doc > div using <Teleport>,
+ * appearing after clause content but before the changelog plugin.
+ *
+ * Uses a static CSS selector string as the Teleport target (not a dynamic
+ * ref) — this is the only approach that works reliably across VitePress SPA
+ * navigation in both dev and production builds.
+ *
+ * Wrapped in <ClientOnly> to prevent SSR build failure (document is not
+ * defined during static rendering).
  */
-import { computed, ref, onMounted, onUnmounted } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useData, useRoute } from 'vitepress'
 import relatedData from '../../../generated/related-clauses.json'
 
@@ -29,24 +35,30 @@ const isClausePage = computed(() =>
 
 const related = computed(() => relatedData[currentUrl.value] ?? [])
 
-// Teleport target — the anonymous wrapper div inside .vp-doc
-// We resolve this on mount so SSR never attempts a DOM query
-const teleportTarget = ref(null)
-const isMounted      = ref(false)
+// Controls whether the panel is rendered at all.
+// Reset to false on route change, then re-enabled after a tick so the
+// Teleport always mounts fresh into the new page's .vp-doc > div element.
+const active        = ref(false)
 
-onMounted(() => {
-  teleportTarget.value = document.querySelector('.vp-doc > div') ?? document.body
-  isMounted.value = true
-})
-
-onUnmounted(() => {
-  isMounted.value = false
-})
-
-// Tooltip state: tracks which card index is hovered/focused
+// Tooltip state
 const activeTooltip = ref(null)
 function showTooltip(idx) { activeTooltip.value = idx }
 function hideTooltip()    { activeTooltip.value = null }
+
+// On every route change (including first load via immediate: true),
+// briefly deactivate then reactivate the panel so Teleport re-mounts
+// into the freshly rendered .vp-doc > div of the new page.
+watch(
+  () => route.path,
+  () => {
+    active.value = false
+    activeTooltip.value = null
+    setTimeout(() => {
+      active.value = true
+    }, 50)
+  },
+  { immediate: true }
+)
 
 // Truncate long titles cleanly
 function displayTitle(title) {
@@ -68,62 +80,67 @@ function seeAllRelated() {
 </script>
 
 <template>
-  <Teleport v-if="isMounted && isClausePage && related.length > 0" :to="teleportTarget">
-    <div class="related-clauses-panel">
-      <div class="related-clauses-header">
-        <svg class="related-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
-          <path d="M7 3H5a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V5a2 2 0 00-2-2h-2"
-                stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-          <rect x="7" y="1" width="6" height="4" rx="1"
-                stroke="currentColor" stroke-width="1.5"/>
-          <path d="M7 9h6M7 12h4" stroke="currentColor" stroke-width="1.5"
-                stroke-linecap="round"/>
-        </svg>
-        <span>Related Clauses</span>
-      </div>
-
-      <div class="related-clauses-grid">
-        <div
-          v-for="(item, idx) in related"
-          :key="item.url"
-          class="related-card-wrapper"
-          @mouseenter="showTooltip(idx)"
-          @mouseleave="hideTooltip()"
-          @focusin="showTooltip(idx)"
-          @focusout="hideTooltip()"
-        >
-          <a :href="item.url" class="related-card">
-            <span class="related-card-title">{{ displayTitle(item.title) }}</span>
-            <svg class="related-card-arrow" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-              <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5"
-                    stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </a>
-
-          <Transition name="tooltip">
-            <div
-              v-if="activeTooltip === idx && item.excerpt"
-              class="related-tooltip"
-              role="tooltip"
-            >
-              <p class="related-tooltip-text">{{ item.excerpt }}</p>
-            </div>
-          </Transition>
-        </div>
-      </div>
-
-      <div class="related-clauses-footer">
-        <button class="related-see-all" @click="seeAllRelated" type="button">
-          <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" width="14" height="14">
-            <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.5"/>
-            <path d="M11 11l3 3" stroke="currentColor" stroke-width="1.5"
+  <ClientOnly>
+    <Teleport
+      v-if="active && isClausePage && related.length > 0"
+      to=".vp-doc > div"
+    >
+      <div class="related-clauses-panel">
+        <div class="related-clauses-header">
+          <svg class="related-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M7 3H5a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V5a2 2 0 00-2-2h-2"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <rect x="7" y="1" width="6" height="4" rx="1"
+                  stroke="currentColor" stroke-width="1.5"/>
+            <path d="M7 9h6M7 12h4" stroke="currentColor" stroke-width="1.5"
                   stroke-linecap="round"/>
           </svg>
-          See all related pages
-        </button>
+          <span>Related Clauses</span>
+        </div>
+
+        <div class="related-clauses-grid">
+          <div
+            v-for="(item, idx) in related"
+            :key="item.url"
+            class="related-card-wrapper"
+            @mouseenter="showTooltip(idx)"
+            @mouseleave="hideTooltip()"
+            @focusin="showTooltip(idx)"
+            @focusout="hideTooltip()"
+          >
+            <a :href="item.url" class="related-card">
+              <span class="related-card-title">{{ displayTitle(item.title) }}</span>
+              <svg class="related-card-arrow" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </a>
+
+            <Transition name="tooltip">
+              <div
+                v-if="activeTooltip === idx && item.excerpt"
+                class="related-tooltip"
+                role="tooltip"
+              >
+                <p class="related-tooltip-text">{{ item.excerpt }}</p>
+              </div>
+            </Transition>
+          </div>
+        </div>
+
+        <div class="related-clauses-footer">
+          <button class="related-see-all" @click="seeAllRelated" type="button">
+            <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" width="14" height="14">
+              <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M11 11l3 3" stroke="currentColor" stroke-width="1.5"
+                    stroke-linecap="round"/>
+            </svg>
+            See all related pages
+          </button>
+        </div>
       </div>
-    </div>
-  </Teleport>
+    </Teleport>
+  </ClientOnly>
 </template>
 
 <style scoped>
