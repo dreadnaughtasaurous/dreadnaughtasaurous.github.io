@@ -30,7 +30,7 @@ const currentUrl = computed(() =>
 // /ebas/<eba-folder>/<section-folder>/<clause-slug> → split length 5
 const isClausePage = computed(() =>
   currentUrl.value.startsWith('/ebas/') &&
-  currentUrl.value.split('/').length === 5
+  currentUrl.value.split('/').length >= 5
 )
 
 const related = computed(() => relatedData[currentUrl.value] ?? [])

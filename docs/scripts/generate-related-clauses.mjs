@@ -50,7 +50,7 @@ const EBA_FOLDERS = [
   'childrens-services',
   'doctors-in-training',
   'has-managers-admin',
-  'medical-scientists',
+  'mspp',
   'medical-specialists',
   'mental-health',
   'nurses-midwives',
@@ -159,31 +159,64 @@ function extractLinkedUrls(body) {
  *   - Section-level files (one level below EBA root, e.g. allowances.md)
  *     These are navigation index pages, not clause content pages.
  */
+/**
+ * Recursively collect all clause-level .md files under an EBA folder.
+ *
+ * Handles both the standard three-level structure:
+ *   ebas/<eba>/<section>/<clause>.md
+ * and the four-level sub-sectioned structure used by has-managers-admin
+ * and mental-health:
+ *   ebas/<eba>/<sub-section>/<section>/<clause>.md
+ *
+ * A file is treated as a CLAUSE file (included) if:
+ *   - It ends in .md
+ *   - It is NOT named index.md
+ *   - Its immediate parent directory is NOT the EBA root
+ *     (i.e. section index pages like allowances.md are excluded)
+ *   - It does NOT have any subdirectory siblings containing .md files
+ *     (i.e. it is a leaf node, not itself a section index)
+ *
+ * In practice: we recurse fully and collect every .md file that is not
+ * index.md and whose parent directory contains no subdirectories —
+ * meaning it is a terminal clause folder, not an intermediate index folder.
+ */
 function collectClauseFiles(ebaFolder) {
   const ebaDir = path.join(EBAS_ROOT, ebaFolder)
   if (!fs.existsSync(ebaDir)) return []
 
   const clauseFiles = []
 
-  // List section directories (one level below EBA root)
-  const sectionEntries = fs.readdirSync(ebaDir, { withFileTypes: true })
+  function recurse(dir, depth) {
+    const entries = fs.readdirSync(dir, { withFileTypes: true })
 
-  for (const entry of sectionEntries) {
-    // Only descend into directories — skip section index .md files
-    if (!entry.isDirectory()) continue
+    // Check if this directory contains any subdirectories
+    const hasSubDirs = entries.some(e => e.isDirectory())
 
-    const sectionDir = path.join(ebaDir, entry.name)
-    const clauseEntries = fs.readdirSync(sectionDir, { withFileTypes: true })
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name)
 
-    for (const clauseEntry of clauseEntries) {
-      if (!clauseEntry.isFile()) continue
-      if (!clauseEntry.name.endsWith('.md')) continue
-      if (clauseEntry.name === 'index.md') continue
+      if (entry.isDirectory()) {
+        // Always recurse into subdirectories
+        recurse(fullPath, depth + 1)
+      } else if (entry.isFile() && entry.name.endsWith('.md')) {
+        // Skip index files at any depth
+        if (entry.name === 'index.md') continue
 
-      clauseFiles.push(path.join(sectionDir, clauseEntry.name))
+        // Skip files at depth 0 (direct children of EBA root — these are
+        // section nav pages like allowances.md, leave.md, common-terms.md)
+        if (depth === 0) continue
+
+        // Skip .md files whose parent directory ALSO has subdirectories.
+        // These are section-level index pages (e.g. common-terms/allowances.md
+        // sits alongside common-terms/allowances/ subdirectory).
+        if (hasSubDirs) continue
+
+        clauseFiles.push(fullPath)
+      }
     }
   }
 
+  recurse(ebaDir, 0)
   return clauseFiles
 }
 
