@@ -137,7 +137,7 @@ export default {
       } catch { /* silent fail */ }
     }
 
-    if (typeof window !== 'undefined') router.afterEach((to) => {
+    if (typeof window !== 'undefined') router.onAfterRouteChanged = (to) => {
       const path      = to.path
       const sessionId = getSessionId()
       const started   = sessionStorage.getItem('eba-session-started') || new Date().toISOString()
@@ -168,6 +168,6 @@ export default {
         started,
         lastSeen: now,
       })
-    })
+    }
   }
 }
