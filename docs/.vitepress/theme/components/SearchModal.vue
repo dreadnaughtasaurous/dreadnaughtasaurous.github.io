@@ -480,7 +480,29 @@ function logSearch(tab, query, eba, topic, resultCount) {
     fetch(ANALYTICS_WORKER_URL + '/log', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ tab, query: query.trim(), eba, topic, resultCount }),
+      body: JSON.stringify({
+      tab,
+      query,
+      eba,
+      topic,
+      resultCount,
+      browser: (() => {
+        const ua = navigator.userAgent
+        if (/edg\//i.test(ua))             return 'Edge'
+        if (/opr\//i.test(ua))             return 'Opera'
+        if (/firefox\//i.test(ua))         return 'Firefox'
+        if (/chrome\//i.test(ua))          return 'Chrome'
+        if (/safari\//i.test(ua))          return 'Safari'
+        if (/msie|trident/i.test(ua))      return 'IE'
+        return 'Other'
+      })(),
+      device: (() => {
+        const ua = navigator.userAgent
+        if (/tablet|ipad|playbook|silk/i.test(ua))                          return 'tablet'
+        if (/mobile|iphone|ipod|android.*mobile|blackberry|iemobile/i.test(ua)) return 'mobile'
+        return 'desktop'
+      })(),
+    }),
     }).catch(() => { /* fire-and-forget; never block the UI */ })
   } catch { /* silently ignore */ }
 }
