@@ -1,0 +1,32 @@
+{
+  // ─── EBA Analytics Worker ───────────────────────────────────────
+  // Cloudflare Worker that receives analytics events from the wiki
+  // and serves aggregated data to the admin dashboard.
+  "name": "eba-analytics-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2025-01-01",
+
+  // ─── KV Namespaces ──────────────────────────────────────────────
+  // EBA_ANALYTICS  — existing search/Ask AI event log (unchanged)
+  // EBA_PAGEVIEWS  — new page view event log
+  // EBA_SESSIONS   — new session records
+  //
+  // IMPORTANT: EBA_PAGEVIEWS and EBA_SESSIONS IDs are placeholders.
+  // Replace with real IDs after running:
+  //   wrangler kv namespace create EBA_PAGEVIEWS
+  //   wrangler kv namespace create EBA_SESSIONS
+  "kv_namespaces": [
+    {
+      "binding": "EBA_ANALYTICS",
+      "id": "33995209a9b849ef8d2b5afc539eeb8e"
+    },
+    {
+      "binding": "EBA_PAGEVIEWS",
+      "id": "REPLACE_WITH_REAL_ID"
+    },
+    {
+      "binding": "EBA_SESSIONS",
+      "id": "REPLACE_WITH_REAL_ID"
+    }
+  ]
+}
