@@ -3,6 +3,7 @@ import sidebar from './sidebar.js'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 
 export default defineConfig({
+  cleanUrls: true,
   base: '/',
   title: 'EBAdb',
   description: 'A searchable reference for the eight Enterprise Bargaining Agreements covering the Victorian public health sector',
