@@ -80,6 +80,15 @@
               </div>
             </div>
 
+            <!-- ── Accessibility section — new ── -->
+            <div class="kb-section">
+              <div class="kb-section-label">Accessibility</div>
+              <div class="kb-row">
+                <span class="kb-desc">Toggle reading mode (current page)</span>
+                <span class="kb-keys"><kbd>R</kbd></span>
+              </div>
+            </div>
+
             <div class="kb-section">
               <div class="kb-section-label">General</div>
               <div class="kb-row">
@@ -129,6 +138,22 @@ function onKeydown(e) {
     nextTick(() => modalRef.value?.focus())
     return
   }
+
+  // Toggle reading mode on 'R' — never when typing, never when this overlay is open
+  // (Esc should close the overlay, not also fire R accidentally)
+  if (
+    e.key === 'r' &&
+    !e.ctrlKey && !e.metaKey && !e.altKey &&
+    !isTyping() &&
+    !open.value
+  ) {
+    e.preventDefault()
+    // Dispatch a custom event. AccessibilityControls.vue listens for this
+    // so the toggle logic stays in one place and avoids duplication.
+    window.dispatchEvent(new CustomEvent('toggle-reading-mode'))
+    return
+  }
+
   if (e.key === 'Escape' && open.value) {
     close()
   }

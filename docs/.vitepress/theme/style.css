@@ -665,3 +665,170 @@
 .vp-doc > div > .related-clauses-panel {
   order: 2;
 }
+/* ============================================================
+   Accessibility Controls — Font Size Scaling
+   ============================================================
+   Applied by AccessibilityControls.vue via data-font-size on <html>.
+   Only scales .vp-doc content — nav, sidebar, and footer are unaffected.
+   We use em-based sizes so headings, tables, and custom containers all
+   scale proportionally with the body text.
+   ============================================================ */
+
+/* Large — 112% of VitePress default (approx 16px → 18px) */
+[data-font-size="large"] .vp-doc {
+  font-size: 1.12em;
+}
+
+/* Extra Large — 125% of VitePress default (approx 16px → 20px) */
+[data-font-size="xl"] .vp-doc {
+  font-size: 1.25em;
+}
+
+/* Ensure headings, code blocks, and tables also scale with the parent em */
+[data-font-size="large"] .vp-doc h1,
+[data-font-size="large"] .vp-doc h2,
+[data-font-size="large"] .vp-doc h3,
+[data-font-size="large"] .vp-doc p,
+[data-font-size="large"] .vp-doc li,
+[data-font-size="large"] .vp-doc td,
+[data-font-size="large"] .vp-doc th,
+[data-font-size="xl"]    .vp-doc h1,
+[data-font-size="xl"]    .vp-doc h2,
+[data-font-size="xl"]    .vp-doc h3,
+[data-font-size="xl"]    .vp-doc p,
+[data-font-size="xl"]    .vp-doc li,
+[data-font-size="xl"]    .vp-doc td,
+[data-font-size="xl"]    .vp-doc th {
+  line-height: 1.75;
+}
+
+/* ============================================================
+   Accessibility Controls — Reading Mode
+   ============================================================
+   Applied by AccessibilityControls.vue via data-reading-mode on <html>.
+   Hides distracting UI chrome and reflows the content column to a
+   comfortable reading width, centred in the available space.
+
+   Elements hidden in reading mode:
+     - .VPSidebar              — left navigation panel
+     - .doc-toolbar            — AskThisPage + CopyButton row
+     - .related-clauses-panel  — doc-after slot panel
+     - [class*="vp-nolebase-git-changelog"]  — git changelog at page bottom
+     - h2:last-of-type (in .vp-doc > div)    — "Changelog" heading above it
+
+   Elements KEPT visible:
+     - Top nav bar (.VPNav)         — so the user can still navigate
+     - Dark mode toggle             — part of nav, stays
+     - VPDocAsideOutline            — "On This Page" outline (still useful)
+     - All textual + visual content inside .vp-doc
+   ============================================================ */
+
+/* Hide the left sidebar — content reflows to fill the space */
+[data-reading-mode] .VPSidebar {
+  display: none !important;
+}
+
+/* Hide the doc toolbar (AskThisPage + CopyButton) */
+[data-reading-mode] .doc-toolbar {
+  display: none !important;
+}
+
+/* Hide the Related Clauses panel */
+[data-reading-mode] .related-clauses-panel {
+  display: none !important;
+}
+
+/* Hide the git changelog container */
+[data-reading-mode] .vp-doc > div > [class*="vp-nolebase-git-changelog"] {
+  display: none !important;
+}
+
+/* Hide the "Changelog" H2 heading that sits above the changelog */
+[data-reading-mode] .vp-doc > div:has(> [class*="vp-nolebase-git-changelog"]) > h2:last-of-type {
+  display: none !important;
+}
+
+/* ── Reading mode layout reflow ──────────────────────────────────────────────
+   When the sidebar disappears, VitePress normally leaves the content column
+   positioned as if the sidebar were still there (the layout uses fixed left
+   padding). We override the content container to fill the available width,
+   then apply a comfortable max-width and auto margins to centre it.
+
+   72ch ≈ 72 characters wide — the typographic sweet spot for body text
+   readability, matching what tools like iA Writer and Apple Books use.     */
+
+[data-reading-mode] .VPDoc {
+  padding-left:  0 !important;
+}
+
+[data-reading-mode] .VPDoc .content {
+  max-width:  none !important;
+  padding:    0 1.5rem !important;
+}
+
+[data-reading-mode] .VPDoc .content-container {
+  max-width:  72ch !important;
+  margin:     0 auto !important;
+}
+
+/* On narrow mobile screens, the sidebar is already hidden by VitePress;
+   remove any margin that would otherwise push content off-centre.         */
+@media (max-width: 768px) {
+  [data-reading-mode] .VPDoc .content {
+    padding: 0 1rem !important;
+  }
+}
+
+/* ── Reading mode — smooth transition ────────────────────────────────────────
+   Animate the content reflow so it doesn't feel like a hard jump.          */
+.VPDoc,
+.VPDoc .content,
+.VPDoc .content-container {
+  transition: max-width 0.25s ease, padding 0.25s ease, margin 0.25s ease;
+}
+
+/* ── Reading mode — subtle indicator in the nav bar ─────────────────────────
+   When reading mode is active, add a thin brand-coloured bottom border on
+   the nav bar so the user can tell at a glance that a mode is active.      */
+[data-reading-mode] .VPNav {
+  border-bottom: 2px solid var(--vp-c-brand-1) !important;
+}
+
+/* ============================================================
+   Accessibility Controls — Nav Bar Flex Order
+   ============================================================
+   VitePress renders .VPNavBarExtra as a flex row containing:
+     .appearance   (dark mode toggle)  — DOM position 1
+     .social-links (GitHub icon)       — DOM position 2
+     [nav-bar-content-after slot]      — DOM position 3
+
+   The slot content lands AFTER the GitHub icon in the DOM.
+   We use CSS flex `order` to resequence the visual rendering
+   without touching VitePress internals:
+     dark mode (order 1) → our controls (order 2) → GitHub (order 3)
+
+   Note: .VPNavBarExtra uses display:flex with no explicit order
+   set on its children, so all default to order:0. Assigning
+   order:3 to .social-links and order:2 to .a11y-controls is
+   sufficient — .appearance stays at order:0 (renders first).
+   ============================================================ */
+
+.VPNavBarExtra {
+  display: flex;
+  align-items: center;
+}
+
+/* GitHub icon — pushed to the end */
+.VPNavBarExtra .social-links {
+  order: 3;
+}
+
+/* Our accessibility controls — between dark mode and GitHub */
+.VPNavBarExtra .a11y-controls {
+  order: 2;
+}
+
+/* Dark mode toggle — stays at default (renders first) */
+.VPNavBarExtra .appearance {
+  order: 1;
+}

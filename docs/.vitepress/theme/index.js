@@ -12,6 +12,7 @@ import CopyButton from './components/CopyButton.vue'
 import KeyboardHelp from './components/KeyboardHelp.vue'
 import RelatedClauses from './components/RelatedClauses.vue'
 import AskThisPage from './components/AskThisPage.vue'
+import AccessibilityControls from './components/AccessibilityControls.vue'
 
 export default {
   extends: DefaultTheme,
@@ -19,12 +20,16 @@ export default {
     return h(DefaultTheme.Layout, null, {
       'nav-bar-content-before': () => h(SearchModal),
 
-      // doc-before: a single toolbar row containing CopyButton (icon, left-pushed
-      // via margin-left: auto) and AskThisPage (gradient button, takes remaining
-      // space on the right).
-      // data-pagefind-body is on the outer wrapper so Pagefind still scopes
-      // correctly. The toolbar itself carries data-pagefind-ignore so the button
-      // labels are never indexed.
+      // AccessibilityControls is placed in nav-bar-content-after.
+      // VitePress renders this slot at the far right of .VPNavBarExtra.
+      // The actual visual order (dark mode → Aa → book → GitHub) is achieved
+      // via CSS flex `order` rules in style.css targeting .VPNavBarExtra children:
+      //   .appearance    → order: 1
+      //   .a11y-controls → order: 2
+      //   .social-links  → order: 3
+      'nav-bar-content-after': () => h(AccessibilityControls),
+
+      // doc-before: toolbar row with AskThisPage and CopyButton.
       'doc-before': () => h(
         'div',
         { 'data-pagefind-body': true, style: 'display:contents' },
@@ -54,14 +59,15 @@ export default {
   },
   enhanceApp({ app }) {
     app.use(NolebaseGitChangelogPlugin)
-    app.component('SearchPage',   SearchPage)
-    app.component('SearchModal',  SearchModal)
-    app.component('PayTable',     PayTable)
-    app.component('HomeCards',    HomeCards)
-    app.component('FileAttachment', FileAttachment)
-    app.component('CopyButton',   CopyButton)
-    app.component('KeyboardHelp', KeyboardHelp)
-    app.component('AskThisPage',  AskThisPage)
-    app.component('RelatedClauses', RelatedClauses)
+    app.component('SearchPage',            SearchPage)
+    app.component('SearchModal',           SearchModal)
+    app.component('PayTable',              PayTable)
+    app.component('HomeCards',             HomeCards)
+    app.component('FileAttachment',        FileAttachment)
+    app.component('CopyButton',            CopyButton)
+    app.component('KeyboardHelp',          KeyboardHelp)
+    app.component('AskThisPage',           AskThisPage)
+    app.component('RelatedClauses',        RelatedClauses)
+    app.component('AccessibilityControls', AccessibilityControls)
   }
 }
