@@ -58,7 +58,7 @@ export default {
       'doc-after':     () => h(RelatedClauses),
     })
   },
-  enhanceApp({ app }) {
+  enhanceApp({ app, router }) {
     app.use(NolebaseGitChangelogPlugin)
     app.component('SearchPage',            SearchPage)
     app.component('SearchModal',           SearchModal)
@@ -137,10 +137,7 @@ export default {
       } catch { /* silent fail */ }
     }
 
-    router.afterEach((to) => {
-      // Skip non-browser environments (SSR/build time)
-      if (typeof window === 'undefined') return
-
+    if (typeof window !== 'undefined') router.afterEach((to) => {
       const path      = to.path
       const sessionId = getSessionId()
       const started   = sessionStorage.getItem('eba-session-started') || new Date().toISOString()
