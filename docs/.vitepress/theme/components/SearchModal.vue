@@ -265,6 +265,7 @@
                 <p>The AI search feature requires a Cloudflare Worker to be set up. The Pagefind keyword search is fully operational in the meantime.</p>
               </div>
               <template v-else>
+                <!-- Ask button row -->
                 <div class="ask-input-row">
                   <button
                     class="ask-btn"
@@ -276,31 +277,80 @@
                     <span v-else>Ask</span>
                   </button>
                 </div>
-                <div v-if="aiLoading" class="ai-loading">
-                  <span class="loading-dots">Reading EBA content<span>.</span><span>.</span><span>.</span></span>
-                </div>
-                <div v-else-if="aiError" class="ai-error">
-                  <strong>Something went wrong.</strong> {{ aiError }}
-                </div>
-                <div v-else-if="aiAnswer" class="ai-answer">
-                  <div class="ai-answer-body" v-html="aiAnswer"></div>
-                  <div v-if="aiSources.length" class="ai-sources">
-                    <p class="ai-sources-label">Sources used:</p>
-                    <a v-for="src in aiSources" :key="src.url" :href="src.url" class="ai-source-link" @click="close">{{ src.title }}</a>
+
+                <!-- ── Conversation thread ── -->
+                <!-- Shown once at least one turn has completed.
+                     Oldest turn at top, newest at bottom.
+                     The loading state and error state for the current
+                     in-flight request are appended below the thread. -->
+                <div
+                  v-if="conversationHistory.length > 0 || aiLoading || aiError"
+                  class="conversation-thread"
+                  ref="conversationBodyRef"
+                  aria-live="polite"
+                  aria-label="Conversation history"
+                >
+                  <!-- Render completed turns from history -->
+                  <template v-for="(turn, idx) in conversationHistory" :key="idx">
+
+                    <!-- User turn -->
+                    <div v-if="turn.role === 'user'" class="conv-turn conv-turn--user">
+                      <span class="conv-label">You</span>
+                      <p class="conv-user-text">{{ turn.content }}</p>
+                    </div>
+
+                    <!-- Assistant turn -->
+                    <div v-else-if="turn.role === 'assistant'" class="conv-turn conv-turn--assistant">
+                      <span class="conv-label">EBA Assistant</span>
+                      <div class="ai-answer-body" v-html="renderMarkdown(turn.content)"></div>
+                      <!-- Sources are only shown on the most recent assistant turn -->
+                      <template v-if="idx === conversationHistory.length - 1 && aiSources.length">
+                        <div class="ai-sources">
+                          <p class="ai-sources-label">Sources used:</p>
+                          <a v-for="src in aiSources" :key="src.url" :href="src.url" class="ai-source-link" @click="close">{{ src.title }}</a>
+                        </div>
+                      </template>
+                    </div>
+
+                  </template>
+
+                  <!-- In-flight loading indicator (appended below completed turns) -->
+                  <div v-if="aiLoading" class="conv-turn conv-turn--assistant conv-turn--loading">
+                    <span class="conv-label">EBA Assistant</span>
+                    <span class="loading-dots">Reading EBA content<span>.</span><span>.</span><span>.</span></span>
                   </div>
-                  <p class="ai-disclaimer">⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.</p>
+
+                  <!-- Error state (appended below completed turns) -->
+                  <div v-if="aiError && !aiLoading" class="ai-error">
+                    <strong>Something went wrong.</strong> {{ aiError }}
+                  </div>
+                </div>
+
+                <!-- Disclaimer — shown once any answer exists in the thread -->
+                <p v-if="conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer">
+                  ⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.
+                </p>
+
+                <!-- New conversation button — shown once at least one turn is complete -->
+                <div v-if="conversationHistory.length >= 2" class="conv-reset-row">
+                  <button class="conv-reset-btn" @click="resetConversation">
+                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+                    New conversation
+                  </button>
+                </div>
+
+                <!-- Example questions — only shown when no conversation has started -->
+                <div class="ask-hint" v-if="conversationHistory.length === 0 && !aiLoading">
+                  <p>{{ aiConfigured ? 'Try asking — specify the EBA and employee type for best results:' : 'Example questions you\'ll be able to ask — specify the EBA and employee type for best results:' }}</p>
+                  <ul class="ask-examples">
+                    <li @click="aiConfigured ? useExample('Is a full-time employee under the Nurses and Midwives EBA entitled to overtime pay on a public holiday?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Is a full-time employee under the <strong>Nurses &amp; Midwives EBA</strong> entitled to overtime pay on a public holiday?</li>
+                    <li @click="aiConfigured ? useExample('How much notice is required before changing the roster of a part-time nurse under the Nurses and Midwives EBA?') : null" :class="{ 'ask-example-preview': !aiConfigured }">How much notice is required before changing the roster of a part-time nurse under the <strong>Nurses &amp; Midwives EBA</strong>?</li>
+                    <li @click="aiConfigured ? useExample('What is the recall allowance for a Grade 3 Allied Health employee under the Allied Health EBA?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What is the recall allowance for a Grade 3 employee under the <strong>Allied Health EBA</strong>?</li>
+                    <li @click="aiConfigured ? useExample('What overtime rates apply to a resident medical officer under the Doctors in Training EBA after 10 hours on a weekday shift?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What overtime rates apply to a resident medical officer under the <strong>Doctors in Training EBA</strong> after 10 hours on a weekday shift?</li>
+                    <li @click="aiConfigured ? useExample('Is a full-time administration officer under the HAS Managers and Admin EBA entitled to a meal allowance for overtime?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Is a full-time administration officer under the <strong>HAS Managers &amp; Admin EBA</strong> entitled to a meal allowance for overtime?</li>
+                  </ul>
                 </div>
               </template>
-              <div class="ask-hint" v-if="!aiAnswer && !aiLoading">
-                <p>{{ aiConfigured ? 'Try asking — specify the EBA and employee type for best results:' : 'Example questions you\'ll be able to ask — specify the EBA and employee type for best results:' }}</p>
-                <ul class="ask-examples">
-                  <li @click="aiConfigured ? useExample('Is a full-time employee under the Nurses and Midwives EBA entitled to overtime pay on a public holiday?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Is a full-time employee under the <strong>Nurses &amp; Midwives EBA</strong> entitled to overtime pay on a public holiday?</li>
-                  <li @click="aiConfigured ? useExample('How much notice is required before changing the roster of a part-time nurse under the Nurses and Midwives EBA?') : null" :class="{ 'ask-example-preview': !aiConfigured }">How much notice is required before changing the roster of a part-time nurse under the <strong>Nurses &amp; Midwives EBA</strong>?</li>
-                  <li @click="aiConfigured ? useExample('What is the recall allowance for a Grade 3 Allied Health employee under the Allied Health EBA?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What is the recall allowance for a Grade 3 employee under the <strong>Allied Health EBA</strong>?</li>
-                  <li @click="aiConfigured ? useExample('What overtime rates apply to a resident medical officer under the Doctors in Training EBA after 10 hours on a weekday shift?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What overtime rates apply to a resident medical officer under the <strong>Doctors in Training EBA</strong> after 10 hours on a weekday shift?</li>
-                  <li @click="aiConfigured ? useExample('Is a full-time administration officer under the HAS Managers and Admin EBA entitled to a meal allowance for overtime?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Is a full-time administration officer under the <strong>HAS Managers &amp; Admin EBA</strong> entitled to a meal allowance for overtime?</li>
-                </ul>
-              </div>
             </div>
           </template>
 
@@ -401,6 +451,14 @@ const aiLoading = ref(false)
 const aiAnswer  = ref('')
 const aiSources = ref([])
 const aiError   = ref('')
+
+// ─── Conversation history (multi-turn Ask AI) ─────────────────────────────────
+// Each entry: { role: 'user' | 'assistant', content: string (raw markdown) }
+// Capped at MAX_HISTORY_TURNS * 2 entries (user + assistant per turn).
+// Reset to [] on modal close and on tab switch — per-page, per-session scope.
+const MAX_HISTORY_TURNS    = 3
+const conversationHistory  = ref([])
+const conversationBodyRef  = ref(null)   // ref to the scrollable thread container
 
 let searchTimer = null
 let pagefind    = null
@@ -794,22 +852,26 @@ onUnmounted(() => {
 
 function close() {
   persistState()
-  open.value           = false
-  previewVisible.value = false
-  previewResult.value  = null
-  aiAnswer.value       = ''
-  aiSources.value      = []
-  aiError.value        = ''
+  open.value                = false
+  previewVisible.value      = false
+  previewResult.value       = null
+  aiAnswer.value            = ''
+  aiSources.value           = []
+  aiError.value             = ''
+  conversationHistory.value = []   // per-page: reset on close
+  pendingContentHash        = null
 }
 
 function switchTab(tab) {
-  activeTab.value    = tab
-  query.value        = ''
-  results.value      = []
-  fuzzyResults.value = []
-  aiAnswer.value     = ''
-  aiSources.value    = []
-  aiError.value      = ''
+  activeTab.value           = tab
+  query.value               = ''
+  results.value             = []
+  fuzzyResults.value        = []
+  aiAnswer.value            = ''
+  aiSources.value           = []
+  aiError.value             = ''
+  conversationHistory.value = []   // reset thread when switching tabs
+  pendingContentHash        = null
   nextTick(() => inputRef.value?.focus())
 }
 
@@ -907,22 +969,47 @@ function useExample(text) {
 
 async function submitAsk() {
   if (!aiConfigured || query.value.trim().length < 5 || aiLoading.value) return
+
+  const question = query.value.trim()
+
+  // Only send contentHash on the first turn — follow-up questions are not
+  // deterministic prompts so caching them would produce wrong cache hits.
+  const isFirstTurn = conversationHistory.value.length === 0
+  const hashToSend  = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
+
+  // Snapshot the current history to send as context BEFORE appending this turn.
+  // Cap at the last MAX_HISTORY_TURNS * 2 entries so the Worker context stays bounded.
+  const historyToSend = conversationHistory.value.slice(-(MAX_HISTORY_TURNS * 2))
+
   aiLoading.value = true
   aiAnswer.value  = ''
-  aiSources.value = []
   aiError.value   = ''
+  // Clear the input immediately so the user can compose their next question
+  query.value     = ''
+
   try {
     const res = await fetch(AI_WORKER_URL, {
-      method: 'POST',
+      method:  'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        question:    query.value.trim(),
-        contentHash: pendingContentHash ?? undefined,
+        question,
+        contentHash: hashToSend,
+        history:     historyToSend.length > 0 ? historyToSend : undefined,
       }),
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
     const data = await res.json()
-    aiAnswer.value = renderMarkdown(data.answer ?? 'No answer returned.')
+
+    const rawAnswer = data.answer ?? 'No answer returned.'
+
+    // Append this completed turn to the conversation history
+    conversationHistory.value = [
+      ...conversationHistory.value,
+      { role: 'user',      content: question  },
+      { role: 'assistant', content: rawAnswer },
+    ].slice(-(MAX_HISTORY_TURNS * 2))  // enforce cap
+
+    // Parse sources for the Sources Used panel (shown on most recent turn only)
     aiSources.value = (data.sources ?? []).map(url => {
       const segment = url.split('/').pop().replace('.html', '')
       const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
@@ -931,11 +1018,31 @@ async function submitAsk() {
         : segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
       return { url, title }
     })
-    logSearch('ask', query.value, '', '', null)
+
+    logSearch('ask', question, '', '', null)
+
+    // Scroll the thread to the bottom so the new answer is visible
+    await nextTick()
+    if (conversationBodyRef.value) {
+      conversationBodyRef.value.scrollTop = conversationBodyRef.value.scrollHeight
+    }
   } catch (err) {
     aiError.value = err.message ?? 'Unknown error. Please try again.'
   }
-  aiLoading.value = false
+
+  aiLoading.value    = false
+  pendingContentHash = null   // reset after first turn
+}
+
+// Resets the conversation without closing the modal.
+// Bound to the "New conversation" button that appears after the first turn.
+function resetConversation() {
+  conversationHistory.value = []
+  aiAnswer.value            = ''
+  aiSources.value           = []
+  aiError.value             = ''
+  pendingContentHash        = null
+  nextTick(() => inputRef.value?.focus())
 }
 </script>
 
@@ -1202,6 +1309,88 @@ async function submitAsk() {
 /* ── Preview transition ── */
 .preview-enter-active, .preview-leave-active { transition: opacity 0.15s ease, transform 0.15s ease; }
 .preview-enter-from, .preview-leave-to { opacity: 0; transform: translateX(8px); }
+
+/* ── Conversation thread ── */
+.conversation-thread {
+  display:        flex;
+  flex-direction: column;
+  gap:            0;
+  max-height:     420px;
+  overflow-y:     auto;
+  border:         1px solid var(--vp-c-divider);
+  border-radius:  8px;
+  background:     var(--vp-c-bg-soft);
+  scroll-behavior: smooth;
+}
+
+/* Individual turn bubble */
+.conv-turn {
+  padding:       0.85rem 1rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.conv-turn:last-child { border-bottom: none; }
+
+/* User turn — slightly lighter background to distinguish from assistant */
+.conv-turn--user {
+  background: var(--vp-c-bg);
+}
+
+/* Assistant turn */
+.conv-turn--assistant {
+  background: var(--vp-c-bg-soft);
+}
+
+/* Loading shimmer on the assistant turn while in-flight */
+.conv-turn--loading {
+  color:     var(--vp-c-text-2);
+  font-size: 0.875rem;
+}
+
+/* Small "You" / "EBA Assistant" label above each turn */
+.conv-label {
+  display:       block;
+  font-size:     0.68rem;
+  font-weight:   700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:         var(--vp-c-text-3);
+  margin-bottom: 0.35rem;
+}
+.conv-turn--user .conv-label   { color: var(--vp-c-brand-1); }
+
+/* The user's question text */
+.conv-user-text {
+  margin:    0;
+  font-size: 0.875rem;
+  color:     var(--vp-c-text-1);
+  font-weight: 500;
+  line-height: 1.55;
+}
+
+/* "New conversation" reset row */
+.conv-reset-row {
+  display:         flex;
+  justify-content: flex-start;
+}
+.conv-reset-btn {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.35rem;
+  padding:     0.3rem 0.7rem;
+  font-size:   0.78rem;
+  font-weight: 600;
+  color:       var(--vp-c-text-2);
+  background:  transparent;
+  border:      1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  cursor:      pointer;
+  transition:  color 0.15s, border-color 0.15s, background 0.15s;
+}
+.conv-reset-btn:hover {
+  color:        var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+  background:   var(--vp-c-bg-soft);
+}
 
 /* ── Ask AI tab ── */
 .ask-body { display: flex; flex-direction: column; gap: 1rem; }

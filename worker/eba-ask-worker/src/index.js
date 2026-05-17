@@ -1392,29 +1392,46 @@ If the question is outside EBA coverage (WorkCover, unfair dismissal, Fair Work 
 //
 // Temperature is already set to 0.1 across all providers, which is the correct
 // value for factual, source-grounded tasks on all four models in the chain.
-function buildMessages(question, pages) {
+function buildMessages(question, pages, history = []) {
   const context = pages
     .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
     .join('\n\n');
+
+  // Build the messages array:
+  //   1. System prompt
+  //   2. Previous turns from history (alternating user / assistant roles)
+  //   3. Current user question + sources + formatting instructions
+  //
+  // History arrives as [{ role, content }, ...] with a max of 6 entries
+  // (3 user + 3 assistant). We pass it through as-is — the cap is enforced
+  // client-side before the request is sent.
+  const historyMessages = (history ?? []).map(turn => ({
+    role:    turn.role,
+    content: turn.content,
+  }))
+
+  const userMessage = {
+    role: 'user',
+    content:
+      `QUESTION: ${question}\n\n` +
+      `SOURCES:\n${context}\n\n` +
+      `FORMATTING (mandatory — apply to every response):\n` +
+      `- Open with a 2–3 sentence plain-language summary. No label, no bold prefix.\n` +
+      `- Then write **Explanation:** followed by the clause detail.\n` +
+      `- Only include **Conditions:** if the answer depends on employment type, classification, or hours worked. Skip it if the answer is the same for everyone.\n` +
+      `- Do NOT include a Sources section. Do NOT write "Sources:" anywhere.\n` +
+      `- Bold all clause numbers: **Clause 49**, not Clause 49.\n` +
+      `- Bold all rates and dollar amounts: **250%**, **$45.60**.\n` +
+      `- Use - bullet lists, never numbered lists inside Explanation or Conditions.\n` +
+      `- One blank line between every section.\n` +
+      `- Never write a wall of unbroken text.`
+  }
+
   return [
     { role: 'system', content: SYSTEM_PROMPT },
-    {
-      role: 'user',
-      content:
-        `QUESTION: ${question}\n\n` +
-        `SOURCES:\n${context}\n\n` +
-        `FORMATTING (mandatory — apply to every response):\n` +
-        `- Open with a 2–3 sentence plain-language summary. No label, no bold prefix.\n` +
-        `- Then write **Explanation:** followed by the clause detail.\n` +
-        `- Only include **Conditions:** if the answer depends on employment type, classification, or hours worked. Skip it if the answer is the same for everyone.\n` +
-        `- Do NOT include a Sources section. Do NOT write "Sources:" anywhere.\n` +
-        `- Bold all clause numbers: **Clause 49**, not Clause 49.\n` +
-        `- Bold all rates and dollar amounts: **250%**, **$45.60**.\n` +
-        `- Use - bullet lists, never numbered lists inside Explanation or Conditions.\n` +
-        `- One blank line between every section.\n` +
-        `- Never write a wall of unbroken text.`
-    }
-  ];
+    ...historyMessages,
+    userMessage,
+  ]
 }
 
 // Tier 1: Cerebras — llama3.1-8b — 1,000,000 tokens/day free
@@ -1429,7 +1446,7 @@ async function askCerebras(apiKey, question, pages) {
       model: 'llama3.1-8b',
       temperature: 0.1,
       max_tokens: 1024,
-      messages: buildMessages(question, pages)
+      messages: buildMessages(question, pages, history)
     })
   });
   if (!res.ok) throw new Error(`Cerebras ${res.status}: ${await res.text()}`);
@@ -1451,7 +1468,7 @@ async function askGroq(apiKey, question, pages) {
       model: 'llama-3.3-70b-versatile',
       temperature: 0.1,
       max_tokens: 1024,
-      messages: buildMessages(question, pages)
+      messages: buildMessages(question, pages, history)
     })
   });
   if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`);
@@ -1462,7 +1479,7 @@ async function askGroq(apiKey, question, pages) {
 }
 
 // Tier 3: Gemini — gemini-2.5-flash-lite — 1,000 req/day free
-async function askGemini(apiKey, question, pages) {
+async function askGemini(apiKey, question, pages, history = []) {
   const context = pages
     .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
     .join('\n\n');
@@ -1472,10 +1489,16 @@ async function askGemini(apiKey, question, pages) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
-      contents: [{
-        role: 'user',
-        parts: [{ text: `QUESTION: ${question}\n\nSOURCES:\n${context}` }]
-      }],
+      contents: [
+        ...(history ?? []).map(turn => ({
+          role:  turn.role === 'assistant' ? 'model' : 'user',
+          parts: [{ text: turn.content }],
+        })),
+        {
+          role:  'user',
+          parts: [{ text: `QUESTION: ${question}\n\nSOURCES:\n${context}` }],
+        }
+      ],
       generationConfig: { maxOutputTokens: 1024, temperature: 0.1 }
     })
   });
@@ -1488,7 +1511,7 @@ async function askGemini(apiKey, question, pages) {
 
 // Tier 4: Cloudflare Workers AI — llama-3.1-8b — native binding, no API key
 async function askCloudflareAI(ai, question, pages) {
-  const messages = buildMessages(question, pages);
+  const messages = buildMessages(question, pages, history);
   const res = await ai.run('@cf/meta/llama-3.1-8b-instruct-fp8-fast', {
     messages,
     max_tokens: 1024
@@ -1571,13 +1594,14 @@ export default {
       return new Response('Method not allowed', { status: 405, headers: corsHeaders(origin) });
     }
 
-    let question, contentHash;
+    let question, contentHash, history
     try {
-      const body = await request.json();
-      question    = (body.question || '').trim();
-      contentHash = body.contentHash || null;
+      const body   = await request.json()
+      question     = (body.question || '').trim()
+      contentHash  = body.contentHash || null
+      history      = Array.isArray(body.history) ? body.history.slice(-6) : []
     } catch {
-      return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin);
+      return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin)
     }
 
     if (!question || question.length < 5) {
@@ -1596,7 +1620,18 @@ export default {
     }
 
     // ── Step 1: Score and select relevant EBA pages ──────────────────────────
-    const paths = scoreAndSelectPaths(question);
+    // For follow-up questions (where history is non-empty), the current question
+    // often contains no EBA name or topic signal — e.g. "What about part-time staff?"
+    // scoreAndSelectPaths() needs keyword context to route correctly, so we build
+    // a scoring string that concatenates the most recent prior user turn with the
+    // current question. The actual question sent to the model is unchanged.
+    const priorUserTurn = history
+      .filter(t => t.role === 'user')
+      .slice(-1)[0]?.content ?? ''
+    const scoringText = priorUserTurn
+      ? `${priorUserTurn} ${question}`
+      : question
+    const paths = scoreAndSelectPaths(scoringText);
 
     if (paths.length === 0) {
       return jsonResponse({
@@ -1643,7 +1678,7 @@ export default {
     // Tier 3: Gemini
     if (!aiResult && env.GEMINI_API_KEY) {
       try {
-        aiResult = await askGemini(env.GEMINI_API_KEY, question, pages);
+        aiResult = await askGemini(env.GEMINI_API_KEY, question, pages, history);
       } catch (err) {
         attempts.push({ provider: 'Gemini', error: err.message });
       }
