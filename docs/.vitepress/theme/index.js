@@ -138,7 +138,8 @@ export default {
     }
 
     if (typeof window !== 'undefined') router.onAfterRouteChanged = (to) => {
-      const path      = to.path
+      // VitePress passes the path string directly, not a route object
+      const path      = typeof to === 'string' ? to : (to.path || '')
       const sessionId = getSessionId()
       const started   = sessionStorage.getItem('eba-session-started') || new Date().toISOString()
       const now       = new Date().toISOString()
