@@ -8,13 +8,8 @@
 
   // ─── KV Namespaces ──────────────────────────────────────────────
   // EBA_ANALYTICS  — existing search/Ask AI event log (unchanged)
-  // EBA_PAGEVIEWS  — new page view event log
-  // EBA_SESSIONS   — new session records
-  //
-  // IMPORTANT: EBA_PAGEVIEWS and EBA_SESSIONS IDs are placeholders.
-  // Replace with real IDs after running:
-  //   wrangler kv namespace create EBA_PAGEVIEWS
-  //   wrangler kv namespace create EBA_SESSIONS
+  // EBA_PAGEVIEWS  — page view events (path, eba, section, device, browser)
+  // EBA_SESSIONS   — session records (sessionId, pageCount, duration)
   "kv_namespaces": [
     {
       "binding": "EBA_ANALYTICS",
@@ -22,11 +17,13 @@
     },
     {
       "binding": "EBA_PAGEVIEWS",
-      "id": "REPLACE_WITH_REAL_ID"
+      "id": "00a9bd16e8e94f24b3ab47076a62a69a",
+      "preview_id": "04d13b0d02ca411784e058a3351883b2"
     },
     {
       "binding": "EBA_SESSIONS",
-      "id": "REPLACE_WITH_REAL_ID"
+      "id": "3b5bfc5e3d4041caa2f3bdacfd813b1d",
+      "preview_id": "86bf9c4c9072421c89ec72c5666eed17"
     }
   ]
 }
