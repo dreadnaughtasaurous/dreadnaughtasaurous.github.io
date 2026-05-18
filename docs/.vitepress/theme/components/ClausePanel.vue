@@ -209,7 +209,7 @@ function truncateTitle(title, maxLen) {
 // ─── Fetch clause HTML ────────────────────────────────────────────────────────
 
 async function fetchClause(url) {
-  const fetchUrl = url.endsWith('/') ? url : url + '/'
+  const fetchUrl = url.replace(/\/$/, '')
   const res      = await fetch(fetchUrl)
   if (!res.ok) throw new Error(`Could not load clause (HTTP ${res.status})`)
 
