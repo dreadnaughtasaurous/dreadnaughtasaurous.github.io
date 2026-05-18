@@ -1,6 +1,6 @@
 ---
 title: 'Nurses Midwives'
-eba: 'nurses-midwives.md'
+eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
 

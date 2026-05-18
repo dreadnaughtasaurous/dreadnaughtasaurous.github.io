@@ -1,6 +1,6 @@
 ---
 title: 'Doctors In Training'
-eba: 'doctors-in-training.md'
+eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Allied Health'
-eba: 'allied-health.md'
+eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
 

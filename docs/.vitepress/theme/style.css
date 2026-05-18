@@ -832,3 +832,71 @@
 .VPNavBarExtra .appearance {
   order: 1;
 }
+
+/* ============================================================
+   Clause Panel — body scroll-lock support
+   ============================================================
+   When ClausePanel is open it sets position:fixed on <body>
+   to prevent background scroll. These rules ensure the page
+   layout does not shift when fixed positioning is applied —
+   particularly important on Windows where the scrollbar gutter
+   disappears when overflow:hidden is set.
+   ============================================================ */
+
+html {
+  scrollbar-gutter: stable;
+}
+
+/* ============================================================
+   Clause Panel — .vp-doc content inside the panel
+   ============================================================
+   The panel renders fetched .vp-doc HTML via v-html with the
+   class "cp-content vp-doc". VitePress's default .vp-doc styles
+   apply automatically. These overrides handle the few cases
+   where default styles don't suit the narrower panel context:
+
+   1. Tables: allow horizontal scroll rather than overflowing
+      the panel width.
+   2. Custom containers (:::tip, :::warning, :::danger): reduce
+      padding slightly for the narrower column.
+   3. Code blocks: standard pre/code styles apply — no change
+      needed, they scroll horizontally within their block.
+   ============================================================ */
+
+/* Allow wide tables to scroll within the panel rather than overflow it */
+.clause-panel .cp-content .vp-doc table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+/* Tighten custom container padding for the narrower panel column */
+.clause-panel .cp-content .custom-block {
+  padding: 0.75rem 1rem;
+}
+
+/* ============================================================
+   Clause Panel — reading mode compatibility
+   ============================================================
+   Reading mode hides .VPSidebar and reflows .content-container.
+   The clause panel is position:fixed so it is unaffected by
+   the reflow. No special rules needed — it just works.
+
+   However, the panel must remain accessible (z-index:60) even
+   when reading mode is active, which it does by default since
+   reading mode does not modify z-index on fixed elements.
+   ============================================================ */
+
+/* ============================================================
+   Doc Toolbar — button group alignment on non-/ebas/ pages
+   ============================================================
+   On pages where Breadcrumb renders nothing (non-/ebas/ pages),
+   the space-between toolbar has an empty left side. This rule
+   pushes the button group div to the far right via margin-left:auto
+   so the buttons remain right-aligned regardless of whether the
+   breadcrumb is present.
+   ============================================================ */
+
+.doc-toolbar > div:last-child {
+  margin-left: auto;
+}

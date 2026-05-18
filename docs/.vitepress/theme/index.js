@@ -15,6 +15,7 @@ import AskThisPage from './components/AskThisPage.vue'
 import AccessibilityControls from './components/AccessibilityControls.vue'
 import AnalyticsDashboard from './components/AnalyticsDashboard.vue'
 import ClausePanel from './components/ClausePanel.vue'
+import Breadcrumb from './components/Breadcrumb.vue'
 
 export default {
   extends: DefaultTheme,
@@ -31,7 +32,11 @@ export default {
       //   .social-links  → order: 3
       'nav-bar-content-after': () => h(AccessibilityControls),
 
-      // doc-before: toolbar row with AskThisPage and CopyButton.
+      // doc-before: single toolbar row with Breadcrumb (left) and action
+      // buttons (right) separated by space-between.
+      // On wide screens (≥ 900px) the full breadcrumb trail fills the left.
+      // On narrow screens (< 900px) a compact "← Parent" back-link replaces it.
+      // The buttons are wrapped in a div so they stay grouped as a unit.
       'doc-before': () => h(
         'div',
         { 'data-pagefind-body': true, style: 'display:contents' },
@@ -43,14 +48,17 @@ export default {
             style: [
               'display: flex',
               'align-items: center',
-              'justify-content: flex-end',
+              'justify-content: space-between',
               'gap: 0.5rem',
               'margin-bottom: 1rem',
             ].join('; ')
           },
           [
-            h(AskThisPage),
-            h(CopyButton),
+            h(Breadcrumb),
+            h('div', { style: 'display:flex;align-items:center;gap:0.5rem;flex-shrink:0' }, [
+              h(AskThisPage),
+              h(CopyButton),
+            ]),
           ]
         )
       ),
@@ -76,6 +84,7 @@ export default {
     app.component('AccessibilityControls', AccessibilityControls)
     app.component('AnalyticsDashboard',    AnalyticsDashboard)
     app.component('ClausePanel',           ClausePanel)
+    app.component('Breadcrumb',            Breadcrumb)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation

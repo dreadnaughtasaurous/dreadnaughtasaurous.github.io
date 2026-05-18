@@ -1,6 +1,6 @@
 ---
 title: 'Medical Specialists'
-eba: 'medical-specialists.md'
+eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
 

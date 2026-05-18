@@ -6,3 +6,7 @@ docs/.vitepress/dist/
 docs/.vitepress/cache/
 link-clauses-log.txt
 related-clauses-log.txt
+.wrangler/
+build-log.txt
+eba-file-tree.txt
+link-clauses-log.txt
