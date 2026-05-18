@@ -243,7 +243,7 @@ async function fetchClause(url) {
 
   // Extract title — strip " | EBA Wiki" suffix
   const rawTitle = doc.querySelector('title')?.textContent ?? ''
-  const title    = rawTitle.replace(/\s*[|–—]\s*EBA Wiki.*$/, '').trim() || url
+  const title    = rawTitle.replace(/\s*[|–—]\s*EBAdb.*$/, '').trim() || url
 
   // Extract EBA name from pagefind filter span
   const ebaSpan = doc.querySelector('[data-pagefind-filter^="eba["]')
@@ -634,14 +634,22 @@ onUnmounted(() => {
 .cp-open-link {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 6px;
   font-size: 0.8rem;
-  font-weight: 500;
-  color: #4A2A72;
+  font-weight: 600;
+  color: #fff;
+  background: #4A2A72;
   text-decoration: none;
   margin-left: auto;
+  padding: 5px 12px;
+  border-radius: 6px;
+  transition: background 0.15s, opacity 0.15s;
+  white-space: nowrap;
 }
-.cp-open-link:hover { text-decoration: underline; }
+.cp-open-link:hover {
+  background: #3a1f5a;
+  text-decoration: none;
+}
 
 /* ── Scrim — mobile only ──────────────────────────────────────────────────── */
 .cp-scrim { display: none; }
