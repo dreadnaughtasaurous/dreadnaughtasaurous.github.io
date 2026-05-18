@@ -2,7 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import HomeCards from './components/HomeCards.vue'
 import PayTable from './components/PayTable.vue'
-import { h } from 'vue'
+import { h, Fragment } from 'vue'
 import SearchPage from './components/SearchPage.vue'
 import SearchModal from './components/SearchModal.vue'
 import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
@@ -14,6 +14,7 @@ import RelatedClauses from './components/RelatedClauses.vue'
 import AskThisPage from './components/AskThisPage.vue'
 import AccessibilityControls from './components/AccessibilityControls.vue'
 import AnalyticsDashboard from './components/AnalyticsDashboard.vue'
+import ClausePanel from './components/ClausePanel.vue'
 
 export default {
   extends: DefaultTheme,
@@ -54,8 +55,11 @@ export default {
         )
       ),
 
-      'layout-bottom': () => h(KeyboardHelp),
-      'doc-after':     () => h(RelatedClauses),
+      // layout-bottom: always-mounted overlay components that are event-driven.
+      // Fragment is required — VitePress slot functions must return a single VNode.
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel)]),
+
+      'doc-after': () => h(RelatedClauses),
     })
   },
   enhanceApp({ app, router }) {
@@ -70,9 +74,63 @@ export default {
     app.component('AskThisPage',           AskThisPage)
     app.component('RelatedClauses',        RelatedClauses)
     app.component('AccessibilityControls', AccessibilityControls)
-    app.component('AnalyticsDashboard', AnalyticsDashboard)
+    app.component('AnalyticsDashboard',    AnalyticsDashboard)
+    app.component('ClausePanel',           ClausePanel)
 
-  // ── Analytics beacon ───────────────────────────────────────────────────
+    // ── Clause Panel — router interception ─────────────────────────────────
+    // onBeforeRouteChange fires inside VitePress's router before any navigation
+    // commits. Returning false cancels the navigation entirely.
+    //
+    // When a navigation targets an /ebas/ clause page that differs from the
+    // current page, we cancel it and dispatch a CustomEvent that ClausePanel.vue
+    // listens for — opening the panel instead of navigating.
+    //
+    // Guards applied here:
+    //   1. Target must start with /ebas/ (clause pages only)
+    //   2. Target must differ from the current page (no same-page interception)
+    //   3. The navigation must have originated from a .vp-doc link — we detect
+    //      this by checking document.activeElement at the moment of navigation.
+    //      If the active element (the link that was just clicked) is inside
+    //      .vp-doc, we intercept. If it's in the sidebar or nav, we let through.
+    //
+    // Note: onBeforeRouteChange receives the destination path as a string.
+    // Return false to cancel; return nothing (undefined) to allow.
+
+    if (typeof window !== 'undefined') {
+      router.onBeforeRouteChange = (to) => {
+        const toPath = typeof to === 'string' ? to : (to.path || '')
+
+        // Only intercept /ebas/ navigations
+        if (!toPath.startsWith('/ebas/')) return
+
+        // Normalise both paths for comparison
+        const normTo      = toPath.replace(/\/$/, '').replace(/\.html$/, '')
+        const normCurrent = window.location.pathname.replace(/\/$/, '').replace(/\.html$/, '')
+
+        // Same-page: let through (anchor scrolls, etc.)
+        if (normTo === normCurrent) return
+
+        // Scope guard: only intercept if the click originated inside .vp-doc.
+        // document.activeElement is the element that received focus from the
+        // click — for a keyboard-accessible link click it will be the <a> itself.
+        // For a mouse click, browsers move focus to the clicked element if it is
+        // focusable. We walk up from activeElement to check for .vp-doc ancestry.
+        // If we cannot confirm the click came from .vp-doc, we let navigation
+        // proceed normally (sidebar, nav, Related Clauses panel, etc.).
+        const active = document.activeElement
+        const inVpDoc = active && active.closest('.vp-doc')
+        if (!inVpDoc) return
+
+        // All guards passed — cancel navigation and open the panel instead.
+        window.dispatchEvent(
+          new CustomEvent('open-clause-panel', { detail: { url: toPath } })
+        )
+
+        return false  // cancel the VitePress navigation
+      }
+    }
+
+    // ── Analytics beacon ───────────────────────────────────────────────────
     // Fires on every client-side page navigation.
     // Sends a pageview event and upserts the session record.
     // Session ID is generated once per browser tab and stored in sessionStorage.
@@ -80,12 +138,10 @@ export default {
     // -----------------------------------------------------------------------
     const ANALYTICS_URL = 'https://eba-analytics-worker.irresistibl.workers.dev'
 
-    // Generate or retrieve session ID for this browser tab
     function getSessionId() {
       const key = 'eba-session-id'
       let id = sessionStorage.getItem(key)
       if (!id) {
-        // Simple random ID — not a full ULID but sufficient for session tracking
         id = Date.now().toString(36) + Math.random().toString(36).slice(2, 10)
         sessionStorage.setItem(key, id)
         sessionStorage.setItem('eba-session-started', new Date().toISOString())
@@ -94,7 +150,6 @@ export default {
       return id
     }
 
-    // Parse browser name from UA — mirrors worker-side logic
     function getBrowser() {
       const ua = navigator.userAgent
       if (/edg\//i.test(ua))           return 'Edge'
@@ -106,27 +161,23 @@ export default {
       return 'Other'
     }
 
-    // Parse device type from UA — mirrors worker-side logic
     function getDevice() {
       const ua = navigator.userAgent
-      if (/tablet|ipad|playbook|silk/i.test(ua))                           return 'tablet'
+      if (/tablet|ipad|playbook|silk/i.test(ua))                              return 'tablet'
       if (/mobile|iphone|ipod|android.*mobile|blackberry|iemobile/i.test(ua)) return 'mobile'
       return 'desktop'
     }
 
-    // Extract EBA folder name from path — e.g. /ebas/allied-health/... → allied-health
     function getEbaFromPath(path) {
       const parts = path.split('/').filter(Boolean)
       return parts[0] === 'ebas' && parts[1] ? parts[1] : ''
     }
 
-    // Extract section name from path — e.g. /ebas/allied-health/allowances/... → allowances
     function getSectionFromPath(path) {
       const parts = path.split('/').filter(Boolean)
       return parts[0] === 'ebas' && parts[2] ? parts[2] : ''
     }
 
-    // Fire-and-forget beacon — analytics must never break navigation
     function sendBeacon(endpoint, payload) {
       try {
         fetch(`${ANALYTICS_URL}${endpoint}`, {
@@ -138,21 +189,17 @@ export default {
     }
 
     if (typeof window !== 'undefined') router.onAfterRouteChanged = (to) => {
-      // VitePress passes the path string directly, not a route object
       const path      = typeof to === 'string' ? to : (to.path || '')
       const sessionId = getSessionId()
       const started   = sessionStorage.getItem('eba-session-started') || new Date().toISOString()
       const now       = new Date().toISOString()
 
-      // Increment page count for this session
       const pageCount = parseInt(sessionStorage.getItem('eba-session-pagecount') || '0', 10) + 1
       sessionStorage.setItem('eba-session-pagecount', String(pageCount))
 
-      // Referrer is the previous page path (stored from last navigation)
       const referrer = sessionStorage.getItem('eba-last-path') || ''
       sessionStorage.setItem('eba-last-path', path)
 
-      // Send pageview event
       sendBeacon('/log/pageview', {
         path,
         eba:       getEbaFromPath(path),
@@ -162,7 +209,6 @@ export default {
         referrer,
       })
 
-      // Upsert session record
       sendBeacon('/log/session', {
         sessionId,
         pageCount,
