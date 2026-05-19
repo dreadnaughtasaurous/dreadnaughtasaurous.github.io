@@ -900,3 +900,48 @@ html {
 .doc-toolbar > div:last-child {
   margin-left: auto;
 }
+
+/* ============================================================
+   Search Highlight — jump-to-passage animation
+   ============================================================
+   Applied by applySearchHighlight() in index.js when a search
+   result is clicked. The engine finds the best-matching text
+   node in .vp-doc, wraps it (or adds the class directly for
+   complex elements), then removes it after 3.5 seconds.
+
+   Animation: 0.5s hold at full yellow → 2.5s fade to transparent.
+   Total visible duration: 3s. DOM cleanup fires at 3.5s.
+
+   The yellow is intentionally close to browser Ctrl+F highlight
+   colour so users instantly recognise what it means.
+
+   Dark mode: a slightly warmer, more muted amber so the yellow
+   does not create harsh contrast against dark backgrounds.
+   ============================================================ */
+
+@keyframes search-highlight-fade {
+  0%   { background-color: #fef08a; }   /* yellow — hold */
+  15%  { background-color: #fef08a; }   /* 0.5s hold at full yellow */
+  100% { background-color: transparent; } /* fade out over remaining 2.5s */
+}
+
+.search-highlight {
+  background-color: #fef08a;
+  border-radius: 3px;
+  animation: search-highlight-fade 3s ease-out forwards;
+  /* Small box-decoration to make the highlight visible on inline elements
+     (e.g. text inside a <td> or <li>) without disrupting layout */
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Dark mode — slightly warmer amber to avoid harsh contrast */
+.dark .search-highlight {
+  animation-name: search-highlight-fade-dark;
+}
+
+@keyframes search-highlight-fade-dark {
+  0%   { background-color: #ca8a04; }
+  15%  { background-color: #ca8a04; }
+  100% { background-color: transparent; }
+}

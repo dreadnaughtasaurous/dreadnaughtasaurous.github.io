@@ -92,7 +92,7 @@
                   :href="result.url"
                   class="result-card"
                   :data-result-index="index"
-                  @click="handleResultClick(result)"
+                  @click="handleResultClick(result, $event)"
                   @keydown.up.prevent="focusResult(index - 1)"
                   @keydown.down.prevent="focusResult(index + 1)"
                   @mouseenter="setPreview(result, $event)"
@@ -169,7 +169,7 @@
                 class="result-card"
                 :class="{ 'result-card-previewing': previewResult?.url === result.url }"
                 :data-result-index="index"
-                @click="handleResultClick(result)"
+                @click="handleResultClick(result, $event)"
                 @keydown.up.prevent="focusResult(index - 1)"
                 @keydown.down.prevent="focusResult(index + 1)"
                 @mouseenter="setPreview(result, $event)"
@@ -282,7 +282,7 @@
         <div v-if="previewResult.filters?.topics?.length" class="preview-topics">
           <span v-for="t in previewResult.filters.topics" :key="t" class="result-tag">{{ t }}</span>
         </div>
-        <a :href="previewResult.url" class="preview-open-link" @click="handleResultClick(previewResult)">
+        <a :href="previewResult.url" class="preview-open-link" @click="handleResultClick(previewResult, $event)">
           Open page
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -614,10 +614,38 @@ function fireShortcut(shortcut) {
   doSearch()
 }
 
-function handleResultClick(result) {
+// ─── Highlight URL builder (mirrors SearchModal.vue) ─────────────────────────
+function buildHighlightUrl(result) {
+  const baseUrl = result.url
+  const excerpt = result.excerpt
+  if (!excerpt) return baseUrl
+  const plain = excerpt.replace(/<[^>]+>/g, '').trim()
+  if (!plain) return baseUrl
+  const words = plain
+    .split(/\s+/)
+    .filter(w => w.replace(/[^a-zA-Z0-9]/g, '').length >= 3)
+    .slice(0, 8)
+  if (words.length === 0) return baseUrl
+  const phrase = words.join(' ')
+  try {
+    const url = new URL(baseUrl, window.location.origin)
+    url.searchParams.set('highlight', phrase)
+    return url.pathname + '?' + url.searchParams.toString()
+  } catch {
+    return baseUrl
+  }
+}
+
+function handleResultClick(result, event) {
   addToRecentSearches(query.value)
   previewVisible.value = false
   previewResult.value  = null
+
+  if (event) {
+    event.preventDefault()
+    const highlightUrl = buildHighlightUrl(result)
+    window.location.href = highlightUrl
+  }
 }
 
 // ─── Recent searches ──────────────────────────────────────────────────────────

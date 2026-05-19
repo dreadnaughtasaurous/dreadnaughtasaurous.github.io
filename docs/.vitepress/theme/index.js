@@ -139,6 +139,194 @@ export default {
       }
     }
 
+    // ── Search highlight engine ────────────────────────────────────────────
+    // Triggered by ?highlight=<encoded-phrase> appended to the URL by
+    // handleResultClick() in SearchModal.vue and SearchPage.vue.
+    //
+    // How it works:
+    //   1. Read and decode the ?highlight= query parameter from the URL.
+    //   2. Use TreeWalker to visit every text node inside .vp-doc.
+    //   3. Score each text node by how many query words it contains
+    //      (case-insensitive). Pick the highest-scoring node.
+    //   4. Scroll that node into view with a 90px top offset to clear the
+    //      sticky VitePress nav bar.
+    //   5. Wrap the text node's parent element in a <mark class="search-highlight">
+    //      so the CSS animation can fade the yellow highlight out.
+    //   6. After 3.5s, remove the <mark> wrapper and strip ?highlight= from
+    //      the URL via history.replaceState so the address bar stays clean.
+    //
+    // Why query param not hash:
+    //   VitePress's router interprets the hash portion of a URL as a page
+    //   anchor and may attempt to scroll to an element with that id. Using
+    //   ?highlight= keeps the two systems separate.
+    //
+    // Why TreeWalker not innerHTML indexOf:
+    //   EBA clause pages contain tables, custom containers, and footnotes.
+    //   Walking text nodes directly avoids false matches on HTML tag content
+    //   and handles split text across sibling nodes gracefully.
+
+    // Run applySearchHighlight on full page loads (when window.location.href
+    // was set directly, bypassing the VitePress SPA router).
+    // Also runs on SPA navigations via the onAfterRouteChanged call below.
+    if (typeof window !== 'undefined') {
+      window.addEventListener('DOMContentLoaded', () => applySearchHighlight())
+    }
+
+    function applySearchHighlight() {
+      // Read the highlight phrase from the current URL
+      const params = new URLSearchParams(window.location.search)
+      const raw    = params.get('highlight')
+      if (!raw) return
+
+      // Decode and split into individual search words (≥ 3 chars each).
+      // Short words like "or", "in", "of" would score almost every node —
+      // filtering them out keeps the match focused on meaningful terms.
+      const phrase = decodeURIComponent(raw).trim()
+      const words  = phrase
+        .toLowerCase()
+        .split(/\s+/)
+        .filter(w => w.length >= 3)
+
+      if (words.length === 0) return
+
+      // Wait for Vue to finish rendering the new page's .vp-doc content.
+      // requestAnimationFrame fires after the browser has painted — at this
+      // point the DOM is fully updated and text nodes are queryable.
+      requestAnimationFrame(() => {
+        const docEl = document.querySelector('.vp-doc')
+        if (!docEl) return
+
+        // Walk every TEXT_NODE inside .vp-doc
+        const walker = document.createTreeWalker(
+          docEl,
+          NodeFilter.SHOW_TEXT,
+          {
+            // Skip text nodes inside: headings (h1-h6), the doc toolbar,
+            // code blocks, and changelog/related clauses sections — these
+            // are structural elements that shouldn't be highlighted.
+            acceptNode(node) {
+              const parent = node.parentElement
+              if (!parent) return NodeFilter.FILTER_REJECT
+              const tag = parent.tagName?.toLowerCase() ?? ''
+
+              // Skip headings — they rarely match excerpt text
+              if (/^h[1-6]$/.test(tag)) return NodeFilter.FILTER_SKIP
+
+              // Skip code blocks and pre elements
+              if (tag === 'code' || tag === 'pre') return NodeFilter.FILTER_SKIP
+
+              // Skip elements marked as pagefind-ignored (doc-toolbar, changelog)
+              if (parent.closest('[data-pagefind-ignore]')) return NodeFilter.FILTER_SKIP
+
+              // Skip the related-clauses panel and changelog at page bottom
+              if (parent.closest('.related-clauses-panel')) return NodeFilter.FILTER_SKIP
+              if (parent.closest('[class*="vp-nolebase-git-changelog"]')) return NodeFilter.FILTER_SKIP
+
+              // Skip whitespace-only nodes
+              if (!node.textContent.trim()) return NodeFilter.FILTER_SKIP
+
+              return NodeFilter.FILTER_ACCEPT
+            }
+          }
+        )
+
+        // Score each text node: +1 for each query word found in the node text.
+        // We also give a +2 bonus if the node's text contains the full phrase
+        // verbatim, which handles short single-word searches more accurately.
+        let bestNode  = null
+        let bestScore = 0
+
+        let node = walker.nextNode()
+        while (node) {
+          const text  = node.textContent.toLowerCase()
+          let score   = 0
+          for (const word of words) {
+            if (text.includes(word)) score++
+          }
+          // Bonus for full phrase match
+          if (text.includes(phrase.toLowerCase())) score += 2
+
+          if (score > bestScore) {
+            bestScore = score
+            bestNode  = node
+          }
+          node = walker.nextNode()
+        }
+
+        // Nothing scored at all — abort silently. This can happen when the
+        // search excerpt text comes from synonym injections that aren't
+        // present in the visible page content.
+        if (!bestNode || bestScore === 0) {
+          cleanHighlightParam()
+          return
+        }
+
+        // Scroll the matched element into view.
+        // We scroll the *parent element* (a <p>, <td>, <li> etc.) rather than
+        // the text node itself — text nodes don't have scrollIntoView().
+        // The 90px offset clears the sticky VitePress nav bar (64px) plus
+        // a comfortable visual margin.
+        const targetEl = bestNode.parentElement
+        if (!targetEl) return
+
+        const rect       = targetEl.getBoundingClientRect()
+        const scrollTop  = window.scrollY + rect.top - 90
+        window.scrollTo({ top: Math.max(0, scrollTop), behavior: 'smooth' })
+
+        // Wrap the target element's text content in a <mark> for the CSS highlight.
+        // We wrap the entire parent element rather than surgically splitting the
+        // text node — this avoids issues with partially-matched words breaking
+        // the DOM structure inside tables and list items.
+        //
+        // Guard: only wrap if the element doesn't already contain child elements
+        // (e.g. a <td> that contains a nested <strong> or <a>). If it does, we
+        // add the class to the parent directly and let CSS highlight the whole block.
+        // This prevents the DOM from being broken by inserting a <mark> between
+        // an element and its children.
+        let markEl
+
+        if (targetEl.children.length === 0) {
+          // Simple text node — safe to wrap the whole element
+          markEl = document.createElement('mark')
+          markEl.className = 'search-highlight'
+          targetEl.parentNode.insertBefore(markEl, targetEl)
+          markEl.appendChild(targetEl)
+        } else {
+          // Complex element with children — apply the class directly
+          targetEl.classList.add('search-highlight')
+          markEl = targetEl
+        }
+
+        // Remove the highlight and clean the URL after 3.5 seconds.
+        // The CSS animation runs for 3s (0.5s hold + 2.5s fade), so 3.5s gives
+        // the fade a moment to fully complete before DOM cleanup.
+        setTimeout(() => {
+          if (targetEl.children.length === 0 && markEl.tagName === 'MARK') {
+            // Unwrap the <mark> by replacing it with the element it contained
+            markEl.parentNode.insertBefore(targetEl, markEl)
+            markEl.remove()
+          } else {
+            targetEl.classList.remove('search-highlight')
+          }
+          cleanHighlightParam()
+        }, 3500)
+      })
+    }
+
+    // Remove ?highlight= from the browser address bar without triggering
+    // a navigation. This keeps the URL clean for bookmarking and sharing.
+    function cleanHighlightParam() {
+      try {
+        const url    = new URL(window.location.href)
+        const params = url.searchParams
+        if (!params.has('highlight')) return
+        params.delete('highlight')
+        // Reconstruct: keep the path + any remaining params + the hash
+        const newUrl = url.pathname + (params.toString() ? '?' + params.toString() : '') + url.hash
+        history.replaceState(null, '', newUrl)
+      } catch { /* silently ignore — non-critical */ }
+    }
+
     // ── Analytics beacon ───────────────────────────────────────────────────
     // Fires on every client-side page navigation.
     // Sends a pageview event and upserts the session record.
@@ -224,6 +412,10 @@ export default {
         started,
         lastSeen: now,
       })
+
+      // SPA navigation path — also attempt highlight in case the user
+      // navigates to a ?highlight= URL via back/forward buttons.
+      applySearchHighlight()
     }
   }
 }

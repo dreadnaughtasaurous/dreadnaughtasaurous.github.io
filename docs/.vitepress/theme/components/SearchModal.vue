@@ -116,7 +116,7 @@
                   <a
                     v-for="(result, index) in fuzzyResults"
                     :key="result.url"
-                    :href="result.url"
+                    :href="buildHighlightUrl(result)"
                     class="result-card"
                     :data-result-index="index"
                     @click="handleResultClick(result)"
@@ -220,7 +220,7 @@
                 <a
                   v-for="(result, index) in results"
                   :key="result.url"
-                  :href="result.url"
+                  :href="buildHighlightUrl(result)"
                   class="result-card"
                   :class="{ 'result-card-previewing': previewResult?.url === result.url }"
                   :data-result-index="index"
@@ -279,10 +279,6 @@
                 </div>
 
                 <!-- ── Conversation thread ── -->
-                <!-- Shown once at least one turn has completed.
-                     Oldest turn at top, newest at bottom.
-                     The loading state and error state for the current
-                     in-flight request are appended below the thread. -->
                 <div
                   v-if="conversationHistory.length > 0 || aiLoading || aiError"
                   class="conversation-thread"
@@ -290,20 +286,14 @@
                   aria-live="polite"
                   aria-label="Conversation history"
                 >
-                  <!-- Render completed turns from history -->
                   <template v-for="(turn, idx) in conversationHistory" :key="idx">
-
-                    <!-- User turn -->
                     <div v-if="turn.role === 'user'" class="conv-turn conv-turn--user">
                       <span class="conv-label">You</span>
                       <p class="conv-user-text">{{ turn.content }}</p>
                     </div>
-
-                    <!-- Assistant turn -->
                     <div v-else-if="turn.role === 'assistant'" class="conv-turn conv-turn--assistant">
                       <span class="conv-label">EBA Assistant</span>
                       <div class="ai-answer-body" v-html="renderMarkdown(turn.content)"></div>
-                      <!-- Sources are only shown on the most recent assistant turn -->
                       <template v-if="idx === conversationHistory.length - 1 && aiSources.length">
                         <div class="ai-sources">
                           <p class="ai-sources-label">Sources used:</p>
@@ -311,27 +301,22 @@
                         </div>
                       </template>
                     </div>
-
                   </template>
 
-                  <!-- In-flight loading indicator (appended below completed turns) -->
                   <div v-if="aiLoading" class="conv-turn conv-turn--assistant conv-turn--loading">
                     <span class="conv-label">EBA Assistant</span>
                     <span class="loading-dots">Reading EBA content<span>.</span><span>.</span><span>.</span></span>
                   </div>
 
-                  <!-- Error state (appended below completed turns) -->
                   <div v-if="aiError && !aiLoading" class="ai-error">
                     <strong>Something went wrong.</strong> {{ aiError }}
                   </div>
                 </div>
 
-                <!-- Disclaimer — shown once any answer exists in the thread -->
                 <p v-if="conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer">
                   ⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.
                 </p>
 
-                <!-- New conversation button — shown once at least one turn is complete -->
                 <div v-if="conversationHistory.length >= 2" class="conv-reset-row">
                   <button class="conv-reset-btn" @click="resetConversation">
                     <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
@@ -339,7 +324,6 @@
                   </button>
                 </div>
 
-                <!-- Example questions — only shown when no conversation has started -->
                 <div class="ask-hint" v-if="conversationHistory.length === 0 && !aiLoading">
                   <p>{{ aiConfigured ? 'Try asking — specify the EBA and employee type for best results:' : 'Example questions you\'ll be able to ask — specify the EBA and employee type for best results:' }}</p>
                   <ul class="ask-examples">
@@ -389,7 +373,7 @@
         <div v-if="previewResult.filters?.topics?.length" class="preview-topics">
           <span v-for="t in previewResult.filters.topics" :key="t" class="result-tag">{{ t }}</span>
         </div>
-        <a :href="previewResult.url" class="preview-open-link" @click="handleResultClick(previewResult)">
+        <a :href="buildHighlightUrl(previewResult)" class="preview-open-link" @click="handleResultClick(previewResult)">
           Open page
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
         </a>
@@ -453,12 +437,9 @@ const aiSources = ref([])
 const aiError   = ref('')
 
 // ─── Conversation history (multi-turn Ask AI) ─────────────────────────────────
-// Each entry: { role: 'user' | 'assistant', content: string (raw markdown) }
-// Capped at MAX_HISTORY_TURNS * 2 entries (user + assistant per turn).
-// Reset to [] on modal close and on tab switch — per-page, per-session scope.
 const MAX_HISTORY_TURNS    = 3
 const conversationHistory  = ref([])
-const conversationBodyRef  = ref(null)   // ref to the scrollable thread container
+const conversationBodyRef  = ref(null)
 
 let searchTimer = null
 let pagefind    = null
@@ -804,11 +785,9 @@ onMounted(async () => {
 })
 
 // Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
-// Receives optional { eba, topic } from event.detail and pre-applies them as filters.
 function openFromExternal(e) {
   const detail = e?.detail ?? {}
 
-  // ── Ask AI tab shortcut (from AskThisPage button) ──────────────────────────
   if (detail.tab === 'ask' && detail.query) {
     pendingContentHash  = detail.contentHash ?? null
     query.value         = detail.query
@@ -818,7 +797,6 @@ function openFromExternal(e) {
     return
   }
 
-  // ── Standard search tab shortcut (from RelatedClauses "See all" button) ───
   const { eba = '', topic = '' } = detail
   selectedEba.value   = eba
   selectedTopic.value = topic
@@ -880,7 +858,7 @@ function close() {
   aiAnswer.value            = ''
   aiSources.value           = []
   aiError.value             = ''
-  conversationHistory.value = []   // per-page: reset on close
+  conversationHistory.value = []
   pendingContentHash        = null
 }
 
@@ -892,7 +870,7 @@ function switchTab(tab) {
   aiAnswer.value            = ''
   aiSources.value           = []
   aiError.value             = ''
-  conversationHistory.value = []   // reset thread when switching tabs
+  conversationHistory.value = []
   pendingContentHash        = null
   nextTick(() => inputRef.value?.focus())
 }
@@ -972,6 +950,34 @@ async function runFuzzyFallback(originalQuery, filters) {
   fuzzyLoading.value = false
 }
 
+// ─── Highlight URL builder ────────────────────────────────────────────────────
+// Bound directly to :href in the template so Vue renders the ?highlight= param
+// into the DOM before any click occurs — no event handler timing issues.
+// applySearchHighlight() in index.js reads this param on DOMContentLoaded.
+function buildHighlightUrl(result) {
+  const baseUrl = result.url
+  const excerpt = result.excerpt
+  if (!excerpt) return baseUrl
+  const plain = excerpt.replace(/<[^>]+>/g, '').trim()
+  if (!plain) return baseUrl
+  const words = plain
+    .split(/\s+/)
+    .filter(w => w.replace(/[^a-zA-Z0-9]/g, '').length >= 3)
+    .slice(0, 8)
+  if (words.length === 0) return baseUrl
+  const phrase = words.join(' ')
+  try {
+    const url = new URL(baseUrl, window.location.origin)
+    url.searchParams.set('highlight', phrase)
+    return url.pathname + '?' + url.searchParams.toString()
+  } catch {
+    return baseUrl
+  }
+}
+
+// ─── Result click handler ─────────────────────────────────────────────────────
+// The :href binding already carries ?highlight= so no URL manipulation needed
+// here. This handler only handles bookkeeping and closing the modal.
 function handleResultClick(result) {
   addToRecentSearches(query.value)
   persistState()
@@ -993,20 +999,13 @@ async function submitAsk() {
   if (!aiConfigured || query.value.trim().length < 5 || aiLoading.value) return
 
   const question = query.value.trim()
-
-  // Only send contentHash on the first turn — follow-up questions are not
-  // deterministic prompts so caching them would produce wrong cache hits.
   const isFirstTurn = conversationHistory.value.length === 0
   const hashToSend  = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
-
-  // Snapshot the current history to send as context BEFORE appending this turn.
-  // Cap at the last MAX_HISTORY_TURNS * 2 entries so the Worker context stays bounded.
   const historyToSend = conversationHistory.value.slice(-(MAX_HISTORY_TURNS * 2))
 
   aiLoading.value = true
   aiAnswer.value  = ''
   aiError.value   = ''
-  // Clear the input immediately so the user can compose their next question
   query.value     = ''
 
   try {
@@ -1024,14 +1023,12 @@ async function submitAsk() {
 
     const rawAnswer = data.answer ?? 'No answer returned.'
 
-    // Append this completed turn to the conversation history
     conversationHistory.value = [
       ...conversationHistory.value,
       { role: 'user',      content: question  },
       { role: 'assistant', content: rawAnswer },
-    ].slice(-(MAX_HISTORY_TURNS * 2))  // enforce cap
+    ].slice(-(MAX_HISTORY_TURNS * 2))
 
-    // Parse sources for the Sources Used panel (shown on most recent turn only)
     aiSources.value = (data.sources ?? []).map(url => {
       const segment = url.split('/').pop().replace('.html', '')
       const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
@@ -1043,7 +1040,6 @@ async function submitAsk() {
 
     logSearch('ask', question, '', '', null)
 
-    // Scroll the thread to the bottom so the new answer is visible
     await nextTick()
     if (conversationBodyRef.value) {
       conversationBodyRef.value.scrollTop = conversationBodyRef.value.scrollHeight
@@ -1053,11 +1049,9 @@ async function submitAsk() {
   }
 
   aiLoading.value    = false
-  pendingContentHash = null   // reset after first turn
+  pendingContentHash = null
 }
 
-// Resets the conversation without closing the modal.
-// Bound to the "New conversation" button that appears after the first turn.
 function resetConversation() {
   conversationHistory.value = []
   aiAnswer.value            = ''
@@ -1352,7 +1346,6 @@ function resetConversation() {
 }
 .conv-turn:last-child { border-bottom: none; }
 
-/* User turn — slightly lighter background to distinguish from assistant */
 .conv-turn--user {
   background: var(--vp-c-bg);
 }
