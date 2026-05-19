@@ -3,7 +3,6 @@ import './style.css'
 import HomeCards from './components/HomeCards.vue'
 import PayTable from './components/PayTable.vue'
 import { h, Fragment } from 'vue'
-import SearchPage from './components/SearchPage.vue'
 import SearchModal from './components/SearchModal.vue'
 import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
@@ -72,7 +71,6 @@ export default {
   },
   enhanceApp({ app, router }) {
     app.use(NolebaseGitChangelogPlugin)
-    app.component('SearchPage',            SearchPage)
     app.component('SearchModal',           SearchModal)
     app.component('PayTable',              PayTable)
     app.component('HomeCards',             HomeCards)
@@ -141,7 +139,7 @@ export default {
 
     // ── Search highlight engine ────────────────────────────────────────────
     // Triggered by ?highlight=<encoded-phrase> appended to the URL by
-    // handleResultClick() in SearchModal.vue and SearchPage.vue.
+    // handleResultClick() in SearchModal.vue.
     //
     // How it works:
     //   1. Read and decode the ?highlight= query parameter from the URL.

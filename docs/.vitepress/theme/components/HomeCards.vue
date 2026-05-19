@@ -37,6 +37,7 @@
     <div class="home-section-label">Reference</div>
 
     <div class="home-card-grid home-card-grid--slim">
+      <!-- Regular link cards -->
       <a v-for="card in refCards" :key="card.link" :href="card.link" class="home-card">
         <article class="box">
           <div class="icon" :style="{ color: card.color, backgroundColor: card.bg }" v-html="card.icon"></div>
@@ -44,6 +45,14 @@
           <p class="details">{{ card.desc }}</p>
         </article>
       </a>
+      <!-- Advanced Search — opens SearchModal via custom event instead of navigating -->
+      <button class="home-card home-card--btn" @click="openSearch" aria-label="Open search modal">
+        <article class="box">
+          <div class="icon" :style="{ color: '#0284C7', backgroundColor: '#0284C71A' }" v-html="icons.searchcode"></div>
+          <h2 class="title">Advanced Search</h2>
+          <p class="details">Filter by EBA, topic, or keyword</p>
+        </article>
+      </button>
     </div>
 
     <div class="home-disclaimer">
@@ -93,9 +102,42 @@ const ebaCards = [
 ]
 
 const refCards = [
-  { icon: icons.dollar,     color: '#16A34A', bg: '#16A34A1A', title: 'Pay Rates Directory', desc: 'Quick-reference wage tables across all EBAs', link: '/pay-rates' },
-  { icon: icons.tags,       color: '#7C3AED', bg: '#7C3AED1A', title: 'Browse by Topic',     desc: 'Every clause grouped by topic',               link: '/topics/' },
-  { icon: icons.searchcode, color: '#0284C7', bg: '#0284C71A', title: 'Advanced Search',     desc: 'Filter by EBA, topic, or keyword',            link: '/search.html' },
-  { icon: icons.archive,    color: '#78716C', bg: '#78716C1A', title: 'Archive',             desc: 'Expired and superseded agreements',           link: '/archive' },
+  { icon: icons.dollar,   color: '#16A34A', bg: '#16A34A1A', title: 'Pay Rates Directory', desc: 'Quick-reference wage tables across all EBAs', link: '/pay-rates' },
+  { icon: icons.tags,     color: '#7C3AED', bg: '#7C3AED1A', title: 'Browse by Topic',     desc: 'Every clause grouped by topic',               link: '/topics/' },
+  { icon: icons.archive,  color: '#78716C', bg: '#78716C1A', title: 'Archive',             desc: 'Expired and superseded agreements',           link: '/archive' },
 ]
+
+// Dispatches the same CustomEvent that SearchModal.vue listens for on window.
+// This is the same mechanism used by RelatedClauses.vue and AskThisPage.vue
+// to open the modal from outside the nav bar component.
+function openSearch() {
+  window.dispatchEvent(new CustomEvent('open-search', { detail: {} }))
+}
 </script>
+
+<style scoped>
+/* Reset <button> UA stylesheet defaults and explicitly apply the .home-card
+   visual properties. The UA stylesheet sets background:none and border:none
+   on <button> elements, which overrides the global .home-card rules in
+   style.css even though the button carries the .home-card class.
+   Values copied verbatim from .home-card in style.css. */
+.home-card--btn {
+  appearance: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  width: 100%;
+  display: block;
+  /* These two are the ones the UA stylesheet was overriding: */
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-bg-soft);
+  border-radius: 12px;
+  transition: border-color 0.25s, background 0.25s;
+}
+.home-card--btn:hover {
+  border-color: var(--vp-c-brand-1);
+}
+</style>
