@@ -15,6 +15,7 @@ import AccessibilityControls from './components/AccessibilityControls.vue'
 import AnalyticsDashboard from './components/AnalyticsDashboard.vue'
 import ClausePanel from './components/ClausePanel.vue'
 import Breadcrumb from './components/Breadcrumb.vue'
+import BookmarkButton from './components/BookmarkButton.vue'
 
 export default {
   extends: DefaultTheme,
@@ -57,6 +58,7 @@ export default {
             h('div', { style: 'display:flex;align-items:center;gap:0.5rem;flex-shrink:0' }, [
               h(AskThisPage),
               h(CopyButton),
+              h(BookmarkButton),
             ]),
           ]
         )
@@ -83,6 +85,7 @@ export default {
     app.component('AnalyticsDashboard',    AnalyticsDashboard)
     app.component('ClausePanel',           ClausePanel)
     app.component('Breadcrumb',            Breadcrumb)
+    app.component('BookmarkButton',        BookmarkButton)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation

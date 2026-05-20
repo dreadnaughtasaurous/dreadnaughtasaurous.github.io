@@ -157,6 +157,34 @@
               <!-- Quick Access panel (no query, no filters) -->
               <div v-else-if="query.length <= 1 && !selectedEba && !selectedTopic" class="quick-access">
 
+                <!-- Bookmarks section -->
+                <div v-if="bookmarks.length > 0" class="qa-section">
+                  <div class="qa-section-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+                    My bookmarks
+                    <span class="qa-bookmark-count">{{ bookmarks.length }}</span>
+                  </div>
+                  <div class="qa-bookmark-list">
+                    <a                    
+                      v-for="bm in bookmarks"
+                      :key="bm.id"
+                      :href="bm.url"
+                      class="qa-bookmark-card"
+                      @click="close"
+                    >
+                      <div class="qa-bookmark-card-top">
+                        <svg class="qa-bookmark-card-icon" width="11" height="11" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+                        <span class="qa-bookmark-card-title">{{ bm.title }}</span>
+                      </div>
+                      <div v-if="bm.eba" class="qa-bookmark-card-eba">{{ bm.eba }}</div>
+                      <div v-if="bm.note" class="qa-bookmark-card-note">
+                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                        {{ bm.note }}
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
                 <!-- Saved searches section -->
                 <div v-if="savedSearches.length > 0" class="qa-section">
                   <div class="qa-section-header">
@@ -584,6 +612,7 @@ const SESSION_TOPIC_KEY  = 'eba-search-last-topic'
 const SESSION_SCROLL_KEY = 'eba-search-last-scroll'
 const SESSION_RECENT_KEY = 'eba-search-recent'
 const LOCAL_SAVED_KEY    = 'eba-search-saved'
+const LOCAL_BOOKMARKS_KEY = 'eba-bookmarks'
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -615,6 +644,19 @@ const recentSearches = ref([])
 // ─── Saved searches (localStorage — persists across sessions) ─────────────────
 // Each entry: { id: string, label: string, query: string, eba: string, topic: string }
 const savedSearches = ref([])
+
+// ─── Bookmarks (localStorage — persists across sessions) ──────────────────────
+// Each entry: { id: string, url: string, title: string, eba: string, note: string, savedAt: string }
+// Loaded once on mount and kept in sync via the 'eba-bookmarks-updated' CustomEvent
+// dispatched by BookmarkButton.vue whenever a bookmark is added, edited, or removed.
+const bookmarks = ref([])
+
+function loadBookmarks() {
+  try {
+    const raw = localStorage.getItem(LOCAL_BOOKMARKS_KEY)
+    if (raw) bookmarks.value = JSON.parse(raw)
+  } catch { /* corrupt storage — degrade silently */ }
+}
 
 // ─── AI state ─────────────────────────────────────────────────────────────────
 const aiLoading = ref(false)
@@ -998,6 +1040,7 @@ function focusResult(index) {
 // ─── Load Pagefind ────────────────────────────────────────────────────────────
 onMounted(async () => {
   loadSavedSearches()
+  loadBookmarks()
   try {
     const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
     if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
@@ -1074,10 +1117,14 @@ function onKeydown(e) {
 onMounted(() => {
   window.addEventListener('keydown', onKeydown)
   window.addEventListener('open-search', openFromExternal)
+  // Keep bookmark list fresh when BookmarkButton.vue saves/removes a bookmark
+  // while the modal is open (e.g. user bookmarks a page, then opens the modal).
+  window.addEventListener('eba-bookmarks-updated', loadBookmarks)
 })
 onUnmounted(() => {
   window.removeEventListener('keydown', onKeydown)
   window.removeEventListener('open-search', openFromExternal)
+  window.removeEventListener('eba-bookmarks-updated', loadBookmarks)
 })
 
 function close() {
@@ -1773,6 +1820,99 @@ function resetConversation() {
 .qa-shortcut:hover .qa-shortcut-arrow { transform: translateX(3px); color: var(--vp-c-brand); }
 .search-hint-small { font-size: 0.75rem; color: var(--vp-c-text-3); text-align: center; margin-top: 0.5rem; }
 
+/* ── Bookmark count badge in section header ── */
+.qa-bookmark-count {
+  margin-left: 0.2rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--vp-c-bg);
+  background: #F59E0B;
+  border-radius: 999px;
+  padding: 0.05rem 0.4rem;
+  line-height: 1.5;
+}
+
+/* ── Bookmark card list — vertical stack, one card per bookmark ── */
+.qa-bookmark-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.qa-bookmark-card {
+  display: block;
+  text-decoration: none;
+  padding: 0.55rem 0.7rem;
+  border-radius: 7px;
+  border: 1px solid var(--vp-c-divider);
+  border-left: 3px solid #F59E0B;
+  background: var(--vp-c-bg-soft);
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.qa-bookmark-card:hover {
+  background: var(--vp-c-bg-elv);
+  border-color: var(--vp-c-brand);
+  border-left-color: #F59E0B;
+}
+
+.qa-bookmark-card-top {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.qa-bookmark-card-icon {
+  color: #F59E0B;
+  flex-shrink: 0;
+}
+
+.qa-bookmark-card-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--vp-c-brand);
+  line-height: 1.35;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.qa-bookmark-card:hover .qa-bookmark-card-title {
+  color: var(--vp-c-brand-1);
+}
+
+.qa-bookmark-card-eba {
+  font-size: 0.7rem;
+  color: var(--vp-c-text-3);
+  margin-top: 0.15rem;
+  margin-left: 1.35rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.qa-bookmark-card-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.3rem;
+  margin-top: 0.35rem;
+  margin-left: 1.35rem;
+  font-size: 0.75rem;
+  font-style: italic;
+  color: #B45309;
+  line-height: 1.45;
+}
+
+.dark .qa-bookmark-card-note {
+  color: #FCD34D;
+}
+
+.qa-bookmark-card-note svg {
+  flex-shrink: 0;
+  margin-top: 0.15rem;
+  opacity: 0.7;
+}
+
 /* ── Result cards ── */
 .result-count { font-size: 0.8rem; color: var(--vp-c-text-3); margin-bottom: 0.75rem; }
 .result-card {
@@ -1807,6 +1947,7 @@ function resetConversation() {
   line-height: 1.65; margin: 0;
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
