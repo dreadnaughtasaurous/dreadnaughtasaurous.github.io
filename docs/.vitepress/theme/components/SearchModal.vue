@@ -18,12 +18,15 @@
 
           <!-- Search input row -->
           <div class="search-header">
-            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
-                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <svg
+              v-show="!hideSharedInput"
+              class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
             </svg>
             <input
               ref="inputRef"
+              v-show="!hideSharedInput"
               v-model="query"
               type="search"
               :placeholder="activeTab === 'search' ? 'Search all clauses...' : 'Ask a question about your EBA...'"
@@ -256,26 +259,174 @@
             </div>
           </template>
 
-          <!-- ASK AI TAB -->
+          <!-- ASK AI TAB — data-ask-mode on the body div lets CSS key off the active mode -->
           <template v-else-if="activeTab === 'ask'">
-            <div class="search-body ask-body">
+            <div class="search-body ask-body" :data-ask-mode="askMode">
               <div v-if="!aiConfigured" class="ai-not-configured">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
                 <p><strong>AI Search not yet configured</strong></p>
                 <p>The AI search feature requires a Cloudflare Worker to be set up. The Pagefind keyword search is fully operational in the meantime.</p>
               </div>
               <template v-else>
-                <!-- Ask button row -->
-                <div class="ask-input-row">
+
+                <!-- ── Ask mode selector (hidden once a conversation starts) ── -->
+                <div
+                  v-if="conversationHistory.length === 0 && !aiLoading"
+                  class="ask-mode-selector"
+                  role="group"
+                  aria-label="Ask mode"
+                >
                   <button
-                    class="ask-btn"
-                    :disabled="aiLoading || query.trim().length < 5"
-                    @click="submitAsk"
-                  >
-                    <svg v-if="!aiLoading" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                    <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
-                    <span v-else>Ask</span>
-                  </button>
+                    class="ask-mode-btn"
+                    :class="{ active: askMode === 'question' }"
+                    @click="setAskMode('question')"
+                  >Ask a question</button>
+                  <button
+                    class="ask-mode-btn"
+                    :class="{ active: askMode === 'situation' }"
+                    @click="setAskMode('situation')"
+                  >Describe a situation</button>
+                  <button
+                    class="ask-mode-btn"
+                    :class="{ active: askMode === 'draft' }"
+                    @click="setAskMode('draft')"
+                  >Draft a response</button>
+                </div>
+
+                <!-- ── question mode: structured form with EBA/employment dropdowns ── -->
+                <div
+                  v-if="conversationHistory.length === 0 && !aiLoading && askMode === 'question'"
+                  class="ask-form"
+                >
+                  <div class="ask-form-row">
+                    <div class="filter-group">
+                      <label for="question-eba-filter">EBA <span class="optional-label">(optional)</span></label>
+                      <select id="question-eba-filter" v-model="questionEba">
+                        <option value="">Select EBA...</option>
+                        <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
+                      </select>
+                    </div>
+                    <div class="filter-group">
+                      <label for="question-emp-filter">Employment type <span class="optional-label">(optional)</span></label>
+                      <select id="question-emp-filter" v-model="questionEmpType">
+                        <option value="">Select type...</option>
+                        <option v-for="et in employmentTypes" :key="et" :value="et">{{ et }}</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="ask-form-field">
+                    <label for="question-text">Your question <span class="required-mark" aria-hidden="true">*</span></label>
+                    <textarea
+                      id="question-text"
+                      v-model="questionText"
+                      rows="4"
+                      placeholder="e.g. Am I entitled to overtime pay if I work more than 8 hours on a weekend shift?"
+                      @keydown.enter.ctrl="submitAsk"
+                    ></textarea>
+                  </div>
+                  <div class="ask-input-row">
+                    <button
+                      class="ask-btn"
+                      :disabled="aiLoading || questionText.trim().length < 5"
+                      @click="submitAsk"
+                    >
+                      <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
+                      <span v-else>Ask</span>
+                    </button>
+                  </div>
+                </div>
+
+                <!-- ── situation mode form ── -->
+                <div
+                  v-if="conversationHistory.length === 0 && !aiLoading && askMode === 'situation'"
+                  class="ask-form"
+                >
+                  <div class="ask-form-row">
+                    <div class="filter-group">
+                      <label for="situation-eba-filter">EBA <span class="optional-label">(optional)</span></label>
+                      <select id="situation-eba-filter" v-model="situationEba">
+                        <option value="">Select EBA...</option>
+                        <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
+                      </select>
+                    </div>
+                    <div class="filter-group">
+                      <label for="situation-emp-filter">Employment type <span class="optional-label">(optional)</span></label>
+                      <select id="situation-emp-filter" v-model="situationEmpType">
+                        <option value="">Select type...</option>
+                        <option v-for="et in employmentTypes" :key="et" :value="et">{{ et }}</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="ask-form-field">
+                    <label for="situation-text">Describe the situation <span class="required-mark" aria-hidden="true">*</span></label>
+                    <textarea
+                      id="situation-text"
+                      v-model="situationText"
+                      rows="4"
+                      placeholder="e.g. An employee worked a double shift over the weekend and is questioning whether they're entitled to overtime pay..."
+                    ></textarea>
+                  </div>
+                  <div class="ask-input-row">
+                    <button
+                      class="ask-btn"
+                      :disabled="aiLoading || situationText.trim().length < 10"
+                      @click="submitAsk"
+                    >
+                      <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
+                      <span v-else>Describe situation</span>
+                    </button>
+                  </div>
+                </div>
+
+                <!-- ── draft mode form ── -->
+                <div
+                  v-if="conversationHistory.length === 0 && !aiLoading && askMode === 'draft'"
+                  class="ask-form"
+                >
+                  <div class="ask-form-row">
+                    <div class="filter-group">
+                      <label for="draft-eba-filter">EBA <span class="required-mark" aria-hidden="true">*</span></label>
+                      <select id="draft-eba-filter" v-model="draftEba">
+                        <option value="">Select EBA...</option>
+                        <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
+                      </select>
+                    </div>
+                    <div class="filter-group">
+                      <label for="draft-emp-filter">Employment type <span class="required-mark" aria-hidden="true">*</span></label>
+                      <select id="draft-emp-filter" v-model="draftEmpType">
+                        <option value="">Select type...</option>
+                        <option v-for="et in employmentTypes" :key="et" :value="et">{{ et }}</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="ask-form-field">
+                    <label for="draft-question">Employee's question <span class="required-mark" aria-hidden="true">*</span></label>
+                    <input
+                      type="text"
+                      id="draft-question"
+                      v-model="draftQuestion"
+                      placeholder="e.g. Am I entitled to overtime pay for the extra shift I worked?"
+                    />
+                  </div>
+                  <div class="ask-form-field">
+                    <label for="draft-context">Additional context <span class="optional-label">(optional)</span></label>
+                    <textarea
+                      id="draft-context"
+                      v-model="draftContext"
+                      rows="3"
+                      placeholder="e.g. The employee works Monday to Friday, their shift was on a Sunday, 8 hours. They are classified as Grade 3."
+                    ></textarea>
+                  </div>
+                  <div class="ask-input-row">
+                    <button
+                      class="ask-btn"
+                      :disabled="aiLoading || draftEba === '' || draftEmpType === '' || draftQuestion.trim().length < 5"
+                      @click="submitAsk"
+                    >
+                      <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
+                      <span v-else>Draft response</span>
+                    </button>
+                  </div>
                 </div>
 
                 <!-- ── Conversation thread ── -->
@@ -316,6 +467,9 @@
                 <p v-if="conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer">
                   ⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.
                 </p>
+                <p v-if="lastAnswerWasDraft && conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer ai-disclaimer-draft">
+                  📋 Review this draft carefully before sending — it is AI-generated and has not been verified by an employment relations specialist.
+                </p>
 
                 <div v-if="conversationHistory.length >= 2" class="conv-reset-row">
                   <button class="conv-reset-btn" @click="resetConversation">
@@ -324,15 +478,45 @@
                   </button>
                 </div>
 
+                <!-- ── Ask hint — mode-tailored example prompts ── -->
                 <div class="ask-hint" v-if="conversationHistory.length === 0 && !aiLoading">
-                  <p>{{ aiConfigured ? 'Try asking — specify the EBA and employee type for best results:' : 'Example questions you\'ll be able to ask — specify the EBA and employee type for best results:' }}</p>
-                  <ul class="ask-examples">
-                    <li @click="aiConfigured ? useExample('Is a full-time employee under the Nurses and Midwives EBA entitled to overtime pay on a public holiday?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Is a full-time employee under the <strong>Nurses &amp; Midwives EBA</strong> entitled to overtime pay on a public holiday?</li>
-                    <li @click="aiConfigured ? useExample('How much notice is required before changing the roster of a part-time nurse under the Nurses and Midwives EBA?') : null" :class="{ 'ask-example-preview': !aiConfigured }">How much notice is required before changing the roster of a part-time nurse under the <strong>Nurses &amp; Midwives EBA</strong>?</li>
-                    <li @click="aiConfigured ? useExample('What is the recall allowance for a Grade 3 Allied Health employee under the Allied Health EBA?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What is the recall allowance for a Grade 3 employee under the <strong>Allied Health EBA</strong>?</li>
-                    <li @click="aiConfigured ? useExample('What overtime rates apply to a resident medical officer under the Doctors in Training EBA after 10 hours on a weekday shift?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What overtime rates apply to a resident medical officer under the <strong>Doctors in Training EBA</strong> after 10 hours on a weekday shift?</li>
-                    <li @click="aiConfigured ? useExample('Is a full-time administration officer under the HAS Managers and Admin EBA entitled to a meal allowance for overtime?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Is a full-time administration officer under the <strong>HAS Managers &amp; Admin EBA</strong> entitled to a meal allowance for overtime?</li>
-                  </ul>
+
+                  <!-- question mode: examples fill the questionText textarea; EBA/emp type set via dropdowns -->
+                  <template v-if="askMode === 'question'">
+                    <p>{{ aiConfigured ? 'Select your EBA and employment type above, then try one of these examples:' : 'Example questions you\'ll be able to ask once AI is configured:' }}</p>
+                    <ul class="ask-examples">
+                      <li @click="aiConfigured ? useQuestionExample('Am I entitled to overtime pay on a public holiday?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to overtime pay on a public holiday?</li>
+                      <li @click="aiConfigured ? useQuestionExample('How much notice is required before my roster can be changed?') : null" :class="{ 'ask-example-preview': !aiConfigured }">How much notice is required before my roster can be changed?</li>
+                      <li @click="aiConfigured ? useQuestionExample('What is the recall allowance if I am called back to work after leaving the premises?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What is the recall allowance if I am called back to work after leaving the premises?</li>
+                      <li @click="aiConfigured ? useQuestionExample('What overtime rates apply after 10 hours on a weekday shift?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What overtime rates apply after 10 hours on a weekday shift?</li>
+                      <li @click="aiConfigured ? useQuestionExample('Am I entitled to a meal allowance if I work overtime?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to a meal allowance if I work overtime?</li>
+                    </ul>
+                  </template>
+
+                  <!-- situation mode: clicking auto-fills the situationText textarea -->
+                  <template v-else-if="askMode === 'situation'">
+                    <p>Try one of these example situations, or describe your own above:</p>
+                    <ul class="ask-examples">
+                      <li @click="aiConfigured ? useSituationExample('An employee worked 12 hours on Saturday and 10 hours on Sunday. They are now claiming overtime pay for both days. I need to understand what they are entitled to under their EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee worked 12 hours Saturday and 10 hours Sunday and is claiming overtime for both days.</li>
+                      <li @click="aiConfigured ? useSituationExample('A part-time employee has requested a change to their agreed roster. Their manager has agreed but has not given any written notice. The employee is asking whether this is compliant with their EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">A part-time employee's roster was changed verbally by their manager with no written notice.</li>
+                      <li @click="aiConfigured ? useSituationExample('An employee has been absent on sick leave for four weeks and their sick leave balance has been exhausted. They are now asking whether they can access any other form of leave under the EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee has exhausted their sick leave after four weeks of continuous absence.</li>
+                      <li @click="aiConfigured ? useSituationExample('A casual employee has been regularly rostered for the same shifts each week for over 12 months. They are asking whether they have any entitlement to convert to part-time employment under the EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">A casual employee has worked the same regular shifts for over 12 months and wants to convert to part-time.</li>
+                      <li @click="aiConfigured ? useSituationExample('An employee was asked to remain at work after their shift ended to cover an absent colleague. They worked an additional 3 hours and are asking what allowances or overtime rates apply.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee stayed back after their shift ended to cover an absent colleague and wants to know what they are owed.</li>
+                    </ul>
+                  </template>
+
+                  <!-- draft mode: clicking auto-fills the draftQuestion input -->
+                  <template v-else-if="askMode === 'draft'">
+                    <p>Try one of these example employee questions, or enter your own above:</p>
+                    <ul class="ask-examples">
+                      <li @click="aiConfigured ? useDraftExample('Am I entitled to overtime pay for the extra hours I worked on the weekend?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to overtime pay for the extra hours I worked on the weekend?</li>
+                      <li @click="aiConfigured ? useDraftExample('Can my manager change my roster without giving me notice in writing?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Can my manager change my roster without giving me notice in writing?</li>
+                      <li @click="aiConfigured ? useDraftExample('I have run out of sick leave - am I allowed to take unpaid leave instead?') : null" :class="{ 'ask-example-preview': !aiConfigured }">I have run out of sick leave — am I allowed to take unpaid leave instead?</li>
+                      <li @click="aiConfigured ? useDraftExample('I have been working the same casual shifts every week for over a year. Am I entitled to convert to part-time?') : null" :class="{ 'ask-example-preview': !aiConfigured }">I have been working the same casual shifts for over a year. Can I convert to part-time?</li>
+                      <li @click="aiConfigured ? useDraftExample('What allowance am I entitled to if I am recalled to work after I have already left the premises?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What allowance am I entitled to if I am recalled to work after leaving the premises?</li>
+                    </ul>
+                  </template>
+
                 </div>
               </template>
             </div>
@@ -441,9 +625,45 @@ const MAX_HISTORY_TURNS    = 3
 const conversationHistory  = ref([])
 const conversationBodyRef  = ref(null)
 
-let searchTimer = null
-let pagefind    = null
+// ─── Ask mode state ───────────────────────────────────────────────────────────
+const askMode = ref('question')
+// Values: 'question' | 'situation' | 'draft'
+
+// Ask a Question mode fields
+const questionText    = ref('')
+const questionEba     = ref('')
+const questionEmpType = ref('')
+
+// Describe a Situation mode fields
+const situationText    = ref('')
+const situationEba     = ref('')
+const situationEmpType = ref('')
+
+// Draft a Response mode fields
+const draftEba      = ref('')
+const draftEmpType  = ref('')
+const draftQuestion = ref('')
+const draftContext  = ref('')
+
+// Carries a pre-built question from AskThisPage — bypasses the question-mode builder
+const externalQuery = ref('')
+
+// Display label shown in the user turn bubble (shorter than full constructed prompt)
+const lastUserDisplay = ref('')
+
+// Tracks whether the last assistant answer was produced in draft mode
+const lastAnswerWasDraft = ref(false)
+
+// ─── Computed: always hide shared search-header input on the Ask AI tab ───────
+// All three modes now use their own form inputs instead of the navbar text box.
+const hideSharedInput = computed(() =>
+  activeTab.value === 'ask'
+)
+
+let searchTimer        = null
+let pagefind           = null
 let pendingContentHash = null
+let _externalAskQuery  = ''   // carries AskThisPage pre-built query; bypasses mode form guards
 
 // ─── Quick Access shortcuts ───────────────────────────────────────────────────
 const quickAccessShortcuts = [
@@ -523,6 +743,14 @@ const ebaList = [
   'Mental Health Services 2024-2028',
   'Medical Scientists, Pharm & Psych 2021-2025',
   'Nurses and Midwives 2024-2028',
+]
+
+// ─── Employment types ─────────────────────────────────────────────────────────
+const employmentTypes = [
+  'Full-time',
+  'Part-time',
+  'Casual',
+  'Fixed-term',
 ]
 
 // ─── Saved searches logic ─────────────────────────────────────────────────────
@@ -789,8 +1017,8 @@ function openFromExternal(e) {
   const detail = e?.detail ?? {}
 
   if (detail.tab === 'ask' && detail.query) {
-    pendingContentHash  = detail.contentHash ?? null
-    query.value         = detail.query
+    pendingContentHash = detail.contentHash ?? null
+    _externalAskQuery  = detail.query
     activeTab.value     = 'ask'
     open.value          = true
     nextTick(() => submitAsk())
@@ -860,6 +1088,19 @@ function close() {
   aiError.value             = ''
   conversationHistory.value = []
   pendingContentHash        = null
+  askMode.value             = 'question'
+  externalQuery.value       = ''
+  questionText.value        = ''
+  questionEba.value         = ''
+  questionEmpType.value     = ''
+  situationText.value       = ''
+  situationEba.value        = ''
+  situationEmpType.value    = ''
+  draftEba.value            = ''
+  draftEmpType.value        = ''
+  draftQuestion.value       = ''
+  draftContext.value        = ''
+  lastAnswerWasDraft.value  = false
 }
 
 function switchTab(tab) {
@@ -872,7 +1113,57 @@ function switchTab(tab) {
   aiError.value             = ''
   conversationHistory.value = []
   pendingContentHash        = null
+  askMode.value             = 'question'
+  externalQuery.value       = ''
+  questionText.value        = ''
+  questionEba.value         = ''
+  questionEmpType.value     = ''
+  situationText.value       = ''
+  situationEba.value        = ''
+  situationEmpType.value    = ''
+  draftEba.value            = ''
+  draftEmpType.value        = ''
+  draftQuestion.value       = ''
+  draftContext.value        = ''
+  lastAnswerWasDraft.value  = false
   nextTick(() => inputRef.value?.focus())
+}
+
+// ─── Ask mode switcher ────────────────────────────────────────────────────────
+function setAskMode(mode) {
+  askMode.value          = mode
+  questionText.value     = ''
+  questionEba.value      = ''
+  questionEmpType.value  = ''
+  situationText.value    = ''
+  situationEba.value     = ''
+  situationEmpType.value = ''
+  draftEba.value         = ''
+  draftEmpType.value     = ''
+  draftQuestion.value    = ''
+  draftContext.value     = ''
+}
+
+// ─── Example prompt helpers ───────────────────────────────────────────────────
+// question mode — fills the questionText textarea and focuses it
+function useQuestionExample(text) {
+  if (!aiConfigured) return
+  questionText.value = text
+  nextTick(() => document.getElementById('question-text')?.focus())
+}
+
+// situation mode — fills situationText textarea and focuses it
+function useSituationExample(text) {
+  if (!aiConfigured) return
+  situationText.value = text
+  nextTick(() => document.getElementById('situation-text')?.focus())
+}
+
+// draft mode — fills draftQuestion input and focuses it
+function useDraftExample(text) {
+  if (!aiConfigured) return
+  draftQuestion.value = text
+  nextTick(() => document.getElementById('draft-question')?.focus())
 }
 
 // ─── Search ───────────────────────────────────────────────────────────────────
@@ -951,9 +1242,6 @@ async function runFuzzyFallback(originalQuery, filters) {
 }
 
 // ─── Highlight URL builder ────────────────────────────────────────────────────
-// Bound directly to :href in the template so Vue renders the ?highlight= param
-// into the DOM before any click occurs — no event handler timing issues.
-// applySearchHighlight() in index.js reads this param on DOMContentLoaded.
 function buildHighlightUrl(result) {
   const baseUrl = result.url
   const excerpt = result.excerpt
@@ -976,8 +1264,6 @@ function buildHighlightUrl(result) {
 }
 
 // ─── Result click handler ─────────────────────────────────────────────────────
-// The :href binding already carries ?highlight= so no URL manipulation needed
-// here. This handler only handles bookkeeping and closing the modal.
 function handleResultClick(result) {
   addToRecentSearches(query.value)
   persistState()
@@ -990,17 +1276,106 @@ function clearFilters() {
   doSearch()
 }
 
-function useExample(text) {
-  query.value = text
-  nextTick(() => inputRef.value?.focus())
-}
-
 async function submitAsk() {
-  if (!aiConfigured || query.value.trim().length < 5 || aiLoading.value) return
+  // ── Mode-aware guard ──────────────────────────────────────────────────────
+  if (!aiConfigured || aiLoading.value) return
 
-  const question = query.value.trim()
-  const isFirstTurn = conversationHistory.value.length === 0
-  const hashToSend  = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
+  // ── Short-circuit: AskThisPage pre-built query bypasses all mode logic ────
+  if (_externalAskQuery) {
+    const eq = _externalAskQuery
+    _externalAskQuery = ''
+    lastUserDisplay.value = eq
+    lastAnswerWasDraft.value = false
+    const isFirstTurn   = conversationHistory.value.length === 0
+    const hashToSend    = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
+    const historyToSend = conversationHistory.value.slice(-(MAX_HISTORY_TURNS * 2))
+    aiLoading.value = true
+    aiError.value   = ''
+    try {
+      const res = await fetch(AI_WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          question:    eq,
+          contentHash: hashToSend,
+          history:     historyToSend.length > 0 ? historyToSend : undefined,
+        }),
+      })
+      if (!res.ok) throw new Error(`Worker returned ${res.status}`)
+      const data = await res.json()
+      const rawAnswer = data.answer ?? 'No answer returned.'
+      conversationHistory.value = [
+        ...conversationHistory.value,
+        { role: 'user',      content: eq },
+        { role: 'assistant', content: rawAnswer },
+      ].slice(-(MAX_HISTORY_TURNS * 2))
+      aiSources.value = (data.sources ?? []).map(url => {
+        const segment = url.split('/').pop().replace('.html', '')
+        const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
+        const title   = match
+          ? `Clause ${match[1]}: ${match[2].replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`
+          : segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+        return { url, title }
+      })
+      logSearch('ask', eq, '', '', null)
+      await nextTick()
+      if (conversationBodyRef.value)
+        conversationBodyRef.value.scrollTop = conversationBodyRef.value.scrollHeight
+    } catch (err) {
+      aiError.value = err.message ?? 'Unknown error. Please try again.'
+    }
+    aiLoading.value    = false
+    pendingContentHash = null
+    return
+  }
+
+  if (askMode.value === 'question'  && questionText.value.trim().length < 5) return
+  if (askMode.value === 'situation' && situationText.value.trim().length < 10) return
+  if (askMode.value === 'draft'     && (draftEba.value === '' || draftEmpType.value === '' || draftQuestion.value.trim().length < 5)) return
+
+  // ── Build the question sent to the Worker ─────────────────────────────────
+  let question
+  if (askMode.value === 'situation') {
+    let q = `I am an HR Advisor. I need to understand what EBA clause applies to the following situation:\n\n${situationText.value.trim()}`
+    if (situationEba.value)
+      q += `\n\nThe employee is covered by the ${situationEba.value}.`
+    if (situationEmpType.value)
+      q += ` They are a ${situationEmpType.value.toLowerCase()} employee.`
+    q += `\n\nPlease identify the most relevant clause, explain what it means, and summarise what the employee may be entitled to.`
+    question = q
+  } else if (askMode.value === 'draft') {
+    let q = `I am an HR Advisor. Please draft a plain-language response I can send directly to the following employee.`
+    q += `\n\nEmployee details:\n- EBA: ${draftEba.value}\n- Employment type: ${draftEmpType.value}`
+    if (draftContext.value.trim())
+      q += `\n- Additional context: ${draftContext.value.trim()}`
+    q += `\n\nThe employee has asked:\n"${draftQuestion.value.trim()}"`
+    q += `\n\nWrite the response addressed directly to the employee using "you" and "your". Cite the relevant clause number. Keep it to 3–5 sentences. Do not include legal disclaimers or caveats in the draft itself — those will be added separately.`
+    question = q
+  } else {
+    // question mode: build structured prompt including optional EBA and employment type
+    let q = questionText.value.trim()
+    if (questionEba.value || questionEmpType.value) {
+      q += '\n\nContext:'
+      if (questionEba.value)     q += `\n- EBA: ${questionEba.value}`
+      if (questionEmpType.value) q += `\n- Employment type: ${questionEmpType.value}`
+    }
+    question = q
+  }
+
+  // ── Set display label (short human-readable version for conversation bubble) ──
+  if (askMode.value === 'situation') {
+    lastUserDisplay.value = situationText.value.trim()
+  } else if (askMode.value === 'draft') {
+    lastUserDisplay.value = draftQuestion.value.trim()
+  } else {
+    lastUserDisplay.value = questionText.value.trim()
+  }
+
+  // ── Track draft mode for extra disclaimer ─────────────────────────────────
+  lastAnswerWasDraft.value = (askMode.value === 'draft')
+
+  const isFirstTurn   = conversationHistory.value.length === 0
+  const hashToSend    = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
   const historyToSend = conversationHistory.value.slice(-(MAX_HISTORY_TURNS * 2))
 
   aiLoading.value = true
@@ -1025,7 +1400,7 @@ async function submitAsk() {
 
     conversationHistory.value = [
       ...conversationHistory.value,
-      { role: 'user',      content: question  },
+      { role: 'user',      content: lastUserDisplay.value },
       { role: 'assistant', content: rawAnswer },
     ].slice(-(MAX_HISTORY_TURNS * 2))
 
@@ -1058,6 +1433,19 @@ function resetConversation() {
   aiSources.value           = []
   aiError.value             = ''
   pendingContentHash        = null
+  askMode.value             = 'question'
+  externalQuery.value       = ''
+  questionText.value        = ''
+  questionEba.value         = ''
+  questionEmpType.value     = ''
+  situationText.value       = ''
+  situationEba.value        = ''
+  situationEmpType.value    = ''
+  draftEba.value            = ''
+  draftEmpType.value        = ''
+  draftQuestion.value       = ''
+  draftContext.value        = ''
+  lastAnswerWasDraft.value  = false
   nextTick(() => inputRef.value?.focus())
 }
 </script>
@@ -1346,20 +1734,9 @@ function resetConversation() {
 }
 .conv-turn:last-child { border-bottom: none; }
 
-.conv-turn--user {
-  background: var(--vp-c-bg);
-}
-
-/* Assistant turn */
-.conv-turn--assistant {
-  background: var(--vp-c-bg-soft);
-}
-
-/* Loading shimmer on the assistant turn while in-flight */
-.conv-turn--loading {
-  color:     var(--vp-c-text-2);
-  font-size: 0.875rem;
-}
+.conv-turn--user { background: var(--vp-c-bg); }
+.conv-turn--assistant { background: var(--vp-c-bg-soft); }
+.conv-turn--loading { color: var(--vp-c-text-2); font-size: 0.875rem; }
 
 /* Small "You" / "EBA Assistant" label above each turn */
 .conv-label {
@@ -1371,53 +1748,49 @@ function resetConversation() {
   color:         var(--vp-c-text-3);
   margin-bottom: 0.35rem;
 }
-.conv-turn--user .conv-label   { color: var(--vp-c-brand-1); }
+.conv-turn--user .conv-label { color: var(--vp-c-brand-1); }
 
 /* The user's question text */
 .conv-user-text {
-  margin:    0;
-  font-size: 0.875rem;
-  color:     var(--vp-c-text-1);
-  font-weight: 500;
-  line-height: 1.55;
+  margin: 0; font-size: 0.875rem;
+  color: var(--vp-c-text-1); font-weight: 500; line-height: 1.55;
 }
 
 /* "New conversation" reset row */
-.conv-reset-row {
-  display:         flex;
-  justify-content: flex-start;
-}
+.conv-reset-row { display: flex; justify-content: flex-start; }
 .conv-reset-btn {
-  display:     inline-flex;
-  align-items: center;
-  gap:         0.35rem;
-  padding:     0.3rem 0.7rem;
-  font-size:   0.78rem;
-  font-weight: 600;
-  color:       var(--vp-c-text-2);
-  background:  transparent;
-  border:      1px solid var(--vp-c-divider);
-  border-radius: 6px;
-  cursor:      pointer;
-  transition:  color 0.15s, border-color 0.15s, background 0.15s;
+  display: inline-flex; align-items: center; gap: 0.35rem;
+  padding: 0.3rem 0.7rem; font-size: 0.78rem; font-weight: 600;
+  color: var(--vp-c-text-2); background: transparent;
+  border: 1px solid var(--vp-c-divider); border-radius: 6px;
+  cursor: pointer; transition: color 0.15s, border-color 0.15s, background 0.15s;
 }
 .conv-reset-btn:hover {
-  color:        var(--vp-c-brand-1);
-  border-color: var(--vp-c-brand-1);
-  background:   var(--vp-c-bg-soft);
+  color: var(--vp-c-brand-1); border-color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft);
 }
 
 /* ── Ask AI tab ── */
 .ask-body { display: flex; flex-direction: column; gap: 1rem; }
 .ask-input-row { display: flex; justify-content: flex-end; padding-top: 0.25rem; }
+
+/* Base button — brand purple (question mode default) */
 .ask-btn {
   display: flex; align-items: center; gap: 0.4rem;
   padding: 0.45rem 1.1rem; background: var(--vp-c-brand-1); color: #fff;
   border: none; border-radius: 6px; font-size: 0.85rem; font-weight: 600;
-  cursor: pointer; transition: background 0.15s;
+  cursor: pointer; transition: background 0.2s, box-shadow 0.2s;
 }
 .ask-btn:hover:not(:disabled) { background: var(--vp-c-brand-2); }
 .ask-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+/* ────────────────────────────────────────────────────────────────────────────
+   MODE COLOUR THEMING
+   Driven by data-ask-mode attribute on .ask-body.
+   situation → cyan  #0891B2  (calm, analytical, distinct from brand)
+   draft     → rose  #D21C62  (brand gradient endpoint, action-oriented)
+   question  → brand purple (default, no override needed)
+──────────────────────────────────────────────────────────────────────────── */
+
 .ai-not-configured {
   text-align: center; color: var(--vp-c-text-2); padding: 2.5rem 1rem;
   display: flex; flex-direction: column; align-items: center; gap: 0.6rem;
@@ -1487,14 +1860,82 @@ function resetConversation() {
 
 /* ── Save search button ── */
 .save-search-btn {
-  flex-shrink: 0;
-  display: flex; align-items: center; justify-content: center;
-  width: 28px; height: 28px;
-  border: none; background: none; cursor: pointer;
-  color: var(--vp-c-text-3); border-radius: 6px;
-  transition: color 0.15s, background 0.15s;
+  flex-shrink: 0; display: flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px; border: none; background: none; cursor: pointer;
+  color: var(--vp-c-text-3); border-radius: 6px; transition: color 0.15s, background 0.15s;
 }
 .save-search-btn:hover { color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft); }
 .save-search-btn.saved { color: #F59E0B; }
 .save-search-btn.saved:hover { color: #D97706; }
+
+/* ── Ask mode selector ── */
+.ask-mode-selector {
+  display: flex; flex-wrap: wrap; gap: 0;
+  background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider);
+  border-radius: 8px; overflow: visible; margin-bottom: 1rem;
+}
+.ask-mode-btn {
+  flex: 1; min-width: max-content; padding: 0.45rem 0.5rem; font-size: 0.78rem; font-weight: 500;
+  color: var(--vp-c-text-2); background: none;
+  border: none; border-right: 1px solid var(--vp-c-divider);
+  cursor: pointer; transition: color 0.15s, background 0.15s; white-space: nowrap;
+}
+.ask-mode-btn:last-child { border-right: none; }
+.ask-mode-btn:hover { color: var(--vp-c-text-1); background: var(--vp-c-bg-elv); }
+/* base active — overridden per mode above */
+.ask-mode-btn.active {
+  color: var(--vp-c-brand-1); background: var(--vp-c-brand-soft); font-weight: 600;
+}
+/* on very narrow viewports, stack the buttons vertically */
+@media (max-width: 420px) {
+  .ask-mode-btn {
+    flex-basis: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--vp-c-divider);
+  }
+  .ask-mode-btn:last-child { border-bottom: none; }
+}
+
+/* ── Ask AI structured forms ── */
+.ask-form { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 0.75rem; }
+.ask-form-row { display: flex; gap: 0.75rem; }
+.ask-form-row .filter-group { flex: 1; min-width: 0; }
+.ask-form-field { display: flex; flex-direction: column; gap: 0.2rem; }
+.ask-form-field label {
+  font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.06em; color: var(--vp-c-text-3);
+}
+
+/* Required asterisk — default red; overridden per mode above */
+.required-mark {
+  color: #DC2626; font-size: 0.75rem; font-weight: 700; margin-left: 0.1rem;
+}
+
+/* Optional label — consistent across all modes and contexts */
+.optional-label {
+  font-weight: 400; text-transform: none; letter-spacing: 0;
+  color: var(--vp-c-text-3); opacity: 0.7;
+  margin-left: 0.25rem; font-size: 0.68rem;
+}
+
+.ask-form-field input[type="text"],
+.ask-form-field textarea {
+  padding: 0.45rem 0.65rem; font-size: 0.875rem;
+  border: 1px solid var(--vp-c-divider); border-radius: 6px;
+  background: var(--vp-c-bg); color: var(--vp-c-text-1);
+  resize: vertical; font-family: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s; outline: none;
+}
+/* default (question mode) focus */
+.ask-form-field input[type="text"]:focus,
+.ask-form-field textarea:focus {
+  border-color: var(--vp-c-brand);
+  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
+}
+.ask-form-field input[type="text"]::placeholder,
+.ask-form-field textarea::placeholder { color: var(--vp-c-text-3); }
+
+.ai-disclaimer-draft {
+  font-size: 0.75rem; color: var(--vp-c-text-3); margin: 0; line-height: 1.5;
+}
 </style>
