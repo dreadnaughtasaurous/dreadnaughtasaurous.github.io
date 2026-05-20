@@ -126,7 +126,7 @@
           </span>
 
           <a
-            :href="currentEntry.url"
+            :href="currentEntry.url.replace(/\.html$/, '') + '.html'"
             class="cp-open-link"
             target="_blank"
             rel="noopener noreferrer"
@@ -209,7 +209,7 @@ function truncateTitle(title, maxLen) {
 // ─── Fetch clause HTML ────────────────────────────────────────────────────────
 
 async function fetchClause(url) {
-  const fetchUrl = url.replace(/\/$/, '')
+  const fetchUrl = url.replace(/\/$/, '').replace(/\.html$/, '') + '.html'
   const res      = await fetch(fetchUrl)
   if (!res.ok) throw new Error(`Could not load clause (HTTP ${res.status})`)
 
