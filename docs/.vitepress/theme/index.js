@@ -108,6 +108,7 @@ export default {
 
     if (typeof window !== 'undefined') {
       router.onBeforeRouteChange = (to) => {
+  console.log('[router] onBeforeRouteChange fired, to:', to, 'current:', window.location.pathname)
         const toPath = typeof to === 'string' ? to : (to.path || '')
 
         // Only intercept /ebas/ navigations
