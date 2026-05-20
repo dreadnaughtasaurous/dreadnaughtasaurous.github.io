@@ -68,10 +68,12 @@
               :class="{ active: activeTab === 'ask' }"
               @click="switchTab('ask')"
             >
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
-                <path d="M10.9395 2.29297C10.752 1.90234 10.2441 1.90234 10.0566 2.29297L8.40039 5.74609L4.59277 6.30469C4.16602 6.36719 3.99414 6.89453 4.30371 7.19531L7.05859 9.87891L6.40332 13.6699C6.33008 14.0957 6.7793 14.418 7.15527 14.2207L10.498 12.4805L13.8408 14.2207C14.2168 14.418 14.666 14.0957 14.5928 13.6699L13.9375 9.87891L16.6924 7.19531C17.002 6.89453 16.8301 6.36719 16.4033 6.30469L12.5957 5.74609L10.9395 2.29297Z"/>
-                <path d="M19.5 13C19.2239 13 19 13.2239 19 13.5C19 14.8807 17.8807 16 16.5 16C16.2239 16 16 16.2239 16 16.5C16 16.7761 16.2239 17 16.5 17C17.8807 17 19 18.1193 19 19.5C19 19.7761 19.2239 20 19.5 20C19.7761 20 20 19.7761 20 19.5C20 18.1193 21.1193 17 22.5 17C22.7761 17 23 16.7761 23 16.5C23 16.2239 22.7761 16 22.5 16C21.1193 16 20 14.8807 20 13.5C20 13.2239 19.7761 13 19.5 13Z"/>
-                <path d="M4.5 15C4.22386 15 4 15.2239 4 15.5C4 16.3284 3.32843 17 2.5 17C2.22386 17 2 17.2239 2 17.5C2 17.7761 2.22386 18 2.5 18C3.32843 18 4 18.6716 4 19.5C4 19.7761 4.22386 20 4.5 20C4.77614 20 5 19.7761 5 19.5C5 18.6716 5.67157 18 6.5 18C6.77614 18 7 17.7761 7 17.5C7 17.2239 6.77614 17 6.5 17C5.67157 17 5 16.3284 5 15.5C5 15.2239 4.77614 15 4.5 15Z"/>
+              <svg class="ask-tab-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+                <path class="ask-tab-sparkle" d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/>
+                <path class="ask-tab-star" d="M20 3v4"/>
+                <path class="ask-tab-star" d="M22 5h-4"/>
+                <path class="ask-tab-star ask-tab-star--delayed" d="M4 17v2"/>
+                <path class="ask-tab-star ask-tab-star--delayed" d="M5 18H3"/>
               </svg>
               Ask AI
               <span class="tab-badge">Beta</span>
@@ -1524,6 +1526,146 @@ function resetConversation() {
   font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
   background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1);
   padding: 0.05rem 0.35rem; border-radius: 999px;
+}
+
+/* ── Ask AI tab animated sparkles icon ── */
+.ask-tab-icon { flex-shrink: 0; }
+
+/* Large sparkle: fills with colour on active tab, pulses continuously */
+.ask-tab-sparkle {
+  fill: none;
+  transition: fill 0.2s;
+}
+.search-tab.active .ask-tab-sparkle {
+  fill: currentColor;
+  animation: sparkle-pulse 2.4s ease-in-out infinite;
+}
+.search-tab:not(.active):hover .ask-tab-sparkle {
+  fill: currentColor;
+  opacity: 0.5;
+}
+
+/* Small star lines: blink in and out on a loop */
+.ask-tab-star {
+  animation: star-blink 2.4s ease-in-out infinite;
+}
+.ask-tab-star--delayed {
+  animation-delay: 1.2s;
+}
+
+@keyframes sparkle-pulse {
+  0%, 100% { opacity: 1;   transform: scale(1);    }
+  50%       { opacity: 0.7; transform: scale(0.92); }
+}
+
+@keyframes star-blink {
+  0%, 15%, 85%, 100% { opacity: 1; }
+  40%, 60%           { opacity: 0; }
+}
+
+/* ── Ask AI tab animated sparkles icon ── */
+.ask-tab-icon { flex-shrink: 0; }
+
+/* Large sparkle: fills with colour on active tab, pulses continuously */
+.ask-tab-sparkle {
+  fill: none;
+  transition: fill 0.2s;
+}
+.search-tab.active .ask-tab-sparkle {
+  fill: currentColor;
+  animation: sparkle-pulse 2.4s ease-in-out infinite;
+}
+.search-tab:not(.active):hover .ask-tab-sparkle {
+  fill: currentColor;
+  opacity: 0.5;
+}
+
+/* Small star lines: blink in and out on a loop */
+.ask-tab-star {
+  animation: star-blink 2.4s ease-in-out infinite;
+}
+.ask-tab-star--delayed {
+  animation-delay: 1.2s;
+}
+
+@keyframes sparkle-pulse {
+  0%, 100% { opacity: 1;   transform: scale(1);    }
+  50%       { opacity: 0.7; transform: scale(0.92); }
+}
+
+@keyframes star-blink {
+  0%, 15%, 85%, 100% { opacity: 1; }
+  40%, 60%           { opacity: 0; }
+}
+
+/* ── Ask AI tab animated sparkles icon ── */
+.ask-tab-icon { flex-shrink: 0; }
+
+/* Large sparkle: fills with colour on active tab, pulses continuously */
+.ask-tab-sparkle {
+  fill: none;
+  transition: fill 0.2s;
+}
+.search-tab.active .ask-tab-sparkle {
+  fill: currentColor;
+  animation: sparkle-pulse 2.4s ease-in-out infinite;
+}
+.search-tab:not(.active):hover .ask-tab-sparkle {
+  fill: currentColor;
+  opacity: 0.5;
+}
+
+/* Small star lines: blink in and out on a loop */
+.ask-tab-star {
+  animation: star-blink 2.4s ease-in-out infinite;
+}
+.ask-tab-star--delayed {
+  animation-delay: 1.2s;
+}
+
+@keyframes sparkle-pulse {
+  0%, 100% { opacity: 1;   transform: scale(1);    }
+  50%       { opacity: 0.7; transform: scale(0.92); }
+}
+
+@keyframes star-blink {
+  0%, 15%, 85%, 100% { opacity: 1; }
+  40%, 60%           { opacity: 0; }
+}
+
+/* ── Ask AI tab animated sparkles icon ── */
+.ask-tab-icon { flex-shrink: 0; }
+
+/* Large sparkle: fills with colour on active tab, pulses continuously */
+.ask-tab-sparkle {
+  fill: none;
+  transition: fill 0.2s;
+}
+.search-tab.active .ask-tab-sparkle {
+  fill: currentColor;
+  animation: sparkle-pulse 2.4s ease-in-out infinite;
+}
+.search-tab:not(.active):hover .ask-tab-sparkle {
+  fill: currentColor;
+  opacity: 0.5;
+}
+
+/* Small star lines: blink in and out on a loop */
+.ask-tab-star {
+  animation: star-blink 2.4s ease-in-out infinite;
+}
+.ask-tab-star--delayed {
+  animation-delay: 1.2s;
+}
+
+@keyframes sparkle-pulse {
+  0%, 100% { opacity: 1;   transform: scale(1);    }
+  50%       { opacity: 0.7; transform: scale(0.92); }
+}
+
+@keyframes star-blink {
+  0%, 15%, 85%, 100% { opacity: 1; }
+  40%, 60%           { opacity: 0; }
 }
 
 /* ── Filters ── */
