@@ -123,8 +123,6 @@ On a desktop browser, hovering over or focusing on a search result shows a **pre
 
 If your search returns no direct matches, the search will automatically try a **similar term**. If a close match is found, results are shown with a "Showing results for **X** instead" note. If no useful results can be found at all, the modal suggests switching to the **Ask AI** tab for a direct answer.
 
----
-
 ## Ask AI Tab
 
 The **Ask AI** tab is for getting answers from the wiki in plain language. Instead of just listing matching pages, Ask AI reads wiki content and returns a written answer, with links to the source pages it used.
@@ -250,15 +248,11 @@ Ask AI is a research aid, not a substitute for reading the clause itself.
 
 Answers are generated from wiki content only. Always verify the answer against the linked source pages and the full EBA text before relying on it for any decision.
 
----
-
 ## Bookmarking Clause Pages
 
 On any clause page, a **bookmark icon** appears in the toolbar at the top of the page content. Click it to save the page to your bookmarks. You can add a personal note when saving.
 
 Bookmarks are stored in your browser and persist across sessions. They appear in the **My Bookmarks** section of the Quick Access panel whenever you open the Search modal.
-
----
 
 ## Tips for Better Results
 
@@ -273,8 +267,6 @@ Bookmarks are stored in your browser and persist across sessions. They appear in
 - **Preview before opening** on desktop if several results look similar.
 - **Check the source links** after any Ask AI response.
 - **Provide the EBA and employment type** in Ask AI modes whenever possible — it significantly improves answer accuracy.
-
----
 
 ## Archive Search
 
