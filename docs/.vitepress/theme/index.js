@@ -117,9 +117,30 @@ export default {
         // Normalise both paths for comparison
         const normTo      = toPath.replace(/\/$/, '').replace(/\.html$/, '')
         const normCurrent = window.location.pathname.replace(/\/$/, '').replace(/\.html$/, '')
+        console.log('[router] normTo:', normTo, '| normCurrent:', normCurrent, '| equal:', normTo === normCurrent)
 
         // Same-page: let through (anchor scrolls, etc.)
-        if (normTo === normCurrent) return
+        if (normTo === normCurrent) {
+          console.log('[router] BAIL: same-page')
+          return
+        }
+
+        const active  = document.activeElement
+        const inVpDoc = active && active.closest('.vp-doc')
+        console.log('[router] activeElement:', active?.tagName, active?.className, '| inVpDoc:', !!inVpDoc)
+        if (!inVpDoc) {
+          console.log('[router] BAIL: not in vp-doc')
+          return
+        }
+
+        const inPanel = active && active.closest('.clause-panel')
+        console.log('[router] inPanel:', !!inPanel)
+        if (inPanel) {
+          console.log('[router] BAIL: in panel')
+          return
+        }
+
+        console.log('[router] INTERCEPTING — dispatching open-clause-panel')
 
         // Scope guard: only intercept if the click originated inside .vp-doc.
         // document.activeElement is the element that received focus from the
