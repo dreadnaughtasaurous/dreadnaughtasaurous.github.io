@@ -155,7 +155,10 @@ export default {
     // was set directly, bypassing the VitePress SPA router).
     // Also runs on SPA navigations via the onAfterRouteChanged call below.
     if (typeof window !== 'undefined') {
-      window.addEventListener('DOMContentLoaded', () => applySearchHighlight())
+      window.addEventListener('DOMContentLoaded', () => {
+        applySearchHighlight()
+        highlightActivePayColumns()
+      })
     }
 
     function applySearchHighlight() {
@@ -313,6 +316,75 @@ export default {
       } catch { /* silently ignore — non-critical */ }
     }
 
+    // ── Pay table column highlighter ──────────────────────────────────────
+    // Scans every .pay-table-wrap table on the current page.
+    // For each table, reads the <th class="pt-rate"> cells to find date headers
+    // formatted as 'D MMM YYYY'. Compares each against today to find the
+    // highest-indexed date that is on or before now — that is the active column.
+    // Stamps the class 'pt-col-current' onto the matching <th> and every <td>
+    // in the same column position, so CSS can apply the highlight tint.
+    //
+    // Idempotent: strips any existing pt-col-current classes before re-running,
+    // so calling this multiple times on the same page is safe.
+    //
+    // Non-date <th class="pt-rate"> cells (e.g. plain "Rate" headers) are
+    // silently skipped — the Date constructor returns NaN for non-date strings
+    // and we guard against that explicitly.
+
+    function highlightActivePayColumns() {
+      const today = new Date()
+      today.setHours(0, 0, 0, 0)
+
+      // Strip any existing highlights first (idempotency)
+      document.querySelectorAll('.pt-col-current').forEach(el => {
+        el.classList.remove('pt-col-current')
+      })
+
+      // Process every pay-table-wrap table on the page
+      document.querySelectorAll('.pay-table-wrap table').forEach(table => {
+        const headerRow = table.querySelector('thead tr')
+        if (!headerRow) return
+
+        const allHeaders = Array.from(headerRow.querySelectorAll('th'))
+
+        // Build a map of column index → parsed date, only for pt-rate headers
+        // whose text content parses as a valid D MMM YYYY date.
+        let bestColIdx  = -1
+        let bestDate    = null
+
+        allHeaders.forEach((th, colIdx) => {
+          if (!th.classList.contains('pt-rate')) return
+          const text = th.textContent.trim()
+          const d    = new Date(text)
+          // NaN check: an unparseable string (e.g. "Rate") gives NaN
+          if (isNaN(d.getTime())) return
+          d.setHours(0, 0, 0, 0)
+          if (d <= today) {
+            if (bestDate === null || d >= bestDate) {
+              bestDate   = d
+              bestColIdx = colIdx
+            }
+          }
+        })
+
+        // Nothing found (all dates in the future, or no date headers) — skip
+        if (bestColIdx === -1) return
+
+        // Highlight the header cell
+        allHeaders[bestColIdx].classList.add('pt-col-current')
+
+        // Highlight every body cell in the same column position.
+        // We use column index not class — a row may have cells without pt-rate
+        // (e.g. pt-class, pt-code) so we must count by position.
+        table.querySelectorAll('tbody tr').forEach(row => {
+          const cells = Array.from(row.querySelectorAll('td'))
+          if (cells[bestColIdx]) {
+            cells[bestColIdx].classList.add('pt-col-current')
+          }
+        })
+      })
+    }
+
     // ── Analytics beacon ───────────────────────────────────────────────────
     // Fires on every client-side page navigation.
     // Sends a pageview event and upserts the session record.
@@ -402,6 +474,10 @@ export default {
       // SPA navigation path — also attempt highlight in case the user
       // navigates to a ?highlight= URL via back/forward buttons.
       applySearchHighlight()
+      // Re-run pay column highlighter after every SPA navigation —
+      // the .vp-doc content is replaced on each route change so the
+      // DOM walker must run fresh against the new page's tables.
+      requestAnimationFrame(() => highlightActivePayColumns())
     }
   }
 }

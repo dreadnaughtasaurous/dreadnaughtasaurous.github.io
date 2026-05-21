@@ -195,6 +195,39 @@
   color: var(--vp-c-brand-2);
 }
 
+/* ── Wide pay table — currently-active rate column highlight ── */
+
+/* Header cell of the active column */
+.vp-doc .pay-table-wrap th.pt-col-current {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  position: relative;
+}
+
+/* Body cells of the active column */
+.vp-doc .pay-table-wrap td.pt-col-current {
+  background: color-mix(in srgb, var(--vp-c-brand-1) 6%, transparent);
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+/* Dark mode — slightly stronger tint since dark backgrounds absorb colour */
+.dark .vp-doc .pay-table-wrap th.pt-col-current {
+  background: color-mix(in srgb, var(--vp-c-brand-1) 20%, var(--vp-c-bg-soft));
+  color: var(--vp-c-brand-2);
+}
+
+.dark .vp-doc .pay-table-wrap td.pt-col-current {
+  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
+}
+
+/* Group rows (isGroup / pt-group) span the full width and have their own
+   background. Don't tint them — it would look odd on a section header. */
+.vp-doc .pay-table-wrap tr.pt-group td.pt-col-current {
+  background: var(--vp-c-default-soft);
+  font-weight: 600;
+}
+
 /* =============================================
    Pay Table — shared wrapper (raw HTML tables)
    ============================================= */
