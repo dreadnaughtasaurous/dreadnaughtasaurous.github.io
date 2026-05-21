@@ -125,15 +125,15 @@ export default {
           return
         }
 
-        const active  = document.activeElement
-        const inVpDoc = active && active.closest('.vp-doc')
-        console.log('[router] activeElement:', active?.tagName, active?.className, '| inVpDoc:', !!inVpDoc)
+        const activeEl  = document.activeElement
+        const inVpDoc = activeEl && activeEl.closest('.vp-doc')
+        console.log('[router] activeElement:', activeEl?.tagName, activeEl?.className, '| inVpDoc:', !!inVpDoc)
         if (!inVpDoc) {
           console.log('[router] BAIL: not in vp-doc')
           return
         }
 
-        const inPanel = active && active.closest('.clause-panel')
+        const inPanel = activeEl && activeEl.closest('.clause-panel')
         console.log('[router] inPanel:', !!inPanel)
         if (inPanel) {
           console.log('[router] BAIL: in panel')
