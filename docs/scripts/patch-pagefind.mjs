@@ -153,18 +153,13 @@ for (const file of htmlFiles) {
     )
 
     const topMarkup = `${filterSpans}${weightDiv}`
-    if (topMarkup) {
-      html = html.replace(
-        /(class="vp-doc [^"]*" data-pagefind-body[^>]*>)/,
-        `$1${topMarkup}`
-      )
-    }
 
-    if (synonymBlock) {
+    const allBlocks = `${topMarkup}${synonymBlock}`
+    if (allBlocks) {
       if (html.includes('</main>')) {
-        html = html.replace('</main>', `${synonymBlock}</main>`)
+        html = html.replace('</main>', `</main>${allBlocks}`)
       } else {
-        html = html.replace('</body>', `${synonymBlock}</body>`)
+        html = html.replace('</body>', `${allBlocks}</body>`)
       }
     }
 
