@@ -224,6 +224,48 @@
                   </div>
                 </div>
 
+                <!-- Most Viewed Clauses — fetched from analytics worker on open -->
+                <!-- Loading skeleton — shown while fetch is in flight -->
+                <div v-if="mostViewedLoading" class="qa-section">
+                  <div class="qa-section-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                    Most viewed
+                  </div>
+                  <div class="qa-most-viewed-list">
+                    <div v-for="n in 3" :key="n" class="qa-most-viewed-card qa-most-viewed-card--skeleton">
+                      <span class="qa-skeleton-rank"></span>
+                      <span class="qa-skeleton-body">
+                        <span class="qa-skeleton-line qa-skeleton-title"></span>
+                        <span class="qa-skeleton-line qa-skeleton-eba"></span>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <!-- Populated list — only renders when worker returned ≥1 result -->
+                <div v-else-if="mostViewedClauses.length > 0" class="qa-section">
+                  <div class="qa-section-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                    Most viewed
+                  </div>
+                  <div class="qa-most-viewed-list">
+                    <a
+                      v-for="(clause, i) in mostViewedClauses"
+                      :key="clause.path"
+                      :href="clause.path"
+                      class="qa-most-viewed-card"
+                      @click="close"
+                    >
+                      <span class="qa-most-viewed-rank" aria-hidden="true">{{ i + 1 }}</span>
+                      <span class="qa-most-viewed-body">
+                        <span class="qa-most-viewed-title">{{ clause.title }}</span>
+                        <span v-if="clause.eba" class="qa-most-viewed-eba">{{ ebaSlugLabels[clause.eba] || clause.eba }}</span>
+                      </span>
+                      <svg class="qa-most-viewed-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                    </a>
+                  </div>
+                </div>
+                <!-- error and empty-data cases: section simply absent — no user-facing message -->
+
                 <!-- Quick access shortcuts -->
                 <div class="qa-section">
                   <div class="qa-section-header">
@@ -651,11 +693,61 @@ const savedSearches = ref([])
 // dispatched by BookmarkButton.vue whenever a bookmark is added, edited, or removed.
 const bookmarks = ref([])
 
+// ─── Most Viewed Clauses (analytics worker — site-wide, cached 5 min) ─────────
+// Fetched from GET /top-pages on first openModal() each session.
+// Shape: Array<{ path: string, title: string, eba: string, count: number }>
+// Degrades silently — section simply doesn't render if worker is unreachable.
+const mostViewedClauses     = ref([])
+const mostViewedLoading     = ref(false)
+const mostViewedError       = ref(false)
+const MOST_VIEWED_CACHE_KEY = 'eba-most-viewed-cache'
+const MOST_VIEWED_TTL_MS    = 5 * 60 * 1000  // 5 minutes — matches worker Cache-Control
+
 function loadBookmarks() {
   try {
     const raw = localStorage.getItem(LOCAL_BOOKMARKS_KEY)
     if (raw) bookmarks.value = JSON.parse(raw)
   } catch { /* corrupt storage — degrade silently */ }
+}
+
+// ─── Most Viewed Clauses fetch ────────────────────────────────────────────────
+// Called on every openModal(). Returns immediately from sessionStorage cache
+// if data was fetched within the last 5 minutes.
+// The worker already has Cache-Control: public, max-age=300 so Cloudflare edge
+// handles deduplication across simultaneous users; sessionStorage handles it
+// for repeated opens within the same browser tab.
+async function fetchMostViewed() {
+  // Check sessionStorage cache first — avoid re-fetching within the TTL window
+  try {
+    const cached = sessionStorage.getItem(MOST_VIEWED_CACHE_KEY)
+    if (cached) {
+      const { data, ts } = JSON.parse(cached)
+      if (Date.now() - ts < MOST_VIEWED_TTL_MS && Array.isArray(data)) {
+        mostViewedClauses.value = data   // may be empty array — that's fine, section won't render
+        return
+      }
+    }
+  } catch { /* corrupt cache entry — fall through to fresh fetch */ }
+
+  mostViewedLoading.value = true
+  mostViewedError.value   = false
+  try {
+    const res = await fetch(ANALYTICS_WORKER_URL + '/top-pages')
+    if (!res.ok) throw new Error(`Worker ${res.status}`)
+    const data = await res.json()
+    if (Array.isArray(data)) {
+      mostViewedClauses.value = data
+      // Cache in sessionStorage with timestamp so repeated opens skip the fetch
+      try {
+        sessionStorage.setItem(MOST_VIEWED_CACHE_KEY, JSON.stringify({ data, ts: Date.now() }))
+      } catch { /* storage quota exceeded — skip cache, not critical */ }
+    }
+  } catch {
+    // Worker unreachable or returned an error — degrade silently, section hidden
+    mostViewedError.value = true
+  } finally {
+    mostViewedLoading.value = false
+  }
 }
 
 // ─── AI state ─────────────────────────────────────────────────────────────────
@@ -788,6 +880,21 @@ const ebaList = [
   'Medical Scientists, Pharm & Psych 2021-2025',
   'Nurses and Midwives 2024-2028',
 ]
+
+// ─── EBA folder slug → short display label ────────────────────────────────────
+// Maps the eba field from EBA_PAGEVIEWS entries (folder slug) to a readable name
+// shown in the Most Viewed Clauses cards. mspp is the on-disk folder for medical scientists.
+const ebaSlugLabels = {
+  'allied-health':        'Allied Health',
+  'biomedical-engineers': 'Biomedical Engineers',
+  'childrens-services':   "Children's Services",
+  'doctors-in-training':  'Doctors in Training',
+  'has-managers-admin':   'HAS Managers & Admin',
+  'medical-specialists':  'Medical Specialists',
+  'mental-health':        'Mental Health',
+  'mspp':                 'Medical Scientists',
+  'nurses-midwives':      'Nurses & Midwives',
+}
 
 // ─── Employment types ─────────────────────────────────────────────────────────
 const employmentTypes = [
@@ -1084,6 +1191,7 @@ function openFromExternal(e) {
 // ─── Open / close ─────────────────────────────────────────────────────────────
 function openModal() {
   open.value = true
+  fetchMostViewed()   // non-blocking — populates mostViewedClauses async; degrades silently
   nextTick(() => {
     loadPersistedState()
     inputRef.value?.focus()
@@ -1819,6 +1927,123 @@ function resetConversation() {
 .qa-shortcut-arrow { flex-shrink: 0; color: var(--vp-c-text-3); transition: transform 0.15s; }
 .qa-shortcut:hover .qa-shortcut-arrow { transform: translateX(3px); color: var(--vp-c-brand); }
 .search-hint-small { font-size: 0.75rem; color: var(--vp-c-text-3); text-align: center; margin-top: 0.5rem; }
+
+/* ── Most Viewed Clauses ── */
+.qa-most-viewed-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.qa-most-viewed-card {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.7rem;
+  border-radius: 7px;
+  border: 1px solid var(--vp-c-divider);
+  border-left: 3px solid var(--vp-c-brand);
+  background: var(--vp-c-bg-soft);
+  text-decoration: none;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.qa-most-viewed-card:hover {
+  background: var(--vp-c-bg-elv);
+  border-color: var(--vp-c-brand);
+  border-left-color: var(--vp-c-brand);
+}
+
+.qa-most-viewed-rank {
+  flex-shrink: 0;
+  width: 1.1rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--vp-c-brand);
+  text-align: center;
+  opacity: 0.65;
+  font-variant-numeric: tabular-nums;
+}
+
+.qa-most-viewed-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.qa-most-viewed-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.3;
+  transition: color 0.15s;
+}
+
+.qa-most-viewed-card:hover .qa-most-viewed-title {
+  color: var(--vp-c-brand-1);
+}
+
+.qa-most-viewed-eba {
+  font-size: 0.69rem;
+  color: var(--vp-c-text-3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.qa-most-viewed-arrow {
+  flex-shrink: 0;
+  color: var(--vp-c-text-3);
+  transition: transform 0.15s, color 0.15s;
+}
+
+.qa-most-viewed-card:hover .qa-most-viewed-arrow {
+  transform: translateX(3px);
+  color: var(--vp-c-brand);
+}
+
+/* ── Most Viewed loading skeleton ── */
+.qa-most-viewed-card--skeleton {
+  pointer-events: none;
+  border-left-color: var(--vp-c-divider);
+  animation: none;
+}
+
+.qa-skeleton-rank {
+  flex-shrink: 0;
+  width: 1.1rem;
+  height: 0.7rem;
+  border-radius: 3px;
+  background: var(--vp-c-divider);
+  animation: qa-skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.qa-skeleton-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.qa-skeleton-line {
+  display: block;
+  border-radius: 3px;
+  background: var(--vp-c-divider);
+  animation: qa-skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.qa-skeleton-title { height: 0.7rem; width: 65%; }
+.qa-skeleton-eba   { height: 0.55rem; width: 38%; animation-delay: 0.25s; }
+
+@keyframes qa-skeleton-pulse {
+  0%, 100% { opacity: 1;   }
+  50%       { opacity: 0.35; }
+}
 
 /* ── Bookmark count badge in section header ── */
 .qa-bookmark-count {

@@ -1,4 +1,4 @@
-// =============================================================================
+﻿// =============================================================================
 // EBA Analytics Worker v2
 // =============================================================================
 // Routes:
@@ -425,6 +425,56 @@ async function handleGetAnalytics(request, env, origin) {
   }, 200, origin)
 }
 
+// -----------------------------------------------------------------------------
+// GET /top-pages — public, no auth required
+// Returns the top 5 most-viewed clause pages for the SearchModal Quick Access panel.
+// Reads from EBA_PAGEVIEWS, filters to /ebas/ paths only, aggregates by path,
+// and returns: Array<{ path, title, eba, count }>
+// Response is safe to expose publicly — contains no user-identifying data.
+// Cache-Control: public, max-age=300 — allows Cloudflare edge to cache for 5 min,
+// reducing KV reads across many simultaneous users.
+// -----------------------------------------------------------------------------
+async function handleGetTopPages(request, env, origin) {
+  try {
+    const list = await env.EBA_PAGEVIEWS.list({ prefix: 'pv:' })
+
+    // Fetch all pageview records in parallel
+    const entries = await Promise.all(
+      list.keys.map(k => env.EBA_PAGEVIEWS.get(k.name, 'json'))
+    )
+
+    // Aggregate view counts per path — clause pages only
+    // Each entry shape: { path, eba, section, title, sessionId, referrer, browser, device, timestamp }
+    const pageMap = {}
+    for (const entry of entries) {
+      if (!entry || !entry.path) continue
+      if (!entry.path.startsWith('/ebas/')) continue   // exclude home, admin, search pages
+      const k = entry.path
+      if (!pageMap[k]) {
+        pageMap[k] = { path: entry.path, title: entry.title || '', eba: entry.eba || '', count: 0 }
+      }
+      pageMap[k].count++
+      // Keep the most recent non-empty title (titles can vary slightly if the page was renamed)
+      if (entry.title) pageMap[k].title = entry.title.replace(/\s*\|.*$/, '').trim()
+    }
+
+    const top5 = Object.values(pageMap)
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 5)
+
+    return new Response(JSON.stringify(top5), {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'public, max-age=300',
+        ...corsHeaders(origin),
+      },
+    })
+  } catch (err) {
+    return jsonResponse({ error: err.message }, 500, origin)
+  }
+}
+
 // =============================================================================
 // MAIN FETCH HANDLER
 // =============================================================================
@@ -448,6 +498,9 @@ export default {
     }
     if (method === 'POST' && url.pathname === '/log/session') {
       return handleLogSession(request, env, origin)
+    }
+    if (method === 'GET' && url.pathname === '/top-pages') {
+      return handleGetTopPages(request, env, origin)
     }
     if (method === 'GET' && url.pathname === '/analytics') {
       return handleGetAnalytics(request, env, origin)
