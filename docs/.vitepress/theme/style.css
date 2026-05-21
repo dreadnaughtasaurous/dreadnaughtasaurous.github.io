@@ -1012,3 +1012,232 @@ html {
   15%  { background-color: #ca8a04; }
   100% { background-color: transparent; }
 }
+
+/* ============================================================
+   Print stylesheet — @media print
+   ============================================================
+   Triggered by Ctrl+P (native browser behaviour — no JS needed).
+   Goal: strip all wiki chrome and render only the clause content
+   as a clean, single-column document suitable for A4/Letter paper.
+
+   What is hidden:
+     - .VPNav / .VPNavBar       — top navigation bar
+     - .VPSidebar               — left navigation panel
+     - .VPDocAside              — "On This Page" outline (right column)
+     - .VPDocFooter             — prev / next page links
+     - .doc-toolbar             — breadcrumb + action buttons row
+     - .related-clauses-panel   — doc-after slot panel
+     - [class*="vp-nolebase-git-changelog"] — git changelog
+     - h2 above changelog       — "Changelog" heading
+     - .search-modal-overlay    — search modal if open
+     - .clause-panel            — clause panel if open
+     - .kb-overlay              — keyboard help overlay if open
+     - .VPBackdrop              — any backdrop overlay
+     - .a11y-controls           — accessibility controls in nav
+
+   What is kept:
+     - All .vp-doc content (headings, paragraphs, tables, callouts)
+     - FileAttachment badges (styled down to plain text)
+
+   Page setup:
+     - @page sets 20mm margins on all sides (A4 / Letter safe)
+     - orphans / widows: 3 prevents single-line stranding
+     - page-break-inside: avoid on tables, callout blocks, and
+       custom containers so they don't split across page breaks
+   ============================================================ */
+
+@media print {
+
+  /* ── Page margins ───────────────────────────────────────────────────────── */
+  @page {
+    margin: 20mm;
+  }
+
+  /* ── Force white background / black text for all elements ──────────────── */
+  *,
+  *::before,
+  *::after {
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* ── Hide all chrome ────────────────────────────────────────────────────── */
+  .VPNav,
+  .VPNavBar,
+  .VPSidebar,
+  .VPDocAside,
+  .VPDocFooter,
+  .VPLocalNav,
+  .doc-toolbar,
+  .related-clauses-panel,
+  .vp-doc > div > [class*="vp-nolebase-git-changelog"],
+  .vp-doc > div:has(> [class*="vp-nolebase-git-changelog"]) > h2:last-of-type,
+  .search-modal-overlay,
+  .clause-panel,
+  .cp-scrim,
+  .kb-overlay,
+  .VPBackdrop,
+  .a11y-controls,
+  .a11y-sep {
+    display: none !important;
+  }
+
+  /* ── Layout reflow — remove VitePress sidebar offsets ──────────────────── */
+  /* VitePress applies left padding/margin to .VPDoc to account for the
+     sidebar. In print there is no sidebar, so we reset all of it.          */
+  .VPDoc {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .VPDoc .content {
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .VPDoc .content-container {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Also ensure the outer VPPage wrapper doesn't add offsets */
+  .VPPage,
+  #VPContent {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* ── Typography ─────────────────────────────────────────────────────────── */
+  /* Use a print-safe font stack. VitePress defaults to Inter (sans-serif)
+     which is fine for screen; for print, a serif stack reads better in
+     body text but we keep sans-serif to match the wiki's visual identity.  */
+  .vp-doc {
+    font-size: 11pt !important;
+    line-height: 1.6 !important;
+    font-family: system-ui, Arial, sans-serif !important;
+  }
+
+  .vp-doc h1 { font-size: 20pt !important; margin-bottom: 6pt !important; }
+  .vp-doc h2 { font-size: 15pt !important; margin-top: 14pt !important; }
+  .vp-doc h3 { font-size: 12pt !important; margin-top: 10pt !important; }
+
+  /* ── Links ──────────────────────────────────────────────────────────────── */
+  /* Internal wiki links (/ebas/...) are meaningless on paper — strip them.
+     External links get their URL appended so the reader can find the source. */
+  .vp-doc a[href^="/"] {
+    text-decoration: none !important;
+    color: black !important;
+  }
+
+  .vp-doc a[href^="http"]::after,
+  .vp-doc a[href^="https"]::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #555 !important;
+    word-break: break-all;
+  }
+
+  /* ── Tables ─────────────────────────────────────────────────────────────── */
+  /* Undo the sticky/scrollable table styles applied for screen viewing.
+     On paper, tables should flow naturally and not be clipped.              */
+  .vp-doc table {
+    display: table !important;
+    overflow: visible !important;
+    max-height: none !important;
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 9pt !important;
+  }
+
+  .vp-doc thead {
+    display: table-header-group !important; /* repeat header on each page */
+    position: static !important;
+  }
+
+  .vp-doc th,
+  .vp-doc td {
+    border: 1px solid #999 !important;
+    padding: 4pt 6pt !important;
+    background: white !important;
+  }
+
+  .vp-doc th {
+    background: #f0f0f0 !important;
+    font-weight: 700 !important;
+  }
+
+  /* Avoid tables splitting awkwardly across page breaks */
+  .vp-doc tr {
+    page-break-inside: avoid;
+  }
+
+  /* ── Custom containers (tip / warning / danger / details) ──────────────── */
+  .vp-doc .custom-block {
+    border: 1px solid #999 !important;
+    border-left-width: 4px !important;
+    padding: 8pt 10pt !important;
+    margin: 8pt 0 !important;
+    page-break-inside: avoid;
+    background: white !important;
+  }
+
+  /* ── Code blocks ────────────────────────────────────────────────────────── */
+  .vp-doc pre,
+  .vp-doc code {
+    border: 1px solid #ccc !important;
+    background: #f8f8f8 !important;
+    font-size: 9pt !important;
+    white-space: pre-wrap !important;
+    word-break: break-all !important;
+  }
+
+  /* ── Orphan / widow control ─────────────────────────────────────────────── */
+  .vp-doc p,
+  .vp-doc li {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Keep headings with their following content — prevents a heading
+     appearing at the bottom of a page with its paragraph on the next.     */
+  .vp-doc h1,
+  .vp-doc h2,
+  .vp-doc h3,
+  .vp-doc h4 {
+    page-break-after: avoid;
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* ── FileAttachment badges ──────────────────────────────────────────────── */
+  /* The styled badge looks odd in print — simplify to a plain inline link.  */
+  .file-attachment {
+    display: inline !important;
+    border: none !important;
+    padding: 0 !important;
+    background: none !important;
+  }
+
+  /* ── Blockquotes (> **Note:** style) ────────────────────────────────────── */
+  .vp-doc blockquote {
+    border-left: 4px solid #999 !important;
+    padding-left: 10pt !important;
+    color: #333 !important;
+    font-style: italic !important;
+  }
+
+  /* ── PayTable tabs — show all years, not just the active one ───────────── */
+  /* The tab switcher UI is meaningless in print. Show all pay year tables
+     stacked, each with its year as a visible heading.                       */
+  .pay-tab-bar {
+    display: none !important;
+  }
+
+  .pay-tab-panel {
+    display: block !important;
+  }
+}

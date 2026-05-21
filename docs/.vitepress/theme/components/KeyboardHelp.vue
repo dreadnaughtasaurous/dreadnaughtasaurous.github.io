@@ -87,6 +87,12 @@
                 <span class="kb-desc">Toggle reading mode (current page)</span>
                 <span class="kb-keys"><kbd>R</kbd></span>
               </div>
+              <div class="kb-row">
+                <span class="kb-desc">Print this page</span>
+                <span class="kb-keys">
+                  <kbd>Ctrl</kbd><span class="kb-plus">+</span><kbd>P</kbd>
+                </span>
+              </div>
             </div>
 
             <div class="kb-section">
