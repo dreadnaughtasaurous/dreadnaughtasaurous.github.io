@@ -124,7 +124,7 @@ for (const file of htmlFiles) {
   // ── FILTER SPANS ─────────────────────────────────────────────────────────────
   let filterSpans = ''
   if (fm.eba) {
-    filterSpans += `<span data-pagefind-filter="eba" data-pagefind-ignore style="display:none">${fm.eba}</span>`
+    filterSpans += `<span data-pagefind-filter="eba" data-pagefind-ignore data-allow-mismatch style="display:none">${fm.eba}</span>`
   }
   if (fm.topics && fm.topics.length > 0) {
     const topicArr = fm.topics
@@ -132,18 +132,18 @@ for (const file of htmlFiles) {
       .map(t => t.trim())
       .filter(t => t.length > 0)
     for (const topic of topicArr) {
-      filterSpans += `<span data-pagefind-filter="topics" data-pagefind-ignore style="display:none">${topic}</span>`
+      filterSpans += `<span data-pagefind-filter="topics" data-pagefind-ignore data-allow-mismatch style="display:none">${topic}</span>`
     }
   }
 
   // ── WEIGHT DIV ───────────────────────────────────────────────────────────────
   const weight = computeWeight(slug, fm.topics || '')
-  const weightDiv = `<div class="pagefind-weight" data-pagefind-weight="${weight}" style="display:none" aria-hidden="true"></div>`
+  const weightDiv = `<div class="pagefind-weight" data-pagefind-weight="${weight}" data-allow-mismatch style="display:none" aria-hidden="true"></div>`
 
   // ── SYNONYMS BLOCK ───────────────────────────────────────────────────────────
   let synonymBlock = ''
   if (synonymsText.length > 0) {
-    synonymBlock = `<div class="pagefind-synonyms" data-pagefind-ignore style="display:none" aria-hidden="true">${synonymsText}</div>`
+    synonymBlock = `<div class="pagefind-synonyms" data-pagefind-ignore data-allow-mismatch style="display:none" aria-hidden="true">${synonymsText}</div>`
   }
 
   if (html.includes('class="vp-doc ')) {
