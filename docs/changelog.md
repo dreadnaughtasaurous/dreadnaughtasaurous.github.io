@@ -11,7 +11,8 @@ A complete record of all changes made to the Austin Health EBA Wiki, updated aut
 
 ## May 2026
 
-- **2026-05-21** — Fix: move pagefind injected elements outside </main> to prevent Vue hydration mismatch [ebf06fe4](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/ebf06fe4)
+- **2026-05-21** — Fix (changelog): remove backtick-wrapped commit hashes to prevent Vue compiler error [859a2328](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/859a2328)
+- **2026-05-21** — Fix: move pagefind injected elements outside &lt;/main&gt; to prevent Vue hydration mismatch [ebf06fe4](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/ebf06fe4)
 - **2026-05-21** — Fix: add data-allow-mismatch to all patch-pagefind injected elements [986a9dbc](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/986a9dbc)
 - **2026-05-21** — Fix (ClausePanel): remove unconditional lockBodyScroll call from route watcher [da458ac5](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/da458ac5)
 - **2026-05-21** — Fix (ClausePanel): revert .html suffix — clean URL works correctly, remove diagnostic logs [3251ce8d](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/3251ce8d)
