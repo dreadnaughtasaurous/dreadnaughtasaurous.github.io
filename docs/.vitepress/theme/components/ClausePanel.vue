@@ -126,7 +126,7 @@
           </span>
 
           <a
-            :href="currentEntry.url.replace(/\.html$/, '') + '.html'"
+            :href="currentEntry.url.replace(/\.html$/, '').replace(/\/$/, '')"
             class="cp-open-link"
             target="_blank"
             rel="noopener noreferrer"
@@ -209,7 +209,7 @@ function truncateTitle(title, maxLen) {
 // ─── Fetch clause HTML ────────────────────────────────────────────────────────
 
 async function fetchClause(url) {
-  const fetchUrl = url.replace(/\/$/, '').replace(/\.html$/, '') + '.html'
+  const fetchUrl = url.replace(/\/$/, '').replace(/\.html$/, '')
   const res      = await fetch(fetchUrl)
   if (!res.ok) throw new Error(`Could not load clause (HTTP ${res.status})`)
 
@@ -320,7 +320,6 @@ function jumpTo(idx) {
 let savedScrollY = 0
 
 function lockBodyScroll(lock) {
-  console.log('[ClausePanel] lockBodyScroll called with lock:', lock, 'savedScrollY:', savedScrollY)
   if (lock) {
     savedScrollY                 = window.scrollY
     document.body.style.overflow = 'hidden'
@@ -384,8 +383,7 @@ function handleKeydown(e) {
 
 // ─── Route watcher — close on navigation ─────────────────────────────────────
 
-watch(() => route.path, (newPath, oldPath) => {
-  console.log('[ClausePanel] route watcher fired', { newPath, oldPath, open: open.value })
+watch(() => route.path, () => {
   lockBodyScroll(false)
   if (open.value) close()
 })

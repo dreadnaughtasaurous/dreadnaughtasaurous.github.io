@@ -108,44 +108,20 @@ export default {
 
     if (typeof window !== 'undefined') {
       router.onBeforeRouteChange = (to) => {
-  console.log('[router] onBeforeRouteChange fired, to:', to, 'current:', window.location.pathname)
         const toPath = typeof to === 'string' ? to : (to.path || '')
-
-        // Only intercept /ebas/ navigations
         if (!toPath.startsWith('/ebas/')) return
-
-        // Normalise both paths for comparison
         const normTo      = toPath.replace(/\/$/, '').replace(/\.html$/, '')
         const normCurrent = window.location.pathname.replace(/\/$/, '').replace(/\.html$/, '')
-        console.log('[router] normTo:', normTo, '| normCurrent:', normCurrent, '| equal:', normTo === normCurrent)
-
-        // Same-page: let through (anchor scrolls, etc.)
-        if (normTo === normCurrent) {
-          console.log('[router] BAIL: same-page')
-          return
-        }
-
-        const activeEl  = document.activeElement
-        const inVpDoc = activeEl && activeEl.closest('.vp-doc')
-        console.log('[router] activeElement:', activeEl?.tagName, activeEl?.className, '| inVpDoc:', !!inVpDoc)
-        if (!inVpDoc) {
-          console.log('[router] BAIL: not in vp-doc')
-          return
-        }
-
+        if (normTo === normCurrent) return
+        const activeEl = document.activeElement
+        const inVpDoc  = activeEl && activeEl.closest('.vp-doc')
+        if (!inVpDoc) return
         const inPanel = activeEl && activeEl.closest('.clause-panel')
-        console.log('[router] inPanel:', !!inPanel)
-        if (inPanel) {
-          console.log('[router] BAIL: in panel')
-          return
-        }
-
-        console.log('[router] INTERCEPTING — dispatching open-clause-panel')
-        // All guards passed — cancel navigation and open the panel instead.
+        if (inPanel) return
         window.dispatchEvent(
           new CustomEvent('open-clause-panel', { detail: { url: toPath } })
         )
-        return false  // cancel the VitePress navigation
+        return false
       }
     }
 
