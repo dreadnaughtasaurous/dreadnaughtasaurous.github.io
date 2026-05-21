@@ -52,7 +52,7 @@ for (const key of Object.keys(grouped).sort().reverse()) {
   const [year, month] = key.split('-')
   md += `## ${monthNames[parseInt(month)]} ${year}\n\n`
   for (const { hash, date, subject } of grouped[key]) {
-    md += `- **${date}** — ${subject} [\`${hash}\`](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/${hash})\n`
+    md += `- **${date}** — ${subject} [${hash}](https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io/commit/${hash})\n`
   }
   md += '\n'
 }
