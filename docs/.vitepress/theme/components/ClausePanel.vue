@@ -320,6 +320,7 @@ function jumpTo(idx) {
 let savedScrollY = 0
 
 function lockBodyScroll(lock) {
+  console.log('[ClausePanel] lockBodyScroll called with lock:', lock, 'savedScrollY:', savedScrollY)
   if (lock) {
     savedScrollY                 = window.scrollY
     document.body.style.overflow = 'hidden'
