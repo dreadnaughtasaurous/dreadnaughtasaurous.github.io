@@ -141,23 +141,10 @@ export default {
         }
 
         console.log('[router] INTERCEPTING — dispatching open-clause-panel')
-
-        // Scope guard: only intercept if the click originated inside .vp-doc.
-        // document.activeElement is the element that received focus from the
-        // click — for a keyboard-accessible link click it will be the <a> itself.
-        // For a mouse click, browsers move focus to the clicked element if it is
-        // focusable. We walk up from activeElement to check for .vp-doc ancestry.
-        // If we cannot confirm the click came from .vp-doc, we let navigation
-        // proceed normally (sidebar, nav, Related Clauses panel, etc.).
-        const active = document.activeElement
-        const inVpDoc = active && active.closest('.vp-doc')
-        if (!inVpDoc) return
-
         // All guards passed — cancel navigation and open the panel instead.
         window.dispatchEvent(
           new CustomEvent('open-clause-panel', { detail: { url: toPath } })
         )
-
         return false  // cancel the VitePress navigation
       }
     }
