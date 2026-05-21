@@ -384,7 +384,6 @@ function handleKeydown(e) {
 // ─── Route watcher — close on navigation ─────────────────────────────────────
 
 watch(() => route.path, () => {
-  lockBodyScroll(false)
   if (open.value) close()
 })
 
