@@ -41,7 +41,7 @@ The Employer will ensure that:
 
 > **Note:** Additional rights of HSRs are contained in the OHS Act.
 
-- **(a)** In this [subclause 78.4](/ebas/biomedical-engineers/union-matters/78-union-matters):
+- **(a)** In this subclause 78.4:
   - **(i)** **Representative** means a Union Delegate, or HSR;
   - **(ii)** **Relevant Employee** means  
     - **(A)** In the case of a Union Delegate, members of the Union and any other persons eligible to be members of the Union; and  
@@ -86,14 +86,14 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 
 > **Note:** Where a Union Delegate is also appointed as an HSR under the OHS Act, they may be entitled to additional training in accordance with the OHS Act.
 
-- **(a)** Subject to the conditions in this [subclause 78.9](/ebas/biomedical-engineers/union-matters/78-union-matters), Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
+- **(a)** Subject to the conditions in this subclause 78.9, Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 - **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 - **(c)** The granting of leave will be subject to the Employer’s operational requirements. The granting of leave will not be unreasonably withheld.
 - **(d)** Leave under this subclause is granted on the following conditions:
   - **(i)** applications are accompanied by a statement from the Union advising that it has nominated the Employee or supports the application:
   - **(ii)** the training is conducted by the Union, an association of unions or accredited training provider; and
   - **(iii)** the application is made as early as practicable and not less than two (2) weeks before the training.
-- **(e)** The Employee will be paid their ‘ordinary pay’ (as defined at 51 Annual Leave) for normal rostered hours (set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates)), but excluding shift work, overtime and other allowances.
+- **(e)** The Employee will be paid their ‘ordinary pay’ (as defined at 51 Annual Leave) for normal rostered hours (set out in [Appendix 2](/ebas/biomedical-engineers/appendices/2-wage-rates)), but excluding shift work, overtime and other allowances.
 - **(f)** Leave in accordance with this clause may include necessary travelling time in normal hours immediately before or after the course.
 - **(g)** Leave granted under this clause will count as service for all purposes of this Agreement.
 - **(h)** Expenses associated with attendance at training courses, including fares, accommodation and meal costs are not the responsibility of the Employer.
@@ -104,6 +104,6 @@ The Employer will, on application by the Union, grant leave without loss of pay 
   - **(i)** agreement implementation;
   - **(ii)** on-going monitoring and assessment of the implementation of this Agreement; and
   - **(iii)** to deal with any local disputes that may arise, without limiting the Dispute Resolution Procedure in this Agreement.
-- **(b)** Priority items for consideration by the WIC will include the matters arising under [clause 56](/ebas/biomedical-engineers/leave/56-family-violence-leave) (Family Violence) and this [clause 78](/ebas/biomedical-engineers/union-matters/78-union-matters) (Union Matters).
+- **(b)** Priority items for consideration by the WIC will include the matters arising under [clause 56](/ebas/biomedical-engineers/leave/56-family-violence-leave) (Family Violence) and this clause 78 (Union Matters).
 
 Plain language terms: union rep, delegate.

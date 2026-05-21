@@ -45,8 +45,8 @@ A Doctor whose employment is terminated will be paid in respect of all accrued a
 
 - **(a)** A Health Service and Doctor may agree in writing to the Doctor taking a period of paid annual leave before the employee has accrued an entitlement to the leave.
 - **(b)** An agreement must state the amount of leave to be taken in advance and the date on which leave is to commence.
-  > **Note:** An example of the type of agreement required is set out at [Appendix 6](/ebas/medical-specialists/appendices/6-agreement-to-take-annual-leave-in-advance).
-- **(c)** The Health Service must keep a copy of any agreement under [subclause 47.7](/ebas/medical-specialists/leave/47-annual-leave) as a record.
+  > **Note:** An example of the type of agreement required is set out at Appendix 6.
+- **(c)** The Health Service must keep a copy of any agreement under subclause 47.7 as a record.
 - **(d)** If, on termination, the Doctor has not accrued the entitlement for leave already taken in advance, the Health Service may deduct the equivalent amount from any money due to the Doctor.
 
 ---
@@ -61,7 +61,7 @@ A Doctor whose employment is terminated will be paid in respect of all accrued a
   - The Doctor’s remaining accrued entitlement must not be less than **10 weeks**.
   - The maximum amount cashed out in any 12-month period is **2 weeks**.
 - **(e)** The Health Service must keep a copy of the agreement as an employee record.
-  > **Note:** Employers must not exert undue influence/pressure (s.344 of the Act) or make false representations (s.345(1) of the Act). See [Appendix 7](/ebas/medical-specialists/appendices/7-agreement-to-cash-out-annual-leave) for an example form.
+  > **Note:** Employers must not exert undue influence/pressure (s.344 of the Act) or make false representations (s.345(1) of the Act). See Appendix 7 for an example form.
 
 ---
 
@@ -88,9 +88,9 @@ A Doctor whose employment is terminated will be paid in respect of all accrued a
 
 **47.11 Excessive annual leave accruals: request by Doctor for leave**
 
-- **(a)** If no agreement is reached under [subclause 47.9(b)](/ebas/medical-specialists/leave/47-annual-leave), a Doctor may give written notice requesting to take leave if:
+- **(a)** If no agreement is reached under subclause 47.9(b), a Doctor may give written notice requesting to take leave if:
   - **(i)** They have had an excessive accrual for more than **3 months**.
-  - **(ii)** No direction has been given under [subclause 47.10(a)](/ebas/medical-specialists/leave/47-annual-leave) that would eliminate the excess.
+  - **(ii)** No direction has been given under subclause 47.10(a) that would eliminate the excess.
 - **(b)** **Constraints on Doctor Requests:**
   - Must leave at least **6 weeks** accrued.
   - Minimum period of **one week**.

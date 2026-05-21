@@ -24,7 +24,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(i)** investigative, and
   - **(ii)** disciplinary.
 - **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
-- **(d)** The Employer will notify the Employee in accordance with sub-[clause 24.3(b)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) as soon as practicable following the Employer becoming aware of the alleged concerns at sub-[clause 24.1(a)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance).
+- **(d)** The Employer will notify the Employee in accordance with sub-clause 24.3(b) as soon as practicable following the Employer becoming aware of the alleged concerns at sub-clause 24.1(a).
 - **(e) Exception - Employees who have not completed a minimum period of employment with their Employer** 
 
   Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at s.383 of the Act and the Employer is considering the termination of the Employee's employment, the Employer will:
@@ -32,7 +32,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(ii)** advise the Employee of their right to have a representative, including a Union representative
   - **(iii)** other than in the case of Serious Misconduct, provide the Employee an opportunity to improve their Performance or Conduct
   - **(iv)** meet with the Employee (and, where relevant, their representative); and
-  - **(v)** consider any explanation by the Employee including any matters raised in mitigation before making a decision to terminate the employment. The terms of [clause 24.3](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) to 24.5 inclusive do not apply to Employees within the scope of the exception in this [clause 24.1(e)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance).
+  - **(v)** consider any explanation by the Employee including any matters raised in mitigation before making a decision to terminate the employment. The terms of clause 24.3 to 24.5 inclusive do not apply to Employees within the scope of the exception in this clause 24.1(e).
 
 **24.2 Definitions**
 
@@ -51,7 +51,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
     - **(D)** sexual harassment.
   - **(iv)** the Employee being intoxicated at work
   - **(v)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment.
-- **(e)** [Subclauses 24.2(d)(iii)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) - 24.2(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
+- **(e)** Subclauses 24.2(d)(iii) - 24.2(d)(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
 
 **24.3 Investigative procedure**
 
@@ -63,8 +63,8 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(iv)** advise the Employee of their right to have a representative, including a Union representative
   - **(v)** ensure that the reason for any interview is explained
   - **(vi)** take reasonable steps to investigate the Employee’s response.
-- **(c)** Where the Employer has complied with [subclause 24.3(b)(i) - (vi)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
-- **(d)** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under [clause 24.4(c)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) including matters in mitigation if a disciplinary procedure (see [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance)) is proposed.
+- **(c)** Where the Employer has complied with subclause 24.3(b)(i) - (vi) and the Employee does not dispute the concerns, the Employee may opt to decline the opportunity to be interviewed.
+- **(d)** Where the Employee opts to decline the opportunity to be interviewed, the Employee may still raise matters under clause 24.4(c) including matters in mitigation if a disciplinary procedure (see clause 24) is proposed.
 
 **24.4 Procedure to address poor Performance or Misconduct**
 
@@ -76,29 +76,29 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(i)** whether there is a valid reason related to the Conduct or Performance of the Employee arising from the investigation justifying disciplinary action;
   - **(ii)** whether the Employee knew or ought to have known that the Conduct or Performance was below acceptable standards; and
   - **(iii)** any explanation by the Employee relating to Conduct including any matters raised in mitigation.
-- **(d)** The Employer will ensure that any disciplinary action being considered under [subclause 24.5(a)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) below and arising from an investigation relating to the professional conduct of a registered professional, will be informed by someone with a thorough understanding of applicable professional standards of practice issued by the Australian professional registration body.
+- **(d)** The Employer will ensure that any disciplinary action being considered under subclause 24.5(a) below and arising from an investigation relating to the professional conduct of a registered professional, will be informed by someone with a thorough understanding of applicable professional standards of practice issued by the Australian professional registration body.
 
 **24.5 Possible outcomes**
 
-- **(a)** Where it is determined that after following the procedures in this [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) that disciplinary action is warranted, the Employer may take any of the following steps depending on the seriousness of the Conduct or Performance and the steps shall be recorded on the Employee's personnel file:
+- **(a)** Where it is determined that after following the procedures in this clause 24 that disciplinary action is warranted, the Employer may take any of the following steps depending on the seriousness of the Conduct or Performance and the steps shall be recorded on the Employee's personnel file:
   - **(i)** where the Performance or Conduct issue does not constitute Serious Misconduct: 
     - **(A)** counsel the Employee 
     - **(B)** give the Employee a first written warning 
     - **(C)** give the Employee a second written warning in the event the Employee has previously been given a first warning within the previous 12 months for that course of Conduct 
     - **(D)** give the Employee a final written warning in the event that the Employee has previously been given a second written warning within the preceding 18-month period for that course of conduct; or 
     - **(E)** terminate the Employee’s employment on notice in the case of an employee who repeats a course of conduct for which a final warning was given in the preceding 18 months; or
-  - **(ii)** Where the Performance or Conduct does constitute Serious Misconduct: **(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in [subclause 24.5(a)(i)](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) above.
+  - **(ii)** Where the Performance or Conduct does constitute Serious Misconduct: **(A)** terminate the Employee’s employment without notice; or **(B)** alternatively, issue the Employee with a final warning without following the steps in subclause 24.5(a)(i) above.
 - **(b)** The Employer’s decision and a summary of its reasons will be notified to the Employee in writing.
 - **(c)** If after any warning or counselling, a period of 12- or 18-months elapses (as relevant) without the Employee repeating a course of conduct for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning.
 
 **24.6 Performance Management**
 
-- **(a)** Nothing in this [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) will prevent the Employer from undertaking performance management to support Employees.
-- **(b)** In this [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance), **performance management** includes reasonable actions to address performance by identifying performance deficits, the Employer's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Employee may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits and/or describe the matters which require improvement within a time period that is reasonable in the circumstances.
-- **(c)** In this [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance), performance management does not include sanctions in addition to those set out at [clause 24.5](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) above.
+- **(a)** Nothing in this clause 24 will prevent the Employer from undertaking performance management to support Employees.
+- **(b)** In this clause 24, **performance management** includes reasonable actions to address performance by identifying performance deficits, the Employer's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Employee may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits and/or describe the matters which require improvement within a time period that is reasonable in the circumstances.
+- **(c)** In this clause 24, performance management does not include sanctions in addition to those set out at clause 24.5 above.
 
 **24.7 Disputes**
 
-- **(a)** A dispute over this [clause 24](/ebas/mental-health/common-terms/consultation-disputes/24-managing-conduct-and-performance) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement ([clause 22](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure)).
+- **(a)** A dispute over this clause 24 is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement ([clause 22](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure)).
 
 Plain language terms: performance management, disciplinary, misconduct, PIP, performance improvement.

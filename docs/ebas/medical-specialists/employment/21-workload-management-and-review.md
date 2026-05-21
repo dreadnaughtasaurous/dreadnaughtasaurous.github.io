@@ -49,7 +49,7 @@ The Health Service and Doctor shall consult regularly regarding the Doctor’s w
   - **(ii)** **Management Administrative Responsibilities** – including roster preparation, budget documents, Health Service reports.
   - **(iii)** **Clinical Research** as required by the Health Service.
   - **(iv)** **Practice in a Distant Location** – including time taken to travel to and from the distant location.
-  - **(v)** **Clinical Support Time** including Clinical Support Duties as defined at [subclause 18.2](/ebas/medical-specialists/employment/18-clinical-support-time).
+  - **(v)** **Clinical Support Time** including Clinical Support Duties as defined at subclause 18.2.
 - **(b)** The Health Service and Doctor shall calculate the hours required to perform the tasks and responsibilities set out in writing. This includes taking into account that some aspects of the routine workload occur more frequently than others.
 - **(c)** The Health Service and Doctor shall review the responsibilities and duties and any amendment to the responsibilities and duties to ensure a safe and reasonable workload shall be recorded in writing.
 

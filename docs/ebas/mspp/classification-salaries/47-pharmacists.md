@@ -13,6 +13,6 @@ MSPP medical scientists psychologists medical scientist pharmacist psychologist 
 
 # 47. Pharmacists
 
-For Pharmacist classification definitions and Higher Qualification Allowances see [Schedule 3, clause 7](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc). For grouping criteria for departments of pharmacy see [Schedule 3, clause 7.11](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc).
+For Pharmacist classification definitions and Higher Qualification Allowances see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), clause 7. For grouping criteria for departments of pharmacy see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), clause 7.11.
 
 Plain language terms: pharmacist.

@@ -31,7 +31,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(vii)** in relation to the refusal of a request – the amount of notice in advance of the public holiday given by the Employee when refusing the request; and
   - **(viii)** any other relevant matter.
 - **(e) Royal Children’s Hospital**
-  - **(i)** This [subclause 213.1(e)](/ebas/mental-health/management-admin/leave/213-public-holidays)\[236.1(e)\] only applies to Management and Administrative officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) [Schedule 6](/ebas/mental-health/schedules/06-support-services-employee-classifications)\] of this Agreement.
+  - **(i)** This subclause 213.1(e)\[236.1(e)\] only applies to Management and Administrative officers at Royal Children’s Hospital classified under Part 2 of Schedule 7 Schedule 6\] of this Agreement.
   - **(ii)** At the beginning of every calendar year, or at the anniversary date of the Agreement, departments/units/services that do not require a full complement of Employees for public holidays will notify Employees of the work arrangements for those public holidays
   - **(iii)** Employees can elect to work up to five (5) public holidays in each year, provided that: 
     - **(A)** the Employer agrees that there is appropriate work to be done, either in the Employee’s normal place of work or in another area of the workplace; and 
@@ -64,7 +64,7 @@ Employees shall be entitled to the following public holidays:
 - **(d)** When Australia Day falls on a Saturday or Sunday a holiday in lieu thereof shall be observed on the next Monday.
 - **(e)** When ANZAC Day falls on a Sunday, a holiday in lieu thereof shall be observed on the following Monday.
 - **(f)** When ANZAC Day falls on Easter Monday, a holiday in lieu thereof shall be observed on the following Tuesday.
-- **(g)** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in [clause 213.2](/ebas/mental-health/management-admin/leave/213-public-holidays)\[236.2\] and [clause 213.3](/ebas/mental-health/management-admin/leave/213-public-holidays)[236.3] above, those days shall constitute additional holidays for the purposes of this Part F.
+- **(g)** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in clause 213.2\[236.2\] and clause 213.3[236.3] above, those days shall constitute additional holidays for the purposes of this Part F.
 
 **213.4 Substitute Days**
 
@@ -75,8 +75,8 @@ Employees shall be entitled to the following public holidays:
 **213.5 Penalty Payments in respect of public holidays**
 
 - **(a)** An Employee, other than a casual, who performs work (including overtime work) on a public holiday is entitled to be paid:
-  - **(i)** 200% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday Monday to Friday; or
-  - **(ii)** 250% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday Monday to Friday; or
+  - **(i)** 200% (based on 1/38th of the weekly salary set out in Schedule 2) for the time worked on a public holiday Monday to Friday; or
+  - **(ii)** 250% (based on 1/38th of the weekly salary set out in Schedule 2) for the time worked on a public holiday Monday to Friday; or
 - **(b)** A casual Employee who performs work (including overtime work) on a public holiday shall be entitled to be paid 175% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday inclusive of the casual loading.
 
 **213.6 Public Holiday not required to work** 
@@ -89,7 +89,7 @@ If the public holiday falls on the Employee's rostered day off, they shall be en
 
 **213.8 Public holidays and part-time Employees**
 
-- **(a)** Subject to [clause 213.8(b)](/ebas/mental-health/management-admin/leave/213-public-holidays)\[236.9(b)\], a regular part-time Employee who is not ordinarily required to work on the day on which a public holiday is observed shall not be entitled to payment for such public holiday unless they are required to work on that day.
+- **(a)** Subject to clause 213.8(b)\[236.9(b)\], a regular part-time Employee who is not ordinarily required to work on the day on which a public holiday is observed shall not be entitled to payment for such public holiday unless they are required to work on that day.
 - **(b)** In determining whether a part-time Employee who works a rotating roster is entitled to receive the 'rostered off’ Agreement benefits for a particular public holiday not worked, the Employer shall review the roster pattern of the individual over the preceding six months. If the rosters show that the Employee has worked 50% or more of the days on which a particular public holiday falls, the Employee shall be entitled to receive the ‘rostered off' benefit for that public holiday.
 
 **213.9 Public holidays and Accrued Days Off**

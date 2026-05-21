@@ -36,6 +36,6 @@ An Employee may terminate their employment by providing four weeks’ notice to 
 
 **23.3 Certificate of Service on Termination**  
 
-A certificate of service including the information at Appendix 4 will be provided to the Employee wherever practicable within 21 days of the date of termination including where a full-time or part-time Employee terminates employment and becomes a casual Employee.
+A certificate of service including the information at [Appendix 4](/ebas/biomedical-engineers/appendices/4-certificate-of-service) will be provided to the Employee wherever practicable within 21 days of the date of termination including where a full-time or part-time Employee terminates employment and becomes a casual Employee.
 
 Plain language terms: resignation, dismissal.

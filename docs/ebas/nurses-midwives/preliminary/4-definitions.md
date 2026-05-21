@@ -34,7 +34,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   
   provided that a satellite service co-located on a Campus controlled by another Employer is not a separate Campus for the purposes of this Agreement.
 
-  For reference, a list of Campuses as at the date of this Agreement is at [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+  For reference, a list of Campuses as at the date of this Agreement is at Appendix 8.
 - **(l) Commission** means the Fair Work Commission or any successor body.
 - **(m) Deputy DON** means an Employee who is a Registered Nurse appointed as the Deputy Director of Nursing and who deputises for the DON and assists in nursing administration.
 - **(n) DOH** means the Victorian Department of Health or any successor department.
@@ -43,10 +43,10 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(q) Early Parenting Centre** (formerly known as Babies' Homes) means a centre that provides help and support for families with children 0 to 3 years who have difficulties adjusting to, or establishing, feeding and other early childhood routines. Early Parenting Centres covered by this Agreement are Tweddle Child and Family Health Services, The Queen Elizabeth Centre, the O'Connell Family Centre and any other Early Parenting Centre operated by an Employer during the life of this Agreement.
 - **(r) EFT** means equivalent full-time Employee.
 - **(s) Employee** means a Registered Nurse, Registered Midwife, Enrolled Nurse, Registered Undergraduate Student of Nursing, Registered Undergraduate Student of Midwifery or Registered Enrolled Nurse Student as described in [clause 106](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models) or Trainee Enrolled Nurse as described in [clause 94](/ebas/nurses-midwives/classification-staffing/94-trainee-enrolled-nurses) employed by an Employer covered by this Agreement.
-- **(t) Employer** means any of the health sector agencies listed in [Appendix 1](/ebas/mental-health/schedules/01-list-of-employers).
+- **(t) Employer** means any of the health sector agencies listed in [Appendix 1](/ebas/nurses-midwives/appendices/01-list-of-employers).
 - **(u) Enrolled Nurse** means a person registered in Division 2 Enrolled Nurses of the Register of Nurses of the Nursing and Midwifery Board of Australia established by the Health Practitioner Regulation National Law Act 2009 and includes a person:
   - **(i)** registered in Division 2 Enrolled Nurses of the Register of Nurses of the Nursing and Midwifery Board of Australia established by the Health Practitioner Regulation National Law Act 2009 with a standard condition "may practise only in the area of mothercraft nursing"; or
-  - **(ii)** with an equivalent qualification and role as described in [subclause 4.1(u)(i)](/ebas/nurses-midwives/preliminary/4-definitions) above, including an early parenting practitioner employed in an Early Parenting Centre who is not a nurse,
+  - **(ii)** with an equivalent qualification and role as described in subclause 4.1(u)(i) above, including an early parenting practitioner employed in an Early Parenting Centre who is not a nurse,
   
   but excludes a person employed solely or predominantly in the provision of Public Mental Health Services.
 
@@ -70,7 +70,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   - **(ii)** a child or an adult child (including an adopted child, a step child, a current foster child of the Employee or an ex nuptial child), parent, grandparent, grandchild or sibling of the Employee or of the Employee's spouse.
 - **(dd) IQNM** means an Internationally Qualified Nurse or Midwife.
 - **(ee) Kin** of a person is another person who is related to the first person according to Aboriginal or Torres Strait Islander kinship rules and kinship has a corresponding meaning.
-- **(ff) Level** for the purposes of this [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) means a role in which the weekly salary in Schedule 2 for that role is at least equal to or comparable to the weekly salary in Schedule 2 for the position in which the Employee is, or is about to be, employed.
+- **(ff) Level** for the purposes of this clause 4 means a role in which the weekly salary in Schedule 2 for that role is at least equal to or comparable to the weekly salary in Schedule 2 for the position in which the Employee is, or is about to be, employed.
 - **(gg) NES** means the National Employment Standards as contained in sections 59 to 131 of the Act.
 - **(hh) MUM** means an Employee who is a Registered Midwife appointed as a Midwife Unit Manager in charge of a maternity ward or unit and who is classified at the Nurse Manager grade of NM 2, 3 or 4 in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
 - **(ii) NUM** means an Employee who is a Registered Nurse appointed as a Nurse Unit Manager in charge of a ward or unit and who is classified at the Nurse Manager grade of NM 2, 3 or 4 in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).

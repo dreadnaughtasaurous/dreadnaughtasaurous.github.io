@@ -19,14 +19,14 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **98.1** An Employee will be entitled to paid time off (or penalty payments for time worked) in respect of public holidays in accordance with this clause.
 
-**98.2** Subject to sub-[clause 98.4](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays), the public holidays to which this clause applies are the days determined under Victorian law as public holidays in respect of the following occasions:
+**98.2** Subject to sub-clause 98.4, the public holidays to which this clause applies are the days determined under Victorian law as public holidays in respect of the following occasions:
 
 - **(a)** New Year’s Day, Australia Day, Christmas Day and Boxing Day; and
 - **(b)** Good Friday, the Saturday immediately before Easter Sunday (Easter Saturday), Easter Sunday, Easter Monday, Anzac Day, King's Birthday and Labour Day; and
 - **(c)** Melbourne Cup Day, or in lieu of Melbourne Cup Day, some other day as determined under Victorian law for a particular locality; and
 - **(d)** The Friday before the AFL Grand Final; and
-- **(e)** any additional public holiday declared or prescribed in Victoria or a locality in respect of occasions other than those set out in [clause 98.2(a)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) above.
-- **(f)** If a day or days are not determined in respect of any of the occasions in [clause 98.2(a)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays), 98.2(b) 98.2(c) above under Victorian law in any year, the public holiday for that occasion will be the day or date upon which the public holiday was observed in the previous year.
+- **(e)** any additional public holiday declared or prescribed in Victoria or a locality in respect of occasions other than those set out in clause 98.2(a) above.
+- **(f)** If a day or days are not determined in respect of any of the occasions in clause 98.2(a), 98.2(b) 98.2(c) above under Victorian law in any year, the public holiday for that occasion will be the day or date upon which the public holiday was observed in the previous year.
 
 ---
 
@@ -34,8 +34,8 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 When Christmas Day, Australia Day, Boxing Day, or New Year's Day (Actual Day) is a Saturday or a Sunday, and a substitute or additional holiday is determined under Victorian law on another day in respect of any of those occasions (Other Day):
 
-- **(a)** Weekend Workers and casual Employees shall receive penalty payments pursuant to sub-[clause 98.5](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) below for time worked on the Actual Day or on the Other Day if the Employee does not work ordinary hours on the Actual Day; and
-- **(b)** all other Employees will receive penalty payments pursuant to sub-[clause 98.5](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) below for time worked on the Other Day.
+- **(a)** Weekend Workers and casual Employees shall receive penalty payments pursuant to sub-clause 98.5 below for time worked on the Actual Day or on the Other Day if the Employee does not work ordinary hours on the Actual Day; and
+- **(b)** all other Employees will receive penalty payments pursuant to sub-clause 98.5 below for time worked on the Other Day.
 
 ---
 
@@ -49,12 +49,12 @@ When Christmas Day, Australia Day, Boxing Day, or New Year's Day (Actual Day) is
 
 **98.5 Penalty Payments in respect of public holidays**
 
-- **(a)** An Employee, other than a casual, who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to sub-[clause 98.3](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) above) will be entitled to be paid:
-  - **(i)** 200% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday Monday to Friday; or
-  - **(ii)** 250% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates in sub-[clause 83](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work)).
-- **(b)** A casual Employee who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to [clause 98.3](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays)) will be entitled to be paid inclusive of the casual loading;
-  - **(i)** 250% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for time worked on a public holiday Monday to Friday; or
-  - **(ii)** 312.5% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates in sub-[clause 83](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work) above).
+- **(a)** An Employee, other than a casual, who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to sub-clause 98.3 above) will be entitled to be paid:
+  - **(i)** 200% (based on 1/38th of the weekly salary set out in Schedule 2) for the time worked on a public holiday Monday to Friday; or
+  - **(ii)** 250% (based on 1/38th of the weekly salary set out in Schedule 2) for the time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates in sub-clause 83).
+- **(b)** A casual Employee who performs work (including overtime work) on a public holiday (or where Christmas Day, Boxing Day, New Year's Day or Australia Day fall on a weekend, the day to which penalty rates apply pursuant to clause 98.3) will be entitled to be paid inclusive of the casual loading;
+  - **(i)** 250% (based on 1/38th of the weekly salary set out in Schedule 2) for time worked on a public holiday Monday to Friday; or
+  - **(ii)** 312.5% (based on 1/38th of the weekly salary set out in Schedule 2) for time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates in sub-clause 83 above).
 
 ---
 
@@ -84,17 +84,17 @@ Where a public holiday occurs on a day that a part-time or full-time Employee wo
 
 **98.9 Public holidays occurring on rostered days off**
 
-- **(a)** Subject to sub-[clause 98.9(b)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) and 98.9(c) below, a full-time Employee will receive a sum equal to a day’s ordinary pay for public holidays that occur on their rostered day off.
-- **(b)** Subject to sub-[clause 98.9(c)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) below, if a public holiday falls on Saturday or Sunday then sub-[clause 98.9(a)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) above will only apply to Weekend Workers.
+- **(a)** Subject to sub-clause 98.9(b) and 98.9(c) below, a full-time Employee will receive a sum equal to a day’s ordinary pay for public holidays that occur on their rostered day off.
+- **(b)** Subject to sub-clause 98.9(c) below, if a public holiday falls on Saturday or Sunday then sub-clause 98.9(a) above will only apply to Weekend Workers.
 - **(c)** Where on each occasion that Christmas Day, Boxing Day, New Year's Day or Australia Day falls on a weekend, and under Victorian law an additional day or substitute day (Other Day) applies as a public holiday in respect of that occasion, and:
-  - **(i)** the Employee is rostered off for both the actual day and the Other Day, then only one day's payment will be made under sub-[clause 98.9(a)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) above; or
-  - **(ii)** the Employee works only on one of either the actual day or the Other Day, and receives penalty rates for the day worked, the Employee will not receive a payment under sub-[clause 98.9(a)](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) above in respect of the day not worked.
+  - **(i)** the Employee is rostered off for both the actual day and the Other Day, then only one day's payment will be made under sub-clause 98.9(a) above; or
+  - **(ii)** the Employee works only on one of either the actual day or the Other Day, and receives penalty rates for the day worked, the Employee will not receive a payment under sub-clause 98.9(a) above in respect of the day not worked.
 
 ---
 
 **98.10 Additional entitlement for part-time Employees rostered off duty** 
 
-> **Note:** This clause operates in addition to [clause 98.8](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) for part-time employees. 
+> **Note:** This clause operates in addition to clause 98.8 for part-time employees. 
 
 The entitlement to public holiday benefits under this Agreement for a part-time Employee who is rostered off duty on the day on which a public holiday occurs is to be determined as follows:
 
@@ -116,7 +116,7 @@ The entitlement to public holiday benefits under this Agreement for a part-time 
 
 **98.11 Recall Work on a public holiday** 
 
-A benefit arising from [clause 98.8](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays), 98.9 or 98.10will not be diminished where an Employee is required to, and does, perform recall work on that day. 
+A benefit arising from clause 98.8, 98.9 or 98.10will not be diminished where an Employee is required to, and does, perform recall work on that day. 
 
 For the purpose of this clause only, a Weekend Worker is an Employee who works ordinary hours on a Saturday or Sunday.
 

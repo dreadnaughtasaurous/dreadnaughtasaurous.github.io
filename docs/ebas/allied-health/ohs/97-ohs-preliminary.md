@@ -15,13 +15,13 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **97.1 Relationship to legislation** 
 
-The provisions of this Part L of the Agreement shall be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to in this [subclause 97.1](/ebas/allied-health/ohs/97-ohs-preliminary), the legislation prevails to the extent of any inconsistency.
+The provisions of this Part L of the Agreement shall be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to in this subclause 97.1, the legislation prevails to the extent of any inconsistency.
 
 **97.2 Arrangement of this Part L** 
 
 This part L is arranged as follows:
 
-- **(a)** OHS Preliminary ([clause 97](/ebas/allied-health/ohs/97-ohs-preliminary));
+- **(a)** OHS Preliminary (clause 97);
 - **(b)** Industry OHS Working Group ([clause 98](/ebas/allied-health/ohs/98-industry-ohs-working-group));
 - **(c)** OHS Risk Management ([clause 99](/ebas/allied-health/ohs/99-ohs-risk-management));
 - **(d)** Incident Reporting, Investigation and Prevention ([clause 100](/ebas/allied-health/ohs/100-incident-reporting-investigation-and-prevention));

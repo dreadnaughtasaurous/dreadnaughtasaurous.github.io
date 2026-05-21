@@ -17,7 +17,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **119.1 Definitions** 
 
-In this [clause 119](/ebas/mental-health/health-professionals/allowances/119-shift-work-allowance):
+In this clause 119:
 
 - **(a)** **Morning shift** means any shift that commences between 6:00 p.m. and 6:30 a.m.
 - **(b)** **Afternoon shift** means any shift that finishes between 6:00 p.m. and 8:00 a.m.
@@ -40,15 +40,15 @@ In addition to any other rates prescribed elsewhere in this Agreement, the Emplo
 - **(a)** A **Morning Shift**, an allowance set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per rostered period of duty;
 - **(b)** An **Afternoon Shift**, an amount set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per rostered period of duty;
 - **(c)** A **Temporary Night Shift**
-  - **(i)** In the case of a casual Employee, the amount referred to as the Casual Night Shift Allowance in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per period of duty.
-  - **(ii)** In case of a non casual Employee, the amount referred to in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) as ‘Weekday Night Duty’ for each period of duty commencing on a Monday, Tuesday, Wednesday or Thursday’.
-  - **(iii)** In case of a non casual Employee, the amount referred to in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) as ‘Fri/Sat Night Duty’ for each period of duty commencing on a Friday or Saturday.
-  - **(iv)** In case of a non casual Employee, the amount referred to in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) as ‘Sun Night Duty’ for each period of duty commencing on a Sunday.
+  - **(i)** In the case of a casual Employee, the amount referred to as the Casual Night Shift Allowance in Schedule 2 per period of duty.
+  - **(ii)** In case of a non casual Employee, the amount referred to in Schedule 2 as ‘Weekday Night Duty’ for each period of duty commencing on a Monday, Tuesday, Wednesday or Thursday’.
+  - **(iii)** In case of a non casual Employee, the amount referred to in Schedule 2 as ‘Fri/Sat Night Duty’ for each period of duty commencing on a Friday or Saturday.
+  - **(iv)** In case of a non casual Employee, the amount referred to in Schedule 2 as ‘Sun Night Duty’ for each period of duty commencing on a Sunday.
 - **(d)** A **Permanent Night Shift**
-  - **(i)** In the case of a casual Employee, the amount referred to as the Casual Night Shift Allowance in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per period of duty.
-  - **(ii)** In case of a non-casual Employee, the amount referred to in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) as ‘Weekday Night Duty’ for each period of duty commencing on a Monday, Tuesday, Wednesday or Thursday’.
-  - **(iii)** In case of a non-casual Employee, the amount referred to in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) as ‘Fri/Sat Night Duty’ for each period of duty commencing on a Friday or Saturday.
-  - **(iv)** In case of a non-casual Employee, the amount referred to in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) as ‘Sun Night Duty’ for each period of duty commencing on a Sunday.
+  - **(i)** In the case of a casual Employee, the amount referred to as the Casual Night Shift Allowance in Schedule 2 per period of duty.
+  - **(ii)** In case of a non-casual Employee, the amount referred to in Schedule 2 as ‘Weekday Night Duty’ for each period of duty commencing on a Monday, Tuesday, Wednesday or Thursday’.
+  - **(iii)** In case of a non-casual Employee, the amount referred to in Schedule 2 as ‘Fri/Sat Night Duty’ for each period of duty commencing on a Friday or Saturday.
+  - **(iv)** In case of a non-casual Employee, the amount referred to in Schedule 2 as ‘Sun Night Duty’ for each period of duty commencing on a Sunday.
 
 ---
 

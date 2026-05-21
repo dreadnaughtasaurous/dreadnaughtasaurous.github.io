@@ -15,7 +15,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 # 38. On-Call
 
-**38.1** On-call must be identified in the roster including whether it is General On-call at [subclause 38.2(a)](/ebas/doctors-in-training/hours-of-work/38-on-call) or Standby On-all at [subclause 38.2(b)](/ebas/doctors-in-training/hours-of-work/38-on-call). The provisions of this [clause 38](/ebas/doctors-in-training/hours-of-work/38-on-call) are to be read in conjunction with [clause 40](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours) (Telephone Calls to Doctors Outside of Working Hours), [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace) (Recall) and [clause 54](/ebas/doctors-in-training/allowances/54-telephone-allowance) (Telephone Allowance).
+**38.1** On-call must be identified in the roster including whether it is General On-call at subclause 38.2(a) or Standby On-all at subclause 38.2(b). The provisions of this clause 38 are to be read in conjunction with [clause 40](/ebas/doctors-in-training/hours-of-work/40-telephone-calls-to-doctors-outside-of-working-hours) (Telephone Calls to Doctors Outside of Working Hours), [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace) (Recall) and [clause 54](/ebas/doctors-in-training/allowances/54-telephone-allowance) (Telephone Allowance).
 
 **38.2 Types of On-call**
 
@@ -25,7 +25,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
     B. be recalled to their usual place of work.
 
 - **(b) Standby On-call**  
-  - **(i)** Standby on-call means an on-call period where the Doctor is rostered to hold themselves available to be on-call solely for the purpose of returning to the Health Service (for which payment will be made in accordance with [clause 39](/ebas/doctors-in-training/hours-of-work/39-recall-return-to-workplace)) in circumstances such as replacing unplanned absences or to address clinical need and does not provide any advice by telephone.  
+  - **(i)** Standby on-call means an on-call period where the Doctor is rostered to hold themselves available to be on-call solely for the purpose of returning to the Health Service (for which payment will be made in accordance with clause 39) in circumstances such as replacing unplanned absences or to address clinical need and does not provide any advice by telephone.  
   - **(ii)** Notwithstanding any other term in this clause, the period of standby on-call should be no longer than the specific shift it is designed to cover.
 
 **38.3 On-call Allowance**

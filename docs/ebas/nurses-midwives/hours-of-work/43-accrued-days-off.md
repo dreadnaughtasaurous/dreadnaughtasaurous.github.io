@@ -38,7 +38,7 @@ One day of a year's annual leave period will be regarded as an accrued day off f
 
 **43.5 ADOs on public holidays**
 
-*See also [clause 56](/ebas/medical-specialists/leave/56-public-holidays) (Public Holidays).*
+*See also [clause 56](/ebas/nurses-midwives/leave/56-public-holidays) (Public Holidays).*
 
 Where a public holiday falls on a day upon which the Employee is on an ADO, another day will be determined by the Employer to be taken by the Employee in lieu of the public holiday, such day to be within the same work cycle where practical.
 

@@ -35,7 +35,7 @@ medical specialist consultant specialist VMO visiting medical officer staff spec
 - **(c)** Where an adjustment is made to the Doctor’s pay to reflect an error arising from another pay period (such as overpayment or an entitlement to an additional payment) the Doctor will be advised in writing.
 
   > **Note:**
-  > in the event of a proposed deduction for an overpayment, please see [clause 35](/ebas/medical-specialists/wages/35-recovery-of-overpayments) Recovery of Overpayments.
+  > in the event of a proposed deduction for an overpayment, please see clause 35 Recovery of Overpayments.
 
 - **(d)** Payslips are important to ensuring that Doctors can be satisfied they are being paid correctly. Where a Doctor has a query about the content of their payslip, the Doctor may:
   - **(i)** raise that query with the Medical Workforce Unit or Payroll Department (where applicable); and

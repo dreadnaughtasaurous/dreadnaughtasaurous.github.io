@@ -23,10 +23,10 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **42.4 Amount of gender affirmation leave**
 
-- **(a)** An Employee (other than a Casual Employee) is entitled Gender Affirmation Leave for the purpose of supporting the Employee’s affirmation in accordance with [subclause 42.4(c)](/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave) below.. Gender Affirmation Leave will comprise:
+- **(a)** An Employee (other than a Casual Employee) is entitled Gender Affirmation Leave for the purpose of supporting the Employee’s affirmation in accordance with subclause 42.4(c) below.. Gender Affirmation Leave will comprise:
   - **(i)** up to 4 weeks (20 days) paid leave for essential and necessary gender affirmation procedures, and
   - **(ii)** up to 48 weeks of unpaid leave.
-- **(b)** The Gender Affirmation Leave entitlements outlined in [clause 42.4(a)](/ebas/mental-health/common-terms/leave/42-gender-affirmation-leave) are available to be taken by the Employee within the first 52 weeks after they commence essential gender affirmation procedures.
+- **(b)** The Gender Affirmation Leave entitlements outlined in clause 42.4(a) are available to be taken by the Employee within the first 52 weeks after they commence essential gender affirmation procedures.
 - **(c)** Essential gender affirmation procedures may include:
   - **(i)** medical or psychological appointments, or
   - **(ii)** hormonal appointments, or

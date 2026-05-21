@@ -21,18 +21,18 @@ mental worker psychiatric nurse mental nurse community mental AMHS authorised me
 - **(b) Arrangement of this Part K**
 
   This part is arranged as follows:
-  - **(i)** OHS Preliminary ([clause 69](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence) )
-  - **(ii)** OHS Working Group ([clause 69A](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group))
-  - **(iii)** OHS Risk Management ([clause 69B](/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management))
-  - **(iv)** Prevention and Management of Workplace Injuries ([clause 69C](/ebas/mental-health/common-terms/ohs/69C-incident-reporting-investigation-and-prevention))
-  - **(v)** Incident reporting, investigation and prevention ([clause 69C](/ebas/mental-health/common-terms/ohs/69C-incident-reporting-investigation-and-prevention))
-  - **(vi)** Designated work groups ([clause 69D](/ebas/mental-health/common-terms/ohs/69D-designated-work-groups))
-  - **(vii)** HSRs ([clause 69E](/ebas/mental-health/common-terms/ohs/69E-hsrs))
-  - **(viii)** Manual Handling incidents ([Clause 69B.12](/ebas/mental-health/common-terms/ohs/69B-ohs-risk-management))
-  - **(ix)** Occupational Violence and Aggression Prevention and Management ([clause 69F](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and))
-  - **(x)** Hazardous Weather Conditions (see [clause 69G](/ebas/mental-health/common-terms/ohs/69G-hazardous-weather-conditions))
-  - **(xi)** Workers’ Compensation, Rehabilitation and Return to Work ([Clause 69H](/ebas/mental-health/common-terms/ohs/69H-workers-compensation-rehabilitation-and-return-to-work))
-  - **(xii)** Prevention of Gendered Violence Including Sexual Harassment ([clause 69I](/ebas/mental-health/common-terms/ohs/69I-prevention-of-gendered-violence-including-sexual-harassment)).
+  - **(i)** OHS Preliminary (clause 69 )
+  - **(ii)** OHS Working Group (clause 69A)
+  - **(iii)** OHS Risk Management (clause 69B)
+  - **(iv)** Prevention and Management of Workplace Injuries (clause 69C)
+  - **(v)** Incident reporting, investigation and prevention (clause 69C)
+  - **(vi)** Designated work groups (clause 69D)
+  - **(vii)** HSRs (clause 69E)
+  - **(viii)** Manual Handling incidents (Clause 69B.12)
+  - **(ix)** Occupational Violence and Aggression Prevention and Management (clause 69F)
+  - **(x)** Hazardous Weather Conditions (see clause 69G)
+  - **(xi)** Workers’ Compensation, Rehabilitation and Return to Work (Clause 69H)
+  - **(xii)** Prevention of Gendered Violence Including Sexual Harassment (clause 69I).
 - **(c) Definitions**
 
   For the purposes of this Part K of this Agreement:

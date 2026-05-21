@@ -23,7 +23,7 @@ In addition to any paid leave entitlement below, an Employee who is legitimately
 
 - **(a)** An Employee of Aboriginal or Torres Strait Islander descent is entitled to one day of paid leave per calendar year to participate in National Aboriginal and Islander Day Observance Committee (**NAIDOC**) week activities and events.
 - **(b)** NAIDOC week leave does not accrue from year to year and is not paid out on termination of employment.
-- **(c)** Where an Employer receives a request to substitute a public holiday in accordance with [clause 56.4](/ebas/medical-specialists/leave/56-public-holidays) of this Agreement for a day during NAIDOC week, the Employer will consider all the circumstances including:
+- **(c)** Where an Employer receives a request to substitute a public holiday in accordance with [clause 56.4](/ebas/nurses-midwives/leave/56-public-holidays) of this Agreement for a day during NAIDOC week, the Employer will consider all the circumstances including:
   - **(i)** any reason identified by the Employee with respect to the request; and
   - **(ii)** the operational requirements of the Employer.
 - **(d)** An Employer will not unreasonably refuse a request to substitute a public holiday under this subclause.

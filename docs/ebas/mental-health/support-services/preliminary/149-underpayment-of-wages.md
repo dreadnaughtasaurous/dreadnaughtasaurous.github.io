@@ -21,11 +21,11 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **149.4 Support Services Employees**
 
-- **(a)** If the Employer does not take the action required under [clause 149.2](/ebas/mental-health/support-services/preliminary/149-underpayment-of-wages) and clause
+- **(a)** If the Employer does not take the action required under clause 149.2 and clause
 
 **149.3** above, the Employee shall be paid a penalty payment of 20% of the underpayment, calculated on a daily basis from the date of the entitlement arising until all such moneys are paid. In addition, the Employer shall meet any associated banking or other fees/penalties incurred by the Employee as a consequence of the error where those fees exceed the 20% penalty payment.
 
-- **(b)** [Clause 149.4(a)](/ebas/mental-health/support-services/preliminary/149-underpayment-of-wages)will not come into effect:
+- **(b)** Clause 149.4(a)will not come into effect:
     - **(i)** if the payment of wages or other monies owed falls on a public holiday, until the expiration of such public holiday; or
     - **(ii)** if any unforeseen event outside the control of the Employer frustrates their ability to meet the requirements of this clause.
 - **(c)** Late payment on termination

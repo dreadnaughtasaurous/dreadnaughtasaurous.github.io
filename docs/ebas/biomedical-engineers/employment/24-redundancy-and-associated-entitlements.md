@@ -19,14 +19,14 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 This clause is arranged as follows:
 
-- **(a)** Arrangement ([subclause 24.1](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
-- **(b)** Definitions ([subclause 24.2](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
-- **(c)** Redeployment ([subclause 24.3](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
-- **(d)** Support to Affected Employees ([subclause 24.4](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
-- **(e)** Salary maintenance ([subclause 24.5](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
-- **(f)** Relocation ([subclause 24.7](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)),
-- **(g)** Employment terminates due to redundancy ([subclause 24.8](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements)), and
-- **(h)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 24.9](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements))
+- **(a)** Arrangement (subclause 24.1),
+- **(b)** Definitions (subclause 24.2),
+- **(c)** Redeployment (subclause 24.3),
+- **(d)** Support to Affected Employees (subclause 24.4),
+- **(e)** Salary maintenance (subclause 24.5),
+- **(f)** Relocation (subclause 24.7),
+- **(g)** Employment terminates due to redundancy (subclause 24.8), and
+- **(h)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 24.9)
 
 **24.2 Definitions**
 
@@ -44,10 +44,10 @@ For the purpose of this clause:
   - **(v)** is a Reasonable Distance from the Affected Employee’s current work location or is a distance that is not reasonable but is acceptable to the Affected Employee;
   - **(vi)** takes the Affected Employee’s personal circumstances, including family responsibilities, into account; and
   - **(vii)** takes account of health and safety considerations.
-- **(c)** **Consultation** is as defined at [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation) of this Agreement.
+- **(c)** **Consultation** is as defined at [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation) (Consultation) of this Agreement.
 - **(d)** **Continuity of Service** means that the service of the Affected Employee is treated as unbroken and that the cap on the transfer of personal leave at [subclause 54.7](/ebas/biomedical-engineers/leave/54-personal-carer-s-leave) does not apply. However, continuity of service is not broken where an Employer pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 - **(e)** **Reasonable Distance** means a distance that has regard to the Affected Employee’s original work location, current home address, capacity of the Affected Employee to travel, additional travelling time, effects on the personal circumstances of the Affected Employee, including family commitments and responsibilities and other matters raised by the Affected Employee, or assistance provided by their Employer.
-- **(f)** **Redeployment Period** means a period of 13 weeks from the time the Employer notifies the Affected Employee in writing that consultation under [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) is complete and that the redeployment period has begun.
+- **(f)** **Redeployment Period** means a period of 13 weeks from the time the Employer notifies the Affected Employee in writing that consultation under [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation) is complete and that the redeployment period has begun.
 - **(g)** **Redundancy** means the Employer no longer requires the Affected Employee’s job to be performed by anyone because of changes in the operational requirements of the Employer’s enterprise.
 - **(h)** **Relocation** means an Affected Employee is required to move to a different campus as a result of an organisational change on either a temporary or permanent basis.
 - **(i)** **Salary Maintenance** means an amount representing the difference between what the Affected Employee was normally paid immediately prior to the Affected Employee’s role being made redundant and the amount paid in the Affected Employee’s new role following redeployment.
@@ -61,7 +61,7 @@ An Affected Employee whose role will be redundant will be considered for redeplo
   The Affected Employee must be advised in writing of:
   - **(i)** the date the Affected Employee’s role is to be redundant;
   - **(ii)** details of the redeployment process;
-  - **(iii)** the reasonable support that will be provided in accordance with [subclause 24.3(f)](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements), and
+  - **(iii)** the reasonable support that will be provided in accordance with subclause 24.3(f), and
   - **(iv)** the Affected Employee’s rights and obligations.
 - **(b)** Employer obligations  
   The Employer will:
@@ -80,7 +80,7 @@ An Affected Employee whose role will be redundant will be considered for redeplo
   - **(iii)** actively monitoring and exploring appropriate redeployment opportunities and working with the appointed case manager.
 - **(d) Rejecting a Comparable Role**
 
-  Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined), the Affected Employee may be ineligible for a departure package referred to at [subclause 24.8](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements).
+  Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined), the Affected Employee may be ineligible for a departure package referred to at subclause 24.8.
 - **(e) Temporary alternative duties**
 
   An Affected Employee awaiting redeployment may be transferred to temporary alternative duties within the same campus, or where part of the Affected Employee’s existing employment conditions (or by agreement) at another campus. Such temporary duties will be in accordance with the Affected Employee’s skills, experience, clinical area and profession.
@@ -147,7 +147,7 @@ An Affected Employee entitled to Salary Maintenance will have:
 - **(d) Payment**
   - **(i)** The Employer will pay the Affected Employee a relocation allowance up to $1900.00 based on the written estimate of the Affected Employee referred to at 24.7(c) where the Employer accepts that estimate represents the additional cost to the Affected Employee. The allowance shall be paid as a lump sum.
   - **(ii)** When considering the Affected Employee’s estimate, the Employer may have regard to the Reasonable Distance.
-  - **(iii)** In the event of a dispute about the Affected Employee’s estimate it will be resolved under [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) – Dispute Resolution Procedure.
+  - **(iii)** In the event of a dispute about the Affected Employee’s estimate it will be resolved under clause 14 – Dispute Resolution Procedure.
 - **(e) Exceptions**
 
   An Affected Employee is not entitled to the relocation allowance if the site or campus to which the Affected Employee is being relocated is a location to which they can be expected to be deployed as part of their existing employment conditions.
@@ -165,7 +165,7 @@ Where the Affected Employee’s Employer secures a Comparable Role (as defined) 
 
 - **(a)** is within a Reasonable Distance of the work site of the redundant position;
 - **(b)** provides Continuity of Service;
-- **(c)** where the Comparable Role results in a loss of income, salary maintenance at [subclause 24.5](/ebas/biomedical-engineers/employment/24-redundancy-and-associated-entitlements) will apply; and
+- **(c)** where the Comparable Role results in a loss of income, salary maintenance at subclause 24.5 will apply; and
 - **(d)** where relevant, is consistent with the financial and other support provided to an internal redeployee,  
 
 the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.

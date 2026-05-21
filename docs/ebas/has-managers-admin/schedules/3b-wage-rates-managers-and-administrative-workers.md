@@ -3,7 +3,7 @@ title: 'Schedule 3B - Wage Rates (Managers and Administrative Workers): Health A
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular']
 ---
-<span data-pagefind-meta="clause:Schedule 3b" style="display:none"></span>
+<span data-pagefind-meta="clause:[Schedule 3](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer)" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
@@ -18,9 +18,9 @@ HAS HASMA health services manager worker clerical officer administration health 
 
 
 ::: info Related pay information
-- [Allowances - Managers & Admin (Schedule 3C)](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers)
-- [Wage Rates - Health & Allied Services (Schedule 2B)](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services)
-- [Allowances - Health & Allied Services (Schedule 2C)](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services)
+- Allowances - Managers & Admin ([Schedule 3C](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers))
+- Wage Rates - Health & Allied Services ([Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services))
+- Allowances - Health & Allied Services ([Schedule 2C](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services))
 :::
 
 ::: tip Source: Salary Circular 858 (1 July 2025)

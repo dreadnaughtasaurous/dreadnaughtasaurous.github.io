@@ -26,7 +26,7 @@ An Employee receiving compensation for incapacity under the WIRC Act will be ent
   - **(ii)** In the case of an Employee with a current work capacity, a payment equal to the ordinary time earnings the Employee would ordinarily receive, had the Employee been performing their normal duties and hours of work less the amount of weekly compensation and less the average amount the Employee is earning in suitable employment.
 - **(b)** **Injury** under this clause has the same meaning as workers’ compensation legislation and includes a disease contracted by an Employee in the course of the Employee’s employment.
 - **(c)** **Ordinary time earnings** excludes additional remuneration by way of shift premiums, overtime payments, special rates or other similar payments.
-- **(d)** **Suitable Employment** for the purposes of this [clause 32](/ebas/biomedical-engineers/wages/32-accident-make-up-pay) has the same meaning as the definition in the WIRC Act.
+- **(d)** **Suitable Employment** for the purposes of this clause 32 has the same meaning as the definition in the WIRC Act.
 
 **32.3 Maximum payment** 
 

@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 64. Family and Domestic Violence Leave
 
-> **Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of Immediate family in [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
+> **Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of Immediate family in [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions).
 
 **64.1 General Principles**
 
@@ -24,7 +24,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(c)** Paid family violence leave will be in addition to any existing leave entitlements and may be taken as consecutive or single days or as a fraction of a day.
 - **(d)** Family violence leave will be paid at the Employee’s full rate of pay, including any applicable allowances, overtime payments or penalty rates. The Employee’s full rate of pay is worked out as if the Employee had not taken the period of leave.
 - **(e)** Employees who are experiencing family and domestic violence that access paid family violence leave during a period of other paid leave, such as paid personal/carer’s leave, are not taken to be on paid personal/carer’s leave for the period of the paid family and domestic violence leave.
-- **(f)** An Employee who supports a person experiencing family and domestic violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [clause 61.6](/ebas/nurses-midwives/leave/61-personal-leave)(a) from an Employee seeking to utilise their personal/carer’s leave entitlement.
+- **(f)** An Employee who supports a person experiencing family and domestic violence may utilise their personal leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [clause 61.6(a)](/ebas/nurses-midwives/leave/61-personal-leave) from an Employee seeking to utilise their personal/carer’s leave entitlement.
 
 **64.2 Definition of Family and Domestic Violence**
 
@@ -47,7 +47,7 @@ Leave for family and domestic violence purposes is available to all Employees, i
 - **(d)** No adverse action will be taken against an Employee if their attendance or performance at work suffers as a result of experiencing family and domestic violence.
 - **(e)** The Employer will identify contact/s within the workplace who will be trained in family and domestic violence and associated privacy issues. The Employer will advertise the name of any Family Violence contacts within the workplace.
 - **(f)** An Employee experiencing family and domestic violence may raise the issue with their immediate supervisor, Family Violence contacts, Union delegate or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Employee chooses not to see the Human Resources or Family Violence contact.
-- **(g)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf and will make a recommendation on the most appropriate form of support to provide in accordance with [clause 64.5](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave) and [clause 64.6](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave) below.
+- **(g)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf and will make a recommendation on the most appropriate form of support to provide in accordance with clause 64.5 and clause 64.6 below.
 - **(h)** The Employer will develop guidelines to supplement this clause and which details the appropriate action to be taken in the event that an Employee reports family and domestic violence.
 
 **64.5 Leave for Employees other than Casual Employees (applicable from 24 June 2024)**
@@ -59,7 +59,7 @@ Leave for family and domestic violence purposes is available to all Employees, i
 
 **64.6 Leave for Casual Employees (applicable from 24 June 2024)**
 
-- **(a)** Casual Employees are entitled to up to 10 days’ paid family and domestic violence leave (non-cumulative) per calendar year in accordance with [clause 64](/ebas/nurses-midwives/leave/64-family-and-domestic-violence-leave). Paid family and domestic violence leave is available in full at the start of each 12-month period of the Employee’s employment, in line with an Employee's anniversary date. In addition to up to 10 days’ paid family and domestic violence leave, casual employees are entitled to up to 10 days’ unpaid family and domestic violence leave per calendar year.
+- **(a)** Casual Employees are entitled to up to 10 days’ paid family and domestic violence leave (non-cumulative) per calendar year in accordance with clause 64. Paid family and domestic violence leave is available in full at the start of each 12-month period of the Employee’s employment, in line with an Employee's anniversary date. In addition to up to 10 days’ paid family and domestic violence leave, casual employees are entitled to up to 10 days’ unpaid family and domestic violence leave per calendar year.
 - **(b)** The Employer may use its discretion to grant further family and domestic violence leave to a casual Employee experiencing family and domestic violence on a case-by-case basis.
 - **(c)** A casual Employee may take a period of paid family and domestic violence leave that does not include hours for which the Employee is rostered to work. However, the Employer is not required to pay the Employee in relation to such a period.
 

@@ -35,7 +35,7 @@ The Employee is entitled to not be available to attend work for up to two days p
 
   The Employee must, if required by the Employer, establish by production of a Proof of Attendance or statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either:
   - **(i)** an illness or injury; or
-  - **(ii)** an unexpected emergency; that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member of the Employee’s immediate family or household experiencing family and domestic violence as described at [clause 45](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave)(Family and Domestic Violence).
+  - **(ii)** an unexpected emergency; that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member of the Employee’s immediate family or household experiencing family and domestic violence as described at clause 45(Family and Domestic Violence).
 - **(b) Notice requirements**
   - **(i)** The Employee must, where practicable, give the Employer notice of the intention to take leave prior to the absence, that includes: 
     - **A.** the name of the person requiring care or support and their relationship to the Employee, 

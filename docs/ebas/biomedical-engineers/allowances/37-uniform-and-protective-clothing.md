@@ -13,7 +13,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 # 37. Uniform and Protective Clothing
 
-*For the purposes of this [clause 37](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing), uniform means such specific apparel as may be required by the Employer.*
+*For the purposes of this clause 37, uniform means such specific apparel as may be required by the Employer.*
 
 **37.1** Where an Employer requires an Employee to wear a uniform the Employer must reimburse the Employee for the cost of purchasing such uniform, unless the uniform is paid for by the Employer.
 
@@ -22,9 +22,9 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 - **(a)** all articles so provided remain the property of the Employer, and
 - **(b)** the Employer will replace uniforms where necessary on a fair ‘wear and tear’ basis.
 
-**37.3** Notwithstanding [subclause 37.1](/ebas/biomedical-engineers/allowances/37-uniform-and-protective-clothing), the Employer may, by agreement with the Employee, pay a uniform allowance at the daily or weekly rate set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) (whichever is the lesser amount in total) when the Employee is expected to provide their own uniform.
+**37.3** Notwithstanding subclause 37.1, the Employer may, by agreement with the Employee, pay a uniform allowance at the daily or weekly rate set out in [Appendix 2](/ebas/biomedical-engineers/appendices/2-wage-rates) (whichever is the lesser amount in total) when the Employee is expected to provide their own uniform.
 
-**37.4** When such Employee’s uniform is not laundered by or at the expense of the Employer, the Employee will be paid a laundry allowance at the daily or weekly rate set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates), (whichever is the lesser amount in total).
+**37.4** When such Employee’s uniform is not laundered by or at the expense of the Employer, the Employee will be paid a laundry allowance at the daily or weekly rate set out in [Appendix 2](/ebas/biomedical-engineers/appendices/2-wage-rates), (whichever is the lesser amount in total).
 
 **37.5** The uniform allowance but not the laundry allowance will be paid during all absences on paid leave, except absence on long service leave, and absence on personal/carers leave beyond 21 days. Where, prior to taking leave, an Employee was paid a uniform allowance other than at the weekly rate, the rate to be paid during absence on leave will be the average of the allowance paid during the four weeks immediately preceding the taking of leave.
 

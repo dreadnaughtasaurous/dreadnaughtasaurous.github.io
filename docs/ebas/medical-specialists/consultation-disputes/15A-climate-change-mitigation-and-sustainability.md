@@ -27,9 +27,9 @@ The parties acknowledge that:
 **15A.2 Continuous improvement**
 
 - **(a)** Doctors and Employers support continuous improvement to improve environmental sustainability including:
-    - **(i)** At an industry level through the Best Practice Employment Commitment term at [clause 63](/ebas/medical-specialists/union-matters/63-best-practice-employment-commitment-committee);
+    - **(i)** At an industry level through the Best Practice Employment Commitment term at clause 63;
     - **(ii)** At a local workplace level through:
-        - **A.** the WIC (see [subclause 62.10](/ebas/medical-specialists/union-matters/62-union-matters)) where it is in operation; and/or
+        - **A.** the WIC (see subclause 62.10) where it is in operation; and/or
         - **B.** a local body established for the purpose of consulting over environmental sustainability and climate change (however described).
 - **(b)** Doctors and Employers support the development of local processes to:
     - **(i)** integrate climate and environmental considerations into the evidence-based decision-making process;

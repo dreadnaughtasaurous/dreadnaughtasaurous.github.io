@@ -21,7 +21,7 @@ The Employer will provide reasonable paid break time for an Employee to express 
 
 **60.2 Place to express or feed** 
 
-The Employer will also provide a comfortable place, other than a bathroom, that is shielded from view and free from intrusion from co-workers and the public, which may be used by an Employee to express breast milk or breastfeed a child in privacy. Appropriate refrigeration will be available in proximity to the area referred to in this [subclause 60.2](/ebas/has-managers-admin/common-terms/leave/60-breastfeeding) for breast milk storage. Responsibility for labelling, storage and use lies with the Employee.
+The Employer will also provide a comfortable place, other than a bathroom, that is shielded from view and free from intrusion from co-workers and the public, which may be used by an Employee to express breast milk or breastfeed a child in privacy. Appropriate refrigeration will be available in proximity to the area referred to in this subclause 60.2 for breast milk storage. Responsibility for labelling, storage and use lies with the Employee.
 
 Plain language terms: lactation breaks, pumping, expressing milk, nursing mothers.
 

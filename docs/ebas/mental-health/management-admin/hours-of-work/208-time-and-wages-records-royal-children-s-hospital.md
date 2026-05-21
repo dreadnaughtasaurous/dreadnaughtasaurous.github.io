@@ -13,6 +13,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 208. Time And Wages Records - Royal Children's Hospital
 
-*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
+*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement.*
 
 **208.1** All Employees are required to record all time worked on a timecard or other method determined by the relevant department.

@@ -17,7 +17,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **22.2** The Health Service must not require a Doctor to carry out duties that are outside the limits of the Doctor’s skill, competence and training (including the required level of supervision) consistent with the classification structure of the Agreement
 
-**22.3** Where a Doctor believes a Health Service is requiring them to carry out duties that breach [subclause 22.2](/ebas/doctors-in-training/doctor-employment/22-incidental-and-peripheral-duties), the Doctor should
+**22.3** Where a Doctor believes a Health Service is requiring them to carry out duties that breach subclause 22.2, the Doctor should
 
 - **(a)** where the matter is urgent, escalate via the local Clinical Escalation Pathway; and
 - **(b)** if not resolved, escalate via the Dispute Resolution Clause.

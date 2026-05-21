@@ -17,7 +17,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **67.1 When compassionate leave is available** 
 
-Compassionate leave is available under this [clause 67](/ebas/allied-health/leave/67-compassionate-leave) to an Employee for each occasion (a “**permissible occasion**”) when:
+Compassionate leave is available under this clause 67 to an Employee for each occasion (a “**permissible occasion**”) when:
 - **(a)** a member of the Employee’s Immediate Family or household:
   - **(i)** contracts or develops a personal illness or sustains a personal injury that poses a serious threat to their life; or
   - **(ii)** dies;
@@ -30,9 +30,9 @@ Compassionate leave is available under this [clause 67](/ebas/allied-health/leav
 
 **67.3 Employees other than casual Employees** 
 
-The provisions of [subclauses 67.4](/ebas/allied-health/leave/67-compassionate-leave) to 67.6 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in [subclause 67.7](/ebas/allied-health/leave/67-compassionate-leave).
+The provisions of subclauses 67.4 to 67.6 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in subclause 67.7.
 
-**67.4** Subject to the evidence requirements described at [subclause 67.8](/ebas/allied-health/leave/67-compassionate-leave), an Employee is entitled to up to four (4) ordinary days’ paid leave, on each permissible occasion.
+**67.4** Subject to the evidence requirements described at subclause 67.8, an Employee is entitled to up to four (4) ordinary days’ paid leave, on each permissible occasion.
 
 **67.5** An Employee may take compassionate leave for a particular permissible occasion as:
 - **(a)** a single continuous four (4) day period;
@@ -43,7 +43,7 @@ The provisions of [subclauses 67.4](/ebas/allied-health/leave/67-compassionate-l
 
 **67.7 Casual Employees** 
 
-Subject to the evidence requirements described at [subclause 67.8](/ebas/allied-health/leave/67-compassionate-leave), a casual Employee is entitled to four (4) days unpaid compassionate leave on each permissible occasion. Unpaid compassionate leave under this [subclause 67.7](/ebas/allied-health/leave/67-compassionate-leave) may be taken as:
+Subject to the evidence requirements described at subclause 67.8, a casual Employee is entitled to four (4) days unpaid compassionate leave on each permissible occasion. Unpaid compassionate leave under this subclause 67.7 may be taken as:
 - **(a)** a single continuous period;
 - **(b)** two (2) separate periods that include at least one (1) single day; or
 - **(c)** any separate periods to which the Employee and Employer agree (which may include single days).

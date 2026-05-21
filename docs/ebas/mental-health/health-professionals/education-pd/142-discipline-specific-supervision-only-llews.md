@@ -50,7 +50,7 @@ Discipline-specific supervision is an important mechanism to promote the learnin
 
 **142.5 Supervision training** 
 
-Where an Employer and Employee agree for the Employee to become a discipline-specific supervisor under this [clause 142](/ebas/mental-health/health-professionals/education-pd/142-discipline-specific-supervision-only-llews), the Employee will be provided access to appropriate supervision training before they start delivering supervision. The particular training undertaken will be agreed between the Employee and Employer. The training will be completed on paid time. Requests from Employees to undertake supervision training will be directed to the Employee’s line manager and will be responded to within 14 days.
+Where an Employer and Employee agree for the Employee to become a discipline-specific supervisor under this clause 142, the Employee will be provided access to appropriate supervision training before they start delivering supervision. The particular training undertaken will be agreed between the Employee and Employer. The training will be completed on paid time. Requests from Employees to undertake supervision training will be directed to the Employee’s line manager and will be responded to within 14 days.
 
 ---
 

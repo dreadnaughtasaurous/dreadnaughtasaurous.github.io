@@ -23,7 +23,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 **81.3 Wages & Allowances whilst on Placement**
 
 - **(a)** Where an OH&S Representative undertakes a placement in accordance with this clause, the OH&S Representative will be paid what they would have received by performing their substantive role during the hours that the placement occurs.
-- **(b)** The performance of placement is in connection to their role as an OH&S Representative, not as part of their substantive role, therefore [clause 9](/ebas/allied-health/preliminary/9-no-extra-claims) of Section 2 and [clause 5](/ebas/allied-health/preliminary/5-incidence-coverage) of Section 3 (Higher Duties) will not apply.
+- **(b)** The performance of placement is in connection to their role as an OH&S Representative, not as part of their substantive role, therefore [clause 9](/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims) of Section 2 and [clause 5](/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage) of Section 3 (Higher Duties) will not apply.
 
 **81.4 Confidentiality**
 

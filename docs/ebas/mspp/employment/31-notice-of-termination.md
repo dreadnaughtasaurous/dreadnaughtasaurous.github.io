@@ -34,7 +34,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 **31.2 Notice Of Termination By An Employee**
 
 - **(a)** The notice of termination required to be given by an Employee is the same as that required of an employer, save and except that there is no requirement on the Employee to give additional notice based on the age of the Employee concerned.
-- **(b)** If an Employee fails to give the notice specified in [clause 31.2](/ebas/mspp/employment/31-notice-of-termination)a the Employer has the right to withhold monies due to the Employee to a maximum amount equal to the amount the Employee would have received under [clause 31.1](/ebas/mspp/employment/31-notice-of-termination)d.
+- **(b)** If an Employee fails to give the notice specified in clause 31.2a the Employer has the right to withhold monies due to the Employee to a maximum amount equal to the amount the Employee would have received under clause 31.1d.
 
 ---
 

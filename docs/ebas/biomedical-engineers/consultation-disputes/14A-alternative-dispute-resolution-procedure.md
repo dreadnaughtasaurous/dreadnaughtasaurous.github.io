@@ -77,7 +77,7 @@ The Chair shall perform the following functions:
   - **(ii)** the provisions of the Agreement;
   - **(iii)** materials submitted by the Employee's and/or Union;
   - **(iv)** materials submitted by the Employer and/or VHIA;
-  - **(v)** in the case of submissions under [subclause 14A.6](/ebas/biomedical-engineers/consultation-disputes/14A-alternative-dispute-resolution-procedure) below, any materials submitted by or on behalf of the Department.
+  - **(v)** in the case of submissions under subclause 14A.6 below, any materials submitted by or on behalf of the Department.
 - **(b)** Subject to the provisions of this clause, proceedings of the Panel shall be conducted as informally as possible and undertaken with all possible expediency.
 - **(c)** The Panel may inform itself in any manner it sees fit including by seeking the views of an expert advisor (who is not an employee of the health service subject of the application) agreed by the Panel to provide clinical expertise in an area of clinical practice relevant to the classification matter under consideration.
 - **(d)** The Panel is not bound by the rules of evidence and procedure. The Panel will determine the manner in which an Employee/s providing evidence to the Panel will be questioned, save that where possible they will ensure that any questioning is not adversarial in nature.

@@ -43,7 +43,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >**NOTE 2:** 
 >
->The entitlements at [clauses 21.5(a)](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
+>The entitlements at clauses 21.5(a) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
 
 >[21.5(b) renumbered as 21.5(c) by PR723626, PR724049 ppc 01Nov20]
 
@@ -73,7 +73,7 @@ Where it is necessary for an employee to attend court on the employer’s, or th
 
 **21.8 Make-up time**
 
-An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in [clause 21.3](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) at the ordinary rate of pay.
+An employee may elect, with the consent of their employer, to work make-up time under which the employee takes time off during ordinary hours and works those hours at a later time during the ordinary spread of hours provided for in clause 21.3 at the ordinary rate of pay.
 
 **21.9 Hours of work—out-of-school hours care, preschools and kindergartens**
 
@@ -82,7 +82,7 @@ An employee may elect, with the consent of their employer, to work make-up time 
   - **(ii)** an average of 38 ordinary hours per week of the school education year; or
   - **(iii)** less than an average of 38 hours per week of the school education year.
 - **(b)** All entitlements for term-time employees are no less than those for non term‑time employees, except that no ordinary wages are payable for the weeks the employee is not engaged to work.
-- **(c)** Notwithstanding [clause 21.9(b)](/ebas/childrens-services/hours-of-work/21-ordinary-hours-of-work-and-rostering) non-engaged periods count as service for the purposes of accrual of paid annual and personal/carer’s leave and wage increments.
+- **(c)** Notwithstanding clause 21.9(b) non-engaged periods count as service for the purposes of accrual of paid annual and personal/carer’s leave and wage increments.
 - **(d)** Where a public holiday falls on a day on which a term-time employee is normally employed to work, the employee will be paid at the ordinary hourly rate of pay for the number of hours they would ordinarily have worked on that day.
 - **(e)** Annual leave is exclusive of any public holiday which may occur during the period of leave provided the employee would have ordinarily been required to work on the day on which the public holiday falls.
 - **(f)** Nothing in this clause prevents an employee in a preschool or kindergarten from being employed other than as a term-time only employee.

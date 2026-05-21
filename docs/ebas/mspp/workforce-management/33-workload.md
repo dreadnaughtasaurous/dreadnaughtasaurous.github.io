@@ -60,7 +60,7 @@ The employer will ensure that it is sufficiently staffed and resourced so as to 
 
 **33.5 Dispute Settlement**
 
-In the event of a dispute arising over the provisions of this clause, either party may choose to have the dispute resolved pursuant to the provisions of [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) – Dispute Settling Procedures or [clause 12](/ebas/mspp/disputes/12-independent-dispute-resolution-panel) – Independent Disputes Resolution Procedure.
+In the event of a dispute arising over the provisions of this clause, either party may choose to have the dispute resolved pursuant to the provisions of [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) – Dispute Settling Procedures or [clause 12](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl) – Independent Disputes Resolution Procedure.
 
 ---
 

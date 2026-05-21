@@ -43,7 +43,7 @@ The Working Group will be responsible for delivering the following outcomes:
 
 **68.5 Implementation** 
 
-In addition to the Objectives listed at [clause 68.4](/ebas/mental-health/common-terms/workplace-rights/68-royal-commission-working-group) the RCWG will consider how it could assist in supporting the implementation of the Royal Commission recommendations.
+In addition to the Objectives listed at clause 68.4 the RCWG will consider how it could assist in supporting the implementation of the Royal Commission recommendations.
 
 **68.6 Variation of Agreement** 
 

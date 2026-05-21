@@ -18,14 +18,14 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 **32.1 Arrangement** 
 
 This clause is arranged as follows:
-*   **(a)** Arrangement ([32.1](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(b)** Definitions ([32.2](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(c)** Redeployment ([32.3](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(d)** Support to Affected Employees ([32.4](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(e)** Salary maintenance ([32.4b](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(f)** Relocation ([32.5](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(g)** Termination due to Redundancy ([32.6](/ebas/mspp/employment/32-redundancy-and-associated-entitlements))
-*   **(h)** Severance pay exceptions ([36.7](/ebas/mspp/workforce-management/36-exposure-to-hazardous-substances))
+*   **(a)** Arrangement (32.1)
+*   **(b)** Definitions (32.2)
+*   **(c)** Redeployment (32.3)
+*   **(d)** Support to Affected Employees (32.4)
+*   **(e)** Salary maintenance (32.4b)
+*   **(f)** Relocation (32.5)
+*   **(g)** Termination due to Redundancy (32.6)
+*   **(h)** Severance pay exceptions (36.7)
 
 ---
 

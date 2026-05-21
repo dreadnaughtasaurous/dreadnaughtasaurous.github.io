@@ -15,11 +15,11 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 30. Superannuation
 
-*The subject of superannuation is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This [clause 30](/ebas/allied-health/wages/30-superannuation) is ancillary to and supplements those provisions.*
+*The subject of superannuation is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This clause 30 is ancillary to and supplements those provisions.*
 
 **30.1 Definitions** 
 
-In this [clause 30](/ebas/allied-health/wages/30-superannuation):
+In this clause 30:
 
 - **(a)** **Default Fund** means the Aware Super (or any successor) while it provides a “MySuper product” as defined by the Act.
 - **(b)** **Preferred Superannuation Fund** means a fund that meets the definition of a superannuation fund in the *Superannuation Guarantee (Administration) Act 1992 (Cth).*
@@ -46,7 +46,7 @@ If the Employee does not nominate a fund, the Employer will pay the Employee's s
 - **(a)** Superannuation contributions paid by the Employer will be calculated and paid on:
   - **(i)** ordinary time earnings as defined in the *Superannuation Guarantee (Administration) Act 1992 (Cth)*, calculated on the Employee’s pre salary packaging earnings;
   - **(ii)** any additional amounts consistent with the trust deed of the superannuation fund; and
-  - **(iii)** a period of paid parental leave until 6 July 2022 in accordance with [subclause 30.5(b)](/ebas/allied-health/wages/30-superannuation) of the 2020 Agreement, after which superannuation shall be paid on parental leave (paid and unpaid) in accordance with [subclause 30.6](/ebas/allied-health/wages/30-superannuation).
+  - **(iii)** a period of paid parental leave until 6 July 2022 in accordance with subclause 30.5(b) of the 2020 Agreement, after which superannuation shall be paid on parental leave (paid and unpaid) in accordance with subclause 30.6.
 
 **30.5 Employee Contributions** 
 
@@ -59,6 +59,6 @@ From 7 July 2022, the Employer will make superannuation contributions throughout
 - **(a)** the Employee's ordinary time earnings as defined in the *Superannuation Guarantee (Administration) Act 1992 (Cth)* calculated on the Employee's pre- salary packaging earnings and any additional amounts consistent with the trust deed of the superannuation fund over 26 full pay periods (that is over 52 weeks) immediately prior to commencing parental leave and divided by 52 (**Weekly Parental Leave Super Contribution**);
 - **(b)** the Weekly Parental Leave Super Contribution will be paid during each week of Parental Leave (both paid and unpaid) save that:
   - **(i)** the Employee will receive a pro rata payment for a period less than one (1) week; and
-  - **(ii)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under [subclause 28.1](/ebas/allied-health/wages/28-wages-and-wage-increases), the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
+  - **(ii)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under subclause 28.1, the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.
 
 Plain language terms: super, SG.

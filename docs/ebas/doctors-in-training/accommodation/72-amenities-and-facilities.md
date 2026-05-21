@@ -32,7 +32,7 @@ Health Services should provide Doctors access to the following facilities:
 - **(e)** reserved car parking paid for by the Health Service and available for a Doctor when rostered on-call and when recalled to duty. The parking spaces must be well lit and in a secure place within 200 meters from the main entrance of the Health Service; and
 - **(f)** an office available for private discussion with patients’ relatives.
 
-**72.3** In the case where a Health Service does not meet the standards described in [subclause 72.2](/ebas/doctors-in-training/accommodation/72-amenities-and-facilities) above, the Health Service, the Department and the Association will consult to determine a time-frame within which the facilities will be provided within available capital funding budgets.
+**72.3** In the case where a Health Service does not meet the standards described in subclause 72.2 above, the Health Service, the Department and the Association will consult to determine a time-frame within which the facilities will be provided within available capital funding budgets.
 
 **72.4 Additional Amenities and Facilities for Doctors working overnight**
 

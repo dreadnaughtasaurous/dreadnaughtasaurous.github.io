@@ -23,7 +23,7 @@ Nothing in this clause limits the Health Service’s obligations to consult with
 
 **10.2 Definitions**
 
-Under this [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation):
+Under this clause 10:
 
 - **(a)** **Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 - **(b)** **Affected Doctor** means a Doctor on whom a Major Change may have a Significant Effect.
@@ -51,7 +51,7 @@ Under this [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consul
 
 | Step | Action | Timeframe |
 |------|--------|-----------|
-| 1 | Health Service provides change impact statement and other written material required by [subclause 10.4](/ebas/doctors-in-training/consultation-disputes/10-consultation) | |
+| 1 | Health Service provides change impact statement and other written material required by subclause 10.4 | |
 | 2 | Written response from Doctors and/or Association | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7–14 days of step 2 |
 | | *The 'first meeting' at step 3 does not limit the number of meetings for consultation* | |
@@ -71,7 +71,7 @@ Under this [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consul
   - **(vi)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Doctors or managers where reporting lines change;
   - **(vii)** the right of an Affected Doctor to have a representative including an Association representative at any time during the change process; and
   - **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Health Service to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 or other legislation.
-- **(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with [clause 10.4](/ebas/doctors-in-training/consultation-disputes/10-consultation) will be raised as soon as practicable and before step 2.
+- **(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with clause 10.4 will be raised as soon as practicable and before step 2.
 
 **10.5 Doctor / Association response (step 2)**
 
@@ -95,7 +95,7 @@ The Affected Doctor/s, the Association and other representative (where relevant)
 
 **10.9 Outcome of consultation (step 6)**
 
-The Health Service will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [subclause 10.8](/ebas/doctors-in-training/consultation-disputes/10-consultation), and will advise the affected Doctors, the Association and other nominated representatives (if any) in writing of the outcome of Consultation including:
+The Health Service will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause 10.8, and will advise the affected Doctors, the Association and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 - **(a)** whether the Health Service intends to proceed with the change proposal;
 - **(b)** any amendment to the change proposal arising from consultation;

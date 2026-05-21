@@ -36,7 +36,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **85.4 Making a request**
 
-- **(a)** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at [subclause 85.3](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements).
+- **(a)** A specified Employee may make a request to the Employer for a change in working arrangements relating to the circumstances at subclause 85.3.
 - **(b)** A request for a flexible work arrangement includes (but is not limited to) a request to work part-time upon return to work after taking leave for the birth or adoption of a child to assist the Employee to care for the child (which may, for example, include a reduction in existing part-time hours).
 - **(c)** Changes in working arrangements may include but are not limited to hours of work, patterns of work (including not being available to perform on-call for afterhours duty), and location of work.
 - **(d)** The request by the Employee must be in writing, set out the change sought and reasons for the change.
@@ -52,8 +52,8 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
   - **(iii)** the Employer has had regard to the consequences of the refusal for the Employee; and
   - **(iv)** the refusal is on Reasonable Business Grounds. 
   
-  >**Note:** The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request (see [subclause 4.15(b)](/ebas/biomedical-engineers/preliminary/4-definitions)).
-- **(c)** An Employee or Employer may choose to be represented at a meeting under [clause 85.5(b)(i)(A)](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements) by a representative including a Union or employer organisation.
+  >**Note:** The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request (see subclause 4.15(b)).
+- **(c)** An Employee or Employer may choose to be represented at a meeting under clause 85.5(b)(i)(A) by a representative including a Union or employer organisation.
 - **(d)** The response must:
   - **(i)** state that the Employer grants the request;
   - **(ii)** if, following discussion between the Employer and Employee, the Employer and Employee agree to a change to the Employee’s working arrangements that differs from that set out in the request – set out the agreed change; or
@@ -64,7 +64,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
   - **(iii)** either:
     - **(A)** set out the changes (other than the requested change) in the Employee’s working arrangements that would accommodate, to any extent, the circumstances of the Employee and that the Employer would be willing to make; or
     - **(B)** state that there are no such changes; and
-  - **(iv)** set out the effect of [subclause 85.6](/ebas/biomedical-engineers/workplace-rights/85-flexible-working-arrangements), including if a dispute is referred to the Commission.
+  - **(iv)** set out the effect of subclause 85.6, including if a dispute is referred to the Commission.
 
 **85.6 Dispute Resolution** 
 

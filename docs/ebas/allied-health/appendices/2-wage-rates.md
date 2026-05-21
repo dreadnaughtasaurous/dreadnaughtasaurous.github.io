@@ -18,10 +18,10 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 
 ::: info Related pay information
-- [Allowances & Top of Band Payments](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments)
-- [Wages and Wage Increases (Clause 28)](/ebas/allied-health/wages/28-wages-and-wage-increases)
-- [Top of Band Payment (Clause 28B)](/ebas/allied-health/wages/28B-top-of-band-payment)
-- [Skills & Incentive Payment (Clause 28C)](/ebas/allied-health/wages/28C-skills-and-incentive-payment)
+- Allowances & Top of Band Payments
+- Wages and Wage Increases ([Clause 28](/ebas/allied-health/wages/28-wages-and-wage-increases))
+- Top of Band Payment ([Clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment))
+- Skills & Incentive Payment ([Clause 28C](/ebas/allied-health/wages/28C-skills-and-incentive-payment))
 :::
 
 ::: tip Source: Salary Circular 877 (1 March 2025)

@@ -21,7 +21,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 - **(d)** education for Assistant Allied Health Managers, Allied Health Managers and other managers covered by this Agreement regarding management of employees; and
 - **(e)** workplace bullying.
 
-**98.2** The proactive cooperation described at [subclause 98.1](/ebas/allied-health/ohs/98-industry-ohs-working-group) with respect to the priorities identified above, will seek to achieve the following:
+**98.2** The proactive cooperation described at subclause 98.1 with respect to the priorities identified above, will seek to achieve the following:
 
 - **(a)** in the case of safe patient and manual handling processes, reduction of musculoskeletal injuries by identifying requirements for safe patient and manual handling programs including recommendation of principles and practices to prevent and reduce the associated risks;
 - **(b)** in the case of safe rostering practices, identification of staff and patient safety risks associated with working hours, shift work, rostering practices and fatigue, including any preventable hazards, and recommendation of principles and practices to prevent and reduce the associated risks;

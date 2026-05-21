@@ -27,7 +27,7 @@ The parties acknowledge that:
 **51B.2 Continuous improvement**
 
 - **(a)** Employees and Employers support continuous improvement to improve environmental sustainability including:
-  - **(i)** At an industry level through the MHIIC at [clause 12](/ebas/mental-health/common-terms/preliminary/12-implementation-committees)
+  - **(i)** At an industry level through the MHIIC at clause 12
   - **(ii)** At a local workplace level through:
     - **(A)** the WIC; and/or
     - **(B)** a local body established for the purpose of consulting over environmental sustainability and climate change (however described).

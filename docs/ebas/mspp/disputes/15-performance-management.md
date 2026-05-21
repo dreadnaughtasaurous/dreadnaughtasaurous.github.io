@@ -3,7 +3,7 @@ title: '15. Performance Management'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['discipline']
 ---
-<span data-pagefind-meta="clause:Clause 15" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 15](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement)" style="display:none"></span>
 <span data-pagefind-meta="section:Disputes" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 
@@ -19,7 +19,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 - **(b)** Performance management is not an adversarial or punitive process.
 - **(c)** In this [clause 15](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement), **performance management** includes reasonable actions to address underperformance by identifying performance deficits, the Employer's expected outcomes and performance measures, and strategies to meet those measures including the provision of support, training and education the Employee may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
 - **(d)** Underperformance is not Misconduct, and therefore will not be treated as Misconduct except in circumstances described below in [subclause 16.1](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)a(ii) and in [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d.
-- **(e)** If an Employee refuses to undertake all or part of their job requirements to a satisfactory level, as described in [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d of this Agreement, the Employer may raise allegations of such conduct under [clause 16.4](/ebas/mspp/disputes/16-disciplinary-procedure). Where this occurs, the performance management process in [subclauses 15.2](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement) - 15.3 will still apply where appropriate.
+- **(e)** If an Employee refuses to undertake all or part of their job requirements to a satisfactory level, as described in [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d of this Agreement, the Employer may raise allegations of such conduct under [clause 16.4](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels). Where this occurs, the performance management process in [subclauses 15.2](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement) - 15.3 will still apply where appropriate.
 - **(f)** In other circumstances where the Employee does not undertake their job requirements to a satisfactory level the Employer will consider any of the possible outcomes at [clause 15.4](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement).
 
 ---
@@ -42,7 +42,7 @@ Where the Employer has concerns about an Employee’s performance, the Employer 
   - **(iii)** give genuine consideration to any response or matters raised by an Employee’s response; and
   - **(iv)** if a performance management plan is proposed, consult with the Employee and the Employee’s representative on the content of the plan.
 - **(d)** Where, having considered the Employee’s response, the Employer reasonably believes, based on the Employee’s performance, that a performance management plan is appropriate, the Employer will:
-  - **(i)** provide the performance management plan to the Employee in writing following the consultation referred to at [subclause 15.3](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement)c(iv) above, identifying which aspects of the Employee’s performance are unsatisfactory and the required level of performance which must be reasonable; and
+  - **(i)** provide the performance management plan to the Employee in writing following the consultation referred to at subclause 15.3c(iv) above, identifying which aspects of the Employee’s performance are unsatisfactory and the required level of performance which must be reasonable; and
   - **(ii)** provide the Employee with a reasonable opportunity to address any concerns over a reasonable time.
 - **(e)** The Employer will provide ongoing feedback on the Employee’s performance during this period, including if the Employee’s performance is not improving to a satisfactory standard, and will provide the Employee with all reasonable support, counselling and training.
 - **(f)** Where there are ongoing concerns about the Employee’s performance, the Employer will provide additional training and support to give the Employee a reasonable opportunity to improve their performance, including a further performance improvement plan, as provided in [clause 15.4](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement)b(i).
@@ -61,6 +61,6 @@ Where the Employer has concerns about an Employee’s performance, the Employer 
   - **(i)** the Employer has complied with this clause; and
   - **(ii)** the Employer has a valid reason; and
   - **(iii)** the decision is not harsh, unjust or unreasonable.
-- **(d)** A dispute over this clause will be dealt with in accordance with the Dispute Settling Procedure set out at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
+- **(d)** A dispute over this clause will be dealt with in accordance with the Dispute Settling Procedure set out at [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of this Agreement.
 
 Plain language terms: performance review, PIP, performance improvement.

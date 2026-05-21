@@ -15,7 +15,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **22.1** Where over a period of 26 weeks or more a part-time Employee regularly and systematically works more than their contracted hours, the Employer or the Employee may request in writing a contract reflecting that the Employee’s hours have increased on a permanent basis. Such a request will not be unreasonably refused by either party.
 
-**22.2** Where the Employer makes the request under [subclause 22.1](/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work), at the time of making the request the Employer will also notify the Employee in writing of their obligations under this subclause.
+**22.2** Where the Employer makes the request under subclause 22.1, at the time of making the request the Employer will also notify the Employee in writing of their obligations under this subclause.
 
 **22.3** An Employee will not be considered to be regularly and systematically rostered if the shifts the Employee has been working are replacing an absent Employee (for example parental leave, long service leave, workers’ compensation or personal leave) or a temporary flexible work arrangement.
 

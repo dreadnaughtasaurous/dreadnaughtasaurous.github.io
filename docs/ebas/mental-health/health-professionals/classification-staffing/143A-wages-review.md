@@ -30,7 +30,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(i)** Identifying the impact of the Commission’s determination on wage rates in the HPSS Award; and
   - **(ii)** Identifying the impact of the Commission’s determination on the classification structures and wage rates of Section 3 Employees in this Agreement; and
   - **(iii)** Identifying the extent to which the wage rates of Section 3 Employees in this Agreement would need to be adjusted to maintain relativity with the HPSS Award both at the time the Agreement commenced and the time the Decision is delivered
-  - **(iv)** Identifying all possible options in relation to a gender equity wage uplift for Section 3 Employees, having regard to each of the considerations at [clause 143A.3](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review); and
+  - **(iv)** Identifying all possible options in relation to a gender equity wage uplift for Section 3 Employees, having regard to each of the considerations at clause 143A.3; and
   - **(v)** Jointly presenting a range of options as identified in clause (iv) to the Victorian Government for consideration and approval.
 - **(d)** The working group will be chaired and facilitated by an independent third party agreed by the parties, or where agreement cannot be reached on the independent third party, by a person nominated by the Minister of Mental Health. The working group will meet on a fortnightly basis to progress the outcomes listed above and agree the review will be completed within 6 months of it commencing.
 
@@ -65,7 +65,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **143A.6 No diminution of entitlements**
 
 - **(a)** No Employee will experience a diminution of any entitlements they held immediately before the outcome of this review and subsequent consideration and approval of a Government approved gender equity uplift proposal.
-- **(b)** Nothing in this [clause 143A](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review) is intended to affect the obligations of Employers under s 206 of the FW Act. For the avoidance of doubt, should increases to the Award which exceed Agreement rates take effect before the gender equity wage uplift for section 3 is determined under this [clause 143A](/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review), Employers are required to immediately ensure compliance with such increases as required under s 206 of the FW Act.
+- **(b)** Nothing in this clause 143A is intended to affect the obligations of Employers under s 206 of the FW Act. For the avoidance of doubt, should increases to the Award which exceed Agreement rates take effect before the gender equity wage uplift for section 3 is determined under this clause 143A, Employers are required to immediately ensure compliance with such increases as required under s 206 of the FW Act.
 
 ---
 

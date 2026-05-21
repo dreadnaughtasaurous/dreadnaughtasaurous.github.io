@@ -78,7 +78,7 @@ All Employees covered by this Agreement will have access to salary packaging arr
 - **a. Meal Allowance** An Employee shall be paid an allowance:
   - **(i)** when required to work after the usual finishing hour of work beyond one hour (Monday to Friday inclusive) or in the case of shift workers when the overtime work on any shift exceeds one hour. Provided that where such overtime work exceeds four hours a further meal allowance shall be paid;
   - **(ii)** when recalled to duty outside of usual working hours for a period in excess of two hours (and when the time of such recall coincides with or over-runs Employees normal meal time). and where such overtime exceeds four hours a further meal allowance shall be paid.
-  - **(iii)** These allowances are specified in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances).
+  - **(iii)** These allowances are specified in Schedule 2.
   - **(iv)** The meal allowance provisions shall not apply where a meal is supplied at the Employer’s expense.
 - **b. Lodging and rent (Pharmacists only)**
   - **(i)** Where the Employer provides board and lodging, the wage rates prescribed in this Agreement shall be reduced by the following amounts per week:

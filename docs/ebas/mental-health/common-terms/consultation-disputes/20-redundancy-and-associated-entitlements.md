@@ -21,18 +21,18 @@ A former section 97 Employee will not be entitled to the benefit of any entitlem
 
 This clause is arranged as follows:
 
-- **(a)** Arrangement ([subclause 20.1](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
-- **(b)** Definitions ([subclause 20.2](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
-- **(c)** Redeployment ([subclause 20.3](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
-- **(d)** Support to affected Employees ([subclause 20.4](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
-- **(e)** Salary maintenance ([subclause 20.6](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
-- **(f)** Relocation ([subclause 20.7](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements)),
-- **(g)** Employment terminates due to redundancy ([subclause 20.8](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements))
-- **(h)** Exception to application of Victorian Government’s Policy with respect to severance pay ([subclause 20.9](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements))
+- **(a)** Arrangement (subclause 20.1),
+- **(b)** Definitions (subclause 20.2),
+- **(c)** Redeployment (subclause 20.3),
+- **(d)** Support to affected Employees (subclause 20.4),
+- **(e)** Salary maintenance (subclause 20.6),
+- **(f)** Relocation (subclause 20.7),
+- **(g)** Employment terminates due to redundancy (subclause 20.8)
+- **(h)** Exception to application of Victorian Government’s Policy with respect to severance pay (subclause 20.9)
 
 **20.2 Definitions**
 
-- **(a) Affected Employee** for this [clause 20](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements) means an Employee whose role will be redundant.
+- **(a) Affected Employee** for this clause 20 means an Employee whose role will be redundant.
 - **(b) Comparable Role** means an on-going role that:
   - **(i)** is the same occupation as that of the Affected Employee’s redundant position or if not, is in an occupation acceptable to the Affected Employee; and
   - **(ii)** is any of the following: 
@@ -59,7 +59,7 @@ This clause is arranged as follows:
   The Affected Employee must be advised in writing of:
   - **(i)** the date the Affected Employee’s role is to be redundant,
   - **(ii)** details of the redeployment process,
-  - **(iii)** the reasonable support that will be provided in accordance with [subclause 20.3(g)](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements), and
+  - **(iii)** the reasonable support that will be provided in accordance with subclause 20.3(g), and
   - **(iv)** the Affected Employee’s rights and obligations.
 - **(c) Employer obligations** 
   The Employer will:
@@ -76,7 +76,7 @@ This clause is arranged as follows:
   - **(ii)** developing a resume / CV to assist in securing redeployment
   - **(iii)** actively monitoring and exploring appropriate redeployment opportunities and working with the appointed case manager.
 - **(e) Rejecting a Comparable Role** 
-  Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at [clause 20.8](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements).
+  Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at clause 20.8.
 - **(f) Temporary alternative duties** 
   An Affected Employee awaiting redeployment may be transferred to temporary alternative duties within the same campus, or where part of the Employee’s existing employment conditions (or by agreement) at another campus. Such temporary duties will be in accordance with the Affected Employee’s skills, experience, clinical area and profession.
 - **(g) Support for redeployment** 
@@ -142,7 +142,7 @@ This clause is arranged as follows:
 - **(d) Payment**
   - **(i)** The Employer will pay the Affected Employee a relocation allowance, up to $1900.00 based on the written estimate of the Affected Employee referred to at (c) where the Employer accepts that estimate represents the additional cost to the Affected Employee. The allowance shall be paid as a lump sum
   - **(ii)** When considering the Affected Employee’s estimate, the Employer may have regard to the Reasonable Distance
-  - **(iii)** In the event of a dispute about the Affected Employee's estimate it will be resolved under [clause 22](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) – Dispute Resolution Procedure.
+  - **(iii)** In the event of a dispute about the Affected Employee's estimate it will be resolved under clause 22 – Dispute Resolution Procedure.
 - **(e) Exceptions** 
 
   An Affected Employee is not entitled to the relocation allowance if the site or campus to which the Affected Employee is being relocated is a location to which they can be expected to be deployed as part of their existing employment conditions.
@@ -159,7 +159,7 @@ The Victorian Government’s policy with respect to public sector redundancy and
 - **(a)** Where the Affected Employee’s Employer secures a comparable role (as defined) with another Employer covered by this Agreement, which:
   - **(i)** is within a Reasonable Distance of the work site of the redundant position
   - **(ii)** provides Continuity of Service
-  - **(iii)** where the comparable role results in a loss of income, salary maintenance at [subclause 20.6](/ebas/mental-health/common-terms/consultation-disputes/20-redundancy-and-associated-entitlements) will apply; and
+  - **(iii)** where the comparable role results in a loss of income, salary maintenance at subclause 20.6 will apply; and
   - **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 
 Plain language terms: redundancy pay, retrenchment, position made redundant.

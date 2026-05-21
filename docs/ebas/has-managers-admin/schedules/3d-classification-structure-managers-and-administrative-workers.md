@@ -3,7 +3,7 @@ title: 'Schedule 3D – Classification Structure: Managers and Administrative Wo
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']
 ---
-<span data-pagefind-meta="clause:Schedule 3d" style="display:none"></span>
+<span data-pagefind-meta="clause:[Schedule 3](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer)" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
@@ -18,7 +18,7 @@ HAS HASMA health services manager worker clerical officer administration health 
 ### 1. Application
 
 - **1.1** This classification structure will be commonly known as the Victorian Public Health Sector Classification System.
-- **1.2** This classification structure does not apply to Managers and Administrative Workers who are employed either by the Royal Women's Hospital or the Royal Children's Hospital. Such Employees will be classified pursuant to **Part 2 of [Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers)** of this Agreement.
+- **1.2** This classification structure does not apply to Managers and Administrative Workers who are employed either by the Royal Women's Hospital or the Royal Children's Hospital. Such Employees will be classified pursuant to **Part 2 of Schedule 3D** of this Agreement.
 - **1.3** This classification structure does not apply to positions that are covered by the Health Executive Employment and Remuneration Policy (however titled or styled).
 - **1.4 Definitions**
     - **(d)** **Continuous Service** means service, recognised for Long Service Leave purposes, with one and the same Employer or continuous service with more than one Employer
@@ -61,7 +61,7 @@ Existing Employees who are classified pursuant to this Schedule in Grade 1 throu
 New Employees, whose classification of their substantive role would not exceed Grade 3, can be classified pursuant to this Schedule in Grade 1A as follows:
 
 - **(a)** An Employee who commences employment with any Employer after the commencement date of this Agreement will progress to the classification applicable to their substantive role upon completion of a Year of Experience as defined in [clause 1.4(g)](/ebas/has-managers-admin/common-terms/preliminary/1-agreement-title)
-- **(b)** Where an Employee can provide evidence (either by way of a Certificate of Service or written evidence from another Employer) that they've completed a Year of Experience (or a portion of) at another Employer within a classification provided for in **[Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers)**, the Employer must consider those hours when classifying an Employee in accordance with this Part.
+- **(b)** Where an Employee can provide evidence (either by way of a Certificate of Service or written evidence from another Employer) that they've completed a Year of Experience (or a portion of) at another Employer within a classification provided for in **Schedule 3D**, the Employer must consider those hours when classifying an Employee in accordance with this Part.
 - **(c)** Nothing prohibits an Employer from classifying an Employee at the Level 1 classification applicable to their substantive role from commencement.
 
 **B. Grade 1 to 5 only**
@@ -415,7 +415,7 @@ Positions at this level are:
 
 ### 1. Overview
 
-- **1.1** This classification structure applies only to Managers and Administrative Workers who are employed either by the Royal Women's Hospital or the Royal Children's Hospital. All other Managers and Administrative Workers will be classified pursuant to **Part 1 of [Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers)** of this Agreement.
+- **1.1** This classification structure applies only to Managers and Administrative Workers who are employed either by the Royal Women's Hospital or the Royal Children's Hospital. All other Managers and Administrative Workers will be classified pursuant to **Part 1 of Schedule 3D** of this Agreement.
 - **1.2** This classification structure provides the opportunity for greater flexibility in work practices, the development of alternative organisational structures and innovative job design.
 - **1.3** Grade 8 provides the minimum levels of remuneration for Employees whose positions entail a greater level of work value than that prescribed by Grade 7 classification descriptors set out below.
 - **1.4** When an Employee is in any way reclassified from a Grade 1 to a Grade 2 they will not suffer a reduction in their base rate of pay.

@@ -3,7 +3,7 @@ title: '5. Relationship with Award and Previous Certified Agreements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Clause 5" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 5](/ebas/mspp/schedules/5-alfred-health-austin-health-royal-melbourne-hospital-clinica)" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 

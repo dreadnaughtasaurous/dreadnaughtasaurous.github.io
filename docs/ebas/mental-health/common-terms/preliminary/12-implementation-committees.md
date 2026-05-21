@@ -36,19 +36,19 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(f)** The Employer will make available to the WIC information reasonably necessary to fulfil the objectives at (a) above.
 - **(g)** Priority items for consideration:
   - **(i)** Carparking with respect to the safety of Employees, including getting to and from carparking
-  - **(ii)** Operation of the supplementary roster (see [clause 95](/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster))
+  - **(ii)** Operation of the supplementary roster (see clause 95)
   - **(iii)** Public holiday rostering requirements
-  - **(iv)** Allocation of paid time for Employees with portfolio or administrative responsibilities (see [clauses 96A](/ebas/mental-health/rpn-pen-mho/hours-of-work/96A-portfolio-work-in-paid-time) and 125A)
-  - **(v)** Community Mental Health Nursing Positions Data (see [clause 57.3](/ebas/mental-health/common-terms/staffing/57-community-mental-health-discipline-mix))
+  - **(iv)** Allocation of paid time for Employees with portfolio or administrative responsibilities (see clauses 96A and 125A)
+  - **(v)** Community Mental Health Nursing Positions Data (see clause 57.3)
   - **(vi)** Night shift arrangements
   - **(vii)** Recruitment to improve Parent Infant Unit staffing profiles (where applicable); and
   - **(viii)** Implement LLEW classification structure.
 - **(h)** Other activities undertaken by the WIC include:
   - **(i)** Gender equity activities, including Audit and Action Plan (standing item);
   - **(ii)** Engagement with respect to climate change and sustainability activities (where there is not an alternative local mechanism);
-  - **(iii)** Review DWG lists provided in accordance with [subclause 69E.1](/ebas/mental-health/common-terms/ohs/69E-hsrs)
-  - **(iv)** Working cooperatively to address instances of contact inconsistent with the 'Right to Disconnect' clause (see [clauses 36](/ebas/mental-health/common-terms/allowances/36-right-to-disconnect) and 96B.3)
-  - **(v)** Discuss the Employer's activities to promote secure employment (see [subclause 25.4](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment));
+  - **(iii)** Review DWG lists provided in accordance with subclause 69E.1
+  - **(iv)** Working cooperatively to address instances of contact inconsistent with the 'Right to Disconnect' clause (see clauses 36 and 96B.3)
+  - **(v)** Discuss the Employer's activities to promote secure employment (see subclause 25.4);
   - **(vi)** Receiving reports on the following: 
     - **(A)** Unresolved Employee requests to rectify underpayments 
     - **(B)** The progress of transition to permanent night shift arrangements 

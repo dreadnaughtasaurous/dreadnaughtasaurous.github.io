@@ -53,7 +53,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
   - **(ii)** has had the status of Experienced Engineer, as defined, for at least four years and is engaged upon Biomedical Engineering work of a research or development nature; or
   - **(iii)** works under broad policy control and direction on professional Biomedical Engineering work of a novel, complex and/or critical nature; or
   - **(iv)** is responsible for the organisation and supervision of the Biomedical Engineering work of a Department where considerations such as size, complexity of the work, or the scope of the managerial responsibility do not justify a position of engineer class 5.
-- **(c)** In addition to [clause 82.4(b)](/ebas/biomedical-engineers/classification-staffing/82-classification-definitions) the Biomedical Engineer Class 4/1 is a Biomedical Engineer and who has:
+- **(c)** In addition to clause 82.4(b) the Biomedical Engineer Class 4/1 is a Biomedical Engineer and who has:
   - **(i)** demonstrated the ability to successfully manage material and financial resources allocated to a Biomedical Engineering department; and/or
   - **(ii)** developed policies and procedures for the successful operation of a Biomedical Engineering department; and/or
   - **(iii)** demonstrated the application of knowledge and skill to the development of specialist biomedical technology.

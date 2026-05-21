@@ -28,7 +28,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
   - **(ii)** an "afternoon" or "PM" shift,  
     with these shifts typically being at least 12 hours (excluding meal break) but no greater than 14 hours each.
 
-**33A.3** Notwithstanding the typical shift lengths described at [subclause 33A.2](/ebas/doctors-in-training/hours-of-work/33A-24-7-rostering) shifts will not exceed the limit set out at [subclause 33.3](/ebas/doctors-in-training/hours-of-work/33-hours-of-work).
+**33A.3** Notwithstanding the typical shift lengths described at subclause 33A.2 shifts will not exceed the limit set out at [subclause 33.3](/ebas/doctors-in-training/hours-of-work/33-hours-of-work).
 
 **33A.4** Nothing in this term prevents other shift configurations (such as "saddle" shifts).
 
@@ -45,7 +45,7 @@ Where a Health Service currently has a 24/7 roster, the current roster will be:
 
 It is acknowledged that a Health Service may wish to transition to a permanent 24/7 rostering in a part of its organisation for reasons including but not limited to the meeting of service needs having regard for activity levels. Where this is proposed, the Health Service shall:
 
-- **(a)** consult as required by [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) or 10A (depending on the circumstances);
+- **(a)** consult as required by [clause 10 or 10A](/ebas/doctors-in-training/consultation-disputes/10-consultation) (depending on the circumstances);
 - **(b)** provide a copy of the proposed roster to the Association; and
 - **(c)** provide a copy of the roster, following consultation, to the Association.
 

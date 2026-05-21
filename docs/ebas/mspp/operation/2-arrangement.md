@@ -3,7 +3,7 @@ title: '2. Arrangement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']
 ---
-<span data-pagefind-meta="clause:Clause 2" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances)" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 

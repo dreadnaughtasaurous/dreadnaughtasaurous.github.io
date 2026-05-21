@@ -29,7 +29,7 @@ Victorian Maternal and Child Health Nurse Student or **VMCHNS** for the purposes
   - **(ii)** from when the Employer terminates the employment in accordance with this Agreement;
   - **(iii)** when the Employee withdraws, defers from or fails their course of education;
   - **(iv)** on completion of the education necessary to work as a Maternal and Child Health Nurse; or
-  - **(v)** in the case of a casual, in accordance with [clause 19](/ebas/doctors-in-training/doctor-employment/19-casual-employment) (Casual Employment).
+  - **(v)** in the case of a casual, in accordance with clause 19 (Casual Employment).
 
 **79A.4 Rate of pay for VMCHNS**
 

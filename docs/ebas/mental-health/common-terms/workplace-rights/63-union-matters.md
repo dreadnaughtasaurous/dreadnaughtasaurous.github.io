@@ -38,7 +38,7 @@ The Employer will ensure that:
 
 > **Note:** Additional rights of HSRs and Deputy HSRs are contained in the OHS Act.
 
-- **(a)** In this [subclause 63.4](/ebas/mental-health/common-terms/workplace-rights/63-union-matters)
+- **(a)** In this subclause 63.4
   - **(i)** Representative means a Union Delegate, Deputy HSR or HSR
   - **(ii)** Relevant Employee means:
     - **(A)** In the case of a Union Delegate, members of the Union and any other persons eligible to be members of the Union; and

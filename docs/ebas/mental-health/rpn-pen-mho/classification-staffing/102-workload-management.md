@@ -17,28 +17,28 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **102.1 Minimum Bed-Based Staffing Profiles**
 
-- **(a)** The required minimum bed-based staffing profiles (minimum staffing profiles) are contained within [Schedule 10](/ebas/mental-health/schedules/10-minimum-staffing-levels). This reflects the agreed minimum number of nursing positions that are rostered per shift to support each consumer consistent with both the professional standards and treatment/program provided by the unit. The minimum staffing profiles are also established to provide sufficient time to enable all Employees to complete all regular organisation commitments, professional development/training and all necessary documentation within the normal shift length.
+- **(a)** The required minimum bed-based staffing profiles (minimum staffing profiles) are contained within [Schedule 10](/ebas/mental-health/common-terms/preliminary/10-coverage). This reflects the agreed minimum number of nursing positions that are rostered per shift to support each consumer consistent with both the professional standards and treatment/program provided by the unit. The minimum staffing profiles are also established to provide sufficient time to enable all Employees to complete all regular organisation commitments, professional development/training and all necessary documentation within the normal shift length.
 - **(b)** For the purposes of the staffing profiles, the following roles are **not included** within the required minimum staffing profile: RUSONS, PQEN, Group/Activities Nurse Graduate Support Nurses, Clinical Educator, Clinical Consultant, Senior Psychiatric Nurse, a nurse whilst undertaking the duties of a preceptor (and only for periods during which they are not allocated a patient/client load), Surgery Nurse, Discharge Planning Nurse of a Nurse whose sole function is that of an ECT Nurse. These roles are in addition to the minimum staffing profiles.
 - **(c)** The minimum staffing profiles are a minimum requirement only and it is not intended to prevent the Employer from staffing a ward/unit with additional nurses beyond the number required by the minimum staffing profile.
 
 **102.2 Maintenance of Minimum Bed-Based Staffing Profiles**
 
 - **(a)** In the event that a vacancy (extended or permanent) occurs on the roster the Employer must take all reasonable steps to fill the vacancy in accordance with the following applicable provisions:
-  - **(i)** [Clause 55](/ebas/mental-health/common-terms/staffing/55-recruitment-to-vacant-position) Recruitment to Vacant Positions
-  - **(ii)** [Clause 102A.5](/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement) Backfill of Extended Leave
-  - **(iii)** [Clause 102A.1](/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement) Replacing Unplanned Absences – bed based services and [Clause 102A.3](/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement) Use of bank or agency staff.
+  - **(i)** Clause 55 Recruitment to Vacant Positions
+  - **(ii)** Clause 102A.5 Backfill of Extended Leave
+  - **(iii)** Clause 102A.1 Replacing Unplanned Absences – bed based services and Clause 102A.3 Use of bank or agency staff.
 
 **102.3 Exception to Staffing Profile Requirement** 
 
-If the Employer has made a reasonable effort in accordance with sub-[clause 102.2](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) the Employer will not be considered to be in breach of sub-[clause 102.1](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) where:
+If the Employer has made a reasonable effort in accordance with sub-clause 102.2 the Employer will not be considered to be in breach of sub-clause 102.1 where:
 
 - **(a)** Additional nursing staff are not available; or
-- **(b)** Nursing staff are redeployed, to another area with a greater clinical need (insofar as reasonable efforts per [clause 102.2](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) have been made in both areas and have been unsuccessful); or
+- **(b)** Nursing staff are redeployed, to another area with a greater clinical need (insofar as reasonable efforts per clause 102.2 have been made in both areas and have been unsuccessful); or
 - **(c)** Beds are closed by the Employer and therefore unavailable to be occupied, subject to consultation with Unions in accordance with [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation); or
 - **(d)** Employees commence no later than 2 hours after the commencement of the shift to avoid fatigue risks arising from not having a 10-hour break. This sub-clause does not apply to night shift; or
 - **(e)** Other reasons where the circumstance is beyond the control of the Employer (such as a natural disaster) and therefore the failure to meet the staffing profile has not occurred in a serious and wilful manner. If the circumstance is prolonged, this will trigger the consultation provisions of the Agreement.
   - **(i)** There will be no reduction in the staffing allocation as a direct result of the implementation of this agreement.
-  - **(ii)** Where any change to the size of the unit is proposed that will have the effect of requiring more or less staff, the consultation processes of [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) (Consultation) will apply prior to any such change occurring.
+  - **(ii)** Where any change to the size of the unit is proposed that will have the effect of requiring more or less staff, the consultation processes of clause 18 (Consultation) will apply prior to any such change occurring.
 
 **102.4 Acute Inpatient Units**
 
@@ -56,9 +56,9 @@ If the Employer has made a reasonable effort in accordance with sub-[clause 102.
 An Intensive Care Area (ICA), which includes a High Dependency Unit (HDU), ECU, Flexi Care, Acute Management Areas, Low Stimulus or HDU swing beds (however else described) is a designated area within an in-patient unit that has higher levels of nursing staff available providing for the potential to be locked and used as an intervention for a patient/client requiring increased observation, specialist nursing interventions and support.
 
 - **(a)** The premise behind a patient/client being placed in a HDU is that a 'significant risk' or 'significant disruption' exists. The description of 'significant' is to be considered in the context of the normal level or levels of acuity within the main ward environment of the in-patient unit.
-- **(b)** The staffing allocation in [clause 102.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management) includes High Dependency Units.
+- **(b)** The staffing allocation in clause 102.4 includes High Dependency Units.
 - **(c)** Each Employer who operates a ICA will be required to adhere to health and safety standards and requirements for Employees working within a ICA.
-- **(d)** Within the staffing allocation referred to in [clause 102.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management), the following numbers of nursing staff will be rostered to the ICA: 
+- **(d)** Within the staffing allocation referred to in clause 102.4, the following numbers of nursing staff will be rostered to the ICA: 
 
   | Number of Beds | Minimum Number of Nurses for ICA |
   | :--- | :--- |

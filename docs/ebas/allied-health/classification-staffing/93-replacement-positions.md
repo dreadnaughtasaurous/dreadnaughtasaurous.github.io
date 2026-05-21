@@ -15,7 +15,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 
 
-**93.1** [Subclause 93.2](/ebas/allied-health/classification-staffing/93-replacement-positions) below applies to the following Health Services only: 
+**93.1** Subclause 93.2 below applies to the following Health Services only: 
 
 | Health Service | Health Service |
 |---|---|

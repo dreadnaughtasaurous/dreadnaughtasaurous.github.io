@@ -25,10 +25,10 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | Accident Pay | 32 |
 | Accrued Days Off | 48 |
 | Advertising Vacancies | 92 |
-| AHP1 Abolition of Grade 1 Years 1 And 7 | Appendix 4  |
+| AHP1 Abolition of Grade 1 Years 1 And 7 | [Appendix 4](/ebas/allied-health/appendices/4-classification-definitions)  |
 | Allied Health Manager Structure | 87 |
 | Allowances Related to Overtime and On-Call | 36 |
-| Allowances Tables | Appendix 3  |
+| Allowances Tables | [Appendix 3](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments)  |
 | Annual Leave | 59 |
 | Anti-Discrimination | 10 |
 
@@ -52,10 +52,10 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | Casual Employment | 20 |
 | Casual Employment – Caring Responsibilities | 63 |
 | Ceremonial Leave | 75 |
-| Certificate of Service | Appendix 6 |
+| Certificate of Service | [Appendix 6](/ebas/allied-health/appendices/6-certificate-of-service) |
 | Change of Shift Allowance | 39 |
 | Classification and Reclassification | 86 |
-| Classification Definitions | Appendix 4 |
+| Classification Definitions | [Appendix 4](/ebas/allied-health/appendices/4-classification-definitions) |
 | Classifications Definitions and Wages | 85 |
 | Commencement Date and Period of Operation | 6 |
 | Compassionate Leave | 67 |
@@ -71,7 +71,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | Damaged Clothing Allowance | 45 |
 | Daylight Savings | 56 |
 | Definitions | 4 |
-| Dental Prosthetists Translation Arrangements | Appendix 4  |
+| Dental Prosthetists Translation Arrangements | [Appendix 4](/ebas/allied-health/appendices/4-classification-definitions)  |
 | Designated Work Groups | 101 |
 | Dispute Resolution Procedure | 14 |
 
@@ -79,7 +79,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 | Term | Clause |
 | :-- | :-- |
-| Employers Covered | Appendix 1  |
+| Employers Covered | [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers)  |
 | Ending Employment During Parental Leave | 26 |
 | Examination Leave | 81 |
 
@@ -133,7 +133,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | Laundry Allowance | 44 |
 | Lead Apron Allowance | 44A |
 | Leave to Engage in Voluntary Emergency Management Activities | 74 |
-| Letter of Offer | Appendix 5 |
+| Letter of Offer | [Appendix 5](/ebas/allied-health/appendices/5-letter-of-offer) |
 | Long Service Leave | 72 |
 
 ## M
@@ -232,7 +232,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | Term | Clause |
 | :-- | :-- |
 | Wage Increases | 28 |
-| Wage Rates | Appendix 2  |
+| Wage Rates | [Appendix 2](/ebas/allied-health/appendices/2-wage-rates)  |
 | Workers' Compensation, Rehabilitation and Return to Work | 104 |
 | Working Away From Home | 43 |
 | Working from Home | 95 |

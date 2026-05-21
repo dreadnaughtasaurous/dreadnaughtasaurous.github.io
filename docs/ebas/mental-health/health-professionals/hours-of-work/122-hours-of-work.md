@@ -28,7 +28,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 >**NOTE:** An Employee shall accrue a credit for each day in which they work ordinary hours in excess of the daily average of seven hours 36 minutes. The credit is carried forward so that in each cycle an accrued day off is paid.
 
-**122.4** All paid leave accrues the credit provided for by [clause 122.3](/ebas/mental-health/health-professionals/hours-of-work/122-hours-of-work) above.
+**122.4** All paid leave accrues the credit provided for by clause 122.3 above.
 
 **122.5** A paid leave day shall be identical to a worked day.
 

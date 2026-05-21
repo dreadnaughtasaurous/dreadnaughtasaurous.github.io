@@ -18,9 +18,9 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 **73.1 Additional Schedules**
 
 - **(a)** Provisions additional to those prescribed by this clause apply at the following Health Services and are contained in 74 and 75 and.
-  - **(i)** [Schedule 8](/ebas/mspp/schedules/8-royal-women-s-hospital-royal-children-s-hospital-general-emp) Royal Women’s Hospital
-  - **(ii)** [Schedule 9](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists) Royal Children’s Hospital
-  - **(iii)** [Schedule 10](/ebas/mspp/schedules/10-st-vincent-s-health-melbourne-ltd-general-conditions-agreeme) St. Vincent’s Health
+  - **(i)** Schedule 8 Royal Women’s Hospital
+  - **(ii)** Schedule 9 Royal Children’s Hospital
+  - **(iii)** Schedule 10 St. Vincent’s Health
 
 - **(b)** Professional Development is the means by which members of a profession maintain, improve and broaden their knowledge and expertise, and develop personal and professional qualities by:
   - **(i)** reviewing practice; and
@@ -36,7 +36,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 - **(c)** An Employee may utilise Professional Development Leave for part of a single day.
 
-- **(d)** The leave in [clause 73.2](/ebas/mspp/leave/73-professional-development-leave)a is cumulative over two calendar years.
+- **(d)** The leave in clause 73.2a is cumulative over two calendar years.
 
 - **(e)** Professional development leave may be utilised for learning activities including but not limited to research, home study, and attendance at conferences and seminars.
 
@@ -58,8 +58,8 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 - **(h)** Where an application for Professional Development Leave which is approved by the Employer covers a period where the Employee would be rostered off (e.g. on weekends, ADOs or after hours), the Employer will provide time in lieu for the period of the course.
 
-- **(i)** For the purposes of [clause 73.3](/ebas/mspp/leave/73-professional-development-leave)h, time in lieu means time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
+- **(i)** For the purposes of clause 73.3h, time in lieu means time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
 
-- **(j)** Any dispute about the reasonableness of withholding of approval of Professional Development Leave shall be dealt with under [Clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) – Dispute Settling Procedure.
+- **(j)** Any dispute about the reasonableness of withholding of approval of Professional Development Leave shall be dealt with under [Clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) – Dispute Settling Procedure.
 
 Plain language terms: PD leave, training leave.

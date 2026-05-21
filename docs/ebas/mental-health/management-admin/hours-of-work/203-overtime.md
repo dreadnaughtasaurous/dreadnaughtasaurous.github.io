@@ -17,7 +17,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **203.1** Where an Employee is required to work reasonable additional hours, they shall be entitled to payment of overtime in accordance with the provisions of this clause.
 
-**203.2** Part-time Employees classified under Part 2 of [Schedule 6](/ebas/mental-health/schedules/06-support-services-employee-classifications) of this Agreement are only entitled to payment of overtime where they work in excess of 38 hours in a given week.
+**203.2** Part-time Employees classified under Part 2 of [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3) of this Agreement are only entitled to payment of overtime where they work in excess of 38 hours in a given week.
 
 **203.3** Only authorised overtime shall be paid for and the following rates of overtime shall apply:
 
@@ -29,7 +29,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **203.4 Transport following overtime**
 
 - **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee.
-- **(b)** Where overtime is a result of a double shift, the provisions at [subclause 203.5](/ebas/mental-health/management-admin/hours-of-work/203-overtime)[224.5] below (Additional Provisions for Double Shifts) also apply.
+- **(b)** Where overtime is a result of a double shift, the provisions at subclause 203.5[224.5] below (Additional Provisions for Double Shifts) also apply.
 
 **203.5 Additional Provisions for Double Shifts** 
 

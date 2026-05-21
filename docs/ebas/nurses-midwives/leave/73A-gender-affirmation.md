@@ -23,10 +23,10 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **73A.4 Amount of gender affirmation leave**
 
-- **(a)** An Employee (other than a Casual Employee is entitled to Gender Affirmation Leave for the purpose of supporting the Employee’s affirmation in accordance with [subclause 73A.4(c)](/ebas/nurses-midwives/leave/73A-gender-affirmation) below. Gender Affirmation Leave will comprise:
+- **(a)** An Employee (other than a Casual Employee is entitled to Gender Affirmation Leave for the purpose of supporting the Employee’s affirmation in accordance with subclause 73A.4(c) below. Gender Affirmation Leave will comprise:
   - **(i)** up to 20 days' paid leave for essential and necessary gender affirmation procedures; and
   - **(ii)** up to 48 weeks of unpaid leave.
-- **(b)** The Gender Affirmation Leave entitlements outlined in [clause 73A.4](/ebas/nurses-midwives/leave/73A-gender-affirmation) are available to be taken by the Employee within the first 52 weeks after they commence Essential gender affirmation procedures.
+- **(b)** The Gender Affirmation Leave entitlements outlined in clause 73A.4 are available to be taken by the Employee within the first 52 weeks after they commence Essential gender affirmation procedures.
 - **(c)** **Essential gender affirmation procedures** may include:
   - **(i)** medical or psychological appointments; or
   - **(ii)** hormonal appointments; or

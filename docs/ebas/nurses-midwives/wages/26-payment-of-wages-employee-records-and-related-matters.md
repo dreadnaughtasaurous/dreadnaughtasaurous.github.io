@@ -66,15 +66,15 @@ After receiving a request from an Employee (or a former Employee) for a copy or 
   - **(i)** except in cases of hardship, amounts less than 2.5% will be processed in the Employee's next pay period; and
   - **(ii)** where the Employee notifies the Employer of hardship in respect of an amount owing less than 2.5%, the Employer will make its best endeavours to make the payment owing as soon as possible.
 - **(b)** The Employer will notify the Employee of the adjustment being processed and provide the date of payment and any payment identification details.
-- **(c)** This [clause 26.4](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters) will not apply where:
+- **(c)** This clause 26.4 will not apply where:
   - **(i)** the Employer and Employee are in genuine dispute as to whether the monies are owed to the Employee;
   - **(ii)** the underpayment is the result of an Employee error; or
   - **(iii)** the reason for the underpayment is an unforeseen event or circumstance outside the control of the Employer, frustrating the Employer's ability to meet the requirements of this clause.
 
 **26.5 Unresolved Employee requests**
 
-- **(a)** Where the Employee has requested the correction of an underpayment as a result of an error as described at [subclause 26.4(a)](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters) and, by the end of the next business day, the request is unresolved:
-  - **(i)** The Employee may notify a grievance in accordance with [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) of this Agreement, and:
+- **(a)** Where the Employee has requested the correction of an underpayment as a result of an error as described at subclause 26.4(a) and, by the end of the next business day, the request is unresolved:
+  - **(i)** The Employee may notify a grievance in accordance with clause 13 of this Agreement, and:
     - **(A)** Where a grievance is notified, the Employer will be available to meet with the Employee within two (2) business days and, if still unresolved, more senior managers will be available to meet with the Employee within a further two (2) business days; and
     - **(B)** If unresolved after the steps at (A), above, or the Employer does not comply with (A) above, the grievance may be referred to the Commission and the requirements of clause **13.4** will be deemed to have been met.
 - **(b)** The WIC will receive a report on the number of grievances arising from unresolved requests on a quarterly basis (or at a different frequency determined by the WIC).

@@ -15,11 +15,11 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 24. Termination of Employment
 
->**Note:** this [clause 24](/ebas/allied-health/employment/24-termination-of-employment) only applies to full-time and part-time Employees unless otherwise indicated.
+>**Note:** this clause 24 only applies to full-time and part-time Employees unless otherwise indicated.
 
 **24.1** In the event of termination of employment, four (4) weeks’ written notice must be given by the Employer.
 
-**24.2** The notice required by [subclause 24.1](/ebas/allied-health/employment/24-termination-of-employment) will be increased by one (1) week if the Employee is over 45 years of age and has completed at least two (2) years of continuous service.
+**24.2** The notice required by subclause 24.1 will be increased by one (1) week if the Employee is over 45 years of age and has completed at least two (2) years of continuous service.
 
 **24.3** An Employer may make payment in lieu of notice for part or all of the notice period. The payment in lieu of notice must equal or exceed the total of all amounts that the Employer would have paid had the Employee’s employment continued until the end of the required notice period, including superannuation. That payment must be calculated on the basis of:
 
@@ -29,7 +29,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **24.4** An Employee (including a fixed term Employee) may terminate their employment by providing four (4) weeks’ notice to the Employer in writing. Subject to financial obligations imposed on the Employer by any legislation, if an Employee fails to give notice the Employer will have the right to withhold monies due to the Employee with a maximum amount equal to the ordinary time rate of pay for the period of notice not provided by the Employee.
 
-**24.5** [Subclauses 24.1](/ebas/allied-health/employment/24-termination-of-employment) to 24.3 do not affect an Employer's right to terminate an Employee's employment without notice for serious misconduct (as defined for the purposes of the Act).
+**24.5** Subclauses 24.1 to 24.3 do not affect an Employer's right to terminate an Employee's employment without notice for serious misconduct (as defined for the purposes of the Act).
 
 **24.6** [Subclause 48.4](/ebas/allied-health/hours-of-work/48-accrued-days-off) deals with payments or deductions related to ADOs upon termination.
 

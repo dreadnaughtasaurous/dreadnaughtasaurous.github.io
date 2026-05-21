@@ -17,9 +17,9 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 - **(a)** An Employee and an Employer may enter into an individual flexibility arrangement pursuant to this clause in order to meet the genuine needs of the Employee and Employer. An individual flexibility arrangement must be genuinely agreed to by the Employee and Employer.
 - **(b)** An individual flexibility arrangement may vary the effect of one or more of the following terms of this enterprise agreement:
-  - **(i)** professional development leave ([clause 73](/ebas/mspp/leave/73-professional-development-leave))
-  - **(ii)** higher duties ([clause 52](/ebas/mspp/classification-salaries/52-higher-duties))
-  - **(iii)** ordinary hours of work ([clause 55.1](/ebas/mspp/hours-of-work/55-hours-of-work))
+  - **(i)** professional development leave (clause 73)
+  - **(ii)** higher duties (clause 52)
+  - **(iii)** ordinary hours of work (clause 55.1)
 - **(c)** An Employee may nominate a representative including the Union to assist in negotiations for an individual flexibility arrangement.
 - **(d)** The Employer must ensure that any individual flexibility arrangement will result in the Employee being better off overall than the Employee would have been if no individual flexibility arrangement were agreed to.
 - **(e)** The Employer must ensure that an individual flexibility arrangement is in writing and signed by the Employee and Employer. If the Employee is under 18 years the individual flexibility arrangement must be signed by a parent or guardian of the Employee.

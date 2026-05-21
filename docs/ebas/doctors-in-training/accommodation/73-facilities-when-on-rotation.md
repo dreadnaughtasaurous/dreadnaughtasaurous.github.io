@@ -53,7 +53,7 @@ The Rotation Hospital must respect the privacy of a Doctor's room and, provided 
 
 **73.6 Routine inspection and maintenance**
 
-The provisions of [subclause 73.5](/ebas/doctors-in-training/accommodation/73-facilities-when-on-rotation) do not apply to the routine maintenance of Doctors' rooms or routine inspections of which notice has been given.
+The provisions of subclause 73.5 do not apply to the routine maintenance of Doctors' rooms or routine inspections of which notice has been given.
 
 **73.7 Accommodation for Spouse**
 

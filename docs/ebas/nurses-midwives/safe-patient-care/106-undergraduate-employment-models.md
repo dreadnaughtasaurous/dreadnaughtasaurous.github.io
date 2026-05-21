@@ -36,13 +36,13 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   - **(ii)** from when the Employer terminates the employment in accordance with this Agreement.
   - **(iii)** on being granted registration as a Registered Nurse, Registered Midwife, or Enrolled Nurse unless the Employee, Employer and the ANMF agree in writing to continue the employment for a short period of time to cover the period between registration and commencement of a graduate or similar program;
   - **(iv)** when the Employee withdraws, defers from or fails their course of education; or
-  - **(v)** in the case of a casual, in accordance with [clause 19](/ebas/doctors-in-training/doctor-employment/19-casual-employment) (Casual Employment).
+  - **(v)** in the case of a casual, in accordance with clause 19 (Casual Employment).
 
 **106.4 Rate of pay for RUSONs/RUSOMs/RENS**
 
 A RUSON/RUSOM/REN will be paid on the following basis:
 
-| RUSON/RUSOM/RENS | Percentage of Grade 2 Year 1 rate of pay set out in Part 1 of Appendix 2 |
+| RUSON/RUSOM/RENS | Percentage of Grade 2 Year 1 rate of pay set out in Part 1 of [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) |
 | --- | --- |
 | RUSON/RUSOM/RENS | 81.5% |
 

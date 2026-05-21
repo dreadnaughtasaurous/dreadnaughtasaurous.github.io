@@ -19,7 +19,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **44.2 What is Compassionate Leave?** 
 
-Compassionate leave will be available under this [clause 44](/ebas/mental-health/common-terms/leave/44-compassionate-leave) to an Employee for each occasion (a “**permissible occasion**”) when:
+Compassionate leave will be available under this clause 44 to an Employee for each occasion (a “**permissible occasion**”) when:
 
 - **(a)** a member of the Employee’s Immediate Family or household:
   - **(i)** contracts or develops a personal illness or sustains a personal injury that poses a serious threat to their life; or
@@ -28,13 +28,13 @@ Compassionate leave will be available under this [clause 44](/ebas/mental-health
 - **(c)** A Stillborn Child is born, where the Stillborn Child would have been a member of the Employee’s Immediate Family, or a member of the Employee’s household, if the Stillborn Child had been born alive. 
 
 > **Note:**
-> An Employee may be entitled to a period of paid special leave if their pregnancy terminates at or after the completion of 20 weeks’ gestation or if the Employee gives birth but the baby subsequently dies – see [clause 50.10](/ebas/mental-health/common-terms/leave/50-parental-leave)(b)(i).
+> An Employee may be entitled to a period of paid special leave if their pregnancy terminates at or after the completion of 20 weeks’ gestation or if the Employee gives birth but the baby subsequently dies – see [clause 50.10(b)(i)](/ebas/mental-health/common-terms/leave/50-parental-leave).
 
 **44.3** If the permissible occasion is the contraction or development of a personal illness, or the sustaining of a personal injury, the Employee may take the compassionate leave for that occasion at any time while the illness or injury persists.
 
 **44.4 Employees other than casual Employees** 
 
-The provisions of [clauses 44.5](/ebas/mental-health/common-terms/leave/44-compassionate-leave) to 44.7 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in [clause 44.8](/ebas/mental-health/common-terms/leave/44-compassionate-leave).
+The provisions of clauses 44.5 to 44.7 apply to all Employees other than casual Employees. The entitlements of casual Employees are set out in clause 44.8.
 
 **44.5** An Employee is entitled to up to 4 ordinary days’ paid leave, on each permissible occasion.
 

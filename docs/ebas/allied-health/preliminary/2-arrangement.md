@@ -194,12 +194,12 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 | Appendix | Title |
 | :-- | :-- |
-| Appendix 1 | List of Employers |
-| Appendix 2 | Wage Rates |
-| Appendix 3 | Allowances and Top of Band Payment |
-| Appendix 4 | Classification Definitions |
-| Appendix 5 | Letter of Offer |
-| Appendix 6 | Certificate of Service |
+| [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers) | List of Employers |
+| [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) | Wage Rates |
+| [Appendix 3](/ebas/allied-health/appendices/3-allowances-and-top-of-band-payments) | Allowances and Top of Band Payment |
+| [Appendix 4](/ebas/allied-health/appendices/4-classification-definitions) | Classification Definitions |
+| [Appendix 5](/ebas/allied-health/appendices/5-letter-of-offer) | Letter of Offer |
+| [Appendix 6](/ebas/allied-health/appendices/6-certificate-of-service) | Certificate of Service |
 
 Plain language terms: table of contents, agreement structure.
 

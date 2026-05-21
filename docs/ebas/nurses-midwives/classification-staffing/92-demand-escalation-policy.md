@@ -38,7 +38,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **92.6** The policy will have considered relevant risk assessments, in particular where circumstances require nursing/midwifery care to be provided in an alternative environment, and relevant legislation, regulations or guidelines.
 
-**92.7** The policy will encapsulate the principles set out in [clause 92.4](/ebas/nurses-midwives/classification-staffing/92-demand-escalation-policy) above and contain specific information which sets out the following:
+**92.7** The policy will encapsulate the principles set out in clause 92.4 above and contain specific information which sets out the following:
 
 - **(a)** the trigger point(s) for the activation of the policy, noting that these trigger points should act as an early warning system;
 - **(b)** the accountabilities of those Employees involved in the decision making process;

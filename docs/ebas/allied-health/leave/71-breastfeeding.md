@@ -25,7 +25,7 @@ The Employer will also provide a comfortable place, other than a bathroom, that 
 
 **71.3 Storage** 
 
-Appropriate refrigeration will be available in proximity to the area referred to in [subclause 71.2](/ebas/allied-health/leave/71-breastfeeding) for breast milk storage. Responsibility for labelling, storage and use lies with the Employee.
+Appropriate refrigeration will be available in proximity to the area referred to in subclause 71.2 for breast milk storage. Responsibility for labelling, storage and use lies with the Employee.
 
 Plain language terms: lactation, pumping, expressing milk.
 

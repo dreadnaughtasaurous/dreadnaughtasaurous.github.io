@@ -18,11 +18,11 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 
 ::: info Related pay information
-- [Wage Rates](/ebas/allied-health/appendices/2-wage-rates)
-- [Shift Work Allowance (Clause 38)](/ebas/allied-health/allowances/38-shift-work-allowance)
-- [Higher Qualifications Allowance (Clause 35)](/ebas/allied-health/allowances/35-higher-qualifications-allowance)
-- [Uniform & Laundry Allowance (Clause 44)](/ebas/allied-health/allowances/44-uniform-and-laundry-allowance)
-- [Travelling Allowance (Clause 41)](/ebas/allied-health/allowances/41-travelling-allowance)
+- Wage Rates
+- Shift Work Allowance ([Clause 38](/ebas/allied-health/allowances/38-shift-work-allowance))
+- Higher Qualifications Allowance ([Clause 35](/ebas/allied-health/allowances/35-higher-qualifications-allowance))
+- Uniform & Laundry Allowance ([Clause 44](/ebas/allied-health/allowances/44-uniform-and-laundry-allowance))
+- Travelling Allowance ([Clause 41](/ebas/allied-health/allowances/41-travelling-allowance))
 :::
 
 ::: tip Source: Salary Circular 877 (1 March 2025)

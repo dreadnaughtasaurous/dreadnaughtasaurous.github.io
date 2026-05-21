@@ -59,6 +59,6 @@ A full-time employee is an employee who is engaged to work an average of 38 ordi
 
 A pathway for employees to change from casual employment to full-time or part-time employment is provided for in the NES. See sections 66A to 66MA of the Act.
 
->**Note:** Disputes about changes to casual employment status may be dealt with under sections 66M and 66MA of the Act and/or under clause 9—Dispute resolution. 
+>**Note:** Disputes about changes to casual employment status may be dealt with under sections 66M and 66MA of the Act and/or under [clause 9](/ebas/childrens-services/consultation-disputes/9-dispute-resolution)—Dispute resolution. 
 
 Plain language terms: full-time, part-time, casual, employment types.

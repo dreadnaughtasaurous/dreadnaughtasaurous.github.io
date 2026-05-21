@@ -25,18 +25,18 @@ For the avoidance of doubt, the travel will occur within paid time.
 
 - **(a)** Where an Employee is required by their Employer to live away from their home, the Employee will be provided the following at the expense of the Employer:
   - **(i)** reasonable accommodation, food and drinks; or
-  - **(ii)** if any of the benefits described in [clause 37.3(a)(i)](/ebas/nurses-midwives/allowances/37-travelling-and-relocation) cannot be provided, payment of an equivalent allowance covering each benefit that is not provided. The allowance(s) will be calculated as follows:
+  - **(ii)** if any of the benefits described in clause 37.3(a)(i) cannot be provided, payment of an equivalent allowance covering each benefit that is not provided. The allowance(s) will be calculated as follows:
     - **(A)** at the maximum applicable rate determined by the ATO for the relevant benefit (i.e. food, drink and/or accommodation expenses) from time to time; or
     - **(B)** if the amount paid by the Employee for accommodation, food or drink exceeds the ATO guideline amount and was reasonably incurred, the total cost of the accommodation, food and/or drink, subject to the Employee providing reasonable evidence to substantiate the cost(s) and their reasonableness.
 
-    > **Note:** For vehicle allowances, see [clause 36](/ebas/nurses-midwives/allowances/36-vehicle-allowance).
+    > **Note:** For vehicle allowances, see clause 36.
 
 **37.4** Where an Employee is required by the Employer to temporarily relocate from their Base Employment Campus to another Campus prior to a shift, the Employee will:
 
 - **(a)** be reimbursed for additional travelling cost to the Employee (where applicable) excluding time spent travelling (which is addressed at (b) below); and
 - **(b)** where travel time increases by 15 minutes or greater (to and return) be paid an allowance equal to the Employee's ordinary rate for the additional time spent when compared to the Employee's travel time to the Base Employment Campus.
 
-Nothing in this [clause 37.4](/ebas/nurses-midwives/allowances/37-travelling-and-relocation) prevents an Employer requiring the travel to occur within the rostered shift.
+Nothing in this clause 37.4 prevents an Employer requiring the travel to occur within the rostered shift.
 
 **37.5** Where an Employee is required by the Employer to permanently relocate from their Base Employment Campus to another Campus as a result of **redundancy**, the Employee will be reimbursed for additional travel costs (where applicable) in accordance with [clause 12.6](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) of this Agreement (Relocation).
 
@@ -51,7 +51,7 @@ For the avoidance of doubt, where this is a result of a Major Change, as defined
 - **(a)** an Employee whose role goes across Campuses;
 - **(b)** Employees who genuinely choose to work across different Campuses and it is not a requirement of the Employer, such as where an Employee elects to pick up an additional shift/s on another Campus on a permanent or ad hoc basis;
 - **(c)** Casuals; or
-- **(d)** in the case of [clauses 37.3](/ebas/nurses-midwives/allowances/37-travelling-and-relocation) and 37.6, the Stand Alone Community Health Centres specified in [Appendix 1](/ebas/mental-health/schedules/01-list-of-employers) of this Agreement.
+- **(d)** in the case of clauses 37.3 and 37.6, the Stand Alone Community Health Centres specified in [Appendix 1](/ebas/nurses-midwives/appendices/01-list-of-employers) of this Agreement.
 
 **37.8 Special provisions relating to particular travel**
 

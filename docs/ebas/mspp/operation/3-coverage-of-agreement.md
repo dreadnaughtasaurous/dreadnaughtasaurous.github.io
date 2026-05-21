@@ -3,7 +3,7 @@ title: '3. Coverage of Agreement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Clause 3" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc)" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 

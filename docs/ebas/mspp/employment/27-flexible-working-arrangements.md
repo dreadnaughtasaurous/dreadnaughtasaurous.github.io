@@ -36,7 +36,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
   - **(ii)** an alternative to the request; or
   - **(iii)** reasons for a refusal on reasonable business grounds (as defined at
 - **(j)** An Employee or Employer may choose to be represented at a meeting under subclause i by a representative including a Union or employer organisation.
-- **(k)** The dispute resolution procedure in [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of the Agreement will apply to any dispute / grievance arising in relation to a request for flexible working arrangements.
+- **(k)** The dispute resolution procedure in [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of the Agreement will apply to any dispute / grievance arising in relation to a request for flexible working arrangements.
 - **(l)** Other entitlements relevant to family violence can be found at [clause 82](/ebas/mspp/leave/82-family-violence-leave) (Family Violence Leave).
 
 Plain language terms: flex work, flexible hours, WFH, work from home.

@@ -13,6 +13,6 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 42. Dietitians
 
-For Dietitian classification definitions, Higher Qualification Allowances and department groupings see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), [clause 3](/ebas/mspp/operation/3-coverage-of-agreement).
+For Dietitian classification definitions, Higher Qualification Allowances and department groupings see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), clause 3.
 
 Plain language terms: dietitian, dietician.

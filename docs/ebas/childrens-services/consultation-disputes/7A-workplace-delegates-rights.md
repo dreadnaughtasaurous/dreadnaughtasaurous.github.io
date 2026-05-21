@@ -13,19 +13,19 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 7A. Workplace Delegates Rights
 
-**7A.1** [Clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) provides for the exercise of the rights of workplace delegates set out in section 350C of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
+**7A.1** Clause 7A provides for the exercise of the rights of workplace delegates set out in section 350C of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 
 > **Note:** 
 >
->Under section 350C(4) of the [Act](http://www.legislation.gov.au/Series/C2009A00028), the employer is taken to have afforded a workplace delegate the rights mentioned in section 350C(3) if the employer has complied with [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights).
+>Under section 350C(4) of the [Act](http://www.legislation.gov.au/Series/C2009A00028), the employer is taken to have afforded a workplace delegate the rights mentioned in section 350C(3) if the employer has complied with clause 7A.
 
-**7A.2** In [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights):
+**7A.2** In clause 7A:
 
 - **a.** **employer** means the employer of the workplace delegate;
 - **b.** **delegate's organisation** means the employee organisation in accordance with the rules of which the workplace delegate was appointed or elected; and
 - **c.** **eligible employees** means members and persons eligible to be members of the delegate's organisation who are employed by the employer in the enterprise.
 
-**7A.3** Before exercising entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights), a workplace delegate must give the employer written notice of their appointment or election as a workplace delegate. If requested, the workplace delegate must provide the employer with evidence that would satisfy a reasonable person of their appointment or election.
+**7A.3** Before exercising entitlements under clause 7A, a workplace delegate must give the employer written notice of their appointment or election as a workplace delegate. If requested, the workplace delegate must provide the employer with evidence that would satisfy a reasonable person of their appointment or election.
 
 **7A.4** An employee who ceases to be a workplace delegate must give written notice to the employer within 14 days.
 
@@ -42,7 +42,7 @@ A workplace delegate may represent the industrial interests of eligible employee
 
 **7A.6 Entitlement to reasonable communication**
 
-- **a.** A workplace delegate may communicate with eligible employees for the purpose of representing their industrial interests under [clause 7A.5](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights). This includes discussing membership of the delegate's organisation and representation with eligible employees.
+- **a.** A workplace delegate may communicate with eligible employees for the purpose of representing their industrial interests under clause 7A.5. This includes discussing membership of the delegate's organisation and representation with eligible employees.
 - **i.** A workplace delegate may communicate with eligible employees during working hours or work breaks, or before or after work.
 
 **7A.7 Entitlement to reasonable access to the workplace and workplace facilities**
@@ -53,7 +53,7 @@ A workplace delegate may represent the industrial interests of eligible employee
   - **iii.** electronic means of communication ordinarily used in the workplace by the employer to communicate with eligible employees and by eligible employees to communicate with each other, including access to Wi-Fi;
   - **iv.** a lockable filing cabinet or other secure document storage area; and
   - **v.** office facilities and equipment including printers, scanners and photocopiers.
-- **(b)** The employer is not required to provide access to or use of a workplace facility under [clause 7A.7(a)](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) if:
+- **(b)** The employer is not required to provide access to or use of a workplace facility under clause 7A.7(a) if:
   - **i.** the workplace does not have the facility;
   - **vi.** due to operational requirements, it is impractical to provide access to or use of the facility at the time or in the manner it is sought; or
   - **vii.** the employer does not have access to the facility at the enterprise and is unable to obtain access after taking reasonable steps.
@@ -72,15 +72,15 @@ Unless the employer is a small business employer, the employer must provide a wo
 - **n.** The employer must advise the workplace delegate not less than 2 weeks from the day on which the training is scheduled to commence, whether the workplace delegate's access to paid time during normal working hours to attend the training has been approved. Such approval must not be unreasonably withheld.
 - **o.** The workplace delegate must, within 7 days after the day on which the training ends, provide the employer with evidence that would satisfy a reasonable person of their attendance at the training.
 
-**7A.9 Exercise of entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights)**
+**7A.9 Exercise of entitlements under clause 7A**
 
-- **a.** A workplace delegate's entitlements under [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) are subject to the conditions that the workplace delegate must, when exercising those entitlements:
+- **a.** A workplace delegate's entitlements under clause 7A are subject to the conditions that the workplace delegate must, when exercising those entitlements:
   - **i.** comply with their duties and obligations as an employee;
   - **ii.** comply with the reasonable policies and procedures of the employer, including reasonable codes of conduct and requirements in relation to occupational health and safety and acceptable use of ICT resources;
   - **iii.** not hinder, obstruct or prevent the normal performance of work; and
   - **iv.** not hinder, obstruct or prevent eligible employees exercising their rights to freedom of association.
-- **p.** [Clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) does not require the employer to provide a workplace delegate with access to electronic means of communication in a way that provides individual contact details for eligible employees.
-- **q.** [Clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights) does not require an eligible employee to be represented by a workplace delegate without the employee's agreement.
+- **p.** Clause 7A does not require the employer to provide a workplace delegate with access to electronic means of communication in a way that provides individual contact details for eligible employees.
+- **q.** Clause 7A does not require an eligible employee to be represented by a workplace delegate without the employee's agreement.
 
 > **Note:** 
 >
@@ -88,6 +88,6 @@ Unless the employer is a small business employer, the employer must provide a wo
 >
 > (a) unreasonably fail or refuse to deal with a workplace delegate; or  
 > (b) knowingly or recklessly make a false or misleading representation to a workplace delegate; or  
-> (c) unreasonably hinder, obstruct or prevent the exercise of the rights of a workplace delegate under the [Act](http://www.legislation.gov.au/Series/C2009A00028) or [clause 7A](/ebas/childrens-services/consultation-disputes/7A-workplace-delegates-rights).
+> (c) unreasonably hinder, obstruct or prevent the exercise of the rights of a workplace delegate under the [Act](http://www.legislation.gov.au/Series/C2009A00028) or clause 7A.
 
 Plain language terms: delegate rights, union delegate.

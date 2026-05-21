@@ -21,12 +21,12 @@ The provisions of this Part K of the Agreement will be read and interpreted in c
 
 This part is arranged as follows:
 
-- **(a)** OHS Preliminary ([clause 97](/ebas/nurses-midwives/ohs/97-ohs-preliminary));
-- **(b)** OHS Working Group ([clause 98](/ebas/allied-health/ohs/98-industry-ohs-working-group));
-- **(c)** OHS Risk Management ([clause 99](/ebas/allied-health/ohs/99-ohs-risk-management));
-- **(d)** Incident Reporting, Investigation and Prevention ([clause 100](/ebas/allied-health/ohs/100-incident-reporting-investigation-and-prevention));
-- **(e)** Designated Work Groups ([clause 101](/ebas/allied-health/ohs/101-designated-work-groups));
-- **(f)** HSRs ([clause 102](/ebas/allied-health/ohs/102-hsrs));
+- **(a)** OHS Preliminary (clause 97);
+- **(b)** OHS Working Group ([clause 98](/ebas/nurses-midwives/ohs/98-industry-ohs-working-group));
+- **(c)** OHS Risk Management ([clause 99](/ebas/nurses-midwives/ohs/99-ohs-risk-management));
+- **(d)** Incident Reporting, Investigation and Prevention ([clause 100](/ebas/nurses-midwives/ohs/100-incident-reporting-investigation-and-prevention));
+- **(e)** Designated Work Groups ([clause 101](/ebas/nurses-midwives/ohs/101-designated-work-groups));
+- **(f)** HSRs ([clause 102](/ebas/nurses-midwives/ohs/102-hsrs));
 - **(g)** Occupational Violence and Aggression Prevention and Management ([clause 103](/ebas/nurses-midwives/ohs/103-occupational-violence-and-aggression-prevention-and)); and
 - **(h)** Workers' Compensation, Rehabilitation and Return To Work ([clause 104](/ebas/nurses-midwives/ohs/104-workers-compensation-rehabilitation-and-return-to-work)).
 

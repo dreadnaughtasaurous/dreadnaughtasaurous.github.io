@@ -30,7 +30,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **28.5 Translation of some Chief and Deputy Chief rates** 
 
-An Employee who, immediately prior to the commencement of this Agreement, held a position that [subclause 28.4](/ebas/allied-health/wages/28-wages-and-wage-increases) of the 2020 Agreement applied to because they were classified under the 2011 Agreement at:
+An Employee who, immediately prior to the commencement of this Agreement, held a position that subclause 28.4 of the 2020 Agreement applied to because they were classified under the 2011 Agreement at:
 
 - **(a)** Chief Grade 2 and the Employee was at the Year 2 increment;
 - **(b)** Medical Imaging Technologist Deputy Chief Grade 2 and the Employee was at the Year 2 increment;

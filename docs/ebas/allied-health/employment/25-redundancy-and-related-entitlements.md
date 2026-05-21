@@ -21,19 +21,19 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 This clause is arranged as follows:
 
-- **(a)** Arrangement ([subclause 25.1](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(b)** Definitions ([subclause 25.2](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(c)** Redeployment ([subclause 25.3](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(d)** Support to Affected Employees ([subclause 25.4](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(e)** Salary Maintenance ([subclause 25.5](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(f)** Preservation of accrued leave ([subclause 25.6](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(g)** Relocation ([subclause 25.7](/ebas/allied-health/employment/25-redundancy-and-related-entitlements));
-- **(h)** Employment terminates due to Redundancy ([subclause 25.8](/ebas/allied-health/employment/25-redundancy-and-related-entitlements)); and
-    - **(i)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 25.9](/ebas/allied-health/employment/25-redundancy-and-related-entitlements)).
+- **(a)** Arrangement (subclause 25.1);
+- **(b)** Definitions (subclause 25.2);
+- **(c)** Redeployment (subclause 25.3);
+- **(d)** Support to Affected Employees (subclause 25.4);
+- **(e)** Salary Maintenance (subclause 25.5);
+- **(f)** Preservation of accrued leave (subclause 25.6);
+- **(g)** Relocation (subclause 25.7);
+- **(h)** Employment terminates due to Redundancy (subclause 25.8); and
+    - **(i)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 25.9).
 
 **25.2 Definitions**
 
-- **(a)** **Affected Employee** for this [clause 25](/ebas/allied-health/employment/25-redundancy-and-related-entitlements) means an Employee whose role will be redundant.
+- **(a)** **Affected Employee** for this clause 25 means an Employee whose role will be redundant.
 - **(b)** Comparable Role means an on-going role that:
     - **(i)** is the same profession as that of the Affected Employee’s redundant position or if not, is in a profession acceptable to the Affected Employee;
     - **(ii)** is any of the following: A. in the same clinical specialty as that of the Affected Employee’s former position; B. in a clinical specialty acceptable to the Affected Employee; or C. a position that with the reasonable support described at 25.3(g), the Affected Employee could undertake;
@@ -59,7 +59,7 @@ An Affected Employee whose role will be redundant will be considered for redeplo
 The Affected Employee must be advised in writing of:
 - **(i)** the date the Affected Employee’s role is to be redundant;
 - **(ii)** details of the redeployment process;
-- **(iii)** the reasonable support that will be provided in accordance with [subclause 25.3(g)](/ebas/allied-health/employment/25-redundancy-and-related-entitlements); and
+- **(iii)** the reasonable support that will be provided in accordance with subclause 25.3(g); and
 - **(iv)** the Affected Employee’s rights and obligations.
 
 **(b) Employer obligations** 
@@ -83,11 +83,11 @@ The Affected Employee must actively participate in the redeployment process incl
 
 **(d) Rejecting a Comparable Role** 
 
-Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined in this [clause 25](/ebas/allied-health/employment/25-redundancy-and-related-entitlements)), the Affected Employee may be ineligible for a departure package referred to at [subclause 25.8](/ebas/allied-health/employment/25-redundancy-and-related-entitlements).
+Where an Affected Employee rejects an offer of redeployment to a Comparable Role (as defined in this clause 25), the Affected Employee may be ineligible for a departure package referred to at subclause 25.8.
 
 **(e) Rejecting a non-Comparable Role** 
 
-For the avoidance of doubt, where an Affected Employee rejects an offer of redeployment to a role that is not a Comparable Role (as defined in this [clause 25](/ebas/allied-health/employment/25-redundancy-and-related-entitlements)), the Affected Employee will be eligible for a departure package referred to at [subclause 25.8](/ebas/allied-health/employment/25-redundancy-and-related-entitlements).
+For the avoidance of doubt, where an Affected Employee rejects an offer of redeployment to a role that is not a Comparable Role (as defined in this clause 25), the Affected Employee will be eligible for a departure package referred to at subclause 25.8.
 
 **(f) Temporary alternative duties**
 
@@ -157,7 +157,7 @@ An Affected Employee is entitled to a relocation allowance where permanent or te
 The Affected Employee must make written application to the Employer with a written estimate of the additional travelling cost and other expenses for the period of redeployment up to a maximum of 12 months.
 
 **(d) Payment**
-- **(i)** The Employer will pay the Affected Employee a relocation allowance of up to $1900.00 based on the written estimate of the Affected Employee referred to at [subclause 25.7(c)](/ebas/allied-health/employment/25-redundancy-and-related-entitlements) where the Employer accepts the estimate represents the additional cost to the Affected Employee. The Employer will only refuse to accept the estimate represents the additional cost to the Affected Employee where the Employer has evidence that the estimate does not represent the additional cost to the Affected Employee. The allowance shall be paid as a lump sum.
+- **(i)** The Employer will pay the Affected Employee a relocation allowance of up to $1900.00 based on the written estimate of the Affected Employee referred to at subclause 25.7(c) where the Employer accepts the estimate represents the additional cost to the Affected Employee. The Employer will only refuse to accept the estimate represents the additional cost to the Affected Employee where the Employer has evidence that the estimate does not represent the additional cost to the Affected Employee. The allowance shall be paid as a lump sum.
 >**Example 1** 
 >
 >The Employee provides the Employer with a written estimate of the additional travelling cost and other expenses for the period of redeployment up to a maximum of 12 months of $3,000. The Employer does not have evidence that the estimate does not represent the additional cost to the Affected Employee. The Employer will pay a relocation allowance of $1,900 to the Employee as a lump sum. 
@@ -174,7 +174,7 @@ An Affected Employee is not entitled to the relocation allowance if the site or 
 
 - **(f) Fixed term Employees not excluded** 
 
-An Affected Employee on a fixed term contract who is relocated will be covered by the terms of this [clause 25](/ebas/allied-health/employment/25-redundancy-and-related-entitlements) for the duration of the fixed term contract.
+An Affected Employee on a fixed term contract who is relocated will be covered by the terms of this clause 25 for the duration of the fixed term contract.
 
 **25.8 Employment terminates due to Redundancy** 
 
@@ -186,7 +186,7 @@ Where the Affected Employee’s Employer secures for them a Comparable Role (as 
 
 - **(a)** is within a Reasonable Distance of the work site of the redundant position;
 - **(b)** provides Continuity of Service;
-- **(c)** where the Comparable Role results in a loss of income, the salary maintenance at [subclause 25.5](/ebas/allied-health/employment/25-redundancy-and-related-entitlements) will be applied; and
+- **(c)** where the Comparable Role results in a loss of income, the salary maintenance at subclause 25.5 will be applied; and
 - **(d)** where relevant, is consistent with the financial and other support provided to an internal redeployee; the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 
 Plain language terms: agreement title.

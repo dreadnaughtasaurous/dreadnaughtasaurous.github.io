@@ -45,7 +45,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 - **(r)** **Fractional Doctor** means a Doctor engaged on a fractional basis in accordance with [subclause 16.2](/ebas/medical-specialists/employment/16-types-of-employment).
 - **(s)** **Full-time Doctor** means a Doctor engaged on a Full-Time basis in accordance with [subclause 16.1(a)](/ebas/medical-specialists/employment/16-types-of-employment).
 - **(t)** **FWC** means the Fair Work Commission.
-- **(u)** **Health Service** means a public hospital or health service listed in [Appendix 1](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services).
+- **(u)** **Health Service** means a public hospital or health service listed in [Appendix 1](/ebas/medical-specialists/appendices/1-list-of-employers-health-services).
 - **(v)** **Health Services Act** means the Health Services Act 1988 (Vic), as amended or replaced from time to time.
 - **(w)** **Higher Qualification** means a qualification appropriate to the specialty in which a Doctor is employed conferred upon the Doctor by a University, Medical School or Learned College including:
   - **(i)** postgraduate degrees and diplomas of Universities;
@@ -54,7 +54,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
   - **(iv)** where the minimum compulsory training period in that specialty required to qualify for the postgraduate qualification exceeds four years, years in excess of four will be counted as experience after obtaining higher qualification in the definition of Senior Specialist, Principal Specialist and Senior Principal Specialist.
 - **(x)** **HSR** means a health and safety representative (including a deputy health and safety representative) elected under the OHS Act.
 - **(y)** **Internal Locum** means a Doctor engaged on a casual basis in accordance with [subclause 16.4](/ebas/medical-specialists/employment/16-types-of-employment).
-- **(z)** **Institution** means any hospital, health service (whether or not listed in [Appendix 1](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services)) or benevolent home, community health centre, Society or Association registered pursuant to the Health Services Act.
+- **(z)** **Institution** means any hospital, health service (whether or not listed in [Appendix 1](/ebas/medical-specialists/appendices/1-list-of-employers-health-services)) or benevolent home, community health centre, Society or Association registered pursuant to the Health Services Act.
 - **(aa)** **NES** means the National Employment Standards.
 - **(bb)** **OHS Act** means the Occupational Health and Safety Act 2004 (Vic), as amended or replaced from time to time.
 - **(cc)** **Portable Technological Aids** means items which are easily portable and designed for use away from the Doctors’ usual work site; can operate without an external power supply; and are designed as a complete unit. For the purposes of this Agreement, items of a capital nature, such as ultrasound imaging devices, are not Portable Technological Aids.

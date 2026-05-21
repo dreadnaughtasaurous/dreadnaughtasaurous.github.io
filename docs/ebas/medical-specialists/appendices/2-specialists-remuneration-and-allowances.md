@@ -19,10 +19,10 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 ::: info
 Related pay information
 
-- [Remuneration and Increases (Clause 31)](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases)
-- [Shift Penalty Payments (Clause 36)](/ebas/medical-specialists/wages/36-shift-penalty-payments)
-- [Travelling Allowance (Clause 40)](/ebas/medical-specialists/allowances/40-travelling-allowance)
-- [Insurance Allowance (Clause 44)](/ebas/medical-specialists/allowances/44-insurance-allowance)
+- Remuneration and Increases ([Clause 31](/ebas/medical-specialists/wages/31-remuneration-and-remuneration-increases))
+- Shift Penalty Payments ([Clause 36](/ebas/medical-specialists/wages/36-shift-penalty-payments))
+- Travelling Allowance ([Clause 40](/ebas/medical-specialists/allowances/40-travelling-allowance))
+- Insurance Allowance ([Clause 44](/ebas/medical-specialists/allowances/44-insurance-allowance))
 :::
 
 ## Remuneration

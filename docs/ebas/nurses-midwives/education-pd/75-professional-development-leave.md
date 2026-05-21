@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 75. Professional Development Leave
 
-*Other than [clause 75.8](/ebas/nurses-midwives/education-pd/75-professional-development-leave), this clause does not apply to casual Employees.*
+*Other than clause 75.8, this clause does not apply to casual Employees.*
 
 **75.1 Professional Development Leave**
 
@@ -29,7 +29,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **75.2 Amount of professional development leave**
 
-- **(a)** All Employees are entitled to five days' paid professional development leave (as defined in [subclause 75.1(b)](/ebas/nurses-midwives/education-pd/75-professional-development-leave)).
+- **(a)** All Employees are entitled to five days' paid professional development leave (as defined in subclause 75.1(b)).
 - **(b)** An Employee who is a Nurse Practitioner will be entitled to a further 10 hours of paid professional development leave per annum.
 - **(c)** The entitlement at (a) above for part-time Employees will be on a pro rata basis.
 - **(d)** Professional development leave does not accumulate from year to year.

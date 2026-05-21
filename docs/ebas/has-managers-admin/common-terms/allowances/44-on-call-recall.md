@@ -41,7 +41,7 @@ The on call allowances in [Schedule 3C](/ebas/has-managers-admin/schedules/3c-al
 
 *Managers and Administrative Workers only* 
 
-Notwithstanding [clause 44.2](/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary), where recall to duty can be managed without a Manager or Administrative Worker having to return to their workplace, such as by telephone, such Employee will be paid a minimum of one hour’s overtime, provided that multiple recalls within a discrete hour will not attract additional payment.
+Notwithstanding clause 44.2, where recall to duty can be managed without a Manager or Administrative Worker having to return to their workplace, such as by telephone, such Employee will be paid a minimum of one hour’s overtime, provided that multiple recalls within a discrete hour will not attract additional payment.
 
 **44.7 Recall – Transport Allowance** 
 

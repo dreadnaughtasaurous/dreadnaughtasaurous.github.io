@@ -17,7 +17,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 *The purpose of this clause is to ensure that all time worked is paid and that timesheets (or equivalent) are submitted within the time required by the Health Service to ensure that Health Services have information relevant to the provision of safe hours.*
 
-**36.1** The provisions of this [clause 36](/ebas/doctors-in-training/hours-of-work/36-overtime) are to be read in conjunction with [clause 33](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) (Hours of Work).
+**36.1** The provisions of this clause 36 are to be read in conjunction with [clause 33](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) (Hours of Work).
 
 **36.2 Definition**
 
@@ -26,7 +26,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **36.3 Overtime rates**
 
-Where Doctor works overtime the Health Service must, subject to [subclauses 36.4](/ebas/doctors-in-training/hours-of-work/36-overtime) (Part-time doctors) and 36.5 (Conversion of overtime to personal / carer’s leave) pay the Doctor overtime rates as follows:
+Where Doctor works overtime the Health Service must, subject to subclauses 36.4 (Part-time doctors) and 36.5 (Conversion of overtime to personal / carer’s leave) pay the Doctor overtime rates as follows:
 
 | For Overtime Worked On | Full-time and Part-time Overtime Rate | Casual Overtime Rate¹ |
 |------------------------|----------------------------------------|------------------------|
@@ -55,7 +55,7 @@ Overtime may be converted into carer’s leave in accordance with [subclause 61.
 - **(c)** Unrostered overtime should, where reasonably practicable, be authorised in advance. Where unrostered overtime is not authorised in advance, it will be deemed to be authorised where it satisfies the requirements of the Health Service’s Unrostered Overtime Protocol.
 - **(d)** Where unrostered overtime is neither approved in advance nor approved in accordance with the Health Service’s Unrostered Overtime Protocol, the Doctor will be paid for the overtime hours worked where it is submitted on a timesheet (or equivalent) within the time required by the Health Service save that:
   - **(i)** if there is a dispute as to whether the hours were worked by the Doctor, the Health Service and Doctor will seek to resolve that dispute through the Dispute Settling Procedures of this Agreement; and
-  - **(ii)** nothing in this term limits the ability of the Health Service to review the reason the overtime was worked and to take reasonable management steps to reduce the need for overtime to be worked so far as is practicable, including having regard for its obligations under [clause 41](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review) (Workload Management and Review) of this Agreement,
+  - **(ii)** nothing in this term limits the ability of the Health Service to review the reason the overtime was worked and to take reasonable management steps to reduce the need for overtime to be worked so far as is practicable, including having regard for its obligations under clause 41 (Workload Management and Review) of this Agreement,
 
 **36.7 Unrostered Overtime - Protocols**
 
@@ -67,7 +67,7 @@ Overtime may be converted into carer’s leave in accordance with [subclause 61.
   - **(iv)** the Doctor has recorded the reason for working the overtime and the duties performed in a form capable of Health Service audit and review;
   - **(v)** the claim for overtime must be reviewed the person authorised by the Health Service to do so within 14 days of the claim being submitted; and
   - **(vi)** where unrostered overtime is worked and not approved in advance or consistent with this Unrostered Overtime Protocol, it will be paid but the Health Service may review the reason for the overtime with a view to ensuring safe working hours.
-- **(c)** [Clause 27.2](/ebas/doctors-in-training/doctor-employment/27-orientation-on-appointment)(h) of this Agreement provides that a copy of the Protocol shall be included in the Unit Handbook.
+- **(c)** [Clause 27.2(h)](/ebas/doctors-in-training/doctor-employment/27-orientation-on-appointment) of this Agreement provides that a copy of the Protocol shall be included in the Unit Handbook.
 
 **36.8 Late lodgement of overtime**
 

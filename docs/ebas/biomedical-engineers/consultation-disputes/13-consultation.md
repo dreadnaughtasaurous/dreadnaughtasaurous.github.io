@@ -13,7 +13,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 # 13. Consultation
 
-*Nothing in this [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation) limits the Employer's obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause 13 limits the Employer's obligations to consult with HSRs under the OHS Act.*
 
 **13.1 Consultation regarding Major Change**
 
@@ -23,7 +23,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **13.2 Definitions**
 
-Under this [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation):
+Under this clause 13:
 
 - **(a)** **Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 - **(b)** **Affected Employee** means an Employee on whom a Major Change may have a Significant Effect.
@@ -51,7 +51,7 @@ Under this [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consu
 
 | Step | Action | Timeframe |
 | --- | --- | --- |
-| 1 | Employer provides change impact statement and other written material required by [subclause 13.4](/ebas/biomedical-engineers/consultation-disputes/13-consultation) |  |
+| 1 | Employer provides change impact statement and other written material required by subclause 13.4 |  |
 | 2 | Written response from Employees and/or Union | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7-14 days of step 2<br/>The 'first meeting' at step 3 does not limit the number of meetings for consultation |
 | 4 | Further Employer response (where relevant) | After the conclusion of step 3 |
@@ -71,7 +71,7 @@ Under this [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consu
   - **(viii)** measures the Employer is considering that may mitigate or avert the effects of the proposed change;
   - **(ix)** the right of an Affected Employee to have a representative including a Union representative at any time during the change process; and
   - **(x)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk, or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
-- **(b)** Concerns as to whether the CIS complies with [subclause 13.4](/ebas/biomedical-engineers/consultation-disputes/13-consultation) will be raised as soon as practicable and before step 2.
+- **(b)** Concerns as to whether the CIS complies with subclause 13.4 will be raised as soon as practicable and before step 2.
 
 **13.5 Employee/Union response (step 2)**
 
@@ -95,7 +95,7 @@ The Affected Employee/s, the Union and other representative (where relevant) may
 
 **13.9 Outcome of consultation (step 6)**
 
-- **(a)** The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [subclause 13.8](/ebas/biomedical-engineers/consultation-disputes/13-consultation), and will advise the affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+- **(a)** The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause 13.8, and will advise the affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
   - **(i)** whether the Employer intends to proceed with the change proposal;
   - **(ii)** any amendment to the change proposal arising from consultation;
   - **(iii)** details of any measures to mitigate or avert the effect of the changes on Affected Employees; and

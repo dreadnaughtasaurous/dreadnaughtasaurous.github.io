@@ -3,7 +3,7 @@ title: '11. Disputes Settling Procedures'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['disputes']
 ---
-<span data-pagefind-meta="clause:Clause 11" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at)" style="display:none"></span>
 <span data-pagefind-meta="section:Disputes" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 

@@ -17,9 +17,9 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 - **(a)** Any arrangement for rostering and taking Training Time is subject to the overarching principles set in this clause.
 - **(b)** Training Time must be:
-  - **(i)** rostered within an applicable roster period in a period of five hours per week, unless otherwise agreed in accordance with [subclause 34.2(a)](/ebas/doctors-in-training/hours-of-work/34-training-time);
+  - **(i)** rostered within an applicable roster period in a period of five hours per week, unless otherwise agreed in accordance with subclause 34.2(a);
   - **(ii)** rostered in blocks of no less than 30 minutes duration on each occasion;
-  - **(iii)** published in accordance with [subclause 34.5](/ebas/doctors-in-training/hours-of-work/34-training-time);
+  - **(iii)** published in accordance with subclause 34.5;
   - **(iv)** arranged in a manner that assists in the provision of Training Time where the Doctor is rostered on nights or weekends.
 - **(c)** At the commencement of a Registrar’s employment or rotation the Registrar and Health Service must discuss:
   - **(i)** the forms of training available to the Registrar; and

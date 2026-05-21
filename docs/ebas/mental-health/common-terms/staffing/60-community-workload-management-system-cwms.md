@@ -16,7 +16,7 @@ mental health worker psychiatric nurse mental health nurse mental health AMHS au
 **60.1 Each Employer to operate and maintain a CWMS**
 
 - **(a)** A Community Workload Management System (CWMS) agreed between the Employer and Unions is to be operated and maintained by each Employer via the local Mental Health Workplace Implementation Committee (MHWIC).
-- **(b)** The CWMS must operate in accordance with the CWMS principles at [subclause 60.3](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms).
+- **(b)** The CWMS must operate in accordance with the CWMS principles at subclause 60.3.
 - **(c)** The parties will cooperate through the MHICC to replace the existing CWMS referred to at 60.1(a) with a generic electronic CWMS system as soon as practicable and no later than the end of 2027.
 
 ---
@@ -32,8 +32,8 @@ The parties to the Agreement are committed to embedding an effective CWMS system
   - **(i)** seek to identify the reason(s); and
   - **(ii)** discuss the actions that have been taken or are proposed to be taken to address this,
 - **(c)** Where, after the steps outlined in 60.2(b), a member of the local MHIIC is not satisfied that actions are sufficient to satisfy the CWMS principles, the local MHIIC will genuinely attempt to resolve concerns through discussion.
-- **(d)** No party to the local MHICC or person covered by the Agreement will be prejudiced as a result of either the provision of data or the discussions under this sub-[clause 60.2](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) or initiate a dispute where 60.2(c) is being complied with.
-- **(e)** For the avoidance of doubt, [clause 60.2](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) does not prevent an Employee or their representative enforcing their rights in accordance with [clause 60.8](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms).
+- **(d)** No party to the local MHICC or person covered by the Agreement will be prejudiced as a result of either the provision of data or the discussions under this sub-clause 60.2 or initiate a dispute where 60.2(c) is being complied with.
+- **(e)** For the avoidance of doubt, clause 60.2 does not prevent an Employee or their representative enforcing their rights in accordance with clause 60.8.
 
 ---
 
@@ -46,18 +46,18 @@ The parties to the Agreement are committed to embedding an effective CWMS system
 
 ---
 
-**60.4 Exceptions to [clauses 60.3(a)](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms)**
+**60.4 Exceptions to clauses 60.3(a)**
 
 - **(a)** Clinicians in a Community Mental Health Team in training positions, graduate positions, project positions or newly appointed staff on designated orientation periods will have direct clinical commitment hours of less than 60 % for a time limited period as part of their position work plan arrangements, and in line with their skill level and /or orientation needs.
 - **(b)** Supervisors/team leaders/senior clinicians in a Community Mental Health Team will have Organisational and Practitioner Development hours allocated to reflect any additional supervisory/management duties required to be undertaken.
 
 **60.5 Status Quo for an Employer at 40% or above** 
 
-Services that have organisational and practitioner development allocation (as per [clause 60.3](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) above) at 40% or above must maintain the status quo.
+Services that have organisational and practitioner development allocation (as per clause 60.3 above) at 40% or above must maintain the status quo.
 
 **60.6 Variation** 
 
-The CWMS Principles at [clause 60.3(a)](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) may be varied by agreement between the Unions and the Employer to deal with peculiar, localised need where evidenced. This will be recorded in writing as a local agreement signed by the parties.
+The CWMS Principles at clause 60.3(a) may be varied by agreement between the Unions and the Employer to deal with peculiar, localised need where evidenced. This will be recorded in writing as a local agreement signed by the parties.
 
 ---
 
@@ -90,7 +90,7 @@ The CWMS Principles at [clause 60.3(a)](/ebas/mental-health/common-terms/staffin
   - **(i)** the Employee will be rostered 1 clear day free from direct clinical care (non-direct clinical time) during the next reporting period; and
   - **(ii)** the Employee will not be allocated any additional cases that will increase Column A activity until such time the Employee’s workload meets the 60/40 threshold.
 - **(c)** The period of time referred to in 60.8(a) will reduce to one month following the end of the reporting period once the electronic reporting tool referred to in 60.1(c) is implemented.
-- **(d)** [Subclause 60.8(b)](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms) will not apply where:
+- **(d)** Subclause 60.8(b) will not apply where:
   - **(i)** the Employee does not complete the tool.
   - **(ii)** the Employee has been on periods of absence that distort the reporting results.
   - **(iii)** the MHICC through consensus provides an exemption to the obligation at 60.8(b)(ii) to a specific area in writing for a prescribed period of time.
@@ -116,4 +116,4 @@ No clinician will be subject to less favourable treatment by the Employer by rea
 
 **60.12 Application of the Dispute Clause**
 
-**60.13** The Disputes clause of this Agreement applies to this clause, including whether a review is warranted for a particular Employer and in respect of sub-[clause 60.8](/ebas/mental-health/common-terms/staffing/60-community-workload-management-system-cwms).
+**60.13** The Disputes clause of this Agreement applies to this clause, including whether a review is warranted for a particular Employer and in respect of sub-clause 60.8.

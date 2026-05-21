@@ -13,7 +13,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 30. Consultation
 
-*Nothing in this [clause 30](/ebas/mspp/employment/30-consultation) limits the Employer’s obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause 30 limits the Employer’s obligations to consult with HSRs under the OHS Act.*
 
 **30.1 Consultation regarding Major Change**
 
@@ -21,13 +21,13 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 - **(b)** Consultation will include those who are absent on leave including on workers’ compensation or parental leave.
 - **(c)** The Employer will take reasonable steps to ensure Employees, HSRs (where relevant) and the Union can participate effectively in the Consultation process.
 - **(d)** An employer will provide reasonable resources (ie paid time for Union representatives, access to email, photocopying and meeting rooms) necessary to ensure that Employees and Union representatives can participate effectively in the consultation process.
-- **(e)** Major Change includes (but is not limited to) technological change as defined and referred to at [subclause 30.2](/ebas/mspp/employment/30-consultation)c below.
+- **(e)** Major Change includes (but is not limited to) technological change as defined and referred to at subclause 30.2c below.
 
 ---
 
 **30.2 Definitions**
 
-Under this [clause 30](/ebas/mspp/employment/30-consultation):
+Under this clause 30:
 
 - **(a)** **Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
   Consultation includes an opportunity for affected Employees and the Union to provide written and verbal responses including alternative proposals to mitigate or avert any adverse impact on an Affected Employee. Consultation includes the timely provision of all relevant information and response.
@@ -61,7 +61,7 @@ Under this [clause 30](/ebas/mspp/employment/30-consultation):
 
 | Step | Action |
 |------|--------|
-| 1 | Employer provides Change Impact Statement and other written material required by [subclause 30.4](/ebas/mspp/employment/30-consultation). Employees and/or Union may request any additional information or material relevant to the proposed change. |
+| 1 | Employer provides Change Impact Statement and other written material required by subclause 30.4. Employees and/or Union may request any additional information or material relevant to the proposed change. |
 | 2 | Written response from Employees and/or Union |
 | 3 | Consultation Meeting/s convened |
 | 4 | Further Employer response (where relevant) |
@@ -122,7 +122,7 @@ The Affected Employee/s, the Union and other representative (where relevant) may
 
 **30.9 Outcome of Consultation (step 6)**
 
-The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-[clause 30.8](/ebas/mspp/employment/30-consultation) and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-clause 30.8 and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 - **(a)** whether the Employer intends to proceed with the change proposal;
 - **(b)** any amendment to the change proposal arising from Consultation;
@@ -140,7 +140,7 @@ Consultation required by this clause must be completed before the employer imple
 
 **30.11 Consultation disputes**
 
-Any dispute regarding the obligations under this clause will be dealt under the Dispute Settling Procedure at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
+Any dispute regarding the obligations under this clause will be dealt under the Dispute Settling Procedure at [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of this Agreement.
 
 ---
 

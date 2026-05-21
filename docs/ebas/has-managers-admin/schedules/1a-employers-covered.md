@@ -3,7 +3,7 @@ title: 'Schedule 1A - Employers Covered: Health Allied & Managers Admin EBA'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['coverage']
 ---
-<span data-pagefind-meta="clause:Schedule 1a" style="display:none"></span>
+<span data-pagefind-meta="clause:[Schedule 1](/ebas/has-managers-admin/common-terms/preliminary/1-agreement-title)" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 

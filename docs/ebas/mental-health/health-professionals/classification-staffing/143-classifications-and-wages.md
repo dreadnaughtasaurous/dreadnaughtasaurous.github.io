@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 143. Classifications and Wages
 
-**143.1** The classification descriptors are set out in [Schedule 5](/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals) – Classification Definitions Applying to Health Professionals.
+**143.1** The classification descriptors are set out in [Schedule 5](/ebas/mental-health/common-terms/preliminary/5-application-of-section-2) – Classification Definitions Applying to Health Professionals.
 
 ---
 
@@ -37,7 +37,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **143.5 Entry Level – New Graduate – Rural and Regional Health Services**
 
-- **(a)** This [clause 143.5](/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages) applies to Employees employed in a Rural or Regional Health Service.
+- **(a)** This clause 143.5 applies to Employees employed in a Rural or Regional Health Service.
 - **(b)** An Employee who holds:
   - **(i)** a four-year undergraduate qualification; or
   - **(ii)** a three-year undergraduate qualification and either holds an Honours degree, or is required to do a 12-month internship shall be classified as, or deemed to have been classified as, and paid at the rate of AHP Grade 2 3rd year of experience after qualification.

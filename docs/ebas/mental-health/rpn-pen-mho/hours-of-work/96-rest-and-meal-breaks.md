@@ -21,7 +21,7 @@ At a time, suitable to the Employer two rest intervals of 10 minutes each shall 
 
 **96.2 Meal breaks**
 
-Except as provided for in [clause 96.2(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/96-rest-and-meal-breaks) and (c), a meal break of not less than 30 minutes and not more than 60 minutes shall be provided to each Employee during a shift. The meal break shall not be counted as time worked.
+Except as provided for in clause 96.2(b) and (c), a meal break of not less than 30 minutes and not more than 60 minutes shall be provided to each Employee during a shift. The meal break shall not be counted as time worked.
 
 - **(a)** Employees are entitled to leave the ward/unit area during their meal break.
 - **(b)** An Employee unable to take their meal break on an ad hoc basis will be paid for the meal break as time worked at their ordinary rate plus 50%.

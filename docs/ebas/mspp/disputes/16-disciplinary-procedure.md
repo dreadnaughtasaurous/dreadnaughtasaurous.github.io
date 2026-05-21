@@ -3,7 +3,7 @@ title: '16. Disciplinary Procedure'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 16](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)" style="display:none"></span>
 <span data-pagefind-meta="section:Disputes" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 
@@ -29,7 +29,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 **16.2 Definitions**
 
 - **(a)** **Performance** means the manner in which the Employee fulfils their job requirements. The level of performance is determined by an Employee’s knowledge, skills, qualifications, abilities and the requirements of the role.
-- **(b)** Where there are concerns regarding Performance that does not meet the definition of Misconduct at [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d, [clause 15](/ebas/allied-health/consultation-disputes/15-performance-management) will apply.
+- **(b)** Where there are concerns regarding Performance that does not meet the definition of Misconduct at [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d, [clause 15](/ebas/mspp/schedules/15-rostering-protocols-exemption-agreement) will apply.
 - **(c)** **Conduct** means the manner in which the Employee behaviour impacts on their work.
 - **(d)** **Misconduct** means an Employee’s intentional or negligent failure to abide by or adhere to the standards of conduct reasonably expected by the Employer. A Performance issue can be considered Misconduct where, despite all reasonably practicable interventions by the Employer, the Employee refuses to undertake all or part of their job requirements to a satisfactory level.
 - **(e)** **Serious misconduct** is as defined under the Act and that is both wilful and deliberate. Currently, the Act defines serious misconduct, in part, as:
@@ -70,7 +70,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 - **(a)** This procedure applies if, following the investigation: the Employer reasonably considers that the Employee’s Conduct (or a Performance matter that meets the definition of Misconduct in [subclause 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)d) may warrant disciplinary steps being taken.
 - **(b)** The Employer will:
   - **(i)** notify the Employee in writing of the outcome of the investigation process, including providing a copy of the report and the basis of any conclusion; and
-  - **(ii)** provide the Employee with a reasonable opportunity to address the matters in [subclause 16.4](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)c
+  - **(ii)** provide the Employee with a reasonable opportunity to address the matters in subclause 16.4c
 - **(c)** In considering whether to take disciplinary action, the Employer will consider:
   - **(i)** whether there is a valid reason related to the Conduct or Performance of the Employee arising from the investigation justifying disciplinary action;
   - **(ii)** whether the Employee knew or ought to have known that the Conduct or Performance was below acceptable standards; and
@@ -89,7 +89,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
     - **(E)** terminate the Employee’s employment on notice in the case of an Employee who repeats a course of conduct for which a final warning was given in the preceding 18 months;
   - **(ii)** for Serious Misconduct: 
     - **(A)** terminate the Employee’s employment without notice; or 
-    - **(B)** alternatively, issue the Employee with a final warning without following the steps in [subclauses 16.5](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)a(i)(A)- (i)(D)
+    - **(B)** alternatively, issue the Employee with a final warning without following the steps in subclauses 16.5a(i)(A)- (i)(D)
 - **(b)** The Employer’s decision and a summary of its reasons will be notified to the Employee in writing.
 - **(c)** If after any warning, a period of 12 or 18 months elapses (as relevant) without any further warning being required, all adverse reports relating to the warning must be removed from the Employee's personnel file.
 
@@ -97,7 +97,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 **16.6 Disputes**
 
-- **(a)** A dispute over [clause 16](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels) (including [subclause 16.7](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)) is to be dealt with in accordance with the Dispute Resolution Procedure set out at [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
+- **(a)** A dispute over [clause 16](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels) (including [subclause 16.7](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)) is to be dealt with in accordance with the Dispute Resolution Procedure set out at [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of this Agreement.
 
 ---
 

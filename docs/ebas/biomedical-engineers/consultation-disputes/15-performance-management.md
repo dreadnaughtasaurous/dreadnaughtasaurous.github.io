@@ -19,9 +19,9 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 - **(b)** **Performance Management** includes reasonable actions to address performance by identifying performance deficits, the Employer's expected outcomes and performance measures, and strategies to meet those measures.
 - **(c)** This clause applies to performance issues that:
   - **(i)** Occur after the first 6 months of employment;
-  - **(ii)** Do not constitute Misconduct or Serious Misconduct (as defined at [subclause 16.2](/ebas/biomedical-engineers/consultation-disputes/16-discipline));
+  - **(ii)** Do not constitute Misconduct or Serious Misconduct (as defined at subclause 16.2);
   - **(iii)** Occur prior to the Employee having been provided all reasonably practicable interventions to correct performance.
-- **(d)** Nothing in this [clause 15](/ebas/biomedical-engineers/consultation-disputes/15-performance-management) will prevent the Employer from initiating the disciplinary procedure in accordance with [clause 16](/ebas/biomedical-engineers/consultation-disputes/16-discipline) – Discipline where a performance issue constitutes Misconduct or Serious Misconduct (as defined).
+- **(d)** Nothing in this clause 15 will prevent the Employer from initiating the disciplinary procedure in accordance with [clause 16](/ebas/biomedical-engineers/consultation-disputes/16-discipline) – Discipline where a performance issue constitutes Misconduct or Serious Misconduct (as defined).
 
 **15.2 Performance Management Process**
 

@@ -27,7 +27,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(a)** is filled under the supplementary roster, the additional shift is an 'additional shift worked by agreement' and does not attract the 'change of roster' allowance under [clause 94](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) (Rosters);
 - **(b)** cannot be filled from the supplementary roster, an Employee may be requested to work an additional shift (subject to the provisions of this Agreement and the additional shift attracts the “change of roster allowance” in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances), in addition to any other entitlement on each such occasion.
 
-**95.5** Nothing in this clause prevents an Employer from operating an electronic supplementary roster, provided it meets the objectives of [subclause 95.2](/ebas/mental-health/rpn-pen-mho/hours-of-work/95-supplementary-roster) above.
+**95.5** Nothing in this clause prevents an Employer from operating an electronic supplementary roster, provided it meets the objectives of subclause 95.2 above.
 
 **95.6** Where an Employee is requested by the Employer to work an additional shift other than by the supplementary roster, each such additional shift worked will attract the 'change of roster allowance' in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) in addition to any other entitlement on each such occasion.
 

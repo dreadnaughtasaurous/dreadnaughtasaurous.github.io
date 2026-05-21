@@ -39,7 +39,7 @@ The Employer will ensure that:
 > **Note:**
 > Additional rights of HSRs are contained in the OHS Act.
 
-- **(a)** In this [clause 80.4](/ebas/nurses-midwives/union-matters/80-union-matters):
+- **(a)** In this clause 80.4:
   - **(i) Representative** means a Union Delegate, or a HSR;
   - **(ii) Relevant Employee** means:
     - **(A)** In the case of a Union Delegate, members of the Union and any other persons eligible to be members of the Union; and
@@ -96,7 +96,7 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 > **Note:**
 > Where a Union Delegate is also appointed a HSR under the OHS Act, they may be entitled to additional training in accordance with the OHS Act.
 
-- **(a)** Subject to the conditions in this [clause 80.9](/ebas/nurses-midwives/union-matters/80-union-matters), Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days' paid leave per calendar year per Employee.
+- **(a)** Subject to the conditions in this clause 80.9, Employees selected by the Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days' paid leave per calendar year per Employee.
 - **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 - **(c)** The granting of leave will be subject to the Employer's operational requirements. The granting of leave will not be unreasonably withheld.
 - **(d)** Leave under this clause is granted on the following conditions:
@@ -121,23 +121,23 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 - **(f)** The Employer will make available to the WIC information reasonably necessary to fulfil the objectives in (a) above.
 - **(g)** Priority items for consideration by the WIC will include:
   - **(i)** Carparking with respect to the safety of Employees, including getting to and from carparking;
-  - **(ii)** Operation of the supplementary roster (see [clause 46](/ebas/nurses-midwives/hours-of-work/46-supplementary-roster-and-additional-shifts));
-  - **(iii)** Public holiday rostering requirements (see [clause 45.9](/ebas/nurses-midwives/hours-of-work/45-rosters));
-  - **(iv)** Allocation of paid time for Employees with portfolio or administrative responsibilities (see [clause 45A.2](/ebas/nurses-midwives/hours-of-work/45A-portfolio-work-in-paid-time)); and
+  - **(ii)** Operation of the supplementary roster (see clause 46);
+  - **(iii)** Public holiday rostering requirements (see clause 45.9);
+  - **(iv)** Allocation of paid time for Employees with portfolio or administrative responsibilities (see clause 45A.2); and
   - **(v)** Night shift arrangements.
 - **(h)** Other activities undertaken by the WIC include:
-  - **(i)** Gender equity activities, including Audit and Action Plan (standing item) (see [clause 10A.5](/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination));
-  - **(ii)** Engagement with respect to climate change and sustainability activities (where there is not an alternative local mechanism) (see [clause 16B.2](/ebas/nurses-midwives/consultation-disputes/16B-climate-change-mitigation-and-sustainability));
-  - **(iii)** Working cooperatively to address instances of contact inconsistent with the ‘Right to Disconnect’ clause (see [clause 52](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect));
-  - **(iv)** Discuss the Employer’s activities to promote secure employment (see [subclause 87.2(e)](/ebas/nurses-midwives/classification-staffing/87-secure-employment-agency-staff-and-bank-employees));
+  - **(i)** Gender equity activities, including Audit and Action Plan (standing item) (see clause 10A.5);
+  - **(ii)** Engagement with respect to climate change and sustainability activities (where there is not an alternative local mechanism) (see clause 16B.2);
+  - **(iii)** Working cooperatively to address instances of contact inconsistent with the ‘Right to Disconnect’ clause (see clause 52);
+  - **(iv)** Discuss the Employer’s activities to promote secure employment (see subclause 87.2(e));
   - **(v)** Receiving reports on the following:
-    - **(A)** Unresolved Employee requests to rectify underpayments (see [clause 26.5](/ebas/nurses-midwives/wages/26-payment-of-wages-employee-records-and-related-matters));
-    - **(B)** The progress of transition to permanent night shift arrangements (see [subclause 42A.3(e)](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift));
-    - **(C)** Evaluation of permanent night shift to ensure no unintended consequences (see [clause 42A.7](/ebas/nurses-midwives/hours-of-work/42A-permanent-night-shift));
-    - **(D)** Evaluation of other night shift arrangements to ensure no unintended consequences (see [clause 42B.4](/ebas/nurses-midwives/hours-of-work/42B-night-shift-rostering-principles-other-than-permanent-night));
-    - **(E)** The positions that are not rostered (see [subclause 45.10(c)](/ebas/nurses-midwives/hours-of-work/45-rosters));
-    - **(F)** The results of a review of arrangements for contacting Employee’s out of hours to determine availability (see [subclause 52.3(b)](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect)); and
-    - **(G)** Manual handling where those reports are not provided to an OHS Committee (see [subclause 99.8(c)](/ebas/nurses-midwives/ohs/99-ohs-risk-management)).
+    - **(A)** Unresolved Employee requests to rectify underpayments (see clause 26.5);
+    - **(B)** The progress of transition to permanent night shift arrangements (see subclause 42A.3(e));
+    - **(C)** Evaluation of permanent night shift to ensure no unintended consequences (see clause 42A.7);
+    - **(D)** Evaluation of other night shift arrangements to ensure no unintended consequences (see clause 42B.4);
+    - **(E)** The positions that are not rostered (see subclause 45.10(c));
+    - **(F)** The results of a review of arrangements for contacting Employee’s out of hours to determine availability (see subclause 52.3(b)); and
+    - **(G)** Manual handling where those reports are not provided to an OHS Committee (see subclause 99.8(c)).
 
 **80.11 Central Implementation Committee**
 
@@ -146,7 +146,7 @@ The Employer will, on application by the Union, grant leave without loss of pay 
   - **(ii)** this Agreement;
   that cannot be resolved at the local level, without limiting the Dispute Resolution Procedure in this Agreement.
 - **(b)** The CIC will continue to operate throughout the life of the Agreement.
-- **(c)** Each Employer will make available to the CIC information reasonably necessary to fulfil the objectives in [subclauses 80.11(a)(i)](/ebas/nurses-midwives/union-matters/80-union-matters) and (ii) above.
+- **(c)** Each Employer will make available to the CIC information reasonably necessary to fulfil the objectives in subclauses 80.11(a)(i) and (ii) above.
 
 **80.12** The parties agree the following matters will form part of the work of the CIC during the life of the Agreement:
 

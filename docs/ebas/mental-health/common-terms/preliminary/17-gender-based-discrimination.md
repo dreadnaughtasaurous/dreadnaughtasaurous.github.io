@@ -27,7 +27,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(i)** representative Employers through their CEOs or their nominees
 - **(ii)** the Unions; and
 - **(iii)** the VHIA.
-- **(iv)** The GBSC may, by unanimous agreement of its sitting members, also include other health sector unions who are not covered by this Agreement to meet the objectives at [clause 17](/ebas/mental-health/common-terms/preliminary/17-gender-based-discrimination).
+- **(iv)** The GBSC may, by unanimous agreement of its sitting members, also include other health sector unions who are not covered by this Agreement to meet the objectives at clause 17.
 
 **17.5** The Employers’ gender equity activities, including Audit and Action Plan will be a standing agenda item at WIC meetings.
 

@@ -30,14 +30,14 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
     - **(iii)** an independent chairperson (**Chair**) agreed by the Union and the VHIA or, where agreement cannot be reached in a reasonable timeframe, as nominated by the Minister for Health.
 - **(b)** The Panel Chair shall act as an independent third party in deliberations of the Panel.
 - **(c)** A nominee on the Panel must recuse themselves from being involved in a matter if they are directly and/or personally affected by the outcome.
-- **(d)** The Panel will commence determining an application made under this [clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel) within 21 days of receiving the application and conclude its deliberations as expeditiously as possible.
+- **(d)** The Panel will commence determining an application made under this clause 14A within 21 days of receiving the application and conclude its deliberations as expeditiously as possible.
 - **(e)** The Panel shall act independently of the Union, the VHIA and the Victorian Government.
 - **(f)** The parties to an application to the Panel bear their own costs (save for the Chair).
 - **(g)** The Panel shall be responsible for determining its own procedure, provided that it applies the rules of natural justice and procedural fairness and be consistent with the requirements of [clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) Dispute Resolution Procedure.
 - **(h)** The Panel shall apply an inquisitorial procedure, rather than an adversarial one.
 - **(i)** The Panel may decide to hear a matter in the workplace. In such cases the Employer shall provide a suitable meeting room and other relevant facilities for any date requested by the Panel. The Employer will allow the Panel to inspect any work site if the Panel believes this will assist it in determining a matter, subject to any health, safety and privacy considerations. A party to a dispute may request that the Panel hear a matter in a workplace. The Panel will consider such a request and determine for itself the best location for hearing a matter.
 - **(j)** Lawyers and paid agents, who are not direct employees of the Unions, VHIA, Department or an Employer may only appear before the Panel where it gives them permission to do so.
-- **(k)** Nothing in this [clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel) prevents an application to the Commission to deal with a matter that has been dealt with by the Panel.
+- **(k)** Nothing in this clause 14A prevents an application to the Commission to deal with a matter that has been dealt with by the Panel.
 
 **14A.3 Functions of the Panel Chair**
 
@@ -45,11 +45,11 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
     - **(i)** notify all parties to the matter and the Department of the hearing dates;
     - **(ii)** chair proceedings of the Panel;
     - **(iii)** conciliate matters, by chairing conferences between the Employer(s) and/or their representative/s, and the Union; and
-    - **(iv)** anything else necessary to give effect to the provisions of this [clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel).
+    - **(iv)** anything else necessary to give effect to the provisions of this clause 14A.
 
 **14A.4 Application to Panel to deal with a dispute**
 
-- **(a)** Either an Employer or an Employee/s (or their representatives) may make an application to the Panel to determine a dispute about matters listed at [subclause 14A.1](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel) only where the Parties have attempted to resolve the dispute at the workplace as described at [subclause 14.4](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of the Agreement.
+- **(a)** Either an Employer or an Employee/s (or their representatives) may make an application to the Panel to determine a dispute about matters listed at subclause 14A.1 only where the Parties have attempted to resolve the dispute at the workplace as described at [subclause 14.4](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) of the Agreement.
 - **(b)** If the provisions of [subclause 14.4](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) (Discussion of dispute at workplace) have not been complied with prior to the application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
 - **(c)** Applications to the Panel to deal with a dispute will be in the following or similar form:
 
@@ -77,9 +77,9 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
     - **(ii)** the provisions of the Agreement;
     - **(iii)** materials submitted by the Employee/s and/or Unions;
     - **(iv)** materials submitted by the Employer and/or VHIA;
-    - **(v)** in the case of submissions under [subclause 14.8(d)(iii)](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure) above any materials submitted by the Union and the VHIA; and
-    - **(vi)** in the case of submissions under [subclause 14A.6](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel) below any materials submitted by or on behalf of the Department.
-- **(b)** Subject to the provisions of this [clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel), proceedings of the Panel shall be conducted as informally as possible and undertaken with all possible expediency.
+    - **(v)** in the case of submissions under subclause 14.8(d)(iii) above any materials submitted by the Union and the VHIA; and
+    - **(vi)** in the case of submissions under subclause 14A.6 below any materials submitted by or on behalf of the Department.
+- **(b)** Subject to the provisions of this clause 14A, proceedings of the Panel shall be conducted as informally as possible and undertaken with all possible expediency.
 - **(c)** The Panel may inform itself in any manner it sees fit including by seeking the views of an expert advisor (who is not an employee of the Employer subject of the application) agreed by the Panel to provide clinical expertise in an area of clinical practice relevant to the matter under consideration.
 - **(d)** The Panel is not bound by the rules of evidence and procedure. The Panel will determine the manner in which an Employee/s providing evidence to the Panel will be questioned, save that where possible they will ensure that any questioning is not adversarial in nature.
 - **(e)** The:
@@ -118,8 +118,8 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
 
 **14A.9 Employee Release from normal duty**
 
-- **(a)** An Employee/s who is involved in a dispute before the Panel, including a Union representative, will be released by the Employer with pay from normal duties as is reasonably necessary to enable them to participate in this dispute settling procedure under this [clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel) so long as it does not unduly affect the operations of the Employer.
-- **(b)** For the purposes of this [clause 14A](/ebas/allied-health/consultation-disputes/14A-independent-dispute-resolution-panel) 'pay' shall include shift allowances and any other payment the Employee/s or Union representative would have received had they not been released from duty as described above.
+- **(a)** An Employee/s who is involved in a dispute before the Panel, including a Union representative, will be released by the Employer with pay from normal duties as is reasonably necessary to enable them to participate in this dispute settling procedure under this clause 14A so long as it does not unduly affect the operations of the Employer.
+- **(b)** For the purposes of this clause 14A 'pay' shall include shift allowances and any other payment the Employee/s or Union representative would have received had they not been released from duty as described above.
 
 **14A.10 Withdrawal of application**
 

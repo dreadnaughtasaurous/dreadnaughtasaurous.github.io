@@ -44,7 +44,7 @@ The purpose of this clause is to reflect the obligations of the **EO Act** (Equa
 
 Where an Employer knows, or reasonably ought to have known, that an Employee has a disability, the Employer:
 
-- **(a)** is required to make reasonable adjustments to enable the Employee to perform the genuine and reasonable requirements of the employment, subject to [subclause (b)](/ebas/nurses-midwives/preliminary/63A-reasonable-adjustments-for-employees-with-a-disability) below; and
+- **(a)** is required to make reasonable adjustments to enable the Employee to perform the genuine and reasonable requirements of the employment, subject to subclause (b) below; and
 - **(b)** is not required to make reasonable adjustments if the Employee could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 
 Plain language terms: disability adjustment, workplace adjustments, accessibility.

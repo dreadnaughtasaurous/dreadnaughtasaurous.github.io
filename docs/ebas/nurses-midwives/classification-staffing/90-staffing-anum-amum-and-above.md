@@ -36,15 +36,15 @@ There must be:
 - **(a)** Maternity includes ante-natal care, post-natal care and birthing suites.
 - **(b)** A single ward that includes maternity services and non-maternity services is not required to have:
   - **(i)** more than one EFT of combined NUM and MUM appointed; or
-  - **(ii)** more than the stated EFT of ANUM/AMUMs in [clause 90.2](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above) unless required by the Safe Patient Care Act.
-- **(c)** Compliance with this provision constitutes compliance with [clauses 90.1](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above)A and 90.1B.
+  - **(ii)** more than the stated EFT of ANUM/AMUMs in clause 90.2 unless required by the Safe Patient Care Act.
+- **(c)** Compliance with this provision constitutes compliance with clauses 90.1A and 90.1B.
 
 **90.1D Safe Patient Care Act requiring additional Registered Nurse/Midwife in charge**
 
 > **Note:** This clause only operates if the Safe Patient Care Act mandates an additional Registered Nurse or Midwife in charge.
 
-- **(a)** Nothing in this [clause 90.1](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above)D detracts from the obligations in the Safe Patient Care Act in respect to ratios that require a nurse or midwife in charge, in addition to or as part of ratios.
-- **(b)** Where the Safe Patient Care Act requires a ward/unit to have more than one Registered Nurse/Midwife in charge on a shift, the additional in-charge position will be classified as an ANUM/AMUM and be additional to the requirements in [clause 90.2](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above).
+- **(a)** Nothing in this clause 90.1D detracts from the obligations in the Safe Patient Care Act in respect to ratios that require a nurse or midwife in charge, in addition to or as part of ratios.
+- **(b)** Where the Safe Patient Care Act requires a ward/unit to have more than one Registered Nurse/Midwife in charge on a shift, the additional in-charge position will be classified as an ANUM/AMUM and be additional to the requirements in clause 90.2.
 
 **90.2 Associate Nurse/Midwife Unit Managers**
 
@@ -70,7 +70,7 @@ Despite any other provisions of this Agreement, each Employer must employ a full
 **90.4 Registered Nurse – After Hours Coordinator**
 
 - **(a)** A Registered Nurse who is an After Hours Coordinator as defined in the Safe Patient Care Act will be appointed to be in charge of each Campus in all off duty periods of the DON.
-- **(b)** The indicative position description for an Employee appointed under [subclause 90.4(a)](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above) is attached at [Appendix 5](/ebas/nurses-midwives/appendices/05-indicative-position-description-for-after-hours-coordinator) to this Agreement.
+- **(b)** The indicative position description for an Employee appointed under subclause 90.4(a) is attached at [Appendix 5](/ebas/nurses-midwives/appendices/05-indicative-position-description-for-after-hours-coordinator) to this Agreement.
 
 **90.5 Registered Nurse – Clinical Liaison Nurse**
 

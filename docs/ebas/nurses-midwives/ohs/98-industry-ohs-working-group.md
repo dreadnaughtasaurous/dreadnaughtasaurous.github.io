@@ -22,7 +22,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(e)** education for NUMs/ANUMs regarding management of Employees; and
 - **(f)** workplace bullying.
 
-**98.2** The proactive cooperation described at [clause 98.1](/ebas/nurses-midwives/ohs/98-industry-ohs-working-group) with respect to the priorities identified above, will seek to achieve the following:
+**98.2** The proactive cooperation described at clause 98.1 with respect to the priorities identified above, will seek to achieve the following:
 
 - **(a)** In the case of psychological injuries, a shared approach to:
   - **(i)** addressing work related causes of psychological injury, including bullying, sexual harassment and burn out; and

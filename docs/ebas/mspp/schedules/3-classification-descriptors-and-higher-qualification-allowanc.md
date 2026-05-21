@@ -18,7 +18,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 
 ::: info Related pay information
-- [Rates of Pay (Schedule 2)](/ebas/mspp/schedules/2-rates-of-pay-and-allowances)
+- Rates of Pay ([Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances))
 :::
 
 ::: tip Source: Salary Circular 873 (1 July 2025)

@@ -22,7 +22,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 ---
 
-- **Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/allied-health/preliminary/1-agreement-title). 
+- **Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers). 
 - **Nominal expiry:** 2026-03-31. 
 - **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
 

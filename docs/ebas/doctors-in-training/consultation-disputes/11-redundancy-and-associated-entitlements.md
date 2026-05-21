@@ -19,27 +19,27 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 This clause is arranged as follows:
 
-- **(a)** Arrangement ([subclause 11.1](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
-- **(b)** Definitions ([subclause 11.2](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
-- **(c)** Redeployment ([subclause 11.3](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
-- **(d)** Support to Affected Doctors ([subclause 11.4](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
-- **(e)** Salary maintenance ([subclause 11.5](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
-- **(f)** Relocation ([subclause 11.6](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)),
-- **(g)** Employment terminates due to redundancy ([subclause 11.7](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)), and
-- **(h)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 11.8](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements)).
+- **(a)** Arrangement (subclause 11.1),
+- **(b)** Definitions (subclause 11.2),
+- **(c)** Redeployment (subclause 11.3),
+- **(d)** Support to Affected Doctors (subclause 11.4),
+- **(e)** Salary maintenance (subclause 11.5),
+- **(f)** Relocation (subclause 11.6),
+- **(g)** Employment terminates due to redundancy (subclause 11.7), and
+- **(h)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 11.8).
 
 ---
 
 **11.2 Definitions**
 
-- **(a)** **Affected Doctor** for this [clause 11](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) means a Doctor whose role will be redundant.
+- **(a)** **Affected Doctor** for this clause 11 means a Doctor whose role will be redundant.
 
 - **(b)** **Comparable Role** means an on-going role that:
   - **(i)** is the same occupation as that of the Affected Doctor’s redundant position or, if not, is in an occupation acceptable to the Affected Doctor; and
   - **(ii)** is any of the following:  
     - **A.** in the same clinical specialty as that of the Affected Doctor’s former position;  
     - **B.** in a clinical specialty acceptable to the Affected Doctor; or  
-    - **C.** a position that with the reasonable support described at [subclause 11.3(g)](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements), the Affected Doctor could undertake; and
+    - **C.** a position that with the reasonable support described at subclause 11.3(g), the Affected Doctor could undertake; and
   - **(iii)** is the same Classification / Pay Point as the Affected Doctor’s redundant position;
   - **(iv)** takes into account the number of ordinary hours normally worked by the Affected Doctor;
   - **(v)** is a Reasonable Distance from the Affected Doctor’s current work location;
@@ -48,9 +48,9 @@ This clause is arranged as follows:
 
 - **(c)** **Consultation** is as defined at [clause 10](/ebas/doctors-in-training/consultation-disputes/10-consultation) (Consultation) of this Agreement.
 
-- **(d)** **Continuity of Service** at [clause 11.8](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) means that the service of the Doctor is treated as unbroken and that the cap on the transfer of personal leave at subclause **61.8** does not apply. However, Continuity of Service is not broken where a Health Service pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
+- **(d)** **Continuity of Service** at clause 11.8 means that the service of the Doctor is treated as unbroken and that the cap on the transfer of personal leave at subclause **61.8** does not apply. However, Continuity of Service is not broken where a Health Service pays out accrued annual leave or long service leave upon termination in accordance with this Agreement.
 
-- **(e)** **Classification / Pay Point** for the purposes of this [clause 11](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) means a weekly salary in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions) that is at least equal to or higher than the weekly salary in
+- **(e)** **Classification / Pay Point** for the purposes of this clause 11 means a weekly salary in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions) that is at least equal to or higher than the weekly salary in
 
 - **(f)** **Reasonable Distance** means a distance that has regard to the Doctor’s original work location, current home address, capacity of the Doctor to travel, additional travelling time, effects on the personal circumstances of the Affected Doctor, including family commitments and responsibilities and other matters raised by the Doctor, or assistance provided by their Health Service.
 
@@ -72,7 +72,7 @@ This clause is arranged as follows:
   The Affected Doctor must be advised in writing of:
   - **(i)** the date the Affected Doctor’s role is to be redundant;
   - **(ii)** details of the redeployment process;
-  - **(iii)** the reasonable support that will be provided in accordance with [subclause 11.3(g)](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements); and
+  - **(iii)** the reasonable support that will be provided in accordance with subclause 11.3(g); and
   - **(iv)** the Affected Doctor’s rights and obligations.
 
 - **(c) Health Service obligations**  
@@ -92,7 +92,7 @@ This clause is arranged as follows:
 
 - **(e) Rejecting a Comparable Role**
 
-  Where an Affected Doctor rejects an offer of redeployment to a Comparable Role (as defined), the Affected Doctor may be ineligible for a departure package referred to at [subclause 11.7](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements).
+  Where an Affected Doctor rejects an offer of redeployment to a Comparable Role (as defined), the Affected Doctor may be ineligible for a departure package referred to at subclause 11.7.
 
 - **(f) Temporary alternative duties**
 
@@ -173,7 +173,7 @@ Other assistance may include but is not limited to career planning.
 - **(d) Payment**  
   - **(i)** The Health Service will pay the Affected Doctor a relocation allowance up to $1900.00 based on the written estimate of the Affected Doctor referred to at (c) where the Health Service accepts that estimate represents the additional cost to the Affected Doctor. The allowance shall be paid as a lump sum.
   - **(ii)** When considering the Affected Doctor’s estimate, the Health Service may have regard to the Reasonable Distance
-  - **(iii)** In the event of a dispute about the Affected Doctor’s estimate it will be resolved under [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) (Dispute Resolution).
+  - **(iii)** In the event of a dispute about the Affected Doctor’s estimate it will be resolved under clause 12 (Dispute Resolution).
 
 - **(e) Exceptions**
 
@@ -196,7 +196,7 @@ The Victorian Government’s policy with respect to public sector redundancy and
 - **(a)** Where the Affected Doctor’s Health Service secures a Comparable Role (as defined) with another Health Service covered by this Agreement, which:
   - **(i)** is within a Reasonable Distance of the work site of the redundant position; and
   - **(ii)** provides Continuity of Service; and
-  - **(iii)** where the Comparable Role results in a loss of income, salary maintenance at [subclause 11.5](/ebas/doctors-in-training/consultation-disputes/11-redundancy-and-associated-entitlements) will apply; and
+  - **(iii)** where the Comparable Role results in a loss of income, salary maintenance at subclause 11.5 will apply; and
   - **(iv)** where relevant, consistent with the financial and other support provided to an internal redeployee;  
   the Doctor will be considered successfully redeployed as though the employment was with the same Health Service and no severance pay will apply.
 

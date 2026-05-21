@@ -3,7 +3,7 @@ title: '12. Independent Dispute Resolution Panel'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['disputes']
 ---
-<span data-pagefind-meta="clause:Clause 12" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 12](/ebas/mspp/schedules/12-additional-consultation-and-redundancy-and-associated-entitl)" style="display:none"></span>
 <span data-pagefind-meta="section:Disputes" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 
@@ -36,7 +36,7 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
 - **d.** The Panel will commence to determine an application made under this clause within 21 days of receiving the application and conclude its deliberations as expeditiously as possible.
 - **e.** The Panel shall act independently of the Department of Health, HSU and the VHIA.
 - **f.** The parties to an application to the Panel bear their own costs (save for the Chair).
-- **g.** The Panel shall be responsible for determining its own procedure, provided that it applies the rules of natural justice and procedural fairness and be consistent with the requirements of [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) Disputes Settling Procedure.
+- **g.** The Panel shall be responsible for determining its own procedure, provided that it applies the rules of natural justice and procedural fairness and be consistent with the requirements of [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) Disputes Settling Procedure.
 - **h.** The Panel shall apply an inquisitorial procedure, rather than an adversarial one.
 - **i.** The Panel may decide to hear a matter in the workplace. In such cases the employer shall provide a suitable meeting room and other relevant facilities for any date requested by the Panel. The employer will allow the Panel to inspect any work site if the Panel believes this will assist it in determining a matter, subject to any health, safety and privacy considerations. A party to a dispute may request that the Panel hear a matter in a workplace. The Panel will consider such a request and determine for itself the best location for hearing a matter.
 - **j.** In the exercise of its functions, the Panel shall do such things as are necessary to ensure that:
@@ -59,8 +59,8 @@ The Independent Dispute Resolution Panel (Panel) is empowered to hear and determ
 
 **12.4 Application to Panel to deal with a dispute**
 
-- **a.** Either an Employer or an Employee (or their representatives) may make an application to the Panel regarding a dispute about matters listed at 12.1, only where the Parties have attempted to resolve the dispute at the workplace as described at [clause 11.4](/ebas/mspp/disputes/11-disputes-settling-procedures) of the enterprise agreement.
-- **b.** If the provisions of [clause 11.4](/ebas/mspp/disputes/11-disputes-settling-procedures) (excluding 11.4c) (Discussion of dispute at workplace) or obligations set out at 11.2 of the Agreement have not been complied with prior to application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
+- **a.** Either an Employer or an Employee (or their representatives) may make an application to the Panel regarding a dispute about matters listed at 12.1, only where the Parties have attempted to resolve the dispute at the workplace as described at [clause 11.4](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) of the enterprise agreement.
+- **b.** If the provisions of [clause 11.4](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) (excluding 11.4c) (Discussion of dispute at workplace) or obligations set out at 11.2 of the Agreement have not been complied with prior to application, the Chair will refer the parties back to the workplace to attempt resolution through discussion at the workplace level in the first instance.
 - **c. Application by an Employee**
   - **(i)** The Chair shall notify the HSU, VHIA and the Employer of an application made by an employee directly to the Panel.
   - **(ii)** Before referral to the Panel for determination, the Chair in the first instance shall review the employee’s application to determine that the nature of the dispute is within the scope of this clause and therefore able to be determined by the Panel.
@@ -104,11 +104,11 @@ The HSU and the VHIA recognise that the Victorian Government, represented by the
   - **(i)** Staffing/EFT levels and profiles
   - **(ii)** position descriptions
   - **(iii)** rosters
-  - **(iv)** prioritised work arrangements made under [clause 34](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences)
+  - **(iv)** prioritised work arrangements made under clause 34
   - **(v)** proposed and/or actual professional reporting lines for/to the proposed position/s
   - **(vi)** records relating to an application (for example: leave backfill, vacancies, absenteeism and leave accruals)
   - **(vii)** organisational structure
-  - **(viii)** information referred to in [clause 17.10](/ebas/mspp/union-rights/17-union-rights) (WIC)
+  - **(viii)** information referred to in clause 17.10 (WIC)
 
 ---
 

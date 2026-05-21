@@ -77,7 +77,7 @@ In developing, reviewing and implementing policies, the following matters will b
 **69F.6 Continuous Improvement**
 
 - **(a)** The Employer will undertake regular (at least six-monthly) audits of their occupational violence and aggression management strategy, considering the Occupational Violence Principles to end violence and aggression, in consultation with HSRs and clinical care staff.
-- **(b)** The Employer will provide the results of such audits and the action plan to their HSR and, upon request, Job Representatives for review and discussion at the Committee or working group referred to at [clauses 69F.2(f)](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and) and 69D.
+- **(b)** The Employer will provide the results of such audits and the action plan to their HSR and, upon request, Job Representatives for review and discussion at the Committee or working group referred to at clauses 69F.2(f) and 69D.
 - **(c)** Further external developments regarding the prevention and management of occupational violence and aggression will occur during the life of the Agreement. They may include but not be limited to:
   - **(i)** baseline standards for security; and
   - **(ii)** incident reporting systems.
@@ -87,10 +87,10 @@ In developing, reviewing and implementing policies, the following matters will b
 
 **69F.7 OVA Reporting**
 
-- **(a)** The Employer will make available to the committee designated at [clause 69F.5(f)](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and) the following information:
+- **(a)** The Employer will make available to the committee designated at clause 69F.5(f) the following information:
   - **(i)** The number of code greys and code black and other alerts relating to risk of violence
   - **(ii)** The overall number of reported incidents of OVA
   - **(iii)** The number of incidents that have resulted in injury (which may be physical or psychological) to staff, consumers and visitors and the number of incidents that have resulted in property damage; where available; and
   - **(iv)** Systemic recommendations and actions affecting risk management and OVA.
 - **(b)** The Employer will, in consultation with the elected HSRs conduct workplace violence audits of mental health and wellbeing facilities.
-- **(c)** Opportunities will be provided during meetings of the OHS consultative committees designated at [clause 69F.2(f)](/ebas/mental-health/common-terms/ohs/69F-occupational-violence-and-aggression-prevention-and)to discuss these matters.
+- **(c)** Opportunities will be provided during meetings of the OHS consultative committees designated at clause 69F.2(f)to discuss these matters.

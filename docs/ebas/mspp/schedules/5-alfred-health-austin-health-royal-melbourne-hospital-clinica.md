@@ -28,7 +28,7 @@ Perfusionists who participate fully in the On-call roster such that they are ava
 
 ## 3. Salaries
 
-The salaries provided for below incorporate the provisions of this Agreement referred to in clause 1.2(b) of this Schedule. These rates are based [clause 1.2(b)](/ebas/mspp/schedules/1-employer-parties)ionists rates in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances) of this Agreement multiplied by a factor of 1.66 to incorporate the entitlements in the Agreement provisions exempted under clause 1.2(b) of this Schedule that would otherwise be applicable.
+The salaries provided for below incorporate the provisions of this Agreement referred to in [clause 1.2(b)](/ebas/mspp/schedules/1-employer-parties) of this Schedule. These rates are based [clause 1.2(b)](/ebas/mspp/schedules/1-employer-parties)ionists rates in [Schedule 2](/ebas/mspp/schedules/2-rates-of-pay-and-allowances) of this Agreement multiplied by a factor of 1.66 to incorporate the entitlements in the Agreement provisions exempted under clause 1.2(b) of this Schedule that would otherwise be applicable.
 
 ## 4. Salary Rates (per week)
 

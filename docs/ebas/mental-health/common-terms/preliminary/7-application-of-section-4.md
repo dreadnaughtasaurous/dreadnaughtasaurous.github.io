@@ -13,4 +13,4 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 7. Application of Section 4
 
-The terms of Section 4 of this Agreement apply to Employees engaged in a classification set out in [Schedule 6](/ebas/mental-health/schedules/06-support-services-employee-classifications) which includes Support Services Employees.
+The terms of Section 4 of this Agreement apply to Employees engaged in a classification set out in [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3) which includes Support Services Employees.

@@ -31,7 +31,7 @@ Where there is an accepted workers' compensation claim, an Employee who requires
 
 **104.4 Return to Work**
 
-- **(a)** This [subclause 104.4](/ebas/allied-health/ohs/104-workers-compensation-rehabilitation-and-return-to) shall apply to an Employee not performing their normal duties due to a work related injury to which the WIRC Act applies.
+- **(a)** This subclause 104.4 shall apply to an Employee not performing their normal duties due to a work related injury to which the WIRC Act applies.
 - **(b)** The Employer will appoint a Return to Work Co-ordinator who will have sufficient knowledge of occupational rehabilitation legislation, regulations and guidelines to undertake the task.
 - **(c)** The Employer will develop an appropriate return to work plan as soon as medically appropriate in consultation with the injured Employee concerned, their treating doctor and health professionals providing treatment or services to the injured Employee.
 - **(d)** The Employer will assist injured Employees to remain at work or return to work in suitable employment as soon as medically appropriate after injury. The Employer shall ensure that the suitable employment will reflect and be commensurate with, as far as possible, the skills, education, age, experience, pre-injury employment, and any relevant medical restrictions of the injured Employee. The suitable employment will also take into account the Employee's place of residence and pre-injury hours of work.

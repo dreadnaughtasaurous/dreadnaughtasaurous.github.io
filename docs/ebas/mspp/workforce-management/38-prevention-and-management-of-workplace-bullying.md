@@ -68,7 +68,7 @@ Where it is necessary to conduct an investigation regarding potential Workplace 
 - **(a)** Where the Employer decides to appoint an external investigator, the Employer shall either:
   - **(i)** Select an investigator from the DH ‘preferred provider’ list, or
   - **(ii)** Appoint an investigator following timely consultation with the representative of the Employee parties, including the Union, where relevant. The Employer may appoint an investigator without consultation where no response is received from the Union within 5 days following the Union being notified.
-- **(b)** Consultation in this [clause 38.6](/ebas/mspp/workforce-management/38-prevention-and-management-of-workplace-bullying) has its ordinary meaning and does not refer to consultation as set out at [clause 30](/ebas/mspp/employment/30-consultation) and shall be conducted efficiently having regard for the health and safety of the Employees.
+- **(b)** Consultation in this clause 38.6 has its ordinary meaning and does not refer to consultation as set out at [clause 30](/ebas/mspp/employment/30-consultation) and shall be conducted efficiently having regard for the health and safety of the Employees.
 
 **38.7 More information**
 

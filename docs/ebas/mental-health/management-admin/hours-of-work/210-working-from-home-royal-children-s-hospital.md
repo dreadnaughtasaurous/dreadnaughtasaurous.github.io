@@ -13,6 +13,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 210. Working From Home - Royal Children's Hospital
 
-*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
+*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement.*
 
 An Employee, subject to operational requirements and with the approval of the relevant Department Head, may work from home in circumstances where the work is project based and may be performed with a high level of autonomy.

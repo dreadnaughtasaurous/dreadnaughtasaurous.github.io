@@ -135,7 +135,7 @@ mental health worker mental health community mental health AMHS authorised menta
 
 **109.4 (e) Advanced PEN Level 3 Competency Standards**
 
-The following are examples of competency standards that meet the eligibility criteria in sub-[clause 109.4(d)(i)](/ebas/mental-health/rpn-pen-mho/classification-staffing/109-psychiatric-enrolled-nurse-classifications) above.
+The following are examples of competency standards that meet the eligibility criteria in sub-clause 109.4(d)(i) above.
 
 - **(i)** Contributes to the education of new graduate PENs and/or Trainee PENs. For example, the Advanced PEN may precept or mentor new graduate Enrolled Nurses and/or Trainee Enrolled Nurses or contribute to the performance appraisal of less experienced PENs.
 - **(ii)** The PEN may be involved in committees and working parties within and/or beyond the work unit.
@@ -177,7 +177,7 @@ The following are examples of competency standards that meet the eligibility cri
   - **(D)** Interviews, if required: 
     - 1) Will be held within 10 days of the application. 
     - 2) Will be conducted by the NUM and may also include up to two other nursing staff such as the ANUM or Nurse Educator at the local level. 
-    - 3) Must relate directly to the criteria in sub-[clause 109.4(g)(ii)(C)](/ebas/mental-health/rpn-pen-mho/classification-staffing/109-psychiatric-enrolled-nurse-classifications), and the supporting evidence within the application. 
+    - 3) Must relate directly to the criteria in sub-clause 109.4(g)(ii)(C), and the supporting evidence within the application. 
   - **(E)** The PEN will be notified in writing of the outcome within 7 days of the receipt of the application, or where there is an interview, within 7 days after the interview. 
   - **(F)** For successful applicants, re-grading will apply from the date of application and be payable from the next fortnightly pay period after notification of a successful application. 
   - **(G)** If the application is unsuccessful, the Employer is to provide detailed written feedback aligned with the criteria, with a supportive development plan to be commenced to assist the PEN in any future application and meeting the eligibility criteria.

@@ -34,13 +34,13 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 **40.3 Four Clear Days**
 
 - **(a)** An Employee is entitled to four clear days in each fortnight of a four week roster cycle free of duty, including on-call/recall work.
-- **(b)** An Employer or Employee/s may propose that all Employees at a particular campus be covered by an alternate arrangement to that in [clause 40.3(a)](/ebas/biomedical-engineers/hours-of-work/40-hours-of-work). The proposal may be implemented where the Employer, the Union (or other Employee nominated representative) and the majority of affected Employees genuinely agree.
+- **(b)** An Employer or Employee/s may propose that all Employees at a particular campus be covered by an alternate arrangement to that in clause 40.3(a). The proposal may be implemented where the Employer, the Union (or other Employee nominated representative) and the majority of affected Employees genuinely agree.
 - **(c)** Any arrangements adopted in accordance with this subclause shall be recorded in writing and copies shall be provided to Employees to whom the arrangements apply.
 
 **40.4 10-hour break between ordinary shifts**
 
-- **(a)** Subject to [subclause 40.4(b)](/ebas/biomedical-engineers/hours-of-work/40-hours-of-work), the Employer will provide an Employee with at least ten consecutive hours off duty between successive ordinary shifts, which will be reflected in any rosters that apply to the Employee. See also [clause 48](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break) for the periods off duty involving overtime.
-- **(b)** Where for urgent operational issues there is not at least ten consecutive hours off duty between successive ordinary shifts as required at [subclause 40.4(a)](/ebas/biomedical-engineers/hours-of-work/40-hours-of-work), the Employee shall either:
+- **(a)** Subject to subclause 40.4(b), the Employer will provide an Employee with at least ten consecutive hours off duty between successive ordinary shifts, which will be reflected in any rosters that apply to the Employee. See also [clause 48](/ebas/biomedical-engineers/hours-of-work/48-rest-period-after-overtime-recall-ten-hour-break) for the periods off duty involving overtime.
+- **(b)** Where for urgent operational issues there is not at least ten consecutive hours off duty between successive ordinary shifts as required at subclause 40.4(a), the Employee shall either:
   - **(i)** be released from duty without loss of pay until the Employee has had ten consecutive hours off duty; or
   - **(ii)** be paid at the rate of double time until released from duty for such rest period, where the employee is required to work without a ten-hour break on the instructions of the Employer.
 

@@ -15,7 +15,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 32. Accident Pay
 
-**32.1** Subject to this [clause 32](/ebas/allied-health/wages/32-accident-pay), where an Employee is receiving a weekly payment of compensation in respect of an incapacity under the WIRC Act, the Employee will receive accident make up pay equal to the ordinary time earnings they would ordinarily receive, less the amount of weekly compensation.
+**32.1** Subject to this clause 32, where an Employee is receiving a weekly payment of compensation in respect of an incapacity under the WIRC Act, the Employee will receive accident make up pay equal to the ordinary time earnings they would ordinarily receive, less the amount of weekly compensation.
 
 **32.2** Accident make up pay will only be payable to an eligible Employee whilst that Employee remains in the employment of the Employer.
 
@@ -28,4 +28,4 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 - **(e)** unless the Employee has given notice in writing to the Employer of an injury as soon as practicable after the occurrence of the injury;
 - **(f)** upon the death of the Employee.
 
-**32.4** The maximum period or aggregate periods of accident make up pay for which the Employer is liable under this [clause 32](/ebas/allied-health/wages/32-accident-pay) is 39 weeks for any one injury.
+**32.4** The maximum period or aggregate periods of accident make up pay for which the Employer is liable under this clause 32 is 39 weeks for any one injury.

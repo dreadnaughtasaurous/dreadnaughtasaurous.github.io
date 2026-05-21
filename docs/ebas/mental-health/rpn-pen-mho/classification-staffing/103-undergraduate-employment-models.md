@@ -36,7 +36,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
     - **(B)** from when the Employer terminates the employment in accordance with this Agreement, 
     - **(C)** on being granted registration as a Registered Nurse unless the Employee, Employer and the Unions agree in writing to continue the employment for a short period of time to cover the period between registration and commencement of a graduate or similar program; or 
     - **(D)** when the Employee withdraws, defers from or fails their undergraduate degree. 
-    - **(E)** In the case of a casual, in accordance with sub-[clause 25](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment) (Casual Employment).
+    - **(E)** In the case of a casual, in accordance with sub-clause 25 (Casual Employment).
 
 - **(e) Rate of pay for RUSONs**
   - **(i)** Nothing in this subclause impacts the pay rate of a RUSON/PQRN employed as such at the commencement of the Agreement.

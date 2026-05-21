@@ -20,7 +20,7 @@ The application of this clause is the same as that set out in [clause 94.1](/eba
 **85A.2 Definitions**
 
 - **(a)** **Approved Training** has the meaning provided by [clause 94.2](/ebas/nurses-midwives/classification-staffing/94-trainee-enrolled-nurses).
-- **(b)** **Enrolled Nurse** has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions).
+- **(b)** **Enrolled Nurse** has the meaning provided by [clause 4](/ebas/nurses-midwives/preliminary/4-definitions).
 - **(c)** **Trainee** has the meaning provided by [clause 94.2](/ebas/nurses-midwives/classification-staffing/94-trainee-enrolled-nurses).
 - **(d)** **Training Agreement** means an agreement for a Traineeship made between an Employer and a Trainee which is registered with the relevant Victorian Training Authority.
 

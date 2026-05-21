@@ -69,7 +69,7 @@ The leave is cumulative over two (2) calendar years.
 
 - **(a)** Where a request for professional development leave which is approved by the Employer covers a period where the Employee is not rostered to work (e.g. on weekends, ADOs or after hours), the Employer will provide time off in lieu for such period of the professional development activity.
 - **(b)** Time off must be taken at a time or times agreed by the Employee and Employer.
-- **(c)** Time in lieu in this [subclause 72.8](/ebas/biomedical-engineers/education-pd/72-professional-development-leave) is on the basis of time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
+- **(c)** Time in lieu in this subclause 72.8 is on the basis of time for time at ordinary rates and does not include any benefit or payment for any overtime, penalties or allowances under this Agreement which would normally be paid for such periods of duty.
 
 **72.9 Report Back**
 

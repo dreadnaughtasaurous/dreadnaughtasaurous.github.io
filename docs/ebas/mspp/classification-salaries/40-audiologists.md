@@ -13,6 +13,6 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 40. Audiologists
 
-For Audiologist classification definitions and Higher Qualification Allowances see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), [clause 1](/ebas/biomedical-engineers/preliminary/1-title).
+For Audiologist classification definitions and Higher Qualification Allowances see [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc), clause 1.
 
 Plain language terms: audiology.

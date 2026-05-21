@@ -21,7 +21,7 @@ The purpose of this clause is to provide for the timely, constructive resolution
 
 **11.1 Resolution of disputes and grievances**
 
-- **(a)** For the purpose of this [clause 11](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure), a dispute includes a grievance.
+- **(a)** For the purpose of this clause 11, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months’ parental leave);
   - **(ii)** the NES; or
@@ -40,7 +40,7 @@ The purpose of this clause is to provide for the timely, constructive resolution
   - **(i)** has a reasonable concern about an imminent risk to their health or safety;
   - **(ii)** has advised the Health Service of the concern; and
   - **(iii)** has not unreasonably failed to comply with a direction by the Health Service to perform other available work that is safe and appropriate for the Doctor to perform.
-- **(d)** No Party to a dispute or person covered by the Agreement will be prejudiced with respect to the resolution of the dispute by continuing work under [subclause 11.2(b)](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure).
+- **(d)** No Party to a dispute or person covered by the Agreement will be prejudiced with respect to the resolution of the dispute by continuing work under subclause 11.2(b).
 
 ---
 
@@ -58,9 +58,9 @@ The purpose of this clause is to provide for the timely, constructive resolution
 - **(a)** The Parties will attempt to resolve the dispute at the workplace as follows:
   - **(i)** in the first instance by discussions between the Doctor/s and the Doctor’s line manager or other relevant supervisor; and
   - **(ii)** if the dispute is still unresolved, by discussions between the Doctor/s and more senior managers.
-  Nothing in this [subclause 11.4](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure) prevents the Parties from conducting their discussions in writing, subject to [subclause 11.4](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure).
-- **(b)** The discussions at [subclause 11.4(a)](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
-- **(c)** Where a Party believes the requirements of this [subclause 11.4](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+  Nothing in this subclause 11.4 prevents the Parties from conducting their discussions in writing, subject to subclause 11.4.
+- **(b)** The discussions at subclause 11.4(a) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
+- **(c)** Where a Party believes the requirements of this subclause 11.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 - **(d)** If a dispute cannot be resolved at the workplace it may be referred by a party to the dispute or representative to the FWC for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
 ---
@@ -85,8 +85,8 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 
 - **(a)** If, when conciliation is complete, the dispute is not settled, either party may request the FWC proceed to determine the dispute by arbitration.
 - **(b)** The FWC member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
-- **(c)** If the dispute resolution procedure results in a finding by the FWC that a breach of the Savings provision of this Agreement has occurred, the parties agree that the order of the FWC under this [subclause 11.7](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure) will be to restore all rights and entitlements affected by the breach to the state which would have prevailed if the breach had not occurred.
-- **(d)** Subject to [subclause 11.7(e)](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure) below, a decision of the FWC is binding upon the persons covered by this Agreement.
+- **(c)** If the dispute resolution procedure results in a finding by the FWC that a breach of the Savings provision of this Agreement has occurred, the parties agree that the order of the FWC under this subclause 11.7 will be to restore all rights and entitlements affected by the breach to the state which would have prevailed if the breach had not occurred.
+- **(d)** Subject to subclause 11.7(e) below, a decision of the FWC is binding upon the persons covered by this Agreement.
 - **(e)** An appeal lies to a Full Bench of the FWC, with the leave of the Full Bench, against a determination of a single member of the FWC made pursuant to this clause.
 
 ---
@@ -94,6 +94,6 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 **11.8 Conduct of matters before the FWC**
 
 - **(a)** Subject to any agreement between the Parties to the dispute in relation to a particular dispute or grievance and the provisions of this clause, in dealing with a dispute or grievance through conciliation or arbitration, the FWC will conduct the matter in accordance with sections 577, 578 and Subdivision B of Division 3 of Part 5-1 of the Act.
-- **(b)** For the avoidance of doubt, nothing in this [clause 11](/ebas/medical-specialists/consultation-disputes/11-dispute-resolution-procedure) affects the operation of
+- **(b)** For the avoidance of doubt, nothing in this clause 11 affects the operation of
 
 Plain language terms: dispute, grievance, FWC dispute.

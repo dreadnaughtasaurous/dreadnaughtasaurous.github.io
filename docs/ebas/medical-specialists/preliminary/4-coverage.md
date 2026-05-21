@@ -13,9 +13,9 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 # 4. Coverage
 
-**4.1** Subject to [subclause 4.2](/ebas/medical-specialists/preliminary/4-coverage), this Agreement covers:
+**4.1** Subject to subclause 4.2, this Agreement covers:
 
-- **(a)** the Health Services (referred to in [Appendix 1](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services)) as employers;
+- **(a)** the Health Services (referred to in [Appendix 1](/ebas/medical-specialists/appendices/1-list-of-employers-health-services)) as employers;
 - **(b)** all Doctors (as defined in [subclause 3.1(k)](/ebas/medical-specialists/preliminary/3-definitions)) as Doctors; and
 
 provided the FWC so notes in its decision to approve this Agreement:

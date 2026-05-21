@@ -17,10 +17,10 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **35.1 General entitlement to higher duties payment – Registered Nurse or Midwife**
 
-- **(a)** Subject to [clauses 35.2](/ebas/nurses-midwives/allowances/35-higher-duties), 35.3, 35.4 and 35.5, a Registered Nurse or Midwife engaged on duties attracting a higher Level, grade or sub-grade than the Level, grade or sub-grade in which the Employee is ordinarily employed:
+- **(a)** Subject to clauses 35.2, 35.3, 35.4 and 35.5, a Registered Nurse or Midwife engaged on duties attracting a higher Level, grade or sub-grade than the Level, grade or sub-grade in which the Employee is ordinarily employed:
   - **(i)** in any one shift for more than two hours will be paid for the full shift at the minimum rate for that higher Level, grade or sub-grade; or
   - **(ii)** for two hours or less, only the time so worked will be paid for at that higher Level, grade or sub-grade.
-- **(b)** **Level** for the purposes of this ([clause 35](/ebas/nurses-midwives/allowances/35-higher-duties)) means a role in which the weekly salary in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) for that role is higher than the Employee's normal role.
+- **(b)** **Level** for the purposes of this (clause 35) means a role in which the weekly salary in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances) for that role is higher than the Employee's normal role.
 
 **35.2 General entitlement to higher duties allowance – Enrolled Nurse**
 
@@ -44,7 +44,7 @@ Provided that [clause 90.2](/ebas/nurses-midwives/classification-staffing/90-sta
 
 - **(a)** An Employee who is not an ANUM or AMUM should only be in charge of a ward or unit in exceptional circumstances.
 - **(b)** A Registered Nurse or Registered Midwife who is not an ANUM or AMUM, who is required to act in charge of a ward or unit during an off duty period of a NUM/MUM, will be paid at the Nurse Manager grade applicable to the substantive position (be it NM 2, NM 3 or NM 4) for the entire shift unless:
-  - **(i)** in the case of a 24 hour a day, seven day per week Ward or Unit that is compliant with [subclause 90.2(a)(i)](/ebas/nurses-midwives/classification-staffing/90-staffing-anum-amum-and-above);
+  - **(i)** in the case of a 24 hour a day, seven day per week Ward or Unit that is compliant with subclause 90.2(a)(i);
   - **(ii)** the ANUM/AMUM in whose place the Registered Nurse or Registered Midwife acts, is on any form of leave; or
   - **(iii)** for a reasonable period where the vacancy arises directly from the termination of employment of an ANUM/AMUM while a replacement ANUM/AMUM is being recruited,
   

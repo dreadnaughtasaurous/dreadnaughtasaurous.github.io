@@ -27,7 +27,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 **9.2 Definitions**
 
-Under this [clause 9](/ebas/medical-specialists/consultation-disputes/9-consultation):
+Under this clause 9:
 
 - **(a)** **Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 
@@ -63,7 +63,7 @@ Under this [clause 9](/ebas/medical-specialists/consultation-disputes/9-consulta
 
 | Step | Action | Timeframe |
 |------|--------|-----------|
-| 1 | Health Service provides change impact statement and other written material required by [subclause 9.4](/ebas/medical-specialists/consultation-disputes/9-consultation) | |
+| 1 | Health Service provides change impact statement and other written material required by subclause 9.4 | |
 | 2 | Written response from Doctors and/or Association | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7–14 days of step 2 *The 'first meeting' at step 3 does not limit the number of meetings for consultation* |
 | 4 | Further Health Service response (where relevant) | After the conclusion of step 3 |
@@ -85,7 +85,7 @@ Under this [clause 9](/ebas/medical-specialists/consultation-disputes/9-consulta
   - **(viii)** the right of an Affected Doctor to have a representative including the Association representative at any time during the change process; and
   - **(ix)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Health Service to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
 
-- **(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with [subclause 9.4](/ebas/medical-specialists/consultation-disputes/9-consultation) will be raised as soon as practicable and before step 2.
+- **(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with subclause 9.4 will be raised as soon as practicable and before step 2.
 
 ---
 
@@ -120,7 +120,7 @@ The Affected Doctor/s, the Association and other representative (where relevant)
 
 **9.9 Outcome of consultation (step 6)**
 
-The Health Service will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under [subclause 9.8](/ebas/medical-specialists/consultation-disputes/9-consultation), and will advise the affected Doctors, the Association and other nominated representatives (if any) in writing of the outcome of Consultation including:
+The Health Service will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause 9.8, and will advise the affected Doctors, the Association and other nominated representatives (if any) in writing of the outcome of Consultation including:
 - **(a)** whether the Health Service intends to proceed with the change proposal;
 - **(b)** any amendment to the change proposal arising from Consultation;
 - **(c)** details of any measures to mitigate or avert the effect of the changes on Affected Doctors; and

@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 219. Education and Training - Royal Children's Hospital
 
-*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
+*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement.*
 
 **219.1** The parties recognise that the health services are regarded as state, national and international centres of excellence. As a consequence, the health services assume a vital role in education at a professional and community level.
 

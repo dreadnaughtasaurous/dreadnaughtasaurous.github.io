@@ -13,7 +13,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 11. Consultation
 
-*Nothing in this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) limits the Employer's obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause 11 limits the Employer's obligations to consult with HSRs under the OHS Act.*
 
 **11.1 Consultation regarding Major Change**
 
@@ -23,7 +23,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **11.2 Definitions**
 
-Under this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation):
+Under this clause 11:
 
 - **(a)** **Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 - **(b)** **Affected Employee** means an Employee on whom a Major Change may have a Significant Effect.
@@ -51,7 +51,7 @@ Under this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultati
 
 | Step | Action | Timeframe |
 | :--- | :--- | :--- |
-| **1** | Employer provides change impact statement and other written material required by [clause 11.4](/ebas/nurses-midwives/consultation-disputes/11-consultation) | — |
+| **1** | Employer provides change impact statement and other written material required by clause 11.4 | — |
 | **2** | Written response from Employees and/or Union | Within 14 days of step 1 |
 | **3** | Consultation Meeting/s convened | 7–14 days of step 2 |
 | **4** | Further Employer response (where relevant) | After the conclusion of step 3 |
@@ -69,7 +69,7 @@ Under this [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultati
   - **(vi)** if relevant, existing and proposed position descriptions;
   - **(vii)** the right of an Affected Employee to have a representative; and
   - **(viii)** other relevant written material (excluding commercial in confidence or legally privileged material).
-- **(b)** Any concerns regarding whether the Change Impact Statement complies with [clause 11.4](/ebas/nurses-midwives/consultation-disputes/11-consultation) will be raised as soon as practicable.
+- **(b)** Any concerns regarding whether the Change Impact Statement complies with clause 11.4 will be raised as soon as practicable.
 
 **11.5 Employee/Union response (step 2)**
 

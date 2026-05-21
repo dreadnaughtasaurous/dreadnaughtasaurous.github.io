@@ -23,9 +23,9 @@ Nothing in this clause permits variations inconsistent with the minimum ratio re
 - **(b) Continuity of Care Model** includes:
   - **(i)** Midwifery group practice – caseload;
   - **(ii)** MAPS – caseload of antenatal, postnatal and domiciliary care provision, provided that the following sub-clauses do not apply to a MAPS model:
-    - **(A)** [subclause 107.3(d)(i)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models);
-    - **(B)** [clause 107.7A](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) (Commuted loading review); and
-    - **(C)** [subclause 107.4(d)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) (caseload).
+    - **(A)** subclause 107.3(d)(i);
+    - **(B)** clause 107.7A (Commuted loading review); and
+    - **(C)** subclause 107.4(d) (caseload).
 
 **107.3 Introducing a Midwifery Continuity of Care Model**
 
@@ -43,7 +43,7 @@ Nothing in this clause permits variations inconsistent with the minimum ratio re
   - **(vi)** Appropriate occupational health and safety provisions, including no lift/violence and aggression/communication/equipment/etc.
   - **(vii)** The four (4) days clear off duty and on call provided for in this Agreement to apply.
 - **(e)** Following consultation with the LHAC, the Employer will distribute the Proposal, including any amendments arising from consultation, to affected midwives (including those midwives who may not participate in the model).
-- **(f)** All proposals must take into account and address the matters set out at [clause 107.4](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) below.
+- **(f)** All proposals must take into account and address the matters set out at clause 107.4 below.
 - **(g)** Details of arrangements for midwives not entering the new model will be contained within the Proposal. Whether working in a new model or not, arrangements will be such that midwives can have access with their Employer and be able to perform the range of midwifery duties at an equivalent level to the access and performance provided prior to the implementation of the model in order to maintain their skill base.
 - **(h)** Any subsequent changes in a Midwifery Continuity of Care Models must only occur following further consultation with the ANMF and affected Employees and in compliance with this clause.
 
@@ -52,7 +52,7 @@ Nothing in this clause permits variations inconsistent with the minimum ratio re
 The guidelines for Midwifery Continuity of Care Models are as follows:
 
 - **(a)** Models should aim for continuity of care including pregnancy care, labour and birth care, post-natal and community care.
-- **(b)** Changes to employment patterns (including hours) will be agreed as part of the consideration of a proposal and entitlements will apply in accordance with the new pattern of work (including hours), and this [clause 107](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models). For midwives not entering the model, existing work patterns (including hours) and entitlements will continue unless otherwise agreed between the Employer and the midwife.
+- **(b)** Changes to employment patterns (including hours) will be agreed as part of the consideration of a proposal and entitlements will apply in accordance with the new pattern of work (including hours), and this clause 107. For midwives not entering the model, existing work patterns (including hours) and entitlements will continue unless otherwise agreed between the Employer and the midwife.
 - **(c)** Where the model is not embedded within a full maternity service (i.e. a major regional or metropolitan health service) it is recognised there may not be on-site back up from other suitably qualified and skilled midwives (including midwives not participating in the model). In these circumstances, the LHAC Proposal and consultation must address appropriate back up and support at all times, including the ability to hand over to other suitably qualified and skilled midwives (including midwives not participating in the model). For example, the arrangements should include suitable provisions consistent with the operation of the model to provide back-up, support and relief for circumstances such as meal breaks, emergency assistance, birthing assistance etc.
 - **(d)** The caseload per one EFT midwife will not exceed 45 women (booked in) per annum, with proportional caseloads to be allocated to part-time midwives.
 - **(e)** Local arrangements are to be agreed by the LHAC and resourced by the Employer to ensure compliance with this clause.
@@ -100,7 +100,7 @@ Participation in the model for midwifery staff is voluntary. Subject to operatio
 
 **107.6 Advertising Positions in the Model**
 
-Once a proposal has been implemented by an Employer in accordance with this clause, the Employer will be entitled to advertise for new Employee midwives to participate exclusively in the model(s) and [subclause 107.7B](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) above will not apply, i.e. the newly employed midwives would not be able to elect to cease participating in the model.
+Once a proposal has been implemented by an Employer in accordance with this clause, the Employer will be entitled to advertise for new Employee midwives to participate exclusively in the model(s) and subclause 107.7B above will not apply, i.e. the newly employed midwives would not be able to elect to cease participating in the model.
 
 **107.7 Evaluation**
 
@@ -114,7 +114,7 @@ For the purpose of [clause 41A](/ebas/nurses-midwives/allowances/41A-change-of-w
 
 **107.9 Dispute Resolution**
 
-- **(a)** In the event of any dispute arising between an Employer and the ANMF relating to the continuation or implementation of midwifery continuity of care models, the review at [clause 107.7](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) above, and this clause, it will in the first instance be referred to the ANMF/VHIA/DOH for consideration and consultation.
-- **(b)** In the event the dispute is unable to be resolved in accordance with [subclause 107.9(a)](/ebas/nurses-midwives/safe-patient-care/107-midwifery-continuity-of-care-models) above, it will be processed as a collective dispute in accordance with the Dispute Resolution Procedure of this Agreement.
+- **(a)** In the event of any dispute arising between an Employer and the ANMF relating to the continuation or implementation of midwifery continuity of care models, the review at clause 107.7 above, and this clause, it will in the first instance be referred to the ANMF/VHIA/DOH for consideration and consultation.
+- **(b)** In the event the dispute is unable to be resolved in accordance with subclause 107.9(a) above, it will be processed as a collective dispute in accordance with the Dispute Resolution Procedure of this Agreement.
 
 Plain language terms: caseload midwifery, continuity midwifery, CoC.

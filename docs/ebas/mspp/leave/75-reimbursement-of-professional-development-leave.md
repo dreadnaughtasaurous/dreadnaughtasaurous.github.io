@@ -25,6 +25,6 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 - **(e)** The Employer must, within 14 days’ of the application for reimbursement notify the Employee of the outcome of the application. In the event that all or part of the application is not approved, the Employer will provide reasons to the Employee in writing.
 
-- **(f)** Any dispute about the reasonableness of expenses and/or failure of the Employer to approve an application for reimbursement of professional development expenses shall be dealt with under [Clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) – Dispute Settling Procedure.
+- **(f)** Any dispute about the reasonableness of expenses and/or failure of the Employer to approve an application for reimbursement of professional development expenses shall be dealt with under [Clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) – Dispute Settling Procedure.
 
 Plain language terms: PD leave, training leave.

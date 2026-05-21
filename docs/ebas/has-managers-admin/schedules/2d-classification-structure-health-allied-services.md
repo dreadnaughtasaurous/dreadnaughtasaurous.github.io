@@ -3,7 +3,7 @@ title: 'Schedule 2D – Classification Structure: Health and Allied Services'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']
 ---
-<span data-pagefind-meta="clause:Schedule 2d" style="display:none"></span>
+<span data-pagefind-meta="clause:[Schedule 2](/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3)" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 

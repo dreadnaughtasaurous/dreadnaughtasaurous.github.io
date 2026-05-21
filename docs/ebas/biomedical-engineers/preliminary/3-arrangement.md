@@ -163,10 +163,10 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 | Section | Page |
 |---------|------|
 | Signatories | 127 |
-| [Appendix 1](/ebas/biomedical-engineers/preliminary/1-title) – List of Employers | 128 |
-| [Appendix 2](/ebas/biomedical-engineers/preliminary/2-index) – Salaries & Allowances | 129 |
-| [Appendix 3](/ebas/biomedical-engineers/preliminary/3-arrangement) – Fixed Term Contract Conversion | 131 |
-| [Appendix 4](/ebas/biomedical-engineers/preliminary/4-definitions) – Certificate of Service | 132 |
+| [Appendix 1](/ebas/biomedical-engineers/appendices/1-list-of-employers) – List of Employers | 128 |
+| [Appendix 2](/ebas/biomedical-engineers/appendices/2-wage-rates) – Salaries & Allowances | 129 |
+| [Appendix 3](/ebas/biomedical-engineers/appendices/3-fixed-term-contract-conversion) – Fixed Term Contract Conversion | 131 |
+| [Appendix 4](/ebas/biomedical-engineers/appendices/4-certificate-of-service) – Certificate of Service | 132 |
 
 Plain language terms: table of contents, agreement structure.
 

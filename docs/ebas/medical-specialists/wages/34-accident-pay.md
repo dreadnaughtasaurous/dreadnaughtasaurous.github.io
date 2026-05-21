@@ -20,7 +20,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 - **(a) Accident Pay – total incapacity**
 - Accident pay in respect of a Doctor deemed to be totally incapacitated under the WIRC Act means a weekly payment of an amount representing the difference between:
   - **(i)** the total amount of compensation paid under WIRC Act for the week in question; and
-  - **(ii)** the amounts payable to the Doctor for ordinary hours for the week at the rates payable in accordance with [Appendix 2](/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances) of this Agreement.
+  - **(ii)** the amounts payable to the Doctor for ordinary hours for the week at the rates payable in accordance with Appendix 2 of this Agreement.
 - **(b) Accident Pay – partial incapacity**
   - **(i)** Accident pay in respect of a Doctor deemed to be partially incapacitated under the WIRC Act means a weekly payment of an amount representing the difference between:
     - **A.** the total amount of compensation paid under the WIRC Act for the period in question together with the average weekly amount the Doctor is earning or is able to earn in some suitable employment or business (as determined expressly or by implication by the WorkCover Authority or as agreed between the parties); and
@@ -37,7 +37,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 - **(a)** A Health Service will pay a Doctor accident pay where the Doctor receives payment in respect of a weekly incapacity (within the meaning of the WIRC Act) in respect of which the Health Service is liable to pay compensation under the WIRC Act. The Health Service’s liability to pay accident pay may be discharged by another person on the Health Service’s behalf.
 - **(b)** Accident pay does not apply:
   - **(i)** for the first five normal working days of incapacity, except where a Doctor contracts an infectious disease in the course of duty and is entitled to receive workers compensation (in which case the Doctor will receive accident pay from the first day of incapacity);
-  - **(ii)** to any incapacity occurring during the first two weeks of employment, unless incapacity continues beyond this time. Subject to [subclauses 34.2(b)(i)](/ebas/medical-specialists/wages/34-accident-pay) and 34.4 accident pay will only apply to the period of incapacity after the first two weeks of employment;
+  - **(ii)** to any incapacity occurring during the first two weeks of employment, unless incapacity continues beyond this time. Subject to subclauses 34.2(b)(i) and 34.4 accident pay will only apply to the period of incapacity after the first two weeks of employment;
   - **(iii)** to industrial diseases contracted by a gradual process or injuries subject to recurrence, aggravation or acceleration (as determined by the WIRC Act) unless the Doctor has been employed with the Health Service at the time of the incapacity for a minimum period of one month.
 - **(c)** A Doctor on engagement may be required to declare all workers compensation claims made in the previous five years. In the event of false or inaccurate information being knowingly declared by the Doctor the Health Service is entitled to require the Doctor to forfeit his or her entitlement to accident pay under this clause.
 
@@ -56,7 +56,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 **34.4 Termination of employment**
 
-- **(a)** Subject to [subclauses 34.3](/ebas/medical-specialists/wages/34-accident-pay), 34.4(c) and 34.4(d) of this Agreement, a Doctor's entitlement to accident pay will continue on termination of employment by his or her Health Service, if the Doctor was incapacitated and receiving accident pay at the date of termination.
+- **(a)** Subject to subclauses 34.3, 34.4(c) and 34.4(d) of this Agreement, a Doctor's entitlement to accident pay will continue on termination of employment by his or her Health Service, if the Doctor was incapacitated and receiving accident pay at the date of termination.
 - **(b)** A Doctor with partial incapacity will continue to receive accident pay from their Health Service on termination of his or her employment if:
   - **(i)** the Health Service cannot provide suitable employment for the Doctor to perform; and
   - **(ii)** alternative employment is available with another Health Service.

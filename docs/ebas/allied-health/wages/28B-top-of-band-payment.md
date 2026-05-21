@@ -15,9 +15,9 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 28B. Top of Band Payment
 
-*This [clause 28B](/ebas/allied-health/wages/28B-top-of-band-payment) applies to full-time, part-time, fixed term and casual Employees.*
+*This clause 28B applies to full-time, part-time, fixed term and casual Employees.*
 
-**28B.1** Employees at the highest increment within their grade/level/class (see [subclause 28B.2](/ebas/allied-health/wages/28B-top-of-band-payment)) will be entitled to a Top of Band Payment calculated as 0.3% of the annual full-time salary for that classification, payable in accordance with the following table:
+**28B.1** Employees at the highest increment within their grade/level/class (see subclause 28B.2) will be entitled to a Top of Band Payment calculated as 0.3% of the annual full-time salary for that classification, payable in accordance with the following table:
 
 | Eligibility Date | Payable |
 |---|---|
@@ -27,7 +27,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | Employee employed on 1 March 2025 | FFPPOA 1 March 2023 |
 
 
-**28B.2** The payment in [subclause 28B.1](/ebas/allied-health/wages/28B-top-of-band-payment) applies to the following classifications:
+**28B.2** The payment in subclause 28B.1 applies to the following classifications:
 
 | Classifications |
 |---|
@@ -117,7 +117,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | AHP2 – Youth Worker, Class 4, Year 3 |
 
 
-**28B.3** The payment at [subclause 28B.1](/ebas/allied-health/wages/28B-top-of-band-payment) will be pro rata for:
+**28B.3** The payment at subclause 28B.1 will be pro rata for:
 
 - **(a)** part-time Employees (including fixed-term Employees who work part-time hours); and
 - **(b)** casual Employees, based on their average ordinary hours over the 6-month period (or lesser period if they have been employed for less than 6-months) immediately prior to the relevant eligibility date.

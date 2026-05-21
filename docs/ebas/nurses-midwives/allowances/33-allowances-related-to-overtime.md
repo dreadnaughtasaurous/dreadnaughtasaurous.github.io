@@ -17,20 +17,20 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 - **(a) Meals where overtime worked beyond one hour**
 
-  An Employee who works overtime will in the circumstances described in [subclause 33.1(b)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) receive either:
+  An Employee who works overtime will in the circumstances described in subclause 33.1(b) receive either:
   - **(i)** where an Employer has its own cooking and dining facilities, an adequate meal; or
-  - **(ii)** the relevant meal allowance as set out in [Appendix 2](/ebas/nurses-midwives/appendices/02-wages-and-allowances).
+  - **(ii)** the relevant meal allowance as set out in Appendix 2.
 - **(b) Qualification for meal or payment**
-  - **(i)** The entitlement under [subclause 33.1(a)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) arises where in addition to a shift an Employee is required to work more than:
+  - **(i)** The entitlement under subclause 33.1(a) arises where in addition to a shift an Employee is required to work more than:
     - **(A)** one hour beyond the usual finishing hour of work (Monday to Sunday inclusive) in which case the relevant allowance is 'Allowance A'; or
     - **(B)** five hours beyond the usual finishing hour of work (Monday to Sunday inclusive) in which case the relevant allowances are 'Allowance A' and 'Allowance B'.
-  - **(ii)** The entitlement under [subclause 33.1(a)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) arises where, on a rostered day off an Employee is required to work more than:
+  - **(ii)** The entitlement under subclause 33.1(a) arises where, on a rostered day off an Employee is required to work more than:
     - **(A)** five hours overtime, in which case the relevant allowance is 'Allowance A'; or
     - **(B)** nine hours overtime, in which case the relevant allowances are 'Allowance A' and 'Allowance B'.
 - **(c) Where provision does not apply**
 
-  The allowance described at [subclauses 33.1(b)(i)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) and 33.1(b)(ii) above is not payable where the Employee:
-  - **(i)** receives an adequate meal as described at [subclause 33.1(a)(i)](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime); or
+  The allowance described at subclauses 33.1(b)(i) and 33.1(b)(ii) above is not payable where the Employee:
+  - **(i)** receives an adequate meal as described at subclause 33.1(a)(i); or
   - **(ii)** the Employee could reasonably return home for a meal within the period allowed.
 - **(d) Same day payment**
 

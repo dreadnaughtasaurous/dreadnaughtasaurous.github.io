@@ -21,7 +21,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 - **(b)** employees of contractors (including employees of contractors that are employees of the Employer); and
 - **(c)** employees of labour hire businesses; to perform such work.
 
-**94.2** The BPECC will design a survey for Employers to complete to identify the following in relation to the people referred to at [subclauses 94.1(a) to (c)](/ebas/allied-health/classification-staffing/94-contractors-and-labour-hire):
+**94.2** The BPECC will design a survey for Employers to complete to identify the following in relation to the people referred to at subclauses 94.1(a) to (c):
 
 - **(a)** how many such people perform work at the Employer;
 - **(b)** the professions they perform work at the Employer;

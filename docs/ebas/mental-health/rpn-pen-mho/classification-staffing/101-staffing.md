@@ -36,7 +36,7 @@ There must be:
 - **(a)** one EFT Nurse Unit Manager must be appointed in each ward or unit of all residential and in-patient services.
 - **(b)** two or more part-time Nurse Unit Managers may be appointed so long as one EFT of Nurse Unit Manager hours are worked in the shared position.
 - **(c)** Subclause (a) does not require the appointment of a Nurse Unit Manager in a CCU or CRP (however titled),where a NUM is not appointed as at 1 July 2016.
-- **(d)** Nothing in sub-clause (c) above will limit, or in any way change, the Employer’s obligations under [clause 101.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) below.
+- **(d)** Nothing in sub-clause (c) above will limit, or in any way change, the Employer’s obligations under clause 101.4 below.
 
 **101.4 Registered Psychiatric Nurse - Associate Nurse Unit Managers**
 
@@ -48,11 +48,11 @@ There must be:
   - **(iii)** The 5th EFT of ANUM may be permanently appointed too or may be utilised to provide non-appointed nurses with experience as an ANUM.
   - **(iv)** In exceptional circumstances, where a minimum of four EFT of ANUMs are permanently appointed, a Registered Psychiatric Nurse other than an ANUM may be required to act in charge during the off-duty period of a NUM. Such a Registered Psychiatric Nurse shall be paid at the minimum rate applicable to the ANUM position which would normally be in charge of the shift.
   - **(v)** Where less than four EFT of ANUMs are permanently appointed due to recruitment difficulties or delays or to circumstances beyond an Employer's control, a Registered Psychiatric Nurse, other than an ANUM, may be required to act in charge during the off-duty period of a NUM (which event will be the exception to the rule). Such a Registered Psychiatric Nurse shall be paid at the minimum rate for the Nurse Unit Manager for the entire shift.
-  - **(vi)** Sub-[clause 101.4(c)(v)](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) does not apply to a RPN who is required to act in charge in the following circumstances: 
+  - **(vi)** Sub-clause 101.4(c)(v) does not apply to a RPN who is required to act in charge in the following circumstances: 
     - **(A)** Where an ANUM in whose place the RPN acts, is on any form of leave; or 
     - **(B)** For a reasonable period during which a replacement ANUM is sought to be employed to fill a vacancy created by the termination of employment of an ANUM in whose place the RPN acts.
   - **(vii)** In the circumstances set out in 101.4(c)(vi)(A) or 101.4(c)(vi)(B) the RPN acting in charge shall be paid at the minimum rate applicable to the ANUM position which would normally be in charge of that shift.
-  - **(viii)** If, despite having taken reasonable and practical steps to fill the ANUM positions, an Employer experiences difficulty in recruiting Employees to the permanent ANUM position in order to comply with this [clause 101.4](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing), the Employer will contact the relevant workplace delegates and their unions and agree on alternative arrangements.
+  - **(viii)** If, despite having taken reasonable and practical steps to fill the ANUM positions, an Employer experiences difficulty in recruiting Employees to the permanent ANUM position in order to comply with this clause 101.4, the Employer will contact the relevant workplace delegates and their unions and agree on alternative arrangements.
 
 **101.5 RPN4 - ECT Nurse (Electroconvulsive Therapy Nurse)**
 
@@ -61,21 +61,21 @@ There must be:
 
 **101.6 Graduate Support Nurse Allocation**
 
-- **(a)** Employers are required to appoint Graduate Support Nurse (Grade 3) in accordance with [Schedule 11](/ebas/mental-health/schedules/11-additional-staffing).
+- **(a)** Employers are required to appoint Graduate Support Nurse (Grade 3) in accordance with [Schedule 11](/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement).
 - **(b)** For the avoidance of doubt, these positions are in addition to the CNE and CNC (however titled) positions.
 
 **101.7 Clinical Nursing Educator Positions**
 
-- **(a)** Employers are required to appoint Clinical Nurse Educators (Grade 4) and PEN 4 Educator Support roles in accordance with [Schedule 11](/ebas/mental-health/schedules/11-additional-staffing).
-- **(b)** Employers are required to appoint Clinical Nurse Educator for Parent and Infant Units (Grade 4) in accordance with [Schedule 11](/ebas/mental-health/schedules/11-additional-staffing) (where applicable).
+- **(a)** Employers are required to appoint Clinical Nurse Educators (Grade 4) and PEN 4 Educator Support roles in accordance with [Schedule 11](/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement).
+- **(b)** Employers are required to appoint Clinical Nurse Educator for Parent and Infant Units (Grade 4) in accordance with [Schedule 11](/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement) (where applicable).
 
 **101.8 RPN 2 Psychiatric Clinical Nurse Specialist (PCNS) and RPN 2 Advanced**
 
-- **(a)** An RPN 2 who considers that they meets the criteria set out for RPN 2 Psychiatric Clinical Nurse Specialist or RPN 2 Advanced set out at [clause 108.9](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications)(c) to 108.9(e) inclusive may apply for reclassification. The application process shall be as set out in [Schedule 4](/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process).
+- **(a)** An RPN 2 who considers that they meets the criteria set out for RPN 2 Psychiatric Clinical Nurse Specialist or RPN 2 Advanced set out at [clause 108.9(c)](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications) to 108.9(e) inclusive may apply for reclassification. The application process shall be as set out in [Schedule 4](/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules).
 - **(b)** An RPN 2 Advanced shall have the right to be classified as and use the title of RPN 2 PCNS upon the completion of a post graduate course of training in Psychiatric Nursing that leads to endorsement by the NBV.
 - **(c)** Where relevant, a qualifications allowance will be paid in accordance with the terms of this Agreement.
-- **(d)** The RPN 2 PCNS and the RPN 2 Advanced are personal classifications. An RPN 2 shall hold the classification while the Employee continues to meet the criteria set out in [clause 108.8](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications)(a) of this Agreement. Any performance related issues shall be dealt with in accordance with this existing performance management arrangements of the Employer.
-- **(e)** All other matters relating to the application process in the assessment criteria are to be as set out in [Schedule 4](/ebas/mental-health/schedules/04-pcns-and-rpn-2-advanced-application-process) of this Agreement.
+- **(d)** The RPN 2 PCNS and the RPN 2 Advanced are personal classifications. An RPN 2 shall hold the classification while the Employee continues to meet the criteria set out in [clause 108.8(a)](/ebas/mental-health/rpn-pen-mho/classification-staffing/108-registered-psychiatric-nursing-classifications) of this Agreement. Any performance related issues shall be dealt with in accordance with this existing performance management arrangements of the Employer.
+- **(e)** All other matters relating to the application process in the assessment criteria are to be as set out in [Schedule 4](/ebas/mental-health/common-terms/preliminary/4-division-into-sections-and-schedules) of this Agreement.
 - **(f)** In order to avoid any confusion, RPNs who are in receipt of commuted allowance and are classified as either RPN 2 PCNS or RPN 2 Advanced shall continue to receive the commuted allowance calculated at the rate of 18% of salary.
 
 **101.9 Skill Mix Inpatient Units**
@@ -92,7 +92,7 @@ There must be:
 - **(a) Entry Level Positions**
   - **(i)** The Parties agree to assist in facilitating over the life of the agreement an increase of up to 15% of community mental health staff to be RPN2, PEN or MHO.
   - **(ii)** In relation to sub-clause (a)[(a)] above the: 
-    - **(A)** RPN 2 placement shall be a training position and shall comply with the criteria outlined in sub-[clause 101.11](/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing) below. 
+    - **(A)** RPN 2 placement shall be a training position and shall comply with the criteria outlined in sub-clause 101.11 below. 
     - **(B)** PEN role shall be appropriate to level and experience. Where medication qualification exists, this should be taken into account in role description and work allocated.
   - **(iii)** MHO role shall be consistent with current classification and role description, that is will not include clinical interventions or treatment provided by RPN/ PEN/ Health Professionals but will provide a support role.
 - **(b) Senior Positions**

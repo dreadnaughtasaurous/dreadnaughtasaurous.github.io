@@ -17,7 +17,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 *This clause does not apply to casual Employees.*
 
-*See [clause 4.2](/ebas/allied-health/preliminary/4-definitions) (Relevant qualification/relevant component of qualification etc.) for considerations relating to relevance.*
+*See [clause 4.2](/ebas/nurses-midwives/preliminary/4-definitions) (Relevant qualification/relevant component of qualification etc.) for considerations relating to relevance.*
 
 **76.1 When paid study leave is available**
 

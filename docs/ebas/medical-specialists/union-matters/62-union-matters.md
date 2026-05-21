@@ -45,7 +45,7 @@ A Health Service will ensure that:
 > **Note:**
 > Additional rights of HSRs are contained in the OHS Act.
 
-- **(a)** In this [subclause 62.4](/ebas/medical-specialists/union-matters/62-union-matters), Representative means an Ambassador or HSR.
+- **(a)** In this subclause 62.4, Representative means an Ambassador or HSR.
 - **(b)** A Representative is entitled to reasonable time release from duty to:
   - **(i)** attend to matters relating to industrial, occupational health and safety or other relevant matters such as assisting with grievance procedures and attending committee meetings;
   - **(ii)** access reasonable preparation time before meetings with management or disciplinary or grievance meetings with a member of the Association;
@@ -86,7 +86,7 @@ A Health Service will, on application by the Association, grant leave without lo
 > **Note:**
 > A HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
 
-- **(a)** Subject to the conditions in this [subclause 62.9](/ebas/medical-specialists/union-matters/62-union-matters), Doctors selected by the Association to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Doctor.
+- **(a)** Subject to the conditions in this subclause 62.9, Doctors selected by the Association to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Doctor.
 - **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 - **(c)** The granting of leave will be subject to the Health Service’s operational requirements. The granting of leave will not be unreasonably withheld.
 - **(d)** Leave under this subclause is granted on the following conditions:

@@ -22,8 +22,8 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(a)** an Employee who works so much overtime that the Employee would not have had at least 10 consecutive hours off duty between the completion of overtime and the commencement of the next rostered shift then, subject to this clause, the Employee will be released after completion of overtime until the Employee has had 10 consecutive hours off duty, without loss of pay for rostered ordinary hours occurring during such absence.
 - **(b)** if an Employee is required by the Employer to resume or to continue to work without having had 10 consecutive hours off duty, the Employee will be paid at the rate of double time until released from duty for 10 consecutive hours, without loss of pay for rostered ordinary hours occurring during such absence.
 
-**53.3** If the requirements at [clause 53.2](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall) result in an Employee commencing ordinary hours with 3 or fewer hours remaining in their rostered shift, the Employee will be paid for the entire rostered shift without any requirement to attend for duty.
+**53.3** If the requirements at clause 53.2 result in an Employee commencing ordinary hours with 3 or fewer hours remaining in their rostered shift, the Employee will be paid for the entire rostered shift without any requirement to attend for duty.
 
-**53.4** The Employer is not to change an Employee’s rostered shift/s to avoid the requirements at [clause 53.2](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall).
+**53.4** The Employer is not to change an Employee’s rostered shift/s to avoid the requirements at clause 53.2.
 
 Plain language terms: 10 hour break, fatigue break, rest between shifts.

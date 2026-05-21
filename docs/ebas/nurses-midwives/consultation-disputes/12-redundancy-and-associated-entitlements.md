@@ -19,14 +19,14 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 This clause is arranged as follows:
 
-- **(a)** Arrangement ([clause 12.1](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
-- **(b)** Definitions ([clause 12.2](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
-- **(c)** Redeployment ([clause 12.3](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
-- **(d)** Support to Affected Employees ([clause 12.4](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
-- **(e)** Salary maintenance ([clause 12.5](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
-- **(f)** Relocation ([clause 12.6](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements));
-- **(g)** Employment terminates due to redundancy ([clause 12.7](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements)); and
-- **(h)** Exception to application of Victorian Government's policy with respect to severance pay ([clause 12.8](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements)).
+- **(a)** Arrangement (clause 12.1);
+- **(b)** Definitions (clause 12.2);
+- **(c)** Redeployment (clause 12.3);
+- **(d)** Support to Affected Employees (clause 12.4);
+- **(e)** Salary maintenance (clause 12.5);
+- **(f)** Relocation (clause 12.6);
+- **(g)** Employment terminates due to redundancy (clause 12.7); and
+- **(h)** Exception to application of Victorian Government's policy with respect to severance pay (clause 12.8).
 
 **12.2 Definitions**
 

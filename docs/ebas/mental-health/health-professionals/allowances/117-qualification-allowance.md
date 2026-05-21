@@ -40,10 +40,10 @@ An Employee who has more than one qualification is entitled to one qualification
 
 A Registered Health Professional shall be entitled to a qualification allowance under this clause will be paid, in addition to the Employee’s salary, as follows:
 
-- **(i)** The rate for '**AHP1 Graduate Certificate**' in Schedule 2for a Graduate Certificate equivalent to within the Australian Qualifications Framework.
+- **(i)** The rate for '**AHP1 Graduate Certificate**' in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) a Graduate Certificate equivalent to within the Australian Qualifications Framework.
 - **(ii)** The rate for '**AHP1 Post Grad Diploma or Degree**' in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for a Postgraduate Diploma, Degree or a Double Degree.
 - **(iii)** The rate for '**AHP1 Masters**' in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for a master’s degree.
-- **(iv)** The rate for '**AHP1 PhD**' in Schedule 2for a Doctorate or a PhD.
+- **(iv)** The rate for '**AHP1 PhD**' in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) a Doctorate or a PhD.
 
 **117.5 Payment During Paid Leave** 
 

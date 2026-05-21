@@ -37,13 +37,13 @@ AHP professional physiotherapist OT occupational therapist social worker podiatr
 - **(p)** Social Work; and
 - **(q)** Speech Pathology; 
 
-an Employee who would have been a Chief (as defined in the 2011 Agreement) classified two (2) grades or more below that of another Chief position (that is either in the therapy stream or the radiation related stream) in the employ of the same Employer under the 2011 Agreement, will be reclassified as described at [subclause 87.3](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure) (Reclassification) below.
+an Employee who would have been a Chief (as defined in the 2011 Agreement) classified two (2) grades or more below that of another Chief position (that is either in the therapy stream or the radiation related stream) in the employ of the same Employer under the 2011 Agreement, will be reclassified as described at subclause 87.3 (Reclassification) below.
 
 **87.3 Reclassification**
 
-- **(a)** This [clause 87](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure) is to have the same effect as [subclause 29.1](/ebas/allied-health/wages/29-payment-of-wages) of the 2011 Agreement, [subclause 86.3](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2016 Agreement and [subclause 86.3](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2020 Agreement.
-- **(b)** The Grade 6 Allied Health Manager has no impact on reclassification under this [clause 87](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure).
-- **(c)** A translation table intending to give effect to [subclause 87.3(a)](/ebas/allied-health/classification-staffing/87-allied-health-manager-structure) taking into account the AHP1 classification structure is outlined as follows (different FTE numbers AHP apply to Orthotics/Prosthetics): 2011 Agreement 2016 Agreement, 2020 Agreement, and this Agreement
+- **(a)** This clause 87 is to have the same effect as [subclause 29.1](/ebas/allied-health/wages/29-payment-of-wages) of the 2011 Agreement, [subclause 86.3](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2016 Agreement and [subclause 86.3](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) of the 2020 Agreement.
+- **(b)** The Grade 6 Allied Health Manager has no impact on reclassification under this clause 87.
+- **(c)** A translation table intending to give effect to subclause 87.3(a) taking into account the AHP1 classification structure is outlined as follows (different FTE numbers AHP apply to Orthotics/Prosthetics): 2011 Agreement 2016 Agreement, 2020 Agreement, and this Agreement
 
 > The table below maps the 2011 Agreement Chief classifications (left three columns) to their equivalent Allied Health Manager (AHM) grades under the 2016 Agreement, 2020 Agreement, and this Agreement (right three columns).
 

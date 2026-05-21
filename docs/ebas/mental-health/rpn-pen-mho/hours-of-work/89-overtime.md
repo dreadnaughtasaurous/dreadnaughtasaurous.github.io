@@ -25,7 +25,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **89.2 Overtime Definition**
 
 - **(a)** Overtime means work requested or directed by the Employer that is performed:
-  - **(i)** in excess of the ordinary hours prescribed at [clause 88](/ebas/mental-health/rpn-pen-mho/hours-of-work/88-hours-of-work) (Hours of Work), save for the exception at [clause 37](/ebas/mental-health/common-terms/hours-of-work/37-daylight-saving) relating to Daylight Savings; or
+  - **(i)** in excess of the ordinary hours prescribed at clause 88 (Hours of Work), save for the exception at clause 37 relating to Daylight Savings; or
   - **(ii)** in addition to the Employee’s rostered shift length; or
   - **(iii)** where a break of at least eight hours has not been provided between successive shifts – for all work performed until a break of eight hours is provided; or
   - **(iv)** as recall to duty, including recall on a public holiday.
@@ -38,7 +38,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(a)** Overtime penalty rates are to be paid as follows:
   - **(i)** Monday to Friday (inclusive) – time and half for the first two hours, double time thereafter; and
   - **(ii)** Saturday and Sunday – double time; and
-  - **(iii)** Public Holidays – see [clause 98](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays) (Public Holidays).
+  - **(iii)** Public Holidays – see clause 98 (Public Holidays).
 - **(b)** When calculating overtime payments, each day or shift shall stand alone. Where a period of overtime worked commences on one day and finishes on another, the calculation of overtime will be treated as if the overtime took place in a single day or shift.
 
 > **Example:**
@@ -54,7 +54,7 @@ An employee working overtime will take a paid rest break of 20 minutes after eac
 
 **89.5 Reasonable overtime**
 
-- **(a)** In determining whether overtime is "reasonable overtime" for the purposes of [subclause 89.1(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime), the following must be taken into account:
+- **(a)** In determining whether overtime is "reasonable overtime" for the purposes of subclause 89.1(b), the following must be taken into account:
   - **(i)** any risk to Employee health and safety from working the additional hours
   - **(ii)** the Employee's personal circumstances, including family responsibilities
   - **(iii)** the needs of the workplace or enterprise in which the Employee is employed
@@ -70,7 +70,7 @@ An employee working overtime will take a paid rest break of 20 minutes after eac
 
 **89.6 Approval of Overtime**
 
-- **(a)** A request or direction made by the manager of the ward/team that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether [clause 89.6(b)](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime) is complied with.
+- **(a)** A request or direction made by the manager of the ward/team that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether clause 89.6(b) is complied with.
 - **(b)** An Employer may create policies and procedures regarding the process the nurse in manager of the ward/team is required to undertake prior to approving overtime.
 
 ---
@@ -85,14 +85,14 @@ An employee working overtime will take a paid rest break of 20 minutes after eac
 **89.8 Transport following overtime**
 
 - **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee, including the return journey where the Employee's vehicle remains at the workplace.
-- **(b)** Where overtime is a result of a double shift, the provisions at [subclause 89.9](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime) below (Additional Provisions for Double Shifts) also apply.
+- **(b)** Where overtime is a result of a double shift, the provisions at subclause 89.9 below (Additional Provisions for Double Shifts) also apply.
 
 ---
 
 **89.9 Additional Provisions for Double Shifts**
 
 - **(a)** A double shift occurs where a non-casual Employee has worked 14 or more continuous hours (inclusive of any paid or unpaid breaks).
-- **(b)** An Employee who works a double shift will be entitled to overtime for the time worked in addition to the Employee's rostered shift length in accordance with [subclause 89.3](/ebas/mental-health/rpn-pen-mho/hours-of-work/89-overtime).
+- **(b)** An Employee who works a double shift will be entitled to overtime for the time worked in addition to the Employee's rostered shift length in accordance with subclause 89.3.
 - **(c)** If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
   - **(i)** allow paid breaks of at least 10 minutes’ duration in each two hours worked; and
   - **(ii)** adequate transport will be provided free of cost to the Employee, including the return journey where the Employee’s vehicle remains at the workplace.

@@ -15,7 +15,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 
 
-**75.1** The provisions of this [clause 75](/ebas/doctors-in-training/accommodation/75-deductions-for-board-and-lodging) are to be read in conjunction with [clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances) (Rotation Allowances).
+**75.1** The provisions of this clause 75 are to be read in conjunction with [clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances) (Rotation Allowances).
 
 **75.2** Where the Rotation Hospital provides board and lodging, the Doctor’s wage rate will be reduced by the amounts set out in the table in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions), Part 3 (Deductions for board and lodging).
 

@@ -54,6 +54,6 @@ From 11 April 2022, the Employer will make superannuation contributions througho
 - **(a)** The Doctor’s ordinary time earnings as defined in the Superannuation Guarantee (Administration) Act 1992 (Cth) calculated on the Doctors's pre-salary packaging earnings and any additional amounts consistent with the trust deed of the superannuation fund over 26 full pay periods immediately prior to commencing parental leave and divided by 52 (Weekly Parental Leave Super Contribution) any additional amounts consistent with the trust deed of the superannuation fund; and
 - **(b)** The Weekly Parental Leave Super Contribution will be paid during each week of Parental Leave (both paid and unpaid) save that:
   - **(i)** The Doctor will receive a pro-rata payment for a period less than one (1) week; and
-  - **(ii)** where, during the period of parental leave (either paid or unpaid), the Doctor’s rate of pay increases under [subclause 42.1](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases), the Doctor’s pre- salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount
+  - **(ii)** where, during the period of parental leave (either paid or unpaid), the Doctor’s rate of pay increases under subclause 42.1, the Doctor’s pre- salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount
 
 Plain language terms: super, SG.

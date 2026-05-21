@@ -18,7 +18,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 
 ::: info Related pay information
-- [Allowances & Other Payments (Schedule 3)](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc)
+- Allowances & Other Payments ([Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc))
 :::
 
 ::: tip Source: Salary Circular 873 (1 July 2025)

@@ -15,7 +15,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 99. Professional Development Leave
 
-Other than [subclause 99.8](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave), this clause does not apply to casual Employees.
+Other than subclause 99.8, this clause does not apply to casual Employees.
 
 **99.1 Professional Development Leave**
 
@@ -41,7 +41,7 @@ Other than [subclause 99.8](/ebas/mental-health/rpn-pen-mho/education-pd/99-prof
 - **(a)** **Full-time Employees** are entitled to **five days'** paid professional development leave.
 - **(b)** **Part-time Employees** who work a minimum of three shifts per week are entitled to **five days'** paid professional development leave. All other part-time Employees are entitled to **two days** paid professional leave.
 - **(c)** An Employee who is a **Nurse Practitioner** will be entitled to a further **10 hours** of paid professional development leave per annum.
-- **(d)** Other than in accordance with sub-[clause 99.2(e)](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave) below, professional development leave does not accumulate from year to year.
+- **(d)** Other than in accordance with sub-clause 99.2(e) below, professional development leave does not accumulate from year to year.
 - **(e)** Employees may access all or part of a subsequent year’s entitlement during one year. The entitlement for the subsequent year will reduce accordingly.
 
 ---

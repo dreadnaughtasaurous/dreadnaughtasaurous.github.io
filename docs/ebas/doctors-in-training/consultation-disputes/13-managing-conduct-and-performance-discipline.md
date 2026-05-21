@@ -28,7 +28,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 - **(c)** A Doctor will be provided a reasonable opportunity to be represented at any time (including by an Association) with respect to all matters set out in this clause.
 
-- **(d)** The Health Service will notify the Doctor in accordance with [subclause 13.4(b)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) as soon as practicable following the Employer becoming aware of the alleged concerns at [subclause 13.1(a)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline).
+- **(d)** The Health Service will notify the Doctor in accordance with subclause 13.4(b) as soon as practicable following the Employer becoming aware of the alleged concerns at subclause 13.1(a).
 
 - **(e) Exception - Doctors who have not completed a minimum period of employment with their Health Service**
 
@@ -39,7 +39,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
   - **(iv)** meet with the Doctor (and, where relevant, their representative); and
   - **(v)** consider any explanation by the Doctor including any matters raised in mitigation before making a decision to terminate the employment.
 
-- **(f)** The terms of [clause 13.3](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) to 13.5 inclusive do not apply to Doctors within the scope of the exception in this [clause 13.1(e)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline).
+- **(f)** The terms of clause 13.3 to 13.5 inclusive do not apply to Doctors within the scope of the exception in this clause 13.1(e).
 
 ---
 
@@ -66,7 +66,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
     - **D.** sexual harassment;
   - **(iv)** the Doctor being intoxicated at work;
   - **(v)** the Doctor refusing to carry out a lawful and reasonable instruction that is consistent with the Doctor’s contract of employment.  
-    [Subclauses 13.2(e)(iii)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline)-13.2(e)(v) do not apply if the Doctor is able to show that, in the circumstances, the conduct engaged in by the Doctor was not conduct that made employment in the period of notice unreasonable.
+    Subclauses 13.2(e)(iii)-13.2(e)(v) do not apply if the Doctor is able to show that, in the circumstances, the conduct engaged in by the Doctor was not conduct that made employment in the period of notice unreasonable.
 
 ---
 
@@ -82,11 +82,11 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
   - **(v)** ensure that the reason for any interview is explained; and
   - **(vi)** take reasonable steps to investigate the Doctor’s response.
 
-- **(c)** Where the Health Service has complied with [subclause 13.3(b)(i)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) - 13.3(b)(iv) and the Doctor does not dispute the concerns, the Doctor may opt to decline the opportunity to be interviewed.
+- **(c)** Where the Health Service has complied with subclause 13.3(b)(i) - 13.3(b)(iv) and the Doctor does not dispute the concerns, the Doctor may opt to decline the opportunity to be interviewed.
 
-- **(d)** Where the Doctor opts to decline the opportunity to be interviewed, the Doctor may still raise matters under [clause 13.4(c)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) including matters in mitigation if a disciplinary procedure (see [clause 13.4](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline)) is proposed.
+- **(d)** Where the Doctor opts to decline the opportunity to be interviewed, the Doctor may still raise matters under clause 13.4(c) including matters in mitigation if a disciplinary procedure (see clause 13.4) is proposed.
 
-- **(e)** Where the Doctor is being stood down by a Health Service during a process set out in this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline), the Doctor will receive ordinary pay for their rostered hours as if the Doctor was not stood down by the Health Service.
+- **(e)** Where the Doctor is being stood down by a Health Service during a process set out in this clause 13, the Doctor will receive ordinary pay for their rostered hours as if the Doctor was not stood down by the Health Service.
 
 ---
 
@@ -107,7 +107,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **13.5 Possible outcomes**
 
-- **(a)** Where it is determined that after following the procedures in this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) that disciplinary action is warranted, the Health Service may take any of the following steps depending on the seriousness of the Conduct or Performance and, except for informal counselling, the steps shall be recorded on the Doctor's personnel file:
+- **(a)** Where it is determined that after following the procedures in this clause 13 that disciplinary action is warranted, the Health Service may take any of the following steps depending on the seriousness of the Conduct or Performance and, except for informal counselling, the steps shall be recorded on the Doctor's personnel file:
   - **(i)** where the Performance or Conduct issue does not constitute Serious Misconduct:
     - **A.** informally counsel the doctor, which is to be confirmed in writing, with the outcome not being recorded on the Doctor's personnel file; or
     - **B.** counsel the Doctor, which is to be confirmed in writing; or
@@ -117,11 +117,11 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
     - **F.** terminate the Doctor’s employment on notice in the case of a Doctor who repeats a course of Conduct for which a final warning was given in the preceding 18 months; or
   - **(ii)** where the Performance or Conduct issues constitute Serious Misconduct:
     - **A.** terminate the Doctor’s employment without notice; or
-    - **B.** alternatively, issue the Doctor with a final warning without following the steps in [subclause 13.5(a)(i)](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) above.
+    - **B.** alternatively, issue the Doctor with a final warning without following the steps in subclause 13.5(a)(i) above.
 
 - **(b)** The Health Service’s decision and a summary of its reasons will be notified to the Doctor in writing.
 
-- **(c)** If after any counselling, a period of 6 months elapses without any further counselling or warning being required, all adverse reports relating to the disciplinary procedure under [clause 13.4](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) or to the counselling must be removed from the Doctor’s personnel file. Nothing in this sub clause prevents the Health Service from applying a lesser period to the removal of all adverse reports relating to the counselling.
+- **(c)** If after any counselling, a period of 6 months elapses without any further counselling or warning being required, all adverse reports relating to the disciplinary procedure under clause 13.4 or to the counselling must be removed from the Doctor’s personnel file. Nothing in this sub clause prevents the Health Service from applying a lesser period to the removal of all adverse reports relating to the counselling.
 
 - **(d)** If after any warning or counselling, a period of 12, or in the case of a final warning, 18 months, without the Doctor repeating a course of Conduct for which the preceding warning or counselling was given, the Health Service cannot rely on the preceding warning or counselling for the purpose of using a further warning. Nothing in this sub clause prevents the Health Service from applying a lesser period to the removal of all adverse reports relating to the warning.
 
@@ -129,7 +129,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **13.6 Disputes**
 
-A dispute over this clause (including [subclause 13.7](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline)) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
+A dispute over this clause (including subclause 13.7) is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
 ---
 
@@ -137,10 +137,10 @@ A dispute over this clause (including [subclause 13.7](/ebas/doctors-in-training
 
 *For further information on Performance Management, see [clause 13A](/ebas/doctors-in-training/consultation-disputes/13A-performance-management) of this Agreement.*
 
-- **(a)** Nothing in this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) will prevent the Health Service from undertaking performance management to support Doctors.
+- **(a)** Nothing in this clause 13 will prevent the Health Service from undertaking performance management to support Doctors.
 
-- **(b)** In this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline), **performance management** includes reasonable actions to address performance by identifying performance deficits, the Health Service's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Doctor may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
+- **(b)** In this clause 13, **performance management** includes reasonable actions to address performance by identifying performance deficits, the Health Service's expected outcomes and performance measures, and strategies to meet those measures including the provision of support and education the Doctor may reasonably require. Performance management measures may be included in a performance improvement plan that seeks to address the identified deficits within a reasonable time period.
 
-- **(c)** In this [clause 13](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline), performance management does not include sanctions in addition to those set out at [clause 13.5](/ebas/doctors-in-training/consultation-disputes/13-managing-conduct-and-performance-discipline) above.
+- **(c)** In this clause 13, performance management does not include sanctions in addition to those set out at clause 13.5 above.
 
 Plain language terms: discipline, misconduct.

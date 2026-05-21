@@ -21,7 +21,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(v)** workplace bullying; and
   - **(vi)** psychological injury.
 
-- **(b)** The proactive cooperation described at [clause 69A(a)](/ebas/mental-health/common-terms/ohs/69A-industry-ohs-working-group) with respect to the priorities identified above, will seek to achieve the following:
+- **(b)** The proactive cooperation described at clause 69A(a) with respect to the priorities identified above, will seek to achieve the following:
   - **(i)** In the case of safe patient and manual handling processes, reduction of musculoskeletal injuries by identifying requirements for safe patient and manual handling programs including recommendation of principles and practices to prevent and reduce the associated risks
   - **(ii)** the case of safe rostering practices, identification of staff and consumer safety risks associated with working hours, shift work, rostering practices and fatigue, including any preventable hazards; and recommendation of principles and practices to prevent and reduce the associated risks
   - **(iii)** In the case of occupational violence and aggression prevention programs, ensuring the prevention and/or appropriate management of occupational violence to reduce associated injuries and illness, including the long-term mental health implications of exposure to continuing violence and aggression, including recommendation of principles and practices to prevent and reduce the associated risks, consistent with the Occupational Violence Principles, and making recommendations to address these

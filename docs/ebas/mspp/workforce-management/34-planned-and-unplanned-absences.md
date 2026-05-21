@@ -19,20 +19,20 @@ In order to maintain safe staffing and workload levels and appropriate clinical 
 
 **34.2 Definitions**
 
-In this [clause 34](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences):
+In this clause 34:
 
 - **(a)** **Backfill** means the replacement of an absent Employee at the same classification and time fraction or, where the replacement Employee is classified at a higher grade than the absent Employee, the replacement Employee’s higher rate.
 - **(b)** **Absence** includes any type of leave approved by the Employer or WorkCover, either separately or in combination.
 - **(c)** **Planned Absence** is any Absence of an Employee where it is known in advance it will be for two (2) or more calendar weeks.
 - **(d)** **Unplanned Absence** is any Absence of an Employee, where:
-  - **(i)** In the case of a shift worker or rostered weekend worker under [clause 34.4](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences), the Absence was not known in advance, or
-  - **(ii)** In the case of all other Employees under [clause 34.5](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences), it was not known in advance it would be for two (2) or more calendar weeks.
+  - **(i)** In the case of a shift worker or rostered weekend worker under clause 34.4, the Absence was not known in advance, or
+  - **(ii)** In the case of all other Employees under clause 34.5, it was not known in advance it would be for two (2) or more calendar weeks.
   - **(iii)** Examples of an Unplanned Absence may include personal leave, resignation or termination of employment resulting in a vacancy or late approved leave.
 
 **34.3 Replacement of staff on Planned Absence**
 
 - **(a)** The Employer will Backfill a Planned Absence from the first day of the absence except as provided at 34.3b below.
-- **(b)** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under [clause 34.7](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences) below.
+- **(b)** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under clause 34.7 below.
 
 **34.4 Unplanned Absences – shift workers and rostered weekend workers**
 
@@ -48,7 +48,7 @@ Where a shift worker or rostered weekend worker is on an unplanned absence, the 
 **34.5 Unplanned Absences - All other Employees**
 
 - **(a)** The Employer will Backfill an Unplanned Absence of two weeks or more.
-- **(b)** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under [clause 34.7](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences) below.
+- **(b)** Where, despite best endeavours, the Employer is unable to Backfill a period of leave because a suitably experienced and qualified Employee is unavailable, the work will be prioritised under clause 34.7 below.
 
 **34.6 Backfill with existing staff where reasonable**
 
@@ -60,7 +60,7 @@ The Employer will Backfill by offering existing part time staff and, where neces
   - **(i)** workloads for other Employees who may be asked to perform the duties of the absent Employee are adjusted by reducing their usual duties; or
   - **(ii)** the work of the absent Employee is not required to be undertaken by any Employee;
   - **(iii)** other Employees will not unreasonably be required to work overtime to complete their own work and the work of the absent Employee.
-- **(b)** Prioritised work arrangements made under [subclause 34.7](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences)a shall be provided in writing to Employees in the service/department of the absent Employee and available for inspection by the Union upon request.
+- **(b)** Prioritised work arrangements made under subclause 34.7a shall be provided in writing to Employees in the service/department of the absent Employee and available for inspection by the Union upon request.
 - **(c)** If overtime is worked, the provisions of [clause 59](/ebas/mspp/hours-of-work/59-overtime) – Overtime will apply.
 - **(d)** Employers will employ adequate relief Employees or obtain an appropriate replacement scientist or pharmacist from the Public Health Sector Relief Bank or equivalent (see 34.9 below).
 - **(e)** An absent Employee will, on return to work, receive appropriate support to enable them to complete work not done in their absence and is still required to be done.
@@ -68,7 +68,7 @@ The Employer will Backfill by offering existing part time staff and, where neces
 **34.8 Relevant Information**
 
 - **(a)** The matters in this clause are directly relevant to workload and the Employer will provide information to the Workplace Implementation and Compliance Committee as required by [subclause 17.10](/ebas/mspp/union-rights/17-union-rights) of this Agreement
-- **(b)** In the event that a WICC has not been established and there is a dispute with respect to this clause, the Employer will provide relevant information that will provide clarification of the workload or staffing issues. Information that could be relevant is outlined at [clause 17.10c](/ebas/mspp/union-rights/17-union-rights).
+- **(b)** In the event that a WICC has not been established and there is a dispute with respect to this clause, the Employer will provide relevant information that will provide clarification of the workload or staffing issues. Information that could be relevant is outlined at [clause 17.10](/ebas/mspp/union-rights/17-union-rights)c.
 
 **34.9 Banks**
 
@@ -77,4 +77,4 @@ The Employer will Backfill by offering existing part time staff and, where neces
 
 **34.10 Dispute Settlement**
 
-In the event of a dispute arising over the provisions of this clause, either party may choose to have the dispute resolved under [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) – Disputes Settling Procedure.
+In the event of a dispute arising over the provisions of this clause, either party may choose to have the dispute resolved under [clause 11](/ebas/mspp/schedules/11-progression-of-medical-scientists-from-grade-1-to-grade-2-at) – Disputes Settling Procedure.

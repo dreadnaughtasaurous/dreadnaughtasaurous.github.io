@@ -19,7 +19,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **85.2** The weekly full-time wage rates applicable to each classification during the period that this Agreement operates are set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) (Wage Rates).
 
-**85.3** Appointment to a wage point will be based on the Employee’s Experience as defined at [subclause 85.12(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) below.
+**85.3** Appointment to a wage point will be based on the Employee’s Experience as defined at subclause 85.12(a) below.
 
 >**Example 1:** 
 >
@@ -49,7 +49,7 @@ When classifying an Employee as an Allied Health Manager or Assistant Allied Hea
 
 **85.7 Entry Level – New Graduate – Rural, Regional and Community Health Centres/Services**
 
-- **(a)** This [subclause 85.7](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) applies to Employees employed in a Rural or Regional Health Service or in a Community Health Centre/Service.
+- **(a)** This subclause 85.7 applies to Employees employed in a Rural or Regional Health Service or in a Community Health Centre/Service.
 - **(b)** An Employee who holds:
     - **(i)** a relevant four year undergraduate qualification; or
     - **(ii)** a relevant three year undergraduate qualification and either holds an Honours degree, or is required to do a 12 month internship; will commence at the AHP1, Grade 1, Year 2 rate.
@@ -75,11 +75,11 @@ Intern Medical Imaging Technologist (Radiographer), Nuclear Medicine Technologis
 - **(a)** Upon the Agreement commencing operation:
     - **(i)** the number of Years (increments) in AHP1 Grade 1 will be reduced from seven (7) to five (5); and
     - **(ii)** Dental Prosthetist will cease being an AHP2 classification and become an AHP1 classification.
-- **(b)** Translation arrangements for the changes in [subclause 85.11(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages) are in [Appendix 2](/ebas/allied-health/preliminary/2-arrangement) Part B and Part C of this Agreement.
+- **(b)** Translation arrangements for the changes in subclause 85.11(a) are in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) Part B and Part C of this Agreement.
 
 **85.12 Definitions** 
 
-In this [clause 85](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages):
+In this clause 85:
 
 - **(a)** Experience means experience in the Employee’s profession at an equivalent or higher classification obtained within the last five (5) years at any workplace, excluding any unpaid leave provisions in the Agreement (or any previous applicable instrument).
 - **(b)** a three year undergraduate qualification or four year undergraduate qualification means a qualification assessed as a Bachelor Degree (or equivalent) under the Australian Qualifications Framework level 7 criteria;

@@ -1,77 +1,68 @@
-// link-clauses.mjs
-// Scans all EBA .md files and hyperlinks unlinked clause/subclause references.
+// link-clauses.mjs — CORRECTED VERSION 3
+// Scans all EBA .md files and hyperlinks unlinked clause/subclause/appendix/schedule
+// references to their correct pages within the same EBA.
+//
 // Run from: C:\Projects\EBAdb\docs
-// Usage: node scripts/link-clauses.mjs [--dry-run] [--eba allied-health]
-// --dry-run: shows changes without writing files
-// --eba: limit to one EBA folder name (omit to run all)
+// Usage:    node scripts/link-clauses.mjs [--dry-run] [--eba allied-health]
+//           --dry-run  shows changes without writing files
+//           --eba      limit to one EBA folder name
+//
+// Fix over v2:
+//  STRIP PASS NOW RUNS ON ALL LINES — including indented lines (starting with
+//  space or tab) and heading lines. Previously, the strip pass was inside the
+//  same map() loop that skips those lines for link insertion. This meant any
+//  cross-EBA or self-referencing link already present on an indented line
+//  (e.g. "  - **(i)** see [clause 9](/ebas/allied-health/...)") was never
+//  stripped. The corrected version runs the strip pass unconditionally on
+//  every line, then only runs the insertion pass on non-skipped lines.
 
 import { readFileSync, writeFileSync, readdirSync, statSync } from 'fs'
 import { join, relative } from 'path'
 
-const args = process.argv.slice(2)
-const DRY_RUN = args.includes('--dry-run')
+const args       = process.argv.slice(2)
+const DRY_RUN    = args.includes('--dry-run')
 const EBA_FILTER = (() => { const i = args.indexOf('--eba'); return i !== -1 ? args[i + 1] : null })()
 
-const DOCS_ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Z]:)/, '$1')
-const EBAS_ROOT = join(DOCS_ROOT, 'ebas')
+const DOCS_ROOT  = new URL('..', import.meta.url).pathname.replace(/^\/([A-Z]:)/, '$1')
+const EBAS_ROOT  = join(DOCS_ROOT, 'ebas')
 
 const log = []
-let totalFiles = 0
+let totalFiles   = 0
 let totalChanges = 0
 
 // ─── Known-skip lists ─────────────────────────────────────────────────────────
-// Appendix/Schedule label strings that reference external legislation or
-// internal PDF structure — not wiki pages. Silently ignored, no warning emitted.
-// Key: EBA folder name. Value: Set of exact label strings to skip.
-
 const SKIP_LABELS = {
-  // Allied Health has no schedules — all "Schedule N" refs are internal table refs
   'allied-health': new Set([
     'Schedule 1', 'Schedule 2', 'Schedule 3', 'Schedule 4', 'Schedule 5',
   ]),
-  // Children's Services: Schedule 3A is a Fair Work Act schedule, not a wiki page
   'childrens-services': new Set([
     'Schedule 3A',
   ]),
   'mental-health': new Set([]),
 }
 
-// ─── Known-skip clause patterns ───────────────────────────────────────────────
-// Clause references that point to external legislation (e.g. the Fair Work Act).
-// These are matched as exact strings against the full clause match text.
-// Key: EBA folder name. Value: Set of exact clause reference strings to skip.
-
 const SKIP_CLAUSE_REFS = {
-  // clause 102(3) is a Fair Work Act reference, not an EBA clause
   'childrens-services': new Set([
     'clause 102(3)',
   ]),
 }
 
 // ─── File-scoped label overrides ──────────────────────────────────────────────
-// For cases where a label in a specific file resolves to a different URL than
-// the EBA-wide slug map would provide. Handles EBA drafting errors where the
-// wrong label was used in the source text.
-// Key: relative file path (forward slashes). Value: { 'Label': '/url' }
-
 const FILE_OVERRIDES = {
-  // 'Appendix 2' at line 268 is a drafting error — should be 'Schedule 2'
   'ebas/mental-health/common-terms/leave/50-parental-leave.md': {
     'Appendix 2': '/ebas/mental-health/schedules/02-salaries-and-allowances',
   },
 }
 
-// ─── Step 1: Build slug map for each EBA ─────────────────────────────────────
-// Maps EBA folder name → { label: URL path }
-// Auto-discovers clause/appendix/schedule pages from filenames.
-// Also applies per-EBA manual alias entries for non-standard naming conventions.
+// ─── Multi-stream EBA configuration ───────────────────────────────────────────
+const STREAM_EBAS = {
+  'has-managers-admin': ['common-terms', 'health-allied-services', 'managers-admin', 'schedules'],
+  'mental-health':      ['common-terms', 'rpn-pen-mho', 'health-professionals', 'management-admin', 'support-services', 'schedules'],
+}
 
-// Manual alias maps: EBA folder → { 'Display Label': '/url/path' }
-// Used for pages whose filenames don't follow the standard numeric prefix pattern,
-// or where in-text references use a different label than the file's numeric key.
+// ─── Manual alias maps ────────────────────────────────────────────────────────
 const MANUAL_ALIASES = {
   'has-managers-admin': {
-    // Schedules — prefixed with alphanumeric codes, not plain numbers
     'Schedule 1A': '/ebas/has-managers-admin/schedules/1a-employers-covered',
     'Schedule 1B': '/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability',
     'Schedule 2B': '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services',
@@ -87,43 +78,68 @@ const MANUAL_ALIASES = {
     'Schedule 3I': '/ebas/has-managers-admin/schedules/3i-veteran-employment-support-officer',
   },
   'mental-health': {
-    // Schedules 1–3 have zero-padded filenames; auto-discovery resolves these
-    // as keys '01', '02', '03' — but in-text references use 'Schedule 1' etc.
-    // These aliases bridge that gap.
-    'Schedule 1': '/ebas/mental-health/schedules/01-list-of-employers',
-    'Schedule 2': '/ebas/mental-health/schedules/02-salaries-and-allowances',
-    'Schedule 3': '/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator',
-
-    // Internal clause references within 05-classification-definitions-applying-to-
-    // health-professionals.md. These use old PDF-internal numbering (clause 1.1,
-    // clause 3.3, etc.) that refers back to the schedule itself.
-    'clause 1.1(b)': '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals',
-    'clause 3.3':    '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals',
-    'subclause 3.4': '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals',
-    'subclause 2.1(e)': '/ebas/mental-health/schedules/05-classification-definitions-applying-to-health-professionals',
+    'Schedule 1':  '/ebas/mental-health/schedules/01-list-of-employers',
+    'Schedule 2':  '/ebas/mental-health/schedules/02-salaries-and-allowances',
+    'Schedule 3':  '/ebas/mental-health/schedules/03-role-statement-mental-health-clinical-educator',
+  },
+  'nurses-midwives': {
+    'Appendix 1': '/ebas/nurses-midwives/appendices/01-list-of-employers',
+    'Appendix 2': '/ebas/nurses-midwives/appendices/02-wages-and-allowances',
+    'Appendix 3': '/ebas/nurses-midwives/appendices/03-information-required-for-letter-of-appointment',
+    'Appendix 4': '/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria',
+    'Appendix 5': '/ebas/nurses-midwives/appendices/05-indicative-position-description-for-after-hours-coordinator',
+    'Appendix 6': '/ebas/nurses-midwives/appendices/06-template-certificate-of-service',
+    'Appendix 7': '/ebas/nurses-midwives/appendices/07-num-mum-matrix',
+    'Appendix 8': '/ebas/nurses-midwives/appendices/08-campus-categories',
+    'Appendix 9': '/ebas/nurses-midwives/appendices/09-health-service-categories',
   },
 }
 
+// ─── Step 1: Build slug maps ───────────────────────────────────────────────────
 function buildSlugMap(ebaFolder) {
-  const map = {}
   const ebaPath = join(EBAS_ROOT, ebaFolder)
+  const streams = STREAM_EBAS[ebaFolder]
+  const isMulti = !!streams
+
+  const streamMaps = isMulti
+    ? Object.fromEntries([...streams, 'global'].map(s => [s, {}]))
+    : null
+
+  const flatMap = {}
 
   function scanDir(dir) {
     for (const entry of readdirSync(dir)) {
       const full = join(dir, entry)
       const stat = statSync(full)
-      if (stat.isDirectory()) {
-        scanDir(full)
-      } else if (entry.endsWith('.md')) {
-        // Standard clause/appendix pages: e.g. 54-recall.md, 42A-title.md, 28B-top.md
-        // Also matches zero-padded schedule names: 01-schedule-name.md, 02-..., etc.
-        const match = entry.match(/^(\d+[A-Za-z]?)-/)
-        if (match) {
-          const clauseNum = match[1] // e.g. '54', '42A', '28B', '01', '02'
-          const relPath = relative(DOCS_ROOT, full)
-            .replace(/\\/g, '/')
-            .replace(/\.md$/, '')
-          map[clauseNum] = '/' + relPath
+      if (stat.isDirectory()) { scanDir(full); continue }
+      if (!entry.endsWith('.md')) continue
+
+      const m = entry.match(/^(\d+[A-Za-z]?)-/)
+      if (!m) continue
+
+      const key     = m[1]
+      const relPath = relative(DOCS_ROOT, full).replace(/\\/g, '/').replace(/\.md$/, '')
+      const url     = '/' + relPath
+
+      const inAppendices  = relPath.includes('/appendices/')
+      const inPreliminary = relPath.includes('/preliminary/')
+      const appendixKey   = 'appendix:' + key
+      const clauseKey     = 'clause:'   + key
+
+      if (inAppendices)  flatMap[appendixKey] = url
+      else if (inPreliminary) flatMap[clauseKey] = url
+
+      flatMap[key] = url
+
+      if (isMulti) {
+        const parts      = relPath.split('/')
+        const streamSlot = parts[2]
+        if (streams.includes(streamSlot)) {
+          streamMaps[streamSlot][key]         = url
+          streamMaps[streamSlot][appendixKey] = url
+          streamMaps[streamSlot][clauseKey]   = url
+        } else {
+          streamMaps['global'][key] = url
         }
       }
     }
@@ -131,208 +147,285 @@ function buildSlugMap(ebaFolder) {
 
   scanDir(ebaPath)
 
-  // Apply manual aliases for this EBA (adds/overrides entries in the map)
   const aliases = MANUAL_ALIASES[ebaFolder]
   if (aliases) {
     for (const [label, url] of Object.entries(aliases)) {
-      map[label] = url
+      flatMap[label] = url
+      if (isMulti) streamMaps['global'][label] = url
     }
   }
 
-  return map
+  return isMulti ? { flat: flatMap, streams: streamMaps } : flatMap
 }
 
-// ─── Step 2: Regex for Appendix/Schedule label references ────────────────────
-// Matches: Appendix 1, Appendix 2A, Schedule 3D, Schedule 1A, etc.
-// Used to resolve non-clause references (Appendix/Schedule by label).
+// ─── Step 1b: Build per-file effective map ────────────────────────────────────
+function buildEffectiveMap(slugMapResult, ebaFolder, relFilePath, fileOverrides) {
+  const isMulti = !!STREAM_EBAS[ebaFolder]
 
-const LABEL_REGEX = /\b(Appendix|Schedule)\s+(\d+[A-Za-z]*)\b/g
+  if (!isMulti) return { ...slugMapResult, ...fileOverrides }
 
-// ─── Step 3: Regex pattern for unlinked clause/subclause references ──────────
-// Matches patterns like:
-// subclause 36.1, subclause 36.1(a), subclause 36.1(a)(i)
-// subclause 36.1(a)-(g), subclause 41.2 or 41.3
-// subclauses 25.7(b) to (f), clause 42A, clause 28.1, Clause 54
-// Does NOT match if already inside a Markdown link [..](...)
+  const { flat, streams } = slugMapResult
+  const parts      = relFilePath.split('/')
+  const fileStream = parts[2]
+  const streamOrder = STREAM_EBAS[ebaFolder]
 
-function buildRegex() {
+  const effective = {}
+  Object.assign(effective, streams['global'] ?? {})
+  for (const s of streamOrder) {
+    if (s !== fileStream && s !== 'schedules') Object.assign(effective, streams[s] ?? {})
+  }
+  if (fileStream && streams[fileStream]) Object.assign(effective, streams[fileStream])
+  Object.assign(effective, fileOverrides)
+
+  return effective
+}
+
+// ─── Step 2: Regexes ──────────────────────────────────────────────────────────
+const LABEL_REGEX_SRC = String.raw`\b(Appendix|Schedule)\s+(\d+[A-Za-z]*)\b`
+
+function buildClauseRegexSrc() {
   const clauseRef = String.raw`(?:sub)?clauses?`
   const clauseNum = String.raw`\d+[A-Za-z]?`
-  const subNum = String.raw`(?:\.\d+)?`
+  const subNum    = String.raw`(?:\.\d+)?`
   const subLetter = String.raw`(?:\([a-zA-Z0-9]+\))*`
-  const range = String.raw`(?:\s*(?:-|to)\s*\([a-zA-Z0-9]+\))?`
-  const orMore = String.raw`(?:\s+or\s+` + clauseNum + subNum + subLetter + String.raw`)?`
+  const range     = String.raw`(?:\s*(?:-|to)\s*\([a-zA-Z0-9]+\))?`
+  const orMore    = String.raw`(?:\s+or\s+` + clauseNum + subNum + subLetter + String.raw`)?`
+  return `(${clauseRef})\\s+(${clauseNum}${subNum}${subLetter}${range}${orMore})`
+}
+const CLAUSE_REGEX_SRC = buildClauseRegexSrc()
 
-  const pattern = `(${clauseRef})\\s+(${clauseNum}${subNum}${subLetter}${range}${orMore})`
-  return new RegExp(pattern, 'gi')
+// ─── Step 3: Strip pass ───────────────────────────────────────────────────────
+// Removes ALL existing internal /ebas/ Markdown links from a line.
+// This now runs unconditionally on EVERY line, including indented and heading
+// lines. This is the key fix in v3 — previously the strip was inside the
+// insertion loop that skips indented lines, so pre-existing cross-EBA links
+// on indented lines (e.g. "  - **(i)** see [clause 9](/ebas/allied-health/...)")
+// were never removed.
+
+function stripInternalLinks(line) {
+  let prev
+  let current = line
+
+  do {
+    prev = current
+    // Stage A: corrupted links — URL contains '[' (nested link remnant).
+    current = current.replace(/\[([^\]]*)\]\(([^)]*\[[^)]*)\)/g, '$1')
+    // Stage B: well-formed internal links — URL starts with /ebas/.
+    current = current.replace(/\[([^\]]*)\]\(\/ebas\/[^)]*\)/g, '$1')
+  } while (current !== prev)
+
+  // Stage C: remove fused URL fragments from partially-unwound nested links.
+  // e.g. "Appendix 4h", "Appendix 4e" — single lowercase letter fused after number.
+  current = current.replace(
+    /\b((?:Appendix|Schedule)\s+\d+[A-Za-z]?)([a-z]+)(?=\b|[\s.,;:)\]]|$)/g,
+    (_, token, fragment) => {
+      const commonSuffixes = new Set(['th', 'st', 'nd', 'rd'])
+      if (fragment.length <= 12 && !commonSuffixes.has(fragment)) return token
+      return token + fragment
+    }
+  )
+
+  return current
 }
 
-const CLAUSE_REGEX = buildRegex()
+// ─── Step 4: URL lookup helpers ───────────────────────────────────────────────
+function resolveLabel(effectiveMap, fullMatch, labelType, num) {
+  if (labelType === 'Appendix') {
+    return effectiveMap[fullMatch]
+      ?? effectiveMap['appendix:' + num]
+      ?? effectiveMap['appendix:' + num.replace(/^0+/, '')]
+      ?? effectiveMap[num]
+      ?? effectiveMap[num.replace(/^0+/, '')]
+  }
+  return effectiveMap[fullMatch]
+    ?? effectiveMap[num]
+    ?? effectiveMap[num.replace(/^0+/, '')]
+}
 
-// ─── Step 4: Process a single file ───────────────────────────────────────────
+function resolveClause(effectiveMap, fullMatchKey, primaryClause) {
+  return effectiveMap[fullMatchKey]
+    ?? effectiveMap['clause:' + primaryClause]
+    ?? effectiveMap[primaryClause]
+}
 
-function processFile(filePath, slugMap, ebaFolder) {
-  const original = readFileSync(filePath, 'utf8')
-
+// ─── Step 5: Process a single file ───────────────────────────────────────────
+function processFile(filePath, slugMapResult, ebaFolder) {
+  const original   = readFileSync(filePath, 'utf8')
   const normalised = original.replace(/\r\n/g, '\n')
+
   const fmMatch = normalised.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/m)
   if (!fmMatch) return
 
   const frontMatter = fmMatch[1]
-  const body = fmMatch[2]
+  const body        = fmMatch[2]
 
-  const skipLabelSet = SKIP_LABELS[ebaFolder] ?? new Set()
+  const selfUrl = '/' + relative(DOCS_ROOT, filePath)
+    .replace(/\\/g, '/')
+    .replace(/\.md$/, '')
+
+  const skipLabelSet  = SKIP_LABELS[ebaFolder]      ?? new Set()
   const skipClauseSet = SKIP_CLAUSE_REFS[ebaFolder] ?? new Set()
 
-  // Build a merged slug map: EBA-wide map + any file-scoped overrides
-  const relFilePath = relative(DOCS_ROOT, filePath).replace(/\\/g, '/')
+  const relFilePath   = relative(DOCS_ROOT, filePath).replace(/\\/g, '/')
   const fileOverrides = FILE_OVERRIDES[relFilePath] ?? {}
-  const effectiveMap = { ...slugMap, ...fileOverrides }
+  const effectiveMap  = buildEffectiveMap(slugMapResult, ebaFolder, relFilePath, fileOverrides)
 
-  let changeCount = 0
+  let changeCount   = 0
   const fileChanges = []
 
-  const newLines = body.split('\n').map((line, lineIndex) => {
-    if (line.startsWith('#')) return line
-    if (line.startsWith(' ') || line.startsWith('\t')) return line
+  const newLines = body.split('\n').map((line, lineIdx) => {
 
-    let newLine = line
+    // ── STRIP PASS: runs on ALL lines unconditionally ─────────────────────────
+    // This ensures pre-existing cross-EBA and self-referencing links are removed
+    // even from indented lines (sub-list items starting with spaces) and headings.
+    let workingLine = stripInternalLinks(line)
+
+    // ── INSERTION PASS: skips heading and indented lines ─────────────────────
+    // We only skip the *insertion* of new links on these lines, not the stripping.
+    // Headings and code-indented lines should not have auto-inserted clause links.
+    if (workingLine.startsWith('#'))                            return workingLine
+    if (workingLine.startsWith(' ') || workingLine.startsWith('\t')) return workingLine
+
+    // Collect all candidate matches from the stripped line, sorted by position.
+    const labelMatches  = [...workingLine.matchAll(new RegExp(LABEL_REGEX_SRC,  'g'))]
+    const clauseMatches = [...workingLine.matchAll(new RegExp(CLAUSE_REGEX_SRC, 'gi'))]
+
+    const allMatches = [
+      ...labelMatches.map(m  => ({ ...m, kind: 'label'  })),
+      ...clauseMatches.map(m => ({ ...m, kind: 'clause' })),
+    ].sort((a, b) => a.index - b.index)
+
     let offset = 0
 
-    // ── Pass A: Resolve Appendix/Schedule label references ──────────────────
-    const labelMatches = [...line.matchAll(new RegExp(LABEL_REGEX.source, 'g'))]
-
-    for (const match of labelMatches) {
-      const fullMatch = match[0]
-      const num = match[2]
+    for (const match of allMatches) {
+      const fullMatch  = match[0]
       const matchStart = match.index
 
-      const before = line.substring(0, matchStart)
-      const openBrackets = (before.match(/\[/g) || []).length
-      const closeBrackets = (before.match(/\]/g) || []).length
-      if (openBrackets > closeBrackets) continue
+      const adjustedStart = matchStart + offset
+      const before = workingLine.substring(0, adjustedStart)
+      const opens  = (before.match(/\[/g) || []).length
+      const closes = (before.match(/\]/g) || []).length
+      if (opens > closes) continue
 
-      const afterMatch = line.substring(matchStart + fullMatch.length)
-      if (afterMatch.startsWith('](')) continue
+      const after = workingLine.substring(adjustedStart + fullMatch.length)
+      if (after.startsWith('](')) continue
 
-      if (skipLabelSet.has(fullMatch)) continue
+      if (match.kind === 'label') {
+        const labelType = match[1]
+        const num       = match[2]
 
-      const url = effectiveMap[fullMatch]
-        ?? effectiveMap[num]
-        ?? effectiveMap[num.replace(/^0+/, '')]
+        if (skipLabelSet.has(fullMatch)) continue
 
-      if (!url) {
-        fileChanges.push(` ⚠️ Line ${lineIndex + 1}: No URL found for '${fullMatch}' — left unchanged`)
+        const url = resolveLabel(effectiveMap, fullMatch, labelType, num)
+        if (!url) {
+          fileChanges.push(` ⚠️ Line ${lineIdx + 1}: No URL for '${fullMatch}' — left unchanged`)
+          continue
+        }
+        if (url === selfUrl) {
+          fileChanges.push(` ⏭️ Line ${lineIdx + 1}: '${fullMatch}' → self-reference, left as plain text`)
+          continue
+        }
+
+        const replacement = `[${fullMatch}](${url})`
+        workingLine = workingLine.substring(0, adjustedStart)
+          + replacement
+          + workingLine.substring(adjustedStart + fullMatch.length)
+        offset += replacement.length - fullMatch.length
+        changeCount++
+        fileChanges.push(` ✅ Line ${lineIdx + 1}: '${fullMatch}' → [${fullMatch}](${url})`)
         continue
       }
 
-      const replacement = `[${fullMatch}](${url})`
-      const adjustedStart = matchStart + offset
-      newLine = newLine.substring(0, adjustedStart) + replacement + newLine.substring(adjustedStart + fullMatch.length)
-      offset += replacement.length - fullMatch.length
+      if (match.kind === 'clause') {
+        const precedingText = workingLine.substring(0, adjustedStart)
+        if (/(?:Appendix|Schedule)\s+\S.*?,?\s*$/.test(precedingText)) continue
 
-      changeCount++
-      fileChanges.push(` ✅ Line ${lineIndex + 1}: '${fullMatch}' → [${fullMatch}](${url})`)
-    }
+        const matchLower = fullMatch.toLowerCase()
+        if (skipClauseSet.has(matchLower) || skipClauseSet.has(fullMatch)) continue
 
-    // ── Pass B: Resolve clause/subclause references ──────────────────────────
-    const clauseMatches = [...line.matchAll(new RegExp(CLAUSE_REGEX.source, 'gi'))]
+        const ref = match[2]
+        const primaryClause = ref.match(/^(\d+[A-Za-z]?)/)?.[1]
+        if (!primaryClause) continue
 
-    for (const match of clauseMatches) {
-      const fullMatch = match[0]
-      const ref = match[2]
-      const matchStart = match.index
+        const fullMatchKey = fullMatch.replace(/\s+/g, ' ').trim()
+        const url = resolveClause(effectiveMap, fullMatchKey, primaryClause)
 
-      const before = line.substring(0, matchStart)
-      const openBrackets = (before.match(/\[/g) || []).length
-      const closeBrackets = (before.match(/\]/g) || []).length
-      if (openBrackets > closeBrackets) continue
+        if (!url) {
+          fileChanges.push(` ⚠️ Line ${lineIdx + 1}: No URL for '${fullMatch}' — left unchanged`)
+          continue
+        }
+        if (url === selfUrl) {
+          fileChanges.push(` ⏭️ Line ${lineIdx + 1}: '${fullMatch}' → self-reference, left as plain text`)
+          continue
+        }
 
-      const precedingText = line.substring(0, matchStart)
-      if (/(?:Appendix|Schedule)\s+\S.*?,?\s*$/.test(precedingText)) continue
-
-      const afterMatch = line.substring(matchStart + fullMatch.length)
-      if (afterMatch.startsWith('](')) continue
-
-      // Skip external legislative references (e.g. Fair Work Act clause numbers)
-      if (skipClauseSet.has(fullMatch.toLowerCase()) || skipClauseSet.has(fullMatch)) continue
-
-      const primaryClause = ref.match(/^(\d+[A-Za-z]?)/)?.[1]
-      if (!primaryClause) continue
-
-      // Check manual aliases first (supports internal self-refs like 'clause 3.3')
-      const fullMatchKey = fullMatch.replace(/\s+/g, ' ').trim()
-      const url = effectiveMap[fullMatchKey] ?? effectiveMap[primaryClause]
-
-      if (!url) {
-        fileChanges.push(` ⚠️ Line ${lineIndex + 1}: No URL found for '${fullMatch}' — left unchanged`)
-        continue
+        const replacement = `[${fullMatch}](${url})`
+        workingLine = workingLine.substring(0, adjustedStart)
+          + replacement
+          + workingLine.substring(adjustedStart + fullMatch.length)
+        offset += replacement.length - fullMatch.length
+        changeCount++
+        fileChanges.push(` ✅ Line ${lineIdx + 1}: '${fullMatch}' → [${fullMatch}](${url})`)
       }
-
-      const replacement = `[${fullMatch}](${url})`
-      const adjustedStart = matchStart + offset
-      newLine = newLine.substring(0, adjustedStart) + replacement + newLine.substring(adjustedStart + fullMatch.length)
-      offset += replacement.length - fullMatch.length
-
-      changeCount++
-      fileChanges.push(` ✅ Line ${lineIndex + 1}: '${fullMatch}' → [${fullMatch}](${url})`)
     }
 
-    return newLine
+    return workingLine
   })
 
-  if (changeCount === 0) return
-
   const newContent = `---\n${frontMatter}\n---\n${newLines.join('\n')}`
+  if (newContent === normalised) return
 
-  const relPath = relative(DOCS_ROOT, filePath).replace(/\\/g, '/')
-  log.push(`\n📄 ${relPath} (${changeCount} change${changeCount > 1 ? 's' : ''})`)
+  const relPath      = relative(DOCS_ROOT, filePath).replace(/\\/g, '/')
+  const strippedOnly = changeCount === 0 && newContent !== normalised
+
+  if (strippedOnly) {
+    log.push(`\n📄 ${relPath} (stripped existing links, no new links added)`)
+  } else {
+    log.push(`\n📄 ${relPath} (${changeCount} change${changeCount !== 1 ? 's' : ''})`)
+  }
   log.push(...fileChanges)
 
   totalFiles++
   totalChanges += changeCount
 
-  if (!DRY_RUN) {
-    writeFileSync(filePath, newContent, 'utf8')
-  }
+  if (!DRY_RUN) writeFileSync(filePath, newContent, 'utf8')
 }
 
-// ─── Step 5: Walk EBA folders ─────────────────────────────────────────────────
-
+// ─── Step 6: Walk EBA folders ─────────────────────────────────────────────────
 const ebaFolders = readdirSync(EBAS_ROOT).filter(f => {
   if (EBA_FILTER) return f === EBA_FILTER
   return statSync(join(EBAS_ROOT, f)).isDirectory()
 })
 
 for (const ebaFolder of ebaFolders) {
-  const slugMap = buildSlugMap(ebaFolder)
-  const ebaPath = join(EBAS_ROOT, ebaFolder)
+  const slugMapResult = buildSlugMap(ebaFolder)
+  const ebaPath       = join(EBAS_ROOT, ebaFolder)
 
   function walkAndProcess(dir) {
     for (const entry of readdirSync(dir)) {
       const full = join(dir, entry)
       const stat = statSync(full)
-      if (stat.isDirectory()) {
-        walkAndProcess(full)
-      } else if (entry.endsWith('.md')) {
-        processFile(full, slugMap, ebaFolder)
-      }
+      if (stat.isDirectory()) walkAndProcess(full)
+      else if (entry.endsWith('.md')) processFile(full, slugMapResult, ebaFolder)
     }
   }
 
   walkAndProcess(ebaPath)
 }
 
-// ─── Step 6: Output log ───────────────────────────────────────────────────────
-
+// ─── Step 7: Output log ───────────────────────────────────────────────────────
 const mode = DRY_RUN ? '🔍 DRY RUN — no files were written' : '✏️ FILES UPDATED'
 console.log(`\n${mode}`)
 console.log(`EBA filter: ${EBA_FILTER ?? 'all EBAs'}`)
 console.log(`Files changed: ${totalFiles}`)
-console.log(`Total substitutions: ${totalChanges}`)
+console.log(`Total new links inserted: ${totalChanges}`)
 console.log(log.join('\n'))
 
 import { writeFileSync as wfs } from 'fs'
 const logPath = join(DOCS_ROOT, '..', 'link-clauses-log.txt')
-wfs(logPath, `${mode}\nEBA: ${EBA_FILTER ?? 'all'}\nFiles: ${totalFiles}\nSubstitutions: ${totalChanges}\n${log.join('\n')}`, 'utf8')
+wfs(
+  logPath,
+  `${mode}\nEBA: ${EBA_FILTER ?? 'all'}\nFiles changed: ${totalFiles}\nNew links inserted: ${totalChanges}\n${log.join('\n')}`,
+  'utf8'
+)
 console.log(`\n📋 Full log written to: C:\\Projects\\EBAdb\\link-clauses-log.txt`)

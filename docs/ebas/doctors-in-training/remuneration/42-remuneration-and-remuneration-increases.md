@@ -23,11 +23,11 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **42.2** The increases in rates of pay and other monetary entitlements specified in this Agreement have been agreed on the understanding that they will be the increases actually paid to the Doctors during the life of this Agreement. Where a Doctor’s remuneration has been negotiated as an annualised salary, the increase will apply to this annualised rate.
 
-**42.3** Existing work-related allowances will increase in accordance with the salary increases in [subclause 42.1](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases) above.
+**42.3** Existing work-related allowances will increase in accordance with the salary increases in subclause 42.1 above.
 
 **42.4** The weekly rates of pay and allowances for the life of this Agreement are set out in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions).
 
-**42.5** The increases in [subclause 42.1](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases) will not apply to private practice bonuses except where these have been included in a rolled up or annualised salary arrangement.
+**42.5** The increases in subclause 42.1 will not apply to private practice bonuses except where these have been included in a rolled up or annualised salary arrangement.
 
 **42.6 Patience in bargaining payment**
 

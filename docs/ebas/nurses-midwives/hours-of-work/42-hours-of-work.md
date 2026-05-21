@@ -23,7 +23,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(d)** in a five week period – 190 hours worked as nineteen night shifts of ten hours each; or
 - **(e)** by mutual agreement:
   - **(i)** any shift length or combination provided that the length of any ordinary shift will not exceed ten hours; or
-  - **(ii)** in shifts of up to 12 hours in accordance with a 12 hour shift agreement under [clause 42.8](/ebas/nurses-midwives/hours-of-work/42-hours-of-work).
+  - **(ii)** in shifts of up to 12 hours in accordance with a 12 hour shift agreement under clause 42.8.
 
 **42.2** Work for each shift will be continuous except as provided at [clause 44](/ebas/nurses-midwives/hours-of-work/44-breaks) (Breaks).
 
@@ -31,7 +31,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **42.4** The hours of work in this clause will be the maximum ordinary hours for a shift.
 
-**42.5** In the case of the health services or Campuses named at [clause 42.6](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) below, or any successor or amalgamation of these health service or Campuses, hours of work for full-time and part-time Employees will be performed as follows:
+**42.5** In the case of the health services or Campuses named at clause 42.6 below, or any successor or amalgamation of these health service or Campuses, hours of work for full-time and part-time Employees will be performed as follows:
 
 - **(a)** for a shift other than a night shift, 8 hours;
 - **(b)** for night shift, 10 hours; or
@@ -72,15 +72,15 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(ee)** Echuca Health (Aged Care); and
 - **(ff)** Casterton Memorial Hospital.
 
-**42.7** Employers named at [subclauses 42.6(cc)](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), (dd), (ee) and (ff) will implement the hours of work above as follows:
+**42.7** Employers named at subclauses 42.6(cc), (dd), (ee) and (ff) will implement the hours of work above as follows:
 
-- **(a)** The Employers whose Campuses are named at [subclauses 42.6(cc)](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), (dd), (ee) and (ff) will implement the hours of work as soon as practicable but not later than 1 January 2025.
-- **(b)** In the event of any dispute arising regarding Employee support for the new hours of work at [subclauses 42.6(cc)](/ebas/nurses-midwives/hours-of-work/42-hours-of-work), (dd), (ee) and (ff), the matter will be dealt with in accordance with [clause 93.8](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) (Implementation of a non-complying proposal).
-- **(c)** Nothing in this [clause 42.7](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) requires the implementation of the hours at clause **42.5** where the Employee does not work on a 24/7 ward.
+- **(a)** The Employers whose Campuses are named at subclauses 42.6(cc), (dd), (ee) and (ff) will implement the hours of work as soon as practicable but not later than 1 January 2025.
+- **(b)** In the event of any dispute arising regarding Employee support for the new hours of work at subclauses 42.6(cc), (dd), (ee) and (ff), the matter will be dealt with in accordance with [clause 93.8](/ebas/nurses-midwives/classification-staffing/93-proposals-to-vary-specific-matters) (Implementation of a non-complying proposal).
+- **(c)** Nothing in this clause 42.7 requires the implementation of the hours at clause **42.5** where the Employee does not work on a 24/7 ward.
 - **(d)** The implementation of the new hours of work is not to affect an Employee's normal or customary working days or shift arrangements, except to the extent of the shift duration.
 - **(e)** An Employer will not require an Employee to reduce their contracted hours directly or indirectly as a result of the change to hours of work.
-- **(f)** The process of implementation of the hours of work arrangements at [clause 42.5](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) must also comply with [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation).
-- **(g)** Notwithstanding anything else in this clause, in the event an Employer, because of recruitment difficulties, is unable to implement the hours of work arrangement by the date specified in [clause 42.7](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) despite taking all reasonable and practical steps to comply, the Employer will notify the Unions and the VHIA in writing. Either the Unions or the VHIA may refer the matter to the Commission who may do one or more of the following:
+- **(f)** The process of implementation of the hours of work arrangements at clause 42.5 must also comply with [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) (Consultation).
+- **(g)** Notwithstanding anything else in this clause, in the event an Employer, because of recruitment difficulties, is unable to implement the hours of work arrangement by the date specified in clause 42.7 despite taking all reasonable and practical steps to comply, the Employer will notify the Unions and the VHIA in writing. Either the Unions or the VHIA may refer the matter to the Commission who may do one or more of the following:
   - **(i)** extend the implementation date by up to six (6) months; and/or
   - **(ii)** require the Employer to take steps towards implementation in accordance with such timetables as the Commission determines are just and fair.
 
@@ -95,4 +95,4 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(c)** Any 12 hour shift trial or agreement must allow, as a minimum, for 2 meal breaks per 12 hour shift - one unpaid 30 minute meal break and one 20 minute paid meal break and three 10 minute paid tea breaks.
 - **(d)** A 12 hour shift trial or agreement may be terminated either:
   - **(i)** in the manner provided in the shift trial or agreement; or
-  - **(ii)** in the case of the Employer, following consultation in accordance with [clause 11](/ebas/nurses-midwives/consultation-disputes/11-consultation) of this Agreement (Consultation) and, where relevant, [clause 12](/ebas/nurses-midwives/consultation-disputes/12-redundancy-and-associated-entitlements) (Redundancy and Associated Entitlements).
+  - **(ii)** in the case of the Employer, following consultation in accordance with clause 11 of this Agreement (Consultation) and, where relevant, clause 12 (Redundancy and Associated Entitlements).

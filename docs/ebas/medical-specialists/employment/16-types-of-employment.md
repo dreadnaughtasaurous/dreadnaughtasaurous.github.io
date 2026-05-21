@@ -39,7 +39,7 @@ A Fractional Doctor is one who is engaged by a Health Service to work 35 hours p
     - **A.** a replacement for a Doctor on a period of absence;
     - **B.** undertaking a specified task which is funded for a specified period;
     - **C.** for the first year of employment with the Health Service.
-  - **(ii)** In addition to [subclause 16.3(i)](/ebas/medical-specialists/employment/16-types-of-employment) above, a Health Service may offer a Doctor a fixed term of employment where:
+  - **(ii)** In addition to subclause 16.3(i) above, a Health Service may offer a Doctor a fixed term of employment where:
     - **A.** the Doctor’s employment is dependent upon their holding of an appropriate immigration visa – in such case, the Health Service may offer the Doctor a period of employment commensurate with the term of the visa held; or
     - **B.** the Doctor holds limited registration to practise as a medical practitioner, or where conditions have been placed on the Doctor’s registration – in such case, the Health Service may offer the Doctor a fixed term of employment consistent with the Doctor’s type of, or conditions upon, registration.
 - **(d)** Nothing in this clause disrupts existing fixed term or maximum term contracts that exist at the commencement date of this Agreement.
@@ -63,23 +63,23 @@ A Fractional Doctor is one who is engaged by a Health Service to work 35 hours p
 - **(e)** An Internal Locum will be paid the hourly rate for:
   - **(i)** a Fractional Specialist 10.6 – 14 hours per week for the Doctor’s classification plus 25% until FFPPOA 1 July 2022, then;
   - **(ii)** a Fractional Specialist 10.6 – 17.5 hours per week for the Doctor’s classification plus 25% from FFPPOA 1 July 2022 onwards.
-  Payments for shift work ([clause 36](/ebas/medical-specialists/wages/36-shift-penalty-payments)), Saturdays and Sundays ([clause 36](/ebas/medical-specialists/wages/36-shift-penalty-payments)) and penalty payments for Public Holidays worked ([clause 56](/ebas/medical-specialists/leave/56-public-holidays)) also apply to Internal Locums.
+  Payments for shift work (clause 36), Saturdays and Sundays (clause 36) and penalty payments for Public Holidays worked (clause 56) also apply to Internal Locums.
 - **(f)** Except where expressly excluded, an Internal Locum will be entitled to receive the allowances prescribed by Part F of this Agreement.
 - **(g)** The following provisions do not apply to Internal Locums:
-  - **(i)** annual leave ([clause 47](/ebas/medical-specialists/leave/47-annual-leave));
-  - **(ii)** paid personal leave ([clause 49](/ebas/medical-specialists/leave/49-personal-carer-s-leave));
-  - **(iii)** paid compassionate leave ([clause 50](/ebas/medical-specialists/leave/50-compassionate-leave));
-  - **(iv)** paid family violence leave ([clause 60](/ebas/medical-specialists/leave/60-family-violence-leave));
-  - **(v)** absences on defence leave ([clause 58A](/ebas/medical-specialists/leave/58A-absences-on-defence-leave));
-  - **(vi)** continuing medical education leave ([clause 59](/ebas/medical-specialists/leave/59-continuing-medical-education-leave));
-  - **(vii)** clinical support time ([clause 18](/ebas/medical-specialists/employment/18-clinical-support-time))
-  - **(viii)** notice period before termination ([clause 23](/ebas/medical-specialists/employment/23-termination-of-employment-notice-of-termination)); and
-  - **(ix)** special disaster leave ([clause 58B](/ebas/medical-specialists/leave/58B-special-disaster-leave)).
+  - **(i)** annual leave (clause 47);
+  - **(ii)** paid personal leave (clause 49);
+  - **(iii)** paid compassionate leave (clause 50);
+  - **(iv)** paid family violence leave (clause 60);
+  - **(v)** absences on defence leave (clause 58A);
+  - **(vi)** continuing medical education leave (clause 59);
+  - **(vii)** clinical support time (clause 18)
+  - **(viii)** notice period before termination (clause 23); and
+  - **(ix)** special disaster leave (clause 58B).
 - **(h)** An Internal Locum is entitled to the following:
-  - **(i)** Continuing Medical Education Support ([clause 41](/ebas/medical-specialists/allowances/41-continuing-medical-education-support));
+  - **(i)** Continuing Medical Education Support (clause 41);
   - **(ii)** unpaid personal leave for carer’s responsibilities (note ss. 102 and 103 FWA)
   - **(iii)** unpaid family violence leave (note s.106A FWA);
   - **(iv)** unpaid compassionate leave (note ss. 104 and 105);
   - **(v)** unpaid pre-adoption leave;
-  - **(vi)** parental leave (subject to the eligibility requirements of that clause ([clause 54](/ebas/medical-specialists/leave/54-parental-leave))); and
+  - **(vi)** parental leave (subject to the eligibility requirements of that clause (clause 54)); and
   - **(vii)** unpaid ceremonial leave.

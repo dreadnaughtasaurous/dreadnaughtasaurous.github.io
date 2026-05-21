@@ -17,7 +17,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **14.1 Resolution of disputes and grievances**
 
-- **(a)** For the purpose of this [clause 14](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure), a dispute includes a grievance.
+- **(a)** For the purpose of this clause 14, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months' parental leave); or
   - **(ii)** the NES.
@@ -46,9 +46,9 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 - **(a)** The Parties will attempt to resolve the dispute at the workplace as follows:
   - **(i)** in the first instance by discussions between the Employee/s and the Employee's line manager or other relevant manager; and
   - **(ii)** if the dispute is still unresolved, by discussions between the Employee/s and more senior managers.
-- **(b)** Nothing in this [clause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to [clause 14.2](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure).
-- **(c)** The discussions at [subclause 14.4(a)](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
-- **(d)** Where a Party believes the requirements of this [clause 14.4](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+- **(b)** Nothing in this clause 14.4 prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to clause 14.2.
+- **(c)** The discussions at subclause 14.4(a) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
+- **(d)** Where a Party believes the requirements of this clause 14.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 - **(e)** If a dispute cannot be resolved at the workplace it may be referred by a Party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
 **14.5 Disputes of a collective character**
@@ -67,7 +67,7 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 
 - **(a)** If, when conciliation is complete, the dispute is not settled, either Party may request the Commission proceed to determine the dispute by arbitration.
 - **(b)** The Commission member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
-- **(c)** Subject to [subclause 14.7(d)](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure) below, a decision of the Commission is binding upon the persons covered by this Agreement.
+- **(c)** Subject to subclause 14.7(d) below, a decision of the Commission is binding upon the persons covered by this Agreement.
 - **(d)** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 
 **14.8 Conduct of matters before the Commission**

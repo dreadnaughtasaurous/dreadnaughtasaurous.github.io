@@ -50,6 +50,6 @@ childrens services childcare worker early childhood educator family day care ECE
 
 Where an employer has given notice of termination to an employee, the employee must be allowed time off without loss of pay of up to one day for the purpose of seeking other employment.
 
-- **11.3** The time off under [clause 11.2](/ebas/childrens-services/employment/11-termination-of-employment) is to be taken at times that are convenient to the employee after consultation with the employer.
+- **11.3** The time off under clause 11.2 is to be taken at times that are convenient to the employee after consultation with the employer.
 
 Plain language terms: resignation, notice, dismissal.

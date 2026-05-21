@@ -15,7 +15,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **22.1 Resolution of disputes and grievances**
 
-- **(a)** For the purpose of this [clause 22](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure), a dispute includes a grievance.
+- **(a)** For the purpose of this clause 22, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months parental leave); or
   - **(ii)** the NES.
@@ -45,9 +45,9 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(i)** in the first instance by discussions between the Employee/s and the Employee's line manager or other relevant manager; and
   - **(ii)** if the dispute is still unresolved, by discussions between the Employee/s and more senior managers.
   
-  Nothing in this [clause 22.4](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to [clause 22.2](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure).
-- **(b)** The discussions at [subclause 22.4(a)](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) will take place within fourteen days or such longer period as mutually agreed. Discussions will be in person or, by agreement of the parties, telephone, written or electronic correspondence, save that agreement will not be unreasonably withheld.
-- **(c)** Where a Party believes the requirements of this [clause 22.4](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+  Nothing in this clause 22.4 prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to clause 22.2.
+- **(b)** The discussions at subclause 22.4(a) will take place within fourteen days or such longer period as mutually agreed. Discussions will be in person or, by agreement of the parties, telephone, written or electronic correspondence, save that agreement will not be unreasonably withheld.
+- **(c)** Where a Party believes the requirements of this clause 22.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 - **(d)** If a dispute cannot be resolved at the workplace it may be referred by a party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
 **22.5 Disputes of a collective character** 
@@ -66,7 +66,7 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 
 - **(a)** If, when conciliation is complete, the dispute is not settled, either Party may request the Commission proceed to determine the dispute by arbitration.
 - **(b)** The Commission member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
-- **(c)** Subject to [subclause 22.7(d)](/ebas/mental-health/common-terms/consultation-disputes/22-disputes-resolution-procedure) below, a decision of the Commission is binding upon the persons covered by this Agreement.
+- **(c)** Subject to subclause 22.7(d) below, a decision of the Commission is binding upon the persons covered by this Agreement.
 - **(d)** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 
 **22.8 Conduct of matters before the Commission**

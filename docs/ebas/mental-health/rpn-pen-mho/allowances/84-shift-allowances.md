@@ -28,7 +28,7 @@ In this clause:
 
 **84.2 Application** 
 
-Where a shift meets more than one definition as set out in [clause 84.1](/ebas/mental-health/rpn-pen-mho/allowances/84-shift-allowances), the Employee will be paid one shift allowance only, with the higher shift allowance where the rates differ.
+Where a shift meets more than one definition as set out in clause 84.1, the Employee will be paid one shift allowance only, with the higher shift allowance where the rates differ.
 
 **84.3 Allowances** 
 
@@ -37,12 +37,12 @@ In addition to any other rates prescribed elsewhere in this Agreement. The Emplo
 - **(a)** A **Morning Shift**: an amount set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per rostered period of duty;
 - **(b)** An **Afternoon Shift**: an amount set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per rostered period of duty;
 - **(c)** A **Night Shift**:
-  - **(i)** In the case of a casual Employee, the amount referred to as the Casual Night Shift Allowance in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) per period of duty;
-  - **(ii)** In the case of an Employee who is not a casual Employee, the amount referred to as the Night shift until FFPPOA 1 July 2026, the rate at (c)(i) above as set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances); or
-  - **(iii)** In the case of an Employee who is not a casual Employee, the Sunday Night shift rate in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for a night shift commencing on a Sunday.
+  - **(i)** In the case of a casual Employee, the amount referred to as the Casual Night Shift Allowance in Schedule 2 per period of duty;
+  - **(ii)** In the case of an Employee who is not a casual Employee, the amount referred to as the Night shift until FFPPOA 1 July 2026, the rate at (c)(i) above as set out in Schedule 2; or
+  - **(iii)** In the case of an Employee who is not a casual Employee, the Sunday Night shift rate in Schedule 2 for a night shift commencing on a Sunday.
   - **(iv)** In the case of an Employee who is not a casual Employee from FFPPOA 1 July 2026: 
-    - **(A)** the rate for a Night Shift commencing on a Monday, Tuesday, Wednesday or Thursday as set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) 
-    - **(B)** the rate for a Night Shift commencing on a Friday or Saturday as set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances); or 
-    - **(C)** the Sunday Night shift rate in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances) for a Night Shift commencing on a Sunday.
+    - **(A)** the rate for a Night Shift commencing on a Monday, Tuesday, Wednesday or Thursday as set out in Schedule 2 
+    - **(B)** the rate for a Night Shift commencing on a Friday or Saturday as set out in Schedule 2; or 
+    - **(C)** the Sunday Night shift rate in Schedule 2 for a Night Shift commencing on a Sunday.
 
 Plain language terms: shift penalty, shift loading, afternoon shift, night shift pay.

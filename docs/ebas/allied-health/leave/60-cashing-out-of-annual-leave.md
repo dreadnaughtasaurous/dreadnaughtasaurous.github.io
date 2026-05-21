@@ -13,7 +13,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 60. Cashing Out of Annual Leave
 
-**60.1** An Employee may, with the consent of the Employer, choose to cash out paid annual leave in accordance with this [clause 60](/ebas/allied-health/leave/60-cashing-out-of-annual-leave).
+**60.1** An Employee may, with the consent of the Employer, choose to cash out paid annual leave in accordance with this clause 60.
 
 **60.2 Written request and written agreement** 
 
@@ -41,7 +41,7 @@ A part-time Employee who has reduced their EFT fraction, may request to cash out
 >The Employee has 160 hours of accrued annual leave (i.e. five (5) weeks leave at their previous EFT, or 10 weeks' leave at their new EFT), before taking or cashing out any annual leave. 
 >
 >
->Subject to the Employee complying with this [clause 60](/ebas/allied-health/leave/60-cashing-out-of-annual-leave), the Employee may elect to cash out an additional 32 hours annual leave (plus annual leave loading), at the same time as taking annual leave, so that the total paid to the Employee during the period of leave is:  
+>Subject to the Employee complying with this clause 60, the Employee may elect to cash out an additional 32 hours annual leave (plus annual leave loading), at the same time as taking annual leave, so that the total paid to the Employee during the period of leave is:  
 >- 32 hours' pay (16 hours per week multiplied by two (2)), plus annual leave loading, for annual leave taken; plus  
 >- 32 hours' pay, plus annual leave loading, for annual leave cashed out.  
 > 

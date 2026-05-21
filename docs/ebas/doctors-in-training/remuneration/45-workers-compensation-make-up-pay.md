@@ -31,13 +31,13 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 - **(a)** Where a Doctor is deemed totally incapacitated under the WIRC Act, the Doctor is entitled to a weekly payment of an amount representing the difference between:
   - **(i)** the total amount of compensation paid under the WIRC Act during the period of incapacity for the week; and
-  - **(ii)** the weekly ordinary rate of pay set out in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions), and any over- Agreement payment being paid to the Doctor at the date of the injury and which would have been payable for the Doctor’s classification for the week in question if they had been performing their normal duties.
+  - **(ii)** the weekly ordinary rate of pay set out in Appendix 2, and any over- Agreement payment being paid to the Doctor at the date of the injury and which would have been payable for the Doctor’s classification for the week in question if they had been performing their normal duties.
 
 **45.3 Payment Calculation – Partial Incapacity**
 
 - **(a)** Where a Doctor is deemed partially incapacitated under the WIRC Act, the Doctor is entitled to weekly payment of an amount representing the difference between:
   - **(i)** the total amount of compensation paid under the WIRC Act during the period of incapacity for the week, together with the average weekly amount they are earning; and
-  - **(ii)** the weekly rate as set out in [Appendix 2](/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions) and any over-Agreement payment being paid to the Doctor at the date of injury and which would have been payable for the Doctor’s classification for the week in question if they had been performing their normal duties.
+  - **(ii)** the weekly rate as set out in Appendix 2 and any over-Agreement payment being paid to the Doctor at the date of injury and which would have been payable for the Doctor’s classification for the week in question if they had been performing their normal duties.
 
 **45.4 Payment for Part of a Week**
 

@@ -19,7 +19,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **90A.1. Permanent Night Shift Employment**
 
-- **(a)** In this clause, a permanent night shift employee means a full or part-time Employee who only works on night shift subject to the provisions of [clause 90A.6](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift).
+- **(a)** In this clause, a permanent night shift employee means a full or part-time Employee who only works on night shift subject to the provisions of clause 90A.6.
 - **(b)** Utilisation of permanent night shift employees will be the preferred approach to staffing at night wherever possible.
 
 **90A.2. Permanent Night Shift Employment – Employee Request**
@@ -34,7 +34,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(ii)** were working as permanent night shift employees as defined at clause 90A.1 as part of a temporary variation, flexible work arrangement or comparable situation (“the arrangement”) they will be appointed as permanent night shift for the duration of the arrangement in respect to that ward or unit.
   - **(iii)** worked night shift other than as a permanent night shift employee (i.e. worked night shifts and other shifts) to express an interest in continuing to work night shifts, and the amount of night shift they wish to continue working.
 - **(b)** Employees at (iii) above will, where practicable, be offered night shifts in accordance with their expressed amount of desired night shift, in respect to that ward or unit.
-- **(c)** Following the process described at [subclause 90A.3(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/90A-permanent-night-shift), the Employer will seek expressions of interest from Employees with respect to the remaining night shifts necessary to meet the night shift staffing requirements for that ward or unit before 4 months after the commencement of the Agreement.
+- **(c)** Following the process described at subclause 90A.3(a), the Employer will seek expressions of interest from Employees with respect to the remaining night shifts necessary to meet the night shift staffing requirements for that ward or unit before 4 months after the commencement of the Agreement.
 - **(d)** In responding to expressions of interest, subject to any skill mix or ANUM requirements, full or part time staff for whom the ward is their Base Ward/Unit will be preferred in determining permanent night shift status.
 - **(e)** The Employer will provide progress reports to the WIC of progress in implementing this clause.
 

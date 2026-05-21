@@ -17,13 +17,13 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **199.1** The ordinary hours of work for a full-time Employee shall be 38 hours, or an average of 38 hours, per week.
 
-**199.2** For the purposes of [clause 199.1](/ebas/mental-health/management-admin/hours-of-work/199-hours-of-work), the ordinary hours an Employee works in a week are taken to include any hours of authorised leave, or absence, whether paid or unpaid, that the Employee takes in a week.
+**199.2** For the purposes of clause 199.1, the ordinary hours an Employee works in a week are taken to include any hours of authorised leave, or absence, whether paid or unpaid, that the Employee takes in a week.
 
 **199.3** The working week shall commence at midnight on a Sunday.
 
 **199.4** Notwithstanding any authorised meal breaks or rest breaks, the work of each day/shift shall be continuous.
 
-**199.5** Management and Administrative Officers For Employees classified under [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement the ordinary hours of work shall be worked either:
+**199.5** Management and Administrative Officers For Employees classified under [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement the ordinary hours of work shall be worked either:
 
 - **(a)** in 5 days of shifts of not more than 8 hours each; or
 - **(b)** by mutual agreement:

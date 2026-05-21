@@ -50,7 +50,7 @@ Any deductions from an Employee’s pay must be in accordance with section 324 o
   - **(ii)** except in cases of hardship, if it is less than 5% of the Employee’s net fortnightly wage – in the next pay period;
   - **(iii)** where the Employee notifies the Employer of hardship in respect of an amount owing less than 5% of the Employee’s net fortnightly wage - as soon as possible.
 - **(c)** The Employer will notify the Employee of the adjustment being processed and provide the date of payment and any payment identification details.
-- **(d)** This [subclause 29.6](/ebas/biomedical-engineers/wages/29-payment-of-wages) will not apply where:
+- **(d)** This subclause 29.6 will not apply where:
   - **(i)** the Employer and Employee are in genuine dispute as to whether the monies are owed to the Employee;
   - **(ii)** the underpayment is the result of an Employee error which includes, but isn’t limited to, circumstances where the Employee hasn’t complied with the Employer’s policies dealing with the completion or approving of timesheets; or
   - **(iii)** the reason for the underpayment is an unforeseen event or circumstance outside the control of the Employer, frustrating the Employer's ability to meet the requirements of this clause.

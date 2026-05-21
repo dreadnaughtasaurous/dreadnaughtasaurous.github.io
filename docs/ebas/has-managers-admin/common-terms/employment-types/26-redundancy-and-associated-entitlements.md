@@ -16,18 +16,18 @@ HAS HASMA health administrative services manager administrative worker clerical 
 # 26. Redundancy and Associated Entitlements
 
 **26.1 Arrangement** This clause is arranged as follows:
-- **(a)** Arrangement ([subclause 26.1](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(b)** Definitions ([subclause 26.2](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(c)** Redeployment ([subclause 26.3](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(d)** Support to Affected Employees ([subclause 26.4](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(e)** Salary maintenance ([subclause 26.5](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(f)** Relocation ([subclause 26.6](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(g)** Employee leaving during redundancy notice period ([subclause 26.7](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)),
-- **(h)** Employment terminates due to redundancy ([subclause 26.8](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu)), and
-- **(i)** Exception to application of Victorian Government’s policy with respect to severance pay ([subclause 26.9](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu))
+- **(a)** Arrangement (subclause 26.1),
+- **(b)** Definitions (subclause 26.2),
+- **(c)** Redeployment (subclause 26.3),
+- **(d)** Support to Affected Employees (subclause 26.4),
+- **(e)** Salary maintenance (subclause 26.5),
+- **(f)** Relocation (subclause 26.6),
+- **(g)** Employee leaving during redundancy notice period (subclause 26.7),
+- **(h)** Employment terminates due to redundancy (subclause 26.8), and
+- **(i)** Exception to application of Victorian Government’s policy with respect to severance pay (subclause 26.9)
 
 **26.2 Definitions**
-- **(a) Affected Employee** for this [clause 26](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu) means an Employee whose role will be redundant.
+- **(a) Affected Employee** for this clause 26 means an Employee whose role will be redundant.
 - **(b) Comparable role** means an on-going role that:
   - **(i)** is the same occupation as that of the Affected Employee’s redundant position or if not, is in an occupation acceptable to the Affected Employee; and
   - **(ii)** is any of the following:
@@ -53,7 +53,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
     The Affected Employee must be advised in writing of:
   - **(i)** the date the Affected Employee’s role is to be redundant,
   - **(ii)** details of the redeployment process,
-  - **(iii)** the reasonable support that will be provided in accordance with [subclause 26.3(g)](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu), and
+  - **(iii)** the reasonable support that will be provided in accordance with subclause 26.3(g), and
   - **(iv)** the Affected Employee’s rights and obligations.
 - **(c) Employer obligations** 
 
@@ -68,7 +68,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
   - **(iii)** actively monitoring and exploring appropriate redeployment opportunities and working with the appointed case manager.
 - **(e) Rejecting a comparable role** 
 
-    Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at [subclause 26.7](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu).
+    Where an Affected Employee rejects an offer of redeployment to a comparable role (as defined), the Affected Employee may be ineligible for a departure package referred to at subclause 26.7.
 - **(f) Temporary alternative duties** 
 
     An Affected Employee awaiting redeployment may be transferred to temporary alternative duties within the same campus, or where part of the Employee’s existing employment conditions (or by agreement) at another campus. Such temporary duties will be in accordance with the Affected Employee’s skills, experience, clinical area and profession.
@@ -126,7 +126,7 @@ The Employer will provide Affected Employees whose position has been declared re
 - **(d) Payment**
   - **(i)** The maximum relocation allowance payable by the Employer will be $1900.00, paid as a lump sum.
   - **(ii)** When considering the Affected Employee’s estimate, the Employer may have regard to the Reasonable Distance
-  - **(iii)** In the event of a dispute about the Affected Employee’s estimate it will be resolved under [clause 17](/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure) (Dispute Resolution Procedure).
+  - **(iii)** In the event of a dispute about the Affected Employee’s estimate it will be resolved under clause 17 (Dispute Resolution Procedure).
 - **(e) Exceptions** 
 
     An Affected Employee is not entitled to the relocation allowance if the site or campus to which the Affected Employee is being relocated is a location to which they can be expected to be deployed as part of their existing employment conditions.
@@ -135,8 +135,8 @@ The Employer will provide Affected Employees whose position has been declared re
     An Affected Employee on a fixed term contract who is relocated will be covered by the terms of this clause for the duration of the fixed term contract.
 
 **26.7 Employee leaving during redundancy notice period**
-- **(a)** An employee given notice of termination in circumstances of redundancy may terminate their employment during the minimum period of notice prescribed in Section 2 [clause 5](/ebas/allied-health/preliminary/5-incidence-coverage) and Section 3 [clause 3](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement) of this Agreement.
-- **(b)** The employee will remain entitled to receive the severance benefits they would have received under [clause 26.8](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu) had they remained in employment until the expiry of the notice.
+- **(a)** An employee given notice of termination in circumstances of redundancy may terminate their employment during the minimum period of notice prescribed in Section 2 [clause 5](/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage) and Section 3 [clause 3](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement) of this Agreement.
+- **(b)** The employee will remain entitled to receive the severance benefits they would have received under clause 26.8 had they remained in employment until the expiry of the notice.
 - **(c)** However, the employee is not entitled to be paid for any part of the period of notice remaining after the employee ceased to be employed.
 
 **26.8 Employment terminates due to redundancy** 
@@ -148,7 +148,7 @@ The Victorian Government’s policy with respect to public sector redundancy and
 Where the Affected Employee’s Employer secures a comparable role (as defined) with another Employer covered by this Agreement, which:
 - **(a)** is within a Reasonable Distance of the work site of the redundant position; and
 - **(b)** provides continuity of service; and
-- **(c)** where the comparable role results in a loss of income, salary maintenance at [subclause 26.5](/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu) will apply; and
+- **(c)** where the comparable role results in a loss of income, salary maintenance at subclause 26.5 will apply; and
 - **(d)** where relevant, consistent with the financial and other support provided to an internal redeployee; the Employee will be considered successfully redeployed as though the employment was with the same Employer and no severance pay will apply.
 
 Plain language terms: redundancy pay, retrenchment, position made redundant.

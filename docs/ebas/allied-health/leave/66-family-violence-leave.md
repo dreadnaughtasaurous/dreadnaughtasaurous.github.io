@@ -24,7 +24,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **66.2 Definition of Family Violence** 
 
-For the purposes of this [clause 66](/ebas/allied-health/leave/66-family-violence-leave), family violence is as defined by the *Family Violence Protection Act 2008 (Vic)* which defines family violence at section 5, in part, as follows:
+For the purposes of this clause 66, family violence is as defined by the *Family Violence Protection Act 2008 (Vic)* which defines family violence at section 5, in part, as follows:
 
 - **(a)** behaviour by a person towards a family member of that person if that behaviour:
   - **(i)** is physically or sexually abusive;
@@ -33,7 +33,7 @@ For the purposes of this [clause 66](/ebas/allied-health/leave/66-family-violenc
   - **(iv)** is threatening;
   - **(v)** is coercive; or
   - **(vi)** in any other way controls or dominates the family member and causes that family member to feel fear for the safety or wellbeing of that family member or another person; or
-- **(b)** behaviour by a person that causes a child to hear or witness, or otherwise be exposed to the effects of, behaviour referred to in [subclause 66.2(a)](/ebas/allied-health/leave/66-family-violence-leave) above.
+- **(b)** behaviour by a person that causes a child to hear or witness, or otherwise be exposed to the effects of, behaviour referred to in subclause 66.2(a) above.
 
 **66.3 Eligibility**
 
@@ -47,13 +47,13 @@ For the purposes of this [clause 66](/ebas/allied-health/leave/66-family-violenc
 - **(c)** No adverse action will be taken against an Employee if their attendance or performance at work suffers as a result of experiencing family violence.
 - **(d)** The Employer will identify contact/s within the workplace who will be trained in family violence and associated privacy issues. The Employer will advertise the name of any Family Violence contacts within the workplace.
 - **(e)** An Employee experiencing family violence may raise the issue with their immediate supervisor, Family Violence contacts, Union delegate or nominated Human Resources contact. The immediate supervisor may seek advice from Human Resources if the Employee chooses not to see the Human Resources or Family Violence contact.
-- **(f)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with [subclauses 66.5](/ebas/allied-health/leave/66-family-violence-leave) and 66.6.
-- **(g)** The Employer will develop guidelines to supplement this [clause 66](/ebas/allied-health/leave/66-family-violence-leave) and which details the appropriate action to be taken in the event that an Employee reports family violence.
+- **(f)** Where requested by an Employee, the Human Resources contact will liaise with the Employee’s manager on the Employee’s behalf, and will make a recommendation on the most appropriate form of support to provide in accordance with subclauses 66.5 and 66.6.
+- **(g)** The Employer will develop guidelines to supplement this clause 66 and which details the appropriate action to be taken in the event that an Employee reports family violence.
 
 **66.5 Leave**
 
 - **(a)** An Employee experiencing family violence will have access to 20 days per year of paid special leave (pro rata for part-time Employees) for counselling appointments, medical appointments, legal proceedings or appointments with a legal practitioner and other activities related to, and as a consequence of, family violence which includes recovering from family violence (this leave is not cumulative but if the leave is exhausted consideration will be given to providing additional leave). This leave will be in addition to existing leave entitlements and may be taken as consecutive or single days or as a fraction of a day and can be taken without prior approval.
-- **(b)** An Employee who supports a person experiencing family violence may utilise their personal/carer’s leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with [subclause 66.4(a)](/ebas/allied-health/leave/66-family-violence-leave) from an Employee seeking to utilise their personal/carer’s leave entitlement.
+- **(b)** An Employee who supports a person experiencing family violence may utilise their personal/carer’s leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with subclause 66.4(a) from an Employee seeking to utilise their personal/carer’s leave entitlement.
 
 **66.6 Individual Support**
 - **(a)** In order to provide support to an Employee experiencing family violence and to provide a safe work environment to all Employees, the Employer will approve any reasonable request from an Employee experiencing family violence for:

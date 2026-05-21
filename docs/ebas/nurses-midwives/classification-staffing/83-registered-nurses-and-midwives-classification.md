@@ -17,16 +17,16 @@ nurse midwife nursing staff RN EN nurse enrolled nurse midwifery NUM nurse unit 
 
 **83.1 Scope**
 
-This [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) is split into 4 parts:
+This clause 83 is split into 4 parts:
 
-- **(a)** **Part 1** ([clauses 83.1](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 82.3) explains the scope of this clause and the applicable definitions;
-- **(b)** **Part 2** ([clauses 83.3](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification)) sets out the classification descriptors for Registered Nurses and Registered Midwives;
-- **(c)** **Part 3** ([clauses 83.4](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.6) sets out the application process for Clinical Nurse/Midwife Specialist positions, the transfer arrangements of CNS/CMS status to a new Employer, and when the requirements of continuing to meet the CNS/CMS criteria must occur; and
-- **(d)** **Part 4** ([clauses 83.7](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38) sets out the grades to the classifications set out in Part 2.
+- **(a)** **Part 1** (clauses 83.1 - 82.3) explains the scope of this clause and the applicable definitions;
+- **(b)** **Part 2** (clauses 83.3) sets out the classification descriptors for Registered Nurses and Registered Midwives;
+- **(c)** **Part 3** (clauses 83.4 - 83.6) sets out the application process for Clinical Nurse/Midwife Specialist positions, the transfer arrangements of CNS/CMS status to a new Employer, and when the requirements of continuing to meet the CNS/CMS criteria must occur; and
+- **(d)** **Part 4** (clauses 83.7 - 83.38) sets out the grades to the classifications set out in Part 2.
 
 **83.2 General Definitions**
 
-In this [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification):
+In this clause 83:
 
 - **(a)** **Basic Training** means training for initial registration as a Registered Nurse, or where the Employee is not a Registered Nurse, an undergraduate degree in Midwifery.
 - **(b)** **Certificate** means:
@@ -42,8 +42,8 @@ In this [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-
 - **(e)** **In-service or post-basic education** means education undertaken during, and in conjunction with, employment as a Registered Nurse or Midwife for the purpose of obtaining a post-basic certificate of qualification in:
   - **(i)** a course approved by the Nursing and Midwifery Board of Australia for the purposes of endorsement in the relevant register; or
   - **(ii)** a course requiring registration by the Nursing and Midwifery Board of Australia which will mean maternal and child health nursing, midwifery nursing, psychiatric nursing and mental retardation nursing.
-- **(f)** **Registered Nurse** has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
-- **(g)** **Registered Midwife** has the meaning provided by [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions).
+- **(f)** **Registered Nurse** has the meaning provided by [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions).
+- **(g)** **Registered Midwife** has the meaning provided by [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions).
 - **(h)** **Research Nurse/Midwife** means a Nurse/Midwife who:
   - **(iii)** as a minimum, has either a Diploma in Nursing (Level 1 only) or a Bachelor of Nursing or Midwifery (all levels);
   - **(iv)** is directly involved in clinical research-related activities which form the predominant aspect of the Employee's ongoing, regular duties. Whilst the level of involvement can vary, the level of involvement and its regularity distinguish a Research Nurse/Midwife from other Employees who provide incidental and/or irregular contributions to clinical research trials as part of their normal duties; and
@@ -68,8 +68,8 @@ In this [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-
 
 | Classification | Definition |
 | --- | --- |
-| **Clinical Nurse Specialist** | Means a Registered Nurse: <br>- **(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical nursing duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and <br>- **(b)** who meets the criteria set out at [Appendix 4](/ebas/nurses-midwives/preliminary/4-definitions). <br>Applicants must meet the above definition, be employed either full-time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of [Appendix 4](/ebas/nurses-midwives/preliminary/4-definitions). The process for applying for a Clinical Nurse Specialist position is set out at 83.4 below. |
-| **Clinical Midwife Specialist** | Means a Registered Midwife: <br>- **(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical midwife duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and <br>- **(b)** who meets the criteria set out at [Appendix 4](/ebas/nurses-midwives/preliminary/4-definitions). <br>Applicants must meet the above definition, be employed either full-time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of [Appendix 4](/ebas/nurses-midwives/preliminary/4-definitions). The process for applying for a Clinical Midwife Specialist position is set out at 83.4 below. |
+| **Clinical Nurse Specialist** | Means a Registered Nurse: <br>- **(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical nursing duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and <br>- **(b)** who meets the criteria set out at [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria). <br>Applicants must meet the above definition, be employed either full-time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria). The process for applying for a Clinical Nurse Specialist position is set out at 83.4 below. |
+| **Clinical Midwife Specialist** | Means a Registered Midwife: <br>- **(a)** appointed to the grade with either specific post basic qualifications and 12 months' Experience working in the clinical area of their specified post basic qualification, and is responsible for clinical midwife duties, or minimum of four years' post-registration Experience, including three years' Experience in the relevant specialist field; and <br>- **(b)** who meets the criteria set out at [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria). <br>Applicants must meet the above definition, be employed either full-time or part-time and demonstrate the criteria in each of paragraphs 1, 2 and 3 of [Appendix 4](/ebas/nurses-midwives/appendices/04-clinical-nurse-midwife-specialist-criteria). The process for applying for a Clinical Midwife Specialist position is set out at 83.4 below. |
 
 ### Community Health Classifications
 
@@ -129,9 +129,9 @@ In this [clause 83](/ebas/nurses-midwives/classification-staffing/83-registered-
 | **ADON/M Level 1** | A Registered Nurse who has responsibility for a project or process in more than one Campus or across all units/wards in a single Health Service will be classified as Assistant Director of Nursing (NM5B). |
 | **Deputy DON/DOM** | - **(a)** A Registered Nurse who is appointed as a Campus Deputy Director of Nursing to assist the Director of Nursing in the day to day administration of the Campus. <br>- **(b)** A Registered Midwife who is appointed as a Deputy Director of Midwifery to assist the Campus Director of Nursing or the Director of Midwifery. The Employer is not required to appoint a Deputy DON or Deputy DOM. |
 | **Divisional/Clinical Director** | A Registered Nurse or Midwife who has responsibility for a clinical division of the health service. |
-| **Campus DON** | A Registered Nurse who is appointed as the Director of Nursing for a Campus listed in [Appendix 8](/ebas/nurses-midwives/preliminary/8-copy-of-agreement). |
+| **Campus DON** | A Registered Nurse who is appointed as the Director of Nursing for a Campus listed in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories). |
 | **Campus DOM** | A Registered Midwife who is appointed as the Director of Midwifery. |
-| **Executive DON** | A Registered Nurse who is appointed in addition to the Campus Director of Nursing listed in [Appendix 9](/ebas/nurses-midwives/preliminary/9-no-extra-claims) to be an Executive Director of Nursing (however titled). An Employer is not required to appoint a Nurse Manager 9 and may rely on the appointment of a Nurse Manager 9 to satisfy the requirement to appoint a Campus DON. |
+| **Executive DON** | A Registered Nurse who is appointed in addition to the Campus Director of Nursing listed in [Appendix 9](/ebas/nurses-midwives/appendices/09-health-service-categories) to be an Executive Director of Nursing (however titled). An Employer is not required to appoint a Nurse Manager 9 and may rely on the appointment of a Nurse Manager 9 to satisfy the requirement to appoint a Campus DON. |
 | **Nurse/Midwife Manager not elsewhere classified** | A Registered Nurse or Midwife principally engaged in management of a nursing or midwifery service, or part thereof, for which this Agreement contains no more applicable classification. The classification for this position will be NM5C. |
 
 ### Occupational Health Classifications
@@ -205,7 +205,7 @@ From 17 May 2024, the process for applications for Clinical Nurse/Midwife Specia
 - **(c)** interviews, if required, will be conducted by the NUM/MUM, ANUM/AMUM or Educator and one other;
 - **(d)** interviews will occur wherever practicable within 14 days of an application;
 - **(e)** some health agencies (for example, where service delivery is similar across the facility) may wish to operate with an "umbrella" committee for the purpose of interviews;
-- **(f)** the successful applicant will be notified in writing within seven days. The pay office will be informed of the new classification at the same time, which will apply from the FFPPOOA the date of application, subject to [clause 83.5](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification);
+- **(f)** the successful applicant will be notified in writing within seven days. The pay office will be informed of the new classification at the same time, which will apply from the FFPPOOA the date of application, subject to clause 83.5;
 - **(g)** if the applicant is unsuccessful they are to be notified of the outcome within seven days of the interview. An explanation will be given to the applicant as to the reasons for the decision;
 - **(h)** each Employer will implement an appeal process. The appeal is to be lodged by the applicant within two weeks of receiving the rejection letter and heard by the Appeal Committee within four weeks. The applicant may at this stage seek advice and assistance from the ANMF; and
 - **(i)** appeals will be directed to the DON/DOM or nominee. An independent panel will be convened, consisting of a DON/DOM or nominee, NUM/MUM, Clinical Nurse/Midwife Specialist or other nominee as appropriate, other than those involved in the original decision.
@@ -218,7 +218,7 @@ From 17 May 2024, the process for applications for Clinical Nurse/Midwife Specia
 **83.6 Transfer of CNS/CMS status**
 
 - **(a)** Where a person appointed as a CNS or CMS by an Employer commences employment with another Employer within the same specialty, the new Employer will:
-  - **(i)** advise the CNS/CMS of the next advertisement period referred to in [subclause 83.4(a)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification); and
+  - **(i)** advise the CNS/CMS of the next advertisement period referred to in subclause 83.4(a); and
   - **(ii)** where an application is made for the next advertisement period and is successful, the Employee will be paid as a CNS/CMS back to the date of commencement in the new role.
 - **(b)** Nothing in this clause compels an Employee to make an application.
 
@@ -233,7 +233,7 @@ The Nursing and Midwifery career structure is divided into four streams as follo
 - **(c)** the Nurse/Midwife Manager (**NM**) stream which comprises those classifications principally engaged in management of a nursing or midwifery service, or part thereof, in any stream; and
 - **(d)** the Quality, Clinical Risk, Governance, Education and Development stream (**QRED**) which comprises those classifications principally engaged in clinical support, clinical development, education, risk management and governance.
 
-Each stream contains grades, and in some cases sub-grades. Application of these grades/sub-grades are set out in [clauses 83.10](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) - 83.38.
+Each stream contains grades, and in some cases sub-grades. Application of these grades/sub-grades are set out in clauses 83.10 - 83.38.
 
 Employees will have the most appropriate classification and grade within their stream applied to their employment.
 
@@ -247,7 +247,7 @@ Employees will have the most appropriate classification and grade within their s
 
 - **(a)** Where an Employee has not actively nursed for a period of five years or more, such Employee's prior Years of Experience will not be taken into account.
 - **(b)** For the first 12 months after completion of a Re-entry Course or Supervised Experience, where such course or experience is required by the Nursing and Midwifery Board of Australia, the Employee will be paid at the rate appropriate to their Years of Experience, but no higher than RN/RM3.
-- **(c)** After completion of 12 months' Experience in accordance with [subclause 83.9(b)](/ebas/nurses-midwives/classification-staffing/83-registered-nurses-and-midwives-classification) a nurse (upon sufficient proof to support a claim for incremental advancement) will be paid at the rate appropriate to their Years of Experience.
+- **(c)** After completion of 12 months' Experience in accordance with subclause 83.9(b) a nurse (upon sufficient proof to support a claim for incremental advancement) will be paid at the rate appropriate to their Years of Experience.
 
 **83.10 QRED 1**
 
@@ -271,20 +271,20 @@ From 1 July 2024, an Educator under the 2020 Agreement that was graded at QRED 2
 **83.13 QRED 4**
 
 - **(a)** A Registered Nurse or Midwife appointed as a Deputy Principal Educator and paid as such. The sub-grades for this classification will be:
-  - **(i)** QRED 4A for a Deputy Principal Educator of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-  - **(ii)** QRED 4B for a Deputy Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-  - **(iii)** QRED 4C for a Deputy Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
-  - **(iv)** QRED 4D for a Deputy Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+  - **(i)** QRED 4A for a Deputy Principal Educator of a health service that has a Campus named in column 8A in Appendix 8;
+  - **(ii)** QRED 4B for a Deputy Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in Appendix 8;
+  - **(iii)** QRED 4C for a Deputy Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in Appendix 8; and
+  - **(iv)** QRED 4D for a Deputy Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in Appendix 8.
 - **(b)** A Registered Nurse or Registered Midwife appointed as an Educator- Course/Phase/Inservice/Continuing Education and paid as such. The Grade in the first Year of Experience will be the QRED4.2. Thereafter, the Grade will be the QRED4.3.
 - **(c)** Level 4 Research Nurse/Midwife. Minimum grade is QRED4.2, and maximum is QRED4.3 unless already graded above this level, in which case the higher grade may be maintained, but no further progression can occur at this level of Research Nurse.
 
 **83.14 QRED 5**
 
 - **(a)** A Registered Nurse or Midwife appointed as a Principal Educator and paid as such. The sub-grades for this classification will be:
-  - **(i)** QRED 5A for a Principal Educator of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-  - **(ii)** QRED 5B for a Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-  - **(iii)** QRED 5C for a Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
-  - **(iv)** QRED 5D for a Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+  - **(i)** QRED 5A for a Principal Educator of a health service that has a Campus named in column 8A in Appendix 8;
+  - **(ii)** QRED 5B for a Principal Educator of a health service that has a Campus named in column 8B (but not column 8A) in Appendix 8;
+  - **(iii)** QRED 5C for a Principal Educator of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in Appendix 8; and
+  - **(iv)** QRED 5D for a Principal Educator of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in Appendix 8.
 
 **83.15 CN 1**
 
@@ -389,10 +389,10 @@ An ANUM/AMUM.
 - **(a)** A Deputy DON will be graded at NM6. The sub grade within Level 6, A, B, C or D is determined by reference to the health service Campus categorisation in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
 - **(b)** A Registered Nurse appointed as a Deputy DON/ District Nursing Service and paid as such. The rate of pay for this classification will be at the NM6B.
 - **(c)** An Employee who is a Registered Nurse or Midwife who has responsibility for a clinical division of the health service, appointed as a Divisional/Clinical Director and paid as such. The sub-grades for this classification will be:
-  - **(i)** NM 6A for a Divisional/Clinical Director of a health service that has a Campus named in column 8A in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-  - **(ii)** NM 6B for a Divisional/Clinical Director of a health service that has a Campus named in column 8B (but not column 8A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories);
-  - **(iii)** NM 6C for a Divisional/Clinical Director of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories); and
-  - **(iv)** NM 6D for a Divisional/Clinical Director of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in [Appendix 8](/ebas/nurses-midwives/appendices/08-campus-categories).
+  - **(i)** NM 6A for a Divisional/Clinical Director of a health service that has a Campus named in column 8A in Appendix 8;
+  - **(ii)** NM 6B for a Divisional/Clinical Director of a health service that has a Campus named in column 8B (but not column 8A) in Appendix 8;
+  - **(iii)** NM 6C for a Divisional/Clinical Director of a health service that has a Campus named in column 7A or 8C (but not column 8A or 8B) in Appendix 8; and
+  - **(iv)** NM 6D for a Divisional/Clinical Director of a health service that has a Campus named in column 7B or 8D (but not column 8A, 8B, 8C or 7A) in Appendix 8.
 
 **83.35 NM7**
 

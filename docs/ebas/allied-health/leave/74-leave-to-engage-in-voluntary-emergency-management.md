@@ -13,7 +13,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 74. Leave to Engage in Voluntary Emergency Management Activities
 
->**Note:** In this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management), ‘up to’ refers to the total amount of paid leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than two (2) weeks leave. That is where the Employee qualifies in accordance with this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) for two (2) weeks paid leave, the Employer must provide them with two (2) weeks paid leave.
+>**Note:** In this clause 74, ‘up to’ refers to the total amount of paid leave per calendar year an Employee is entitled to access whilst they qualify and does not confer a discretion on the Employer to provide fewer than two (2) weeks leave. That is where the Employee qualifies in accordance with this clause 74 for two (2) weeks paid leave, the Employer must provide them with two (2) weeks paid leave.
 
 **74.1 Leave to Engage in Voluntary Emergency Management Activities**
 
@@ -28,11 +28,11 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 - **(d)** An Employee who is required to attain qualifications or to requalify to perform activities in an emergency management body must be granted leave with pay for the period of time required to fulfil the requirements of the training course pertaining to those qualifications, provided that such training can be undertaken without unduly affecting the operations of the Employer.
 
-- **(e)** The leave under this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) will be paid up to two (2) weeks per calendar year, save that approval of paid leave is subject to the operational requirements of the Employer resulting from any emergency.
+- **(e)** The leave under this clause 74 will be paid up to two (2) weeks per calendar year, save that approval of paid leave is subject to the operational requirements of the Employer resulting from any emergency.
 
-> **Example 1:** If the emergency is such that the Employee is required to perform work for their Employer to assist with the emergency under this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) paid leave may not be available.
+> **Example 1:** If the emergency is such that the Employee is required to perform work for their Employer to assist with the emergency under this clause 74 paid leave may not be available.
 
-> **Example 2:** An Employee who is a member of the Country Fire Authority is the only Medical Imaging Technologist (Radiographer) at an Employer. As a result of fighting bushfires, residents and other members of the Country Fire Authority have sustained injuries that require medical imaging scans. In this circumstance the Employer may not grant paid leave under this [clause 74](/ebas/allied-health/leave/74-leave-to-engage-in-voluntary-emergency-management) as the Employee is required to perform work for their Employer to assist with the emergency.
+> **Example 2:** An Employee who is a member of the Country Fire Authority is the only Medical Imaging Technologist (Radiographer) at an Employer. As a result of fighting bushfires, residents and other members of the Country Fire Authority have sustained injuries that require medical imaging scans. In this circumstance the Employer may not grant paid leave under this clause 74 as the Employee is required to perform work for their Employer to assist with the emergency.
 
 - **(f)** Nothing in this clause limits the ability of an Employee to be absent from employment for engaging in eligible community service activity in accordance with Division 8 of the Act.
 

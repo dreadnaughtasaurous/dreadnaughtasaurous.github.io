@@ -40,7 +40,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **62.6** The policy will have considered relevant risk assessments, in particular where circumstances require nursing care to be provided in an alternative environment, and relevant legislation, regulations or guidelines.
 
-**62.7** The policy will encapsulate the principles set out in [subclause 62.4](/ebas/mental-health/common-terms/staffing/62-demand-escalation-policy) above and contain specific information which sets out the following:
+**62.7** The policy will encapsulate the principles set out in subclause 62.4 above and contain specific information which sets out the following:
 - **(a)** the trigger point(s) for the activation of the policy, noting that these trigger points should act as an early warning system
 - **(a)** the accountabilities of those employees involved in the decision-making process
 - **(b)** the process to be followed for those responsible for implementing the process, including the means to access additional, immediate and appropriate resources including appropriately qualified nursing staff

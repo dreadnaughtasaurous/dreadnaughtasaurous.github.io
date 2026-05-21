@@ -13,9 +13,9 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 204. Overtime - Royal Children's Hospital
 
-*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 6](/ebas/mental-health/schedules/06-support-services-employee-classifications) of this Agreement.*
+*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3) of this Agreement.*
 
-**204.1** Employees in receipt of an annualised salary, or classified in Grades 3 to 8 of the classification structure in Part 2 of [Schedule 6](/ebas/mental-health/schedules/06-support-services-employee-classifications) of this Agreement are not entitled to payment of overtime under [clause 203](/ebas/mental-health/management-admin/hours-of-work/203-overtime) (Overtime), other than for:
+**204.1** Employees in receipt of an annualised salary, or classified in Grades 3 to 8 of the classification structure in Part 2 of [Schedule 6](/ebas/mental-health/common-terms/preliminary/6-application-of-section-3) of this Agreement are not entitled to payment of overtime under clause 203 (Overtime), other than for:
 
 - **(a)** periods of recall to duty
 - **(b)** periods when the Employee is directed to work overtime on weekends; and/or

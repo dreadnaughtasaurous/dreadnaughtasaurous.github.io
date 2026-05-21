@@ -13,7 +13,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 # 37. Penalty Payments
 
-**37.1** The provisions of this [clause 37](/ebas/doctors-in-training/hours-of-work/37-penalty-payments) are to be read in conjunction with [subclauses 42.7(d)](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases) and 42.7(e) (Rate of Pay).
+**37.1** The provisions of this clause 37 are to be read in conjunction with [subclauses 42.7(d)](/ebas/doctors-in-training/remuneration/42-remuneration-and-remuneration-increases) and 42.7(e) (Rate of Pay).
 
 **37.2 Saturday and Sunday Work**
 

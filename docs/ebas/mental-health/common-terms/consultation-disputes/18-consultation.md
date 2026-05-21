@@ -23,7 +23,7 @@ Nothing in this clause limits the Employer’s obligations to consult with HSRs 
 
 **18.2 Definitions** 
 
-Under this [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18-consultation)
+Under this clause 18
 
 - **(a) Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 - **(b) Affected Employee** means an Employee on whom a Major Change may have a Significant Effect.
@@ -53,7 +53,7 @@ Under this [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18
 
 | Step | Action |
 |------|--------|
-| 1 | Employer provides change impact statement and other written material required by [subclause 18.4](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) |
+| 1 | Employer provides change impact statement and other written material required by subclause 18.4 |
 | 2 | Written response from Employees and/or union |
 | 3 | Consultation Meeting/s convened |
 | 4 | Further Employer response (where relevant) |
@@ -67,13 +67,13 @@ Under this [clause 18](/ebas/mental-health/common-terms/consultation-disputes/18
   - **(ii)** the reasons for the proposed change
   - **(iii)** the possible effect of the proposed change on Employees': 
     - **(A)** workload; and 
-    - **(B)** occupational health and safety impacts matters, such as those set out in [Clause 69](/ebas/mental-health/common-terms/ohs/69-occupational-health-and-safety-workplace-violence); Where occupational health and safety impacts are identified, a risk assessment of the potential effects of the change on the health and safety of Employees must be undertaken in consultation with HSRs, and the proposed mitigating actions to be implemented to prevent such effects;
+    - **(B)** occupational health and safety impacts matters, such as those set out in Clause 69; Where occupational health and safety impacts are identified, a risk assessment of the potential effects of the change on the health and safety of Employees must be undertaken in consultation with HSRs, and the proposed mitigating actions to be implemented to prevent such effects;
   - **(iv)** the expected benefit of the change
   - **(v)** measures the Employer is considering that may mitigate or avert the effects of the proposed change
   - **(vi)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Employees or managers where reporting lines change
   - **(vii)** the right of an Affected Employee to have a representative including a Union representative at any time during the change process; and
   - **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 or other legislation.
-- **(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with [clause 18.4](/ebas/mental-health/common-terms/consultation-disputes/18-consultation) will be raised as soon as practicable and before step 2.
+- **(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with clause 18.4 will be raised as soon as practicable and before step 2.
 
 **18.5 Employee / Union response (step 2)** 
 
@@ -97,7 +97,7 @@ The Affected Employee/s, the Union and other representative (where relevant) may
 
 **18.9 Outcome of Consultation (step 6)** 
 
-The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-[clause 18.8](/ebas/mental-health/common-terms/consultation-disputes/18-consultation), and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
+The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under sub-clause 18.8, and will advise the Affected Employees, the Union and other nominated representatives (if any) in writing of the outcome of Consultation including:
 
 - **(a)** whether the Employer intends to proceed with the change proposal
 - **(b)** any amendment to the change proposal arising from Consultation

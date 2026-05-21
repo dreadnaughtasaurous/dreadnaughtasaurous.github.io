@@ -19,7 +19,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 - **(a)** An Employee not employed by Royal Women’s Hospital or Royal Children’s Hospital whose rostered hours of ordinary duty:
   - **(i)** commence between 5:00am and 6:30am, or
-  - **(ii)** finish between 6:00pm and before midnight will be paid the applicable shift allowance set out in **Part 1** or **Part 2** of [Schedule 2C](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services) or **Part 1** of [Schedule 3C](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers) (as applicable) per rostered period of duty, unless the Employee is entitled to Night Shift Allowance or Permanent Night Shift Allowance.
+  - **(ii)** finish between 6:00pm and before midnight will be paid the applicable shift allowance set out in **Part 1** or **Part 2** of Schedule 2C or **Part 1** of Schedule 3C (as applicable) per rostered period of duty, unless the Employee is entitled to Night Shift Allowance or Permanent Night Shift Allowance.
 - **(b)** An Employee employed by Royal Women’s Hospital or Royal Children’s Hospital whose rostered hours of ordinary duty
   - **(i)** commence between 5:00am and 6:30am, or
   - **(ii)** finish between 8:00pm and before midnight will be paid the applicable shift allowance set out in Part 2 of Allowance or Permanent Night Shift Allowance.
@@ -28,13 +28,13 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 - **(a)** An Employee whose rostered hours of ordinary duty:
   - **(i)** commence after midnight and before 5.00am, or
-  - **(ii)** finish on the day after commencing duty will be paid the applicable Night Shift Allowance set out in **Part 1** or **Part 2** of [Schedule 2C](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services) or **Part 1** or **Part 2** of [Schedule 3C](/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers) (as applicable) for each such period of duty, unless the Employee is entitled to Permanent Night Shift Allowance.
+  - **(ii)** finish on the day after commencing duty will be paid the applicable Night Shift Allowance set out in **Part 1** or **Part 2** of Schedule 2C or **Part 1** or **Part 2** of Schedule 3C (as applicable) for each such period of duty, unless the Employee is entitled to Permanent Night Shift Allowance.
 
 **45.4 Permanent Night Shift Allowance**
 
 - **(a)** An Employee who permanently works rostered hours of ordinary duty:
   - **(i)** commence after midnight and before 5.00am, or
-  - **(ii)** that finish on the day after commencing duty will be paid the applicable Permanent Night Shift allowance set out in **Part 1** or **Part 2** of [Schedule 2C](/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services) or **Part 1** or **Part 2** of
+  - **(ii)** that finish on the day after commencing duty will be paid the applicable Permanent Night Shift allowance set out in **Part 1** or **Part 2** of Schedule 2C or **Part 1** or **Part 2** of
 - **(b)** *Permanently works* means that all rostered hours of ordinary duty performed by the Employee attracted the Night Shift Allowance for more than four consecutive weeks.
 
 **45.5 Change of Shift Allowance**
@@ -54,7 +54,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 *Health & Allied Services and Dental Assistants only*
 
-- **(c)** Where a department has established a self-rostering system, and an Employee chooses their own shifts from a genuine choice of shifts, the Employee will receive a fixed payment of two change of shift allowances per pay period (fortnight) and [subclause 45.5(a)](/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments) will not apply. This clause does not apply where an Employee chooses their own shifts from a genuine choice of shifts and the shifts chosen by the Employee do not involve a change of shift as defined by [subclause 45.5(a)](/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments).
+- **(c)** Where a department has established a self-rostering system, and an Employee chooses their own shifts from a genuine choice of shifts, the Employee will receive a fixed payment of two change of shift allowances per pay period (fortnight) and subclause 45.5(a) will not apply. This clause does not apply where an Employee chooses their own shifts from a genuine choice of shifts and the shifts chosen by the Employee do not involve a change of shift as defined by subclause 45.5(a).
 - **(d)** An Employee employed in the public sector as of 11 June 2002, who receives change of shift allowances per pay period (fortnight) on the basis of an historical agreement that exceeds the entitlement arising from these provisions, such Employee will be maintained at that entitlement for the duration of this agreement.
 - **(e)** Where an Employer and the majority of Employees in a department genuinely desire an alternative system to the above, the Employer is to contact the HWU and any agreement reached will be determined in accordance with the facilitative provisions of this Agreement.
 

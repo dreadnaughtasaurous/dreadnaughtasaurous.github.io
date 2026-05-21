@@ -15,7 +15,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **76.1** This clause applies to a vacancy which relates to a position that, but for the vacancy occurring, would have been ongoing.
 
-**76.2** If the Employer elects to fill the vacancy, they will advertise the position as soon as reasonably practicable. Where an Employer elects not to fill the vacancy, or to make changes to the vacant position, they must review any obligations under [clause 13](/ebas/allied-health/consultation-disputes/13-consultation) (Consultation).
+**76.2** If the Employer elects to fill the vacancy, they will advertise the position as soon as reasonably practicable. Where an Employer elects not to fill the vacancy, or to make changes to the vacant position, they must review any obligations under [clause 13](/ebas/biomedical-engineers/consultation-disputes/13-consultation) (Consultation).
 
 **76.3** During any period between a position becoming vacant and the position being filled, the Employer will ensure Employees’ workloads are managed in accordance with [clause 84](/ebas/biomedical-engineers/classification-staffing/84-workload) (Workload). This may include but is not limited to:
 

@@ -19,7 +19,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 **12.1 Transfer to lower paid duties on redundancy**
 
-- **(a)** [Clause 12.1](/ebas/childrens-services/employment/12-redundancy) applies if, because of redundancy, an employee is transferred to new duties to which a lower ordinary rate of pay applies.
+- **(a)** Clause 12.1 applies if, because of redundancy, an employee is transferred to new duties to which a lower ordinary rate of pay applies.
 - **(b)** The employer may:
   - **(i)** give the employee notice of the transfer of at least the same length as the employee would be entitled to under section 117 of the Act as if it were a notice of termination given by the employer; or
   - **(ii)** transfer the employee to the new duties without giving notice of transfer or before the expiry of a notice of transfer, provided that the employer pays the employee as set out in paragraph (c).
@@ -28,7 +28,7 @@ childrens services childcare worker early childhood educator family day care ECE
 **12.2 Employee leaving during redundancy notice period**
 
 - **(a)** An employee given notice of termination in circumstances of redundancy may terminate their employment during the minimum period of notice prescribed by section 117(3) of the Act.
-- **(b)** The employee is entitled to receive the benefits and payments they would have received under [clause 12](/ebas/childrens-services/employment/12-redundancy) or under sections 119-123 of the Act had they remained in employment until the expiry of the notice.
+- **(b)** The employee is entitled to receive the benefits and payments they would have received under clause 12 or under sections 119-123 of the Act had they remained in employment until the expiry of the notice.
 - **(c)** However, the employee is not entitled to be paid for any part of the period of notice remaining after the employee ceased to be employed.
 
 **12.3 Job search entitlement**

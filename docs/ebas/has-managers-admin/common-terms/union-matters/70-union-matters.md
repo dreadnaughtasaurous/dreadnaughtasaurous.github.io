@@ -32,12 +32,12 @@ The Employer will ensure that:
 - **(a)** The HWU may attend, address and provide information to new Employees as part of orientation/induction programs for new Employees. The details of such attendance will be arranged by the Employer in consultation with the HWU.
 - **(b)** Any attendance for the purposes of discussions with the Employees must meet the right of entry requirements under Part 3-4 of the Act.
 - **(c)** An Employer will advise the HWU of the date, time and location of orientation/induction programs not less than 14 days prior to the orientation/induction program.
-- **(d)** Those covered by this Agreement acknowledge the increasing role that technology plays in orientation / induction. Where an Employer conducts online orientation/induction, the Employer shall provide to the HWU alternative means by which the HWU can access new Employees, provided that such access is consistent with this [subclause 70.3](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters).
+- **(d)** Those covered by this Agreement acknowledge the increasing role that technology plays in orientation / induction. Where an Employer conducts online orientation/induction, the Employer shall provide to the HWU alternative means by which the HWU can access new Employees, provided that such access is consistent with this subclause 70.3.
 
 **70.4 Delegates and HSRs**
 > **Note:** Additional rights of HSRs are contained in the OHS Act.
 
-- **(a)** In this [subclause 70.4(a)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters) Representative means a HWU Delegate, or HSR.
+- **(a)** In this subclause 70.4(a) Representative means a HWU Delegate, or HSR.
 - **(b)** A Representative is entitled to reasonable time release from duty to:
   - **(i)** attend to matters relating to industrial, occupational health and safety or other relevant matters such as assisting with grievance procedures, attending committee meetings and facilitating posting to noticeboards in secure areas (subject to occupational health and safety or other reasonable requirements of the Employer);
   - **(ii)** access reasonable preparation time before meetings with management disciplinary or grievance meetings with a HWU member;
@@ -47,9 +47,9 @@ The Employer will ensure that:
 - **(d)** A Representative will be provided with access to facilities such as telephones, computers, email, noticeboards and meeting rooms in a manner that does not adversely affect service delivery and work requirements of the Employer. In the case of an HSR, facilities will include other facilities as necessary to enable them to perform their functions as prescribed under the OHS Act.
 
 **70.5 Noticeboard**
-- **(a)** A noticeboard for the HWU’s use will be readily accessible in each ward/unit/work area where persons eligible to be members of the HWU are employed, unless otherwise agreed by the AIC referred to in [subclause 70.10](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters).
+- **(a)** A noticeboard for the HWU’s use will be readily accessible in each ward/unit/work area where persons eligible to be members of the HWU are employed, unless otherwise agreed by the AIC referred to in subclause 70.10.
 - **(b)** The HWU and members covered by this Agreement will, during the life of this Agreement, consult over the development of an electronic noticeboard managed by the HWU.
-- **(c)** Where an Employer cannot facilitate noticeboards pursuant to [subclause 70.5(a)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters) as they operate in a building that is not owned by the Employer, the Employer and HWU will, as soon as reasonably practicable, implement an electronic noticeboard or other mutually agreed arrangement to give effect to [subclause 70.5(a)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters); this may include, but is not limited to:
+- **(c)** Where an Employer cannot facilitate noticeboards pursuant to subclause 70.5(a) as they operate in a building that is not owned by the Employer, the Employer and HWU will, as soon as reasonably practicable, implement an electronic noticeboard or other mutually agreed arrangement to give effect to subclause 70.5(a); this may include, but is not limited to:
   - **(i)** Centralised noticeboard(s) (e.g. a noticeboard in the staff cafeteria, but not in each ward/unit/work area);
   - **(ii)** The Employer providing a link on the staff intranet page that directs staff to the HWU website;
   - **(iii)** Additional reasonable time release for Representatives to attend to industrial matters associated with distributing Union communications that otherwise would be placed on noticeboards.
@@ -70,14 +70,14 @@ The Employer will, on application by the HWU, grant leave without loss of pay (i
 **70.9 Union Training**
 > **Note:** an HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
 
-- **(a)** Subject to the conditions in this [subclause 70.9](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters), Employees selected by the HWU to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
+- **(a)** Subject to the conditions in this subclause 70.9, Employees selected by the HWU to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 - **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 - **(c)** The granting of leave will be subject to the Employer’s operational requirements. The granting of leave will not be unreasonably withheld.
 - **(d)** Leave under this subclause is granted on the following conditions:
   - **(i)** applications are accompanied by a statement from the HWU advising that it has nominated the Employee or supports the application:
   - **(ii)** the training is conducted by the HWU, an association of unions or accredited training provider; and
   - **(iii)** the application is made as early as practicable and not less than two (2) weeks before the training.
-- **(e)** The Employee will be paid their ‘ordinary pay’ (as defined at [clause 53.6(b)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave)(Annual Leave)) for normal rostered hours (set out in [Schedules 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services) and 3B), but excluding shift work, overtime and other allowances.
+- **(e)** The Employee will be paid their ‘ordinary pay’ (as defined at [clause 53.6(b)](/ebas/has-managers-admin/common-terms/leave/53-annual-leave)(Annual Leave)) for normal rostered hours (set out in Schedules 2B and 3B), but excluding shift work, overtime and other allowances.
 - **(f)** Leave in accordance with this clause may include necessary travelling time in normal hours immediately before or after the course.
 - **(g)** Leave granted under this clause will count as service for all purposes of this Agreement.
 - **(h)** Expenses associated with attendance at training courses, including fares, accommodation and meal costs are not the responsibility of the Employer.
@@ -88,17 +88,17 @@ The Employer will, on application by the HWU, grant leave without loss of pay (i
   - **(ii)** on-going monitoring and assessment of the implementation of this Agreement; and
   - **(iii)** to deal with any local disputes that may arise, without limiting the Dispute Resolution Procedure in this Agreement.
 - **(b)** Priority items for consideration by the AIC will include the matters arising under:
-  - **(i)** Union Matters (Section 1, [Clause 70](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters))
-  - **(ii)** Designated Working Groups (Section 1, [Clause 80.2](/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety))
-  - **(iii)** Transition to New Instrument Technician Structure (Section 2, [Clause 37](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance))
-  - **(iv)** Transition to New Theatre Technician Structure (Section 2, [Clause 35](/ebas/has-managers-admin/common-terms/wages/35-juniors))
-  - **(v)** Transition of All Other Employees (Section 2, [Clause 36](/ebas/has-managers-admin/common-terms/wages/36-employee-records))
-  - **(vi)** Introduction of Revised Food Services Classification Structure (Section 2, [Clause 37](/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance))
-  - **(vii)** Introduction of Revised General Services Classification Structure (Section 2, [Clause 38](/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a))
-  - **(viii)** Introduction of Revised Pathology Collector Structure (Section 2, [Clause 39](/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances))
-  - **(ix)** Introduction of Revised Allied Health Assistant Classification Structure (Section 2, [Clause 40](/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance))
-  - **(xi)** Introduction of Revised Health Care Worker Classification Structure (Section 2, [Clause 41](/ebas/allied-health/allowances/41-travelling-allowance))
-  - **(xii)** Introduction of Lifestyle Assistant and Complimentary Therapies Worker Structure (Section 2, [Clause 44](/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall))
+  - **(i)** Union Matters (Section 1, Clause 70)
+  - **(ii)** Designated Working Groups (Section 1, Clause 80.2)
+  - **(iii)** Transition to New Instrument Technician Structure (Section 2, Clause 37)
+  - **(iv)** Transition to New Theatre Technician Structure (Section 2, Clause 35)
+  - **(v)** Transition of All Other Employees (Section 2, Clause 36)
+  - **(vi)** Introduction of Revised Food Services Classification Structure (Section 2, Clause 37)
+  - **(vii)** Introduction of Revised General Services Classification Structure (Section 2, Clause 38)
+  - **(viii)** Introduction of Revised Pathology Collector Structure (Section 2, Clause 39)
+  - **(ix)** Introduction of Revised Allied Health Assistant Classification Structure (Section 2, Clause 40)
+  - **(xi)** Introduction of Revised Health Care Worker Classification Structure (Section 2, Clause 41)
+  - **(xii)** Introduction of Lifestyle Assistant and Complimentary Therapies Worker Structure (Section 2, Clause 44)
 
 **70.11 Secondment to the HWU**
 - **(a)** The Employer will, on application, grant leave without pay to an Employee for the purpose of secondment to work for the HWU subject to the Employer’s reasonable operational requirements.
@@ -108,12 +108,12 @@ The Employer will, on application by the HWU, grant leave without loss of pay (i
   - **(iii)** Where an Employee seeks to extend their secondment beyond a period of twelve months, the Employee must submit a new application to their Employer no less than six- weeks prior to the end of their current secondment arrangement.
 - **(c)** Where an Employee is seconded in accordance with this clause:
   - **(i)** the Employee’s absence will not contribute to, but not break continuity of service for the purpose of: 
-    - **(A)** Long Service Leave ([Clause 61](/ebas/has-managers-admin/common-terms/leave/61-long-service-leave)); 
-    - **(B)** Notice of Termination – Employer ([Clause 5](/ebas/allied-health/preliminary/5-incidence-coverage) of Section 2 and [Clause 3](/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement) of Section 3) and 
-    - **(C)** Redundancy and Associated Entitlements ([Clause 26](/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements))
+    - **(A)** Long Service Leave (Clause 61); 
+    - **(B)** Notice of Termination – Employer (Clause 5 of Section 2 and Clause 3 of Section 3) and 
+    - **(C)** Redundancy and Associated Entitlements (Clause 26)
   - **(ii)** An Employee who possesses an ongoing contract of employment will return to their pre-secondment contracted hours of work at the cessation of the secondment arrangement.
   - **(iii)** An Employer will not be required to return to the Employee to their substantive role earlier than the requested end date.
   - **(iv)** The Employee will be expected to maintain confidentiality on matters pertaining to their substantive work with the Employer and the secondment with the HWU.
-  - **(v)** The Employer and the Union will not require the Employee to divulge information that may cause the Employee to breach [subclause 70.11(c)(iv)](/ebas/has-managers-admin/common-terms/union-matters/70-union-matters).
+  - **(v)** The Employer and the Union will not require the Employee to divulge information that may cause the Employee to breach subclause 70.11(c)(iv).
 
 Plain language terms: union rep, delegate, union representative, right of entry.

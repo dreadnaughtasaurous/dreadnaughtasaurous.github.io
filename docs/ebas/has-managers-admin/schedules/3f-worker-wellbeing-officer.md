@@ -3,7 +3,7 @@ title: 'Schedule 3F – Worker Wellbeing Officer: Health Allied & Managers Admin
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Schedule 3f" style="display:none"></span>
+<span data-pagefind-meta="clause:[Schedule 3](/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer)" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 

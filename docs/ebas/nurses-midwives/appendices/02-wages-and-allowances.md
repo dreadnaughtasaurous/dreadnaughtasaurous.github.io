@@ -18,9 +18,9 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 
 ::: info Related pay information
-- [Salary (Clause 25)](/ebas/nurses-midwives/wages/25-salary)
-- [Superannuation (Clause 27)](/ebas/nurses-midwives/wages/27-superannuation)
-- [Salary Packaging (Clause 28)](/ebas/nurses-midwives/wages/28-salary-packaging)
+- Salary ([Clause 25](/ebas/nurses-midwives/wages/25-salary))
+- Superannuation ([Clause 27](/ebas/nurses-midwives/wages/27-superannuation))
+- Salary Packaging ([Clause 28](/ebas/nurses-midwives/wages/28-salary-packaging))
 :::
 
 ::: tip Source: Salary Circular 870 (1 July 2025)

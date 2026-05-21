@@ -36,7 +36,7 @@ An Employee wishing to take study leave must:
 **31.4 Response to application for paid study leave**
 - **(a)** The Employer will notify the Employee of whether or not their request for study leave has been approved within 7 days of the application being made.
 - **(b)** Where the number of staff seeking to take study leave at any one time causes operational difficulties, the Employer and Employee(s) concerned will seek to reach agreement at a local level about the timeframe in which the leave is taken.
-- **(c)** Any dispute arising under this [clause 31](/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave) will be resolved in accordance with [clause 17](/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv) (Dispute Resolution Procedure).
+- **(c)** Any dispute arising under this clause 31 will be resolved in accordance with [clause 17](/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv) (Dispute Resolution Procedure).
 
 **31.5 Temporary changes to existing contract to undertake study or employment opportunities**
 - **(a)** An Employee who has been engaged on a Full Time or Part Time basis with the Employer for at least twelve months may request temporary changes to their existing contract of employment for the purpose of undertaking study or an employment opportunity outside the Employer that is of benefit to the career pathway of the Employee within the public health sector.

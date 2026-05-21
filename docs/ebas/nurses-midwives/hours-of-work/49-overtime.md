@@ -18,7 +18,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 *This clause does not apply to a DON at an Employer where a Deputy or Assistant DON is also employed.*
 
 > **Note:**
-> See [clause 33](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) for allowances which may be applicable to periods of overtime. See also [clause 56](/ebas/medical-specialists/leave/56-public-holidays) (public holidays)
+> See [clause 33](/ebas/nurses-midwives/allowances/33-allowances-related-to-overtime) for allowances which may be applicable to periods of overtime. See also [clause 56](/ebas/nurses-midwives/leave/56-public-holidays) (public holidays)
 
 **49.1** An Employer may require an Employee to work "reasonable overtime" at overtime rates and such an Employee will work overtime in accordance with such a requirement.
 
@@ -27,21 +27,21 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 **49.2 Overtime Penalty Rates**
 
 - **(a)** **Overtime** means work requested or directed by the Employer that is performed:
-  - **(i)** in addition to the full-time ordinary hours described at [clause 42.1](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) (Hours for an ordinary week's work), save for the exception at clause
+  - **(i)** in addition to the full-time ordinary hours described at clause 42.1 (Hours for an ordinary week's work), save for the exception at clause
 **55.1** relating to Daylight Saving Time;
-  - **(ii)** in addition to [clause 42.3](/ebas/nurses-midwives/hours-of-work/42-hours-of-work) and subject to [clause 55.1](/ebas/nurses-midwives/hours-of-work/55-daylight-saving);
+  - **(ii)** in addition to clause 42.3 and subject to clause 55.1;
   - **(iii)** in addition to the Employee's rostered shift length;
   - **(iv)** where a break of at least eight hours has not been provided between successive shifts – for all work performed until a break of eight hours is provided; or
   - **(v)** as recall to duty, including recall on a public holiday.
 - **(b)** Overtime is also as provided at [clause 53](/ebas/nurses-midwives/hours-of-work/53-rest-period-after-overtime-recall) (Rest Period after Overtime/Recall).
-- **(c)** Overtime (including for a double shift as defined at [subclause 49.6(c)](/ebas/nurses-midwives/hours-of-work/49-overtime)) is to be paid as follows:
+- **(c)** Overtime (including for a double shift as defined at subclause 49.6(c)) is to be paid as follows:
   - **(i)** Monday to Friday (inclusive) – time and half for the first two hours, double time thereafter;
   - **(ii)** Saturday and Sunday – double time; and
-  - **(iii)** Public Holidays – see [clause 56](/ebas/medical-specialists/leave/56-public-holidays) (Public Holidays).
+  - **(iii)** Public Holidays – see clause 56 (Public Holidays).
 - **(d)** For a casual Employee, Overtime will be calculated and paid at the rate of:
   - **(i)** Monday to Friday (inclusive) – 175% for the first two hours (which equates to time and a half plus the casual loading of 25%) and 225% (double time plus casual loading of 25%) for all subsequent hours;
   - **(ii)** Saturday and Sunday– 225% (which equates to double time plus the casual loading of 25%); and
-  - **(iii)** Public Holidays – see [clause 56](/ebas/medical-specialists/leave/56-public-holidays) (Public Holidays).
+  - **(iii)** Public Holidays – see clause 56 (Public Holidays).
 - **(e)** When calculating overtime payments, each day or shift will stand alone. Where a period of overtime worked commences on one day and finishes on another, the calculation of overtime will be treated as if the overtime took place in a single day or shift.
 
 > **Example:**
@@ -53,7 +53,7 @@ An Employee working overtime will take a paid rest break of 20 minutes after eac
 
 **49.3 Reasonable overtime**
 
-- **(a)** In determining whether overtime is "reasonable overtime" for the purposes of [clause 49.1](/ebas/nurses-midwives/hours-of-work/49-overtime), the following must be taken into account:
+- **(a)** In determining whether overtime is "reasonable overtime" for the purposes of clause 49.1, the following must be taken into account:
   - **(i)** any risk to Employee health and safety from working the additional hours;
   - **(ii)** the Employee's personal circumstances, including family responsibilities;
   - **(iii)** the needs of the workplace or enterprise in which the Employee is employed;
@@ -67,7 +67,7 @@ An Employee working overtime will take a paid rest break of 20 minutes after eac
 
 **49.4 Approval of Overtime**
 
-- **(a)** A request or direction made by the nurse or midwife in charge of the ward that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether [subclause 49.4(b)](/ebas/nurses-midwives/hours-of-work/49-overtime) is complied with.
+- **(a)** A request or direction made by the nurse or midwife in charge of the ward that an Employee work overtime is, for the purposes of this clause, a direction or request of the Employer regardless of whether subclause 49.4(b) is complied with.
 - **(b)** An Employer may create policies and procedures regarding the process the nurse or midwife in charge of the ward is required to undertake prior to approving overtime.
 
 **49.5 Time off instead of payment for overtime**
@@ -79,10 +79,10 @@ An Employee may, with the consent of the Employer, elect to take time off in lie
 **49.6 Transport following overtime**
 
 - **(a)** Where an Employee finishes a period of overtime at a time when reasonable means of transport are not available for the Employee to return to their place of residence the Employer will provide adequate transport free of cost to the Employee, including the return journey where the Employee's vehicle remains at the workplace.
-- **(b)** Where overtime is a result of a double shift, the provisions at [subclause 49.6(c)](/ebas/nurses-midwives/hours-of-work/49-overtime) below (Additional Provisions for Double Shifts) also apply.
+- **(b)** Where overtime is a result of a double shift, the provisions at subclause 49.6(c) below (Additional Provisions for Double Shifts) also apply.
 - **(c) Additional Provisions for Double Shifts**
   - **(i)** A double shift occurs where a non-casual Employee has worked 14 or more continuous hours (inclusive of any paid or unpaid breaks).
-  - **(ii)** An Employee who works a double shift will be entitled to overtime in accordance with [subclause 49.2(c)](/ebas/nurses-midwives/hours-of-work/49-overtime).
+  - **(ii)** An Employee who works a double shift will be entitled to overtime in accordance with subclause 49.2(c).
   - **(iii)** If an Employee works a double shift (which should only occur in emergency circumstances) the following will apply to mitigate the risk of fatigue and clinical error:
     - **(A)** allow breaks of at least 10 minutes' duration in each two hours worked; and
     - **(B)** adequate transport will be provided free of cost to the Employee, including the return journey where the Employee's vehicle remains at the workplace.

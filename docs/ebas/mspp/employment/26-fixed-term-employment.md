@@ -17,7 +17,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 - **(a)** The Employer will give preference to ongoing forms of employment over casual and fixed term arrangements wherever possible. Fixed term employment will only be used for "true fixed term arrangements".
 - **(b)** A fixed term Employee is an Employee employed for a specified period of time which period is known at the commencement of the contract, or employed for a specified task such as a project or replacement of an absent Employee, where the contract contains clear terms as to when a contract is at an end such as starting and finishing dates.
-- **(c)** In the normal course, a fixed term contract will not exceed 12 months save that this does not prevent a subsequent fixed term contract being offered where it complies with this [clause 26](/ebas/mspp/employment/26-fixed-term-employment).
+- **(c)** In the normal course, a fixed term contract will not exceed 12 months save that this does not prevent a subsequent fixed term contract being offered where it complies with this clause 26.
 - **(d)** Subject to clause e, fixed term employment will not be used to fill an ongoing position.
 - **(e)** Examples of where fixed term employment may be appropriate include but are not limited to:
   - **(i)** Employment positions to support qualification and / or registration;

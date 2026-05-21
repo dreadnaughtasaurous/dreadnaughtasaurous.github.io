@@ -3,7 +3,7 @@ title: '9. Definitions'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Clause 9" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 9](/ebas/mspp/schedules/9-royal-children-s-hospital-clinical-perfusionists)" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 
@@ -22,7 +22,7 @@ In this Agreement:
 - **(e)** **Associate Genetic Counsellor** is defined in [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc).
 - **(f)** **Clinical Perfusionist** is defined in [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc).
 - **(g)** **CMS** means caseload management system.
-- **(h)** **Departments and Sections** shall be determined in the manner set out in sub- [clause 6.11](/ebas/mspp/operation/6-savings-clause) of [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc).
+- **(h)** **Departments and Sections** shall be determined in the manner set out in sub- [clause 6.11](/ebas/mspp/schedules/6-eastern-health-turning-point-research-and-education-employee) of [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc).
 - **(i)** **Dietitian** means a person who is eligible for full membership of the Dietitians Association of Australia.
 - **(j)** **Employer** shall mean an employer listed in [Schedule 1](/ebas/mspp/schedules/1-employer-parties) of this Agreement.
 - **(k)** **FFPPOA** means the beginning of the first full pay period commencing on or after a particular date.
@@ -40,15 +40,15 @@ In this Agreement:
 - **(w)** **Trainee Pharmacist** means Pharmacist Intern.
 - **(x)** **Psychologist** means a person registered as a Psychologist by the Australian Health Practitioner Agency in partnership with the Psychology Board of Australia, including psychologists with provisional registration.
 - **(y)** **Recognised Prior Service** means service prior to the Employee’s employment with the Employer with:
-  - **(i)** An Employer listed in [Schedule 1](/ebas/mspp/schedules/1-employer-parties) of this Agreement;
+  - **(i)** An Employer listed in Schedule 1 of this Agreement;
   - **(ii)** An institution or statutory body as defined in cl 67.2c) and 67.2j) of this Agreement, including Community Health Services;
   - **(iii)** Forensicare; and/or
   - **(iv)** The Australian Red Cross Lifeblood, Where the period of absence between engagements with a prior Employer referred to at (i) and the Employer is less than 3 months.
 
   > **Note:**
-  > Recognised Prior Service will apply to Progression at [clause 49](/ebas/mspp/classification-salaries/49-progression-through-pay-points); Personal Leave at [clause 64.3b](/ebas/mspp/leave/64-personal-carer-s-leave); Parental leave at [clause 70.3a](/ebas/allied-health/leave/70-parental-leave) and Sabbatical leave at [clause 76](/ebas/mspp/leave/76-sabbatical-leave).
+  > Recognised Prior Service will apply to Progression at clause 49; Personal Leave at clause 64.3b; Parental leave at clause 70.3a and Sabbatical leave at clause 76.
   >
-  > The following terms rely on the definition of ‘service’ in the Long Service Leave clause at [subclause 67.5](/ebas/mspp/leave/67-long-service-leave): Long Service Leave at [clause 67](/ebas/mspp/leave/67-long-service-leave), Redundancy at [subclause 32.2](/ebas/mspp/employment/32-redundancy-and-associated-entitlements)f, and Notice of Termination at [subclause 31.1](/ebas/mspp/employment/31-notice-of-termination)f.
+  > The following terms rely on the definition of ‘service’ in the Long Service Leave clause at subclause 67.5: Long Service Leave at clause 67, Redundancy at subclause 32.2f, and Notice of Termination at subclause 31.1f.
 
 - **(z)** **Scientist** means a person:
   - **(i)** who holds a Bachelor of Applied Science or Bachelor of Science or equivalent where ‘equivalent’ includes a degree awarded by an overseas tertiary institution which is recognised by the Federal Department of Education and Training as such; or

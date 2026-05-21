@@ -26,14 +26,14 @@ childrens services childcare worker early childhood educator family day care ECE
 - **(a)** Full-time and part-time employees will be paid overtime at the rate of 150% of the hourly rate (plus any all-purpose allowance payable) for the first 2 hours and 200% of the hourly rate (plus any all-purpose allowance payable) after 2 hours. In calculating overtime, each day’s work will stand alone.
 - **(b)** Casual employees will be paid overtime at the rate of 175% of the hourly rate (plus any all-purpose allowance payable) for the first 2 hours and 225% of the hourly rate (plus any all-purpose allowance payable) after 2 hours. In calculating overtime, each day’s work will stand alone.
 
-NOTE: The overtime rates for casual employees have been calculated by adding the casual loading prescribed by [clause 10.5(a)](/ebas/childrens-services/employment/10-types-of-employment) to the overtime rates for full-time and part-time employees prescribed by [clause 23.2(a)](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
+NOTE: The overtime rates for casual employees have been calculated by adding the casual loading prescribed by [clause 10.5(a)](/ebas/childrens-services/employment/10-types-of-employment) to the overtime rates for full-time and part-time employees prescribed by clause 23.2(a).
 
 - **(c)** Where, due to a genuine and pressing emergency situation, an employee is required to remain at work after their normal finishing time such time will be paid at the ordinary rate for the employee’s classification. Provided that such emergency overtime does not exceed one hour per week. For the purposes of this subclause an **emergency situation** may include a natural disaster affecting a parent, another employee or the centre/service, the death of a child or parent, or a child requiring urgent hospitalisation or medical attention.
 
 **23.3 Time off instead of payment for overtime**
 
 - **(a)** An employee and employer may agree in writing to the employee taking time off instead of being paid for a particular amount of overtime that has been worked by the employee.
-- **(b)** Any amount of overtime that has been worked by an employee in a particular pay period and that is to be taken as time off instead of the employee being paid for it must be the subject of a separate agreement under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
+- **(b)** Any amount of overtime that has been worked by an employee in a particular pay period and that is to be taken as time off instead of the employee being paid for it must be the subject of a separate agreement under clause 23.3.
 - **(c)** An agreement must state each of the following:
   - **(i)** the number of overtime hours to which it applies and when those hours were worked;
   - **(ii)** that the employer and employee agree that the employee may take time off instead of being paid for the overtime;
@@ -48,24 +48,24 @@ NOTE: The overtime rates for casual employees have been calculated by adding the
 
 > **Example:** 
 >
->By making an agreement under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates) an employee who worked 2 overtime hours is entitled to 2 hours’ time off.
+>By making an agreement under clause 23.3 an employee who worked 2 overtime hours is entitled to 2 hours’ time off.
 
 - **(e)** Time off must be taken:
   - **(i)** within the period of 6 months after the overtime is worked; and
   - **(ii)** at a time or times within that period of 6 months agreed by the employee and employer.
-- **(f)** If the employee requests at any time, to be paid for overtime covered by an agreement under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates) but not taken as time off, the employer must pay the employee for the overtime, in the next pay period following the request, at the overtime rate applicable to the overtime when worked.
+- **(f)** If the employee requests at any time, to be paid for overtime covered by an agreement under clause 23.3 but not taken as time off, the employer must pay the employee for the overtime, in the next pay period following the request, at the overtime rate applicable to the overtime when worked.
 - **(g)** If time off for overtime that has been worked is not taken within the period of 6 months mentioned in paragraph (e), the employer must pay the employee for the overtime, in the next pay period following those 6 months, at the overtime rate applicable to the overtime when worked.
-- **(h)** The employer must keep a copy of any agreement under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates) as an employee record.
+- **(h)** The employer must keep a copy of any agreement under clause 23.3 as an employee record.
 - **(i)** An employer must not exert undue influence or undue pressure on an employee in relation to a decision by the employee to make, or not make, an agreement to take time off instead of payment for overtime.
-- **(j)** An employee may, under section 65 of the Act, request to take time off, at a time or times specified in the request or to be subsequently agreed by the employer and the employee, instead of being paid for overtime worked by the employee. If the employer agrees to the request then [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates) will apply, including the requirement for separate written agreements under paragraph (b) for overtime that has been worked.
+- **(j)** An employee may, under section 65 of the Act, request to take time off, at a time or times specified in the request or to be subsequently agreed by the employer and the employee, instead of being paid for overtime worked by the employee. If the employer agrees to the request then clause 23.3 will apply, including the requirement for separate written agreements under paragraph (b) for overtime that has been worked.
 
 >**Note:** 
 >
 >If an employee makes a request under section 65 of the Act for a change in working arrangements, the employer may only refuse that request on reasonable business grounds (see section 65A(3) of the Act).
 
-- **(k)** If, on the termination of the employee’s employment, time off for overtime worked by the employee to which [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates) applies has not been taken, the employer must pay the employee for the overtime at the overtime rate applicable to the overtime when worked.
+- **(k)** If, on the termination of the employee’s employment, time off for overtime worked by the employee to which clause 23.3 applies has not been taken, the employer must pay the employee for the overtime at the overtime rate applicable to the overtime when worked.
 
->**Note:** Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under [clause 23.3](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
+>**Note:** Under section 345(1) of the Act, a person must not knowingly or recklessly make a false or misleading representation about the workplace rights of another person under clause 23.3.
 
 **23.4 Shiftwork**
 
@@ -93,6 +93,6 @@ NOTE: The overtime rates for casual employees have been calculated by adding the
 - **(c)** All time worked on a Sunday will be paid at the rate of double time.
 - **(d)** All time worked on a public holiday will be paid at the rate of double time and a half. Where both a public holiday and a substitute day or part-day are worked, public holiday penalties are payable for only one of those days or part-days, at the election of the employee.
 - **(e)** Employees working on a Saturday, Sunday or public holiday will receive a minimum payment of four hours pay.
-- **(f)** Hours of work performed immediately before or after a part-day public holiday, that form part of one continuous shift, are counted as part of the minimum payment/engagement period in [clause 23.5(e)](/ebas/childrens-services/hours-of-work/23-overtime-and-penalty-rates).
+- **(f)** Hours of work performed immediately before or after a part-day public holiday, that form part of one continuous shift, are counted as part of the minimum payment/engagement period in clause 23.5(e).
 
 Plain language terms: OT, penalty rates, weekend rates.

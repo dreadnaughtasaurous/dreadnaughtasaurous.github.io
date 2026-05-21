@@ -13,4 +13,4 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 8. Application of Section 5
 
-The terms of Section 5 of this Agreement apply to Employees engaged in a classification set out in [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) which includes Management and Administrative Officers.
+The terms of Section 5 of this Agreement apply to Employees engaged in a classification set out in [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) which includes Management and Administrative Officers.

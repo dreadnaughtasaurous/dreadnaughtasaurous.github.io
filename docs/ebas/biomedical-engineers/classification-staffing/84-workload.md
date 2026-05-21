@@ -46,8 +46,8 @@ The Employer will allocate work to each Employee so that they can perform all as
 
 - **(a)** If Employees are routinely performing aspects of their position beyond their ordinary hours of work, the Employer will consult with Employees to determine whether they consider their workload to be unreasonable.
 - **(b)** In the event an individual Employee, or group of Employees, believes their workload is unreasonable, they may make a written request for a workload review:
-  - **(i)** following consultation with the Employer pursuant to [subclause 84.5(a)](/ebas/biomedical-engineers/classification-staffing/84-workload); or
+  - **(i)** following consultation with the Employer pursuant to subclause 84.5(a); or
   - **(ii)** at any time; which sets out details of the Employee/s workload and the reasons why the workload is considered unreasonable.
 - **(c)** The Employer will meet with the Employee/s to discuss the request as soon as practicable and within 21 days of the written request.
-- **(d)** The Employer and Employee/s will do all that is reasonable to resolve the workload issue. In doing so, the Employer will have regard to the allocation of work requirements at [subclause 84.4](/ebas/biomedical-engineers/classification-staffing/84-workload).
-- **(e)** If, following a meeting at [subclause 84.5(c)](/ebas/biomedical-engineers/classification-staffing/84-workload), the workload issue is not resolved, the Employee/s or Employer may refer it to the dispute resolution procedure in this Agreement ([clause 14](/ebas/allied-health/consultation-disputes/14-dispute-resolution-procedure)).
+- **(d)** The Employer and Employee/s will do all that is reasonable to resolve the workload issue. In doing so, the Employer will have regard to the allocation of work requirements at subclause 84.4.
+- **(e)** If, following a meeting at subclause 84.5(c), the workload issue is not resolved, the Employee/s or Employer may refer it to the dispute resolution procedure in this Agreement ([clause 14](/ebas/biomedical-engineers/consultation-disputes/14-dispute-resolution-procedure)).

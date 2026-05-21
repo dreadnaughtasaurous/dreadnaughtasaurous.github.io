@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 212. Discretionary Leave Without Pay - Royal Children's Hospital
 
-*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.*
+*This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement.*
 
 **212.1** Department Heads may grant discretionary leave without pay (DLWOP) up to a maximum of eight (8) weeks. Longer periods of DLWOP up to 52 weeks require the approval of the Divisional Director, and in the case of the Corporate Services Director, Executive Director Corporate.
 

@@ -44,8 +44,8 @@ The Employer will consult the Supplementary Roster before reliance on mechanisms
 To support the Right of Employees to Disconnect, the Employer will:
 
 - **(a)** Undertake a review of its arrangements for contacting Employees out of hours to determine availability, to ensure the system for contact is as efficient as possible, avoiding unnecessary contacts (such as multiple incidents of contact for the same shift) and prioritising use of the supplementary roster; and
-- **(b)** Report the results of the review under [subclause 52.3(a)](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect) to the WIC and the status of supplementary roster arrangements.
-- **(c)** The actions made under [subclauses 52.3(a)](/ebas/nurses-midwives/hours-of-work/52-right-to-disconnect) and (b) shall occur within the first six months of this Agreement commencing operation and shall be reported to the WIC.
+- **(b)** Report the results of the review under subclause 52.3(a) to the WIC and the status of supplementary roster arrangements.
+- **(c)** The actions made under subclauses 52.3(a) and (b) shall occur within the first six months of this Agreement commencing operation and shall be reported to the WIC.
 - **(d)** The WIC will work cooperatively to address any identified instances of contact inconsistent with the clause during the life of this Agreement.
 
 **52.4 Employee Right to Disconnect in relation to requests for additional or changed hours of work**

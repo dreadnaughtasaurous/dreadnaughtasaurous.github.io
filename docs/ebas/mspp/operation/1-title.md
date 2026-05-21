@@ -3,7 +3,7 @@ title: '1. Title'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['preliminary']
 ---
-<span data-pagefind-meta="clause:Clause 1" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 1](/ebas/mspp/schedules/1-employer-parties)" style="display:none"></span>
 <span data-pagefind-meta="section:Application & Operation" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 

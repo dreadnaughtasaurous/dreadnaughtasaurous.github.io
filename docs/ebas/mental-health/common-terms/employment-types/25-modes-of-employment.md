@@ -24,7 +24,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(b)** The number of hours worked by a part-time Employee may vary from week to week by mutual agreement.
 - **(c)** A part-time Employee will be paid an hourly rate equal to 1/38th of the weekly salary for the Employee’s classification. Payments for shift work ([clauses 75](/ebas/mental-health/rpn-pen-mho/allowances/75-change-of-shift-allowance-pen-and-mho), 84, 157, 178 and 194), for Saturday and Sunday ([clauses 83](/ebas/mental-health/rpn-pen-mho/allowances/83-saturday-and-sunday-work), 130, 177 and 209) and public holiday work ([clauses 98](/ebas/mental-health/rpn-pen-mho/leave/98-public-holidays), 135, 179 and 213 ) also apply to part-time Employees.
 - **(d)** Where a part-time Employee has an entitlement to leave under this Agreement, the part-time Employee will be paid according to the number of hours the Employee would have worked on the day/s on which the leave was taken.
-- **(e)** Notwithstanding the above, a part-time MHO employed on a regular basis for four hours or less per week shall be paid in accordance with [clause 25.3](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment).
+- **(e)** Notwithstanding the above, a part-time MHO employed on a regular basis for four hours or less per week shall be paid in accordance with clause 25.3.
 - **(f)** Where a full-time Employee converts from full-time to part-time, the Employer shall not reduce the total EFT of the Employee’s workplace as a result of the conversion to part-time.
 
 **25.3 Converting from Full-Time Employment to Part-time Employment**
@@ -39,9 +39,9 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   - **(i)** is an Employee who:
     - **(A)** is made an offer of employment on the basis that the Employer makes no firm advance commitment to continuing and indefinite work (e.g. relief such as replacing an employee on an unplanned absence); and 
     - **(B)** accepts the offer of employment on that basis 
-    - **(C)** is paid in accordance with sub-[clause 25.4(e)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment) and (f) of this Agreement; and 
+    - **(C)** is paid in accordance with sub-clause 25.4(e) and (f) of this Agreement; and 
     - **(D)** is an Employee as a result of that acceptance.
-- **(c)** When determining whether an Employer has made an offer of employment in accordance with [subclause 25.4(b)(i)(A)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment), regard is to be had to the Act which presently provides for consideration of the following indicia:
+- **(c)** When determining whether an Employer has made an offer of employment in accordance with subclause 25.4(b)(i)(A), regard is to be had to the Act which presently provides for consideration of the following indicia:
   - **(i)** the "real substance, practical reality and a true nature of the employment relationship", including whether a firm advanced commitment has arisen by reason of:
   - **(ii)** the Employee's contract of employment; or
   - **(iii)** a mutual understanding or expectation that has arisen between the Employer and the Employee (not rising to the level of a term of that contract or to a variation of any such term); and
@@ -56,29 +56,29 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(f)** For Employees under Section 3, 4 and 5 of this Agreement a casual Employee shall be paid for all work done on a weekdays an amount equal to 1/38th of the weekly wage appropriate to the Employees classification per hour plus 25% and for all work done Saturday, Sundays and Public Holidays an amount equal to 1/38th of the weekly wage appropriate to the Employees classification per hour plus 75%.
 - **(g)** Except where expressly excluded, a casual Employee will be entitled to receive the allowances prescribed by Section 1, Part E of this Agreement.
 - **(h)** A casual Employee will not be entitled to the following provisions of the agreement:
-  - **(i)** annual leave ([clause 38D](/ebas/mental-health/common-terms/leave/38D-annual-leave))
-  - **(ii)** purchased leave ([clause 51](/ebas/mental-health/common-terms/leave/51-purchased-leave))
-  - **(iii)** paid personal leave ([clause 38A](/ebas/mental-health/common-terms/leave/38A-personal-leave))
-  - **(iv)** paid compassionate leave ([clause 44](/ebas/mental-health/common-terms/leave/44-compassionate-leave))
-  - **(v)** long service leave – Health Professionals (Note: State LSL Act applies) ([clause 47](/ebas/mental-health/common-terms/leave/47-long-service-leave))
-  - **(vi)** professional development leave ([clauses 99.1](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave), 99.2 , 136 and 218) other than [clause 99.8](/ebas/mental-health/rpn-pen-mho/education-pd/99-professional-development-leave) (mandatory training) which does apply to casual Employees;
-  - **(vii)** study leave ([clauses 99A.3](/ebas/mental-health/rpn-pen-mho/education-pd/99A-study-leave), 139, 140, 180 and 214)
-  - **(viii)** examination leave ([clauses 99B](/ebas/mental-health/rpn-pen-mho/education-pd/99B-examination-leave-rpn-and-pen), 137 and 215)
-  - **(ix)** rosters ([clauses 94.8](/ebas/mental-health/rpn-pen-mho/hours-of-work/94-rosters) and 173.4 and 222A
-  - **(x)** notice period before termination ([clause 112](/ebas/mental-health/health-professionals/employment-types/112-this-clause-is-deliberately-blank))
-  - **(xi)** absences on defence leave ([clause 40](/ebas/mental-health/common-terms/leave/40-absence-on-defence-leave))
-  - **(xii)** special disaster leave ([clause 41](/ebas/mental-health/common-terms/leave/41-special-disaster-leave))
+  - **(i)** annual leave (clause 38D)
+  - **(ii)** purchased leave (clause 51)
+  - **(iii)** paid personal leave (clause 38A)
+  - **(iv)** paid compassionate leave (clause 44)
+  - **(v)** long service leave – Health Professionals (Note: State LSL Act applies) (clause 47)
+  - **(vi)** professional development leave (clauses 99.1, 99.2 , 136 and 218) other than clause 99.8 (mandatory training) which does apply to casual Employees;
+  - **(vii)** study leave (clauses 99A.3, 139, 140, 180 and 214)
+  - **(viii)** examination leave (clauses 99B, 137 and 215)
+  - **(ix)** rosters (clauses 94.8 and 173.4 and 222A
+  - **(x)** notice period before termination (clause 112)
+  - **(xi)** absences on defence leave (clause 40)
+  - **(xii)** special disaster leave (clause 41)
 - **(i)** A casual Employee is entitled to the following:
-  - **(i)** unpaid personal leave for carer’s responsibilities ([clause 38C](/ebas/mental-health/common-terms/leave/38C-caring-responsibilities-casual-employees))
-  - **(ii)** unpaid compassionate leave ([clause 44](/ebas/mental-health/common-terms/leave/44-compassionate-leave))
-  - **(iii)** parental leave ([clause 50](/ebas/mental-health/common-terms/leave/50-parental-leave)) subject to the eligibility requirements of that clause
-  - **(iv)** Paid and unpaid family and domestic violence leave ([clause 45](/ebas/mental-health/common-terms/leave/45-family-and-domestic-violence-leave))
-  - **(v)** Paid and unpaid cultural and ceremonial leave ([clause 43](/ebas/mental-health/common-terms/leave/43-ceremonial-leave))
+  - **(i)** unpaid personal leave for carer’s responsibilities (clause 38C)
+  - **(ii)** unpaid compassionate leave (clause 44)
+  - **(iii)** parental leave (clause 50) subject to the eligibility requirements of that clause
+  - **(iv)** Paid and unpaid family and domestic violence leave (clause 45)
+  - **(v)** Paid and unpaid cultural and ceremonial leave (clause 43)
   - **(vi)** Unpaid gender affirmation leave
-  - **(vii)** Unpaid pre-adoption leave ([clause 48](/ebas/mental-health/common-terms/leave/48-pre-adoption-leave)); and
+  - **(vii)** Unpaid pre-adoption leave (clause 48); and
   - **(viii)** All other applicable terms of the Agreement
 - **(j)** In terms of Employees covered by Section 2 of the Agreement, any casual replacement shift shall be of the same shift length as the shift that is being replaced. Additional casual Employees for unexpected periods of peak workload may be of shorter duration.
-- **(k)** Further to [clause 25.4(j)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment), it is acknowledged that in the event of logistical difficulties such as late notification of personal leave or genuine inability to obtain an agency/bank nurse for a full shift replacement then the full shift replacement may not be able to occur.
+- **(k)** Further to clause 25.4(j), it is acknowledged that in the event of logistical difficulties such as late notification of personal leave or genuine inability to obtain an agency/bank nurse for a full shift replacement then the full shift replacement may not be able to occur.
 - **(l)** A casual Employee may convert to a full time or part time Employee in accordance with [clause 26](/ebas/mental-health/common-terms/employment-types/26-casual-conversion) below.
 
 **25.5 Fixed Term Employment**
@@ -91,7 +91,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **25.6 Limitations on the use of fixed term contracts**
 
-- **(a)** Subject to [subclause 25.6(b)](/ebas/mental-health/common-terms/employment-types/25-modes-of-employment), the following limitations apply to the use of fixed term contracts:
+- **(a)** Subject to subclause 25.6(b), the following limitations apply to the use of fixed term contracts:
   - **(i)** the fixed term contract will not be for an employment term of longer than 2 years, including any extensions or renewals
   - **(ii)** a fixed term contract will not include an option to extend or renew the Employee's employment more than once, or extend or renew such that employment period would be longer than 2 years; and
   - **(iii)** the Employer will not offer an Employee a fixed term contract if it is to come into effect after another contract of employment if: 

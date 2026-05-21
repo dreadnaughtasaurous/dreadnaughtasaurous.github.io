@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 171. Reasonable Additional Hours
 
-**171.1** Subject to [clause 171.2](/ebas/mental-health/support-services/preliminary/171-reasonable-additional-hours), an Employer may require an Employee to work reasonable additional hours at the appropriate overtime rate as defined in [clause 169](/ebas/mental-health/support-services/preliminary/169-overtime) (Overtime) of this Part E.
+**171.1** Subject to clause 171.2, an Employer may require an Employee to work reasonable additional hours at the appropriate overtime rate as defined in [clause 169](/ebas/mental-health/support-services/preliminary/169-overtime) (Overtime) of this Part E.
 
 ---
 

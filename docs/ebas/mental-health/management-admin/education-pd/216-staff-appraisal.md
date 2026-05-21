@@ -20,4 +20,4 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 - **(c)** the staff appraisal process is intended to allow genuine feedback by both the Employer and Employee; and
 - **(d)** the outcomes of the review are documented and confirmed and a written copy of the outcomes in given to the Employee
 
-**216.2** The performance appraisal and staff development scheme for Employees classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement is set out in [clause 217](/ebas/mental-health/management-admin/education-pd/217-individual-performance-measures-royal-children-s) (Individual Performance Measures).
+**216.2** The performance appraisal and staff development scheme for Employees classified under Part 2 of [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement is set out in clause 217 (Individual Performance Measures).

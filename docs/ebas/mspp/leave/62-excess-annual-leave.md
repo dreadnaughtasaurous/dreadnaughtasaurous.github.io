@@ -25,7 +25,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 **62.2 Excessive leave accruals: direction by Employer that leave be taken**
 
 - **(a)** If an Employer has genuinely tried to reach agreement with an Employee, but agreement is not reached (including because the Employee refuses to confer), the Employer may direct the Employee in writing to take one or more periods of paid annual leave.
-- **(b)** However, in directing that the Employee take leave under this [subclause 62.2](/ebas/mspp/leave/62-excess-annual-leave)a:
+- **(b)** However, in directing that the Employee take leave under this subclause 62.2a:
   - **(i)** the Employee cannot be directed to reduce the accrued leave to less than eight (8) weeks;
   - **(ii)** the Employer cannot require an Employee to take any period of paid annual leave of less than one week;
   - **(iii)** the Employer cannot require the Employee to take a period of paid annual leave beginning less than 8 weeks or more than 12 months after the direction is given; and

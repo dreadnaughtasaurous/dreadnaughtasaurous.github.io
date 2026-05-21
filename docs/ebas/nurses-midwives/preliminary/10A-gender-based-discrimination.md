@@ -13,7 +13,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 10A. Gender Based Discrimination
 
-**10A.1** The parties at [clause 10A.4](/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination) agree, in conjunction with the DOH, to establish a Gender- Based Standing Committee (**GBSC**) within three months of the commencement of this Agreement.
+**10A.1** The parties at clause 10A.4 agree, in conjunction with the DOH, to establish a Gender- Based Standing Committee (**GBSC**) within three months of the commencement of this Agreement.
 
 **10A.2 The purpose of the GBSC will be to:**
 
@@ -30,7 +30,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(g)** the Unions; and
 - **(h)** the VHIA.
 
-The GBSC may, by unanimous agreement of its sitting members, also include other health sector unions who are not covered by this Agreement to meet the objectives at [clause 10A.2](/ebas/nurses-midwives/preliminary/10A-gender-based-discrimination).
+The GBSC may, by unanimous agreement of its sitting members, also include other health sector unions who are not covered by this Agreement to meet the objectives at clause 10A.2.
 
 **10A.5** The Employer’s gender equity activities, including Audit and Action Plan will be a standing agenda item at WIC meetings.
 

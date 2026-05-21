@@ -35,7 +35,7 @@ The allowance in this clause does not apply to:
 
 - **(a)** A casual Employee, including a Bank Employee;
 - **(b)** A Pool Employee;
-- **(c)** Subject to [subclause 41A.6](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance) below, an Employee whose role is genuinely not ward based, such as an After Hours Coordinator, Educators, Advanced Practice Nurse/Midwife or who does not ordinarily work in a ward;
+- **(c)** Subject to subclause 41A.6 below, an Employee whose role is genuinely not ward based, such as an After Hours Coordinator, Educators, Advanced Practice Nurse/Midwife or who does not ordinarily work in a ward;
 - **(d)** An Employee not rostered to work in an aged care ward, undertaking ad hoc assessment or supervision duties in an aged care ward for part of a shift;
 - **(e)** An additional shift that a part-time Employee has agreed to work, unless relocated from the ward on which the additional shift was scheduled to take place;
 - **(f)** A post-registration student who is required to operate in another ward, unit or department due to their academic requirements;
@@ -58,9 +58,9 @@ Additional provisions apply where an Employee redeploys to a Campus that is not 
 **41A.6** An Employee will also be eligible for the Change of Ward allowance in the following circumstances in a manner consistent with the principles at 41A.2, 41A.3 and 41A.4 above:
 
 - **(a)** if not ordinarily ward based, but is relocated/redeployed into a ward to provide direct patient care; or
-- **(b)** where a Base Ward has more than one readily identifiable clinical section, and the Employee is rostered to work in one clinical section of a ward/unit who is allocated into another clinical section of a ward/unit. Clinical sections for the purposes of this [subclause 41A.6(b)](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance) include birth suite, special care nursery and post-natal, in some Maternity Wards or recovery and operating theatres in a surgical suite.
+- **(b)** where a Base Ward has more than one readily identifiable clinical section, and the Employee is rostered to work in one clinical section of a ward/unit who is allocated into another clinical section of a ward/unit. Clinical sections for the purposes of this subclause 41A.6(b) include birth suite, special care nursery and post-natal, in some Maternity Wards or recovery and operating theatres in a surgical suite.
 
-> **Example for [subclause 41A.6(b)](/ebas/nurses-midwives/allowances/41A-change-of-ward-allowance):**
+> **Example for subclause 41A.6(b):**
 > Susan is a midwife on a maternity ward that includes post-natal, birth suite and special care nursery. On Tuesday Susan is rostered to work in birth suite, but is reallocated to post-natal. The Change of Ward allowance applies.
 
 - **(c)** The application of this subclause consistent with 41A.2, 41A.3 and 41A.4 will be overseen by the WIC and, without limiting any right under [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure), unresolved disputes will be escalated to the Central Implementation Committee and, if unresolved to the Statewide Industry Panel under [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).

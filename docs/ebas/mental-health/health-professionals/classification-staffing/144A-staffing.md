@@ -17,4 +17,4 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **144A.1 Allied Health Educators.** 
 
-Employers are required to appoint Allied Health Educator EFT as per the allocation outlined in [Schedule 11](/ebas/mental-health/schedules/11-additional-staffing).
+Employers are required to appoint Allied Health Educator EFT as per the allocation outlined in [Schedule 11](/ebas/mental-health/common-terms/preliminary/11-incidence-and-operation-of-this-agreement).

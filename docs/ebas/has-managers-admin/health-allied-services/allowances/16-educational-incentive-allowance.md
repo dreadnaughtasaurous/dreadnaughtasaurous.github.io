@@ -38,7 +38,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **16.6** Such payment is to facilitate access by eligible Employees to courses, conferences and seminars which will result in the development of skills and knowledge and is in addition to any other entitlement under the Study Leave clause.
 
-**16.7** Eligible Employees for the purpose of this [clause 16](/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers) will be Employees employed within the following classifications: 
+**16.7** Eligible Employees for the purpose of this clause 16 will be Employees employed within the following classifications: 
 
 - Cook Grade 1 
 - Allied Health Assistant Grade 1 

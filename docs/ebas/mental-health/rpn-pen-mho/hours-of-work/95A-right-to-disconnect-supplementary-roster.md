@@ -37,8 +37,8 @@ This Agreement makes provision for:
 To support the Right of Employees to Disconnect, the Employer will:
 
 - **(a)** Undertake a review of its arrangements for contacting Employees out of hours to determine availability, to ensure the system for contact is as efficient as possible, avoiding unnecessary contacts (such as multiple incidents of contact for the same shift) and prioritising use of the supplementary roster; and
-- **(b)** Report the results of the review under [subclause 95A.3(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster) to the WIC and the status of supplementary roster arrangements.
-- **(c)** The actions made under [subclauses 95A.3(a)](/ebas/mental-health/rpn-pen-mho/hours-of-work/95A-right-to-disconnect-supplementary-roster) and (b) shall occur within the first six months of this Agreement commencing operation and shall be reported to the WIC.
+- **(b)** Report the results of the review under subclause 95A.3(a) to the WIC and the status of supplementary roster arrangements.
+- **(c)** The actions made under subclauses 95A.3(a) and (b) shall occur within the first six months of this Agreement commencing operation and shall be reported to the WIC.
 - **(d)** The WIC will work cooperatively to address any identified instances of contact inconsistent with the clause during the life of this Agreement.
 
 **95B.4 Employee Right to Disconnect in relation to requests for additional or changed hours of work**

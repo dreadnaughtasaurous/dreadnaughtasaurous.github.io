@@ -42,7 +42,7 @@ Provisions additional to those prescribed by this clause apply at the following 
 - **(b)** A full-time Employee is entitled to the following amount of paid personal/carer’s leave, which accrues progressively and accumulates from year to year:
   - **(i)** 121 hours and 36 minutes will be available in the first year of Service;
   - **(ii)** 136 hours and 48 minutes will be available per annum in the second, third and fourth years of Service; or
-  - **(iii)** 190 hours will be available in the fifth and following years of Service. In this [clause 64.3](/ebas/mspp/leave/64-personal-carer-s-leave) ‘years of Service’ includes Recognised Prior Service for the purposes of determining an Employee’s rate of personal/carer’s leave accrual.
+  - **(iii)** 190 hours will be available in the fifth and following years of Service. In this clause 64.3 ‘years of Service’ includes Recognised Prior Service for the purposes of determining an Employee’s rate of personal/carer’s leave accrual.
 - **(c)** Paid personal/carer’s leave applies on a pro rata basis for part time Employees.
 - **(d)** Where an Employee transfers to another hospital or health service covered by this Agreement, accumulated personal/carer’s leave to their credit up to a maximum of 2128 working hours shall be credited to them in their new employment as accumulated personal/carer’s leave. The hospital or health service may require an Employee to produce a written statement from their previous Employer specifying the amount of accumulated personal leave standing to their credit at the time of leaving that previous employment.
 - **(e)** An Employee may be absent through sickness for one day without furnishing evidence of such sickness on not more than three occasions in any one year of service.

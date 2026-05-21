@@ -21,7 +21,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(c)** Consultation will include those who are absent (including on workers’ compensation or parental leave).
 - **(d)** The Employer will take reasonable steps to ensure Employees, HSRs (where relevant) and the HWU can participate effectively in the consultation process.
 
-**16.2 Definitions** Under this [clause 16](/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers):
+**16.2 Definitions** Under this clause 16:
 - **(a) Consultation** means a genuine opportunity to influence the decision maker, but not joint decision making. It is not merely an announcement as to what is about to happen.
 - **(b) Affected employee** means an Employee on whom a major workplace change may have a significant effect.
 - **(c) Major change** means a change in the Employer’s program, production, organisation, physical workplace, workplace arrangements, structure or technology that is likely to have a significant effect on Employees.
@@ -46,7 +46,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 | Step | Action | Timeframe |
 |------|--------|-----------|
-| 1 | Employer provides change impact statement and other written material required by [subclause 16.4](/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers) | |
+| 1 | Employer provides change impact statement and other written material required by subclause 16.4 | |
 | 2 | Written response from Employees and/or HWU | 14 days of step 1 |
 | 3 | Consultation Meeting/s convened | 7–14 days of step 2 |
 | 4 | Further Employer response (where relevant) | After the conclusion of step 3 |
@@ -86,7 +86,7 @@ The affected Employee/s, the HWU and other representative (where relevant) may s
 
 **16.9 Outcome of consultation (step 6)** 
 
-The Employer will give prompt and genuine consideration to matters arising from consultation, including an alternative proposal submitted under sub-[clause 16.8](/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers), and will advise the affected Employees, the HWU and other nominated representatives (if any) in writing of the outcome of consultation including:
+The Employer will give prompt and genuine consideration to matters arising from consultation, including an alternative proposal submitted under sub-clause 16.8, and will advise the affected Employees, the HWU and other nominated representatives (if any) in writing of the outcome of consultation including:
 - **(a)** whether the Employer intends to proceed with the change proposal;
 - **(b)** any amendment to the change proposal arising from consultation;
 - **(c)** details of any measures to mitigate or avert the effect of the changes on affected Employees; and

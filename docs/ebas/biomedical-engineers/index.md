@@ -22,7 +22,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 ---
 
-- **Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/biomedical-engineers/preliminary/1-title). 
+- **Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/biomedical-engineers/appendices/1-list-of-employers). 
 - **Nominal expiry:** 2028-07-31. 
 - **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
 

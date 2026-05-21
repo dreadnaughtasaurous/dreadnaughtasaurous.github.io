@@ -3,7 +3,7 @@ title: '13. Best Practice Employment Commitment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
+<span data-pagefind-meta="clause:[Clause 13](/ebas/mspp/schedules/13-pharmacist-weekend-ordinary-hours)" style="display:none"></span>
 <span data-pagefind-meta="section:Disputes" style="display:none"></span>
 <span data-pagefind-filter="eba:Medical Scientists, Pharm & Psych 2021-2025" style="display:none"></span>
 

@@ -21,9 +21,9 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **4.4** **Commission** means the Fair Work Commission or any successor body.
 
-**4.5** **Employee** means a person employed by an Employer listed in [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers) of this Agreement who is qualified to carry out Professional Engineering Duties and is employed to apply engineering method to the solution of problems in the area of medicine and other life sciences (Biomedical Engineer).
+**4.5** **Employee** means a person employed by an Employer listed in [Appendix 1](/ebas/biomedical-engineers/appendices/1-list-of-employers) of this Agreement who is qualified to carry out Professional Engineering Duties and is employed to apply engineering method to the solution of problems in the area of medicine and other life sciences (Biomedical Engineer).
 
-**4.6** **Employer** means each organisation listed in [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers) of this Agreement.
+**4.6** **Employer** means each organisation listed in [Appendix 1](/ebas/biomedical-engineers/appendices/1-list-of-employers) of this Agreement.
 
 **4.7** **Experienced Engineer** means a professional engineer with the undermentioned qualifications engaged in any particular employment where the adequate discharge of any portion of the duties requires qualifications of the employee as (or at least equal to those of) a member of Engineers Australia. The qualifications are as follows:
 

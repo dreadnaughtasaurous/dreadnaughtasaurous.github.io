@@ -22,7 +22,7 @@ An accrued day off (**ADO**) results from hours of work under [subclause 47.1](/
 - **(a)** is rostered to work more than 38 hours per week;
 - **(b)** is paid 38 ordinary hours;
 - **(c)** the difference between the hours worked and hours paid accrues towards a paid day off; and
-- **(d)** an Employee’s ordinary wage for ordinary hours is deemed to be the weekly rate prescribed in [clause 28](/ebas/allied-health/wages/28-wages-and-wage-increases) (Wages and Wage Increases) and set out in [Appendix 2](/ebas/allied-health/preliminary/2-arrangement), and will be paid each week even though more or less than 38 ordinary hours are worked in that week.
+- **(d)** an Employee’s ordinary wage for ordinary hours is deemed to be the weekly rate prescribed in [clause 28](/ebas/allied-health/wages/28-wages-and-wage-increases) (Wages and Wage Increases) and set out in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates), and will be paid each week even though more or less than 38 ordinary hours are worked in that week.
 
 **48.2 Accrual of ADOs**
 
@@ -32,7 +32,7 @@ An accrued day off (**ADO**) results from hours of work under [subclause 47.1](/
   - **(i)** five (5) shifts of eight (8) hours each (40 hours per week) during three (3) of the four (4) weeks; and
   - **(ii)** four (4) shifts of eight (8) hours each (32 hours in total) in one (1) of the four (4) weeks.
 - **(d)** For the avoidance of doubt an Employee’s ADO arrangement may provide for an Employee to take an ADO before the ADO has accrued in full.
-- **(e)** An Employer and a full-time Employee may agree in writing to a different ADO arrangement to that in [subclause 48.2(c)](/ebas/allied-health/hours-of-work/48-accrued-days-off).
+- **(e)** An Employer and a full-time Employee may agree in writing to a different ADO arrangement to that in subclause 48.2(c).
 
   > **Example:**  
   > A full-time Employee works 19 shifts of 10 hours over five (5) weeks. The Employee is paid 38 hours for each week, even though the Employee works four (4) shifts of 10 hours each (40 hours per week) during four (4) of the five (5) weeks. In one (1) of the five (5) weeks, the Employee works three (3) shifts of 10 hours each (30 hours only) but is paid for 38 hours.
@@ -57,7 +57,7 @@ An accrued day off (**ADO**) results from hours of work under [subclause 47.1](/
 
 **48.3 Taking of ADOs and interaction with other periods**
 
-- **(a)** Unless otherwise agreed, ADOs are to be taken during the normal four (4) week or other cycle agreed to under [subclause 48.2(c)](/ebas/allied-health/hours-of-work/48-accrued-days-off) in which the ADO is accrued (including leave periods).
+- **(a)** Unless otherwise agreed, ADOs are to be taken during the normal four (4) week or other cycle agreed to under subclause 48.2(c) in which the ADO is accrued (including leave periods).
 - **(b)** Where an Employee would otherwise take their ADO in the four (4) week period in which it accrues, either the Employer or the Employee may request that the ADO not be taken in that four (4) week period, and the other party must not unreasonably refuse to agree to the request.
 - **(c) ADOs on public holidays** 
 

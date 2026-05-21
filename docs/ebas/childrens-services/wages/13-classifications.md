@@ -15,6 +15,6 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 13. Classifications
 
-**13.1**  The definitions of the classification levels in [clause 14](/ebas/childrens-services/wages/14-minimum-wages)---Minimum wages are contained in [Schedule B](/ebas/childrens-services/schedules/b-classification-structure)---Classification Structure.
+**13.1**  The definitions of the classification levels in [clause 14](/ebas/childrens-services/wages/14-minimum-wages)---Minimum wages are contained in Schedule B---Classification Structure.
 
 Plain language terms: levels, grades, classification structure.

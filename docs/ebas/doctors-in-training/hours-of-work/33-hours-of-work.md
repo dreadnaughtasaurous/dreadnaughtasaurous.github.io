@@ -22,11 +22,11 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
   The ordinary hours of full time work will be 38 hours per week or an average of 38 hours per week over a period of up to four weeks.
 
 - **(b) Registrars**  
-  - **(i)** The ordinary hours of full-time work will be 38 hours plus five reasonable additional hours of Training Time (as defined at [subclause 3.1(kk)](/ebas/doctors-in-training/preliminary/3-definitions)) equalling 43 hours per week or an average of 43 hours per week over a period of up to four weeks.  
+  - **(i)** The ordinary hours of full-time work will be 38 hours plus five reasonable additional hours of Training Time (as defined at subclause 3.1(kk)) equalling 43 hours per week or an average of 43 hours per week over a period of up to four weeks.  
   - **(ii)** The arrangement of hours for Registrars is a long-standing industry arrangement that ensures Registrars have access to Training Time.
 
 - **(c) Work continuous except for meal break**  
-  - **(i)** A Doctor’s ordinary hours of work and any required extra work, excluding On-Call or Recall ([clauses 38](/ebas/doctors-in-training/hours-of-work/38-on-call) and 39), shall be continuous except for meal breaks.  
+  - **(i)** A Doctor’s ordinary hours of work and any required extra work, excluding On-Call or Recall (clauses 38 and 39), shall be continuous except for meal breaks.  
   - **(ii)** A meal break must be at least 30 minutes and is counted as time worked unless the Doctor is unavailable to answer calls during such break.  
   - **(iii)** A meal break should occur every 6 hours from commencement of the shift.
 
@@ -36,7 +36,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
   - **(i)** the Doctor has given written consent to waive this entitlement; or  
   - **(ii)** a genuine medical emergency or disaster situation exists.
 
-- **(b)** A Doctor who has exceeded, or is likely to exceed, the hours of work prescribed in [subclause 33.2](/ebas/doctors-in-training/hours-of-work/33-hours-of-work) as a result of the performance of unrostered overtime, the Doctor should, as soon as practicable, alert the Employer in accordance with [subclause 41.2(b)](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review).
+- **(b)** A Doctor who has exceeded, or is likely to exceed, the hours of work prescribed in subclause 33.2 as a result of the performance of unrostered overtime, the Doctor should, as soon as practicable, alert the Employer in accordance with [subclause 41.2(b)](/ebas/doctors-in-training/hours-of-work/41-workload-management-and-review).
 
 - **(c)** A Health Service will not be in breach of this clause where the Doctor applies for unrostered overtime after the relevant period expires.
 
@@ -58,7 +58,7 @@ Averaging of hours under this clause must not be utilised to reduce or avoid an 
 
 - **(a)** Doctors must be free from duty for at least 10 hours between rostered ordinary shifts.
 
-- **(b)** To support [clause 33.6(a)](/ebas/doctors-in-training/hours-of-work/33-hours-of-work), a Health Service should avoid rostering a Doctor for ordinary duty and standby On-Call consecutively (without a break) except where the period of standby On-Call and ordinary duty, taken together, do not exceed the maximum hours at 33.3. If it is unavoidable and does occur, the terms of 33.6(e) apply.
+- **(b)** To support clause 33.6(a), a Health Service should avoid rostering a Doctor for ordinary duty and standby On-Call consecutively (without a break) except where the period of standby On-Call and ordinary duty, taken together, do not exceed the maximum hours at 33.3. If it is unavoidable and does occur, the terms of 33.6(e) apply.
 
 - **(c)** Doctors should be free from duty for at least forty-eight (48) hours when moving from night shifts to any other shift arrangement. If working a single night shift, Doctors must be free for at least twenty-three (23) hours.
 

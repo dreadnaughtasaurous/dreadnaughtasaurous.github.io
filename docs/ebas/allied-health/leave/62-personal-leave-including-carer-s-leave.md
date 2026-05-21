@@ -13,7 +13,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 62. Personal Leave (Including Carer's Leave)
 
-*This [clause 62](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) does not apply to casual Employees. The entitlements of casual Employees are set out in [clause 63](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities) (Casual Employment – Caring Responsibilities).*
+*This clause 62 does not apply to casual Employees. The entitlements of casual Employees are set out in [clause 63](/ebas/allied-health/leave/63-casual-employment-caring-responsibilities) (Casual Employment – Caring Responsibilities).*
 
 **62.1 Amount of Paid Personal Leave**
 
@@ -21,7 +21,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 - **(i)** 91 hours and 12 minutes (12 days) in the first year of service;
 - **(ii)** 106 hours and 24 minutes (14 days) in each year in the second, third and fourth years of service; and
-- **(iii)** 159 hours 36 minutes (21 days) in each year in the fifth and following years of service. A ‘day’ equals 7 hours and 36 minutes in this [subclause 62.1(a)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave).
+- **(iii)** 159 hours 36 minutes (21 days) in each year in the fifth and following years of service. A ‘day’ equals 7 hours and 36 minutes in this subclause 62.1(a).
 
 **(b)** Paid personal leave accrues progressively during a year of service according to the Employee’s ordinary hours of work (excluding overtime) and accumulates from year to year.
 
@@ -29,7 +29,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **(d) Service** 
 
-In [subclause 62.1(a)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave), **service** includes service with an employer referred to in [subclauses 62.7(b)(i)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) or (ii), including an Employer covered by this Agreement and a registered community health centre, subject to the Employee meeting the evidence requirements of [subclause 62.7(c)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave).
+In subclause 62.1(a), **service** includes service with an employer referred to in subclauses 62.7(b)(i) or (ii), including an Employer covered by this Agreement and a registered community health centre, subject to the Employee meeting the evidence requirements of subclause 62.7(c).
 
 **62.2 Payment for leave**
 
@@ -38,8 +38,8 @@ In [subclause 62.1(a)](/ebas/allied-health/leave/62-personal-leave-including-car
 
 **62.3 Access to paid personal leave**
 
-- **(a)** Employers recognise the right of Employees to utilise personal/carer’s leave in accordance with this [clause 62](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) and will not adopt systems or practices intended to discourage the legitimate exercise of that right by Employees, such as unreasonably questioning Employee’s about their use of personal/carer’s leave.
-- **(b)** Subject to the conditions set out in this [clause 62](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave), an Employee may take paid personal leave if the leave is taken:
+- **(a)** Employers recognise the right of Employees to utilise personal/carer’s leave in accordance with this clause 62 and will not adopt systems or practices intended to discourage the legitimate exercise of that right by Employees, such as unreasonably questioning Employee’s about their use of personal/carer’s leave.
+- **(b)** Subject to the conditions set out in this clause 62, an Employee may take paid personal leave if the leave is taken:
   - **(i)** due to personal illness or injury (sick leave); or
   - **(ii)** to care for or support a member of the Employee’s Immediate Family or household because of:  
     - **A.** a personal illness or injury affecting them; or  
@@ -49,17 +49,17 @@ In [subclause 62.1(a)](/ebas/allied-health/leave/62-personal-leave-including-car
 
 **(a) General** 
 
-An Employee may take personal leave for the reasons described at [subclause 62.3(a)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) above and 62.4(b) below.
+An Employee may take personal leave for the reasons described at subclause 62.3(a) above and 62.4(b) below.
 
 **(b) Personal Leave to Attend Appointments** 
 
-An Employee may use up to one (1) week (38 hours) of personal leave (pro rata for part-time Employees), in aggregate, in any year of service for reasons other than those described at [subclause 62.3(b)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) on account of a disability or where the Employee is required in the circumstances to attend a Registered Health Practitioner.
+An Employee may use up to one (1) week (38 hours) of personal leave (pro rata for part-time Employees), in aggregate, in any year of service for reasons other than those described at subclause 62.3(b) on account of a disability or where the Employee is required in the circumstances to attend a Registered Health Practitioner.
 
 > **Example:** An Employee may use their personal leave to attend a Registered Health Practitioner on ten occasions of half a day each in any year of service provided that the total period will not exceed one week (38 hours).
 
 **(c) Evidence requirements** 
 
-An Employee taking sick leave will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury or, in the case of leave taken to attend an appointment (see [subclause 62.4(b)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave)) evidence of attendance. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes:
+An Employee taking sick leave will give the Employer evidence that would satisfy a reasonable person the Employee is absent due to personal illness or injury or, in the case of leave taken to attend an appointment (see subclause 62.4(b)) evidence of attendance. Evidence that would satisfy a reasonable person that the Employee is absent due to personal illness or injury includes:
 
   - **(i)** a medical certificate from a Registered Health Practitioner; or
   - **(ii)** a Commonwealth or Victorian Statutory Declaration signed by the Employee.
@@ -68,11 +68,11 @@ The evidence will be given to the Employer within 48 hours of the start of the a
 
 **(d) Exception to evidence requirement – single day absences** 
 
-An Employee may be absent for a single day or part thereof without evidence of personal illness or injury as required at [subclause 62.4(c)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) above, on not more than three (3) occasions per year of service.
+An Employee may be absent for a single day or part thereof without evidence of personal illness or injury as required at subclause 62.4(c) above, on not more than three (3) occasions per year of service.
 
 **(e) Exception – Additional shifts** 
 
-Where an Employee is absent due to illness or injury for an additional ordinary time shift, the Employee will provide a certificate from a Registered Health Practitioner. For the purpose of this [subclause 62.4(e)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave), an ‘additional shift’ is an ordinary time shift in addition to a part-time Employee’s ordinary shifts in accordance with [subclause 19.4](/ebas/allied-health/employment/19-part-time-employment) (Additional Ordinary Hours for Part Time Employees by Agreement only).
+Where an Employee is absent due to illness or injury for an additional ordinary time shift, the Employee will provide a certificate from a Registered Health Practitioner. For the purpose of this subclause 62.4(e), an ‘additional shift’ is an ordinary time shift in addition to a part-time Employee’s ordinary shifts in accordance with [subclause 19.4](/ebas/allied-health/employment/19-part-time-employment) (Additional Ordinary Hours for Part Time Employees by Agreement only).
 
 **(f) Notice requirements** 
 
@@ -80,7 +80,7 @@ An Employee should inform the Employer of their absence at least two (2) hours p
 
 **(g) Failure to provide notice of absence** 
 
-Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee’s lack of advice as required by [subclause 62.4(f)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given.
+Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee’s lack of advice as required by subclause 62.4(f) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given.
 
 **62.5 Carer’s leave**
 
@@ -106,7 +106,7 @@ An Employee who has exhausted paid personal leave entitlements is entitled to ta
 
 **(d) Failure to provide notice of absence** 
 
-Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee’s lack of advice as required by [subclause 62.5(b)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given.
+Personal leave will not be withheld by an Employer until all reasonable steps have been taken to investigate the Employee’s lack of advice as required by subclause 62.5(b) regarding the absence from duty. Such an investigation must provide the Employee with an opportunity to give reasons as to why notification was not given.
 
 **62.6 Personal leave on a public holiday** 
 
@@ -116,14 +116,14 @@ If the period during which an Employee takes paid personal leave includes a day 
 
 **62.7 Portability of Personal Leave**
 
-**(a)** For the purposes of this [subclause 62.7](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) **allowable period of absence** means 13 weeks in addition to the total period of paid annual, long service and/or personal leave which the Employee actually receives on termination or for which they are paid in lieu.
+**(a)** For the purposes of this subclause 62.7 **allowable period of absence** means 13 weeks in addition to the total period of paid annual, long service and/or personal leave which the Employee actually receives on termination or for which they are paid in lieu.
 
 **(b)** Where an Employee is or has been in the service of:
 
 - **(i)** any hospital, health service, benevolent home, community health centre, Society or Association registered under the Health Services Act 1988 (Vic) (or the former Hospitals and Charities Act 1958 (Vic)) or any successor legislation; or
 - **(ii)** the Cancer Institute (constituted under the Cancer Act 1958 (Vic));  
 
-and commences employment with an (or another) Employer before the end of the allowable period of absence, the Employer will credit the Employee’s accumulated personal leave from the previous employer to the Employee in their new employment provided that the Employee complies with the requirements of [subclause 62.7(c)](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave).
+and commences employment with an (or another) Employer before the end of the allowable period of absence, the Employer will credit the Employee’s accumulated personal leave from the previous employer to the Employee in their new employment provided that the Employee complies with the requirements of subclause 62.7(c).
 
 **(c)** The Employee will, within two (2) weeks of commencing with the new Employer, provide the new Employer with:
 - **(i)** a written statement from the previous employer specifying the personal leave credits at termination, such as a certificate of service;
@@ -136,4 +136,4 @@ and commences employment with an (or another) Employer before the end of the all
 
 - **(a)** An Employee who contracts an infectious disease in the course of their employment with the Employer and who is entitled to receive workers compensation will have any difference between workers compensation and the Employee’s ordinary salary made up by the Employer for up to three (3) months.
 - **(b)** An Employee who contracts an infectious disease in the course of their employment with the Employer, who is not is not entitled to receive workers compensation and is certified by a Medical Practitioner approved by the Employer as having an infectious disease, will be paid their full pay during the necessary period off duty for up to three (3) months.
-- **(c)** Pay granted under this [subclause 62.8](/ebas/allied-health/leave/62-personal-leave-including-carer-s-leave) will not be deducted from the Employee’s personal leave accrual.
+- **(c)** Pay granted under this subclause 62.8 will not be deducted from the Employee’s personal leave accrual.

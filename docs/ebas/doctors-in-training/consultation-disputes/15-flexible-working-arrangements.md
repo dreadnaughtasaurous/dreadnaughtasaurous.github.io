@@ -47,7 +47,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 - **(b)** an alternative to the request; or
 - **(c)** reasons for a refusal on reasonable business grounds.
 
-**15.10** A Doctor or Health Service may choose to be represented at a meeting under [subclause 15.9](/ebas/doctors-in-training/consultation-disputes/15-flexible-working-arrangements) by a representative including the Association or employer organisation.
+**15.10** A Doctor or Health Service may choose to be represented at a meeting under subclause 15.9 by a representative including the Association or employer organisation.
 
 **15.11** The dispute resolution procedure in this Agreement will apply to any dispute / grievance arising in relation to a request for flexible working arrangements.
 

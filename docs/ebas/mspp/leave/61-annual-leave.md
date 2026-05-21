@@ -27,7 +27,7 @@ Provisions additional to those prescribed by this clause apply at the following 
 
 **61.2 Period of Leave**
 
-- **(a)** For each completed year of service with the Employer an Employee is entitled to 190 hours of paid annual leave plus the amount specified in [clause 61.10](/ebas/mspp/leave/61-annual-leave).
+- **(a)** For each completed year of service with the Employer an Employee is entitled to 190 hours of paid annual leave plus the amount specified in clause 61.10.
 - **(b)** An Employee’s entitlement to paid annual leave accrues progressively during each year of service according to the Employee’s ordinary hours of work and accumulates from year to year.
 - **(c)** For the purposes of this clause, “ordinary pay” means remuneration for the Employee’s usual weekly number of hours of work calculated at the ordinary time rate of pay, including higher qualifications allowances, and over Agreement payments, if any.
 
@@ -35,13 +35,13 @@ Provisions additional to those prescribed by this clause apply at the following 
 
 **61.3 Annual Leave Exclusive Of Public Holidays**
 
-The annual leave prescribed in [clause 61.2](/ebas/mspp/leave/61-annual-leave) shall be exclusive of any of the holidays prescribed by [clause 80](/ebas/mspp/leave/80-public-holidays) - Public holidays, and if any such holiday falls within an Employee’s period of annual leave and is observed on a day which in the case of that Employee would have been an ordinary working day there shall be added to the period of annual leave time equivalent to the ordinary time which the Employee would have worked if such day had not been a holiday.
+The annual leave prescribed in clause 61.2 shall be exclusive of any of the holidays prescribed by [clause 80](/ebas/mspp/leave/80-public-holidays) - Public holidays, and if any such holiday falls within an Employee’s period of annual leave and is observed on a day which in the case of that Employee would have been an ordinary working day there shall be added to the period of annual leave time equivalent to the ordinary time which the Employee would have worked if such day had not been a holiday.
 
 ---
 
 **61.4 Leave To Be Taken**
 
-- **(a)** The annual leave provided for by this clause shall be allowed and shall be taken and, except as provided by [clauses 61.7](/ebas/mspp/leave/61-annual-leave) and 61.13, payment shall not be made or accepted in lieu of annual leave.
+- **(a)** The annual leave provided for by this clause shall be allowed and shall be taken and, except as provided by clauses 61.7 and 61.13, payment shall not be made or accepted in lieu of annual leave.
 - **(b)** Annual leave shall be taken at a time determined by mutual agreement between the Employer and the Employee. The Employer must not unreasonably refuse to agree to a request by the Employee to take paid annual leave (including requests for single day absences).
 - **(c)** Annual leave can be taken in hourly fractions for part day periods.
 
@@ -79,7 +79,7 @@ When employment ends, the Employer must pay the employee for any untaken paid an
   - **(i)** Where extended leave is taken (e.g. parental, personal, long service leave etc) an Employee may elect to utilise any available annual leave credits, or retain such credits until their return to duty;
   - **(ii)** Where an Employee with additional leave credits under this subclause is promoted within a hospital or health service, the credits will be carried over to their employment in the new role;
   - **(iii)** Where an Employee with additional leave credits under this subclause resigns or their employment is otherwise terminated, their credits will be paid out as part of their normal annual leave payments; and
-  - **(iv)** The additional annual leave may be taken separately, or in conjunction with another period of annual leave, at any time by mutual agreement. Provided that where there is no agreement, [clause 61.4](/ebas/mspp/leave/61-annual-leave)b shall apply.
+  - **(iv)** The additional annual leave may be taken separately, or in conjunction with another period of annual leave, at any time by mutual agreement. Provided that where there is no agreement, clause 61.4b shall apply.
 
 ---
 
@@ -100,8 +100,8 @@ The loading calculated according to 61.10 shall be payable on proportionate leav
 
 **61.12 Personal and Compassionate Leave Entitlement During Annual Leave**
 
-- **(a)** Where an Employee qualifies for Personal or Compassionate Leave under the terms of [clauses 64](/ebas/mspp/leave/64-personal-carer-s-leave) or 65 of this Agreement whilst on Annual Leave and, if requested by the Employer, provides a certificate of a registered health practitioner or other evidence acceptable to the Employer, then the number of days specified in the certificate shall be deducted from any Personal or Compassionate Leave entitlement standing to the Employee’s credit, and shall be re-credited to their Annual Leave entitlement.
-- **(b)** The amount of Annual Leave loading received for any period of Annual Leave converted to Personal Leave in accordance with [clause 61.12](/ebas/mspp/leave/61-annual-leave)a shall be offset from any future entitlement to Annual Leave loading, or if the Employee resigns, from termination pay, where authorised.
+- **(a)** Where an Employee qualifies for Personal or Compassionate Leave under the terms of [clauses 64 or 65](/ebas/mspp/leave/64-personal-carer-s-leave) of this Agreement whilst on Annual Leave and, if requested by the Employer, provides a certificate of a registered health practitioner or other evidence acceptable to the Employer, then the number of days specified in the certificate shall be deducted from any Personal or Compassionate Leave entitlement standing to the Employee’s credit, and shall be re-credited to their Annual Leave entitlement.
+- **(b)** The amount of Annual Leave loading received for any period of Annual Leave converted to Personal Leave in accordance with clause 61.12a shall be offset from any future entitlement to Annual Leave loading, or if the Employee resigns, from termination pay, where authorised.
 
 ---
 

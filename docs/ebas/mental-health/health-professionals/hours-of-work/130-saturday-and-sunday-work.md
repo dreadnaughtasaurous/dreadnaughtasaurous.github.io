@@ -21,6 +21,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **130.3** Any recall to duty on a Saturday or Sunday shall be paid in accordance with [clause 128](/ebas/mental-health/health-professionals/hours-of-work/128-overtime)\] (Overtime) as applicable.
 
-**130.4** By agreement with the Employer an Employee shall be allowed to take time off in lieu of overtime at the ordinary time rate as per [clause 128.1](/ebas/mental-health/health-professionals/hours-of-work/128-overtime)(d) of this Agreement.
+**130.4** By agreement with the Employer an Employee shall be allowed to take time off in lieu of overtime at the ordinary time rate as per [clause 128.1(d)](/ebas/mental-health/health-professionals/hours-of-work/128-overtime) of this Agreement.
 
 Plain language terms: weekend penalty, weekend loading, weekend rates.

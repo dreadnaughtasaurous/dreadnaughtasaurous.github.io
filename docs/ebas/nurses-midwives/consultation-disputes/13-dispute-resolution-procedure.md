@@ -17,7 +17,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **13.1 Resolution of disputes and grievances**
 
-- **(a)** For the purpose of this [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure), a dispute includes a grievance.
+- **(a)** For the purpose of this clause 13, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months' parental leave); or
   - **(ii)** the NES.
@@ -46,9 +46,9 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(a)** The Parties will attempt to resolve the dispute at the workplace as follows:
   - **(i)** in the first instance by discussions between the Employee/s and the Employee's line manager or other relevant manager; and
   - **(ii)** if the dispute is still unresolved, by discussions between the Employee/s and more senior managers.
-  Nothing in this [clause 13.4](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to [clause 13.2](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure).
-- **(b)** The discussions at [subclause 13.4(a)](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
-- **(c)** Where a Party believes the requirements of this [clause 13.4](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) have not been complied with, they will notify the other of their concern in writing as soon as practicable.
+  Nothing in this clause 13.4 prevents the Parties from agreeing, at any time, to conducting their discussions in writing, subject to clause 13.2.
+- **(b)** The discussions at subclause 13.4(a) will take place within fourteen days or such longer period as mutually agreed, save that agreement will not be unreasonably withheld.
+- **(c)** Where a Party believes the requirements of this clause 13.4 have not been complied with, they will notify the other of their concern in writing as soon as practicable.
 - **(d)** If a dispute cannot be resolved at the workplace it may be referred by a Party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
 **13.5 Disputes of a collective character**
@@ -67,18 +67,18 @@ Disputes of a collective character may be dealt with more expeditiously by an ea
 
 - **(a)** If, when conciliation is complete, the dispute is not settled, either Party may request the Commission proceed to determine the dispute by arbitration.
 - **(b)** The Commission member that conciliated the dispute will not arbitrate the dispute if a Party objects to the member doing so.
-- **(c)** Subject to [subclause 13.7(d)](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) below, a decision of the Commission is binding upon the persons covered by this Agreement.
+- **(c)** Subject to subclause 13.7(d) below, a decision of the Commission is binding upon the persons covered by this Agreement.
 - **(d)** An appeal lies to a Full Bench of the Commission, with the leave of the Full Bench, against a determination of a single member of the Commission made pursuant to this clause.
 
 **13.8 Conduct of matters before the Commission**
 
 - **(a)** Subject to any agreement between the Parties to the dispute in relation to a particular dispute or grievance and the provisions of this clause, in dealing with a dispute or grievance through conciliation or arbitration, the Commission will conduct the matter in accordance with sections 577, 578 and Subdivision B of Division 3 of Part 5-1 of the Act.
-- **(b)** For the avoidance of doubt, nothing in this [clause 13](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) affects the operation of section 596 of the Act.
+- **(b)** For the avoidance of doubt, nothing in this clause 13 affects the operation of section 596 of the Act.
 
 **13.9 Interaction with Statewide Industry Panel**
 
 - **(a)** In respect to any matter arising under [clauses 14.3](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) and 11B, disputes will only be resolved by the Statewide Industry Panel in accordance with the terms of [clause 14](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel).
-- **(b)** Where an application is made under [clause 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (concerning an existing classification), the dispute resolution procedure may also be used by either Party except that arbitration under [clause 13.7](/ebas/nurses-midwives/consultation-disputes/13-dispute-resolution-procedure) may only occur by agreement between the Parties.
+- **(b)** Where an application is made under [clause 14.4](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) (concerning an existing classification), the dispute resolution procedure may also be used by either Party except that arbitration under clause 13.7 may only occur by agreement between the Parties.
 - **(c)** Determinations of the Statewide Industry Panel under [clause 14.8](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) will, subject to [subclauses 14.6(e)](/ebas/nurses-midwives/consultation-disputes/14-statewide-industry-panel) to 14.6(i), be binding on the Employers and the Employees.
 
 Plain language terms: dispute, grievance, dispute process, FWC dispute.

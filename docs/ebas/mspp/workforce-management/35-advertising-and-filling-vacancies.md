@@ -13,7 +13,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 35. Advertising and Filling Vacancies
 
-**35.1** Subject [clause 35.3](/ebas/mspp/workforce-management/35-advertising-and-filling-vacancies), each vacancy that arises will be filled by the Employer.
+**35.1** Subject clause 35.3, each vacancy that arises will be filled by the Employer.
 
 **35.2** The process for advertising a vacant position will be as follows:
 
@@ -21,7 +21,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 - **(b)** In relation to a above, the vacant position will be advertised as quickly as possible after the Employer becomes aware the position will or has become vacant.
 - **(c)** The vacant position will be advertised and offered at the employment status, classification grade level and time fraction (as a minimum) of the Employee who vacated the position.
 - **(d)** During any period between a position becoming vacant and the position being filled, the Employer will be either:
-  - **(i)** Backfill the vacant position in accordance with [clause 34](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences); or
+  - **(i)** Backfill the vacant position in accordance with clause 34; or
   - **(ii)** Prioritise work in the area the vacancy has occurred to ensure the work that was done by the Employee who has left is not required to be undertaken by any other staff member/s; or
   - **(iii)** Prioritise work in the area the vacancy has arisen to ensure workloads of staff members/s who may be asked to perform the priority duties of the vacant position are adjusted by reducing their normal duties.
 

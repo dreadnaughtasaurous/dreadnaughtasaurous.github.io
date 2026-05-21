@@ -33,6 +33,6 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 - **(i)** whether the additional hours are in accordance with averaging terms included in the Agreement;
 - **(j)** any other relevant matter.
 
-**28.3** Where a Doctor has sought an amendment to the agreed Hours of Work arrangements as prescribed in [subclause 28.1](/ebas/medical-specialists/hours-of-work/28-hours-of-work-full-time-doctors) and has done so in writing, the Doctor must be provided with a response in writing.
+**28.3** Where a Doctor has sought an amendment to the agreed Hours of Work arrangements as prescribed in subclause 28.1 and has done so in writing, the Doctor must be provided with a response in writing.
 
 Plain language terms: ordinary hours.

@@ -18,10 +18,10 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 
 ::: info Related pay information
-- [Wages (Common Terms)](/ebas/allied-health/wages)
-- [Allowances (Common Terms)](/ebas/allied-health/allowances)
-- [Health Professionals Allowances](/ebas/allied-health/allowances)
-- [Management & Admin Allowances](/ebas/allied-health/allowances)
+- Wages (Common Terms)
+- Allowances (Common Terms)
+- Health Professionals Allowances
+- Management & Admin Allowances
 :::
 
 ::: tip Source: Salary Circular 880 (Updated 27 March 2026)

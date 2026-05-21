@@ -39,7 +39,7 @@ The Employer will ensure that:
 > **Note:**
 > Additional rights of HSRs are contained in the OHS Act.
 
-- **(a)** In this [subclause 17.4](/ebas/mspp/union-rights/17-union-rights) Representative means a Union Delegate or HSR.
+- **(a)** In this subclause 17.4 Representative means a Union Delegate or HSR.
 - **(b)** A Representative is entitled to reasonable time release from duty to:
   - **(i)** attend to matters relating to industrial, occupational health and safety or other relevant matters such as assisting with grievance procedures and attending committee meetings;
   - **(ii)** access reasonable preparation time before meetings with management disciplinary or grievance meetings with a Union member;
@@ -70,7 +70,7 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 > **Note:**
 > an HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
 
-- **(a)** Subject to the conditions in this [subclause 17.9](/ebas/mspp/union-rights/17-union-rights), Employees selected by their Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
+- **(a)** Subject to the conditions in this subclause 17.9, Employees selected by their Union to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 - **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
 - **(c)** The granting of leave will be subject to the Employer’s operational requirements. The granting of leave will not be unreasonably withheld.
 - **(d)** Leave under this subclause is granted on the following conditions:
@@ -87,18 +87,18 @@ The Employer will, on application by the Union, grant leave without loss of pay 
 - **(a)** A local Workplace Implementation and Compliance Committee (WICC) will continue or, if there is not currently a WICC in operation, be established at each Employer. Having regard for the size and location, a WICC may be appropriate at each facility/campus. The WICC will, where practicable, comprise equal numbers of representatives of the Employer and the Union for the purposes of:
   - **(i)** Agreement implementation;
   - **(ii)** on-going monitoring and assessment of the implementation of this Agreement; and
-  - **(iii)** to deal with any local disputes that may arise, without limiting the Dispute Settling Procedure in [clause 11](/ebas/mspp/disputes/11-disputes-settling-procedures) of this Agreement.
+  - **(iii)** to deal with any local disputes that may arise, without limiting the Dispute Settling Procedure in clause 11 of this Agreement.
 - **(b)** Each Employer shall, within three months of the Agreement coming into operation, provide to the Union a plan to ensure the observance and compliance with the Agreement. Such plan may include, for example, steps taken or proposed, to inform managers as to the Employer’s obligations under the Agreement.
 - **(c)** In addition, each Employer shall provide to the WICC, on a regular basis, information which would provide insight into workload. Relevant information could include:
   - **(i)** Current EFT by department
   - **(ii)** Vacancies
   - **(iii)** Personal leave levels
-  - **(iv)** Planned and unplanned absences in accordance with [clause 34.8](/ebas/mspp/workforce-management/34-planned-and-unplanned-absences)
+  - **(iv)** Planned and unplanned absences in accordance with clause 34.8
   - **(v)** Number of complaints relevant to workload
   - **(vi)** Notifiable incidents
   - **(vii)** Annual leave accruals
   - **(viii)** Overtime
-- **(d)** Priority items for consideration by the WICC will include Agreement compliance and the matters arising under [clause 82](/ebas/mspp/leave/82-family-violence-leave) (Family Violence); [clause 17](/ebas/mspp/union-rights/17-union-rights) (Union Rights) and other matters that may be identified by the parties as being of relevance.
+- **(d)** Priority items for consideration by the WICC will include Agreement compliance and the matters arising under [clause 82](/ebas/mspp/leave/82-family-violence-leave) (Family Violence); clause 17 (Union Rights) and other matters that may be identified by the parties as being of relevance.
 - **(e)** Each Employer shall report and review all DWGs to ensure that all workplaces are mapped, known and have Employee elected and trained HSRs to ensure improvements in workplace safety.
 
-**17.11** The exercise of any right of entry conferred by [clause 17](/ebas/mspp/union-rights/17-union-rights) which involves entry to premises for a purpose referred to in s.481 of the Act, or to hold discussions of a kind referred to in s.484 of the Act, will be in accordance with the requirements of Part 3-4 of Chapter 3 of the Act.
+**17.11** The exercise of any right of entry conferred by clause 17 which involves entry to premises for a purpose referred to in s.481 of the Act, or to hold discussions of a kind referred to in s.484 of the Act, will be in accordance with the requirements of Part 3-4 of Chapter 3 of the Act.

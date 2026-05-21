@@ -18,11 +18,11 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 
 ::: info Related pay information
-- [Rotation Allowances (Clause 52)](/ebas/doctors-in-training/allowances/52-rotation-allowances)
-- [Meal Allowance (Clause 53)](/ebas/doctors-in-training/allowances/53-meal-allowance)
-- [Telephone Allowance (Clause 54)](/ebas/doctors-in-training/allowances/54-telephone-allowance)
-- [Travelling Allowance (Clause 55)](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle)
-- [Uniform & Laundry Allowance (Clause 56)](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance)
+- Rotation Allowances ([Clause 52](/ebas/doctors-in-training/allowances/52-rotation-allowances))
+- Meal Allowance ([Clause 53](/ebas/doctors-in-training/allowances/53-meal-allowance))
+- Telephone Allowance ([Clause 54](/ebas/doctors-in-training/allowances/54-telephone-allowance))
+- Travelling Allowance ([Clause 55](/ebas/doctors-in-training/allowances/55-travelling-allowance-use-of-private-vehicle))
+- Uniform & Laundry Allowance ([Clause 56](/ebas/doctors-in-training/allowances/56-uniform-laundry-allowance))
 :::
 
 ::: tip Source: Salary Circular 875 (1 March 2025)

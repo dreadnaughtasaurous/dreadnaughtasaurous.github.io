@@ -17,11 +17,11 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 - **(a)** Where an Employee is required by their Employer to live away from their home, the Employee will be provided the following at the expense of the Employer:
     - **(i)** reasonable accommodation, food and drinks; or
-    - **(ii)** if any of the benefits described in [clause 35.1(a)(i)](/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement)cannot be provided, payment of an equivalent allowance covering each benefit that is not provided. The allowance(s) will be calculated as follows: 
+    - **(ii)** if any of the benefits described in clause 35.1(a)(i)cannot be provided, payment of an equivalent allowance covering each benefit that is not provided. The allowance(s) will be calculated as follows: 
         - **(A)** at the maximum applicable rate determined by the ATO for the relevant benefit (i.e. food, drink and/or accommodation expenses) from time to time; or 
         - **(B)** if the amount paid by the Employee for accommodation, food or drink exceeds the ATO guideline amount and was reasonably incurred, the total cost of the accommodation, food and/or drink, subject to the Employee providing reasonable evidence to substantiate the cost(s) and their reasonableness. 
         
-        >**Note:** For vehicle allowances, see [clause 34](/ebas/mental-health/common-terms/allowances/34-vehicle-allowance).
+        >**Note:** For vehicle allowances, see clause 34.
 
 **35.2 Special provisions relating to particular travel**
 

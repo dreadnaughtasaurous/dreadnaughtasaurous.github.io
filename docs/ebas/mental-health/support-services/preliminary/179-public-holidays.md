@@ -63,7 +63,7 @@ Employees shall be entitled to the following public holidays:
 - **(e)** When ANZAC Day falls on a Sunday, a holiday in lieu thereof shall be observed on the following Monday.
 - **(f)** When ANZAC Day falls on Easter Monday, a holiday in lieu thereof shall be observed on the following Tuesday.
 
-**179.4** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in [clause 179.2](/ebas/mental-health/support-services/preliminary/179-public-holidays) and [clause 179.3](/ebas/mental-health/support-services/preliminary/179-public-holidays) above, those days shall constitute additional holidays for the purposes of this Part F.
+**179.4** Where in the State or Locality, public holidays are declared or prescribed on days other than those set out in clause 179.2 and clause 179.3 above, those days shall constitute additional holidays for the purposes of this Part F.
 
 ---
 
@@ -78,8 +78,8 @@ Employees shall be entitled to the following public holidays:
 **179.6 Penalty Payments in respect of public holidays**
 
 - **(a)** An Employee, other than a casual, who performs work (including overtime work) on a public holiday is entitled to be paid:
-  - **(i)** 200% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday Monday to Friday; or
-  - **(ii)** 250% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates for Weekend Work).
+  - **(i)** 200% (based on 1/38th of the weekly salary set out in Schedule 2) for the time worked on a public holiday Monday to Friday; or
+  - **(ii)** 250% (based on 1/38th of the weekly salary set out in Schedule 2) for the time worked on a public holiday on a Saturday or Sunday (which is inclusive of the rates for Weekend Work).
 - **(b)** A Casual Employee who performs work (including overtime work) on a public holiday will be entitled to be paid 175% (based on 1/38th of the weekly salary set out in [Schedule 2](/ebas/mental-health/schedules/02-salaries-and-allowances)) for the time worked on a public holiday inclusive of the casual loading.
 
 ---
@@ -100,7 +100,7 @@ Where an Employee’s accrued day off falls on a public holiday, another day sha
 
 **179.10 Public holidays and part-time Employees**
 
-- **(a)** Subject to [clause 179.10(b)](/ebas/mental-health/support-services/preliminary/179-public-holidays), a regular part-time Employee who is not ordinarily required to work on the day on which a public holiday is observed shall not be entitled to payment for such public holiday unless they are required to work on that day.
+- **(a)** Subject to clause 179.10(b), a regular part-time Employee who is not ordinarily required to work on the day on which a public holiday is observed shall not be entitled to payment for such public holiday unless they are required to work on that day.
 - **(b)** In determining whether a part-time Employee who works a rotating roster is entitled to receive the 'rostered off’ Agreement benefits for a particular public holiday not worked, the Employer shall review the roster pattern of the individual over the preceding six months. If the rosters show that the Employee has worked 50% or more of the days on which a particular public holiday falls, the Employee shall be entitled to receive the ‘rostered off' benefit for that public holiday.
 
 Plain language terms: public holiday pay, holiday pay, PH pay, penalty rates holidays.

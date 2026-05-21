@@ -18,7 +18,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **28.1 Notice Period/Payment in Lieu**
 
 - **(a)** An Employer may terminate the employment of an Employee by providing 4 weeks' notice in writing.
-- **(b)** The notice required by sub-[clause 28.1(a)](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment) will be increased by 1 week if the Employee is over 45 years of age and has completed more than 2 years of continuous service.
+- **(b)** The notice required by sub-clause 28.1(a) will be increased by 1 week if the Employee is over 45 years of age and has completed more than 2 years of continuous service.
 - **(c)** Continuous service for the purpose of this clause has the same meaning as it does under [clause 47](/ebas/mental-health/common-terms/leave/47-long-service-leave) (Long Service Leave) and will include prior continuous service preceding a transfer of business, except in respect of any period of continuous service for which notice has already been given or paid.
 - **(d)** An Employer may make payment in lieu of notice for part or all of the notice period. The payment in lieu of notice must equal or exceed the total of all amounts that the Employer would have paid had the Employee's employment continued until the end of the required notice period. That payment must be calculated on the basis of:
   - **(i)** the Employee's ordinary hours of work (even if not standard hours);
@@ -28,9 +28,9 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 ---
 
-**28.2** Sub-[clauses 28.1](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment) and 28.3 above do not affect an Employer's right to terminate any Employee without notice for serious misconduct.
+**28.2** Sub-clauses 28.1 and 28.3 above do not affect an Employer's right to terminate any Employee without notice for serious misconduct.
 
-**28.3** Sub-[clause 28.1](/ebas/mental-health/common-terms/employment-types/28-termination-of-employment) - above of this Agreement does not apply:
+**28.3** Sub-clause 28.1 - above of this Agreement does not apply:
 
 - **(a)** to an Employee engaged under a fixed term contract
 - **(b)** Employees engaged for a specific period of time or for a specific task or tasks
@@ -45,7 +45,7 @@ Where the Employer has given notice of termination to an Employee (other than a 
 
 **28.5 Certificate of Service on termination**
 
-A certificate of service including the information at [Schedule 9](/ebas/mental-health/schedules/09-certificate-of-service) will be provided to the Employee wherever practicable within 14 days of the date of termination including where a full-time or part-time Employee terminates employment and becomes a casual Employee.
+A certificate of service including the information at [Schedule 9](/ebas/mental-health/common-terms/preliminary/9-definitions) will be provided to the Employee wherever practicable within 14 days of the date of termination including where a full-time or part-time Employee terminates employment and becomes a casual Employee.
 
 **28.6 Return of Property**
 

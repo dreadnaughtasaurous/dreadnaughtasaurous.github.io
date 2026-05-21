@@ -25,7 +25,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
   - **(i)** up to 4 weeks (20 days) paid leave for essential and necessary gender affirmation procedures, and
   - **(ii)** up to 48 weeks of unpaid leave.
 
-- **(b)** The Gender Transition Leave entitlements outlined in [clause 85.2](/ebas/mspp/leave/85-gender-transition-leave)a are available to be taken by the Employee within the first 52 weeks after they commence living as a member of another gender.
+- **(b)** The Gender Transition Leave entitlements outlined in clause 85.2a are available to be taken by the Employee within the first 52 weeks after they commence living as a member of another gender.
 
 - **(c)** Essential gender affirmation procedures may include:
   - **(i)** medical or psychological appointments, or

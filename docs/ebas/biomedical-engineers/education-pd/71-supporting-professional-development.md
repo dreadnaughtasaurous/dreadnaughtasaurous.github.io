@@ -37,7 +37,7 @@ This subclause does not apply to casual Employees.
 - **(b) Additional payment** 
 
     Employees who were employed by an Employer on 13 September 2023 and are Employees on commencement of the Agreement are entitled to a once off $500 payment in recognition of the professional development allowance that was not received in 2023.
-- **(c)** The amounts at [subclause 71.4(a)](/ebas/biomedical-engineers/education-pd/71-supporting-professional-development) and (b) will be paid pro rata for part-time Employees.
+- **(c)** The amounts at subclause 71.4(a) and (b) will be paid pro rata for part-time Employees.
 - **(d)** The professional development allowance is additional to any other allowance or entitlement within this Agreement.
 
 

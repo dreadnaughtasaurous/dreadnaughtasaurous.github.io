@@ -30,7 +30,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **102A.3 Use of bank or agency staff** 
 
-Where, after a reasonable effort under [subclause 102A.1(b)](/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement) has been undertaken the Employer cannot obtain a permanent employee, the rostered shift can be filled by an agency staff member.
+Where, after a reasonable effort under subclause 102A.1(b) has been undertaken the Employer cannot obtain a permanent employee, the rostered shift can be filled by an agency staff member.
 
 **102A.4 Dispute Resolution** 
 

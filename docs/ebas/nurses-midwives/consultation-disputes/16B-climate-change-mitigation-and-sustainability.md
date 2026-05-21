@@ -24,7 +24,7 @@ The parties acknowledge that:
 **16B.2 Continuous improvement**
 
 - **(a)** Employees and Employers support continuous improvement to improve environmental sustainability including:
-  - **(i)** At an industry level through the Central Implementation Committee at [clause 80.11](/ebas/nurses-midwives/union-matters/80-union-matters);
+  - **(i)** At an industry level through the Central Implementation Committee at clause 80.11;
   - **(ii)** At a local workplace level through:
     - **(A)** the WIC; and/or
     - **(B)** a local body established for the purpose of consulting over environmental sustainability and climate change (however described).

@@ -17,7 +17,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 *This clause does not apply to casual Employees*
 
-**11.1** For the purpose of this [clause 11](/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu), an Eligible Employee is an employee employed in the following classifications: 
+**11.1** For the purpose of this clause 11, an Eligible Employee is an employee employed in the following classifications: 
 
 - Allied Health Assistant 
 - Laundry Hand 
@@ -53,7 +53,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **11.3** Theatre Technicians
 
-**(a)** In addition to receiving the entitlement prescribed in [subclause 11.2](/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu), an Employee classified as a Theatre Technician (including Liver Transplant Technologists and Dual Qualified Technicians) under [Schedule 2D](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services) will receive an additional $350 Nauseous Allowance payment as follows: 
+**(a)** In addition to receiving the entitlement prescribed in subclause 11.2, an Employee classified as a Theatre Technician (including Liver Transplant Technologists and Dual Qualified Technicians) under [Schedule 2D](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services) will receive an additional $350 Nauseous Allowance payment as follows: 
 
 | Amount (part-time pro-rata) | Date |
 |-----------------------------|------|

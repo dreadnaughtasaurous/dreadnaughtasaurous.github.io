@@ -17,7 +17,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 - **(a)** The purpose of the Designated Location Bonus is to support the recruitment and retention of Doctors employed in Designated Locations in rural and regional Victoria.
 - **(b)** A Designated Location Bonus is payable to a Doctor employed at a Designated Location, subject to the conditions and eligibility terms set out in this clause after the completion of each **Eligible Year of Employment**.
-- **(c)** In this [clause 57A](/ebas/doctors-in-training/allowances/57A-designated-location-bonus):
+- **(c)** In this clause 57A:
   - **(i)** **Designated Location** means the Employers listed in 57A.4 of this clause
   - **(ii)** **‘employed at a Designated Location’** means employed at that Designated Location listed at xx.4 by the Employer who is either named as the Designated Location or who operates the Designated Location.
   - **(iii)** **Eligible Year of Employment** means the twelve month period between anniversary dates of commencement at the Designated Location.

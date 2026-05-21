@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 218. Professional Development Leave - Royal Children's Hospital
 
-**218.1** This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/schedules/07-management-and-administrative-officers-classifications) of this Agreement.
+**218.1** This clause only applies to Management and Administrative Officers at Royal Children’s Hospital classified under Part 2 of [Schedule 7](/ebas/mental-health/common-terms/preliminary/7-application-of-section-4) of this Agreement.
 
 **218.2** In recognition of the importance of ongoing professional development, an Employee may seek approval for 5 days paid professional leave, to attend a conference, seminar, workshop etc approved by the Employer.
 
