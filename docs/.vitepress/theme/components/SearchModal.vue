@@ -633,6 +633,41 @@
                           <a v-for="src in aiSources" :key="src.url" :href="src.url" class="ai-source-link" @click="close">{{ src.title }}</a>
                         </div>
                       </template>
+                      <!-- Per-turn copy button — copies this turn's plain text to clipboard -->
+                      <div class="conv-copy-wrap">
+                        <button
+                          class="conv-copy-btn"
+                          :class="{
+                            'conv-copy-btn--success': turn.copied,
+                            'conv-copy-btn--error':   turn.copyError
+                          }"
+                          :aria-label="turn.copied ? 'Copied!' : turn.copyError ? 'Copy failed — try again' : 'Copy this answer'"
+                          :title="turn.copied ? 'Copied!' : turn.copyError ? 'Copy failed — try again' : 'Copy this answer'"
+                          @click="copyTurnText(turn, idx)"
+                        >
+                          <!-- Idle: copy icon -->
+                          <svg v-if="!turn.copied && !turn.copyError" width="14" height="14" viewBox="0 0 24 24"
+                              fill="none" stroke="currentColor" stroke-width="2"
+                              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M16 2H8C6.9 2 6 2.9 6 4V18C6 19.1 6.9 20 8 20H18C19.1 20 20 19.1 20 18V6L16 2Z"/>
+                            <path d="M16 2V6H20"/>
+                            <path d="M4 6H3C2.4 4 2 4.6 2 5V21C2 21.6 2.4 22 3 22H15C15.6 22 16 21.6 16 21V20"/>
+                          </svg>
+                          <!-- Success: animated tick -->
+                          <svg v-if="turn.copied" class="conv-copy-tick" width="14" height="14" viewBox="0 0 24 24"
+                              fill="none" stroke="currentColor" stroke-width="2.5"
+                              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <polyline points="20 6 9 17 4 12"/>
+                          </svg>
+                          <!-- Error: X icon -->
+                          <svg v-if="turn.copyError" width="14" height="14" viewBox="0 0 24 24"
+                              fill="none" stroke="currentColor" stroke-width="2.5"
+                              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <line x1="18" y1="6" x2="6" y2="18"/>
+                            <line x1="6" y1="6" x2="18" y2="18"/>
+                          </svg>
+                        </button>
+                      </div>
                     </div>
                   </template>
 
@@ -1246,6 +1281,43 @@ function loadSavedSearches() {
     const raw = localStorage.getItem(LOCAL_SAVED_KEY)
     if (raw) savedSearches.value = JSON.parse(raw)
   } catch { /* ignore */ }
+}
+
+// ─── Per-turn AI answer copy ──────────────────────────────────────────────────
+// Copies the plain text of a single assistant turn to the clipboard.
+// Strips markdown syntax so the pasted result is clean prose.
+// Uses the same idle/success/error state pattern as CopyButton.vue.
+// State is stored directly on the turn object (turn.copied / turn.copyError)
+// so each button is independent — copying turn 1 does not affect turn 3.
+async function copyTurnText(turn, idx) {
+  // Strip common markdown syntax to produce clean plain text
+  let plain = turn.content || ''
+  plain = plain
+    .replace(/\*\*([^*]+)\*\*/g, '$1')   // bold
+    .replace(/\*([^*]+)\*/g, '$1')        // italic
+    .replace(/`([^`]+)`/g, '$1')          // inline code
+    .replace(/^#{1,6}\s+/gm, '')          // headings
+    .replace(/^[-*+]\s+/gm, '• ')         // unordered lists → bullet char
+    .replace(/^\d+\.\s+/gm, (m) => m)    // ordered lists — keep number
+    .replace(/^>\s?/gm, '')               // blockquotes
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links → label only
+    .replace(/\n{3,}/g, '\n\n')           // collapse excess blank lines
+    .trim()
+
+  try {
+    await navigator.clipboard.writeText(plain)
+    // Mark this specific turn as copied — Vue reactivity requires index assignment
+    conversationHistory.value[idx] = { ...conversationHistory.value[idx], copied: true, copyError: false }
+    setTimeout(() => {
+      conversationHistory.value[idx] = { ...conversationHistory.value[idx], copied: false }
+    }, 2500)
+  } catch (err) {
+    console.error('[SearchModal] copy turn failed:', err)
+    conversationHistory.value[idx] = { ...conversationHistory.value[idx], copyError: true, copied: false }
+    setTimeout(() => {
+      conversationHistory.value[idx] = { ...conversationHistory.value[idx], copyError: false }
+    }, 3000)
+  }
 }
 
 // ─── Markdown → HTML renderer ────────────────────────────────────────────────
@@ -2888,6 +2960,92 @@ function resetConversation() {
 /* ── Preview transition ── */
 .preview-enter-active, .preview-leave-active { transition: opacity 0.15s ease, transform 0.15s ease; }
 .preview-enter-from, .preview-leave-to { opacity: 0; transform: translateX(8px); }
+
+/* ── Per-turn AI answer copy button ── */
+/* Sits in the bottom-right of each completed assistant turn.
+   Hidden by default on desktop (hover-reveal via .conv-turn--assistant:hover).
+   Always visible on touch devices (no reliable hover). */
+.conv-copy-wrap {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.5rem;
+  /* On desktop the button is opacity-0 until the parent turn is hovered.
+     The transition is on the button itself so it fades in smoothly. */
+}
+
+.conv-copy-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  color: var(--vp-c-text-3);
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  cursor: pointer;
+  /* Fade in on hover — starts transparent on desktop */
+  opacity: 0;
+  transition:
+    opacity      150ms ease,
+    background   150ms ease,
+    color        150ms ease,
+    border-color 150ms ease,
+    transform    150ms ease;
+}
+
+/* Reveal the button when the parent assistant turn is hovered or
+   when the button itself receives keyboard focus */
+.conv-turn--assistant:hover .conv-copy-btn,
+.conv-copy-btn:focus-visible {
+  opacity: 1;
+}
+
+.conv-copy-btn:hover {
+  opacity: 1;
+  background: var(--vp-c-bg-mute);
+  color: var(--vp-c-text-1);
+  border-color: var(--vp-c-brand);
+}
+
+.conv-copy-btn:active {
+  transform: scale(0.92);
+}
+
+/* Success state — green, matches CopyButton.vue exactly */
+.conv-copy-btn--success {
+  opacity: 1 !important;
+  color:        #22863a !important;
+  border-color: #34d058 !important;
+  background:   #f0fff4 !important;
+}
+
+/* Tick draws in via stroke-dashoffset animation — same as CopyButton.vue */
+.conv-copy-tick {
+  stroke-dasharray: 30;
+  stroke-dashoffset: 30;
+  animation: conv-draw-tick 250ms ease forwards;
+}
+
+@keyframes conv-draw-tick {
+  to { stroke-dashoffset: 0; }
+}
+
+/* Error state — red, matches CopyButton.vue exactly */
+.conv-copy-btn--error {
+  opacity: 1 !important;
+  color:        #cb2431 !important;
+  border-color: #f97583 !important;
+  background:   #fff5f5 !important;
+}
+
+/* Mobile: always show the button — touch devices have no hover state */
+@media (hover: none) {
+  .conv-copy-btn {
+    opacity: 1;
+  }
+}
 
 /* ── Conversation thread ── */
 .conversation-thread {
