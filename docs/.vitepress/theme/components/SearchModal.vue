@@ -162,6 +162,31 @@
               <!-- No results + optional fuzzy fallback -->
               <div v-else-if="query.length > 1 && results.length === 0 && !fuzzyLoading" class="search-status">
                 <p>No results for <strong>{{ query }}</strong><span v-if="selectedEba || selectedTopic || parsedOperators.hasPills"> with current filters</span>.</p>
+
+                <!-- Suggestions on zero results — same panel, same component, no duplicated card markup -->
+                <div v-if="suggestions.length > 0" class="suggestions-panel" role="list" aria-label="Search suggestions">
+                  <p class="suggestions-heading">Did you search for…?</p>
+                  <button
+                    v-for="s in suggestions"
+                    :key="s.label"
+                    class="suggestion-card"
+                    :class="`suggestion-card--${s.type}`"
+                    role="listitem"
+                    @click="applySuggestion(s)"
+                  >
+                    <span class="suggestion-card-icon" aria-hidden="true">
+                      <svg v-if="s.type === 'eba'" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                      <svg v-else-if="s.type === 'topic'" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                      <svg v-else width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                    </span>
+                    <span class="suggestion-card-text">
+                      <span class="suggestion-card-label">{{ s.label }}</span>
+                      <span class="suggestion-card-sublabel">{{ s.sublabel }}</span>
+                    </span>
+                    <svg class="suggestion-card-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                  </button>
+                </div>
+
                 <p v-if="fuzzyResults.length > 0" class="fuzzy-suggestion">
                   Showing results for <strong>{{ fuzzyQuery }}</strong> instead:
                 </p>
@@ -340,6 +365,30 @@
               <!-- Normal results list -->
               <div v-else-if="results.length > 0" class="search-results">
                 <p class="result-count">{{ results.length }} result{{ results.length === 1 ? '' : 's' }}</p>
+
+                <!-- Smart suggestions — persistent refinement panel, shown whenever keywords match -->
+                <div v-if="suggestions.length > 0" class="suggestions-panel suggestions-panel--inline" role="list" aria-label="Search suggestions">
+                  <p class="suggestions-heading">Did you search for…?</p>
+                  <button
+                    v-for="s in suggestions"
+                    :key="s.label"
+                    class="suggestion-card"
+                    :class="`suggestion-card--${s.type}`"
+                    role="listitem"
+                    @click="applySuggestion(s)"
+                  >
+                    <span class="suggestion-card-icon" aria-hidden="true">
+                      <svg v-if="s.type === 'eba'" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                      <svg v-else-if="s.type === 'topic'" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                      <svg v-else width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                    </span>
+                    <span class="suggestion-card-text">
+                      <span class="suggestion-card-label">{{ s.label }}</span>
+                      <span class="suggestion-card-sublabel">{{ s.sublabel }}</span>
+                    </span>
+                    <svg class="suggestion-card-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                  </button>
+                </div>
                 <a
                   v-for="(result, index) in results"
                   :key="result.url"
@@ -728,6 +777,9 @@ const fuzzyResults  = ref([])
 const fuzzyQuery    = ref('')
 const fuzzyLoading  = ref(false)
 
+// ─── Smart suggestions ("Did you search for…?") ───────────────────────────────
+const suggestions = ref([])
+
 // ─── Recent searches (sessionStorage — session-scoped) ────────────────────────
 const recentSearches = ref([])
 
@@ -857,6 +909,173 @@ const quickAccessShortcuts = [
   { icon: '💰', label: 'Allowances',                topic: 'allowances',  query: '' },
   { icon: '📋', label: 'Termination & Redundancy',  topic: 'termination', query: '' },
 ]
+
+// ─── Smart suggestions: three-dictionary scoring engine ───────────────────────
+// Runs when results === 0 OR (results <= 2 AND query >= 4 chars).
+// Returns up to 2 scored suggestion objects, highest score first.
+// Each suggestion has: { type: 'eba'|'topic'|'rewrite', label, action }
+// ─── EBA keyword dictionary ───────────────────────────────────────────────────
+const SUGGESTION_EBA_MAP = [
+  // Nurses & Midwives
+  { keywords: ['nurse','nurses','nursing','midwife','midwives','midwifery','nm','enrolled','en ','rn ','registered nurse','ward','icu','nicu','theatre','maternity','obstetric','neonatal','pediatric','paediatric'], eba: 'Nurses and Midwives 2024-2028' },
+  // Allied Health
+  { keywords: ['allied','physio','physiotherapist','physiotherapy','ot ','occupational therapist','occupational therapy','speech','dietitian','dietician','podiatrist','podiatry','social worker','radiographer','radiography','sonographer','sonography','pharmacist','pharmacy','psychology','psychologist','counsellor','counselor','orthoptist','prosthetist','orthotist','music therapy','art therapy'], eba: 'Allied Health Professionals 2021-2026' },
+  // Doctors in Training
+  { keywords: ['doctor','doctors','intern','interns','rmo','resident','registrar','dit','pgy','prevocational','junior doctor','trainee doctor'], eba: 'Doctors in Training 2022-2026' },
+  // Medical Specialists
+  { keywords: ['specialist','specialists','consultant','vmo','visiting medical','senior registrar','staff specialist'], eba: 'Medical Specialists 2022-2026' },
+  // Medical Scientists, Pharm & Psych
+  { keywords: ['scientist','scientists','medical scientist','pathology','laboratory','lab tech','pharmacist','pharmacy','mspp','pharmacology'], eba: 'Medical Scientists, Pharm & Psych 2021-2025' },
+  // Mental Health
+  { keywords: ['mental health','mental','psychiatric','psychiatry','psychosocial','mho','mental health officer','rpn','registered psychiatric','community mental','acute mental','forensic','inpatient mental'], eba: 'Mental Health Services 2024-2028' },
+  // HAS Managers & Admin
+  { keywords: ['manager','managers','admin','administration','administrative','clerical','has ','health admin','health manager','ward clerk','receptionist','scheduler','booking','pmo','project manager','operations manager'], eba: 'Health Allied & Managers Admin 2021-2025' },
+  // Biomedical Engineers
+  { keywords: ['biomedical','engineer','engineers','biomedical engineer','bme','equipment maintenance','clinical engineer','medical equipment'], eba: 'Biomedical Engineers 2025-2028' },
+  // Children's Services
+  { keywords: ['children','childcare','child care','early childhood','kindergarten','kinder','educator','early education','family day','long day care','occasional care'], eba: "Children's Services Award 2010" },
+]
+
+// ─── Topic keyword dictionary ─────────────────────────────────────────────────
+const SUGGESTION_TOPIC_MAP = [
+  { keywords: ['overtime','ot pay','ot rate','time and half','double time','time-and-a-half','double-time','extra hours','worked extra','worked over'], topic: 'overtime', label: 'Overtime' },
+  { keywords: ['penalty','penalty rate','weekend rate','saturday','sunday','public holiday rate','public holidays','holiday pay','shift penalty'], topic: 'penalty-rates', label: 'Penalty Rates' },
+  { keywords: ['leave','annual leave','sick leave','personal leave','carer','carers leave','compassionate','long service','lsl','parental','maternity leave','paternity','family leave','bereavement','lwop','leave without pay'], topic: 'leave', label: 'Leave' },
+  { keywords: ['wage','wages','salary','salaries','pay rate','pay rates','remuneration','increment','increment level','pay increase','pay rise','band','grade','classification pay'], topic: 'wages', label: 'Wages' },
+  { keywords: ['allowance','allowances','meal allowance','uniform','laundry','tool','travel allowance','on-call allowance','recall allowance','first aid','higher duties','hda','in charge','telephone','car allowance'], topic: 'allowances', label: 'Allowances' },
+  { keywords: ['termination','redundancy','notice period','notice of termination','separation','severance','retrenchment','dismissed','dismissal','end of employment','resignation','resigned'], topic: 'termination', label: 'Termination & Redundancy' },
+  { keywords: ['classification','grade','band','level','pay grade','classification level','job classification','reclassification','classify'], topic: 'classification', label: 'Classification' },
+  { keywords: ['hours','hours of work','ordinary hours','span of hours','shift length','roster','rostered','work schedule','scheduled hours','shift pattern','shift arrangement'], topic: 'hours-of-work', label: 'Hours of Work' },
+  { keywords: ['dispute','grievance','grievances','complaint','complaints','dispute resolution','iru','industrial relations','unfair','fair work','commission','arbitration','mediation'], topic: 'dispute-resolution', label: 'Dispute Resolution' },
+  { keywords: ['full time','part time','casual','fixed term','part-time','full-time','fixed-term','employment type','employment status','casual conversion','regular casual'], topic: 'employment-types', label: 'Employment Types' },
+  { keywords: ['professional development','pd ','cpd','continuing education','training','study leave','conference','in-service','education leave','development'], topic: 'professional-development', label: 'Professional Development' },
+  { keywords: ['workload','work load','staffing','ratios','nurse ratio','patient ratio','understaffed','unsafe staffing','skill mix'], topic: 'workload', label: 'Workload' },
+  { keywords: ['consultation','consult','change management','major change','restructure','restructuring','workplace change'], topic: 'consultation', label: 'Consultation' },
+]
+
+// ─── Query rewrite dictionary (misspellings, abbreviations, synonyms) ─────────
+const SUGGESTION_REWRITES = [
+  // Common misspellings
+  { pattern: /\bnurse?ing\b/i,        rewrite: 'nursing' },
+  { pattern: /\bphysio(?:therapist)?\b/i, rewrite: 'physiotherapy' },
+  { pattern: /\bOT\b/,                rewrite: 'occupational therapy' },
+  { pattern: /\bRMO\b/i,              rewrite: 'resident medical officer' },
+  { pattern: /\bDIT\b/i,              rewrite: 'doctors in training' },
+  { pattern: /\bHAS\b/i,              rewrite: 'health allied services' },
+  { pattern: /\bMSPP\b/i,             rewrite: 'medical scientists pharmacists psychologists' },
+  { pattern: /\bMHO\b/i,              rewrite: 'mental health officer' },
+  { pattern: /\bRPN\b/i,              rewrite: 'registered psychiatric nurse' },
+  { pattern: /\bVMO\b/i,              rewrite: 'visiting medical officer' },
+  { pattern: /\bBME\b/i,              rewrite: 'biomedical engineer' },
+  { pattern: /\bLSL\b/i,              rewrite: 'long service leave' },
+  { pattern: /\bLWOP\b/i,             rewrite: 'leave without pay' },
+  { pattern: /\bHDA\b/i,              rewrite: 'higher duties allowance' },
+  { pattern: /\bCPD\b/i,              rewrite: 'continuing professional development' },
+  { pattern: /\bon[ -]?call\b/i,      rewrite: 'on call allowance' },
+  { pattern: /\brecal+\b/i,           rewrite: 'recall allowance' },
+  { pattern: /\bovertime pay\b/i,     rewrite: 'overtime' },
+  { pattern: /\bpay rise\b/i,         rewrite: 'wages increment' },
+  { pattern: /\bsick day\b/i,         rewrite: 'personal leave' },
+  { pattern: /\bholiday pay\b/i,      rewrite: 'public holiday penalty rates' },
+  { pattern: /\breadditment\b/i,      rewrite: 'redundancy' },
+  { pattern: /\bseparation pay\b/i,   rewrite: 'termination redundancy' },
+]
+
+// ─── Scoring engine ───────────────────────────────────────────────────────────
+// Scores a candidate against a list of keyword strings. Returns 0–100.
+// Multi-word keywords score higher (more specific match).
+// Substring matches score lower than whole-word matches.
+function _scoreKeywords(lowerQuery, keywords) {
+  let best = 0
+  for (const kw of keywords) {
+    if (!lowerQuery.includes(kw)) continue
+    // Whole-word bonus: keyword is surrounded by word boundaries
+    const re = new RegExp(`(?:^|\\s)${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?:\\s|$)`, 'i')
+    const wholeWord = re.test(lowerQuery)
+    // Score: base 40 for substring + length bonus (longer = more specific) + whole-word bonus
+    const score = 40 + Math.min(kw.length * 2, 30) + (wholeWord ? 20 : 0)
+    if (score > best) best = score
+  }
+  return Math.min(best, 100)
+}
+
+function buildSuggestions(rawQuery, resultCount) {
+  if (!rawQuery || rawQuery.trim().length < 4) return []
+  const lq = rawQuery.toLowerCase()
+  const candidates = []
+
+  // ── Pass 1: EBA suggestions ───────────────────────────────────────────────
+  // Suppressed when that EBA filter is already active — no point suggesting it
+  for (const entry of SUGGESTION_EBA_MAP) {
+    if (selectedEba.value === entry.eba) continue
+    const score = _scoreKeywords(lq, entry.keywords)
+    if (score > 0) {
+      candidates.push({ type: 'eba', label: `Filter to ${entry.eba.replace(/ \d{4}.*$/, '')}`, sublabel: entry.eba, action: { eba: entry.eba }, score })
+    }
+  }
+
+  // ── Pass 2: Topic suggestions ─────────────────────────────────────────────
+  // Suppressed when that topic filter is already active
+  for (const entry of SUGGESTION_TOPIC_MAP) {
+    if (selectedTopic.value === entry.topic) continue
+    const score = _scoreKeywords(lq, entry.keywords)
+    if (score > 0) {
+      candidates.push({ type: 'topic', label: `Filter by topic: ${entry.label}`, sublabel: entry.topic, action: { topic: entry.topic }, score })
+    }
+  }
+
+  // ── Pass 3: Query rewrite suggestions ────────────────────────────────────
+  // Rewrites only surface on zero results — they replace the query entirely,
+  // which is disruptive on a search that already found something useful.
+  if (resultCount === 0) {
+    for (const entry of SUGGESTION_REWRITES) {
+      if (entry.pattern.test(rawQuery)) {
+        if (!lq.includes(entry.rewrite.toLowerCase())) {
+          candidates.push({ type: 'rewrite', label: `Search for: ${entry.rewrite}`, sublabel: `instead of "${rawQuery.trim()}"`, action: { rewrite: entry.rewrite }, score: 65 })
+        }
+      }
+    }
+  }
+
+  // ── Deduplicate by EBA (keep highest score per EBA) ──────────────────────
+  const seen = new Set()
+  const deduped = []
+  for (const c of candidates.sort((a, b) => b.score - a.score)) {
+    const key = c.type === 'eba' ? `eba:${c.action.eba}` : c.type === 'topic' ? `topic:${c.action.topic}` : `rw:${c.action.rewrite}`
+    if (!seen.has(key)) { seen.add(key); deduped.push(c) }
+  }
+
+  // Return top 2, ensuring we don't return two suggestions of the same type
+  // unless there's genuinely nothing else (favours diversity: one EBA + one topic)
+  const final = []
+  const usedTypes = new Set()
+  for (const c of deduped) {
+    if (final.length >= 2) break
+    if (!usedTypes.has(c.type)) { final.push(c); usedTypes.add(c.type) }
+  }
+  // If we have room and only one type was present, fill with next best regardless
+  for (const c of deduped) {
+    if (final.length >= 2) break
+    if (!final.includes(c)) final.push(c)
+  }
+  return final
+}
+
+function applySuggestion(s) {
+  if (s.type === 'eba') {
+    selectedEba.value = s.action.eba
+    doSearch()
+  } else if (s.type === 'topic') {
+    selectedTopic.value = s.action.topic
+    doSearch()
+  } else if (s.type === 'rewrite') {
+    query.value = s.action.rewrite
+    selectedEba.value   = ''
+    selectedTopic.value = ''
+    doSearch()
+  }
+  nextTick(() => inputRef.value?.focus())
+}
 
 // ─── Analytics logging ────────────────────────────────────────────────────────
 function logSearch(tab, query, eba, topic, resultCount) {
@@ -1529,6 +1748,7 @@ function debouncedSearch() {
 async function doSearch() {
   fuzzyResults.value = []
   fuzzyQuery.value   = ''
+  suggestions.value  = []
 
   // ── Parse advanced operators out of the raw query ──────────────────────────
   const { cleanQuery, operators } = parseQuery(query.value)
@@ -1606,6 +1826,14 @@ async function doSearch() {
       ...filtered.filter(r => exactIds.has(r.url)),
       ...filtered.filter(r => !exactIds.has(r.url)),
     ]
+
+    // ── Smart suggestions ─────────────────────────────────────────────────
+    // Always build when query is long enough — panel is a persistent refinement
+    // tool. buildSuggestions() suppresses already-active filters internally,
+    // and restricts rewrites to zero-result searches.
+    suggestions.value = cleanQuery.trim().length >= 4
+      ? buildSuggestions(query.value, results.value.length)
+      : []
 
     if (results.value.length === 0 && cleanQuery.trim().length > 3) {
       await runFuzzyFallback(cleanQuery.trim(), filters)
@@ -2602,6 +2830,85 @@ function resetConversation() {
 .loading-dots span:nth-child(2) { animation-delay: 0.2s; }
 .loading-dots span:nth-child(3) { animation-delay: 0.4s; }
 @keyframes blink { 0%, 80%, 100% { opacity: 0; } 40% { opacity: 1; } }
+
+/* ── Smart suggestions panel ── */
+.suggestions-panel {
+  margin: 0.75rem 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.suggestions-panel--inline {
+  margin-bottom: 0.75rem;
+}
+.suggestions-heading {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--vp-c-text-3);
+  margin: 0 0 0.2rem;
+}
+.suggestion-card {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-left-width: 3px;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.13s, border-color 0.13s;
+}
+.suggestion-card:hover {
+  background: var(--vp-c-bg-soft);
+}
+.suggestion-card--eba  { border-left-color: var(--vp-c-brand-1); }
+.suggestion-card--topic { border-left-color: #7C3AED; }
+.suggestion-card--rewrite { border-left-color: #0891B2; }
+.suggestion-card-icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  color: var(--vp-c-text-3);
+}
+.suggestion-card--eba    .suggestion-card-icon { color: var(--vp-c-brand-1); }
+.suggestion-card--topic  .suggestion-card-icon { color: #7C3AED; }
+.suggestion-card--rewrite .suggestion-card-icon { color: #0891B2; }
+.suggestion-card-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+.suggestion-card-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.suggestion-card-sublabel {
+  font-size: 0.72rem;
+  color: var(--vp-c-text-3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.suggestion-card-arrow {
+  flex-shrink: 0;
+  color: var(--vp-c-text-3);
+  transition: transform 0.13s;
+}
+.suggestion-card:hover .suggestion-card-arrow {
+  transform: translateX(3px);
+  color: var(--vp-c-text-2);
+}
 
 /* ── Modal transition ── */
 .modal-enter-active, .modal-leave-active { transition: opacity 0.18s ease; }
