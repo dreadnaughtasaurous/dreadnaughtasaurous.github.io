@@ -134,7 +134,7 @@
             <div class="search-filters">
               <div class="filter-group">
                 <label for="eba-filter">EBA</label>
-                <select id="eba-filter" v-model="selectedEba" @change="doSearch">
+                <select id="eba-filter" v-model="selectedEba" @change="doSearch" :class="{ 'eba-filter-flash': ebaFilterFlash }">
                   <option value="">All EBAs</option>
                   <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
                 </select>
@@ -759,6 +759,7 @@ const activeTab           = ref('search')
 const query               = ref('')
 const selectedEba         = ref('')
 const selectedTopic       = ref('')
+const ebaFilterFlash      = ref(false)   // true for 400 ms when Alt+digit fires — drives CSS flash animation
 const results             = ref([])
 const loading             = ref(false)
 const inputRef            = ref(null)
@@ -1477,6 +1478,49 @@ watch(open, async (val) => {
   }
 })
 
+// ─── EBA shortcut index (Alt+1 through Alt+9) ────────────────────────────────
+// Order matches ebaList exactly — index 0 = Alt+1, index 8 = Alt+9.
+// Kept here so it is co-located with the keyboard handler that uses it.
+const EBA_SHORTCUT_LIST = [
+  'Allied Health Professionals 2021-2026',
+  'Biomedical Engineers 2025-2028',
+  "Children's Services Award 2010",
+  'Doctors in Training 2022-2026',
+  'Health Allied & Managers Admin 2021-2025',
+  'Medical Specialists 2022-2026',
+  'Mental Health Services 2024-2028',
+  'Medical Scientists, Pharm & Psych 2021-2025',
+  'Nurses and Midwives 2024-2028',
+]
+
+function applyEbaShortcut(ebaName) {
+  // Toggle: if the shortcut EBA is already active everywhere, clear it; otherwise set it.
+  const alreadyActive =
+    selectedEba.value    === ebaName &&
+    questionEba.value    === ebaName &&
+    situationEba.value   === ebaName &&
+    draftEba.value       === ebaName
+
+  const newValue = alreadyActive ? '' : ebaName
+
+  // Search tab filter
+  selectedEba.value    = newValue
+
+  // Ask AI tab — all three mode dropdowns set simultaneously (Option B)
+  questionEba.value    = newValue
+  situationEba.value   = newValue
+  draftEba.value       = newValue
+
+  // If on the search tab and there is already a query, re-run search with the new filter
+  if (activeTab.value === 'search' && query.value.trim().length > 0) {
+    doSearch()
+  }
+
+  // Brief flash on the EBA filter element so the user gets visual confirmation
+  ebaFilterFlash.value = true
+  setTimeout(() => { ebaFilterFlash.value = false }, 400)
+}
+
 function onKeydown(e) {
   if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
     e.preventDefault()
@@ -1488,6 +1532,21 @@ function onKeydown(e) {
     openModal()
   }
   if (e.key === 'Escape') close()
+
+  // ── Shift+F1–F9: EBA filter shortcuts — only fire when modal is open ──────
+  // Alt+digit is consumed by Firefox at the OS level. Ctrl+digit switches browser
+  // tabs. Shift+digit interferes with typing in the search input.
+  // Shift+F1–F9 reaches the window keydown listener cleanly in all browsers and
+  // does not conflict with any browser UI. The only known conflict is DevTools
+  // internal shortcuts, but DevTools is never open during normal wiki use.
+  // No isTyping() guard needed — Shift+F-key never inserts characters anywhere.
+  if (e.shiftKey && !e.ctrlKey && !e.metaKey && !e.altKey && open.value) {
+    const codeMatch = e.code.match(/^F([1-9])$/)
+    if (codeMatch) {
+      e.preventDefault()
+      applyEbaShortcut(EBA_SHORTCUT_LIST[parseInt(codeMatch[1], 10) - 1])
+    }
+  }
 }
 onMounted(() => {
   window.addEventListener('keydown', onKeydown)
@@ -2908,6 +2967,16 @@ function resetConversation() {
 .suggestion-card:hover .suggestion-card-arrow {
   transform: translateX(3px);
   color: var(--vp-c-text-2);
+}
+
+/* ── EBA filter flash — triggered by Alt+digit shortcut ── */
+@keyframes eba-flash {
+  0%   { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  50%  { box-shadow: 0 0 0 3px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  100% { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-divider); }
+}
+.eba-filter-flash {
+  animation: eba-flash 0.4s ease forwards;
 }
 
 /* ── Modal transition ── */

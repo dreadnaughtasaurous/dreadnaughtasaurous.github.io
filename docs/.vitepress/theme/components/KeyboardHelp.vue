@@ -9,8 +9,9 @@
         aria-modal="true"
         aria-label="Keyboard shortcuts"
       >
-        <div class="kb-modal" ref="modalRef">
+        <div class="kb-modal" ref="modalRef" tabindex="-1">
 
+          <!-- Header -->
           <div class="kb-header">
             <div class="kb-title">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
@@ -26,116 +27,149 @@
             </button>
           </div>
 
+          <!-- Tab strip -->
+          <div class="kb-tabs" role="tablist">
+            <button
+              v-for="tab in TABS"
+              :key="tab.id"
+              role="tab"
+              :aria-selected="activeTab === tab.id"
+              class="kb-tab"
+              :class="{ 'kb-tab--active': activeTab === tab.id }"
+              @click="activeTab = tab.id"
+            >{{ tab.label }}</button>
+          </div>
+
+          <!-- Tab body -->
           <div class="kb-body">
 
-            <div class="kb-section">
-              <div class="kb-section-label">Search</div>
-              <div class="kb-row">
-                <span class="kb-desc">Open search</span>
-                <span class="kb-keys">
-                  <kbd>Ctrl</kbd><span class="kb-plus">+</span><kbd>K</kbd>
-                </span>
+            <!-- ── NAVIGATION tab ── -->
+            <template v-if="activeTab === 'navigation'">
+              <div class="kb-section">
+                <div class="kb-section-label">Search modal</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Open search</span>
+                  <span class="kb-keys">
+                    <kbd>Ctrl</kbd><span class="kb-plus">+</span><kbd>K</kbd>
+                  </span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Open search</span>
+                  <span class="kb-keys"><kbd>/</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Close / dismiss overlay</span>
+                  <span class="kb-keys"><kbd>Esc</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Move through results</span>
+                  <span class="kb-keys"><kbd>↑</kbd><kbd>↓</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Open result</span>
+                  <span class="kb-keys"><kbd>Enter</kbd></span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Open search</span>
-                <span class="kb-keys"><kbd>/</kbd></span>
+              <div class="kb-section">
+                <div class="kb-section-label">Browser</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Navigate back</span>
+                  <span class="kb-keys"><kbd>Alt</kbd><span class="kb-plus">+</span><kbd>←</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Navigate forward</span>
+                  <span class="kb-keys"><kbd>Alt</kbd><span class="kb-plus">+</span><kbd>→</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Jump to top / bottom</span>
+                  <span class="kb-keys"><kbd>Home</kbd><kbd>End</kbd></span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Close search</span>
-                <span class="kb-keys"><kbd>Esc</kbd></span>
+              <div class="kb-section">
+                <div class="kb-section-label">General</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Show this help overlay</span>
+                  <span class="kb-keys"><kbd>?</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Toggle reading mode</span>
+                  <span class="kb-keys"><kbd>R</kbd></span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Navigate results</span>
-                <span class="kb-keys">
-                  <kbd>↑</kbd><kbd>↓</kbd>
-                </span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Open highlighted result</span>
-                <span class="kb-keys"><kbd>Enter</kbd></span>
-              </div>
-            </div>
+            </template>
 
-            <div class="kb-section">
-              <div class="kb-section-label">Navigation</div>
-              <div class="kb-row">
-                <span class="kb-desc">Go to previous page</span>
-                <span class="kb-keys">
-                  <kbd>Alt</kbd><span class="kb-plus">+</span><kbd>←</kbd>
-                </span>
+            <!-- ── SEARCH tab ── -->
+            <template v-else-if="activeTab === 'search'">
+              <div class="kb-section">
+                <div class="kb-section-label">Advanced search operators</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Filter to an EBA</span>
+                  <span class="kb-keys"><kbd>eba:nurses</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Filter by topic</span>
+                  <span class="kb-keys"><kbd>topic:overtime</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Jump to clause</span>
+                  <span class="kb-keys"><kbd>clause:42</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Exclude a word from results</span>
+                  <span class="kb-keys"><kbd>-casual</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Combine freely</span>
+                  <span class="kb-keys"><kbd>eba:has topic:leave -casual</kbd></span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Go to next page</span>
-                <span class="kb-keys">
-                  <kbd>Alt</kbd><span class="kb-plus">+</span><kbd>→</kbd>
-                </span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Scroll to top</span>
-                <span class="kb-keys"><kbd>Home</kbd></span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Scroll to bottom</span>
-                <span class="kb-keys"><kbd>End</kbd></span>
-              </div>
-            </div>
+            </template>
 
-            <!-- ── Accessibility section — new ── -->
-            <div class="kb-section">
-              <div class="kb-section-label">Accessibility</div>
-              <div class="kb-row">
-                <span class="kb-desc">Toggle reading mode (current page)</span>
-                <span class="kb-keys"><kbd>R</kbd></span>
+            <!-- ── EBA FILTERS tab ── -->
+            <template v-else-if="activeTab === 'eba'">
+              <div class="kb-section">
+                <div class="kb-section-label">Shift + F-key — applies EBA filter (toggle)</div>
+                <div
+                  v-for="item in EBA_SHORTCUTS"
+                  :key="item.num"
+                  class="kb-row"
+                >
+                  <span class="kb-desc">{{ item.label }}</span>
+                  <span class="kb-keys">
+                    <kbd>Shift</kbd><span class="kb-plus">+</span><kbd>F{{ item.num }}</kbd>
+                  </span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Print this page</span>
-                <span class="kb-keys">
-                  <kbd>Ctrl</kbd><span class="kb-plus">+</span><kbd>P</kbd>
-                </span>
-              </div>
-            </div>
+              <p class="kb-eba-note">Press the same shortcut again to clear the filter. Works on both the Search tab and all Ask AI modes. Can be pressed immediately after opening the modal — no need to move focus first.</p>
+            </template>
 
-            <div class="kb-section">
-              <div class="kb-section-label">Advanced Search Syntax</div>
-              <div class="kb-row">
-                <span class="kb-desc">Exact phrase match</span>
-                <span class="kb-keys"><kbd>"recall allowance"</kbd></span>
+            <!-- ── ACCESSIBILITY tab ── -->
+            <template v-else-if="activeTab === 'accessibility'">
+              <div class="kb-section">
+                <div class="kb-section-label">Display</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Toggle reading mode (hides navigation)</span>
+                  <span class="kb-keys"><kbd>R</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Cycle font size (normal → large → XL)</span>
+                  <span class="kb-keys">Aa button in nav</span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Filter by EBA</span>
-                <span class="kb-keys"><kbd>eba:nurses-midwives</kbd></span>
+              <div class="kb-section">
+                <div class="kb-section-label">Overlays</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Show keyboard shortcuts</span>
+                  <span class="kb-keys"><kbd>?</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Close any overlay</span>
+                  <span class="kb-keys"><kbd>Esc</kbd></span>
+                </div>
               </div>
-              <div class="kb-row">
-                <span class="kb-desc">Filter by topic</span>
-                <span class="kb-keys"><kbd>topic:wages</kbd></span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Jump to clause number</span>
-                <span class="kb-keys"><kbd>clause:54</kbd></span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Exclude a word from results</span>
-                <span class="kb-keys"><kbd>-casual</kbd></span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Combine freely</span>
-                <span class="kb-keys"><kbd>eba:has topic:leave -casual</kbd></span>
-              </div>
-            </div>
+            </template>
 
-            <div class="kb-section">
-              <div class="kb-section-label">General</div>
-              <div class="kb-row">
-                <span class="kb-desc">Show this help overlay</span>
-                <span class="kb-keys"><kbd>?</kbd></span>
-              </div>
-              <div class="kb-row">
-                <span class="kb-desc">Dismiss any overlay</span>
-                <span class="kb-keys"><kbd>Esc</kbd></span>
-              </div>
-            </div>
-
-          </div>
+          </div><!-- /kb-body -->
 
           <div class="kb-footer">
             Press <kbd>Esc</kbd> or click outside to close
@@ -150,31 +184,52 @@
 <script setup>
 import { ref, onMounted, onUnmounted, nextTick } from 'vue'
 
-const open    = ref(false)
+const open     = ref(false)
 const modalRef = ref(null)
+const activeTab = ref('navigation')
+
+const TABS = [
+  { id: 'navigation',   label: 'Navigation'   },
+  { id: 'search',       label: 'Search'       },
+  { id: 'eba',          label: 'EBA Filters'  },
+  { id: 'accessibility',label: 'Accessibility'},
+]
+
+// EBA shortcut data — order matches ebaList in SearchModal.vue exactly.
+// Short label used for the coloured pill; full label used for the description column.
+const EBA_SHORTCUTS = [
+  { num: 1, short: 'Allied Health',       label: 'Allied Health Professionals 2021–2026',       color: '#EA580C', bg: '#EA580C1A' },
+  { num: 2, short: 'Biomedical Eng.',     label: 'Biomedical Engineers 2025–2028',               color: '#4F46E5', bg: '#4F46E51A' },
+  { num: 3, short: "Children's Services", label: "Children's Services Award 2010",               color: '#DB2777', bg: '#DB27771A' },
+  { num: 4, short: 'Doctors in Training', label: 'Doctors in Training 2022–2026',                color: '#D97706', bg: '#D977061A' },
+  { num: 5, short: 'HAS Managers',        label: 'Health Allied & Managers Admin 2021–2025',     color: '#3B82F6', bg: '#3B82F61A' },
+  { num: 6, short: 'Med. Specialists',    label: 'Medical Specialists 2022–2026',                color: '#0891B2', bg: '#0891B21A' },
+  { num: 7, short: 'Mental Health',       label: 'Mental Health Services 2024–2028',             color: '#7C3AED', bg: '#7C3AED1A' },
+  { num: 8, short: 'Med. Scientists',     label: 'Medical Scientists, Pharm & Psych 2021–2025', color: '#059669', bg: '#0596691A' },
+  { num: 9, short: 'Nurses & Midwives',   label: 'Nurses and Midwives 2024–2028',                color: '#E11D48', bg: '#E11D481A' },
+]
 
 function isTyping() {
-  const el  = document.activeElement
+  const el = document.activeElement
   if (!el) return false
   const tag = el.tagName.toLowerCase()
   if (tag === 'input' || tag === 'textarea' || tag === 'select') return true
   if (el.isContentEditable) return true
-  // Also guard against the SearchModal input and Ask AI input
   if (el.closest('.search-modal')) return true
   return false
 }
 
 function onKeydown(e) {
-  // Open on '?' — never when the user is typing anywhere
+  // Open on '?' — never when the user is typing
   if (e.key === '?' && !e.ctrlKey && !e.metaKey && !e.altKey && !isTyping()) {
     e.preventDefault()
     open.value = true
+    activeTab.value = 'navigation'   // always open to Navigation tab
     nextTick(() => modalRef.value?.focus())
     return
   }
 
-  // Toggle reading mode on 'R' — never when typing, never when this overlay is open
-  // (Esc should close the overlay, not also fire R accidentally)
+  // Toggle reading mode on 'R'
   if (
     e.key === 'r' &&
     !e.ctrlKey && !e.metaKey && !e.altKey &&
@@ -182,8 +237,6 @@ function onKeydown(e) {
     !open.value
   ) {
     e.preventDefault()
-    // Dispatch a custom event. AccessibilityControls.vue listens for this
-    // so the toggle logic stays in one place and avoids duplication.
     window.dispatchEvent(new CustomEvent('toggle-reading-mode'))
     return
   }
@@ -212,8 +265,8 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
 
 /* ── Modal ── */
 .kb-modal {
-  width: min(520px, calc(100vw - 3rem));
-  max-height: calc(100vh - 6rem);
+  width: min(560px, calc(100vw - 3rem));
+  max-height: min(600px, calc(100vh - 6rem));
   background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
@@ -228,6 +281,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
   display: flex; align-items: center; justify-content: space-between;
   padding: 0.875rem 1rem;
   border-bottom: 1px solid var(--vp-c-divider);
+  flex-shrink: 0;
 }
 .kb-title {
   display: flex; align-items: center; gap: 0.5rem;
@@ -239,6 +293,31 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
   font-size: 0.75rem; color: var(--vp-c-text-3); cursor: pointer;
 }
 .kb-close:hover { color: var(--vp-c-text-1); }
+
+/* ── Tab strip ── */
+.kb-tabs {
+  display: flex; flex-shrink: 0;
+  border-bottom: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  overflow-x: auto;           /* allows horizontal scroll on very narrow screens */
+  scrollbar-width: none;
+}
+.kb-tabs::-webkit-scrollbar { display: none; }
+.kb-tab {
+  flex: 1; min-width: max-content;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.78rem; font-weight: 500;
+  color: var(--vp-c-text-2);
+  background: none; border: none; border-bottom: 2px solid transparent;
+  cursor: pointer; transition: color 0.12s, border-color 0.12s;
+  white-space: nowrap;
+}
+.kb-tab:hover { color: var(--vp-c-text-1); }
+.kb-tab--active {
+  color: var(--vp-c-brand-1);
+  border-bottom-color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
 
 /* ── Body ── */
 .kb-body {
@@ -268,6 +347,13 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
 .kb-row:hover { background: var(--vp-c-bg-soft); }
 .kb-desc {
   font-size: 0.85rem; color: var(--vp-c-text-2);
+  flex: 1;
+}
+
+.kb-eba-note {
+  font-size: 0.78rem; color: var(--vp-c-text-3);
+  margin: 0.25rem 0.25rem 0;
+  line-height: 1.5;
 }
 
 /* ── Key chips ── */
@@ -292,6 +378,13 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
   font-size: 0.7rem; color: var(--vp-c-text-3); padding: 0 0.1rem;
 }
 
+/* Wide kbd chips for operator syntax examples (Search tab) */
+.kb-keys kbd:only-child {
+  min-width: unset;
+  font-size: 0.68rem;
+  padding: 0.1rem 0.5rem;
+}
+
 /* ── Footer ── */
 .kb-footer {
   padding: 0.6rem 1rem;
@@ -299,6 +392,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
   font-size: 0.75rem; color: var(--vp-c-text-3);
   background: var(--vp-c-bg-soft);
   text-align: center;
+  flex-shrink: 0;
 }
 .kb-footer kbd {
   font-family: var(--vp-font-family-mono, ui-monospace, monospace);
@@ -309,14 +403,6 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
   border-bottom: 2px solid var(--vp-c-divider);
   border-radius: 4px;
   padding: 0.05rem 0.35rem;
-}
-
-/* ── Wide kbd chips for syntax examples ── */
-.kb-section:has(.kb-section-label:first-child) .kb-keys kbd {
-  font-size: 0.68rem;
-  min-width: unset;
-  padding: 0.1rem 0.5rem;
-  white-space: nowrap;
 }
 
 /* ── Transition ── */
