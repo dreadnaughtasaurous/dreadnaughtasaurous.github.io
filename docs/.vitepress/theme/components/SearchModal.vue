@@ -633,6 +633,23 @@
                           <a v-for="src in aiSources" :key="src.url" :href="src.url" class="ai-source-link" @click="close">{{ src.title }}</a>
                         </div>
                       </template>
+                      <!-- Follow-up question chips — only on the last turn, hidden while loading -->
+                      <div
+                        v-if="idx === conversationHistory.length - 1 && followUpChips.length > 0 && !aiLoading"
+                        class="followup-chips"
+                        role="group"
+                        aria-label="Suggested follow-up questions"
+                      >
+                        <span class="followup-chips-label">You might also ask:</span>
+                        <div class="followup-chips-row">
+                          <button
+                            v-for="chip in followUpChips"
+                            :key="chip"
+                            class="followup-chip"
+                            @click="fireFollowUp(chip)"
+                          >{{ chip }}</button>
+                        </div>
+                      </div>
                       <!-- Per-turn copy button — copies this turn's plain text to clipboard -->
                       <div class="conv-copy-wrap">
                         <button
@@ -687,6 +704,30 @@
                 <p v-if="lastAnswerWasDraft && conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer ai-disclaimer-draft">
                   📋 Review this draft carefully before sending — it is AI-generated and has not been verified by an employment relations specialist.
                 </p>
+
+                <!-- ── Persistent follow-up input — shown after first assistant turn ── -->
+                <div
+                  v-if="conversationHistory.some(t => t.role === 'assistant') && !aiLoading"
+                  class="followup-input-row"
+                >
+                  <textarea
+                    ref="followUpRef"
+                    v-model="followUpText"
+                    class="followup-input"
+                    placeholder="Ask a follow-up question…"
+                    rows="3"
+                    @keydown.enter.exact.prevent="submitFollowUp"
+                    @input="autoResizeFollowUp"
+                  ></textarea>
+                  <button
+                    class="followup-send-btn"
+                    :disabled="followUpText.trim().length < 3"
+                    @click="submitFollowUp"
+                    aria-label="Send follow-up question"
+                  >
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2L11 13"/><path d="M22 2L15 22 11 13 2 9l20-7z"/></svg>
+                  </button>
+                </div>
 
                 <div v-if="conversationHistory.length >= 2" class="conv-reset-row">
                   <button class="conv-reset-btn" @click="resetConversation">
@@ -902,10 +943,12 @@ async function fetchMostViewed() {
 }
 
 // ─── AI state ─────────────────────────────────────────────────────────────────
-const aiLoading = ref(false)
-const aiAnswer  = ref('')
-const aiSources = ref([])
-const aiError   = ref('')
+const aiLoading    = ref(false)
+const aiAnswer     = ref('')
+const aiSources    = ref([])
+const aiError      = ref('')
+const followUpText = ref('')   // bound to the persistent follow-up input row
+const followUpRef  = ref(null) // template ref for the follow-up textarea
 
 // ─── Conversation history (multi-turn Ask AI) ─────────────────────────────────
 const MAX_HISTORY_TURNS    = 3
@@ -1004,6 +1047,181 @@ const SUGGESTION_TOPIC_MAP = [
   { keywords: ['workload','work load','staffing','ratios','nurse ratio','patient ratio','understaffed','unsafe staffing','skill mix'], topic: 'workload', label: 'Workload' },
   { keywords: ['consultation','consult','change management','major change','restructure','restructuring','workplace change'], topic: 'consultation', label: 'Consultation' },
 ]
+
+// ─── Follow-up question chips ─────────────────────────────────────────────────
+// Keyed on section slugs that appear in aiSources URLs
+// (e.g. /ebas/nurses-midwives/overtime/57-overtime → slug 'overtime').
+// Each topic carries 3 chips. followUpChips (computed below) picks up to 3,
+// filtering out any whose text fuzzy-matches a question already asked this session.
+const FOLLOWUP_MAP = {
+  'overtime': [
+    'What about overtime on a public holiday?',
+    'Does this overtime rate differ for casual employees?',
+    'Is there a meal allowance when working overtime?',
+  ],
+  'penalty-rates': [
+    'What penalty rates apply on a public holiday?',
+    'Are casual employees entitled to the same penalty rates?',
+    'How do penalty rates interact with overtime?',
+  ],
+  'allowances': [
+    'Does this allowance apply to part-time employees?',
+    'Is this allowance included in annual leave loading calculations?',
+    'What other allowances might apply to my role?',
+  ],
+  'leave': [
+    'Can unused leave be cashed out?',
+    'What happens to leave entitlements on termination?',
+    'Does this leave entitlement apply to casual employees?',
+  ],
+  'wages': [
+    'When does the next pay increase take effect?',
+    'How are wages calculated for part-time employees?',
+    'Is there a higher duties allowance if I act in a higher grade?',
+  ],
+  'classification': [
+    'What is the pay rate for this classification?',
+    'How do I apply for reclassification to a higher grade?',
+    'Does my classification change if I act in a higher role?',
+  ],
+  'hours-of-work': [
+    'What notice is required to change a roster?',
+    'Are there limits on consecutive shifts?',
+    'How are ordinary hours calculated for part-time employees?',
+  ],
+  'termination': [
+    'What notice period is required for redundancy?',
+    'Is there a severance payment on redundancy?',
+    'What happens to unused leave on termination?',
+  ],
+  'dispute-resolution': [
+    'What is the first step in the dispute resolution process?',
+    'Can the Fair Work Commission be involved at any stage?',
+    'Is there a time limit for raising a grievance?',
+  ],
+  'employment-types': [
+    'Can a casual employee convert to permanent employment?',
+    'What entitlements differ between full-time and part-time employees?',
+    'How is notice of termination calculated for fixed-term employees?',
+  ],
+  'professional-development': [
+    'Is professional development leave paid?',
+    'Who approves professional development applications?',
+    'Is there a maximum number of professional development days per year?',
+  ],
+  'workload': [
+    'What can I do if I believe staffing levels are unsafe?',
+    'Does the EBA set minimum staffing ratios?',
+    'Who do I notify if my workload exceeds safe limits?',
+  ],
+  'consultation': [
+    'What information must the employer provide during consultation?',
+    'Can employees respond formally during a consultation process?',
+    'What happens if the consultation period ends without agreement?',
+  ],
+}
+
+// Section-slug aliases — some URL path segments don't match topic keys exactly.
+// Maps the raw path segment to the FOLLOWUP_MAP key to look up.
+const FOLLOWUP_SLUG_ALIAS = {
+  'on-call':              'allowances',
+  'recall':               'allowances',
+  'meal-allowance':       'allowances',
+  'uniform':              'allowances',
+  'higher-duties':        'allowances',
+  'annual-leave':         'leave',
+  'sick-leave':           'leave',
+  'personal-leave':       'leave',
+  'parental-leave':       'leave',
+  'long-service-leave':   'leave',
+  'public-holidays':      'penalty-rates',
+  'weekend-penalties':    'penalty-rates',
+  'shift-penalties':      'penalty-rates',
+  'rostering':            'hours-of-work',
+  'ordinary-hours':       'hours-of-work',
+  'span-of-hours':        'hours-of-work',
+  'redundancy':           'termination',
+  'notice-of-termination':'termination',
+  'salary':               'wages',
+  'remuneration':         'wages',
+  'pay-rates':            'wages',
+}
+
+// followUpChips — computed from all aiSources entries.
+// Returns 0–3 chip strings. Suppresses any chip whose lowercased text
+// contains 2+ meaningful words that already appeared in a prior user turn.
+//
+// Topic detection: score FOLLOWUP_MAP keys by word overlap with words extracted
+// from every source clause slug. This avoids relying on URL path depth, which
+// varies between standard EBAs (3 levels) and nested EBAs like has-managers-admin
+// and mental-health (4 levels). The clause slug is always the last path segment.
+// e.g. /ebas/has-managers-admin/common-terms/69-public-holidays
+//   clause slug words → ["public", "holidays"]
+//   → scores "penalty-rates" key (contains "holiday" alias) highest
+const followUpChips = computed(() => {
+  if (aiLoading.value) return []
+  if (conversationHistory.value.length === 0) return []
+  if (!aiSources.value.length) return []
+
+  // ── Step 1: collect words from every source URL (all path segments + clause slug) ──
+  const sourceWords = new Set()
+  for (const src of aiSources.value) {
+    // Normalise: strip origin if present so both absolute and root-relative URLs
+    // produce the same path segments (e.g. https://example.com/ebas/... → /ebas/...)
+    let pathname = src.url
+    try { pathname = new URL(src.url, window.location.origin).pathname } catch { /* use as-is */ }
+    const cleanUrl = pathname.replace(/\.html$/, '').replace(/\/$/, '')
+    const segs     = cleanUrl.split('/').filter(Boolean)
+    for (const seg of segs) {
+      // Strip leading clause number prefix (e.g. "69-", "25a-") then split on hyphens
+      const words = seg.replace(/^\d+[a-z]?-/, '').split('-')
+      for (const w of words) {
+        if (w.length >= 3) sourceWords.add(w.toLowerCase())
+      }
+    }
+  }
+
+  // ── Step 2: score topic keys by word overlap ───────────────────────────────
+  // Pass A: FOLLOWUP_SLUG_ALIAS whole-slug matches (e.g. "annual-leave" → "leave")
+  let bestKey   = null
+  let bestScore = 0
+
+  for (const [aliasSlug, topicKey] of Object.entries(FOLLOWUP_SLUG_ALIAS)) {
+    const aliasWords = aliasSlug.split('-').filter(w => w.length >= 3)
+    const matches    = aliasWords.filter(w => sourceWords.has(w)).length
+    // Require all alias words to match (whole-slug match), score by specificity
+    if (matches === aliasWords.length && matches > bestScore) {
+      bestScore = matches
+      bestKey   = topicKey
+    }
+  }
+
+  // Pass B: score every FOLLOWUP_MAP key directly by word overlap
+  for (const key of Object.keys(FOLLOWUP_MAP)) {
+    const keyWords = key.split('-').filter(w => w.length >= 3)
+    const score    = keyWords.filter(w => sourceWords.has(w)).length
+    if (score > 0 && score > bestScore) { bestScore = score; bestKey = key }
+  }
+
+  if (!bestKey) return []
+  const chips = FOLLOWUP_MAP[bestKey]
+
+  // ── Step 3: Option C dedup filter ─────────────────────────────────────────
+  const askedWords = new Set()
+  for (const turn of conversationHistory.value) {
+    if (turn.role !== 'user') continue
+    const words = turn.content.toLowerCase().match(/[a-z]{4,}/g) ?? []
+    for (const w of words) askedWords.add(w)
+  }
+
+  const filtered = chips.filter(chip => {
+    const chipWords = chip.toLowerCase().match(/[a-z]{4,}/g) ?? []
+    const overlap   = chipWords.filter(w => askedWords.has(w)).length
+    return overlap < 2
+  })
+
+  return filtered.slice(0, 3)
+})
 
 // ─── Query rewrite dictionary (misspellings, abbreviations, synonyms) ─────────
 const SUGGESTION_REWRITES = [
@@ -1793,6 +2011,7 @@ function close() {
   draftQuestion.value       = ''
   draftContext.value        = ''
   lastAnswerWasDraft.value  = false
+  followUpText.value        = ''
 }
 
 function switchTab(tab) {
@@ -1818,6 +2037,7 @@ function switchTab(tab) {
   draftQuestion.value       = ''
   draftContext.value        = ''
   lastAnswerWasDraft.value  = false
+  followUpText.value        = ''
   nextTick(() => inputRef.value?.focus())
 }
 
@@ -2342,7 +2562,53 @@ function resetConversation() {
   draftQuestion.value       = ''
   draftContext.value        = ''
   lastAnswerWasDraft.value  = false
+  followUpText.value        = ''
   nextTick(() => inputRef.value?.focus())
+}
+
+// ─── Follow-up chip handler ───────────────────────────────────────────────────
+// Populates the follow-up input with the chip text and focuses it.
+// The user can edit the pre-filled text before submitting, or just press Enter.
+function fireFollowUp(chipText) {
+  if (aiLoading.value) return
+  followUpText.value = chipText
+  nextTick(() => {
+    followUpRef.value?.focus()
+    autoResizeFollowUp()
+  })
+}
+
+// ─── Follow-up input submit ───────────────────────────────────────────────────
+// Reads followUpText, clears the input, then routes through question mode
+// so the existing conversation history is preserved (Option A).
+function submitFollowUp() {
+  const text = followUpText.value.trim()
+  if (!text || text.length < 3 || aiLoading.value) return
+  const activeEba = questionEba.value || situationEba.value || draftEba.value || ''
+  followUpText.value    = ''
+  // Reset textarea height
+  if (followUpRef.value) { followUpRef.value.style.height = 'auto' }
+  askMode.value         = 'question'
+  questionText.value    = text
+  questionEba.value     = activeEba
+  questionEmpType.value = ''
+  situationText.value    = ''
+  situationEba.value     = ''
+  situationEmpType.value = ''
+  draftEba.value         = ''
+  draftEmpType.value     = ''
+  draftQuestion.value    = ''
+  draftContext.value     = ''
+  lastAnswerWasDraft.value = false
+  nextTick(() => submitAsk())
+}
+
+// ─── Auto-resize the follow-up textarea as the user types ─────────────────────
+function autoResizeFollowUp() {
+  const el = followUpRef.value
+  if (!el) return
+  el.style.height = 'auto'
+  el.style.height = Math.min(el.scrollHeight, 120) + 'px'
 }
 </script>
 
@@ -3211,6 +3477,108 @@ function resetConversation() {
 .ai-sources-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--vp-c-text-3); margin: 0; }
 .ai-source-link { font-size: 0.82rem; color: var(--vp-c-brand-1); text-decoration: underline; text-underline-offset: 2px; }
 .ai-source-link:hover { color: var(--vp-c-brand-2); }
+
+/* ── Follow-up question chips ── */
+.followup-chips {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin-top: 0.75rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+.followup-chips-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--vp-c-text-3);
+}
+.followup-chips-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.followup-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 999px;
+  cursor: pointer;
+  line-height: 1.4;
+  text-align: left;
+  transition: background 0.14s, color 0.14s, border-color 0.14s, box-shadow 0.14s;
+}
+.followup-chip:hover {
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-2);
+  color: var(--vp-c-brand-2);
+  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
+}
+.followup-chip:active {
+  transform: scale(0.97);
+}
+/* On touch devices, always show at full opacity — no hover state available */
+@media (hover: none) {
+  .followup-chip { opacity: 1; }
+}
+
+/* ── Follow-up input row ── */
+.followup-input-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  padding: 0.6rem 0.75rem;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.followup-input-row:focus-within {
+  border-color: var(--vp-c-brand);
+  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
+}
+.followup-input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  background: transparent;
+  font-size: 0.875rem;
+  font-family: inherit;
+  color: var(--vp-c-text-1);
+  outline: none;
+  resize: none;
+  line-height: 1.5;
+  min-height: 4.5rem;
+  max-height: 180px;
+  overflow-y: auto;
+  padding-top: 0.25rem;
+}
+.followup-input::placeholder { color: var(--vp-c-text-3); }
+.followup-send-btn {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: none;
+  border-radius: 6px;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+}
+.followup-send-btn:hover:not(:disabled) { background: var(--vp-c-brand-2); }
+.followup-send-btn:active:not(:disabled) { transform: scale(0.92); }
+.followup-send-btn:disabled { opacity: 0.35; cursor: not-allowed; }
 .ai-disclaimer { font-size: 0.75rem; color: var(--vp-c-text-3); margin: 0; line-height: 1.5; }
 .ask-hint { color: var(--vp-c-text-2); font-size: 0.875rem; }
 .ask-hint p { margin: 0 0 0.6rem; }
