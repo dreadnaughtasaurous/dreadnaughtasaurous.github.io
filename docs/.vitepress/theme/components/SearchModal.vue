@@ -745,13 +745,15 @@ const ANALYTICS_WORKER_URL = 'https://eba-analytics-worker.irresistibl.workers.d
 const aiConfigured  = AI_WORKER_URL.length > 0
 
 // ─── Storage keys ─────────────────────────────────────────────────────────────
-const SESSION_QUERY_KEY  = 'eba-search-last-query'
-const SESSION_EBA_KEY    = 'eba-search-last-eba'
-const SESSION_TOPIC_KEY  = 'eba-search-last-topic'
-const SESSION_SCROLL_KEY = 'eba-search-last-scroll'
-const SESSION_RECENT_KEY = 'eba-search-recent'
-const LOCAL_SAVED_KEY    = 'eba-search-saved'
-const LOCAL_BOOKMARKS_KEY = 'eba-bookmarks'
+const SESSION_QUERY_KEY       = 'eba-search-last-query'
+const SESSION_EBA_KEY         = 'eba-search-last-eba'
+const SESSION_TOPIC_KEY       = 'eba-search-last-topic'
+const SESSION_SCROLL_KEY      = 'eba-search-last-scroll'
+const SESSION_RECENT_KEY      = 'eba-search-recent'
+const LOCAL_SAVED_KEY         = 'eba-search-saved'
+const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
+const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
+const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -897,10 +899,11 @@ const hideSharedInput = computed(() =>
   activeTab.value === 'ask'
 )
 
-let searchTimer        = null
-let pagefind           = null
-let pendingContentHash = null
-let _externalAskQuery  = ''   // carries AskThisPage pre-built query; bypasses mode form guards
+let searchTimer           = null
+let pagefind              = null
+let pendingContentHash    = null
+let _externalAskQuery     = ''      // carries AskThisPage pre-built query; bypasses mode form guards
+let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
 
 // ─── Quick Access shortcuts ───────────────────────────────────────────────────
 const quickAccessShortcuts = [
@@ -1377,6 +1380,16 @@ function persistState() {
     if (resultsContainerRef.value) {
       sessionStorage.setItem(SESSION_SCROLL_KEY, String(resultsContainerRef.value.scrollTop))
     }
+    // TTL-gated EBA context — only written when an EBA filter is actually active.
+    // Cleared explicitly when no EBA is set so a previous value never lingers.
+    if (selectedEba.value) {
+      sessionStorage.setItem(SESSION_EBA_CONTEXT_KEY, JSON.stringify({
+        eba: selectedEba.value,
+        ts:  Date.now(),
+      }))
+    } else {
+      sessionStorage.removeItem(SESSION_EBA_CONTEXT_KEY)
+    }
   } catch { /* silently ignore */ }
 }
 
@@ -1458,12 +1471,38 @@ function openFromExternal(e) {
 
 // ─── Open / close ─────────────────────────────────────────────────────────────
 function openModal() {
+  restoreEbaContext()   // must run before open.value = true so _pendingEbaFlash is set
+                        // before watch(open) fires and checks it
   open.value = true
-  fetchMostViewed()   // non-blocking — populates mostViewedClauses async; degrades silently
+  fetchMostViewed()     // non-blocking — populates mostViewedClauses async; degrades silently
   nextTick(() => {
     loadPersistedState()
     inputRef.value?.focus()
   })
+}
+
+// ─── TTL-gated EBA context restore ───────────────────────────────────────────
+// Silently pre-populates the EBA filter if the advisor closed the modal within
+// the last 30 seconds. Does NOT trigger a search — the user types their own
+// next query with the filter already set. Fires only when no EBA filter is
+// already active (loadPersistedState may have set one via the query-restore path).
+// NOTE: does not attempt to flash the select here — the entire modal DOM is
+// destroyed/recreated via v-if="open", so #eba-filter does not exist yet when
+// this function runs inside nextTick(). Instead, _pendingEbaFlash signals
+// watch(open) to fire the flash after the element is guaranteed to exist.
+function restoreEbaContext() {
+  try {
+    const raw = sessionStorage.getItem(SESSION_EBA_CONTEXT_KEY)
+    if (!raw) return
+    const { eba, ts } = JSON.parse(raw)
+    if (!eba || (Date.now() - ts) > EBA_CONTEXT_TTL_MS) return
+    // Guard: if a *different* EBA is already set (e.g. openFromExternal set one),
+    // do not overwrite it. But if selectedEba already matches (because close() does
+    // not clear it), still fire the flash — that is the normal return path.
+    if (selectedEba.value && selectedEba.value !== eba) return
+    selectedEba.value = eba
+    _pendingEbaFlash  = true   // consumed by watch(open) once the DOM exists
+  } catch { /* corrupt entry — degrade silently */ }
 }
 
 watch(open, async (val) => {
@@ -1471,6 +1510,14 @@ watch(open, async (val) => {
     await nextTick()
     inputRef.value?.focus()
     document.body.style.overflow = 'hidden'
+    // Fire the EBA filter flash if restoreEbaContext() requested it.
+    // By the time watch(open) runs after await nextTick(), the v-if="open"
+    // DOM subtree is fully inserted and #eba-filter is guaranteed to exist.
+    if (_pendingEbaFlash) {
+      _pendingEbaFlash = false
+      ebaFilterFlash.value = true
+      setTimeout(() => { ebaFilterFlash.value = false }, 1200)
+    }
   } else {
     document.body.style.overflow = ''
     previewVisible.value = false
@@ -2969,14 +3016,15 @@ function resetConversation() {
   color: var(--vp-c-text-2);
 }
 
-/* ── EBA filter flash — triggered by Alt+digit shortcut ── */
+/* ── EBA filter flash — triggered by Alt+digit shortcut and EBA context restore ── */
 @keyframes eba-flash {
   0%   { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
-  50%  { box-shadow: 0 0 0 3px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  30%  { box-shadow: 0 0 0 4px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  70%  { box-shadow: 0 0 0 4px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
   100% { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-divider); }
 }
 .eba-filter-flash {
-  animation: eba-flash 0.4s ease forwards;
+  animation: eba-flash 1.2s ease forwards;
 }
 
 /* ── Modal transition ── */
