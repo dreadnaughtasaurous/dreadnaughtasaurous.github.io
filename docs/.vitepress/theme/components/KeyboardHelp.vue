@@ -96,6 +96,34 @@
             </div>
 
             <div class="kb-section">
+              <div class="kb-section-label">Advanced Search Syntax</div>
+              <div class="kb-row">
+                <span class="kb-desc">Exact phrase match</span>
+                <span class="kb-keys"><kbd>"recall allowance"</kbd></span>
+              </div>
+              <div class="kb-row">
+                <span class="kb-desc">Filter by EBA</span>
+                <span class="kb-keys"><kbd>eba:nurses-midwives</kbd></span>
+              </div>
+              <div class="kb-row">
+                <span class="kb-desc">Filter by topic</span>
+                <span class="kb-keys"><kbd>topic:wages</kbd></span>
+              </div>
+              <div class="kb-row">
+                <span class="kb-desc">Jump to clause number</span>
+                <span class="kb-keys"><kbd>clause:54</kbd></span>
+              </div>
+              <div class="kb-row">
+                <span class="kb-desc">Exclude a word from results</span>
+                <span class="kb-keys"><kbd>-casual</kbd></span>
+              </div>
+              <div class="kb-row">
+                <span class="kb-desc">Combine freely</span>
+                <span class="kb-keys"><kbd>eba:has topic:leave -casual</kbd></span>
+              </div>
+            </div>
+
+            <div class="kb-section">
               <div class="kb-section-label">General</div>
               <div class="kb-row">
                 <span class="kb-desc">Show this help overlay</span>
@@ -281,6 +309,14 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
   border-bottom: 2px solid var(--vp-c-divider);
   border-radius: 4px;
   padding: 0.05rem 0.35rem;
+}
+
+/* ── Wide kbd chips for syntax examples ── */
+.kb-section:has(.kb-section-label:first-child) .kb-keys kbd {
+  font-size: 0.68rem;
+  min-width: unset;
+  padding: 0.1rem 0.5rem;
+  white-space: nowrap;
 }
 
 /* ── Transition ── */

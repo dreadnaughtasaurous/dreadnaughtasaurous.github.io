@@ -53,6 +53,54 @@
             </button>
           </div>
 
+          <!-- Operator pills — shown when the raw query contains parsed operator tokens -->
+          <div v-if="activeTab === 'search' && parsedOperators.hasPills" class="operator-pills-row">
+            <span class="op-pills-label">Active:</span>
+            <!-- EBA operator pill -->
+            <span
+              v-if="parsedOperators.eba"
+              class="op-pill op-pill--eba"
+              :style="opPillEbaStyle(parsedOperators.eba)"
+            >
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+              eba:{{ parsedOperators.ebaSlug }}
+              <button class="op-pill-dismiss" @click="dismissOperator('eba')" :aria-label="`Remove EBA filter: ${parsedOperators.ebaSlug}`">×</button>
+            </span>
+            <!-- Topic operator pill -->
+            <span v-if="parsedOperators.topic" class="op-pill op-pill--topic">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+              topic:{{ parsedOperators.topic }}
+              <button class="op-pill-dismiss" @click="dismissOperator('topic')" :aria-label="`Remove topic filter: ${parsedOperators.topic}`">×</button>
+            </span>
+            <!-- Clause operator pill -->
+            <span v-if="parsedOperators.clause" class="op-pill op-pill--clause">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+              clause:{{ parsedOperators.clause }}
+              <button class="op-pill-dismiss" @click="dismissOperator('clause')" :aria-label="`Remove clause filter: ${parsedOperators.clause}`">×</button>
+            </span>
+            <!-- Exclude operator pills (one per excluded word) -->
+            <span
+              v-for="word in parsedOperators.exclude"
+              :key="word"
+              class="op-pill op-pill--exclude"
+            >
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+              -{{ word }}
+              <button class="op-pill-dismiss" @click="dismissOperator('exclude', word)" :aria-label="`Remove exclusion: ${word}`">×</button>
+            </span>
+            <!-- Phrase pills -->
+            <span
+              v-for="phrase in parsedOperators.phrases"
+              :key="phrase"
+              class="op-pill op-pill--phrase"
+            >
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 2v12c0 1 .5 2 2 2zm9 0c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 2v12c0 1 .5 2 2 2z"/></svg>
+              "{{ phrase }}"
+              <button class="op-pill-dismiss" @click="dismissOperator('phrase', phrase)" :aria-label="`Remove phrase: ${phrase}`">×</button>
+            </span>
+            <button class="op-pills-clear" @click="clearAllOperators">Clear all</button>
+          </div>
+
           <!-- Tab bar -->
           <div class="search-tab-bar">
             <button
@@ -113,7 +161,7 @@
 
               <!-- No results + optional fuzzy fallback -->
               <div v-else-if="query.length > 1 && results.length === 0 && !fuzzyLoading" class="search-status">
-                <p>No results for <strong>{{ query }}</strong><span v-if="selectedEba || selectedTopic"> with current filters</span>.</p>
+                <p>No results for <strong>{{ query }}</strong><span v-if="selectedEba || selectedTopic || parsedOperators.hasPills"> with current filters</span>.</p>
                 <p v-if="fuzzyResults.length > 0" class="fuzzy-suggestion">
                   Showing results for <strong>{{ fuzzyQuery }}</strong> instead:
                 </p>
@@ -286,7 +334,7 @@
                   </div>
                 </div>
 
-                <p class="search-hint-small">Type to search across all 1,275 clauses · Use filters to narrow by EBA or topic</p>
+                <p class="search-hint-small">Type to search · Try <code class="op-hint">eba:nurses-midwives</code> <code class="op-hint">topic:wages</code> <code class="op-hint">"exact phrase"</code> <code class="op-hint">-exclude</code></p>
               </div>
 
               <!-- Normal results list -->
@@ -1323,6 +1371,155 @@ function useDraftExample(text) {
   nextTick(() => document.getElementById('draft-question')?.focus())
 }
 
+// ─── Advanced search: EBA slug → full filter value map ───────────────────────
+const EBA_SLUG_MAP = {
+  'nurses-midwives':      'Nurses and Midwives 2024-2028',
+  'nurses':               'Nurses and Midwives 2024-2028',
+  'nm':                   'Nurses and Midwives 2024-2028',
+  'allied-health':        'Allied Health Professionals 2021-2026',
+  'allied':               'Allied Health Professionals 2021-2026',
+  'mental-health':        'Mental Health Services 2024-2028',
+  'mental':               'Mental Health Services 2024-2028',
+  'has':                  'Health Allied & Managers Admin 2021-2025',
+  'has-managers-admin':   'Health Allied & Managers Admin 2021-2025',
+  'managers-admin':       'Health Allied & Managers Admin 2021-2025',
+  'medical-scientists':   'Medical Scientists, Pharm & Psych 2021-2025',
+  'mspp':                 'Medical Scientists, Pharm & Psych 2021-2025',
+  'medical-specialists':  'Medical Specialists 2022-2026',
+  'specialists':          'Medical Specialists 2022-2026',
+  'doctors-in-training':  'Doctors in Training 2022-2026',
+  'dit':                  'Doctors in Training 2022-2026',
+  'doctors':              'Doctors in Training 2022-2026',
+  'biomedical-engineers': 'Biomedical Engineers 2025-2028',
+  'biomedical':           'Biomedical Engineers 2025-2028',
+  'childrens-services':   "Children's Services Award 2010",
+  'childrens':            "Children's Services Award 2010",
+  'children':             "Children's Services Award 2010",
+}
+
+// ─── Advanced search: query parser ───────────────────────────────────────────
+// Accepts the raw value from the search input and returns:
+//   cleanQuery  — the string to pass to pagefind.search() (operators stripped)
+//   operators   — structured object with resolved filter values, exclude list, etc.
+//   hasPills    — true when any operator was found (drives pill row visibility)
+function parseQuery(raw) {
+  let working   = raw
+  const ops = {
+    eba:     null,   // resolved full EBA name string, or null
+    ebaSlug: null,   // the raw slug the user typed (shown in pill label)
+    topic:   null,   // topic string or null
+    clause:  null,   // clause number string or null
+    exclude: [],     // array of words to post-filter out
+    phrases: [],     // quoted phrase strings (without surrounding quotes)
+    hasPills: false,
+  }
+
+  // 1. Extract quoted phrases — keep them in cleanQuery verbatim (Pagefind handles them natively)
+  //    but also record them so we can show phrase pills.
+  working = working.replace(/"([^"]+)"/g, (match, phrase) => {
+    if (phrase.trim().length > 0) ops.phrases.push(phrase.trim())
+    return match // keep in working string — Pagefind understands "..."
+  })
+
+  // 2. eba: operator
+  working = working.replace(/\beba:(\S+)/gi, (_, slug) => {
+    const resolved = EBA_SLUG_MAP[slug.toLowerCase()]
+    if (resolved) {
+      ops.eba     = resolved
+      ops.ebaSlug = slug.toLowerCase()
+    }
+    return '' // strip token from query
+  })
+
+  // 3. topic: operator — validate against known topicList values
+  working = working.replace(/\btopic:(\S+)/gi, (_, t) => {
+    const normalised = t.toLowerCase().replace(/_/g, '-')
+    // Accept any value — validation happens when Pagefind applies the filter.
+    // Unknown topics just return zero results naturally.
+    ops.topic = normalised
+    return ''
+  })
+
+  // 4. clause: operator
+  working = working.replace(/\bclause:(\w+)/gi, (_, num) => {
+    ops.clause = num
+    return ''
+  })
+
+  // 5. -exclude operator — words prefixed with a hyphen (not part of a quoted phrase)
+  //    Only match bare -word tokens, not hyphens inside words (e.g. part-time).
+  //    We look for a hyphen preceded by a word boundary or start/space.
+  working = working.replace(/(?:^|\s)-([a-zA-Z]\w*)/g, (_, word) => {
+    ops.exclude.push(word.toLowerCase())
+    return ' '
+  })
+
+  // 6. Clean up the remaining query string
+  const cleanQuery = working.replace(/\s{2,}/g, ' ').trim()
+
+  ops.hasPills = !!(ops.eba || ops.topic || ops.clause || ops.exclude.length || ops.phrases.length)
+
+  return { cleanQuery, operators: ops }
+}
+
+// ─── Computed: reactively parse operators as user types ───────────────────────
+// Used by the pills row in the template. Does NOT re-run search — doSearch()
+// reads the same parser output when it fires.
+const parsedOperators = computed(() => {
+  if (activeTab.value !== 'search') return { hasPills: false }
+  return parseQuery(query.value).operators
+})
+
+// ─── Pill: EBA brand colour style ────────────────────────────────────────────
+// EBA operator pills use the EBA's own brand colour (Option A).
+function opPillEbaStyle(resolvedEbaName) {
+  const c = ebaColors[resolvedEbaName]
+  if (!c) return {}
+  return {
+    color:           c.color,
+    backgroundColor: c.bg,
+    borderColor:     c.color + '55',
+  }
+}
+
+// ─── Dismiss an operator token from the raw query string ─────────────────────
+// Removes the token text from query.value, then re-runs search.
+function dismissOperator(type, value) {
+  let q = query.value
+  if (type === 'eba') {
+    // Remove eba:<anything> token
+    q = q.replace(/\beba:\S+/gi, '')
+  } else if (type === 'topic') {
+    q = q.replace(/\btopic:\S+/gi, '')
+  } else if (type === 'clause') {
+    q = q.replace(/\bclause:\w+/gi, '')
+  } else if (type === 'exclude') {
+    // Remove -word token (preceded by space or start)
+    const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    q = q.replace(new RegExp(`(?:^|\\s)-${escaped}(?=\\s|$)`, 'gi'), ' ')
+  } else if (type === 'phrase') {
+    // Remove "phrase" token
+    const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    q = q.replace(new RegExp(`"${escaped}"`, 'g'), '')
+  }
+  query.value = q.replace(/\s{2,}/g, ' ').trim()
+  doSearch()
+  nextTick(() => inputRef.value?.focus())
+}
+
+// ─── Clear all operator tokens from the query string ─────────────────────────
+function clearAllOperators() {
+  let q = query.value
+  q = q.replace(/\beba:\S+/gi, '')
+  q = q.replace(/\btopic:\S+/gi, '')
+  q = q.replace(/\bclause:\w+/gi, '')
+  q = q.replace(/(?:^|\s)-[a-zA-Z]\w*/g, ' ')
+  q = q.replace(/"[^"]*"/g, '')
+  query.value = q.replace(/\s{2,}/g, ' ').trim()
+  doSearch()
+  nextTick(() => inputRef.value?.focus())
+}
+
 // ─── Search ───────────────────────────────────────────────────────────────────
 function debouncedSearch() {
   clearTimeout(searchTimer)
@@ -1332,28 +1529,54 @@ function debouncedSearch() {
 async function doSearch() {
   fuzzyResults.value = []
   fuzzyQuery.value   = ''
-  if (!pagefind || (query.value.length < 2 && !selectedEba.value && !selectedTopic.value)) {
+
+  // ── Parse advanced operators out of the raw query ──────────────────────────
+  const { cleanQuery, operators } = parseQuery(query.value)
+
+  // Guard: nothing to search
+  if (!pagefind || (cleanQuery.length < 2 && !operators.clause && !selectedEba.value && !selectedTopic.value && !operators.eba && !operators.topic)) {
     results.value = []
     return
   }
+
   loading.value = true
+
+  // ── Build Pagefind filter object ───────────────────────────────────────────
+  // Dropdown values take precedence over operator values when both are set,
+  // because the user explicitly chose from the dropdown. Operator fills the
+  // gap when the dropdown is on "All EBAs" / "All Topics".
   const filters = {}
-  if (selectedEba.value)   filters.eba    = selectedEba.value
-  if (selectedTopic.value) filters.topics = selectedTopic.value
+  const activeEba   = selectedEba.value   || operators.eba   || null
+  const activeTopic = selectedTopic.value || operators.topic || null
+  if (activeEba)   filters.eba    = activeEba
+  if (activeTopic) filters.topics = activeTopic
+
+  // ── Build the Pagefind query string ───────────────────────────────────────
+  // If clause: operator present, prepend the clause number to the clean query
+  // so Pagefind scores title matches (which contain the clause number) very highly.
+  const pfQuery = operators.clause
+    ? [operators.clause, cleanQuery].filter(Boolean).join(' ')
+    : cleanQuery || null
+
   try {
-    const search = await pagefind.search(query.value || null, { filters })
+    const search = await pagefind.search(pfQuery, { filters })
+
+    // ── Exact phrase boost (unchanged from original) ───────────────────────
     let exactIds = new Set()
-    if (query.value.trim().includes(' ')) {
+    if (cleanQuery.trim().includes(' ')) {
       try {
-        const exactSearch = await pagefind.search(`"${query.value.trim()}"`, { filters })
+        const exactSearch = await pagefind.search(`"${cleanQuery.trim()}"`, { filters })
         const exactData   = await Promise.all(exactSearch.results.slice(0, 5).map(r => r.data()))
         exactIds = new Set(exactData.map(r => r.url))
       } catch { /* exact search optional */ }
     }
+
     const allResults = await Promise.all(search.results.slice(0, 25).map(r => r.data()))
-    const isFilterOnly = !query.value.trim() && (selectedTopic.value || selectedEba.value)
-    if (isFilterOnly && selectedTopic.value) {
-      const topic = selectedTopic.value.toLowerCase().replace(/-/g, ' ')
+
+    // ── Filter-only sort (unchanged from original) ─────────────────────────
+    const isFilterOnly = !cleanQuery.trim() && !operators.clause && (activeTopic || activeEba)
+    if (isFilterOnly && activeTopic) {
+      const topic = activeTopic.toLowerCase().replace(/-/g, ' ')
       const score = r => {
         let s = 0
         if ((r.meta?.title   || '').toLowerCase().includes(topic)) s += 3
@@ -1363,14 +1586,34 @@ async function doSearch() {
       }
       allResults.sort((a, b) => score(b) - score(a))
     }
-    results.value = [
-      ...allResults.filter(r => exactIds.has(r.url)),
-      ...allResults.filter(r => !exactIds.has(r.url)),
-    ]
-    if (results.value.length === 0 && query.value.trim().length > 3) {
-      await runFuzzyFallback(query.value.trim(), filters)
+
+    // ── Post-filter: apply -exclude words ─────────────────────────────────
+    // Pagefind has no native NOT. We remove any result whose title or excerpt
+    // contains an excluded word. This operates on the returned excerpt only,
+    // not the full page text, but is accurate enough to be useful.
+    let filtered = allResults
+    if (operators.exclude.length > 0) {
+      filtered = allResults.filter(r => {
+        const haystack = [
+          (r.meta?.title   || ''),
+          (r.excerpt       || ''),
+        ].join(' ').toLowerCase()
+        return !operators.exclude.some(word => haystack.includes(word))
+      })
     }
-    logSearch('search', query.value, selectedEba.value, selectedTopic.value, results.value.length)
+
+    results.value = [
+      ...filtered.filter(r => exactIds.has(r.url)),
+      ...filtered.filter(r => !exactIds.has(r.url)),
+    ]
+
+    if (results.value.length === 0 && cleanQuery.trim().length > 3) {
+      await runFuzzyFallback(cleanQuery.trim(), filters)
+    }
+
+    // Log the clean query (without operators) for analytics — operators are
+    // implicit in the eba/topic values we already log.
+    logSearch('search', cleanQuery || query.value, activeEba || '', activeTopic || '', results.value.length)
   } catch {
     results.value = []
   }
@@ -2365,6 +2608,70 @@ function resetConversation() {
 .modal-enter-active .search-modal, .modal-leave-active .search-modal { transition: transform 0.18s ease, opacity 0.18s ease; }
 .modal-enter-from, .modal-leave-to { opacity: 0; }
 .modal-enter-from .search-modal, .modal-leave-to .search-modal { transform: translateY(-8px); opacity: 0; }
+
+/* ── Operator pills row ── */
+.operator-pills-row {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 0.4rem;
+  padding: 0.45rem 1rem;
+  background: var(--vp-c-bg-soft);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.op-pills-label {
+  font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.07em; color: var(--vp-c-text-3); flex-shrink: 0;
+}
+.op-pill {
+  display: inline-flex; align-items: center; gap: 0.3rem;
+  padding: 0.2rem 0.35rem 0.2rem 0.5rem;
+  border-radius: 999px; border: 1px solid;
+  font-size: 0.72rem; font-weight: 600; font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  white-space: nowrap;
+}
+/* EBA pill: colour comes from inline :style (opPillEbaStyle) — Option A */
+.op-pill--eba { /* colour applied via inline style */ }
+
+/* Topic pill: brand violet */
+.op-pill--topic {
+  color: #7C3AED; background: #7C3AED1A; border-color: #7C3AED55;
+}
+/* Clause pill: slate blue */
+.op-pill--clause {
+  color: #2563EB; background: #2563EB1A; border-color: #2563EB55;
+}
+/* Exclude pill: danger red */
+.op-pill--exclude {
+  color: #DC2626; background: #DC26261A; border-color: #DC262655;
+}
+/* Phrase pill: brand teal-ish (distinct from topic) */
+.op-pill--phrase {
+  color: #0891B2; background: #0891B21A; border-color: #0891B255;
+}
+.op-pill-dismiss {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 14px; height: 14px; padding: 0; margin-left: 0.1rem;
+  background: none; border: none; cursor: pointer;
+  font-size: 0.85rem; line-height: 1; color: inherit; opacity: 0.6;
+  border-radius: 999px; transition: opacity 0.12s, background 0.12s;
+}
+.op-pill-dismiss:hover { opacity: 1; background: oklch(0 0 0 / 0.1); }
+.op-pills-clear {
+  margin-left: auto; background: none; border: none;
+  font-size: 0.7rem; color: var(--vp-c-text-3); cursor: pointer;
+  text-decoration: underline; font-weight: 400; flex-shrink: 0;
+  padding: 0;
+}
+.op-pills-clear:hover { color: var(--vp-c-text-2); }
+
+/* Inline operator hint chips in the Quick Access footer */
+.op-hint {
+  display: inline;
+  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  font-size: 0.68rem; font-weight: 600;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px; padding: 0.05rem 0.3rem;
+  color: var(--vp-c-brand-1);
+}
 
 /* ── Save search button ── */
 .save-search-btn {
