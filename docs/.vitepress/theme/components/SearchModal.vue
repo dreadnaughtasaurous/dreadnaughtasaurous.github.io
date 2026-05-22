@@ -492,10 +492,25 @@
                       placeholder="e.g. Am I entitled to overtime pay if I work more than 8 hours on a weekend shift?"
                       @keydown.enter.ctrl="submitAsk"
                     ></textarea>
+                    <div
+                      v-if="questionText.trim().length > 0"
+                      class="char-counter"
+                      :class="`char-counter--${charCountState(questionCharCount)}`"
+                      aria-live="polite"
+                    >
+                      {{ questionCharCount }} chars
+                      <span class="char-counter-sep">·</span>
+                      <span class="char-counter-label">
+                        <template v-if="charCountState(questionCharCount) === 'too-short'">Too short for a useful answer</template>
+                        <template v-else-if="charCountState(questionCharCount) === 'good-start'">Good start — add more detail</template>
+                        <template v-else>Good length</template>
+                      </span>
+                    </div>
                   </div>
                   <div class="ask-input-row">
                     <button
                       class="ask-btn"
+                      :style="{ opacity: askBtnOpacity(questionCharCount) }"
                       :disabled="aiLoading || questionText.trim().length < 5"
                       @click="submitAsk"
                     >
@@ -534,10 +549,25 @@
                       rows="4"
                       placeholder="e.g. An employee worked a double shift over the weekend and is questioning whether they're entitled to overtime pay..."
                     ></textarea>
+                    <div
+                      v-if="situationText.trim().length > 0"
+                      class="char-counter"
+                      :class="`char-counter--${charCountState(situationCharCount)}`"
+                      aria-live="polite"
+                    >
+                      {{ situationCharCount }} chars
+                      <span class="char-counter-sep">·</span>
+                      <span class="char-counter-label">
+                        <template v-if="charCountState(situationCharCount) === 'too-short'">Too short for a useful answer</template>
+                        <template v-else-if="charCountState(situationCharCount) === 'good-start'">Good start — add more detail</template>
+                        <template v-else>Good length</template>
+                      </span>
+                    </div>
                   </div>
                   <div class="ask-input-row">
                     <button
                       class="ask-btn"
+                      :style="{ opacity: askBtnOpacity(situationCharCount) }"
                       :disabled="aiLoading || situationText.trim().length < 10"
                       @click="submitAsk"
                     >
@@ -570,12 +600,26 @@
                   </div>
                   <div class="ask-form-field">
                     <label for="draft-question">Employee's question <span class="required-mark" aria-hidden="true">*</span></label>
-                    <input
-                      type="text"
+                    <textarea
                       id="draft-question"
                       v-model="draftQuestion"
+                      rows="3"
                       placeholder="e.g. Am I entitled to overtime pay for the extra shift I worked?"
-                    />
+                    ></textarea>
+                    <div
+                      v-if="draftQuestion.trim().length > 0"
+                      class="char-counter"
+                      :class="`char-counter--${charCountState(draftCharCount)}`"
+                      aria-live="polite"
+                    >
+                      {{ draftCharCount }} chars
+                      <span class="char-counter-sep">·</span>
+                      <span class="char-counter-label">
+                        <template v-if="charCountState(draftCharCount) === 'too-short'">Too short for a useful answer</template>
+                        <template v-else-if="charCountState(draftCharCount) === 'good-start'">Good start — add more detail</template>
+                        <template v-else>Good length</template>
+                      </span>
+                    </div>
                   </div>
                   <div class="ask-form-field">
                     <label for="draft-context">Additional context <span class="optional-label">(optional)</span></label>
@@ -589,6 +633,7 @@
                   <div class="ask-input-row">
                     <button
                       class="ask-btn"
+                      :style="{ opacity: askBtnOpacity(draftCharCount) }"
                       :disabled="aiLoading || draftEba === '' || draftEmpType === '' || draftQuestion.trim().length < 5"
                       @click="submitAsk"
                     >
@@ -1449,6 +1494,38 @@ const isCurrentQuerySaved = computed(() => {
   const t = selectedTopic.value
   return savedSearches.value.some(s => s.query === q && s.eba === e && s.topic === t)
 })
+
+// ─── Ask AI character counters ────────────────────────────────────────────────
+// One computed per targeted field. Each returns the trimmed character count so
+// whitespace-only entries don't game the threshold. The template uses these to
+// drive both the counter display and the submit button appearance class.
+//
+// Thresholds (shared across all three modes):
+//   0–19  → 'too-short'  (grey)
+//   20–49 → 'good-start' (amber)
+//   50+   → 'good'       (green)
+const CHAR_THRESHOLD_MIN  = 20   // below this: too short
+const CHAR_THRESHOLD_GOOD = 50   // at or above this: good length
+
+function charCountState(len) {
+  if (len < CHAR_THRESHOLD_MIN)  return 'too-short'
+  if (len < CHAR_THRESHOLD_GOOD) return 'good-start'
+  return 'good'
+}
+
+// Linear opacity ramp: 0.45 at 0 chars → 1.0 at CHAR_THRESHOLD_GOOD (50).
+// Clamped so it never goes below 0.45 or above 1.0.
+// Applied as an inline :style on each submit button so the brand colour is
+// preserved at all lengths — only presence/confidence is communicated, not colour.
+function askBtnOpacity(len) {
+  const MIN_OPACITY = 0.2
+  const t = Math.min(len / CHAR_THRESHOLD_GOOD, 1)
+  return (MIN_OPACITY + t * (1 - MIN_OPACITY)).toFixed(2)
+}
+
+const questionCharCount  = computed(() => questionText.value.trim().length)
+const situationCharCount = computed(() => situationText.value.trim().length)
+const draftCharCount     = computed(() => draftQuestion.value.trim().length)
 
 function buildSavedLabel() {
   const parts = []
@@ -3422,7 +3499,7 @@ function autoResizeFollowUp() {
   display: flex; align-items: center; gap: 0.4rem;
   padding: 0.45rem 1.1rem; background: var(--vp-c-brand-1); color: #fff;
   border: none; border-radius: 6px; font-size: 0.85rem; font-weight: 600;
-  cursor: pointer; transition: background 0.2s, box-shadow 0.2s;
+  cursor: pointer; transition: background 0.2s, box-shadow 0.2s, opacity 0.2s;
 }
 .ask-btn:hover:not(:disabled) { background: var(--vp-c-brand-2); }
 .ask-btn:disabled { opacity: 0.45; cursor: not-allowed; }
@@ -3835,7 +3912,38 @@ function autoResizeFollowUp() {
 .ask-form-field input[type="text"]::placeholder,
 .ask-form-field textarea::placeholder { color: var(--vp-c-text-3); }
 
-.ai-disclaimer-draft {
-  font-size: 0.75rem; color: var(--vp-c-text-3); margin: 0; line-height: 1.5;
+/* ── Ask AI character counter ── */
+/* Sits between the textarea/input and the submit button row.
+   Hidden until the user starts typing (v-if on length > 0).
+   Colour transitions smoothly as the count crosses thresholds. */
+.char-counter {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  margin-top: 0.3rem;
+  transition: color 0.2s;
+  /* Default (zero chars — never rendered, but safe fallback) */
+  color: var(--vp-c-text-3);
 }
+.char-counter--too-short  { color: var(--vp-c-text-3); }   /* grey  */
+.char-counter--good-start { color: #D97706; }               /* amber */
+.char-counter--good       { color: #16A34A; }               /* green */
+.dark .char-counter--good { color: #4ADE80; }               /* green — lighter for dark mode contrast */
+
+.char-counter-sep {
+  opacity: 0.5;
+  font-weight: 400;
+}
+.char-counter-label {
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* ── Ask button opacity ramp ── */
+/* Opacity is driven by an inline :style binding (askBtnOpacity computed) that
+   interpolates linearly from 0.45 at 0 chars to 1.0 at CHAR_THRESHOLD_GOOD (50).
+   No class modifiers needed — the transition: opacity rule on .ask-btn handles
+   the smooth animation as the user types. */
 </style>
