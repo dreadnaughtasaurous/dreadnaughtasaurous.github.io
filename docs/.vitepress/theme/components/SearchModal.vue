@@ -611,8 +611,21 @@
                       <span class="conv-label">You</span>
                       <p class="conv-user-text">{{ turn.content }}</p>
                     </div>
-                    <div v-else-if="turn.role === 'assistant'" class="conv-turn conv-turn--assistant">
-                      <span class="conv-label">EBA Assistant</span>
+                    <div
+                      v-else-if="turn.role === 'assistant'"
+                      class="conv-turn conv-turn--assistant"
+                      :class="{ 'conv-turn--hedging': turn.hedging }"
+                    >
+                      <span class="conv-label">
+                        EBA Assistant
+                        <span v-if="turn.hedging" class="hedging-label" aria-label="This answer contains qualified language — verify carefully">
+                          · Verify carefully
+                        </span>
+                      </span>
+                      <div v-if="turn.hedging" class="hedging-callout" role="note" aria-live="polite">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="hedging-callout-icon"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                        <span>This answer contains qualified language — the AI has identified conditions or exceptions that may affect the outcome. Verify the relevant clause before acting.</span>
+                      </div>
                       <div class="ai-answer-body" v-html="renderMarkdown(turn.content)"></div>
                       <template v-if="idx === conversationHistory.length - 1 && aiSources.length">
                         <div class="ai-sources">
@@ -1295,6 +1308,83 @@ function renderMarkdown(md) {
   }).filter(Boolean).join('\n')
   html = html.replace(/<\/ol>\n<ol>/g, '').replace(/<\/ul>\n<ul>/g, '')
   return html
+}
+
+// ─── AI confidence heuristic ──────────────────────────────────────────────────
+// Runs against the raw markdown string (before HTML rendering) and returns true
+// when the model's answer contains language that signals genuine uncertainty
+// about clause applicability — not just careful professional phrasing.
+//
+// Design intent: conservative. Phrases that also appear in EBA source text
+// (e.g. "generally", "typically", "may be entitled") are deliberately excluded
+// to avoid over-firing. Only phrases that a model uses when hedging its OWN
+// answer are included.
+//
+// Called once per assistant turn in submitAsk() — result stored as turn.hedging
+// so the template can key off it without re-running on every render.
+function detectHedging(md) {
+  if (!md) return false
+  const lower = md.toLowerCase()
+  // Each entry is tested as a simple substring — short phrases are deliberately
+  // chosen to be unambiguous in context. No word-boundary regex needed because
+  // these phrases cannot plausibly appear as part of an EBA clause citation.
+  const HEDGING_PHRASES = [
+    'may vary depending on',
+    'may vary based on',
+    'depends on your',
+    'depend on your',
+    'depending on your',
+    'recommend seeking',
+    'recommend consulting',
+    'seek advice',
+    'seek independent',
+    'seek legal',
+    'consult a lawyer',
+    'consult an employment',
+    'consult your',
+    'cannot confirm',
+    'not certain',
+    'it is unclear',
+    'may not apply',
+    'may differ',
+    'cannot determine',
+    'professional advice',
+    'employment relations advice',
+    'i am not able to',
+    'i cannot',
+    'unable to confirm',
+    'i would recommend verifying',
+    'recommend verifying',
+    'you should verify',
+    'you should check with',
+    'this is not legal advice',
+    // ── Worker retrieval failure templates ────────────────────────────────────
+    // These match the worker's own fixed error strings when it cannot route
+    // a question to a specific EBA or clause. These responses are never
+    // actionable and should always trigger the indicator.
+    'i could not identify',
+    'could not identify which',
+    'could not retrieve',
+    'i was unable to find',
+    'unable to find',
+    'unable to locate',
+    'i couldn\'t find',
+    'no information found',
+    'i don\'t have information',
+    'i do not have information',
+    'not enough information',
+    'please specify',
+    'please include the eba',
+    'try including the eba',
+    'i need more information',
+    'more information is needed',
+    'clarify which eba',
+    'specify which eba',
+    'subject to agreement between',
+    'would need to be agreed',
+    'by mutual agreement'
+  ]
+  return HEDGING_PHRASES.some(phrase => lower.includes(phrase))
 }
 
 // ─── Excerpt cleaner ─────────────────────────────────────────────────────────
@@ -2041,7 +2131,7 @@ async function submitAsk() {
       conversationHistory.value = [
         ...conversationHistory.value,
         { role: 'user',      content: eq },
-        { role: 'assistant', content: rawAnswer },
+        { role: 'assistant', content: rawAnswer, hedging: detectHedging(rawAnswer) },
       ].slice(-(MAX_HISTORY_TURNS * 2))
       aiSources.value = (data.sources ?? []).map(url => {
         const segment = url.split('/').pop().replace('.html', '')
@@ -2135,7 +2225,7 @@ async function submitAsk() {
     conversationHistory.value = [
       ...conversationHistory.value,
       { role: 'user',      content: lastUserDisplay.value },
-      { role: 'assistant', content: rawAnswer },
+      { role: 'assistant', content: rawAnswer, hedging: detectHedging(rawAnswer) },
     ].slice(-(MAX_HISTORY_TURNS * 2))
 
     aiSources.value = (data.sources ?? []).map(url => {
@@ -2834,6 +2924,51 @@ function resetConversation() {
   margin-bottom: 0.35rem;
 }
 .conv-turn--user .conv-label { color: var(--vp-c-brand-1); }
+
+/* ── Confidence indicator: hedging turns ── */
+/* Amber left border signals the entire turn requires closer scrutiny.
+   Uses a warm amber palette (F59E0B / FEF3C7) distinct from danger red
+   and from the brand purple — intentional: this is a caution, not an error. */
+.conv-turn--hedging {
+  border-left: 3px solid #F59E0B;
+  padding-left: calc(1rem - 3px); /* compensate for the added border width */
+}
+
+/* "· Verify carefully" inline suffix on the conv-label line */
+.hedging-label {
+  color: #D97706;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  /* Inherits font-size / text-transform / uppercase from .conv-label */
+}
+
+/* Callout block — amber banner rendered before the answer body */
+.hedging-callout {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.65rem;
+  padding: 0.55rem 0.7rem;
+  background: #FEF3C7;
+  border: 1px solid #FDE68A;
+  border-radius: 6px;
+  font-size: 0.78rem;
+  line-height: 1.55;
+  color: #92400E;
+}
+.dark .hedging-callout {
+  background: oklch(0.32 0.06 75);
+  border-color: oklch(0.45 0.1 75);
+  color: #FDE68A;
+}
+.hedging-callout-icon {
+  flex-shrink: 0;
+  margin-top: 1px;
+  color: #D97706;
+}
+.dark .hedging-callout-icon {
+  color: #FCD34D;
+}
 
 /* The user's question text */
 .conv-user-text {
