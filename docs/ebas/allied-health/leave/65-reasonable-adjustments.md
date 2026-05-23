@@ -18,7 +18,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 **65.2** An Employer is not required to make Reasonable Adjustments if the Employee could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the Reasonable Adjustments are made.
 
 **65.3 Definitions**
-- **(a)** **Disability** has the same meaning as section 4 of the EO Act and includes:
+- **(a)** **Disability** has the same meaning as section 4 of the [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) and includes:
   - **(i)** total or partial loss of a bodily function;
   - **(ii)** presence in the body of organisms that may cause disease;
   - **(iii)** total or partial loss of a part of the body; or

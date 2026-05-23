@@ -29,7 +29,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 - **(d)** A specified Employee may request the Employer for a change in working arrangements because of the circumstances at subclause c.
 - **(e)** Changes in working arrangements may include but are not limited to hours of work, patterns of work and location of work.
 - **(f)** The request by the Employee must be in writing, set out the change sought and reasons for the change (This requirement is subject to any confidentiality requirements that may be relevant to matters involving family violence – see [clause 82](/ebas/mspp/leave/82-family-violence-leave)).
-- **(g)** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the NES.
+- **(g)** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 - **(h)** Where the Employer refuses the request, the written response must include details of the reasons for the refusal.
 - **(i)** Where a request for flexible work arrangements is made, an Employee or Employer is entitled to meet with the other party to discuss:
   - **(i)** the request;

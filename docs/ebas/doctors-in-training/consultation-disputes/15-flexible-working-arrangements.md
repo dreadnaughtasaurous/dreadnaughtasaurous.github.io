@@ -37,7 +37,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **15.6** The request must be in writing, set out details of the change sought and the reasons for the change.
 
-**15.7** The Health Service must give the Doctor a written response to the request within 21 days, stating whether the Health Service grants or refuses the request. A request may only be refused on reasonable business grounds as described in the NES.
+**15.7** The Health Service must give the Doctor a written response to the request within 21 days, stating whether the Health Service grants or refuses the request. A request may only be refused on reasonable business grounds as described in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **15.8** Where the Health Service refuses the request, the written response must include details of the reasons for the refusal.
 

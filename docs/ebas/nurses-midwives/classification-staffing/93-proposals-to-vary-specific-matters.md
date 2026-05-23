@@ -21,7 +21,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   - **(iii)** increase the number of rostered short shifts beyond the limit set by clause 47 (Avoidance and Management of Short Shifts) where the use of short shifts beyond that limit would have an EFT neutral effect.
 - **(b)** Nothing in this clause:
   - **(i)** allows for the unilateral changing of an Employee's contract of employment; or
-  - **(ii)** permits variations inconsistent with the minimum ratio requirements prescribed by or made under the *Safe Patient Care Act*.
+  - **(ii)** permits variations inconsistent with the minimum ratio requirements prescribed by or made under the *[Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011)*.
 
 **93.2 Definitions**
 

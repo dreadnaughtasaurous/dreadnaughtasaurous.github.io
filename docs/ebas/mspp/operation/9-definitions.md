@@ -15,7 +15,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 In this Agreement:
 
-- **(a)** **Act** means the Fair Work Act 2009 (Cth).
+- **(a)** **Act** means the [Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text).
 - **(b)** **ADO** means Accrued Day Off.
 - **(c)** **Agreement** means the Medical Scientists, Pharmacists and Psychologists Victorian Public Sector (Single Interest Employers) Enterprise Agreement 2021-2025.
 - **(d)** **Audiologist** if graduated prior to May 1999, is a university graduate who has completed a graduate diploma in audiology approved by the Audiological Society of Australia, or if graduated in May 1999 or thereafter, is a university graduate who has completed a masters degree in audiology approved by the Society, and who is eligible for membership of the Audiological Society of Australia.
@@ -28,13 +28,13 @@ In this Agreement:
 - **(k)** **FFPPOA** means the beginning of the first full pay period commencing on or after a particular date.
 - **(l)** **FWC** means the Fair Work Commission.
 - **(m)** **Genetic Counsellor** is defined in [Schedule 3](/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc).
-- **(n)** **HSR** means a health and safety representative (including a deputy health and safety representative) elected under the OHS Act.
+- **(n)** **HSR** means a health and safety representative (including a deputy health and safety representative) elected under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 - **(o)** **Higher Qualifications Allowances** shall mean allowances prescribed by salary for all purposes of this Agreement.
 - **(p)** **Medical Physicist** means a person who is eligible for membership of the Australian College of Physical Scientists and Engineers in Medicine as a medical physicist.
-- **(q)** **NES** means the National Employment Standards, as set out in the Act.
+- **(q)** **[NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)** means the National Employment Standards, as set out in the Act.
 - **(r)** **OHS Act** means the Occupational and Health Safety Act 2004 (Vic).
 - **(s)** **PBA** means Psychology Board of Australia.
-- **(t)** **Pharmacist** means a person registered as such under the Health Practitioner Regulation National Law Act and any successor legislation and whose name appears on the register of the Pharmacy Board of Australia.
+- **(t)** **Pharmacist** means a person registered as such under the [Health Practitioner Regulation National Law Act](https://www.legislation.vic.gov.au/in-force/acts/health-practitioner-regulation-national-law-victoria-act-2009/006) and any successor legislation and whose name appears on the register of the Pharmacy Board of Australia.
 - **(u)** **Student Pharmacist** means a person undertaking the course of Bachelor of Pharmacy at the Victorian College of Pharmacy, Monash University or an equivalent Pharmacy course recognised by the Pharmacy Board of Victoria, and who has not completed the Pharmacy III examinations.
 - **(v)** **Pharmacist Intern** means a person who has completed the course of Bachelor of Pharmacy at the Victorian College of Pharmacy, Monash University, or an equivalent Pharmacy course recognised by the Pharmacy Board of Victoria, and who is undergoing the practical training prescribed by the Pharmacy Board, prior to registration as a Pharmacist.
 - **(w)** **Trainee Pharmacist** means Pharmacist Intern.

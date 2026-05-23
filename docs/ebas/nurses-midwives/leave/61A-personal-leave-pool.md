@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **61A.1** The Employer may establish a personal leave pool whereby eligible Employees have access, in defined situations, to additional paid personal leave hours that has been voluntarily donated to the pool by other Employees.
 
-**61A.2** Where this occurs, the Employer will publish criteria that defines the circumstances under which an Employer can (subject to the NES):
+**61A.2** Where this occurs, the Employer will publish criteria that defines the circumstances under which an Employer can (subject to the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)):
 
 - **(a)** Donate accrued personal leave,
 - **(b)** Access personal leave from the personal leave pool.

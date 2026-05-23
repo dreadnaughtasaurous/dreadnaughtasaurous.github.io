@@ -54,7 +54,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **87.4 Facilities for HSRs**
 
-- **(a)** HSRs will be provided with reasonable access to an office, telephone, computer (including email facilities where available), notice board, meeting room, and such other facilities as are necessary to enable them to perform their functions or duties as prescribed under the OHS Act.
+- **(a)** HSRs will be provided with reasonable access to an office, telephone, computer (including email facilities where available), notice board, meeting room, and such other facilities as are necessary to enable them to perform their functions or duties as prescribed under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 - **(b)** HSRs will have reasonable time release from duty to perform their functions and duties as is necessary or prescribed under the OHS Act.
 - **(c)** A Health and Safety Committee will be established where requested by a HSR.
 

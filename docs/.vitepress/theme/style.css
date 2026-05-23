@@ -728,9 +728,14 @@
   order: 98;
 }
 
-/* Pull our panel before the changelog */
+/* Pull our panels before the changelog.
+related-clauses-panel: order 2 (rendered first)
+legislation-panel:     order 3 (rendered below related clauses)        */
 .vp-doc > div > .related-clauses-panel {
-  order: 2;
+order: 2;
+}
+.vp-doc > div > .legislation-panel {
+order: 3;
 }
 /* ============================================================
    Accessibility Controls — Font Size Scaling
@@ -800,9 +805,10 @@
   display: none !important;
 }
 
-/* Hide the Related Clauses panel */
-[data-reading-mode] .related-clauses-panel {
-  display: none !important;
+/* Hide the Related Clauses panel and Legislation panel */
+[data-reading-mode] .related-clauses-panel,
+[data-reading-mode] .legislation-panel {
+display: none !important;
 }
 
 /* Hide the git changelog container */
@@ -1072,6 +1078,7 @@ html {
   .VPLocalNav,
   .doc-toolbar,
   .related-clauses-panel,
+.legislation-panel,
   .vp-doc > div > [class*="vp-nolebase-git-changelog"],
   .vp-doc > div:has(> [class*="vp-nolebase-git-changelog"]) > h2:last-of-type,
   .search-modal-overlay,

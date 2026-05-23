@@ -22,7 +22,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 **99.4 Central Building Consultative Committee**
 
 > **Note:**
-> Nothing in this clause 99.4 limits the Employer’s obligations to consult with HSRs under the OHS Act
+> Nothing in this clause 99.4 limits the Employer’s obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045)
 
 - **(a)** Where an employer is proposing to undertake construction of a new or significantly changed work area or areas, including construction of a new facility, the employer will establish a central building consultative committee for the purpose of consulting with HSRs and the Unions.
 - **(b)** The Employer will notify the unions in writing, and invite the unions to nominate representatives to participate in the central building consultative committee (**CBCC**). The Employer will make available to the CBCC the information to enable the CBCC to fulfil the intention of this provision.

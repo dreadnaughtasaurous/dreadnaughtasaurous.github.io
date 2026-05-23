@@ -53,7 +53,7 @@ Family violence includes physical, sexual, financial, verbal or emotional abuse 
 
 - **(b)** An Employee who supports a person experiencing family violence may utilise their personal/carer’s leave entitlement to accompany them to court, to hospital, or to care for children. The Employer may require evidence consistent with clause 82.4a from an Employee seeking to utilise their personal/carer’s leave entitlement.
 
-- **(c)** Employees who are not eligible for leave under this clause 82 may be entitled to unpaid family and domestic violence in accordance with the NES.
+- **(c)** Employees who are not eligible for leave under this clause 82 may be entitled to unpaid family and domestic violence in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **82.6 Individual Support**
 

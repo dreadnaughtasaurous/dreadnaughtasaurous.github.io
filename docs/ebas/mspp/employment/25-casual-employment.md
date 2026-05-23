@@ -49,7 +49,7 @@ An Employer may employ casual Employees in any classification in this Agreement 
 
 - **(a)** A Locum is a Pharmacist who is a temporary Employee engaged in work of a casual nature or to relieve any full-time or part-time Employees during their absences from work, and whose engagement is terminable by an Employer in accordance with the Employer’s requirements without the prior notice of either party.
 - **(b)** A Locum Employee shall be paid per hour worked an amount equal to 1/38th of the weekly wage prescribed for the class of work done with the addition of 25% provided that the provisions of [clauses 55](/ebas/mspp/hours-of-work/55-hours-of-work)-Hours of Work, 56-Shift Work and 59-Overtime - including Saturday and Sunday work, shall apply to Locum Employees.
-- **(c)** Locum Employees shall not be entitled to the provisions of clauses in this Agreement relation to Personal/carers leave, Termination of Employment, Annual Leave, Jury Service, or Examination Leave. Any NES entitlements continue to apply.
+- **(c)** Locum Employees shall not be entitled to the provisions of clauses in this Agreement relation to Personal/carers leave, Termination of Employment, Annual Leave, Jury Service, or Examination Leave. Any [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) entitlements continue to apply.
 
 ---
 

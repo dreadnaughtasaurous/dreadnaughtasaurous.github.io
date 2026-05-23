@@ -20,4 +20,4 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **90.2** Clause 90.1 is subject to the Employer also informing each union of its intention to introduce an enterprise system of make-up time flexibility, and providing a reasonable opportunity for the union(s) to participate in negotiations.
 
-**90.3** Once a decision has been taken to introduce an enterprise system of make-up time, in accordance with this clause, its terms must be set out in the time and wages records kept pursuant to Fair Work Regulations 2009 (Cth).
+**90.3** Once a decision has been taken to introduce an enterprise system of make-up time, in accordance with this clause, its terms must be set out in the time and wages records kept pursuant to [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text).

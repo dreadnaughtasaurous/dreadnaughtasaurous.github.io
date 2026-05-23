@@ -34,7 +34,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 - **(a)** HSRs will be entitled and encouraged to attend a WorkSafe Victoria approved course as soon as practicable following their election.
 - **(b)** The Employer will permit HSRs to take such time as is necessary or prescribed to attend OHS training courses approved by WorkSafe Victoria.
-- **(c)** HSRs will have the right to choose which course to attend, provided it is a WorkSafe Victoria approved course. Where the Employer does not agree with the selected course the matter will be referred to a Worksafe Inspector in accordance with the OHS Act.
+- **(c)** HSRs will have the right to choose which course to attend, provided it is a WorkSafe Victoria approved course. Where the Employer does not agree with the selected course the matter will be referred to a Worksafe Inspector in accordance with the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 - **(d)** When attending an approved course, HSRs will be paid as per their roster, that is the normal/expected earnings during course attendance, including pay entitlements relating to shift work, regular overtime, higher duties, allowances or penalty rates that would have applied had the HSR been at work.
 - **(e)** Where HSRs attend an approved course outside their normal working hours or roster, they will be paid as if they had been at work for the relevant time, including any relevant overtime rates, higher rates, allowances or penalty rates. This might apply when a
 - **(f)** HSR:

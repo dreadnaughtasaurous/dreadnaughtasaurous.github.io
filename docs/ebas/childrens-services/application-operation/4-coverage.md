@@ -22,7 +22,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 **4.2** The award does not cover an employee excluded from award coverage by the Act.
 
-**4.3** The award does not cover employees who are covered by a modern enterprise award, or an enterprise instrument (within the meaning of the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)), or employers in relation to those employees.
+**4.3** The award does not cover employees who are covered by a modern enterprise award, or an enterprise instrument (within the meaning of the [Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00055/latest/text)), or employers in relation to those employees.
 
 **4.4** The award does not cover employees who are covered by a State reference public sector modern award, or a State reference public sector transitional award (within the meaning of the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)), or employers in relation to those employees.
 

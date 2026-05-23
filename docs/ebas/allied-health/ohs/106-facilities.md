@@ -15,7 +15,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **106.1** The Employer acknowledges that:
 
-- **(a)** the OHS Act requires Employers to provide a work environment that is safe and without risk to Employees’ health, so far as reasonably practicable, and
+- **(a)** the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) requires Employers to provide a work environment that is safe and without risk to Employees’ health, so far as reasonably practicable, and
 - **(b)** they are required by the OHS Act law to consult with affected Employees and HSRs, so far as reasonably practicable, when making decisions about the adequacy of facilities for the welfare of employees.
 
 **106.2** The Employer must provide and continue to provide adequate facilities for the welfare of Employees at any workplace under the Employer’s management and control, subject to subclause 106.4 below. Such facilities include a room for the taking of meal breaks and rest breaks, staff only toilets, change rooms / shower, and secure personal storage.

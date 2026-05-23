@@ -25,7 +25,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >**NOTE:** 
 >
->A transitional pay equity order taken to have been made pursuant to item 30A of Schedule 3A to the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth) has effect in accordance with that item. A relevant transitional pay equity order operates in Queensland as provided for in items 30A(6) and (7).
+>A transitional pay equity order taken to have been made pursuant to item 30A of Schedule 3A to the [Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00055/latest/text) has effect in accordance with that item. A relevant transitional pay equity order operates in Queensland as provided for in items 30A(6) and (7).
 
 **14.1 Children’s Services Employees (CSE)**
 

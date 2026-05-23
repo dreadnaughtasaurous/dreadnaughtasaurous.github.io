@@ -23,6 +23,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **211.4** For the purposes of this clause, “in any one year” shall mean the completion of the pay period after 14 November 1995.
 
-**211.5** An Employee may only convert personal leave under this clause if, and to the extent that, the Employee’s accrued personal leave exceeds the minimum personal leave which has accrued under, or is recognised under, the National Employment Standards (NES). The Employee’s remaining accrued entitlements (after conversion) must be at least 15 days.
+**211.5** An Employee may only convert personal leave under this clause if, and to the extent that, the Employee’s accrued personal leave exceeds the minimum personal leave which has accrued under, or is recognised under, the National Employment Standards ([NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)). The Employee’s remaining accrued entitlements (after conversion) must be at least 15 days.
 
 Plain language terms: holidays, vacation, recreation leave, holiday pay.

@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **105.1** The provisions in clauses 105.3 to 105.6 (inclusive) below will commence operation if either of the following conditions are met:
 
-- **(a)** the Safe Patient Care Act is repealed or otherwise ceases to operate as a law of the State of Victoria; or
+- **(a)** the [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011) is repealed or otherwise ceases to operate as a law of the State of Victoria; or
 - **(b)** a Care/Ratio Detriment Notice comes into effect pursuant to subclause 105.2(e) below.
 
 In this clause 105, **Incorporation Date** means the date on which either of the conditions in subclauses 105.1(a) or (b) are met.

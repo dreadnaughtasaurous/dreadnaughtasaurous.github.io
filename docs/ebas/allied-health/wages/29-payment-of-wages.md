@@ -26,7 +26,7 @@ Wages will be paid by electronic funds transfer into the bank or financial insti
 
 **(a) Payslip**
 - **(i)** On or prior to pay day, the Employer will provide each Employee with a pay slip.
-- **(ii)** The payslip will include the information required by the Act and Fair Work Regulations 2009, including but not limited to specifying:
+- **(ii)** The payslip will include the information required by the Act and [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text), including but not limited to specifying:
   - **A.** the period to which the pay slip relates;
   - **B.** the amount of wages to which the Employee is entitled;
   - **C.** if an amount was deducted from the gross amount of the payment, the name and number of the fund or account into which the deduction was paid; and

@@ -17,7 +17,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **58.1** For the purposes of this clause 58 Weekend Worker means any Employee who in any one (1) year of employment works a portion of their ordinary hours on a weekend.
 
-**58.2 Entitlement to be absent from employment on a public holiday under the NES**
+**58.2 Entitlement to be absent from employment on a public holiday under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)**
 
 **(a) Employee entitled to be absent on public holiday** 
 

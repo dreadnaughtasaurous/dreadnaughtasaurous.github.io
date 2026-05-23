@@ -23,7 +23,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 | 4 | Definitions |
 | 5 | Incidence & Coverage |
 | 6 | Commencement Date and Period of Operation |
-| 7 | Relationship to Previous Industrial Instruments and the NES |
+| 7 | Relationship to Previous Industrial Instruments and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) |
 | 8 | Copy of Agreement |
 | 9 | No Extra Claims |
 | 10 | Anti-Discrimination |

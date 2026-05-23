@@ -15,7 +15,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **45.1 Entitlement to Workers Compensation Make-up Pay**
 
-- **(a)** A Doctor on receiving payment of weekly compensation under the WIRC Act is entitled to Workers Compensation Make-up Pay for up to a maximum aggregate period of 39 weeks for any one injury or illness.
+- **(a)** A Doctor on receiving payment of weekly compensation under the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) is entitled to Workers Compensation Make-up Pay for up to a maximum aggregate period of 39 weeks for any one injury or illness.
 - **(b)** No weekly payments of Workers Compensation Make-up Pay apply:
   - **(i)** within the first two weeks of new employment;
   - **(ii)** during the first five working days of incapacity;

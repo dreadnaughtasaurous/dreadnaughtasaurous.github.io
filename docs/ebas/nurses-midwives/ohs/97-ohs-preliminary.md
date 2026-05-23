@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **97.1 Relationship to legislation**
 
-The provisions of this Part K of the Agreement will be read and interpreted in conjunction with the OHS Act, EO Act and WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to above, the legislation prevails to the extent of any inconsistency.
+The provisions of this Part K of the Agreement will be read and interpreted in conjunction with the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045), [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) and [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) and successors, provided where there is any inconsistency between this Agreement and the legislation referred to above, the legislation prevails to the extent of any inconsistency.
 
 **97.2 Arrangement of this Part K**
 

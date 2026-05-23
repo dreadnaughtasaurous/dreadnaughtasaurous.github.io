@@ -19,7 +19,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 - **b.** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (including but not limited to a request for flexible working arrangements) or
   - **(ii)** a request for an additional 12 months parental leave;
-  - **(iii)** the NES.
+  - **(iii)** the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 - **c.** A party to the dispute may choose to be represented at any stage by a representative including a Union or employer organisation. A representative, including a Union or employer organisation on behalf of an Employer, may initiate a dispute.
 
 ---

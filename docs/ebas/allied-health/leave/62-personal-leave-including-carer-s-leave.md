@@ -120,7 +120,7 @@ If the period during which an Employee takes paid personal leave includes a day 
 
 **(b)** Where an Employee is or has been in the service of:
 
-- **(i)** any hospital, health service, benevolent home, community health centre, Society or Association registered under the Health Services Act 1988 (Vic) (or the former Hospitals and Charities Act 1958 (Vic)) or any successor legislation; or
+- **(i)** any hospital, health service, benevolent home, community health centre, Society or Association registered under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) (or the former Hospitals and Charities Act 1958 (Vic)) or any successor legislation; or
 - **(ii)** the Cancer Institute (constituted under the Cancer Act 1958 (Vic));  
 
 and commences employment with an (or another) Employer before the end of the allowable period of absence, the Employer will credit the Employee’s accumulated personal leave from the previous employer to the Employee in their new employment provided that the Employee complies with the requirements of subclause 62.7(c).

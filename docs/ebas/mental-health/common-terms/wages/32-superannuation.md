@@ -20,7 +20,7 @@ The subject of superannuation is dealt with extensively by federal legislation w
 **32.1 Definitions** In this clause
 
 - **(a) default fund** means the applicable fund set out in clauses 32.3(c) and 32.3(d) while it has a My Super Product as defined by the Act; or
-- **(b)** a **preferred superannuation fund** means a fund that meets the definition of a superannuation fund in the Superannuation Guarantee (Administration) Act 1992 (Cth).
+- **(b)** a **preferred superannuation fund** means a fund that meets the definition of a superannuation fund in the [Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text).
 
 **32.2 Existing Employees** Employees will have the choice to nominate that the Employer contributions and their own contributions are made to the Employee’s preferred superannuation fund (as defined above). Where an Employee was employed prior to the commencement of this Agreement, the Employer will continue to make superannuation contributions to the Employee's current superannuation fund. An Employee may elect to have the Employee's contributions made to the Employee's preferred superannuation fund.
 

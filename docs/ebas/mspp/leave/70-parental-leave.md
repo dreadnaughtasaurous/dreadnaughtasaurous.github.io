@@ -15,7 +15,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 70. Parental Leave
 
-*The NES contains applicable terms regarding parental leave including terms regarding Stillborn children and Hospitalised children.*
+*The [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) contains applicable terms regarding parental leave including terms regarding Stillborn children and Hospitalised children.*
 
 **70.1 Application of this clause**
 

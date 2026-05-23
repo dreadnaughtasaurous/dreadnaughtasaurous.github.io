@@ -30,7 +30,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 **14.4** The request must be in writing, set out details of the change sought and the reasons for the change.
 
-**14.5** The Health Service must give the Doctor a written response to the request within 21 days, stating whether the Health Service grants or refuses the request. A request may only be refused on reasonable business grounds as described in the NES.
+**14.5** The Health Service must give the Doctor a written response to the request within 21 days, stating whether the Health Service grants or refuses the request. A request may only be refused on reasonable business grounds as described in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **14.6** Where the Health Service refuses the request, the written response must include details of the reasons for the refusal.
 

@@ -23,6 +23,6 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **11.5** The Schedules to this Agreement form part of this Agreement and are to be read in conjunction with it.
 
-**11.6** For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to an Employee.
+**11.6** For the avoidance of doubt, the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) prevails to the extent that any aspect of this Agreement would otherwise be detrimental to an Employee.
 
 **11.7** Where clauses in this Agreement have been rewritten and/or relocated and there is a dispute about an entitlement under this Agreement, including the intent or meaning, in interpreting those clauses regard shall be given to all the antecedent relevant documents and decisions arising from them. However, the parties do not intend to incorporate into this Agreement any such documents and decisions.

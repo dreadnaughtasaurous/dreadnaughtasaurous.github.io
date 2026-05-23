@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **63A.1 Purpose**
 
-The purpose of this clause is to reflect the obligations of the **EO Act** (Equal Opportunity Act) with respect to reasonable adjustments for Employees with a disability. The obligations apply regardless of whether the disability is or has been the subject of a WorkCover claim.
+The purpose of this clause is to reflect the obligations of the **[EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032)** (Equal Opportunity Act) with respect to reasonable adjustments for Employees with a disability. The obligations apply regardless of whether the disability is or has been the subject of a WorkCover claim.
 
 **63A.2 Definitions**
 

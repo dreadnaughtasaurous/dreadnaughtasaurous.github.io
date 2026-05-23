@@ -15,15 +15,15 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 
 
-**4.1** **Act** means the Fair Work Act 2009 (Cth), or its successor.
+**4.1** **Act** means the [Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text), or its successor.
 
 **4.2** **ADO** means accrued day off.
 
-**4.3** **Adoption** or **Adopt** for the purposes of this Agreement and the NES includes the placement of a child with an Eligible Employee (as defined in [subclause 70.2(d)](/ebas/allied-health/leave/70-parental-leave)) prior to the relevant government department (currently the Department of Families, Fairness and Housing) seeking a permanent care order for the child.
+**4.3** **Adoption** or **Adopt** for the purposes of this Agreement and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) includes the placement of a child with an Eligible Employee (as defined in [subclause 70.2(d)](/ebas/allied-health/leave/70-parental-leave)) prior to the relevant government department (currently the Department of Families, Fairness and Housing) seeking a permanent care order for the child.
 
 **4.4** **Agreement** means the Allied Health Professionals (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2026.
 
-**4.5** **Award** means the Health Professionals and Support Services Award 2020.
+**4.5** **Award** means the [Health Professionals and Support Services Award 2020](https://awards.fairwork.gov.au/MA000027.html).
 
 **4.6** **BPECC** means the Best Practice Employment Commitment Committee established under [clause 84](/ebas/allied-health/union-matters/84-best-practice-employment-commitment-committee-and).
 
@@ -37,7 +37,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **4.11** **Employer** means each organisation listed in [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers) of this Agreement.
 
-**4.12** **EO Act** means the Equal Opportunity Act 2010 (Vic).
+**4.12** **EO Act** means the [Equal Opportunity Act 2010 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032).
 
 **4.13** **Experience** is as defined at [subclause 85.12(a)](/ebas/allied-health/classification-staffing/85-classifications-definitions-and-wages).
 
@@ -55,9 +55,9 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **4.18** **National Employment Standards** or **NES** means Part 2-2 of the Act as amended from time to time.
 
-**4.19** **OHS Act** means the Occupational Health and Safety Act 2004 (Vic), or its successor.
+**4.19** **OHS Act** means the [Occupational Health and Safety Act 2004 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045), or its successor.
 
-**4.20** **Registered Health Practitioner** means an individual who is registered under the Health Practitioner Regulation National Law (as adopted in the applicable State or Territory) to practise a health profession, other than as a student.
+**4.20** **Registered Health Practitioner** means an individual who is registered under the [Health Practitioner Regulation National Law](https://www.legislation.vic.gov.au/in-force/acts/health-practitioner-regulation-national-law-victoria-act-2009/006) to practise a health profession, other than as a student.
 
 **4.21** **Spouse** includes a person to whom an Employee is married, a de facto partner, former spouse or former de facto spouse of the Employee. A de facto Spouse means a person who lives with the Employee as husband, wife or same-sex partner on a bona fide domestic basis.
 
@@ -73,7 +73,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **4.25** **WIC** means Workplace Implementation Committee established under [subclause 83.2](/ebas/allied-health/union-matters/83-union-matters).
 
-**4.26** **WIRC Act** means the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or if applicable in the particular situation the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic).
+**4.26** **WIRC Act** means the [Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053), or if applicable in the particular situation the [Accident Compensation Act 1985 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/accident-compensation-act-1985/236) or the [Workers Compensation Act 1958 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workers-compensation-act-1958/161).
 
 **4.27** **2011 Agreement** means the Victorian Public Health Sector (Health Professionals, Health and Allied Services, Managers and Administrative Officers) Multiple Enterprise Agreement 2011 – 2015.
 

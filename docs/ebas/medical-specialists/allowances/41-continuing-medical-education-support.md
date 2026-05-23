@@ -23,7 +23,7 @@ specialist consultant specialist doctor VMO visiting officer staff specialist sa
 
 - **(d)** The entitlement to funding support for Internal Locum Doctors is pro rata of full-time, based on the Doctor’s average weekly hours of work, calculated over a financial year quarter, and notified to the Doctor in writing.
 
-- **(e)** Where a Doctor holds more than one Fractional or Internal Locum appointment with a Health Service listed in Schedules 1 – 5 of the Health Services Act, the total benefit available to the Doctor each year will not exceed the full-time rates contained in subclause 41.1(a) and Table 2.1 of
+- **(e)** Where a Doctor holds more than one Fractional or Internal Locum appointment with a Health Service listed in Schedules 1 – 5 of the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188), the total benefit available to the Doctor each year will not exceed the full-time rates contained in subclause 41.1(a) and Table 2.1 of
 
 - **(f)** Subject to subclauses 41.2 and 41.3 below, funds will be paid to the Doctor as a reimbursement of costs reasonably incurred for CME activities or purposes directly relevant to the Doctor’s employment with the Health Service.
 

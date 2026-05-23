@@ -30,7 +30,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 - **(c)** subject to subclause 105.4. and 105.5, an appropriate hazard / risk control is implemented; and
 - **(d)** the control measures are evaluated and reviewed.
 
-**105.4** The objective of the process described at subclause 105.3 is to identify a hazard / risk control measure the Employee agrees addresses their safety concern. An Employee is entitled to dispute whether the hazard / risk control measure in subclause 105.3(c) addresses their safety concerns and is appropriate in accordance with the OHS Act.
+**105.4** The objective of the process described at subclause 105.3 is to identify a hazard / risk control measure the Employee agrees addresses their safety concern. An Employee is entitled to dispute whether the hazard / risk control measure in subclause 105.3(c) addresses their safety concerns and is appropriate in accordance with the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 **105.5** At any time, if a safety issue involves an immediate threat to the Employee’s health or safety an Employer or Employee may, after consultation, direct that work cease in accordance with the OHS Act, save that, consistent with an Employee’s common law right, an Employee has the right to:
 

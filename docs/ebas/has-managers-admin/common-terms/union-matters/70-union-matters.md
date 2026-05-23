@@ -35,7 +35,7 @@ The Employer will ensure that:
 - **(d)** Those covered by this Agreement acknowledge the increasing role that technology plays in orientation / induction. Where an Employer conducts online orientation/induction, the Employer shall provide to the HWU alternative means by which the HWU can access new Employees, provided that such access is consistent with this subclause 70.3.
 
 **70.4 Delegates and HSRs**
-> **Note:** Additional rights of HSRs are contained in the OHS Act.
+> **Note:** Additional rights of HSRs are contained in the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 - **(a)** In this subclause 70.4(a) Representative means a HWU Delegate, or HSR.
 - **(b)** A Representative is entitled to reasonable time release from duty to:

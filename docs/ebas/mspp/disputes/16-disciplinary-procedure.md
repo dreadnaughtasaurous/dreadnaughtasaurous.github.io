@@ -44,7 +44,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
     - **(C)** assault; or 
     - **(D)** sexual harassment;
   - **(ii)** the Employee being intoxicated at work;
-  - **(iii)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment, save for exemptions under the OHS Act and the Act.
+  - **(iii)** the Employee refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment, save for exemptions under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) and the Act.
 - **(g)** [Subclauses 16.2](/ebas/mspp/schedules/16-shpa-ratios-pharmacist-staffing-levels)f(i)-16.2f(iii) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conduct that made employment in the period of notice unreasonable.
 
 ---

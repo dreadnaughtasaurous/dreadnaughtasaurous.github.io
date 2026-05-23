@@ -17,7 +17,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >[Varied by PR582984, PR751244]
 
-**24.1** Annual leave is provided for in the NES.
+**24.1** Annual leave is provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **24.2** For the purposes of the additional week of leave provided by the NES, a shiftworker is an employee on shiftwork who is required to work in accordance with a roster on Sundays and public holidays.
 

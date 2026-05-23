@@ -30,7 +30,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 | 3 | Definitions | 3 |
 | 4 | Coverage | 6 |
 | 5 | Date and Period of Operation | 6 |
-| 6 | Application and Relationship to the NES | 7 |
+| 6 | Application and Relationship to the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) | 7 |
 | 7 | Saving of Local Agreements | 7 |
 | 8 | No Extra Claims | 8 |
 

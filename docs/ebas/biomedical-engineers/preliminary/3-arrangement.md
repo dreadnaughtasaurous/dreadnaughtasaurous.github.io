@@ -24,7 +24,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 | 5 | Coverage | 9 |
 | 6 | Commencement Date and Period of Operation | 9 |
 | 7 | No Extra Claims | 10 |
-| 8 | Relationship to Previous Industrial Instruments and the NES | 10 |
+| 8 | Relationship to Previous Industrial Instruments and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) | 10 |
 | 9 | Copy of Agreement | 10 |
 | 10 | Anti-Discrimination | 10 |
 | 11 | Individual Flexibility Arrangements | 11 |

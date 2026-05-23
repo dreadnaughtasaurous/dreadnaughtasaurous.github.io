@@ -21,7 +21,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **38A.1. Amount of Paid Personal Leave**
 
 - **(a)** A full time Employee is entitled to the following amount of paid personal leave:
-  - **(i)** 91 hours and 12 minutes or as provided by the NES (whichever is the greater) in the first year of service
+  - **(i)** 91 hours and 12 minutes or as provided by the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) (whichever is the greater) in the first year of service
   - **(ii)** 106 hours and 24 minutes or as provided by the NES (whichever is the greater) in each year in the second, third and fourth years of service
   - **(iii)** 159 hours and 36 minutes in the fifth and following years of service.
 - **(b)** A part time Employee accrues leave on a pro rata basis.

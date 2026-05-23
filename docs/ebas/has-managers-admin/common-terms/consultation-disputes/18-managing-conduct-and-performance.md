@@ -98,7 +98,7 @@ A dispute over the clause (including subclause 18.7) is to be dealt with in acco
 **18.8 Equal Opportunity when managing conduct and performance of people with disabilities**
 - **(a)** Where an Employee has a Disability, the Employer is required to:
   - **(i)** make reasonable adjustments to enable the employee to participate in processes to manage conduct and performance in accordance with this Clause 18; and
-  - **(ii)** consider the Employer’s obligations under the *Equal Opportunity Act 2010* in making a determination under this clause 18.
+  - **(ii)** consider the Employer’s obligations under the *[Equal Opportunity Act 2010 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032)* in making a determination under this clause 18.
 - **(b)** An Employer is not required to make reasonable adjustments if the Employee could not or cannot adequately participate in the processes to manage conduct and performance in accordance with this Clause 18 even after the adjustments are made.
 - **(c)** Disability has the same meaning as section 4 of the Equal Opportunity Act 2010.
 

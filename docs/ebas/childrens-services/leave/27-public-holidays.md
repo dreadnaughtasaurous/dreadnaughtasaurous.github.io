@@ -17,7 +17,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >[Varied by PR712288, PR747480]
 
-**27.1** Public holidays are provided for in the NES.
+**27.1** Public holidays are provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **27.2** An employer and employee may agree to substitute another day for a day that would otherwise be a public holiday under the NES.
 

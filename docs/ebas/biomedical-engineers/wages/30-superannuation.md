@@ -22,8 +22,8 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 In this clause:
 
 - **(a)** **Default Fund** means the Aware Super superannuation fund (or its successor) while it provides a “MySuper product” as defined by the Act.
-- **(b)** **Preferred Superannuation Fund** means a fund that meets the definition of a superannuation fund in the Superannuation Guarantee (Administration) Act 1992 (Cth).
-- **(c)** **Industry Superannuation Fund** means a complying superannuation fund, as defined in the Superannuation Industry (Supervision) Act 1993, that:
+- **(b)** **Preferred Superannuation Fund** means a fund that meets the definition of a superannuation fund in the [Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text).
+- **(c)** **Industry Superannuation Fund** means a complying superannuation fund, as defined in the [Superannuation Industry (Supervision) Act 1993 (Cth)](https://www.legislation.gov.au/C2004A04633/2017-03-01/text), that:
   - **(i)** has twenty or more participating employers;
   - **(ii)** excluding any independent directors, provides for half of the trustee board to be comprised of employee representatives and/or nominated by one or more trade unions and half of the trustee board to be comprised of representatives of participating employers; and
   - **(iii)** operates on a “not for profit” basis.

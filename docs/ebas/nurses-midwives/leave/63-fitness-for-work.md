@@ -60,7 +60,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   - **(i)** supplement the material to be provided to the IME; and/or
   - **(ii)** meet with the Employer to consult about the material the Employer proposes to provide the IME. The Employee's representative may attend the meeting.
 - **(f) Relationship to WIRC**
-  - **(i)** This sub-clause 63.4 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim will be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+  - **(i)** This sub-clause 63.4 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim will be managed in accordance with the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) including the Employer's obligation to provide a safe work environment.
 - **(g) Relationship to Personal Leave**
 
   The processes in this clause 63 do not apply to a period of personal leave under clause 61 of this Agreement.

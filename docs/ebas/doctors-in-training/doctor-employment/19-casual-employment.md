@@ -27,7 +27,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 - **(a)** unpaid carer's leave for carer’s responsibilities ([subclause 61.10](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave));
 - **(b)** unpaid family violence leave ([clause 71](/ebas/doctors-in-training/leave/71-family-violence-leave));
-- **(c)** unpaid compassionate leave in accordance with the NES;
+- **(c)** unpaid compassionate leave in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources);
 - **(d)** unpaid pre-adoption leave ([clause 66](/ebas/doctors-in-training/leave/66-pre-adoption-leave));
 - **(e)** parental leave ([clause 67](/ebas/doctors-in-training/leave/67-parental-leave)) (subject to the eligibility requirements of that clause);
 - **(f)** applicable penalty payments for work performed on a public holiday ([clause 63](/ebas/doctors-in-training/leave/63-public-holidays));

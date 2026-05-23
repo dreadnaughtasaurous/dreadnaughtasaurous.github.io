@@ -23,7 +23,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **56.3 Definitions**
 
-- **(a)** In this Agreement, ‘**Family Violence**’ has the same meaning as the Family Violence Protection Act 2008 (Vic) (**Family Violence Act**) and also has the same meaning as ‘Family and Domestic Violence’ in the NES.
+- **(a)** In this Agreement, ‘**Family Violence**’ has the same meaning as the Family Violence Protection Act 2008 (Vic) (**Family Violence Act**) and also has the same meaning as ‘Family and Domestic Violence’ in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
   - **(i)** Under the Family Violence Act, ‘Family Violence’ is defined, in part, as:
     - **(A)** behaviour by a person towards a family member of that person if the behaviour is:
       - (1) physically or sexually abusive; or

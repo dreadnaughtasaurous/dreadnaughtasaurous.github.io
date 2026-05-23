@@ -13,4 +13,4 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 8. Copy of Agreement
 
-Each Employer must make readily available to all Employees a copy of this Agreement and the NES.
+Each Employer must make readily available to all Employees a copy of this Agreement and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).

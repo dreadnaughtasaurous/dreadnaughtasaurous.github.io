@@ -17,7 +17,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **41.2 Safe Workload**
 
-- **(a)** The Health Service is obliged by the OHS Act to provide a safe workplace. This includes ensuring that workloads are not unreasonable (including from unrostered overtime). It is recognised that managing workload is necessary to ensure a safe work environment and to ensure that the operational requirements of the Health Service are met.
+- **(a)** The Health Service is obliged by the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) to provide a safe workplace. This includes ensuring that workloads are not unreasonable (including from unrostered overtime). It is recognised that managing workload is necessary to ensure a safe work environment and to ensure that the operational requirements of the Health Service are met.
 - **(b)** Where a Doctor believes that a Health Service requires the Doctor to perform work in a manner that is unsafe (including from unrostered overtime), the Doctor may first discuss the matter with the Health Service to resolve the issues. If no resolution can be found, the Doctor may utilise the Dispute Resolution Procedure set out in [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) of this Agreement.
 - **(c)** Nothing in this clause restricts the Association from assisting a Doctor during discussions with the Health Service for the purpose of this clause or utilising the Dispute Resolution Procedure set out in [clause 12](/ebas/doctors-in-training/consultation-disputes/12-dispute-resolution-procedure) of this Agreement.
 

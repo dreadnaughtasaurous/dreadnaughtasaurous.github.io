@@ -13,4 +13,4 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 # 9. Copy of Agreement
 
-The Employer will make a copy of the Agreement and the NES accessible to all Employees either physically or electronically.
+The Employer will make a copy of the Agreement and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) accessible to all Employees either physically or electronically.

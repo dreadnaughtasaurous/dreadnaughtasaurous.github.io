@@ -97,7 +97,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 | Rates for Saturdays & Sundays | 56 |
 | Recall | 58 |
 | Redundancy and Associated Entitlements | 35 |
-| Relationship to Awards, Agreements and the NES | 10 |
+| Relationship to Awards, Agreements and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) | 10 |
 | Replacement Positions (The Royal Children's and The Royal Women's Hospital Only) | 108 |
 | Reproductive Health Leave | 79 |
 | Rest Period After Overtime/Recall | 59 |

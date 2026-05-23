@@ -69,7 +69,7 @@ When employment ends, the Employer must pay the employee for any untaken paid an
 
 - **(a)** Staff (including part-time staff) who work shifts in excess of 4 hours which fall on a Saturday and/or Sunday, as part of their ordinary hours, will accrue additional annual leave at the rate of 0.5 times the number of ordinary hours worked on any weekend day, up to a maximum of 38 hours additional leave in any 12-month period.
 - **(b)** Provided that, in the case of part-time workers who work both a Saturday and a Sunday shift on the same weekend, only one shift per weekend will attract the accrual of the additional annual leave (ie either the Saturday or Sunday shift, but not both), up to the maximum accrual of 38 hours in any 12 month period. Provided further that where a differing number of hours are worked on a Saturday and Sunday by a part-time worker on any one weekend, the longer shift will be used to calculate the accrual of additional annual leave.
-- **(c)** A ‘shiftworker’, as defined for the purposes of the NES, will receive additional annual leave if applicable under the NES, if that leave entitlement is more generous than the entitlement under 61.8a. Such additional leave will be in substitution for, and not in addition to, leave under 61.8a.
+- **(c)** A ‘shiftworker’, as defined for the purposes of the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), will receive additional annual leave if applicable under the NES, if that leave entitlement is more generous than the entitlement under 61.8a. Such additional leave will be in substitution for, and not in addition to, leave under 61.8a.
 
 ---
 

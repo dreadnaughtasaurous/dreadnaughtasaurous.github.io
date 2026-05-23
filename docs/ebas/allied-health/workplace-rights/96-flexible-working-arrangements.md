@@ -39,7 +39,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **96.7** The request by the Employee must be in writing, set out the change sought and reasons for the change.
 
-**96.8** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the NES.
+**96.8** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **96.9** Where the Employer refuses the request, the written response must include details of the reasons for the refusal.
 

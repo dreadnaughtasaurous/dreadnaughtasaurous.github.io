@@ -18,7 +18,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 **34.1 Definitions**
 
 - **(a) Accident Pay – total incapacity**
-- Accident pay in respect of a Doctor deemed to be totally incapacitated under the WIRC Act means a weekly payment of an amount representing the difference between:
+- Accident pay in respect of a Doctor deemed to be totally incapacitated under the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) means a weekly payment of an amount representing the difference between:
   - **(i)** the total amount of compensation paid under WIRC Act for the week in question; and
   - **(ii)** the amounts payable to the Doctor for ordinary hours for the week at the rates payable in accordance with Appendix 2 of this Agreement.
 - **(b) Accident Pay – partial incapacity**

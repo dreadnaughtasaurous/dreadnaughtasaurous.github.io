@@ -36,7 +36,7 @@ There must be:
 - **(a)** Maternity includes ante-natal care, post-natal care and birthing suites.
 - **(b)** A single ward that includes maternity services and non-maternity services is not required to have:
   - **(i)** more than one EFT of combined NUM and MUM appointed; or
-  - **(ii)** more than the stated EFT of ANUM/AMUMs in clause 90.2 unless required by the Safe Patient Care Act.
+  - **(ii)** more than the stated EFT of ANUM/AMUMs in clause 90.2 unless required by the [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011).
 - **(c)** Compliance with this provision constitutes compliance with clauses 90.1A and 90.1B.
 
 **90.1D Safe Patient Care Act requiring additional Registered Nurse/Midwife in charge**

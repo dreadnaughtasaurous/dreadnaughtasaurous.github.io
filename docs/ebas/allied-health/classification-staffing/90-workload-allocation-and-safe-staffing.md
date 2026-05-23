@@ -19,7 +19,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 - **(a)** The Employer acknowledges the benefits to both the organisation and individual Employees gained through Employees having a balance between both their professional and family life.
 - **(b)** The allocation of work must consider the Employee’s hours of work, health, safety and welfare.
-- **(c)** The Employer is obliged by the OHS Act to provide a safe workplace. It is recognised that adequate staffing affects workload and is relevant to occupational health and safety in the workplace
+- **(c)** The Employer is obliged by the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) to provide a safe workplace. It is recognised that adequate staffing affects workload and is relevant to occupational health and safety in the workplace
 
 **90.2** Work will be allocated so that an Employee does not work routinely beyond their ordinary hours of work to complete their duties, and the allocation of work does not require:
 
@@ -33,7 +33,7 @@ The Employer will ensure that it is sufficiently staffed and resourced so as to 
 
 - **(a)** perform all aspects of their role/position during their ordinary hours;
 - **(b)** take rest intervals and meal breaks provided by this Agreement; and
-- **(c)** take leave provided for by this Agreement and the NES.
+- **(c)** take leave provided for by this Agreement and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **90.4 Allocation of work**
 

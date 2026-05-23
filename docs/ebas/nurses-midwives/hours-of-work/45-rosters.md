@@ -29,7 +29,7 @@ Nothing in this clause precludes an Employer from also issuing the roster or the
   - **(i)** the Employees' daily ordinary working hours;
   - **(ii)** starting and finishing times; and
   - **(iii)** meal intervals;
-- **(b)** have a staffing and skill mix that complies with the Safe Patient Care Act if applicable to that ward or unit;
+- **(b)** have a staffing and skill mix that complies with the [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011) if applicable to that ward or unit;
 - **(c)** allocate a Registered Nurse/Registered Midwife to be in charge of each shift;
 - **(d)** not change without at least fourteen days' notice of a change in roster other than in an emergency situation external to the Employer, subject to 45.8 below;
 - **(e)** provide an Employee who works 0.8 EFT or more with two consecutive days off per week. Nothing in this subclause (e) is intended to:

@@ -64,13 +64,13 @@ The following meanings shall apply to the terms referred to below for the purpos
 - **(e)** **Institution** means any Employer, or a hospital or benevolent home, community health centre, Society or Association:
   - **(i)** named in Schedule 1 of this Agreement; or
   - **(ii)** named in Appendix 1 of the *Nurses and Midwives (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2020 – 2024*
-  - **(iii)** that was registered and subsidised pursuant to the *Hospital and Charities Act 1958 or the Health Services Act 1988*; or
+  - **(iii)** that was registered and subsidised pursuant to the *Hospital and Charities Act 1958 or the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188)*; or
   - **(iv)** the Cancer Institute constituted under the *Cancer Act 1958*; or
   - **(v)** the Fairfield Hospital Board; or
   - **(vi)** the Victorian Bush Nursing Association (Inc.); or
   - **(vii)** a Bush Nursing institution; or
   - **(viii)** the Victorian Institute of Forensic Mental Health
-- **(f)** **LSL Act** means the *Long Service Leave Act 2018 (Vic).*
+- **(f)** **LSL Act** means the *[Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006).*
 - **(g)** **Month** means a calendar month.
 - **(h)** **Pay** means
   - **(i)** **For a full-time Employee**, remuneration for an Employee’s normal weekly hours of work calculated at the employee’s ordinary time rate of pay provided in Schedule 2 at the time the leave is taken or (if the Employee dies before the completion of leave so taken) as at the time of the Employee's death, and will include the amount of any increase to the Employee’s ordinary time rate of pay which occurred during the period of leave, and

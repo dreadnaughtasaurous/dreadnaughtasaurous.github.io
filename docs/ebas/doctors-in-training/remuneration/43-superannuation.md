@@ -22,7 +22,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 In this clause
 
 - **(a) default fund** means the Aware Super superannuation fund (or its successor) while it provides a "MySuper product" as defined by the Act; and
-- **(b) preferred superannuation fund** means a fund that meets the definition of a superannuation fund in the Superannuation Guarantee (Administration) Act 1992 (Cth).
+- **(b) preferred superannuation fund** means a fund that meets the definition of a superannuation fund in the [Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text).
 
 **43.2 Existing Doctors**
 

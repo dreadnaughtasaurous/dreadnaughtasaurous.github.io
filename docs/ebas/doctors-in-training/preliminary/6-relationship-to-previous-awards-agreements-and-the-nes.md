@@ -17,7 +17,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **6.2** The Appendices to this Agreement form part of the terms of the Agreement and are to be read in conjunction with this Agreement for all purposes, including for enforcement.
 
-**6.3** This Agreement is not intended to exclude any part of the NES or to provide any entitlement which is detrimental to a Doctor's entitlement under the NES. For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to a Doctor.
+**6.3** This Agreement is not intended to exclude any part of the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) or to provide any entitlement which is detrimental to a Doctor's entitlement under the NES. For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to a Doctor.
 
 Plain language terms: NES, previous agreement, award relationship.
 

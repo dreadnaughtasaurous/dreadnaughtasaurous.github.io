@@ -23,7 +23,7 @@ Family and domestic violence leave is provided for in the [NES](https://www.fwc.
 
 >**NOTE 1:** 
 >
->Information provided to employers concerning an employee's experience of family and domestic violence is sensitive and if mishandled can have adverse consequences for the employee. Employers are subject to confidentiality requirements regarding the handling of this information under section 106C of the [Act](https://www.legislation.gov.au/Series/C2009A00028) and requirements as to what can be reported on payslips pursuant to regulations 3.47 and 3.48 of the *Fair Work Regulations 2009*.
+>Information provided to employers concerning an employee's experience of family and domestic violence is sensitive and if mishandled can have adverse consequences for the employee. Employers are subject to confidentiality requirements regarding the handling of this information under section 106C of the [Act](https://www.legislation.gov.au/Series/C2009A00028) and requirements as to what can be reported on payslips pursuant to regulations 3.47 and 3.48 of the *[Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text)*.
 >
 >**NOTE 2:** 
 >

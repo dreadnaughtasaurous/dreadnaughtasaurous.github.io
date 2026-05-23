@@ -15,7 +15,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 
 
-Nothing in this clause 13 limits the Employer’s obligations to consult with HSRs under the OHS Act.
+Nothing in this clause 13 limits the Employer’s obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 **13.1 Consultation regarding Major Change**
 
@@ -80,7 +80,7 @@ Under this clause 13:
     - **(vii)** the expected benefit of the change;
     - **(viii)** measures the Employer is considering that may mitigate or avert the effects of the proposed change;
     - **(ix)** the right of an Affected Employee/s to have a representative including a Union representative at any time during the change process; and
-    - **(x)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence, relates directly to a performance/conduct issue or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
+    - **(x)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence, relates directly to a performance/conduct issue or cannot be disclosed under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or other legislation.
 - **(b)** Concerns as to whether the Change Impact Statement (CIS) complies with subclause 13.4 will be raised as soon as reasonably practicable, which may be at a time after step 2 has been completed.
 - **(c)** Where the Union requests a meeting prior to the step 2 to clarify the proposed change or to obtain any of the information required to be provided as part of step 1 or step 2, the Employer will meet with the Union in a reasonable timeframe.
 

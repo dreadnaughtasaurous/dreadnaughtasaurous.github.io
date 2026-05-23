@@ -57,7 +57,7 @@ A full-time employee is an employee who is engaged to work an average of 38 ordi
 
 >[10.6 inserted by PR700551; substituted and renamed by PR733842, PR777356 from 27Aug24]
 
-A pathway for employees to change from casual employment to full-time or part-time employment is provided for in the NES. See sections 66A to 66MA of the Act.
+A pathway for employees to change from casual employment to full-time or part-time employment is provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources). See sections 66A to 66MA of the Act.
 
 >**Note:** Disputes about changes to casual employment status may be dealt with under sections 66M and 66MA of the Act and/or under [clause 9](/ebas/childrens-services/consultation-disputes/9-dispute-resolution)—Dispute resolution. 
 

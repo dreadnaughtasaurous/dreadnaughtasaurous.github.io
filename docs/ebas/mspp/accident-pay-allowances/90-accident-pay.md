@@ -24,7 +24,7 @@ For the purposes of this clause, the following definitions shall apply:
 - **a. Compensation Act** means:
   - **(i)** the Workers Compensation Act (Victoria) 1958 as amended from time to time; or
   - **(ii)** in respect of an injury occurring on or after 4.00 p.m. on the 1st September, 1985, the Accident Compensation Act (Victoria) 1985 as amended from time to time; or
-  - **(iii)** in respect of an injury occurring on or after 1 July 2014, the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic) as amended from time to time.
+  - **(iii)** in respect of an injury occurring on or after 1 July 2014, the [Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) as amended from time to time.
 - **b. Injury** means any physical or mental injury within the meaning of the Compensation Act, and no injury shall give rise to an entitlement to accident pay under this clause unless an entitlement exists under the Compensation Act.
 
 ---

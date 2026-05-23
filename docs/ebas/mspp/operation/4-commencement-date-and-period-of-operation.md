@@ -25,7 +25,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 - **(d)** This Agreement will nominally expire on 30 November 2025 or 4 years from the date of approval by Fair Work Commission, whichever is the earlier.
 
-- **(e)** The Agreement will continue to operate after the nominal expiry date in accordance with the provisions of the Fair Work Act 2009 (Cth).
+- **(e)** The Agreement will continue to operate after the nominal expiry date in accordance with the provisions of the [Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text).
 
 - **(f)** The negotiations for a replacement agreement shall commence in February 2025, provided that any claim made during this period is not supported by industrial action.
 

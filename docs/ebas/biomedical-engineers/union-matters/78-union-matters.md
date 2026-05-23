@@ -39,7 +39,7 @@ The Employer will ensure that:
 
 **78.4 Delegates and HSRs**  
 
-> **Note:** Additional rights of HSRs are contained in the OHS Act.
+> **Note:** Additional rights of HSRs are contained in the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 - **(a)** In this subclause 78.4:
   - **(i)** **Representative** means a Union Delegate, or HSR;

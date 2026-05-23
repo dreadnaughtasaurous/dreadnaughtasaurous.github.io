@@ -21,7 +21,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 - **(a)** Paid personal leave accrues progressively during a year of service according to the Employee's ordinary hours of work (excluding overtime) and accumulates from year to year.
 - **(b)** An Employee other than Dental Assistants employed by DHSV or Ballarat Health Service is entitled to the following amount of paid personal leave:
-  - **(i)** 91 hours and 12 minutes or as provided by the NES (whichever is greater) in the first year of service;
+  - **(i)** 91 hours and 12 minutes or as provided by the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) (whichever is greater) in the first year of service;
   - **(ii)** 106 hours and 24 minutes or as provided by the NES (whichever is the greater) in each year in the second, third and fourth years of service;
   - **(iii)** 159.6 hours in the fifth and following years of service.
 - **(c)** Dental Assistants employed by DHSV or Ballarat Health Service are entitled to 91 hours and 12 minutes of paid personal leave or as provided by the NES (whichever is greater) for each year of service
@@ -108,7 +108,7 @@ An Employee may take personal leave for the reasons described at subclause 55.2 
 
 - **(a)** Where an Employee terminates their employment at a:
   - **(i)** Employer covered by this Agreement or;
-  - **(ii)** a community health centre registered pursuant to the Health Services Act 1988 (or the former Hospitals and Charities Act 1958) and commences employment with an Employer covered by this Agreement within the allowable period of absence, accumulated personal leave up to a maximum of 1,976 hours at the date of such termination will be credited to the Employee at their new employment as accumulated personal leave.
+  - **(ii)** a community health centre registered pursuant to the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) (or the former Hospitals and Charities Act 1958) and commences employment with an Employer covered by this Agreement within the allowable period of absence, accumulated personal leave up to a maximum of 1,976 hours at the date of such termination will be credited to the Employee at their new employment as accumulated personal leave.
 - **(b)** An Employee must produce a written statement from their previous employer specifying the amount of accumulated personal leave at the time of termination, as soon as reasonably practicable following termination, however, an Employer cannot rely on an Employee’s delay in providing a written statement in refusing to grant portability of Personal Leave in accordance with this clause.
 - **(c)** Where an Employee remains engaged on casual bank/or as a casual Employee with their previous employer, the Employee must provide evidence that their previous employer has removed any and all personal leave accrual prior to the new employer providing a benefit under this clause.
 - **(d)** Provided further that where any Employee for the sole purpose of undertaking a course of study related to their employment, is, with the written approval of the Employer, absent without pay for up to but not exceeding 52 weeks, such absence will not be deemed to have broken continuity of service but will not be counted as service for the purpose of establishing entitlement to personal leave portability.

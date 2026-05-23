@@ -27,7 +27,7 @@ Subject to the evidentiary and notice requirements that apply to carer’s leave
 
 **38C.2 Period of Leave** 
 
-The Employee is entitled to not be available to attend work for up to two days per occasion on carer's leave in accordance with the NES, which may be taken as a single continuous period of up to two days or any longer or separate periods to which the Employer and Employee agree.
+The Employee is entitled to not be available to attend work for up to two days per occasion on carer's leave in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), which may be taken as a single continuous period of up to two days or any longer or separate periods to which the Employer and Employee agree.
 
 **38C.3 Evidence and Notice Requirements - Carers Leave**
 

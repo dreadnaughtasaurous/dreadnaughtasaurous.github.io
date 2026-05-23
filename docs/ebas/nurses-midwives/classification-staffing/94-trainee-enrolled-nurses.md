@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse nurse midwifery NUM nurse uni
 
 **94.1 Application**
 
-- **(a)** This clause applies only to the employment of a Trainee Enrolled Nurse undertaking a Diploma of Nursing in Traineeship mode where that Trainee at any time during their Training Contract forms part of a Local Agreement under the *Safe Patient Care Act*.
+- **(a)** This clause applies only to the employment of a Trainee Enrolled Nurse undertaking a Diploma of Nursing in Traineeship mode where that Trainee at any time during their Training Contract forms part of a Local Agreement under the *[Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011)*.
 - **(b)** A Trainee who is initially engaged to be supernumerary at all times during their Training Contract, but subsequently forms part of a Local Agreement under the *Safe Patient Care Act* will for the entirety of their Training Contract be treated as a Trainee in accordance with this clause.
 
     > **Example:**

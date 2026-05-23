@@ -101,7 +101,7 @@ If the period during which an Employee takes paid personal leave includes a day 
 
 - **(a)** Where an Employee is and has been in the service of:
   - **(i)** an Employer (as defined);
-  - **(ii)** an Institution registered and subsidised under the Hospitals and Charities Act 1958 (Vic), the Health Services Act 1988 (Vic);
+  - **(ii)** an Institution registered and subsidised under the Hospitals and Charities Act 1958 (Vic), the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188);
   - **(iii)** of the Cancer Institute Board;
   - **(iv)** of the Victorian Bush Nursing Association (Incorporated);
   - **(v)** a Bush Nursing institution;

@@ -10,6 +10,7 @@ import FileAttachment from './components/FileAttachment.vue'
 import CopyButton from './components/CopyButton.vue'
 import KeyboardHelp from './components/KeyboardHelp.vue'
 import RelatedClauses from './components/RelatedClauses.vue'
+import LegislationPanel from './components/LegislationPanel.vue'
 import AskThisPage from './components/AskThisPage.vue'
 import AccessibilityControls from './components/AccessibilityControls.vue'
 import AnalyticsDashboard from './components/AnalyticsDashboard.vue'
@@ -68,7 +69,7 @@ export default {
       // Fragment is required — VitePress slot functions must return a single VNode.
       'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel)]),
 
-      'doc-after': () => h(RelatedClauses),
+      'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
   },
   enhanceApp({ app, router }) {
@@ -81,6 +82,7 @@ export default {
     app.component('KeyboardHelp',          KeyboardHelp)
     app.component('AskThisPage',           AskThisPage)
     app.component('RelatedClauses',        RelatedClauses)
+    app.component('LegislationPanel',      LegislationPanel)
     app.component('AccessibilityControls', AccessibilityControls)
     app.component('AnalyticsDashboard',    AnalyticsDashboard)
     app.component('ClausePanel',           ClausePanel)

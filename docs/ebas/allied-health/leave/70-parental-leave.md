@@ -137,7 +137,7 @@ For example, such leave may be paid in smaller amounts over a longer period, con
 
 - **(f)** Such agreement must be in writing and signed by the parties. The Eligible Employee must nominate a preferred payment arrangement at least four (4) weeks prior to the expected date of birth or date of placement of the Child.
 - **(g)** In the absence of agreement, such leave will be paid during the ordinary pay periods corresponding with the period of the leave.
-- **(h)** The paid parental leave prescribed by this subclause 70.7 will be concurrent with any relevant unpaid entitlement prescribed by the NES/this Agreement.
+- **(h)** The paid parental leave prescribed by this subclause 70.7 will be concurrent with any relevant unpaid entitlement prescribed by the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)/this Agreement.
 
 
 

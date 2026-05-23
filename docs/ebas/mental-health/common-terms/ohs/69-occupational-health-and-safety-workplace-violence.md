@@ -17,7 +17,7 @@ mental worker psychiatric nurse mental nurse community mental AMHS authorised me
 
 - **(a) Relationship to legislation**
 
-  These provisions will be read and interpreted in conjunction with the OHS Act, EO Act, WIRC Act and successors, provided where there is any inconsistency between this Agreement and the legislation referred to above, the legislation prevails to the extent of any inconsistency.
+  These provisions will be read and interpreted in conjunction with the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045), [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032), [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) and successors, provided where there is any inconsistency between this Agreement and the legislation referred to above, the legislation prevails to the extent of any inconsistency.
 - **(b) Arrangement of this Part K**
 
   This part is arranged as follows:

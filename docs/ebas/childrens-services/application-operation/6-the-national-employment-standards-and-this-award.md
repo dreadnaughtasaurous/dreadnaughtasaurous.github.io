@@ -15,6 +15,6 @@ childrens services childcare worker early childhood educator family day care ECE
 
 The [NES](http://www.fwc.gov.au/documents/awards/resources/nes.pdf) and this award contain the minimum conditions of employment for employees covered by this award.
 
-Plain language terms: NES, national employment standards.
+Plain language terms: [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), national employment standards.
 
 

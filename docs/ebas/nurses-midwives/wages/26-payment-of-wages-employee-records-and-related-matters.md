@@ -21,7 +21,7 @@ Each Employee's wages will be paid fortnightly into the Employee's nominated acc
 
 ## (a) Payslip
 
-The Act and FW Regulations set out an Employer's obligations with respect to pay slips, including but not limited to a requirement to specify:
+The Act and [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text) set out an Employer's obligations with respect to pay slips, including but not limited to a requirement to specify:
 
 - **(i)** the period to which the pay slip relates;
 - **(ii)** the amount of wages to which the Employee is entitled;

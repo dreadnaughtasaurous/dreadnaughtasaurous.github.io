@@ -23,7 +23,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
     - **(i)** this Agreement;
     - **(ii)** the 2020 Agreement;
-    - **(iii)** the NES;
+    - **(iii)** the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources);
     - **(iv)** a request for an additional 12 months parental leave in accordance with
     - **(v)** a request for flexible working arrangements in accordance with section 65 of the Act.
 - **(c)** A party to the dispute may choose to be represented at any stage by a representative including a Union or employer organisation. A representative, including a Union or employer organisation on behalf of an Employer, may initiate a dispute.

@@ -23,7 +23,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >**Note:** 
 >
->The NES sets out requirements for notice of termination by an employer. See ss.117 and 123 of the Act.
+>The [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) sets out requirements for notice of termination by an employer. See ss.117 and 123 of the Act.
 
 ## 11.1 Notice of termination by an employee
 

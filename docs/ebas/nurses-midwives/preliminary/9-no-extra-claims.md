@@ -18,7 +18,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(a)** this Agreement settles all claims in relation to the terms and conditions of employment of the Employees to whom it applies including all Union and Employer claims made before and during the negotiations leading to the making of this Agreement (whether or not those claims were matters at issue during the bargaining period); and
 - **(b)** except as otherwise indicated herein this Agreement sets out and is intended to set out comprehensively, all of the terms and conditions of employment of the Employees whose employment is subject to the Agreement; and
 - **(c)** they will not pursue any extra claims during the term of this Agreement; and
-- **(d)** nothing in this clause 9 limits the operation of [clause 105](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act) (Interaction with the Safe Patient Care Act) of this Agreement.
+- **(d)** nothing in this clause 9 limits the operation of [clause 105](/ebas/nurses-midwives/safe-patient-care/105-interaction-with-the-safe-patient-care-act) (Interaction with the [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011)) of this Agreement.
 
 **9.2** Subject to an Employer meeting its obligations to consult arising under this Agreement or a relevant contract of employment, it is not the intention of subclause 9.1(c) to inhibit, limit or restrict an Employer's right or ability to introduce change at the workplace.
 

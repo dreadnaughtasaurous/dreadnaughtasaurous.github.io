@@ -13,7 +13,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 # 16. Consultation
 
-*Nothing in this clause limits the Employer’s obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause limits the Employer’s obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).*
 
 **16.1 Consultation regarding major change**
 - **(a)** Where an Employer proposes a major workplace change that may have a significant effect on an Employee or Employees, the Employer will consult with the affected Employee/s, the HWU, and the Employee’s other chosen representative (where relevant) before any proposed change occurs.
@@ -63,7 +63,7 @@ Prior to consultation required by this clause, the Employer will provide affecte
 - **(e)** the expected benefit of the change;
 - **(f)** measures the Employer is considering that may mitigate or avert the effects of the proposed change;
 - **(g)** the right of an affected Employee to have a representative including a HWU representative at any time during the change process; and
-- **(h)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or cannot be disclosed under the Health Services Act 1988 or other legislation.
+- **(h)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or cannot be disclosed under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or other legislation.
 
 **16.5 Employee / HWU response (step 2)** 
 

@@ -17,7 +17,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **32.1 Entitlement to accident make-up pay** 
 
-An Employee receiving compensation for incapacity under the WIRC Act will be entitled to accident make-up pay from the Employer who is liable to pay compensation in accordance with this clause (including pro-rata for any part of a week).
+An Employee receiving compensation for incapacity under the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) will be entitled to accident make-up pay from the Employer who is liable to pay compensation in accordance with this clause (including pro-rata for any part of a week).
 
 **32.2 Definitions**
 

@@ -13,7 +13,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 # 9. Consultation
 
-*Nothing in this clause limits the Health Service’s obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause limits the Health Service’s obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).*
 
 **9.1 Consultation regarding Major Change**
 
@@ -83,7 +83,7 @@ Under this clause 9:
   - **(vi)** measures the Health Service is considering that may mitigate or avert the effects of the proposed change;
   - **(vii)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Doctors or managers where reporting lines change;
   - **(viii)** the right of an Affected Doctor to have a representative including the Association representative at any time during the change process; and
-  - **(ix)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Health Service to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
+  - **(ix)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Health Service to unreasonable legal risk or cannot be disclosed under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or other legislation.
 
 - **(b)** Any concerns by an Affected Doctor or their representative regarding whether the Change Impact Statement complies with subclause 9.4 will be raised as soon as practicable and before step 2.
 

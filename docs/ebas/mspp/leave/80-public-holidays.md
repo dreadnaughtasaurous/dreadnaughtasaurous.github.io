@@ -54,7 +54,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 **80.4 Substitution of one public holiday for another**
 
-- **(a)** An Employer and Employee may agree to substitute another day for a day that would otherwise be a public holiday under the NES or this Agreement.
+- **(a)** An Employer and Employee may agree to substitute another day for a day that would otherwise be a public holiday under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) or this Agreement.
 
 - **(b)** An Employer and Employee may agree to substitute another part-day for a this Agreement.
 

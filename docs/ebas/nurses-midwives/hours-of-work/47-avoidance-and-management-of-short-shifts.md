@@ -44,7 +44,7 @@ Short Shifts must not be utilised on night duty.
     - **(A)** patient safety/acuity;
     - **(B)** skill mix;
     - **(C)** the time at which the absence was notified;
-    - **(D)** whether the ward/unit is staffing above the ratios under the Safe Patient Care Act;
+    - **(D)** whether the ward/unit is staffing above the ratios under the [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011);
     - **(E)** the number of short shifts on the ward;
     - **(F)** the nature of any professional development being provided by the Employer;
     - **(G)** the capacity for Employees to attend professional development; and

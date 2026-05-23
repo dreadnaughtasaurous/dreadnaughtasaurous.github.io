@@ -109,7 +109,7 @@ Where a position has been declared redundant whilst an affected Employee is subj
 
 - **(c)** Effect of Departure Package on Work Cover Claims
 
-  The Work Cover entitlement of a claimant who takes a departure package will be governed by the provisions of the *Workplace Injury Rehabilitation and Compensation Act 2013* (Vic).
+  The Work Cover entitlement of a claimant who takes a departure package will be governed by the provisions of the *[Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053)* (Vic).
 
   One visit will be made available for the affected Employee to have an independent financial counselling. Such costs will be borne by the Employer.
 

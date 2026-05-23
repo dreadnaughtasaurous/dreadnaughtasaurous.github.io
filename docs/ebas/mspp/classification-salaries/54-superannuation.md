@@ -17,7 +17,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 **54.1 Superannuation Legislation**
 
-- **a.** The subject of superannuation is dealt with extensively by federal legislation including the Superannuation Guarantee (Administration) Act 1992, the Superannuation Guarantee Charge Act 1992, the Superannuation Industry (Supervision) Act 1993 and the Superannuation (Resolution of Complaints) Act 1993. This legislation, as varied from time to time, governs the superannuation rights and obligations of the parties.
+- **a.** The subject of superannuation is dealt with extensively by federal legislation including the [Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text), the Superannuation Guarantee Charge Act 1992, the [Superannuation Industry (Supervision) Act 1993 (Cth)](https://www.legislation.gov.au/C2004A04633/2017-03-01/text) and the Superannuation (Resolution of Complaints) Act 1993. This legislation, as varied from time to time, governs the superannuation rights and obligations of the parties.
 - **b.** This clause is ancillary to and supplements the legislative provisions.
 - **c.** Employer superannuation contributions on behalf of new Employees will be made to the Employee’s choice of Fund from the following:
   - **(i)** HESTA (or successor);

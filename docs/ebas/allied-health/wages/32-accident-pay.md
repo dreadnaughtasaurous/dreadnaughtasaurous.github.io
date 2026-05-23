@@ -15,7 +15,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 32. Accident Pay
 
-**32.1** Subject to this clause 32, where an Employee is receiving a weekly payment of compensation in respect of an incapacity under the WIRC Act, the Employee will receive accident make up pay equal to the ordinary time earnings they would ordinarily receive, less the amount of weekly compensation.
+**32.1** Subject to this clause 32, where an Employee is receiving a weekly payment of compensation in respect of an incapacity under the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053), the Employee will receive accident make up pay equal to the ordinary time earnings they would ordinarily receive, less the amount of weekly compensation.
 
 **32.2** Accident make up pay will only be payable to an eligible Employee whilst that Employee remains in the employment of the Employer.
 

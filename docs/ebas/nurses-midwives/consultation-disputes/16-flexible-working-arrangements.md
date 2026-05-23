@@ -40,7 +40,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 **16.8** The request by the Employee must be in writing, set out the change sought and reasons for the change.
 
-**16.9** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the NES.
+**16.9** The Employer must give the Employee a written response to the request within 21 days, stating whether the Employer grants or refuses the request. A request may only be refused on reasonable business grounds as described in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 > **Note:**
 > The assertion of an inherent requirement does not, by itself, mean that this is a reasonable business ground to refuse a request for a flexible working arrangement.

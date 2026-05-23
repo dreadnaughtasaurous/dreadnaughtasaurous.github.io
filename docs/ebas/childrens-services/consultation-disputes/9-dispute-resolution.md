@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 9. Dispute Resolution
 
-**9.1** Clause 9 sets out the procedures to be followed if a dispute arises about a matter under this award or in relation to the NES.
+**9.1** Clause 9 sets out the procedures to be followed if a dispute arises about a matter under this award or in relation to the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **9.2** The parties to the dispute must first try to resolve the dispute at the workplace through discussion between the employee or employees concerned and the relevant supervisor.
 

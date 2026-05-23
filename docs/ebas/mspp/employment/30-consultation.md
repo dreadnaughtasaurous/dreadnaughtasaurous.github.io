@@ -13,7 +13,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 30. Consultation
 
-*Nothing in this clause 30 limits the Employer’s obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause 30 limits the Employer’s obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).*
 
 **30.1 Consultation regarding Major Change**
 
@@ -83,7 +83,7 @@ Prior to Consultation required by this clause, the Employer will provide Affecte
 - **(e)** measures the Employer is considering that may mitigate or avert the effects of the proposed change;
 - **(f)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Employees or managers where reporting lines change;
 - **(g)** the right of an Affected Employee to have a representative including a Union representative at any time during the change process; and
-- **(h)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence, or cannot be disclosed under the Health Services Act 1988 or other legislation.
+- **(h)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence, or cannot be disclosed under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or other legislation.
 - **(i)** the expected timing of the proposed change.
 - **(j)** the rationale for and details of any proposed redundancy including the number and categories of Employees likely to be affected.
 - **(k)** an assessment of the impacts on quality standards and service outputs.

@@ -33,7 +33,7 @@ For the purposes of this clause, weekend worker means any Employee who in any on
 - **(b) Weekend Worker**
   - **(i)** An Employee who is a Weekend Worker who works for more than four ordinary hours on 10 or more weekends per year of continuous service is entitled to an additional 38 hours annual leave.
   - **(ii)** Where an Employee who is a Weekend Worker does not meet the 10 weekend threshold in subclause 51.3(b)(i) above, they will accrue additional annual leave at the rate of one tenth of a week (3.8 hours) for each weekend worked, up to a maximum of one week (38 hours) in a year.
-  - **(iii)** The provisions of this clause have the same effect and give an Employee an entitlement to annual leave that is the same as the entitlement of the Employee under the NES relating to shiftworkers under section 87(1)(b)(ii) of the Act. 
+  - **(iii)** The provisions of this clause have the same effect and give an Employee an entitlement to annual leave that is the same as the entitlement of the Employee under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) relating to shiftworkers under section 87(1)(b)(ii) of the Act. 
   
   *For the purposes of the NES only, a shiftworker is an Employee who is regularly rostered to work Sundays and public holidays.*
   - **(iv)** An Employee’s entitlement to annual leave under this clause operates in parallel with the Employee’s NES entitlement, but not so as to give the Employee a double benefit.

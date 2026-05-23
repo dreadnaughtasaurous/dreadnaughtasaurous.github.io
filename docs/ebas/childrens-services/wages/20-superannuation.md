@@ -21,7 +21,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >[20.1 substituted by PR771396 ppc 09Apr24]
 
-- **(a)** The NES and Superannuation legislation, including the Superannuation Guarantee (Administration) Act 1992 (Cth), the Superannuation Guarantee Charge Act 1992 (Cth), the Superannuation Industry (Supervision) Act 1993 (Cth) and the Superannuation (Resolution of Complaints) Act 1993 (Cth), deal with the superannuation rights and obligations of employers and employees.
+- **(a)** The [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) and Superannuation legislation, including the [Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text), the Superannuation Guarantee Charge Act 1992 (Cth), the [Superannuation Industry (Supervision) Act 1993 (Cth)](https://www.legislation.gov.au/C2004A04633/2017-03-01/text) and the Superannuation (Resolution of Complaints) Act 1993 (Cth), deal with the superannuation rights and obligations of employers and employees.
 
 - **(b)** The rights and obligations in clause 20 supplement those in superannuation legislation and the NES.
 

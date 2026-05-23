@@ -13,7 +13,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 # 23. Termination of Employment - Notice of Termination
 
-**23.1** Either the Health Service or a Doctor may terminate the employment by giving three months’ written notice to the other party, or any other period as agreed between the Health Service and the Doctor, subject to the requirements of the NES.
+**23.1** Either the Health Service or a Doctor may terminate the employment by giving three months’ written notice to the other party, or any other period as agreed between the Health Service and the Doctor, subject to the requirements of the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **23.2** The Health Service may provide a payment in lieu of part or all of the notice period prescribed in subclause 23.1.
 

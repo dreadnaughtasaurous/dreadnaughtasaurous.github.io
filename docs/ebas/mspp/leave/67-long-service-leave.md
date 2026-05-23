@@ -30,8 +30,8 @@ This clause contains several parts:
 
 - **(a) Allowable period of absence**: The greater of 13 weeks (including annual leave) or 5 weeks plus the total period of paid leave received on termination.
 - **(b) Continuous Service**: Service with the same Employer plus prior Service of 6 months or more with one or more Institutions, Statutory Bodies, or the Australian Red Cross Blood Service.
-- **(c) Institution**: Employers named in [Schedule 1](/ebas/mspp/schedules/1-employer-parties), publicly funded Community Health Services, or entities registered under the Health Services Act 1988 (Vic).
-- **(d) LSL Act**: The *Long Service Leave Act 2018 (Vic)*.
+- **(c) Institution**: Employers named in [Schedule 1](/ebas/mspp/schedules/1-employer-parties), publicly funded Community Health Services, or entities registered under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188).
+- **(d) LSL Act**: The *[Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006)*.
 - **(e) Pay**: Remuneration for normal weekly hours at the ordinary time rate, including specific allowances (e.g., Higher Qualification, Radiation Safety Officer) and casual loadings.
 - **(f) Regular Casual Employee**: A casual employee employed on a regular and systematic basis.
 

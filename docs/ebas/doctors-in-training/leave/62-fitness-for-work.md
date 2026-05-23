@@ -48,7 +48,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 - **(a)** Where Doctors have a disability (whether permanent or temporary) the Health Service is required to make reasonable adjustments to enable the Doctor to continue to perform their duties, subject to subclause 62.2(b) below.
 - **(b)** A Health Service is not required to make reasonable adjustments if the Doctor could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 - **(c) Definitions**
-  - **(i)** **Disability** has the same meaning as section 4 of the EO Act and includes:
+  - **(i)** **Disability** has the same meaning as section 4 of the [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) and includes:
     - **A.** total or partial loss of a bodily function; or
     - **B.** presence in the body of organisms that may cause disease;
     - **C.** total or partial loss of a part of the body; or

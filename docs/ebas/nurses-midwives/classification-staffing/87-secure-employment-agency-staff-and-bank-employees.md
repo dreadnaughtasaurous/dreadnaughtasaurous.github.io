@@ -15,7 +15,7 @@ nurse midwife nursing RN EN registered nurse enrolled nurse midwifery NUM nurse 
 
 **87.1 Replacement during Annual Leave and Extended Leave Relief**
 
-- **(a)** In order to maintain the nursing hours provided by the *Safe Patient Care Act*, the rostered hours of all Employees who are on Extended Leave will be fully replaced.
+- **(a)** In order to maintain the nursing hours provided by the *[Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011)*, the rostered hours of all Employees who are on Extended Leave will be fully replaced.
 - **(b)** Extended Leave includes long service leave, parental leave, and long-term WorkCover absences.
 - **(c)** In all ward/unit/department budgets, provision will be made for the payment of salaries to persons employed to replace Employees who are absent due to annual leave.
 

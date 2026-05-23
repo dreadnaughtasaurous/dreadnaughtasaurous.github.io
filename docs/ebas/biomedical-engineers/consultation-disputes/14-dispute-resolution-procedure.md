@@ -20,7 +20,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 - **(a)** For the purpose of this clause 14, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months' parental leave); or
-  - **(ii)** the NES.
+  - **(ii)** the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 - **(c)** A **Party** for the purposes of this clause is the Employee/s or the Employer that are subject to the dispute.
 - **(d)** A Party subject to the dispute may choose to be represented at any stage by a representative including a Union or employer organisation. A representative, including a Union or employer organisation on behalf of an Employer, may initiate a dispute.
 

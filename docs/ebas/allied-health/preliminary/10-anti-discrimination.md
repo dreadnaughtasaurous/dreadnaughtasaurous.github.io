@@ -29,7 +29,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 - **(a)** The parties agree, in conjunction with the Department, to establish a Gender- Based Standing Committee (**GBSC**) within three (3) months of the commencement of this Agreement.
 - **(b)** The purpose of the GBSC will be to:
-  - **(i)** review audit results from audits required by the Gender Equality Act 2020 (Vic);
+  - **(i)** review audit results from audits required by the [Gender Equality Act 2020 (Vic)](https://www.legislation.vic.gov.au/as-made/acts/gender-equality-act-2020);
   - **(ii)** promote gender equity initiatives; and
   - **(iii)** identify and address any gender pay gaps in the Victorian Public Health Sector.
 - **(c)** The GBSC will schedule a minimum of four (4) meetings per year.

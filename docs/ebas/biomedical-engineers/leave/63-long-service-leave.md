@@ -15,7 +15,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 # 63. Long Service Leave
 
-*Casual Employees are entitled to Long Service Leave in accordance with the Long Service Leave Act 2018 (Vic) (or applicable legislation).*
+*Casual Employees are entitled to Long Service Leave in accordance with the [Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006) (or applicable legislation).*
 
 **63.1 Definitions**  
 The following meanings shall apply to the terms referred to below for the purposes of this clause unless a contrary intention is apparent:
@@ -30,7 +30,7 @@ The following meanings shall apply to the terms referred to below for the purpos
     - **(C)** any absence was caused by seasonal factors; or
     - **(D)** the casual Employee and Employer agreed, before the start of an absence, to treat the employment as continuous despite the absence.
 - **(d)** **Full-time Employee** means an Employee classified or employed as such at the time they apply for or commence long service leave;
-- **(e)** **Institution** means any hospital or benevolent home, community health centre, Society or Association registered and subsidised pursuant to the Health Services Act 1988 (Vic), the Cancer Institute constituted under the *Cancer Act 1958 (Vic)* or the Fairfield Hospital Board or the Bush Nursing Association (Inc).
+- **(e)** **Institution** means any hospital or benevolent home, community health centre, Society or Association registered and subsidised pursuant to the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188), the Cancer Institute constituted under the *Cancer Act 1958 (Vic)* or the Fairfield Hospital Board or the Bush Nursing Association (Inc).
 - **(f)** **LSL Act** means the *Long Service Leave Act 2018 (Vic)*.
 - **(g)** **Month** means a calendar month.
 - **(h)** **Pay** means, **for a Full-time Employee or Part-time Employee**, the remuneration for an Employee’s normal weekly hours of work calculated at the Employee’s ordinary time rate of pay at the time the leave is taken or (if they die before the completion of leave so taken) as at the time of their death, and will include the amount of any increase to the Employee’s ordinary time rate of pay which occurred during the period of leave as from the date of such increase operates. Where a part-time Employee's hours fluctuate because the Employee works additional ordinary shifts (but excluding a permanent variation), the 'normal weekly hours of work' will be calculated by taking an average over the preceding 12 months where this is more favourable to the Employee.

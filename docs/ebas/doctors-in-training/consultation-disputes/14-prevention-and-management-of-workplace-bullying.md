@@ -15,7 +15,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **14.1 Purpose**
 
-- **(a)** This clause concerns the prevention and management of Workplace bullying and requires Employers to take actions consistent with their obligations under the OHS Act. Workplace bullying is an occupational health and safety risk.
+- **(a)** This clause concerns the prevention and management of Workplace bullying and requires Employers to take actions consistent with their obligations under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045). Workplace bullying is an occupational health and safety risk.
 - **(b)** Workplace bullying can happen in any workplace. Under certain conditions, anyone could be capable of bullying-type behaviour.
 - **(c)** Workplace bullying can have an impact on an individual’s health and affect their ability to do their job. It can also contribute to loss of productivity, staff turnover, absenteeism, low morale and financial costs.
 - **(d)** It is in the interests of all parties including Employers, employees who raise complaints, Employees about whom complaints are made and their representatives should that concerns about behaviour that may be workplace bullying are addressed quickly, fairly and sensitively and with the intention of ensuring a safe working environment for everyone.

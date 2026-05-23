@@ -15,7 +15,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **66.1 General Provisions**
 
-- **(a)** This clause contains provisions, additional to the NES and [clause 53](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) of Section 1 (Annual Leave), that deal with the taking of paid annual leave as a way of dealing with the accrual of excessive paid annual leave.
+- **(a)** This clause contains provisions, additional to the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) and [clause 53](/ebas/has-managers-admin/common-terms/leave/53-annual-leave) of Section 1 (Annual Leave), that deal with the taking of paid annual leave as a way of dealing with the accrual of excessive paid annual leave.
 - **(b)** An Employee is deemed to have excessive leave accrual where the Employee has a
   - **(i)** more than 8 weeks’ paid annual leave; or
   - **(ii)** more than 10 weeks’ paid annual leave for Employees who are entitled to the Additional Week’s Annual Leave at sub- clause 53.4 of Section 1.

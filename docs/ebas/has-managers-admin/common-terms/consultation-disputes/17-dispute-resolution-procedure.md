@@ -19,7 +19,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(a)** For the purpose of this clause 17, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement;
-  - **(ii)** the NES;
+  - **(ii)** the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources);
   - **(iii)** a request for an additional 12 months parental leave; or
   - **(iv)** a request for flexible working arrangements.
 - **(c)** A party to the dispute may choose to be represented at any stage by a representative including the HWU or employer organisation. A representative, including the HWU or employer organisation on behalf of an Employer, may initiate a dispute.

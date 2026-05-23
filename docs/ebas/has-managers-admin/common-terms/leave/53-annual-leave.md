@@ -21,7 +21,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(b)** Part-time Employees will be entitled to annual leave on a pro rata basis.
 - **(c)** An Employee’s annual leave accrues progressively during a year of service according to the Employee’s ordinary hours of work, and accrues from year to year.
 
-**53.2 Shiftworker Definition for NES Purposes**
+**53.2 Shiftworker Definition for [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) Purposes**
 
 For the purposes of the NES a shiftworker is an Employee who is regularly rostered to work Sundays and public holidays.
 

@@ -29,7 +29,7 @@ mental health worker nurse mental health nurse community mental health AMHS auth
 
 - **(a)** This statement has been developed to explain the basis of the practice of RPNs in the field of mental health service provision in Victoria.
 - **(b)** Mental Health nursing is a distinct branch of the science of nursing.
-- **(c)** In Victoria, the body that formally regulates the registration of nurses is the Nursing and Midwifery Board of Australia, which was established under the HRP Act.
+- **(c)** In Victoria, the body that formally regulates the registration of nurses is the Nursing and Midwifery Board of Australia, which was established under the [HRP Act](https://www.legislation.vic.gov.au/in-force/acts/health-practitioner-regulation-national-law-victoria-act-2009/006).
 
 ---
 
@@ -444,7 +444,7 @@ Within the context of the definitions above, the following roles within each wor
   - **(D)** Manage the provision of all nursing and non-nursing services to the unit. 
   - **(E)** Co-ordinate the provision of mental health professional services to consumers.
   - **(F)** Maintain standards of professional Mental Health Nursing care and promote the training and professional development of all nursing staff on the unit. 
-  - **(G)** Ensure that the principles and objectives of the Mental Health and Wellbeing Act are applied. 
+  - **(G)** Ensure that the principles and objectives of the [Mental Health and Wellbeing Act 2022 (Vic)](https://www.health.vic.gov.au/mental-health-and-wellbeing-act) are applied. 
   - **(H)** Monitor and evaluate unit program activities and outcomes and report as required to the service's nursing executive on progress to units objectives, resourcing difficulties, staff training requirements, emerging clinical issues that may be addressed across a number of unit, etc. Develop and manage change as appropriate. 
   - **(I)** Supervise maintenance of consumer records by ensuring that unit staff complete all necessary paperwork. 
   - **(J)** Ensure that staffing rosters and staff deployment are organised to achieve effective and timely program delivery and efficient use of staff resources.

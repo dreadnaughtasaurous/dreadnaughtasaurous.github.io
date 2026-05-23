@@ -48,7 +48,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 ## 4. Occupational Health and Safety
 
-- **(a)** The provisions of this clause shall be read and interpreted subject to the *Occupational Health and Safety Act 2004* (VIC).
+- **(a)** The provisions of this clause shall be read and interpreted subject to the *[Occupational Health and Safety Act 2004 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045)* (VIC).
 - **(b)** The Employer will maintain a system of agreed designated work groups with employees, and their representatives which may include the Union.
 - **(c)** Elections for Employee occupational health and safety representatives shall be conducted by the employees and their representatives which may include the Union on behalf of the employer and the designated work group.
 - **(d)** Employees' representatives which may include the Union, shall be entitled to nominate an agreed number of occupational health and safety representatives to the employer's Occupational health and Safety Committee which shall comprise equal numbers of employer and employee representatives.
@@ -83,6 +83,6 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
   - **(xii)** Rest/therapeutic breaks may be taken away from the work area at the request of the Employee. Where necessary an agreed suitable rest area will be provided for the Employee on request.
   - **(xiii)** All reasonable workplace and/or work process modifications necessary to enable an Employee to return to (or remain at) work will be undertaken before the Employee commences (or continues) the return to work.
   - **(xiv)** Changes to the rehabilitation program will only be made after consultation with the injured Employee, the rehabilitation provider and/or the treating practitioner and, where requested, by the Employee or their union representative if applicable.
-  - **(xv)** All offers of employment made by the Employer will be made in writing and will comply with the *Workplace Injury Rehabilitation and Compensation Act 2013* (Vic) as amended from time to time and any regulations to that act. All offers of employment must include a detailed description of the job offered, the working hours and the remuneration applicable and be approved by the Employee's treating practitioner.
+  - **(xv)** All offers of employment made by the Employer will be made in writing and will comply with the *[Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053)* (Vic) as amended from time to time and any regulations to that act. All offers of employment must include a detailed description of the job offered, the working hours and the remuneration applicable and be approved by the Employee's treating practitioner.
 
 

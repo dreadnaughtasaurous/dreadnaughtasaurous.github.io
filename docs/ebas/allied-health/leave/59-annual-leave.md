@@ -25,7 +25,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **(a) Weekend worker**
 - **(i)** An Employee who is a Weekend Worker (as defined in [subclause 58.1](/ebas/allied-health/leave/58-public-holidays)) who works for more than four (4) ordinary hours on 10 or more weekends per year of continuous service is entitled to an additional 38 hours’ annual leave on the same terms and conditions.
-- **(ii)** The provisions of this subclause 59.2(a) have the same effect and give an Employee an entitlement to annual leave that is the same as the Employee’s entitlement under the NES relating to shiftworkers under 
+- **(ii)** The provisions of this subclause 59.2(a) have the same effect and give an Employee an entitlement to annual leave that is the same as the Employee’s entitlement under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) relating to shiftworkers under 
 For the purpose of the NES only a **shiftworker** is an Employee who is regularly rostered to work Sundays and public holidays.
 - **(iii)** An Employee’s entitlement to annual leave under this subclause 59.2(a) operates in parallel with the Employee’s NES entitlement, but not so as to give the Employee a double benefit.
 - **(iv)** A Weekend Worker whose employment is terminated at the end of a period of employment which is less than one (1) year from the date of commencement of the employment, or the date upon which the Employee last became entitled to annual leave, will be paid an amount equal to 1/48th of their ordinary pay in respect of that period of employment.

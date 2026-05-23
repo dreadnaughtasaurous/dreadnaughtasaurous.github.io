@@ -15,7 +15,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 >[23A inserted by PR701523 ppc 01Dec18; substituted by PR763327 ppc 01Aug23]
 
-Requests for flexible working arrangements are provided for in the NES.
+Requests for flexible working arrangements are provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 NOTE: Disputes about requests for flexible working arrangements may be dealt with under [clause 9](/ebas/childrens-services/consultation-disputes/9-dispute-resolution)—Dispute resolution and/or under section 65B of the Act. 
 

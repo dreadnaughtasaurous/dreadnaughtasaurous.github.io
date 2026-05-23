@@ -13,7 +13,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 # 18. Consultation
 
-Nothing in this clause limits the Employer’s obligations to consult with HSRs under the OHS Act.
+Nothing in this clause limits the Employer’s obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 **18.1 Consultation regarding Major Change**
 
@@ -72,7 +72,7 @@ Under this clause 18
   - **(v)** measures the Employer is considering that may mitigate or avert the effects of the proposed change
   - **(vi)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Employees or managers where reporting lines change
   - **(vii)** the right of an Affected Employee to have a representative including a Union representative at any time during the change process; and
-  - **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 or other legislation.
+  - **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or other legislation.
 - **(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with clause 18.4 will be raised as soon as practicable and before step 2.
 
 **18.5 Employee / Union response (step 2)** 

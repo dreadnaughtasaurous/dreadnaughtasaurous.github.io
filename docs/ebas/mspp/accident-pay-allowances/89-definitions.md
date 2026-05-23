@@ -13,7 +13,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 # 89. Definitions
 
-- **a.** Disability has the same meaning as section 4 of the Equal Opportunity Act 2010 (Vic) (**EO Act**) and includes:
+- **a.** Disability has the same meaning as section 4 of the [Equal Opportunity Act 2010 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) (**EO Act**) and includes:
   - **(i)** total or partial loss of a bodily function; or
   - **(ii)** presence in the body of organisms that may cause disease;
   - **(iii)** total or partial loss of a part of the body; or

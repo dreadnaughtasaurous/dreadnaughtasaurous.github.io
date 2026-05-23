@@ -34,12 +34,12 @@ The following meanings shall apply to the terms referred to below for the purpos
   - **(iii) Group B Employee** means, for the purpose of this clause 61, an Employee employed in Part 1 of Schedule 3D in Grade 11
   - **(iv) Institution** means any Employer, hospital or benevolent home, community health centre, Society or Association: 
     - **(A)** named in Schedule 1 of this Agreement; or 
-    - **(B)** that was registered and subsidised pursuant to the Health Services Act 1988 (Vic) or the former Hospital and Charities Act 1958 (Vic); or 
+    - **(B)** that was registered and subsidised pursuant to the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or the former Hospital and Charities Act 1958 (Vic); or 
     - **(C)** the Cancer Institute constituted under the Cancer Act 1958 (Vic); or 
     - **(D)** the Fairfield Hospital Board; or 
     - **(E)** the Bush Nursing Association, 
     - **(F)** and successors thereto.
-  - **(v) LSL Act** means the Long Service Leave Act 2018 (Vic).
+  - **(v) LSL Act** means the [Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006).
   - **(vi) Month** means a calendar month.
   - **(vii) Pay** means remuneration for an employee’s normal weekly hours of work calculated at the employee’s ordinary time rate of pay provided in Schedules 2B or 3B at the time the leave is taken or (if the Employee dies before the completion of leave so taken) as at the time of the Employee's death; and will include any allowances usually paid, and will also include the amount of any increase to the Employee’s ordinary time rate of pay which occurred during the period of leave as from the date of such increase operates provided that where accommodation is made available to an Employee during his/her period of leave.
 If an Employee does not have normal weekly hours of work, Pay is calculated in accordance with section 16 of the LSL Act.

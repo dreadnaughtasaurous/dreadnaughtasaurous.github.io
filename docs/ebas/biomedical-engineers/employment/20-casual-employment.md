@@ -33,7 +33,7 @@ A casual Employee will be paid for all work, other than for overtime (see [subcl
 
 **20.6** The hourly rate a casual staff member receives shall include a component paid in lieu of leave and public holiday entitlements.
 
-**20.7** Casual Employees are entitled to Long Service Leave in accordance with the *Long Service Leave Act 2018 (Vic)* (or applicable legislation).
+**20.7** Casual Employees are entitled to Long Service Leave in accordance with the *[Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006)* (or applicable legislation).
 
 Plain language terms: casual.
 

@@ -17,4 +17,4 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **8.2** Nothing in this Agreement will diminish any existing entitlement of any Employee covered by this Agreement, except where expressly varied by this Agreement.
 
-**8.3** This Agreement is not intended to exclude any part of the NES or to provide any entitlement which is detrimental to an Employee’s entitlement under the NES. For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to an Employee.
+**8.3** This Agreement is not intended to exclude any part of the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) or to provide any entitlement which is detrimental to an Employee’s entitlement under the NES. For the avoidance of doubt, the NES prevails to the extent that any aspect of this Agreement would otherwise be detrimental to an Employee.

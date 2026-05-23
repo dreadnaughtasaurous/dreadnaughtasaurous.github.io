@@ -15,7 +15,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **67.1 Purpose**
 
-**67.2** The purpose of this clause is to reflect the obligations of the EO Act with respect to reasonable adjustments for Employees with a disability. The obligations apply regardless of whether the disability is or has been the subject of a Workcover claim.
+**67.2** The purpose of this clause is to reflect the obligations of the [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) with respect to reasonable adjustments for Employees with a disability. The obligations apply regardless of whether the disability is or has been the subject of a Workcover claim.
 
 **67.3 Definitions**
 

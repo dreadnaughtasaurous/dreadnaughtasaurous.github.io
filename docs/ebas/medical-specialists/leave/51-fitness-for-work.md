@@ -53,7 +53,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 **51.3 Definitions**
 
-- **(a) Disability** has the same meaning as section 4 of the EO Act and includes:
+- **(a) Disability** has the same meaning as section 4 of the [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) and includes:
   - **(i)** total or partial loss of a bodily function; or
   - **(ii)** presence in the body of organisms that may cause disease;
   - **(iii)** total or partial loss of a part of the body; or

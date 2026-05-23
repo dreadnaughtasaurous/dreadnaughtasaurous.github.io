@@ -17,7 +17,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 - **(a) 2016 Agreement** means the Nurses and Midwives (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2016-2020.
 - **(b) 2020 Agreement** means the Nurses and Midwives (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2020-2024.
-- **(c) Act** means the *Fair Work Act 2009* (Cth).
+- **(c) Act** means the *[Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text)* (Cth).
 - **(d) ADO** means an accrued day off as defined by [clause 43.1](/ebas/nurses-midwives/hours-of-work/43-accrued-days-off).
 - **(e) Adoption** includes the placement of a Child (as defined in [clause 68](/ebas/nurses-midwives/leave/68-parental-leave) (Parental Leave)) by permanent care order and includes kinship care where it is comparable to adoption, having regard for all the circumstances.
 - **(f) Allowable Period of Absence** means five weeks in addition to the total period of paid annual, long service or personal leave which the Employee actually receives on termination or for which they are paid in lieu.
@@ -27,7 +27,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(j) Bank Employee** means a directly employed casual Employee who is engaged in relieving work of a casual nature.
 - **(k) Campus** means a site operated by an Employer that provides day procedure surgery or multi-day inpatient services or residential aged care but excludes:
   - **(i)** a site that is a Community Health Centre;
-  - **(ii)** a site where the only service is Aged Care beds that do not meet the definition of High Care beds under the Safe Patient Care Act;
+  - **(ii)** a site where the only service is Aged Care beds that do not meet the definition of High Care beds under the [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011);
   - **(iii)** Dental Health Services Victoria;
   - **(iv)** Private residences; and
   - **(v)** a Campus during any period of a formal written Agreement signed by the ANMF Branch Secretary and the Employer made after 24 August 2020 and before 1 July 2021 specifying that the Campus is excluded from the operation of this clause,
@@ -44,7 +44,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(r) EFT** means equivalent full-time Employee.
 - **(s) Employee** means a Registered Nurse, Registered Midwife, Enrolled Nurse, Registered Undergraduate Student of Nursing, Registered Undergraduate Student of Midwifery or Registered Enrolled Nurse Student as described in [clause 106](/ebas/nurses-midwives/safe-patient-care/106-undergraduate-employment-models) or Trainee Enrolled Nurse as described in [clause 94](/ebas/nurses-midwives/classification-staffing/94-trainee-enrolled-nurses) employed by an Employer covered by this Agreement.
 - **(t) Employer** means any of the health sector agencies listed in [Appendix 1](/ebas/nurses-midwives/appendices/01-list-of-employers).
-- **(u) Enrolled Nurse** means a person registered in Division 2 Enrolled Nurses of the Register of Nurses of the Nursing and Midwifery Board of Australia established by the Health Practitioner Regulation National Law Act 2009 and includes a person:
+- **(u) Enrolled Nurse** means a person registered in Division 2 Enrolled Nurses of the Register of Nurses of the Nursing and Midwifery Board of Australia established by the [Health Practitioner Regulation National Law Act](https://www.legislation.vic.gov.au/in-force/acts/health-practitioner-regulation-national-law-victoria-act-2009/006) 2009 and includes a person:
   - **(i)** registered in Division 2 Enrolled Nurses of the Register of Nurses of the Nursing and Midwifery Board of Australia established by the Health Practitioner Regulation National Law Act 2009 with a standard condition "may practise only in the area of mothercraft nursing"; or
   - **(ii)** with an equivalent qualification and role as described in subclause 4.1(u)(i) above, including an early parenting practitioner employed in an Early Parenting Centre who is not a nurse,
   
@@ -55,23 +55,23 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
   > **Example:**
   > A Registered or Enrolled Nurse who works in an ED Hub in an Emergency Department providing treatment for people that present with mental health and alcohol and other drug issues is covered by this Agreement given the work of the relevant department as a whole.
 
-- **(v) EO Act** means the *Equal Opportunity Act 2010* (Vic).
+- **(v) EO Act** means the *[Equal Opportunity Act 2010 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032)* (Vic).
 - **(w) Experience** means paid service whether in Australia or internationally as a registered nurse, registered midwife or enrolled nurse, following registration by the professional registration body, in a Level in which the Employee is, or is about to be, employed except:
   - **(i)** where an IQNM is granted registration with conditions, previous experience will not be counted whilst the conditions are in place. Experience as defined will count once there are no longer conditions in place;
   - **(ii)** where an IQNM is granted registration subject to successful completion of a bridging program previous experience will not be counted;
   - **(iii)** where an IQNM is required by the Australian professional registration body to undertake an outcome-based assessment (OBA) previous experience will not be counted.
 - **(x) FFPPOOA** means first full pay period on or after.
-- **(y) FW Regulations** means the *Fair Work Regulations 2009* (Cth) as amended or replaced from time to time.
+- **(y) FW Regulations** means the *[Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text)* (Cth) as amended or replaced from time to time.
 - **(z) Hospital Certificate** does not include an Employee's base qualification.
 - **(aa) HSU** means the Health Services Union.
-- **(bb) HSR** means a health and safety representative (including a deputy health and safety representative) elected under the OHS Act.
+- **(bb) HSR** means a health and safety representative (including a deputy health and safety representative) elected under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 - **(cc) Immediate family** means:
   - **(i)** a spouse (including a former spouse, a de facto partner and a former de facto partner) of the Employee. A de facto partner means a person who, although not legally married to the Employee, lives with the Employee in a relationship as a couple on a genuine domestic basis (whether the Employee and the person are of the same sex or different sexes);
   - **(ii)** a child or an adult child (including an adopted child, a step child, a current foster child of the Employee or an ex nuptial child), parent, grandparent, grandchild or sibling of the Employee or of the Employee's spouse.
 - **(dd) IQNM** means an Internationally Qualified Nurse or Midwife.
 - **(ee) Kin** of a person is another person who is related to the first person according to Aboriginal or Torres Strait Islander kinship rules and kinship has a corresponding meaning.
 - **(ff) Level** for the purposes of this clause 4 means a role in which the weekly salary in Schedule 2 for that role is at least equal to or comparable to the weekly salary in Schedule 2 for the position in which the Employee is, or is about to be, employed.
-- **(gg) NES** means the National Employment Standards as contained in sections 59 to 131 of the Act.
+- **(gg) [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)** means the National Employment Standards as contained in sections 59 to 131 of the Act.
 - **(hh) MUM** means an Employee who is a Registered Midwife appointed as a Midwife Unit Manager in charge of a maternity ward or unit and who is classified at the Nurse Manager grade of NM 2, 3 or 4 in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
 - **(ii) NUM** means an Employee who is a Registered Nurse appointed as a Nurse Unit Manager in charge of a ward or unit and who is classified at the Nurse Manager grade of NM 2, 3 or 4 in accordance with [clause 84.4](/ebas/nurses-midwives/classification-staffing/84-translation-arrangements-for-registered-nurses-midwives).
 - **(jj) Nurse** means a Registered Nurse or Enrolled Nurse.
@@ -94,7 +94,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 - **(uu) Union** means ANMF for all Employees or HSU (with respect to Enrolled Nurses only). When used in the plural, Unions means the ANMF and the HSU (with respect to Enrolled Nurses only).
 - **(vv) VHIA** means the Victorian Hospitals' Industrial Association.
 - **(ww) WIC** means the Workplace Implementation Committee referenced at [clause 80.10](/ebas/nurses-midwives/union-matters/80-union-matters).
-- **(xx) WIRC Act** means the *Workplace Injury Rehabilitation and Compensation Act 2013* (Vic), or if applicable in the particular situation the *Accident Compensation Act 1985* (Vic) or the *Workers Compensation Act 1958* (Vic).
+- **(xx) WIRC Act** means the *[Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053)* (Vic), or if applicable in the particular situation the *[Accident Compensation Act 1985 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/accident-compensation-act-1985/236)* (Vic) or the *[Workers Compensation Act 1958 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workers-compensation-act-1958/161)* (Vic).
 - **(yy) a Year of Experience** in this Agreement means:
   - **(i)** an average of three shifts or more per week in a year. If the Employee averages less than three shifts per week or 48 hours per fortnight (whichever is the lesser), the Employee will need to complete an additional year to advance;
   - **(ii)** in the case of an IQNM registering in Australia for the first time who was not required by the Australian professional registration body to undertake either a bridging program or outcome-based assessment (**OBA**), a Year of Experience means:

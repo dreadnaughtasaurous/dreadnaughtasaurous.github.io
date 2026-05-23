@@ -65,7 +65,7 @@ Before attending an IME, the Employee may:
 
 **55.8 Relationship to WIRC**
 
-This clause 55 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+This clause 55 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) including the Employer's obligation to provide a safe work environment.
 
 **55.9 Safe Work Environment is paramount**
 
@@ -76,7 +76,7 @@ Nothing in this clause 55 prevents an Employer from taking any reasonable step i
 - **(a)** Where Employees have a Disability (whether permanent or temporary) the Employer is required to make Reasonable Adjustments to enable the Employee to continue to perform their duties, subject to subclause 55.10(b) below.
 - **(b)** An Employer is not required to make Reasonable Adjustments if the Employee could not or cannot adequately perform the genuine and reasonable requirements of the employment even after the adjustments are made.
 - **(c) Definitions**
-  - **(i)** **Disability** has the same meaning as section 4 of the Equal Opportunity Act 2010 (Vic) (**EO Act**) and includes:
+  - **(i)** **Disability** has the same meaning as section 4 of the [Equal Opportunity Act 2010 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) (**EO Act**) and includes:
     - **(A)** total or partial loss of a bodily function;
     - **(B)** presence in the body of organisms that may cause disease;
     - **(C)** total or partial loss of a part of the body; or

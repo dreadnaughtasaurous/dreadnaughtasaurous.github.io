@@ -718,7 +718,7 @@ A Grade 1 Employee can demonstrate most or all of the following features:
 - **(iii)** contribute to the gathering of resources and information to support consumers and/or their families/carers
 - **(iv)** develop the ability to establish trusting relationships with consumers and/or their carers/families
 - **(v)** awareness of policies and processes in area of operation
-- **(vi)** awareness of applicable legislation in area of operation, including the *Mental Health and Wellbeing Act 2022* (Vic)
+- **(vi)** awareness of applicable legislation in area of operation, including the *[Mental Health and Wellbeing Act 2022 (Vic)](https://www.health.vic.gov.au/mental-health-and-wellbeing-act)* (Vic)
 - **(vii)** participate in clinical review processes and team activities
 
 **1.2(e) Service Delivery**

@@ -34,11 +34,11 @@ The following meanings shall apply to the terms referred to below for the purpos
 
 **(b)** **Institution** means any employer, health service, hospital or benevolent home, community health centre, society or association:
 - **(i)** named in [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers) of this Agreement;
-- **(ii)** that was created or registered under the Health Services Act 1988 (Vic) or the former Hospital and Charities Act 1958 (Vic); or
+- **(ii)** that was created or registered under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or the former Hospital and Charities Act 1958 (Vic); or
 - **(iii)** the Cancer Institute constituted under the Cancer Act 1958 (Vic);
 - **(iv)** and successors thereto.
 
-- **(c)** **LSL Act** means the Long Service Leave Act 2018 (Vic).
+- **(c)** **LSL Act** means the [Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006).
 - **(d)** **Month** means a calendar month.
 - **(e)** **Pay** means remuneration for an Employee’s normal weekly hours of work calculated at the Employee’s ordinary time rate of pay provided in [Appendix 2](/ebas/allied-health/appendices/2-wage-rates) at the time the leave is taken or (if the Employee dies before the completion of leave so taken) as at the time of the Employee's death, and will include the amount of any increase to the Employee’s ordinary time rate of pay which occurred during the period of leave as from the date of such increase operates. Where a part-time Employee's hours fluctuate because the Employee works additional ordinary shifts (but excluding a permanent variation), the 'normal weekly hours of work' will be calculated by taking an average over the preceding 12 months where this is more favourable to the Employee.
 - **(f)** **Pay for a casual Employee** means the remuneration for the Employee’s normal weekly hours of work at their ordinary pay calculated in accordance with sections 15 and 16 of the LSL Act.

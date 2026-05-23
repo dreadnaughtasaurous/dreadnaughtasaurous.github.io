@@ -22,7 +22,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 - **(a)** For the purpose of this clause 12, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months’ parental leave);
-  - **(ii)** the NES;
+  - **(ii)** the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources);
   - **(iii)** matters purported to be saved due to the operation of the Savings provision; or
   - **(iv)** the 2018 Specialists or Doctors in Training Agreement where a dispute was identified in writing to the Health Service prior to this Agreement coming into operation including where a Doctor has since left the Health Service where the dispute was notified and has commenced employment with another Health Service covered by this Agreement
 - **(c)** A **Party** for the purposes of this clause is the Doctor/s or the Employer that are subject to the dispute.

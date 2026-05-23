@@ -133,7 +133,7 @@ For the purposes of this clause 61:
   - **(iv)** Such agreement must be in writing and signed by the parties. The Eligible Employee must nominate a preferred payment arrangement at least four (4) weeks prior to the expected date of birth or date of placement of the Child.
   - **(v)** In the absence of agreement, such leave will be paid during the ordinary pay periods corresponding with the period of the leave.
   - **(vi)** A variation to the payment of paid parental leave resulting in the paid leave being spread over more than 10 weeks does not affect the period of continuous service recognised. For example, an Employee taking 20 weeks at half pay will, for the purpose of calculating continuous service, have ten weeks of continuous service recognised. An Employee taking five (5) weeks at double pay will have 10 weeks of continuous service recognised.
-  - **(vii)** The paid parental leave prescribed by this subclause 61.6 will be concurrent with any relevant unpaid entitlement prescribed by the NES/this Agreement.
+  - **(vii)** The paid parental leave prescribed by this subclause 61.6 will be concurrent with any relevant unpaid entitlement prescribed by the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)/this Agreement.
 
 **61.7 Notice and Evidence Requirements**
 

@@ -16,7 +16,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **143A.1 Gender based undervaluation proceedings**
 
 - **(a)** Through proceedings known as the Gender-based Undervaluation – Priority Awards review (AM2024/19 – 23) the Fair Work Commission (Commission) has considered whether identified classifications in five modern awards have been the subject of gender-based undervaluation.
-- **(b)** On 16 April 2024 the Commission published a Decision in the matter, which included among other things a finding that the work of health professionals covered by the Health Professionals and Support Services Award 2020 (HPSS Award) has been the subject of gender undervaluation.
+- **(b)** On 16 April 2024 the Commission published a Decision in the matter, which included among other things a finding that the work of health professionals covered by the [Health Professionals and Support Services Award 2020](https://awards.fairwork.gov.au/MA000027.html) (HPSS Award) has been the subject of gender undervaluation.
 - **(c)** In the Decision the Commission also provided provisional views about variations to awards that it considered would be appropriate to remedy the gender-based undervaluation. These views continue to be the subject of further proceedings at the Commission (AM2024/20).
 - **(d)** Given the provisional views expressed by the Commission, it is anticipated that an outcome of the gender-based undervaluation review by the Commission will be a decision that requires HPSS Award wage rates to be increased during the life of this Agreement to remedy the gender-based undervaluation (the HPSS Award increase Decision).
 

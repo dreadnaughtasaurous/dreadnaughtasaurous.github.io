@@ -31,7 +31,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 - **(a)** The employer must pay an employee no later than 7 days after the day on which the employee’s employment terminates:
   - **(i)** the employee’s wages under this award for any complete or incomplete pay period up to the end of the day of termination; and
-  - **(ii)** all other amounts that are due to the employee under this award and the NES.
+  - **(ii)** all other amounts that are due to the employee under this award and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 - **(b)** The requirement to pay wages and other amounts under paragraph (a) is subject to further order of the Commission and the employer making deductions authorised by this award or the Act.
 

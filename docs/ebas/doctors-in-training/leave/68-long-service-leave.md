@@ -22,7 +22,7 @@ The following meanings shall apply to the terms referred to below for the purpos
 - **(a)** **Casual Doctor** means a Doctor classified or employed as such at the time they apply for or commence long service leave;
 - **(b)** **Full-time Doctor** means a Doctor classified or employed as such at the time they apply for or commence long service leave;
 - **(c)** **Part-time Doctor** means a Doctor classified or employed as such at the time they apply for or commence long service leave;
-- **(d)** **LSL Act** means the Long Service Leave Act 2018 (Vic).
+- **(d)** **LSL Act** means the [Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006).
 - **(e)** **Month** means a calendar month.
 - **(f)** **Pay** means:
   - **(i)** for a Full-time Doctor or Part-time Doctor, remuneration for a Doctor's normal weekly hours of work calculated at their ordinary time rate of pay at the time the leave is taken or (if they die before the completion of leave so taken) as at the time of their death; and
@@ -48,7 +48,7 @@ The following meanings shall apply to the terms referred to below for the purpos
 - **(a) Definitions:**
   - **(i)** **Allowable Period of Absence** means the greater of:
     - A. five weeks in addition to the total period of paid annual leave and/or personal leave that the Doctor actually receives on termination, or for which they are paid in lieu; or
-    - B. such longer period of absence equivalent to and for the purpose of parental leave under the NES.
+    - B. such longer period of absence equivalent to and for the purpose of parental leave under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
   - **(ii)** **Continuous Service** means continuous service with the same Health Service plus any prior continuous service of six months or more with one or more Institutions or Statutory Bodies directly associated with such Institutions.
   - **(iii)** **Continuous Casual Employment** means, for the purpose of clause 68.3(b), a period or periods of employment as a Casual Doctor (or another form of casual employment) with the same Health Service that are taken to be continuous, because one of the following applies:
     - **A.** the period starting at the end of a particular instance of employment and ending at the start of another particular instance of employment did not exceed the greater of the Allowable Period of Absence (where applicable), or 12 weeks;

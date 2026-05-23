@@ -18,7 +18,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 **50.1 Entitlement to be absent with pay**
 
 - **(a)** An Employee is entitled to be absent from their employment on a day or part-day that is a public holiday in the place where the Employee is based for work purposes.
-- **(b)** However, the Employer may request an Employee to work on a public holiday if the request is reasonable. If the Employer requests an Employee to work on a public holiday, in accordance with the NES, the Employee may refuse the request if:
+- **(b)** However, the Employer may request an Employee to work on a public holiday if the request is reasonable. If the Employer requests an Employee to work on a public holiday, in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), the Employee may refuse the request if:
   - **(i)** the request is not reasonable; or
   - **(ii)** the refusal is reasonable.
 - **(c)** If, in accordance with the NES, an Employee is absent from their employment on a day or part-day that is a public holiday the Employer must:

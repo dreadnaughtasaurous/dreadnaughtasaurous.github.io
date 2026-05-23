@@ -69,6 +69,6 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 **64.8** The Employer must only seek information regarding the Employee’s capacity to work related to the concerns at subclause 64.2(a), including from any medical practitioner an Employee attends under subclause 64.3 or 64.4, and will not request confidential medical information under subclause 64.2, 64.3 and 64.4.
 
-**64.9** This clause 64 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+**64.9** This clause 64 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) including the Employer's obligation to provide a safe work environment.
 
 Plain language terms: fit for duty, medical assessment.

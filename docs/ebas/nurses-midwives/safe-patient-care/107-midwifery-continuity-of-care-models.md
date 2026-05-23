@@ -13,7 +13,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse NUM nurse unit
 
 # 107. Midwifery Continuity of Care Models
 
-**107.1 Safe Patient Care Act**
+**107.1 [Safe Patient Care Act](https://www.legislation.vic.gov.au/in-force/acts/safe-patient-care-nurse-patient-and-midwife-patient-ratios-act-2015/011)**
 
 Nothing in this clause permits variations inconsistent with the minimum ratio requirements prescribed by or made under the *Safe Patient Care Act*.
 

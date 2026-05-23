@@ -33,7 +33,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **21.7** Payment in respect of any period of personal leave (where an Employee has an accumulated entitlement) will be made according to the ordinary hours the Employee would have worked on the day or days on which the leave was taken.
 
-**21.8** Any period of annual leave or personal leave will accrue according to the ordinary hours of work in accordance with the NES.
+**21.8** Any period of annual leave or personal leave will accrue according to the ordinary hours of work in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **21.9** Notwithstanding the above, a part-time Employee who is employed on a regular basis for four hours or less per week will be paid according to [clause 23](/ebas/has-managers-admin/common-terms/employment-types/23-casual-employment) (Casual Employment).
 

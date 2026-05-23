@@ -15,7 +15,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 **38.1 Purpose**
 
-This clause concerns the prevention and management of Workplace Bullying and requires Employers to take actions consistent with their obligations under the OHS Act. Workplace Bullying is an occupational health and safety risk.
+This clause concerns the prevention and management of Workplace Bullying and requires Employers to take actions consistent with their obligations under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045). Workplace Bullying is an occupational health and safety risk.
 
 **38.2 Definitions**
 

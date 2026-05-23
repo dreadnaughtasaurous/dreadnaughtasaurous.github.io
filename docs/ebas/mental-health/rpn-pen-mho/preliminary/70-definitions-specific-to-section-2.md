@@ -16,7 +16,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 **70.1** The following definitions will apply in Section 2 of the Agreement:
 
 - **(a) IQN** means Internationally Qualified Nurse
-- **(b) shift worker**, for the purposes of the NES, means an Employee who is rostered and works over seven days of the week throughout the qualifying 12 months period of service
+- **(b) shift worker**, for the purposes of the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), means an Employee who is rostered and works over seven days of the week throughout the qualifying 12 months period of service
 - **(c) Experience** means paid service whether in Australia or internationally as a registered nurse, or enrolled nurse, following registration by the professional registration body, in a grade in which the Employee is, or is about to be, employed except:
   - **(i)** where an IQN is granted registration with conditions, previous experience will not be counted whilst the conditions are in place. Experience as defined will count once there are no longer conditions in place:
   - **(ii)** where an IQN is granted registration subject to successful completion of a bridging program previous experience will not be counted

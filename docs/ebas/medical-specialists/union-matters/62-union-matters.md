@@ -43,7 +43,7 @@ A Health Service will ensure that:
 **62.4 AMA / ASMOF Ambassador (Ambassador) and Health & Safety Representatives**
 
 > **Note:**
-> Additional rights of HSRs are contained in the OHS Act.
+> Additional rights of HSRs are contained in the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 - **(a)** In this subclause 62.4, Representative means an Ambassador or HSR.
 - **(b)** A Representative is entitled to reasonable time release from duty to:

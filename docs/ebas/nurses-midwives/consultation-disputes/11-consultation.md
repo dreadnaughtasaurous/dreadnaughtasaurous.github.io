@@ -13,7 +13,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 11. Consultation
 
-*Nothing in this clause 11 limits the Employer's obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause 11 limits the Employer's obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).*
 
 **11.1 Consultation regarding Major Change**
 

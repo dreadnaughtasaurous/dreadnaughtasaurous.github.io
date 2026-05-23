@@ -15,6 +15,6 @@ childrens services childcare worker early childhood educator family day care ECE
 
 The employer must ensure that copies of this award and the [NES](http://www.fwc.gov.au/documents/awards/resources/nes.pdf) are available to all employees to whom they apply either on a noticeboard which is conveniently located at or near the workplace or through electronic means, whichever makes them more accessible.
 
-Plain language terms: copy of award, NES access.
+Plain language terms: copy of award, [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) access.
 
 

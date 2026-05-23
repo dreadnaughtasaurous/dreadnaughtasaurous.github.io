@@ -15,10 +15,10 @@ childrens services childcare worker early childhood educator family day care ECE
 
 **3.1** In this award, unless the contrary intention appears:
 
-- **Act** means the *Fair Work Act 2009* (Cth)
+- **Act** means the *[Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text)* (Cth)
 - **adjunct care** means care provided within a facility where the parent or guardian remains responsible for the child and remains close by, usually on the premises
 - **adult apprentice** means an apprentice who is 21 years of age or over at the commencement of their apprenticeship
-- **agreement-based transitional instrument** has the meaning in the *Fair Work (Transitional Provisions and Consequential Amendments) Act 2009* (Cth)
+- **agreement-based transitional instrument** has the meaning in the *[Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00055/latest/text)* (Cth)
 - **AQF** means the Australian Qualifications Framework
 - **award-based transitional instrument** has the meaning in the *Fair Work (Transitional Provisions and Consequential Amendments) Act 2009* (Cth)
 - **casual employee** has the meaning given by section 15A of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
@@ -27,7 +27,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 - **childcare** means a program providing care, support supervision and development for children
 - **children's services and early childhood education industry** means the industry of long day care, occasional care (including those occasional care services not licensed), nurseries, childcare centres, day care facilities, family based childcare, out-of-school hours care, vacation care, adjunct care, in-home care, kindergartens and preschools, mobile centres and early childhood intervention programs
-- **default** **fund employee** means an employee who has no chosen fund within the meaning of the *Superannuation Guarantee (Administration) Act 1992* (Cth)
+- **default** **fund employee** means an employee who has no chosen fund within the meaning of the *[Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text)* (Cth)
 - **defined benefit member** has the meaning given by the *Superannuation Guarantee (Administration) Act 1992* (Cth)
 - **Division 2B State award** has the meaning in Schedule 3A of the *Fair Work (Transitional Provisions and Consequential Amendments) Act 2009* (Cth)
 - **Division 2B State employment agreement** has the meaning in Schedule 3A of the *Fair Work (Transitional Provisions and Consequential Amendments) Act 2009* (Cth)
@@ -36,10 +36,10 @@ childrens services childcare worker early childhood educator family day care ECE
 - **employer** means national system employer within the meaning of the Act
 - **enterprise** has the meaning given by section 12 of the [Act](http://www.legislation.gov.au/Series/C2009A00028).
 - **enterprise award-based instrument** has the meaning in the *Fair Work (Transitional Provisions and Consequential Amendments) Act 2009* (Cth)
-- **exempt public sector superannuation scheme** has the meaning given by the *Superannuation Industry (Supervision) Act 1993* (Cth)
+- **exempt public sector superannuation scheme** has the meaning given by the *[Superannuation Industry (Supervision) Act 1993 (Cth)](https://www.legislation.gov.au/C2004A04633/2017-03-01/text)* (Cth)
 - **MySuper product** has the meaning given by the *Superannuation Industry (Supervision) Act 1993* (Cth)
 - **long day care centre** means a childcare establishment which usually provides services over a period of approximately eight hours or more each day for approximately 48 weeks or more during the year
-- **NES** means the [National Employment Standards](https://www.fwc.gov.au/documents/awards/resources/nes.pdf) as contained in [sections 59 to 131](http://www.fwc.gov.au/documents/awards/resources/nes.pdf) of the *Fair Work Act 2009* (Cth)
+- **[NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)** means the [National Employment Standards](https://www.fwc.gov.au/documents/awards/resources/nes.pdf) as contained in [sections 59 to 131](http://www.fwc.gov.au/documents/awards/resources/nes.pdf) of the *Fair Work Act 2009* (Cth)
 - **occasional care** means a service that provides short-term childcare
 - **on-hire** means the on-hire of an employee by their employer to a client, where such employee works under the general guidance and instruction of the client or a representative of the client
 - **out-of-school hours care** means a program providing childcare and recreation before and/or after school hours and/or during school vacation periods

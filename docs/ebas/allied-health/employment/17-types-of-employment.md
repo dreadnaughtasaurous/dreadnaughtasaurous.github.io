@@ -34,7 +34,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
     - **(i)** Clause 47 – Hours of Work;
     - **(ii)** Clause 48 – Accrued Days Off;
     - **(iii)** Clause 52 – Overtime; shall apply to the Employee’s employment with the Employer as though the positions were one (1) position. This includes the limits for ordinary hours as provided by subclauses 47.1 and 47.2 (a maximum of eight (8) ordinary hours, or by agreement up to ten (10) ordinary hours, per shift).
-- **(d)** the positions will be considered one (1) position for the purposes of accrual and access to leave under this Agreement and the NES, and the following :
+- **(d)** the positions will be considered one (1) position for the purposes of accrual and access to leave under this Agreement and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), and the following :
     - **(i)** Clause 32 – Accident Pay;
     - **(ii)** Clause 36.1 – Meal Allowance;
     - **(iii)** Clause 34 – Sole Allowance;

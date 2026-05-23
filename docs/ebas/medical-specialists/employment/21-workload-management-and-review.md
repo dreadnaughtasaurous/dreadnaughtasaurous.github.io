@@ -25,7 +25,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 **21.4 Safe Workload**
 
-The Health Service is obliged by the OHS Act to provide a safe workplace. This includes ensuring that workloads are not unreasonable. It is recognised that managing workload is necessary to ensure a safe work environment and to ensure that the operational requirements of the Health Service are met.
+The Health Service is obliged by the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) to provide a safe workplace. This includes ensuring that workloads are not unreasonable. It is recognised that managing workload is necessary to ensure a safe work environment and to ensure that the operational requirements of the Health Service are met.
 
 ---
 

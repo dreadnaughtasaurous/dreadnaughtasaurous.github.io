@@ -15,7 +15,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 
 # 47. Annual Leave
 
-**47.1** In accordance with the NES, a Doctor is entitled to **four weeks’** annual leave and Shiftworkers are entitled to **five weeks’** annual leave. The remainder of this clause contains additional provisions dealing with annual leave.
+**47.1** In accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), a Doctor is entitled to **four weeks’** annual leave and Shiftworkers are entitled to **five weeks’** annual leave. The remainder of this clause contains additional provisions dealing with annual leave.
 
 **47.2** Doctors who are required by the Health Service to make themselves available to participate in the Health Service’s On-Call roster, and regularly accept calls from the Health Service, are entitled to **five weeks’** annual leave (pro rata) each year.
 

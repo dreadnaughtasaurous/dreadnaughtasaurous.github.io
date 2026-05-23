@@ -15,7 +15,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **6.1** In this Section 1:
 
-- **(a) Act** means the Fair Work Act 2009 (Cth).
+- **(a) Act** means the [Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text).
 - **(b) Adoption** includes the placement of a child under a permanent care order.
 - **(c) Agreement** means the Victorian Public Health Sector (Health and Allied Services, Managers and Administrative Workers) Single Interest Enterprise Agreement 2020-2024.
 - **(d) AIC** means the applicable agreement implementation committee continuing or established under 70.10.
@@ -25,7 +25,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(h) Dental Assistant** means an Employee classified in accordance with Part 2 of [Schedule 2D](/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services) of this Agreement, and paid pursuant to Part 2 of [Schedule 2B](/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services).
 - **(i) Department Head** means a person responsible for a department or section of the hospital or health service covered by this Agreement.
 - **(j) Department** refers to Employees within a department who are covered by this Agreement.
-- **(k) Designated Work Group** means a group of Employees within a workplace that are entitled to elect an HSR in accordance with the OHS Act.
+- **(k) Designated Work Group** means a group of Employees within a workplace that are entitled to elect an HSR in accordance with the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 - **(l) DH** means the Department of Health
 - **(m) DHSV** means Dental Health Services Victoria.
 - **(n) Divisional Director** means a person appointed as such by the Employer.
@@ -43,13 +43,13 @@ HAS HASMA health administrative services manager administrative worker clerical 
 - **(x) Manager and Administrative Worker** means an Employee classified in accordance with Part 1 of [Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers) or Part 2 of
 - **(y) Medical certificate** means a certificate from a medical practitioner.
 - **(z) Medical practitioner** means a person registered as a medical practitioner by the Medical Board of Australia.
-- **(aa) Modern Award** means the Health Professionals and Support Services Award 2020.
-- **(bb) National Employment Standards or NES** means Part 2-2 of the Act as amended from time to time.
+- **(aa) Modern Award** means the [Health Professionals and Support Services Award 2020](https://awards.fairwork.gov.au/MA000027.html).
+- **(bb) National Employment Standards or [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)** means Part 2-2 of the Act as amended from time to time.
 - **(cc) not employed by Royal Women’s Hospital or Royal Children’s Hospital** means classified under Part 1 of [Schedule 3D](/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers).
 - **(dd) OHS Act** means the Occupational Health and Safety Act 2004 (Vic) as varied from time to time, or any successor to that Act.
 - **(ee) Party** means the Employer, Employees and the HWU who are covered by this Agreement.
 - **(ff) School age**, in relation to a child, means the age at which the child is required by law to attend school.
 - **(gg) Spouse** includes a former spouse.
 - **(hh) VHIA** means the Victorian Hospitals’ Industrial Association.
-- **(ii) WIRC Act** means the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or if applicable in the particular situation the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic).
+- **(ii) WIRC Act** means the [Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053), or if applicable in the particular situation the [Accident Compensation Act 1985 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/accident-compensation-act-1985/236) or the [Workers Compensation Act 1958 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workers-compensation-act-1958/161).
 - **(jj) Previous Agreement** shall mean the Victorian Public Health Sector (Health and Allied Services, Managers and Administrative Workers) Single Interest Enterprise Agreement 2016-2020.

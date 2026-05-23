@@ -17,7 +17,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 > **Note:** This clause was previously titled Accident Make-Up Pay.
 
-**30.1 Entitlement to compensation make-up pay** An Employee receiving compensation for incapacity under the WIRC Act will be entitled to compensation make up pay from the Employer who is liable to pay compensation in accordance with this clause (including pro rata for any part of the week).
+**30.1 Entitlement to compensation make-up pay** An Employee receiving compensation for incapacity under the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) will be entitled to compensation make up pay from the Employer who is liable to pay compensation in accordance with this clause (including pro rata for any part of the week).
 
 **30.2 Definitions**
 

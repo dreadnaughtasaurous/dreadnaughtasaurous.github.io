@@ -13,7 +13,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 # 4. Definitions
 
-**4.1** **Act** means the Fair Work Act 2009 (Cth), or its successor.
+**4.1** **Act** means the [Fair Work Act 2009 (Cth)](https://www.legislation.gov.au/C2009A00028/latest/text), or its successor.
 
 **4.2** **Agreement** means the Biomedical Engineers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2024-2028.
 
@@ -42,9 +42,9 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 - **(a)** a Spouse, Child, parent, grandparent, grandchild or sibling of the Employee; or
 - **(b)** a child, parent, grandparent, grandchild or sibling of a Spouse of the Employee.
 
-**4.11** **National Employment Standards** or **NES** means Part 2-2 of the Act as amended from time to time.
+**4.11** **National Employment Standards** or **[NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)** means Part 2-2 of the Act as amended from time to time.
 
-**4.12** **OHS Act** means the Occupational Health and Safety Act 2004 (Vic), or its successor.
+**4.12** **OHS Act** means the [Occupational Health and Safety Act 2004 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045), or its successor.
 
 **4.13** **Professional Engineering Duties** shall mean duties carried out by a person, in their particular employment, the adequate discharge of any portion of their duties requires the Employee to hold qualifications (or of at least equal to those of) a Graduate member of the Institute of Engineers Australia.
 
@@ -58,9 +58,9 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 - **(d)** likely to result in a significant loss in efficiency or productivity;
 - **(e)** likely to have a significant negative impact on customer service.
 
-**4.16** **Registered Health Practitioner** means an individual who is registered under the Health Practitioner Regulation National Law (as adopted in the applicable State or Territory) to practice a health profession, other than as a student.
+**4.16** **Registered Health Practitioner** means an individual who is registered under the [Health Practitioner Regulation National Law](https://www.legislation.vic.gov.au/in-force/acts/health-practitioner-regulation-national-law-victoria-act-2009/006) to practice a health profession, other than as a student.
 
-**4.17** **Regulations** means the Fair Work Regulations 2009 (Cth), or its successor.
+**4.17** **Regulations** means the [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text), or its successor.
 
 **4.18** **Spouse** includes a person to whom an Employee is married, a de facto partner, former spouse, or former de facto partner of the Employee. A de facto partner means a person who, although not legally married to the Employee, lives with the Employee in a relationship as a couple (whether the same sex or different sexes) on a genuine domestic basis.
 
@@ -74,7 +74,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 **4.21** **VHIA** means the Employer’s Representative, the Victorian Hospitals’ Industrial Association.
 
-**4.22** **WIRC Act** means the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or if applicable in the particular situation the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic).
+**4.22** **WIRC Act** means the [Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053), or if applicable in the particular situation the [Accident Compensation Act 1985 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/accident-compensation-act-1985/236) or the [Workers Compensation Act 1958 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workers-compensation-act-1958/161).
 
 **4.23** **2022 Agreement** means the Biomedical Engineers (Victorian Public Sector) Enterprise Agreement 2022-2023.
 

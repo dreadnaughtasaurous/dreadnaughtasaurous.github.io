@@ -17,7 +17,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **20.1 Health Service offers**
 
-- **(a)** Subject to subclause 20.12 and by 27 September 2021 in accordance with the NES, an Employer must make an offer to a Doctor under this section if:
+- **(a)** Subject to subclause 20.12 and by 27 September 2021 in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources), an Employer must make an offer to a Doctor under this section if:
   - **(i)** the Doctor has worked shifts for the Health Service for a period of 12 months beginning the day the employment started; and
   - **(ii)** during at least the last 6 months of that period, the Doctor has worked a regular pattern of hours on an ongoing basis which, without significant adjustment, the Doctor could continue to work as a full-time Doctor or a
 - **(b)** The Health Service’s offer under subclause 20.1 must:

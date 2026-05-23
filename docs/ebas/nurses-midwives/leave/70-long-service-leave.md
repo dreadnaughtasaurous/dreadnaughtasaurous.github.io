@@ -37,13 +37,13 @@ The following meanings shall apply to the terms referred to below for the purpos
 - **(b)** **Casual Registered Nurse or Casual Registered Midwife** means a Registered Nurse or Registered Midwife employed on a casual basis in accordance with [clause 19](/ebas/nurses-midwives/employment-types/19-casual-employment) (Casual Employment).
 - **(c)** **Institution** means any Employer, or a hospital or benevolent home, community health centre, Society or Association:
   - **(i)** named in Appendix 1 of this Agreement;
-  - **(ii)** that was registered and subsidised pursuant to the Hospital and Charities Act 1958 (Vic) or the Health Services Act 1988 (Vic);
+  - **(ii)** that was registered and subsidised pursuant to the Hospital and Charities Act 1958 (Vic) or the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188);
   - **(iii)** the Cancer Institute constituted under the Cancer Act 1958 (Vic);
   - **(iv)** the Fairfield Hospital Board;
   - **(v)** the Victorian Bush Nursing Association (Inc.); or
   - **(vi)** a Bush Nursing institution.
 - **(d)** **Full-time or part-time Registered Nurse or Registered Midwife** means a person classified or employed as such at the time they apply for or commence long service leave.
-- **(e)** **LSL Act** means the Long Service Leave Act 2018 (Vic).
+- **(e)** **LSL Act** means the [Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006).
 - **(f)** **Month** means a calendar month.
 - **(g)** **Pay** means:
   - **(i)** for an Award-entitled Employee (subject to subclause 70.2(g)(ii) for part-time Employees), remuneration for an Employee’s normal weekly hours of work calculated at the Employee’s ordinary time rate of pay provided in Appendix 2, at the time the leave is taken or (if they die before the completion of leave so taken) as at the time of their death, and will include the amount of any increase to the Employee’s ordinary time rate of pay which occurred during the period of leave;

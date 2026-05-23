@@ -69,7 +69,7 @@ Any dispute arising in relation to this schedule shall be dealt with in accordan
 
 ### 7.1 Relationship with the Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)
 
-The provisions of this clause shall be read and interpreted wholly in conjunction with the *Workplace Injury Rehabilitation and Compensation Act 2013* (Vic) or its successors at law.
+The provisions of this clause shall be read and interpreted wholly in conjunction with the *[Workplace Injury Rehabilitation and Compensation Act 2013 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053)* (Vic) or its successors at law.
 
 ### 7.2 Introduction
 
@@ -165,7 +165,7 @@ The provisions of this clause shall be read and interpreted wholly in conjunctio
 
 ### 8.1 Relationship with the Victorian Occupational Health and Safety Act 2004
 
-The provisions of this clause shall be read and interpreted wholly in conjunction with the Victorian Occupational Health and Safety Act 2004.
+The provisions of this clause shall be read and interpreted wholly in conjunction with the Victorian [Occupational Health and Safety Act 2004 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).
 
 ### 8.2 Designated Work Groups
 

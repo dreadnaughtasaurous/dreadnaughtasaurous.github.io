@@ -50,7 +50,7 @@ Annual Leave or Long Service Leave may be taken in association with short-term c
 
 ## 8. Occupational Health and Safety
 
-**8.1** The provisions of this subclause shall be read and interpreted subject to the Occupational Health and Safety Act 2004 (VIC).
+**8.1** The provisions of this subclause shall be read and interpreted subject to the [Occupational Health and Safety Act 2004 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) (VIC).
 
 **8.2** The employer will maintain a system of agreed designated work groups with employees and their representatives which may include the Union. Elections for employee occupational health and safety representatives shall be conducted by the parties to this schedule. There shall be two health and safety representatives from the Alfred Hospital campus nominated to the Alfred Hospital Occupational Health and Safety Committee to represent areas in which employees covered by the schedule are employed. One shall represent the pathology departments. while the other will represent non-pathology departments. These representatives shall be nominated by employees from all the health and safety representatives selected from the Designated Work Groups who are covered by this schedule at the Alfred Hospital campus.
 

@@ -22,7 +22,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 | 3 | Definitions | 4 |
 | 4 | Coverage | 8 |
 | 5 | Date and Period of Operation | 8 |
-| 6 | Relationship to Previous Awards, Agreements and the NES | 8 |
+| 6 | Relationship to Previous Awards, Agreements and the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) | 8 |
 | 7 | Savings | 8 |
 | 8 | No Extra Claims | 9 |
 | 9 | Nature of Relationship | 9 |

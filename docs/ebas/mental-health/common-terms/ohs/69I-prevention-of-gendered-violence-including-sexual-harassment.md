@@ -15,7 +15,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 
 **69I.1 Duties**
 
-- **(a)** Employers, employees and others have specific duties relating to work-related gendered violence (including work-related sexual harassment) under the OHS Act and the EO Act.
+- **(a)** Employers, employees and others have specific duties relating to work-related gendered violence (including work-related sexual harassment) under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) and the [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032).
 - **(b)** Employers have a positive duty to eliminate, as far as possible, sexual harassment in connection with work, which is unlawful.
 
 ---
