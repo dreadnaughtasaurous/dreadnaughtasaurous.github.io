@@ -282,7 +282,7 @@ const sidebar = [
     text: '👶 Childrens Services', link: '/ebas/childrens-services',
     collapsed: true,
     items: [
-    { text: 'Application Operation', link: '/ebas/childrens-services/application-operation', collapsed: true, items: [
+    { text: 'Application and Operation', link: '/ebas/childrens-services/application-operation', collapsed: true, items: [
         { text: '1. Title', link: '/ebas/childrens-services/application-operation/1-title' },
         { text: '2. Commencement and Transitional', link: '/ebas/childrens-services/application-operation/2-commencement-and-transitional' },
         { text: '3. Definitions and Interpretation', link: '/ebas/childrens-services/application-operation/3-definitions-and-interpretation' },
