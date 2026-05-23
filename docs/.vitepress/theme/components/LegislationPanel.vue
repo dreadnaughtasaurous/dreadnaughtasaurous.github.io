@@ -109,9 +109,13 @@ watch(
     setTimeout(() => {
       active.value = true
       // requestAnimationFrame ensures the DOM has been painted before we scan.
-      requestAnimationFrame(() => {
-        scanLegislationLinks()
-      })
+      // Guard: requestAnimationFrame is browser-only — not available during
+      // VitePress SSR (Node.js). The typeof check prevents the build failing.
+      if (typeof window !== 'undefined') {
+        requestAnimationFrame(() => {
+          scanLegislationLinks()
+        })
+      }
     }, 50)
   },
   { immediate: true }
