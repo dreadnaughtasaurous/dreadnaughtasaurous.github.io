@@ -17,6 +17,8 @@ import AnalyticsDashboard from './components/AnalyticsDashboard.vue'
 import ClausePanel from './components/ClausePanel.vue'
 import Breadcrumb from './components/Breadcrumb.vue'
 import BookmarkButton from './components/BookmarkButton.vue'
+import GuidedTour from './components/GuidedTour.vue'
+import ClausePageTour from './components/ClausePageTour.vue'
 
 export default {
   extends: DefaultTheme,
@@ -57,9 +59,9 @@ export default {
           [
             h(Breadcrumb),
             h('div', { style: 'display:flex;align-items:center;gap:0.5rem;flex-shrink:0' }, [
-              h(AskThisPage),
-              h(CopyButton),
-              h(BookmarkButton),
+              h(AskThisPage,   { 'data-tour': 'ask-this-page-btn' }),
+              h(CopyButton,    { 'data-tour': 'copy-btn' }),
+              h(BookmarkButton, { 'data-tour': 'bookmark-btn' }),
             ]),
           ]
         )
@@ -67,7 +69,7 @@ export default {
 
       // layout-bottom: always-mounted overlay components that are event-driven.
       // Fragment is required — VitePress slot functions must return a single VNode.
-      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel)]),
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour)]),
 
       'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
@@ -88,6 +90,8 @@ export default {
     app.component('ClausePanel',           ClausePanel)
     app.component('Breadcrumb',            Breadcrumb)
     app.component('BookmarkButton',        BookmarkButton)
+    app.component('GuidedTour',            GuidedTour)
+    app.component('ClausePageTour',        ClausePageTour)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation

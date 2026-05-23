@@ -115,6 +115,7 @@
               class="search-tab"
               :class="{ active: activeTab === 'ask' }"
               @click="switchTab('ask')"
+              data-tour="ask-ai-tab"
             >
               <svg class="ask-tab-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
                 <path class="ask-tab-sparkle" d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/>
@@ -786,36 +787,27 @@
 
                   <!-- question mode: examples fill the questionText textarea; EBA/emp type set via dropdowns -->
                   <template v-if="askMode === 'question'">
-                    <p>{{ aiConfigured ? 'Select your EBA and employment type above, then try one of these examples:' : 'Example questions you\'ll be able to ask once AI is configured:' }}</p>
+                    <p>{{ aiConfigured ? 'Select your EBA and employment type above, then try an example:' : 'Example questions you\'ll be able to ask once AI is configured:' }}</p>
                     <ul class="ask-examples">
                       <li @click="aiConfigured ? useQuestionExample('Am I entitled to overtime pay on a public holiday?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to overtime pay on a public holiday?</li>
-                      <li @click="aiConfigured ? useQuestionExample('How much notice is required before my roster can be changed?') : null" :class="{ 'ask-example-preview': !aiConfigured }">How much notice is required before my roster can be changed?</li>
                       <li @click="aiConfigured ? useQuestionExample('What is the recall allowance if I am called back to work after leaving the premises?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What is the recall allowance if I am called back to work after leaving the premises?</li>
-                      <li @click="aiConfigured ? useQuestionExample('What overtime rates apply after 10 hours on a weekday shift?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What overtime rates apply after 10 hours on a weekday shift?</li>
-                      <li @click="aiConfigured ? useQuestionExample('Am I entitled to a meal allowance if I work overtime?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to a meal allowance if I work overtime?</li>
                     </ul>
                   </template>
 
                   <!-- situation mode: clicking auto-fills the situationText textarea -->
                   <template v-else-if="askMode === 'situation'">
-                    <p>Try one of these example situations, or describe your own above:</p>
+                    <p>Try an example situation, or describe your own above:</p>
                     <ul class="ask-examples">
                       <li @click="aiConfigured ? useSituationExample('An employee worked 12 hours on Saturday and 10 hours on Sunday. They are now claiming overtime pay for both days. I need to understand what they are entitled to under their EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee worked 12 hours Saturday and 10 hours Sunday and is claiming overtime for both days.</li>
-                      <li @click="aiConfigured ? useSituationExample('A part-time employee has requested a change to their agreed roster. Their manager has agreed but has not given any written notice. The employee is asking whether this is compliant with their EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">A part-time employee's roster was changed verbally by their manager with no written notice.</li>
-                      <li @click="aiConfigured ? useSituationExample('An employee has been absent on sick leave for four weeks and their sick leave balance has been exhausted. They are now asking whether they can access any other form of leave under the EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee has exhausted their sick leave after four weeks of continuous absence.</li>
-                      <li @click="aiConfigured ? useSituationExample('A casual employee has been regularly rostered for the same shifts each week for over 12 months. They are asking whether they have any entitlement to convert to part-time employment under the EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">A casual employee has worked the same regular shifts for over 12 months and wants to convert to part-time.</li>
                       <li @click="aiConfigured ? useSituationExample('An employee was asked to remain at work after their shift ended to cover an absent colleague. They worked an additional 3 hours and are asking what allowances or overtime rates apply.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee stayed back after their shift ended to cover an absent colleague and wants to know what they are owed.</li>
                     </ul>
                   </template>
 
                   <!-- draft mode: clicking auto-fills the draftQuestion input -->
                   <template v-else-if="askMode === 'draft'">
-                    <p>Try one of these example employee questions, or enter your own above:</p>
+                    <p>Try an example employee question, or enter your own above:</p>
                     <ul class="ask-examples">
                       <li @click="aiConfigured ? useDraftExample('Am I entitled to overtime pay for the extra hours I worked on the weekend?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to overtime pay for the extra hours I worked on the weekend?</li>
-                      <li @click="aiConfigured ? useDraftExample('Can my manager change my roster without giving me notice in writing?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Can my manager change my roster without giving me notice in writing?</li>
-                      <li @click="aiConfigured ? useDraftExample('I have run out of sick leave - am I allowed to take unpaid leave instead?') : null" :class="{ 'ask-example-preview': !aiConfigured }">I have run out of sick leave — am I allowed to take unpaid leave instead?</li>
-                      <li @click="aiConfigured ? useDraftExample('I have been working the same casual shifts every week for over a year. Am I entitled to convert to part-time?') : null" :class="{ 'ask-example-preview': !aiConfigured }">I have been working the same casual shifts for over a year. Can I convert to part-time?</li>
                       <li @click="aiConfigured ? useDraftExample('What allowance am I entitled to if I am recalled to work after I have already left the premises?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What allowance am I entitled to if I am recalled to work after leaving the premises?</li>
                     </ul>
                   </template>
@@ -867,6 +859,147 @@
       </div>
     </Transition>
   </Teleport>
+
+  <!-- ── Ask AI onboarding overlay — Teleport to body, centred, full-screen backdrop ──
+       Shown once per device the first time the user opens the Ask AI tab.
+       Dismissed permanently via localStorage key 'eba-ask-ai-intro-seen'.
+       Sits at z-index 10002 so it appears above the search modal (9999) and
+       the tour tooltip (10001) but is only triggered from within the modal. -->
+  <Teleport to="body">
+    <Transition name="ai-intro-overlay">
+      <div
+        v-if="open && activeTab === 'ask' && !askAiIntroSeen"
+        class="ai-intro-overlay"
+        @click.self="dismissAskIntro"
+        aria-hidden="true"
+      >
+        <div
+          class="ai-intro-panel"
+          role="dialog"
+          aria-modal="true"
+          aria-label="Getting the best answers from Ask AI"
+        >
+          <!-- Header -->
+          <div class="ai-intro-header">
+            <span class="ai-intro-title">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+              Getting the best answers from Ask AI
+            </span>
+            <button class="ai-intro-dismiss" @click="dismissAskIntro" aria-label="Dismiss Ask AI guide">✕</button>
+          </div>
+
+          <!-- Warning alert -->
+          <div class="ai-intro-alert">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+            Ask AI reads only this wiki — not the full EBA PDFs. Always verify important answers against the official EBA text before acting.
+          </div>
+
+          <!-- How to structure -->
+          <div class="ai-intro-section">
+            <p class="ai-intro-section-title">How to structure your question</p>
+            <p class="ai-intro-body">The AI produces significantly better answers when you provide three things:</p>
+            <div class="ai-intro-how-list">
+              <div class="ai-intro-how-item">
+                <span class="ai-intro-how-num">1</span>
+                <div>
+                  <strong>Which EBA covers the employee</strong>
+                  <span>Use the EBA dropdown, or name it in your question. The AI retrieves context from that specific agreement — a vague question without an EBA often returns a generic answer.</span>
+                </div>
+              </div>
+              <div class="ai-intro-how-item">
+                <span class="ai-intro-how-num">2</span>
+                <div>
+                  <strong>The employee's type</strong>
+                  <span>Full-time, part-time, casual, or fixed-term. Entitlements vary significantly by employment type; specifying it removes ambiguity.</span>
+                </div>
+              </div>
+              <div class="ai-intro-how-item">
+                <span class="ai-intro-how-num">3</span>
+                <div>
+                  <strong>Be specific, not general</strong>
+                  <span>Ask about the precise entitlement or circumstance, not a broad topic. <em>"Am I entitled to a recall allowance if called back after leaving the premises?"</em> retrieves far better results than <em>"What are my allowances?"</em></span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Good / poor example -->
+          <div class="ai-intro-example-row">
+            <div class="ai-intro-example ai-intro-example--good">
+              <span class="ai-intro-example-label">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+                More effective
+              </span>
+              <p>"Under the Nurses &amp; Midwives EBA, is a <strong>part-time</strong> employee entitled to overtime if they work more than their agreed hours on a Saturday?"</p>
+            </div>
+            <div class="ai-intro-example ai-intro-example--poor">
+              <span class="ai-intro-example-label">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                Less effective
+              </span>
+              <p>"What are the overtime rules?"</p>
+            </div>
+          </div>
+
+          <!-- Three modes -->
+          <div class="ai-intro-section">
+            <p class="ai-intro-section-title">Three ways to ask</p>
+            <div class="ai-intro-modes">
+              <div class="ai-intro-mode">
+                <span class="ai-intro-mode-icon">❓</span>
+                <div>
+                  <strong>Ask a question</strong>
+                  <span>Direct clause or entitlement query. Best when you know what you are looking for.</span>
+                </div>
+              </div>
+              <div class="ai-intro-mode">
+                <span class="ai-intro-mode-icon">📋</span>
+                <div>
+                  <strong>Describe a situation</strong>
+                  <span>Paste the scenario as it happened. The AI identifies the applicable clause — useful when you are unsure of the clause name.</span>
+                </div>
+              </div>
+              <div class="ai-intro-mode">
+                <span class="ai-intro-mode-icon">✉️</span>
+                <div>
+                  <strong>Draft a response</strong>
+                  <span>Provide the employee's question and EBA. The AI writes an HR reply citing the correct clause — always review before sending.</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Works well / not suitable footer -->
+          <div class="ai-intro-footer">
+            <div class="ai-intro-footer-col ai-intro-footer-col--good">
+              <span class="ai-intro-footer-head">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+                Works well for
+              </span>
+              <ul>
+                <li>Clause meaning &amp; entitlements</li>
+                <li>Comparing employment types</li>
+                <li>Drafting HR responses</li>
+              </ul>
+            </div>
+            <div class="ai-intro-footer-col ai-intro-footer-col--bad">
+              <span class="ai-intro-footer-head">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                Not suitable for
+              </span>
+              <ul>
+                <li>Legal advice or dispute outcomes</li>
+                <li>Questions outside these 9 EBAs</li>
+                <li>Real-time award rates (verify separately)</li>
+              </ul>
+            </div>
+          </div>
+
+          <button class="ai-intro-got-it" @click="dismissAskIntro">Got it — start asking</button>
+        </div>
+      </div>
+    </Transition>
+  </Teleport>
 </template>
 
 <script setup>
@@ -888,6 +1021,7 @@ const LOCAL_SAVED_KEY         = 'eba-search-saved'
 const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
 const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
 const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
+const LOCAL_ASK_INTRO_KEY     = 'eba-ask-ai-intro-seen'    // Ask AI onboarding card dismissal
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -901,6 +1035,12 @@ const loading             = ref(false)
 const inputRef            = ref(null)
 const modalRef            = ref(null)
 const resultsContainerRef = ref(null)
+
+// ─── Ask AI intro card ────────────────────────────────────────────────────────
+// Shown the first time the user opens the Ask AI tab.
+// Dismissed permanently via localStorage. Default true (hidden) until confirmed
+// not seen; actual check happens in onMounted so localStorage is available.
+const askAiIntroSeen = ref(true)
 
 // ─── Floating preview state ───────────────────────────────────────────────────
 const previewResult  = ref(null)
@@ -945,6 +1085,12 @@ function loadBookmarks() {
     const raw = localStorage.getItem(LOCAL_BOOKMARKS_KEY)
     if (raw) bookmarks.value = JSON.parse(raw)
   } catch { /* corrupt storage — degrade silently */ }
+}
+
+// ─── Ask AI intro card dismissal ─────────────────────────────────────────────
+function dismissAskIntro() {
+  askAiIntroSeen.value = true
+  try { localStorage.setItem(LOCAL_ASK_INTRO_KEY, '1') } catch { /* ignore */ }
 }
 
 // ─── Most Viewed Clauses fetch ────────────────────────────────────────────────
@@ -1886,6 +2032,12 @@ function focusResult(index) {
 onMounted(async () => {
   loadSavedSearches()
   loadBookmarks()
+  // Check whether the user has already dismissed the Ask AI intro card
+  try {
+    if (!localStorage.getItem(LOCAL_ASK_INTRO_KEY)) {
+      askAiIntroSeen.value = false
+    }
+  } catch { /* storage unavailable — treat as already seen */ }
   try {
     const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
     if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
@@ -2055,6 +2207,9 @@ function onKeydown(e) {
 onMounted(() => {
   window.addEventListener('keydown', onKeydown)
   window.addEventListener('open-search', openFromExternal)
+  // close-search: dispatched by GuidedTour.vue to close the modal without
+  // simulating Escape (which would trigger the tour's own Escape handler).
+  window.addEventListener('close-search', close)
   // Keep bookmark list fresh when BookmarkButton.vue saves/removes a bookmark
   // while the modal is open (e.g. user bookmarks a page, then opens the modal).
   window.addEventListener('eba-bookmarks-updated', loadBookmarks)
@@ -2062,6 +2217,7 @@ onMounted(() => {
 onUnmounted(() => {
   window.removeEventListener('keydown', onKeydown)
   window.removeEventListener('open-search', openFromExternal)
+  window.removeEventListener('close-search', close)
   window.removeEventListener('eba-bookmarks-updated', loadBookmarks)
 })
 
@@ -3946,4 +4102,278 @@ function autoResizeFollowUp() {
    interpolates linearly from 0.45 at 0 chars to 1.0 at CHAR_THRESHOLD_GOOD (50).
    No class modifiers needed — the transition: opacity rule on .ask-btn handles
    the smooth animation as the user types. */
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   Ask AI onboarding — full-screen Teleport overlay
+   Shown once per device on first Ask AI tab open. Dismissed via "Got it".
+   localStorage key: eba-ask-ai-intro-seen
+   z-index 10002: above the search modal (9999) and tour tooltip (10001).
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ── Full-screen backdrop ── */
+.ai-intro-overlay {
+  position:        fixed;
+  inset:           0;
+  z-index:         10002;
+  background:      rgba(0, 0, 0, 0.55);
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  padding:         1.5rem;
+  overflow-y:      auto;
+}
+
+/* ── Panel — centred card, scrollable if content overflows viewport ── */
+.ai-intro-panel {
+  position:       relative;
+  width:          100%;
+  max-width:      540px;
+  max-height:     calc(100vh - 3rem);
+  overflow-y:     auto;
+  background:     var(--vp-c-bg);
+  border:         1px solid var(--vp-c-divider);
+  border-radius:  14px;
+  box-shadow:
+    0 0 0 1px rgba(74, 42, 114, 0.12),
+    0 24px 64px rgba(0, 0, 0, 0.35),
+    0 4px 16px rgba(0, 0, 0, 0.15);
+  font-size:      0.83rem;
+  overflow:       hidden;
+}
+
+/* ── Card header ── */
+.ai-intro-header {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  gap:             0.5rem;
+  padding:         0.9rem 1.1rem 0.75rem;
+  background:      linear-gradient(135deg, rgba(74,42,114,0.07), rgba(210,28,98,0.04));
+  border-bottom:   1px solid var(--vp-c-divider);
+  position:        sticky;
+  top:             0;
+  z-index:         1;
+}
+
+.ai-intro-title {
+  display:     flex;
+  align-items: center;
+  gap:         0.4rem;
+  font-size:   0.85rem;
+  font-weight: 700;
+  color:       var(--vp-c-text-1);
+}
+
+.ai-intro-title svg { color: var(--vp-c-brand-1); flex-shrink: 0; }
+
+.ai-intro-dismiss {
+  display:          flex;
+  align-items:      center;
+  justify-content:  center;
+  width:            28px;
+  height:           28px;
+  font-size:        0.9rem;
+  color:            var(--vp-c-text-3);
+  background:       var(--vp-c-bg);
+  border:           1px solid var(--vp-c-divider);
+  border-radius:    6px;
+  cursor:           pointer;
+  transition:       color 0.12s, border-color 0.12s, background-color 0.12s;
+  flex-shrink:      0;
+}
+.ai-intro-dismiss:hover {
+  color:            var(--vp-c-text-1);
+  border-color:     var(--vp-c-brand);
+  background-color: var(--vp-c-brand-soft);
+}
+
+/* ── Warning alert banner ── */
+.ai-intro-alert {
+  display:     flex;
+  align-items: flex-start;
+  gap:         0.5rem;
+  margin:      0.85rem 1.1rem 0;
+  padding:     0.6rem 0.8rem;
+  background:  rgba(217, 119, 6, 0.08);
+  border:      1px solid rgba(217, 119, 6, 0.22);
+  border-radius: 7px;
+  font-size:   0.77rem;
+  color:       var(--vp-c-text-2);
+  line-height: 1.55;
+}
+.ai-intro-alert svg { color: #D97706; flex-shrink: 0; margin-top: 2px; }
+
+/* ── Sections ── */
+.ai-intro-section { padding: 0.85rem 1.1rem 0; }
+
+.ai-intro-section-title {
+  font-size:      0.7rem;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color:          var(--vp-c-text-3);
+  margin:         0 0 0.45rem;
+}
+
+.ai-intro-body {
+  color:       var(--vp-c-text-2);
+  line-height: 1.55;
+  margin:      0 0 0.5rem;
+  font-size:   0.8rem;
+}
+
+/* ── Numbered how-to list — matches 'Three ways to ask' card style ── */
+.ai-intro-how-list {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.4rem;
+}
+
+.ai-intro-how-item {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           0.6rem;
+  padding:       0.5rem 0.7rem;
+  background:    var(--vp-c-bg-soft);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 7px;
+}
+
+.ai-intro-how-num {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           20px;
+  height:          20px;
+  min-width:       20px;
+  border-radius:   50%;
+  background:      var(--vp-c-brand-soft);
+  color:           var(--vp-c-brand-1);
+  font-size:       0.68rem;
+  font-weight:     700;
+  line-height:     1;
+  flex-shrink:     0;
+  margin-top:      1px;
+  text-align:      center;
+}
+
+.ai-intro-how-item strong {
+  display:       block;
+  font-size:     0.8rem;
+  font-weight:   600;
+  color:         var(--vp-c-text-1);
+  line-height:   1.3;
+  margin-bottom: 0.15rem;
+}
+
+.ai-intro-how-item span { display: block; font-size: 0.74rem; color: var(--vp-c-text-3); line-height: 1.45; }
+.ai-intro-how-item em   { font-style: italic; color: var(--vp-c-brand-1); }
+
+/* ── Good / poor example row ── */
+.ai-intro-example-row {
+  display:               grid;
+  grid-template-columns: 1fr 1fr;
+  gap:                   0.55rem;
+  margin:                0.85rem 1.1rem 0;
+}
+@media (max-width: 480px) { .ai-intro-example-row { grid-template-columns: 1fr; } }
+
+.ai-intro-example {
+  padding:       0.6rem 0.7rem;
+  border-radius: 8px;
+  border:        1px solid;
+}
+.ai-intro-example--good { background: rgba(5,150,105,0.06);  border-color: rgba(5,150,105,0.22); }
+.ai-intro-example--poor { background: rgba(203,36,49,0.05);  border-color: rgba(203,36,49,0.18); }
+
+.ai-intro-example-label {
+  display:        flex;
+  align-items:    center;
+  gap:            0.25rem;
+  font-size:      0.68rem;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom:  0.3rem;
+}
+.ai-intro-example--good .ai-intro-example-label { color: #059669; }
+.ai-intro-example--poor .ai-intro-example-label { color: #CB2431; }
+
+.ai-intro-example p        { font-size: 0.78rem; color: var(--vp-c-text-2); line-height: 1.5; margin: 0; font-style: italic; }
+.ai-intro-example p strong { font-weight: 700; color: var(--vp-c-text-1); font-style: normal; }
+
+/* ── Three mode cards ── */
+.ai-intro-modes         { display: flex; flex-direction: column; gap: 0.4rem; }
+
+.ai-intro-mode {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           0.6rem;
+  padding:       0.5rem 0.7rem;
+  background:    var(--vp-c-bg-soft);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 7px;
+}
+
+.ai-intro-mode-icon { font-size: 1rem; line-height: 1; flex-shrink: 0; margin-top: 1px; }
+.ai-intro-mode strong { display: block; font-size: 0.8rem; font-weight: 600; color: var(--vp-c-text-1); line-height: 1.3; }
+.ai-intro-mode span   { display: block; font-size: 0.74rem; color: var(--vp-c-text-3); line-height: 1.45; }
+
+/* ── Footer works-well / not-suitable grid ── */
+.ai-intro-footer {
+  display:               grid;
+  grid-template-columns: 1fr 1fr;
+  gap:                   0.55rem;
+  margin:                0.85rem 1.1rem 0;
+  padding:               0.7rem 0.8rem;
+  background:            var(--vp-c-bg-soft);
+  border:                1px solid var(--vp-c-divider);
+  border-radius:         8px;
+}
+@media (max-width: 480px) { .ai-intro-footer { grid-template-columns: 1fr; } }
+
+.ai-intro-footer-head {
+  display:        flex;
+  align-items:    center;
+  gap:            0.28rem;
+  font-size:      0.68rem;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom:  0.35rem;
+}
+.ai-intro-footer-col--good .ai-intro-footer-head { color: #059669; }
+.ai-intro-footer-col--bad  .ai-intro-footer-head { color: #CB2431; }
+
+.ai-intro-footer ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.22rem; }
+.ai-intro-footer li { font-size: 0.74rem; color: var(--vp-c-text-2); line-height: 1.4; }
+
+/* ── Bottom CTA button ── */
+.ai-intro-got-it {
+  display:          block;
+  width:            calc(100% - 2.2rem);
+  margin:           0.85rem 1.1rem 1rem;
+  padding:          0.55rem;
+  background:       var(--vp-c-brand-soft);
+  color:            var(--vp-c-brand-1);
+  font-size:        0.83rem;
+  font-weight:      600;
+  border:           1px solid var(--vp-c-brand-1);
+  border-radius:    7px;
+  cursor:           pointer;
+  transition:       background 0.15s, color 0.15s, transform 0.1s;
+  text-align:       center;
+}
+.ai-intro-got-it:hover  { background: var(--vp-c-brand-1); color: #fff; }
+.ai-intro-got-it:active { transform: scale(0.98); }
+
+/* ── Overlay transition ── */
+.ai-intro-overlay-enter-active { transition: opacity 0.25s ease; }
+.ai-intro-overlay-leave-active { transition: opacity 0.2s ease; }
+.ai-intro-overlay-enter-from,
+.ai-intro-overlay-leave-to     { opacity: 0; }
+
+/* Panel scales in slightly for polish */
+.ai-intro-overlay-enter-active .ai-intro-panel { transition: transform 0.25s cubic-bezier(0.34, 1.3, 0.64, 1); }
+.ai-intro-overlay-enter-from .ai-intro-panel   { transform: scale(0.95) translateY(10px); }
 </style>
