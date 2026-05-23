@@ -1153,7 +1153,7 @@ const sidebar = [
     text: '🧪 Medical Scientists, Pharmacists & Psychologists', link: '/ebas/mspp',
     collapsed: true,
     items: [
-    { text: 'Accident Pay Allowances', link: '/ebas/mspp/accident-pay-allowances', collapsed: true, items: [
+    { text: 'Accident Pay, Clothing and Equipment Allowances', link: '/ebas/mspp/accident-pay-allowances', collapsed: true, items: [
         { text: '88. Fitness for Work', link: '/ebas/mspp/accident-pay-allowances/88-fitness-for-work' },
         { text: '89. Definitions', link: '/ebas/mspp/accident-pay-allowances/89-definitions' },
         { text: '90. Accident Pay', link: '/ebas/mspp/accident-pay-allowances/90-accident-pay' },

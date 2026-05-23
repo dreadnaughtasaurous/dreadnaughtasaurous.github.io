@@ -1,5 +1,5 @@
 ---
-title: 'Accident Pay Allowances'
+title: 'Accident Pay, Clothing and Equipment Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['allowances', 'accident-pay']
 ---
@@ -10,7 +10,7 @@ topics: ['allowances', 'accident-pay']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Accident Pay Allowances
+# Accident Pay, Clothing and Equipment Allowances
 
 
 - [88. Fitness for Work](./accident-pay-allowances/88-fitness-for-work/)
