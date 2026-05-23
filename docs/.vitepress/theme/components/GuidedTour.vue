@@ -142,11 +142,14 @@ const steps = [
     copy: 'Your complete reference for all Victorian public health EBAs — <strong>9 agreements</strong> fully indexed and cross-referenced. This short tour highlights the key features. It takes under a minute.',
   },
   {
+    // On mobile the sidebar is behind a hamburger — handled in positionTooltip.
     target: '.VPSidebar',
+    mobileTarget: '.VPLocalNav button.menu',
     headline: 'Navigate by EBA',
     icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>`,
-    copy: 'The left sidebar lists every EBA and its sections. Expand any EBA to browse clauses directly — useful when you know which agreement you need.',
+    copy: 'The sidebar lists every EBA and its sections. On mobile, tap the <strong>menu button</strong> (top-left) to open it. Expand any EBA to browse clauses directly.',
     caretHint: 'right',
+    mobileCaret: 'right',
   },
   {
     target: '.search-trigger',
@@ -191,11 +194,16 @@ const steps = [
     closeModal: true,
   },
   {
+    // On mobile the appearance toggle is inside the hamburger menu.
     target: '.VPNavBar .appearance',
+    mobileTarget: '.VPNavBarHamburger',
+    mobileOpensMenu: true,
+    mobileSecondaryTarget: '.VPNavScreen .VPSwitch.VPSwitchAppearance',
     headline: 'Dark mode',
     icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`,
-    copy: 'Toggle between light and dark mode using the sun/moon icon in the top-right corner of the nav bar.',
+    copy: 'Toggle between light and dark mode. On desktop it\'s the sun/moon icon in the nav bar. On mobile, open the <strong>menu</strong> (top-right) to find it.',
     caretHint: 'bottom',
+    mobileCaret: 'bottom',
   },
   {
     target: '.a11y-controls',
@@ -263,10 +271,14 @@ async function next() {
   const leaving  = steps[stepIndex.value]
   const arriving = steps[stepIndex.value + 1]
 
-  // Close modal when leaving a modal step and the next step doesn't need it open.
-  // Uses dedicated CustomEvent — NOT Escape — so tour Escape handler is not triggered.
   if (leaving.keepModalOpen && !arriving.openModal && !arriving.keepModalOpen) {
     dispatchClose()
+    await sleep(300)
+  }
+
+  // Close any mobile menu opened by the current step before moving on
+  if (leaving.mobileOpensMenu || leaving.mobileOpensSidebar) {
+    closeMobileMenuIfOpen()
     await sleep(300)
   }
 
@@ -297,8 +309,16 @@ async function goTo(i) {
 
 function finish() {
   dispatchClose()
+  closeMobileMenuIfOpen()
   active.value = false
   try { localStorage.setItem(TOUR_KEY, '1') } catch { /* ignore */ }
+}
+
+// Close the VitePress mobile nav if it was opened by the tour.
+// Checks for the open state class VitePress adds to the menu button.
+function closeMobileMenuIfOpen() {
+  const btn = document.querySelector('.VPNavBarHamburger, .VPNavBarMenuButton')
+  if (btn && btn.classList.contains('active')) btn.click()
 }
 
 function onBackdropClick() {
@@ -320,6 +340,15 @@ function dispatchClose() {
   window.dispatchEvent(new CustomEvent('close-search'))
 }
 
+// ─── Mobile detection ────────────────────────────────────────────────────────
+// VitePress hides the sidebar and nav appearance toggle on mobile (< 960px)
+// and puts them behind a hamburger menu instead.
+function isMobile() { return window.innerWidth < 960 }
+
+// Mobile button helpers — selectors confirmed via DevTools at 390px viewport.
+// .VPNavBar button.button:not([aria-label]) = top-left "More" (opens sidebar)
+// .VPNavBarHamburger = top-right hamburger (opens nav screen with appearance toggle)
+
 // ─── Tooltip positioning ──────────────────────────────────────────────────────
 const TOOLTIP_W        = 360
 const TOOLTIP_H_APPROX = 280   // conservative max — Ask AI step has mode cards
@@ -338,6 +367,10 @@ async function positionTooltip() {
     await sleep(350)
   }
 
+  // Constants used by both mobile and desktop positioning paths
+  const PAD = 6
+  const GAP = 14
+
   // No target → centred on screen, full-screen dim backdrop, no spotlight
   if (!step.target) {
     spotlightStyle.value = null
@@ -352,9 +385,62 @@ async function positionTooltip() {
     return
   }
 
+  // ── Mobile path: step has a mobileTarget and we are on a narrow viewport ──
+  if (isMobile() && step.mobileTarget) {
+    const mobileEl = document.querySelector(step.mobileTarget)
+    if (mobileEl) {
+      // Phase 1: spotlight the hamburger button
+      const r1 = mobileEl.getBoundingClientRect()
+      spotlightStyle.value = {
+        position: 'fixed', left: `${r1.left - PAD}px`, top: `${r1.top - PAD}px`,
+        width: `${r1.width + PAD * 2}px`, height: `${r1.height + PAD * 2}px`,
+        borderRadius: '8px', boxShadow: '0 0 0 9999px rgba(0,0,0,0.52)',
+        pointerEvents: 'none', zIndex: '10000',
+      }
+      caretSide.value = step.mobileCaret ?? 'bottom'
+      const centerX1 = r1.left + r1.width / 2
+      tooltipStyle.value = {
+        position: 'fixed',
+        top: `${r1.bottom + GAP}px`,
+        left: `${clamp(centerX1 - TOOLTIP_W / 2, MARGIN, window.innerWidth - TOOLTIP_W - MARGIN)}px`,
+        width: `${TOOLTIP_W}px`, transform: 'none',
+      }
+
+      if (step.mobileOpensSidebar || step.mobileOpensMenu) {
+        // Phase 2: click to open, wait, then move spotlight to secondary target
+        await sleep(900)  // let user see the hamburger spotlighted first
+        mobileEl.click()
+        await sleep(450)  // wait for slide-in/open animation
+
+        if (step.mobileSecondaryTarget) {
+          // Spotlight the appearance toggle inside the open menu
+          const secEl = document.querySelector(step.mobileSecondaryTarget)
+          if (secEl) {
+            const r2 = secEl.getBoundingClientRect()
+            spotlightStyle.value = {
+              position: 'fixed', left: `${r2.left - PAD}px`, top: `${r2.top - PAD}px`,
+              width: `${r2.width + PAD * 2}px`, height: `${r2.height + PAD * 2}px`,
+              borderRadius: '8px', boxShadow: '0 0 0 9999px rgba(0,0,0,0.52)',
+              pointerEvents: 'none', zIndex: '10000',
+            }
+            const centerX2 = r2.left + r2.width / 2
+            caretSide.value = 'bottom'
+            tooltipStyle.value = {
+              position: 'fixed',
+              top: `${r2.bottom + GAP}px`,
+              left: `${clamp(centerX2 - TOOLTIP_W / 2, MARGIN, window.innerWidth - TOOLTIP_W - MARGIN)}px`,
+              width: `${TOOLTIP_W}px`, transform: 'none',
+            }
+          }
+        }
+      }
+      return
+    }
+  }
+
   const el = document.querySelector(step.target)
   if (!el) {
-    // Target not in DOM (e.g. sidebar hidden on mobile) → centre instead
+    // Target not in DOM → centre instead
     spotlightStyle.value = null
     caretSide.value      = null
     tooltipStyle.value   = {
@@ -370,7 +456,6 @@ async function positionTooltip() {
   const rect = el.getBoundingClientRect()
   const vw   = window.innerWidth
   const vh   = window.innerHeight
-  const PAD  = 6
 
   // Spotlight: transparent hole via box-shadow spread covering the whole viewport.
   // The spotlight sits ABOVE the backdrop in z-index stacking so its transparent
@@ -403,7 +488,6 @@ async function positionTooltip() {
 
   const centerX = rect.left + rect.width  / 2
   const centerY = rect.top  + rect.height / 2
-  const GAP     = 14
   let   top, left
 
   if (placement === 'bottom') {

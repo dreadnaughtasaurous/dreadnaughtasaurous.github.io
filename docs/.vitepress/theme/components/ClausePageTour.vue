@@ -294,9 +294,11 @@ async function positionTooltip() {
     return
   }
 
-  // Scroll element into view
-  el.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-  await sleep(350)
+  // Scroll element into view — 'center' ensures the element is visually
+  // centred in the viewport, not just barely on-screen. Sleep gives smooth
+  // scroll time to finish before getBoundingClientRect() is read.
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  await sleep(500)
 
   const rect = el.getBoundingClientRect()
   const vw   = window.innerWidth
