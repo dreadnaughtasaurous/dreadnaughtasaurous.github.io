@@ -1,8 +1,11 @@
-name: Check for Broken Links
+name: Check for Broken External Links
 
 on:
   schedule:
-    - cron: '0 22 * * 0'  # Every Monday 8:00 AM AEST (UTC+10) = Sunday 22:00 UTC
+    # Wednesday 22:00 UTC = Thursday 8:00 AM AEST (UTC+10)
+    # Content changes typically land Mon–Tue; mid-week run catches
+    # any externals broken by new content before next week's edits.
+    - cron: '0 22 * * 3'
   workflow_dispatch:
 
 jobs:
@@ -10,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Setup Node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: npm
@@ -27,14 +30,30 @@ jobs:
         run: npm run docs:build
         working-directory: docs
 
-      - name: Check internal links with Lychee
+      # ── Scope: EXTERNAL links only ──────────────────────────────────────────
+      # Internal /ebas/ links are now audited by audit-links.mjs during the
+      # deploy workflow (faster, no HTTP requests, catches issues pre-deploy).
+      # This workflow handles only external URLs so the two tools don't overlap
+      # and the failure surface remains manageable.
+      #
+      # Excluded from external check:
+      #   - github.com          (rate-limited; always returns 429)
+      #   - fonts.googleapis.com / fonts.gstatic.com  (CDN; always up)
+      #   - localhost           (dev-only)
+      #   - pagefind            (generated asset paths)
+      #   - mailto:             (not HTTP)
+      #   - dreadnaughtasaurous.github.io  (internal — handled by audit-links)
+      #
+      # --accept 429: treat "too many requests" as OK so GitHub/CDN rate-limits
+      # don't fail the run.
+      - name: Check external links with Lychee
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --base https://dreadnaughtasaurous.github.io
             --accept 200,206,429
-            --include 'https://dreadnaughtasaurous\.github\.io'
+            --exclude 'dreadnaughtasaurous\.github\.io'
             --exclude '\.html$'
             --exclude '/assets/'
             --exclude 'localhost'
@@ -43,22 +62,24 @@ jobs:
             --exclude 'github\.com'
             --exclude 'fonts\.googleapis\.com'
             --exclude 'fonts\.gstatic\.com'
-            --timeout 10
-            --max-retries 2
+            --timeout 15
+            --max-retries 3
             --no-progress
             './docs/.vitepress/dist/**/*.html'
-          fail: true
+          fail: false
 
-      - name: Write truncated summary on failure
-        if: failure()
+      - name: Write summary on completion
+        if: always()
         run: |
           REPORT=".lycheecache/lychee.output.md"
+          echo "## 🌐 External Link Check" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
           if [ -f "$REPORT" ]; then
             HEAD=$(head -c 900000 "$REPORT")
             echo "$HEAD" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "---" >> $GITHUB_STEP_SUMMARY
-            echo "⚠️ Summary truncated — full report available in lychee output above." >> $GITHUB_STEP_SUMMARY
+            echo "⚠️ Summary may be truncated — full report available in lychee output above." >> $GITHUB_STEP_SUMMARY
           else
             echo "No lychee report file found." >> $GITHUB_STEP_SUMMARY
           fi

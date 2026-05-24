@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "generatedAt": "24/05/2026, 12:11:40 pm",
+    "ebaFilter": null,
+    "filesScanned": 1273,
+    "totalIssues": 0,
+    "totalCrossEba": 0,
+    "totalSelfRef": 0,
+    "total404": 0,
+    "health": "ok"
+  },
+  "ebaBreakdown": [],
+  "missing404": [],
+  "crossEba": [],
+  "selfRefCount": 0,
+  "missing404Truncated": false,
+  "crossEbaTruncated": false
+}

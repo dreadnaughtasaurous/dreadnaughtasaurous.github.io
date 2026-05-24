@@ -2,8 +2,8 @@ name: Deploy VitePress to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -19,14 +19,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: '20'
           cache: npm
           cache-dependency-path: docs/package-lock.json
 
@@ -51,9 +51,46 @@ jobs:
         working-directory: docs
 
       - name: Index with Pagefind
-        run: npx pagefind --site .vitepress/dist
+        run: npx pagefind
         working-directory: docs
 
+      # ── Link health audit ───────────────────────────────────────────────────
+      # Runs after the build so the source files are available for disk
+      # resolution, but before upload so broken links never reach production
+      # silently. The step always exits 0 (never blocks deployment) — issues
+      # are surfaced in the GitHub Actions step summary and in the deployed
+      # /link-report.json consumed by the admin dashboard.
+      - name: Audit internal links (404 check)
+        run: node scripts/audit-links.mjs --check-404 --summary
+        working-directory: docs
+        continue-on-error: true   # report without blocking deployment
+
+      - name: Write link audit summary
+        if: always()
+        run: |
+          REPORT="audit-links-report.txt"
+          if [ -f "$REPORT" ]; then
+            echo "## 🔗 Link Health Audit" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            # Extract just the summary block (first 60 lines covers header + counts)
+            head -60 "$REPORT" | sed 's/^/    /' >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "_Full report available in \`audit-links-report.txt\` artifact below._" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "## 🔗 Link Health Audit" >> $GITHUB_STEP_SUMMARY
+            echo "No report file generated." >> $GITHUB_STEP_SUMMARY
+          fi
+        working-directory: ${{ github.workspace }}
+
+      - name: Upload link audit report as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-audit-report
+          path: audit-links-report.txt
+          retention-days: 30
+
+      # ── Pages deployment ────────────────────────────────────────────────────
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

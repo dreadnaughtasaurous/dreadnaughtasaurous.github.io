@@ -3,6 +3,7 @@ import { ref, computed, onMounted } from 'vue'
 
 // ── Constants ────────────────────────────────────────────────────────────────
 const ANALYTICS_URL  = 'https://eba-analytics-worker.irresistibl.workers.dev/analytics'
+const LINK_REPORT_URL = '/link-report.json'
 const TOKEN_STORAGE  = 'eba-admin-token'  // sessionStorage key — clears on tab close
 
 // ── EBA display names (folder slug → readable label) ─────────────────────────
@@ -55,12 +56,20 @@ const data       = ref(null)
 const activeTab  = ref('overview')
 const fetchedAt  = ref('')
 
+// ── Link health state (independent of analytics auth) ────────────────────────
+const linkReport        = ref(null)
+const linkReportLoading = ref(false)
+const linkReportError   = ref('')
+const lhFilter          = ref('all')   // 'all' | 'missing404' | 'crossEba'
+const lhEbaFilter       = ref('')      // '' = all EBAs
+
 // ── Tabs ─────────────────────────────────────────────────────────────────────
 const TABS = [
-  { id: 'overview', label: 'Overview' },
-  { id: 'search',   label: 'Search' },
-  { id: 'pages',    label: 'Pages' },
-  { id: 'devices',  label: 'Devices' },
+  { id: 'overview',     label: 'Overview' },
+  { id: 'search',       label: 'Search' },
+  { id: 'pages',        label: 'Pages' },
+  { id: 'devices',      label: 'Devices' },
+  { id: 'link-health',  label: 'Link Health' },
 ]
 
 // ── Auth ─────────────────────────────────────────────────────────────────────
@@ -82,7 +91,7 @@ function logout() {
   token.value  = ''
 }
 
-// ── Data fetch ───────────────────────────────────────────────────────────────
+// ── Analytics data fetch ─────────────────────────────────────────────────────
 async function fetchData() {
   loading.value = true
   error.value   = ''
@@ -103,10 +112,35 @@ async function fetchData() {
       day: '2-digit', month: 'short', year: 'numeric',
       hour: '2-digit', minute: '2-digit'
     })
+    // Fetch link report as soon as we're authed
+    await fetchLinkReport()
   } catch (err) {
     error.value = err.message
   }
   loading.value = false
+}
+
+// ── Link health data fetch ────────────────────────────────────────────────────
+// The link-report.json is a static file deployed alongside the site.
+// No auth token needed — it's admin-only by being surfaced only in this
+// dashboard, not linked from public pages.
+async function fetchLinkReport() {
+  linkReportLoading.value = true
+  linkReportError.value   = ''
+  try {
+    const res = await fetch(LINK_REPORT_URL)
+    if (res.status === 404) {
+      // Not yet generated — first deploy after this feature ships may not have it
+      linkReportError.value = 'link-report.json not found. Run the deploy workflow to generate it.'
+      linkReportLoading.value = false
+      return
+    }
+    if (!res.ok) throw new Error(`Fetch returned ${res.status}`)
+    linkReport.value = await res.json()
+  } catch (err) {
+    linkReportError.value = err.message
+  }
+  linkReportLoading.value = false
 }
 
 // ── Computed helpers ─────────────────────────────────────────────────────────
@@ -120,6 +154,54 @@ const browserBreakdown = computed(() => data.value?.browserBreakdown || [])
 const deviceBreakdown  = computed(() => data.value?.deviceBreakdown  || [])
 const ebaFilterBreakdown = computed(() => data.value?.ebaFilterBreakdown || [])
 const topicBreakdown   = computed(() => data.value?.topicBreakdown   || [])
+
+// ── Link health computed ──────────────────────────────────────────────────────
+const lhMeta        = computed(() => linkReport.value?.meta          || null)
+const lhEbaBreakdown= computed(() => linkReport.value?.ebaBreakdown  || [])
+const lhMissing404  = computed(() => linkReport.value?.missing404     || [])
+const lhCrossEba    = computed(() => linkReport.value?.crossEba       || [])
+
+// Health colour: ok=green, warn=amber, error=red
+const lhHealthColor = computed(() => {
+  const h = lhMeta.value?.health
+  if (h === 'ok')   return '#059669'
+  if (h === 'warn') return '#D97706'
+  return '#E11D48'
+})
+
+const lhHealthLabel = computed(() => {
+  const h = lhMeta.value?.health
+  if (h === 'ok')   return 'Healthy'
+  if (h === 'warn') return 'Issues detected'
+  return 'Action required'
+})
+
+// EBA options derived from ebaBreakdown for the filter dropdown
+const lhEbaOptions = computed(() =>
+  lhEbaBreakdown.value.map(r => ({ slug: r.eba, label: EBA_LABELS[r.eba] || r.eba }))
+)
+
+// Filtered 404 rows
+const lhFiltered404 = computed(() => {
+  let rows = lhMissing404.value
+  if (lhEbaFilter.value) {
+    rows = rows.filter(r => r.file.startsWith(`ebas/${lhEbaFilter.value}/`))
+  }
+  return rows
+})
+
+// Filtered cross-EBA rows
+const lhFilteredCross = computed(() => {
+  let rows = lhCrossEba.value
+  if (lhEbaFilter.value) {
+    rows = rows.filter(r => r.file.startsWith(`ebas/${lhEbaFilter.value}/`))
+  }
+  return rows
+})
+
+// Whether to show 404 section
+const showMissing = computed(() => lhFilter.value === 'all' || lhFilter.value === 'missing404')
+const showCross   = computed(() => lhFilter.value === 'all' || lhFilter.value === 'crossEba')
 
 // ── SVG chart helpers ────────────────────────────────────────────────────────
 
@@ -141,16 +223,14 @@ const timeChartBars = computed(() => {
 
   const scaleY = v => chartH - Math.round((v / maxVal) * chartH)
 
-  // Y-axis guide lines (4 lines)
   const yLines = [0.25, 0.5, 0.75, 1].map(f => ({
     y:     Math.round(f * chartH),
     label: Math.round(f * maxVal),
   }))
 
-  // Labels — show every 7th day to avoid crowding
   const labels = series.map((d, i) => ({
     x:    i * barW + Math.floor(barW / 2),
-    text: i % 7 === 0 ? d.day.slice(5) : '', // MM-DD
+    text: i % 7 === 0 ? d.day.slice(5) : '',
   }))
 
   const searches  = series.map((d, i) => {
@@ -166,7 +246,7 @@ const timeChartBars = computed(() => {
   return { searches, pageviews, labels, yLines }
 })
 
-// Horizontal bar chart for top pages / browsers
+// Horizontal bar chart helper
 function hBars(items, getValue, getLabel, getColor) {
   if (!items.length) return []
   const max = Math.max(...items.map(getValue), 1)
@@ -215,14 +295,13 @@ const donutSegments = computed(() => {
   const total = items.reduce((s, d) => s + d.count, 0)
   if (!total) return []
 
-  let angle = -90 // start at top
+  let angle = -90
   return items.map(d => {
     const pct   = d.count / total
     const sweep = pct * 360
     const start = angle
     angle += sweep
 
-    // SVG arc path
     const r2d   = Math.PI / 180
     const x1    = DONUT_CX + DONUT_R * Math.cos(start * r2d)
     const y1    = DONUT_CY + DONUT_R * Math.sin(start * r2d)
@@ -242,7 +321,6 @@ const donutSegments = computed(() => {
 
 // ── Formatting helpers ───────────────────────────────────────────────────────
 function fmtPath(path) {
-  // /ebas/allied-health/allowances/33-foo → allied-health › allowances › 33-foo
   const parts = path.split('/').filter(Boolean)
   return parts.length >= 3 ? parts.slice(1).join(' › ') : path
 }
@@ -253,6 +331,16 @@ function ebaLabel(slug) {
 
 function ebaColor(slug) {
   return EBA_COLORS[slug] || '#94A3B8'
+}
+
+// Derive EBA slug from a file path like "ebas/allied-health/allowances/33-foo.md"
+function ebaFromFile(file) {
+  return file.split('/')[1] ?? ''
+}
+
+// Format a source file path for display: strip leading "ebas/" for brevity
+function fmtFile(file) {
+  return file.replace(/^ebas\//, '')
 }
 </script>
 
@@ -355,7 +443,16 @@ function ebaColor(slug) {
             class="ad-tab"
             :class="{ 'ad-tab--active': activeTab === tab.id }"
             @click="activeTab = tab.id"
-          >{{ tab.label }}</button>
+          >
+            {{ tab.label }}
+            <!-- Red dot on Link Health tab when issues exist -->
+            <span
+              v-if="tab.id === 'link-health' && lhMeta && lhMeta.totalIssues > 0"
+              class="ad-tab-dot"
+              :style="{ background: lhHealthColor }"
+              :title="`${lhMeta.totalIssues} issue${lhMeta.totalIssues === 1 ? '' : 's'} found`"
+            ></span>
+          </button>
         </div>
 
         <!-- ════════════════════════════════════════════════════════════════
@@ -376,7 +473,6 @@ function ebaColor(slug) {
               aria-label="Searches and page views per day over the last 30 days"
               role="img"
             >
-              <!-- Y-axis guide lines -->
               <g :transform="`translate(${TIME_PAD.left},${TIME_PAD.top})`">
                 <line
                   v-for="line in timeChartBars.yLines"
@@ -393,7 +489,6 @@ function ebaColor(slug) {
                   text-anchor="end"
                 >{{ line.label }}</text>
 
-                <!-- Search bars -->
                 <rect
                   v-for="(bar, i) in timeChartBars.searches"
                   :key="`s${i}`"
@@ -401,7 +496,6 @@ function ebaColor(slug) {
                   class="ad-bar-search"
                   rx="1"
                 />
-                <!-- Pageview bars -->
                 <rect
                   v-for="(bar, i) in timeChartBars.pageviews"
                   :key="`p${i}`"
@@ -409,7 +503,6 @@ function ebaColor(slug) {
                   class="ad-bar-pageview"
                   rx="1"
                 />
-                <!-- X-axis labels -->
                 <text
                   v-for="lbl in timeChartBars.labels"
                   :key="`xl${lbl.x}`"
@@ -419,7 +512,6 @@ function ebaColor(slug) {
                 >{{ lbl.text }}</text>
               </g>
             </svg>
-            <!-- Legend -->
             <div class="ad-chart-legend">
               <span class="ad-legend-item ad-legend-search">Searches</span>
               <span class="ad-legend-item ad-legend-pageview">Page views</span>
@@ -450,7 +542,6 @@ function ebaColor(slug) {
         ════════════════════════════════════════════════════════════════ -->
         <div v-if="activeTab === 'search'" class="ad-panel">
 
-          <!-- Top 20 queries -->
           <div class="ad-section-hd">
             <h2 class="ad-section-title">Top 20 queries</h2>
             <p class="ad-section-desc">Most frequently searched terms across both tabs.</p>
@@ -556,7 +647,6 @@ function ebaColor(slug) {
         ════════════════════════════════════════════════════════════════ -->
         <div v-if="activeTab === 'pages'" class="ad-panel">
 
-          <!-- Top 10 pages chart -->
           <div class="ad-section-hd">
             <h2 class="ad-section-title">Top 10 most-viewed pages</h2>
             <p class="ad-section-desc">Clause pages with the highest view counts.</p>
@@ -572,7 +662,6 @@ function ebaColor(slug) {
           </div>
           <div v-else class="ad-empty">No page view data yet.</div>
 
-          <!-- Full top 20 pages table -->
           <div class="ad-section-hd" style="margin-top:2rem">
             <h2 class="ad-section-title">Top 20 pages — full list</h2>
           </div>
@@ -616,7 +705,6 @@ function ebaColor(slug) {
 
           <div class="ad-devices-grid">
 
-            <!-- Donut chart — device type -->
             <div class="ad-device-chart-wrap">
               <div class="ad-section-hd">
                 <h2 class="ad-section-title">Device type</h2>
@@ -646,7 +734,6 @@ function ebaColor(slug) {
               <div v-else class="ad-empty">No device data yet.</div>
             </div>
 
-            <!-- Browser breakdown bars -->
             <div>
               <div class="ad-section-hd">
                 <h2 class="ad-section-title">Browser</h2>
@@ -665,7 +752,6 @@ function ebaColor(slug) {
 
           </div>
 
-          <!-- Combined device + browser table -->
           <div class="ad-section-hd" style="margin-top:2rem">
             <h2 class="ad-section-title">Device × browser breakdown</h2>
             <p class="ad-section-desc">Raw counts across all event types.</p>
@@ -702,6 +788,216 @@ function ebaColor(slug) {
           </div>
 
         </div>
+
+        <!-- ════════════════════════════════════════════════════════════════
+             TAB: LINK HEALTH
+        ════════════════════════════════════════════════════════════════ -->
+        <div v-if="activeTab === 'link-health'" class="ad-panel">
+
+          <!-- Loading state -->
+          <div v-if="linkReportLoading" class="ad-loading">
+            <div class="ad-spinner" aria-label="Loading link report"></div>
+            <span>Loading link health report…</span>
+          </div>
+
+          <!-- Error state -->
+          <div v-else-if="linkReportError" class="ad-error" role="alert">
+            {{ linkReportError }}
+          </div>
+
+          <!-- Report loaded -->
+          <template v-else-if="lhMeta">
+
+            <!-- Status banner -->
+            <div class="lh-banner" :style="{ borderColor: lhHealthColor, background: lhHealthColor + '12' }">
+              <div class="lh-banner-left">
+                <span class="lh-status-dot" :style="{ background: lhHealthColor }"></span>
+                <span class="lh-status-label" :style="{ color: lhHealthColor }">{{ lhHealthLabel }}</span>
+                <span class="lh-banner-meta">
+                  {{ lhMeta.totalIssues }} issue{{ lhMeta.totalIssues === 1 ? '' : 's' }}
+                  across {{ lhMeta.filesScanned }} files scanned
+                </span>
+              </div>
+              <span class="lh-banner-date">Generated {{ lhMeta.generatedAt }}</span>
+            </div>
+
+            <!-- KPI strip -->
+            <div class="lh-kpi-strip">
+              <div class="lh-kpi" style="--lh-kpi-color:#E11D48">
+                <span class="lh-kpi-val">{{ lhMeta.total404 }}</span>
+                <span class="lh-kpi-lbl">Missing targets (404)</span>
+              </div>
+              <div class="lh-kpi" style="--lh-kpi-color:#D97706">
+                <span class="lh-kpi-val">{{ lhMeta.totalCrossEba }}</span>
+                <span class="lh-kpi-lbl">Cross-EBA links</span>
+              </div>
+              <div class="lh-kpi" style="--lh-kpi-color:#94A3B8">
+                <span class="lh-kpi-val">{{ lhMeta.totalSelfRef }}</span>
+                <span class="lh-kpi-lbl">Self-referencing</span>
+              </div>
+              <div class="lh-kpi" style="--lh-kpi-color:#4A2A72">
+                <span class="lh-kpi-val">{{ lhMeta.filesScanned }}</span>
+                <span class="lh-kpi-lbl">Files scanned</span>
+              </div>
+            </div>
+
+            <!-- Per-EBA breakdown -->
+            <div class="ad-section-hd" style="margin-top:2rem" v-if="lhEbaBreakdown.length">
+              <h2 class="ad-section-title">Issues by EBA</h2>
+              <p class="ad-section-desc">Total issues found per agreement.</p>
+            </div>
+            <div class="ad-table-wrap" v-if="lhEbaBreakdown.length">
+              <table class="ad-table">
+                <thead>
+                  <tr>
+                    <th>EBA</th>
+                    <th class="col-num" title="Links pointing to pages that don't exist on disk">404</th>
+                    <th class="col-num" title="Links pointing to a different EBA than the source file">Cross-EBA</th>
+                    <th class="col-num">Total</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="row in lhEbaBreakdown" :key="row.eba">
+                    <td>
+                      <span
+                        class="ad-eba-pill"
+                        :style="{ background: ebaColor(row.eba) + '1A', color: ebaColor(row.eba) }"
+                      >{{ EBA_LABELS[row.eba] || row.eba }}</span>
+                    </td>
+                    <td class="col-num">
+                      <span v-if="row.missing404 > 0" class="lh-count-badge lh-count-badge--404">{{ row.missing404 }}</span>
+                      <span v-else class="ad-muted">—</span>
+                    </td>
+                    <td class="col-num">
+                      <span v-if="row.crossEba > 0" class="lh-count-badge lh-count-badge--cross">{{ row.crossEba }}</span>
+                      <span v-else class="ad-muted">—</span>
+                    </td>
+                    <td class="col-num ad-bold">{{ row.total }}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <!-- Filter controls -->
+            <div class="lh-filter-row" style="margin-top:2rem">
+              <div class="lh-filter-group">
+                <label class="lh-filter-label">Issue type</label>
+                <div class="lh-filter-btns">
+                  <button class="lh-filter-btn" :class="{ 'lh-filter-btn--active': lhFilter === 'all' }"         @click="lhFilter = 'all'">All</button>
+                  <button class="lh-filter-btn" :class="{ 'lh-filter-btn--active': lhFilter === 'missing404' }"  @click="lhFilter = 'missing404'">404 only</button>
+                  <button class="lh-filter-btn" :class="{ 'lh-filter-btn--active': lhFilter === 'crossEba' }"    @click="lhFilter = 'crossEba'">Cross-EBA only</button>
+                </div>
+              </div>
+              <div class="lh-filter-group">
+                <label class="lh-filter-label" for="lh-eba-select">EBA</label>
+                <select id="lh-eba-select" class="lh-select" v-model="lhEbaFilter">
+                  <option value="">All EBAs</option>
+                  <option v-for="opt in lhEbaOptions" :key="opt.slug" :value="opt.slug">{{ opt.label }}</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Missing 404 table -->
+            <template v-if="showMissing">
+              <div class="ad-section-hd" style="margin-top:1.5rem">
+                <h2 class="ad-section-title">
+                  Missing link targets
+                  <span class="lh-count-badge lh-count-badge--404" style="margin-left:0.5rem">{{ lhFiltered404.length }}</span>
+                </h2>
+                <p class="ad-section-desc">
+                  These links point to a URL with no matching file on disk — they will return a 404 at runtime.
+                  <span v-if="linkReport.missing404Truncated" class="lh-trunc-note"> ⚠️ Showing first 500 results — run the script locally for the full report.</span>
+                </p>
+              </div>
+              <div v-if="lhFiltered404.length" class="ad-table-wrap">
+                <table class="ad-table">
+                  <thead>
+                    <tr>
+                      <th>Source file</th>
+                      <th class="col-num" style="width:4rem">Line</th>
+                      <th>Broken URL</th>
+                      <th style="width:5rem">Type</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr v-for="(row, i) in lhFiltered404" :key="`404-${i}`">
+                      <td>
+                        <span class="ad-eba-pill" :style="{ background: ebaColor(ebaFromFile(row.file)) + '1A', color: ebaColor(ebaFromFile(row.file)) }">
+                          {{ EBA_LABELS[ebaFromFile(row.file)] || ebaFromFile(row.file) }}
+                        </span>
+                        <span class="lh-file-path">{{ fmtFile(row.file) }}</span>
+                      </td>
+                      <td class="col-num ad-muted">{{ row.lineNum }}</td>
+                      <td><code class="ad-query lh-url">{{ row.url }}</code></td>
+                      <td>
+                        <span class="lh-type-badge" :class="row.urlType === 'clause' ? 'lh-type-badge--clause' : 'lh-type-badge--index'">
+                          {{ row.urlType }}
+                        </span>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div v-else class="ad-empty ad-empty--positive">
+                {{ lhEbaFilter ? `No missing targets in ${EBA_LABELS[lhEbaFilter] || lhEbaFilter}.` : 'No missing link targets found — all internal links resolve on disk.' }}
+              </div>
+            </template>
+
+            <!-- Cross-EBA table -->
+            <template v-if="showCross">
+              <div class="ad-section-hd" style="margin-top:2rem">
+                <h2 class="ad-section-title">
+                  Cross-EBA links
+                  <span class="lh-count-badge lh-count-badge--cross" style="margin-left:0.5rem">{{ lhFilteredCross.length }}</span>
+                </h2>
+                <p class="ad-section-desc">
+                  These links in one EBA's files point to a page in a different EBA. Likely caused by a link-clauses.mjs offset error.
+                  <span v-if="linkReport.crossEbaTruncated" class="lh-trunc-note"> ⚠️ Showing first 200 results.</span>
+                </p>
+              </div>
+              <div v-if="lhFilteredCross.length" class="ad-table-wrap">
+                <table class="ad-table">
+                  <thead>
+                    <tr>
+                      <th>Source file</th>
+                      <th class="col-num" style="width:4rem">Line</th>
+                      <th>URL (points to wrong EBA)</th>
+                      <th class="col-eba">Wrong EBA</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr v-for="(row, i) in lhFilteredCross" :key="`cross-${i}`">
+                      <td>
+                        <span class="ad-eba-pill" :style="{ background: ebaColor(ebaFromFile(row.file)) + '1A', color: ebaColor(ebaFromFile(row.file)) }">
+                          {{ EBA_LABELS[ebaFromFile(row.file)] || ebaFromFile(row.file) }}
+                        </span>
+                        <span class="lh-file-path">{{ fmtFile(row.file) }}</span>
+                      </td>
+                      <td class="col-num ad-muted">{{ row.lineNum }}</td>
+                      <td><code class="ad-query lh-url">{{ row.url }}</code></td>
+                      <td class="col-eba">
+                        <span class="ad-eba-pill" :style="{ background: ebaColor(row.actualEba) + '1A', color: ebaColor(row.actualEba) }">
+                          {{ EBA_LABELS[row.actualEba] || row.actualEba }}
+                        </span>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div v-else class="ad-empty ad-empty--positive">
+                {{ lhEbaFilter ? `No cross-EBA links in ${EBA_LABELS[lhEbaFilter] || lhEbaFilter}.` : 'No cross-EBA links found.' }}
+              </div>
+            </template>
+
+          </template>
+
+          <!-- No report yet -->
+          <div v-else-if="!linkReportLoading && !linkReportError" class="ad-empty">
+            No link health report available yet. It is generated automatically on each deploy.
+          </div>
+
+        </div>
+        <!-- end tab: link-health -->
 
       </template>
     </div>
@@ -829,9 +1125,16 @@ function ebaColor(slug) {
   font-size: 0.875rem; font-weight: 500; color: var(--vp-c-text-2);
   background: none; border: none; border-bottom: 2px solid transparent;
   margin-bottom: -1px; cursor: pointer; transition: color 120ms, border-color 120ms;
+  display: inline-flex; align-items: center; gap: 0.35rem; position: relative;
 }
 .ad-tab:hover { color: var(--vp-c-text-1); }
 .ad-tab--active { color: var(--vp-c-brand-1); border-bottom-color: var(--vp-c-brand-1); }
+
+/* Red/amber dot on Link Health tab when issues present */
+.ad-tab-dot {
+  display: inline-block; width: 6px; height: 6px;
+  border-radius: 50%; flex-shrink: 0;
+}
 
 /* ── Panel ─────────────────────────────────────────────────────────────────── */
 .ad-panel { }
@@ -841,6 +1144,7 @@ function ebaColor(slug) {
 .ad-section-title {
   font-size: 1rem; font-weight: 600; color: var(--vp-c-text-1);
   margin: 0 0 0.15rem; border: none; padding: 0;
+  display: inline-flex; align-items: center;
 }
 .ad-section-desc { font-size: 0.78rem; color: var(--vp-c-text-3); margin: 0; }
 
@@ -978,4 +1282,123 @@ function ebaColor(slug) {
   background: var(--vp-c-bg-soft); font-size: 0.85rem; color: var(--vp-c-text-3);
 }
 .ad-empty--positive { color: #059669; background: #0596691A; border-color: #05966940; }
+
+/* ════════════════════════════════════════════════════════════════════════════
+   LINK HEALTH TAB
+════════════════════════════════════════════════════════════════════════════ */
+
+/* Status banner */
+.lh-banner {
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 0.75rem;
+  padding: 0.875rem 1.1rem; margin-bottom: 1.5rem;
+  border: 1px solid; border-radius: 10px;
+}
+.lh-banner-left {
+  display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;
+}
+.lh-status-dot {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+.lh-status-label {
+  font-weight: 600; font-size: 0.875rem;
+}
+.lh-banner-meta {
+  font-size: 0.82rem; color: var(--vp-c-text-2);
+}
+.lh-banner-date {
+  font-size: 0.75rem; color: var(--vp-c-text-3); white-space: nowrap;
+}
+
+/* Link health KPI strip (4 columns instead of 6) */
+.lh-kpi-strip {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 640px) { .lh-kpi-strip { grid-template-columns: repeat(2, 1fr); } }
+
+.lh-kpi {
+  padding: 0.875rem 1rem;
+  background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider);
+  border-top: 3px solid var(--lh-kpi-color, var(--vp-c-brand-1));
+  border-radius: 10px;
+  display: flex; flex-direction: column; gap: 0.2rem;
+}
+.lh-kpi-val {
+  font-size: 1.5rem; font-weight: 700; color: var(--vp-c-text-1);
+  line-height: 1; font-variant-numeric: tabular-nums;
+}
+.lh-kpi-lbl {
+  font-size: 0.68rem; color: var(--vp-c-text-3);
+  text-transform: uppercase; letter-spacing: 0.04em;
+}
+
+/* Filter row */
+.lh-filter-row {
+  display: flex; align-items: flex-end; gap: 1.5rem; flex-wrap: wrap;
+}
+.lh-filter-group {
+  display: flex; flex-direction: column; gap: 0.3rem;
+}
+.lh-filter-label {
+  font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em;
+  color: var(--vp-c-text-3); font-weight: 600;
+}
+.lh-filter-btns {
+  display: flex; gap: 0;
+  border: 1px solid var(--vp-c-divider); border-radius: 7px; overflow: hidden;
+}
+.lh-filter-btn {
+  padding: 0.35rem 0.8rem; font-size: 0.8rem; font-weight: 500;
+  background: var(--vp-c-bg); color: var(--vp-c-text-2);
+  border: none; border-right: 1px solid var(--vp-c-divider);
+  cursor: pointer; transition: background 120ms, color 120ms;
+}
+.lh-filter-btn:last-child { border-right: none; }
+.lh-filter-btn:hover { background: var(--vp-c-bg-elv); color: var(--vp-c-text-1); }
+.lh-filter-btn--active {
+  background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); font-weight: 600;
+}
+.lh-select {
+  padding: 0.35rem 0.65rem; font-size: 0.82rem;
+  background: var(--vp-c-bg); color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-divider); border-radius: 7px;
+  cursor: pointer; outline: none;
+}
+.lh-select:focus { border-color: var(--vp-c-brand-1); }
+
+/* Count badges inside section headings */
+.lh-count-badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  padding: 0.1rem 0.45rem; border-radius: 999px;
+  font-size: 0.7rem; font-weight: 700;
+  font-variant-numeric: tabular-nums; vertical-align: middle;
+}
+.lh-count-badge--404   { background: #E11D481A; color: #E11D48; }
+.lh-count-badge--cross { background: #D977061A; color: #D97706; }
+
+/* File path displayed below EBA pill in table cells */
+.lh-file-path {
+  display: block; font-size: 0.72rem; color: var(--vp-c-text-3);
+  margin-top: 0.2rem; font-family: var(--vp-font-family-mono);
+  word-break: break-all;
+}
+
+/* URL code block — allow wrapping so long paths don't break layout */
+.lh-url {
+  word-break: break-all; white-space: normal;
+}
+
+/* URL type badge (clause / index) */
+.lh-type-badge {
+  display: inline-block; padding: 0.1rem 0.45rem; border-radius: 999px;
+  font-size: 0.65rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+}
+.lh-type-badge--clause { background: #4A2A721A; color: #4A2A72; }
+.lh-type-badge--index  { background: #0891B21A; color: #0891B2; }
+
+/* Truncation warning note inline in section desc */
+.lh-trunc-note {
+  color: #D97706; font-weight: 500;
+}
 </style>
