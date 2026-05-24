@@ -852,6 +852,22 @@ display: none !important;
   }
 }
 
+/* ============================================================
+   Mobile Bottom Nav — page content clearance
+   ============================================================
+   Adds bottom padding to the main VitePress content wrapper
+   so the last line of any page is never hidden behind the
+   fixed 56px bottom nav bar.
+   The extra 16px gives comfortable breathing room above the bar.
+   env(safe-area-inset-bottom) adds iOS home indicator clearance
+   on top of the base 72px.
+   ============================================================ */
+@media (max-width: 767px) {
+  #VPContent {
+    padding-bottom: calc(72px + env(safe-area-inset-bottom)) !important;
+  }
+}
+
 /* ── Reading mode — smooth transition ────────────────────────────────────────
    Animate the content reflow so it doesn't feel like a hard jump.          */
 .VPDoc,
@@ -1087,7 +1103,8 @@ html {
   .kb-overlay,
   .VPBackdrop,
   .a11y-controls,
-  .a11y-sep {
+  .a11y-sep,
+  .mobile-nav {
     display: none !important;
   }
 

@@ -19,6 +19,7 @@ import Breadcrumb from './components/Breadcrumb.vue'
 import BookmarkButton from './components/BookmarkButton.vue'
 import GuidedTour from './components/GuidedTour.vue'
 import ClausePageTour from './components/ClausePageTour.vue'
+import MobileNav from './components/MobileNav.vue'
 
 export default {
   extends: DefaultTheme,
@@ -69,7 +70,7 @@ export default {
 
       // layout-bottom: always-mounted overlay components that are event-driven.
       // Fragment is required — VitePress slot functions must return a single VNode.
-      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour)]),
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav)]),
 
       'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
@@ -92,6 +93,7 @@ export default {
     app.component('BookmarkButton',        BookmarkButton)
     app.component('GuidedTour',            GuidedTour)
     app.component('ClausePageTour',        ClausePageTour)
+    app.component('MobileNav',             MobileNav)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation

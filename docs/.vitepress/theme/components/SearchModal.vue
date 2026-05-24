@@ -2058,12 +2058,16 @@ onMounted(async () => {
 function openFromExternal(e) {
   const detail = e?.detail ?? {}
 
-  if (detail.tab === 'ask' && detail.query) {
-    pendingContentHash = detail.contentHash ?? null
-    _externalAskQuery  = detail.query
-    activeTab.value     = 'ask'
-    open.value          = true
-    nextTick(() => submitAsk())
+  if (detail.tab === 'ask') {
+    activeTab.value = 'ask'
+    open.value      = true
+    if (detail.query) {
+      pendingContentHash = detail.contentHash ?? null
+      _externalAskQuery  = detail.query
+      nextTick(() => submitAsk())
+    } else {
+      nextTick(() => inputRef.value?.focus())
+    }
     return
   }
 
