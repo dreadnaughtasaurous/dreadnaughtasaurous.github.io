@@ -6,8 +6,7 @@
 // 4. Injects data-pagefind-weight div — score based on slug/topic relevance
 // 5. Injects hidden synonyms div at END of body with data-pagefind-ignore
 
-import { readFileSync, writeFileSync, existsSync } from 'fs'
-import { glob } from 'fs/promises'
+import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from 'fs'
 import { join, relative } from 'path'
 
 const distDir = new URL('../.vitepress/dist', import.meta.url).pathname
@@ -82,10 +81,20 @@ function computeWeight(slug, topics) {
   return 5
 }
 
+// Collect all HTML files recursively using a synchronous walker.
+// fs/promises glob requires Node.js v22+; this approach works on v18 and v20.
 const htmlFiles = []
-for await (const f of glob('**/*.html', { cwd: distDir })) {
-  htmlFiles.push(join(distDir, f))
+function walkDir(dir) {
+  for (const entry of readdirSync(dir)) {
+    const full = join(dir, entry)
+    if (statSync(full).isDirectory()) {
+      walkDir(full)
+    } else if (entry.endsWith('.html')) {
+      htmlFiles.push(full)
+    }
+  }
 }
+walkDir(distDir)
 
 for (const file of htmlFiles) {
   let html = readFileSync(file, 'utf8')
