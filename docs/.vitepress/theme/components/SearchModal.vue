@@ -888,6 +888,8 @@
             <button class="ai-intro-dismiss" @click="dismissAskIntro" aria-label="Dismiss Ask AI guide">✕</button>
           </div>
 
+          <!-- Scrollable body — sits between sticky header and sticky Got it button -->
+          <div class="ai-intro-body-scroll">
           <!-- Warning alert -->
           <div class="ai-intro-alert">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
@@ -995,6 +997,7 @@
             </div>
           </div>
 
+          </div><!-- end ai-intro-body-scroll -->
           <button class="ai-intro-got-it" @click="dismissAskIntro">Got it — start asking</button>
         </div>
       </div>
@@ -4129,20 +4132,21 @@ function autoResizeFollowUp() {
 
 /* ── Panel — centred card, scrollable if content overflows viewport ── */
 .ai-intro-panel {
-  position:       relative;
-  width:          100%;
-  max-width:      540px;
-  max-height:     calc(100vh - 3rem);
-  overflow-y:     auto;
-  background:     var(--vp-c-bg);
-  border:         1px solid var(--vp-c-divider);
-  border-radius:  14px;
+  position:        relative;
+  width:           100%;
+  max-width:       540px;
+  max-height:      calc(100vh - 3rem);
+  display:         flex;
+  flex-direction:  column;
+  background:      var(--vp-c-bg);
+  border:          1px solid var(--vp-c-divider);
+  border-radius:   14px;
   box-shadow:
     0 0 0 1px rgba(74, 42, 114, 0.12),
     0 24px 64px rgba(0, 0, 0, 0.35),
     0 4px 16px rgba(0, 0, 0, 0.15);
-  font-size:      0.83rem;
-  overflow:       hidden;
+  font-size:       0.83rem;
+  overflow:        hidden;
 }
 
 /* ── Card header ── */
@@ -4189,6 +4193,13 @@ function autoResizeFollowUp() {
   color:            var(--vp-c-text-1);
   border-color:     var(--vp-c-brand);
   background-color: var(--vp-c-brand-soft);
+}
+
+/* ── Scrollable body — everything between the sticky header and sticky footer ── */
+.ai-intro-body-scroll {
+  overflow-y:  auto;
+  flex:        1 1 auto;
+  min-height:  0;
 }
 
 /* ── Warning alert banner ── */
@@ -4352,11 +4363,12 @@ function autoResizeFollowUp() {
 .ai-intro-footer ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.22rem; }
 .ai-intro-footer li { font-size: 0.74rem; color: var(--vp-c-text-2); line-height: 1.4; }
 
-/* ── Bottom CTA button ── */
+/* ── Bottom CTA button — sticky at bottom of panel, always reachable ── */
 .ai-intro-got-it {
   display:          block;
   width:            calc(100% - 2.2rem);
   margin:           0.85rem 1.1rem 1rem;
+  flex-shrink:      0;
   padding:          0.55rem;
   background:       var(--vp-c-brand-soft);
   color:            var(--vp-c-brand-1);
