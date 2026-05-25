@@ -1,5 +1,5 @@
 ---
-title: 'Safe Patient Care'
+title: 'Part L – Interaction with Safe Patient Care Act and Related Matters'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Safe Patient Care
+# Part L – Interaction with Safe Patient Care Act and Related Matters
 
 
 - [105. Interaction with the Safe Patient Care Act](./safe-patient-care/105-interaction-with-the-safe-patient-care-act/)

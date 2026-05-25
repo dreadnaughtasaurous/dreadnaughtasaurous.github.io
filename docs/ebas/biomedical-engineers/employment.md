@@ -1,5 +1,5 @@
 ---
-title: 'Employment'
+title: 'Part C – Types of Employment, Commencement of Employment and End of Employment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Employment
+# Part C – Types of Employment, Commencement of Employment and End of Employment
 
 
 - [17. Secure Employment](./employment/17-secure-employment/)

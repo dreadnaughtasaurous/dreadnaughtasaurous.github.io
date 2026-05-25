@@ -1,5 +1,5 @@
 ---
-title: 'Registered & Enrolled Psychiatric Nurses and Mental Health Officers'
+title: 'Section 2 – Registered Psychiatric Nurses, Psychiatric Enrolled Nurses & Mental Health Officers'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Registered & Enrolled Psychiatric Nurses and Mental Health Officers
+# Section 2 – Registered Psychiatric Nurses, Psychiatric Enrolled Nurses & Mental Health Officers
 
 
 

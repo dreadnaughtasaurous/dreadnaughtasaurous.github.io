@@ -1,5 +1,5 @@
 ---
-title: 'Wages'
+title: 'Part D – Wages'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['wages']
 ---
@@ -10,7 +10,7 @@ topics: ['wages']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Wages
+# Part D – Wages
 
 
 - [25. Salary](./wages/25-salary/)

@@ -1,5 +1,5 @@
 ---
-title: 'Preliminary'
+title: 'Part A – Preliminary'
 eba: 'Medical Specialists 2022-2026'
 topics: ['preliminary']
 ---
@@ -10,7 +10,7 @@ topics: ['preliminary']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Preliminary
+# Part A – Preliminary
 
 
 - [1. Title](./preliminary/1-title/)

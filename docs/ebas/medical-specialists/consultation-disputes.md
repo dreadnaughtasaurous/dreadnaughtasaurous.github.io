@@ -1,5 +1,5 @@
 ---
-title: 'Consultation Disputes'
+title: 'Part B – Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['consultation', 'disputes']
 ---
@@ -10,7 +10,7 @@ topics: ['consultation', 'disputes']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Consultation Disputes
+# Part B – Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements
 
 
 - [9. Consultation](./consultation-disputes/9-consultation/)

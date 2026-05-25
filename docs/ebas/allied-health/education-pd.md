@@ -1,5 +1,5 @@
 ---
-title: 'Education & Professional Development'
+title: 'Part H – Education and Professional Development'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['education']
 ---
@@ -10,7 +10,7 @@ topics: ['education']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Education & Professional Development
+# Part H – Education and Professional Development
 
 
 - [79. Professional Development Leave](./education-pd/79-professional-development-leave/)

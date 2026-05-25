@@ -1,5 +1,5 @@
 ---
-title: 'Classification Staffing'
+title: 'Part J – Classification and Staffing'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['classification', 'staffing']
 ---
@@ -10,7 +10,7 @@ topics: ['classification', 'staffing']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Classification Staffing
+# Part J – Classification and Staffing
 
 
 - [85. Classifications Definitions and Wages](./classification-staffing/85-classifications-definitions-and-wages/)

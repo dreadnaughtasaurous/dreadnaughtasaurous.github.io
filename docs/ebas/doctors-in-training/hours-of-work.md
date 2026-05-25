@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part D – Hours of Work and Related Matters'
 eba: 'Doctors in Training 2022-2026'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Hours Of Work
+# Part D – Hours of Work and Related Matters
 
 
 - [33. Hours of work](./hours-of-work/33-hours-of-work/)

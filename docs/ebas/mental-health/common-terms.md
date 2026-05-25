@@ -1,5 +1,5 @@
 ---
-title: 'Common Terms'
+title: 'Section 1 – Common Terms'
 eba: 'Mental Health Services 2024-2028'
 topics: ['definitions']
 ---
@@ -8,7 +8,7 @@ topics: ['definitions']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Common Terms
+# Section 1 – Common Terms
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part 8 – Leave of Absence and Public Holidays'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Leave
+# Part 8 – Leave of Absence and Public Holidays
 
 
 - [61. Annual Leave](./leave/61-annual-leave/)

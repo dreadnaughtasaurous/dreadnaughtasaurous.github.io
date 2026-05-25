@@ -1,5 +1,5 @@
 ---
-title: 'Union Matters'
+title: 'Part I – Union Matters and Best Practice Employment Commitment'
 eba: 'Medical Specialists 2022-2026'
 topics: ['union-matters']
 ---
@@ -10,7 +10,7 @@ topics: ['union-matters']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Union Matters
+# Part I – Union Matters and Best Practice Employment Commitment
 
 
 - [62. Union Matters](./union-matters/62-union-matters/)

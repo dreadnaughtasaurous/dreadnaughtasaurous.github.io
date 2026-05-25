@@ -1,5 +1,5 @@
 ---
-title: 'Doctor Employment'
+title: 'Part C – Doctor Employment'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 DIT intern resident registrar medical officer HMO RMO PHO junior trainee prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Doctor Employment
+# Part C – Doctor Employment
 
 
 - [17. Full-Time Employment](./doctor-employment/17-full-time-employment/)

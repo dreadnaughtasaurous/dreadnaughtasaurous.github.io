@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part F – Hours of Work and Related Matters'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Hours Of Work
+# Part F – Hours of Work and Related Matters
 
 
 - [42. Hours of Work](./hours-of-work/42-hours-of-work/)

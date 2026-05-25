@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part F – Hours of Work and Related Matters'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Hours Of Work
+# Part F – Hours of Work and Related Matters
 
 
 - [40. Hours of Work](./hours-of-work/40-hours-of-work/)

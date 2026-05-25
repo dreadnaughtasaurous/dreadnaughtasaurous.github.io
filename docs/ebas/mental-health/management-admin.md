@@ -1,5 +1,5 @@
 ---
-title: 'Management Admin'
+title: 'Section 5 – Management and Admin'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -8,7 +8,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Management Admin
+# Section 5 – Management and Admin
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Preliminary'
+title: 'Part A – Preliminary'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['preliminary']
 ---
@@ -10,7 +10,7 @@ topics: ['preliminary']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Preliminary
+# Part A – Preliminary
 
 
 - [4. Definitions](./preliminary/4-definitions/)

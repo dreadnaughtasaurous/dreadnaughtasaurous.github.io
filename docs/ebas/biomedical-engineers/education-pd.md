@@ -1,5 +1,5 @@
 ---
-title: 'Education & Professional Development'
+title: 'Part H – Education and Professional Development'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['education']
 ---
@@ -10,7 +10,7 @@ topics: ['education']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Education & Professional Development
+# Part H – Education and Professional Development
 
 
 - [77. Replacement Positions (The Royal Children’s and The Royal Women’s Hospital Only)](./education-pd/77-replacement-positions-the-royal-children-s-and-the-royal-wom/)

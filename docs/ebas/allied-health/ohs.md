@@ -1,5 +1,5 @@
 ---
-title: 'Occupational Health & Safety'
+title: 'Part L – Occupational Health and Safety'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['ohs']
 ---
@@ -10,7 +10,7 @@ topics: ['ohs']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Occupational Health & Safety
+# Part L – Occupational Health and Safety
 
 
 - [97. OHS Preliminary](./ohs/97-ohs-preliminary/)

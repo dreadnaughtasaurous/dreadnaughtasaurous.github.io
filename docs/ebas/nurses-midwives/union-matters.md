@@ -1,5 +1,5 @@
 ---
-title: 'Union Matters'
+title: 'Part I – Union Matters and Committees'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['union-matters']
 ---
@@ -10,7 +10,7 @@ topics: ['union-matters']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Union Matters
+# Part I – Union Matters and Committees
 
 
 - [80. Union Matters](./union-matters/80-union-matters/)

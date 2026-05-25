@@ -1,5 +1,5 @@
 ---
-title: 'Allowances'
+title: 'Part E – Allowances and Reimbursements'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances']
 ---
@@ -10,7 +10,7 @@ topics: ['allowances']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Allowances
+# Part E – Allowances and Reimbursements
 
 
 - [33. Increases to Allowances](./allowances/33-increases-to-allowances/)

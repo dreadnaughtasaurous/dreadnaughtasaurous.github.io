@@ -1,5 +1,5 @@
 ---
-title: 'Union Matters'
+title: 'Part I – Union Matters and Best Practice Employment Commitment'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['union-matters']
 ---
@@ -10,7 +10,7 @@ topics: ['union-matters']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Union Matters
+# Part I – Union Matters and Best Practice Employment Commitment
 
 
 - [83. Union Matters](./union-matters/83-union-matters/)

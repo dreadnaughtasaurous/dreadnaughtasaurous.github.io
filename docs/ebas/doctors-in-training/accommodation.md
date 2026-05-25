@@ -1,5 +1,5 @@
 ---
-title: 'Accommodation'
+title: 'Part I – Accommodation and Facilities'
 eba: 'Doctors in Training 2022-2026'
 topics: ['accommodation']
 ---
@@ -8,7 +8,7 @@ topics: ['accommodation']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Accommodation
+# Part I – Accommodation and Facilities
 
 
 - [72. Amenities and facilities](./accommodation/72-amenities-and-facilities/)

@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part G – Public Holidays, Leave and Related Matters'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Leave
+# Part G – Public Holidays, Leave and Related Matters
 
 
 - [50. Public Holidays](./leave/50-public-holidays/)

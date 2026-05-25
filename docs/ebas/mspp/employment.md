@@ -1,5 +1,5 @@
 ---
-title: 'Employment'
+title: 'Part 4 – Employment Relationship and Related Arrangements'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Employment
+# Part 4 – Employment Relationship and Related Arrangements
 
 
 - [18. Types of Employment](./employment/18-types-of-employment/)

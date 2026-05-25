@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part 7 – Hours of Work, Breaks, Overtime, Shiftwork and Weekend Work'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Hours Of Work
+# Part 7 – Hours of Work, Breaks, Overtime, Shiftwork and Weekend Work
 
 
 - [55. Hours of Work](./hours-of-work/55-hours-of-work/)

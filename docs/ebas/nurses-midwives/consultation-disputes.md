@@ -1,5 +1,5 @@
 ---
-title: 'Consultation Disputes'
+title: 'Part B – Consultation, Dispute Resolution and Discipline'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['consultation', 'disputes']
 ---
@@ -10,7 +10,7 @@ topics: ['consultation', 'disputes']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Consultation Disputes
+# Part B – Consultation, Dispute Resolution and Discipline
 
 
 - [11. Consultation](./consultation-disputes/11-consultation/)

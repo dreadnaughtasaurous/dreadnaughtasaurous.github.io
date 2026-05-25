@@ -1,5 +1,5 @@
 ---
-title: 'Classification Salaries'
+title: 'Part 6 – Classification, Salaries and Higher Qualification Allowances'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['classification']
 ---
@@ -10,7 +10,7 @@ topics: ['classification']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Classification Salaries
+# Part 6 – Classification, Salaries and Higher Qualification Allowances
 
 
 - [39. Management Higher Qualifications Allowances](./classification-salaries/39-management-higher-qualifications-allowances/)

@@ -1,5 +1,5 @@
 ---
-title: 'Consultation Disputes'
+title: 'Part B – Consultation, Dispute Resolution and Discipline'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['consultation', 'disputes']
 ---
@@ -10,7 +10,7 @@ topics: ['consultation', 'disputes']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Consultation Disputes
+# Part B – Consultation, Dispute Resolution and Discipline
 
 
 - [13. Consultation](./consultation-disputes/13-consultation/)

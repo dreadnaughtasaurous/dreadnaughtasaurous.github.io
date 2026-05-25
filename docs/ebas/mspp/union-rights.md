@@ -1,5 +1,5 @@
 ---
-title: 'Union Rights'
+title: 'Part 3 – Union Rights'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['union-matters']
 ---
@@ -10,7 +10,7 @@ topics: ['union-matters']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Union Rights
+# Part 3 – Union Rights
 
 
 - [17. Union Rights](./union-rights/17-union-rights/)

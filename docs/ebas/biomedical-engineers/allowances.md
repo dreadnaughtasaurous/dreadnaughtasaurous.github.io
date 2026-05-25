@@ -1,5 +1,5 @@
 ---
-title: 'Allowances'
+title: 'Part E – Allowances and Reimbursements'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['allowances']
 ---
@@ -10,7 +10,7 @@ topics: ['allowances']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Allowances
+# Part E – Allowances and Reimbursements
 
 
 - [33. Higher Qualifications Allowance](./allowances/33-higher-qualifications-allowance/)

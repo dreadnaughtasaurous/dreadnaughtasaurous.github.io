@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part 6 – Leave and Public Holidays'
 eba: 'Children''s Services Award 2010'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Leave
+# Part 6 – Leave and Public Holidays
 
 
 - [24. Annual leave](./leave/24-annual-leave/)

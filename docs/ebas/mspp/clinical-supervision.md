@@ -1,5 +1,5 @@
 ---
-title: 'Clinical Supervision'
+title: 'Part 11 – Clinical Supervision of Psychologists and Other Matters'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist psychologist research scientist hospital pharmacist
 </div>
 
-# Clinical Supervision
+# Part 11 – Clinical Supervision of Psychologists and Other Matters
 
 
 - [94. Psychologist Supervisor Training](./clinical-supervision/94-psychologist-supervisor-training/)

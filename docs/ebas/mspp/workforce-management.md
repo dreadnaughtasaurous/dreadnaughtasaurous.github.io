@@ -1,5 +1,5 @@
 ---
-title: 'Workforce Management'
+title: 'Part 5 – Workforce Management'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Workforce Management
+# Part 5 – Workforce Management
 
 
 - [33. Workload](./workforce-management/33-workload/)

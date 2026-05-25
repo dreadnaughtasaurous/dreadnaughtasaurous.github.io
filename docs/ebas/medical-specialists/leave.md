@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part H – Public Holidays, Leave and Related Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Leave
+# Part H – Public Holidays, Leave and Related Matters
 
 
 - [47. Annual leave](./leave/47-annual-leave/)

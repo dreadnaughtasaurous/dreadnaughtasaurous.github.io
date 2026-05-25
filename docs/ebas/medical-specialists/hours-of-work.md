@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part D – Hours of Work and Related Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Hours Of Work
+# Part D – Hours of Work and Related Matters
 
 
 - [25. Continuous Duty (Full-Time Doctors)](./hours-of-work/25-continuous-duty-full-time-doctors/)

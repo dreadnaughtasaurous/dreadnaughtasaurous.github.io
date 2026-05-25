@@ -1,5 +1,5 @@
 ---
-title: 'Wages'
+title: 'Part 4 – Minimum Wages and Related Matters'
 eba: 'Children''s Services Award 2010'
 topics: ['wages']
 ---
@@ -10,7 +10,7 @@ topics: ['wages']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Wages
+# Part 4 – Minimum Wages and Related Matters
 
 
 - [13. Classifications](./wages/13-classifications/)

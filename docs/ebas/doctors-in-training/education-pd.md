@@ -1,5 +1,5 @@
 ---
-title: 'Education & Professional Development'
+title: 'Part F – Education and Professional Development'
 eba: 'Doctors in Training 2022-2026'
 topics: ['education']
 ---
@@ -10,7 +10,7 @@ topics: ['education']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Education & Professional Development
+# Part F – Education and Professional Development
 
 
 - [47. Continuing medical education allowance](./education-pd/47-continuing-medical-education-allowance/)

@@ -1,5 +1,5 @@
 ---
-title: 'Common Terms'
+title: 'Section 1 – Common Terms'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['definitions']
 ---
@@ -8,7 +8,7 @@ topics: ['definitions']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# Common Terms
+# Section 1 – Common Terms
 
 
 

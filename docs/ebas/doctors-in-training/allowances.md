@@ -1,5 +1,5 @@
 ---
-title: 'Allowances'
+title: 'Part G – Allowances and Reimbursements'
 eba: 'Doctors in Training 2022-2026'
 topics: ['allowances']
 ---
@@ -10,7 +10,7 @@ topics: ['allowances']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Allowances
+# Part G – Allowances and Reimbursements
 
 
 - [51. Higher duties](./allowances/51-higher-duties/)

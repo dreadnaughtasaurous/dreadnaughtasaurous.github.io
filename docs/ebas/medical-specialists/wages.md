@@ -1,5 +1,5 @@
 ---
-title: 'Wages'
+title: 'Part E – Wages and Related Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: ['wages']
 ---
@@ -10,7 +10,7 @@ topics: ['wages']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Wages
+# Part E – Wages and Related Matters
 
 
 - [31. Remuneration and remuneration increases](./wages/31-remuneration-and-remuneration-increases/)

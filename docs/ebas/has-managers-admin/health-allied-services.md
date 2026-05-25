@@ -1,5 +1,5 @@
 ---
-title: 'Health Allied Services'
+title: 'Section 2 – Health & Allied Services'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 HAS HASMA administrative manager administrative worker clerical officer administration manager patient officer
 </div>
 
-# Health Allied Services
+# Section 2 – Health & Allied Services
 
 
 

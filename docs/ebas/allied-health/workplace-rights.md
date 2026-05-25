@@ -1,5 +1,5 @@
 ---
-title: 'Workplace Rights'
+title: 'Part K – Workplace Rights'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Workplace Rights
+# Part K – Workplace Rights
 
 
 - [95. Working from Home](./workplace-rights/95-working-from-home/)

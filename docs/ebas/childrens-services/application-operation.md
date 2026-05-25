@@ -1,5 +1,5 @@
 ---
-title: 'Application Operation'
+title: 'Part 1 – Application and Operation'
 eba: 'Children''s Services Award 2010'
 topics: []
 ---
@@ -8,7 +8,7 @@ topics: []
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Application Operation
+# Part 1 – Application and Operation
 
 
 - [1. Title](./application-operation/1-title/)

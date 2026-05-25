@@ -1,5 +1,5 @@
 ---
-title: 'Employment Types'
+title: 'Part C – Types of Employment, Commencement of Employment and End of Employment'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Employment Types
+# Part C – Types of Employment, Commencement of Employment and End of Employment
 
 
 - [17. Full-time Employment](./employment-types/17-full-time-employment/)

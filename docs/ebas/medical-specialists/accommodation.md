@@ -1,5 +1,5 @@
 ---
-title: 'Accommodation'
+title: 'Part G – Accommodation and Facilities'
 eba: 'Medical Specialists 2022-2026'
 topics: ['accommodation']
 ---
@@ -8,7 +8,7 @@ topics: ['accommodation']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Accommodation
+# Part G – Accommodation and Facilities
 
 
 - [45. Board and lodging](./accommodation/45-board-and-lodging/)

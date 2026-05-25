@@ -1,5 +1,5 @@
 ---
-title: 'Education & Professional Development'
+title: 'Part H – Education and Professional Development'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['education']
 ---
@@ -10,7 +10,7 @@ topics: ['education']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Education & Professional Development
+# Part H – Education and Professional Development
 
 
 - [75. Professional Development Leave](./education-pd/75-professional-development-leave/)

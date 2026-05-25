@@ -1,5 +1,5 @@
 ---
-title: 'Disputes'
+title: 'Part 2 – Dispute Settling'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['disputes']
 ---
@@ -8,7 +8,7 @@ topics: ['disputes']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Disputes
+# Part 2 – Dispute Settling
 
 
 - [11. Disputes Settling Procedures](./disputes/11-disputes-settling-procedures/)

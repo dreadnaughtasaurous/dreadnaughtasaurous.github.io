@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part H – Public Holidays, Leave and Related Matters'
 eba: 'Doctors in Training 2022-2026'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Leave
+# Part H – Public Holidays, Leave and Related Matters
 
 
 - [58. Leave not applying to casuals](./leave/58-leave-not-applying-to-casuals/)

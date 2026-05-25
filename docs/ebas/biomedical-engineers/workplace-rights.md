@@ -1,5 +1,5 @@
 ---
-title: 'Workplace Rights'
+title: 'Part K – Workplace Rights'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Workplace Rights
+# Part K – Workplace Rights
 
 
 - [85. Flexible Working Arrangements](./workplace-rights/85-flexible-working-arrangements/)

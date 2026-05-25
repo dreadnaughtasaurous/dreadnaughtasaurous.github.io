@@ -1,5 +1,5 @@
 ---
-title: 'Consultation Disputes'
+title: 'Part B – Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements'
 eba: 'Doctors in Training 2022-2026'
 topics: ['consultation', 'disputes']
 ---
@@ -10,7 +10,7 @@ topics: ['consultation', 'disputes']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Consultation Disputes
+# Part B – Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements
 
 
 - [10. Consultation](./consultation-disputes/10-consultation/)

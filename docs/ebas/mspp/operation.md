@@ -1,5 +1,5 @@
 ---
-title: 'Operation'
+title: 'Part 1 – Operation of Agreement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -8,7 +8,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Operation
+# Part 1 – Operation of Agreement
 
 
 - [1. Title](./operation/1-title/)

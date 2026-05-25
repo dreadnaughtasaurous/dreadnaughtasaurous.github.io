@@ -1,5 +1,5 @@
 ---
-title: 'Consultation Disputes'
+title: 'Part 2 – Workplace Delegates, Consultation and Dispute Resolution'
 eba: 'Children''s Services Award 2010'
 topics: ['consultation', 'disputes']
 ---
@@ -10,7 +10,7 @@ topics: ['consultation', 'disputes']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Consultation Disputes
+# Part 2 – Workplace Delegates, Consultation and Dispute Resolution
 
 
 - [7A. Workplace delegates' rights](./consultation-disputes/7A-workplace-delegates-rights/)

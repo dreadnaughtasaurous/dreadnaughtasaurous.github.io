@@ -1,5 +1,5 @@
 ---
-title: 'Employment'
+title: 'Part 3 – Types of Employment and Termination of Employment'
 eba: 'Children''s Services Award 2010'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Employment
+# Part 3 – Types of Employment and Termination of Employment
 
 
 - [10. Types of employment](./employment/10-types-of-employment/)

@@ -1,5 +1,5 @@
 ---
-title: 'Consultation Disputes'
+title: 'Part B – Consultation, Dispute Resolution and Discipline'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['consultation', 'disputes']
 ---
@@ -10,7 +10,7 @@ topics: ['consultation', 'disputes']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Consultation Disputes
+# Part B – Consultation, Dispute Resolution and Discipline
 
 
 - [13. Consultation](./consultation-disputes/13-consultation/)

@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part 5 – Hours of Work and Related Matters'
 eba: 'Children''s Services Award 2010'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school care OSHC children's
 </div>
 
-# Hours Of Work
+# Part 5 – Hours of Work and Related Matters
 
 
 - [21. Ordinary hours of work and rostering](./hours-of-work/21-ordinary-hours-of-work-and-rostering/)

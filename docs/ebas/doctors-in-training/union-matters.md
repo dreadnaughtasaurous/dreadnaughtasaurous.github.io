@@ -1,5 +1,5 @@
 ---
-title: 'Union Matters'
+title: 'Part J – Union Matters and Best Practice Employment Commitment'
 eba: 'Doctors in Training 2022-2026'
 topics: ['union-matters']
 ---
@@ -10,7 +10,7 @@ topics: ['union-matters']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Union Matters
+# Part J – Union Matters and Best Practice Employment Commitment
 
 
 - [76. Union Matters](./union-matters/76-union-matters/)

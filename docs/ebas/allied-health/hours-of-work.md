@@ -1,5 +1,5 @@
 ---
-title: 'Hours Of Work'
+title: 'Part F – Hours of Work and Related Matters'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['hours']
 ---
@@ -10,7 +10,7 @@ topics: ['hours']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Hours Of Work
+# Part F – Hours of Work and Related Matters
 
 
 - [47. Hours of Work](./hours-of-work/47-hours-of-work/)

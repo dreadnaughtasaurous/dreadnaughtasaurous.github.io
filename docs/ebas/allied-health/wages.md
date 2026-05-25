@@ -1,5 +1,5 @@
 ---
-title: 'Wages'
+title: 'Part D – Wages'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['wages']
 ---
@@ -10,7 +10,7 @@ topics: ['wages']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Wages
+# Part D – Wages
 
 
 - [28. Wages and Wage Increases](./wages/28-wages-and-wage-increases/)

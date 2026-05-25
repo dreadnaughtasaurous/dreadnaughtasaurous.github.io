@@ -1,5 +1,5 @@
 ---
-title: 'Classification Staffing'
+title: 'Part J – Classifications and Staffing'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['classification', 'staffing']
 ---
@@ -10,7 +10,7 @@ topics: ['classification', 'staffing']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Classification Staffing
+# Part J – Classifications and Staffing
 
 
 - [80. Classification and Reclassification](./classification-staffing/80-classification-and-reclassification/)

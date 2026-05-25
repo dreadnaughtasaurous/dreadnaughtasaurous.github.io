@@ -1,5 +1,5 @@
 ---
-title: 'Union Matters'
+title: 'Part I – Union Matters and Best Practice Employment Commitment'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['union-matters']
 ---
@@ -10,7 +10,7 @@ topics: ['union-matters']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Union Matters
+# Part I – Union Matters and Best Practice Employment Commitment
 
 
 - [78. Union Matters](./union-matters/78-union-matters/)

@@ -1,5 +1,5 @@
 ---
-title: 'Remuneration'
+title: 'Part E – Remuneration and Related Matters'
 eba: 'Doctors in Training 2022-2026'
 topics: ['remuneration']
 ---
@@ -10,7 +10,7 @@ topics: ['remuneration']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Remuneration
+# Part E – Remuneration and Related Matters
 
 
 - [42. Remuneration and remuneration increases](./remuneration/42-remuneration-and-remuneration-increases/)

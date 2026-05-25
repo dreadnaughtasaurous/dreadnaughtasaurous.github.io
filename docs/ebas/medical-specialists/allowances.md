@@ -1,5 +1,5 @@
 ---
-title: 'Allowances'
+title: 'Part F – Allowances and Related Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: ['allowances']
 ---
@@ -10,7 +10,7 @@ topics: ['allowances']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Allowances
+# Part F – Allowances and Related Matters
 
 
 - [37. Telephone allowance](./allowances/37-telephone-allowance/)

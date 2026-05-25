@@ -1,5 +1,5 @@
 ---
-title: 'Employment'
+title: 'Part C – Types of Employment, End of Employment and Related Matters'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Employment
+# Part C – Types of Employment, End of Employment and Related Matters
 
 
 - [16. Types of Employment](./employment/16-types-of-employment/)

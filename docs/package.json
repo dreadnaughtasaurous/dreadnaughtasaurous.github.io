@@ -6,6 +6,7 @@
     "docs:dev": "vitepress dev .",
     "docs:build": "vitepress build .",
     "docs:related": "node scripts/generate-related-clauses.mjs",
+    "docs:legislation": "node scripts/link-legislation.mjs",
     "docs:preview": "vitepress preview .",
     "docs:index": "vitepress build . && node scripts/patch-pagefind.mjs && pagefind --site .vitepress/dist --output-path .vitepress/dist/pagefind"
   },

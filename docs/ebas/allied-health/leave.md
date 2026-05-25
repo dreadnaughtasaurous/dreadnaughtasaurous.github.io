@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part G – Public Holidays, Leave and Related Matters'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Leave
+# Part G – Public Holidays, Leave and Related Matters
 
 
 - [58. Public Holidays](./leave/58-public-holidays/)

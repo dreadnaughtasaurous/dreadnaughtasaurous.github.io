@@ -1,5 +1,5 @@
 ---
-title: 'Leave'
+title: 'Part G – Public Holidays, Leave and Related Matters'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['leave']
 ---
@@ -10,7 +10,7 @@ topics: ['leave']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Leave
+# Part G – Public Holidays, Leave and Related Matters
 
 
 - [56. Public Holidays](./leave/56-public-holidays/)

@@ -1,5 +1,5 @@
 ---
-title: 'Health Professionals'
+title: 'Section 3 – Health Professionals'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 mental worker psychiatric nurse mental nurse community mental AMHS authorised mental practitioner psychosocial disability support
 </div>
 
-# Health Professionals
+# Section 3 – Health Professionals
 
 
 

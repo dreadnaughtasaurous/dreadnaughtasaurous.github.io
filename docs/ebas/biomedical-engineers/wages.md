@@ -1,5 +1,5 @@
 ---
-title: 'Wages'
+title: 'Part D – Wages'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['wages']
 ---
@@ -10,7 +10,7 @@ topics: ['wages']
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Wages
+# Part D – Wages
 
 
 - [26. Wages and Allowances](./wages/26-wages-and-allowances/)
