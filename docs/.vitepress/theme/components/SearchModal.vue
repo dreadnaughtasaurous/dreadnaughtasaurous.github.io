@@ -2064,6 +2064,7 @@ function openFromExternal(e) {
   if (detail.tab === 'ask') {
     activeTab.value = 'ask'
     open.value      = true
+    fetchMostViewed()
     if (detail.query) {
       pendingContentHash = detail.contentHash ?? null
       _externalAskQuery  = detail.query
@@ -2078,6 +2079,7 @@ function openFromExternal(e) {
   selectedEba.value   = eba
   selectedTopic.value = topic
   open.value = true
+  fetchMostViewed()
   if (eba || topic) {
     nextTick(() => doSearch())
   } else {
