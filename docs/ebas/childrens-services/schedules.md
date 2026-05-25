@@ -23,5 +23,6 @@ Reference tables and templates attached to the Children's Services Award 2010.
 - [Schedule F - Agreement to Take Annual Leave in Advance](./schedules/f-agreement-to-take-annual-leave-in-advance/)
 - [Schedule G - Agreement to Cash Out Annual Leave](./schedules/g-agreement-to-cash-out-annual-leave/)
 - [Schedule H - Agreement for Time Off Instead Of Payment for Overtime](./schedules/h-agreement-for-time-off-instead-of-payment-for-overtime/)
+- [Schedule I - Classification Translation Arrangements](./schedules/i-classification-translation-arrangements/)
 
 

@@ -335,7 +335,8 @@ const sidebar = [
         { text: 'Schedule E – School Based Apprentices', link: '/ebas/childrens-services/schedules/e-school-based-apprentices' },
         { text: 'Schedule F – Agreement to Take Annual Leave In Advance', link: '/ebas/childrens-services/schedules/f-agreement-to-take-annual-leave-in-advance' },
         { text: 'Schedule G – Agreement to Cash Out Annual Leave', link: '/ebas/childrens-services/schedules/g-agreement-to-cash-out-annual-leave' },
-        { text: 'Schedule H – Agreement for Time Off Instead of Payment for Overtime', link: '/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime' }
+        { text: 'Schedule H – Agreement for Time Off Instead of Payment for Overtime', link: '/ebas/childrens-services/schedules/h-agreement-for-time-off-instead-of-payment-for-overtime' },
+        { text: 'Schedule I - Classification Translation Arrangements', link: '/ebas/childrens-services/schedules/i-classification-translation-arrangements' }
       ] }
     ]
   },
