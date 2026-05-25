@@ -183,20 +183,18 @@ const parentSegment = computed(() =>
 
 <style scoped>
 .bc-crumb {
-  font-size:     0.78rem;
-  white-space:   nowrap;
-  overflow:      hidden;
-  text-overflow: ellipsis;
-  line-height:   1.2;
+  font-size:   0.78rem;
+  white-space: normal;    /* allow label text to wrap if needed */
+  line-height: 1.4;
 }
 
 .bc-full {
-  display:     flex;
+  display:    flex;
+  flex-wrap:  wrap;       /* allow the trail to break onto a second line */
   align-items: center;
-  gap:         0.2rem;
-  flex:        1;
-  min-width:   0;
-  overflow:    hidden;
+  gap:        0.25rem 0.1rem; /* row-gap 0.25rem, column-gap 0.1rem */
+  flex:       1;
+  min-width:  0;
 }
 
 .bc-link {
@@ -206,7 +204,6 @@ const parentSegment = computed(() =>
   align-items:     center;
   border-radius:   3px;
   padding:         0.1rem 0.15rem;
-  max-width:       18ch;
   transition:      color 0.15s, background 0.15s;
 }
 
@@ -218,7 +215,6 @@ const parentSegment = computed(() =>
 .bc-current {
   color:       var(--vp-c-text-1);
   font-weight: 500;
-  max-width:   24ch;
 }
 
 .bc-sep {
