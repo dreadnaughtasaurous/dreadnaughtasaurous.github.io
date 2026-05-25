@@ -60,6 +60,7 @@ export default defineConfig({
           { text: '🗄️ Archive',    link: '/archive/' },
           { text: '❓ How to Use', link: '/about/how-to-search/' },
           { text: '📋 Changelog',  link: '/changelog' },
+          { text: '📊 Admin Dashboard', link: '/admin/analytics' }
         ]
       },
     ],
