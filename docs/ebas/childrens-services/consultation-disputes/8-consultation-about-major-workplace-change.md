@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 8. Consultation About Major Workplace Change
  
->[8—Consultation regarding major workplace change renamed and substituted by PR546288, 8—Consultation renamed and substituted by PR610286 ppc 01Nov18]
+>[8—Consultation regarding major workplace change renamed and substituted by [PR546288](http://www.fwc.gov.au/documents/awardsandorders/html/PR546288.htm), 8—Consultation renamed and substituted by [PR610286](https://library.fairwork.gov.au/award/?krn=PR610286) ppc 01Nov18]
 
 **8.1** If an employer makes a definite decision to make major changes in production, program, organisation, structure or technology that are likely to have significant effects on employees, the employer must:
 

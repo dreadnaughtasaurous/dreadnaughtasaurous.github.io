@@ -10,7 +10,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # Schedule I - Classification Translation Arrangements
 
->[Sched I inserted by PR794818; corrected by PR794932, PR796954]
+>[Sched I inserted by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818); corrected by [PR794932](https://library.fairwork.gov.au/award/?krn=PR794932), [PR796954](https://library.fairwork.gov.au/award/?krn=PR796954)]
 
 **I.1** Schedule I—Classification Translation Arrangements specifies the classification and minimum rates of pay that apply to Children’s Services Employees who were classified under previous classification structures in this award.
 

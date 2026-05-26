@@ -15,3 +15,5 @@ link-clauses-log.txt
 audit-links-report.txt
 docs/scripts/*.bak
 docs/.vitepress/config.js.timestamp-*.mjs
+link-legislation-log.txt
+link-variations-log.txt

@@ -15,7 +15,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 7. Individual Flexibility Arrangements
 
->[Varied by PR542240; 7—Award flexibility renamed and substituted by PR610286 ppc 01Nov18]
+>[Varied by [PR542240](http://www.fwc.gov.au/documents/awardsandorders/html/PR542240.htm); 7—Award flexibility renamed and substituted by [PR610286](https://library.fairwork.gov.au/award/?krn=PR610286) ppc 01Nov18]
 
 **7.1** Despite anything else in this award, an employer and an individual employee may agree to vary the application of the terms of this award relating to any of the following in order to meet the genuine needs of both the employee and the employer:
 

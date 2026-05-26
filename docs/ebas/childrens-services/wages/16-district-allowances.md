@@ -15,7 +15,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 16. District Allowances
 
->[16 deleted by PR561478 ppc 05Mar15]
+>[16 deleted by [PR561478](http://www.fwc.gov.au/documents/awardsandorders/html/PR561478.htm) ppc 05Mar15]
 
 Plain language terms: district allowance.
 

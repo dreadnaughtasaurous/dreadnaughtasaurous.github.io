@@ -17,7 +17,7 @@ childrens services childcare worker early childhood educator day care ECE kinder
 
 
 
->[28---Leave to deal with Family and Domestic Violence renamed and substituted by [PR740264](https://www.fwc.gov.au/documents/awardsandorders/html/pr740264.htm); 28---Unpaid family and domestic violence leave renamed and substituted by [PR750444](https://www.fwc.gov.au/documents/awardsandorders/pdf/pr750444.pdf) ppc 15Mar23]
+>[28---Leave to deal with Family and Domestic Violence renamed and substituted by [PR740264](https://library.fairwork.gov.au/award/?krn=PR740264); 28---Unpaid family and domestic violence leave renamed and substituted by [PR750444](https://library.fairwork.gov.au/award/?krn=PR750444) ppc 15Mar23]
 
 Family and domestic violence leave is provided for in the [NES](https://www.fwc.gov.au/documents/awards/resources/nes.pdf).
 

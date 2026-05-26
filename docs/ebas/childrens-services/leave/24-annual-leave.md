@@ -15,7 +15,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 24. Annual Leave
 
->[Varied by PR582984, PR751244]
+>[Varied by [PR582984](https://library.fairwork.gov.au/award/?krn=PR582984), [PR751244](https://library.fairwork.gov.au/award/?krn=PR751244)]
 
 **24.1** Annual leave is provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 

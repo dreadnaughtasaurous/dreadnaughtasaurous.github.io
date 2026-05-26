@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 19. Payment of Wages
 
->[Varied by PR530861, PR710965]
+>[Varied by [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm), [PR710965](https://library.fairwork.gov.au/award/?krn=PR710965)]
 
 **19.1** Except on termination of employment all wages including overtime will be paid on any day of the week other than Saturday or Sunday.
 
@@ -27,7 +27,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 **19.3 Payment on termination of employment**
 
->[19.3 varied by PR530861, PR710965 ppc 09Aug19]
+>[19.3 varied by [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm), [PR710965](https://library.fairwork.gov.au/award/?krn=PR710965) ppc 09Aug19]
 
 - **(a)** The employer must pay an employee no later than 7 days after the day on which the employee’s employment terminates:
   - **(i)** the employee’s wages under this award for any complete or incomplete pay period up to the end of the day of termination; and

@@ -10,15 +10,15 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # Schedule B - Classification Structure: Children's Services EBA
 
->[Varied by PR530861, PR794818]
+>[Varied by [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm), [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818)]
 
->[Preamble to Sched B varied by PR794818 ppc 01Mar26]
+>[Preamble to Sched B varied by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 All employees will be classified by the employer into one of the levels contained in this Schedule in accordance with the employee’s skills, responsibilities, qualifications, experience in the industry and duties.
 
 ## B.1 Children’s Services Employees (CSE)
 
->[B.1 renamed and substituted by PR794818 ppc 01Mar26]
+>[B.1 renamed and substituted by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 **B.1.1 Level 1—Introductory Educator**
 

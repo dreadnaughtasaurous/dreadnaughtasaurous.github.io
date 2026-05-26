@@ -15,7 +15,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 27. Public Holidays
 
->[Varied by PR712288, PR747480]
+>[Varied by [PR712288](https://library.fairwork.gov.au/award/?krn=PR712288), [PR747480](https://library.fairwork.gov.au/award/?krn=PR747480)]
 
 **27.1** Public holidays are provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
@@ -32,6 +32,6 @@ childrens services childcare worker early childhood educator family day care ECE
 - **(b)** If a public holiday is a part-day public holiday, then clause 27.4(a) applies on a pro-rata basis for the number of ordinary hours on the part-day public holiday.
 - **(c)** A full-time employee who works on a public holiday is entitled to a substitute day or part-day as provided for in the NES.
 
-    >[Note inserted by PR712288; deleted by PR747480 ppc 14Nov22] 
+    >[Note inserted by [PR712288](https://library.fairwork.gov.au/award/?krn=PR712288); deleted by [PR747480](https://library.fairwork.gov.au/award/?krn=PR747480) ppc 14Nov22] 
 
 Plain language terms: public holiday pay.

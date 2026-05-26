@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 23. Overtime and Penalty Rates
 
->[Varied by PR584086, PR723880, PR747480, PR763327]
+>[Varied by [PR584086](https://library.fairwork.gov.au/award/?krn=PR584086), [PR723880](https://library.fairwork.gov.au/award/?krn=PR723880), [PR747480](https://library.fairwork.gov.au/award/?krn=PR747480), [PR763327](https://library.fairwork.gov.au/award/?krn=PR763327)]
 
 **23.1 Entitlement to overtime rates**
 

@@ -15,7 +15,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 21A. Employee Right to Disconnect
 
->[21A inserted by PR778104 from 26Aug24]
+>[21A inserted by [PR778104](https://library.fairwork.gov.au/award/?krn=PR778104) from 26Aug24]
 
 **21A.1** Clause 21A provides for the exercise of an employee’s right to disconnect under section 333M of the Act.
 

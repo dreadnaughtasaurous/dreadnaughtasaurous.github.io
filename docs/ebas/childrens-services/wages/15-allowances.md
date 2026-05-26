@@ -15,11 +15,11 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 15. Allowances
 
->[Varied by PR996603, PR998159, PR509272, PR523102, PR536905, PR551828, PR566929, PR579627, PR592373, PR606596, PR704124, PR707765, PR719090, PR723626, PR724049, PR729563, PR740969, PR745330, PR762229, PR762400, PR774011, PR774179, PR786659, PR786828; PR794818]
+>[Varied by [PR996603](http://www.fwc.gov.au/documents/awardsandorders/html/PR996603.htm), [PR998159](http://www.fwc.gov.au/documents/awardsandorders/html/PR998159.htm), [PR509272](http://www.fwc.gov.au/documents/awardsandorders/html/PR509272.htm), [PR523102](http://www.fwc.gov.au/documents/awardsandorders/html/PR523102.htm), [PR536905](http://www.fwc.gov.au/documents/awardsandorders/html/PR536905.htm), [PR551828](http://www.fwc.gov.au/documents/awardsandorders/html/PR551828.htm), [PR566929](http://www.fwc.gov.au/documents/awardsandorders/html/PR566929.htm), [PR579627](http://www.fwc.gov.au/documents/awardsandorders/html/PR579627.htm), [PR592373](https://library.fairwork.gov.au/award/?krn=PR592373), [PR606596](https://library.fairwork.gov.au/award/?krn=PR606596), [PR704124](https://library.fairwork.gov.au/award/?krn=PR704124), [PR707765](https://library.fairwork.gov.au/award/?krn=PR707765), [PR719090](https://library.fairwork.gov.au/award/?krn=PR719090), [PR723626](https://library.fairwork.gov.au/award/?krn=PR723626), [PR724049](https://library.fairwork.gov.au/award/?krn=PR724049), [PR729563](https://library.fairwork.gov.au/award/?krn=PR729563), [PR740969](https://library.fairwork.gov.au/award/?krn=PR740969), [PR745330](https://library.fairwork.gov.au/award/?krn=PR745330), [PR762229](https://library.fairwork.gov.au/award/?krn=PR762229), [PR762400](https://library.fairwork.gov.au/award/?krn=PR762400), [PR774011](https://library.fairwork.gov.au/award/?krn=PR774011), [PR774179](https://library.fairwork.gov.au/award/?krn=PR774179), [PR786659](https://library.fairwork.gov.au/award/?krn=PR786659), [PR786828](https://library.fairwork.gov.au/award/?krn=PR786828); [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818)]
 
 **15.1 Broken shift allowance**
 
->[15.1 varied by PR794818 ppc 01Mar26]
+>[15.1 varied by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 Where an employee works two separate shifts in a day, they will be paid an allowance of 1.82% of the standard rate per day for each day on which a broken shift is worked.
 
@@ -31,7 +31,7 @@ Where an employee works two separate shifts in a day, they will be paid an allow
 
 - **(b)** Where an employee is required to launder any clothing referred to in clause 15.2(a) the employee will be paid an allowance of $9.49 per week or $1.90 per day, or where the uniform does not require ironing, $5.98 per week or $1.20 per day.
 
->[15.2(c) substituted by PR723626, PR724049 ppc 01Nov20]
+>[15.2(c) substituted by [PR723626](https://library.fairwork.gov.au/award/?krn=PR723626), [PR724049](https://library.fairwork.gov.au/award/?krn=PR724049) ppc 01Nov20]
 
 - **(c)** Where an employee is required to wear protective clothing or equipment such as hats and sunscreen lotion, goggles, aprons or gloves, the employer will either supply such clothing or equipment or reimburse the employee for the cost of their purchase. Reimbursement will be limited to reasonable costs incurred.
 
@@ -39,7 +39,7 @@ Where an employee works two separate shifts in a day, they will be paid an allow
 
 **15.3 Excess fares allowance**
 
->[15.3 varied by PR523102, PR536905, PR551828, PR719090, PR729563, PR740969, PR762400, PR774179 ppc 01Jul24]
+>[15.3 varied by [PR523102](http://www.fwc.gov.au/documents/awardsandorders/html/PR523102.htm), [PR536905](http://www.fwc.gov.au/documents/awardsandorders/html/PR536905.htm), [PR551828](http://www.fwc.gov.au/documents/awardsandorders/html/PR551828.htm), [PR719090](https://library.fairwork.gov.au/award/?krn=PR719090), [PR729563](https://library.fairwork.gov.au/award/?krn=PR729563), [PR740969](https://library.fairwork.gov.au/award/?krn=PR740969), [PR762400](https://library.fairwork.gov.au/award/?krn=PR762400), [PR774179](https://library.fairwork.gov.au/award/?krn=PR774179) ppc 01Jul24]
 
 Where an employee is directed to work away from their normal place of work on any day the employee will be paid an allowance of $16.86 per day to compensate for excess fares. This provision does not apply if the employer provides or offers to provide suitable transport free of charge to the employee.
 
@@ -47,7 +47,7 @@ Where an employee is directed to work away from their normal place of work on an
 
 **15.4 First aid allowance**
 
->[15.4(a) varied by PR996603 ppc 28Apr10; PR794818 ppc 01Mar26]
+>[15.4(a) varied by [PR996603](http://www.fwc.gov.au/documents/awardsandorders/html/PR996603.htm) ppc 28Apr10; [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 - **(a)** Where an employee classified below Level 3 is required by the employer to administer first aid to children within the employee’s care and the employee holds a current recognised first aid qualification such as a certificate from the St John Ambulance, the Australian Red Cross or a similar body they will be paid an allowance of 1.08% of the standard rate per day. Where the employee is employed in out-of-school hours care, the allowance will be 0.14% of the standard rate per hour.
 
@@ -59,17 +59,17 @@ Where an employee is directed to work away from their normal place of work on an
 
 **15.5 Meal allowance**
 
->[15.5 varied by PR998159, PR509272, PR523102, PR536905, PR551828, PR566929, PR579627, PR592373, PR606596, PR704124, PR707765, PR719090, PR729563, PR740969, PR762400, PR774179, PR786828 ppc 01Jul25]
+>[15.5 varied by [PR998159](http://www.fwc.gov.au/documents/awardsandorders/html/PR998159.htm), [PR509272](http://www.fwc.gov.au/documents/awardsandorders/html/PR509272.htm), [PR523102](http://www.fwc.gov.au/documents/awardsandorders/html/PR523102.htm), [PR536905](http://www.fwc.gov.au/documents/awardsandorders/html/PR536905.htm), [PR551828](http://www.fwc.gov.au/documents/awardsandorders/html/PR551828.htm), [PR566929](http://www.fwc.gov.au/documents/awardsandorders/html/PR566929.htm), [PR579627](http://www.fwc.gov.au/documents/awardsandorders/html/PR579627.htm), [PR592373](https://library.fairwork.gov.au/award/?krn=PR592373), [PR606596](https://library.fairwork.gov.au/award/?krn=PR606596), [PR704124](https://library.fairwork.gov.au/award/?krn=PR704124), [PR707765](https://library.fairwork.gov.au/award/?krn=PR707765), [PR719090](https://library.fairwork.gov.au/award/?krn=PR719090), [PR729563](https://library.fairwork.gov.au/award/?krn=PR729563), [PR740969](https://library.fairwork.gov.au/award/?krn=PR740969), [PR762400](https://library.fairwork.gov.au/award/?krn=PR762400), [PR774179](https://library.fairwork.gov.au/award/?krn=PR774179), [PR786828](https://library.fairwork.gov.au/award/?krn=PR786828) ppc 01Jul25]
 
 An employee required to work overtime for more than two hours without being notified on the previous day or earlier that they will be so required to work will either be supplied with a meal by the employer or paid an allowance of $15.48. No meal allowance is payable where an employee could reasonably return home for a meal within the period allowed.
 
->[15.6 deleted by PR794818 ppc 01Mar26]
+>[15.6 deleted by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 ---
 
 **15.6 Use of vehicle allowance**
 
->[15.7 varied by PR523102, PR536905, PR551828, PR719090, PR740969, PR762400, PR774179 ppc 01Jul24; renumbered as 15.6 by PR794818 ppc 01Mar26]
+>[15.7 varied by [PR523102](http://www.fwc.gov.au/documents/awardsandorders/html/PR523102.htm), [PR536905](http://www.fwc.gov.au/documents/awardsandorders/html/PR536905.htm), [PR551828](http://www.fwc.gov.au/documents/awardsandorders/html/PR551828.htm), [PR719090](https://library.fairwork.gov.au/award/?krn=PR719090), [PR740969](https://library.fairwork.gov.au/award/?krn=PR740969), [PR762400](https://library.fairwork.gov.au/award/?krn=PR762400), [PR774179](https://library.fairwork.gov.au/award/?krn=PR774179) ppc 01Jul24; renumbered as 15.6 by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 Where an employer requests an employee to use their own motor vehicle in the performance of their duties the employee will be paid an allowance of $0.99 per kilometre in the case of a motor car or $0.33 per kilometre in the case of a motorcycle.
 
@@ -77,9 +77,9 @@ Where an employer requests an employee to use their own motor vehicle in the per
 
 **15.7 Educational leader allowance**
 
->[New 15.8 inserted by PR745330 ppc 01Nov22; renumbered as 15.7 by PR794818 ppc 01Mar26]
+>[New 15.8 inserted by [PR745330](https://library.fairwork.gov.au/award/?krn=PR745330) ppc 01Nov22; renumbered as 15.7 by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
->[15.8(a) varied by PR762229, PR774011, PR786659 ppc 01Jul25]
+>[15.8(a) varied by [PR762229](https://library.fairwork.gov.au/award/?krn=PR762229), [PR774011](https://library.fairwork.gov.au/award/?krn=PR774011), [PR786659](https://library.fairwork.gov.au/award/?krn=PR786659) ppc 01Jul25]
 
 - **(a)** An educational leader’s allowance of $4567.31 per annum will be paid to an employee who is required to discharge the responsibilities of the educational leader under Regulation 118 of the Education and Care Services National Regulations 2011.
 
@@ -91,11 +91,11 @@ Where an employer requests an employee to use their own motor vehicle in the per
 
 **15.8 Adjustment of expense related allowances**
 
->[15.8 renumbered as 15.9 by PR745330; renumbered as 15.8 by PR794818 ppc 01Mar26]
+>[15.8 renumbered as 15.9 by [PR745330](https://library.fairwork.gov.au/award/?krn=PR745330); renumbered as 15.8 by [PR794818](https://library.fairwork.gov.au/award/?krn=PR794818) ppc 01Mar26]
 
 - **(a)** At the time of any adjustment to the standard rate, each expense related allowance will be increased by the relevant adjustment factor. The relevant adjustment factor for this purpose is the percentage movement in the applicable index figure most recently published by the Australian Bureau of Statistics since the allowance was last adjusted.
 
->[15.8(b) varied by PR523102 ppc 01Jul12]
+>[15.8(b) varied by [PR523102](http://www.fwc.gov.au/documents/awardsandorders/html/PR523102.htm) ppc 01Jul12]
 
 - **(b)** The applicable index figure is the index figure published by the Australian Bureau of Statistics for the Eight Capitals Consumer Price Index (Cat No. 6401.0), as follows:
 

@@ -10,7 +10,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # Schedule E - School Based Apprentices: Children's Services EBA
 
->[Sched F inserted by PR544170 ppc 01Jan14; renumbered as Sched E by PR747480 ppc 14Nov22]
+>[Sched F inserted by [PR544170](http://www.fwc.gov.au/documents/awardsandorders/html/PR544170.htm) ppc 01Jan14; renumbered as Sched E by [PR747480](https://library.fairwork.gov.au/award/?krn=PR747480) ppc 14Nov22]
 
 **E.1** This schedule applies to school-based apprentices. A school-based apprentice is a person who is undertaking an apprenticeship in accordance with this schedule while also undertaking a course of secondary education.
 

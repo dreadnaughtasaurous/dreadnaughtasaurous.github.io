@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 21. Ordinary Hours of Work and Rostering
 
->[Varied by PR503637, PR530861, PR723626, PR724049]
+>[Varied by [PR503637](http://www.fwc.gov.au/documents/awardsandorders/html/PR503637.htm), [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm), [PR723626](https://library.fairwork.gov.au/award/?krn=PR723626), [PR724049](https://library.fairwork.gov.au/award/?krn=PR724049)]
 
 **21.1** The ordinary hours of work of full-time employees will be an average of 38 hours per week over a one, two or four week cycle.
 
@@ -32,7 +32,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 **21.5 Non-contact time**
 
->[21.5(a) substituted by PR723626, PR724049 ppc 01Nov20]
+>[21.5(a) substituted by [PR723626](https://library.fairwork.gov.au/award/?krn=PR723626), [PR724049](https://library.fairwork.gov.au/award/?krn=PR724049) ppc 01Nov20]
 
 - **(a)** An employee responsible for the preparation, implementation and/or evaluation of a developmental program for an individual child or group of children will be entitled to a minimum of two hours non-contact time per week. During non-contact time, an employee will not be required to supervise children or perform other duties as directed by the employer.
 - **(b)** An employee appointed as the Educational Leader will be entitled to a minimum of two hours non-contact time per week. During non-contact time, an employee will not be required to supervise children or perform other duties as directed by the employer.
@@ -45,7 +45,7 @@ childrens services childcare worker early childhood educator family day care ECE
 >
 >The entitlements at clauses 21.5(a) and 21.5(b) are cumulative. An Educational Leader who also has programming responsibilities for an individual child or group of children will be entitled to a minimum of four hours non-contact time per week.
 
->[21.5(b) renumbered as 21.5(c) by PR723626, PR724049 ppc 01Nov20]
+>[21.5(b) renumbered as 21.5(c) by [PR723626](https://library.fairwork.gov.au/award/?krn=PR723626), [PR724049](https://library.fairwork.gov.au/award/?krn=PR724049) ppc 01Nov20]
 
 - **(c)** Wherever possible non-contact time should be rostered in advance.
 
@@ -57,7 +57,7 @@ Where it is necessary for an employee to attend court on the employer’s, or th
 
 - **(a)** An employer will post a legible roster at a place readily accessible to employees indicating the rostered hours of work.
 
->[21.7(b) substituted by PR530861, PR723626, PR724049 ppc 01Nov20]
+>[21.7(b) substituted by [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm), [PR723626](https://library.fairwork.gov.au/award/?krn=PR723626), [PR724049](https://library.fairwork.gov.au/award/?krn=PR724049) ppc 01Nov20]
 
 - **(b)**
   - **(i)** An employer may change an employee’s rostered hours, but only by giving the employee seven days’ notice. In the absence of such notice overtime will be paid until seven days have elapsed from the date the notice was given. However, an employee and employer may agree to waive or shorten this notice period in a particular case. Such agreement may be made by electronic means of communication and must be recorded in the time and wages records.
@@ -87,7 +87,7 @@ An employee may elect, with the consent of their employer, to work make-up time 
 - **(e)** Annual leave is exclusive of any public holiday which may occur during the period of leave provided the employee would have ordinarily been required to work on the day on which the public holiday falls.
 - **(f)** Nothing in this clause prevents an employee in a preschool or kindergarten from being employed other than as a term-time only employee.
 
->[21.9(g) varied by PR503637 ppc 01Jan11]
+>[21.9(g) varied by [PR503637](http://www.fwc.gov.au/documents/awardsandorders/html/PR503637.htm) ppc 01Jan11]
 
 - **(g)** Where a person employed as at the date of making this award is employed on a contract which provides for payment of salary during non-term times or is employed under an award-based transitional instrument or Division 2B State award which provides for such payments the provisions of this clause will not have the effect that their contract of employment is changed as a result of this award coming into operation.
 - **(h)** The making of this award is not intended to prevent other arrangements for staff, who are not required to work during non-term weeks, to be agreed between the employer and majority of employees in a preschool, kindergarten or out-of-school hours care service.

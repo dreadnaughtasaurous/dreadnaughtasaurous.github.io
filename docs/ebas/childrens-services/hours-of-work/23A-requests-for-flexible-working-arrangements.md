@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 23A. Requests for Flexible Working Arrangements
 
->[23A inserted by PR701523 ppc 01Dec18; substituted by PR763327 ppc 01Aug23]
+>[23A inserted by [PR701523](https://library.fairwork.gov.au/award/?krn=PR701523) ppc 01Dec18; substituted by [PR763327](https://library.fairwork.gov.au/award/?krn=PR763327) ppc 01Aug23]
 
 Requests for flexible working arrangements are provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 

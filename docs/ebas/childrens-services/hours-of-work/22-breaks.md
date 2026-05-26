@@ -13,7 +13,7 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 22. Breaks
 
->[Varied by PR530861]
+>[Varied by [PR530861](http://www.fwc.gov.au/documents/awardsandorders/html/PR530861.htm)]
 
 **22.1 Meal breaks**
 

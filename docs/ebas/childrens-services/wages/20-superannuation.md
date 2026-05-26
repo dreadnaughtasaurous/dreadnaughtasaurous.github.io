@@ -15,11 +15,11 @@ childrens services childcare worker early childhood educator family day care ECE
 
 # 20. Superannuation
 
->[Varied by PR530219, PR546127, PR743360, PR771396, PR794808]
+>[Varied by [PR530219](http://www.fwc.gov.au/documents/awardsandorders/html/PR530219.htm), [PR546127](http://www.fwc.gov.au/documents/awardsandorders/html/PR546127.htm), [PR743360](https://library.fairwork.gov.au/award/?krn=PR743360), [PR771396](https://library.fairwork.gov.au/award/?krn=PR771396), [PR794808](https://library.fairwork.gov.au/award/?krn=PR794808)]
 
 **20.1 Superannuation legislation**
 
->[20.1 substituted by PR771396 ppc 09Apr24]
+>[20.1 substituted by [PR771396](https://library.fairwork.gov.au/award/?krn=PR771396) ppc 09Apr24]
 
 - **(a)** The [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) and Superannuation legislation, including the [Superannuation Guarantee (Administration) Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04402/latest/text), the Superannuation Guarantee Charge Act 1992 (Cth), the [Superannuation Industry (Supervision) Act 1993 (Cth)](https://www.legislation.gov.au/C2004A04633/2017-03-01/text) and the Superannuation (Resolution of Complaints) Act 1993 (Cth), deal with the superannuation rights and obligations of employers and employees.
 
@@ -51,7 +51,7 @@ An employer must make such superannuation contributions to a superannuation fund
 
 **20.4 Superannuation fund**
 
->[20.4 varied by PR771396; substituted by PR794808 ppc 23Jan26]
+>[20.4 varied by [PR771396](https://library.fairwork.gov.au/award/?krn=PR771396); substituted by [PR794808](https://library.fairwork.gov.au/award/?krn=PR794808) ppc 23Jan26]
 
 Unless, to comply with superannuation legislation, the employer is required to make the superannuation contributions provided for in clause 20.2 to another superannuation fund, the employer must make the superannuation contributions provided for in clause 20.2 and pay any amount authorised under clauses 20.3(a) or 20.3(b) to one of the following superannuation funds or its successor, provided that, in respect of new employees, the fund is able to accept new beneficiaries:
 
