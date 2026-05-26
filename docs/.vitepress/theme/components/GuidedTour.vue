@@ -152,6 +152,15 @@ const steps = [
     mobileCaret: 'right',
   },
   {
+    target: '.sf-input-row',
+    mobileTarget: '.VPLocalNav button.menu',
+    headline: 'Filter the sidebar',
+    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>`,
+    copy: 'Type in the sidebar filter to instantly narrow the clause list by name. Press <kbd>F</kbd> at any time to focus it without clicking. Useful when you know part of a clause title and want to jump straight to it without opening full search.',
+    caretHint: 'right',
+    mobileCaret: 'right',
+  },
+  {
     target: '.search-trigger',
     headline: 'Search any clause',
     icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>`,
@@ -183,16 +192,7 @@ const steps = [
     caretHint: 'bottom',
     keepModalOpen: true,
   },
-  {
-    // Step 6: close the modal, centred tooltip, no spotlight.
-    // closeModal uses a dedicated CustomEvent — NOT Escape — so the tour's
-    // own Escape handler is never triggered accidentally.
-    target: null,
-    headline: 'Close search & keep browsing',
-    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`,
-    copy: 'Press <kbd>Esc</kbd> or click outside the modal to close search at any time. Your last query and filters are remembered for the session.',
-    closeModal: true,
-  },
+  
   {
     // On mobile the appearance toggle is inside the hamburger menu.
     target: '.VPNavBar .appearance',
@@ -453,19 +453,30 @@ async function positionTooltip() {
     return
   }
 
-  const rect = el.getBoundingClientRect()
-  const vw   = window.innerWidth
-  const vh   = window.innerHeight
+  // If the element exists but has no dimensions yet (sidebar not yet painted),
+  // retry up to 5 times with 100ms gaps before falling back to centred layout.
+  let rect = el.getBoundingClientRect()
+  if (rect.width === 0 && rect.height === 0) {
+    for (let i = 0; i < 5; i++) {
+      await sleep(100)
+      rect = el.getBoundingClientRect()
+      if (rect.width > 0 || rect.height > 0) break
+    }
+  }
+  const vw       = window.innerWidth
+  const vh       = window.innerHeight
+  const spotPad  = step.targetPad ?? PAD
 
   // Spotlight: transparent hole via box-shadow spread covering the whole viewport.
   // The spotlight sits ABOVE the backdrop in z-index stacking so its transparent
   // centre reveals the target element while the spread dims everything else.
+  // targetPad on a step overrides the default PAD for a looser spotlight fit.
   spotlightStyle.value = {
     position:     'fixed',
-    left:         `${rect.left  - PAD}px`,
-    top:          `${rect.top   - PAD}px`,
-    width:        `${rect.width  + PAD * 2}px`,
-    height:       `${rect.height + PAD * 2}px`,
+    left:         `${rect.left  - spotPad}px`,
+    top:          `${rect.top   - spotPad}px`,
+    width:        `${rect.width  + spotPad * 2}px`,
+    height:       `${rect.height + spotPad * 2}px`,
     borderRadius: '8px',
     boxShadow:    '0 0 0 9999px rgba(0,0,0,0.52)',
     pointerEvents:'none',
