@@ -1,5 +1,5 @@
 ---
-title: 'Doctors In Training'
+title: 'Doctors in Training (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026'
 eba: 'Doctors in Training 2022-2026'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Doctors In Training
+# Doctors in Training (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026
 
 ---
 
@@ -20,11 +20,15 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
   description="Doctors in Training EBA 2022–2026"
 />
 
----
-
-- **Coverage:** Doctors in Training (Hospital Medical Officers, Registrars, Interns) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/doctors-in-training/appendices/1-list-of-employers-health-services). 
-- **Nominal expiry:** 2026-02-28. 
-- **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+|  |  |
+|---|---|
+| **Full title** | Doctors in Training (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026 |
+| **Coverage** | Doctors in Training (Hospital Medical Officers, Registrars and Interns) employed by the Victorian public health sector employers listed at Appendix 1 |
+| **Commencement** | 9 November 2022 (seven days after Fair Work Commission approval on 2 November 2022) |
+| **Nominal expiry** | 28 February 2026 |
+| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
+| **Employee representative** | AMA Victoria and Australian Salaried Medical Officers Federation (ASMOF) |
+| **Fair Work reference** | AE518015 (ODN AG2022/4438) |
 
 ---
 

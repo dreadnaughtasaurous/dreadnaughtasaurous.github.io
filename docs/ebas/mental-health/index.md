@@ -1,6 +1,6 @@
 ---
 title: 'Mental Health'
-eba: 'Mental Health Services 2024-2028'
+eba: 'Victorian Public Mental Health Services Enterprise Agreement 2024-2028'
 topics: []
 ---
 
@@ -10,7 +10,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Mental Health
+# Victorian Public Mental Health Services Enterprise Agreement 2024-2028
 
 ---
 
@@ -20,11 +20,15 @@ mental health worker psychiatric nurse mental health nurse community mental heal
   description="Mental Health EBA 2024–2028"
 />
 
----
-
-- **Coverage:** 20 Victorian public mental health employers (see [Schedule 1](/ebas/mental-health/schedules/01-list-of-employers) of the agreement). 
-- **Nominal expiry:** 2028-12-30. 
-- **Parties:** VHIA (employers), ANMF, HACSU.
+|  |  |
+|---|---|
+| **Full title** | Victorian Public Mental Health Services Enterprise Agreement 2024-2028 |
+| **Coverage** | Employees across the 20 Victorian public mental health employers listed at Schedule 1 |
+| **Commencement** | 2 March 2026 (seven days after Fair Work Commission approval on 23 February 2026) |
+| **Nominal expiry** | 30 December 2028 |
+| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
+| **Employee representative** | Australian Nursing and Midwifery Federation (ANMF) and Health Services Union Victoria No. 2 Branch trading as Health and Community Services Union (HACSU) |
+| **Fair Work reference** | AE532110 ([2026] FWCA 433, ODN AG2026/17) |
 
 ---
 

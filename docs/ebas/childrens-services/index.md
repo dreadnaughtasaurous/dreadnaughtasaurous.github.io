@@ -1,5 +1,5 @@
 ---
-title: 'Childrens Services'
+title: "Children's Services Award 2010"
 eba: "Children's Services Award 2010"
 topics: []
 ---
@@ -10,9 +10,14 @@ topics: []
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Childrens Services
+# Children's Services Award 2010
 
 ---
+
+:::warning Modern award, not an enterprise agreement
+
+Unlike the other seven instruments in this wiki, the Children's Services Award is a nationally-made modern award and is periodically varied by Fair Work Commission determinations rather than replaced through bargaining. Always check the latest PR (variation) references on the FWC page before giving advice on pay or allowances.
+:::
 
 <FileAttachment
   href="https://awards.fairwork.gov.au/MA000120.html"
@@ -21,15 +26,15 @@ childrens services childcare worker early childhood educator family day care ECE
   :external="true"
 />
 
----
-
-- **Coverage:** National Fair Work Commission modern award for employers and employees in the children's services industry (long day care, preschools, outside-school-hours care, occasional care, adjunct care and similar). Use this award alongside the National Employment Standards. 
-- **Type:** Modern Award (Fair Work Commission). Consolidated to 2025-07-01. 
-- **Authoritative source:** [Award MA000120 on the Fair Work Commission website](https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000120-summary).
-
-The Children's Services agreement is a Modern award, not an enterprise agreement
-
-Unlike the other seven instruments in this wiki, the Children's Services Award is a nationally-made modern award and is periodically varied by Fair Work Commission determinations rather than replaced through bargaining. Always check the latest PR (variation) references on the FWC page before giving advice on pay or allowances.
+|  |  |
+|---|---|
+| **Full title** | Children's Services Award 2010 |
+| **Award type** | Modern award (Fair Work Commission) |
+| **Coverage** | Employers and employees throughout Australia in the children's services and early childhood education industry — including long day care, occasional care, out-of-school hours care, vacation care, adjunct care, in-home care, kindergartens and preschools, and mobile centres. Does not cover employees covered by a modern enterprise award or enterprise instrument. See clause 4 for full coverage terms. |
+| **Commenced** | 1 January 2010 |
+| **Last varied** | 1 March 2026 (PR794818, corrected by PR794932 and PR796954) |
+| **Industry** | Children's services and early childhood education |
+| **Fair Work reference** | MA000120 |
 
 ---
 

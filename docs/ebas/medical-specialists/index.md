@@ -1,5 +1,5 @@
 ---
-title: 'Medical Specialists'
+title: 'Medical Specialists (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026'
 eba: 'Medical Specialists 2022-2026'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Medical Specialists
+# Medical Specialists (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026
 
 ---
 
@@ -20,11 +20,15 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
   description="Medical Specialists EBA 2022–2026"
 />
 
----
-
-- **Coverage:** Medical Specialists (consultants) employed by the Victorian public health sector employers listed at [Appendix 1](/ebas/medical-specialists/appendices/1-list-of-employers-health-services). 
-- **Nominal expiry:** 2026-02-28. 
-- **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+|  |  |
+|---|---|
+| **Full title** | Medical Specialists (Victorian Public Health Sector) (AMA Victoria/ASMOF) (Single Interest Employers) Enterprise Agreement 2022-2026 |
+| **Coverage** | Medical Specialists (consultants) employed by the Victorian public health sector employers listed at Appendix 1 |
+| **Commencement** | 3 November 2022 (seven days after Fair Work Commission approval on 27 October 2022) |
+| **Nominal expiry** | 28 February 2026 |
+| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
+| **Employee representative** | Australian Medical Association (Victoria) (AMA Victoria) and Australian Salaried Medical Officers Federation, Victorian Branch (ASMOF) |
+| **Fair Work reference** | AE517968 (ODN AG2022/4441) |
 
 ---
 

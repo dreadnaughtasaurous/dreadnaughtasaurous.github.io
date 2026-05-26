@@ -1,5 +1,5 @@
 ---
-title: 'Medical Scientists, Pharmacists & Psychologists'
+title: 'Medical Scientists, Pharmacists and Psychologists Victorian Public Sector (Single Interest Employers) Enterprise Agreement 2021-2025'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Medical Scientists, Pharmacists and Psychologists
+# Medical Scientists, Pharmacists and Psychologists Victorian Public Sector (Single Interest Employers) Enterprise Agreement 2021-2025
 
 ---
 
@@ -20,11 +20,15 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
   description="Medical Scientists, Pharmacists and Psychologists EBA 2021–2025"
 />
 
----
-
-- **Coverage:** Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at [Schedule 1](/ebas/mspp/schedules/1-employer-parties). 
-- **Nominal expiry:** 2025-11-30. 
-- **Parties:** HSU Victoria No. 2 Branch and the listed public health employers.
+|  |  |
+|---|---|
+| **Full title** | Medical Scientists, Pharmacists and Psychologists Victorian Public Sector (Single Interest Employers) Enterprise Agreement 2021-2025 |
+| **Coverage** | Medical Scientists, Pharmacists and Psychologists employed by the Victorian public health sector employers listed at Schedule 1 |
+| **Commencement** | 28 November 2022 (seven days after Fair Work Commission approval on 21 November 2022) |
+| **Nominal expiry** | 30 November 2025 |
+| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
+| **Employee representative** | Health Services Union, Victoria No. 2 Branch (HSU) |
+| **Fair Work reference** | AE518208 (ODN AG2022/4538) |
 
 ---
 

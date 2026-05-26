@@ -1,5 +1,5 @@
 ---
-title: 'Biomedical Engineers'
+title: 'Biomedical Engineers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2024-2028'
 eba: 'Biomedical Engineers 2025-2028'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Biomedical Engineers
+# Biomedical Engineers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2024-2028
 
 ---
 
@@ -20,11 +20,15 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
   description="Biomedical Engineers EBA 2024–2028"
 />
 
----
-
-- **Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/biomedical-engineers/appendices/1-list-of-employers). 
-- **Nominal expiry:** 2028-07-31. 
-- **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+|  |  |
+|---|---|
+| **Full title** | Biomedical Engineers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2024-2028 |
+| **Coverage** | Biomedical Engineers employed by the Victorian public sector employers listed at Appendix 1 |
+| **Commencement** | 28 January 2025 (seven days after Fair Work Commission approval on 21 January 2025) |
+| **Nominal expiry** | 31 July 2028 |
+| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
+| **Employee representative** | Association of Professionals Engineers, Scientists & Managers Australia (APESMA) |
+| **Fair Work reference** | AE527694 ([2025] FWCA 233, ODN AG2024/4957) |
 
 ---
 

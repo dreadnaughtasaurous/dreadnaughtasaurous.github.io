@@ -1,5 +1,5 @@
 ---
-title: 'Allied Health'
+title: 'Allied Health Professionals (Victorian Public Sector) 2021-2026'
 eba: 'Allied Health Professionals 2021-2026'
 topics: []
 ---
@@ -10,7 +10,7 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Allied Health
+# Allied Health Professionals (Victorian Public Sector) 2021-2026
 
 ---
 
@@ -20,11 +20,15 @@ AHP allied health professional physiotherapist OT occupational therapist social 
   description="Allied Health EBA 2021–2026"
 />
 
----
-
-- **Coverage:** Allied Health Professionals (AHP1/AHP2/AHP3 grades) employed by the Victorian public sector employers listed at [Appendix 1](/ebas/allied-health/appendices/1-list-of-employers). 
-- **Nominal expiry:** 2026-03-31. 
-- **Parties:** VHIA (employers), AMA Victoria, ASMOF (Vic Branch).
+|  |  |
+|---|---|
+| **Full title** | Allied Health Professionals (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2026 |
+| **Coverage** | Allied Health Professionals (AHP1, AHP2 and AHP3 classifications) employed by the Victorian public sector employers listed at Appendix 1 |
+| **Commencement** | 22 December 2022 (as ordered by the Fair Work Commission Full Bench on 20 December 2022 in [2022] FWCFB 239) |
+| **Nominal expiry** | 28 February 2026 |
+| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
+| **Employee representative** | Health Services Union, Victoria No. 3 Branch, trading as the Victorian Allied Health Professionals Association (VAHPA) |
+| **Fair Work reference** | AE518601 ([2022] FWCFB 239, ODN AG2022/5276) |
 
 ---
 
