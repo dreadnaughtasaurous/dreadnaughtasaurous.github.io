@@ -658,7 +658,7 @@ onUnmounted(() => {
 @media (max-width: 768px) {
   .clause-panel {
     top: auto;
-    bottom: 0;
+    bottom: calc(56px + env(safe-area-inset-bottom));
     left: 0;
     right: 0;
     width: 100%;
@@ -677,6 +677,7 @@ onUnmounted(() => {
     display: block;
     position: fixed;
     inset: 0;
+    bottom: calc(56px + env(safe-area-inset-bottom));
     background: rgba(0, 0, 0, 0.4);
     z-index: 59;
   }
