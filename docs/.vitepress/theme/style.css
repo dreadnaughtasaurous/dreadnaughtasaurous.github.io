@@ -1265,3 +1265,85 @@ html {
     display: block !important;
   }
 }
+
+/* ============================================================
+   SidebarFilter — DOM-based tree filter
+   ============================================================
+   SidebarFilter.vue hides non-matching sidebar items by adding
+   the class 'sf-hidden' to .VPSidebarItem elements via JavaScript.
+   This rule does the actual hiding. It must be global (not scoped)
+   because it targets VitePress-owned DOM nodes that our component
+   cannot reach with Vue scoped styles.
+
+   .VPSidebar .sf-wrap padding is now set inside the component's
+   own scoped styles (padding: 16px 16px 10px 16px) so no
+   external override is needed here.
+
+   In reading mode the entire sidebar is hidden, so sf-hidden
+   nodes go with it automatically.
+   ============================================================ */
+
+/* ── SidebarFilter — CSS-driven filter mode ──────────────────────────────────
+   When .sf-active is on the nav, we flip visibility using CSS alone.
+   No collapsed state is touched — no animation conflicts with VitePress.
+
+   Filter mode rules:
+   1. All .group divs hidden by default
+   2. Groups with .sf-match are shown
+   3. Inside a matching group, all .items wrappers are shown (overrides collapsed)
+   4. All level-2 .VPSidebarItem clause items hidden by default
+   5. Level-2 items with .sf-match are shown
+   6. Level-1 section headers always shown (provide context for visible clauses)
+   ──────────────────────────────────────────────────────────────────────────── */
+
+/* 1. Hide all groups when filter is active */
+.VPSidebar .nav.sf-active .group {
+  display: none !important;
+}
+
+/* 2. Show groups that have matches */
+.VPSidebar .nav.sf-active .group.sf-match {
+  display: block !important;
+}
+
+/* 3. Force-show all .items containers inside matching groups
+      (overrides VitePress's collapsed height:0 transition) */
+.VPSidebar .nav.sf-active .group.sf-match .items {
+  display: block !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+/* 4. Hide all level-2 and level-3 clause items inside matching groups */
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-2,
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-3 {
+  display: none !important;
+}
+
+/* 5. Show matching level-2 and level-3 clause items */
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-2.sf-match,
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-3.sf-match {
+  display: block !important;
+}
+
+/* 6. Always show level-0 (EBA name); only show level-1 sections that have matches */
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-0 {
+  display: block !important;
+}
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-1 {
+  display: none !important;
+}
+.VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-1.sf-match {
+  display: block !important;
+}
+
+/* Highlight matched text in sidebar filter results */
+.VPSidebar mark.sf-highlight {
+  background: transparent;
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+@media print {
+  .sf-wrap { display: none !important; }
+}

@@ -20,6 +20,7 @@ import BookmarkButton from './components/BookmarkButton.vue'
 import GuidedTour from './components/GuidedTour.vue'
 import ClausePageTour from './components/ClausePageTour.vue'
 import MobileNav from './components/MobileNav.vue'
+import SidebarFilter from './components/SidebarFilter.vue'
 
 export default {
   extends: DefaultTheme,
@@ -35,6 +36,12 @@ export default {
       //   .a11y-controls → order: 2
       //   .social-links  → order: 3
       'nav-bar-content-after': () => h(AccessibilityControls),
+
+      // sidebar-nav-before: injected at the very top of .VPSidebar, above all
+      // nav items. SidebarFilter renders a compact text input that filters all
+      // clause pages across every EBA using sidebar.js data directly.
+      // ClientOnly is handled inside SidebarFilter.vue itself.
+      'sidebar-nav-before': () => h(SidebarFilter),
 
       // doc-before: single toolbar row with Breadcrumb (left) and action
       // buttons (right) separated by space-between.
@@ -94,6 +101,7 @@ export default {
     app.component('GuidedTour',            GuidedTour)
     app.component('ClausePageTour',        ClausePageTour)
     app.component('MobileNav',             MobileNav)
+    app.component('SidebarFilter',         SidebarFilter)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation
@@ -184,126 +192,58 @@ export default {
         .split(/\s+/)
         .filter(w => w.length >= 3)
 
-      if (words.length === 0) return
+      if (words.length === 0) {
+        cleanHighlightParam()
+        return
+      }
 
-      // Wait for Vue to finish rendering the new page's .vp-doc content.
-      // requestAnimationFrame fires after the browser has painted — at this
-      // point the DOM is fully updated and text nodes are queryable.
+      // Wait for VitePress to finish rendering the page content before walking.
+      // requestAnimationFrame gives the Vue render cycle one frame to complete.
       requestAnimationFrame(() => {
         const docEl = document.querySelector('.vp-doc')
-        if (!docEl) return
+        if (!docEl) { cleanHighlightParam(); return }
 
-        // Walk every TEXT_NODE inside .vp-doc
-        const walker = document.createTreeWalker(
-          docEl,
-          NodeFilter.SHOW_TEXT,
-          {
-            // Skip text nodes inside: headings (h1-h6), the doc toolbar,
-            // code blocks, and changelog/related clauses sections — these
-            // are structural elements that shouldn't be highlighted.
-            acceptNode(node) {
-              const parent = node.parentElement
-              if (!parent) return NodeFilter.FILTER_REJECT
-              const tag = parent.tagName?.toLowerCase() ?? ''
-
-              // Skip headings — they rarely match excerpt text
-              if (/^h[1-6]$/.test(tag)) return NodeFilter.FILTER_SKIP
-
-              // Skip code blocks and pre elements
-              if (tag === 'code' || tag === 'pre') return NodeFilter.FILTER_SKIP
-
-              // Skip elements marked as pagefind-ignored (doc-toolbar, changelog)
-              if (parent.closest('[data-pagefind-ignore]')) return NodeFilter.FILTER_SKIP
-
-              // Skip the related-clauses panel and changelog at page bottom
-              if (parent.closest('.related-clauses-panel')) return NodeFilter.FILTER_SKIP
-              if (parent.closest('[class*="vp-nolebase-git-changelog"]')) return NodeFilter.FILTER_SKIP
-
-              // Skip whitespace-only nodes
-              if (!node.textContent.trim()) return NodeFilter.FILTER_SKIP
-
-              return NodeFilter.FILTER_ACCEPT
-            }
-          }
-        )
-
-        // Score each text node: +1 for each query word found in the node text.
-        // We also give a +2 bonus if the node's text contains the full phrase
-        // verbatim, which handles short single-word searches more accurately.
+        // Walk every text node under .vp-doc and score it
+        const walker = document.createTreeWalker(docEl, NodeFilter.SHOW_TEXT)
         let bestNode  = null
         let bestScore = 0
+        let node
 
-        let node = walker.nextNode()
-        while (node) {
-          const text  = node.textContent.toLowerCase()
-          let score   = 0
+        while ((node = walker.nextNode())) {
+          const text = node.textContent.toLowerCase()
+          let score  = 0
           for (const word of words) {
             if (text.includes(word)) score++
           }
-          // Bonus for full phrase match
-          if (text.includes(phrase.toLowerCase())) score += 2
-
           if (score > bestScore) {
             bestScore = score
             bestNode  = node
           }
-          node = walker.nextNode()
         }
 
-        // Nothing scored at all — abort silently. This can happen when the
-        // search excerpt text comes from synonym injections that aren't
-        // present in the visible page content.
-        if (!bestNode || bestScore === 0) {
-          cleanHighlightParam()
-          return
-        }
+        if (!bestNode || bestScore === 0) { cleanHighlightParam(); return }
 
-        // Scroll the matched element into view.
-        // We scroll the *parent element* (a <p>, <td>, <li> etc.) rather than
-        // the text node itself — text nodes don't have scrollIntoView().
-        // The 90px offset clears the sticky VitePress nav bar (64px) plus
-        // a comfortable visual margin.
-        const targetEl = bestNode.parentElement
-        if (!targetEl) return
+        // Scroll the best matching node's parent into view
+        const target = bestNode.parentElement
+        if (!target) { cleanHighlightParam(); return }
 
-        const rect       = targetEl.getBoundingClientRect()
-        const scrollTop  = window.scrollY + rect.top - 90
-        window.scrollTo({ top: Math.max(0, scrollTop), behavior: 'smooth' })
+        const rect    = target.getBoundingClientRect()
+        const offset  = 90 // clears the sticky VitePress nav bar
+        const scrollY = window.scrollY + rect.top - offset
+        window.scrollTo({ top: scrollY, behavior: 'smooth' })
 
-        // Wrap the target element's text content in a <mark> for the CSS highlight.
-        // We wrap the entire parent element rather than surgically splitting the
-        // text node — this avoids issues with partially-matched words breaking
-        // the DOM structure inside tables and list items.
-        //
-        // Guard: only wrap if the element doesn't already contain child elements
-        // (e.g. a <td> that contains a nested <strong> or <a>). If it does, we
-        // add the class to the parent directly and let CSS highlight the whole block.
-        // This prevents the DOM from being broken by inserting a <mark> between
-        // an element and its children.
-        let markEl
+        // Wrap with a <mark> for the CSS fade animation
+        const mark = document.createElement('mark')
+        mark.className = 'search-highlight'
+        target.parentNode?.insertBefore(mark, target)
+        mark.appendChild(target)
 
-        if (targetEl.children.length === 0) {
-          // Simple text node — safe to wrap the whole element
-          markEl = document.createElement('mark')
-          markEl.className = 'search-highlight'
-          targetEl.parentNode.insertBefore(markEl, targetEl)
-          markEl.appendChild(targetEl)
-        } else {
-          // Complex element with children — apply the class directly
-          targetEl.classList.add('search-highlight')
-          markEl = targetEl
-        }
-
-        // Remove the highlight and clean the URL after 3.5 seconds.
-        // The CSS animation runs for 3s (0.5s hold + 2.5s fade), so 3.5s gives
-        // the fade a moment to fully complete before DOM cleanup.
+        // Remove the mark and clean the URL after 3.5s
         setTimeout(() => {
-          if (targetEl.children.length === 0 && markEl.tagName === 'MARK') {
-            // Unwrap the <mark> by replacing it with the element it contained
-            markEl.parentNode.insertBefore(targetEl, markEl)
-            markEl.remove()
-          } else {
-            targetEl.classList.remove('search-highlight')
+          const parent = mark.parentNode
+          if (parent) {
+            while (mark.firstChild) parent.insertBefore(mark.firstChild, mark)
+            parent.removeChild(mark)
           }
           cleanHighlightParam()
         }, 3500)

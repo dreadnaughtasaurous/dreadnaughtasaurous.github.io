@@ -71,6 +71,21 @@
                 </div>
               </div>
               <div class="kb-section">
+                <div class="kb-section-label">Sidebar filter</div>
+                <div class="kb-row">
+                  <span class="kb-desc">Focus sidebar clause filter</span>
+                  <span class="kb-keys"><kbd>F</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Clear filter and return focus</span>
+                  <span class="kb-keys"><kbd>Esc</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Move through filter results</span>
+                  <span class="kb-keys"><kbd>↑</kbd><kbd>↓</kbd></span>
+                </div>
+              </div>
+              <div class="kb-section">
                 <div class="kb-section-label">Browser</div>
                 <div class="kb-row">
                   <span class="kb-desc">Navigate back</span>
