@@ -1598,15 +1598,17 @@ function _scoreKeywords(lowerQuery, keywords) {
   return Math.min(best, 100)
 }
 
-function buildSuggestions(rawQuery, resultCount) {
+function buildSuggestions(rawQuery, resultCount, operators = {}) {
   if (!rawQuery || rawQuery.trim().length < 4) return []
   const lq = rawQuery.toLowerCase()
   const candidates = []
 
   // ── Pass 1: EBA suggestions ───────────────────────────────────────────────
-  // Suppressed when that EBA filter is already active — no point suggesting it
+  // Suppressed when the dropdown OR an eba: operator already targets this EBA.
+  // operators.eba is the resolved full name (EBA_SLUG_MAP already handled the slug).
   for (const entry of SUGGESTION_EBA_MAP) {
     if (selectedEba.value === entry.eba) continue
+    if (operators.eba     === entry.eba) continue
     const score = _scoreKeywords(lq, entry.keywords)
     if (score > 0) {
       candidates.push({ type: 'eba', label: `Filter to ${entry.eba.replace(/ \d{4}.*$/, '')}`, sublabel: entry.eba, action: { eba: entry.eba }, score })
@@ -1614,9 +1616,10 @@ function buildSuggestions(rawQuery, resultCount) {
   }
 
   // ── Pass 2: Topic suggestions ─────────────────────────────────────────────
-  // Suppressed when that topic filter is already active
+  // Suppressed when the dropdown OR a topic: operator already targets this topic.
   for (const entry of SUGGESTION_TOPIC_MAP) {
     if (selectedTopic.value === entry.topic) continue
+    if (operators.topic     === entry.topic) continue
     const score = _scoreKeywords(lq, entry.keywords)
     if (score > 0) {
       candidates.push({ type: 'topic', label: `Filter by topic: ${entry.label}`, sublabel: entry.topic, action: { topic: entry.topic }, score })
@@ -2868,10 +2871,10 @@ async function doSearch() {
 
     // ── Smart suggestions ─────────────────────────────────────────────────
     // Always build when query is long enough — panel is a persistent refinement
-    // tool. buildSuggestions() suppresses already-active filters internally,
-    // and restricts rewrites to zero-result searches.
+    // tool. Pass operators so eba:/topic: tokens suppress the same filter type
+    // as dropdown suppression — no point suggesting what the user already typed.
     suggestions.value = cleanQuery.trim().length >= 4
-      ? buildSuggestions(query.value, results.value.length)
+      ? buildSuggestions(query.value, results.value.length, operators)
       : []
 
     if (results.value.length === 0 && cleanQuery.trim().length > 3) {
