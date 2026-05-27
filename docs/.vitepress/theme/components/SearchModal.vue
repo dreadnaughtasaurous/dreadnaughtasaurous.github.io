@@ -298,6 +298,10 @@
                       </span>
                     </div>
                     <div v-if="result.meta?.section || result.meta?.clause" class="result-breadcrumb">
+                      <template v-if="getResultStream(result)">
+                        <span>{{ getResultStream(result) }}</span>
+                        <span class="breadcrumb-sep">›</span>
+                      </template>
                       <span v-if="result.meta?.section">{{ result.meta.section }}</span>
                       <span v-if="result.meta?.section && result.meta?.clause" class="breadcrumb-sep">›</span>
                       <span v-if="result.meta?.clause" class="breadcrumb-clause">{{ result.meta.clause }}</span>
@@ -515,6 +519,10 @@
                     >{{ result.filters.eba[0] }}</span>
                   </div>
                   <div v-if="result.meta?.section || result.meta?.clause" class="result-breadcrumb">
+                    <template v-if="getResultStream(result)">
+                      <span>{{ getResultStream(result) }}</span>
+                      <span class="breadcrumb-sep">›</span>
+                    </template>
                     <span v-if="result.meta?.section">{{ result.meta.section }}</span>
                     <span v-if="result.meta?.section && result.meta?.clause" class="breadcrumb-sep">›</span>
                     <span v-if="result.meta?.clause" class="breadcrumb-clause">{{ result.meta.clause }}</span>
@@ -944,6 +952,10 @@
           >{{ previewResult.filters.eba[0] }}</span>
         </div>
         <div v-if="previewResult.meta?.section || previewResult.meta?.clause" class="preview-breadcrumb">
+          <template v-if="getResultStream(previewResult)">
+            <span>{{ getResultStream(previewResult) }}</span>
+            <span class="breadcrumb-sep">›</span>
+          </template>
           <span v-if="previewResult.meta?.section">{{ previewResult.meta.section }}</span>
           <span v-if="previewResult.meta?.section && previewResult.meta?.clause" class="breadcrumb-sep">›</span>
           <span v-if="previewResult.meta?.clause" class="breadcrumb-clause">{{ previewResult.meta.clause }}</span>
@@ -1551,6 +1563,22 @@ const SUGGESTION_REWRITES = [
   { pattern: /\breadditment\b/i,      rewrite: 'redundancy' },
   { pattern: /\bseparation pay\b/i,   rewrite: 'termination redundancy' },
 ]
+
+// ─── Stream label for nested EBAs ────────────────────────────────────────────
+// Returns the humanised stream label for has-managers-admin and mental-health
+// result cards (e.g. 'common-terms' → 'Common Terms'), or null for all others.
+// Derives from result.url — no Pagefind meta change required.
+const NESTED_EBA_FOLDERS = new Set(['has-managers-admin', 'mental-health'])
+
+function getResultStream(result) {
+  if (!result?.url) return null
+  const parts = result.url.replace(/\.html$/, '').replace(/\/$/, '').split('/').filter(Boolean)
+  // Nested clause: parts[0]='ebas', [1]=ebaFolder, [2]=streamSlug, [3]=section, [4]=clause → length 5
+  if (parts[0] !== 'ebas') return null
+  if (!NESTED_EBA_FOLDERS.has(parts[1])) return null
+  if (parts.length < 5) return null
+  return parts[2].split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
+}
 
 // ─── Scoring engine ───────────────────────────────────────────────────────────
 // Scores a candidate against a list of keyword strings. Returns 0–100.
