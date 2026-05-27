@@ -2299,7 +2299,10 @@ function openModal() {
   // It deduplicates against any in-flight init from the hover/focus path.
   initPagefind()
   open.value = true
-  fetchMostViewed()     // non-blocking — populates mostViewedClauses async; degrades silently
+  // Defer fetchMostViewed() by 50ms so the modal DOM paints its first frame
+  // before the analytics worker request competes for network bandwidth.
+  // The Most Viewed panel is below the fold on open so the delay is imperceptible.
+  setTimeout(() => fetchMostViewed(), 50)
   nextTick(() => {
     loadPersistedState()
     inputRef.value?.focus()
@@ -3309,8 +3312,12 @@ function autoResizeFollowUp() {
   width: min(680px, calc(100vw - 2rem));
   max-height: calc(100vh - 12rem);
   background: var(--vp-c-bg); border: 1px solid var(--vp-c-divider);
-  border-radius: 12px; box-shadow: 0 24px 64px oklch(0 0 0 / 0.3);
-  display: flex; flex-direction: column; overflow: hidden;
+  border-radius: 12px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); overflow: hidden;
+  display: flex; flex-direction: column;
+  /* Promote to compositor layer before the open transition starts.
+     Prevents first-frame stutter caused by simultaneous DOM insertion
+     and compositing. GPU memory cost is negligible for a modal. */
+  will-change: transform, opacity;
 }
 
 /* ── Search header ── */
