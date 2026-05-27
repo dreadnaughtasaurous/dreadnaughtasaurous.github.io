@@ -32,8 +32,10 @@
               :placeholder="activeTab === 'search' ? 'Search all clauses...' : 'Ask a question about your EBA...'"
               class="search-input"
               @input="activeTab === 'search' ? debouncedSearch() : null"
-              @keydown.enter="activeTab === 'ask' ? submitAsk() : null"
-              @keydown.down.prevent="focusResult(0)"
+              @keydown.enter="activeTab === 'ask' ? submitAsk() : (operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : null)"
+              @keydown.down.prevent="operatorHint ? (hintIndex = Math.min(hintIndex + 1, operatorHint.items.length - 1)) : focusResult(0)"
+              @keydown.up.prevent="operatorHint ? (hintIndex = Math.max(hintIndex - 1, -1)) : null"
+              @keydown.esc="operatorHint ? dismissHint() : close()"
               autocomplete="off"
             />
             <!-- Save / bookmark button — only shown when there is an active query on the Search tab -->
@@ -100,6 +102,65 @@
             </span>
             <button class="op-pills-clear" @click="clearAllOperators">Clear all</button>
           </div>
+
+          <!-- Operator hint autocomplete dropdown — Teleported to body to escape overflow:hidden -->
+          <Teleport to="body">
+            <div
+              v-if="operatorHint"
+              class="op-hint-dropdown"
+              :style="hintStyle"
+              role="listbox"
+              :aria-label="operatorHint.type === 'eba' ? 'EBA completions' : 'Topic completions'"
+              @mousedown.prevent
+            >
+              <div class="op-hint-header">
+                <span class="op-hint-header-label">
+                  {{ operatorHint.type === 'eba' ? 'eba: completions' : 'topic: completions' }}
+                </span>
+                <kbd class="op-hint-header-kbd">↑↓ navigate</kbd>
+                <kbd class="op-hint-header-kbd">Enter / Tab complete</kbd>
+                <kbd class="op-hint-header-kbd">Esc dismiss</kbd>
+              </div>
+
+              <!-- EBA rows: colour dot + canonical slug + full name -->
+              <template v-if="operatorHint.type === 'eba'">
+                <button
+                  v-for="(item, i) in operatorHint.items"
+                  :key="item.slug"
+                  class="op-hint-item"
+                  :class="{ 'op-hint-item--active': hintIndex === i }"
+                  role="option"
+                  :aria-selected="hintIndex === i"
+                  @click="acceptHint(item)"
+                  @mouseenter="hintIndex = i"
+                >
+                  <span
+                    class="op-hint-eba-dot"
+                    :style="{ background: ebaColors[item.fullName]?.color ?? '#888' }"
+                  ></span>
+                  <span class="op-hint-item-primary">eba:{{ item.slug }}</span>
+                  <span class="op-hint-item-secondary">{{ item.fullName }}</span>
+                </button>
+              </template>
+
+              <!-- Topic rows: plain slug string -->
+              <template v-else>
+                <button
+                  v-for="(item, i) in operatorHint.items"
+                  :key="item"
+                  class="op-hint-item"
+                  :class="{ 'op-hint-item--active': hintIndex === i }"
+                  role="option"
+                  :aria-selected="hintIndex === i"
+                  @click="acceptHint(item)"
+                  @mouseenter="hintIndex = i"
+                >
+                  <svg class="op-hint-topic-icon" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                  <span class="op-hint-item-primary">topic:{{ item }}</span>
+                </button>
+              </template>
+            </div>
+          </Teleport>
 
           <!-- Tab bar -->
           <div class="search-tab-bar">
@@ -1059,6 +1120,12 @@ const fuzzyLoading  = ref(false)
 
 // ─── Smart suggestions ("Did you search for…?") ───────────────────────────────
 const suggestions = ref([])
+
+// ─── Operator hint autocomplete ───────────────────────────────────────────────
+// hintIndex: which item in the hint list is keyboard-highlighted (-1 = none)
+const hintIndex   = ref(-1)
+// hintStyle: Teleport position; set reactively when the hint list opens
+const hintStyle   = ref({})
 
 // ─── Recent searches (sessionStorage — session-scoped) ────────────────────────
 const recentSearches = ref([])
@@ -2430,6 +2497,113 @@ function opPillEbaStyle(resolvedEbaName) {
     borderColor:     c.color + '55',
   }
 }
+
+// ─── Operator hint autocomplete ───────────────────────────────────────────────
+// Detects whether the tail of the raw query is an incomplete eba: or topic:
+// token (i.e. the last whitespace-delimited token starts with eba: or topic:
+// and the user has not yet moved on by typing a space after a valid value).
+//
+// Returns null when no hint should show, or an object:
+//   { type: 'eba'|'topic', fragment: string, items: Array }
+//
+// For eba: — items is one entry per unique EBA, using the canonical (shortest)
+//   slug as the primary label, full EBA name as secondary text.
+// For topic: — items is the filtered topicList array (plain strings).
+const operatorHint = computed(() => {
+  if (activeTab.value !== 'search') return null
+  const raw   = query.value
+  if (!raw) return null
+
+  // Split on whitespace; examine the last token only (tail-only trigger)
+  const tokens    = raw.split(/\s+/)
+  const lastToken = tokens[tokens.length - 1]
+
+  // ── eba: hint ──────────────────────────────────────────────────────────────
+  const ebaMatch = lastToken.match(/^eba:(.*)$/i)
+  if (ebaMatch) {
+    const fragment = ebaMatch[1].toLowerCase()
+
+    // Build one row per EBA: pick the canonical slug (shortest key that maps
+    // to this EBA name) so the hint always shows the most natural alias.
+    const seen      = new Map()  // fullName → canonicalSlug
+    for (const [slug, fullName] of Object.entries(EBA_SLUG_MAP)) {
+      if (!seen.has(fullName) || slug.length < seen.get(fullName).length) {
+        seen.set(fullName, slug)
+      }
+    }
+
+    const rows = []
+    for (const [fullName, canonicalSlug] of seen) {
+      if (!fragment || canonicalSlug.includes(fragment) || fullName.toLowerCase().includes(fragment)) {
+        rows.push({ slug: canonicalSlug, fullName })
+      }
+    }
+
+    if (rows.length === 0) return null
+    return { type: 'eba', fragment, items: rows }
+  }
+
+  // ── topic: hint ────────────────────────────────────────────────────────────
+  const topicMatch = lastToken.match(/^topic:(.*)$/i)
+  if (topicMatch) {
+    const fragment = topicMatch[1].toLowerCase()
+    const items    = fragment
+      ? topicList.filter(t => t.includes(fragment))
+      : [...topicList]
+    if (items.length === 0) return null
+    return { type: 'topic', fragment, items }
+  }
+
+  return null
+})
+
+// ─── Position the hint dropdown below the search input ───────────────────────
+// Called reactively via a watch on operatorHint — positions the Teleported
+// dropdown using the input element's bounding rect, same pattern as the
+// floating preview pane. Must be called after nextTick so the DOM is ready.
+function positionHint() {
+  if (!inputRef.value) return
+  const rect          = inputRef.value.getBoundingClientRect()
+  hintStyle.value = {
+    position: 'fixed',
+    top:      `${rect.bottom + 4}px`,
+    left:     `${rect.left}px`,
+    width:    `${rect.width}px`,
+    zIndex:   '10005',
+  }
+}
+
+// ─── Complete an operator hint item into the query ────────────────────────────
+// Replaces the incomplete tail token with the completed value and a trailing
+// space, then fires debouncedSearch() so the new operator takes effect.
+function acceptHint(item) {
+  const tokens    = query.value.split(/\s+/)
+  const prefix    = tokens.slice(0, -1)   // everything before the tail token
+  const completed = operatorHint.value?.type === 'eba'
+    ? `eba:${item.slug}`
+    : `topic:${item}`
+  query.value = [...prefix, completed, ''].join(' ').trimStart()
+  hintIndex.value = -1
+  nextTick(() => {
+    inputRef.value?.focus()
+    debouncedSearch()
+  })
+}
+
+// ─── Dismiss the hint without completing ─────────────────────────────────────
+function dismissHint() {
+  // We don't modify the query — just clear the keyboard index so the next
+  // ↓ press re-opens navigation from the top.
+  hintIndex.value = -1
+}
+
+// ─── Watch operatorHint to reposition the dropdown whenever it opens ─────────
+watch(operatorHint, (val) => {
+  if (val) {
+    hintIndex.value = -1
+    nextTick(positionHint)
+  }
+})
 
 // ─── Dismiss an operator token from the raw query string ─────────────────────
 // Removes the token text from query.value, then re-runs search.
@@ -4062,6 +4236,100 @@ function autoResizeFollowUp() {
   border-radius: 4px; padding: 0.05rem 0.3rem;
   color: var(--vp-c-brand-1);
 }
+
+/* ── Operator hint autocomplete dropdown ── */
+.op-hint-dropdown {
+  background:    var(--vp-c-bg);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  box-shadow:
+    0 0 0 1px rgba(74,42,114,0.10),
+    0 8px 32px rgba(0,0,0,0.22),
+    0 2px 8px rgba(0,0,0,0.10);
+  overflow:      hidden;
+  max-height:    320px;
+  overflow-y:    auto;
+  /* Scroll-contain so the page body doesn't scroll when this list is full */
+  overscroll-behavior: contain;
+}
+.op-hint-header {
+  display:         flex;
+  align-items:     center;
+  gap:             0.5rem;
+  padding:         0.4rem 0.75rem;
+  background:      var(--vp-c-bg-soft);
+  border-bottom:   1px solid var(--vp-c-divider);
+  flex-wrap:       wrap;
+}
+.op-hint-header-label {
+  font-size:      0.68rem;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-3);
+  font-family:    var(--vp-font-family-mono, ui-monospace, monospace);
+  flex-shrink:    0;
+  margin-right:   auto;
+}
+.op-hint-header-kbd {
+  font-size:     0.62rem;
+  color:         var(--vp-c-text-3);
+  background:    var(--vp-c-bg);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  padding:       0.1rem 0.3rem;
+  font-family:   var(--vp-font-family-mono, ui-monospace, monospace);
+  white-space:   nowrap;
+}
+.op-hint-item {
+  display:        flex;
+  align-items:    center;
+  gap:            0.55rem;
+  width:          100%;
+  padding:        0.45rem 0.75rem;
+  background:     none;
+  border:         none;
+  border-bottom:  1px solid var(--vp-c-divider);
+  cursor:         pointer;
+  text-align:     left;
+  transition:     background 0.1s;
+}
+.op-hint-item:last-child { border-bottom: none; }
+.op-hint-item:hover,
+.op-hint-item--active {
+  background: var(--vp-c-bg-soft);
+}
+.op-hint-eba-dot {
+  flex-shrink:   0;
+  width:         10px;
+  height:        10px;
+  border-radius: 50%;
+  display:       inline-block;
+}
+.op-hint-topic-icon {
+  flex-shrink: 0;
+  color:       #7C3AED;
+}
+.op-hint-item-primary {
+  font-size:   0.8rem;
+  font-weight: 600;
+  color:       var(--vp-c-text-1);
+  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  white-space: nowrap;
+  overflow:    hidden;
+  text-overflow: ellipsis;
+}
+.op-hint-item-secondary {
+  font-size:  0.72rem;
+  color:      var(--vp-c-text-3);
+  white-space: nowrap;
+  overflow:   hidden;
+  text-overflow: ellipsis;
+  margin-left: auto;
+  padding-left: 0.5rem;
+}
+/* ── Dim secondary text when the item is active so primary pops ── */
+.op-hint-item--active .op-hint-item-secondary { color: var(--vp-c-text-2); }
 
 /* ── Save search button ── */
 .save-search-btn {
