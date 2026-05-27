@@ -282,11 +282,27 @@
                     <p v-if="result.excerpt" class="result-excerpt" v-html="cleanExcerpt(result.excerpt)"></p>
                   </a>
                 </div>
-                <p v-if="fuzzyResults.length === 0" class="no-results-tip">
-                  Try the
-                  <button class="inline-tab-link" @click="switchTab('ask')">Ask AI tab</button>
-                  to get a direct answer to your question.
-                </p>
+                <!-- ── Ask AI CTA: primary (total dead-end — fuzzy also zero) ── -->
+                <div v-if="fuzzyResults.length === 0" class="ask-ai-cta ask-ai-cta--primary">
+                  <div class="ask-ai-cta-body">
+                    <svg class="ask-ai-cta-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                    <span class="ask-ai-cta-heading">No matches found</span>
+                    <span class="ask-ai-cta-sub">Ask AI can answer questions that keyword search can't find.</span>
+                  </div>
+                  <button class="ask-ai-cta-btn ask-ai-cta-btn--primary" @click="redirectToAskAI">
+                    Ask AI about &ldquo;{{ parseQuery(query).cleanQuery.trim() || query.trim() }}&rdquo;
+                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                  </button>
+                </div>
+
+                <!-- ── Ask AI CTA: secondary (fuzzy found something — shown below) ── -->
+                <div v-if="fuzzyResults.length > 0" class="ask-ai-cta ask-ai-cta--secondary">
+                  <button class="ask-ai-cta-btn ask-ai-cta-btn--secondary" @click="redirectToAskAI">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                    Not finding what you need? Ask AI about &ldquo;{{ parseQuery(query).cleanQuery.trim() || query.trim() }}&rdquo;
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                  </button>
+                </div>
               </div>
 
               <!-- Quick Access panel (no query, no filters) -->
@@ -2350,6 +2366,38 @@ function switchTab(tab) {
   nextTick(() => inputRef.value?.focus())
 }
 
+// ─── Zero-result → Ask AI redirect ───────────────────────────────────────────
+// Converts the current search state into a natural-language question and
+// pre-populates the Ask AI "question" mode form, then switches to that tab.
+//
+// EBA resolution priority:
+//   1. selectedEba.value  — user set the dropdown explicitly
+//   2. operators.eba      — parseQuery already resolves eba:nm → full name;
+//                           no second EBA_SLUG_MAP lookup required
+// cleanQuery is used (all operators stripped) so the AI gets plain search terms.
+
+function buildAskQuestion(clean, ebaName) {
+  const terms = clean.trim() || query.value.trim()
+  if (!terms) return ''
+  const ebaFragment = ebaName ? `the ${ebaName} EBA` : 'the EBA'
+  return `What does ${ebaFragment} say about ${terms}?`
+}
+
+function redirectToAskAI() {
+  const { cleanQuery, operators } = parseQuery(query.value)
+  // operators.eba is already the full EBA name string (resolved by parseQuery)
+  const resolvedEba = selectedEba.value || operators.eba || ''
+  const questionStr = buildAskQuestion(cleanQuery, resolvedEba)
+
+  // switchTab resets all Ask AI fields — re-apply our values in the next tick
+  switchTab('ask')
+  nextTick(() => {
+    questionEba.value  = resolvedEba
+    questionText.value = questionStr
+    nextTick(() => document.getElementById('question-text')?.focus())
+  })
+}
+
 // ─── Ask mode switcher ────────────────────────────────────────────────────────
 function setAskMode(mode) {
   askMode.value          = mode
@@ -3333,7 +3381,55 @@ function autoResizeFollowUp() {
 /* ── Body ── */
 .search-body { flex: 1; overflow-y: auto; padding: 0.75rem 1rem; }
 .search-status { text-align: center; color: var(--vp-c-text-2); padding: 2rem 0; }
-.no-results-tip { font-size: 0.82rem; margin-top: 0.5rem; color: var(--vp-c-text-3); }
+/* ── Ask AI zero-result CTA ──────────────────────────────────────────────────── */
+.ask-ai-cta { margin-top: 1rem; }
+
+/* Primary: total dead-end — fuzzy also returned nothing */
+.ask-ai-cta--primary {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 10px;
+  background: var(--vp-c-brand-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+.ask-ai-cta-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.ask-ai-cta-icon { color: var(--vp-c-brand-1); margin-bottom: 0.15rem; }
+.ask-ai-cta-heading { font-size: 0.85rem; font-weight: 700; color: var(--vp-c-text-1); line-height: 1.3; }
+.ask-ai-cta-sub    { font-size: 0.78rem; color: var(--vp-c-text-2); line-height: 1.45; }
+
+.ask-ai-cta-btn--primary {
+  display: flex; align-items: center; justify-content: center; gap: 0.45rem;
+  width: 100%; padding: 0.55rem 0.9rem;
+  background: var(--vp-c-brand-1); color: #fff;
+  font-size: 0.82rem; font-weight: 600;
+  border: none; border-radius: 7px; cursor: pointer;
+  text-align: center; line-height: 1.35;
+  transition: opacity 0.15s, transform 0.1s;
+}
+.ask-ai-cta-btn--primary:hover  { opacity: 0.88; }
+.ask-ai-cta-btn--primary:active { transform: scale(0.98); }
+
+/* Secondary: fuzzy found something — quieter, shown below results */
+.ask-ai-cta--secondary { margin-top: 0.75rem; }
+.ask-ai-cta-btn--secondary {
+  display: flex; align-items: center; gap: 0.4rem;
+  width: 100%; padding: 0.45rem 0.75rem;
+  background: transparent; color: var(--vp-c-brand-1);
+  font-size: 0.78rem; font-weight: 500;
+  border: 1px solid var(--vp-c-brand-1); border-radius: 7px;
+  cursor: pointer; line-height: 1.35;
+  transition: background 0.15s, color 0.15s;
+  opacity: 0.85;
+}
+.ask-ai-cta-btn--secondary:hover { background: var(--vp-c-brand-soft); opacity: 1; }
+.ask-ai-cta-btn--secondary svg:first-child { flex-shrink: 0; opacity: 0.75; }
+.ask-ai-cta-btn--secondary svg:last-child  { flex-shrink: 0; margin-left: auto; }
 .inline-tab-link {
   background: none; border: none; padding: 0;
   color: var(--vp-c-brand-1); font-size: inherit; cursor: pointer; text-decoration: underline;
