@@ -2472,7 +2472,12 @@ function clearAllOperators() {
 // ─── Search ───────────────────────────────────────────────────────────────────
 function debouncedSearch() {
   clearTimeout(searchTimer)
-  searchTimer = setTimeout(doSearch, 200)
+  // Adaptive debounce: shorter delay for longer queries where Pagefind
+  // chunk cache is likely warm; longer delay for short fragments to avoid
+  // firing on every intermediate keystroke from slower typists.
+  const len   = query.value.trim().length
+  const delay = len >= 6 ? 120 : len >= 3 ? 220 : 380
+  searchTimer = setTimeout(doSearch, delay)
 }
 
 async function doSearch() {
