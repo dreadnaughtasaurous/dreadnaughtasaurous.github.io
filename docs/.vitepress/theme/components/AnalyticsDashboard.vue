@@ -154,6 +154,7 @@ const browserBreakdown = computed(() => data.value?.browserBreakdown || [])
 const deviceBreakdown  = computed(() => data.value?.deviceBreakdown  || [])
 const ebaFilterBreakdown = computed(() => data.value?.ebaFilterBreakdown || [])
 const topicBreakdown   = computed(() => data.value?.topicBreakdown   || [])
+const searchErrors     = computed(() => data.value?.meta?.totalSearchErrors || 0)
 
 // ── Link health computed ──────────────────────────────────────────────────────
 const lhMeta        = computed(() => linkReport.value?.meta          || null)
@@ -431,6 +432,10 @@ function fmtFile(file) {
             <span class="ad-kpi-val">{{ meta.avgPagesPerSession || '0' }}</span>
             <span class="ad-kpi-lbl">Avg pages / session</span>
           </div>
+          <div class="ad-kpi" :style="{ '--kpi-color': searchErrors > 0 ? '#E11D48' : '#059669' }">
+            <span class="ad-kpi-val">{{ searchErrors.toLocaleString() }}</span>
+            <span class="ad-kpi-lbl">Search errors</span>
+          </div>
         </div>
 
         <!-- ── TABS ─────────────────────────────────────────────────────── -->
@@ -639,6 +644,17 @@ function fmtFile(file) {
             </div>
           </div>
           <div v-else class="ad-empty">No topic filter usage recorded yet.</div>
+
+          <!-- Pagefind search errors -->
+          <div class="ad-section-hd" style="margin-top:2rem">
+            <h2 class="ad-section-title">Search errors</h2>
+            <p class="ad-section-desc">Queries where Pagefind threw a hard error (tab: search_error). Indicates index unavailability or network failure.</p>
+          </div>
+          <div v-if="searchErrors > 0" class="ad-kpi" style="--kpi-color:#E11D48; max-width:14rem">
+            <span class="ad-kpi-val">{{ searchErrors.toLocaleString() }}</span>
+            <span class="ad-kpi-lbl">Total hard errors logged</span>
+          </div>
+          <div v-else class="ad-empty ad-empty--positive">No search errors recorded — Pagefind index is healthy.</div>
 
         </div>
 

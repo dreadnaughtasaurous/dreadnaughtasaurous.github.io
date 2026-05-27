@@ -276,10 +276,11 @@ async function handleGetAnalytics(request, env, origin) {
   const sessions  = sessionEntries.filter(Boolean)
 
   // ── Meta KPIs ────────────────────────────────────────────────────────────────
-  const totalSearch   = searches.filter(e => e.tab === 'search').length
-  const totalAsk      = searches.filter(e => e.tab === 'ask').length
-  const totalPageviews = pageviews.length
-  const uniqueSessions = sessions.length
+  const totalSearch       = searches.filter(e => e.tab === 'search').length
+  const totalAsk          = searches.filter(e => e.tab === 'ask').length
+  const totalSearchErrors = searches.filter(e => e.tab === 'search_error').length
+  const totalPageviews    = pageviews.length
+  const uniqueSessions    = sessions.length
   const avgPagesPerSession = uniqueSessions > 0
     ? (sessions.reduce((sum, s) => sum + (s.pageCount || 1), 0) / uniqueSessions).toFixed(1)
     : '0'
@@ -288,14 +289,18 @@ async function handleGetAnalytics(request, env, origin) {
     totalEntries: searches.length,
     totalSearch,
     totalAsk,
+    totalSearchErrors,
     totalPageviews,
     uniqueSessions,
     avgPagesPerSession: Number(avgPagesPerSession),
   }
 
   // ── Top 20 search queries ────────────────────────────────────────────────────
+  // search_error events are excluded — they carry resultCount:-1 (sentinel) and
+  // should not pollute query frequency or zero-result tables.
   const queryMap = {}
   for (const e of searches) {
+    if (e.tab === 'search_error') continue
     const k = `${e.tab}||${e.query.toLowerCase()}`
     if (!queryMap[k]) queryMap[k] = { query: e.query, tab: e.tab, count: 0, zeroResultCount: 0 }
     queryMap[k].count++

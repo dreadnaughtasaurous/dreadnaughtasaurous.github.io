@@ -2511,14 +2511,34 @@ async function doSearch() {
   try {
     const search = await pagefind.search(pfQuery, { filters })
 
-    // ── Exact phrase boost (unchanged from original) ───────────────────────
+    // ── Exact phrase boost ────────────────────────────────────────────────
+    // Sources, in priority order:
+    //   1. Quoted phrases from the operator parser  ("annual leave")
+    //   2. The cleanQuery itself, when multi-word   (ordinary multi-word search)
+    // All phrase searches run in parallel. exactIds is the union of all hits.
     let exactIds = new Set()
-    if (cleanQuery.trim().includes(' ')) {
-      try {
-        const exactSearch = await pagefind.search(`"${cleanQuery.trim()}"`, { filters })
-        const exactData   = await Promise.all(exactSearch.results.slice(0, 5).map(r => r.data()))
-        exactIds = new Set(exactData.map(r => r.url))
-      } catch { /* exact search optional */ }
+    const phraseQueries = [
+      // Operator phrases — already quoted by the user
+      ...operators.phrases.map(p => `"${p}"`),
+      // cleanQuery phrase — only when it contains a space (original behaviour)
+      ...(cleanQuery.trim().includes(' ') ? [`"${cleanQuery.trim()}"`] : []),
+    ]
+    if (phraseQueries.length > 0) {
+      const phraseResults = await Promise.allSettled(
+        phraseQueries.map(pq => pagefind.search(pq, { filters }))
+      )
+      for (const outcome of phraseResults) {
+        if (outcome.status !== 'fulfilled') {
+          console.warn('[SearchModal] exact-phrase search failed:', outcome.reason)
+          continue
+        }
+        try {
+          const data = await Promise.all(outcome.value.results.slice(0, 5).map(r => r.data()))
+          data.forEach(r => exactIds.add(r.url))
+        } catch (innerErr) {
+          console.warn('[SearchModal] exact-phrase data fetch failed:', innerErr)
+        }
+      }
     }
 
     const allResults = await Promise.all(search.results.slice(0, 25).map(r => r.data()))
@@ -2572,8 +2592,14 @@ async function doSearch() {
     // Log the clean query (without operators) for analytics — operators are
     // implicit in the eba/topic values we already log.
     logSearch('search', cleanQuery || query.value, activeEba || '', activeTopic || '', results.value.length)
-  } catch {
+  } catch (err) {
     results.value = []
+    // ── Telemetry: Pagefind hard failure ──────────────────────────────────
+    // Console for devtools visibility; analytics worker for operational dashboards.
+    console.error('[SearchModal] Pagefind search failed:', err)
+    try {
+      logSearch('search_error', query.value, activeEba || '', activeTopic || '', -1)
+    } catch { /* logSearch itself must never throw */ }
   }
   loading.value = false
 }
