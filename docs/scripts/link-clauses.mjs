@@ -280,11 +280,15 @@ function processFile(filePath, slugMapResult, ebaFolder) {
     // even from indented lines (sub-list items starting with spaces) and headings.
     let workingLine = stripInternalLinks(line)
 
-    // ── INSERTION PASS: skips heading and indented lines ─────────────────────
+    // ── INSERTION PASS: skips heading, indented, and HTML lines ─────────────
     // We only skip the *insertion* of new links on these lines, not the stripping.
     // Headings and code-indented lines should not have auto-inserted clause links.
+    // HTML lines (e.g. data-pagefind-meta spans) must also be skipped — otherwise
+    // the clause number inside e.g. `data-pagefind-meta="clause:Schedule 3I"` gets
+    // linkified, which corrupts the Pagefind meta value shown in card breadcrumbs.
     if (workingLine.startsWith('#'))                            return workingLine
     if (workingLine.startsWith(' ') || workingLine.startsWith('\t')) return workingLine
+    if (workingLine.startsWith('<'))                            return workingLine
 
     // Collect all candidate matches from the stripped line, sorted by position.
     const labelMatches  = [...workingLine.matchAll(new RegExp(LABEL_REGEX_SRC,  'g'))]

@@ -23,7 +23,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 |  |  |
 |---|---|
 | **Full title** | Health and Allied Services, Managers and Administrative Workers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2025 |
-| **Coverage** | Health and Allied Services Employees, Dental Assistants, Managers and Administrative Workers employed by the Victorian public health sector employers listed at Schedule 1A |
+| **Coverage** | Health and Allied Services Employees, Dental Assistants, Managers and Administrative Workers employed by the Victorian public health sector employers listed at [Schedule 1A](/ebas/has-managers-admin/schedules/1a-employers-covered) |
 | **Commencement** | 20 April 2022 (seven days after Fair Work Commission approval on 13 April 2022) |
 | **Nominal expiry** | 30 June 2025 |
 | **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
