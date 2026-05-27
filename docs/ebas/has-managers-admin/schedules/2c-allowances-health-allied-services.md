@@ -3,7 +3,7 @@ title: 'Schedule 2C - Allowances (Health & Allied Services): Health Allied & Man
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'experience-payments', 'salary-circular']
 ---
-<span data-pagefind-meta="clause:Schedule 2" style="display:none"></span>
+<span data-pagefind-meta="clause:Schedule 2C" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 

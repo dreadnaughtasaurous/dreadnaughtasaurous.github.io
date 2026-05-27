@@ -3,7 +3,7 @@ title: 'Schedule 3E – Workplace Trainer/Careers Advisor: Health Allied & Manag
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
-<span data-pagefind-meta="clause:Schedule 3" style="display:none"></span>
+<span data-pagefind-meta="clause:Schedule 3E" style="display:none"></span>
 <span data-pagefind-meta="section:Schedules" style="display:none"></span>
 <span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
 
