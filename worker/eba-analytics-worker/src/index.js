@@ -465,7 +465,7 @@ async function handleGetTopPages(request, env, origin) {
 
     const top5 = Object.values(pageMap)
       .sort((a, b) => b.count - a.count)
-      .slice(0, 5)
+      .slice(0, 3)
 
     return new Response(JSON.stringify(top5), {
       status: 200,
