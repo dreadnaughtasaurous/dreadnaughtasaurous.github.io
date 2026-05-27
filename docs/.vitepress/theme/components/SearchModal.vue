@@ -2600,18 +2600,50 @@ async function runFuzzyFallback(originalQuery, filters) {
 }
 
 // ─── Highlight URL builder ────────────────────────────────────────────────────
+// Word priority (highest → lowest):
+//   1. Quoted phrase words — most precise, user explicitly grouped these
+//   2. cleanQuery words    — what Pagefind actually searched
+//   3. fuzzyQuery words    — stem that matched when cleanQuery returned zero
+// Excerpt is NOT used — it contains surrounding context words, not intent words.
 function buildHighlightUrl(result) {
   const baseUrl = result.url
-  const excerpt = result.excerpt
-  if (!excerpt) return baseUrl
-  const plain = excerpt.replace(/<[^>]+>/g, '').trim()
-  if (!plain) return baseUrl
-  const words = plain
-    .split(/\s+/)
-    .filter(w => w.replace(/[^a-zA-Z0-9]/g, '').length >= 3)
-    .slice(0, 8)
+  if (!baseUrl) return baseUrl ?? ''
+
+  // ── Collect words from each source in priority order ─────────────────────
+  const seen  = new Set()
+  const words = []
+
+  function addWords(str) {
+    if (!str) return
+    str.trim().split(/\s+/).forEach(w => {
+      // Strip punctuation, require ≥ 3 alphanumeric chars
+      const clean = w.replace(/[^a-zA-Z0-9]/g, '')
+      if (clean.length >= 3 && !seen.has(clean.toLowerCase())) {
+        seen.add(clean.toLowerCase())
+        words.push(clean)
+      }
+    })
+  }
+
+  // 1. Quoted phrase words (strip surrounding quotes, split on spaces)
+  const { operators } = parseQuery(query.value)
+  operators.phrases.forEach(phrase => addWords(phrase))
+
+  // 2. cleanQuery words
+  const { cleanQuery } = parseQuery(query.value)
+  addWords(cleanQuery)
+
+  // 3. Fuzzy stem words (only when fuzzy fallback is active for this result)
+  if (fuzzyQuery.value && fuzzyResults.value.some(r => r.url === result.url)) {
+    addWords(fuzzyQuery.value)
+  }
+
   if (words.length === 0) return baseUrl
-  const phrase = words.join(' ')
+
+  // Cap at 6 words — enough for precise node scoring, short enough to stay
+  // under URL length limits even on long clause page paths.
+  const phrase = words.slice(0, 6).join(' ')
+
   try {
     const url = new URL(baseUrl, window.location.origin)
     url.searchParams.set('highlight', phrase)
