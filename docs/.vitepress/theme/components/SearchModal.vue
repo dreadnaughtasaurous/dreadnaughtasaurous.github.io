@@ -1,6 +1,15 @@
 <template>
   <!-- Trigger button for navbar -->
-  <button class="search-trigger" @click="openModal" aria-label="Search">
+  <!-- pointerenter: pre-warms pagefind on desktop hover before the click lands  -->
+  <!-- focus: pre-warms pagefind when user Tabs to the button via keyboard        -->
+  <!-- Both call initPagefind() which deduplicates via pagefindInitPromise        -->
+  <button
+    class="search-trigger"
+    @click="openModal"
+    @pointerenter="initPagefind"
+    @focus="initPagefind"
+    aria-label="Search"
+  >
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
@@ -1305,6 +1314,7 @@ const hideSharedInput = computed(() =>
 
 let searchTimer           = null
 let pagefind              = null
+let pagefindInitPromise   = null    // deduplicates concurrent init calls from hover + focus
 let pendingContentHash    = null
 let _externalAskQuery     = ''      // carries AskThisPage pre-built query; bypasses mode form guards
 let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
@@ -2169,8 +2179,69 @@ function focusResult(index) {
   })
 }
 
-// ─── Load Pagefind ────────────────────────────────────────────────────────────
-onMounted(async () => {
+// ─── Pagefind prefetch + lazy init ───────────────────────────────────────────
+// Two-phase strategy:
+//   Phase 1 (onMounted): inject <link rel="prefetch"> tags so the browser
+//     queues a background fetch of pagefind.js and pagefind-entry.json into
+//     the HTTP cache. No module evaluation, no wasm. Zero blocking cost.
+//   Phase 2 (initPagefind): called from pointerenter/focus on the trigger
+//     button, or from openModal() as a guaranteed fallback. Performs the
+//     dynamic import() and pagefind.init() — both hit the HTTP cache because
+//     Phase 1 completed during idle time.
+//
+// pagefindInitPromise deduplicates concurrent callers (hover fires, then
+// focus fires 30ms later before the import resolves — both await the same
+// Promise rather than spawning two parallel imports).
+
+function prefetchPagefind() {
+  // Belt-and-suspenders: config.js already injects these tags at build time
+  // into every page's static <head>. This function is a runtime fallback for
+  // SPA navigations (VitePress swaps the <head> on client-side route changes)
+  // and for any environment where the build-time head injection didn't run
+  // (e.g. local dev without a production build).
+  if (typeof document === 'undefined') return
+  const urls = [
+    { href: '/pagefind/pagefind.js',         as: 'script' },
+    { href: '/pagefind/pagefind-entry.json', as: 'fetch'  },
+  ]
+  for (const { href, as } of urls) {
+    if (document.querySelector(`link[rel="prefetch"][href="${href}"]`)) continue
+    const link = document.createElement('link')
+    link.rel          = 'prefetch'
+    link.href         = href
+    link.as           = as
+    if (as === 'fetch') link.crossOrigin = 'anonymous'
+    document.head.appendChild(link)
+  }
+}
+
+async function initPagefind() {
+  // Already initialised — nothing to do.
+  if (pagefind) return
+
+  // Deduplicate: if another caller already started the init, await their Promise.
+  if (pagefindInitPromise) {
+    await pagefindInitPromise
+    return
+  }
+
+  pagefindInitPromise = (async () => {
+    try {
+      const importPath = '/pagefind/pagefind.js'
+      pagefind = await new Function('path', 'return import(path)')(importPath)
+      await pagefind.init()
+      await pagefind.options({
+        ranking: { pageLength: 0.4, termFrequency: 0.8, termSimilarity: 1.2, termSaturation: 1.6 }
+      })
+    } catch {
+      console.warn('Pagefind not available — run npm run docs:index first.')
+    }
+  })()
+
+  await pagefindInitPromise
+}
+
+onMounted(() => {
   loadSavedSearches()
   loadBookmarks()
   // Check whether the user has already dismissed the Ask AI intro card
@@ -2183,16 +2254,10 @@ onMounted(async () => {
     const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
     if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
   } catch { /* silently ignore */ }
-  try {
-    const importPath = '/pagefind/pagefind.js'
-    pagefind = await new Function('path', 'return import(path)')(importPath)
-    await pagefind.init()
-    await pagefind.options({
-      ranking: { pageLength: 0.4, termFrequency: 0.8, termSimilarity: 1.2, termSaturation: 1.6 }
-    })
-  } catch {
-    console.warn('Pagefind not available — run npm run docs:index first.')
-  }
+
+  // Phase 1: queue background prefetch of pagefind assets into HTTP cache.
+  // Does not import or evaluate the module — zero CPU cost.
+  prefetchPagefind()
 })
 
 // Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
@@ -2229,6 +2294,10 @@ function openFromExternal(e) {
 function openModal() {
   restoreEbaContext()   // must run before open.value = true so _pendingEbaFlash is set
                         // before watch(open) fires and checks it
+  // Guaranteed fallback: if the user opened the modal via Ctrl+K or the mobile
+  // tap path (no pointerenter/focus pre-warm), initPagefind() starts now.
+  // It deduplicates against any in-flight init from the hover/focus path.
+  initPagefind()
   open.value = true
   fetchMostViewed()     // non-blocking — populates mostViewedClauses async; degrades silently
   nextTick(() => {
