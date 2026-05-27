@@ -216,9 +216,32 @@
             <!-- Results body -->
             <div class="search-body" ref="resultsContainerRef">
 
-              <!-- Loading -->
-              <div v-if="loading" class="search-status">
-                <span class="loading-dots">Searching<span>.</span><span>.</span><span>.</span></span>
+              <!-- Skeleton shimmer cards — shown while Pagefind stubs are resolving -->
+              <!-- skeletonCount is set immediately after pagefind.search() returns,  -->
+              <!-- before the slower .data() Promise.all completes.                    -->
+              <div v-if="loading || skeletonCount > 0" class="search-results search-results--skeleton" aria-busy="true" aria-label="Loading search results">
+                <div class="result-count-skeleton"></div>
+                <div
+                  v-for="n in (skeletonCount > 0 ? skeletonCount : 4)"
+                  :key="n"
+                  class="result-card result-card--skeleton"
+                  aria-hidden="true"
+                >
+                  <!-- Row 1: title + EBA pill -->
+                  <div class="result-top">
+                    <span class="sk-line sk-title"></span>
+                    <span class="sk-pill"></span>
+                  </div>
+                  <!-- Row 2: breadcrumb -->
+                  <div class="result-breadcrumb">
+                    <span class="sk-line sk-breadcrumb"></span>
+                  </div>
+                  <!-- Row 3: excerpt (two lines) -->
+                  <div class="sk-excerpt">
+                    <span class="sk-line sk-excerpt-line sk-excerpt-line--full"></span>
+                    <span class="sk-line sk-excerpt-line sk-excerpt-line--partial"></span>
+                  </div>
+                </div>
               </div>
 
               <!-- No results + optional fuzzy fallback -->
@@ -1112,6 +1135,7 @@ const selectedTopic       = ref('')
 const ebaFilterFlash      = ref(false)   // true for 400 ms when Alt+digit fires — drives CSS flash animation
 const results             = ref([])
 const loading             = ref(false)
+const skeletonCount       = ref(0)   // set to stub count immediately after pagefind.search(); drives shimmer cards
 const inputRef            = ref(null)
 const modalRef            = ref(null)
 const resultsContainerRef = ref(null)
@@ -2716,7 +2740,8 @@ async function doSearch() {
     return
   }
 
-  loading.value = true
+  loading.value    = true
+  skeletonCount.value = 0   // reset before new search
 
   // ── Build Pagefind filter object ───────────────────────────────────────────
   // Dropdown values take precedence over operator values when both are set,
@@ -2737,6 +2762,14 @@ async function doSearch() {
 
   try {
     const search = await pagefind.search(pfQuery, { filters })
+
+    // ── Show skeleton cards immediately — count is known from stubs ───────
+    // Stubs are available instantly; .data() calls happen below.
+    // Setting skeletonCount here and clearing loading lets Vue render the
+    // shimmer grid before the slower per-card data fetches complete.
+    const stubSlice = search.results.slice(0, 25)
+    skeletonCount.value = stubSlice.length
+    loading.value       = false
 
     // ── Exact phrase boost ────────────────────────────────────────────────
     // Sources, in priority order:
@@ -2768,7 +2801,7 @@ async function doSearch() {
       }
     }
 
-    const allResults = await Promise.all(search.results.slice(0, 25).map(r => r.data()))
+    const allResults = await Promise.all(stubSlice.map(r => r.data()))
 
     // ── Filter-only sort (unchanged from original) ─────────────────────────
     const isFilterOnly = !cleanQuery.trim() && !operators.clause && (activeTopic || activeEba)
@@ -2799,6 +2832,7 @@ async function doSearch() {
       })
     }
 
+    skeletonCount.value = 0
     results.value = [
       ...filtered.filter(r => exactIds.has(r.url)),
       ...filtered.filter(r => !exactIds.has(r.url)),
@@ -2820,7 +2854,8 @@ async function doSearch() {
     // implicit in the eba/topic values we already log.
     logSearch('search', cleanQuery || query.value, activeEba || '', activeTopic || '', results.value.length)
   } catch (err) {
-    results.value = []
+    results.value       = []
+    skeletonCount.value = 0
     // ── Telemetry: Pagefind hard failure ──────────────────────────────────
     // Console for devtools visibility; analytics worker for operational dashboards.
     console.error('[SearchModal] Pagefind search failed:', err)
@@ -2828,7 +2863,8 @@ async function doSearch() {
       logSearch('search_error', query.value, activeEba || '', activeTopic || '', -1)
     } catch { /* logSearch itself must never throw */ }
   }
-  loading.value = false
+  loading.value       = false
+  skeletonCount.value = 0
 }
 
 async function runFuzzyFallback(originalQuery, filters) {
@@ -3716,6 +3752,82 @@ function autoResizeFollowUp() {
   flex-shrink: 0;
   margin-top: 0.15rem;
   opacity: 0.7;
+}
+
+/* ── Search result skeleton shimmer ── */
+/* Reuses the qa-skeleton-pulse keyframe already defined above.             */
+/* sk-* classes mirror the exact structure of a real .result-card so there */
+/* is zero layout shift when real cards replace the skeletons.              */
+
+.result-card--skeleton {
+  pointer-events: none;
+  user-select:    none;
+  cursor:         default;
+}
+
+/* Suppress hover/focus styles on skeleton cards */
+.result-card--skeleton:hover,
+.result-card--skeleton:focus-visible {
+  border-color: var(--vp-c-divider);
+  background:   var(--vp-c-bg-soft);
+  box-shadow:   none;
+}
+
+/* Generic shimmer line — width overridden per element below */
+.sk-line {
+  display:       inline-block;
+  height:        0.7rem;
+  border-radius: 3px;
+  background:    var(--vp-c-divider);
+  animation:     qa-skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+/* Title shimmer: ~60% of the row, matches typical clause title length */
+.sk-title {
+  width:            58%;
+  height:           0.875rem;  /* slightly taller than body lines — matches .result-title font-size */
+  animation-delay:  0s;
+}
+
+/* EBA pill shimmer */
+.sk-pill {
+  display:          inline-block;
+  width:            5.5rem;
+  height:           1.25rem;
+  border-radius:    999px;
+  background:       var(--vp-c-divider);
+  animation:        qa-skeleton-pulse 1.5s ease-in-out infinite;
+  animation-delay:  0.1s;
+  flex-shrink:      0;
+}
+
+/* Breadcrumb shimmer: ~40% — mirrors section › clause text */
+.sk-breadcrumb {
+  width:            38%;
+  height:           0.6rem;
+  animation-delay:  0.15s;
+}
+
+/* Excerpt block: two lines, staggered delay for wave effect */
+.sk-excerpt {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.35rem;
+  margin-top:     0.35rem;
+}
+
+.sk-excerpt-line--full    { width: 96%; animation-delay: 0.2s; }
+.sk-excerpt-line--partial { width: 72%; animation-delay: 0.3s; }
+
+/* Result-count placeholder row */
+.result-count-skeleton {
+  width:            4.5rem;
+  height:           0.65rem;
+  border-radius:    3px;
+  background:       var(--vp-c-divider);
+  animation:        qa-skeleton-pulse 1.5s ease-in-out infinite;
+  animation-delay:  0s;
+  margin-bottom:    0.75rem;
 }
 
 /* ── Result cards ── */
