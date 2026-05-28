@@ -69,54 +69,6 @@
             </button>
           </div>
 
-          <!-- Operator pills — shown when the raw query contains parsed operator tokens -->
-          <div v-if="activeTab === 'search' && parsedOperators.hasPills" class="operator-pills-row">
-            <span class="op-pills-label">Active:</span>
-            <!-- EBA operator pill -->
-            <span
-              v-if="parsedOperators.eba"
-              class="op-pill op-pill--eba"
-              :style="opPillEbaStyle(parsedOperators.eba)"
-            >
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
-              eba:{{ parsedOperators.ebaSlug }}
-              <button class="op-pill-dismiss" @click="dismissOperator('eba')" :aria-label="`Remove EBA filter: ${parsedOperators.ebaSlug}`">×</button>
-            </span>
-            <!-- Topic operator pill -->
-            <span v-if="parsedOperators.topic" class="op-pill op-pill--topic">
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
-              topic:{{ parsedOperators.topic }}
-              <button class="op-pill-dismiss" @click="dismissOperator('topic')" :aria-label="`Remove topic filter: ${parsedOperators.topic}`">×</button>
-            </span>
-            <!-- Clause operator pill -->
-            <span v-if="parsedOperators.clause" class="op-pill op-pill--clause">
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-              clause:{{ parsedOperators.clause }}
-              <button class="op-pill-dismiss" @click="dismissOperator('clause')" :aria-label="`Remove clause filter: ${parsedOperators.clause}`">×</button>
-            </span>
-            <!-- Exclude operator pills (one per excluded word) -->
-            <span
-              v-for="word in parsedOperators.exclude"
-              :key="word"
-              class="op-pill op-pill--exclude"
-            >
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
-              -{{ word }}
-              <button class="op-pill-dismiss" @click="dismissOperator('exclude', word)" :aria-label="`Remove exclusion: ${word}`">×</button>
-            </span>
-            <!-- Phrase pills -->
-            <span
-              v-for="phrase in parsedOperators.phrases"
-              :key="phrase"
-              class="op-pill op-pill--phrase"
-            >
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 2v12c0 1 .5 2 2 2zm9 0c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 2v12c0 1 .5 2 2 2z"/></svg>
-              "{{ phrase }}"
-              <button class="op-pill-dismiss" @click="dismissOperator('phrase', phrase)" :aria-label="`Remove phrase: ${phrase}`">×</button>
-            </span>
-            <button class="op-pills-clear" @click="clearAllOperators">Clear all</button>
-          </div>
-
           <!-- Operator hint autocomplete dropdown — Teleported to body to escape overflow:hidden -->
           <Teleport to="body">
             <div
@@ -222,9 +174,88 @@
                   <option v-for="topic in topicList" :key="topic" :value="topic">{{ topic }}</option>
                 </select>
               </div>
-              <button v-if="selectedEba || selectedTopic" class="clear-btn" @click="clearFilters">
-                Clear filters
-              </button>
+            </div>
+
+            <!-- ─── Unified active filters bar ────────────────────────────────
+                 Shown whenever any filter is active — dropdown OR typed operator.
+                 Positioned here (inside the search tab template, below the filter
+                 dropdowns, above the results body) so it is always visible,
+                 including when no query has been typed yet.
+            ─────────────────────────────────────────────────────────────────── -->
+            <div
+              v-if="parsedOperators.hasPills || selectedEba || selectedTopic"
+              class="operator-pills-row"
+              role="group"
+              aria-label="Active filters"
+            >
+              <span class="op-pills-label">Active:</span>
+
+              <!-- ── Dropdown EBA pill ──────────────────────────────────────
+                   Only shown when the dropdown has a value AND no eba: operator
+                   is also set (to avoid duplicate pills for the same EBA).
+                   When both are set, we show both with distinct prefix labels
+                   (filter: vs eba:) so the user knows which is which.
+              ──────────────────────────────────────────────────────────────── -->
+              <span
+                v-if="selectedEba && !parsedOperators.eba"
+                class="op-pill op-pill--eba"
+                :style="opPillEbaStyle(selectedEba)"
+              >
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                {{ selectedEba }}
+                <button class="op-pill-dismiss" @click="dismissDropdown('eba')" :aria-label="`Remove EBA filter: ${selectedEba}`">×</button>
+              </span>
+
+              <!-- ── Dropdown Topic pill ─────────────────────────────────── -->
+              <span
+                v-if="selectedTopic && !parsedOperators.topic"
+                class="op-pill op-pill--topic"
+              >
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                {{ selectedTopic }}
+                <button class="op-pill-dismiss" @click="dismissDropdown('topic')" :aria-label="`Remove topic filter: ${selectedTopic}`">×</button>
+              </span>
+
+              <!-- ── Typed operator pills (existing) ────────────────────── -->
+              <span
+                v-if="parsedOperators.eba"
+                class="op-pill op-pill--eba"
+                :style="opPillEbaStyle(parsedOperators.eba)"
+              >
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                eba:{{ parsedOperators.ebaSlug }}
+                <button class="op-pill-dismiss" @click="dismissOperator('eba')" :aria-label="`Remove EBA operator: ${parsedOperators.ebaSlug}`">×</button>
+              </span>
+              <span v-if="parsedOperators.topic" class="op-pill op-pill--topic">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                topic:{{ parsedOperators.topic }}
+                <button class="op-pill-dismiss" @click="dismissOperator('topic')" :aria-label="`Remove topic operator: ${parsedOperators.topic}`">×</button>
+              </span>
+              <span v-if="parsedOperators.clause" class="op-pill op-pill--clause">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+                clause:{{ parsedOperators.clause }}
+                <button class="op-pill-dismiss" @click="dismissOperator('clause')" :aria-label="`Remove clause filter: ${parsedOperators.clause}`">×</button>
+              </span>
+              <span
+                v-for="word in parsedOperators.exclude"
+                :key="word"
+                class="op-pill op-pill--exclude"
+              >
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+                -{{ word }}
+                <button class="op-pill-dismiss" @click="dismissOperator('exclude', word)" :aria-label="`Remove exclusion: ${word}`">×</button>
+              </span>
+              <span
+                v-for="phrase in parsedOperators.phrases"
+                :key="phrase"
+                class="op-pill op-pill--phrase"
+              >
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 2v12c0 1 .5 2 2 2zm9 0c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 2v12c0 1 .5 2 2 2z"/></svg>
+                "{{ phrase }}"
+                <button class="op-pill-dismiss" @click="dismissOperator('phrase', phrase)" :aria-label="`Remove phrase: ${phrase}`">×</button>
+              </span>
+
+              <button class="op-pills-clear" @click="clearAllOperators">Clear all</button>
             </div>
 
             <!-- Results body -->
@@ -2964,8 +2995,20 @@ function dismissOperator(type, value) {
   nextTick(() => inputRef.value?.focus())
 }
 
+// ─── Dismiss a single dropdown filter ────────────────────────────────────────
+// Called by the dropdown EBA/topic pills in the unified active filters bar.
+// Clears the relevant ref and re-runs search, mirroring dismissOperator() but
+// for selectedEba/selectedTopic rather than query string tokens.
+function dismissDropdown(type) {
+  if (type === 'eba')   selectedEba.value   = ''
+  if (type === 'topic') selectedTopic.value = ''
+  doSearch()
+  nextTick(() => inputRef.value?.focus())
+}
+
 // ─── Clear all operator tokens from the query string ─────────────────────────
 function clearAllOperators() {
+  // Strip all operator tokens from the query string
   let q = query.value
   q = q.replace(/\beba:\S+/gi, '')
   q = q.replace(/\btopic:\S+/gi, '')
@@ -2973,6 +3016,9 @@ function clearAllOperators() {
   q = q.replace(/(?:^|\s)-[a-zA-Z]\w*/g, ' ')
   q = q.replace(/"[^"]*"/g, '')
   query.value = q.replace(/\s{2,}/g, ' ').trim()
+  // Also clear the dropdown filters — "Clear all" means everything
+  selectedEba.value   = ''
+  selectedTopic.value = ''
   doSearch()
   nextTick(() => inputRef.value?.focus())
 }
@@ -3006,8 +3052,29 @@ async function doSearch() {
   // ── Parse advanced operators out of the raw query ──────────────────────────
   const { cleanQuery, operators } = parseQuery(query.value)
 
+  // ── Promote eba: and topic: operators into their dropdown equivalents ──────
+  // When the user types eba:<slug> or topic:<value> and it resolves, we sync
+  // the corresponding dropdown ref and strip the token from the query string.
+  // This makes both operators fast-fill shortcuts for the dropdowns rather than
+  // parallel filters, eliminating any dual-source scenario.
+  let needsReparse = false
+  if (operators.eba && operators.eba !== selectedEba.value) {
+    selectedEba.value = operators.eba
+    query.value = query.value.replace(/\beba:\S+/gi, '').replace(/\s{2,}/g, ' ').trim()
+    needsReparse = true
+  }
+  if (operators.topic && operators.topic !== selectedTopic.value) {
+    selectedTopic.value = operators.topic
+    query.value = query.value.replace(/\btopic:\S+/gi, '').replace(/\s{2,}/g, ' ').trim()
+    needsReparse = true
+  }
+  if (needsReparse) {
+    const reparsed = parseQuery(query.value)
+    Object.assign(operators, reparsed.operators)
+  }
+
   // Guard: nothing to search
-  if (!pagefind || (cleanQuery.length < 2 && !operators.clause && !selectedEba.value && !selectedTopic.value && !operators.eba && !operators.topic)) {
+  if (!pagefind || (cleanQuery.length < 2 && !operators.clause && !selectedEba.value && !selectedTopic.value)) {
     results.value = []
     return
   }
@@ -3020,8 +3087,8 @@ async function doSearch() {
   // because the user explicitly chose from the dropdown. Operator fills the
   // gap when the dropdown is on "All EBAs" / "All Topics".
   const filters = {}
-  const activeEba   = selectedEba.value   || operators.eba   || null
-  const activeTopic = selectedTopic.value || operators.topic || null
+  const activeEba   = selectedEba.value   || null
+  const activeTopic = selectedTopic.value || null
   if (activeEba)   filters.eba    = activeEba
   if (activeTopic) filters.topics = activeTopic
 
@@ -4745,6 +4812,14 @@ function autoResizeFollowUp() {
   padding: 0.45rem 1rem;
   background: var(--vp-c-bg-soft);
   border-bottom: 1px solid var(--vp-c-divider);
+  /* Animate in/out when v-if toggles — VitePress uses v-show internally for
+     some transitions but v-if here is fine; the bar appears/disappears quickly
+     enough that a 150ms fade is the right level of subtlety. */
+  animation: pills-row-in 0.15s ease;
+}
+@keyframes pills-row-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 .op-pills-label {
   font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
@@ -4757,8 +4832,7 @@ function autoResizeFollowUp() {
   font-size: 0.72rem; font-weight: 600; font-family: var(--vp-font-family-mono, ui-monospace, monospace);
   white-space: nowrap;
 }
-/* EBA pill: colour comes from inline :style (opPillEbaStyle) — Option A */
-.op-pill--eba { /* colour applied via inline style */ }
+/* EBA pill: colour applied entirely via inline :style (opPillEbaStyle) — no static rules needed */
 
 /* Topic pill: brand violet */
 .op-pill--topic {
