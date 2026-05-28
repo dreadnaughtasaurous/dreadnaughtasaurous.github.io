@@ -15,16 +15,17 @@ head: [
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
-    // ── Pagefind prefetch ──────────────────────────────────────────────────────
-    // Tells the browser to fetch the Pagefind JS module and its metadata bundle
-    // in the background during idle time, so the HTTP cache is warm before the
-    // user ever hovers over the Search button. Eliminates cold-start latency on
-    // the first search. pagefind-entry.json is the index metadata (~10–30KB);
-    // pagefind.js is the loader module (~5KB). The wasm bundle is NOT prefetched
-    // here — it is large (~500KB) and is fetched lazily by pagefind.init() only
-    // when the user actually interacts with search.
-    ['link', { rel: 'prefetch', href: '/pagefind/pagefind.js',          as: 'script' }],
-    ['link', { rel: 'prefetch', href: '/pagefind/pagefind-entry.json',  as: 'fetch',  crossorigin: 'anonymous' }],
+    // ── Pagefind preload ───────────────────────────────────────────────────────
+    // pagefind.js: modulepreload downloads AND parses the ES module into the
+    // browser's module registry during idle time. When initPagefind() later calls
+    // import('/pagefind/pagefind.js'), it resolves instantly from the registry
+    // rather than triggering a network+parse round-trip.
+    // pagefind-entry.json: stays as rel="prefetch" with as="fetch" — it is a JSON
+    // data file, not an ES module, so modulepreload does not apply.
+    // The WASM bundle (~500KB) is intentionally excluded — it is fetched lazily
+    // by pagefind.init() only when the user first opens search.
+    ['link', { rel: 'modulepreload', href: '/pagefind/pagefind.js' }],
+    ['link', { rel: 'prefetch', href: '/pagefind/pagefind-entry.json', as: 'fetch', crossorigin: 'anonymous' }],
   ],
 
   // Tell Vite not to bundle pagefind — it's generated post-build

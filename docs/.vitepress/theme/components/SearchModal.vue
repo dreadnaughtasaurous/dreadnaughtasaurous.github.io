@@ -2200,18 +2200,23 @@ function prefetchPagefind() {
   // and for any environment where the build-time head injection didn't run
   // (e.g. local dev without a production build).
   if (typeof document === 'undefined') return
-  const urls = [
-    { href: '/pagefind/pagefind.js',         as: 'script' },
-    { href: '/pagefind/pagefind-entry.json', as: 'fetch'  },
-  ]
-  for (const { href, as } of urls) {
-    if (document.querySelector(`link[rel="prefetch"][href="${href}"]`)) continue
-    const link = document.createElement('link')
-    link.rel          = 'prefetch'
-    link.href         = href
-    link.as           = as
-    if (as === 'fetch') link.crossOrigin = 'anonymous'
-    document.head.appendChild(link)
+  // pagefind.js: inject as modulepreload so the browser parses the ES module
+  // into the module registry (not just downloads it). Deduplicates against
+  // the build-time tag config.js already injected into the static <head>.
+  if (!document.querySelector('link[rel="modulepreload"][href="/pagefind/pagefind.js"]')) {
+    const ml = document.createElement('link')
+    ml.rel  = 'modulepreload'
+    ml.href = '/pagefind/pagefind.js'
+    document.head.appendChild(ml)
+  }
+  // pagefind-entry.json: prefetch only (JSON data file, not an ES module).
+  if (!document.querySelector('link[rel="prefetch"][href="/pagefind/pagefind-entry.json"]')) {
+    const pf = document.createElement('link')
+    pf.rel         = 'prefetch'
+    pf.href        = '/pagefind/pagefind-entry.json'
+    pf.as          = 'fetch'
+    pf.crossOrigin = 'anonymous'
+    document.head.appendChild(pf)
   }
 }
 
@@ -2255,9 +2260,26 @@ onMounted(() => {
     if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
   } catch { /* silently ignore */ }
 
-  // Phase 1: queue background prefetch of pagefind assets into HTTP cache.
-  // Does not import or evaluate the module — zero CPU cost.
+  // Phase 1: queue background preload of pagefind assets.
+  // modulepreload for pagefind.js — parses the module into the registry.
+  // prefetch for pagefind-entry.json — downloads the JSON index into cache.
   prefetchPagefind()
+
+  // Phase 2: full idle-time init — import() + pagefind.init() + WASM fetch.
+  // Fires during the browser's first idle window after the page is interactive
+  // (typically 1–3 s after load). By the time the user presses Ctrl+K,
+  // Pagefind is fully initialised and pagefind.search() can be called with
+  // zero async startup cost.
+  // pagefindInitPromise deduplication means this is a no-op if pointerenter
+  // or openModal() already fired initPagefind() first.
+  // Safari <16.4 does not support requestIdleCallback — setTimeout(2000) fallback.
+  if (typeof window !== 'undefined') {
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(() => initPagefind(), { timeout: 3000 })
+    } else {
+      setTimeout(() => initPagefind(), 2000)
+    }
+  }
 })
 
 // Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
