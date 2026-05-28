@@ -421,7 +421,7 @@
                 <div v-if="mostViewedLoading" class="qa-section">
                   <div class="qa-section-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-                    Most viewed
+                    Most viewed pages
                   </div>
                   <div class="qa-most-viewed-list">
                     <div v-for="n in 3" :key="n" class="qa-most-viewed-card qa-most-viewed-card--skeleton">
@@ -437,7 +437,7 @@
                 <div v-else-if="mostViewedClauses.length > 0" class="qa-section">
                   <div class="qa-section-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-                    Most viewed
+                    Most viewed pages
                   </div>
                   <div class="qa-most-viewed-list">
                     <a
@@ -462,7 +462,7 @@
                 <div v-if="trendingShortcuts.length > 0" class="qa-section">
                   <div class="qa-section-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
-                    Trending this week
+                    Trending topics this week
                   </div>
                   <div class="qa-chips">
                     <button
@@ -1345,6 +1345,7 @@ async function fetchTrendingTopics() {
     const res = await fetch(ANALYTICS_WORKER_URL + '/trending-topics')
     if (!res.ok) throw new Error(`Worker ${res.status}`)
     const data = await res.json()
+    console.log('[trending]', data)   // ← correct position
     if (Array.isArray(data)) {
       trendingTopics.value = data
       try {
@@ -1352,7 +1353,6 @@ async function fetchTrendingTopics() {
       } catch { /* quota exceeded — skip cache */ }
     }
   } catch {
-    // Worker unreachable — degrade silently, section hidden
     trendingTopics.value = []
   } finally {
     trendingLoading.value = false
@@ -1449,6 +1449,7 @@ const trendingShortcuts = computed(() => {
     .slice(0, 3)
     .map(t => ({
       topic: t.topic,
+      query: '',
       label: TOPIC_DISPLAY[t.topic] ?? t.topic.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
     }))
 })
@@ -2361,7 +2362,7 @@ async function initPagefind() {
       pagefind = await new Function('path', 'return import(path)')(importPath)
       await pagefind.init()
       await pagefind.options({
-        ranking: { pageLength: 0.4, termFrequency: 0.8, termSimilarity: 1.2, termSaturation: 1.6 }
+        ranking: { pageLength: 0.6, termFrequency: 0.8, termSimilarity: 0.9, termSaturation: 1.6 }
       })
     } catch {
       console.warn('Pagefind not available — run npm run docs:index first.')
@@ -2555,7 +2556,7 @@ function onKeydown(e) {
     e.preventDefault()
     openModal()
   }
-  if (e.key === 'Escape') close()
+  if (e.key === 'Escape' && open.value) close()
 
   // ── Shift+F1–F9: EBA filter shortcuts — only fire when modal is open ──────
   // Alt+digit is consumed by Firefox at the OS level. Ctrl+digit switches browser
