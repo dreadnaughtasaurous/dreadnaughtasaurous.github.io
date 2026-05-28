@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 11 - Additional Staffing: Mental Health EBA'
+title: 'Schedule 11 - Additional Staffing'
 eba: 'Mental Health Services 2024-2028'
 topics: ['staffing']
 ---
@@ -11,7 +11,7 @@ topics: ['staffing']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Schedule 11 – Additional Staffing: Mental Health EBA
+# Schedule 11 – Additional Staffing
 
 ## Part A – Nursing
 

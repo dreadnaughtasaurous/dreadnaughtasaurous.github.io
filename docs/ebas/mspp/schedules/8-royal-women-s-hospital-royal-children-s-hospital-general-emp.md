@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 8 - Royal Women''s Hospital, Royal Children''s Hospital General Employment: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 8 - Royal Women''s Hospital, Royal Children''s Hospital General Employment'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hospital-specific']
 ---
@@ -11,7 +11,7 @@ topics: ['hospital-specific']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist pharmacist
 </div>
 
-# Schedule 8 - Royal Women's Hospital, Royal Children's Hospital General Employment: Medical Scientists, Pharm & Psych EBA
+# Schedule 8 - Royal Women's Hospital, Royal Children's Hospital General Employment
 
 ## 1. Definitions and Interpretation
 

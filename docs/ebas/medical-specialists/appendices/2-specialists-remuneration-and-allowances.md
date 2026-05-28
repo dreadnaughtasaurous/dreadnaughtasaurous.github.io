@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 2 - Specialists Remuneration and Allowances: Medical Specialists EBA'
+title: 'Appendix 2 - Specialists Remuneration and Allowances'
 eba: 'Medical Specialists 2022-2026'
 topics: ['pay-rates', 'wages', 'allowances', 'remuneration', 'salary', 'rates', 'penalty-rates', 'hourly-rates', 'classification']
 ---
@@ -13,7 +13,7 @@ topics: ['pay-rates', 'wages', 'allowances', 'remuneration', 'salary', 'rates', 
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Appendix 2 - Specialists Remuneration and Allowances: Medical Specialists EBA
+# Appendix 2 - Specialists Remuneration and Allowances
 
 
 ::: info

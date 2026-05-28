@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 5 – Agreement to Cash Out Annual Leave: Doctors in Training EBA'
+title: 'Appendix 5 – Agreement to Cash Out Annual Leave'
 eba: 'Doctors in Training 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
@@ -11,7 +11,7 @@ topics: ['appendices', 'leave', 'annual-leave', 'forms']
 DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
 </div>
 
-# Appendix 5 – Agreement to Cash Out Annual Leave: Doctors in Training EBA
+# Appendix 5 – Agreement to Cash Out Annual Leave
 
 ---
 

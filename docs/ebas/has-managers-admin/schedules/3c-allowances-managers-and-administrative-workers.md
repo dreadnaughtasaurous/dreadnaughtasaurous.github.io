@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 3C - Allowances (Managers and Administrative Workers): Health Allied & Managers Admin EBA'
+title: 'Schedule 3C - Allowances (Managers and Administrative Workers)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'salary-circular']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'sa
 HAS HASMA health services manager worker clerical officer administration health manager patient services officer
 </div>
 
-# Schedule 3C - Allowances (Managers and Administrative Workers): Health Allied & Managers Admin EBA
+# Schedule 3C - Allowances (Managers and Administrative Workers)
 
 
 

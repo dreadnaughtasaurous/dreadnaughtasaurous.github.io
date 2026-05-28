@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 1 - List of Employers: Mental Health EBA '
+title: 'Schedule 1 - List of Employers'
 eba: 'Mental Health Services 2024-2028'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Schedule 1 - List of Employers: Mental Health EBA 
+# Schedule 1 - List of Employers 
 
 1. Albury Wodonga Health 
 2. Alfred Health 

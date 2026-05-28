@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 2 - Rates of Pay: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 2 - Rates of Pay'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['pay-rates', 'wages', 'remuneration', 'rates', 'salary-circular', 'circular 873']
 ---
@@ -13,7 +13,7 @@ topics: ['pay-rates', 'wages', 'remuneration', 'rates', 'salary-circular', 'circ
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Schedule 2 - Rates of Pay: Medical Scientists, Pharm & Psych EBA
+# Schedule 2 - Rates of Pay
 
 
 

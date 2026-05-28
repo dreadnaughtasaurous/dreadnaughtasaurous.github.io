@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 9 - Royal Children''s Hospital – Clinical Perfusionists: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 9 - Royal Children''s Hospital – Clinical Perfusionists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hospital-specific', 'classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['hospital-specific', 'classifications']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist psychologist research scientist pharmacist
 </div>
 
-# Schedule 9 - Royal Children's Hospital – Clinical Perfusionists: Medical Scientists, Pharm & Psych EBA
+# Schedule 9 - Royal Children's Hospital – Clinical Perfusionists
 
 ## 1. Application of this Schedule
 

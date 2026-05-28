@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hospital-specific']
 ---
@@ -11,7 +11,7 @@ topics: ['hospital-specific']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist pharmacist
 </div>
 
-# Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists: Medical Scientists, Pharm & Psych EBA
+# Schedule 5 - Alfred Health, Austin Health & Royal Melbourne Hospital – Clinical Perfusionists
 
 ## 1. Application of this Schedule
 

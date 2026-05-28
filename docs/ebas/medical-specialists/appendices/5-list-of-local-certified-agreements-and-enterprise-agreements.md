@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 5 - List of Local Certified Agreements and Enterprise Agreements: Medical Specialists EBA'
+title: 'Appendix 5 - List of Local Certified Agreements and Enterprise Agreements'
 eba: 'Medical Specialists 2022-2026'
 topics: ['local-agreements']
 ---
@@ -11,7 +11,7 @@ topics: ['local-agreements']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Appendix 5 – List of Local Certified Agreements and Enterprise Agreements in Operation Immediately Prior to 17 December 2013: Medical Specialists EBA
+# Appendix 5 – List of Local Certified Agreements and Enterprise Agreements in Operation Immediately Prior to 17 December 2013
 
 | No. | Agreement | Agreement ID |
 |---|---|---|

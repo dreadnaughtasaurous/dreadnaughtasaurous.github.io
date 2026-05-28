@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 15 - Rostering Protocols Exemption Agreement: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 15 - Rostering Protocols Exemption Agreement'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hours', 'rosters']
 ---
@@ -11,7 +11,7 @@ topics: ['hours', 'rosters']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Schedule 15 - Rostering Protocols Exemption Agreement: Medical Scientists, Pharm & Psych EBA
+# Schedule 15 - Rostering Protocols Exemption Agreement
 
 **1.** This Schedule must be read in conjunction with sub clause 57.5 Rostering Protocols Exemption Agreement.
 

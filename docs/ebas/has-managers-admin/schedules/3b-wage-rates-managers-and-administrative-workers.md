@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 3B - Wage Rates (Managers and Administrative Workers): Health Allied & Managers Admin EBA'
+title: 'Schedule 3B - Wage Rates (Managers and Administrative Workers)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular']
 ---
@@ -13,7 +13,7 @@ topics: ['pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classificatio
 HAS HASMA health services manager worker clerical officer administration health manager patient services officer
 </div>
 
-# Schedule 3B - Wage Rates (Managers and Administrative Workers): Health Allied & Managers Admin EBA
+# Schedule 3B - Wage Rates (Managers and Administrative Workers)
 
 
 

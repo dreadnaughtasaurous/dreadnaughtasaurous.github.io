@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 5 – Letter of Offer: Allied Health EBA'
+title: 'Appendix 5 – Letter of Offer'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['appendices', 'employment', 'forms']
 ---
@@ -11,7 +11,7 @@ topics: ['appendices', 'employment', 'forms']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Appendix 5 – Letter of Offer: Allied Health EBA
+# Appendix 5 – Letter of Offer
 
 The Letter of Offer must contain the following information:
 

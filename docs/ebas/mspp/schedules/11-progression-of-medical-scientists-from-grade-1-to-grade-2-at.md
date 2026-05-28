@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['classifications', 'hospital-specific']
 ---
@@ -13,7 +13,7 @@ topics: ['classifications', 'hospital-specific']
 MSPP pharmacists psychologists scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services: Medical Scientists, Pharm & Psych EBA
+# Schedule 11 - Progression of Medical Scientists from Grade 1 to Grade 2 at Victorian Clinical Genetics Services
 
 ## 1. Medical Scientist progression from Grade 1 to Grade 2:
 

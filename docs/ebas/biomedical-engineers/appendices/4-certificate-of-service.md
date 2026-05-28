@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 4 - Certificate of Service: Biomedical Engineers EBA'
+title: 'Appendix 4 - Certificate of Service'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'employment', 'forms']
 rewrites:
@@ -14,7 +14,7 @@ rewrites:
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Appendix 4 - Certificate of Service: Biomedical Engineers EBA
+# Appendix 4 - Certificate of Service
 
 ---
 

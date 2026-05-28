@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 3D – Classification Structure: Managers and Administrative Workers'
+title: 'Schedule 3D – Classification Structure (Managers and Administrative Workers)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['classifications']
 HAS HASMA health services manager worker clerical officer administration health manager patient services officer
 </div>
 
-# Schedule 3D - Classification Structure: Managers And Administrative Workers
+# Schedule 3D - Classification Structure (Managers And Administrative Workers)
 
 ## Part 1: Managers and Administrative Workers (other than Royal Women's Hospital and Royal Children's Hospital)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 9 - Certificate Of Service: Mental Health EBA'
+title: 'Schedule 9 - Certificate Of Service'
 eba: 'Mental Health Services 2024-2028'
 topics: ['employment']
 ---
@@ -11,7 +11,7 @@ topics: ['employment']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Schedule 9 – Certificate of Service: Mental Health EBA
+# Schedule 9 – Certificate of Service
 
 The following is the agreed form of Certificate of Service referred to in this Agreement.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 1 - Employer Parties: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 1 - Employer Parties'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Schedule 1 - Employer Parties: Medical Scientists, Pharm & Psych EBA
+# Schedule 1 - Employer Parties
 
 - Albury Wodonga Health (Wodonga Hospital only)
 - Alexandra District Hospital

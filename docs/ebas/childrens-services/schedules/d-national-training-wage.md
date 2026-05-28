@@ -1,5 +1,5 @@
 ---
-title: "Schedule D - National Training Wage: Children's Services EBA"
+title: "Schedule D - National Training Wage"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'training-wage']
 ---
@@ -8,7 +8,7 @@ topics: ['schedules', 'training-wage']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Schedule D - National Training Wage: Children's Services EBA
+# Schedule D - National Training Wage
 
 >[Varied by [PR998020](http://www.fwc.gov.au/documents/awardsandorders/html/PR998020.htm), [PR509151](http://www.fwc.gov.au/documents/awardsandorders/html/PR509151.htm), [PR509151](http://www.fwc.gov.au/documents/awardsandorders/html/PR509151.htm), [PR522982](http://www.fwc.gov.au/documents/awardsandorders/html/PR522982.htm), [PR536785](http://www.fwc.gov.au/documents/awardsandorders/html/PR536785.htm), [PR545787](http://www.fwc.gov.au/documents/awardsandorders/html/PR545787.htm), [PR551708](http://www.fwc.gov.au/documents/awardsandorders/html/PR551708.htm), [PR566800](http://www.fwc.gov.au/documents/awardsandorders/html/PR566800.htm), [PR579915](https://library.fairwork.gov.au/award/?krn=PR579915); deleted by [PR593886](https://library.fairwork.gov.au/award/?krn=PR593886) ppc 01Ju17]
 

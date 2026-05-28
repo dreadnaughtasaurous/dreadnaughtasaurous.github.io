@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 5 – Classification Definitions Applying to Health Professionals: Mental Health EBA'
+title: 'Schedule 5 – Classification Definitions Applying to Health Professionals'
 eba: 'Mental Health Services 2024-2028'
 topics: ['classifications']
 ---
@@ -13,7 +13,7 @@ topics: ['classifications']
 mental worker psychiatric nurse mental nurse community mental AMHS authorised mental practitioner psychosocial disability support
 </div>
 
-# Schedule 5 – Classification Definitions Applying to Health Professionals: Mental Health EBA
+# Schedule 5 – Classification Definitions Applying to Health Professionals
 
 ## Part 1: Schedule 5 Arrangement
 

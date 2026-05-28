@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 3 - Allowances and Top of Band Payments: Allied Health EBA'
+title: 'Appendix 3 - Allowances and Top of Band Payments'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['allowances', 'remuneration', 'rates', 'pay-rates', 'top-of-band', 'cash-payments', 'salary-circular', 'circular 872']
 ---
@@ -13,7 +13,7 @@ topics: ['allowances', 'remuneration', 'rates', 'pay-rates', 'top-of-band', 'cas
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Appendix 3 - Allowances and Top of Band Payments: Allied Health EBA
+# Appendix 3 - Allowances and Top of Band Payments
 
 
 

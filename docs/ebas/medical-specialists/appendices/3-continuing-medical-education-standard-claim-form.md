@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 3 - Continuing Medical Education Standard Claim Form: Medical Specialists EBA'
+title: 'Appendix 3 - Continuing Medical Education Standard Claim Form'
 eba: 'Medical Specialists 2022-2026'
 topics: ['professional-development', 'forms']
 ---
@@ -11,7 +11,7 @@ topics: ['professional-development', 'forms']
 specialist consultant specialist doctor VMO visiting officer staff specialist salaried specialist attending specialist
 </div>
 
-# Appendix 3 - Continuing Medical Education Standard Claim Form: Medical Specialists EBA
+# Appendix 3 - Continuing Medical Education Standard Claim Form
 
 The following standard claim form (or online equivalent) for Continuing Medical Education reimbursement can be used by a Health Service in accordance with [subclause 41.4(a)](/ebas/medical-specialists/allowances/41-continuing-medical-education-support).
 

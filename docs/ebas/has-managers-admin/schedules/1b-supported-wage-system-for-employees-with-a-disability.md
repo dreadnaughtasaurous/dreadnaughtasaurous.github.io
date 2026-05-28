@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 1B – Supported Wage System for Employees with a Disability: Health Allied & Managers Admin EBA'
+title: 'Schedule 1B – Supported Wage System for Employees with a Disability'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['disability']
 ---
@@ -11,7 +11,7 @@ topics: ['disability']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# Schedule 1B – Supported Wage System for Employees with a Disability: Health Allied & Managers Admin EBA
+# Schedule 1B – Supported Wage System for Employees with a Disability
 
 **1. Workers Eligible for a supported wage**
 

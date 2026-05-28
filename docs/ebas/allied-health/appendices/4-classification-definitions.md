@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 4 - Classification Definitions: Allied Health EBA'
+title: 'Appendix 4 - Classification Definitions'
 eba: 'Allied Health Professionals 2021-2026'
 topics: ['classifications']
 ---
@@ -11,7 +11,7 @@ topics: ['classifications']
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Appendix 4 - Classification Definitions: Allied Health EBA
+# Appendix 4 - Classification Definitions
 
 
 An Employer is not obliged to appoint to each Grade/Level/Class, subject to [subclause 89.5(c)](/ebas/allied-health/classification-staffing/89-supervision-and-management). However, where an Employee meets the requirements of the Grade/Level/Class, the Employer will classify them at that Grade/Level/Class (see [subclause 86.2](/ebas/allied-health/classification-staffing/86-classification-and-reclassification) - Classification and Reclassification). 

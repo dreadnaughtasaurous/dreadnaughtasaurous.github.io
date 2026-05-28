@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 3 - Role Statement - Mental Health Clinical Educator: Mental Health EBA'
+title: 'Schedule 3 - Role Statement - Mental Health Clinical Educator'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 worker psychiatric nurse nurse community AMHS authorised practitioner psychosocial disability support
 </div>
 
-# Schedule 3 - Role Statement - Mental Health Clinical Educator: Mental Health EBA
+# Schedule 3 - Role Statement - Mental Health Clinical Educator
 
 **1.1 Background**
 

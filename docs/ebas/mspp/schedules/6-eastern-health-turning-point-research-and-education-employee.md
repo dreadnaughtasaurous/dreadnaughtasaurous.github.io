@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 6 - Eastern Health Turning Point Research and Education Employees: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 6 - Eastern Health Turning Point Research and Education Employees'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['hospital-specific']
 ---
@@ -11,7 +11,7 @@ topics: ['hospital-specific']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist scientist hospital pharmacist
 </div>
 
-# Schedule 6 - Eastern Health Turning Point Research and Education Employees: Medical Scientists, Pharm & Psych EBA
+# Schedule 6 - Eastern Health Turning Point Research and Education Employees
 
 This Schedule will apply only in relation to Eastern Health and those of its employees who are Turning Point Research and Education Employees
 

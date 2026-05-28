@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 3I – Veteran Employment Support Officer: Health Allied & Managers Admin EBA'
+title: 'Schedule 3I – Veteran Employment Support Officer'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative worker clerical administration health manager patient services
 </div>
 
-# Schedule 3I – Veteran Employment Support Officer: Health Allied & Managers Admin EBA
+# Schedule 3I – Veteran Employment Support Officer
 
 ## 1. The Role
 

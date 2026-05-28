@@ -1,5 +1,5 @@
 ---
-title: "Schedule C - Supported Wage System: Children's Services EBA"
+title: "Schedule C - Supported Wage System"
 eba: 'Children''s Services Award 2010'
 topics: ['schedules', 'supported-wage']
 ---
@@ -8,7 +8,7 @@ topics: ['schedules', 'supported-wage']
 childrens services childcare worker early childhood educator family day care ECE kindergarten before school after school outside school hours care OSHC children's
 </div>
 
-# Schedule C - Supported Wage System: Children's Services EBA
+# Schedule C - Supported Wage System
 
 >[Varied by [PR998748](http://www.fwc.gov.au/documents/awardsandorders/html/PR998748.htm), [PR510670](http://www.fwc.gov.au/documents/awardsandorders/html/PR510670.htm), [PR525068](http://www.fwc.gov.au/documents/awardsandorders/html/PR525068.htm), [PR537893](http://www.fwc.gov.au/documents/awardsandorders/html/PR537893.htm), [PR542240](http://www.fwc.gov.au/documents/awardsandorders/html/PR542240.htm), [PR551831](http://www.fwc.gov.au/documents/awardsandorders/html/PR551831.htm), [PR568050](http://www.fwc.gov.au/documents/awardsandorders/html/PR568050.htm), [PR581528](http://www.fwc.gov.au/documents/awardsandorders/html/PR581528.htm), [PR592689](http://www.fwc.gov.au/documents/awardsandorders/html/PR592689.htm), [PR606630](http://www.fwc.gov.au/documents/awardsandorders/html/PR606630.htm), [PR709080](https://library.fairwork.gov.au/award/?krn=PR709080), [PR719661](https://library.fairwork.gov.au/award/?krn=PR719661), [PR729672](https://library.fairwork.gov.au/award/?krn=PR729672), [PR742256](https://library.fairwork.gov.au/award/?krn=PR742256), [PR762969](https://library.fairwork.gov.au/award/?krn=PR762969), [PR774051](https://library.fairwork.gov.au/award/?krn=PR774051), [PR786538](https://library.fairwork.gov.au/award/?krn=PR786538)]
 

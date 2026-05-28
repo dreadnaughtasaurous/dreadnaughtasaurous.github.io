@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 4 - Clinical Nurse Midwife Specialist Criteria: Nurses and Midwives EBA'
+title: 'Appendix 4 - Clinical Nurse Midwife Specialist Criteria'
 eba: 'Nurses and Midwives 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 nursing staff RN EN registered enrolled midwifery NUM unit manager ANUM associate unit manager CNS CNE educator CNC consultant
 </div>
 
-# Appendix 4 - Clinical Nurse Midwife Specialist Criteria: Nurses and Midwives EBA
+# Appendix 4 - Clinical Nurse Midwife Specialist Criteria
 
 Applicants must meet the clinical nurse/midwife specialist definition, be employed either full-time or part-time and demonstrate one criterion in each of paragraphs 1, 2 and 3.
 

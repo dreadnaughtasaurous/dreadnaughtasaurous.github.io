@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 3F – Worker Wellbeing Officer: Health Allied & Managers Admin EBA'
+title: 'Schedule 3F – Worker Wellbeing Officer'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 HAS HASMA health administrative services manager administrative clerical administration health manager patient services
 </div>
 
-# Schedule 3F – Worker Wellbeing Officer: Health Allied & Managers Admin EBA
+# Schedule 3F – Worker Wellbeing Officer
 
 ## 1. The Role
 

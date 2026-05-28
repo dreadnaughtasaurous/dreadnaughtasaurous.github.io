@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 1 - List Of Employers: Nurses and Midwives EBA'
+title: 'Appendix 1 - List Of Employers'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Appendix 1 - List Of Employers: Nurses and Midwives EBA
+# Appendix 1 - List Of Employers
 
 **Divisions 1-3**
 

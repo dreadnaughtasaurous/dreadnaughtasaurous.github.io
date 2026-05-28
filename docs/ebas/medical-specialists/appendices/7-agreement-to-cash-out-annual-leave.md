@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 7 – Agreement to Cash Out Annual Leave: Medical Specialists EBA'
+title: 'Appendix 7 – Agreement to Cash Out Annual Leave'
 eba: 'Medical Specialists 2022-2026'
 topics: ['appendices', 'leave', 'annual-leave', 'forms']
 ---
@@ -11,7 +11,7 @@ topics: ['appendices', 'leave', 'annual-leave', 'forms']
 medical specialist consultant specialist doctor VMO visiting medical officer staff specialist salaried specialist attending specialist
 </div>
 
-# Appendix 7 – Agreement to Cash Out Annual Leave: Medical Specialists EBA
+# Appendix 7 – Agreement to Cash Out Annual Leave
 
 ---
 

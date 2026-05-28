@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 14 - Professional Development Expenses Standard Claim Form: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 14 - Professional Development Expenses Standard Claim Form'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['professional-development']
 ---
@@ -11,7 +11,7 @@ topics: ['professional-development']
 MSPP medical scientists pharmacists psychologists medical scientist pharmacist psychologist laboratory scientist clinical psychologist research scientist hospital pharmacist
 </div>
 
-# Schedule 14 - Professional Development Expenses Standard Claim Form: Medical Scientists, Pharm & Psych EBA
+# Schedule 14 - Professional Development Expenses Standard Claim Form
 
 The following standard claim form (or online equivalent) for Professional Development expenses reimbursement should be used as a guide by a Health Service
 

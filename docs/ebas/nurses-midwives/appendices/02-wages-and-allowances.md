@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 2 - Wages and Allowances: Nurses & Midwives EBA'
+title: 'Appendix 2 - Wages and Allowances'
 eba: 'Nurses and Midwives 2024-2028'
 topics: ['pay-rates', 'allowances', 'remuneration', 'salary', 'rates', 'classification', 'shift-allowances', 'qualification-allowance', 'salary-circular', 'circular 870']
 ---
@@ -13,7 +13,7 @@ topics: ['pay-rates', 'allowances', 'remuneration', 'salary', 'rates', 'classifi
 nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM nurse unit manager ANUM associate nurse unit manager CNS clinical nurse specialist CNE clinical nurse educator CNC clinical nurse consultant
 </div>
 
-# Appendix 2 - Wages and Allowances: Nurses & Midwives EBA
+# Appendix 2 - Wages and Allowances
 
 
 

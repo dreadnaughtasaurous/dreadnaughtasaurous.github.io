@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 2C - Allowances (Health & Allied Services): Health Allied & Managers Admin EBA'
+title: 'Schedule 2C - Allowances (Health & Allied Services)'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'experience-payments', 'salary-circular']
 ---
@@ -11,7 +11,7 @@ topics: ['allowances', 'remuneration', 'shift-allowances', 'meal-allowance', 'ex
 HAS HASMA administrative manager administrative worker clerical officer administration manager patient officer
 </div>
 
-# Schedule 2C - Allowances (Health & Allied Services): Health Allied & Managers Admin EBA
+# Schedule 2C - Allowances (Health & Allied Services)
 
 
 

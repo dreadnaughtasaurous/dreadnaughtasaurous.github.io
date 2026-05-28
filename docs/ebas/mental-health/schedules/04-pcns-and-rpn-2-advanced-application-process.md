@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 4 - PCNS and RPN 2 Advanced Application Process: Mental Health EBA'
+title: 'Schedule 4 - PCNS and RPN 2 Advanced Application Process'
 eba: 'Mental Health Services 2024-2028'
 topics: []
 ---
@@ -11,7 +11,7 @@ topics: []
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Schedule 4 - PCNS and RPN 2 Advanced Application Process: Mental Health EBA
+# Schedule 4 - PCNS and RPN 2 Advanced Application Process
 
 **1.** Application process to be classified to RPN 2 psychiatric clinical nurse specialist (PCNS) and RPN 2 advanced.
 **2.** For applications for the classification of RPN 2 PCNS or RPN 2 Advanced the following is to apply:

@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 1A - Employers Covered: Health Allied & Managers Admin EBA'
+title: 'Schedule 1A - Employers Covered'
 eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['coverage']
 ---
@@ -11,7 +11,7 @@ topics: ['coverage']
 HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
 </div>
 
-# Schedule 1A - Employers Covered: Health Allied & Managers Admin EBA
+# Schedule 1A - Employers Covered
 
 1. Albury Wodonga Health 
 2. Alexandra District Health 

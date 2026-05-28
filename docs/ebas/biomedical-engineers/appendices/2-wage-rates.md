@@ -1,5 +1,5 @@
 ---
-title: 'Appendix 2 — Salaries & Allowances: Biomedical Engineers EBA'
+title: 'Appendix 2 — Salaries & Allowances'
 eba: 'Biomedical Engineers 2025-2028'
 topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 'classification', 'salary-circular', 'circular 872', 'top-of-band']
 ---
@@ -13,7 +13,7 @@ topics: ['appendices', 'pay-rates', 'wages', 'remuneration', 'salary', 'rates', 
 biomedical engineer BME biomedical engineering medical equipment hospital engineer clinical engineer technical officer
 </div>
 
-# Appendix 2 — Salaries & Allowances: Biomedical Engineers EBA
+# Appendix 2 — Salaries & Allowances
 
 <div class="clause-meta">
   <span class="pill pill-eba">Biomedical Engineers EBA</span>

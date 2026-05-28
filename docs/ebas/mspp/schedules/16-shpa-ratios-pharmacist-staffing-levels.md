@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels: Medical Scientists, Pharm & Psych EBA'
+title: 'Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels'
 eba: 'Medical Scientists, Pharm & Psych 2021-2025'
 topics: ['staffing']
 ---
@@ -11,7 +11,7 @@ topics: ['staffing']
 MSPP medical scientists pharmacists psychologists medical scientist psychologist laboratory scientist clinical psychologist research scientist hospital
 </div>
 
-# Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels: Medical Scientists, Pharm & Psych EBA
+# Schedule 16 - SHPA Ratios – Pharmacist Staffing Levels
 
 The following document is a reproduction of the Victorian Pharmacy Authority's guidelines with respect to the standards of the Society of Hospital Pharmacists – Staffing Levels and Structures for the Provision of Pharmacy Services, as at 5 July 2022.
 

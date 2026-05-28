@@ -1,5 +1,5 @@
 ---
-title: 'Schedule 10 - Minimum Staffing Levels: Mental Health EBA'
+title: 'Schedule 10 - Minimum Staffing Levels'
 eba: 'Mental Health Services 2024-2028'
 topics: ['staffing']
 ---
@@ -11,7 +11,7 @@ topics: ['staffing']
 mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
 </div>
 
-# Schedule 10 – Minimum Staffing Levels: Mental Health EBA
+# Schedule 10 – Minimum Staffing Levels
 
 - **(a)** The minimum staffing levels contained within Schedule 10 are intended to reflect the base staffing levels in place immediately prior to the commencement of this Agreement.
 - **(b)** Where there is a dispute regarding whether Schedule 10 reflects the base staffing levels in place immediately prior to the commencement of the Agreement, the dispute will be referred to the MHICC for resolution by consensus. If resolved, the outcome will be recorded in writing. If unresolved, either party may utilise the dispute resolution procedure to resolve the dispute. The effect of the outcome of any dispute will be to amend or confirm the staffing profile in Schedule 10.
