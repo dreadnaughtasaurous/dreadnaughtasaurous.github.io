@@ -20,10 +20,15 @@
 
   <!-- Modal overlay -->
   <Teleport to="body">
-    <Transition name="modal">
-      <div v-if="open" class="search-overlay" @click.self="close" role="dialog"
-           aria-modal="true" aria-label="Search wiki">
-        <div class="search-modal" ref="modalRef">
+    <Transition :name="isMobileSheet ? 'sheet' : 'modal'">
+      <div v-if="open" class="search-overlay" :class="{ 'search-overlay--sheet': isMobileSheet }"
+           @click.self="close" role="dialog" aria-modal="true" aria-label="Search wiki">
+        <div class="search-modal" ref="modalRef"
+             :class="{ 'search-modal--sheet': isMobileSheet }"
+             :style="isMobileSheet ? { maxHeight: (viewportHeight * 0.85) + 'px' } : {}">
+
+          <!-- Drag handle — visible on mobile sheet only; purely decorative affordance -->
+          <div class="sheet-handle" aria-hidden="true"></div>
 
           <!-- Search input row -->
           <div class="search-header">
@@ -1166,6 +1171,25 @@ const resultsContainerRef = ref(null)
 // Dismissed permanently via localStorage. Default true (hidden) until confirmed
 // not seen; actual check happens in onMounted so localStorage is available.
 const askAiIntroSeen = ref(true)
+
+// ─── Mobile bottom-sheet state ────────────────────────────────────────────────
+// isMobileSheet: true when viewport < 768px — drives the sheet CSS class and
+// the dynamic transition name ('sheet' vs 'modal').
+// viewportHeight: tracks window.visualViewport.height reactively so the sheet
+// shrinks correctly when the soft keyboard opens on iOS/Android.
+// NOTE: visualViewport is not available during SSR — guard with typeof window.
+const isMobileSheet  = ref(false)
+const viewportHeight = ref(0)
+
+function updateMobileSheet() {
+  if (typeof window === 'undefined') return
+  isMobileSheet.value  = window.innerWidth < 768
+  viewportHeight.value = window.visualViewport?.height ?? window.innerHeight
+}
+
+function onVisualViewportResize() {
+  viewportHeight.value = window.visualViewport?.height ?? window.innerHeight
+}
 
 // ─── Floating preview state ───────────────────────────────────────────────────
 const previewResult  = ref(null)
@@ -2446,6 +2470,11 @@ function onKeydown(e) {
   }
 }
 onMounted(() => {
+  updateMobileSheet()
+  window.addEventListener('resize', updateMobileSheet)
+  if (typeof window !== 'undefined' && window.visualViewport) {
+    window.visualViewport.addEventListener('resize', onVisualViewportResize)
+  }
   window.addEventListener('keydown', onKeydown)
   window.addEventListener('open-search', openFromExternal)
   // close-search: dispatched by GuidedTour.vue to close the modal without
@@ -2456,6 +2485,10 @@ onMounted(() => {
   window.addEventListener('eba-bookmarks-updated', loadBookmarks)
 })
 onUnmounted(() => {
+  window.removeEventListener('resize', updateMobileSheet)
+  if (typeof window !== 'undefined' && window.visualViewport) {
+    window.visualViewport.removeEventListener('resize', onVisualViewportResize)
+  }
   window.removeEventListener('keydown', onKeydown)
   window.removeEventListener('open-search', openFromExternal)
   window.removeEventListener('close-search', close)
@@ -4518,11 +4551,65 @@ function autoResizeFollowUp() {
   animation: eba-flash 1.2s ease forwards;
 }
 
-/* ── Modal transition ── */
+/* ── Modal transition (desktop) ── */
 .modal-enter-active, .modal-leave-active { transition: opacity 0.18s ease; }
 .modal-enter-active .search-modal, .modal-leave-active .search-modal { transition: transform 0.18s ease, opacity 0.18s ease; }
 .modal-enter-from, .modal-leave-to { opacity: 0; }
 .modal-enter-from .search-modal, .modal-leave-to .search-modal { transform: translateY(-8px); opacity: 0; }
+
+/* ── Sheet transition (mobile) ── */
+.sheet-enter-active, .sheet-leave-active { transition: opacity 0.22s ease; }
+.sheet-enter-active .search-modal--sheet, .sheet-leave-active .search-modal--sheet { transition: transform 0.28s cubic-bezier(0.32, 0.72, 0, 1); }
+.sheet-enter-from, .sheet-leave-to { opacity: 0; }
+.sheet-enter-from .search-modal--sheet { transform: translateY(100%); }
+.sheet-leave-to .search-modal--sheet   { transform: translateY(100%); }
+
+/* ── Mobile bottom sheet layout ── */
+@media (max-width: 767px) {
+  .search-overlay--sheet {
+    align-items: flex-end;
+    padding-top: 0;
+  }
+
+  .search-modal--sheet {
+    width: 100%;
+    max-width: 100%;
+    /* maxHeight bound reactively via :style; 85dvh is the CSS fallback
+       for the initial render frame before viewportHeight is read. */
+    max-height: 85dvh;
+    border-radius: 16px 16px 0 0;
+    border-bottom: none;
+    box-shadow: 0 -4px 32px rgba(0, 0, 0, 0.22);
+    /* Safe area inset for iOS home indicator */
+    padding-bottom: env(safe-area-inset-bottom);
+    /* Prevent scroll chaining to the page behind the sheet */
+    overscroll-behavior: contain;
+  }
+
+  /* Drag handle pill */
+  .sheet-handle {
+    flex-shrink: 0;
+    width: 40px;
+    height: 4px;
+    background: var(--vp-c-divider);
+    border-radius: 999px;
+    margin: 10px auto 6px;
+  }
+
+  /* Hide Esc close button text on mobile — replaced by a close button feel via the handle */
+  .close-btn {
+    display: none;
+  }
+
+  /* Ensure search body scrolls correctly with momentum on iOS */
+  .search-body {
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+
+  /* Prevent preview pane from appearing (belt-and-suspenders; JS already guards this) */
+  .preview-pane { display: none !important; }
+}
 
 /* ── Operator pills row ── */
 .operator-pills-row {
