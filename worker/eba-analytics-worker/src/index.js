@@ -480,6 +480,57 @@ async function handleGetTopPages(request, env, origin) {
   }
 }
 
+// -----------------------------------------------------------------------------
+// GET /trending-topics — public, no auth required
+// Returns the top 3 most-used topic filter values from the past 7 days.
+// Reads from EBA_ANALYTICS (search events), counts by the `topic` field,
+// and returns: Array<{ topic: string, count: number }>
+// Only entries where topic is a non-empty string are counted.
+// Entries older than 7 days (by ISO timestamp) are excluded.
+// Response: Cache-Control: public, max-age=3600 — 1 hour edge cache.
+// "Trending this week" doesn't need sub-minute freshness.
+// -----------------------------------------------------------------------------
+async function handleGetTrendingTopics(request, env, origin) {
+  try {
+    const list = await env.EBA_ANALYTICS.list({ prefix: 'search:' })
+
+    const entries = await Promise.all(
+      list.keys.map(k => env.EBA_ANALYTICS.get(k.name, 'json'))
+    )
+
+    // 7-day window — UTC midnight 7 days ago
+    const cutoff = new Date()
+    cutoff.setUTCDate(cutoff.getUTCDate() - 7)
+    const cutoffISO = cutoff.toISOString()
+
+    const topicMap = {}
+    for (const entry of entries) {
+      if (!entry || !entry.topic) continue
+      if (entry.tab === 'search_error') continue        // exclude error sentinels
+      if (entry.timestamp && entry.timestamp < cutoffISO) continue  // outside 7-day window
+      const t = entry.topic.trim()
+      if (!t) continue
+      topicMap[t] = (topicMap[t] || 0) + 1
+    }
+
+    const top3 = Object.entries(topicMap)
+      .map(([topic, count]) => ({ topic, count }))
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 3)
+
+    return new Response(JSON.stringify(top3), {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'public, max-age=3600',
+        ...corsHeaders(origin),
+      },
+    })
+  } catch (err) {
+    return jsonResponse({ error: err.message }, 500, origin)
+  }
+}
+
 // =============================================================================
 // MAIN FETCH HANDLER
 // =============================================================================
@@ -506,6 +557,9 @@ export default {
     }
     if (method === 'GET' && url.pathname === '/top-pages') {
       return handleGetTopPages(request, env, origin)
+    }
+    if (method === 'GET' && url.pathname === '/trending-topics') {
+      return handleGetTrendingTopics(request, env, origin)
     }
     if (method === 'GET' && url.pathname === '/analytics') {
       return handleGetAnalytics(request, env, origin)
