@@ -458,6 +458,32 @@
                 </div>
                 <!-- error and empty-data cases: section simply absent — no user-facing message -->
 
+                <!-- Trending topics — rendered only when worker returned ≥1 result -->
+                <div v-if="trendingShortcuts.length > 0" class="qa-section">
+                  <div class="qa-section-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+                    Trending this week
+                  </div>
+                  <div class="qa-chips">
+                    <button
+                      v-for="shortcut in trendingShortcuts"
+                      :key="'trending-' + shortcut.topic"
+                      class="qa-chip qa-chip-trending"
+                      @click="fireShortcut(shortcut)"
+                    >{{ shortcut.label }}</button>
+                  </div>
+                </div>
+                <!-- Loading skeleton — two ghost chips while fetch is in flight -->
+                <div v-else-if="trendingLoading" class="qa-section">
+                  <div class="qa-section-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+                    Trending this week
+                  </div>
+                  <div class="qa-chips">
+                    <div v-for="n in 2" :key="n" class="qa-chip qa-chip--skeleton"></div>
+                  </div>
+                </div>
+
                 <!-- Quick access shortcuts -->
                 <div class="qa-section">
                   <div class="qa-section-header">
@@ -1235,6 +1261,17 @@ const mostViewedError       = ref(false)
 const MOST_VIEWED_CACHE_KEY = 'eba-most-viewed-cache'
 const MOST_VIEWED_TTL_MS    = 5 * 60 * 1000  // 5 minutes — matches worker Cache-Control
 
+// ─── Trending Topics (analytics worker — past 7 days, cached 1 hour) ──────────
+// Fetched from GET /trending-topics on first openModal() each session.
+// Shape: Array<{ topic: string, count: number }>
+// Maps topic slug → quickAccessShortcuts entry so the chip fires fireShortcut().
+// Degrades silently — section simply doesn't render if worker is unreachable
+// or returns an empty array (e.g. no topic-filter searches in the past 7 days).
+const trendingTopics      = ref([])
+const trendingLoading     = ref(false)
+const TRENDING_CACHE_KEY  = 'eba-trending-topics-cache'
+const TRENDING_TTL_MS     = 60 * 60 * 1000  // 1 hour — matches worker Cache-Control
+
 function loadBookmarks() {
   try {
     const raw = localStorage.getItem(LOCAL_BOOKMARKS_KEY)
@@ -1285,6 +1322,40 @@ async function fetchMostViewed() {
     mostViewedError.value = true
   } finally {
     mostViewedLoading.value = false
+  }
+}
+
+// ─── Trending Topics fetch ────────────────────────────────────────────────────
+// Mirrors fetchMostViewed exactly. sessionStorage cache prevents re-fetching
+// within the 1-hour TTL window — aligns with the worker's Cache-Control header.
+async function fetchTrendingTopics() {
+  try {
+    const cached = sessionStorage.getItem(TRENDING_CACHE_KEY)
+    if (cached) {
+      const { data, ts } = JSON.parse(cached)
+      if (Date.now() - ts < TRENDING_TTL_MS && Array.isArray(data)) {
+        trendingTopics.value = data
+        return
+      }
+    }
+  } catch { /* corrupt cache — fall through to fresh fetch */ }
+
+  trendingLoading.value = true
+  try {
+    const res = await fetch(ANALYTICS_WORKER_URL + '/trending-topics')
+    if (!res.ok) throw new Error(`Worker ${res.status}`)
+    const data = await res.json()
+    if (Array.isArray(data)) {
+      trendingTopics.value = data
+      try {
+        sessionStorage.setItem(TRENDING_CACHE_KEY, JSON.stringify({ data, ts: Date.now() }))
+      } catch { /* quota exceeded — skip cache */ }
+    }
+  } catch {
+    // Worker unreachable — degrade silently, section hidden
+    trendingTopics.value = []
+  } finally {
+    trendingLoading.value = false
   }
 }
 
@@ -1351,6 +1422,36 @@ const quickAccessShortcuts = [
   { icon: '💰', label: 'Allowances',                topic: 'allowances',  query: '' },
   { icon: '📋', label: 'Termination & Redundancy',  topic: 'termination', query: '' },
 ]
+
+// ─── Trending topics display map + computed ───────────────────────────────────
+// TOPIC_DISPLAY provides curated labels for the 13 core taxonomy slugs.
+// The ?? fallback in trendingShortcuts auto-formats any slug outside this map
+// (kebab-case → Title Case) so future topics surface without a code change.
+const TOPIC_DISPLAY = {
+  'allowances':               'Allowances',
+  'classification':           'Classification',
+  'consultation':             'Consultation',
+  'dispute-resolution':       'Dispute Resolution',
+  'employment-types':         'Employment Types',
+  'hours-of-work':            'Hours of Work',
+  'leave':                    'Leave Entitlements',
+  'overtime':                 'Overtime',
+  'penalty-rates':            'Penalty Rates',
+  'professional-development': 'Professional Development',
+  'termination':              'Termination & Redundancy',
+  'wages':                    'Wage Rates',
+  'workload':                 'Workload',
+}
+
+const trendingShortcuts = computed(() => {
+  return trendingTopics.value
+    .filter(t => t.topic)
+    .slice(0, 3)
+    .map(t => ({
+      topic: t.topic,
+      label: TOPIC_DISPLAY[t.topic] ?? t.topic.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+    }))
+})
 
 // ─── Smart suggestions: three-dictionary scoring engine ───────────────────────
 // Runs when results === 0 OR (results <= 2 AND query >= 4 chars).
@@ -2314,6 +2415,7 @@ function openFromExternal(e) {
     activeTab.value = 'ask'
     open.value      = true
     fetchMostViewed()
+    fetchTrendingTopics()
     if (detail.query) {
       pendingContentHash = detail.contentHash ?? null
       _externalAskQuery  = detail.query
@@ -2329,6 +2431,7 @@ function openFromExternal(e) {
   selectedTopic.value = topic
   open.value = true
   fetchMostViewed()
+  fetchTrendingTopics()
   if (eba || topic) {
     nextTick(() => doSearch())
   } else {
@@ -2348,7 +2451,7 @@ function openModal() {
   // Defer fetchMostViewed() by 50ms so the modal DOM paints its first frame
   // before the analytics worker request competes for network bandwidth.
   // The Most Viewed panel is below the fold on open so the delay is imperceptible.
-  setTimeout(() => fetchMostViewed(), 50)
+  setTimeout(() => { fetchMostViewed(); fetchTrendingTopics() }, 50)
   nextTick(() => {
     loadPersistedState()
     inputRef.value?.focus()
@@ -3669,7 +3772,7 @@ function autoResizeFollowUp() {
 
 /* ── Recent search chips (pill style — unchanged) ── */
 .qa-chip {
-  padding: 0.25rem 0.65rem; border-radius: 999px;
+  padding: 0.25rem 0.65rem; border-radius: 6px;
   border: 1px solid var(--vp-c-divider); background: var(--vp-c-bg-soft);
   font-size: 0.78rem; color: var(--vp-c-text-2); cursor: pointer;
   transition: border-color 0.15s, color 0.15s;
@@ -3718,6 +3821,30 @@ function autoResizeFollowUp() {
 .qa-shortcut-label { flex: 1; font-size: 0.875rem; font-weight: 500; color: var(--vp-c-text-1); }
 .qa-shortcut-arrow { flex-shrink: 0; color: var(--vp-c-text-3); transition: transform 0.15s; }
 .qa-shortcut:hover .qa-shortcut-arrow { transform: translateX(3px); color: var(--vp-c-brand); }
+
+/* Trending topic chips — reuse qa-chip base, add a brand accent */
+.qa-chip-trending {
+  border-color: var(--vp-c-brand-2, #a855f7);
+  color: var(--vp-c-brand-1);
+}
+.qa-chip-trending:hover {
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+}
+
+/* Skeleton chip for trending loading state */
+.qa-chip--skeleton {
+  width: 96px;
+  pointer-events: none;
+  background: var(--vp-c-bg-elv);
+  border-color: transparent;
+  animation: qa-shimmer 1.4s ease-in-out infinite;
+}
+@keyframes qa-shimmer {
+  0%, 100% { opacity: 0.35; }
+  50%       { opacity: 0.75; }
+}
+
 .search-hint-small { font-size: 0.75rem; color: var(--vp-c-text-3); text-align: center; margin-top: 0.5rem; }
 
 /* ── Most Viewed Clauses ── */
@@ -4024,7 +4151,7 @@ function autoResizeFollowUp() {
 .result-top { display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.25rem; }
 .result-title { font-weight: 600; color: var(--vp-c-brand); font-size: 0.925rem; }
 .result-eba {
-  font-size: 0.7rem; padding: 0.1rem 0.55rem; border-radius: 999px;
+  font-size: 0.7rem; padding: 0.1rem 0.55rem; border-radius: 6px;
   border: 1px solid transparent; white-space: nowrap; font-weight: 500;
 }
 .result-breadcrumb {
@@ -4052,7 +4179,7 @@ function autoResizeFollowUp() {
 .result-topics { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-top: 0.4rem; }
 .result-tag {
   font-size: 0.7rem; background: var(--vp-c-bg-muted);
-  color: var(--vp-c-text-3); padding: 0.1rem 0.4rem; border-radius: 999px;
+  color: var(--vp-c-text-3); padding: 0.1rem 0.4rem; border-radius: 6px;
 }
 
 /* ── Floating preview pane ── */
@@ -4625,7 +4752,7 @@ function autoResizeFollowUp() {
 .op-pill {
   display: inline-flex; align-items: center; gap: 0.3rem;
   padding: 0.2rem 0.35rem 0.2rem 0.5rem;
-  border-radius: 999px; border: 1px solid;
+  border-radius: 6px; border: 1px solid;
   font-size: 0.72rem; font-weight: 600; font-family: var(--vp-font-family-mono, ui-monospace, monospace);
   white-space: nowrap;
 }
