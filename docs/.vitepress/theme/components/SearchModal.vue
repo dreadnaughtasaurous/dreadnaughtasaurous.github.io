@@ -40,7 +40,7 @@
               type="search"
               :placeholder="activeTab === 'search' ? 'Search all clauses...' : 'Ask a question about your EBA...'"
               class="search-input"
-              @input="activeTab === 'search' ? debouncedSearch() : null"
+              @input="activeTab === 'search' ? (warmupSearch(), debouncedSearch()) : null"
               @keydown.enter="activeTab === 'ask' ? submitAsk() : (operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : null)"
               @keydown.down.prevent="operatorHint ? (hintIndex = Math.min(hintIndex + 1, operatorHint.items.length - 1)) : focusResult(0)"
               @keydown.up.prevent="operatorHint ? (hintIndex = Math.max(hintIndex - 1, -1)) : null"
@@ -2819,6 +2819,16 @@ function clearAllOperators() {
 }
 
 // ─── Search ───────────────────────────────────────────────────────────────────
+// Pre-warms Pagefind's internal chunk cache on the first keystroke, before the
+// debounce window expires. Uses only the first 3 characters so the fetch is fast
+// and targets the same chunks doSearch() will need. Fire-and-forget — no state
+// changes, no error handling required.
+function warmupSearch() {
+  const fragment = query.value.trim()
+  if (!pagefind || fragment.length < 2) return
+  pagefind.search(fragment.slice(0, 3)).catch(() => {})
+}
+
 function debouncedSearch() {
   clearTimeout(searchTimer)
   // Adaptive debounce: shorter delay for longer queries where Pagefind
@@ -2870,7 +2880,7 @@ async function doSearch() {
     // Stubs are available instantly; .data() calls happen below.
     // Setting skeletonCount here and clearing loading lets Vue render the
     // shimmer grid before the slower per-card data fetches complete.
-    const stubSlice = search.results.slice(0, 25)
+    const stubSlice = search.results.slice(0, 12)
     skeletonCount.value = stubSlice.length
     loading.value       = false
 
@@ -2904,7 +2914,10 @@ async function doSearch() {
       }
     }
 
-    const allResults = await Promise.all(stubSlice.map(r => r.data()))
+    const settled    = await Promise.allSettled(stubSlice.map(r => r.data()))
+    const allResults = settled
+      .filter(s => s.status === 'fulfilled')
+      .map(s => s.value)
 
     // ── Filter-only sort (unchanged from original) ─────────────────────────
     const isFilterOnly = !cleanQuery.trim() && !operators.clause && (activeTopic || activeEba)
@@ -2981,7 +2994,8 @@ async function runFuzzyFallback(originalQuery, filters) {
     try {
       const search = await pagefind.search(candidate, { filters })
       if (search.results.length > 0) {
-        const data = await Promise.all(search.results.slice(0, 8).map(r => r.data()))
+        const settled = await Promise.allSettled(search.results.slice(0, 8).map(r => r.data()))
+        const data    = settled.filter(s => s.status === 'fulfilled').map(s => s.value)
         fuzzyResults.value = data
         fuzzyQuery.value   = candidate
         break
