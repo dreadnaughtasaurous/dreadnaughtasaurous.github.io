@@ -110,6 +110,10 @@ const PRELIMINARY_PATTERNS = [
   /agreement.title/,
   /\bindex\b/,
   /not.used/,
+  // transition-to-retirement clauses reference LSL heavily in body text but
+  // are never the primary answer when an advisor searches for an entitlement.
+  // Weight 3 prevents them outranking primary leave clauses via TF-IDF.
+  /transition.to.retirement/,
 ]
 
 // Section-index slugs — no leading digit, not preliminary.
@@ -136,6 +140,161 @@ const SECTION_INDEX_PATTERNS = [
   /^support.services$/,
   /^schedules$/,
 ]
+
+// ── GLOBAL SLUG SYNONYM MAP ───────────────────────────────────────────────────
+// Keys: exact slug strings (filename without .md extension).
+// Values: space-separated plain-language phrases an HR advisor would type.
+//
+// Rules:
+//   1. Each phrase appears on ONE slug only — no phrase in two entries.
+//   2. Only phrases absent from formal EBA body text are included.
+//      Words already in clause titles/body text are excluded — Pagefind
+//      finds those via content indexing without needing a synonym.
+//   3. Generic single words are never added.
+//   4. Every slug verified against the actual file tree.
+
+const SLUG_SYNONYMS = {
+
+  // ── PERSONAL / SICK LEAVE ────────────────────────────────────────────────────
+  // "sick leave" and "sick day" do not appear in any EBA text.
+  '62-personal-leave-including-carer-s-leave':      'sick leave sick day carer leave',
+  '54-personal-carer-s-leave':                      'sick leave sick day carer leave',
+  '61-personal-sick-carer-s-leave':                 'sick leave sick day carer leave',
+  '55-personal-leave':                              'sick leave sick day carer leave',
+  '64-personal-carer-s-leave':                      'sick leave sick day carer leave',
+  '49-personal-carer-s-leave':                      'sick leave sick day carer leave',
+  '38A-personal-leave':                             'sick leave sick day carer leave',
+  '25-personal-carer-s-leave-and-compassionate-leave': 'sick leave sick day carer leave',
+  '61-personal-leave':                              'sick leave sick day carer leave',
+
+  // ── LONG SERVICE LEAVE (LSL) ──────────────────────────────────────────────────
+  // "LSL" appears in EBA body text but the synonym ensures the PRIMARY clause
+  // page carries it as a searchable term with full weight, not just incidentally.
+  // medical-specialists confirmed present: 55-long-service-leave.
+  '72-long-service-leave': 'LSL long service entitlement',
+  '63-long-service-leave': 'LSL long service entitlement',
+  '68-long-service-leave': 'LSL long service entitlement',
+  '61-long-service-leave': 'LSL long service entitlement',
+  '67-long-service-leave': 'LSL long service entitlement',
+  '55-long-service-leave': 'LSL long service entitlement',
+  '47-long-service-leave': 'LSL long service entitlement',
+  '70-long-service-leave': 'LSL long service entitlement',
+
+  // ── PARENTAL LEAVE ────────────────────────────────────────────────────────────
+  // "maternity leave" and "paternity leave" are obsolete terms still searched.
+  '70-parental-leave':   'maternity leave paternity leave adoption leave',
+  '61-parental-leave':   'maternity leave paternity leave adoption leave',
+  '67-parental-leave':   'maternity leave paternity leave adoption leave',
+  '59-parental-leave':   'maternity leave paternity leave adoption leave',
+  '70-parental-leave':   'maternity leave paternity leave adoption leave',
+  '54-parental-leave':   'maternity leave paternity leave adoption leave',
+  '50-parental-leave':   'maternity leave paternity leave adoption leave',
+  '25A-parental-leave-and-related-entitlements': 'maternity leave paternity leave adoption leave',
+  '68-parental-leave':   'maternity leave paternity leave adoption leave',
+
+  // ── FAMILY VIOLENCE LEAVE ─────────────────────────────────────────────────────
+  // EBAs use "family violence leave"; advisors search "domestic violence leave".
+  '66-family-violence-leave':               'domestic violence leave DV leave',
+  '56-family-violence-leave':               'domestic violence leave DV leave',
+  '71-family-violence-leave':               'domestic violence leave DV leave',
+  '67-family-violence-leave':               'domestic violence leave DV leave',
+  '82-family-violence-leave':               'domestic violence leave DV leave',
+  '60-family-violence-leave':               'domestic violence leave DV leave',
+  '45-family-and-domestic-violence-leave':  'domestic violence leave DV leave',
+  '28-family-and-domestic-violence-leave':  'domestic violence leave DV leave',
+  '64-family-and-domestic-violence-leave':  'domestic violence leave DV leave',
+
+  // ── REDUNDANCY ────────────────────────────────────────────────────────────────
+  // "retrenchment" and "severance" do not appear in EBA text.
+  '25-redundancy-and-related-entitlements':    'retrenchment severance',
+  '24-redundancy-and-associated-entitlements': 'retrenchment severance',
+  '11-redundancy-and-associated-entitlements': 'retrenchment severance',
+  '26-redundancy-and-associated-entitlements': 'retrenchment severance',
+  '32-redundancy-and-associated-entitlements': 'retrenchment severance',
+  '10-redundancy-and-associated-entitlements': 'retrenchment severance',
+  '20-redundancy-and-associated-entitlements': 'retrenchment severance',
+  '12-redundancy':                             'retrenchment severance',
+  '12-redundancy-and-associated-entitlements': 'retrenchment severance',
+
+  // ── TERMINATION ───────────────────────────────────────────────────────────────
+  // "fired" and "sacked" do not appear in EBA text.
+  '24-termination-of-employment':                        'fired sacked notice period',
+  '23-termination-of-employment':                        'fired sacked notice period',
+  '29-termination-of-employment':                        'fired sacked notice period',
+  '5-notice-of-termination-employer':                    'fired sacked notice period',
+  '3-notice-of-termination-employer':                    'fired sacked notice period',
+  '31-notice-of-termination':                            'fired sacked notice period',
+  '23-termination-of-employment-notice-of-termination':  'fired sacked notice period',
+  '28-termination-of-employment':                        'fired sacked notice period',
+  '11-termination-of-employment':                        'fired sacked notice period',
+  '23-notice-period-before-termination':                 'fired sacked notice period',
+
+  // ── ACCRUED DAYS OFF / TOIL ───────────────────────────────────────────────────
+  // "TOIL" and "ADO" are HR abbreviations absent from EBA text.
+  '48-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
+  '41-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
+  '47-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
+  '123-ados':             'TOIL ADO time off in lieu accrued day off',
+  '197-accrued-days-off': 'TOIL ADO time off in lieu accrued day off',
+  '97-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
+  '162-accrued-days-off': 'TOIL ADO time off in lieu accrued day off',
+  '43-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
+
+  // ── ON-CALL / RECALL ──────────────────────────────────────────────────────────
+  // "on call" and "standby" are plain-language terms absent from EBA titles.
+  '53-recall-return-to-workplace':  'on call on-call standby callout',
+  '47-recall':                      'on call on-call standby callout',
+  '39-recall-return-to-workplace':  'on call on-call standby callout',
+  '44-on-call-recall':              'on call on-call standby callout',
+  '60-on-call-re-call':             'on call on-call standby callout',
+  '26-on-call-full-time-doctors':   'on call on-call standby callout',
+  '91-oncall-recall-non-catt':      'on call on-call standby callout',
+  '168-on-call-recall':             'on call on-call standby callout',
+  '202-on-call-recall':             'on call on-call standby callout',
+  '50-recall-return-to-workplace':  'on call on-call standby callout',
+
+  // ── SHIFT ALLOWANCES ──────────────────────────────────────────────────────────
+  // "night shift loading" and "shift penalty" absent from EBA allowance titles.
+  '38-shift-work-allowance':   'night shift loading afternoon penalty shift penalty',
+  '34-shift-allowances':       'night shift loading afternoon penalty shift penalty',
+  '45-shiftwork':              'night shift loading afternoon penalty shift penalty',
+  '119-shift-work-allowance':  'night shift loading afternoon penalty shift penalty',
+  '84-shift-allowances':       'night shift loading afternoon penalty shift penalty',
+  '157-shift-work-allowances': 'night shift loading afternoon penalty shift penalty',
+  '194-shift-work-allowances': 'night shift loading afternoon penalty shift penalty',
+  '34-shift-allowance':        'night shift loading afternoon penalty shift penalty',
+
+  // ── WAGE INCREASES ────────────────────────────────────────────────────────────
+  // "pay rise" and "pay increase" absent from EBA formal language.
+  '28-wages-and-wage-increases':                'pay rise pay increase',
+  '26-wages-and-allowances':                    'pay rise pay increase',
+  '42-remuneration-and-remuneration-increases': 'pay rise pay increase',
+  '28-salary-and-allowances-increases':         'pay rise pay increase',
+  '51-salaries-and-allowances':                 'pay rise pay increase',
+  '31-remuneration-and-remuneration-increases': 'pay rise pay increase',
+  '25-salary':                                  'pay rise pay increase',
+
+}
+
+// ── BODY-IGNORE SLUGS ─────────────────────────────────────────────────────────
+// Pages whose body text contains high-frequency incidental matches for terms
+// that belong to a different primary clause. Adding data-pagefind-ignore to
+// their vp-doc div removes body text from Pagefind's TF-IDF scoring entirely.
+// The page title is still indexed (from <title> outside vp-doc) so these pages
+// remain findable when searched by their own name.
+//
+// transition-to-retirement: contains "LSL" 8-12 times as EBA drafting language
+// for preserved LSL calculations — not because the page is about LSL.
+const BODY_IGNORE_SLUGS = new Set([
+  '27-transition-to-retirement',   // allied-health
+  '25-transition-to-retirement',   // biomedical-engineers
+  '32-transition-to-retirement',   // doctors-in-training
+  '27-transition-to-retirement',   // has-managers-admin (same slug, Set deduplicates)
+  '22-transition-to-retirement',   // medical-specialists
+  '27A-transition-to-retirement',  // mental-health
+  '20-transition-to-retirement',   // mspp
+  '24-transition-to-retirement',   // nurses-midwives
+])
 
 function computeWeight(slug, topics) {
   const slugNorm = slug.toLowerCase()
@@ -226,9 +385,16 @@ for (const file of htmlFiles) {
     .pop() || ''
 
   // ── RESOLVE synonyms text ────────────────────────────────────────────────────
-  const synonymsText = (fm.synonyms && fm.synonyms.trim().length > 0)
+  // Priority: frontmatter synonyms > extracted body synonyms > global slug map.
+  // Global slug synonyms are MERGED with frontmatter/extracted synonyms so that
+  // per-page synonyms and global synonyms both apply.
+  const fmOrExtracted = (fm.synonyms && fm.synonyms.trim().length > 0)
     ? fm.synonyms.trim()
     : extractedSynonyms
+  const globalSynonyms = SLUG_SYNONYMS[slug] || ''
+  const synonymsText = [fmOrExtracted, globalSynonyms]
+    .filter(s => s.trim().length > 0)
+    .join(' ')
 
   // ── FILTER SPANS ─────────────────────────────────────────────────────────────
   let filterSpans = ''
@@ -256,9 +422,15 @@ for (const file of htmlFiles) {
   }
 
   if (html.includes('class="vp-doc ')) {
+    // Body-ignore slugs get data-pagefind-ignore instead of data-pagefind-body.
+    // This removes their body text from TF-IDF scoring while keeping their
+    // page title indexed via the <title> tag outside vp-doc.
+    const pagefindBodyAttr = BODY_IGNORE_SLUGS.has(slug)
+      ? 'data-pagefind-ignore'
+      : 'data-pagefind-body'
     html = html.replace(
       /class="vp-doc ([^"]*)"/,
-      `class="vp-doc $1" data-pagefind-body`
+      `class="vp-doc $1" ${pagefindBodyAttr}`
     )
 
     const topMarkup = `${filterSpans}${weightDiv}`
