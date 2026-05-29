@@ -618,6 +618,72 @@
               </div>
               <template v-else>
 
+                <!-- ── Page context banner ────────────────────────────────────
+                     Shown only on clause pages (≥5 path segments under /ebas/),
+                     before any conversation has started. Offers to seed the
+                     first worker request with the current page's sourcePath.
+                     Dismissal is per-open (Option A): resets in close().
+                ──────────────────────────────────────────────────────────── -->
+                <div
+                  v-if="showPageContextBanner"
+                  class="page-ctx-banner"
+                  :style="{ borderLeftColor: ebaColors[currentPageEba]?.color ?? 'var(--vp-c-brand)' }"
+                  role="note"
+                  aria-label="Page context available"
+                >
+                  <svg class="page-ctx-icon" width="14" height="14" viewBox="0 0 24 24" fill="none"
+                       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                       aria-hidden="true">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                    <polyline points="14 2 14 8 20 8"/>
+                    <line x1="16" y1="13" x2="8" y2="13"/>
+                    <line x1="16" y1="17" x2="8" y2="17"/>
+                    <polyline points="10 9 9 9 8 9"/>
+                  </svg>
+                  <div class="page-ctx-banner-body">
+                    <span class="page-ctx-banner-label">
+                      <strong>{{ currentPageClauseLabel }}</strong>
+                      <span
+                        v-if="currentPageEba"
+                        class="page-ctx-banner-eba"
+                        :style="ebaStyle(currentPageEba)"
+                      >{{ currentPageEbaShort }}</span>
+                    </span>
+                    <span class="page-ctx-banner-sub">Include this page as context for your question?</span>
+                  </div>
+                  <div class="page-ctx-banner-actions">
+                    <button class="page-ctx-use-btn" @click="acceptPageContext">Use this page</button>
+                    <button
+                      class="page-ctx-skip-btn"
+                      @click="pageContextBannerDismissed = true"
+                      aria-label="Ask generally without this page's context"
+                    >Not now</button>
+                  </div>
+                </div>
+
+                <!-- ── Context active indicator ───────────────────────────────
+                     Shown after the user accepts the banner, before the first
+                     submit. Confirms context is active and allows removal.
+                     Disappears once aiLoading fires (conversation starts).
+                ──────────────────────────────────────────────────────────── -->
+                <div
+                  v-else-if="pageContextAccepted && conversationHistory.length === 0 && !aiLoading"
+                  class="page-ctx-active"
+                >
+                  <svg class="page-ctx-active-icon" width="12" height="12" viewBox="0 0 24 24" fill="none"
+                       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                       aria-hidden="true">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                    <polyline points="14 2 14 8 20 8"/>
+                  </svg>
+                  <span>Using context from <strong>{{ currentPageClauseLabel }}</strong></span>
+                  <button
+                    class="page-ctx-clear-btn"
+                    @click="clearPageContext"
+                    aria-label="Remove page context"
+                  >×</button>
+                </div>
+
                 <!-- ── Ask mode selector (hidden once a conversation starts) ── -->
                 <div
                   v-if="conversationHistory.length === 0 && !aiLoading"
@@ -1190,6 +1256,7 @@
 
 <script setup>
 import { ref, computed, watch, onMounted, onUnmounted, nextTick } from 'vue'
+import { useData, useRoute } from 'vitepress'
 import { topicList } from '../../generated/topic-list.mjs'
 
 // ─── AI Worker URL ────────────────────────────────────────────────────────────
@@ -1432,10 +1499,75 @@ const lastUserDisplay = ref('')
 // Tracks whether the last assistant answer was produced in draft mode
 const lastAnswerWasDraft = ref(false)
 
+// ─── Page context banner state ────────────────────────────────────────────────
+// pageContextBannerDismissed: true when user clicks "Not now" or clears context.
+//   Hides the banner for this modal open only. Reset to false in close().
+// pageContextAccepted: true when user clicks "Use this page". Shows the
+//   "context active" indicator and seeds pendingSourcePath + EBA dropdowns.
+// pageContextBannerSuppressed: true when openFromExternal fires with a pre-built
+//   query (AskThisPage path). Prevents a stray single-frame flash of the banner
+//   before aiLoading becomes true and hides the pre-conversation forms.
+const pageContextBannerDismissed  = ref(false)
+const pageContextAccepted         = ref(false)
+const pageContextBannerSuppressed = ref(false)
+
 // ─── Computed: always hide shared search-header input on the Ask AI tab ───────
 // All three modes now use their own form inputs instead of the navbar text box.
 const hideSharedInput = computed(() =>
   activeTab.value === 'ask'
+)
+
+// ─── Current page metadata (for page context banner) ──────────────────────────
+// useData() and useRoute() are VitePress composables — called at the top level
+// of <script setup> so they are reactive and update correctly on SPA navigation.
+const { page } = useData()
+const route    = useRoute()
+
+// A clause page has ≥5 path segments after the leading slash:
+//   /ebas/<eba>/<section>/<clause>             → length 5 (standard)
+//   /ebas/<eba>/<stream>/<section>/<clause>    → length 6 (nested EBAs)
+// Index pages (length 3–4) and non-EBA pages do not qualify.
+const currentPageIsClause = computed(() => {
+  const parts = (route.path || '').replace(/\/$/, '').replace(/\.html$/, '').split('/')
+  return parts.length >= 5 && parts[1] === 'ebas'
+})
+
+// "Clause 35" derived from the title frontmatter ("35. Travelling and Reimbursement")
+const currentPageClauseLabel = computed(() => {
+  const title = page.value?.frontmatter?.title ?? ''
+  const match = title.match(/^(\d+[A-Za-z]?)[\.\s]/)
+  return match ? `Clause ${match[1]}` : (title || 'this clause')
+})
+
+const currentPageEba = computed(() => page.value?.frontmatter?.eba ?? '')
+
+// Short display label for the EBA colour pill inside the compact banner row.
+// Full EBA names are too long for the one-liner; these readable abbreviations
+// match the keys in ebaColors exactly so the pill gets the right colour.
+const EBA_SHORT_NAMES = {
+  'Allied Health Professionals 2021-2026':       'Allied Health',
+  'Biomedical Engineers 2025-2028':              'Biomedical Eng.',
+  "Children's Services Award 2010":              "Children's Services",
+  'Doctors in Training 2022-2026':               'Doctors in Training',
+  'Health Allied & Managers Admin 2021-2025':    'HAS Managers & Admin',
+  'Medical Specialists 2022-2026':               'Medical Specialists',
+  'Mental Health Services 2024-2028':            'Mental Health',
+  'Medical Scientists, Pharm & Psych 2021-2025': 'Medical Scientists',
+  'Nurses and Midwives 2024-2028':               'Nurses & Midwives',
+}
+const currentPageEbaShort = computed(() =>
+  EBA_SHORT_NAMES[currentPageEba.value] ?? currentPageEba.value
+)
+
+// Banner shows when: Ask AI tab is active, user is on a clause page, no
+// conversation has started yet, and it has not been dismissed or suppressed.
+const showPageContextBanner = computed(() =>
+  activeTab.value === 'ask' &&
+  currentPageIsClause.value &&
+  conversationHistory.value.length === 0 &&
+  !aiLoading.value &&
+  !pageContextBannerDismissed.value &&
+  !pageContextBannerSuppressed.value
 )
 
 let searchTimer           = null
@@ -2453,6 +2585,7 @@ function openFromExternal(e) {
       pendingContentHash = detail.contentHash ?? null
       pendingSourcePath  = detail.sourcePath  ?? null   // ← new
       _externalAskQuery  = detail.query
+      pageContextBannerSuppressed.value = true   // prevents stray banner flash before aiLoading fires
       nextTick(() => submitAsk())
     } else {
       nextTick(() => inputRef.value?.focus())
@@ -2656,6 +2789,10 @@ function close() {
   draftContext.value        = ''
   lastAnswerWasDraft.value  = false
   followUpText.value        = ''
+  pageContextBannerDismissed.value  = false
+  pageContextAccepted.value         = false
+  pageContextBannerSuppressed.value = false
+  pendingSourcePath                 = null
 }
 
 function switchTab(tab) {
@@ -2682,6 +2819,10 @@ function switchTab(tab) {
   draftContext.value        = ''
   lastAnswerWasDraft.value  = false
   followUpText.value        = ''
+  pageContextBannerDismissed.value  = false
+  pageContextAccepted.value         = false
+  pageContextBannerSuppressed.value = false
+  pendingSourcePath                 = null
   nextTick(() => inputRef.value?.focus())
 }
 
@@ -2730,6 +2871,32 @@ function setAskMode(mode) {
   draftEmpType.value     = ''
   draftQuestion.value    = ''
   draftContext.value     = ''
+}
+
+// ─── Page context banner handlers ─────────────────────────────────────────────
+// acceptPageContext: user clicked "Use this page".
+//   Seeds pendingSourcePath so submitAsk() sends it to the worker on the first
+//   turn. Also pre-fills EBA dropdowns for all three modes — only when they are
+//   currently empty so an explicit user selection is never overwritten.
+function acceptPageContext() {
+  pendingSourcePath = route.path.replace(/\/$/, '').replace(/\.html$/, '')
+  const eba = currentPageEba.value
+  if (eba) {
+    if (!questionEba.value)  questionEba.value  = eba
+    if (!situationEba.value) situationEba.value = eba
+    if (!draftEba.value)     draftEba.value     = eba
+  }
+  pageContextAccepted.value        = true
+  pageContextBannerDismissed.value = true   // collapses banner, shows active pill
+}
+
+// clearPageContext: user clicked × on the "context active" pill.
+//   Nulls pendingSourcePath and re-shows the banner so the user can reconsider.
+//   Does NOT clear EBA dropdowns — the user may have intentionally set them.
+function clearPageContext() {
+  pendingSourcePath                = null
+  pageContextAccepted.value        = false
+  pageContextBannerDismissed.value = false
 }
 
 // ─── Example prompt helpers ───────────────────────────────────────────────────
@@ -3416,6 +3583,7 @@ async function submitAsk() {
       body: JSON.stringify({
         question,
         contentHash: hashToSend,
+        sourcePath:  pendingSourcePath ?? undefined,
         history:     historyToSend.length > 0 ? historyToSend : undefined,
       }),
     })
@@ -3451,6 +3619,7 @@ async function submitAsk() {
 
   aiLoading.value    = false
   pendingContentHash = null
+  pendingSourcePath  = null
 }
 
 function resetConversation() {
@@ -3459,6 +3628,7 @@ function resetConversation() {
   aiSources.value           = []
   aiError.value             = ''
   pendingContentHash        = null
+  pendingSourcePath         = null
   askMode.value             = 'question'
   externalQuery.value       = ''
   questionText.value        = ''
@@ -3473,6 +3643,10 @@ function resetConversation() {
   draftContext.value        = ''
   lastAnswerWasDraft.value  = false
   followUpText.value        = ''
+  // pageContextBannerDismissed is intentionally NOT reset here.
+  // The user has already been offered context for this modal open — don't re-offer it.
+  pageContextAccepted.value         = false
+  pageContextBannerSuppressed.value = false
   nextTick(() => inputRef.value?.focus())
 }
 
@@ -5360,13 +5534,151 @@ function autoResizeFollowUp() {
 .ai-intro-got-it:hover  { background: var(--vp-c-brand-1); color: #fff; }
 .ai-intro-got-it:active { transform: scale(0.98); }
 
-/* ── Overlay transition ── */
-.ai-intro-overlay-enter-active { transition: opacity 0.25s ease; }
-.ai-intro-overlay-leave-active { transition: opacity 0.2s ease; }
-.ai-intro-overlay-enter-from,
-.ai-intro-overlay-leave-to     { opacity: 0; }
+/* ── Page context banner ─────────────────────────────────────────────────────
+   Compact one-liner shown at the top of the Ask AI tab when the user is on a
+   clause page. Subtle style: muted background, EBA-coloured left border accent,
+   small typography. Designed to be noticed but not intrusive.
+──────────────────────────────────────────────────────────────────────────── */
+.page-ctx-banner {
+  display:       flex;
+  align-items:   center;
+  gap:           0.55rem;
+  padding:       0.45rem 0.7rem;
+  margin:        0 0 0.6rem;
+  border:        1px solid var(--vp-c-divider);
+  border-left:   3px solid var(--vp-c-brand); /* overridden per-EBA via :style */
+  border-radius: 6px;
+  background:    var(--vp-c-bg-soft);
+  flex-shrink:   0;
+}
 
-/* Panel scales in slightly for polish */
-.ai-intro-overlay-enter-active .ai-intro-panel { transition: transform 0.25s cubic-bezier(0.34, 1.3, 0.64, 1); }
-.ai-intro-overlay-enter-from .ai-intro-panel   { transform: scale(0.95) translateY(10px); }
+.page-ctx-icon {
+  flex-shrink: 0;
+  color:       var(--vp-c-text-3);
+}
+
+.page-ctx-banner-body {
+  flex:           1;
+  display:        flex;
+  flex-direction: column;
+  gap:            0.1rem;
+  min-width:      0;
+}
+
+.page-ctx-banner-label {
+  display:     flex;
+  align-items: center;
+  gap:         0.35rem;
+  flex-wrap:   wrap;
+  font-size:   0.78rem;
+  color:       var(--vp-c-text-1);
+  line-height: 1.35;
+}
+
+.page-ctx-banner-eba {
+  display:       inline-flex;
+  align-items:   center;
+  padding:       0.05rem 0.4rem;
+  border-radius: 3px;
+  font-size:     0.68rem;
+  font-weight:   500;
+  border:        1px solid transparent;
+  white-space:   nowrap;
+  line-height:   1.5;
+}
+
+.page-ctx-banner-sub {
+  font-size: 0.71rem;
+  color:     var(--vp-c-text-3);
+  line-height: 1.3;
+}
+
+.page-ctx-banner-actions {
+  display:    flex;
+  gap:        0.35rem;
+  flex-shrink: 0;
+}
+
+.page-ctx-use-btn {
+  padding:       0.22rem 0.55rem;
+  border-radius: 5px;
+  font-size:     0.73rem;
+  font-weight:   500;
+  cursor:        pointer;
+  border:        1px solid var(--vp-c-brand);
+  background:    var(--vp-c-brand-soft);
+  color:         var(--vp-c-brand-1);
+  white-space:   nowrap;
+  transition:    filter 0.15s;
+  line-height:   1.4;
+}
+.page-ctx-use-btn:hover  { filter: brightness(1.1); }
+.page-ctx-use-btn:active { filter: brightness(0.95); }
+
+.page-ctx-skip-btn {
+  padding:       0.22rem 0.5rem;
+  border-radius: 5px;
+  font-size:     0.73rem;
+  cursor:        pointer;
+  border:        1px solid var(--vp-c-divider);
+  background:    transparent;
+  color:         var(--vp-c-text-3);
+  white-space:   nowrap;
+  transition:    color 0.15s, border-color 0.15s;
+  line-height:   1.4;
+}
+.page-ctx-skip-btn:hover {
+  color:        var(--vp-c-text-2);
+  border-color: var(--vp-c-text-3);
+}
+
+/* Mobile: stack banner vertically when viewport is very narrow */
+@media (max-width: 480px) {
+  .page-ctx-banner { flex-wrap: wrap; }
+  .page-ctx-banner-actions { width: 100%; justify-content: flex-end; }
+}
+
+/* ── Context active indicator ── */
+.page-ctx-active {
+  display:       flex;
+  align-items:   center;
+  gap:           0.45rem;
+  padding:       0.35rem 0.65rem;
+  margin:        0 0 0.6rem;
+  border:        1px solid var(--vp-c-divider);
+  border-left:   3px solid var(--vp-c-brand);
+  border-radius: 6px;
+  background:    var(--vp-c-brand-soft);
+  font-size:     0.75rem;
+  color:         var(--vp-c-text-2);
+  flex-shrink:   0;
+}
+
+.page-ctx-active-icon {
+  flex-shrink: 0;
+  color:       var(--vp-c-brand-1);
+}
+
+.page-ctx-active span {
+  flex: 1;
+  line-height: 1.35;
+}
+
+.page-ctx-clear-btn {
+  padding:       0.1rem 0.35rem;
+  border:        none;
+  background:    transparent;
+  color:         var(--vp-c-text-3);
+  cursor:        pointer;
+  font-size:     0.9rem;
+  border-radius: 3px;
+  line-height:   1;
+  flex-shrink:   0;
+  transition:    color 0.15s, background 0.15s;
+}
+.page-ctx-clear-btn:hover {
+  color:       var(--vp-c-text-1);
+  background:  var(--vp-c-bg-mute);
+}
+
 </style>
