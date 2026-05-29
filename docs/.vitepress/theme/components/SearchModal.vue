@@ -2588,7 +2588,7 @@ function openFromExternal(e) {
       pageContextBannerSuppressed.value = true   // prevents stray banner flash before aiLoading fires
       nextTick(() => submitAsk())
     } else {
-      nextTick(() => inputRef.value?.focus())
+      nextTick(() => { if (!isMobileSheet.value) inputRef.value?.focus() })
     }
     return
   }
@@ -2602,7 +2602,7 @@ function openFromExternal(e) {
   if (eba || topic) {
     nextTick(() => doSearch())
   } else {
-    nextTick(() => inputRef.value?.focus())
+    nextTick(() => { if (!isMobileSheet.value) inputRef.value?.focus() })
   }
 }
 
@@ -2621,7 +2621,7 @@ function openModal() {
   setTimeout(() => { fetchMostViewed(); fetchTrendingTopics() }, 50)
   nextTick(() => {
     loadPersistedState()
-    inputRef.value?.focus()
+    if (!isMobileSheet.value) inputRef.value?.focus()
   })
 }
 
@@ -2652,7 +2652,7 @@ function restoreEbaContext() {
 watch(open, async (val) => {
   if (val) {
     await nextTick()
-    inputRef.value?.focus()
+    if (!isMobileSheet.value) inputRef.value?.focus()
     document.body.style.overflow = 'hidden'
     // Fire the EBA filter flash if restoreEbaContext() requested it.
     // By the time watch(open) runs after await nextTick(), the v-if="open"
