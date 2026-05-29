@@ -22,6 +22,7 @@ import ClausePageTour from './components/ClausePageTour.vue'
 import MobileNav from './components/MobileNav.vue'
 import SidebarFilter from './components/SidebarFilter.vue'
 import ScrollToTop from './components/ScrollToTop.vue'
+import CommandPalette from './components/CommandPalette.vue'
 
 export default {
   extends: DefaultTheme,
@@ -78,7 +79,7 @@ export default {
 
       // layout-bottom: always-mounted overlay components that are event-driven.
       // Fragment is required — VitePress slot functions must return a single VNode.
-      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop)]),
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette)]),
 
       'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
@@ -103,6 +104,7 @@ export default {
     app.component('ClausePageTour',        ClausePageTour)
     app.component('MobileNav',             MobileNav)
     app.component('SidebarFilter',         SidebarFilter)
+    app.component('CommandPalette',        CommandPalette)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation

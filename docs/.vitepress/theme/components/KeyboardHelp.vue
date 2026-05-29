@@ -110,6 +110,10 @@
                   <span class="kb-desc">Toggle reading mode</span>
                   <span class="kb-keys"><kbd>R</kbd></span>
                 </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Open command palette</span>
+                  <span class="kb-keys"><kbd>></kbd></span>
+                </div>
               </div>
             </template>
 
@@ -176,6 +180,10 @@
                 <div class="kb-row">
                   <span class="kb-desc">Show keyboard shortcuts</span>
                   <span class="kb-keys"><kbd>?</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Open command palette</span>
+                  <span class="kb-keys"><kbd>></kbd></span>
                 </div>
                 <div class="kb-row">
                   <span class="kb-desc">Close any overlay</span>
@@ -265,8 +273,20 @@ function close() {
   open.value = false
 }
 
-onMounted(() => window.addEventListener('keydown', onKeydown))
-onUnmounted(() => window.removeEventListener('keydown', onKeydown))
+function openFromEvent() {
+  open.value = true
+  activeTab.value = 'navigation'
+  nextTick(() => modalRef.value?.focus())
+}
+
+onMounted(() => {
+  window.addEventListener('keydown', onKeydown)
+  window.addEventListener('open-keyboard-help', openFromEvent)
+})
+onUnmounted(() => {
+  window.removeEventListener('keydown', onKeydown)
+  window.removeEventListener('open-keyboard-help', openFromEvent)
+})
 </script>
 
 <style scoped>
