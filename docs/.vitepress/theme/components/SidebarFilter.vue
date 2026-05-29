@@ -224,7 +224,7 @@ onUnmounted(() => {
   width: 100%;
   box-sizing: border-box;
   height: 34px;
-  background: #ffffff;
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 6px;
   padding: 0 8px;
