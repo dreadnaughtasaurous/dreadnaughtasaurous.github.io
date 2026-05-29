@@ -104,7 +104,7 @@ const contentHash = ref(null)
 
 async function computeContentHash() {
   try {
-    const raw     = `${frontmatter.value.title ?? ''}||${ebaName.value}||${route.path ?? ''}||${questionPrompt.value}`
+    const raw     = `v2||${frontmatter.value.title ?? ''}||${ebaName.value}||${route.path ?? ''}||${questionPrompt.value}`
     const encoded = new TextEncoder().encode(raw)
     const hashBuf = await crypto.subtle.digest('SHA-256', encoded)
     contentHash.value = Array.from(new Uint8Array(hashBuf))
@@ -131,6 +131,7 @@ function handleClick() {
         tab:         'ask',
         query:       questionPrompt.value,
         contentHash: contentHash.value,
+        sourcePath:  route.path,          // ← new: tells worker exactly which page to fetch
       }
     })
   )

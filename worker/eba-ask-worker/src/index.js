@@ -1594,11 +1594,12 @@ export default {
       return new Response('Method not allowed', { status: 405, headers: corsHeaders(origin) });
     }
 
-    let question, contentHash, history
+    let question, contentHash, sourcePath, history
     try {
       const body   = await request.json()
       question     = (body.question || '').trim()
       contentHash  = body.contentHash || null
+      sourcePath   = typeof body.sourcePath === 'string' ? body.sourcePath : null
       history      = Array.isArray(body.history) ? body.history.slice(-6) : []
     } catch {
       return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin)
@@ -1633,7 +1634,22 @@ export default {
       : question
     const paths = scoreAndSelectPaths(scoringText);
 
-    if (paths.length === 0) {
+    // ── Step 1b: Direct-fetch when AskThisPage provides a sourcePath ──────────
+    // Converts '/ebas/doctors-in-training/allowances/55-foo' → the fetchMarkdown
+    // path 'ebas/doctors-in-training/allowances/55-foo.md' and fetches it first.
+    // This guarantees the exact page the user is reading appears in the AI's
+    // context, regardless of how scoreAndSelectPaths scores sibling pages.
+    let directPage = null;
+    if (sourcePath) {
+      const directRelPath = sourcePath
+        .replace(/^\//, '')      // strip leading slash
+        .replace(/\/$/, '')      // strip trailing slash
+        .replace(/\.html$/, '')  // strip .html if present
+        + '.md';
+      directPage = await fetchMarkdown(directRelPath);
+    }
+
+    if (paths.length === 0 && !directPage) {
       return jsonResponse({
         answer: 'I could not identify which EBA or topic your question relates to. Try including the EBA name (e.g. "Nurses and Midwives EBA") and a specific topic (e.g. "overtime", "public holiday", "wages").'
       }, 200, origin);
@@ -1641,11 +1657,18 @@ export default {
 
     // ── Step 2: Fetch Markdown content from GitHub Raw ───────────────────────
     const pageResults = await Promise.all(paths.map(fetchMarkdown));
-    const pages = pageResults.filter(Boolean);
+    const scored = pageResults.filter(Boolean);
+
+    // Prepend the direct page so it is first in the prompt (highest model attention).
+    // Deduplicate: if scoreAndSelectPaths also selected the same path, drop it from
+    // the scored list so the page is not sent twice.
+    const pages = directPage
+      ? [directPage, ...scored.filter(p => p.path !== directPage.path)]
+      : scored;
 
     if (pages.length === 0) {
       return jsonResponse({
-        answer: `I matched your question to EBA content but could not retrieve it. Please visit the wiki directly:\n\nhttps://dreadnaughtasaurous.github.io/${paths[0].replace('.md', '.html')}`
+        answer: `I matched your question to EBA content but could not retrieve it. Please visit the wiki directly:\n\nhttps://dreadnaughtasaurous.github.io/${paths[0]?.replace('.md', '.html') ?? ''}`
       }, 200, origin);
     }
 

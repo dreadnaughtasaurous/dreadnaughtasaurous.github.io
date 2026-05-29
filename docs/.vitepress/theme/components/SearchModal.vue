@@ -1442,6 +1442,7 @@ let searchTimer           = null
 let pagefind              = null
 let pagefindInitPromise   = null    // deduplicates concurrent init calls from hover + focus
 let pendingContentHash    = null
+let pendingSourcePath     = null
 let _externalAskQuery     = ''      // carries AskThisPage pre-built query; bypasses mode form guards
 let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
 
@@ -2450,6 +2451,7 @@ function openFromExternal(e) {
     fetchTrendingTopics()
     if (detail.query) {
       pendingContentHash = detail.contentHash ?? null
+      pendingSourcePath  = detail.sourcePath  ?? null   // ← new
       _externalAskQuery  = detail.query
       nextTick(() => submitAsk())
     } else {
@@ -3320,6 +3322,7 @@ async function submitAsk() {
         body: JSON.stringify({
           question:    eq,
           contentHash: hashToSend,
+          sourcePath:  pendingSourcePath ?? undefined,   // ← new
           history:     historyToSend.length > 0 ? historyToSend : undefined,
         }),
       })
@@ -3348,6 +3351,7 @@ async function submitAsk() {
     }
     aiLoading.value    = false
     pendingContentHash = null
+    pendingSourcePath  = null
     return
   }
 
