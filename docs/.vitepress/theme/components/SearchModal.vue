@@ -24,7 +24,7 @@
       <div v-if="open" class="search-overlay" :class="{ 'search-overlay--sheet': isMobileSheet }"
            @click.self="close" role="dialog" aria-modal="true" aria-label="Search wiki">
         <div class="search-modal" ref="modalRef"
-             :class="{ 'search-modal--sheet': isMobileSheet }"
+             :class="{ 'search-modal--sheet': isMobileSheet, 'search-modal--compact': compactResults }"
              :style="isMobileSheet ? { maxHeight: (viewportHeight * 0.85) + 'px' } : {}">
 
           <!-- Drag handle — visible on mobile sheet only; purely decorative affordance -->
@@ -83,27 +83,93 @@
           </div>
 
           <!-- ─── Settings panel — slides in below header, above tab bar ─────────────────
-               Extensible: append new .settings-row blocks here for future settings rows.
-               Current rows: cross-session history persistence.
+               Extensible: append new .settings-row blocks inside the panel div below.
+               Sections: Search behaviour · Display · Privacy
           ──────────────────────────────────────────────────────────────────────────────── -->
           <Transition name="settings-panel">
             <div v-if="showSettingsPanel" class="search-settings-panel" role="region" aria-label="Search settings">
+
+              <!-- ── Search behaviour ──────────────────────────────────────────────────── -->
+              <div class="settings-section-head">Search behaviour</div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                  Default EBA
+                </span>
+                <select class="settings-select" :value="defaultEba" @change="setDefaultEba($event.target.value)" aria-label="Default EBA filter">
+                  <option value="">No default</option>
+                  <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
+                </select>
+              </div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/></svg>
+                  Default tab
+                </span>
+                <div class="settings-seg" role="group" aria-label="Default tab">
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': defaultTab === 'search' }" @click="setDefaultTab('search')">Search</button>
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': defaultTab === 'ask' }" @click="setDefaultTab('ask')">Ask AI</button>
+                </div>
+              </div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+                  Open results in new tab
+                </span>
+                <button class="settings-toggle" :class="{ 'settings-toggle--on': resultsNewTab }" @click="toggleResultsNewTab" role="switch" :aria-checked="String(resultsNewTab)" aria-label="Open results in new tab">
+                  <span class="settings-toggle-knob"></span>
+                </button>
+              </div>
+
+              <!-- ── Display ───────────────────────────────────────────────────────────── -->
+              <div class="settings-section-head">Display</div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+                  Compact results
+                </span>
+                <button class="settings-toggle" :class="{ 'settings-toggle--on': compactResults }" @click="toggleCompactResults" role="switch" :aria-checked="String(compactResults)" aria-label="Compact results">
+                  <span class="settings-toggle-knob"></span>
+                </button>
+              </div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/><path d="M9 21V9"/></svg>
+                  Floating preview pane
+                </span>
+                <button class="settings-toggle" :class="{ 'settings-toggle--on': previewEnabled }" @click="togglePreviewEnabled" role="switch" :aria-checked="String(previewEnabled)" aria-label="Floating preview pane">
+                  <span class="settings-toggle-knob"></span>
+                </button>
+              </div>
+
+              <!-- ── Privacy ───────────────────────────────────────────────────────────── -->
+              <div class="settings-section-head">Privacy</div>
+
               <div class="settings-row">
                 <span class="settings-row-label">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                   Remember searches between visits
                 </span>
-                <button
-                  class="settings-toggle"
-                  :class="{ 'settings-toggle--on': historyOptIn }"
-                  @click="toggleHistoryOptIn"
-                  role="switch"
-                  :aria-checked="String(historyOptIn)"
-                  aria-label="Remember search history between visits"
-                >
+                <button class="settings-toggle" :class="{ 'settings-toggle--on': historyOptIn }" @click="toggleHistoryOptIn" role="switch" :aria-checked="String(historyOptIn)" aria-label="Remember search history between visits">
                   <span class="settings-toggle-knob"></span>
                 </button>
               </div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                  Share anonymous search analytics
+                </span>
+                <button class="settings-toggle" :class="{ 'settings-toggle--on': analyticsEnabled }" @click="toggleAnalyticsEnabled" role="switch" :aria-checked="String(analyticsEnabled)" aria-label="Share anonymous search analytics">
+                  <span class="settings-toggle-knob"></span>
+                </button>
+              </div>
+
             </div>
           </Transition>
 
@@ -409,6 +475,8 @@
                     :key="result.url"
                     :href="buildHighlightUrl(result)"
                     class="result-card"
+                    :target="resultsNewTab ? '_blank' : null"
+                    :rel="resultsNewTab ? 'noopener noreferrer' : null"
                     :data-result-index="index"
                     @click="handleResultClick(result)"
                     @keydown.up.prevent="focusResult(index - 1)"
@@ -676,6 +744,8 @@
                   :href="buildHighlightUrl(result)"
                   class="result-card"
                   :class="{ 'result-card-previewing': previewResult?.url === result.url }"
+                  :target="resultsNewTab ? '_blank' : null"
+                  :rel="resultsNewTab ? 'noopener noreferrer' : null"
                   :data-result-index="index"
                   @click="handleResultClick(result)"
                   @keydown.up.prevent="focusResult(index - 1)"
@@ -1383,6 +1453,12 @@ const LOCAL_ASK_INTRO_KEY      = 'eba-ask-ai-intro-seen'    // Ask AI onboarding
 const LOCAL_HISTORY_OPT_IN_KEY = 'eba-history-persist'      // '1' when cross-session history opted in
 const LOCAL_HISTORY_PROMPT_KEY = 'eba-history-prompt-seen'  // '1' once one-time consent prompt dismissed
 const LOCAL_HISTORY_KEY        = 'eba-search-history'       // JSON string[] of persisted queries
+const LOCAL_DEFAULT_EBA_KEY    = 'eba-default-eba'          // Pre-selected EBA on every modal open
+const LOCAL_DEFAULT_TAB_KEY    = 'eba-default-tab'          // 'search' | 'ask'
+const LOCAL_NEW_TAB_KEY        = 'eba-results-new-tab'      // 'true' when results open in new tab
+const LOCAL_COMPACT_KEY        = 'eba-compact-results'      // 'true' when compact result density is on
+const LOCAL_PREVIEW_KEY        = 'eba-preview-pane'         // 'false' to disable floating preview
+const LOCAL_ANALYTICS_KEY      = 'eba-analytics-enabled'    // 'false' to opt out of search logging
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -1448,7 +1524,15 @@ const hintStyle   = ref({})
 const recentSearches    = ref([])
 const historyOptIn      = ref(false)   // true when cross-session history is opted in
 const historyPromptSeen = ref(false)   // true once the one-time consent prompt is dismissed
-const showSettingsPanel = ref(false)   // true when the gear settings panel is expanded
+const showSettingsPanel  = ref(false)   // true when the gear settings panel is expanded
+
+// ─── General settings refs ────────────────────────────────────────────────────
+const defaultEba        = ref('')       // pre-fills EBA filter on open ('' = no default)
+const defaultTab        = ref('search') // opening tab; also set in loadSettings()
+const resultsNewTab     = ref(false)    // open result <a> tags with target="_blank"
+const compactResults    = ref(false)    // hides excerpts + topic tags in result cards
+const previewEnabled    = ref(true)     // floating preview pane on hover/focus (default on)
+const analyticsEnabled  = ref(true)     // POST to analytics worker on search (default on)
 
 // ─── Saved searches (localStorage — persists across sessions) ─────────────────
 // Each entry: { id: string, label: string, query: string, eba: string, topic: string }
@@ -2093,6 +2177,7 @@ function applySuggestion(s) {
 // ─── Analytics logging ────────────────────────────────────────────────────────
 function logSearch(tab, query, eba, topic, resultCount) {
   if (!ANALYTICS_WORKER_URL || !query?.trim()) return
+  if (!analyticsEnabled.value) return
   try {
     fetch(ANALYTICS_WORKER_URL + '/log', {
       method: 'POST',
@@ -2330,6 +2415,46 @@ function declineHistoryOptIn() {
   try { localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1') } catch { /* ignore */ }
 }
 
+// ─── General settings ─────────────────────────────────────────────────────────
+// saveSetting: shared one-liner for all preference writes.
+// loadSettings: called once in onMounted. Reads all 6 preference keys and also
+//   primes activeTab so the right tab opens on the first modal open of the page.
+//   previewEnabled and analyticsEnabled default to true — stored only when explicitly
+//   toggled off, so we use !== 'false' rather than === 'true'.
+function saveSetting(key, value) {
+  try { localStorage.setItem(key, String(value)) } catch { /* ignore */ }
+}
+
+function loadSettings() {
+  try {
+    const de = localStorage.getItem(LOCAL_DEFAULT_EBA_KEY)
+    const dt = localStorage.getItem(LOCAL_DEFAULT_TAB_KEY)
+    const nt = localStorage.getItem(LOCAL_NEW_TAB_KEY)
+    const cr = localStorage.getItem(LOCAL_COMPACT_KEY)
+    const pp = localStorage.getItem(LOCAL_PREVIEW_KEY)
+    const ae = localStorage.getItem(LOCAL_ANALYTICS_KEY)
+    if (de !== null) defaultEba.value       = de
+    if (dt !== null) { defaultTab.value = dt; activeTab.value = dt }
+    if (nt !== null) resultsNewTab.value    = nt === 'true'
+    if (cr !== null) compactResults.value   = cr === 'true'
+    if (pp !== null) previewEnabled.value   = pp !== 'false'
+    if (ae !== null) analyticsEnabled.value = ae !== 'false'
+  } catch { /* degrade silently */ }
+}
+
+function setDefaultEba(val) {
+  defaultEba.value  = val
+  selectedEba.value = val   // apply (or clear) the filter immediately — no reopen needed
+  saveSetting(LOCAL_DEFAULT_EBA_KEY, val)
+  if (query.value.trim().length >= 2) doSearch()   // re-filter live results if a query is active
+}
+function setDefaultTab(val) { defaultTab.value = val; activeTab.value = val; saveSetting(LOCAL_DEFAULT_TAB_KEY, val) }
+
+function toggleResultsNewTab()    { resultsNewTab.value    = !resultsNewTab.value;    saveSetting(LOCAL_NEW_TAB_KEY,   resultsNewTab.value)    }
+function toggleCompactResults()   { compactResults.value   = !compactResults.value;   saveSetting(LOCAL_COMPACT_KEY,   compactResults.value)   }
+function togglePreviewEnabled()   { previewEnabled.value   = !previewEnabled.value;   saveSetting(LOCAL_PREVIEW_KEY,   previewEnabled.value)   }
+function toggleAnalyticsEnabled() { analyticsEnabled.value = !analyticsEnabled.value; saveSetting(LOCAL_ANALYTICS_KEY, analyticsEnabled.value) }
+
 // ─── Per-turn AI answer copy ──────────────────────────────────────────────────
 // Copies the plain text of a single assistant turn to the clipboard.
 // Strips markdown syntax so the pasted result is clean prose.
@@ -2523,6 +2648,7 @@ function cleanExcerpt(raw) {
 
 // ─── Preview pane ────────────────────────────────────────────────────────────
 function setPreview(result, event) {
+  if (!previewEnabled.value) return
   clearTimeout(previewHideTimer)
   previewKeep = false
   if (window.innerWidth < 900) return
@@ -2569,9 +2695,13 @@ function loadPersistedState() {
     if (savedQuery)  query.value         = savedQuery
     if (savedEba)    selectedEba.value   = savedEba
     if (savedTopic)  selectedTopic.value = savedTopic
-    // When opted in, recentSearches is already loaded from localStorage by
+    // When opted in, recentSearches was already loaded from localStorage by
     // loadHistoryOptIn() in onMounted. Skip the sessionStorage overwrite.
     if (savedRecent && !historyOptIn.value) recentSearches.value = JSON.parse(savedRecent)
+    // Apply default EBA whenever the modal opens with no active EBA filter.
+    if (defaultEba.value && !selectedEba.value) {
+      selectedEba.value = defaultEba.value
+    }
     if (savedQuery || savedEba || savedTopic) {
       nextTick(() => doSearch().then(() => {
         const savedScroll = parseInt(sessionStorage.getItem(SESSION_SCROLL_KEY) || '0', 10)
@@ -2712,6 +2842,7 @@ onMounted(() => {
   loadSavedSearches()
   loadBookmarks()
   loadHistoryOptIn()   // must run before the sessionStorage recent fallback below
+  loadSettings()       // reads all 6 preference keys; also primes activeTab
   // Check whether the user has already dismissed the Ask AI intro card
   try {
     if (!localStorage.getItem(LOCAL_ASK_INTRO_KEY)) {
@@ -2787,6 +2918,10 @@ function openFromExternal(e) {
 function openModal() {
   restoreEbaContext()   // must run before open.value = true so _pendingEbaFlash is set
                         // before watch(open) fires and checks it
+  // Reset to the user's preferred default tab on every open from the standard
+  // Ctrl+K / trigger-button path. openFromExternal() sets activeTab explicitly
+  // for its own purposes and is not affected by this line.
+  activeTab.value = defaultTab.value
   // Guaranteed fallback: if the user opened the modal via Ctrl+K or the mobile
   // tap path (no pointerenter/focus pre-warm), initPagefind() starts now.
   // It deduplicates against any in-flight init from the hover/focus path.
@@ -5958,7 +6093,7 @@ function autoResizeFollowUp() {
 .settings-panel-enter-from,
 .settings-panel-leave-to  { max-height: 0;     opacity: 0; }
 .settings-panel-enter-to,
-.settings-panel-leave-from { max-height: 80px; opacity: 1; }
+.settings-panel-leave-from { max-height: 360px; opacity: 1; }
 
 /* ── Settings panel container ───────────────────────────────────────────────── */
 .search-settings-panel {
@@ -5972,7 +6107,8 @@ function autoResizeFollowUp() {
   display:     flex;
   align-items: center;
   gap:         0.6rem;
-  min-height:  28px;
+  min-height:  32px;
+  padding:     0.18rem 0;
 }
 
 .settings-row-label {
@@ -6097,5 +6233,62 @@ function autoResizeFollowUp() {
   color:        var(--vp-c-text-2);
   border-color: var(--vp-c-text-3);
 }
+
+/* ── Settings section heading ────────────────────────────────────────────────── */
+.settings-section-head {
+  font-size:      0.68rem;
+  font-weight:    600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color:          var(--vp-c-text-3);
+  padding:        0.5rem 0 0.2rem;
+  margin-top:     0.3rem;
+  border-top:     1px solid var(--vp-c-divider);
+}
+.search-settings-panel > .settings-section-head:first-child {
+  border-top:  none;
+  margin-top:  0;
+  padding-top: 0.1rem;
+}
+
+/* ── Settings select (Default EBA dropdown) ──────────────────────────────────── */
+.settings-select {
+  font-size:     0.75rem;
+  padding:       0.22rem 0.4rem;
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 5px;
+  background:    var(--vp-c-bg);
+  color:         var(--vp-c-text-1);
+  max-width:     190px;
+  cursor:        pointer;
+  flex-shrink:   0;
+}
+.settings-select:focus { outline: 2px solid var(--vp-c-brand-1); outline-offset: 1px; }
+
+/* ── Segmented button (Default tab) ─────────────────────────────────────────── */
+.settings-seg {
+  display:       flex;
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 5px;
+  overflow:      hidden;
+  flex-shrink:   0;
+}
+.settings-seg-btn {
+  padding:    0.2rem 0.65rem;
+  font-size:  0.73rem;
+  cursor:     pointer;
+  border:     none;
+  background: transparent;
+  color:      var(--vp-c-text-2);
+  transition: background 0.15s, color 0.15s;
+}
+.settings-seg-btn + .settings-seg-btn { border-left: 1px solid var(--vp-c-divider); }
+.settings-seg-btn:hover               { background: var(--vp-c-bg-mute); }
+.settings-seg-btn--active             { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); font-weight: 600; }
+
+/* ── Compact results mode ────────────────────────────────────────────────────── */
+.search-modal--compact .result-excerpt,
+.search-modal--compact .result-topics  { display: none; }
+.search-modal--compact .result-card    { padding-bottom: 0.5rem; }
 
 </style>
