@@ -64,10 +64,48 @@
               <svg v-if="isCurrentQuerySaved" width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
               <svg v-else width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
             </button>
+            <!-- Gear button — opens the extensible settings panel -->
+            <button
+              class="settings-gear-btn"
+              :class="{ 'settings-gear-btn--active': showSettingsPanel }"
+              @click="showSettingsPanel = !showSettingsPanel"
+              aria-label="Search settings"
+              :aria-expanded="String(showSettingsPanel)"
+            >
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/>
+                <circle cx="12" cy="12" r="3"/>
+              </svg>
+            </button>
             <button class="close-btn" @click="close" aria-label="Close search">
               <kbd>Esc</kbd>
             </button>
           </div>
+
+          <!-- ─── Settings panel — slides in below header, above tab bar ─────────────────
+               Extensible: append new .settings-row blocks here for future settings rows.
+               Current rows: cross-session history persistence.
+          ──────────────────────────────────────────────────────────────────────────────── -->
+          <Transition name="settings-panel">
+            <div v-if="showSettingsPanel" class="search-settings-panel" role="region" aria-label="Search settings">
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                  Remember searches between visits
+                </span>
+                <button
+                  class="settings-toggle"
+                  :class="{ 'settings-toggle--on': historyOptIn }"
+                  @click="toggleHistoryOptIn"
+                  role="switch"
+                  :aria-checked="String(historyOptIn)"
+                  aria-label="Remember search history between visits"
+                >
+                  <span class="settings-toggle-knob"></span>
+                </button>
+              </div>
+            </div>
+          </Transition>
 
           <!-- Operator hint autocomplete dropdown — Teleported to body to escape overflow:hidden -->
           <Teleport to="body">
@@ -480,15 +518,37 @@
                   <div class="qa-section-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                     Recent searches
+                    <!-- Lock icon — ambient indicator that history is persisted across sessions -->
+                    <svg v-if="historyOptIn" class="recent-persist-icon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Saved between visits" title="History saved between visits"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
                     <button class="qa-clear-recent" @click="clearRecentSearches" aria-label="Clear recent searches">Clear</button>
                   </div>
                   <div class="qa-chips">
+                    <!-- Display cap: 8 when opted in (20 stored), 5 when session-only. Edit either number here. -->
                     <button
-                      v-for="recent in recentSearches"
+                      v-for="recent in recentSearches.slice(0, historyOptIn ? 8 : 5)"
                       :key="recent"
                       class="qa-chip qa-chip-recent"
                       @click="useRecentSearch(recent)"
                     >{{ recent }}</button>
+                  </div>
+                </div>
+
+                <!-- Cross-session history consent — one-time prompt ─────────────────────────
+                     Renders in Quick Access only (implicit: already inside the query.length<=1
+                     block). Dismisses permanently on either Yes or No. The gear toggle in the
+                     header controls the preference afterwards.
+                ─────────────────────────────────────────────────────────────────────────────── -->
+                <div v-if="!historyPromptSeen && !historyOptIn" class="qa-section qa-history-prompt">
+                  <div class="qa-history-prompt-body">
+                    <svg class="qa-history-prompt-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    <div class="qa-history-prompt-text">
+                      <span class="qa-history-prompt-title">Remember searches between visits?</span>
+                      <span class="qa-history-prompt-sub">Stored locally in your browser — never shared.</span>
+                    </div>
+                  </div>
+                  <div class="qa-history-prompt-actions">
+                    <button class="qa-history-prompt-yes" @click="acceptHistoryOptIn">Yes, save history</button>
+                    <button class="qa-history-prompt-no"  @click="declineHistoryOptIn">No thanks</button>
                   </div>
                 </div>
 
@@ -1319,7 +1379,10 @@ const LOCAL_SAVED_KEY         = 'eba-search-saved'
 const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
 const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
 const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
-const LOCAL_ASK_INTRO_KEY     = 'eba-ask-ai-intro-seen'    // Ask AI onboarding card dismissal
+const LOCAL_ASK_INTRO_KEY      = 'eba-ask-ai-intro-seen'    // Ask AI onboarding card dismissal
+const LOCAL_HISTORY_OPT_IN_KEY = 'eba-history-persist'      // '1' when cross-session history opted in
+const LOCAL_HISTORY_PROMPT_KEY = 'eba-history-prompt-seen'  // '1' once one-time consent prompt dismissed
+const LOCAL_HISTORY_KEY        = 'eba-search-history'       // JSON string[] of persisted queries
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -1381,8 +1444,11 @@ const hintIndex   = ref(-1)
 // hintStyle: Teleport position; set reactively when the hint list opens
 const hintStyle   = ref({})
 
-// ─── Recent searches (sessionStorage — session-scoped) ────────────────────────
-const recentSearches = ref([])
+// ─── Recent searches (sessionStorage — session-scoped; localStorage when opted in) ─
+const recentSearches    = ref([])
+const historyOptIn      = ref(false)   // true when cross-session history is opted in
+const historyPromptSeen = ref(false)   // true once the one-time consent prompt is dismissed
+const showSettingsPanel = ref(false)   // true when the gear settings panel is expanded
 
 // ─── Saved searches (localStorage — persists across sessions) ─────────────────
 // Each entry: { id: string, label: string, query: string, eba: string, topic: string }
@@ -2210,6 +2276,60 @@ function loadSavedSearches() {
   } catch { /* ignore */ }
 }
 
+// ─── Cross-session history opt-in ─────────────────────────────────────────────
+// loadHistoryOptIn: called once in onMounted, before the sessionStorage fallback.
+//   Reads preference + prompt-seen flag. If opted in, seeds recentSearches from
+//   localStorage so history is available before the user types anything.
+function loadHistoryOptIn() {
+  try {
+    historyOptIn.value      = localStorage.getItem(LOCAL_HISTORY_OPT_IN_KEY) === '1'
+    historyPromptSeen.value = localStorage.getItem(LOCAL_HISTORY_PROMPT_KEY) === '1'
+    if (historyOptIn.value) {
+      const raw = localStorage.getItem(LOCAL_HISTORY_KEY)
+      if (raw) recentSearches.value = JSON.parse(raw)
+    }
+  } catch { /* degrade silently */ }
+}
+
+// toggleHistoryOptIn: fired by the gear settings panel toggle switch.
+//   Turning ON seeds localStorage from current session searches.
+//   Turning OFF removes the history data but keeps the prompt dismissed
+//   (the user made an explicit gear choice — the banner should not re-appear).
+function toggleHistoryOptIn() {
+  historyOptIn.value      = !historyOptIn.value
+  historyPromptSeen.value = true   // gear interaction always suppresses the one-time banner
+  try {
+    localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1')
+    if (historyOptIn.value) {
+      localStorage.setItem(LOCAL_HISTORY_OPT_IN_KEY, '1')
+      if (recentSearches.value.length > 0) {
+        localStorage.setItem(LOCAL_HISTORY_KEY, JSON.stringify(recentSearches.value))
+      }
+    } else {
+      localStorage.removeItem(LOCAL_HISTORY_OPT_IN_KEY)
+      localStorage.removeItem(LOCAL_HISTORY_KEY)
+    }
+  } catch { /* silently ignore */ }
+}
+
+// acceptHistoryOptIn / declineHistoryOptIn: fired by the one-time consent banner.
+function acceptHistoryOptIn() {
+  historyOptIn.value      = true
+  historyPromptSeen.value = true
+  try {
+    localStorage.setItem(LOCAL_HISTORY_OPT_IN_KEY, '1')
+    localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1')
+    if (recentSearches.value.length > 0) {
+      localStorage.setItem(LOCAL_HISTORY_KEY, JSON.stringify(recentSearches.value))
+    }
+  } catch { /* silently ignore */ }
+}
+
+function declineHistoryOptIn() {
+  historyPromptSeen.value = true
+  try { localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1') } catch { /* ignore */ }
+}
+
 // ─── Per-turn AI answer copy ──────────────────────────────────────────────────
 // Copies the plain text of a single assistant turn to the clipboard.
 // Strips markdown syntax so the pasted result is clean prose.
@@ -2449,7 +2569,9 @@ function loadPersistedState() {
     if (savedQuery)  query.value         = savedQuery
     if (savedEba)    selectedEba.value   = savedEba
     if (savedTopic)  selectedTopic.value = savedTopic
-    if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
+    // When opted in, recentSearches is already loaded from localStorage by
+    // loadHistoryOptIn() in onMounted. Skip the sessionStorage overwrite.
+    if (savedRecent && !historyOptIn.value) recentSearches.value = JSON.parse(savedRecent)
     if (savedQuery || savedEba || savedTopic) {
       nextTick(() => doSearch().then(() => {
         const savedScroll = parseInt(sessionStorage.getItem(SESSION_SCROLL_KEY) || '0', 10)
@@ -2487,15 +2609,20 @@ function addToRecentSearches(term) {
   if (!term || term.trim().length < 3) return
   try {
     const trimmed = term.trim()
-    const updated = [trimmed, ...recentSearches.value.filter(r => r !== trimmed)].slice(0, 5)
+    const cap     = historyOptIn.value ? 20 : 5
+    const updated = [trimmed, ...recentSearches.value.filter(r => r !== trimmed)].slice(0, cap)
     recentSearches.value = updated
     sessionStorage.setItem(SESSION_RECENT_KEY, JSON.stringify(updated))
+    if (historyOptIn.value) localStorage.setItem(LOCAL_HISTORY_KEY, JSON.stringify(updated))
   } catch { /* silently ignore */ }
 }
 
 function clearRecentSearches() {
   recentSearches.value = []
-  try { sessionStorage.removeItem(SESSION_RECENT_KEY) } catch { /* ignore */ }
+  try {
+    sessionStorage.removeItem(SESSION_RECENT_KEY)
+    if (historyOptIn.value) localStorage.removeItem(LOCAL_HISTORY_KEY)
+  } catch { /* ignore */ }
 }
 
 function useRecentSearch(term) {
@@ -2584,15 +2711,20 @@ async function initPagefind() {
 onMounted(() => {
   loadSavedSearches()
   loadBookmarks()
+  loadHistoryOptIn()   // must run before the sessionStorage recent fallback below
   // Check whether the user has already dismissed the Ask AI intro card
   try {
     if (!localStorage.getItem(LOCAL_ASK_INTRO_KEY)) {
       askAiIntroSeen.value = false
     }
   } catch { /* storage unavailable — treat as already seen */ }
+  // Guard: when opted in, loadHistoryOptIn() already seeded recentSearches from
+  // localStorage. Skip the sessionStorage read to avoid overwriting it.
   try {
-    const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
-    if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
+    if (!historyOptIn.value) {
+      const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
+      if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
+    }
   } catch { /* silently ignore */ }
 
   // Phase 1: queue background preload of pagefind assets.
@@ -2813,6 +2945,7 @@ onUnmounted(() => {
 function close() {
   persistState()
   open.value                = false
+  showSettingsPanel.value   = false
   previewVisible.value      = false
   previewResult.value       = null
   aiAnswer.value            = ''
@@ -5787,6 +5920,182 @@ function autoResizeFollowUp() {
 .page-ctx-clear-btn:hover {
   color:       var(--vp-c-text-1);
   background:  var(--vp-c-bg-mute);
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SETTINGS PANEL — gear icon, slide-down panel, toggle switch, consent banner
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ── Gear button ─────────────────────────────────────────────────────────────── */
+.settings-gear-btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           28px;
+  height:          28px;
+  flex-shrink:     0;
+  padding:         0;
+  border:          none;
+  background:      transparent;
+  color:           var(--vp-c-text-3);
+  cursor:          pointer;
+  border-radius:   6px;
+  transition:      color 0.15s, background 0.15s, transform 0.25s ease;
+}
+.settings-gear-btn:hover  { color: var(--vp-c-text-1); background: var(--vp-c-bg-mute); }
+.settings-gear-btn--active {
+  color:      var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  transform:  rotate(60deg);
+}
+
+/* ── Settings panel slide transition ─────────────────────────────────────────── */
+.settings-panel-enter-active,
+.settings-panel-leave-active {
+  transition: max-height 0.2s ease, opacity 0.18s ease;
+  overflow:   hidden;
+}
+.settings-panel-enter-from,
+.settings-panel-leave-to  { max-height: 0;     opacity: 0; }
+.settings-panel-enter-to,
+.settings-panel-leave-from { max-height: 80px; opacity: 1; }
+
+/* ── Settings panel container ───────────────────────────────────────────────── */
+.search-settings-panel {
+  border-bottom:  1px solid var(--vp-c-divider);
+  background:     var(--vp-c-bg-soft);
+  padding:        0.45rem 0.9rem;
+}
+
+/* ── Individual settings row (reusable for future settings) ─────────────────── */
+.settings-row {
+  display:     flex;
+  align-items: center;
+  gap:         0.6rem;
+  min-height:  28px;
+}
+
+.settings-row-label {
+  display:     flex;
+  align-items: center;
+  gap:         0.4rem;
+  flex:        1;
+  font-size:   0.78rem;
+  color:       var(--vp-c-text-2);
+  user-select: none;
+}
+
+/* ── Toggle switch (pure CSS, no library) ───────────────────────────────────── */
+.settings-toggle {
+  position:      relative;
+  width:         32px;
+  height:        18px;
+  flex-shrink:   0;
+  padding:       0;
+  border:        none;
+  border-radius: 9px;
+  background:    var(--vp-c-divider);
+  cursor:        pointer;
+  transition:    background 0.2s;
+}
+.settings-toggle--on               { background: var(--vp-c-brand-1); }
+.settings-toggle:focus-visible     { outline: 2px solid var(--vp-c-brand-1); outline-offset: 2px; }
+
+.settings-toggle-knob {
+  position:       absolute;
+  top:            2px;
+  left:           2px;
+  width:          14px;
+  height:         14px;
+  border-radius:  50%;
+  background:     #fff;
+  box-shadow:     0 1px 3px rgba(0,0,0,0.2);
+  transition:     transform 0.2s;
+  pointer-events: none;
+}
+.settings-toggle--on .settings-toggle-knob { transform: translateX(14px); }
+
+/* ── Recent searches: persist (lock) icon ───────────────────────────────────── */
+.recent-persist-icon {
+  color:        var(--vp-c-brand-1);
+  opacity:      0.7;
+  flex-shrink:  0;
+  margin-right: auto;   /* pushes the Clear button to the far right */
+}
+
+/* ── One-time consent banner ─────────────────────────────────────────────────── */
+.qa-history-prompt {
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background:    var(--vp-c-bg-soft);
+  padding:       0.6rem 0.75rem;
+  display:       flex;
+  flex-direction: column;
+  gap:           0.55rem;
+}
+
+.qa-history-prompt-body {
+  display:     flex;
+  align-items: flex-start;
+  gap:         0.5rem;
+}
+
+.qa-history-prompt-icon {
+  flex-shrink: 0;
+  margin-top:  0.1rem;
+  color:       var(--vp-c-text-3);
+}
+
+.qa-history-prompt-text {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.15rem;
+}
+
+.qa-history-prompt-title {
+  font-size:   0.8rem;
+  font-weight: 600;
+  color:       var(--vp-c-text-1);
+  line-height: 1.35;
+}
+
+.qa-history-prompt-sub {
+  font-size:   0.72rem;
+  color:       var(--vp-c-text-3);
+  line-height: 1.3;
+}
+
+.qa-history-prompt-actions {
+  display: flex;
+  gap:     0.5rem;
+}
+
+.qa-history-prompt-yes {
+  padding:       0.28rem 0.7rem;
+  border-radius: 5px;
+  font-size:     0.75rem;
+  font-weight:   600;
+  cursor:        pointer;
+  border:        1px solid var(--vp-c-brand-1);
+  background:    var(--vp-c-brand-soft);
+  color:         var(--vp-c-brand-1);
+  transition:    filter 0.15s;
+}
+.qa-history-prompt-yes:hover { filter: brightness(1.1); }
+
+.qa-history-prompt-no {
+  padding:       0.28rem 0.6rem;
+  border-radius: 5px;
+  font-size:     0.75rem;
+  cursor:        pointer;
+  border:        1px solid var(--vp-c-divider);
+  background:    transparent;
+  color:         var(--vp-c-text-3);
+  transition:    color 0.15s, border-color 0.15s;
+}
+.qa-history-prompt-no:hover {
+  color:        var(--vp-c-text-2);
+  border-color: var(--vp-c-text-3);
 }
 
 </style>
