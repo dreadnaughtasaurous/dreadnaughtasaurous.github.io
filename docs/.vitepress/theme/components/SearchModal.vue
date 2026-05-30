@@ -46,10 +46,10 @@
               :placeholder="activeTab === 'search' ? 'Search all clauses...' : 'Ask a question about your EBA...'"
               class="search-input"
               @input="activeTab === 'search' ? (warmupSearch(), debouncedSearch()) : null"
-              @keydown.enter="activeTab === 'ask' ? submitAsk() : (operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : null)"
-              @keydown.down.prevent="operatorHint ? (hintIndex = Math.min(hintIndex + 1, operatorHint.items.length - 1)) : focusResult(0)"
-              @keydown.up.prevent="operatorHint ? (hintIndex = Math.max(hintIndex - 1, -1)) : null"
-              @keydown.esc="operatorHint ? dismissHint() : close()"
+              @keydown.enter="activeTab === 'ask' ? submitAsk() : operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : operatorCheatsheet && hintIndex >= 0 ? insertOperator(CHEATSHEET_OPS[hintIndex].prefix) : null"
+              @keydown.down.prevent="operatorHint ? (hintIndex = Math.min(hintIndex + 1, operatorHint.items.length - 1)) : operatorCheatsheet ? (hintIndex = Math.min(hintIndex + 1, CHEATSHEET_OPS.length - 1)) : focusResult(0)"
+              @keydown.up.prevent="(operatorHint || operatorCheatsheet) ? (hintIndex = Math.max(hintIndex - 1, -1)) : null"
+              @keydown.esc="operatorHint ? dismissHint() : operatorCheatsheet ? dismissCheatsheet() : close()"
               autocomplete="off"
             />
             <!-- Save / bookmark button — only shown when there is an active query on the Search tab -->
@@ -125,6 +125,51 @@
                   <span class="op-hint-item-primary">topic:{{ item }}</span>
                 </button>
               </template>
+            </div>
+          </Teleport>
+
+          <!-- Operator cheatsheet — shown when user types a bare ':' as the last query token.  -->
+          <!-- Bridges operator discoverability without requiring the user to read docs.         -->
+          <Teleport to="body">
+            <div
+              v-if="operatorCheatsheet"
+              class="op-hint-dropdown"
+              :style="hintStyle"
+              role="tooltip"
+              aria-label="Search operator cheatsheet"
+              @mousedown.prevent
+            >
+              <div class="op-hint-header">
+                <span class="op-hint-header-label">Search operators</span>
+                <kbd class="op-hint-header-kbd">↑↓ navigate</kbd>
+                <kbd class="op-hint-header-kbd">Enter insert</kbd>
+                <kbd class="op-hint-header-kbd">Esc dismiss</kbd>
+              </div>
+              <button class="op-hint-item op-cs-row" :class="{ 'op-hint-item--active': hintIndex === 0 }" @click="insertOperator('eba:')"    @mouseenter="hintIndex = 0">
+                <span class="op-hint-item-primary">eba:</span>
+                <span class="op-hint-item-secondary">Filter to one EBA</span>
+                <span class="op-cs-examples"><code>nurses</code><code>allied</code></span>
+              </button>
+              <button class="op-hint-item op-cs-row" :class="{ 'op-hint-item--active': hintIndex === 1 }" @click="insertOperator('topic:')"  @mouseenter="hintIndex = 1">
+                <span class="op-hint-item-primary">topic:</span>
+                <span class="op-hint-item-secondary">Filter by topic</span>
+                <span class="op-cs-examples"><code>wages</code><code>leave</code></span>
+              </button>
+              <button class="op-hint-item op-cs-row" :class="{ 'op-hint-item--active': hintIndex === 2 }" @click="insertOperator('clause:')" @mouseenter="hintIndex = 2">
+                <span class="op-hint-item-primary">clause:</span>
+                <span class="op-hint-item-secondary">Find by clause number</span>
+                <span class="op-cs-examples"><code>42</code><code>15A</code></span>
+              </button>
+              <button class="op-hint-item op-cs-row" :class="{ 'op-hint-item--active': hintIndex === 3 }" @click="insertOperator('-')"       @mouseenter="hintIndex = 3">
+                <span class="op-hint-item-primary">-word</span>
+                <span class="op-hint-item-secondary">Exclude a word</span>
+                <span class="op-cs-examples"><code>-casual</code></span>
+              </button>
+              <button class="op-hint-item op-cs-row" :class="{ 'op-hint-item--active': hintIndex === 4 }" @click="insertOperator('&quot;')"  @mouseenter="hintIndex = 4">
+                <span class="op-hint-item-primary">"phrase"</span>
+                <span class="op-hint-item-secondary">Match exact phrase</span>
+                <span class="op-cs-examples"><code>"ordinary time"</code></span>
+              </button>
             </div>
           </Teleport>
 
@@ -3091,6 +3136,28 @@ const operatorHint = computed(() => {
   return null
 })
 
+// ─── Cheatsheet operator definitions (index matches rendered row order) ────────
+const CHEATSHEET_OPS = [
+  { prefix: 'eba:'    },
+  { prefix: 'topic:'  },
+  { prefix: 'clause:' },
+  { prefix: '-'       },
+  { prefix: '"'       },
+]
+
+// ─── Operator cheatsheet — triggered by a bare ':' as the last query token ───
+// Shows when operatorHint is null (no specific eba:/topic: prefix yet typed)
+// and the last whitespace-delimited token is exactly ':'. Gives a one-click
+// insert surface for all five operators without requiring any documentation.
+const operatorCheatsheet = computed(() => {
+  if (activeTab.value !== 'search') return false
+  if (operatorHint.value !== null)  return false   // specific hint takes priority
+  const raw = query.value
+  if (!raw) return false
+  const tokens = raw.split(/\s+/)
+  return tokens[tokens.length - 1] === ':'
+})
+
 // ─── Position the hint dropdown below the search input ───────────────────────
 // Called reactively via a watch on operatorHint — positions the Teleported
 // dropdown using the input element's bounding rect, same pattern as the
@@ -3131,9 +3198,30 @@ function dismissHint() {
   hintIndex.value = -1
 }
 
-// ─── Watch operatorHint to reposition the dropdown whenever it opens ─────────
-watch(operatorHint, (val) => {
-  if (val) {
+// ─── Insert an operator prefix from the cheatsheet ───────────────────────────
+// Replaces the bare ':' tail token with the chosen prefix (e.g. 'eba:'), then
+// focuses the input so the user continues typing. For eba: and topic:, the
+// existing operatorHint autocomplete takes over immediately after insertion.
+function insertOperator(prefix) {
+  const tokens = query.value.split(/\s+/)
+  tokens[tokens.length - 1] = prefix
+  query.value = tokens.join(' ').trimStart()
+  nextTick(() => inputRef.value?.focus())
+}
+
+// ─── Dismiss the cheatsheet by removing the trailing ':' token ───────────────
+function dismissCheatsheet() {
+  const tokens = query.value.split(/\s+/)
+  if (tokens[tokens.length - 1] === ':') {
+    tokens.pop()
+    query.value = tokens.join(' ').trim()
+  }
+  nextTick(() => inputRef.value?.focus())
+}
+
+// ─── Watch operatorHint + operatorCheatsheet — reposition whenever either opens
+watch([operatorHint, operatorCheatsheet], ([hint, sheet]) => {
+  if (hint || sheet) {
     hintIndex.value = -1
     nextTick(positionHint)
   }
@@ -5148,6 +5236,26 @@ function autoResizeFollowUp() {
 }
 /* ── Dim secondary text when the item is active so primary pops ── */
 .op-hint-item--active .op-hint-item-secondary { color: var(--vp-c-text-2); }
+
+/* ── Operator cheatsheet rows ── */
+/* Override secondary's margin-left:auto so the example chips sit at the right */
+.op-cs-row { gap: 0.75rem; }
+.op-cs-row .op-hint-item-primary  { flex-shrink: 0; min-width: 6.5rem; }
+.op-cs-row .op-hint-item-secondary { margin-left: 0; }
+.op-cs-examples {
+  display: inline-flex; gap: 0.25rem;
+  margin-left: auto; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end;
+}
+.op-cs-examples code {
+  font-size:   0.6rem;
+  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  background:  var(--vp-c-bg-soft);
+  border:      1px solid var(--vp-c-divider);
+  border-radius: 3px;
+  padding:     0.05rem 0.25rem;
+  color:       var(--vp-c-text-3);
+  pointer-events: none;
+}
 
 /* ── Save search button ── */
 .save-search-btn {
