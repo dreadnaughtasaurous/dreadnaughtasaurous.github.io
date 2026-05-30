@@ -105,6 +105,17 @@
 
               <div class="settings-row">
                 <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                  Default topic
+                </span>
+                <select class="settings-select" :value="defaultTopic" @change="setDefaultTopic($event.target.value)" aria-label="Default topic filter">
+                  <option value="">No default</option>
+                  <option v-for="t in topicList" :key="t" :value="t">{{ t }}</option>
+                </select>
+              </div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/></svg>
                   Default tab
                 </span>
@@ -124,8 +135,30 @@
                 </button>
               </div>
 
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/><path d="M11 8v3l1.5 1.5"/></svg>
+                  Suggest alternative spellings
+                </span>
+                <button class="settings-toggle" :class="{ 'settings-toggle--on': fuzzyEnabled }" @click="toggleFuzzyEnabled" role="switch" :aria-checked="String(fuzzyEnabled)" aria-label="Suggest alternative spellings when no results found">
+                  <span class="settings-toggle-knob"></span>
+                </button>
+              </div>
+
               <!-- ── Display ───────────────────────────────────────────────────────────── -->
               <div class="settings-section-head">Display</div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M7 12h10M11 18h2"/></svg>
+                  Sort results
+                </span>
+                <div class="settings-seg" role="group" aria-label="Sort results">
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': sortOrder === 'relevance' }" @click="setSortOrder('relevance')">Relevance</button>
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': sortOrder === 'asc' }" @click="setSortOrder('asc')">1 → 100</button>
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': sortOrder === 'desc' }" @click="setSortOrder('desc')">100 → 1</button>
+                </div>
+              </div>
 
               <div class="settings-row">
                 <span class="settings-row-label">
@@ -145,6 +178,20 @@
                 <button class="settings-toggle" :class="{ 'settings-toggle--on': previewEnabled }" @click="togglePreviewEnabled" role="switch" :aria-checked="String(previewEnabled)" aria-label="Floating preview pane">
                   <span class="settings-toggle-knob"></span>
                 </button>
+              </div>
+
+              <!-- ── Ask AI ─────────────────────────────────────────────────────────────── -->
+              <div class="settings-section-head">Ask AI</div>
+
+              <div class="settings-row">
+                <span class="settings-row-label">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                  Response style
+                </span>
+                <div class="settings-seg" role="group" aria-label="Ask AI response style">
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': askStyle === 'detailed' }" @click="setAskStyle('detailed')">Detailed</button>
+                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': askStyle === 'concise' }" @click="setAskStyle('concise')">Concise</button>
+                </div>
               </div>
 
               <!-- ── Privacy ───────────────────────────────────────────────────────────── -->
@@ -168,6 +215,11 @@
                 <button class="settings-toggle" :class="{ 'settings-toggle--on': analyticsEnabled }" @click="toggleAnalyticsEnabled" role="switch" :aria-checked="String(analyticsEnabled)" aria-label="Share anonymous search analytics">
                   <span class="settings-toggle-knob"></span>
                 </button>
+              </div>
+
+              <!-- ── Reset ──────────────────────────────────────────────────────────────── -->
+              <div class="settings-reset-row">
+                <button class="settings-reset-btn" @click="resetAllSettings">Reset to defaults</button>
               </div>
 
             </div>
@@ -739,7 +791,7 @@
                   </button>
                 </div>
                 <a
-                  v-for="(result, index) in results"
+                  v-for="(result, index) in sortedResults"
                   :key="result.url"
                   :href="buildHighlightUrl(result)"
                   class="result-card"
@@ -1459,6 +1511,10 @@ const LOCAL_NEW_TAB_KEY        = 'eba-results-new-tab'      // 'true' when resul
 const LOCAL_COMPACT_KEY        = 'eba-compact-results'      // 'true' when compact result density is on
 const LOCAL_PREVIEW_KEY        = 'eba-preview-pane'         // 'false' to disable floating preview
 const LOCAL_ANALYTICS_KEY      = 'eba-analytics-enabled'    // 'false' to opt out of search logging
+const LOCAL_DEFAULT_TOPIC_KEY  = 'eba-default-topic'        // Pre-selected topic on every modal open
+const LOCAL_SORT_ORDER_KEY     = 'eba-sort-order'           // 'relevance' | 'asc' | 'desc'
+const LOCAL_FUZZY_KEY          = 'eba-fuzzy-enabled'        // 'false' to disable fuzzy fallback
+const LOCAL_ASK_STYLE_KEY      = 'eba-ask-style'            // 'concise' | 'detailed'
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -1533,6 +1589,10 @@ const resultsNewTab     = ref(false)    // open result <a> tags with target="_bl
 const compactResults    = ref(false)    // hides excerpts + topic tags in result cards
 const previewEnabled    = ref(true)     // floating preview pane on hover/focus (default on)
 const analyticsEnabled  = ref(true)     // POST to analytics worker on search (default on)
+const defaultTopic      = ref('')       // pre-fills topic filter on open ('' = no default)
+const sortOrder         = ref('relevance') // 'relevance' | 'asc' | 'desc'
+const fuzzyEnabled      = ref(true)     // true = run stem-trim fallback on zero results
+const askStyle          = ref('detailed')  // 'concise' | 'detailed' — sent to worker
 
 // ─── Saved searches (localStorage — persists across sessions) ─────────────────
 // Each entry: { id: string, label: string, query: string, eba: string, topic: string }
@@ -2269,6 +2329,21 @@ const employmentTypes = [
   'Fixed-term',
 ]
 
+// ─── Sort order ───────────────────────────────────────────────────────────────
+// Parses the numeric prefix from meta.clause ("Clause 34" → 34, "Clause 42A" → 42).
+// Falls back to 9999 so pages with no clause meta sort last rather than erroring.
+
+function clauseSortKey(result) {
+  const m = (result.meta?.clause ?? '').match(/(\d+)/)
+  return m ? parseInt(m[1], 10) : 9999
+}
+
+const sortedResults = computed(() => {
+  if (sortOrder.value === 'relevance') return results.value
+  const sorted = [...results.value].sort((a, b) => clauseSortKey(a) - clauseSortKey(b))
+  return sortOrder.value === 'desc' ? sorted.reverse() : sorted
+})
+
 // ─── Saved searches logic ─────────────────────────────────────────────────────
 
 const isCurrentQuerySaved = computed(() => {
@@ -2433,12 +2508,20 @@ function loadSettings() {
     const cr = localStorage.getItem(LOCAL_COMPACT_KEY)
     const pp = localStorage.getItem(LOCAL_PREVIEW_KEY)
     const ae = localStorage.getItem(LOCAL_ANALYTICS_KEY)
+    const tp = localStorage.getItem(LOCAL_DEFAULT_TOPIC_KEY)
+    const so = localStorage.getItem(LOCAL_SORT_ORDER_KEY)
+    const fe = localStorage.getItem(LOCAL_FUZZY_KEY)
+    const as = localStorage.getItem(LOCAL_ASK_STYLE_KEY)
     if (de !== null) defaultEba.value       = de
     if (dt !== null) { defaultTab.value = dt; activeTab.value = dt }
     if (nt !== null) resultsNewTab.value    = nt === 'true'
     if (cr !== null) compactResults.value   = cr === 'true'
     if (pp !== null) previewEnabled.value   = pp !== 'false'
     if (ae !== null) analyticsEnabled.value = ae !== 'false'
+    if (tp !== null) defaultTopic.value     = tp
+    if (so !== null) sortOrder.value        = so
+    if (fe !== null) fuzzyEnabled.value     = fe !== 'false'
+    if (as !== null) askStyle.value         = as === 'concise' ? 'concise' : 'detailed'
   } catch { /* degrade silently */ }
 }
 
@@ -2454,6 +2537,38 @@ function toggleResultsNewTab()    { resultsNewTab.value    = !resultsNewTab.valu
 function toggleCompactResults()   { compactResults.value   = !compactResults.value;   saveSetting(LOCAL_COMPACT_KEY,   compactResults.value)   }
 function togglePreviewEnabled()   { previewEnabled.value   = !previewEnabled.value;   saveSetting(LOCAL_PREVIEW_KEY,   previewEnabled.value)   }
 function toggleAnalyticsEnabled() { analyticsEnabled.value = !analyticsEnabled.value; saveSetting(LOCAL_ANALYTICS_KEY, analyticsEnabled.value) }
+
+function setDefaultTopic(val) {
+  defaultTopic.value  = val
+  selectedTopic.value = val
+  saveSetting(LOCAL_DEFAULT_TOPIC_KEY, val)
+  if (query.value.trim().length >= 2) doSearch()
+}
+function setSortOrder(val)        { sortOrder.value    = val;   saveSetting(LOCAL_SORT_ORDER_KEY, val)          }
+function toggleFuzzyEnabled()     { fuzzyEnabled.value = !fuzzyEnabled.value; saveSetting(LOCAL_FUZZY_KEY, fuzzyEnabled.value) }
+function setAskStyle(val)         { askStyle.value     = val;   saveSetting(LOCAL_ASK_STYLE_KEY,  val)          }
+
+function resetAllSettings() {
+  const keys = [
+    LOCAL_DEFAULT_EBA_KEY, LOCAL_DEFAULT_TAB_KEY, LOCAL_NEW_TAB_KEY,
+    LOCAL_COMPACT_KEY, LOCAL_PREVIEW_KEY, LOCAL_ANALYTICS_KEY,
+    LOCAL_DEFAULT_TOPIC_KEY, LOCAL_SORT_ORDER_KEY, LOCAL_FUZZY_KEY, LOCAL_ASK_STYLE_KEY,
+  ]
+  try { keys.forEach(k => localStorage.removeItem(k)) } catch { /* degrade silently */ }
+  defaultEba.value      = ''
+  defaultTopic.value    = ''
+  defaultTab.value      = 'search'
+  activeTab.value       = 'search'
+  resultsNewTab.value   = false
+  compactResults.value  = false
+  previewEnabled.value  = true
+  analyticsEnabled.value = true
+  sortOrder.value       = 'relevance'
+  fuzzyEnabled.value    = true
+  askStyle.value        = 'detailed'
+  selectedEba.value     = ''
+  selectedTopic.value   = ''
+}
 
 // ─── Per-turn AI answer copy ──────────────────────────────────────────────────
 // Copies the plain text of a single assistant turn to the clipboard.
@@ -2701,6 +2816,10 @@ function loadPersistedState() {
     // Apply default EBA whenever the modal opens with no active EBA filter.
     if (defaultEba.value && !selectedEba.value) {
       selectedEba.value = defaultEba.value
+    }
+    // Apply default topic whenever the modal opens with no active topic filter.
+    if (defaultTopic.value && !selectedTopic.value) {
+      selectedTopic.value = defaultTopic.value
     }
     if (savedQuery || savedEba || savedTopic) {
       nextTick(() => doSearch().then(() => {
@@ -3713,7 +3832,7 @@ async function doSearch() {
       ? buildSuggestions(query.value, results.value.length, operators)
       : []
 
-    if (results.value.length === 0 && cleanQuery.trim().length > 3) {
+    if (results.value.length === 0 && cleanQuery.trim().length > 3 && fuzzyEnabled.value) {
       await runFuzzyFallback(cleanQuery.trim(), filters)
     }
 
@@ -3847,6 +3966,7 @@ async function submitAsk() {
           contentHash: hashToSend,
           sourcePath:  pendingSourcePath ?? undefined,   // ← new
           history:     historyToSend.length > 0 ? historyToSend : undefined,
+          style:       askStyle.value,
         }),
       })
       if (!res.ok) throw new Error(`Worker returned ${res.status}`)
@@ -3941,6 +4061,7 @@ async function submitAsk() {
         contentHash: hashToSend,
         sourcePath:  pendingSourcePath ?? undefined,
         history:     historyToSend.length > 0 ? historyToSend : undefined,
+        style:       askStyle.value,
       }),
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
@@ -6290,5 +6411,25 @@ function autoResizeFollowUp() {
 .search-modal--compact .result-excerpt,
 .search-modal--compact .result-topics  { display: none; }
 .search-modal--compact .result-card    { padding-bottom: 0.5rem; }
+
+/* ─── Settings reset row ─────────────────────────────────────────────────────── */
+.settings-reset-row {
+  padding: 8px 14px 4px;
+  display: flex;
+  justify-content: flex-end;
+}
+.settings-reset-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 11px;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.settings-reset-btn:hover {
+  color: var(--vp-c-danger-1, #f43f5e);
+}
 
 </style>

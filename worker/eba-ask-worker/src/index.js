@@ -1392,7 +1392,7 @@ If the question is outside EBA coverage (WorkCover, unfair dismissal, Fair Work 
 //
 // Temperature is already set to 0.1 across all providers, which is the correct
 // value for factual, source-grounded tasks on all four models in the chain.
-function buildMessages(question, pages, history = []) {
+function buildMessages(question, pages, history = [], style = 'detailed') {
   const context = pages
     .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
     .join('\n\n');
@@ -1415,16 +1415,22 @@ function buildMessages(question, pages, history = []) {
     content:
       `QUESTION: ${question}\n\n` +
       `SOURCES:\n${context}\n\n` +
-      `FORMATTING (mandatory — apply to every response):\n` +
-      `- Open with a 2–3 sentence plain-language summary. No label, no bold prefix.\n` +
-      `- Then write **Explanation:** followed by the clause detail.\n` +
-      `- Only include **Conditions:** if the answer depends on employment type, classification, or hours worked. Skip it if the answer is the same for everyone.\n` +
-      `- Do NOT include a Sources section. Do NOT write "Sources:" anywhere.\n` +
-      `- Bold all clause numbers: **Clause 49**, not Clause 49.\n` +
-      `- Bold all rates and dollar amounts: **250%**, **$45.60**.\n` +
-      `- Use - bullet lists, never numbered lists inside Explanation or Conditions.\n` +
-      `- One blank line between every section.\n` +
-      `- Never write a wall of unbroken text.`
+      (style === 'concise'
+        ? `FORMATTING (mandatory):\n` +
+          `- Answer in 2–3 sentences maximum. Plain English, no headings, no bullet lists.\n` +
+          `- Bold the clause number: **Clause 49**, not Clause 49.\n` +
+          `- Bold any rate or dollar figure: **250%**, **$45.60**.\n` +
+          `- Do NOT include a Sources section. Do NOT write "Sources:" anywhere.`
+        : `FORMATTING (mandatory — apply to every response):\n` +
+          `- Open with a 2–3 sentence plain-language summary. No label, no bold prefix.\n` +
+          `- Then write **Explanation:** followed by the clause detail.\n` +
+          `- Only include **Conditions:** if the answer depends on employment type, classification, or hours worked. Skip it if the answer is the same for everyone.\n` +
+          `- Do NOT include a Sources section. Do NOT write "Sources:" anywhere.\n` +
+          `- Bold all clause numbers: **Clause 49**, not Clause 49.\n` +
+          `- Bold all rates and dollar amounts: **250%**, **$45.60**.\n` +
+          `- Use - bullet lists, never numbered lists inside Explanation or Conditions.\n` +
+          `- One blank line between every section.\n` +
+          `- Never write a wall of unbroken text.`)
   }
 
   return [
@@ -1435,7 +1441,7 @@ function buildMessages(question, pages, history = []) {
 }
 
 // Tier 1: Cerebras — llama3.1-8b — 1,000,000 tokens/day free
-async function askCerebras(apiKey, question, pages) {
+async function askCerebras(apiKey, question, pages, history = [], style = 'detailed') {
   const res = await fetch('https://api.cerebras.ai/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -1446,7 +1452,7 @@ async function askCerebras(apiKey, question, pages) {
       model: 'llama3.1-8b',
       temperature: 0.1,
       max_tokens: 1024,
-      messages: buildMessages(question, pages, history)
+      messages: buildMessages(question, pages, history, style)
     })
   });
   if (!res.ok) throw new Error(`Cerebras ${res.status}: ${await res.text()}`);
@@ -1457,7 +1463,7 @@ async function askCerebras(apiKey, question, pages) {
 }
 
 // Tier 2: Groq — llama-3.3-70b-versatile — ~14,400 req/day free
-async function askGroq(apiKey, question, pages) {
+async function askGroq(apiKey, question, pages, history = [], style = 'detailed') {
   const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -1468,7 +1474,7 @@ async function askGroq(apiKey, question, pages) {
       model: 'llama-3.3-70b-versatile',
       temperature: 0.1,
       max_tokens: 1024,
-      messages: buildMessages(question, pages, history)
+      messages: buildMessages(question, pages, history, style)
     })
   });
   if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`);
@@ -1479,10 +1485,13 @@ async function askGroq(apiKey, question, pages) {
 }
 
 // Tier 3: Gemini — gemini-2.5-flash-lite — 1,000 req/day free
-async function askGemini(apiKey, question, pages, history = []) {
+async function askGemini(apiKey, question, pages, history = [], style = 'detailed') {
   const context = pages
     .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
     .join('\n\n');
+  const formatting = style === 'concise'
+    ? `FORMATTING (mandatory):\n- Answer in 2–3 sentences maximum. Plain English, no headings, no bullet lists.\n- Bold the clause number: **Clause 49**, not Clause 49.\n- Bold any rate or dollar figure: **250%**, **$45.60**.\n- Do NOT include a Sources section.`
+    : `FORMATTING (mandatory):\n- Open with a 2–3 sentence plain-language summary. No label, no bold prefix.\n- Then write **Explanation:** followed by the clause detail.\n- Only include **Conditions:** if the answer depends on employment type, classification, or hours worked.\n- Do NOT include a Sources section.\n- Bold all clause numbers and all rates/dollar amounts.\n- Use - bullet lists, never numbered lists.\n- One blank line between every section.`
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${apiKey}`;
   const res = await fetch(url, {
     method: 'POST',
@@ -1496,7 +1505,7 @@ async function askGemini(apiKey, question, pages, history = []) {
         })),
         {
           role:  'user',
-          parts: [{ text: `QUESTION: ${question}\n\nSOURCES:\n${context}` }],
+          parts: [{ text: `QUESTION: ${question}\n\nSOURCES:\n${context}\n\n${formatting}` }],
         }
       ],
       generationConfig: { maxOutputTokens: 1024, temperature: 0.1 }
@@ -1510,8 +1519,8 @@ async function askGemini(apiKey, question, pages, history = []) {
 }
 
 // Tier 4: Cloudflare Workers AI — llama-3.1-8b — native binding, no API key
-async function askCloudflareAI(ai, question, pages) {
-  const messages = buildMessages(question, pages, history);
+async function askCloudflareAI(ai, question, pages, history = [], style = 'detailed') {
+  const messages = buildMessages(question, pages, history, style);
   const res = await ai.run('@cf/meta/llama-3.1-8b-instruct-fp8-fast', {
     messages,
     max_tokens: 1024
@@ -1594,13 +1603,14 @@ export default {
       return new Response('Method not allowed', { status: 405, headers: corsHeaders(origin) });
     }
 
-    let question, contentHash, sourcePath, history
+    let question, contentHash, sourcePath, history, style
     try {
       const body   = await request.json()
       question     = (body.question || '').trim()
       contentHash  = body.contentHash || null
       sourcePath   = typeof body.sourcePath === 'string' ? body.sourcePath : null
       history      = Array.isArray(body.history) ? body.history.slice(-6) : []
+      style        = body.style === 'concise' ? 'concise' : 'detailed'
     } catch {
       return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin)
     }
@@ -1612,8 +1622,10 @@ export default {
     // ── KV Cache Read ────────────────────────────────────────────────────────
     // Only attempt cache lookup when a valid content hash is provided.
     // The hash is computed client-side as SHA-256(title + eba + pathname).
-    if (contentHash && isValidHash(contentHash) && env.EBA_AI_CACHE) {
-      const cached = await readCache(env.EBA_AI_CACHE, contentHash);
+    // Cache key includes style so concise and detailed responses are stored separately.
+    const styledCacheKey = contentHash ? `${contentHash}:${style}` : null
+    if (styledCacheKey && isValidHash(contentHash) && env.EBA_AI_CACHE) {
+      const cached = await readCache(env.EBA_AI_CACHE, styledCacheKey);
       if (cached) {
         // Serve from edge cache — no LLM call needed
         return jsonResponse({ ...cached, cached: true }, 200, origin);
@@ -1679,7 +1691,7 @@ export default {
     // Tier 1: Cerebras
     if (env.CEREBRAS_API_KEY) {
       try {
-        aiResult = await askCerebras(env.CEREBRAS_API_KEY, question, pages);
+        aiResult = await askCerebras(env.CEREBRAS_API_KEY, question, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Cerebras', error: err.message });
       }
@@ -1690,7 +1702,7 @@ export default {
     // Tier 2: Groq
     if (!aiResult && env.GROQ_API_KEY) {
       try {
-        aiResult = await askGroq(env.GROQ_API_KEY, question, pages);
+        aiResult = await askGroq(env.GROQ_API_KEY, question, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Groq', error: err.message });
       }
@@ -1701,7 +1713,7 @@ export default {
     // Tier 3: Gemini
     if (!aiResult && env.GEMINI_API_KEY) {
       try {
-        aiResult = await askGemini(env.GEMINI_API_KEY, question, pages, history);
+        aiResult = await askGemini(env.GEMINI_API_KEY, question, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Gemini', error: err.message });
       }
@@ -1712,7 +1724,7 @@ export default {
     // Tier 4: Cloudflare Workers AI
     if (!aiResult && env.AI) {
       try {
-        aiResult = await askCloudflareAI(env.AI, question, pages);
+        aiResult = await askCloudflareAI(env.AI, question, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Cloudflare AI', error: err.message });
       }
@@ -1739,8 +1751,8 @@ export default {
     // came from the AskThisPage button with a deterministic prompt). General
     // free-form Ask AI questions are not cached because their phrasing varies
     // too much for the hash to be a reliable cache key.
-    if (contentHash && isValidHash(contentHash) && env.EBA_AI_CACHE) {
-      await writeCache(env.EBA_AI_CACHE, contentHash, responsePayload);
+    if (styledCacheKey && isValidHash(contentHash) && env.EBA_AI_CACHE) {
+      await writeCache(env.EBA_AI_CACHE, styledCacheKey, responsePayload);
     }
 
     return jsonResponse(responsePayload, 200, origin);
