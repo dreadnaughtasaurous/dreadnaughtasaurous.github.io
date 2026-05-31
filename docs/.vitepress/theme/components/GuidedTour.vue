@@ -206,10 +206,10 @@ const steps = [
     mobileCaret: 'bottom',
   },
   {
-    target: '.a11y-controls',
-    headline: 'Reading & accessibility',
-    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>`,
-    copy: '<strong>Aa</strong> cycles font size (normal → large → extra large). The <strong>book icon</strong> enters reading mode — hides the sidebar and toolbar for a distraction-free view.',
+    target: '.a11y-btn',
+    headline: 'Accessibility & reading tools',
+    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/></svg>`,
+    copy: 'Click <strong>Aa</strong> to open the accessibility panel. Eight settings are available: <strong>text size</strong> (normal → large → extra large), <strong>line spacing</strong>, <strong>letter spacing</strong>, <strong>OpenDyslexic font</strong>, <strong>highlight links</strong>, <strong>high contrast</strong>, <strong>reduce motion</strong>, and <strong>reading mode</strong> — which hides the sidebar and nav for distraction-free browsing. All settings persist across page navigation.',
     caretHint: 'bottom',
   },
   {
