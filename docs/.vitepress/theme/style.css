@@ -784,17 +784,24 @@ order: 3;
    scale proportionally with the body text.
    ============================================================ */
 
-/* Large — 112% of VitePress default (approx 16px → 18px) */
-[data-font-size="large"] .vp-doc {
-  font-size: 1.12em;
+/* ── Font size: set on <html> so all rem-based content scales globally ──────
+   VitePress content (clause pages, homepage text, disclaimers, nav labels)
+   uses rem/em units and inherits this scale automatically.
+   Nav bar height, sidebar widths, and elements with hardcoded px values are
+   unaffected — they do not inherit font-size from <html>.                   */
+
+/* Large — 112% base (approx 16px → 18px) */
+[data-font-size="large"] {
+  font-size: 112%;
 }
 
-/* Extra Large — 125% of VitePress default (approx 16px → 20px) */
-[data-font-size="xl"] .vp-doc {
-  font-size: 1.25em;
+/* Extra Large — 125% base (approx 16px → 20px) */
+[data-font-size="xl"] {
+  font-size: 125%;
 }
 
-/* Ensure headings, code blocks, and tables also scale with the parent em */
+/* Increase line-height for comfort at enlarged sizes.
+   Scoped to content areas — avoids disrupting nav/sidebar layout metrics.  */
 [data-font-size="large"] .vp-doc h1,
 [data-font-size="large"] .vp-doc h2,
 [data-font-size="large"] .vp-doc h3,
@@ -802,13 +809,17 @@ order: 3;
 [data-font-size="large"] .vp-doc li,
 [data-font-size="large"] .vp-doc td,
 [data-font-size="large"] .vp-doc th,
+[data-font-size="large"] .home-subtitle,
+[data-font-size="large"] .home-card .details,
 [data-font-size="xl"]    .vp-doc h1,
 [data-font-size="xl"]    .vp-doc h2,
 [data-font-size="xl"]    .vp-doc h3,
 [data-font-size="xl"]    .vp-doc p,
 [data-font-size="xl"]    .vp-doc li,
 [data-font-size="xl"]    .vp-doc td,
-[data-font-size="xl"]    .vp-doc th {
+[data-font-size="xl"]    .vp-doc th,
+[data-font-size="xl"]    .home-subtitle,
+[data-font-size="xl"]    .home-card .details {
   line-height: 1.75;
 }
 
@@ -932,14 +943,20 @@ display: none !important;
 [data-line-spacing="compact"] .vp-doc p,
 [data-line-spacing="compact"] .vp-doc li,
 [data-line-spacing="compact"] .vp-doc td,
-[data-line-spacing="compact"] .vp-doc th {
+[data-line-spacing="compact"] .vp-doc th,
+[data-line-spacing="compact"] .home-subtitle,
+[data-line-spacing="compact"] .home-disclaimer,
+[data-line-spacing="compact"] .home-card .details {
   line-height: 1.5;
 }
 
 [data-line-spacing="relaxed"] .vp-doc p,
 [data-line-spacing="relaxed"] .vp-doc li,
 [data-line-spacing="relaxed"] .vp-doc td,
-[data-line-spacing="relaxed"] .vp-doc th {
+[data-line-spacing="relaxed"] .vp-doc th,
+[data-line-spacing="relaxed"] .home-subtitle,
+[data-line-spacing="relaxed"] .home-disclaimer,
+[data-line-spacing="relaxed"] .home-card .details {
   line-height: 2.0;
 }
 
