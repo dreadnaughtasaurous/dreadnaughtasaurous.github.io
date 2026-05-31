@@ -1344,6 +1344,81 @@ html {
   font-weight: 700;
 }
 
+/* =============================================
+   Inline Glossary — Term Highlights & Tooltip
+   ============================================= */
+
+/* Dashed underline marking a defined term in clause text */
+.vp-doc .gloss-term {
+  border-bottom: 1.5px dashed var(--vp-c-brand-2);
+  cursor: help;
+  color: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  background: none;
+  padding: 0;
+  display: inline;
+  border-radius: 0;
+}
+
+.vp-doc .gloss-term:hover,
+.vp-doc .gloss-term:focus-visible {
+  background-color: var(--vp-c-brand-soft);
+  border-radius: 2px;
+  outline: none;
+}
+
+/* Tooltip card — teleported to <body> so it is never clipped by overflow:hidden */
+.gloss-tooltip {
+  position: fixed;
+  z-index: 9000;
+  width: 300px;
+  max-width: calc(100vw - 16px);
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 12px 14px 10px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.13), 0 1px 4px rgba(0, 0, 0, 0.06);
+  pointer-events: auto;  /* allows mouse to move from term into card */
+}
+
+.dark .gloss-tooltip {
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.45), 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.gloss-tt-term {
+  font-size: 0.8125rem;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  margin-bottom: 5px;
+  line-height: 1.3;
+}
+
+.gloss-tt-def {
+  font-size: 0.8rem;
+  line-height: 1.55;
+  color: var(--vp-c-text-1);
+  margin: 0;
+}
+
+.gloss-tt-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  opacity: 0.8;
+  transition: opacity 0.15s;
+}
+
+.gloss-tt-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 @media print {
   .sf-wrap { display: none !important; }
+  .gloss-term { border-bottom: none !important; }
+  .gloss-tooltip { display: none !important; }
 }

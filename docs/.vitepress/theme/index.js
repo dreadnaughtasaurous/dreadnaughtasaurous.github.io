@@ -23,6 +23,7 @@ import MobileNav from './components/MobileNav.vue'
 import SidebarFilter from './components/SidebarFilter.vue'
 import ScrollToTop from './components/ScrollToTop.vue'
 import CommandPalette from './components/CommandPalette.vue'
+import GlossaryTooltip from './components/GlossaryTooltip.vue'
 
 export default {
   extends: DefaultTheme,
@@ -79,7 +80,7 @@ export default {
 
       // layout-bottom: always-mounted overlay components that are event-driven.
       // Fragment is required — VitePress slot functions must return a single VNode.
-      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette)]),
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette), h(GlossaryTooltip)]),
 
       'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
