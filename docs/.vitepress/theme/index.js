@@ -22,6 +22,7 @@ import ClausePageTour from './components/ClausePageTour.vue'
 import MobileNav from './components/MobileNav.vue'
 import SidebarFilter from './components/SidebarFilter.vue'
 import ScrollToTop from './components/ScrollToTop.vue'
+import SessionTrail from './components/SessionTrail.vue'
 import CommandPalette from './components/CommandPalette.vue'
 import GlossaryTooltip from './components/GlossaryTooltip.vue'
 
@@ -80,7 +81,7 @@ export default {
 
       // layout-bottom: always-mounted overlay components that are event-driven.
       // Fragment is required — VitePress slot functions must return a single VNode.
-      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette), h(GlossaryTooltip)]),
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette), h(GlossaryTooltip), h(SessionTrail)]),
 
       'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
@@ -106,6 +107,7 @@ export default {
     app.component('MobileNav',             MobileNav)
     app.component('SidebarFilter',         SidebarFilter)
     app.component('CommandPalette',        CommandPalette)
+    app.component('SessionTrail',          SessionTrail)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation
@@ -406,6 +408,21 @@ export default {
 
       const referrer = sessionStorage.getItem('eba-last-path') || ''
       sessionStorage.setItem('eba-last-path', path)
+
+      // ── Session trail ──────────────────────────────────────────────────────
+      // Maintains eba-session-trail: Array<{path,title,eba,timestamp}>, max 20.
+      // Deduplicates by path — revisiting a page promotes it to the top of the
+      // list rather than creating a duplicate entry.
+      // SessionTrail.vue listens for the eba-trail-updated CustomEvent to refresh
+      // its reactive ref without polling sessionStorage on a timer.
+      try {
+        const existing = JSON.parse(sessionStorage.getItem('eba-session-trail') || '[]')
+        const entry    = { path, title: document.title || '', eba: getEbaFromPath(path), timestamp: now }
+        const deduped  = existing.filter(e => e.path !== path)
+        deduped.unshift(entry)
+        sessionStorage.setItem('eba-session-trail', JSON.stringify(deduped.slice(0, 20)))
+        window.dispatchEvent(new CustomEvent('eba-trail-updated'))
+      } catch { /* silent — never block navigation on storage errors */ }
 
       sendBeacon('/log/pageview', {
         path,
