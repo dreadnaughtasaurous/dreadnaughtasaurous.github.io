@@ -2,63 +2,185 @@
   <ClientOnly>
     <div class="a11y-controls" aria-label="Accessibility controls">
 
-      <!-- ── Separator (left edge — mirrors VitePress appearance + social-links divider) ── -->
+      <!-- ── Separator ── -->
       <div class="a11y-sep" aria-hidden="true"></div>
 
-      <!-- ── Font size cycle button ── -->
+      <!-- ── Trigger button ── -->
       <button
+        ref="triggerRef"
         class="a11y-btn"
-        :class="{ 'a11y-btn--active': fontSize !== 'normal' }"
-        :aria-label="`Font size: ${fontSizeLabel}. Click to cycle.`"
-        :title="`Font size: ${fontSizeLabel} — click to cycle`"
-        @click="cycleFont"
+        :class="{ 'a11y-btn--active': anyActive }"
+        :aria-label="`Accessibility options${anyActive ? ' — preferences active' : ''}`"
+        :title="`Accessibility options${anyActive ? ' — preferences active' : ''}`"
+        :aria-expanded="open"
+        aria-haspopup="dialog"
+        @click="togglePanel"
       >
         <span class="a11y-font-icon" aria-hidden="true">Aa</span>
-      </button>
-
-      <!-- ── Reading mode toggle ── -->
-      <button
-        class="a11y-btn"
-        :class="{ 'a11y-btn--active': readingMode }"
-        :aria-label="readingMode ? 'Reading mode on — click to disable' : 'Reading mode off — click to enable (R)'"
-        :title="readingMode ? 'Reading mode: ON — click to disable' : 'Reading mode: OFF — click to enable (R)'"
-        @click="toggleReading"
-      >
-        <!-- Book-open icon -->
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-             stroke="currentColor" stroke-width="2"
-             stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
-          <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
-        </svg>
+        <span v-if="anyActive" class="a11y-dot" aria-hidden="true"></span>
       </button>
 
     </div>
+
+    <Teleport to="body">
+
+      <!-- ── Click-outside backdrop ── -->
+      <div v-if="open" class="a11y-backdrop" @click="close" aria-hidden="true"></div>
+
+      <!-- ── Panel ── -->
+      <div
+        v-if="open"
+        ref="panelRef"
+        class="a11y-panel"
+        role="dialog"
+        aria-label="Accessibility preferences"
+        tabindex="-1"
+        :style="panelStyle"
+        @keydown.esc.stop="close"
+      >
+
+        <!-- Header -->
+        <div class="a11y-panel-hdr">
+          <span class="a11y-panel-title">Accessibility</span>
+          <button
+            class="a11y-reset-btn"
+            :disabled="!anyActive"
+            :title="anyActive ? 'Reset all preferences to defaults' : 'No active preferences'"
+            @click="resetAll"
+          >Reset all</button>
+        </div>
+
+        <!-- ── Text size ── -->
+        <div class="a11y-row">
+          <span class="a11y-row-label">Text size</span>
+          <div class="a11y-seg-group" role="group" aria-label="Text size">
+            <button
+              v-for="s in FONT_STEPS" :key="s.value"
+              class="a11y-seg-btn"
+              :class="{ 'a11y-seg-btn--on': fontSize === s.value }"
+              :aria-pressed="fontSize === s.value"
+              @click="setFont(s.value)"
+            >{{ s.label }}</button>
+          </div>
+        </div>
+
+        <!-- ── Line spacing ── -->
+        <div class="a11y-row">
+          <span class="a11y-row-label">Line spacing</span>
+          <div class="a11y-seg-group" role="group" aria-label="Line spacing">
+            <button
+              v-for="s in LINE_STEPS" :key="s.value"
+              class="a11y-seg-btn"
+              :class="{ 'a11y-seg-btn--on': lineSpacing === s.value }"
+              :aria-pressed="lineSpacing === s.value"
+              @click="setLineSpacing(s.value)"
+            >{{ s.label }}</button>
+          </div>
+        </div>
+
+        <div class="a11y-rule"></div>
+
+        <!-- ── Toggle rows ── -->
+        <div
+          v-for="t in TOGGLES" :key="t.key"
+          class="a11y-row a11y-row--toggle"
+        >
+          <span class="a11y-row-label">{{ t.label }}</span>
+          <button
+            class="a11y-toggle"
+            :class="{ 'a11y-toggle--on': toggleState[t.key] }"
+            role="switch"
+            :aria-checked="toggleState[t.key]"
+            :aria-label="`${t.label}: ${toggleState[t.key] ? 'on' : 'off'}`"
+            @click="flipToggle(t.key)"
+          >
+            <span class="a11y-toggle-track">
+              <span class="a11y-toggle-thumb"></span>
+            </span>
+          </button>
+        </div>
+
+      </div><!-- /panel -->
+
+    </Teleport>
   </ClientOnly>
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
+import { ref, reactive, computed, onMounted, onUnmounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 
-// ─── Route watcher — reset reading mode on every navigation ──────────────────
+// ─── Step definitions ─────────────────────────────────────────────────────────
+
+const FONT_STEPS = [
+  { value: 'normal', label: 'Normal' },
+  { value: 'large',  label: 'Large'  },
+  { value: 'xl',     label: 'XL'     },
+]
+
+const LINE_STEPS = [
+  { value: 'compact', label: 'Compact' },
+  { value: 'normal',  label: 'Normal'  },
+  { value: 'relaxed', label: 'Relaxed' },
+]
+
+// label shown in the panel, key matches toggleState + APPLY_FNS
+const TOGGLES = [
+  { key: 'letterSpacing', label: 'Wide letter spacing' },
+  { key: 'dyslexicFont',  label: 'OpenDyslexic font'   },
+  { key: 'linkHighlight', label: 'Highlight links'      },
+  { key: 'highContrast',  label: 'High contrast'        },
+  { key: 'reducedMotion', label: 'Reduce motion'        },
+  { key: 'readingMode',   label: 'Reading mode'         },
+]
+
+// ─── LocalStorage keys ────────────────────────────────────────────────────────
+
+const LS_FONT      = 'eba-font-size'
+const LS_LINE      = 'eba-line-spacing'
+const LS_LETTER    = 'eba-letter-spacing'
+const LS_DYSLEXIC  = 'eba-font-dyslexic'
+const LS_HIGHLIGHT = 'eba-link-highlight'
+const LS_CONTRAST  = 'eba-high-contrast'
+const LS_MOTION    = 'eba-reduced-motion'
+// readingMode is session-only — no LS key
+
+// ─── Reactive state ───────────────────────────────────────────────────────────
+
+const open       = ref(false)
+const triggerRef = ref(null)
+const panelRef   = ref(null)
+const panelStyle = ref({})
+
+const fontSize    = ref('normal')
+const lineSpacing = ref('normal')
+
+const toggleState = reactive({
+  letterSpacing: false,
+  dyslexicFont:  false,
+  linkHighlight: false,
+  highContrast:  false,
+  reducedMotion: false,
+  readingMode:   false,
+})
+
+// ─── Computed ─────────────────────────────────────────────────────────────────
+
+const anyActive = computed(() =>
+  fontSize.value    !== 'normal' ||
+  lineSpacing.value !== 'normal' ||
+  Object.values(toggleState).some(Boolean)
+)
+
+// ─── Route watcher — reset reading mode on navigation ────────────────────────
+
 const route = useRoute()
 watch(() => route.path, () => {
-  readingMode.value = false
+  toggleState.readingMode = false
   applyReadingMode(false)
 })
 
-// ─── Font size ────────────────────────────────────────────────────────────────
-const FONT_STEPS  = ['normal', 'large', 'xl']
-const LS_KEY_FONT = 'eba-font-size'
-
-const fontSize = ref('normal')
-
-const fontSizeLabel = computed(() => ({
-  normal: 'Normal',
-  large:  'Large',
-  xl:     'Extra Large',
-}[fontSize.value]))
+// ─── Apply functions (DOM → data attributes on <html>) ───────────────────────
 
 function applyFont(size) {
   if (size === 'normal') {
@@ -68,16 +190,55 @@ function applyFont(size) {
   }
 }
 
-function cycleFont() {
-  const currentIdx = FONT_STEPS.indexOf(fontSize.value)
-  const nextIdx    = (currentIdx + 1) % FONT_STEPS.length
-  fontSize.value   = FONT_STEPS[nextIdx]
-  localStorage.setItem(LS_KEY_FONT, fontSize.value)
-  applyFont(fontSize.value)
+function applyLineSpacing(value) {
+  if (value === 'normal') {
+    document.documentElement.removeAttribute('data-line-spacing')
+  } else {
+    document.documentElement.setAttribute('data-line-spacing', value)
+  }
 }
 
-// ─── Reading mode ─────────────────────────────────────────────────────────────
-const readingMode = ref(false)
+function applyLetterSpacing(active) {
+  if (active) {
+    document.documentElement.setAttribute('data-letter-spacing', 'wide')
+  } else {
+    document.documentElement.removeAttribute('data-letter-spacing')
+  }
+}
+
+function applyDyslexicFont(active) {
+  // Font is declared via @font-face in style.css — browser downloads the
+  // woff2 files only when this attribute is present on <html>.
+  if (active) {
+    document.documentElement.setAttribute('data-dyslexic-font', '')
+  } else {
+    document.documentElement.removeAttribute('data-dyslexic-font')
+  }
+}
+
+function applyLinkHighlight(active) {
+  if (active) {
+    document.documentElement.setAttribute('data-link-highlight', '')
+  } else {
+    document.documentElement.removeAttribute('data-link-highlight')
+  }
+}
+
+function applyHighContrast(active) {
+  if (active) {
+    document.documentElement.setAttribute('data-high-contrast', '')
+  } else {
+    document.documentElement.removeAttribute('data-high-contrast')
+  }
+}
+
+function applyReducedMotion(active) {
+  if (active) {
+    document.documentElement.setAttribute('data-reduced-motion', '')
+  } else {
+    document.documentElement.removeAttribute('data-reduced-motion')
+  }
+}
 
 function applyReadingMode(active) {
   if (active) {
@@ -87,23 +248,111 @@ function applyReadingMode(active) {
   }
 }
 
-function toggleReading() {
-  readingMode.value = !readingMode.value
-  applyReadingMode(readingMode.value)
+// ─── Setter functions (update state + LS + DOM) ───────────────────────────────
+
+function setFont(value) {
+  fontSize.value = value
+  localStorage.setItem(LS_FONT, value)
+  applyFont(value)
 }
 
-// ─── Keyboard shortcut — R key ────────────────────────────────────────────────
+function setLineSpacing(value) {
+  lineSpacing.value = value
+  localStorage.setItem(LS_LINE, value)
+  applyLineSpacing(value)
+}
+
+function flipToggle(key) {
+  toggleState[key] = !toggleState[key]
+  const v = toggleState[key]
+  switch (key) {
+    case 'letterSpacing': localStorage.setItem(LS_LETTER,    v ? '1' : '0'); applyLetterSpacing(v);  break
+    case 'dyslexicFont':  localStorage.setItem(LS_DYSLEXIC,  v ? '1' : '0'); applyDyslexicFont(v);   break
+    case 'linkHighlight': localStorage.setItem(LS_HIGHLIGHT, v ? '1' : '0'); applyLinkHighlight(v);  break
+    case 'highContrast':  localStorage.setItem(LS_CONTRAST,  v ? '1' : '0'); applyHighContrast(v);   break
+    case 'reducedMotion': localStorage.setItem(LS_MOTION,    v ? '1' : '0'); applyReducedMotion(v);  break
+    case 'readingMode':   applyReadingMode(v); break  // session-only, no LS write
+  }
+}
+
+function resetAll() {
+  setFont('normal')
+  setLineSpacing('normal')
+  for (const key of Object.keys(toggleState)) {
+    if (toggleState[key]) flipToggle(key)
+  }
+}
+
+// ─── Panel position (fixed, below trigger button) ─────────────────────────────
+
+function computePanelPosition() {
+  if (!triggerRef.value) return
+  const rect   = triggerRef.value.getBoundingClientRect()
+  const vw     = window.innerWidth
+  // Cap at viewport width minus 16px margin; min 260px for narrow viewports
+  const panelW = Math.max(260, Math.min(320, vw - 16))
+  let left     = rect.right - panelW          // right-align to trigger
+  if (left < 8)               left = 8        // clamp to viewport left
+  if (left + panelW > vw - 8) left = vw - panelW - 8  // clamp to viewport right
+  panelStyle.value = {
+    top:   `${rect.bottom + 6}px`,
+    left:  `${left}px`,
+    width: `${panelW}px`,
+  }
+}
+
+function togglePanel() {
+  if (open.value) {
+    close()
+  } else {
+    computePanelPosition()
+    open.value = true
+    nextTick(() => panelRef.value?.focus())
+  }
+}
+
+function close() {
+  open.value = false
+  triggerRef.value?.focus()   // return focus to trigger for keyboard users
+}
+
+// ─── External reading mode event (R key shortcut via KeyboardHelp) ────────────
+
 function onToggleReadingEvent() {
-  toggleReading()
+  toggleState.readingMode = !toggleState.readingMode
+  applyReadingMode(toggleState.readingMode)
 }
 
 // ─── Lifecycle ────────────────────────────────────────────────────────────────
+
 onMounted(() => {
-  const saved = localStorage.getItem(LS_KEY_FONT)
-  if (saved && FONT_STEPS.includes(saved)) {
-    fontSize.value = saved
-    applyFont(saved)
+  // Font size
+  const savedFont = localStorage.getItem(LS_FONT)
+  if (savedFont && FONT_STEPS.some(s => s.value === savedFont)) {
+    fontSize.value = savedFont
+    applyFont(savedFont)
   }
+
+  // Line spacing
+  const savedLine = localStorage.getItem(LS_LINE)
+  if (savedLine && LINE_STEPS.some(s => s.value === savedLine)) {
+    lineSpacing.value = savedLine
+    applyLineSpacing(savedLine)
+  }
+
+  // Toggles (persistent)
+  const restoreToggle = (lsKey, stateKey, applyFn) => {
+    if (localStorage.getItem(lsKey) === '1') {
+      toggleState[stateKey] = true
+      applyFn(true)
+    }
+  }
+  restoreToggle(LS_LETTER,    'letterSpacing', applyLetterSpacing)
+  restoreToggle(LS_DYSLEXIC,  'dyslexicFont',  applyDyslexicFont)
+  restoreToggle(LS_HIGHLIGHT, 'linkHighlight', applyLinkHighlight)
+  restoreToggle(LS_CONTRAST,  'highContrast',  applyHighContrast)
+  restoreToggle(LS_MOTION,    'reducedMotion', applyReducedMotion)
+
   window.addEventListener('toggle-reading-mode', onToggleReadingEvent)
 })
 
@@ -114,33 +363,26 @@ onUnmounted(() => {
 </script>
 
 <style scoped>
-/* ── Wrapper ── */
+/* ── Outer wrapper ── */
 .a11y-controls {
-  display: flex;
+  display:     flex;
   align-items: center;
-  gap: 0;
-  height: 100%;
+  height:      100%;
 }
 
-/* ── Separator ───────────────────────────────────────────────────────────────
-   Matches VitePress's native ::before separator:
-     height: 24px              — same as .appearance + .social-links::before
-     background: divider token — same token
-     margin-left: 16px         — confirmed visually via DevTools; matches the
-                                  space VitePress uses between groups
-     margin-right: 8px         — base margin-right from VitePress rule
-   ──────────────────────────────────────────────────────────────────────────── */
+/* ── Separator (matches VitePress native divider) ── */
 .a11y-sep {
-  width: 1px;
-  height: 24px;
-  background: var(--vp-c-divider);
-  margin-left: 16px;
+  width:        1px;
+  height:       24px;
+  background:   var(--vp-c-divider);
+  margin-left:  16px;
   margin-right: 8px;
-  flex-shrink: 0;
+  flex-shrink:  0;
 }
 
-/* ── Shared button shell ── */
+/* ── Trigger button ── */
 .a11y-btn {
+  position:        relative;
   display:         flex;
   align-items:     center;
   justify-content: center;
@@ -155,28 +397,11 @@ onUnmounted(() => {
   flex-shrink:     0;
   padding:         0;
 }
+.a11y-btn:hover            { background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); }
+.a11y-btn--active          { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); }
+.a11y-btn--active:hover    { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); }
+.a11y-btn:focus-visible    { outline: 2px solid var(--vp-c-brand); outline-offset: 2px; }
 
-.a11y-btn:hover {
-  background: var(--vp-c-bg-soft);
-  color:      var(--vp-c-text-1);
-}
-
-.a11y-btn--active {
-  background: var(--vp-c-brand-soft);
-  color:      var(--vp-c-brand-1);
-}
-
-.a11y-btn--active:hover {
-  background: var(--vp-c-brand-soft);
-  color:      var(--vp-c-brand-1);
-}
-
-.a11y-btn:focus-visible {
-  outline:        2px solid var(--vp-c-brand);
-  outline-offset: 2px;
-}
-
-/* ── Font size button text label ── */
 .a11y-font-icon {
   font-size:      0.85rem;
   font-weight:    700;
@@ -184,5 +409,162 @@ onUnmounted(() => {
   letter-spacing: -0.03em;
   line-height:    1;
   user-select:    none;
+}
+
+/* ── Active indicator dot ── */
+.a11y-dot {
+  position:       absolute;
+  top:            5px;
+  right:          5px;
+  width:          6px;
+  height:         6px;
+  border-radius:  50%;
+  background:     var(--vp-c-brand-1);
+  pointer-events: none;
+}
+
+/* ── Backdrop (click-outside close, transparent) ── */
+.a11y-backdrop {
+  position:   fixed;
+  inset:      0;
+  z-index:    9199;
+  background: transparent;
+}
+
+/* ── Panel ── */
+.a11y-panel {
+  position:      fixed;
+  z-index:       9200;
+  background:    var(--vp-c-bg-elv);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  box-shadow:    0 8px 32px rgba(0,0,0,.12), 0 2px 8px rgba(0,0,0,.06);
+  overflow:      hidden;
+  outline:       none;         /* receives programmatic focus; no visible ring needed */
+}
+.dark .a11y-panel {
+  box-shadow: 0 8px 32px rgba(0,0,0,.42), 0 2px 8px rgba(0,0,0,.22);
+}
+
+/* ── Panel header row ── */
+.a11y-panel-hdr {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  padding:         10px 14px 8px;
+  border-bottom:   1px solid var(--vp-c-divider);
+}
+.a11y-panel-title {
+  font-size:      0.72rem;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-2);
+}
+.a11y-reset-btn {
+  font-size:     0.75rem;
+  font-weight:   500;
+  color:         var(--vp-c-brand-1);
+  background:    none;
+  border:        none;
+  cursor:        pointer;
+  padding:       2px 7px;
+  border-radius: 4px;
+  transition:    background 0.12s;
+}
+.a11y-reset-btn:hover:not(:disabled) { background: var(--vp-c-brand-soft); }
+.a11y-reset-btn:disabled             { color: var(--vp-c-text-3); cursor: default; }
+
+/* ── Generic row ── */
+.a11y-row {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  gap:             10px;
+  padding:         8px 14px;
+}
+.a11y-row-label {
+  font-size:   0.82rem;
+  color:       var(--vp-c-text-1);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ── Segmented control ── */
+.a11y-seg-group {
+  display:       flex;
+  gap:           2px;
+  background:    var(--vp-c-bg-soft);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  padding:       2px;
+}
+.a11y-seg-btn {
+  font-size:     0.75rem;
+  font-weight:   500;
+  padding:       3px 9px;
+  border:        none;
+  border-radius: 4px;
+  background:    transparent;
+  color:         var(--vp-c-text-2);
+  cursor:        pointer;
+  transition:    background 0.12s, color 0.12s;
+  white-space:   nowrap;
+}
+.a11y-seg-btn:hover          { color: var(--vp-c-text-1); background: var(--vp-c-default-soft); }
+.a11y-seg-btn--on            { background: var(--vp-c-bg-elv) !important; color: var(--vp-c-brand-1) !important;
+                                font-weight: 600; box-shadow: 0 1px 3px rgba(0,0,0,.10); }
+.a11y-seg-btn:focus-visible  { outline: 2px solid var(--vp-c-brand); outline-offset: 1px; }
+
+/* ── Horizontal rule between segmented controls and toggles ── */
+.a11y-rule {
+  height:     1px;
+  background: var(--vp-c-divider);
+  margin:     2px 14px 2px;
+}
+
+/* ── Toggle row ── */
+.a11y-row--toggle {
+  padding-top:    6px;
+  padding-bottom: 6px;
+}
+
+/* ── Toggle switch ── */
+.a11y-toggle {
+  background:  none;
+  border:      none;
+  padding:     0;
+  cursor:      pointer;
+  flex-shrink: 0;
+}
+.a11y-toggle-track {
+  display:       block;
+  position:      relative;
+  width:         34px;
+  height:        18px;
+  border-radius: 9px;
+  background:    var(--vp-c-default-3);
+  transition:    background 0.18s;
+}
+.a11y-toggle--on .a11y-toggle-track {
+  background: var(--vp-c-brand-1);
+}
+.a11y-toggle-thumb {
+  position:      absolute;
+  top:           2px;
+  left:          2px;
+  width:         14px;
+  height:        14px;
+  border-radius: 50%;
+  background:    #fff;
+  box-shadow:    0 1px 3px rgba(0,0,0,.2);
+  transition:    transform 0.18s;
+}
+.a11y-toggle--on .a11y-toggle-thumb {
+  transform: translateX(16px);
+}
+.a11y-toggle:focus-visible .a11y-toggle-track {
+  outline:        2px solid var(--vp-c-brand);
+  outline-offset: 2px;
 }
 </style>

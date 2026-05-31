@@ -2,6 +2,44 @@
    EBA Wiki — Custom Global Styles
    ============================================= */
 
+/* ============================================================
+   OpenDyslexic — self-hosted web font declarations
+   ============================================================
+   Font files live at docs/public/fonts/. The browser downloads
+   these only when [data-dyslexic-font] is on <html> — zero
+   cost for users who never activate this feature.
+   font-display: swap prevents invisible text during load.
+   ============================================================ */
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style:  normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style:  italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style:  normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style:  italic;
+  font-display: swap;
+}
+
 /* =============================================
    Pay Rates Page — Pay Card Components
    ============================================= */
@@ -884,6 +922,171 @@ display: none !important;
 }
 
 /* ============================================================
+   Accessibility Controls — Line Spacing
+   ============================================================
+   Applied via data-line-spacing on <html>.
+   VitePress default line-height is approximately 1.7 — we treat
+   that as "normal" (no attribute set).
+   ============================================================ */
+
+[data-line-spacing="compact"] .vp-doc p,
+[data-line-spacing="compact"] .vp-doc li,
+[data-line-spacing="compact"] .vp-doc td,
+[data-line-spacing="compact"] .vp-doc th {
+  line-height: 1.5;
+}
+
+[data-line-spacing="relaxed"] .vp-doc p,
+[data-line-spacing="relaxed"] .vp-doc li,
+[data-line-spacing="relaxed"] .vp-doc td,
+[data-line-spacing="relaxed"] .vp-doc th {
+  line-height: 2.0;
+}
+
+/* ============================================================
+   Accessibility Controls — Wide Letter Spacing
+   ============================================================
+   Applied via data-letter-spacing="wide" on <html>.
+   0.04em is a comfortable WCAG-friendly spacing increase for
+   users with dyslexia or low vision without breaking layout.
+   ============================================================ */
+
+[data-letter-spacing="wide"] .vp-doc p,
+[data-letter-spacing="wide"] .vp-doc li,
+[data-letter-spacing="wide"] .vp-doc td,
+[data-letter-spacing="wide"] .vp-doc th,
+[data-letter-spacing="wide"] .vp-doc h1,
+[data-letter-spacing="wide"] .vp-doc h2,
+[data-letter-spacing="wide"] .vp-doc h3,
+[data-letter-spacing="wide"] .vp-doc h4,
+/* Homepage content */
+[data-letter-spacing="wide"] .home-title,
+[data-letter-spacing="wide"] .home-subtitle,
+[data-letter-spacing="wide"] .home-card .title,
+[data-letter-spacing="wide"] .home-card .details,
+[data-letter-spacing="wide"] .home-disclaimer,
+[data-letter-spacing="wide"] .home-disclaimer p {
+  letter-spacing: 0.04em;
+}
+
+/* ============================================================
+   Accessibility Controls — OpenDyslexic Font
+   ============================================================
+   Applied via data-dyslexic-font on <html>.
+   The font stylesheet is injected dynamically from cdnfonts CDN
+   by AccessibilityControls.vue only when first activated —
+   zero cost for users who never use this feature.
+   font-family name from cdnfonts: 'Open Dyslexic'
+   Code and pre blocks are intentionally excluded.
+   ============================================================ */
+
+/* Global application — applies to the entire page including homepage and nav.
+   Code and monospace blocks are explicitly excluded (OpenDyslexic reads poorly
+   in code contexts and users do not expect it there).                          */
+[data-dyslexic-font] body {
+  font-family: 'OpenDyslexic', sans-serif !important;
+}
+
+[data-dyslexic-font] code,
+[data-dyslexic-font] pre,
+[data-dyslexic-font] kbd,
+[data-dyslexic-font] .vp-doc code,
+[data-dyslexic-font] .vp-doc pre {
+  font-family: var(--vp-font-family-mono, ui-monospace, monospace) !important;
+}
+
+/* ============================================================
+   Accessibility Controls — Link Highlighting
+   ============================================================
+   Applied via data-link-highlight on <html>.
+   Helps users with colour-vision differences distinguish links
+   from body text by adding a visible, weighted underline.
+   ============================================================ */
+
+[data-link-highlight] .vp-doc a,
+[data-link-highlight] .home-wrapper a {
+  text-decoration:           underline !important;
+  text-decoration-color:     var(--vp-c-brand-1) !important;
+  text-decoration-thickness: 2px !important;
+  font-weight:               600 !important;
+}
+
+/* ============================================================
+   Accessibility Controls — Reduced Motion
+   ============================================================
+   Applied via data-reduced-motion on <html>.
+   Explicit user override — more aggressive than the OS
+   prefers-reduced-motion media query because the user has
+   actively requested it inside the wiki.
+   Uses 0.01ms (not 0) to preserve JS transitionend callbacks.
+   ============================================================ */
+
+[data-reduced-motion] *,
+[data-reduced-motion] *::before,
+[data-reduced-motion] *::after {
+  transition-duration:        0.01ms !important;
+  animation-duration:         0.01ms !important;
+  animation-iteration-count:  1      !important;
+  scroll-behavior:            auto   !important;
+}
+
+/* ============================================================
+   Accessibility Controls — High Contrast Mode
+   ============================================================
+   Applied via data-high-contrast on <html>.
+   Overrides VitePress CSS custom properties at the root level —
+   because all VitePress colour tokens inherit from :root / .dark,
+   overriding them here cascades through the entire UI without
+   needing per-element rules.
+
+   Light mode target: #000000 text on #ffffff background (21:1)
+   Dark mode target:  #ffffff text on #000000 background (21:1)
+
+   Brand colours are replaced with accessible blue (#005fcc light,
+   #7cb9ff dark) which pass WCAG AA on their respective backgrounds.
+   ============================================================ */
+
+/* ── Light mode ── */
+[data-high-contrast]:not(.dark) {
+  --vp-c-text-1:  #000000;
+  --vp-c-text-2:  #000000;
+  --vp-c-text-3:  #111111;
+  --vp-c-bg:      #ffffff;
+  --vp-c-bg-soft: #f0f0f0;
+  --vp-c-bg-elv:  #ffffff;
+  --vp-c-bg-alt:  #f0f0f0;
+  --vp-c-divider: #767676;
+  --vp-c-brand-1: #005fcc;
+  --vp-c-brand-2: #004faa;
+  --vp-c-brand-soft: #ddeeff;
+}
+
+[data-high-contrast]:not(.dark) .vp-doc a {
+  color:           #005fcc !important;
+  text-decoration: underline !important;
+}
+
+/* ── Dark mode ── */
+[data-high-contrast].dark {
+  --vp-c-text-1:  #ffffff;
+  --vp-c-text-2:  #ffffff;
+  --vp-c-text-3:  #dddddd;
+  --vp-c-bg:      #000000;
+  --vp-c-bg-soft: #111111;
+  --vp-c-bg-elv:  #111111;
+  --vp-c-bg-alt:  #111111;
+  --vp-c-divider: #888888;
+  --vp-c-brand-1: #7cb9ff;
+  --vp-c-brand-2: #5ca3ff;
+  --vp-c-brand-soft: rgba(124, 185, 255, 0.15);
+}
+
+[data-high-contrast].dark .vp-doc a {
+  color:           #7cb9ff !important;
+  text-decoration: underline !important;
+}
+
+/* ============================================================
    Accessibility Controls — Nav Bar Flex Order
    ============================================================
    VitePress renders .VPNavBarExtra as a flex row containing:
@@ -1264,6 +1467,33 @@ html {
   .pay-tab-panel {
     display: block !important;
   }
+
+  /* ── Accessibility feature resets ───────────────────────────────────────────
+     These rules ensure that user accessibility preferences do not produce
+     unexpected output on paper. Each is reverted to the most print-appropriate
+     value regardless of what the user had active on screen.                   */
+
+  /* OpenDyslexic: revert to print-safe system stack (web fonts may not render
+     in print contexts and OpenDyslexic at 11pt on paper is not recommended) */
+  [data-dyslexic-font] body {
+    font-family: system-ui, Arial, sans-serif !important;
+  }
+
+  /* High contrast: ensure black text on white — no custom property overrides
+     in print context since the browser already targets black-on-white          */
+  [data-high-contrast] .vp-doc,
+  [data-high-contrast]:not(.dark) .vp-doc {
+    color:      black   !important;
+    background: white   !important;
+  }
+  [data-high-contrast] .vp-doc a {
+    color:           black     !important;
+    text-decoration: underline !important;
+  }
+
+  /* Letter spacing: acceptable in print, leave active (no override needed)   */
+  /* Line spacing: beneficial in print, leave active (no override needed)     */
+  /* Reduced motion: irrelevant in print context (transitions do not apply)   */
 }
 
 /* ============================================================
