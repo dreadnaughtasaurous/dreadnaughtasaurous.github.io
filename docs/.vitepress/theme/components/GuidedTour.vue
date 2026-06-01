@@ -195,7 +195,8 @@ const steps = [
   
   {
     // On mobile the appearance toggle is inside the hamburger menu.
-    target: '.VPNavBar .appearance',
+    target: '.VPNavBar .VPSwitch.VPSwitchAppearance',
+    targetPad: 4,
     mobileTarget: '.VPNavBarHamburger',
     mobileOpensMenu: true,
     mobileSecondaryTarget: '.VPNavScreen .VPSwitch.VPSwitchAppearance',

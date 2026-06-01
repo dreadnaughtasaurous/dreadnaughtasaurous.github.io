@@ -435,6 +435,7 @@ onUnmounted(() => {
 .a11y-panel {
   position:      fixed;
   z-index:       9200;
+  font-size:     16px;         /* anchor: immune to [data-font-size] scaling on <html> */
   background:    var(--vp-c-bg-elv);
   border:        1px solid var(--vp-c-divider);
   border-radius: 12px;
@@ -455,14 +456,14 @@ onUnmounted(() => {
   border-bottom:   1px solid var(--vp-c-divider);
 }
 .a11y-panel-title {
-  font-size:      0.72rem;
+  font-size:      0.72em;
   font-weight:    700;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   color:          var(--vp-c-text-2);
 }
 .a11y-reset-btn {
-  font-size:     0.75rem;
+  font-size:     0.75em;
   font-weight:   500;
   color:         var(--vp-c-brand-1);
   background:    none;
@@ -484,7 +485,7 @@ onUnmounted(() => {
   padding:         8px 14px;
 }
 .a11y-row-label {
-  font-size:   0.82rem;
+  font-size:   0.82em;
   color:       var(--vp-c-text-1);
   white-space: nowrap;
   flex-shrink: 0;
@@ -500,7 +501,7 @@ onUnmounted(() => {
   padding:       2px;
 }
 .a11y-seg-btn {
-  font-size:     0.75rem;
+  font-size:     0.75em;
   font-weight:   500;
   padding:       3px 9px;
   border:        none;
