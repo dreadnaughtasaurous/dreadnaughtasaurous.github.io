@@ -1,9 +1,17 @@
 {
+  "Act": "The Fair Work Act 2009 (Cth), or its successor.",
   "ADO": "Accrued day off.",
   "Adoption": "Includes the placement of a child with an Eligible Employee prior to the relevant government department seeking a permanent care order for the child.",
+  "Agreement": "The Allied Health Professionals (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2026.",
   "Award": "The Health Professionals and Support Services Award 2020.",
   "BPECC": "Best Practice Employment Commitment Committee, established under clause 84.",
+  "Child": "Includes an adopted child, step child and ex-nuptial child.",
+  "Commission": "The Fair Work Commission or any successor body.",
+  "Department": "The Department of Health, or its successor.",
+  "Employee": "A person employed by an Employer listed in Appendix 1 of this Agreement who is employed in any of the classifications set out in this Agreement, other than employees employed solely or predominantly in the provision of public mental health services.",
+  "Employer": "Each organisation listed in Appendix 1 of this Agreement.",
   "EO Act": "Equal Opportunity Act 2010 (Vic).",
+  "Experience": "As defined at subclause 85.12(a).",
   "FFPPOA": "First full pay period on or after.",
   "HSR": "Health and safety representative (including a deputy health and safety representative).",
   "Immediate Family": "A Spouse, Child, parent, grandparent, grandchild or sibling of the Employee; or a child, parent, grandparent, grandchild or sibling of a Spouse of the Employee.",
@@ -13,7 +21,12 @@
   "Registered Health Practitioner": "An individual registered under the Health Practitioner Regulation National Law to practise a health profession, other than as a student.",
   "Spouse": "A person to whom an Employee is married, a de facto partner, former spouse or former de facto spouse. A de facto Spouse means a person who lives with the Employee as husband, wife or same-sex partner on a bona fide domestic basis.",
   "Stillborn Child": "A child who weighs at least 400 grams at delivery or whose period of gestation was at least 20 weeks, who has not breathed since delivery, and whose heart has not beaten since delivery.",
+  "Union": "The Health Services Union, represented by the Health Services Union Victoria No. 3 Branch, trading as the Victorian Allied Health Professionals Association (VAHPA).",
+  "VAHPA": "Victorian Allied Health Professionals Association — the trading name of the Health Services Union Victoria No. 3 Branch, which is the Union branch entitled to represent Employees covered by this Agreement.",
   "VHIA": "Victorian Hospitals' Industrial Association — the employers' representative body.",
   "WIC": "Workplace Implementation Committee, established under subclause 83.2.",
-  "WIRC Act": "Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or where applicable the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic)."
+  "WIRC Act": "Workplace Injury Rehabilitation and Compensation Act 2013 (Vic), or where applicable the Accident Compensation Act 1985 (Vic) or the Workers Compensation Act 1958 (Vic).",
+  "2011 Agreement": "The Victorian Public Health Sector (Health Professionals, Health and Allied Services, Managers and Administrative Officers) Multiple Enterprise Agreement 2011–2015.",
+  "2016 Agreement": "The Allied Health Professionals (Victorian Public Health Sector) Single Interest Enterprise Agreement 2016-2020.",
+  "2020 Agreement": "The Allied Health Professionals (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2020-2021."
 }
