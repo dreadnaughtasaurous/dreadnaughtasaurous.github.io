@@ -163,9 +163,9 @@
                 <span class="op-hint-header-label">
                   {{ operatorHint.type === 'eba' ? 'eba: completions' : 'topic: completions' }}
                 </span>
-                <kbd class="op-hint-header-kbd">↑↓ navigate</kbd>
-                <kbd class="op-hint-header-kbd">Enter / Tab complete</kbd>
-                <kbd class="op-hint-header-kbd">Esc dismiss</kbd>
+                <span class="op-hint-keycap-pair"><kbd class="op-hint-keycap">↑</kbd><kbd class="op-hint-keycap">↓</kbd></span>
+                <kbd class="op-hint-keycap op-hint-keycap--wide">Enter</kbd>
+                <kbd class="op-hint-keycap">Esc</kbd>
               </div>
 
               <!-- EBA rows: colour dot + canonical slug + full name -->
@@ -221,9 +221,9 @@
             >
               <div class="op-hint-header">
                 <span class="op-hint-header-label">Search operators</span>
-                <kbd class="op-hint-header-kbd">↑↓ navigate</kbd>
-                <kbd class="op-hint-header-kbd">Enter insert</kbd>
-                <kbd class="op-hint-header-kbd">Esc dismiss</kbd>
+                <span class="op-hint-keycap-pair"><kbd class="op-hint-keycap">↑</kbd><kbd class="op-hint-keycap">↓</kbd></span>
+                <kbd class="op-hint-keycap op-hint-keycap--wide">Enter</kbd>
+                <kbd class="op-hint-keycap">Esc</kbd>
               </div>
               <button class="op-hint-item op-cs-row" :class="{ 'op-hint-item--active': hintIndex === 0 }" @click="insertOperator('eba:')"    @mouseenter="hintIndex = 0">
                 <span class="op-hint-item-primary">eba:</span>
@@ -604,6 +604,14 @@
                     <svg class="idle-row-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
                     <span class="idle-row-label">Search across topics</span>
                     <code class="idle-row-operator">topic:</code>
+                  </button>
+                  <button class="idle-row idle-row--btn" @click="insertOperator(':')"
+                    @keydown.up.prevent="focusIdleRow($event.currentTarget, -1)"
+                    @keydown.down.prevent="focusIdleRow($event.currentTarget, 1)"
+                    @keydown.esc="inputRef?.focus()">
+                    <svg class="idle-row-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"/><line x1="8" y1="12" x2="16" y2="12"/><line x1="6" y1="18" x2="18" y2="18"/></svg>
+                    <span class="idle-row-label">Advanced search</span>
+                    <span class="idle-row-adv-hint" aria-hidden="true">eba: &nbsp;topic: &nbsp;clause:</span>
                   </button>
                 </div>
 
@@ -4873,6 +4881,27 @@ function autoResizeFollowUp() {
   font-family:   var(--vp-font-family-mono, ui-monospace, monospace);
   white-space:   nowrap;
 }
+/* ── Keycap-style nav badges in hint/cheatsheet headers ── */
+.op-hint-keycap {
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  font-size:       0.6rem;
+  font-family:     var(--vp-font-family-mono, ui-monospace, monospace);
+  color:           var(--vp-c-text-2);
+  background:      var(--vp-c-bg);
+  border:          1px solid var(--vp-c-divider);
+  border-radius:   4px;
+  padding:         0.1rem 0.3rem;
+  min-width:       1.5em;
+  line-height:     1.5;
+  white-space:     nowrap;
+  user-select:     none;
+  flex-shrink:     0;
+  box-shadow:      0 2px 0 var(--vp-c-border, #c2c2c4);
+}
+.op-hint-keycap--wide { min-width: 2.8em; }
+.op-hint-keycap-pair  { display: inline-flex; gap: 2px; flex-shrink: 0; }
 .op-hint-item {
   display:        flex;
   align-items:    center;
@@ -6039,6 +6068,17 @@ function autoResizeFollowUp() {
   font-size:     0.72rem;
   color:         var(--vp-c-text-3);
   text-align:    center;
+}
+
+/* Advanced search idle-row hint — right-aligned operator preview chips */
+.idle-row-adv-hint {
+  margin-left:   auto;
+  flex-shrink:   0;
+  font-family:   var(--vp-font-family-mono);
+  font-size:     0.68rem;
+  color:         var(--vp-c-text-3);
+  letter-spacing: 0.01em;
+  white-space:   nowrap;
 }
 
 </style>
