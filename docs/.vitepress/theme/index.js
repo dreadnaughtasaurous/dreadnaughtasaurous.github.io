@@ -453,7 +453,7 @@ export default {
         if (path.startsWith('/ebas/')) {
           const rvRaw     = localStorage.getItem('eba-recently-viewed')
           const rvExisting = rvRaw ? JSON.parse(rvRaw) : []
-          const rvEntry    = { path, title: document.title || '', eba: getEbaFromPath(path), timestamp: now }
+          const rvEntry    = { path, title: (document.title || '').replace(/\s*\|\s*EBAdb\s*$/i, '').trim(), eba: getEbaFromPath(path), timestamp: now }
           const rvDeduped  = rvExisting.filter(e => e.path !== path)
           rvDeduped.unshift(rvEntry)
           localStorage.setItem('eba-recently-viewed', JSON.stringify(rvDeduped.slice(0, 4)))
