@@ -14,7 +14,7 @@
         <button
           class="dst-btn"
           data-tour="ask-this-page-btn"
-          title="Ask AI about this clause"
+          title="Open the AI pane to ask a question about this page"
           @click="handleAsk"
         >
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -61,7 +61,7 @@
         <button
           class="dst-btn"
           :disabled="mdLoading"
-          title="View clean source markdown for this clause in a new tab"
+          title="View this page as plain text"
           @click="handleMarkdown"
         >
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -272,7 +272,7 @@ const copyLabel = computed(() => {
 const copyTitle = computed(() => {
   if (copied.value)  return 'Copied to clipboard'
   if (copyErr.value) return 'Copy failed — try again'
-  return 'Copy clause content to clipboard'
+  return 'Copy the clause contents'
 })
 
 async function handleCopy() {
