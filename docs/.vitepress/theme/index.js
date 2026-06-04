@@ -39,7 +39,6 @@ export default {
         h(SearchModal),
         h('button', {
           class:       'ask-ai-nav-btn',
-          title:       'Ask AI',
           'aria-label': 'Ask AI',
           onClick: () => typeof window !== 'undefined' &&
             window.dispatchEvent(new CustomEvent('open-ask-panel', { detail: {} }))
@@ -63,6 +62,14 @@ export default {
             h('path', { class: 'ask-tab-star ask-tab-star--delayed', d: 'M4 17v2' }),
             h('path', { class: 'ask-tab-star ask-tab-star--delayed', d: 'M5 18H3' }),
           ]),
+          ]),
+          h('span', { class: 'ask-ai-nav-hint', 'aria-hidden': 'true' }, [
+            h('span', { class: 'ask-ai-nav-hint-desc' }, 'Toggles the AI pane'),
+            h('span', { class: 'ask-ai-nav-hint-keys' }, [
+              h('kbd', null, 'Ctrl'),
+              h('span', { class: 'ask-ai-nav-hint-plus' }, '+'),
+              h('kbd', null, 'K'),
+            ]),
           ]),
         ]),
       ]),

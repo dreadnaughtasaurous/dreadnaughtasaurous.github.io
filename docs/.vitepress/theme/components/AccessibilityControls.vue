@@ -11,13 +11,13 @@
         class="a11y-btn"
         :class="{ 'a11y-btn--active': anyActive }"
         :aria-label="`Accessibility options${anyActive ? ' — preferences active' : ''}`"
-        :title="`Accessibility options${anyActive ? ' — preferences active' : ''}`"
         :aria-expanded="open"
         aria-haspopup="dialog"
         @click="togglePanel"
       >
         <span class="a11y-font-icon" aria-hidden="true">Aa</span>
         <span v-if="anyActive" class="a11y-dot" aria-hidden="true"></span>
+        <span class="a11y-hint" aria-hidden="true">Opens the accessibility options</span>
       </button>
 
     </div>
@@ -353,6 +353,10 @@ onMounted(() => {
   restoreToggle(LS_CONTRAST,  'highContrast',  applyHighContrast)
   restoreToggle(LS_MOTION,    'reducedMotion', applyReducedMotion)
 
+  // Remove the native browser tooltip from VitePress's dark mode button —
+  // our custom CSS hint replaces it and the title causes a duplicate tooltip.
+  document.querySelector('.VPSwitchAppearance')?.removeAttribute('title')
+
   window.addEventListener('toggle-reading-mode', onToggleReadingEvent)
 })
 
@@ -401,6 +405,54 @@ onUnmounted(() => {
 .a11y-btn--active          { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); }
 .a11y-btn--active:hover    { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); }
 .a11y-btn:focus-visible    { outline: 2px solid var(--vp-c-brand); outline-offset: 2px; }
+
+/* ── Hover hint tooltip ─────────────────────────────────────────────────────── */
+.a11y-hint {
+  position:       absolute;
+  top:            calc(100% + 10px);
+  left:           50%;
+  transform:      translateX(-50%);
+  padding:        0.4rem 0.7rem;
+  background:     var(--vp-c-bg-elv);
+  border:         1px solid var(--vp-c-divider);
+  border-radius:  6px;
+  box-shadow:     0 4px 16px rgba(0, 0, 0, 0.12);
+  font-size:      0.76rem;
+  font-weight:    500;
+  white-space:    nowrap;
+  color:          var(--vp-c-text-1);
+  opacity:        0;
+  visibility:     hidden;
+  pointer-events: none;
+  transition:     opacity 0.15s, visibility 0.15s;
+  z-index:        9999;
+}
+/* Caret arrow */
+.a11y-hint::before {
+  content:     '';
+  position:    absolute;
+  top:         -5px;
+  left:        50%;
+  width:       8px;
+  height:      8px;
+  background:  var(--vp-c-bg-elv);
+  border-top:  1px solid var(--vp-c-divider);
+  border-left: 1px solid var(--vp-c-divider);
+  transform:   translateX(-50%) rotate(45deg);
+}
+.a11y-btn:hover .a11y-hint,
+.a11y-btn:focus-visible .a11y-hint {
+  opacity:    1;
+  visibility: visible;
+}
+/* Hide hint when the panel is already open */
+.a11y-btn[aria-expanded="true"] .a11y-hint {
+  opacity:    0 !important;
+  visibility: hidden !important;
+}
+@media (max-width: 767px) {
+  .a11y-hint { display: none; }
+}
 
 .a11y-font-icon {
   font-size:      0.85rem;

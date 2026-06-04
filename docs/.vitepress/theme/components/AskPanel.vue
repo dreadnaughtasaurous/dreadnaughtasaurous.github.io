@@ -745,6 +745,7 @@ onUnmounted(() => {
   cursor:          pointer;
   white-space:     nowrap;
   margin-left:     0.5rem;
+  position:        relative;
   transition:      border-color 0.15s, color 0.15s, box-shadow 0.15s;
 }
 .ask-ai-nav-btn:hover {
@@ -781,6 +782,76 @@ onUnmounted(() => {
 @media (max-width: 767px) {
   .ask-ai-nav-btn { padding: 0.4rem; margin-left: 0.25rem; }
   .ask-ai-nav-btn .ask-ai-nav-text { display: none; }
+}
+
+/* ── Ask AI nav hint tooltip (Stripe-style shortcut disclosure) ─────────────── */
+.ask-ai-nav-hint {
+  position:       absolute;
+  top:            calc(100% + 10px);
+  left:           50%;
+  transform:      translateX(-50%);
+  display:        flex;
+  align-items:    center;
+  gap:            0.6rem;
+  padding:        0.4rem 0.7rem;
+  background:     var(--vp-c-bg-elv);
+  border:         1px solid var(--vp-c-divider);
+  border-radius:  6px;
+  box-shadow:     0 4px 16px rgba(0, 0, 0, 0.12);
+  font-size:      0.76rem;
+  white-space:    nowrap;
+  color:          var(--vp-c-text-2);
+  opacity:        0;
+  visibility:     hidden;
+  pointer-events: none;
+  transition:     opacity 0.15s, visibility 0.15s;
+  z-index:        9999;
+}
+/* Upward caret arrow */
+.ask-ai-nav-hint::before {
+  content:          '';
+  position:         absolute;
+  top:              -5px;
+  left:             50%;
+  width:            8px;
+  height:           8px;
+  background:       var(--vp-c-bg-elv);
+  border-top:       1px solid var(--vp-c-divider);
+  border-left:      1px solid var(--vp-c-divider);
+  transform:        translateX(-50%) rotate(45deg);
+}
+.ask-ai-nav-btn:hover .ask-ai-nav-hint,
+.ask-ai-nav-btn:focus-visible .ask-ai-nav-hint {
+  opacity:    1;
+  visibility: visible;
+}
+.ask-ai-nav-hint-desc {
+  color:       var(--vp-c-text-1);
+  font-weight: 500;
+}
+.ask-ai-nav-hint-keys {
+  display:     flex;
+  align-items: center;
+  gap:         0.2rem;
+}
+.ask-ai-nav-hint-keys kbd {
+  background:    var(--vp-c-bg-soft);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 3px;
+  padding:       0.1rem 0.35rem;
+  font-size:     0.7rem;
+  font-family:   var(--vp-font-family-mono, monospace);
+  color:         var(--vp-c-text-2);
+  line-height:   1.5;
+}
+.ask-ai-nav-hint-plus {
+  color:       var(--vp-c-text-3);
+  font-size:   0.7rem;
+  font-weight: 500;
+}
+/* Hidden on mobile — button collapses to icon-only anyway */
+@media (max-width: 767px) {
+  .ask-ai-nav-hint { display: none; }
 }
 </style>
 
