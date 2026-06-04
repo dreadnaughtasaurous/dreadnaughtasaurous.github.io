@@ -701,6 +701,7 @@ onMounted(() => {
   if (typeof window !== 'undefined') {
     window.addEventListener('resize', updateMobileSheet)
     window.addEventListener('open-ask-panel', handleOpenEvent)
+    window.addEventListener('close-ask-panel', close)
   }
 })
 
@@ -708,6 +709,7 @@ onUnmounted(() => {
   if (typeof window !== 'undefined') {
     window.removeEventListener('resize', updateMobileSheet)
     window.removeEventListener('open-ask-panel', handleOpenEvent)
+    window.removeEventListener('close-ask-panel', close)
   }
   document.removeEventListener('click', handleDropdownOutside, true)
   removeBodyClass()
@@ -854,6 +856,7 @@ onUnmounted(() => {
   .ask-ai-nav-hint { display: none; }
 }
 </style>
+
 
 <!-- ══ Scoped styles ═══════════════════════════════════════════════════════════ -->
 <style scoped>

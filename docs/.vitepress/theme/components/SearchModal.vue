@@ -587,7 +587,7 @@
                 </div>
 
                 <!-- Suggested operator shortcuts -->
-                <div class="idle-section">
+                <div class="idle-section" data-tour="operator-hints">
                   <div class="idle-section-header">Suggested</div>
                   <button class="idle-row idle-row--btn" @click="insertOperator('eba:')"
                     @keydown.up.prevent="focusIdleRow($event.currentTarget, -1)"
@@ -4880,6 +4880,7 @@ function autoResizeFollowUp() {
   padding:       0.1rem 0.3rem;
   font-family:   var(--vp-font-family-mono, ui-monospace, monospace);
   white-space:   nowrap;
+
 }
 /* ── Keycap-style nav badges in hint/cheatsheet headers ── */
 .op-hint-keycap {

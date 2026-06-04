@@ -164,7 +164,7 @@ const steps = [
     target: '.search-trigger',
     headline: 'Search any clause',
     icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>`,
-    copy: 'Press <kbd>Ctrl+K</kbd> or <kbd>/</kbd> to open full-text search across all clauses. Supports plain language — try <em>"recall allowance"</em> or <em>"shift penalty weekend"</em>.',
+    copy: 'Press <kbd>/</kbd> to open full-text search across all clauses, or to ask a question to the AI assistant.',
     caretHint: 'bottom',
   },
   {
@@ -173,24 +173,43 @@ const steps = [
     target: '.search-filters',
     headline: 'Filter by EBA and topic',
     icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>`,
-    copy: 'Narrow results to a single EBA, a topic (wages, leave, overtime…), or both. Use <kbd>Shift+F1–F9</kbd> as keyboard shortcuts to jump straight to a specific EBA.',
+    copy: 'Narrow results to a single EBA, a topic (wages, leave, overtime…), or both. Use <kbd>Shift</kbd>+<kbd>F1</kbd>–<kbd>F9</kbd> as keyboard shortcuts to jump straight to a specific EBA.',
     openModal: true,
     afterOpen: 400,
     caretHint: 'bottom',  // tooltip appears BELOW the filter row — caret points up at it
     keepModalOpen: true,
   },
   {
-    target: '[data-tour="ask-ai-tab"]',
-    headline: 'Ask AI — three ways to ask',
-    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>`,
-    copy: 'The AI tab answers questions using <strong>only this wiki\'s content</strong>. Always select your <strong>EBA</strong> and <strong>employment type</strong> before asking — this significantly improves accuracy. Three modes available:',
-    modes: [
-      { icon: '❓', label: 'Ask a question', desc: 'Direct clause or entitlement query' },
-      { icon: '📋', label: 'Describe a situation', desc: 'Paste a scenario — AI finds the relevant clause' },
-      { icon: '✉️', label: 'Draft a response', desc: 'AI writes an HR reply citing the correct clause' },
-    ],
-    caretHint: 'bottom',
+    // Step 6: spotlight the Suggested operators section — modal is still open from step 5.
+    // caretHint 'top' = tooltip appears ABOVE the target; caret points downward at it.
+    target: '[data-tour="operator-hints"]',
+    headline: 'Power up your search',
+    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>`,
+    copy: 'The <strong>Suggested</strong> panel shows operator shortcuts. Type <code>:</code> to begin, <code>eba:</code> to filter by EBA, <code>topic:</code> to filter by topic, or combine them for precision searching.',
     keepModalOpen: true,
+    caretHint: 'top',
+  },
+  {
+    // Step 7: close the modal (auto-fired by next() detecting keepModalOpen→none transition),
+    // then spotlight the Ask AI nav button.
+    target: '.ask-ai-nav-btn',
+    headline: 'Ask the AI assistant',
+    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>`,
+    copy: 'Click the <strong>Ask AI</strong> button in the navigation bar to open the AI pane — available from any page, at any time.',
+    caretHint: 'bottom',
+  },
+  {
+    // Step 8: open the AskPanel via custom event, then spotlight the filter pills.
+    // fallbackTarget: if ask-panel-filters is hidden (scope=page), spotlight the panel itself.
+    target: '.ask-panel-filters',
+    fallbackTarget: '.ask-panel',
+    headline: 'Set your context first',
+    icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>`,
+    copy: 'Always select your <strong>EBA</strong> and <strong>employment type</strong> before asking a question. This significantly improves the accuracy of AI answers.',
+    openAskPanel: true,
+    afterOpen: 500,
+    keepAskPanelOpen: true,
+    caretHint: 'left',
   },
   
   {
@@ -255,7 +274,7 @@ function onKeydown(e) {
   if (e.key === 'ArrowLeft')  { e.preventDefault(); prev() }
   // Only allow Escape to finish when the modal is NOT open for the tour —
   // prevents the tour's Escape handler from firing when the modal itself is open.
-  if (e.key === 'Escape' && !currentStep.value.keepModalOpen && !currentStep.value.openModal) {
+  if (e.key === 'Escape' && !currentStep.value.keepModalOpen && !currentStep.value.openModal && !currentStep.value.keepAskPanelOpen) {
     e.preventDefault()
     finish()
   }
@@ -274,6 +293,11 @@ async function next() {
 
   if (leaving.keepModalOpen && !arriving.openModal && !arriving.keepModalOpen) {
     dispatchClose()
+    await sleep(300)
+  }
+
+  if (leaving.keepAskPanelOpen && !arriving.keepAskPanelOpen) {
+    dispatchCloseAskPanel()
     await sleep(300)
   }
 
@@ -297,6 +321,10 @@ async function prev() {
     dispatchClose()
     await sleep(300)
   }
+  if (leaving.keepAskPanelOpen && !arriving.keepAskPanelOpen) {
+    dispatchCloseAskPanel()
+    await sleep(300)
+  }
   stepIndex.value--
   await nextTick()
   await positionTooltip()
@@ -310,6 +338,7 @@ async function goTo(i) {
 
 function finish() {
   dispatchClose()
+  dispatchCloseAskPanel()
   closeMobileMenuIfOpen()
   active.value = false
   try { localStorage.setItem(TOUR_KEY, '1') } catch { /* ignore */ }
@@ -323,7 +352,7 @@ function closeMobileMenuIfOpen() {
 }
 
 function onBackdropClick() {
-  if (!currentStep.value.keepModalOpen && !currentStep.value.openModal) {
+  if (!currentStep.value.keepModalOpen && !currentStep.value.openModal && !currentStep.value.keepAskPanelOpen) {
     finish()
   }
 }
@@ -331,6 +360,12 @@ function onBackdropClick() {
 // ─── Modal control helpers ────────────────────────────────────────────────────
 function dispatchOpen() {
   window.dispatchEvent(new CustomEvent('open-search', { detail: {} }))
+}
+function dispatchOpenAskPanel() {
+  window.dispatchEvent(new CustomEvent('open-ask-panel', { detail: {} }))
+}
+function dispatchCloseAskPanel() {
+  window.dispatchEvent(new CustomEvent('close-ask-panel'))
 }
 
 // Use a dedicated 'close-search' CustomEvent instead of simulating Escape.
@@ -361,6 +396,11 @@ async function positionTooltip() {
   if (step.openModal) {
     dispatchOpen()
     await sleep(step.afterOpen ?? 400)
+  }
+
+  if (step.openAskPanel) {
+    dispatchOpenAskPanel()
+    await sleep(step.afterOpen ?? 500)
   }
 
   if (step.closeModal) {
@@ -439,7 +479,8 @@ async function positionTooltip() {
     }
   }
 
-  const el = document.querySelector(step.target)
+  let el = document.querySelector(step.target)
+  if (!el && step.fallbackTarget) el = document.querySelector(step.fallbackTarget)
   if (!el) {
     // Target not in DOM → centre instead
     spotlightStyle.value = null
@@ -683,6 +724,14 @@ watch(stepIndex, async () => {
   line-height:   1.5;
 }
 
+.gt-copy :deep(code) {
+  font-size:     0.72rem;
+  padding:       0.05rem 0.3rem;
+  border-radius: 3px;
+  background:    var(--vp-c-bg-soft);
+  color:         var(--vp-c-brand-1);
+  font-family:   ui-monospace, monospace;
+}
 .gt-copy :deep(strong) { color: var(--vp-c-text-1); font-weight: 600; }
 
 /* ── Mode cards (Ask AI step) ── */
