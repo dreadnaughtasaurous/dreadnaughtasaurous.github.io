@@ -12,7 +12,7 @@
  * Wrapped in <ClientOnly> to prevent SSR build failure (document is not
  * defined during static rendering).
  */
-import { computed, ref, watch } from 'vue'
+import { computed, nextTick, ref, watch } from 'vue'
 import { useData, useRoute } from 'vitepress'
 import relatedData from '../../../generated/related-clauses.json'
 
@@ -55,6 +55,7 @@ watch(
     activeTooltip.value = null
     setTimeout(() => {
       active.value = true
+      normalizeCardHeights()
     }, 50)
   },
   { immediate: true }
@@ -77,6 +78,38 @@ function seeAllRelated() {
     })
   )
 }
+
+// Opens SearchModal pre-filtered to this EBA only — no topic filter.
+// The user arrives on the Search tab with the EBA dropdown already set
+// so they can type any query scoped to this agreement.
+function searchWithinEba() {
+  const ebaName = page.value?.frontmatter?.eba ?? ''
+  window.dispatchEvent(
+    new CustomEvent('open-search', {
+      detail: { eba: ebaName }
+    })
+  )
+}
+
+// Template ref for the card grid — used by normalizeCardHeights().
+const gridRef = ref(null)
+
+// After the panel mounts (or remounts on route change), measure every
+// .related-card-wrapper and set a uniform minHeight equal to the tallest
+// card. This ensures all cards are the same height regardless of title
+// length, even across different grid rows.
+function normalizeCardHeights() {
+  nextTick(() => {
+    const wrappers = Array.from(
+      gridRef.value?.querySelectorAll('.related-card-wrapper') ?? []
+    )
+    if (!wrappers.length) return
+    // Reset any previously applied minHeight so we measure natural height
+    wrappers.forEach(w => { w.style.minHeight = '' })
+    const max = Math.max(...wrappers.map(w => w.getBoundingClientRect().height))
+    if (max > 0) wrappers.forEach(w => { w.style.minHeight = max + 'px' })
+  })
+}
 </script>
 
 <template>
@@ -98,7 +131,7 @@ function seeAllRelated() {
           <span>Related Clauses</span>
         </div>
 
-        <div class="related-clauses-grid">
+        <div class="related-clauses-grid" ref="gridRef">
           <div
             v-for="(item, idx) in related"
             :key="item.url"
@@ -129,6 +162,14 @@ function seeAllRelated() {
         </div>
 
         <div class="related-clauses-footer">
+          <button class="related-search-eba" @click="searchWithinEba" type="button">
+            <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" width="14" height="14">
+              <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M11 11l3 3" stroke="currentColor" stroke-width="1.5"
+                    stroke-linecap="round"/>
+            </svg>
+            Search within this EBA
+          </button>
           <button class="related-see-all" @click="seeAllRelated" type="button">
             <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" width="14" height="14">
               <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.5"/>
@@ -270,20 +311,35 @@ function seeAllRelated() {
   transform: translateY(4px);
 }
 
+/* ── Card wrapper — flex column so the card inside can stretch full height ── */
+.related-card-wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Card — fill wrapper height so same-row cards are always equal height ─── */
+.related-card {
+  height: 100%;
+}
+
 /* ── Footer ───────────────────────────────────────────────────────────────── */
 .related-clauses-footer {
   margin-top: 14px;
   display: flex;
+  align-items: center;
   justify-content: flex-end;
+  gap: 16px;
 }
 
-.related-see-all {
+/* Shared base for both footer buttons */
+.related-see-all,
+.related-search-eba {
   display: inline-flex;
   align-items: center;
   gap: 5px;
   font-size: 12.5px;
   font-weight: 500;
-  color: var(--vp-c-text-2);
   background: none;
   border: none;
   cursor: pointer;
@@ -291,7 +347,21 @@ function seeAllRelated() {
   transition: color 0.15s ease;
 }
 
+/* "See all related pages" — muted secondary action */
+.related-see-all {
+  color: var(--vp-c-text-2);
+}
+
 .related-see-all:hover {
+  color: var(--vp-c-brand-1);
+}
+
+/* "Search within this EBA" — same muted grey as See all related pages */
+.related-search-eba {
+  color: var(--vp-c-text-2);
+}
+
+.related-search-eba:hover {
   color: var(--vp-c-brand-1);
 }
 </style>
