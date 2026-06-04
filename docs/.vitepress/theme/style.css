@@ -540,73 +540,169 @@
   border-bottom: 1px solid var(--vp-c-divider);
 }
 
-/* Card grid — matches FMHY 4-column feature grid */
-.home-card-grid {
+/* ─────────────────────────────────────────────────────────────
+   EBA Grid — Stripe-style directory layout
+   3-column grid; each entry = coloured icon pill + title link
+   + 3 quick links. Colour identity lives on the icon alone —
+   no tinted cell backgrounds, keeping the links visually dominant.
+   ───────────────────────────────────────────────────────────── */
+.eba-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 8px;
-  margin-bottom: 8px;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
-.home-card-grid--slim {
-  grid-template-columns: repeat(4, 1fr);
-}
-
-.home-card {
-  display: block;
-  border: 1px solid var(--vp-c-bg-soft);
-  border-radius: 12px;
-  background-color: var(--vp-c-bg-soft);
-  text-decoration: none;
-  color: inherit;
-  transition: border-color 0.25s, background 0.25s;
-}
-
-.home-card:hover {
-  border-color: var(--vp-c-brand-1);
-  text-decoration: none;
-}
-
-.home-card .box {
+/* ── Option B: grey card + coloured left border accent ──────────
+   The border-left colour is driven by the CSS custom property
+   --entry-accent, set inline from each card's color value in
+   HomeCards.vue. Falls back to the divider colour if unset.     */
+.eba-entry {
   display: flex;
   flex-direction: column;
-  padding: 24px;
-  height: 100%;
-  min-height: 227.75px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 1.125rem 1.25rem 1rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-.home-card .icon {
-  display: flex;
+.eba-entry:hover {
+  border-color: var(--entry-accent, var(--vp-c-brand-1));
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.07);
+}
+
+.dark .eba-entry:hover {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+}
+
+.eba-entry-header {
+  margin-bottom: 0.75rem;
+}
+
+.eba-icon {
+  display: inline-flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 20px;
-  border-radius: 6px;
-  width: 48px;
-  height: 48px;
-  font-size: 24px;
-  transition: background-color 0.25s;
+  border-radius: 8px;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 0.875rem;
+  transition: background-color 0.2s;
 }
 
-.home-card .title {
-  line-height: 24px;
-  font-size: 16px;
+.eba-icon svg {
+  width: 20px;
+  height: 20px;
+}
+
+.eba-entry-meta {
+  margin-bottom: 0.875rem;
+}
+
+.eba-entry-title {
+  display: block;
+  font-size: 0.9375rem;
   font-weight: 600;
-  letter-spacing: 0;
   color: var(--vp-c-text-1);
-  border: none;
-  margin: 0 0 8px;
+  text-decoration: none;
+  line-height: 1.35;
+  min-height: 2.7rem;
+  transition: color 0.15s;
+}
+
+.eba-entry-title:hover {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.eba-entry-period {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.2;
+  opacity: 0.7;
+}
+
+.eba-entry-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 0.625rem;
+  border-top: 1px solid var(--vp-c-divider);
+  margin-top: auto;
+}
+
+.eba-entry-links li {
+  margin: 0;
   padding: 0;
 }
 
-.home-card .details {
-  flex-grow: 1;
-  padding-top: 8px;
-  line-height: 20px;
-  font-size: 12px;
+.eba-entry-links a {
+  display: block;
+  font-size: 0.8125rem;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  padding: 0.22rem 0;
+  line-height: 1.4;
+  transition: color 0.15s;
+}
+
+.eba-entry-links a:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration: underline;
+}
+
+/* ─────────────────────────────────────────────────────────────
+   Reference Bar — compact horizontal strip replacing the ref card grid.
+   Pill-button style; background-on-hover only.
+   ───────────────────────────────────────────────────────────── */
+.home-ref-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.5rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  margin-bottom: 2rem;
+}
+
+.home-ref-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.3rem 0.625rem;
+  font-size: 0.8125rem;
   font-weight: 500;
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.home-ref-item:hover {
+  background: var(--vp-c-bg-mute);
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.home-ref-icon {
+  display: inline-flex;
+  align-items: center;
   color: var(--vp-c-text-2);
-  border-top: 1px solid var(--vp-c-divider);
-  margin: 0;
+  transition: color 0.15s;
+}
+
+.home-ref-icon svg {
+  width: 14px;
+  height: 14px;
+}
+
+.home-ref-item:hover .home-ref-icon {
+  color: var(--vp-c-brand-1);
 }
 
 .home-disclaimer {
@@ -676,16 +772,16 @@
     height: 160px;
   }
 
-  .home-card-grid,
-  .home-card-grid--slim {
-    grid-template-columns: repeat(3, 1fr);
+  .eba-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
   }
 }
 
-@media (max-width: 600px) {
-  .home-card-grid,
-  .home-card-grid--slim {
-    grid-template-columns: repeat(2, 1fr);
+@media (max-width: 480px) {
+  .eba-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
   }
 }
 
@@ -810,7 +906,7 @@ order: 3;
 [data-font-size="large"] .vp-doc td,
 [data-font-size="large"] .vp-doc th,
 [data-font-size="large"] .home-subtitle,
-[data-font-size="large"] .home-card .details,
+[data-font-size="large"] .eba-entry-links a,
 [data-font-size="xl"]    .vp-doc h1,
 [data-font-size="xl"]    .vp-doc h2,
 [data-font-size="xl"]    .vp-doc h3,
@@ -819,7 +915,7 @@ order: 3;
 [data-font-size="xl"]    .vp-doc td,
 [data-font-size="xl"]    .vp-doc th,
 [data-font-size="xl"]    .home-subtitle,
-[data-font-size="xl"]    .home-card .details {
+[data-font-size="xl"]    .eba-entry-links a {
   line-height: 1.75;
 }
 
@@ -946,7 +1042,7 @@ display: none !important;
 [data-line-spacing="compact"] .vp-doc th,
 [data-line-spacing="compact"] .home-subtitle,
 [data-line-spacing="compact"] .home-disclaimer,
-[data-line-spacing="compact"] .home-card .details {
+[data-line-spacing="compact"] .eba-entry-links a {
   line-height: 1.5;
 }
 
@@ -956,7 +1052,7 @@ display: none !important;
 [data-line-spacing="relaxed"] .vp-doc th,
 [data-line-spacing="relaxed"] .home-subtitle,
 [data-line-spacing="relaxed"] .home-disclaimer,
-[data-line-spacing="relaxed"] .home-card .details {
+[data-line-spacing="relaxed"] .eba-entry-links a {
   line-height: 2.0;
 }
 
@@ -979,8 +1075,8 @@ display: none !important;
 /* Homepage content */
 [data-letter-spacing="wide"] .home-title,
 [data-letter-spacing="wide"] .home-subtitle,
-[data-letter-spacing="wide"] .home-card .title,
-[data-letter-spacing="wide"] .home-card .details,
+[data-letter-spacing="wide"] .eba-entry-title,
+[data-letter-spacing="wide"] .eba-entry-links a,
 [data-letter-spacing="wide"] .home-disclaimer,
 [data-letter-spacing="wide"] .home-disclaimer p {
   letter-spacing: 0.04em;
@@ -1671,3 +1767,28 @@ html {
   .gloss-term { border-bottom: none !important; }
   .gloss-tooltip { display: none !important; }
 }
+
+/* ── Ask AI nav button — sparkle icon animations (global)
+      These mirror the scoped rules in SearchModal.vue but must live here
+      so they apply to the navbar icon, which is rendered by index.js
+      outside SearchModal's scoped style boundary.
+   ────────────────────────────────────────────────────────── */
+   .ask-tab-star {
+     animation: star-blink 2.4s ease-in-out infinite;
+   }
+   .ask-tab-star--delayed {
+     animation-delay: 1.2s;
+   }
+   .ask-ai-nav-btn .ask-tab-sparkle {
+     fill: none;
+     transition: fill 0.2s;
+   }
+   .ask-ai-nav-btn:hover .ask-tab-sparkle {
+     fill: currentColor;
+     opacity: 0.5;
+   }
+
+   @keyframes star-blink {
+     0%, 15%, 85%, 100% { opacity: 1; }
+     40%, 60%           { opacity: 0; }
+   }

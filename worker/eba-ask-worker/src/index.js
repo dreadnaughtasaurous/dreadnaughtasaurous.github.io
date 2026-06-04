@@ -1,12 +1,20 @@
 // eba-ask-worker/src/index.js
-// v9: Adds Cloudflare KV response caching keyed by content hash.
-//     Cache key = SHA-256(clauseTitle + ebaName + pagePathname) — computed
-//     client-side and sent as `contentHash` in the POST body.
-//     Cache TTL: 30 days. Cache is bypassed and re-written on miss.
-//     Also adds support for the AskThisPage contextual button:
-//     the request body may now include `{ question, contentHash }`.
-//     All EBA_PAGE_MAP paths, SYSTEM_PROMPT, and AI provider functions
-//     are carried forward unchanged from v8.
+// v12: Adds filterEba and filterEmploymentType scope constraints from AskPanel.
+//      Both fields are injected into contextualQuestion as a [Scope] prefix so
+//      all four provider tiers and the SSE stream receive the constraint.
+// v11: Adds SSE streaming (stream:true) for SearchModal inline AI answers.
+//      Streams Cerebras -> Groq -> Cloudflare Workers AI token-by-token.
+// v10: Adds support for the AskPanel Phase 2 context fields.
+//      Request body now accepts two optional fields:
+//        scope:     'page' | 'wiki' — whether the question is scoped to a specific
+//                   clause page (launched from AskThisPage) or the full wiki
+//                   (launched from SearchModal AI suggestions or nav button).
+//        pageTitle: string — the frontmatter title of the clause page the user
+//                   is viewing. When scope === 'page' and pageTitle is provided,
+//                   the question sent to the AI is prefixed with the page context
+//                   so the model anchors its answer to the correct clause.
+//      The existing sourcePath, contentHash, history, and style fields are
+//      carried forward unchanged from v9.
 
 const CORS_ORIGIN = 'https://dreadnaughtasaurous.github.io';
 const CORS_ALLOWED = new Set([
@@ -1589,6 +1597,105 @@ async function writeCache(kv, contentHash, payload) {
   }
 }
 
+// ─── STREAMING HANDLER ────────────────────────────────────────────────────────
+// Returns an SSE Response that streams the AI answer token-by-token, or null if
+// no streaming-capable provider could start (the caller then falls back to the
+// standard non-streaming chain). Tries Cerebras -> Groq -> Cloudflare Workers AI;
+// all three emit OpenAI-style SSE chunks, so a single parser handles them.
+// Gemini is excluded from the streaming path (different SSE shape) but remains
+// available on the non-streaming fallback.
+//
+// Output SSE protocol (consumed by SearchModal.vue askInline):
+//   data: {"token":"..."}            -- incremental answer text
+//   data: {"done":true,"sources":[...],"provider":"..."}  -- terminal event
+//   data: {"error":"..."}            -- mid-stream failure
+async function handleStreaming(env, question, pages, history, style, sources, origin) {
+  const messages = buildMessages(question, pages, history, style);
+  let upstream = null;
+  let provider = '';
+
+  // Tier 1: Cerebras
+  if (!upstream && env.CEREBRAS_API_KEY) {
+    try {
+      const r = await fetch('https://api.cerebras.ai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${env.CEREBRAS_API_KEY}` },
+        body: JSON.stringify({ model: 'llama3.1-8b', temperature: 0.1, max_tokens: 1024, stream: true, messages })
+      });
+      if (r.ok && r.body) { upstream = r.body; provider = 'Cerebras (llama3.1-8b)'; }
+    } catch { /* try next tier */ }
+  }
+
+  // Tier 2: Groq
+  if (!upstream && env.GROQ_API_KEY) {
+    try {
+      const r = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${env.GROQ_API_KEY}` },
+        body: JSON.stringify({ model: 'llama-3.3-70b-versatile', temperature: 0.1, max_tokens: 1024, stream: true, messages })
+      });
+      if (r.ok && r.body) { upstream = r.body; provider = 'Groq (llama-3.3-70b-versatile)'; }
+    } catch { /* try next tier */ }
+  }
+
+  // Tier 3: Cloudflare Workers AI
+  if (!upstream && env.AI) {
+    try {
+      const cf = await env.AI.run('@cf/meta/llama-3.1-8b-instruct-fp8-fast', { messages, max_tokens: 1024, stream: true });
+      if (cf) { upstream = cf; provider = 'Cloudflare Workers AI (llama-3.1-8b)'; }
+    } catch { /* fall through to null */ }
+  }
+
+  if (!upstream) return null;
+
+  const encoder = new TextEncoder();
+  const decoder = new TextDecoder();
+
+  const out = new ReadableStream({
+    async start(controller) {
+      const reader = upstream.getReader();
+      let buf = '';
+      try {
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          buf += decoder.decode(value, { stream: true });
+          const lines = buf.split('\n');
+          buf = lines.pop();   // keep the trailing incomplete line for the next chunk
+          for (const raw of lines) {
+            const line = raw.trim();
+            if (!line.startsWith('data:')) continue;
+            const payload = line.slice(5).trim();
+            if (!payload || payload === '[DONE]') continue;
+            try {
+              const j = JSON.parse(payload);
+              const token = j?.choices?.[0]?.delta?.content ?? j?.response ?? '';
+              if (token) {
+                controller.enqueue(encoder.encode(`data: ${JSON.stringify({ token })}\n\n`));
+              }
+            } catch { /* ignore keep-alive / non-JSON lines */ }
+          }
+        }
+        controller.enqueue(encoder.encode(`data: ${JSON.stringify({ done: true, sources, provider })}\n\n`));
+      } catch (err) {
+        controller.enqueue(encoder.encode(`data: ${JSON.stringify({ error: 'Stream interrupted: ' + (err?.message || 'unknown') })}\n\n`));
+      } finally {
+        controller.close();
+      }
+    }
+  });
+
+  return new Response(out, {
+    status: 200,
+    headers: {
+      'Content-Type':  'text/event-stream; charset=utf-8',
+      'Cache-Control': 'no-cache, no-transform',
+      'Connection':    'keep-alive',
+      ...corsHeaders(origin)
+    }
+  });
+}
+
 // ─── MAIN HANDLER ─────────────────────────────────────────────────────────────
 
 export default {
@@ -1603,7 +1710,7 @@ export default {
       return new Response('Method not allowed', { status: 405, headers: corsHeaders(origin) });
     }
 
-    let question, contentHash, sourcePath, history, style
+    let question, contentHash, sourcePath, history, style, scope, pageTitle, stream, filterEba, filterEmploymentType
     try {
       const body   = await request.json()
       question     = (body.question || '').trim()
@@ -1611,9 +1718,35 @@ export default {
       sourcePath   = typeof body.sourcePath === 'string' ? body.sourcePath : null
       history      = Array.isArray(body.history) ? body.history.slice(-6) : []
       style        = body.style === 'concise' ? 'concise' : 'detailed'
+      scope        = body.scope === 'page' ? 'page' : 'wiki'
+      pageTitle    = typeof body.pageTitle === 'string' ? body.pageTitle.trim() : ''
+      stream       = body.stream === true
+      filterEba            = typeof body.filterEba === 'string'            ? body.filterEba.trim()            : ''
+      filterEmploymentType = typeof body.filterEmploymentType === 'string' ? body.filterEmploymentType.trim() : ''
     } catch {
       return jsonResponse({ error: 'Invalid JSON body.' }, 400, origin)
     }
+
+    // ── Build contextual question for AI providers ────────────────────────
+    // When the user is asking about a specific clause page (scope === 'page')
+    // and the page title is known, prefix the question with that context.
+    // This anchors smaller models (Cerebras, Cloudflare Workers AI) to the
+    // correct clause without relying solely on the fetched Markdown content.
+    // The raw `question` variable is kept unchanged for KV cache keying and
+    // EBA page scoring — only the AI provider receives the contextual version.
+    // Build a scope prefix from the user-selected AskPanel filters.
+    // Injected into contextualQuestion only — raw `question` stays unmodified
+    // for KV cache keying, EBA page scoring, and chat history storage.
+    const scopeParts = []
+    if (filterEba)            scopeParts.push(`EBA: ${filterEba}`)
+    if (filterEmploymentType) scopeParts.push(`Employment type: ${filterEmploymentType} employees only`)
+    const scopePrefix = scopeParts.length > 0
+      ? `[Scope — answer must apply specifically to: ${scopeParts.join(' · ')}]\n\n`
+      : ''
+
+    const contextualQuestion = (scope === 'page' && pageTitle)
+      ? `[Viewing: ${pageTitle}]\n\n${scopePrefix}${question}`
+      : `${scopePrefix}${question}`
 
     if (!question || question.length < 5) {
       return jsonResponse({ error: 'Question is too short.' }, 400, origin);
@@ -1684,6 +1817,18 @@ export default {
       }, 200, origin);
     }
 
+    // Sources derived from the fetched pages — used by both response paths.
+    const sources = pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`);
+
+    // ── Streaming branch ─────────────────────────────────────────────────────
+    // When the client requests stream:true (SearchModal inline AI answers), return
+    // an SSE token stream. If no streaming provider can start, fall through to the
+    // standard non-streaming provider chain below so the user still gets an answer.
+    if (stream) {
+      const streamResp = await handleStreaming(env, contextualQuestion, pages, history, style, sources, origin);
+      if (streamResp) return streamResp;
+    }
+
     // ── Step 3: Try each AI provider in tier order ───────────────────────────
     const attempts = [];
     let aiResult = null;
@@ -1691,7 +1836,7 @@ export default {
     // Tier 1: Cerebras
     if (env.CEREBRAS_API_KEY) {
       try {
-        aiResult = await askCerebras(env.CEREBRAS_API_KEY, question, pages, history, style);
+        aiResult = await askCerebras(env.CEREBRAS_API_KEY, contextualQuestion, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Cerebras', error: err.message });
       }
@@ -1702,7 +1847,7 @@ export default {
     // Tier 2: Groq
     if (!aiResult && env.GROQ_API_KEY) {
       try {
-        aiResult = await askGroq(env.GROQ_API_KEY, question, pages, history, style);
+        aiResult = await askGroq(env.GROQ_API_KEY, contextualQuestion, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Groq', error: err.message });
       }
@@ -1713,7 +1858,7 @@ export default {
     // Tier 3: Gemini
     if (!aiResult && env.GEMINI_API_KEY) {
       try {
-        aiResult = await askGemini(env.GEMINI_API_KEY, question, pages, history, style);
+        aiResult = await askGemini(env.GEMINI_API_KEY, contextualQuestion, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Gemini', error: err.message });
       }
@@ -1724,7 +1869,7 @@ export default {
     // Tier 4: Cloudflare Workers AI
     if (!aiResult && env.AI) {
       try {
-        aiResult = await askCloudflareAI(env.AI, question, pages, history, style);
+        aiResult = await askCloudflareAI(env.AI, contextualQuestion, pages, history, style);
       } catch (err) {
         attempts.push({ provider: 'Cloudflare AI', error: err.message });
       }
@@ -1744,7 +1889,7 @@ export default {
     const responsePayload = {
       answer:   aiResult.text,
       provider: aiResult.provider,
-      sources:  pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`)
+      sources
     };
 
     // Write to KV only when a valid content hash was supplied (i.e. the request

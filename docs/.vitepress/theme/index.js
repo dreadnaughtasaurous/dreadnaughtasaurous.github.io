@@ -22,15 +22,50 @@ import ClausePageTour from './components/ClausePageTour.vue'
 import MobileNav from './components/MobileNav.vue'
 import SidebarFilter from './components/SidebarFilter.vue'
 import ScrollToTop from './components/ScrollToTop.vue'
-import SessionTrail from './components/SessionTrail.vue'
+import AskPanel     from './components/AskPanel.vue'
 import CommandPalette from './components/CommandPalette.vue'
 import GlossaryTooltip from './components/GlossaryTooltip.vue'
+import DocToolbar from './components/DocToolbar.vue'
+import ForYou          from './components/ForYou.vue'
+import EBAStatusStrip  from './components/EBAStatusStrip.vue'
+import EBAExplorer     from './components/EBAExplorer.vue'
+import EBABrowseGrid   from './components/EBABrowseGrid.vue'
 
 export default {
   extends: DefaultTheme,
   Layout() {
     return h(DefaultTheme.Layout, null, {
-      'nav-bar-content-before': () => h(SearchModal),
+      'nav-bar-content-before': () => h(Fragment, null, [
+        h(SearchModal),
+        h('button', {
+          class:       'ask-ai-nav-btn',
+          title:       'Ask AI',
+          'aria-label': 'Ask AI',
+          onClick: () => typeof window !== 'undefined' &&
+            window.dispatchEvent(new CustomEvent('open-ask-panel', { detail: {} }))
+        }, [
+          h('span', { class: 'ask-ai-nav-text' }, 'Ask AI'),
+          h('span', { class: 'ask-ai-nav-sparkle', 'aria-hidden': 'true' }, [
+          h('svg', {
+            class:          'ask-nav-sparkle-svg ask-tab-icon',
+            width:          '13', height: '13', viewBox: '0 0 24 24',
+            fill:           'none',
+            stroke:         'currentColor',
+            'stroke-width': '2',
+            'stroke-linecap': 'round',
+            'stroke-linejoin': 'round',
+            'aria-hidden':  'true',
+            xmlns:          'http://www.w3.org/2000/svg',
+          }, [
+            h('path', { class: 'ask-tab-sparkle', d: 'M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z' }),
+            h('path', { class: 'ask-tab-star', d: 'M20 3v4' }),
+            h('path', { class: 'ask-tab-star', d: 'M22 5h-4' }),
+            h('path', { class: 'ask-tab-star ask-tab-star--delayed', d: 'M4 17v2' }),
+            h('path', { class: 'ask-tab-star ask-tab-star--delayed', d: 'M5 18H3' }),
+          ]),
+          ]),
+        ]),
+      ]),
 
       // AccessibilityControls is placed in nav-bar-content-after.
       // VitePress renders this slot at the far right of .VPNavBarExtra.
@@ -47,41 +82,19 @@ export default {
       // ClientOnly is handled inside SidebarFilter.vue itself.
       'sidebar-nav-before': () => h(SidebarFilter),
 
-      // doc-before: single toolbar row with Breadcrumb (left) and action
-      // buttons (right) separated by space-between.
-      // On wide screens (≥ 900px) the full breadcrumb trail fills the left.
-      // On narrow screens (< 900px) a compact "← Parent" back-link replaces it.
-      // The buttons are wrapped in a div so they stay grouped as a unit.
+      // doc-before: breadcrumb only.
+      // The action toolbar (Ask / Copy / View as Markdown / Bookmark) is now
+      // handled by DocToolbar.vue, which injects itself after the H1 via the
+      // Teleport-anchor pattern (same as RelatedClauses and LegislationPanel).
       'doc-before': () => h(
         'div',
         { 'data-pagefind-body': true, style: 'display:contents' },
-        h(
-          'div',
-          {
-            class: 'doc-toolbar',
-            'data-pagefind-ignore': true,
-            style: [
-              'display: flex',
-              'align-items: flex-start',
-              'justify-content: space-between',
-              'gap: 0.5rem',
-              'margin-bottom: 1rem',
-            ].join('; ')
-          },
-          [
-            h(Breadcrumb),
-            h('div', { style: 'display:flex;align-items:center;gap:0.5rem;flex-shrink:0' }, [
-              h(AskThisPage,   { 'data-tour': 'ask-this-page-btn' }),
-              h(CopyButton,    { 'data-tour': 'copy-btn' }),
-              h(BookmarkButton, { 'data-tour': 'bookmark-btn' }),
-            ]),
-          ]
-        )
+        h(Breadcrumb)
       ),
 
       // layout-bottom: always-mounted overlay components that are event-driven.
       // Fragment is required — VitePress slot functions must return a single VNode.
-      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette), h(GlossaryTooltip), h(SessionTrail)]),
+      'layout-bottom': () => h(Fragment, null, [h(KeyboardHelp), h(ClausePanel), h(GuidedTour), h(ClausePageTour), h(MobileNav), h(ScrollToTop), h(CommandPalette), h(GlossaryTooltip), h(AskPanel), h(DocToolbar)]),
 
       'doc-after': () => h(Fragment, null, [h(RelatedClauses), h(LegislationPanel)]),
     })
@@ -107,7 +120,12 @@ export default {
     app.component('MobileNav',             MobileNav)
     app.component('SidebarFilter',         SidebarFilter)
     app.component('CommandPalette',        CommandPalette)
-    app.component('SessionTrail',          SessionTrail)
+    app.component('AskPanel',              AskPanel)
+    app.component('DocToolbar',            DocToolbar)
+    app.component('ForYou',                ForYou)
+    app.component('EBAStatusStrip',        EBAStatusStrip)
+    app.component('EBAExplorer',           EBAExplorer)
+    app.component('EBABrowseGrid',         EBABrowseGrid)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation
@@ -135,10 +153,27 @@ export default {
         const normTo      = toPath.replace(/\/$/, '').replace(/\.html$/, '')
         const normCurrent = window.location.pathname.replace(/\/$/, '').replace(/\.html$/, '')
         if (normTo === normCurrent) return
+        // ── ForYouCard / Trending Now cards ───────────────────────────────
+        // ForYouCard.vue sets window.__fyCardPending on click (synchronously,
+        // before VitePress's router fires). Checking activeElement is not
+        // reliable for these cards — they are outside .vp-doc and focus
+        // timing is not guaranteed for mouse clicks on custom components.
+        if (typeof window.__fyCardPending === 'string') {
+          const norm = window.__fyCardPending.replace(/\/$/, '').replace(/\.html$/, '')
+          window.__fyCardPending = null          // always clear, even on mismatch
+          if (norm === normTo) {
+            window.dispatchEvent(
+              new CustomEvent('open-clause-panel', { detail: { url: toPath } })
+            )
+            return false
+          }
+        }
+
+        // ── Standard .vp-doc clause cross-reference links ─────────────────
         const activeEl = document.activeElement
         const inVpDoc  = activeEl && activeEl.closest('.vp-doc')
         if (!inVpDoc) return
-        const inPanel = activeEl && activeEl.closest('.clause-panel')
+        const inPanel  = activeEl && activeEl.closest('.clause-panel')
         if (inPanel) return
         window.dispatchEvent(
           new CustomEvent('open-clause-panel', { detail: { url: toPath } })
@@ -409,20 +444,37 @@ export default {
       const referrer = sessionStorage.getItem('eba-last-path') || ''
       sessionStorage.setItem('eba-last-path', path)
 
-      // ── Session trail ──────────────────────────────────────────────────────
-      // Maintains eba-session-trail: Array<{path,title,eba,timestamp}>, max 20.
-      // Deduplicates by path — revisiting a page promotes it to the top of the
-      // list rather than creating a duplicate entry.
-      // SessionTrail.vue listens for the eba-trail-updated CustomEvent to refresh
-      // its reactive ref without polling sessionStorage on a timer.
+      // ── Recently viewed (localStorage — persists across sessions) ──────────
+      // Maintains eba-recently-viewed: Array<{path,title,eba,timestamp}>, max 4.
+      // Deduplicates by path. Consumed by SearchModal.vue's idle state.
+      // Uses localStorage so entries survive browser close.
+      // Only EBA clause pages (path under /ebas/) are recorded.
       try {
-        const existing = JSON.parse(sessionStorage.getItem('eba-session-trail') || '[]')
-        const entry    = { path, title: document.title || '', eba: getEbaFromPath(path), timestamp: now }
-        const deduped  = existing.filter(e => e.path !== path)
-        deduped.unshift(entry)
-        sessionStorage.setItem('eba-session-trail', JSON.stringify(deduped.slice(0, 20)))
-        window.dispatchEvent(new CustomEvent('eba-trail-updated'))
-      } catch { /* silent — never block navigation on storage errors */ }
+        if (path.startsWith('/ebas/')) {
+          const rvRaw     = localStorage.getItem('eba-recently-viewed')
+          const rvExisting = rvRaw ? JSON.parse(rvRaw) : []
+          const rvEntry    = { path, title: document.title || '', eba: getEbaFromPath(path), timestamp: now }
+          const rvDeduped  = rvExisting.filter(e => e.path !== path)
+          rvDeduped.unshift(rvEntry)
+          localStorage.setItem('eba-recently-viewed', JSON.stringify(rvDeduped.slice(0, 4)))
+        }
+      } catch { /* silent — localStorage unavailable in private browsing */ }
+
+      // ── Visit history for ForYou recommendation engine ─────────────────────
+      // Maintains eba-visit-history: { v: string[] }, newest-first, max 200.
+      // Stores only EBA clause page paths. Cross-referenced with
+      // page-catalog.json at recommendation time to get topic metadata.
+      // Deduplicates so each path is stored once (most recent visit wins).
+      try {
+        if (path.startsWith('/ebas/')) {
+          const stored = localStorage.getItem('eba-visit-history')
+          const hist   = stored ? JSON.parse(stored) : { v: [] }
+          const arr    = Array.isArray(hist.v) ? hist.v : []
+          const deduped = arr.filter(p => p !== path)
+          deduped.unshift(path)
+          localStorage.setItem('eba-visit-history', JSON.stringify({ v: deduped.slice(0, 200) }))
+        }
+      } catch { /* silent — localStorage quota or private browsing */ }
 
       sendBeacon('/log/pageview', {
         path,

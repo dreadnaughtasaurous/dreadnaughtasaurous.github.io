@@ -46,16 +46,16 @@
             <!-- ── NAVIGATION tab ── -->
             <template v-if="activeTab === 'navigation'">
               <div class="kb-section">
-                <div class="kb-section-label">Search modal</div>
+                <div class="kb-section-label">Search &amp; Ask AI</div>
                 <div class="kb-row">
-                  <span class="kb-desc">Open search</span>
+                  <span class="kb-desc">Open search modal</span>
+                  <span class="kb-keys"><kbd>/</kbd></span>
+                </div>
+                <div class="kb-row">
+                  <span class="kb-desc">Open Ask AI panel</span>
                   <span class="kb-keys">
                     <kbd>Ctrl</kbd><span class="kb-plus">+</span><kbd>K</kbd>
                   </span>
-                </div>
-                <div class="kb-row">
-                  <span class="kb-desc">Open search</span>
-                  <span class="kb-keys"><kbd>/</kbd></span>
                 </div>
                 <div class="kb-row">
                   <span class="kb-desc">Close / dismiss overlay</span>

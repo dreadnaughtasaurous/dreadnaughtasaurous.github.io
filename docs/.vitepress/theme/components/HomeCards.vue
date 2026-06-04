@@ -11,6 +11,7 @@
         <div class="home-hero-actions">
           <a href="/pay-rates" class="home-btn home-btn-primary">💰 Pay Rates</a>
           <a href="/topics/" class="home-btn home-btn-secondary">🏷️ Browse by Topic</a>
+          <a href="/for-you/" class="home-btn home-btn-secondary">✨ For You</a>
           <a href="/about/how-to-search" class="home-btn home-btn-secondary">🔍 How to Search</a>
         </div>
       </div>
@@ -22,48 +23,57 @@
       </div>
     </div>
 
+    <HomeTrending />
+
     <div class="home-section-label">Enterprise Agreements</div>
 
-    <div class="home-card-grid">
-      <a v-for="card in ebaCards" :key="card.link" :href="card.link" class="home-card">
-        <article class="box">
-          <div class="icon" :style="{ color: card.color, backgroundColor: card.bg }" v-html="card.icon"></div>
-          <h2 class="title">{{ card.title }}</h2>
-          <p class="details">{{ card.desc }}</p>
-        </article>
-      </a>
+    <div class="eba-grid">
+      <div v-for="card in ebaCards" :key="card.link" class="eba-entry" :style="{ '--entry-accent': card.color }">
+        <div class="eba-entry-header">
+          <div
+            class="eba-icon"
+            :style="{ color: card.color, backgroundColor: card.bg }"
+            v-html="card.icon"
+          ></div>
+          <div class="eba-entry-meta">
+            <a :href="card.link" class="eba-entry-title">{{ card.title }}</a>
+            <span class="eba-entry-period">{{ card.period }}</span>
+          </div>
+        </div>
+        <ul class="eba-entry-links">
+          <li v-for="ql in card.quickLinks" :key="ql.path">
+            <a :href="ql.path">{{ ql.label }}</a>
+          </li>
+        </ul>
+      </div>
     </div>
 
     <div class="home-section-label">Reference</div>
 
-    <div class="home-card-grid home-card-grid--slim">
-      <!-- Regular link cards -->
-      <a v-for="card in refCards" :key="card.link" :href="card.link" class="home-card">
-        <article class="box">
-          <div class="icon" :style="{ color: card.color, backgroundColor: card.bg }" v-html="card.icon"></div>
-          <h2 class="title">{{ card.title }}</h2>
-          <p class="details">{{ card.desc }}</p>
-        </article>
+    <div class="home-ref-bar">
+      <a href="/pay-rates" class="home-ref-item">
+        <span class="home-ref-icon" v-html="icons.dollar"></span>
+        <span>Pay Rates Directory</span>
       </a>
-      <!-- Advanced Search — opens SearchModal via custom event instead of navigating -->
-      <button class="home-card home-card--btn" @click="openSearch" aria-label="Open search modal">
-        <article class="box">
-          <div class="icon" :style="{ color: '#0284C7', backgroundColor: '#0284C71A' }" v-html="icons.searchcode"></div>
-          <h2 class="title">Advanced Search</h2>
-          <p class="details">Filter by EBA, topic, or keyword</p>
-        </article>
-      </button>
+      <a href="/topics/" class="home-ref-item">
+        <span class="home-ref-icon" v-html="icons.tags"></span>
+        <span>Browse by Topic</span>
+      </a>
+      <a href="/archive" class="home-ref-item">
+        <span class="home-ref-icon" v-html="icons.archive"></span>
+        <span>Archive</span>
+      </a>
     </div>
 
     <div class="home-disclaimer">
-    <strong>
-    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:5px;" aria-hidden="true">
-    <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
-    <line x1="12" y1="9" x2="12" y2="13"/>
-    <line x1="12" y1="17" x2="12.01" y2="17"/>
-    </svg>
-    Disclaimer: Currency &amp; Accuracy
-    </strong>
+      <strong>
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:5px;" aria-hidden="true">
+          <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+          <line x1="12" y1="9" x2="12" y2="13"/>
+          <line x1="12" y1="17" x2="12.01" y2="17"/>
+        </svg>
+        Disclaimer: Currency &amp; Accuracy
+      </strong>
       <p>This wiki summarises Victorian Public Health Sector Enterprise Agreement clauses for general reference only and does not constitute legal advice. Before acting on or providing advice based on any content here, users must consult the full text of the applicable signed Enterprise Agreement. The administrators accept no liability for outcomes arising from reliance on summaries alone.</p>
     </div>
 
@@ -71,6 +81,8 @@
 </template>
 
 <script setup>
+import HomeTrending from './HomeTrending.vue'
+
 const s = (path) => `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${path}</svg>`
 
 const icons = {
@@ -89,55 +101,105 @@ const icons = {
   archive:       s('<rect width="20" height="5" x="2" y="3" rx="1"/><path d="M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8"/><path d="M10 12h4"/>'),
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// EBA entries: title link → EBA index page; quickLinks → 3 frequent destinations.
+// STUBS: Replace each quickLinks path with real clause URLs once confirmed.
+//        Check actual paths with: node scripts/link-clauses.mjs --dry-run
+// ─────────────────────────────────────────────────────────────────────────────
 const ebaCards = [
-  { icon: icons.brain,         color: '#7C3AED', bg: '#7C3AED1A', title: 'Mental Health Services',                          desc: '2024–2028 · Salary Circular 880',    link: '/ebas/mental-health' },
-  { icon: icons.heartpulse,    color: '#E11D48', bg: '#E11D481A', title: 'Nurses and Midwives',                             desc: '2024–2028 · Salary Circular 870',    link: '/ebas/nurses-midwives' },
-  { icon: icons.briefcase,     color: '#3B82F6', bg: '#3B82F61A', title: 'Health Allied & Managers Admin',                  desc: '2021–2025 · Salary Circular 858',    link: '/ebas/has-managers-admin' },
-  { icon: icons.flask,         color: '#059669', bg: '#0596691A', title: 'Medical Scientists, Pharmacists & Psychologists', desc: '2021–2025 · Salary Circular 873',    link: '/ebas/mspp' },
-  { icon: icons.graduationcap, color: '#D97706', bg: '#D977061A', title: 'Doctors in Training',                             desc: '2022–2026 · Salary Circular 875',    link: '/ebas/doctors-in-training' },
-  { icon: icons.stethoscope,   color: '#0891B2', bg: '#0891B21A', title: 'Medical Specialists',                             desc: '2022–2026',                          link: '/ebas/medical-specialists' },
-  { icon: icons.handheart,     color: '#EA580C', bg: '#EA580C1A', title: 'Allied Health Professionals',                     desc: '2021–2026 · Salary Circular 877',    link: '/ebas/allied-health' },
-  { icon: icons.cpu,           color: '#4F46E5', bg: '#4F46E51A', title: 'Biomedical Engineers',                            desc: '2025–2028 · Salary Circular 872',    link: '/ebas/biomedical-engineers' },
-  { icon: icons.baby,          color: '#DB2777', bg: '#DB27771A', title: "Children's Services Award",                       desc: '2010 (Modern Award)',                link: '/ebas/childrens-services' },
+  {
+    icon: icons.handheart,     color: '#EA580C', bg: '#EA580C1A',
+    title: 'Allied Health Professionals',                     period: '2021–2026',
+    link: '/ebas/allied-health',
+    quickLinks: [
+      { label: 'Wage Rates',      path: '/ebas/allied-health/appendices/2-wage-rates' },
+      { label: 'Allowances and Reimbursements', path: '/ebas/allied-health/allowances' },
+      { label: 'Public Holidays, Leave and Related Matters',      path: '/ebas/allied-health/leave' },
+    ],
+  },
+  {
+    icon: icons.cpu,           color: '#4F46E5', bg: '#4F46E51A',
+    title: 'Biomedical Engineers',                            period: '2025–2028',
+    link: '/ebas/biomedical-engineers',
+    quickLinks: [
+      { label: 'Wages & Allowances',      path: '/ebas/biomedical-engineers/appendices/2-wage-rates' },
+      { label: 'Allowances and Reimbursements', path: '/ebas/biomedical-engineers/allowances' },
+      { label: 'Public Holidays, Leave and Related Matters',      path: '/ebas/biomedical-engineers/leave' },
+    ],
+  },
+  {
+    icon: icons.baby,          color: '#DB2777', bg: '#DB27771A',
+    title: "Children's Services Award",                       period: '2010 (Modern Award)',
+    link: '/ebas/childrens-services',
+    quickLinks: [
+      { label: 'Minimum Wages',      path: '/ebas/childrens-services/wages/14-minimum-wages' },
+      { label: 'Allowances', path: '/ebas/childrens-services/wages/15-allowances' },
+      { label: 'Leave and Public Holidays',      path: '/ebas/childrens-services/leave' },
+    ],
+  },
+  {
+    icon: icons.graduationcap, color: '#D97706', bg: '#D977061A',
+    title: 'Doctors in Training',                             period: '2022–2026',
+    link: '/ebas/doctors-in-training',
+    quickLinks: [
+      { label: 'Remuneration, Allowances and Deductions',      path: '/ebas/doctors-in-training/appendices/2-doctors-in-training-remuneration-allowances-and-deductions' },
+      { label: 'Allowances and Reimbursements', path: '/ebas/doctors-in-training/allowances' },
+      { label: 'Public Holidays, Leave and Related Matters',      path: '/ebas/doctors-in-training/leave' },
+    ],
+  },
+  {
+    icon: icons.briefcase,     color: '#3B82F6', bg: '#3B82F61A',
+    title: 'Health Allied & Managers Admin',                  period: '2021–2025',
+    link: '/ebas/has-managers-admin',
+    quickLinks: [
+      { label: 'HAS Wage Rates',      path: '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services' },
+      { label: 'M&A Wage Rates', path: '/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers' },
+      { label: 'Leave',      path: '/ebas/has-managers-admin/common-terms/leave' },
+    ],
+  },
+  {
+    icon: icons.flask,         color: '#059669', bg: '#0596691A',
+    title: 'Medical Scientists, Pharmacists & Psychologists', period: '2021–2025',
+    link: '/ebas/mspp',
+    quickLinks: [
+      { label: 'Rates of Pay',      path: '/ebas/mspp/schedules/2-rates-of-pay-and-allowances' },
+      { label: 'Allowances & Other Payments', path: '/ebas/mspp/schedules/3-classification-descriptors-and-higher-qualification-allowanc' },
+      { label: 'Leave of Absence and Public Holidays',      path: '/ebas/mspp/leave' },
+    ],
+  },
+  {
+    icon: icons.stethoscope,   color: '#0891B2', bg: '#0891B21A',
+    title: 'Medical Specialists',                             period: '2022–2026',
+    link: '/ebas/medical-specialists',
+    quickLinks: [
+      { label: 'Remuneration and Allowances',      path: '/ebas/medical-specialists/appendices/2-specialists-remuneration-and-allowances' },
+      { label: 'Allowances and Related Matters', path: '/ebas/medical-specialists/allowances' },
+      { label: 'Public Holidays, Leave and Related Matters',      path: '/ebas/medical-specialists/leave' },
+    ],
+  },
+  {
+    icon: icons.brain,         color: '#7C3AED', bg: '#7C3AED1A',
+    title: 'Mental Health Services',                          period: '2024–2028',
+    link: '/ebas/mental-health',
+    quickLinks: [
+      { label: 'Salaries and Allowances',      path: '/ebas/mental-health/schedules/02-salaries-and-allowances' },
+      { label: 'Allowances', path: '/ebas/mental-health/common-terms/allowances' },
+      { label: 'Leave',      path: '/ebas/mental-health/common-terms/leave' },
+    ],
+  },
+  {
+    icon: icons.heartpulse,    color: '#E11D48', bg: '#E11D481A',
+    title: 'Nurses and Midwives',                             period: '2024–2028',
+    link: '/ebas/nurses-midwives',
+    quickLinks: [
+      { label: 'Wages and Allowances',      path: '/ebas/nurses-midwives/appendices/02-wages-and-allowances' },
+      { label: 'Allowances and Reimbursements', path: '/ebas/nurses-midwives/allowances' },
+      { label: 'Public Holidays, Leave and Related Matters',      path: '/ebas/nurses-midwives/leave' },
+    ],
+  },
 ]
 
-const refCards = [
-  { icon: icons.dollar,   color: '#16A34A', bg: '#16A34A1A', title: 'Pay Rates Directory', desc: 'Quick-reference wage tables across all EBAs', link: '/pay-rates' },
-  { icon: icons.tags,     color: '#7C3AED', bg: '#7C3AED1A', title: 'Browse by Topic',     desc: 'Every clause grouped by topic',               link: '/topics/' },
-  { icon: icons.archive,  color: '#78716C', bg: '#78716C1A', title: 'Archive',             desc: 'Expired and superseded agreements',           link: '/archive' },
-]
-
-// Dispatches the same CustomEvent that SearchModal.vue listens for on window.
-// This is the same mechanism used by RelatedClauses.vue and AskThisPage.vue
-// to open the modal from outside the nav bar component.
-function openSearch() {
-  window.dispatchEvent(new CustomEvent('open-search', { detail: {} }))
-}
 </script>
 
 <style scoped>
-/* Reset <button> UA stylesheet defaults and explicitly apply the .home-card
-   visual properties. The UA stylesheet sets background:none and border:none
-   on <button> elements, which overrides the global .home-card rules in
-   style.css even though the button carries the .home-card class.
-   Values copied verbatim from .home-card in style.css. */
-.home-card--btn {
-  appearance: none;
-  padding: 0;
-  margin: 0;
-  font: inherit;
-  color: inherit;
-  text-align: left;
-  cursor: pointer;
-  width: 100%;
-  display: block;
-  /* These two are the ones the UA stylesheet was overriding: */
-  background-color: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-bg-soft);
-  border-radius: 12px;
-  transition: border-color 0.25s, background 0.25s;
-}
-.home-card--btn:hover {
-  border-color: var(--vp-c-brand-1);
-}
 </style>

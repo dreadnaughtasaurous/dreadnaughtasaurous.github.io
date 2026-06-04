@@ -15,7 +15,7 @@
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
     </svg>
     <span class="search-trigger-text">Search</span>
-    <span class="search-trigger-kbd"><kbd>Ctrl+K</kbd></span>
+    <span class="search-trigger-kbd"><kbd class="kbd-slash">/</kbd></span>
   </button>
 
   <!-- Modal overlay -->
@@ -25,7 +25,8 @@
            @click.self="close" role="dialog" aria-modal="true" aria-label="Search wiki">
         <div class="search-modal" ref="modalRef"
              :class="{ 'search-modal--sheet': isMobileSheet, 'search-modal--compact': compactResults }"
-             :style="isMobileSheet ? { maxHeight: (viewportHeight * 0.85) + 'px' } : {}">
+             :style="isMobileSheet ? { maxHeight: (viewportHeight * 0.85) + 'px' } : {}"
+             @keydown="trapFocus">
 
           <!-- Drag handle — visible on mobile sheet only; purely decorative affordance -->
           <div class="sheet-handle" aria-hidden="true"></div>
@@ -33,37 +34,23 @@
           <!-- Search input row -->
           <div class="search-header">
             <svg
-              v-show="!hideSharedInput"
               class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
               stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
             </svg>
             <input
               ref="inputRef"
-              v-show="!hideSharedInput"
               v-model="query"
               type="search"
-              :placeholder="activeTab === 'search' ? 'Search all clauses...' : 'Ask a question about your EBA...'"
+              placeholder="Search the EBA's or ask a question"
               class="search-input"
-              @input="activeTab === 'search' ? (warmupSearch(), debouncedSearch()) : null"
-              @keydown.enter="activeTab === 'ask' ? submitAsk() : operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : operatorCheatsheet && hintIndex >= 0 ? insertOperator(CHEATSHEET_OPS[hintIndex].prefix) : null"
+              @input="warmupSearch(); debouncedSearch()"
+              @keydown.enter="operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : operatorCheatsheet && hintIndex >= 0 ? insertOperator(CHEATSHEET_OPS[hintIndex].prefix) : null"
               @keydown.down.prevent="operatorHint ? (hintIndex = Math.min(hintIndex + 1, operatorHint.items.length - 1)) : operatorCheatsheet ? (hintIndex = Math.min(hintIndex + 1, CHEATSHEET_OPS.length - 1)) : focusResult(0)"
               @keydown.up.prevent="(operatorHint || operatorCheatsheet) ? (hintIndex = Math.max(hintIndex - 1, -1)) : null"
               @keydown.esc="operatorHint ? dismissHint() : operatorCheatsheet ? dismissCheatsheet() : close()"
               autocomplete="off"
             />
-            <!-- Save / bookmark button — only shown when there is an active query on the Search tab -->
-            <button
-              v-if="activeTab === 'search' && query.trim().length >= 2"
-              class="save-search-btn"
-              :class="{ saved: isCurrentQuerySaved }"
-              @click="toggleSaveSearch"
-              :aria-label="isCurrentQuerySaved ? 'Remove saved search' : 'Save this search'"
-              :title="isCurrentQuerySaved ? 'Remove saved search' : 'Save this search'"
-            >
-              <svg v-if="isCurrentQuerySaved" width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-              <svg v-else width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-            </button>
             <!-- Gear button — opens the extensible settings panel -->
             <button
               class="settings-gear-btn"
@@ -105,28 +92,6 @@
 
               <div class="settings-row">
                 <span class="settings-row-label">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
-                  Default topic
-                </span>
-                <select class="settings-select" :value="defaultTopic" @change="setDefaultTopic($event.target.value)" aria-label="Default topic filter">
-                  <option value="">No default</option>
-                  <option v-for="t in topicList" :key="t" :value="t">{{ t }}</option>
-                </select>
-              </div>
-
-              <div class="settings-row">
-                <span class="settings-row-label">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/></svg>
-                  Default tab
-                </span>
-                <div class="settings-seg" role="group" aria-label="Default tab">
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': defaultTab === 'search' }" @click="setDefaultTab('search')">Search</button>
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': defaultTab === 'ask' }" @click="setDefaultTab('ask')">Ask AI</button>
-                </div>
-              </div>
-
-              <div class="settings-row">
-                <span class="settings-row-label">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
                   Open results in new tab
                 </span>
@@ -135,30 +100,8 @@
                 </button>
               </div>
 
-              <div class="settings-row">
-                <span class="settings-row-label">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/><path d="M11 8v3l1.5 1.5"/></svg>
-                  Suggest alternative spellings
-                </span>
-                <button class="settings-toggle" :class="{ 'settings-toggle--on': fuzzyEnabled }" @click="toggleFuzzyEnabled" role="switch" :aria-checked="String(fuzzyEnabled)" aria-label="Suggest alternative spellings when no results found">
-                  <span class="settings-toggle-knob"></span>
-                </button>
-              </div>
-
               <!-- ── Display ───────────────────────────────────────────────────────────── -->
               <div class="settings-section-head">Display</div>
-
-              <div class="settings-row">
-                <span class="settings-row-label">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M7 12h10M11 18h2"/></svg>
-                  Sort results
-                </span>
-                <div class="settings-seg" role="group" aria-label="Sort results">
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': sortOrder === 'relevance' }" @click="setSortOrder('relevance')">Relevance</button>
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': sortOrder === 'asc' }" @click="setSortOrder('asc')">1 → 100</button>
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': sortOrder === 'desc' }" @click="setSortOrder('desc')">100 → 1</button>
-                </div>
-              </div>
 
               <div class="settings-row">
                 <span class="settings-row-label">
@@ -178,20 +121,6 @@
                 <button class="settings-toggle" :class="{ 'settings-toggle--on': previewEnabled }" @click="togglePreviewEnabled" role="switch" :aria-checked="String(previewEnabled)" aria-label="Floating preview pane">
                   <span class="settings-toggle-knob"></span>
                 </button>
-              </div>
-
-              <!-- ── Ask AI ─────────────────────────────────────────────────────────────── -->
-              <div class="settings-section-head">Ask AI</div>
-
-              <div class="settings-row">
-                <span class="settings-row-label">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
-                  Response style
-                </span>
-                <div class="settings-seg" role="group" aria-label="Ask AI response style">
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': askStyle === 'detailed' }" @click="setAskStyle('detailed')">Detailed</button>
-                  <button class="settings-seg-btn" :class="{ 'settings-seg-btn--active': askStyle === 'concise' }" @click="setAskStyle('concise')">Concise</button>
-                </div>
               </div>
 
               <!-- ── Privacy ───────────────────────────────────────────────────────────── -->
@@ -215,11 +144,6 @@
                 <button class="settings-toggle" :class="{ 'settings-toggle--on': analyticsEnabled }" @click="toggleAnalyticsEnabled" role="switch" :aria-checked="String(analyticsEnabled)" aria-label="Share anonymous search analytics">
                   <span class="settings-toggle-knob"></span>
                 </button>
-              </div>
-
-              <!-- ── Reset ──────────────────────────────────────────────────────────────── -->
-              <div class="settings-reset-row">
-                <button class="settings-reset-btn" @click="resetAllSettings">Reset to defaults</button>
               </div>
 
             </div>
@@ -329,36 +253,7 @@
             </div>
           </Teleport>
 
-          <!-- Tab bar -->
-          <div class="search-tab-bar">
-            <button
-              class="search-tab"
-              :class="{ active: activeTab === 'search' }"
-              @click="switchTab('search')"
-            >
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-              Search
-            </button>
-            <button
-              class="search-tab"
-              :class="{ active: activeTab === 'ask' }"
-              @click="switchTab('ask')"
-              data-tour="ask-ai-tab"
-            >
-              <svg class="ask-tab-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
-                <path class="ask-tab-sparkle" d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/>
-                <path class="ask-tab-star" d="M20 3v4"/>
-                <path class="ask-tab-star" d="M22 5h-4"/>
-                <path class="ask-tab-star ask-tab-star--delayed" d="M4 17v2"/>
-                <path class="ask-tab-star ask-tab-star--delayed" d="M5 18H3"/>
-              </svg>
-              Ask AI
-              <span class="tab-badge">Beta</span>
-            </button>
-          </div>
-
-          <!-- SEARCH TAB -->
-          <template v-if="activeTab === 'search'">
+          <!-- SEARCH CONTENT -->
             <!-- Filters row -->
             <div class="search-filters">
               <div class="filter-group">
@@ -462,10 +357,54 @@
             <!-- Results body -->
             <div class="search-body" ref="resultsContainerRef">
 
+              <!-- ── Inline AI answer (streamed) — takes over the body when active ── -->
+              <div v-if="inlineAnswer" class="inline-answer">
+                <button class="inline-answer-back" @click="closeInlineAnswer">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></svg>
+                  Back to results
+                </button>
+
+                <div class="inline-answer-question">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                  <span>{{ inlineQuestion }}</span>
+                </div>
+
+                <div class="inline-answer-content">
+                  <div v-if="inlineAnswerText" class="inline-answer-text" v-html="renderMarkdown(inlineAnswerText)"></div>
+                  <span v-if="inlineAnswerLoading && inlineAnswerText" class="inline-answer-cursor" aria-hidden="true"></span>
+                  <div v-if="inlineAnswerLoading && !inlineAnswerText" class="inline-answer-thinking">
+                    <span class="ap-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
+                  </div>
+                </div>
+
+                <div v-if="inlineAnswerError" class="inline-answer-error">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                  {{ inlineAnswerError }}
+                </div>
+
+                <div v-if="inlineAnswerSources.length > 0" class="inline-answer-sources">
+                  <div class="inline-answer-sources-head">Sources</div>
+                  <a
+                    v-for="src in inlineAnswerSources"
+                    :key="src"
+                    :href="srcToPath(src)"
+                    class="inline-answer-source"
+                    @click="close"
+                  >
+                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+                    {{ srcToLabel(src) }}
+                  </a>
+                </div>
+
+                <div v-if="!inlineAnswerLoading" class="inline-answer-disclaimer">
+                  AI answers are generated from wiki content only. Always verify against the full EBA text before acting.
+                </div>
+              </div>
+
               <!-- Skeleton shimmer cards — shown while Pagefind stubs are resolving -->
               <!-- skeletonCount is set immediately after pagefind.search() returns,  -->
               <!-- before the slower .data() Promise.all completes.                    -->
-              <div v-if="loading || skeletonCount > 0" class="search-results search-results--skeleton" aria-busy="true" aria-label="Loading search results">
+              <div v-else-if="loading || skeletonCount > 0" class="search-results search-results--skeleton" aria-busy="true" aria-label="Loading search results">
                 <div class="result-count-skeleton"></div>
                 <div
                   v-for="n in (skeletonCount > 0 ? skeletonCount : 4)"
@@ -557,210 +496,117 @@
                     <p v-if="result.excerpt" class="result-excerpt" v-html="cleanExcerpt(result.excerpt)"></p>
                   </a>
                 </div>
-                <!-- ── Ask AI CTA: primary (total dead-end — fuzzy also zero) ── -->
-                <div v-if="fuzzyResults.length === 0" class="ask-ai-cta ask-ai-cta--primary">
-                  <div class="ask-ai-cta-body">
-                    <svg class="ask-ai-cta-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
-                    <span class="ask-ai-cta-heading">No matches found</span>
-                    <span class="ask-ai-cta-sub">Ask AI can answer questions that keyword search can't find.</span>
-                  </div>
-                  <button class="ask-ai-cta-btn ask-ai-cta-btn--primary" @click="redirectToAskAI">
-                    Ask AI about &ldquo;{{ parseQuery(query).cleanQuery.trim() || query.trim() }}&rdquo;
-                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                  </button>
-                </div>
-
-                <!-- ── Ask AI CTA: secondary (fuzzy found something — shown below) ── -->
-                <div v-if="fuzzyResults.length > 0" class="ask-ai-cta ask-ai-cta--secondary">
-                  <button class="ask-ai-cta-btn ask-ai-cta-btn--secondary" @click="redirectToAskAI">
+                <!-- ── Ask AI suggestions (zero results) ────────────────────── -->
+                <div v-if="aiSuggestions.length > 0" class="ask-ai-suggestions">
+                  <div class="ask-ai-suggestions-header">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
-                    Not finding what you need? Ask AI about &ldquo;{{ parseQuery(query).cleanQuery.trim() || query.trim() }}&rdquo;
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                    Ask AI Assistant
+                  </div>
+                  <button
+                    v-for="suggestion in aiSuggestions"
+                    :key="suggestion"
+                    class="ask-ai-suggestion-row"
+                    @click="askInline(suggestion)"
+                  >
+                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                    {{ suggestion }}
                   </button>
                 </div>
               </div>
 
-              <!-- Quick Access panel (no query, no filters) -->
-              <div v-else-if="query.length <= 1 && !selectedEba && !selectedTopic" class="quick-access">
+              <!-- ── New idle state: Recently Viewed + Bookmarks + Suggested ── -->
+              <div v-else-if="query.length <= 1 && !selectedEba && !selectedTopic" class="idle-state">
 
-                <!-- Bookmarks section -->
-                <div v-if="bookmarks.length > 0" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
-                    My bookmarks
-                    <span class="qa-bookmark-count">{{ bookmarks.length }}</span>
-                  </div>
-                  <div class="qa-bookmark-list">
-                    <a                    
-                      v-for="bm in bookmarks"
-                      :key="bm.id"
-                      :href="bm.url"
-                      class="qa-bookmark-card"
-                      @click="close"
-                    >
-                      <div class="qa-bookmark-card-top">
-                        <svg class="qa-bookmark-card-icon" width="11" height="11" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
-                        <span class="qa-bookmark-card-title">{{ bm.title }}</span>
-                      </div>
-                      <div v-if="bm.eba" class="qa-bookmark-card-eba">{{ bm.eba }}</div>
-                      <div v-if="bm.note" class="qa-bookmark-card-note">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
-                        {{ bm.note }}
-                      </div>
-                    </a>
-                  </div>
-                </div>
-
-                <!-- Saved searches section -->
-                <div v-if="savedSearches.length > 0" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                    Saved searches
-                    <button class="qa-clear-recent" @click="clearAllSavedSearches" aria-label="Clear all saved searches">Clear all</button>
-                  </div>
-                  <div class="qa-chips">
-                    <span
-                      v-for="saved in savedSearches"
-                      :key="saved.id"
-                      class="qa-chip qa-chip-saved"
-                    >
-                      <button class="qa-chip-label" @click="useSavedSearch(saved)">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                        {{ saved.label }}
-                      </button>
-                      <button class="qa-chip-remove" @click.stop="removeSavedSearch(saved.id)" :aria-label="`Remove saved search: ${saved.label}`">×</button>
-                    </span>
-                  </div>
-                </div>
-
-                <!-- Recent searches section -->
-                <div v-if="recentSearches.length > 0" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                    Recent searches
-                    <!-- Lock icon — ambient indicator that history is persisted across sessions -->
-                    <svg v-if="historyOptIn" class="recent-persist-icon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Saved between visits" title="History saved between visits"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
-                    <button class="qa-clear-recent" @click="clearRecentSearches" aria-label="Clear recent searches">Clear</button>
-                  </div>
-                  <div class="qa-chips">
-                    <!-- Display cap: 8 when opted in (20 stored), 5 when session-only. Edit either number here. -->
-                    <button
-                      v-for="recent in recentSearches.slice(0, historyOptIn ? 8 : 5)"
-                      :key="recent"
-                      class="qa-chip qa-chip-recent"
-                      @click="useRecentSearch(recent)"
-                    >{{ recent }}</button>
-                  </div>
-                </div>
-
-                <!-- Cross-session history consent — one-time prompt ─────────────────────────
-                     Renders in Quick Access only (implicit: already inside the query.length<=1
-                     block). Dismisses permanently on either Yes or No. The gear toggle in the
-                     header controls the preference afterwards.
-                ─────────────────────────────────────────────────────────────────────────────── -->
-                <div v-if="!historyPromptSeen && !historyOptIn" class="qa-section qa-history-prompt">
+                <!-- ── One-time consent prompt ──────────────────────────────────
+                     Shown only until the user makes a choice (Yes or No).
+                     Accepting also flips the 'Remember searches' toggle in the
+                     gear settings panel to ON, because acceptHistoryOptIn() sets
+                     historyOptIn = true and writes to localStorage.
+                ─────────────────────────────────────────────────────────────── -->
+                <div
+                  v-if="!historyPromptSeen && !historyOptIn"
+                  class="qa-history-prompt"
+                  role="alertdialog"
+                  aria-label="Remember searches prompt"
+                >
                   <div class="qa-history-prompt-body">
                     <svg class="qa-history-prompt-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                     <div class="qa-history-prompt-text">
-                      <span class="qa-history-prompt-title">Remember searches between visits?</span>
-                      <span class="qa-history-prompt-sub">Stored locally in your browser — never shared.</span>
+                      <span class="qa-history-prompt-title">Remember your searches between visits?</span>
+                      <span class="qa-history-prompt-sub">Your search history is saved locally on this device only — never sent anywhere.</span>
                     </div>
                   </div>
                   <div class="qa-history-prompt-actions">
-                    <button class="qa-history-prompt-yes" @click="acceptHistoryOptIn">Yes, save history</button>
-                    <button class="qa-history-prompt-no"  @click="declineHistoryOptIn">No thanks</button>
+                    <button class="qa-history-prompt-yes" @click="acceptHistoryOptIn">Yes, remember my searches</button>
+                    <button class="qa-history-prompt-no" @click="declineHistoryOptIn">No thanks</button>
                   </div>
                 </div>
 
-                <!-- Most Viewed Clauses — fetched from analytics worker on open -->
-                <!-- Loading skeleton — shown while fetch is in flight -->
-                <div v-if="mostViewedLoading" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-                    Most viewed pages
-                  </div>
-                  <div class="qa-most-viewed-list">
-                    <div v-for="n in 3" :key="n" class="qa-most-viewed-card qa-most-viewed-card--skeleton">
-                      <span class="qa-skeleton-rank"></span>
-                      <span class="qa-skeleton-body">
-                        <span class="qa-skeleton-line qa-skeleton-title"></span>
-                        <span class="qa-skeleton-line qa-skeleton-eba"></span>
-                      </span>
-                    </div>
-                  </div>
-                </div>
-                <!-- Populated list — only renders when worker returned ≥1 result -->
-                <div v-else-if="mostViewedClauses.length > 0" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-                    Most viewed pages
-                  </div>
-                  <div class="qa-most-viewed-list">
-                    <a
-                      v-for="(clause, i) in mostViewedClauses"
-                      :key="clause.path"
-                      :href="clause.path"
-                      class="qa-most-viewed-card"
-                      @click="close"
-                    >
-                      <span class="qa-most-viewed-rank" aria-hidden="true">{{ i + 1 }}</span>
-                      <span class="qa-most-viewed-body">
-                        <span class="qa-most-viewed-title">{{ clause.title }}</span>
-                        <span v-if="clause.eba" class="qa-most-viewed-eba">{{ ebaSlugLabels[clause.eba] || clause.eba }}</span>
-                      </span>
-                      <svg class="qa-most-viewed-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                    </a>
-                  </div>
-                </div>
-                <!-- error and empty-data cases: section simply absent — no user-facing message -->
-
-                <!-- Trending topics — rendered only when worker returned ≥1 result -->
-                <div v-if="trendingShortcuts.length > 0" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
-                    Trending topics this week
-                  </div>
-                  <div class="qa-chips">
-                    <button
-                      v-for="shortcut in trendingShortcuts"
-                      :key="'trending-' + shortcut.topic"
-                      class="qa-chip qa-chip-trending"
-                      @click="fireShortcut(shortcut)"
-                    >{{ shortcut.label }}</button>
-                  </div>
-                </div>
-                <!-- Loading skeleton — two ghost chips while fetch is in flight -->
-                <div v-else-if="trendingLoading" class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
-                    Trending this week
-                  </div>
-                  <div class="qa-chips">
-                    <div v-for="n in 2" :key="n" class="qa-chip qa-chip--skeleton"></div>
-                  </div>
+                <!-- Recently viewed -->
+                <div v-if="recentlyViewed.length > 0" class="idle-section">
+                  <div class="idle-section-header">Recently viewed</div>
+                  <a
+                    v-for="page in recentlyViewed"
+                    :key="page.path"
+                    :href="page.path"
+                    class="idle-row"
+                    @click="close"
+                    @keydown.up.prevent="focusIdleRow($event.currentTarget, -1)"
+                    @keydown.down.prevent="focusIdleRow($event.currentTarget, 1)"
+                    @keydown.esc="inputRef?.focus()"
+                  >
+                    <svg class="idle-row-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+                    <span class="idle-row-label">{{ page.title || page.path }}</span>
+                    <span v-if="page.eba && ebaSlugLabels[page.eba]" class="idle-row-eba" :style="ebaStyle(ebaSlugToFullName(page.eba))">{{ ebaSlugLabels[page.eba] }}</span>
+                  </a>
                 </div>
 
-                <!-- Quick access shortcuts -->
-                <div class="qa-section">
-                  <div class="qa-section-header">
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
-                    Quick access
+                <!-- Bookmarks (compact — max 3, Option B) -->
+                <div v-if="bookmarks.length > 0" class="idle-section">
+                  <div class="idle-section-header">
+                    My bookmarks
+                    <span class="idle-section-count">{{ bookmarks.length }}</span>
                   </div>
-                  <div class="qa-shortcuts">
-                    <button
-                      v-for="shortcut in quickAccessShortcuts"
-                      :key="shortcut.label"
-                      class="qa-shortcut"
-                      @click="fireShortcut(shortcut)"
-                    >
-                      <span class="qa-shortcut-icon" aria-hidden="true">{{ shortcut.icon }}</span>
-                      <span class="qa-shortcut-label">{{ shortcut.label }}</span>
-                      <svg class="qa-shortcut-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                    </button>
-                  </div>
+                  <a
+                    v-for="bm in bookmarks.slice(0, 3)"
+                    :key="bm.id"
+                    :href="bm.url"
+                    class="idle-row idle-row--bm"
+                    @click="close"
+                    @keydown.up.prevent="focusIdleRow($event.currentTarget, -1)"
+                    @keydown.down.prevent="focusIdleRow($event.currentTarget, 1)"
+                    @keydown.esc="inputRef?.focus()"
+                  >
+                    <svg class="idle-row-icon" width="13" height="13" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+                    <span class="idle-row-body">
+                      <span class="idle-row-label">{{ bm.title }}</span>
+                      <span v-if="bm.note" class="idle-row-note">{{ bm.note }}</span>
+                    </span>
+                    <span v-if="bm.eba" class="idle-row-eba" :style="ebaStyle(bm.eba)">{{ bm.eba.split(' ')[0] }}</span>
+                  </a>
                 </div>
 
-                <p class="search-hint-small">Type to search · Try <code class="op-hint">eba:nurses-midwives</code> <code class="op-hint">topic:wages</code> <code class="op-hint">"exact phrase"</code> <code class="op-hint">-exclude</code></p>
+                <!-- Suggested operator shortcuts -->
+                <div class="idle-section">
+                  <div class="idle-section-header">Suggested</div>
+                  <button class="idle-row idle-row--btn" @click="insertOperator('eba:')"
+                    @keydown.up.prevent="focusIdleRow($event.currentTarget, -1)"
+                    @keydown.down.prevent="focusIdleRow($event.currentTarget, 1)"
+                    @keydown.esc="inputRef?.focus()">
+                    <svg class="idle-row-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                    <span class="idle-row-label">Search across EBAs</span>
+                    <code class="idle-row-operator">eba:</code>
+                  </button>
+                  <button class="idle-row idle-row--btn" @click="insertOperator('topic:')"
+                    @keydown.up.prevent="focusIdleRow($event.currentTarget, -1)"
+                    @keydown.down.prevent="focusIdleRow($event.currentTarget, 1)"
+                    @keydown.esc="inputRef?.focus()">
+                    <svg class="idle-row-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                    <span class="idle-row-label">Search across topics</span>
+                    <code class="idle-row-operator">topic:</code>
+                  </button>
+                </div>
+
               </div>
 
               <!-- Normal results list -->
@@ -791,7 +637,7 @@
                   </button>
                 </div>
                 <a
-                  v-for="(result, index) in sortedResults"
+                  v-for="(result, index) in visibleResults"
                   :key="result.url"
                   :href="buildHighlightUrl(result)"
                   class="result-card"
@@ -830,464 +676,49 @@
                     <span v-for="t in result.filters.topics" :key="t" class="result-tag">{{ t }}</span>
                   </div>
                 </a>
-              </div>
 
-            </div>
-          </template>
-
-          <!-- ASK AI TAB — data-ask-mode on the body div lets CSS key off the active mode -->
-          <template v-else-if="activeTab === 'ask'">
-            <div class="search-body ask-body" :data-ask-mode="askMode">
-              <div v-if="!aiConfigured" class="ai-not-configured">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
-                <p><strong>AI Search not yet configured</strong></p>
-                <p>The AI search feature requires a Cloudflare Worker to be set up. The Pagefind keyword search is fully operational in the meantime.</p>
-              </div>
-              <template v-else>
-
-                <!-- ── Page context banner ────────────────────────────────────
-                     Shown only on clause pages (≥5 path segments under /ebas/),
-                     before any conversation has started. Offers to seed the
-                     first worker request with the current page's sourcePath.
-                     Dismissal is per-open (Option A): resets in close().
-                ──────────────────────────────────────────────────────────── -->
-                <div
-                  v-if="showPageContextBanner"
-                  class="page-ctx-banner"
-                  :style="{ borderLeftColor: ebaColors[currentPageEba]?.color ?? 'var(--vp-c-brand)' }"
-                  role="note"
-                  aria-label="Page context available"
+                <!-- View more results -->
+                <button
+                  v-if="results.length > visibleCount"
+                  class="view-more-btn"
+                  @click="visibleCount += 5"
                 >
-                  <svg class="page-ctx-icon" width="14" height="14" viewBox="0 0 24 24" fill="none"
-                       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                       aria-hidden="true">
-                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                    <polyline points="14 2 14 8 20 8"/>
-                    <line x1="16" y1="13" x2="8" y2="13"/>
-                    <line x1="16" y1="17" x2="8" y2="17"/>
-                    <polyline points="10 9 9 9 8 9"/>
-                  </svg>
-                  <div class="page-ctx-banner-body">
-                    <span class="page-ctx-banner-label">
-                      <strong>{{ currentPageClauseLabel }}</strong>
-                      <span
-                        v-if="currentPageEba"
-                        class="page-ctx-banner-eba"
-                        :style="ebaStyle(currentPageEba)"
-                      >{{ currentPageEbaShort }}</span>
-                    </span>
-                    <span class="page-ctx-banner-sub">Include this page as context for your question?</span>
-                  </div>
-                  <div class="page-ctx-banner-actions">
-                    <button class="page-ctx-use-btn" @click="acceptPageContext">Use this page</button>
-                    <button
-                      class="page-ctx-skip-btn"
-                      @click="pageContextBannerDismissed = true"
-                      aria-label="Ask generally without this page's context"
-                    >Not now</button>
-                  </div>
-                </div>
+                  View more results
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+                </button>
 
-                <!-- ── Context active indicator ───────────────────────────────
-                     Shown after the user accepts the banner, before the first
-                     submit. Confirms context is active and allows removal.
-                     Disappears once aiLoading fires (conversation starts).
-                ──────────────────────────────────────────────────────────── -->
-                <div
-                  v-else-if="pageContextAccepted && conversationHistory.length === 0 && !aiLoading"
-                  class="page-ctx-active"
-                >
-                  <svg class="page-ctx-active-icon" width="12" height="12" viewBox="0 0 24 24" fill="none"
-                       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                       aria-hidden="true">
-                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                    <polyline points="14 2 14 8 20 8"/>
-                  </svg>
-                  <span>Using context from <strong>{{ currentPageClauseLabel }}</strong></span>
+                <!-- Ask AI suggestions (with results) -->
+                <div v-if="aiSuggestions.length > 0" class="ask-ai-suggestions">
+                  <div class="ask-ai-suggestions-header">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                    Ask AI Assistant
+                  </div>
                   <button
-                    class="page-ctx-clear-btn"
-                    @click="clearPageContext"
-                    aria-label="Remove page context"
-                  >×</button>
-                </div>
-
-                <!-- ── Ask mode selector (hidden once a conversation starts) ── -->
-                <div
-                  v-if="conversationHistory.length === 0 && !aiLoading"
-                  class="ask-mode-selector"
-                  role="group"
-                  aria-label="Ask mode"
-                >
-                  <button
-                    class="ask-mode-btn"
-                    :class="{ active: askMode === 'question' }"
-                    @click="setAskMode('question')"
-                  >Ask a question</button>
-                  <button
-                    class="ask-mode-btn"
-                    :class="{ active: askMode === 'situation' }"
-                    @click="setAskMode('situation')"
-                  >Describe a situation</button>
-                  <button
-                    class="ask-mode-btn"
-                    :class="{ active: askMode === 'draft' }"
-                    @click="setAskMode('draft')"
-                  >Draft a response</button>
-                </div>
-
-                <!-- ── question mode: structured form with EBA/employment dropdowns ── -->
-                <div
-                  v-if="conversationHistory.length === 0 && !aiLoading && askMode === 'question'"
-                  class="ask-form"
-                >
-                  <div class="ask-form-row">
-                    <div class="filter-group">
-                      <label for="question-eba-filter">EBA <span class="optional-label">(optional)</span></label>
-                      <select id="question-eba-filter" v-model="questionEba">
-                        <option value="">Select EBA...</option>
-                        <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
-                      </select>
-                    </div>
-                    <div class="filter-group">
-                      <label for="question-emp-filter">Employment type <span class="optional-label">(optional)</span></label>
-                      <select id="question-emp-filter" v-model="questionEmpType">
-                        <option value="">Select type...</option>
-                        <option v-for="et in employmentTypes" :key="et" :value="et">{{ et }}</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="ask-form-field">
-                    <label for="question-text">Your question <span class="required-mark" aria-hidden="true">*</span></label>
-                    <textarea
-                      id="question-text"
-                      v-model="questionText"
-                      rows="4"
-                      placeholder="e.g. Am I entitled to overtime pay if I work more than 8 hours on a weekend shift?"
-                      @keydown.enter.ctrl="submitAsk"
-                    ></textarea>
-                    <div
-                      v-if="questionText.trim().length > 0"
-                      class="char-counter"
-                      :class="`char-counter--${charCountState(questionCharCount)}`"
-                      aria-live="polite"
-                    >
-                      {{ questionCharCount }} chars
-                      <span class="char-counter-sep">·</span>
-                      <span class="char-counter-label">
-                        <template v-if="charCountState(questionCharCount) === 'too-short'">Too short for a useful answer</template>
-                        <template v-else-if="charCountState(questionCharCount) === 'good-start'">Good start — add more detail</template>
-                        <template v-else>Good length</template>
-                      </span>
-                    </div>
-                  </div>
-                  <div class="ask-input-row">
-                    <button
-                      class="ask-btn"
-                      :style="{ opacity: askBtnOpacity(questionCharCount) }"
-                      :disabled="aiLoading || questionText.trim().length < 5"
-                      @click="submitAsk"
-                    >
-                      <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
-                      <span v-else>Ask</span>
-                    </button>
-                  </div>
-                </div>
-
-                <!-- ── situation mode form ── -->
-                <div
-                  v-if="conversationHistory.length === 0 && !aiLoading && askMode === 'situation'"
-                  class="ask-form"
-                >
-                  <div class="ask-form-row">
-                    <div class="filter-group">
-                      <label for="situation-eba-filter">EBA <span class="optional-label">(optional)</span></label>
-                      <select id="situation-eba-filter" v-model="situationEba">
-                        <option value="">Select EBA...</option>
-                        <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
-                      </select>
-                    </div>
-                    <div class="filter-group">
-                      <label for="situation-emp-filter">Employment type <span class="optional-label">(optional)</span></label>
-                      <select id="situation-emp-filter" v-model="situationEmpType">
-                        <option value="">Select type...</option>
-                        <option v-for="et in employmentTypes" :key="et" :value="et">{{ et }}</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="ask-form-field">
-                    <label for="situation-text">Describe the situation <span class="required-mark" aria-hidden="true">*</span></label>
-                    <textarea
-                      id="situation-text"
-                      v-model="situationText"
-                      rows="4"
-                      placeholder="e.g. An employee worked a double shift over the weekend and is questioning whether they're entitled to overtime pay..."
-                    ></textarea>
-                    <div
-                      v-if="situationText.trim().length > 0"
-                      class="char-counter"
-                      :class="`char-counter--${charCountState(situationCharCount)}`"
-                      aria-live="polite"
-                    >
-                      {{ situationCharCount }} chars
-                      <span class="char-counter-sep">·</span>
-                      <span class="char-counter-label">
-                        <template v-if="charCountState(situationCharCount) === 'too-short'">Too short for a useful answer</template>
-                        <template v-else-if="charCountState(situationCharCount) === 'good-start'">Good start — add more detail</template>
-                        <template v-else>Good length</template>
-                      </span>
-                    </div>
-                  </div>
-                  <div class="ask-input-row">
-                    <button
-                      class="ask-btn"
-                      :style="{ opacity: askBtnOpacity(situationCharCount) }"
-                      :disabled="aiLoading || situationText.trim().length < 10"
-                      @click="submitAsk"
-                    >
-                      <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
-                      <span v-else>Describe situation</span>
-                    </button>
-                  </div>
-                </div>
-
-                <!-- ── draft mode form ── -->
-                <div
-                  v-if="conversationHistory.length === 0 && !aiLoading && askMode === 'draft'"
-                  class="ask-form"
-                >
-                  <div class="ask-form-row">
-                    <div class="filter-group">
-                      <label for="draft-eba-filter">EBA <span class="required-mark" aria-hidden="true">*</span></label>
-                      <select id="draft-eba-filter" v-model="draftEba">
-                        <option value="">Select EBA...</option>
-                        <option v-for="eba in ebaList" :key="eba" :value="eba">{{ eba }}</option>
-                      </select>
-                    </div>
-                    <div class="filter-group">
-                      <label for="draft-emp-filter">Employment type <span class="required-mark" aria-hidden="true">*</span></label>
-                      <select id="draft-emp-filter" v-model="draftEmpType">
-                        <option value="">Select type...</option>
-                        <option v-for="et in employmentTypes" :key="et" :value="et">{{ et }}</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="ask-form-field">
-                    <label for="draft-question">Employee's question <span class="required-mark" aria-hidden="true">*</span></label>
-                    <textarea
-                      id="draft-question"
-                      v-model="draftQuestion"
-                      rows="3"
-                      placeholder="e.g. Am I entitled to overtime pay for the extra shift I worked?"
-                    ></textarea>
-                    <div
-                      v-if="draftQuestion.trim().length > 0"
-                      class="char-counter"
-                      :class="`char-counter--${charCountState(draftCharCount)}`"
-                      aria-live="polite"
-                    >
-                      {{ draftCharCount }} chars
-                      <span class="char-counter-sep">·</span>
-                      <span class="char-counter-label">
-                        <template v-if="charCountState(draftCharCount) === 'too-short'">Too short for a useful answer</template>
-                        <template v-else-if="charCountState(draftCharCount) === 'good-start'">Good start — add more detail</template>
-                        <template v-else>Good length</template>
-                      </span>
-                    </div>
-                  </div>
-                  <div class="ask-form-field">
-                    <label for="draft-context">Additional context <span class="optional-label">(optional)</span></label>
-                    <textarea
-                      id="draft-context"
-                      v-model="draftContext"
-                      rows="3"
-                      placeholder="e.g. The employee works Monday to Friday, their shift was on a Sunday, 8 hours. They are classified as Grade 3."
-                    ></textarea>
-                  </div>
-                  <div class="ask-input-row">
-                    <button
-                      class="ask-btn"
-                      :style="{ opacity: askBtnOpacity(draftCharCount) }"
-                      :disabled="aiLoading || draftEba === '' || draftEmpType === '' || draftQuestion.trim().length < 5"
-                      @click="submitAsk"
-                    >
-                      <span v-if="aiLoading" class="loading-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
-                      <span v-else>Draft response</span>
-                    </button>
-                  </div>
-                </div>
-
-                <!-- ── Conversation thread ── -->
-                <div
-                  v-if="conversationHistory.length > 0 || aiLoading || aiError"
-                  class="conversation-thread"
-                  ref="conversationBodyRef"
-                  aria-live="polite"
-                  aria-label="Conversation history"
-                >
-                  <template v-for="(turn, idx) in conversationHistory" :key="idx">
-                    <div v-if="turn.role === 'user'" class="conv-turn conv-turn--user">
-                      <span class="conv-label">You</span>
-                      <p class="conv-user-text">{{ turn.content }}</p>
-                    </div>
-                    <div
-                      v-else-if="turn.role === 'assistant'"
-                      class="conv-turn conv-turn--assistant"
-                      :class="{ 'conv-turn--hedging': turn.hedging }"
-                    >
-                      <span class="conv-label">
-                        EBA Assistant
-                        <span v-if="turn.hedging" class="hedging-label" aria-label="This answer contains qualified language — verify carefully">
-                          · Verify carefully
-                        </span>
-                      </span>
-                      <div v-if="turn.hedging" class="hedging-callout" role="note" aria-live="polite">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="hedging-callout-icon"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
-                        <span>This answer contains qualified language — the AI has identified conditions or exceptions that may affect the outcome. Verify the relevant clause before acting.</span>
-                      </div>
-                      <div class="ai-answer-body" v-html="renderMarkdown(turn.content)"></div>
-                      <template v-if="idx === conversationHistory.length - 1 && aiSources.length">
-                        <div class="ai-sources">
-                          <p class="ai-sources-label">Sources used:</p>
-                          <a v-for="src in aiSources" :key="src.url" :href="src.url" class="ai-source-link" @click="close">{{ src.title }}</a>
-                        </div>
-                      </template>
-                      <!-- Follow-up question chips — only on the last turn, hidden while loading -->
-                      <div
-                        v-if="idx === conversationHistory.length - 1 && followUpChips.length > 0 && !aiLoading"
-                        class="followup-chips"
-                        role="group"
-                        aria-label="Suggested follow-up questions"
-                      >
-                        <span class="followup-chips-label">You might also ask:</span>
-                        <div class="followup-chips-row">
-                          <button
-                            v-for="chip in followUpChips"
-                            :key="chip"
-                            class="followup-chip"
-                            @click="fireFollowUp(chip)"
-                          >{{ chip }}</button>
-                        </div>
-                      </div>
-                      <!-- Per-turn copy button — copies this turn's plain text to clipboard -->
-                      <div class="conv-copy-wrap">
-                        <button
-                          class="conv-copy-btn"
-                          :class="{
-                            'conv-copy-btn--success': turn.copied,
-                            'conv-copy-btn--error':   turn.copyError
-                          }"
-                          :aria-label="turn.copied ? 'Copied!' : turn.copyError ? 'Copy failed — try again' : 'Copy this answer'"
-                          :title="turn.copied ? 'Copied!' : turn.copyError ? 'Copy failed — try again' : 'Copy this answer'"
-                          @click="copyTurnText(turn, idx)"
-                        >
-                          <!-- Idle: copy icon -->
-                          <svg v-if="!turn.copied && !turn.copyError" width="14" height="14" viewBox="0 0 24 24"
-                              fill="none" stroke="currentColor" stroke-width="2"
-                              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <path d="M16 2H8C6.9 2 6 2.9 6 4V18C6 19.1 6.9 20 8 20H18C19.1 20 20 19.1 20 18V6L16 2Z"/>
-                            <path d="M16 2V6H20"/>
-                            <path d="M4 6H3C2.4 4 2 4.6 2 5V21C2 21.6 2.4 22 3 22H15C15.6 22 16 21.6 16 21V20"/>
-                          </svg>
-                          <!-- Success: animated tick -->
-                          <svg v-if="turn.copied" class="conv-copy-tick" width="14" height="14" viewBox="0 0 24 24"
-                              fill="none" stroke="currentColor" stroke-width="2.5"
-                              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <polyline points="20 6 9 17 4 12"/>
-                          </svg>
-                          <!-- Error: X icon -->
-                          <svg v-if="turn.copyError" width="14" height="14" viewBox="0 0 24 24"
-                              fill="none" stroke="currentColor" stroke-width="2.5"
-                              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <line x1="18" y1="6" x2="6" y2="18"/>
-                            <line x1="6" y1="6" x2="18" y2="18"/>
-                          </svg>
-                        </button>
-                      </div>
-                    </div>
-                  </template>
-
-                  <div v-if="aiLoading" class="conv-turn conv-turn--assistant conv-turn--loading">
-                    <span class="conv-label">EBA Assistant</span>
-                    <span class="loading-dots">Reading EBA content<span>.</span><span>.</span><span>.</span></span>
-                  </div>
-
-                  <div v-if="aiError && !aiLoading" class="ai-error">
-                    <strong>Something went wrong.</strong> {{ aiError }}
-                  </div>
-                </div>
-
-                <p v-if="conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer">
-                  ⚠️ AI answers are generated from wiki content only. Always verify against the full EBA text before acting on this information.
-                </p>
-                <p v-if="lastAnswerWasDraft && conversationHistory.some(t => t.role === 'assistant')" class="ai-disclaimer ai-disclaimer-draft">
-                  📋 Review this draft carefully before sending — it is AI-generated and has not been verified by an employment relations specialist.
-                </p>
-
-                <!-- ── Persistent follow-up input — shown after first assistant turn ── -->
-                <div
-                  v-if="conversationHistory.some(t => t.role === 'assistant') && !aiLoading"
-                  class="followup-input-row"
-                >
-                  <textarea
-                    ref="followUpRef"
-                    v-model="followUpText"
-                    class="followup-input"
-                    placeholder="Ask a follow-up question…"
-                    rows="3"
-                    @keydown.enter.exact.prevent="submitFollowUp"
-                    @input="autoResizeFollowUp"
-                  ></textarea>
-                  <button
-                    class="followup-send-btn"
-                    :disabled="followUpText.trim().length < 3"
-                    @click="submitFollowUp"
-                    aria-label="Send follow-up question"
+                    v-for="suggestion in aiSuggestions"
+                    :key="suggestion"
+                    class="ask-ai-suggestion-row"
+                    @click="askInline(suggestion)"
                   >
-                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2L11 13"/><path d="M22 2L15 22 11 13 2 9l20-7z"/></svg>
+                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
+                    {{ suggestion }}
                   </button>
                 </div>
+              </div>
 
-                <div v-if="conversationHistory.length >= 2" class="conv-reset-row">
-                  <button class="conv-reset-btn" @click="resetConversation">
-                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
-                    New conversation
-                  </button>
-                </div>
+          </div>
 
-                <!-- ── Ask hint — mode-tailored example prompts ── -->
-                <div class="ask-hint" v-if="conversationHistory.length === 0 && !aiLoading">
-
-                  <!-- question mode: examples fill the questionText textarea; EBA/emp type set via dropdowns -->
-                  <template v-if="askMode === 'question'">
-                    <p>{{ aiConfigured ? 'Select your EBA and employment type above, then try an example:' : 'Example questions you\'ll be able to ask once AI is configured:' }}</p>
-                    <ul class="ask-examples">
-                      <li @click="aiConfigured ? useQuestionExample('Am I entitled to overtime pay on a public holiday?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to overtime pay on a public holiday?</li>
-                      <li @click="aiConfigured ? useQuestionExample('What is the recall allowance if I am called back to work after leaving the premises?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What is the recall allowance if I am called back to work after leaving the premises?</li>
-                    </ul>
-                  </template>
-
-                  <!-- situation mode: clicking auto-fills the situationText textarea -->
-                  <template v-else-if="askMode === 'situation'">
-                    <p>Try an example situation, or describe your own above:</p>
-                    <ul class="ask-examples">
-                      <li @click="aiConfigured ? useSituationExample('An employee worked 12 hours on Saturday and 10 hours on Sunday. They are now claiming overtime pay for both days. I need to understand what they are entitled to under their EBA.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee worked 12 hours Saturday and 10 hours Sunday and is claiming overtime for both days.</li>
-                      <li @click="aiConfigured ? useSituationExample('An employee was asked to remain at work after their shift ended to cover an absent colleague. They worked an additional 3 hours and are asking what allowances or overtime rates apply.') : null" :class="{ 'ask-example-preview': !aiConfigured }">An employee stayed back after their shift ended to cover an absent colleague and wants to know what they are owed.</li>
-                    </ul>
-                  </template>
-
-                  <!-- draft mode: clicking auto-fills the draftQuestion input -->
-                  <template v-else-if="askMode === 'draft'">
-                    <p>Try an example employee question, or enter your own above:</p>
-                    <ul class="ask-examples">
-                      <li @click="aiConfigured ? useDraftExample('Am I entitled to overtime pay for the extra hours I worked on the weekend?') : null" :class="{ 'ask-example-preview': !aiConfigured }">Am I entitled to overtime pay for the extra hours I worked on the weekend?</li>
-                      <li @click="aiConfigured ? useDraftExample('What allowance am I entitled to if I am recalled to work after I have already left the premises?') : null" :class="{ 'ask-example-preview': !aiConfigured }">What allowance am I entitled to if I am recalled to work after leaving the premises?</li>
-                    </ul>
-                  </template>
-
-                </div>
-              </template>
-            </div>
-          </template>
+          <!-- ── Operator hint footer bar ──────────────────────────────────────
+               Shown on the Search tab only (not Ask AI, not inline answer view).
+               Uses the existing .op-hint chip style — no new CSS class needed
+               for the chips themselves.
+          ───────────────────────────────────────────────────────────────────── -->
+          <div v-if="activeTab === 'search' && !inlineAnswer" class="search-footer-hint">
+            Try
+            <code class="op-hint">eba:nurses-midwives</code>
+            <code class="op-hint">topic:wages</code>
+            <code class="op-hint">"exact phrase"</code>
+            <code class="op-hint">-exclude</code>
+          </div>
 
         </div>
       </div>
@@ -1335,156 +766,13 @@
       </div>
     </Transition>
   </Teleport>
-
-  <!-- ── Ask AI onboarding overlay — Teleport to body, centred, full-screen backdrop ──
-       Shown once per device the first time the user opens the Ask AI tab.
-       Dismissed permanently via localStorage key 'eba-ask-ai-intro-seen'.
-       Sits at z-index 10002 so it appears above the search modal (9999) and
-       the tour tooltip (10001) but is only triggered from within the modal. -->
-  <Teleport to="body">
-    <Transition name="ai-intro-overlay">
-      <div
-        v-if="open && activeTab === 'ask' && !askAiIntroSeen"
-        class="ai-intro-overlay"
-        @click.self="dismissAskIntro"
-        aria-hidden="true"
-      >
-        <div
-          class="ai-intro-panel"
-          role="dialog"
-          aria-modal="true"
-          aria-label="Getting the best answers from Ask AI"
-        >
-          <!-- Header -->
-          <div class="ai-intro-header">
-            <span class="ai-intro-title">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
-              Getting the best answers from Ask AI
-            </span>
-            <button class="ai-intro-dismiss" @click="dismissAskIntro" aria-label="Dismiss Ask AI guide">✕</button>
-          </div>
-
-          <!-- Scrollable body — sits between sticky header and sticky Got it button -->
-          <div class="ai-intro-body-scroll">
-          <!-- Warning alert -->
-          <div class="ai-intro-alert">
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
-            Ask AI reads only this wiki — not the full EBA PDFs. Always verify important answers against the official EBA text before acting.
-          </div>
-
-          <!-- How to structure -->
-          <div class="ai-intro-section">
-            <p class="ai-intro-section-title">How to structure your question</p>
-            <p class="ai-intro-body">The AI produces significantly better answers when you provide three things:</p>
-            <div class="ai-intro-how-list">
-              <div class="ai-intro-how-item">
-                <span class="ai-intro-how-num">1</span>
-                <div>
-                  <strong>Which EBA covers the employee</strong>
-                  <span>Use the EBA dropdown, or name it in your question. The AI retrieves context from that specific agreement — a vague question without an EBA often returns a generic answer.</span>
-                </div>
-              </div>
-              <div class="ai-intro-how-item">
-                <span class="ai-intro-how-num">2</span>
-                <div>
-                  <strong>The employee's type</strong>
-                  <span>Full-time, part-time, casual, or fixed-term. Entitlements vary significantly by employment type; specifying it removes ambiguity.</span>
-                </div>
-              </div>
-              <div class="ai-intro-how-item">
-                <span class="ai-intro-how-num">3</span>
-                <div>
-                  <strong>Be specific, not general</strong>
-                  <span>Ask about the precise entitlement or circumstance, not a broad topic. <em>"Am I entitled to a recall allowance if called back after leaving the premises?"</em> retrieves far better results than <em>"What are my allowances?"</em></span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Good / poor example -->
-          <div class="ai-intro-example-row">
-            <div class="ai-intro-example ai-intro-example--good">
-              <span class="ai-intro-example-label">
-                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
-                More effective
-              </span>
-              <p>"Under the Nurses &amp; Midwives EBA, is a <strong>part-time</strong> employee entitled to overtime if they work more than their agreed hours on a Saturday?"</p>
-            </div>
-            <div class="ai-intro-example ai-intro-example--poor">
-              <span class="ai-intro-example-label">
-                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-                Less effective
-              </span>
-              <p>"What are the overtime rules?"</p>
-            </div>
-          </div>
-
-          <!-- Three modes -->
-          <div class="ai-intro-section">
-            <p class="ai-intro-section-title">Three ways to ask</p>
-            <div class="ai-intro-modes">
-              <div class="ai-intro-mode">
-                <span class="ai-intro-mode-icon">❓</span>
-                <div>
-                  <strong>Ask a question</strong>
-                  <span>Direct clause or entitlement query. Best when you know what you are looking for.</span>
-                </div>
-              </div>
-              <div class="ai-intro-mode">
-                <span class="ai-intro-mode-icon">📋</span>
-                <div>
-                  <strong>Describe a situation</strong>
-                  <span>Paste the scenario as it happened. The AI identifies the applicable clause — useful when you are unsure of the clause name.</span>
-                </div>
-              </div>
-              <div class="ai-intro-mode">
-                <span class="ai-intro-mode-icon">✉️</span>
-                <div>
-                  <strong>Draft a response</strong>
-                  <span>Provide the employee's question and EBA. The AI writes an HR reply citing the correct clause — always review before sending.</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Works well / not suitable footer -->
-          <div class="ai-intro-footer">
-            <div class="ai-intro-footer-col ai-intro-footer-col--good">
-              <span class="ai-intro-footer-head">
-                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
-                Works well for
-              </span>
-              <ul>
-                <li>Clause meaning &amp; entitlements</li>
-                <li>Comparing employment types</li>
-                <li>Drafting HR responses</li>
-              </ul>
-            </div>
-            <div class="ai-intro-footer-col ai-intro-footer-col--bad">
-              <span class="ai-intro-footer-head">
-                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-                Not suitable for
-              </span>
-              <ul>
-                <li>Legal advice or dispute outcomes</li>
-                <li>Questions outside these 9 EBAs</li>
-                <li>Real-time award rates (verify separately)</li>
-              </ul>
-            </div>
-          </div>
-
-          </div><!-- end ai-intro-body-scroll -->
-          <button class="ai-intro-got-it" @click="dismissAskIntro">Got it — start asking</button>
-        </div>
-      </div>
-    </Transition>
-  </Teleport>
 </template>
 
 <script setup>
 import { ref, computed, watch, onMounted, onUnmounted, nextTick } from 'vue'
 import { useData, useRoute } from 'vitepress'
 import { topicList } from '../../generated/topic-list.mjs'
+import { ebaColors, ebaList, ebaSlugLabels } from '../eba-registry.js'
 
 // ─── AI Worker URL ────────────────────────────────────────────────────────────
 const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
@@ -1499,6 +787,7 @@ const SESSION_SCROLL_KEY      = 'eba-search-last-scroll'
 const SESSION_RECENT_KEY      = 'eba-search-recent'
 const LOCAL_SAVED_KEY         = 'eba-search-saved'
 const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
+const LOCAL_RECENTLY_VIEWED_KEY = 'eba-recently-viewed'  // Array<{path,title,eba,timestamp}> max 4
 const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
 const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
 const LOCAL_ASK_INTRO_KEY      = 'eba-ask-ai-intro-seen'    // Ask AI onboarding card dismissal
@@ -1506,15 +795,10 @@ const LOCAL_HISTORY_OPT_IN_KEY = 'eba-history-persist'      // '1' when cross-se
 const LOCAL_HISTORY_PROMPT_KEY = 'eba-history-prompt-seen'  // '1' once one-time consent prompt dismissed
 const LOCAL_HISTORY_KEY        = 'eba-search-history'       // JSON string[] of persisted queries
 const LOCAL_DEFAULT_EBA_KEY    = 'eba-default-eba'          // Pre-selected EBA on every modal open
-const LOCAL_DEFAULT_TAB_KEY    = 'eba-default-tab'          // 'search' | 'ask'
 const LOCAL_NEW_TAB_KEY        = 'eba-results-new-tab'      // 'true' when results open in new tab
 const LOCAL_COMPACT_KEY        = 'eba-compact-results'      // 'true' when compact result density is on
 const LOCAL_PREVIEW_KEY        = 'eba-preview-pane'         // 'false' to disable floating preview
 const LOCAL_ANALYTICS_KEY      = 'eba-analytics-enabled'    // 'false' to opt out of search logging
-const LOCAL_DEFAULT_TOPIC_KEY  = 'eba-default-topic'        // Pre-selected topic on every modal open
-const LOCAL_SORT_ORDER_KEY     = 'eba-sort-order'           // 'relevance' | 'asc' | 'desc'
-const LOCAL_FUZZY_KEY          = 'eba-fuzzy-enabled'        // 'false' to disable fuzzy fallback
-const LOCAL_ASK_STYLE_KEY      = 'eba-ask-style'            // 'concise' | 'detailed'
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -1584,15 +868,10 @@ const showSettingsPanel  = ref(false)   // true when the gear settings panel is 
 
 // ─── General settings refs ────────────────────────────────────────────────────
 const defaultEba        = ref('')       // pre-fills EBA filter on open ('' = no default)
-const defaultTab        = ref('search') // opening tab; also set in loadSettings()
 const resultsNewTab     = ref(false)    // open result <a> tags with target="_blank"
 const compactResults    = ref(false)    // hides excerpts + topic tags in result cards
 const previewEnabled    = ref(true)     // floating preview pane on hover/focus (default on)
 const analyticsEnabled  = ref(true)     // POST to analytics worker on search (default on)
-const defaultTopic      = ref('')       // pre-fills topic filter on open ('' = no default)
-const sortOrder         = ref('relevance') // 'relevance' | 'asc' | 'desc'
-const fuzzyEnabled      = ref(true)     // true = run stem-trim fallback on zero results
-const askStyle          = ref('detailed')  // 'concise' | 'detailed' — sent to worker
 
 // ─── Saved searches (localStorage — persists across sessions) ─────────────────
 // Each entry: { id: string, label: string, query: string, eba: string, topic: string }
@@ -1603,6 +882,200 @@ const savedSearches = ref([])
 // Loaded once on mount and kept in sync via the 'eba-bookmarks-updated' CustomEvent
 // dispatched by BookmarkButton.vue whenever a bookmark is added, edited, or removed.
 const bookmarks = ref([])
+
+// ─── Recently viewed (localStorage — persists across sessions) ────────────────
+// Written by index.js onAfterRouteChanged into 'eba-recently-viewed'.
+// Shape: Array<{ path: string, title: string, eba: string, timestamp: string }>
+// Max 4 entries, deduped by path, most-recent first.
+const recentlyViewed = ref([])
+
+function loadRecentlyViewed() {
+  try {
+    const raw = localStorage.getItem(LOCAL_RECENTLY_VIEWED_KEY)
+    if (raw) recentlyViewed.value = JSON.parse(raw)
+  } catch { /* degrade silently */ }
+}
+
+// ─── EBA slug → full canonical name (for ebaStyle() on recently viewed rows) ──
+const EBA_SLUG_TO_FULL_NAME = {
+  'allied-health':        'Allied Health Professionals 2021-2026',
+  'biomedical-engineers': 'Biomedical Engineers 2025-2028',
+  'childrens-services':   "Children's Services Award 2010",
+  'doctors-in-training':  'Doctors in Training 2022-2026',
+  'has-managers-admin':   'Health Allied & Managers Admin 2021-2025',
+  'medical-specialists':  'Medical Specialists 2022-2026',
+  'mental-health':        'Mental Health Services 2024-2028',
+  'mspp':                 'Medical Scientists, Pharm & Psych 2021-2025',
+  'nurses-midwives':      'Nurses and Midwives 2024-2028',
+}
+
+function ebaSlugToFullName(slug) {
+  return EBA_SLUG_TO_FULL_NAME[slug] ?? slug
+}
+
+// ─── Progressive results — start at 5, expand by 5 on "View more" ─────────────
+const visibleCount = ref(5)
+
+const visibleResults = computed(() => results.value.slice(0, visibleCount.value))
+
+// ─── Inline AI answer state (Issue 4) ─────────────────────────────────────────
+// When the user clicks an "Ask AI Assistant" suggestion, the answer streams in
+// here — inside the SearchModal — rather than launching the side panel.
+const inlineAnswer        = ref(false)   // controls the answer view
+const inlineQuestion      = ref('')      // the question being answered
+const inlineAnswerText    = ref('')      // accumulates streamed tokens
+const inlineAnswerLoading = ref(false)   // true while the stream is open
+const inlineAnswerSources = ref([])      // populated from the terminal SSE event
+const inlineAnswerError   = ref('')      // set on stream / fetch failure
+
+// Reset visible count on every new search so "View more" resets automatically.
+// Also exit the inline answer view — typing a new query returns to results.
+watch([query, selectedEba, selectedTopic], () => {
+  visibleCount.value = 5
+  if (inlineAnswer.value) closeInlineAnswer()
+})
+
+// ─── Client-side AI question suggestions ──────────────────────────────────────
+// Five templates derived from the clean query — no API call needed.
+// Appear below results (when results exist) and in the zero-result state.
+// Max 5 suggestions; hidden when the clean query is < 3 characters.
+const aiSuggestions = computed(() => {
+  const q = parseQuery(query.value).cleanQuery.trim()
+  if (!q || q.length < 3) return []
+  const eba = selectedEba.value
+  const ebaFrag = eba ? ` under the ${eba}` : ''
+  return [
+    `Can you tell me about ${q}?`,
+    `What are my entitlements regarding ${q}${ebaFrag}?`,
+    `How does ${q} apply to casual employees?`,
+    `What does the EBA say about ${q}?`,
+    `Are there any exceptions to ${q}?`,
+  ]
+})
+
+// ─── Open Ask Panel (Phase 2 wires the listener; Phase 1 dispatches the event) ─
+// Called by AI suggestion row clicks. Closes the SearchModal first, then dispatches
+// 'open-ask-panel' so AskPanel.vue can open with the question pre-filled.
+// scope: 'wiki' because the question comes from a keyword search context, not a
+// specific clause page — the panel will answer from the full wiki corpus.
+function openAskPanel(question) {
+  close()
+  nextTick(() => {
+    window.dispatchEvent(new CustomEvent('open-ask-panel', {
+      detail: { question: question || '', scope: 'wiki' }
+    }))
+  })
+}
+
+// ─── Inline AI answer (Issue 4) — stream the answer inside the SearchModal ────
+// Uses the same worker, system prompt, and detailed-style instructions as the
+// retired Ask AI tab, but renders progressively via SSE (stream:true). Falls
+// back to a single non-streaming request if no streaming provider can start.
+async function askInline(questionText) {
+  const q = (questionText || '').trim()
+  if (!q) return
+
+  inlineAnswer.value        = true
+  inlineQuestion.value      = q
+  inlineAnswerText.value    = ''
+  inlineAnswerSources.value = []
+  inlineAnswerError.value   = ''
+  inlineAnswerLoading.value = true
+
+  // Scroll the body to the top so the answer is in view as it streams
+  nextTick(() => { if (resultsContainerRef.value) resultsContainerRef.value.scrollTop = 0 })
+
+  // Log the Ask AI submission to analytics (mirrors the keyword-search beacon)
+  try { logSearch('ask', q, selectedEba.value, selectedTopic.value, 0) } catch { /* non-fatal */ }
+
+  try {
+    const res = await fetch(AI_WORKER_URL, {
+      method:  'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body:    JSON.stringify({ question: q, stream: true, style: 'detailed' }),
+    })
+    if (!res.ok || !res.body) throw new Error(`Worker returned ${res.status}`)
+
+    const reader  = res.body.getReader()
+    const decoder = new TextDecoder()
+    let buffer = ''
+
+    // Read the SSE stream. Events are separated by a blank line (\n\n);
+    // each event is a single `data: {json}` line emitted by handleStreaming().
+    while (true) {
+      const { done, value } = await reader.read()
+      if (done) break
+      buffer += decoder.decode(value, { stream: true })
+      const events = buffer.split('\n\n')
+      buffer = events.pop()   // keep the trailing incomplete event for the next read
+      for (const evt of events) {
+        const line = evt.trim()
+        if (!line.startsWith('data:')) continue
+        const payload = line.slice(5).trim()
+        if (!payload) continue
+        try {
+          const json = JSON.parse(payload)
+          if (json.token) {
+            inlineAnswerText.value += json.token
+          } else if (json.done) {
+            inlineAnswerSources.value = Array.isArray(json.sources) ? json.sources : []
+          } else if (json.error) {
+            inlineAnswerError.value = json.error
+          }
+        } catch { /* ignore malformed chunk */ }
+      }
+    }
+  } catch (err) {
+    // Fallback: if streaming never produced text, try one non-streaming request
+    if (!inlineAnswerText.value) {
+      try {
+        const res2 = await fetch(AI_WORKER_URL, {
+          method:  'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body:    JSON.stringify({ question: q, style: 'detailed' }),
+        })
+        if (res2.ok) {
+          const data = await res2.json()
+          inlineAnswerText.value    = data.answer ?? ''
+          inlineAnswerSources.value = Array.isArray(data.sources) ? data.sources : []
+          if (!inlineAnswerText.value) inlineAnswerError.value = 'No answer was returned. Please try rephrasing.'
+        } else {
+          inlineAnswerError.value = `Unable to get an answer (status ${res2.status}). Please try again.`
+        }
+      } catch {
+        inlineAnswerError.value = 'Unable to reach the AI service. Please check your connection and try again.'
+      }
+    }
+  }
+
+  inlineAnswerLoading.value = false
+}
+
+function closeInlineAnswer() {
+  inlineAnswer.value        = false
+  inlineQuestion.value      = ''
+  inlineAnswerText.value    = ''
+  inlineAnswerSources.value = []
+  inlineAnswerError.value   = ''
+  inlineAnswerLoading.value = false
+}
+
+// Source URL → relative wiki path (for in-app navigation)
+function srcToPath(src) {
+  try { return new URL(src).pathname.replace(/\.html$/, '') }
+  catch { return src }
+}
+
+// Source URL → human-readable label, e.g. ".../49-overtime.html" → "Clause 49 — Overtime"
+function srcToLabel(src) {
+  const path  = srcToPath(src)
+  const parts = path.split('/').filter(Boolean)
+  const slug  = parts[parts.length - 1] || path
+  return slug
+    .replace(/^(\d+[a-z]?)-/i, 'Clause $1 \u2014 ')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, c => c.toUpperCase())
+}
 
 // ─── Most Viewed Clauses (analytics worker — site-wide, cached 5 min) ─────────
 // Fetched from GET /top-pages on first openModal() each session.
@@ -2276,17 +1749,7 @@ function fireShortcut(shortcut) {
 }
 
 // ─── EBA colour map ───────────────────────────────────────────────────────────
-const ebaColors = {
-  'Allied Health Professionals 2021-2026':       { color: '#EA580C', bg: '#EA580C1A' },
-  'Biomedical Engineers 2025-2028':              { color: '#4F46E5', bg: '#4F46E51A' },
-  "Children's Services Award 2010":              { color: '#DB2777', bg: '#DB27771A' },
-  'Doctors in Training 2022-2026':               { color: '#D97706', bg: '#D977061A' },
-  'Health Allied & Managers Admin 2021-2025':    { color: '#3B82F6', bg: '#3B82F61A' },
-  'Medical Specialists 2022-2026':               { color: '#0891B2', bg: '#0891B21A' },
-  'Mental Health Services 2024-2028':            { color: '#7C3AED', bg: '#7C3AED1A' },
-  'Medical Scientists, Pharm & Psych 2021-2025': { color: '#059669', bg: '#0596691A' },
-  'Nurses and Midwives 2024-2028':               { color: '#E11D48', bg: '#E11D481A' },
-}
+// ebaColors — imported from eba-registry.js
 
 function ebaStyle(ebaName) {
   const c = ebaColors[ebaName]
@@ -2294,32 +1757,7 @@ function ebaStyle(ebaName) {
   return { color: c.color, backgroundColor: c.bg, borderColor: c.color + '40' }
 }
 
-const ebaList = [
-  'Allied Health Professionals 2021-2026',
-  'Biomedical Engineers 2025-2028',
-  "Children's Services Award 2010",
-  'Doctors in Training 2022-2026',
-  'Health Allied & Managers Admin 2021-2025',
-  'Medical Specialists 2022-2026',
-  'Mental Health Services 2024-2028',
-  'Medical Scientists, Pharm & Psych 2021-2025',
-  'Nurses and Midwives 2024-2028',
-]
-
-// ─── EBA folder slug → short display label ────────────────────────────────────
-// Maps the eba field from EBA_PAGEVIEWS entries (folder slug) to a readable name
-// shown in the Most Viewed Clauses cards. mspp is the on-disk folder for medical scientists.
-const ebaSlugLabels = {
-  'allied-health':        'Allied Health',
-  'biomedical-engineers': 'Biomedical Engineers',
-  'childrens-services':   "Children's Services",
-  'doctors-in-training':  'Doctors in Training',
-  'has-managers-admin':   'HAS Managers & Admin',
-  'medical-specialists':  'Medical Specialists',
-  'mental-health':        'Mental Health',
-  'mspp':                 'Medical Scientists',
-  'nurses-midwives':      'Nurses & Midwives',
-}
+// ebaList, ebaSlugLabels — imported from eba-registry.js
 
 // ─── Employment types ─────────────────────────────────────────────────────────
 const employmentTypes = [
@@ -2328,21 +1766,6 @@ const employmentTypes = [
   'Casual',
   'Fixed-term',
 ]
-
-// ─── Sort order ───────────────────────────────────────────────────────────────
-// Parses the numeric prefix from meta.clause ("Clause 34" → 34, "Clause 42A" → 42).
-// Falls back to 9999 so pages with no clause meta sort last rather than erroring.
-
-function clauseSortKey(result) {
-  const m = (result.meta?.clause ?? '').match(/(\d+)/)
-  return m ? parseInt(m[1], 10) : 9999
-}
-
-const sortedResults = computed(() => {
-  if (sortOrder.value === 'relevance') return results.value
-  const sorted = [...results.value].sort((a, b) => clauseSortKey(a) - clauseSortKey(b))
-  return sortOrder.value === 'desc' ? sorted.reverse() : sorted
-})
 
 // ─── Saved searches logic ─────────────────────────────────────────────────────
 
@@ -2503,25 +1926,15 @@ function saveSetting(key, value) {
 function loadSettings() {
   try {
     const de = localStorage.getItem(LOCAL_DEFAULT_EBA_KEY)
-    const dt = localStorage.getItem(LOCAL_DEFAULT_TAB_KEY)
     const nt = localStorage.getItem(LOCAL_NEW_TAB_KEY)
     const cr = localStorage.getItem(LOCAL_COMPACT_KEY)
     const pp = localStorage.getItem(LOCAL_PREVIEW_KEY)
     const ae = localStorage.getItem(LOCAL_ANALYTICS_KEY)
-    const tp = localStorage.getItem(LOCAL_DEFAULT_TOPIC_KEY)
-    const so = localStorage.getItem(LOCAL_SORT_ORDER_KEY)
-    const fe = localStorage.getItem(LOCAL_FUZZY_KEY)
-    const as = localStorage.getItem(LOCAL_ASK_STYLE_KEY)
     if (de !== null) defaultEba.value       = de
-    if (dt !== null) { defaultTab.value = dt; activeTab.value = dt }
     if (nt !== null) resultsNewTab.value    = nt === 'true'
     if (cr !== null) compactResults.value   = cr === 'true'
     if (pp !== null) previewEnabled.value   = pp !== 'false'
     if (ae !== null) analyticsEnabled.value = ae !== 'false'
-    if (tp !== null) defaultTopic.value     = tp
-    if (so !== null) sortOrder.value        = so
-    if (fe !== null) fuzzyEnabled.value     = fe !== 'false'
-    if (as !== null) askStyle.value         = as === 'concise' ? 'concise' : 'detailed'
   } catch { /* degrade silently */ }
 }
 
@@ -2531,44 +1944,11 @@ function setDefaultEba(val) {
   saveSetting(LOCAL_DEFAULT_EBA_KEY, val)
   if (query.value.trim().length >= 2) doSearch()   // re-filter live results if a query is active
 }
-function setDefaultTab(val) { defaultTab.value = val; activeTab.value = val; saveSetting(LOCAL_DEFAULT_TAB_KEY, val) }
 
 function toggleResultsNewTab()    { resultsNewTab.value    = !resultsNewTab.value;    saveSetting(LOCAL_NEW_TAB_KEY,   resultsNewTab.value)    }
 function toggleCompactResults()   { compactResults.value   = !compactResults.value;   saveSetting(LOCAL_COMPACT_KEY,   compactResults.value)   }
 function togglePreviewEnabled()   { previewEnabled.value   = !previewEnabled.value;   saveSetting(LOCAL_PREVIEW_KEY,   previewEnabled.value)   }
 function toggleAnalyticsEnabled() { analyticsEnabled.value = !analyticsEnabled.value; saveSetting(LOCAL_ANALYTICS_KEY, analyticsEnabled.value) }
-
-function setDefaultTopic(val) {
-  defaultTopic.value  = val
-  selectedTopic.value = val
-  saveSetting(LOCAL_DEFAULT_TOPIC_KEY, val)
-  if (query.value.trim().length >= 2) doSearch()
-}
-function setSortOrder(val)        { sortOrder.value    = val;   saveSetting(LOCAL_SORT_ORDER_KEY, val)          }
-function toggleFuzzyEnabled()     { fuzzyEnabled.value = !fuzzyEnabled.value; saveSetting(LOCAL_FUZZY_KEY, fuzzyEnabled.value) }
-function setAskStyle(val)         { askStyle.value     = val;   saveSetting(LOCAL_ASK_STYLE_KEY,  val)          }
-
-function resetAllSettings() {
-  const keys = [
-    LOCAL_DEFAULT_EBA_KEY, LOCAL_DEFAULT_TAB_KEY, LOCAL_NEW_TAB_KEY,
-    LOCAL_COMPACT_KEY, LOCAL_PREVIEW_KEY, LOCAL_ANALYTICS_KEY,
-    LOCAL_DEFAULT_TOPIC_KEY, LOCAL_SORT_ORDER_KEY, LOCAL_FUZZY_KEY, LOCAL_ASK_STYLE_KEY,
-  ]
-  try { keys.forEach(k => localStorage.removeItem(k)) } catch { /* degrade silently */ }
-  defaultEba.value      = ''
-  defaultTopic.value    = ''
-  defaultTab.value      = 'search'
-  activeTab.value       = 'search'
-  resultsNewTab.value   = false
-  compactResults.value  = false
-  previewEnabled.value  = true
-  analyticsEnabled.value = true
-  sortOrder.value       = 'relevance'
-  fuzzyEnabled.value    = true
-  askStyle.value        = 'detailed'
-  selectedEba.value     = ''
-  selectedTopic.value   = ''
-}
 
 // ─── Per-turn AI answer copy ──────────────────────────────────────────────────
 // Copies the plain text of a single assistant turn to the clipboard.
@@ -2817,10 +2197,6 @@ function loadPersistedState() {
     if (defaultEba.value && !selectedEba.value) {
       selectedEba.value = defaultEba.value
     }
-    // Apply default topic whenever the modal opens with no active topic filter.
-    if (defaultTopic.value && !selectedTopic.value) {
-      selectedTopic.value = defaultTopic.value
-    }
     if (savedQuery || savedEba || savedTopic) {
       nextTick(() => doSearch().then(() => {
         const savedScroll = parseInt(sessionStorage.getItem(SESSION_SCROLL_KEY) || '0', 10)
@@ -2881,13 +2257,56 @@ function useRecentSearch(term) {
 }
 
 // ─── Keyboard navigation ──────────────────────────────────────────────────────
+
+// focusResult — used by result cards AND (via the updated selector) idle rows.
+// Pressing ↓ from the search input calls focusResult(0) in both states.
 function focusResult(index) {
   nextTick(() => {
-    const cards = resultsContainerRef.value?.querySelectorAll('.result-card')
-    if (!cards) return
+    const cards = resultsContainerRef.value?.querySelectorAll('.result-card, .idle-row')
+    if (!cards?.length) return
     const target = cards[Math.max(0, Math.min(index, cards.length - 1))]
     target?.focus()
   })
+}
+
+// focusIdleRow — DOM-position-aware navigation for .idle-row items in idle state.
+// Pressing ↑ from the first row returns focus to the search input (better UX than
+// staying stuck at row 0).
+function focusIdleRow(el, delta) {
+  nextTick(() => {
+    const rows = [...(resultsContainerRef.value?.querySelectorAll('.idle-row') ?? [])]
+    const current = rows.indexOf(el)
+    if (current === -1) return
+    const next = current + delta
+    if (next < 0) { inputRef.value?.focus(); return }
+    const target = rows[Math.min(next, rows.length - 1)]
+    target?.focus()
+  })
+}
+
+// trapFocus — keeps Tab/Shift+Tab cycling within the modal so the EBA and topic
+// filter <select> elements are always reachable without the focus escaping.
+// Queries only visible elements (offsetWidth/Height check) so hidden settings-panel
+// items are excluded when the panel is closed.
+function trapFocus(e) {
+  if (e.key !== 'Tab') return
+  const modal = modalRef.value
+  if (!modal) return
+  const focusable = [...modal.querySelectorAll(
+    'button:not([disabled]):not([tabindex="-1"]), ' +
+    'input:not([disabled]):not([tabindex="-1"]), ' +
+    'select:not([disabled]):not([tabindex="-1"]), ' +
+    'a[href]:not([tabindex="-1"]), ' +
+    '[tabindex]:not([tabindex="-1"])'
+  )].filter(el => !!(el.offsetWidth || el.offsetHeight || el.getClientRects().length))
+  if (!focusable.length) return
+  const first = focusable[0]
+  const last  = focusable[focusable.length - 1]
+  if (e.shiftKey) {
+    if (document.activeElement === first) { e.preventDefault(); last.focus() }
+  } else {
+    if (document.activeElement === last)  { e.preventDefault(); first.focus() }
+  }
 }
 
 // ─── Pagefind prefetch + lazy init ───────────────────────────────────────────
@@ -2960,6 +2379,7 @@ async function initPagefind() {
 onMounted(() => {
   loadSavedSearches()
   loadBookmarks()
+  loadRecentlyViewed()
   loadHistoryOptIn()   // must run before the sessionStorage recent fallback below
   loadSettings()       // reads all 6 preference keys; also primes activeTab
   // Check whether the user has already dismissed the Ask AI intro card
@@ -3002,30 +2422,10 @@ onMounted(() => {
 // Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
 function openFromExternal(e) {
   const detail = e?.detail ?? {}
-
-  if (detail.tab === 'ask') {
-    activeTab.value = 'ask'
-    open.value      = true
-    fetchMostViewed()
-    fetchTrendingTopics()
-    if (detail.query) {
-      pendingContentHash = detail.contentHash ?? null
-      pendingSourcePath  = detail.sourcePath  ?? null   // ← new
-      _externalAskQuery  = detail.query
-      pageContextBannerSuppressed.value = true   // prevents stray banner flash before aiLoading fires
-      nextTick(() => submitAsk())
-    } else {
-      nextTick(() => { if (!isMobileSheet.value) inputRef.value?.focus() })
-    }
-    return
-  }
-
   const { eba = '', topic = '' } = detail
   selectedEba.value   = eba
   selectedTopic.value = topic
   open.value = true
-  fetchMostViewed()
-  fetchTrendingTopics()
   if (eba || topic) {
     nextTick(() => doSearch())
   } else {
@@ -3037,19 +2437,14 @@ function openFromExternal(e) {
 function openModal() {
   restoreEbaContext()   // must run before open.value = true so _pendingEbaFlash is set
                         // before watch(open) fires and checks it
-  // Reset to the user's preferred default tab on every open from the standard
-  // Ctrl+K / trigger-button path. openFromExternal() sets activeTab explicitly
-  // for its own purposes and is not affected by this line.
-  activeTab.value = defaultTab.value
+  // The search modal always opens to the Search tab. Ask AI is now in AskPanel.vue.
+  activeTab.value = 'search'
   // Guaranteed fallback: if the user opened the modal via Ctrl+K or the mobile
   // tap path (no pointerenter/focus pre-warm), initPagefind() starts now.
   // It deduplicates against any in-flight init from the hover/focus path.
   initPagefind()
+  loadRecentlyViewed()   // refresh from localStorage so newly-visited pages appear
   open.value = true
-  // Defer fetchMostViewed() by 50ms so the modal DOM paints its first frame
-  // before the analytics worker request competes for network bandwidth.
-  // The Most Viewed panel is below the fold on open so the delay is imperceptible.
-  setTimeout(() => { fetchMostViewed(); fetchTrendingTopics() }, 50)
   nextTick(() => {
     loadPersistedState()
     if (!isMobileSheet.value) inputRef.value?.focus()
@@ -3146,8 +2541,9 @@ function applyEbaShortcut(ebaName) {
 function onKeydown(e) {
   if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
     e.preventDefault()
-    if (!open.value) openModal()
-    else close()
+    // Close the search modal if it is open, then open the Ask AI panel.
+    if (open.value) close()
+    window.dispatchEvent(new CustomEvent('open-ask-panel'))
   }
   if (e.key === '/' && !open.value && document.activeElement.tagName !== 'INPUT') {
     e.preventDefault()
@@ -3198,33 +2594,11 @@ onUnmounted(() => {
 
 function close() {
   persistState()
-  open.value                = false
-  showSettingsPanel.value   = false
-  previewVisible.value      = false
-  previewResult.value       = null
-  aiAnswer.value            = ''
-  aiSources.value           = []
-  aiError.value             = ''
-  conversationHistory.value = []
-  pendingContentHash        = null
-  askMode.value             = 'question'
-  externalQuery.value       = ''
-  questionText.value        = ''
-  questionEba.value         = ''
-  questionEmpType.value     = ''
-  situationText.value       = ''
-  situationEba.value        = ''
-  situationEmpType.value    = ''
-  draftEba.value            = ''
-  draftEmpType.value        = ''
-  draftQuestion.value       = ''
-  draftContext.value        = ''
-  lastAnswerWasDraft.value  = false
-  followUpText.value        = ''
-  pageContextBannerDismissed.value  = false
-  pageContextAccepted.value         = false
-  pageContextBannerSuppressed.value = false
-  pendingSourcePath                 = null
+  open.value              = false
+  showSettingsPanel.value = false
+  previewVisible.value    = false
+  previewResult.value     = null
+  closeInlineAnswer()
 }
 
 function switchTab(tab) {
@@ -3832,7 +3206,7 @@ async function doSearch() {
       ? buildSuggestions(query.value, results.value.length, operators)
       : []
 
-    if (results.value.length === 0 && cleanQuery.trim().length > 3 && fuzzyEnabled.value) {
+    if (results.value.length === 0 && cleanQuery.trim().length > 3) {
       await runFuzzyFallback(cleanQuery.trim(), filters)
     }
 
@@ -3966,7 +3340,6 @@ async function submitAsk() {
           contentHash: hashToSend,
           sourcePath:  pendingSourcePath ?? undefined,   // ← new
           history:     historyToSend.length > 0 ? historyToSend : undefined,
-          style:       askStyle.value,
         }),
       })
       if (!res.ok) throw new Error(`Worker returned ${res.status}`)
@@ -4061,7 +3434,6 @@ async function submitAsk() {
         contentHash: hashToSend,
         sourcePath:  pendingSourcePath ?? undefined,
         history:     historyToSend.length > 0 ? historyToSend : undefined,
-        style:       askStyle.value,
       }),
     })
     if (!res.ok) throw new Error(`Worker returned ${res.status}`)
@@ -4188,7 +3560,23 @@ function autoResizeFollowUp() {
   box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
 }
 .search-trigger-text { flex: 1; text-align: left; color: var(--vp-c-text-3); }
-.search-trigger-kbd  { font-size: 0.7rem; opacity: 0.5; margin-left: auto; }
+.search-trigger-kbd  { margin-left: auto; display: inline-flex; align-items: center; }
+.search-trigger-kbd .kbd-slash {
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  min-width:       1.5em;
+  padding:         0.1em 0.3em;
+  font-family:     var(--vp-font-family-mono);
+  font-size:       0.72rem;
+  font-weight:     700;
+  line-height:     1;
+  color:           var(--vp-c-text-3);
+  background:      var(--vp-c-bg);
+  border:          1px solid var(--vp-c-divider);
+  border-radius:   4px;
+  box-shadow:      0 1px 0 0 var(--vp-c-divider);
+}
 @media (max-width: 767px) {
   .search-trigger { width: auto; padding: 0.4rem; }
   .search-trigger-text, .search-trigger-kbd { display: none; }
@@ -4199,13 +3587,13 @@ function autoResizeFollowUp() {
   position: fixed; inset: 0; z-index: 9999;
   background: oklch(0 0 0 / 0.55);
   display: flex; align-items: flex-start; justify-content: center;
-  padding-top: clamp(3rem, 8vh, 8rem);
+  padding-top: 68px;
 }
 
 /* ── Modal box ── */
 .search-modal {
-  width: min(680px, calc(100vw - 2rem));
-  max-height: calc(100vh - 12rem);
+  width: min(640px, calc(100vw - 2rem));
+  max-height: calc(100vh - 88px);
   background: var(--vp-c-bg); border: 1px solid var(--vp-c-divider);
   border-radius: 12px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); overflow: hidden;
   display: flex; flex-direction: column;
@@ -4288,110 +3676,11 @@ function autoResizeFollowUp() {
   40%, 60%           { opacity: 0; }
 }
 
-/* ── Ask AI tab animated sparkles icon ── */
-.ask-tab-icon { flex-shrink: 0; }
 
-/* Large sparkle: fills with colour on active tab, pulses continuously */
-.ask-tab-sparkle {
-  fill: none;
-  transition: fill 0.2s;
-}
-.search-tab.active .ask-tab-sparkle {
-  fill: currentColor;
-  animation: sparkle-pulse 2.4s ease-in-out infinite;
-}
-.search-tab:not(.active):hover .ask-tab-sparkle {
-  fill: currentColor;
-  opacity: 0.5;
-}
 
-/* Small star lines: blink in and out on a loop */
-.ask-tab-star {
-  animation: star-blink 2.4s ease-in-out infinite;
-}
-.ask-tab-star--delayed {
-  animation-delay: 1.2s;
-}
 
-@keyframes sparkle-pulse {
-  0%, 100% { opacity: 1;   transform: scale(1);    }
-  50%       { opacity: 0.7; transform: scale(0.92); }
-}
 
-@keyframes star-blink {
-  0%, 15%, 85%, 100% { opacity: 1; }
-  40%, 60%           { opacity: 0; }
-}
 
-/* ── Ask AI tab animated sparkles icon ── */
-.ask-tab-icon { flex-shrink: 0; }
-
-/* Large sparkle: fills with colour on active tab, pulses continuously */
-.ask-tab-sparkle {
-  fill: none;
-  transition: fill 0.2s;
-}
-.search-tab.active .ask-tab-sparkle {
-  fill: currentColor;
-  animation: sparkle-pulse 2.4s ease-in-out infinite;
-}
-.search-tab:not(.active):hover .ask-tab-sparkle {
-  fill: currentColor;
-  opacity: 0.5;
-}
-
-/* Small star lines: blink in and out on a loop */
-.ask-tab-star {
-  animation: star-blink 2.4s ease-in-out infinite;
-}
-.ask-tab-star--delayed {
-  animation-delay: 1.2s;
-}
-
-@keyframes sparkle-pulse {
-  0%, 100% { opacity: 1;   transform: scale(1);    }
-  50%       { opacity: 0.7; transform: scale(0.92); }
-}
-
-@keyframes star-blink {
-  0%, 15%, 85%, 100% { opacity: 1; }
-  40%, 60%           { opacity: 0; }
-}
-
-/* ── Ask AI tab animated sparkles icon ── */
-.ask-tab-icon { flex-shrink: 0; }
-
-/* Large sparkle: fills with colour on active tab, pulses continuously */
-.ask-tab-sparkle {
-  fill: none;
-  transition: fill 0.2s;
-}
-.search-tab.active .ask-tab-sparkle {
-  fill: currentColor;
-  animation: sparkle-pulse 2.4s ease-in-out infinite;
-}
-.search-tab:not(.active):hover .ask-tab-sparkle {
-  fill: currentColor;
-  opacity: 0.5;
-}
-
-/* Small star lines: blink in and out on a loop */
-.ask-tab-star {
-  animation: star-blink 2.4s ease-in-out infinite;
-}
-.ask-tab-star--delayed {
-  animation-delay: 1.2s;
-}
-
-@keyframes sparkle-pulse {
-  0%, 100% { opacity: 1;   transform: scale(1);    }
-  50%       { opacity: 0.7; transform: scale(0.92); }
-}
-
-@keyframes star-blink {
-  0%, 15%, 85%, 100% { opacity: 1; }
-  40%, 60%           { opacity: 0; }
-}
 
 /* ── Filters ── */
 .search-filters {
@@ -4408,6 +3697,14 @@ function autoResizeFollowUp() {
   padding: 0.35rem 0.6rem; font-size: 0.8rem;
   border: 1px solid var(--vp-c-divider); border-radius: 6px;
   background: var(--vp-c-bg); color: var(--vp-c-text-1);
+}
+.filter-group select:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-color: var(--vp-c-brand-1);
+}
+.filter-group:focus-within > label {
+  color: var(--vp-c-brand-1);
 }
 .clear-btn {
   padding: 0.35rem 0.75rem; font-size: 0.8rem; border-radius: 6px;
@@ -5332,9 +4629,9 @@ function autoResizeFollowUp() {
 .suggestion-card {
   display: flex;
   align-items: center;
-  gap: 0.65rem;
+  gap: 0.5rem;
   width: 100%;
-  padding: 0.55rem 0.75rem;
+  padding: 0.38rem 0.6rem;
   background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-left-width: 3px;
@@ -6386,50 +5683,362 @@ function autoResizeFollowUp() {
 }
 .settings-select:focus { outline: 2px solid var(--vp-c-brand-1); outline-offset: 1px; }
 
-/* ── Segmented button (Default tab) ─────────────────────────────────────────── */
-.settings-seg {
-  display:       flex;
-  border:        1px solid var(--vp-c-divider);
-  border-radius: 5px;
-  overflow:      hidden;
-  flex-shrink:   0;
-}
-.settings-seg-btn {
-  padding:    0.2rem 0.65rem;
-  font-size:  0.73rem;
-  cursor:     pointer;
-  border:     none;
-  background: transparent;
-  color:      var(--vp-c-text-2);
-  transition: background 0.15s, color 0.15s;
-}
-.settings-seg-btn + .settings-seg-btn { border-left: 1px solid var(--vp-c-divider); }
-.settings-seg-btn:hover               { background: var(--vp-c-bg-mute); }
-.settings-seg-btn--active             { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); font-weight: 600; }
-
 /* ── Compact results mode ────────────────────────────────────────────────────── */
 .search-modal--compact .result-excerpt,
 .search-modal--compact .result-topics  { display: none; }
 .search-modal--compact .result-card    { padding-bottom: 0.5rem; }
 
-/* ─── Settings reset row ─────────────────────────────────────────────────────── */
-.settings-reset-row {
-  padding: 8px 14px 4px;
-  display: flex;
-  justify-content: flex-end;
+/* ══════════════════════════════════════════════════════════════════════════════
+   PHASE 1 REDESIGN — Idle state, AI suggestions, View more
+══════════════════════════════════════════════════════════════════════════════ */
+
+/* ── Idle state container ──────────────────────────────────────────────────── */
+.idle-state {
+  padding: 0.25rem 0 0.5rem;
 }
-.settings-reset-btn {
-  background: none;
-  border: none;
-  padding: 0;
-  font-size: 11px;
-  color: var(--vp-c-text-3);
-  cursor: pointer;
-  text-decoration: underline;
-  text-underline-offset: 2px;
+
+/* ── Idle section ──────────────────────────────────────────────────────────── */
+.idle-section {
+  padding: 0.1rem 0 0.1rem;
+  border-bottom: 1px solid var(--vp-c-divider);
 }
-.settings-reset-btn:hover {
-  color: var(--vp-c-danger-1, #f43f5e);
+.idle-section:last-child { border-bottom: none; }
+
+.idle-section-header {
+  display:        flex;
+  align-items:    center;
+  gap:            0.4rem;
+  font-size:      0.7rem;
+  font-weight:    600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-3);
+  padding:        0.4rem 1rem 0.15rem;
+}
+
+.idle-section-count {
+  margin-left:   auto;
+  font-size:     0.68rem;
+  font-weight:   500;
+  color:         var(--vp-c-text-3);
+  background:    var(--vp-c-bg-mute);
+  border-radius: 999px;
+  padding:       0.05rem 0.45rem;
+}
+
+/* ── Idle row (shared by recently viewed, bookmarks, and suggested items) ──── */
+.idle-row {
+  display:     flex;
+  align-items: center;
+  gap:         0.55rem;
+  padding:     0.34rem 1rem;
+  text-decoration: none;
+  color:       var(--vp-c-text-1);
+  font-size:   0.875rem;
+  cursor:      pointer;
+  border:      none;
+  background:  none;
+  width:       100%;
+  text-align:  left;
+  transition:  background 0.12s;
+}
+.idle-row:hover { background: var(--vp-c-bg-soft); }
+.idle-row:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
+
+.idle-row-icon {
+  flex-shrink: 0;
+  color:       var(--vp-c-text-3);
+}
+
+.idle-row-label {
+  flex:          1;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  white-space:   nowrap;
+}
+
+.idle-row-eba {
+  flex-shrink:   0;
+  font-size:     0.68rem;
+  font-weight:   600;
+  padding:       0.1rem 0.45rem;
+  border-radius: 999px;
+  border:        1px solid transparent;
+}
+
+.idle-row-operator {
+  flex-shrink:   0;
+  font-family:   var(--vp-font-family-mono);
+  font-size:     0.72rem;
+  padding:       0.1rem 0.45rem;
+  border-radius: 4px;
+  background:    var(--vp-c-bg-mute);
+  color:         var(--vp-c-brand-1);
+  border:        1px solid var(--vp-c-divider);
+}
+
+/* ── Bookmark-row modifier ──────────────────────────────────────────────────
+   Applied only to bookmark entries in the idle state. Switches alignment to
+   flex-start so the icon and EBA pill sit at the top of the row when a note
+   is present on the second line, and colours the icon amber to match the
+   BookmarkButton active state.
+────────────────────────────────────────────────────────────────────────── */
+.idle-row--bm {
+  align-items: flex-start;
+}
+
+.idle-row--bm .idle-row-icon {
+  color:      #F59E0B;
+  margin-top: 3px; /* nudge so icon tip aligns with the title text baseline */
+}
+
+/* Column container for title + note within the bookmark row */
+.idle-row-body {
+  flex:           1;
+  min-width:      0;
+  display:        flex;
+  flex-direction: column;
+  gap:            0.1rem;
+  overflow:       hidden;
+}
+
+/* When label sits inside idle-row-body, remove the horizontal flex-grow
+   that it carries in the base .idle-row-label rule — the parent body
+   already carries flex:1 in the row direction. */
+.idle-row-body .idle-row-label {
+  flex: none;
+}
+
+/* Annotation line — italic, amber, single-line truncated */
+.idle-row-note {
+  font-size:     0.72rem;
+  font-style:    italic;
+  color:         #B45309;   /* amber-700 — same as .qa-bookmark-card-note */
+  white-space:   nowrap;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  line-height:   1.4;
+}
+
+.dark .idle-row-note {
+  color: #FCD34D;           /* amber-300 — legible on dark backgrounds */
+}
+
+/* ── Ask AI suggestions section ─────────────────────────────────────────────── */
+.ask-ai-suggestions {
+  border-top: 1px solid var(--vp-c-divider);
+  padding:    0.1rem 0 0.2rem;
+}
+
+.ask-ai-suggestions-header {
+  display:        flex;
+  align-items:    center;
+  gap:            0.4rem;
+  font-size:      0.7rem;
+  font-weight:    600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-3);
+  padding:        0.4rem 1rem 0.15rem;
+}
+
+.ask-ai-suggestion-row {
+  display:     flex;
+  align-items: center;
+  gap:         0.55rem;
+  padding:     0.28rem 1rem;
+  width:       100%;
+  text-align:  left;
+  border:      none;
+  background:  none;
+  color:       var(--vp-c-text-2);
+  font-size:   0.845rem;
+  cursor:      pointer;
+  transition:  background 0.12s, color 0.12s;
+}
+.ask-ai-suggestion-row:hover {
+  background: var(--vp-c-bg-soft);
+  color:      var(--vp-c-brand-1);
+}
+.ask-ai-suggestion-row svg {
+  flex-shrink: 0;
+  color:       var(--vp-c-brand-1);
+  opacity:     0.65;
+}
+.ask-ai-suggestion-row:hover svg { opacity: 1; }
+.ask-ai-suggestion-row:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   ISSUE 4 — Inline AI answer view (streamed inside the SearchModal)
+══════════════════════════════════════════════════════════════════════════════ */
+.inline-answer {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.6rem;
+  padding:        0.5rem 0.25rem 0.75rem;
+}
+
+.inline-answer-back {
+  display:       inline-flex;
+  align-items:   center;
+  gap:           0.35rem;
+  align-self:    flex-start;
+  padding:       0.25rem 0.5rem 0.25rem 0.35rem;
+  border:        none;
+  background:    none;
+  border-radius: 6px;
+  cursor:        pointer;
+  color:         var(--vp-c-text-3);
+  font-size:     0.8rem;
+  font-weight:   500;
+  transition:    background 0.12s, color 0.12s;
+}
+.inline-answer-back:hover { background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); }
+
+.inline-answer-question {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           0.5rem;
+  padding:       0.55rem 0.7rem;
+  background:    var(--vp-c-brand-soft);
+  border-radius: 10px;
+  font-size:     0.9rem;
+  font-weight:   600;
+  line-height:   1.45;
+  color:         var(--vp-c-text-1);
+}
+.inline-answer-question svg { flex-shrink: 0; margin-top: 0.15rem; color: var(--vp-c-brand-1); }
+
+.inline-answer-content {
+  font-size:   0.9rem;
+  line-height: 1.62;
+  color:       var(--vp-c-text-1);
+  padding:     0 0.25rem;
+}
+.inline-answer-text :deep(p)      { margin: 0 0 0.7em; }
+.inline-answer-text :deep(p:last-child) { margin: 0; }
+.inline-answer-text :deep(ul),
+.inline-answer-text :deep(ol)     { margin: 0.4em 0 0.7em 1.3em; padding: 0; }
+.inline-answer-text :deep(li)     { margin: 0.2em 0; }
+.inline-answer-text :deep(strong) { font-weight: 700; }
+.inline-answer-text :deep(h2),
+.inline-answer-text :deep(h3)     { font-size: 0.92rem; font-weight: 700; margin: 0.7em 0 0.3em; }
+.inline-answer-text :deep(code)   {
+  font-family:   var(--vp-font-family-mono);
+  font-size:     0.82em;
+  background:    var(--vp-c-bg-mute);
+  padding:       0.1em 0.35em;
+  border-radius: 3px;
+}
+.inline-answer-text :deep(table)  { border-collapse: collapse; margin: 0.5em 0; font-size: 0.85em; width: 100%; }
+.inline-answer-text :deep(th),
+.inline-answer-text :deep(td)     { border: 1px solid var(--vp-c-divider); padding: 0.3em 0.5em; text-align: left; }
+
+/* Blinking caret shown at the tail of the streaming answer */
+.inline-answer-cursor {
+  display:        inline-block;
+  width:          2px;
+  height:         1.05em;
+  margin-left:    1px;
+  vertical-align: text-bottom;
+  background:     var(--vp-c-brand-1);
+  animation:      inline-caret-blink 1s steps(2, start) infinite;
+}
+@keyframes inline-caret-blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+
+.inline-answer-thinking {
+  padding:   0.25rem;
+  font-size: 0.88rem;
+  color:     var(--vp-c-text-2);
+}
+.inline-answer-thinking .ap-dots span {
+  display:        inline-block;
+  animation:      inline-dot-blink 1.2s infinite;
+  opacity:        0;
+}
+.inline-answer-thinking .ap-dots span:nth-child(1) { animation-delay: 0s;   }
+.inline-answer-thinking .ap-dots span:nth-child(2) { animation-delay: 0.2s; }
+.inline-answer-thinking .ap-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes inline-dot-blink { 0%, 60%, 100% { opacity: 0; } 30% { opacity: 1; } }
+
+.inline-answer-error {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           0.45rem;
+  padding:       0.55rem 0.7rem;
+  border-radius: 8px;
+  background:    var(--vp-c-danger-soft, #fef2f2);
+  color:         var(--vp-c-danger-1, #e53e3e);
+  font-size:     0.85rem;
+  line-height:   1.45;
+}
+.inline-answer-error svg { flex-shrink: 0; margin-top: 0.1rem; }
+
+.inline-answer-sources {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.15rem;
+  padding-top:    0.4rem;
+  border-top:     1px solid var(--vp-c-divider);
+}
+.inline-answer-sources-head {
+  font-size:      0.7rem;
+  font-weight:    600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-3);
+  margin-bottom:  0.1rem;
+}
+.inline-answer-source {
+  display:         inline-flex;
+  align-items:     center;
+  gap:             0.4rem;
+  padding:         0.28rem 0.4rem;
+  border-radius:   6px;
+  text-decoration: none;
+  color:           var(--vp-c-brand-1);
+  font-size:       0.83rem;
+  transition:      background 0.12s;
+}
+.inline-answer-source:hover { background: var(--vp-c-bg-soft); }
+.inline-answer-source svg   { flex-shrink: 0; opacity: 0.7; }
+
+.inline-answer-disclaimer {
+  font-size:   0.72rem;
+  color:       var(--vp-c-text-3);
+  line-height: 1.5;
+  padding:     0.3rem 0.25rem 0;
+  border-top:  1px solid var(--vp-c-divider);
+}
+
+/* ── View more results button ────────────────────────────────────────────────── */
+.view-more-btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  gap:             0.4rem;
+  width:           100%;
+  padding:         0.65rem 1rem;
+  border:          none;
+  border-top:      1px solid var(--vp-c-divider);
+  background:      none;
+  color:           var(--vp-c-brand-1);
+  font-size:       0.845rem;
+  font-weight:     500;
+  cursor:          pointer;
+  transition:      background 0.12s;
+}
+.view-more-btn:hover           { background: var(--vp-c-bg-soft); }
+.view-more-btn:focus-visible   { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
+
+/* ── Operator hint footer bar ────────────────────────────────────────────────── */
+.search-footer-hint {
+  flex-shrink:   0;
+  padding:       0.55rem 0;
+  border-top:    1px solid var(--vp-c-divider);
+  font-size:     0.72rem;
+  color:         var(--vp-c-text-3);
+  text-align:    center;
 }
 
 </style>

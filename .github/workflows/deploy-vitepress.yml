@@ -42,6 +42,14 @@ jobs:
         run: npm run docs:related
         working-directory: docs
 
+      - name: Generate Page Catalog
+        run: node scripts/generate-page-catalog.mjs
+        working-directory: docs
+
+      - name: Generate Clause Counts
+        run: node scripts/generate-clause-counts.mjs
+        working-directory: docs
+
       - name: Build VitePress
         run: npm run docs:build
         working-directory: docs

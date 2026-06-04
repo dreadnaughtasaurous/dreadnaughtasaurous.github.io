@@ -531,6 +531,105 @@ async function handleGetTrendingTopics(request, env, origin) {
   }
 }
 
+// -----------------------------------------------------------------------------
+// GET /trending?days=7&limit=12 — public, no auth required
+// Returns the top N most-viewed EBA clause pages over the last N days.
+// Uses date-scoped KV key prefixes (pv:YYYY-MM-DD:) to read only the relevant
+// time window rather than all historical data. Handles KV cursor pagination so
+// results are accurate even when a date bucket exceeds 1000 entries.
+// Response: Cache-Control: public, max-age=300 — 5-min Cloudflare edge cache
+// reduces KV reads under concurrent load (e.g. multiple users loading the
+// For You page simultaneously).
+// -----------------------------------------------------------------------------
+async function handleGetTrending(request, env, origin) {
+  try {
+    const url   = new URL(request.url)
+    const days  = Math.min(parseInt(url.searchParams.get('days')  || '7',  10), 30)
+    const limit = Math.min(parseInt(url.searchParams.get('limit') || '12', 10), 50)
+
+    // ── Build date prefixes for the last N days ─────────────────────────────
+    // e.g. days=3 → ['pv:2025-06-03:', 'pv:2025-06-02:', 'pv:2025-06-01:']
+    const prefixes = []
+    for (let i = 0; i < days; i++) {
+      const d = new Date()
+      d.setUTCDate(d.getUTCDate() - i)
+      prefixes.push('pv:' + d.toISOString().slice(0, 10) + ':')
+    }
+
+    // ── List all KV keys matching each date prefix ──────────────────────────
+    // KV list() returns key names only — values are fetched separately below.
+    // Cursor pagination handles buckets with >1000 entries.
+    const allKeys = []
+    for (const prefix of prefixes) {
+      let cursor = undefined
+      do {
+        const opts = { prefix, limit: 1000 }
+        if (cursor) opts.cursor = cursor
+        const result = await env.EBA_PAGEVIEWS.list(opts)
+        allKeys.push(...result.keys.map(k => k.name))
+        cursor = result.list_complete ? undefined : result.cursor
+      } while (cursor)
+    }
+
+    // ── Batch-get values and aggregate by path ──────────────────────────────
+    // Processes in batches of 50 concurrent KV reads to stay within
+    // Workers CPU and subrequest limits.
+    const pathCounts = {}
+    const pathMeta   = {}  // path → { title, eba } for the response payload
+    const BATCH      = 50
+
+    for (let i = 0; i < allKeys.length; i += BATCH) {
+      const batch  = allKeys.slice(i, i + BATCH)
+      const values = await Promise.all(
+        batch.map(k => env.EBA_PAGEVIEWS.get(k, { type: 'json' }).catch(() => null))
+      )
+      for (const v of values) {
+        if (!v || !v.path) continue
+        // Exclude non-clause pages (home, admin, search, /for-you/, etc.)
+        // A valid clause page path has at least: /ebas/<eba>/<clause>
+        const parts = v.path.split('/').filter(Boolean)
+        if (parts[0] !== 'ebas' || parts.length < 3) continue
+
+        pathCounts[v.path] = (pathCounts[v.path] || 0) + 1
+        if (!pathMeta[v.path]) {
+          // Strip " | EBAdb" suffix from page titles (added by the browser)
+          pathMeta[v.path] = {
+            title: (v.title || '').replace(/\s*\|.*$/, '').trim(),
+            eba:   v.eba || '',
+          }
+        }
+      }
+    }
+
+    // ── Sort descending, trim to limit, format response ─────────────────────
+    const trending = Object.entries(pathCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, limit)
+      .map(([path, count]) => ({
+        path,
+        count,
+        title: pathMeta[path]?.title || '',
+        eba:   pathMeta[path]?.eba   || '',
+      }))
+
+    return new Response(JSON.stringify({
+      trending,
+      days,
+      generatedAt: new Date().toISOString(),
+    }), {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'public, max-age=300',
+        ...corsHeaders(origin),
+      },
+    })
+
+  } catch (err) {
+    return jsonResponse({ error: err.message }, 500, origin)
+  }
+}
+
 // =============================================================================
 // MAIN FETCH HANDLER
 // =============================================================================
@@ -560,6 +659,9 @@ export default {
     }
     if (method === 'GET' && url.pathname === '/trending-topics') {
       return handleGetTrendingTopics(request, env, origin)
+    }
+    if (method === 'GET' && url.pathname === '/trending') {
+      return handleGetTrending(request, env, origin)
     }
     if (method === 'GET' && url.pathname === '/analytics') {
       return handleGetAnalytics(request, env, origin)

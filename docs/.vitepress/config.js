@@ -61,19 +61,20 @@ head: [
     logo: '/nav-logo.png',
     outline: { level: [2, 3] },
     nav: [
-      { text: '🏠 Home',      link: '/' },
-      { text: '💰 Pay Rates', link: '/pay-rates' },
-      { text: '📄 EBAs',      link: '/ebas/' },
-      { text: '🏷️ Topics',    link: '/topics/' },
-      {
-        text: 'More',
-        items: [
-          { text: '🗄️ Archive',    link: '/archive/' },
-          { text: '❓ How to Use', link: '/about/how-to-search/' },
-          { text: '📋 Changelog',  link: '/changelog' },
-          { text: '📊 Admin Dashboard', link: '/admin/analytics' }
-        ]
-      },
+       { text: '🏠 Home',      link: '/' },
+       { text: '💰 Pay Rates', link: '/pay-rates' },
+       { text: '📄 EBAs',      link: '/ebas/' },
+       { text: '✨ For You',   link: '/for-you/' },
+       {
+         text: 'More',
+         items: [
+           { text: '🏷️ Topics',      link: '/topics/' },
+           { text: '❓ How to Search', link: '/about/how-to-search/' },
+           { text: '🗄️ Archive',    link: '/archive/' },
+           { text: '📋 Changelog',  link: '/changelog' },
+           { text: '📊 Admin Dashboard', link: '/admin/analytics' }
+         ]
+       },
     ],
     sidebar,
     editLink: {

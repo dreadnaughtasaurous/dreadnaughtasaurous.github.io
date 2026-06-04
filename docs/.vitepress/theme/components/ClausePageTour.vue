@@ -111,21 +111,20 @@ const CLAUSE_TOUR_KEY = 'eba-clause-tour-complete'
 //   index 2 → BookmarkButton (bookmark-btn)
 // We also fall back to data-tour attributes in case they were added directly.
 function getToolbarBtn(role) {
-  // Try data-tour first (works if attribute was added inside the component)
+  // Primary: data-tour attribute placed directly on the <button> elements
+  // inside DocToolbar.vue — works reliably because they are native elements,
+  // not ClientOnly roots.
   const byAttr = document.querySelector(`[data-tour="${role}"]`)
   if (byAttr) return byAttr
 
-  // Fallback: query buttons inside .doc-toolbar's right-side flex group
-  // The right group is the last child div of .doc-toolbar
-  const toolbar = document.querySelector('.doc-toolbar')
-  if (!toolbar) return null
-  const btnGroup = toolbar.querySelector('div:last-child')
-  if (!btnGroup) return null
-  const btns = btnGroup.querySelectorAll('button')
-
+  // Fallback: positional query inside .dst-bar (DocToolbar's toolbar row).
+  // Button order is fixed: index 0 = Ask, 1 = Copy, 2 = View as Markdown, 3 = Bookmark.
+  const bar  = document.querySelector('.dst-bar')
+  if (!bar) return null
+  const btns = bar.querySelectorAll('button')
   if (role === 'ask-this-page-btn') return btns[0] ?? null
   if (role === 'copy-btn')          return btns[1] ?? null
-  if (role === 'bookmark-btn')      return btns[2] ?? null
+  if (role === 'bookmark-btn')      return btns[3] ?? null
   return null
 }
 
