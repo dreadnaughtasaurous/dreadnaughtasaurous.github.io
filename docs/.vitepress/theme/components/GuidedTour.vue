@@ -188,6 +188,8 @@ const steps = [
     copy: 'The <strong>Suggested</strong> panel shows operator shortcuts. Type <code>:</code> to begin, <code>eba:</code> to filter by EBA, <code>topic:</code> to filter by topic, or combine them for precision searching.',
     keepModalOpen: true,
     caretHint: 'top',
+    mobileCaretHint: 'top',
+    mobileH: 360,
   },
   {
     // Step 7: close the modal (auto-fired by next() detecting keepModalOpen→none transition),
@@ -210,6 +212,7 @@ const steps = [
     afterOpen: 500,
     keepAskPanelOpen: true,
     caretHint: 'left',
+    mobileCaretHint: 'bottom',
   },
   
   {
@@ -525,7 +528,7 @@ async function positionTooltip() {
     zIndex:       '10000',
   }
 
-  const hint      = step.caretHint ?? 'auto'
+  const hint      = (isMobile() && step.mobileCaretHint) ? step.mobileCaretHint : (step.caretHint ?? 'auto')
   let   placement = hint
 
   if (hint === 'auto') {
@@ -547,7 +550,8 @@ async function positionTooltip() {
     top  = rect.bottom + GAP
     left = clamp(centerX - TOOLTIP_W / 2, MARGIN, vw - TOOLTIP_W - MARGIN)
   } else if (placement === 'top') {
-    top  = rect.top - TOOLTIP_H_APPROX - GAP
+    const tooltipH = (isMobile() && step.mobileH) ? step.mobileH : TOOLTIP_H_APPROX
+    top  = rect.top - tooltipH - GAP
     left = clamp(centerX - TOOLTIP_W / 2, MARGIN, vw - TOOLTIP_W - MARGIN)
   } else if (placement === 'right') {
     top  = clamp(centerY - TOOLTIP_H_APPROX / 2, MARGIN, vh - TOOLTIP_H_APPROX - MARGIN)
