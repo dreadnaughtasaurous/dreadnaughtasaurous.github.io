@@ -778,14 +778,12 @@
 
 <script setup>
 import { ref, computed, watch, onMounted, onUnmounted, nextTick } from 'vue'
-import { useData, useRoute } from 'vitepress'
 import { topicList } from '../../generated/topic-list.mjs'
 import { ebaColors, ebaList, ebaSlugLabels } from '../eba-registry.js'
 
 // ─── AI Worker URL ────────────────────────────────────────────────────────────
 const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
 const ANALYTICS_WORKER_URL = 'https://eba-analytics-worker.irresistibl.workers.dev'
-const aiConfigured  = AI_WORKER_URL.length > 0
 
 // ─── Storage keys ─────────────────────────────────────────────────────────────
 const SESSION_QUERY_KEY       = 'eba-search-last-query'
@@ -798,7 +796,6 @@ const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
 const LOCAL_RECENTLY_VIEWED_KEY = 'eba-recently-viewed'  // Array<{path,title,eba,timestamp}> max 4
 const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
 const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
-const LOCAL_ASK_INTRO_KEY      = 'eba-ask-ai-intro-seen'    // Ask AI onboarding card dismissal
 const LOCAL_HISTORY_OPT_IN_KEY = 'eba-history-persist'      // '1' when cross-session history opted in
 const LOCAL_HISTORY_PROMPT_KEY = 'eba-history-prompt-seen'  // '1' once one-time consent prompt dismissed
 const LOCAL_HISTORY_KEY        = 'eba-search-history'       // JSON string[] of persisted queries
@@ -810,7 +807,6 @@ const LOCAL_ANALYTICS_KEY      = 'eba-analytics-enabled'    // 'false' to opt ou
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
-const activeTab           = ref('search')
 const query               = ref('')
 const selectedEba         = ref('')
 const selectedTopic       = ref('')
@@ -821,12 +817,6 @@ const skeletonCount       = ref(0)   // set to stub count immediately after page
 const inputRef            = ref(null)
 const modalRef            = ref(null)
 const resultsContainerRef = ref(null)
-
-// ─── Ask AI intro card ────────────────────────────────────────────────────────
-// Shown the first time the user opens the Ask AI tab.
-// Dismissed permanently via localStorage. Default true (hidden) until confirmed
-// not seen; actual check happens in onMounted so localStorage is available.
-const askAiIntroSeen = ref(true)
 
 // ─── Mobile bottom-sheet state ────────────────────────────────────────────────
 // isMobileSheet: true when viewport < 768px — drives the sheet CSS class and
@@ -961,21 +951,7 @@ const aiSuggestions = computed(() => {
   ]
 })
 
-// ─── Open Ask Panel (Phase 2 wires the listener; Phase 1 dispatches the event) ─
-// Called by AI suggestion row clicks. Closes the SearchModal first, then dispatches
-// 'open-ask-panel' so AskPanel.vue can open with the question pre-filled.
-// scope: 'wiki' because the question comes from a keyword search context, not a
-// specific clause page — the panel will answer from the full wiki corpus.
-function openAskPanel(question) {
-  close()
-  nextTick(() => {
-    window.dispatchEvent(new CustomEvent('open-ask-panel', {
-      detail: { question: question || '', scope: 'wiki' }
-    }))
-  })
-}
-
-// ─── Inline AI answer (Issue 4) — stream the answer inside the SearchModal ────
+// ─── Inline AI answer — stream the answer inside the SearchModal ────
 // Uses the same worker, system prompt, and detailed-style instructions as the
 // retired Ask AI tab, but renders progressively via SSE (stream:true). Falls
 // back to a single non-streaming request if no streaming provider can start.
@@ -1113,12 +1089,6 @@ function loadBookmarks() {
   } catch { /* corrupt storage — degrade silently */ }
 }
 
-// ─── Ask AI intro card dismissal ─────────────────────────────────────────────
-function dismissAskIntro() {
-  askAiIntroSeen.value = true
-  try { localStorage.setItem(LOCAL_ASK_INTRO_KEY, '1') } catch { /* ignore */ }
-}
-
 // ─── Most Viewed Clauses fetch ────────────────────────────────────────────────
 // Called on every openModal(). Returns immediately from sessionStorage cache
 // if data was fetched within the last 5 minutes.
@@ -1193,125 +1163,9 @@ async function fetchTrendingTopics() {
   }
 }
 
-// ─── AI state ─────────────────────────────────────────────────────────────────
-const aiLoading    = ref(false)
-const aiAnswer     = ref('')
-const aiSources    = ref([])
-const aiError      = ref('')
-const followUpText = ref('')   // bound to the persistent follow-up input row
-const followUpRef  = ref(null) // template ref for the follow-up textarea
-
-// ─── Conversation history (multi-turn Ask AI) ─────────────────────────────────
-const MAX_HISTORY_TURNS    = 3
-const conversationHistory  = ref([])
-const conversationBodyRef  = ref(null)
-
-// ─── Ask mode state ───────────────────────────────────────────────────────────
-const askMode = ref('question')
-// Values: 'question' | 'situation' | 'draft'
-
-// Ask a Question mode fields
-const questionText    = ref('')
-const questionEba     = ref('')
-const questionEmpType = ref('')
-
-// Describe a Situation mode fields
-const situationText    = ref('')
-const situationEba     = ref('')
-const situationEmpType = ref('')
-
-// Draft a Response mode fields
-const draftEba      = ref('')
-const draftEmpType  = ref('')
-const draftQuestion = ref('')
-const draftContext  = ref('')
-
-// Carries a pre-built question from AskThisPage — bypasses the question-mode builder
-const externalQuery = ref('')
-
-// Display label shown in the user turn bubble (shorter than full constructed prompt)
-const lastUserDisplay = ref('')
-
-// Tracks whether the last assistant answer was produced in draft mode
-const lastAnswerWasDraft = ref(false)
-
-// ─── Page context banner state ────────────────────────────────────────────────
-// pageContextBannerDismissed: true when user clicks "Not now" or clears context.
-//   Hides the banner for this modal open only. Reset to false in close().
-// pageContextAccepted: true when user clicks "Use this page". Shows the
-//   "context active" indicator and seeds pendingSourcePath + EBA dropdowns.
-// pageContextBannerSuppressed: true when openFromExternal fires with a pre-built
-//   query (AskThisPage path). Prevents a stray single-frame flash of the banner
-//   before aiLoading becomes true and hides the pre-conversation forms.
-const pageContextBannerDismissed  = ref(false)
-const pageContextAccepted         = ref(false)
-const pageContextBannerSuppressed = ref(false)
-
-// ─── Computed: always hide shared search-header input on the Ask AI tab ───────
-// All three modes now use their own form inputs instead of the navbar text box.
-const hideSharedInput = computed(() =>
-  activeTab.value === 'ask'
-)
-
-// ─── Current page metadata (for page context banner) ──────────────────────────
-// useData() and useRoute() are VitePress composables — called at the top level
-// of <script setup> so they are reactive and update correctly on SPA navigation.
-const { page } = useData()
-const route    = useRoute()
-
-// A clause page has ≥5 path segments after the leading slash:
-//   /ebas/<eba>/<section>/<clause>             → length 5 (standard)
-//   /ebas/<eba>/<stream>/<section>/<clause>    → length 6 (nested EBAs)
-// Index pages (length 3–4) and non-EBA pages do not qualify.
-const currentPageIsClause = computed(() => {
-  const parts = (route.path || '').replace(/\/$/, '').replace(/\.html$/, '').split('/')
-  return parts.length >= 5 && parts[1] === 'ebas'
-})
-
-// "Clause 35" derived from the title frontmatter ("35. Travelling and Reimbursement")
-const currentPageClauseLabel = computed(() => {
-  const title = page.value?.frontmatter?.title ?? ''
-  const match = title.match(/^(\d+[A-Za-z]?)[\.\s]/)
-  return match ? `Clause ${match[1]}` : (title || 'this clause')
-})
-
-const currentPageEba = computed(() => page.value?.frontmatter?.eba ?? '')
-
-// Short display label for the EBA colour pill inside the compact banner row.
-// Full EBA names are too long for the one-liner; these readable abbreviations
-// match the keys in ebaColors exactly so the pill gets the right colour.
-const EBA_SHORT_NAMES = {
-  'Allied Health Professionals 2021-2026':       'Allied Health',
-  'Biomedical Engineers 2025-2028':              'Biomedical Eng.',
-  "Children's Services Award 2010":              "Children's Services",
-  'Doctors in Training 2022-2026':               'Doctors in Training',
-  'Health Allied & Managers Admin 2021-2025':    'HAS Managers & Admin',
-  'Medical Specialists 2022-2026':               'Medical Specialists',
-  'Mental Health Services 2024-2028':            'Mental Health',
-  'Medical Scientists, Pharm & Psych 2021-2025': 'Medical Scientists',
-  'Nurses and Midwives 2024-2028':               'Nurses & Midwives',
-}
-const currentPageEbaShort = computed(() =>
-  EBA_SHORT_NAMES[currentPageEba.value] ?? currentPageEba.value
-)
-
-// Banner shows when: Ask AI tab is active, user is on a clause page, no
-// conversation has started yet, and it has not been dismissed or suppressed.
-const showPageContextBanner = computed(() =>
-  activeTab.value === 'ask' &&
-  currentPageIsClause.value &&
-  conversationHistory.value.length === 0 &&
-  !aiLoading.value &&
-  !pageContextBannerDismissed.value &&
-  !pageContextBannerSuppressed.value
-)
-
 let searchTimer           = null
 let pagefind              = null
 let pagefindInitPromise   = null    // deduplicates concurrent init calls from hover + focus
-let pendingContentHash    = null
-let pendingSourcePath     = null
-let _externalAskQuery     = ''      // carries AskThisPage pre-built query; bypasses mode form guards
 let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
 
 // ─── Quick Access shortcuts ───────────────────────────────────────────────────
@@ -1396,181 +1250,6 @@ const SUGGESTION_TOPIC_MAP = [
   { keywords: ['workload','work load','staffing','ratios','nurse ratio','patient ratio','understaffed','unsafe staffing','skill mix'], topic: 'workload', label: 'Workload' },
   { keywords: ['consultation','consult','change management','major change','restructure','restructuring','workplace change'], topic: 'consultation', label: 'Consultation' },
 ]
-
-// ─── Follow-up question chips ─────────────────────────────────────────────────
-// Keyed on section slugs that appear in aiSources URLs
-// (e.g. /ebas/nurses-midwives/overtime/57-overtime → slug 'overtime').
-// Each topic carries 3 chips. followUpChips (computed below) picks up to 3,
-// filtering out any whose text fuzzy-matches a question already asked this session.
-const FOLLOWUP_MAP = {
-  'overtime': [
-    'What about overtime on a public holiday?',
-    'Does this overtime rate differ for casual employees?',
-    'Is there a meal allowance when working overtime?',
-  ],
-  'penalty-rates': [
-    'What penalty rates apply on a public holiday?',
-    'Are casual employees entitled to the same penalty rates?',
-    'How do penalty rates interact with overtime?',
-  ],
-  'allowances': [
-    'Does this allowance apply to part-time employees?',
-    'Is this allowance included in annual leave loading calculations?',
-    'What other allowances might apply to my role?',
-  ],
-  'leave': [
-    'Can unused leave be cashed out?',
-    'What happens to leave entitlements on termination?',
-    'Does this leave entitlement apply to casual employees?',
-  ],
-  'wages': [
-    'When does the next pay increase take effect?',
-    'How are wages calculated for part-time employees?',
-    'Is there a higher duties allowance if I act in a higher grade?',
-  ],
-  'classification': [
-    'What is the pay rate for this classification?',
-    'How do I apply for reclassification to a higher grade?',
-    'Does my classification change if I act in a higher role?',
-  ],
-  'hours-of-work': [
-    'What notice is required to change a roster?',
-    'Are there limits on consecutive shifts?',
-    'How are ordinary hours calculated for part-time employees?',
-  ],
-  'termination': [
-    'What notice period is required for redundancy?',
-    'Is there a severance payment on redundancy?',
-    'What happens to unused leave on termination?',
-  ],
-  'dispute-resolution': [
-    'What is the first step in the dispute resolution process?',
-    'Can the Fair Work Commission be involved at any stage?',
-    'Is there a time limit for raising a grievance?',
-  ],
-  'employment-types': [
-    'Can a casual employee convert to permanent employment?',
-    'What entitlements differ between full-time and part-time employees?',
-    'How is notice of termination calculated for fixed-term employees?',
-  ],
-  'professional-development': [
-    'Is professional development leave paid?',
-    'Who approves professional development applications?',
-    'Is there a maximum number of professional development days per year?',
-  ],
-  'workload': [
-    'What can I do if I believe staffing levels are unsafe?',
-    'Does the EBA set minimum staffing ratios?',
-    'Who do I notify if my workload exceeds safe limits?',
-  ],
-  'consultation': [
-    'What information must the employer provide during consultation?',
-    'Can employees respond formally during a consultation process?',
-    'What happens if the consultation period ends without agreement?',
-  ],
-}
-
-// Section-slug aliases — some URL path segments don't match topic keys exactly.
-// Maps the raw path segment to the FOLLOWUP_MAP key to look up.
-const FOLLOWUP_SLUG_ALIAS = {
-  'on-call':              'allowances',
-  'recall':               'allowances',
-  'meal-allowance':       'allowances',
-  'uniform':              'allowances',
-  'higher-duties':        'allowances',
-  'annual-leave':         'leave',
-  'sick-leave':           'leave',
-  'personal-leave':       'leave',
-  'parental-leave':       'leave',
-  'long-service-leave':   'leave',
-  'public-holidays':      'penalty-rates',
-  'weekend-penalties':    'penalty-rates',
-  'shift-penalties':      'penalty-rates',
-  'rostering':            'hours-of-work',
-  'ordinary-hours':       'hours-of-work',
-  'span-of-hours':        'hours-of-work',
-  'redundancy':           'termination',
-  'notice-of-termination':'termination',
-  'salary':               'wages',
-  'remuneration':         'wages',
-  'pay-rates':            'wages',
-}
-
-// followUpChips — computed from all aiSources entries.
-// Returns 0–3 chip strings. Suppresses any chip whose lowercased text
-// contains 2+ meaningful words that already appeared in a prior user turn.
-//
-// Topic detection: score FOLLOWUP_MAP keys by word overlap with words extracted
-// from every source clause slug. This avoids relying on URL path depth, which
-// varies between standard EBAs (3 levels) and nested EBAs like has-managers-admin
-// and mental-health (4 levels). The clause slug is always the last path segment.
-// e.g. /ebas/has-managers-admin/common-terms/69-public-holidays
-//   clause slug words → ["public", "holidays"]
-//   → scores "penalty-rates" key (contains "holiday" alias) highest
-const followUpChips = computed(() => {
-  if (aiLoading.value) return []
-  if (conversationHistory.value.length === 0) return []
-  if (!aiSources.value.length) return []
-
-  // ── Step 1: collect words from every source URL (all path segments + clause slug) ──
-  const sourceWords = new Set()
-  for (const src of aiSources.value) {
-    // Normalise: strip origin if present so both absolute and root-relative URLs
-    // produce the same path segments (e.g. https://example.com/ebas/... → /ebas/...)
-    let pathname = src.url
-    try { pathname = new URL(src.url, window.location.origin).pathname } catch { /* use as-is */ }
-    const cleanUrl = pathname.replace(/\.html$/, '').replace(/\/$/, '')
-    const segs     = cleanUrl.split('/').filter(Boolean)
-    for (const seg of segs) {
-      // Strip leading clause number prefix (e.g. "69-", "25a-") then split on hyphens
-      const words = seg.replace(/^\d+[a-z]?-/, '').split('-')
-      for (const w of words) {
-        if (w.length >= 3) sourceWords.add(w.toLowerCase())
-      }
-    }
-  }
-
-  // ── Step 2: score topic keys by word overlap ───────────────────────────────
-  // Pass A: FOLLOWUP_SLUG_ALIAS whole-slug matches (e.g. "annual-leave" → "leave")
-  let bestKey   = null
-  let bestScore = 0
-
-  for (const [aliasSlug, topicKey] of Object.entries(FOLLOWUP_SLUG_ALIAS)) {
-    const aliasWords = aliasSlug.split('-').filter(w => w.length >= 3)
-    const matches    = aliasWords.filter(w => sourceWords.has(w)).length
-    // Require all alias words to match (whole-slug match), score by specificity
-    if (matches === aliasWords.length && matches > bestScore) {
-      bestScore = matches
-      bestKey   = topicKey
-    }
-  }
-
-  // Pass B: score every FOLLOWUP_MAP key directly by word overlap
-  for (const key of Object.keys(FOLLOWUP_MAP)) {
-    const keyWords = key.split('-').filter(w => w.length >= 3)
-    const score    = keyWords.filter(w => sourceWords.has(w)).length
-    if (score > 0 && score > bestScore) { bestScore = score; bestKey = key }
-  }
-
-  if (!bestKey) return []
-  const chips = FOLLOWUP_MAP[bestKey]
-
-  // ── Step 3: Option C dedup filter ─────────────────────────────────────────
-  const askedWords = new Set()
-  for (const turn of conversationHistory.value) {
-    if (turn.role !== 'user') continue
-    const words = turn.content.toLowerCase().match(/[a-z]{4,}/g) ?? []
-    for (const w of words) askedWords.add(w)
-  }
-
-  const filtered = chips.filter(chip => {
-    const chipWords = chip.toLowerCase().match(/[a-z]{4,}/g) ?? []
-    const overlap   = chipWords.filter(w => askedWords.has(w)).length
-    return overlap < 2
-  })
-
-  return filtered.slice(0, 3)
-})
 
 // ─── Query rewrite dictionary (misspellings, abbreviations, synonyms) ─────────
 const SUGGESTION_REWRITES = [
@@ -1812,10 +1491,6 @@ function askBtnOpacity(len) {
   return (MIN_OPACITY + t * (1 - MIN_OPACITY)).toFixed(2)
 }
 
-const questionCharCount  = computed(() => questionText.value.trim().length)
-const situationCharCount = computed(() => situationText.value.trim().length)
-const draftCharCount     = computed(() => draftQuestion.value.trim().length)
-
 function buildSavedLabel() {
   const parts = []
   if (query.value.trim()) parts.push(`"${query.value.trim()}"`)
@@ -1958,43 +1633,6 @@ function toggleCompactResults()   { compactResults.value   = !compactResults.val
 function togglePreviewEnabled()   { previewEnabled.value   = !previewEnabled.value;   saveSetting(LOCAL_PREVIEW_KEY,   previewEnabled.value)   }
 function toggleAnalyticsEnabled() { analyticsEnabled.value = !analyticsEnabled.value; saveSetting(LOCAL_ANALYTICS_KEY, analyticsEnabled.value) }
 
-// ─── Per-turn AI answer copy ──────────────────────────────────────────────────
-// Copies the plain text of a single assistant turn to the clipboard.
-// Strips markdown syntax so the pasted result is clean prose.
-// Uses the same idle/success/error state pattern as CopyButton.vue.
-// State is stored directly on the turn object (turn.copied / turn.copyError)
-// so each button is independent — copying turn 1 does not affect turn 3.
-async function copyTurnText(turn, idx) {
-  // Strip common markdown syntax to produce clean plain text
-  let plain = turn.content || ''
-  plain = plain
-    .replace(/\*\*([^*]+)\*\*/g, '$1')   // bold
-    .replace(/\*([^*]+)\*/g, '$1')        // italic
-    .replace(/`([^`]+)`/g, '$1')          // inline code
-    .replace(/^#{1,6}\s+/gm, '')          // headings
-    .replace(/^[-*+]\s+/gm, '• ')         // unordered lists → bullet char
-    .replace(/^\d+\.\s+/gm, (m) => m)    // ordered lists — keep number
-    .replace(/^>\s?/gm, '')               // blockquotes
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links → label only
-    .replace(/\n{3,}/g, '\n\n')           // collapse excess blank lines
-    .trim()
-
-  try {
-    await navigator.clipboard.writeText(plain)
-    // Mark this specific turn as copied — Vue reactivity requires index assignment
-    conversationHistory.value[idx] = { ...conversationHistory.value[idx], copied: true, copyError: false }
-    setTimeout(() => {
-      conversationHistory.value[idx] = { ...conversationHistory.value[idx], copied: false }
-    }, 2500)
-  } catch (err) {
-    console.error('[SearchModal] copy turn failed:', err)
-    conversationHistory.value[idx] = { ...conversationHistory.value[idx], copyError: true, copied: false }
-    setTimeout(() => {
-      conversationHistory.value[idx] = { ...conversationHistory.value[idx], copyError: false }
-    }, 3000)
-  }
-}
-
 // ─── Markdown → HTML renderer ────────────────────────────────────────────────
 function renderMarkdown(md) {
   if (!md) return ''
@@ -2069,71 +1707,6 @@ function renderMarkdown(md) {
 //
 // Called once per assistant turn in submitAsk() — result stored as turn.hedging
 // so the template can key off it without re-running on every render.
-function detectHedging(md) {
-  if (!md) return false
-  const lower = md.toLowerCase()
-  // Each entry is tested as a simple substring — short phrases are deliberately
-  // chosen to be unambiguous in context. No word-boundary regex needed because
-  // these phrases cannot plausibly appear as part of an EBA clause citation.
-  const HEDGING_PHRASES = [
-    'may vary depending on',
-    'may vary based on',
-    'depends on your',
-    'depend on your',
-    'depending on your',
-    'recommend seeking',
-    'recommend consulting',
-    'seek advice',
-    'seek independent',
-    'seek legal',
-    'consult a lawyer',
-    'consult an employment',
-    'consult your',
-    'cannot confirm',
-    'not certain',
-    'it is unclear',
-    'may not apply',
-    'may differ',
-    'cannot determine',
-    'professional advice',
-    'employment relations advice',
-    'i am not able to',
-    'i cannot',
-    'unable to confirm',
-    'i would recommend verifying',
-    'recommend verifying',
-    'you should verify',
-    'you should check with',
-    'this is not legal advice',
-    // ── Worker retrieval failure templates ────────────────────────────────────
-    // These match the worker's own fixed error strings when it cannot route
-    // a question to a specific EBA or clause. These responses are never
-    // actionable and should always trigger the indicator.
-    'i could not identify',
-    'could not identify which',
-    'could not retrieve',
-    'i was unable to find',
-    'unable to find',
-    'unable to locate',
-    'i couldn\'t find',
-    'no information found',
-    'i don\'t have information',
-    'i do not have information',
-    'not enough information',
-    'please specify',
-    'please include the eba',
-    'try including the eba',
-    'i need more information',
-    'more information is needed',
-    'clarify which eba',
-    'specify which eba',
-    'subject to agreement between',
-    'would need to be agreed',
-    'by mutual agreement'
-  ]
-  return HEDGING_PHRASES.some(phrase => lower.includes(phrase))
-}
-
 // ─── Excerpt cleaner ─────────────────────────────────────────────────────────
 function cleanExcerpt(raw) {
   if (!raw) return ''
@@ -2389,13 +1962,7 @@ onMounted(() => {
   loadBookmarks()
   loadRecentlyViewed()
   loadHistoryOptIn()   // must run before the sessionStorage recent fallback below
-  loadSettings()       // reads all 6 preference keys; also primes activeTab
-  // Check whether the user has already dismissed the Ask AI intro card
-  try {
-    if (!localStorage.getItem(LOCAL_ASK_INTRO_KEY)) {
-      askAiIntroSeen.value = false
-    }
-  } catch { /* storage unavailable — treat as already seen */ }
+  loadSettings()       // reads display, privacy, and default EBA preference keys
   // Guard: when opted in, loadHistoryOptIn() already seeded recentSearches from
   // localStorage. Skip the sessionStorage read to avoid overwriting it.
   try {
@@ -2445,8 +2012,6 @@ function openFromExternal(e) {
 function openModal() {
   restoreEbaContext()   // must run before open.value = true so _pendingEbaFlash is set
                         // before watch(open) fires and checks it
-  // The search modal always opens to the Search tab. Ask AI is now in AskPanel.vue.
-  activeTab.value = 'search'
   // Guaranteed fallback: if the user opened the modal via Ctrl+K or the mobile
   // tap path (no pointerenter/focus pre-warm), initPagefind() starts now.
   // It deduplicates against any in-flight init from the hover/focus path.
@@ -2519,27 +2084,12 @@ const EBA_SHORTCUT_LIST = [
 ]
 
 function applyEbaShortcut(ebaName) {
-  // Toggle: if the shortcut EBA is already active everywhere, clear it; otherwise set it.
-  const alreadyActive =
-    selectedEba.value    === ebaName &&
-    questionEba.value    === ebaName &&
-    situationEba.value   === ebaName &&
-    draftEba.value       === ebaName
+  // Toggle: if the shortcut EBA is already active, clear it; otherwise set it.
+  const newValue = selectedEba.value === ebaName ? '' : ebaName
+  selectedEba.value = newValue
 
-  const newValue = alreadyActive ? '' : ebaName
-
-  // Search tab filter
-  selectedEba.value    = newValue
-
-  // Ask AI tab — all three mode dropdowns set simultaneously (Option B)
-  questionEba.value    = newValue
-  situationEba.value   = newValue
-  draftEba.value       = newValue
-
-  // If on the search tab and there is already a query, re-run search with the new filter
-  if (activeTab.value === 'search' && query.value.trim().length > 0) {
-    doSearch()
-  }
+  // If there is already a query, re-run search with the new filter
+  if (query.value.trim().length > 0) doSearch()
 
   // Brief flash on the EBA filter element so the user gets visual confirmation
   ebaFilterFlash.value = true
@@ -2607,132 +2157,6 @@ function close() {
   previewVisible.value    = false
   previewResult.value     = null
   closeInlineAnswer()
-}
-
-function switchTab(tab) {
-  activeTab.value           = tab
-  query.value               = ''
-  results.value             = []
-  fuzzyResults.value        = []
-  aiAnswer.value            = ''
-  aiSources.value           = []
-  aiError.value             = ''
-  conversationHistory.value = []
-  pendingContentHash        = null
-  askMode.value             = 'question'
-  externalQuery.value       = ''
-  questionText.value        = ''
-  questionEba.value         = ''
-  questionEmpType.value     = ''
-  situationText.value       = ''
-  situationEba.value        = ''
-  situationEmpType.value    = ''
-  draftEba.value            = ''
-  draftEmpType.value        = ''
-  draftQuestion.value       = ''
-  draftContext.value        = ''
-  lastAnswerWasDraft.value  = false
-  followUpText.value        = ''
-  pageContextBannerDismissed.value  = false
-  pageContextAccepted.value         = false
-  pageContextBannerSuppressed.value = false
-  pendingSourcePath                 = null
-  nextTick(() => inputRef.value?.focus())
-}
-
-// ─── Zero-result → Ask AI redirect ───────────────────────────────────────────
-// Converts the current search state into a natural-language question and
-// pre-populates the Ask AI "question" mode form, then switches to that tab.
-//
-// EBA resolution priority:
-//   1. selectedEba.value  — user set the dropdown explicitly
-//   2. operators.eba      — parseQuery already resolves eba:nm → full name;
-//                           no second EBA_SLUG_MAP lookup required
-// cleanQuery is used (all operators stripped) so the AI gets plain search terms.
-
-function buildAskQuestion(clean, ebaName) {
-  const terms = clean.trim() || query.value.trim()
-  if (!terms) return ''
-  const ebaFragment = ebaName ? `the ${ebaName} EBA` : 'the EBA'
-  return `What does ${ebaFragment} say about ${terms}?`
-}
-
-function redirectToAskAI() {
-  const { cleanQuery, operators } = parseQuery(query.value)
-  // operators.eba is already the full EBA name string (resolved by parseQuery)
-  const resolvedEba = selectedEba.value || operators.eba || ''
-  const questionStr = buildAskQuestion(cleanQuery, resolvedEba)
-
-  // switchTab resets all Ask AI fields — re-apply our values in the next tick
-  switchTab('ask')
-  nextTick(() => {
-    questionEba.value  = resolvedEba
-    questionText.value = questionStr
-    nextTick(() => document.getElementById('question-text')?.focus())
-  })
-}
-
-// ─── Ask mode switcher ────────────────────────────────────────────────────────
-function setAskMode(mode) {
-  askMode.value          = mode
-  questionText.value     = ''
-  questionEba.value      = ''
-  questionEmpType.value  = ''
-  situationText.value    = ''
-  situationEba.value     = ''
-  situationEmpType.value = ''
-  draftEba.value         = ''
-  draftEmpType.value     = ''
-  draftQuestion.value    = ''
-  draftContext.value     = ''
-}
-
-// ─── Page context banner handlers ─────────────────────────────────────────────
-// acceptPageContext: user clicked "Use this page".
-//   Seeds pendingSourcePath so submitAsk() sends it to the worker on the first
-//   turn. Also pre-fills EBA dropdowns for all three modes — only when they are
-//   currently empty so an explicit user selection is never overwritten.
-function acceptPageContext() {
-  pendingSourcePath = route.path.replace(/\/$/, '').replace(/\.html$/, '')
-  const eba = currentPageEba.value
-  if (eba) {
-    if (!questionEba.value)  questionEba.value  = eba
-    if (!situationEba.value) situationEba.value = eba
-    if (!draftEba.value)     draftEba.value     = eba
-  }
-  pageContextAccepted.value        = true
-  pageContextBannerDismissed.value = true   // collapses banner, shows active pill
-}
-
-// clearPageContext: user clicked × on the "context active" pill.
-//   Nulls pendingSourcePath and re-shows the banner so the user can reconsider.
-//   Does NOT clear EBA dropdowns — the user may have intentionally set them.
-function clearPageContext() {
-  pendingSourcePath                = null
-  pageContextAccepted.value        = false
-  pageContextBannerDismissed.value = false
-}
-
-// ─── Example prompt helpers ───────────────────────────────────────────────────
-// question mode — fills the questionText textarea and focuses it
-function useQuestionExample(text) {
-  if (!aiConfigured) return
-  questionText.value = text
-  nextTick(() => document.getElementById('question-text')?.focus())
-}
-
-// situation mode — fills situationText textarea and focuses it
-function useSituationExample(text) {
-  if (!aiConfigured) return
-  situationText.value = text
-  nextTick(() => document.getElementById('situation-text')?.focus())
-}
-
-// draft mode — fills draftQuestion input and focuses it
-function useDraftExample(text) {
-  if (!aiConfigured) return
-  draftQuestion.value = text
-  nextTick(() => document.getElementById('draft-question')?.focus())
 }
 
 // ─── Advanced search: EBA slug → full filter value map ───────────────────────
@@ -2830,7 +2254,6 @@ function parseQuery(raw) {
 // Used by the pills row in the template. Does NOT re-run search — doSearch()
 // reads the same parser output when it fires.
 const parsedOperators = computed(() => {
-  if (activeTab.value !== 'search') return { hasPills: false }
   return parseQuery(query.value).operators
 })
 
@@ -2858,7 +2281,6 @@ function opPillEbaStyle(resolvedEbaName) {
 //   slug as the primary label, full EBA name as secondary text.
 // For topic: — items is the filtered topicList array (plain strings).
 const operatorHint = computed(() => {
-  if (activeTab.value !== 'search') return null
   const raw   = query.value
   if (!raw) return null
 
@@ -2919,7 +2341,6 @@ const CHEATSHEET_OPS = [
 // and the last whitespace-delimited token is exactly ':'. Gives a one-click
 // insert surface for all five operators without requiring any documentation.
 const operatorCheatsheet = computed(() => {
-  if (activeTab.value !== 'search') return false
   if (operatorHint.value !== null)  return false   // specific hint takes priority
   const raw = query.value
   if (!raw) return false
@@ -3324,233 +2745,6 @@ function clearFilters() {
   doSearch()
 }
 
-async function submitAsk() {
-  // ── Mode-aware guard ──────────────────────────────────────────────────────
-  if (!aiConfigured || aiLoading.value) return
-
-  // ── Short-circuit: AskThisPage pre-built query bypasses all mode logic ────
-  if (_externalAskQuery) {
-    const eq = _externalAskQuery
-    _externalAskQuery = ''
-    lastUserDisplay.value = eq
-    lastAnswerWasDraft.value = false
-    const isFirstTurn   = conversationHistory.value.length === 0
-    const hashToSend    = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
-    const historyToSend = conversationHistory.value.slice(-(MAX_HISTORY_TURNS * 2))
-    aiLoading.value = true
-    aiError.value   = ''
-    try {
-      const res = await fetch(AI_WORKER_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          question:    eq,
-          contentHash: hashToSend,
-          sourcePath:  pendingSourcePath ?? undefined,   // ← new
-          history:     historyToSend.length > 0 ? historyToSend : undefined,
-        }),
-      })
-      if (!res.ok) throw new Error(`Worker returned ${res.status}`)
-      const data = await res.json()
-      const rawAnswer = data.answer ?? 'No answer returned.'
-      conversationHistory.value = [
-        ...conversationHistory.value,
-        { role: 'user',      content: eq },
-        { role: 'assistant', content: rawAnswer, hedging: detectHedging(rawAnswer) },
-      ].slice(-(MAX_HISTORY_TURNS * 2))
-      aiSources.value = (data.sources ?? []).map(url => {
-        const segment = url.split('/').pop().replace('.html', '')
-        const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
-        const title   = match
-          ? `Clause ${match[1]}: ${match[2].replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`
-          : segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
-        return { url, title }
-      })
-      logSearch('ask', eq, '', '', null)
-      await nextTick()
-      if (conversationBodyRef.value)
-        conversationBodyRef.value.scrollTop = conversationBodyRef.value.scrollHeight
-    } catch (err) {
-      aiError.value = err.message ?? 'Unknown error. Please try again.'
-    }
-    aiLoading.value    = false
-    pendingContentHash = null
-    pendingSourcePath  = null
-    return
-  }
-
-  if (askMode.value === 'question'  && questionText.value.trim().length < 5) return
-  if (askMode.value === 'situation' && situationText.value.trim().length < 10) return
-  if (askMode.value === 'draft'     && (draftEba.value === '' || draftEmpType.value === '' || draftQuestion.value.trim().length < 5)) return
-
-  // ── Build the question sent to the Worker ─────────────────────────────────
-  let question
-  if (askMode.value === 'situation') {
-    let q = `I am an HR Advisor. I need to understand what EBA clause applies to the following situation:\n\n${situationText.value.trim()}`
-    if (situationEba.value)
-      q += `\n\nThe employee is covered by the ${situationEba.value}.`
-    if (situationEmpType.value)
-      q += ` They are a ${situationEmpType.value.toLowerCase()} employee.`
-    q += `\n\nPlease identify the most relevant clause, explain what it means, and summarise what the employee may be entitled to.`
-    question = q
-  } else if (askMode.value === 'draft') {
-    let q = `I am an HR Advisor. Please draft a plain-language response I can send directly to the following employee.`
-    q += `\n\nEmployee details:\n- EBA: ${draftEba.value}\n- Employment type: ${draftEmpType.value}`
-    if (draftContext.value.trim())
-      q += `\n- Additional context: ${draftContext.value.trim()}`
-    q += `\n\nThe employee has asked:\n"${draftQuestion.value.trim()}"`
-    q += `\n\nWrite the response addressed directly to the employee using "you" and "your". Cite the relevant clause number. Keep it to 3–5 sentences. Do not include legal disclaimers or caveats in the draft itself — those will be added separately.`
-    question = q
-  } else {
-    // question mode: build structured prompt including optional EBA and employment type
-    let q = questionText.value.trim()
-    if (questionEba.value || questionEmpType.value) {
-      q += '\n\nContext:'
-      if (questionEba.value)     q += `\n- EBA: ${questionEba.value}`
-      if (questionEmpType.value) q += `\n- Employment type: ${questionEmpType.value}`
-    }
-    question = q
-  }
-
-  // ── Set display label (short human-readable version for conversation bubble) ──
-  if (askMode.value === 'situation') {
-    lastUserDisplay.value = situationText.value.trim()
-  } else if (askMode.value === 'draft') {
-    lastUserDisplay.value = draftQuestion.value.trim()
-  } else {
-    lastUserDisplay.value = questionText.value.trim()
-  }
-
-  // ── Track draft mode for extra disclaimer ─────────────────────────────────
-  lastAnswerWasDraft.value = (askMode.value === 'draft')
-
-  const isFirstTurn   = conversationHistory.value.length === 0
-  const hashToSend    = isFirstTurn ? (pendingContentHash ?? undefined) : undefined
-  const historyToSend = conversationHistory.value.slice(-(MAX_HISTORY_TURNS * 2))
-
-  aiLoading.value = true
-  aiAnswer.value  = ''
-  aiError.value   = ''
-  query.value     = ''
-
-  try {
-    const res = await fetch(AI_WORKER_URL, {
-      method:  'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        question,
-        contentHash: hashToSend,
-        sourcePath:  pendingSourcePath ?? undefined,
-        history:     historyToSend.length > 0 ? historyToSend : undefined,
-      }),
-    })
-    if (!res.ok) throw new Error(`Worker returned ${res.status}`)
-    const data = await res.json()
-
-    const rawAnswer = data.answer ?? 'No answer returned.'
-
-    conversationHistory.value = [
-      ...conversationHistory.value,
-      { role: 'user',      content: lastUserDisplay.value },
-      { role: 'assistant', content: rawAnswer, hedging: detectHedging(rawAnswer) },
-    ].slice(-(MAX_HISTORY_TURNS * 2))
-
-    aiSources.value = (data.sources ?? []).map(url => {
-      const segment = url.split('/').pop().replace('.html', '')
-      const match   = segment.match(/^(\d+[a-z]?)-(.+)$/)
-      const title   = match
-        ? `Clause ${match[1]}: ${match[2].replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`
-        : segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
-      return { url, title }
-    })
-
-    logSearch('ask', question, '', '', null)
-
-    await nextTick()
-    if (conversationBodyRef.value) {
-      conversationBodyRef.value.scrollTop = conversationBodyRef.value.scrollHeight
-    }
-  } catch (err) {
-    aiError.value = err.message ?? 'Unknown error. Please try again.'
-  }
-
-  aiLoading.value    = false
-  pendingContentHash = null
-  pendingSourcePath  = null
-}
-
-function resetConversation() {
-  conversationHistory.value = []
-  aiAnswer.value            = ''
-  aiSources.value           = []
-  aiError.value             = ''
-  pendingContentHash        = null
-  pendingSourcePath         = null
-  askMode.value             = 'question'
-  externalQuery.value       = ''
-  questionText.value        = ''
-  questionEba.value         = ''
-  questionEmpType.value     = ''
-  situationText.value       = ''
-  situationEba.value        = ''
-  situationEmpType.value    = ''
-  draftEba.value            = ''
-  draftEmpType.value        = ''
-  draftQuestion.value       = ''
-  draftContext.value        = ''
-  lastAnswerWasDraft.value  = false
-  followUpText.value        = ''
-  // pageContextBannerDismissed is intentionally NOT reset here.
-  // The user has already been offered context for this modal open — don't re-offer it.
-  pageContextAccepted.value         = false
-  pageContextBannerSuppressed.value = false
-  nextTick(() => inputRef.value?.focus())
-}
-
-// ─── Follow-up chip handler ───────────────────────────────────────────────────
-// Populates the follow-up input with the chip text and focuses it.
-// The user can edit the pre-filled text before submitting, or just press Enter.
-function fireFollowUp(chipText) {
-  if (aiLoading.value) return
-  followUpText.value = chipText
-  nextTick(() => {
-    followUpRef.value?.focus()
-    autoResizeFollowUp()
-  })
-}
-
-// ─── Follow-up input submit ───────────────────────────────────────────────────
-// Reads followUpText, clears the input, then routes through question mode
-// so the existing conversation history is preserved (Option A).
-function submitFollowUp() {
-  const text = followUpText.value.trim()
-  if (!text || text.length < 3 || aiLoading.value) return
-  const activeEba = questionEba.value || situationEba.value || draftEba.value || ''
-  followUpText.value    = ''
-  // Reset textarea height
-  if (followUpRef.value) { followUpRef.value.style.height = 'auto' }
-  askMode.value         = 'question'
-  questionText.value    = text
-  questionEba.value     = activeEba
-  questionEmpType.value = ''
-  situationText.value    = ''
-  situationEba.value     = ''
-  situationEmpType.value = ''
-  draftEba.value         = ''
-  draftEmpType.value     = ''
-  draftQuestion.value    = ''
-  draftContext.value     = ''
-  lastAnswerWasDraft.value = false
-  nextTick(() => submitAsk())
-}
-
-// ─── Auto-resize the follow-up textarea as the user types ─────────────────────
-function autoResizeFollowUp() {
-  const el = followUpRef.value
-  if (!el) return
-  el.style.height = 'auto'
-  el.style.height = Math.min(el.scrollHeight, 120) + 'px'
-}
 </script>
 
 <style scoped>
@@ -3629,67 +2823,6 @@ function autoResizeFollowUp() {
 }
 .close-btn:hover { color: var(--vp-c-text-1); }
 
-/* ── Tab bar ── */
-.search-tab-bar {
-  display: flex; border-bottom: 1px solid var(--vp-c-divider);
-  background: var(--vp-c-bg-soft); padding: 0 1rem; gap: 0;
-}
-.search-tab {
-  display: flex; align-items: center; gap: 0.35rem;
-  padding: 0.55rem 0.85rem; font-size: 0.8rem; font-weight: 500;
-  color: var(--vp-c-text-2); border: none; background: none; cursor: pointer;
-  border-bottom: 2px solid transparent; margin-bottom: -1px;
-  transition: color 0.15s, border-color 0.15s;
-}
-.search-tab:hover { color: var(--vp-c-text-1); }
-.search-tab.active { color: var(--vp-c-brand-1); border-bottom-color: var(--vp-c-brand-1); font-weight: 600; }
-.tab-badge {
-  font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
-  background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1);
-  padding: 0.05rem 0.35rem; border-radius: 999px;
-}
-
-/* ── Ask AI tab animated sparkles icon ── */
-.ask-tab-icon { flex-shrink: 0; }
-
-/* Large sparkle: fills with colour on active tab, pulses continuously */
-.ask-tab-sparkle {
-  fill: none;
-  transition: fill 0.2s;
-}
-.search-tab.active .ask-tab-sparkle {
-  fill: currentColor;
-  animation: sparkle-pulse 2.4s ease-in-out infinite;
-}
-.search-tab:not(.active):hover .ask-tab-sparkle {
-  fill: currentColor;
-  opacity: 0.5;
-}
-
-/* Small star lines: blink in and out on a loop */
-.ask-tab-star {
-  animation: star-blink 2.4s ease-in-out infinite;
-}
-.ask-tab-star--delayed {
-  animation-delay: 1.2s;
-}
-
-@keyframes sparkle-pulse {
-  0%, 100% { opacity: 1;   transform: scale(1);    }
-  50%       { opacity: 0.7; transform: scale(0.92); }
-}
-
-@keyframes star-blink {
-  0%, 15%, 85%, 100% { opacity: 1; }
-  40%, 60%           { opacity: 0; }
-}
-
-
-
-
-
-
-
 /* ── Filters ── */
 .search-filters {
   display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: flex-end;
@@ -3724,60 +2857,6 @@ function autoResizeFollowUp() {
 /* ── Body ── */
 .search-body { flex: 1; overflow-y: auto; padding: 0.75rem 1rem; }
 .search-status { text-align: center; color: var(--vp-c-text-2); padding: 2rem 0; }
-/* ── Ask AI zero-result CTA ──────────────────────────────────────────────────── */
-.ask-ai-cta { margin-top: 1rem; }
-
-/* Primary: total dead-end — fuzzy also returned nothing */
-.ask-ai-cta--primary {
-  padding: 1rem 1.1rem;
-  border: 1px solid var(--vp-c-brand-1);
-  border-radius: 10px;
-  background: var(--vp-c-brand-soft);
-  display: flex;
-  flex-direction: column;
-  gap: 0.65rem;
-}
-.ask-ai-cta-body {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-}
-.ask-ai-cta-icon { color: var(--vp-c-brand-1); margin-bottom: 0.15rem; }
-.ask-ai-cta-heading { font-size: 0.85rem; font-weight: 700; color: var(--vp-c-text-1); line-height: 1.3; }
-.ask-ai-cta-sub    { font-size: 0.78rem; color: var(--vp-c-text-2); line-height: 1.45; }
-
-.ask-ai-cta-btn--primary {
-  display: flex; align-items: center; justify-content: center; gap: 0.45rem;
-  width: 100%; padding: 0.55rem 0.9rem;
-  background: var(--vp-c-brand-1); color: #fff;
-  font-size: 0.82rem; font-weight: 600;
-  border: none; border-radius: 7px; cursor: pointer;
-  text-align: center; line-height: 1.35;
-  transition: opacity 0.15s, transform 0.1s;
-}
-.ask-ai-cta-btn--primary:hover  { opacity: 0.88; }
-.ask-ai-cta-btn--primary:active { transform: scale(0.98); }
-
-/* Secondary: fuzzy found something — quieter, shown below results */
-.ask-ai-cta--secondary { margin-top: 0.75rem; }
-.ask-ai-cta-btn--secondary {
-  display: flex; align-items: center; gap: 0.4rem;
-  width: 100%; padding: 0.45rem 0.75rem;
-  background: transparent; color: var(--vp-c-brand-1);
-  font-size: 0.78rem; font-weight: 500;
-  border: 1px solid var(--vp-c-brand-1); border-radius: 7px;
-  cursor: pointer; line-height: 1.35;
-  transition: background 0.15s, color 0.15s;
-  opacity: 0.85;
-}
-.ask-ai-cta-btn--secondary:hover { background: var(--vp-c-brand-soft); opacity: 1; }
-.ask-ai-cta-btn--secondary svg:first-child { flex-shrink: 0; opacity: 0.75; }
-.ask-ai-cta-btn--secondary svg:last-child  { flex-shrink: 0; margin-left: auto; }
-.inline-tab-link {
-  background: none; border: none; padding: 0;
-  color: var(--vp-c-brand-1); font-size: inherit; cursor: pointer; text-decoration: underline;
-}
-
 /* ── Fuzzy suggestion ── */
 .fuzzy-suggestion { font-size: 0.82rem; color: var(--vp-c-text-3); margin-top: 0.75rem; margin-bottom: 0.5rem; }
 .fuzzy-results { opacity: 0.92; }
@@ -4244,1266 +3323,6 @@ function autoResizeFollowUp() {
 /* ── Preview transition ── */
 .preview-enter-active, .preview-leave-active { transition: opacity 0.15s ease, transform 0.15s ease; }
 .preview-enter-from, .preview-leave-to { opacity: 0; transform: translateX(8px); }
-
-/* ── Per-turn AI answer copy button ── */
-/* Sits in the bottom-right of each completed assistant turn.
-   Hidden by default on desktop (hover-reveal via .conv-turn--assistant:hover).
-   Always visible on touch devices (no reliable hover). */
-.conv-copy-wrap {
-  display: flex;
-  justify-content: flex-end;
-  margin-top: 0.5rem;
-  /* On desktop the button is opacity-0 until the parent turn is hovered.
-     The transition is on the button itself so it fades in smoothly. */
-}
-
-.conv-copy-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.75rem;
-  height: 1.75rem;
-  padding: 0;
-  color: var(--vp-c-text-3);
-  background: var(--vp-c-bg);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
-  cursor: pointer;
-  /* Fade in on hover — starts transparent on desktop */
-  opacity: 0;
-  transition:
-    opacity      150ms ease,
-    background   150ms ease,
-    color        150ms ease,
-    border-color 150ms ease,
-    transform    150ms ease;
-}
-
-/* Reveal the button when the parent assistant turn is hovered or
-   when the button itself receives keyboard focus */
-.conv-turn--assistant:hover .conv-copy-btn,
-.conv-copy-btn:focus-visible {
-  opacity: 1;
-}
-
-.conv-copy-btn:hover {
-  opacity: 1;
-  background: var(--vp-c-bg-mute);
-  color: var(--vp-c-text-1);
-  border-color: var(--vp-c-brand);
-}
-
-.conv-copy-btn:active {
-  transform: scale(0.92);
-}
-
-/* Success state — green, matches CopyButton.vue exactly */
-.conv-copy-btn--success {
-  opacity: 1 !important;
-  color:        #22863a !important;
-  border-color: #34d058 !important;
-  background:   #f0fff4 !important;
-}
-
-/* Tick draws in via stroke-dashoffset animation — same as CopyButton.vue */
-.conv-copy-tick {
-  stroke-dasharray: 30;
-  stroke-dashoffset: 30;
-  animation: conv-draw-tick 250ms ease forwards;
-}
-
-@keyframes conv-draw-tick {
-  to { stroke-dashoffset: 0; }
-}
-
-/* Error state — red, matches CopyButton.vue exactly */
-.conv-copy-btn--error {
-  opacity: 1 !important;
-  color:        #cb2431 !important;
-  border-color: #f97583 !important;
-  background:   #fff5f5 !important;
-}
-
-/* Mobile: always show the button — touch devices have no hover state */
-@media (hover: none) {
-  .conv-copy-btn {
-    opacity: 1;
-  }
-}
-
-/* ── Conversation thread ── */
-.conversation-thread {
-  display:        flex;
-  flex-direction: column;
-  gap:            0;
-  max-height:     420px;
-  overflow-y:     auto;
-  border:         1px solid var(--vp-c-divider);
-  border-radius:  8px;
-  background:     var(--vp-c-bg-soft);
-  scroll-behavior: smooth;
-}
-
-/* Individual turn bubble */
-.conv-turn {
-  padding:       0.85rem 1rem;
-  border-bottom: 1px solid var(--vp-c-divider);
-}
-.conv-turn:last-child { border-bottom: none; }
-
-.conv-turn--user { background: var(--vp-c-bg); }
-.conv-turn--assistant { background: var(--vp-c-bg-soft); }
-.conv-turn--loading { color: var(--vp-c-text-2); font-size: 0.875rem; }
-
-/* Small "You" / "EBA Assistant" label above each turn */
-.conv-label {
-  display:       block;
-  font-size:     0.68rem;
-  font-weight:   700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color:         var(--vp-c-text-3);
-  margin-bottom: 0.35rem;
-}
-.conv-turn--user .conv-label { color: var(--vp-c-brand-1); }
-
-/* ── Confidence indicator: hedging turns ── */
-/* Amber left border signals the entire turn requires closer scrutiny.
-   Uses a warm amber palette (F59E0B / FEF3C7) distinct from danger red
-   and from the brand purple — intentional: this is a caution, not an error. */
-.conv-turn--hedging {
-  border-left: 3px solid #F59E0B;
-  padding-left: calc(1rem - 3px); /* compensate for the added border width */
-}
-
-/* "· Verify carefully" inline suffix on the conv-label line */
-.hedging-label {
-  color: #D97706;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  /* Inherits font-size / text-transform / uppercase from .conv-label */
-}
-
-/* Callout block — amber banner rendered before the answer body */
-.hedging-callout {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.5rem;
-  margin-bottom: 0.65rem;
-  padding: 0.55rem 0.7rem;
-  background: #FEF3C7;
-  border: 1px solid #FDE68A;
-  border-radius: 6px;
-  font-size: 0.78rem;
-  line-height: 1.55;
-  color: #92400E;
-}
-.dark .hedging-callout {
-  background: oklch(0.32 0.06 75);
-  border-color: oklch(0.45 0.1 75);
-  color: #FDE68A;
-}
-.hedging-callout-icon {
-  flex-shrink: 0;
-  margin-top: 1px;
-  color: #D97706;
-}
-.dark .hedging-callout-icon {
-  color: #FCD34D;
-}
-
-/* The user's question text */
-.conv-user-text {
-  margin: 0; font-size: 0.875rem;
-  color: var(--vp-c-text-1); font-weight: 500; line-height: 1.55;
-}
-
-/* "New conversation" reset row */
-.conv-reset-row { display: flex; justify-content: flex-start; }
-.conv-reset-btn {
-  display: inline-flex; align-items: center; gap: 0.35rem;
-  padding: 0.3rem 0.7rem; font-size: 0.78rem; font-weight: 600;
-  color: var(--vp-c-text-2); background: transparent;
-  border: 1px solid var(--vp-c-divider); border-radius: 6px;
-  cursor: pointer; transition: color 0.15s, border-color 0.15s, background 0.15s;
-}
-.conv-reset-btn:hover {
-  color: var(--vp-c-brand-1); border-color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft);
-}
-
-/* ── Ask AI tab ── */
-.ask-body { display: flex; flex-direction: column; gap: 1rem; }
-.ask-input-row { display: flex; justify-content: flex-end; padding-top: 0.25rem; }
-
-/* Base button — brand purple (question mode default) */
-.ask-btn {
-  display: flex; align-items: center; gap: 0.4rem;
-  padding: 0.45rem 1.1rem; background: var(--vp-c-brand-1); color: #fff;
-  border: none; border-radius: 6px; font-size: 0.85rem; font-weight: 600;
-  cursor: pointer; transition: background 0.2s, box-shadow 0.2s, opacity 0.2s;
-}
-.ask-btn:hover:not(:disabled) { background: var(--vp-c-brand-2); }
-.ask-btn:disabled { opacity: 0.45; cursor: not-allowed; }
-
-/* ────────────────────────────────────────────────────────────────────────────
-   MODE COLOUR THEMING
-   Driven by data-ask-mode attribute on .ask-body.
-   situation → cyan  #0891B2  (calm, analytical, distinct from brand)
-   draft     → rose  #D21C62  (brand gradient endpoint, action-oriented)
-   question  → brand purple (default, no override needed)
-──────────────────────────────────────────────────────────────────────────── */
-
-.ai-not-configured {
-  text-align: center; color: var(--vp-c-text-2); padding: 2.5rem 1rem;
-  display: flex; flex-direction: column; align-items: center; gap: 0.6rem;
-}
-.ai-not-configured svg { color: var(--vp-c-text-3); }
-.ai-not-configured p { margin: 0; font-size: 0.875rem; }
-.ai-not-configured strong { color: var(--vp-c-text-1); }
-.ai-loading { text-align: center; color: var(--vp-c-text-2); padding: 2rem 0; font-size: 0.875rem; }
-.ai-error { padding: 1rem; border-radius: 8px; background: var(--vp-c-danger-soft); color: var(--vp-c-danger-1); font-size: 0.875rem; }
-.ai-answer { display: flex; flex-direction: column; gap: 0.75rem; }
-.ai-answer-body { font-size: 0.9rem; line-height: 1.7; color: var(--vp-c-text-1); }
-.ai-answer-body h2,
-.ai-answer-body h3,
-.ai-answer-body h4 {
-  font-size: 0.85rem; font-weight: 700; color: var(--vp-c-text-1);
-  margin: 1rem 0 0.25rem; text-transform: uppercase; letter-spacing: 0.04em;
-}
-.ai-answer-body p { margin: 0 0 0.5rem; }
-.ai-answer-body p:last-child { margin-bottom: 0; }
-.ai-answer-body p.ai-section {
-  margin-top: 1rem; padding-top: 0.75rem; border-top: 1px solid var(--vp-c-divider);
-}
-.ai-answer-body p.ai-section:first-child { margin-top: 0; padding-top: 0; border-top: none; }
-.ai-answer-body strong { font-weight: 650; color: var(--vp-c-text-1); }
-.ai-answer-body em { font-style: italic; color: var(--vp-c-text-2); }
-.ai-answer-body code {
-  font-family: var(--vp-font-family-mono, monospace); font-size: 0.8rem;
-  background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider);
-  border-radius: 4px; padding: 0.1em 0.35em;
-}
-.ai-answer-body ol, .ai-answer-body ul { margin: 0.4rem 0 0.65rem 1.25rem; padding: 0; }
-.ai-answer-body li { margin-bottom: 0.3rem; line-height: 1.6; }
-.ai-answer-body blockquote {
-  margin: 0.65rem 0; padding: 0.5rem 0.75rem;
-  border-left: 3px solid var(--vp-c-brand); background: var(--vp-c-bg-soft);
-  border-radius: 0 6px 6px 0; font-size: 0.875rem; color: var(--vp-c-text-2);
-}
-.ai-answer-body hr { border: none; border-top: 1px solid var(--vp-c-divider); margin: 0.75rem 0; }
-.ai-sources { display: flex; flex-direction: column; gap: 0.3rem; }
-.ai-sources-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--vp-c-text-3); margin: 0; }
-.ai-source-link { font-size: 0.82rem; color: var(--vp-c-brand-1); text-decoration: underline; text-underline-offset: 2px; }
-.ai-source-link:hover { color: var(--vp-c-brand-2); }
-
-/* ── Follow-up question chips ── */
-.followup-chips {
-  display: flex;
-  flex-direction: column;
-  gap: 0.45rem;
-  margin-top: 0.75rem;
-  padding-top: 0.65rem;
-  border-top: 1px solid var(--vp-c-divider);
-}
-.followup-chips-label {
-  font-size: 0.68rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color: var(--vp-c-text-3);
-}
-.followup-chips-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-}
-.followup-chip {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.3rem 0.7rem;
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg);
-  border: 1px solid var(--vp-c-brand-1);
-  border-radius: 999px;
-  cursor: pointer;
-  line-height: 1.4;
-  text-align: left;
-  transition: background 0.14s, color 0.14s, border-color 0.14s, box-shadow 0.14s;
-}
-.followup-chip:hover {
-  background: var(--vp-c-brand-soft);
-  border-color: var(--vp-c-brand-2);
-  color: var(--vp-c-brand-2);
-  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
-}
-.followup-chip:active {
-  transform: scale(0.97);
-}
-/* On touch devices, always show at full opacity — no hover state available */
-@media (hover: none) {
-  .followup-chip { opacity: 1; }
-}
-
-/* ── Follow-up input row ── */
-.followup-input-row {
-  display: flex;
-  align-items: flex-end;
-  gap: 0.5rem;
-  margin-top: 0.75rem;
-  padding: 0.6rem 0.75rem;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  transition: border-color 0.15s, box-shadow 0.15s;
-}
-.followup-input-row:focus-within {
-  border-color: var(--vp-c-brand);
-  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
-}
-.followup-input {
-  flex: 1;
-  min-width: 0;
-  border: none;
-  background: transparent;
-  font-size: 0.875rem;
-  font-family: inherit;
-  color: var(--vp-c-text-1);
-  outline: none;
-  resize: none;
-  line-height: 1.5;
-  min-height: 4.5rem;
-  max-height: 180px;
-  overflow-y: auto;
-  padding-top: 0.25rem;
-}
-.followup-input::placeholder { color: var(--vp-c-text-3); }
-.followup-send-btn {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 30px;
-  height: 30px;
-  padding: 0;
-  border: none;
-  border-radius: 6px;
-  background: var(--vp-c-brand-1);
-  color: #fff;
-  cursor: pointer;
-  transition: background 0.15s, transform 0.1s;
-}
-.followup-send-btn:hover:not(:disabled) { background: var(--vp-c-brand-2); }
-.followup-send-btn:active:not(:disabled) { transform: scale(0.92); }
-.followup-send-btn:disabled { opacity: 0.35; cursor: not-allowed; }
-.ai-disclaimer { font-size: 0.75rem; color: var(--vp-c-text-3); margin: 0; line-height: 1.5; }
-.ask-hint { color: var(--vp-c-text-2); font-size: 0.875rem; }
-.ask-hint p { margin: 0 0 0.6rem; }
-.ask-examples { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.4rem; }
-.ask-examples li {
-  padding: 0.6rem 0.85rem; background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider); border-radius: 6px; cursor: pointer;
-  transition: border-color 0.15s, background 0.15s; color: var(--vp-c-brand-1); font-style: italic;
-}
-.ask-examples li:hover { border-color: var(--vp-c-brand-1); background: var(--vp-c-bg-elv); }
-.ask-example-preview { cursor: default; opacity: 0.6; }
-.ask-example-preview:hover { border-color: var(--vp-c-divider) !important; background: var(--vp-c-bg-soft) !important; }
-
-/* ── Loading dots ── */
-.loading-dots span { animation: blink 1.2s infinite; }
-.loading-dots span:nth-child(2) { animation-delay: 0.2s; }
-.loading-dots span:nth-child(3) { animation-delay: 0.4s; }
-@keyframes blink { 0%, 80%, 100% { opacity: 0; } 40% { opacity: 1; } }
-
-/* ── Smart suggestions panel ── */
-.suggestions-panel {
-  margin: 0.75rem 0 0.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-}
-.suggestions-panel--inline {
-  margin-bottom: 0.75rem;
-}
-.suggestions-heading {
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color: var(--vp-c-text-3);
-  margin: 0 0 0.2rem;
-}
-.suggestion-card {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  width: 100%;
-  padding: 0.38rem 0.6rem;
-  background: var(--vp-c-bg);
-  border: 1px solid var(--vp-c-divider);
-  border-left-width: 3px;
-  border-radius: 6px;
-  cursor: pointer;
-  text-align: left;
-  transition: background 0.13s, border-color 0.13s;
-}
-.suggestion-card:hover {
-  background: var(--vp-c-bg-soft);
-}
-.suggestion-card--eba  { border-left-color: var(--vp-c-brand-1); }
-.suggestion-card--topic { border-left-color: #7C3AED; }
-.suggestion-card--rewrite { border-left-color: #0891B2; }
-.suggestion-card-icon {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  color: var(--vp-c-text-3);
-}
-.suggestion-card--eba    .suggestion-card-icon { color: var(--vp-c-brand-1); }
-.suggestion-card--topic  .suggestion-card-icon { color: #7C3AED; }
-.suggestion-card--rewrite .suggestion-card-icon { color: #0891B2; }
-.suggestion-card-text {
-  flex: 1;
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.1rem;
-}
-.suggestion-card-label {
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: var(--vp-c-text-1);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.suggestion-card-sublabel {
-  font-size: 0.72rem;
-  color: var(--vp-c-text-3);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.suggestion-card-arrow {
-  flex-shrink: 0;
-  color: var(--vp-c-text-3);
-  transition: transform 0.13s;
-}
-.suggestion-card:hover .suggestion-card-arrow {
-  transform: translateX(3px);
-  color: var(--vp-c-text-2);
-}
-
-/* ── EBA filter flash — triggered by Alt+digit shortcut and EBA context restore ── */
-@keyframes eba-flash {
-  0%   { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
-  30%  { box-shadow: 0 0 0 4px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
-  70%  { box-shadow: 0 0 0 4px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
-  100% { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-divider); }
-}
-.eba-filter-flash {
-  animation: eba-flash 1.2s ease forwards;
-}
-
-/* ── Modal transition (desktop) ── */
-.modal-enter-active, .modal-leave-active { transition: opacity 0.18s ease; }
-.modal-enter-active .search-modal, .modal-leave-active .search-modal { transition: transform 0.18s ease, opacity 0.18s ease; }
-.modal-enter-from, .modal-leave-to { opacity: 0; }
-.modal-enter-from .search-modal, .modal-leave-to .search-modal { transform: translateY(-8px); opacity: 0; }
-
-/* ── Sheet transition (mobile) ── */
-.sheet-enter-active, .sheet-leave-active { transition: opacity 0.22s ease; }
-.sheet-enter-active .search-modal--sheet, .sheet-leave-active .search-modal--sheet { transition: transform 0.28s cubic-bezier(0.32, 0.72, 0, 1); }
-.sheet-enter-from, .sheet-leave-to { opacity: 0; }
-.sheet-enter-from .search-modal--sheet { transform: translateY(100%); }
-.sheet-leave-to .search-modal--sheet   { transform: translateY(100%); }
-
-/* ── Mobile bottom sheet layout ── */
-@media (max-width: 767px) {
-  .search-overlay--sheet {
-    align-items: flex-end;
-    padding-top: 0;
-  }
-
-  .search-modal--sheet {
-    width: 100%;
-    max-width: 100%;
-    /* maxHeight bound reactively via :style; 85dvh is the CSS fallback
-       for the initial render frame before viewportHeight is read. */
-    max-height: 85dvh;
-    border-radius: 16px 16px 0 0;
-    border-bottom: none;
-    box-shadow: 0 -4px 32px rgba(0, 0, 0, 0.22);
-    /* Safe area inset for iOS home indicator */
-    padding-bottom: env(safe-area-inset-bottom);
-    /* Prevent scroll chaining to the page behind the sheet */
-    overscroll-behavior: contain;
-  }
-
-  /* Drag handle pill */
-  .sheet-handle {
-    flex-shrink: 0;
-    width: 40px;
-    height: 4px;
-    background: var(--vp-c-divider);
-    border-radius: 999px;
-    margin: 10px auto 6px;
-  }
-
-  /* Hide Esc close button text on mobile — replaced by a close button feel via the handle */
-  .close-btn {
-    display: none;
-  }
-
-  /* Ensure search body scrolls correctly with momentum on iOS */
-  .search-body {
-    -webkit-overflow-scrolling: touch;
-    overscroll-behavior: contain;
-  }
-
-  /* Prevent preview pane from appearing (belt-and-suspenders; JS already guards this) */
-  .preview-pane { display: none !important; }
-}
-
-/* ── Operator pills row ── */
-.operator-pills-row {
-  display: flex; align-items: center; flex-wrap: wrap; gap: 0.4rem;
-  padding: 0.45rem 1rem;
-  background: var(--vp-c-bg-soft);
-  border-bottom: 1px solid var(--vp-c-divider);
-  /* Animate in/out when v-if toggles — VitePress uses v-show internally for
-     some transitions but v-if here is fine; the bar appears/disappears quickly
-     enough that a 150ms fade is the right level of subtlety. */
-  animation: pills-row-in 0.15s ease;
-}
-@keyframes pills-row-in {
-  from { opacity: 0; transform: translateY(-4px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
-.op-pills-label {
-  font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.07em; color: var(--vp-c-text-3); flex-shrink: 0;
-}
-.op-pill {
-  display: inline-flex; align-items: center; gap: 0.3rem;
-  padding: 0.2rem 0.35rem 0.2rem 0.5rem;
-  border-radius: 6px; border: 1px solid;
-  font-size: 0.72rem; font-weight: 600; font-family: var(--vp-font-family-mono, ui-monospace, monospace);
-  white-space: nowrap;
-}
-/* EBA pill: colour applied entirely via inline :style (opPillEbaStyle) — no static rules needed */
-
-/* Topic pill: brand violet */
-.op-pill--topic {
-  color: #7C3AED; background: #7C3AED1A; border-color: #7C3AED55;
-}
-/* Clause pill: slate blue */
-.op-pill--clause {
-  color: #2563EB; background: #2563EB1A; border-color: #2563EB55;
-}
-/* Exclude pill: danger red */
-.op-pill--exclude {
-  color: #DC2626; background: #DC26261A; border-color: #DC262655;
-}
-/* Phrase pill: brand teal-ish (distinct from topic) */
-.op-pill--phrase {
-  color: #0891B2; background: #0891B21A; border-color: #0891B255;
-}
-.op-pill-dismiss {
-  display: inline-flex; align-items: center; justify-content: center;
-  width: 14px; height: 14px; padding: 0; margin-left: 0.1rem;
-  background: none; border: none; cursor: pointer;
-  font-size: 0.85rem; line-height: 1; color: inherit; opacity: 0.6;
-  border-radius: 999px; transition: opacity 0.12s, background 0.12s;
-}
-.op-pill-dismiss:hover { opacity: 1; background: oklch(0 0 0 / 0.1); }
-.op-pills-clear {
-  margin-left: auto; background: none; border: none;
-  font-size: 0.7rem; color: var(--vp-c-text-3); cursor: pointer;
-  text-decoration: underline; font-weight: 400; flex-shrink: 0;
-  padding: 0;
-}
-.op-pills-clear:hover { color: var(--vp-c-text-2); }
-
-/* Inline operator hint chips in the Quick Access footer */
-.op-hint {
-  display: inline;
-  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
-  font-size: 0.68rem; font-weight: 600;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px; padding: 0.05rem 0.3rem;
-  color: var(--vp-c-brand-1);
-}
-
-/* ── Operator hint autocomplete dropdown ── */
-.op-hint-dropdown {
-  background:    var(--vp-c-bg);
-  border:        1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  box-shadow:
-    0 0 0 1px rgba(74,42,114,0.10),
-    0 8px 32px rgba(0,0,0,0.22),
-    0 2px 8px rgba(0,0,0,0.10);
-  overflow:      hidden;
-  max-height:    320px;
-  overflow-y:    auto;
-  /* Scroll-contain so the page body doesn't scroll when this list is full */
-  overscroll-behavior: contain;
-}
-.op-hint-header {
-  display:         flex;
-  align-items:     center;
-  gap:             0.5rem;
-  padding:         0.4rem 0.75rem;
-  background:      var(--vp-c-bg-soft);
-  border-bottom:   1px solid var(--vp-c-divider);
-  flex-wrap:       wrap;
-}
-.op-hint-header-label {
-  font-size:      0.68rem;
-  font-weight:    700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color:          var(--vp-c-text-3);
-  font-family:    var(--vp-font-family-mono, ui-monospace, monospace);
-  flex-shrink:    0;
-  margin-right:   auto;
-}
-.op-hint-header-kbd {
-  font-size:     0.62rem;
-  color:         var(--vp-c-text-3);
-  background:    var(--vp-c-bg);
-  border:        1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  padding:       0.1rem 0.3rem;
-  font-family:   var(--vp-font-family-mono, ui-monospace, monospace);
-  white-space:   nowrap;
-
-}
-/* ── Keycap-style nav badges in hint/cheatsheet headers ── */
-.op-hint-keycap {
-  display:         inline-flex;
-  align-items:     center;
-  justify-content: center;
-  font-size:       0.6rem;
-  font-family:     var(--vp-font-family-mono, ui-monospace, monospace);
-  color:           var(--vp-c-text-2);
-  background:      var(--vp-c-bg);
-  border:          1px solid var(--vp-c-divider);
-  border-radius:   4px;
-  padding:         0.1rem 0.3rem;
-  min-width:       1.5em;
-  line-height:     1.5;
-  white-space:     nowrap;
-  user-select:     none;
-  flex-shrink:     0;
-  box-shadow:      0 2px 0 var(--vp-c-border, #c2c2c4);
-}
-.op-hint-keycap--wide { min-width: 2.8em; }
-.op-hint-keycap-pair  { display: inline-flex; gap: 2px; flex-shrink: 0; }
-.op-hint-item {
-  display:        flex;
-  align-items:    center;
-  gap:            0.55rem;
-  width:          100%;
-  padding:        0.45rem 0.75rem;
-  background:     none;
-  border:         none;
-  border-bottom:  1px solid var(--vp-c-divider);
-  cursor:         pointer;
-  text-align:     left;
-  transition:     background 0.1s;
-}
-.op-hint-item:last-child { border-bottom: none; }
-.op-hint-item:hover,
-.op-hint-item--active {
-  background: var(--vp-c-bg-soft);
-}
-.op-hint-eba-dot {
-  flex-shrink:   0;
-  width:         10px;
-  height:        10px;
-  border-radius: 50%;
-  display:       inline-block;
-}
-.op-hint-topic-icon {
-  flex-shrink: 0;
-  color:       #7C3AED;
-}
-.op-hint-item-primary {
-  font-size:   0.8rem;
-  font-weight: 600;
-  color:       var(--vp-c-text-1);
-  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
-  white-space: nowrap;
-  overflow:    hidden;
-  text-overflow: ellipsis;
-}
-.op-hint-item-secondary {
-  font-size:  0.72rem;
-  color:      var(--vp-c-text-3);
-  white-space: nowrap;
-  overflow:   hidden;
-  text-overflow: ellipsis;
-  margin-left: auto;
-  padding-left: 0.5rem;
-}
-/* ── Dim secondary text when the item is active so primary pops ── */
-.op-hint-item--active .op-hint-item-secondary { color: var(--vp-c-text-2); }
-
-/* ── Operator cheatsheet rows ── */
-/* Override secondary's margin-left:auto so the example chips sit at the right */
-.op-cs-row { gap: 0.75rem; }
-.op-cs-row .op-hint-item-primary  { flex-shrink: 0; min-width: 6.5rem; }
-.op-cs-row .op-hint-item-secondary { margin-left: 0; }
-.op-cs-examples {
-  display: inline-flex; gap: 0.25rem;
-  margin-left: auto; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end;
-}
-.op-cs-examples code {
-  font-size:   0.6rem;
-  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
-  background:  var(--vp-c-bg-soft);
-  border:      1px solid var(--vp-c-divider);
-  border-radius: 3px;
-  padding:     0.05rem 0.25rem;
-  color:       var(--vp-c-text-3);
-  pointer-events: none;
-}
-
-/* ── Save search button ── */
-.save-search-btn {
-  flex-shrink: 0; display: flex; align-items: center; justify-content: center;
-  width: 28px; height: 28px; border: none; background: none; cursor: pointer;
-  color: var(--vp-c-text-3); border-radius: 6px; transition: color 0.15s, background 0.15s;
-}
-.save-search-btn:hover { color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft); }
-.save-search-btn.saved { color: #F59E0B; }
-.save-search-btn.saved:hover { color: #D97706; }
-
-/* ── Ask mode selector ── */
-.ask-mode-selector {
-  display: flex; flex-wrap: wrap; gap: 0;
-  background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider);
-  border-radius: 8px; overflow: visible; margin-bottom: 1rem;
-}
-.ask-mode-btn {
-  flex: 1; min-width: max-content; padding: 0.45rem 0.5rem; font-size: 0.78rem; font-weight: 500;
-  color: var(--vp-c-text-2); background: none;
-  border: none; border-right: 1px solid var(--vp-c-divider);
-  cursor: pointer; transition: color 0.15s, background 0.15s; white-space: nowrap;
-}
-.ask-mode-btn:last-child { border-right: none; }
-.ask-mode-btn:hover { color: var(--vp-c-text-1); background: var(--vp-c-bg-elv); }
-/* base active — overridden per mode above */
-.ask-mode-btn.active {
-  color: var(--vp-c-brand-1); background: var(--vp-c-brand-soft); font-weight: 600;
-}
-/* on very narrow viewports, stack the buttons vertically */
-@media (max-width: 420px) {
-  .ask-mode-btn {
-    flex-basis: 100%;
-    border-right: none;
-    border-bottom: 1px solid var(--vp-c-divider);
-  }
-  .ask-mode-btn:last-child { border-bottom: none; }
-}
-
-/* ── Ask AI structured forms ── */
-.ask-form { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 0.75rem; }
-.ask-form-row { display: flex; gap: 0.75rem; }
-.ask-form-row .filter-group { flex: 1; min-width: 0; }
-.ask-form-field { display: flex; flex-direction: column; gap: 0.2rem; }
-.ask-form-field label {
-  font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
-  letter-spacing: 0.06em; color: var(--vp-c-text-3);
-}
-
-/* Required asterisk — default red; overridden per mode above */
-.required-mark {
-  color: #DC2626; font-size: 0.75rem; font-weight: 700; margin-left: 0.1rem;
-}
-
-/* Optional label — consistent across all modes and contexts */
-.optional-label {
-  font-weight: 400; text-transform: none; letter-spacing: 0;
-  color: var(--vp-c-text-3); opacity: 0.7;
-  margin-left: 0.25rem; font-size: 0.68rem;
-}
-
-.ask-form-field input[type="text"],
-.ask-form-field textarea {
-  padding: 0.45rem 0.65rem; font-size: 0.875rem;
-  border: 1px solid var(--vp-c-divider); border-radius: 6px;
-  background: var(--vp-c-bg); color: var(--vp-c-text-1);
-  resize: vertical; font-family: inherit;
-  transition: border-color 0.15s, box-shadow 0.15s; outline: none;
-}
-/* default (question mode) focus */
-.ask-form-field input[type="text"]:focus,
-.ask-form-field textarea:focus {
-  border-color: var(--vp-c-brand);
-  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
-}
-.ask-form-field input[type="text"]::placeholder,
-.ask-form-field textarea::placeholder { color: var(--vp-c-text-3); }
-
-/* ── Ask AI character counter ── */
-/* Sits between the textarea/input and the submit button row.
-   Hidden until the user starts typing (v-if on length > 0).
-   Colour transitions smoothly as the count crosses thresholds. */
-.char-counter {
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-  font-size: 0.72rem;
-  font-weight: 500;
-  margin-top: 0.3rem;
-  transition: color 0.2s;
-  /* Default (zero chars — never rendered, but safe fallback) */
-  color: var(--vp-c-text-3);
-}
-.char-counter--too-short  { color: var(--vp-c-text-3); }   /* grey  */
-.char-counter--good-start { color: #D97706; }               /* amber */
-.char-counter--good       { color: #16A34A; }               /* green */
-.dark .char-counter--good { color: #4ADE80; }               /* green — lighter for dark mode contrast */
-
-.char-counter-sep {
-  opacity: 0.5;
-  font-weight: 400;
-}
-.char-counter-label {
-  font-weight: 400;
-  font-style: italic;
-}
-
-/* ── Ask button opacity ramp ── */
-/* Opacity is driven by an inline :style binding (askBtnOpacity computed) that
-   interpolates linearly from 0.45 at 0 chars to 1.0 at CHAR_THRESHOLD_GOOD (50).
-   No class modifiers needed — the transition: opacity rule on .ask-btn handles
-   the smooth animation as the user types. */
-
-/* ═══════════════════════════════════════════════════════════════════════════
-   Ask AI onboarding — full-screen Teleport overlay
-   Shown once per device on first Ask AI tab open. Dismissed via "Got it".
-   localStorage key: eba-ask-ai-intro-seen
-   z-index 10002: above the search modal (9999) and tour tooltip (10001).
-   ═══════════════════════════════════════════════════════════════════════════ */
-
-/* ── Full-screen backdrop ── */
-.ai-intro-overlay {
-  position:        fixed;
-  inset:           0;
-  z-index:         10002;
-  background:      rgba(0, 0, 0, 0.55);
-  display:         flex;
-  align-items:     center;
-  justify-content: center;
-  padding:         1.5rem;
-  overflow-y:      auto;
-}
-
-/* ── Panel — centred card, scrollable if content overflows viewport ── */
-.ai-intro-panel {
-  position:        relative;
-  width:           100%;
-  max-width:       540px;
-  max-height:      calc(100vh - 3rem);
-  display:         flex;
-  flex-direction:  column;
-  background:      var(--vp-c-bg);
-  border:          1px solid var(--vp-c-divider);
-  border-radius:   14px;
-  box-shadow:
-    0 0 0 1px rgba(74, 42, 114, 0.12),
-    0 24px 64px rgba(0, 0, 0, 0.35),
-    0 4px 16px rgba(0, 0, 0, 0.15);
-  font-size:       0.83rem;
-  overflow:        hidden;
-}
-
-/* ── Card header ── */
-.ai-intro-header {
-  display:         flex;
-  align-items:     center;
-  justify-content: space-between;
-  gap:             0.5rem;
-  padding:         0.9rem 1.1rem 0.75rem;
-  background:      linear-gradient(135deg, rgba(74,42,114,0.07), rgba(210,28,98,0.04));
-  border-bottom:   1px solid var(--vp-c-divider);
-  position:        sticky;
-  top:             0;
-  z-index:         1;
-}
-
-.ai-intro-title {
-  display:     flex;
-  align-items: center;
-  gap:         0.4rem;
-  font-size:   0.85rem;
-  font-weight: 700;
-  color:       var(--vp-c-text-1);
-}
-
-.ai-intro-title svg { color: var(--vp-c-brand-1); flex-shrink: 0; }
-
-.ai-intro-dismiss {
-  display:          flex;
-  align-items:      center;
-  justify-content:  center;
-  width:            28px;
-  height:           28px;
-  font-size:        0.9rem;
-  color:            var(--vp-c-text-3);
-  background:       var(--vp-c-bg);
-  border:           1px solid var(--vp-c-divider);
-  border-radius:    6px;
-  cursor:           pointer;
-  transition:       color 0.12s, border-color 0.12s, background-color 0.12s;
-  flex-shrink:      0;
-}
-.ai-intro-dismiss:hover {
-  color:            var(--vp-c-text-1);
-  border-color:     var(--vp-c-brand);
-  background-color: var(--vp-c-brand-soft);
-}
-
-/* ── Scrollable body — everything between the sticky header and sticky footer ── */
-.ai-intro-body-scroll {
-  overflow-y:  auto;
-  flex:        1 1 auto;
-  min-height:  0;
-}
-
-/* ── Warning alert banner ── */
-.ai-intro-alert {
-  display:     flex;
-  align-items: flex-start;
-  gap:         0.5rem;
-  margin:      0.85rem 1.1rem 0;
-  padding:     0.6rem 0.8rem;
-  background:  rgba(217, 119, 6, 0.08);
-  border:      1px solid rgba(217, 119, 6, 0.22);
-  border-radius: 7px;
-  font-size:   0.77rem;
-  color:       var(--vp-c-text-2);
-  line-height: 1.55;
-}
-.ai-intro-alert svg { color: #D97706; flex-shrink: 0; margin-top: 2px; }
-
-/* ── Sections ── */
-.ai-intro-section { padding: 0.85rem 1.1rem 0; }
-
-.ai-intro-section-title {
-  font-size:      0.7rem;
-  font-weight:    700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color:          var(--vp-c-text-3);
-  margin:         0 0 0.45rem;
-}
-
-.ai-intro-body {
-  color:       var(--vp-c-text-2);
-  line-height: 1.55;
-  margin:      0 0 0.5rem;
-  font-size:   0.8rem;
-}
-
-/* ── Numbered how-to list — matches 'Three ways to ask' card style ── */
-.ai-intro-how-list {
-  display:        flex;
-  flex-direction: column;
-  gap:            0.4rem;
-}
-
-.ai-intro-how-item {
-  display:       flex;
-  align-items:   flex-start;
-  gap:           0.6rem;
-  padding:       0.5rem 0.7rem;
-  background:    var(--vp-c-bg-soft);
-  border:        1px solid var(--vp-c-divider);
-  border-radius: 7px;
-}
-
-.ai-intro-how-num {
-  display:         flex;
-  align-items:     center;
-  justify-content: center;
-  width:           20px;
-  height:          20px;
-  min-width:       20px;
-  border-radius:   50%;
-  background:      var(--vp-c-brand-soft);
-  color:           var(--vp-c-brand-1);
-  font-size:       0.68rem;
-  font-weight:     700;
-  line-height:     1;
-  flex-shrink:     0;
-  margin-top:      1px;
-  text-align:      center;
-}
-
-.ai-intro-how-item strong {
-  display:       block;
-  font-size:     0.8rem;
-  font-weight:   600;
-  color:         var(--vp-c-text-1);
-  line-height:   1.3;
-  margin-bottom: 0.15rem;
-}
-
-.ai-intro-how-item span { display: block; font-size: 0.74rem; color: var(--vp-c-text-3); line-height: 1.45; }
-.ai-intro-how-item em   { font-style: italic; color: var(--vp-c-brand-1); }
-
-/* ── Good / poor example row ── */
-.ai-intro-example-row {
-  display:               grid;
-  grid-template-columns: 1fr 1fr;
-  gap:                   0.55rem;
-  margin:                0.85rem 1.1rem 0;
-}
-@media (max-width: 480px) { .ai-intro-example-row { grid-template-columns: 1fr; } }
-
-.ai-intro-example {
-  padding:       0.6rem 0.7rem;
-  border-radius: 8px;
-  border:        1px solid;
-}
-.ai-intro-example--good { background: rgba(5,150,105,0.06);  border-color: rgba(5,150,105,0.22); }
-.ai-intro-example--poor { background: rgba(203,36,49,0.05);  border-color: rgba(203,36,49,0.18); }
-
-.ai-intro-example-label {
-  display:        flex;
-  align-items:    center;
-  gap:            0.25rem;
-  font-size:      0.68rem;
-  font-weight:    700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom:  0.3rem;
-}
-.ai-intro-example--good .ai-intro-example-label { color: #059669; }
-.ai-intro-example--poor .ai-intro-example-label { color: #CB2431; }
-
-.ai-intro-example p        { font-size: 0.78rem; color: var(--vp-c-text-2); line-height: 1.5; margin: 0; font-style: italic; }
-.ai-intro-example p strong { font-weight: 700; color: var(--vp-c-text-1); font-style: normal; }
-
-/* ── Three mode cards ── */
-.ai-intro-modes         { display: flex; flex-direction: column; gap: 0.4rem; }
-
-.ai-intro-mode {
-  display:       flex;
-  align-items:   flex-start;
-  gap:           0.6rem;
-  padding:       0.5rem 0.7rem;
-  background:    var(--vp-c-bg-soft);
-  border:        1px solid var(--vp-c-divider);
-  border-radius: 7px;
-}
-
-.ai-intro-mode-icon { font-size: 1rem; line-height: 1; flex-shrink: 0; margin-top: 1px; }
-.ai-intro-mode strong { display: block; font-size: 0.8rem; font-weight: 600; color: var(--vp-c-text-1); line-height: 1.3; }
-.ai-intro-mode span   { display: block; font-size: 0.74rem; color: var(--vp-c-text-3); line-height: 1.45; }
-
-/* ── Footer works-well / not-suitable grid ── */
-.ai-intro-footer {
-  display:               grid;
-  grid-template-columns: 1fr 1fr;
-  gap:                   0.55rem;
-  margin:                0.85rem 1.1rem 0;
-  padding:               0.7rem 0.8rem;
-  background:            var(--vp-c-bg-soft);
-  border:                1px solid var(--vp-c-divider);
-  border-radius:         8px;
-}
-@media (max-width: 480px) { .ai-intro-footer { grid-template-columns: 1fr; } }
-
-.ai-intro-footer-head {
-  display:        flex;
-  align-items:    center;
-  gap:            0.28rem;
-  font-size:      0.68rem;
-  font-weight:    700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom:  0.35rem;
-}
-.ai-intro-footer-col--good .ai-intro-footer-head { color: #059669; }
-.ai-intro-footer-col--bad  .ai-intro-footer-head { color: #CB2431; }
-
-.ai-intro-footer ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.22rem; }
-.ai-intro-footer li { font-size: 0.74rem; color: var(--vp-c-text-2); line-height: 1.4; }
-
-/* ── Bottom CTA button — sticky at bottom of panel, always reachable ── */
-.ai-intro-got-it {
-  display:          block;
-  width:            calc(100% - 2.2rem);
-  margin:           0.85rem 1.1rem 1rem;
-  flex-shrink:      0;
-  padding:          0.55rem;
-  background:       var(--vp-c-brand-soft);
-  color:            var(--vp-c-brand-1);
-  font-size:        0.83rem;
-  font-weight:      600;
-  border:           1px solid var(--vp-c-brand-1);
-  border-radius:    7px;
-  cursor:           pointer;
-  transition:       background 0.15s, color 0.15s, transform 0.1s;
-  text-align:       center;
-}
-.ai-intro-got-it:hover  { background: var(--vp-c-brand-1); color: #fff; }
-.ai-intro-got-it:active { transform: scale(0.98); }
-
-/* ── Page context banner ─────────────────────────────────────────────────────
-   Compact one-liner shown at the top of the Ask AI tab when the user is on a
-   clause page. Subtle style: muted background, EBA-coloured left border accent,
-   small typography. Designed to be noticed but not intrusive.
-──────────────────────────────────────────────────────────────────────────── */
-.page-ctx-banner {
-  display:       flex;
-  align-items:   center;
-  gap:           0.55rem;
-  padding:       0.45rem 0.7rem;
-  margin:        0 0 0.6rem;
-  border:        1px solid var(--vp-c-divider);
-  border-left:   3px solid var(--vp-c-brand); /* overridden per-EBA via :style */
-  border-radius: 6px;
-  background:    var(--vp-c-bg-soft);
-  flex-shrink:   0;
-}
-
-.page-ctx-icon {
-  flex-shrink: 0;
-  color:       var(--vp-c-text-3);
-}
-
-.page-ctx-banner-body {
-  flex:           1;
-  display:        flex;
-  flex-direction: column;
-  gap:            0.1rem;
-  min-width:      0;
-}
-
-.page-ctx-banner-label {
-  display:     flex;
-  align-items: center;
-  gap:         0.35rem;
-  flex-wrap:   wrap;
-  font-size:   0.78rem;
-  color:       var(--vp-c-text-1);
-  line-height: 1.35;
-}
-
-.page-ctx-banner-eba {
-  display:       inline-flex;
-  align-items:   center;
-  padding:       0.05rem 0.4rem;
-  border-radius: 3px;
-  font-size:     0.68rem;
-  font-weight:   500;
-  border:        1px solid transparent;
-  white-space:   nowrap;
-  line-height:   1.5;
-}
-
-.page-ctx-banner-sub {
-  font-size: 0.71rem;
-  color:     var(--vp-c-text-3);
-  line-height: 1.3;
-}
-
-.page-ctx-banner-actions {
-  display:    flex;
-  gap:        0.35rem;
-  flex-shrink: 0;
-}
-
-.page-ctx-use-btn {
-  padding:       0.22rem 0.55rem;
-  border-radius: 5px;
-  font-size:     0.73rem;
-  font-weight:   500;
-  cursor:        pointer;
-  border:        1px solid var(--vp-c-brand);
-  background:    var(--vp-c-brand-soft);
-  color:         var(--vp-c-brand-1);
-  white-space:   nowrap;
-  transition:    filter 0.15s;
-  line-height:   1.4;
-}
-.page-ctx-use-btn:hover  { filter: brightness(1.1); }
-.page-ctx-use-btn:active { filter: brightness(0.95); }
-
-.page-ctx-skip-btn {
-  padding:       0.22rem 0.5rem;
-  border-radius: 5px;
-  font-size:     0.73rem;
-  cursor:        pointer;
-  border:        1px solid var(--vp-c-divider);
-  background:    transparent;
-  color:         var(--vp-c-text-3);
-  white-space:   nowrap;
-  transition:    color 0.15s, border-color 0.15s;
-  line-height:   1.4;
-}
-.page-ctx-skip-btn:hover {
-  color:        var(--vp-c-text-2);
-  border-color: var(--vp-c-text-3);
-}
-
-/* Mobile: stack banner vertically when viewport is very narrow */
-@media (max-width: 480px) {
-  .page-ctx-banner { flex-wrap: wrap; }
-  .page-ctx-banner-actions { width: 100%; justify-content: flex-end; }
-}
-
-/* ── Context active indicator ── */
-.page-ctx-active {
-  display:       flex;
-  align-items:   center;
-  gap:           0.45rem;
-  padding:       0.35rem 0.65rem;
-  margin:        0 0 0.6rem;
-  border:        1px solid var(--vp-c-divider);
-  border-left:   3px solid var(--vp-c-brand);
-  border-radius: 6px;
-  background:    var(--vp-c-brand-soft);
-  font-size:     0.75rem;
-  color:         var(--vp-c-text-2);
-  flex-shrink:   0;
-}
-
-.page-ctx-active-icon {
-  flex-shrink: 0;
-  color:       var(--vp-c-brand-1);
-}
-
-.page-ctx-active span {
-  flex: 1;
-  line-height: 1.35;
-}
-
-.page-ctx-clear-btn {
-  padding:       0.1rem 0.35rem;
-  border:        none;
-  background:    transparent;
-  color:         var(--vp-c-text-3);
-  cursor:        pointer;
-  font-size:     0.9rem;
-  border-radius: 3px;
-  line-height:   1;
-  flex-shrink:   0;
-  transition:    color 0.15s, background 0.15s;
-}
-.page-ctx-clear-btn:hover {
-  color:       var(--vp-c-text-1);
-  background:  var(--vp-c-bg-mute);
-}
 
 /* ══════════════════════════════════════════════════════════════════════════════
    SETTINGS PANEL — gear icon, slide-down panel, toggle switch, consent banner
@@ -6080,6 +3899,473 @@ function autoResizeFollowUp() {
   color:         var(--vp-c-text-3);
   letter-spacing: 0.01em;
   white-space:   nowrap;
+}
+
+/* ── Loading dots ── */
+.loading-dots span { animation: blink 1.2s infinite; }
+.loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+.loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes blink { 0%, 80%, 100% { opacity: 0; } 40% { opacity: 1; } }
+
+/* ── Smart suggestions panel ── */
+.suggestions-panel {
+  margin: 0.75rem 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.suggestions-panel--inline {
+  margin-bottom: 0.75rem;
+}
+.suggestions-heading {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--vp-c-text-3);
+  margin: 0 0 0.2rem;
+}
+.suggestion-card {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.38rem 0.6rem;
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-left-width: 3px;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.13s, border-color 0.13s;
+}
+.suggestion-card:hover {
+  background: var(--vp-c-bg-soft);
+}
+.suggestion-card--eba   { border-left-color: var(--vp-c-brand-1); }
+.suggestion-card--topic { border-left-color: #7C3AED; }
+.suggestion-card--rewrite { border-left-color: #0891B2; }
+.suggestion-card-icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  color: var(--vp-c-text-3);
+}
+.suggestion-card--eba     .suggestion-card-icon { color: var(--vp-c-brand-1); }
+.suggestion-card--topic   .suggestion-card-icon { color: #7C3AED; }
+.suggestion-card--rewrite .suggestion-card-icon { color: #0891B2; }
+.suggestion-card-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+.suggestion-card-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.suggestion-card-sublabel {
+  font-size: 0.72rem;
+  color: var(--vp-c-text-3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.suggestion-card-arrow {
+  flex-shrink: 0;
+  color: var(--vp-c-text-3);
+  transition: transform 0.13s;
+}
+.suggestion-card:hover .suggestion-card-arrow {
+  transform: translateX(3px);
+  color: var(--vp-c-text-2);
+}
+
+/* ── EBA filter flash — triggered by Shift+F shortcut and EBA context restore ── */
+@keyframes eba-flash {
+  0%   { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  30%  { box-shadow: 0 0 0 4px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  70%  { box-shadow: 0 0 0 4px var(--vp-c-brand-soft); border-color: var(--vp-c-brand); }
+  100% { box-shadow: 0 0 0 0px var(--vp-c-brand-soft); border-color: var(--vp-c-divider); }
+}
+.eba-filter-flash {
+  animation: eba-flash 1.2s ease forwards;
+}
+
+/* ── Modal transition (desktop) ── */
+.modal-enter-active, .modal-leave-active { transition: opacity 0.18s ease; }
+.modal-enter-active .search-modal, .modal-leave-active .search-modal { transition: transform 0.18s ease, opacity 0.18s ease; }
+.modal-enter-from, .modal-leave-to { opacity: 0; }
+.modal-enter-from .search-modal, .modal-leave-to .search-modal { transform: translateY(-8px); opacity: 0; }
+
+/* ── Sheet transition (mobile) ── */
+.sheet-enter-active, .sheet-leave-active { transition: opacity 0.22s ease; }
+.sheet-enter-active .search-modal--sheet, .sheet-leave-active .search-modal--sheet { transition: transform 0.28s cubic-bezier(0.32, 0.72, 0, 1); }
+.sheet-enter-from, .sheet-leave-to { opacity: 0; }
+.sheet-enter-from .search-modal--sheet { transform: translateY(100%); }
+.sheet-leave-to .search-modal--sheet   { transform: translateY(100%); }
+
+/* ── Mobile bottom sheet layout ── */
+@media (max-width: 767px) {
+  .search-overlay--sheet {
+    align-items: flex-end;
+    padding-top: 0;
+  }
+
+  .search-modal--sheet {
+    width: 100%;
+    max-width: 100%;
+    max-height: 85dvh;
+    border-radius: 16px 16px 0 0;
+    border-bottom: none;
+    box-shadow: 0 -4px 32px rgba(0, 0, 0, 0.22);
+    padding-bottom: env(safe-area-inset-bottom);
+    overscroll-behavior: contain;
+  }
+
+  .sheet-handle {
+    flex-shrink: 0;
+    width: 40px;
+    height: 4px;
+    background: var(--vp-c-divider);
+    border-radius: 999px;
+    margin: 10px auto 6px;
+  }
+
+  .close-btn {
+    display: none;
+  }
+
+  .search-body {
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+
+  .preview-pane { display: none !important; }
+}
+
+/* ── Operator pills row ── */
+.operator-pills-row {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 0.4rem;
+  padding: 0.45rem 1rem;
+  background: var(--vp-c-bg-soft);
+  border-bottom: 1px solid var(--vp-c-divider);
+  animation: pills-row-in 0.15s ease;
+}
+@keyframes pills-row-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.op-pills-label {
+  font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.07em; color: var(--vp-c-text-3); flex-shrink: 0;
+}
+.op-pill {
+  display: inline-flex; align-items: center; gap: 0.3rem;
+  padding: 0.2rem 0.35rem 0.2rem 0.5rem;
+  border-radius: 6px; border: 1px solid;
+  font-size: 0.72rem; font-weight: 600; font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  white-space: nowrap;
+}
+.op-pill--topic  { color: #7C3AED; background: #7C3AED1A; border-color: #7C3AED55; }
+.op-pill--clause { color: #2563EB; background: #2563EB1A; border-color: #2563EB55; }
+.op-pill--exclude { color: #DC2626; background: #DC26261A; border-color: #DC262655; }
+.op-pill--phrase { color: #0891B2; background: #0891B21A; border-color: #0891B255; }
+.op-pill-dismiss {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 14px; height: 14px; padding: 0; margin-left: 0.1rem;
+  background: none; border: none; cursor: pointer;
+  font-size: 0.85rem; line-height: 1; color: inherit; opacity: 0.6;
+  border-radius: 999px; transition: opacity 0.12s, background 0.12s;
+}
+.op-pill-dismiss:hover { opacity: 1; background: oklch(0 0 0 / 0.1); }
+.op-pills-clear {
+  margin-left: auto; background: none; border: none;
+  font-size: 0.7rem; color: var(--vp-c-text-3); cursor: pointer;
+  text-decoration: underline; font-weight: 400; flex-shrink: 0;
+  padding: 0;
+}
+.op-pills-clear:hover { color: var(--vp-c-text-2); }
+
+/* Inline operator hint chips in the footer */
+.op-hint {
+  display: inline;
+  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  font-size: 0.68rem; font-weight: 600;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px; padding: 0.05rem 0.3rem;
+  color: var(--vp-c-brand-1);
+}
+
+/* ── Operator hint autocomplete dropdown ── */
+.op-hint-dropdown {
+  background:    var(--vp-c-bg);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  box-shadow:
+    0 0 0 1px rgba(74,42,114,0.10),
+    0 8px 32px rgba(0,0,0,0.22),
+    0 2px 8px rgba(0,0,0,0.10);
+  overflow:      hidden;
+  max-height:    320px;
+  overflow-y:    auto;
+  overscroll-behavior: contain;
+}
+.op-hint-header {
+  display:       flex;
+  align-items:   center;
+  gap:           0.5rem;
+  padding:       0.4rem 0.75rem;
+  background:    var(--vp-c-bg-soft);
+  border-bottom: 1px solid var(--vp-c-divider);
+  flex-wrap:     wrap;
+}
+.op-hint-header-label {
+  font-size:      0.68rem;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-3);
+  font-family:    var(--vp-font-family-mono, ui-monospace, monospace);
+  flex-shrink:    0;
+  margin-right:   auto;
+}
+/* ── Keycap-style nav badges in hint/cheatsheet headers ── */
+.op-hint-keycap {
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  font-size:       0.6rem;
+  font-family:     var(--vp-font-family-mono, ui-monospace, monospace);
+  color:           var(--vp-c-text-2);
+  background:      var(--vp-c-bg);
+  border:          1px solid var(--vp-c-divider);
+  border-radius:   4px;
+  padding:         0.1rem 0.3rem;
+  min-width:       1.5em;
+  line-height:     1.5;
+  white-space:     nowrap;
+  user-select:     none;
+  flex-shrink:     0;
+  box-shadow:      0 2px 0 var(--vp-c-border, #c2c2c4);
+}
+.op-hint-keycap--wide { min-width: 2.8em; }
+.op-hint-keycap-pair  { display: inline-flex; gap: 2px; flex-shrink: 0; }
+.op-hint-item {
+  display:       flex;
+  align-items:   center;
+  gap:           0.55rem;
+  width:         100%;
+  padding:       0.45rem 0.75rem;
+  background:    none;
+  border:        none;
+  border-bottom: 1px solid var(--vp-c-divider);
+  cursor:        pointer;
+  text-align:    left;
+  transition:    background 0.1s;
+}
+.op-hint-item:last-child { border-bottom: none; }
+.op-hint-item:hover,
+.op-hint-item--active {
+  background: var(--vp-c-bg-soft);
+}
+.op-hint-eba-dot {
+  flex-shrink:   0;
+  width:         10px;
+  height:        10px;
+  border-radius: 50%;
+  display:       inline-block;
+}
+.op-hint-topic-icon {
+  flex-shrink: 0;
+  color:       #7C3AED;
+}
+.op-hint-item-primary {
+  font-size:     0.8rem;
+  font-weight:   600;
+  color:         var(--vp-c-text-1);
+  font-family:   var(--vp-font-family-mono, ui-monospace, monospace);
+  white-space:   nowrap;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+}
+.op-hint-item-secondary {
+  font-size:     0.72rem;
+  color:         var(--vp-c-text-3);
+  white-space:   nowrap;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  margin-left:   auto;
+  padding-left:  0.5rem;
+}
+/* ── Dim secondary text when the item is active so primary pops ── */
+.op-hint-item--active .op-hint-item-secondary { color: var(--vp-c-text-2); }
+
+/* ── Operator cheatsheet rows ── */
+.op-cs-row { gap: 0.75rem; }
+.op-cs-row .op-hint-item-primary  { flex-shrink: 0; min-width: 6.5rem; }
+.op-cs-row .op-hint-item-secondary { margin-left: 0; }
+.op-cs-examples {
+  display: inline-flex; gap: 0.25rem;
+  margin-left: auto; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end;
+}
+.op-cs-examples code {
+  font-size:     0.6rem;
+  font-family:   var(--vp-font-family-mono, ui-monospace, monospace);
+  background:    var(--vp-c-bg-soft);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 3px;
+  padding:       0.05rem 0.25rem;
+  color:         var(--vp-c-text-3);
+  pointer-events: none;
+}
+
+/* ── Save search button ── */
+.save-search-btn {
+  flex-shrink: 0; display: flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px; border: none; background: none; cursor: pointer;
+  color: var(--vp-c-text-3); border-radius: 6px; transition: color 0.15s, background 0.15s;
+}
+.save-search-btn:hover { color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft); }
+.save-search-btn.saved { color: #F59E0B; }
+.save-search-btn.saved:hover { color: #D97706; }
+
+/* ── Inline AI answer view (streamed inside the SearchModal) ── */
+.inline-answer {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.6rem;
+  padding:        0.5rem 0.25rem 0.75rem;
+}
+.inline-answer-back {
+  display:       inline-flex;
+  align-items:   center;
+  gap:           0.35rem;
+  align-self:    flex-start;
+  padding:       0.25rem 0.5rem 0.25rem 0.35rem;
+  border:        none;
+  background:    none;
+  border-radius: 6px;
+  cursor:        pointer;
+  color:         var(--vp-c-text-3);
+  font-size:     0.8rem;
+  font-weight:   500;
+  transition:    background 0.12s, color 0.12s;
+}
+.inline-answer-back:hover { background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); }
+.inline-answer-question {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           0.5rem;
+  padding:       0.55rem 0.7rem;
+  background:    var(--vp-c-brand-soft);
+  border-radius: 10px;
+  font-size:     0.9rem;
+  font-weight:   600;
+  line-height:   1.45;
+  color:         var(--vp-c-text-1);
+}
+.inline-answer-question svg { flex-shrink: 0; margin-top: 0.15rem; color: var(--vp-c-brand-1); }
+.inline-answer-content {
+  font-size:   0.9rem;
+  line-height: 1.62;
+  color:       var(--vp-c-text-1);
+  padding:     0 0.25rem;
+}
+.inline-answer-text :deep(p)      { margin: 0 0 0.7em; }
+.inline-answer-text :deep(p:last-child) { margin: 0; }
+.inline-answer-text :deep(ul),
+.inline-answer-text :deep(ol)     { margin: 0.4em 0 0.7em 1.3em; padding: 0; }
+.inline-answer-text :deep(li)     { margin: 0.2em 0; }
+.inline-answer-text :deep(strong) { font-weight: 700; }
+.inline-answer-text :deep(h2),
+.inline-answer-text :deep(h3)     { font-size: 0.92rem; font-weight: 700; margin: 0.7em 0 0.3em; }
+.inline-answer-text :deep(code)   {
+  font-family:   var(--vp-font-family-mono);
+  font-size:     0.82em;
+  background:    var(--vp-c-bg-mute);
+  padding:       0.1em 0.35em;
+  border-radius: 3px;
+}
+.inline-answer-text :deep(table)  { border-collapse: collapse; margin: 0.5em 0; font-size: 0.85em; width: 100%; }
+.inline-answer-text :deep(th),
+.inline-answer-text :deep(td)     { border: 1px solid var(--vp-c-divider); padding: 0.3em 0.5em; text-align: left; }
+.inline-answer-cursor {
+  display:        inline-block;
+  width:          2px;
+  height:         1.05em;
+  margin-left:    1px;
+  vertical-align: text-bottom;
+  background:     var(--vp-c-brand-1);
+  animation:      inline-caret-blink 1s steps(2, start) infinite;
+}
+@keyframes inline-caret-blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+.inline-answer-thinking {
+  padding:   0.25rem;
+  font-size: 0.88rem;
+  color:     var(--vp-c-text-2);
+}
+.inline-answer-thinking .ap-dots span {
+  display:   inline-block;
+  animation: inline-dot-blink 1.2s infinite;
+  opacity:   0;
+}
+.inline-answer-thinking .ap-dots span:nth-child(1) { animation-delay: 0s;   }
+.inline-answer-thinking .ap-dots span:nth-child(2) { animation-delay: 0.2s; }
+.inline-answer-thinking .ap-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes inline-dot-blink { 0%, 60%, 100% { opacity: 0; } 30% { opacity: 1; } }
+.inline-answer-error {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           0.45rem;
+  padding:       0.55rem 0.7rem;
+  border-radius: 8px;
+  background:    var(--vp-c-danger-soft, #fef2f2);
+  color:         var(--vp-c-danger-1, #e53e3e);
+  font-size:     0.85rem;
+  line-height:   1.45;
+}
+.inline-answer-error svg { flex-shrink: 0; margin-top: 0.1rem; }
+.inline-answer-sources {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.15rem;
+  padding-top:    0.4rem;
+  border-top:     1px solid var(--vp-c-divider);
+}
+.inline-answer-sources-head {
+  font-size:      0.7rem;
+  font-weight:    600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color:          var(--vp-c-text-3);
+  margin-bottom:  0.1rem;
+}
+.inline-answer-source {
+  display:         inline-flex;
+  align-items:     center;
+  gap:             0.4rem;
+  padding:         0.28rem 0.4rem;
+  border-radius:   6px;
+  text-decoration: none;
+  color:           var(--vp-c-brand-1);
+  font-size:       0.83rem;
+  transition:      background 0.12s;
+}
+.inline-answer-source:hover { background: var(--vp-c-bg-soft); }
+.inline-answer-source svg   { flex-shrink: 0; opacity: 0.7; }
+.inline-answer-disclaimer {
+  font-size:   0.72rem;
+  color:       var(--vp-c-text-3);
+  line-height: 1.5;
+  padding:     0.3rem 0.25rem 0;
+  border-top:  1px solid var(--vp-c-divider);
 }
 
 </style>
