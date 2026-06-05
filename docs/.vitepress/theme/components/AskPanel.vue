@@ -48,18 +48,30 @@
               role="listbox"
               aria-label="Chat history"
             >
-              <button
+              <div
                 v-for="chat in chats"
                 :key="chat.id"
                 class="apd-item"
                 :class="{ 'apd-item--active': chat.id === activeChatId }"
                 role="option"
                 :aria-selected="chat.id === activeChatId"
+                tabindex="0"
                 @click="selectChat(chat.id)"
+                @keydown.enter.prevent="selectChat(chat.id)"
+                @keydown.space.prevent="selectChat(chat.id)"
               >
                 <svg v-if="chat.id === activeChatId" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="apd-item-text">{{ chat.title }}</span>
-              </button>
+                <button
+                  class="apd-delete-btn"
+                  @click.stop="deleteChat(chat.id)"
+                  aria-label="Delete this chat"
+                  title="Delete chat"
+                  tabindex="-1"
+                >
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
+                </button>
+              </div>
 
               <div class="apd-sep" />
 
@@ -512,6 +524,28 @@ function clearAllChats() {
   activeChatId.value = null
   showDropdown.value = false
   try { localStorage.removeItem(LOCAL_CHATS_KEY) } catch { /* silent */ }
+}
+
+function deleteChat(id) {
+  const idx = chats.value.findIndex(c => c.id === id)
+  if (idx === -1) return
+
+  chats.value.splice(idx, 1)
+  chats.value = [...chats.value]
+
+  // If the deleted chat was the active one, switch to the nearest remaining chat
+  if (activeChatId.value === id) {
+    if (chats.value.length > 0) {
+      activeChatId.value = chats.value[Math.min(idx, chats.value.length - 1)].id
+    } else {
+      activeChatId.value = null
+      showDropdown.value = false
+    }
+    question.value = ''
+    error.value    = ''
+  }
+
+  saveChats()
 }
 
 // ─── Panel open / close ───────────────────────────────────────────────────────
@@ -1131,7 +1165,7 @@ onUnmounted(() => {
   align-items: center;
   gap:         0.45rem;
   width:       100%;
-  padding:     0.42rem 0.75rem;
+  padding:     0.42rem 0.55rem 0.42rem 0.75rem;
   border:      none;
   background:  none;
   text-align:  left;
@@ -1140,14 +1174,34 @@ onUnmounted(() => {
   font-size:   0.845rem;
   transition:  background 0.1s;
 }
-.apd-item:hover             { background: var(--vp-c-bg-soft); }
-.apd-item--active           { font-weight: 600; }
-.apd-item svg               { flex-shrink: 0; color: var(--vp-c-brand-1); }
+.apd-item:hover                           { background: var(--vp-c-bg-soft); }
+.apd-item--active                         { font-weight: 600; }
+.apd-item > svg                           { flex-shrink: 0; color: var(--vp-c-brand-1); }
 .apd-item-text {
+  flex:          1;
+  min-width:     0;
   overflow:      hidden;
   text-overflow: ellipsis;
   white-space:   nowrap;
 }
+.apd-delete-btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           22px;
+  height:          22px;
+  flex-shrink:     0;
+  border:          none;
+  background:      none;
+  border-radius:   5px;
+  cursor:          pointer;
+  color:           var(--vp-c-text-1);
+  padding:         0;
+  opacity:         0;
+  transition:      opacity 0.12s, color 0.12s, background 0.12s;
+}
+.apd-item:hover .apd-delete-btn { opacity: 1; }
+.apd-delete-btn:hover           { color: var(--vp-c-red-1, #e53e3e); background: color-mix(in srgb, var(--vp-c-red-soft, #fef2f2) 60%, transparent); }
 
 .apd-sep {
   height:     1px;
