@@ -140,6 +140,12 @@
         <!-- ── Messages body ───────────────────────────────────────────────── -->
         <div class="ask-panel-body" ref="bodyRef">
 
+          <!-- Intro: inside scroll body only once messages exist, above first bubble -->
+          <div v-if="messages.length > 0" class="apb-intro apb-intro--inline">
+            <p class="apb-intro-main">Ask questions about EBA content and get help with interpretation.</p>
+            <p class="apb-intro-tip">Tip: press <kbd>Ctrl</kbd>+<kbd>K</kbd> to open Ask AI from anywhere on the wiki.</p>
+          </div>
+
           <!-- Empty state -->
           <div v-if="messages.length === 0 && !loading && !error" class="apb-empty">
           <svg class="apb-empty-icon" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -173,22 +179,90 @@
 
           <!-- Message bubbles -->
           <template v-for="(msg, i) in messages" :key="i">
-            <div class="apm-row" :class="`apm-row--${msg.role}`">
+
+            <!-- User message: right-aligned chat bubble -->
+            <div v-if="msg.role === 'user'" class="apm-row apm-row--user">
+              <div class="apm-bubble" v-html="escHtml(msg.content)"></div>
+            </div>
+
+            <!-- Assistant message: sources first, then answer, then toolbar -->
+            <div v-else class="apm-row apm-row--assistant">
+
+              <!-- Sources collapsible — ABOVE the answer text -->
+              <div v-if="msg.sources && msg.sources.length" class="apm-sources">
+                <button class="apm-sources-toggle" @click="toggleSources(i)" :aria-expanded="!!sourcesOpen[i]">
+                  <svg class="apm-sources-chevron" :class="{ 'apm-sources-chevron--open': sourcesOpen[i] }" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+                  Used {{ msg.sources.length }} source{{ msg.sources.length !== 1 ? 's' : '' }}
+                </button>
+                <div v-if="sourcesOpen[i]" class="apm-sources-list">
+                  <a
+                    v-for="src in msg.sources"
+                    :key="src.url"
+                    :href="src.url"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="apm-source-link"
+                  >
+                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+                    {{ src.title }}
+                  </a>
+                </div>
+              </div>
+
+              <!-- Answer content -->
               <div
-                class="apm-bubble"
-                :class="{ 'apm-bubble--hedging': msg.role === 'assistant' && msg.hedging }"
-                v-html="msg.role === 'assistant' ? renderMarkdown(msg.content) : escHtml(msg.content)"
+                class="apm-answer"
+                :class="{ 'apm-answer--hedging': msg.hedging }"
+                v-html="renderMarkdown(msg.content)"
               ></div>
-              <div v-if="msg.role === 'assistant' && msg.hedging" class="apm-hedging">
+
+              <!-- Low-confidence badge -->
+              <div v-if="msg.hedging" class="apm-hedging">
                 <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
                 Low confidence — verify against the EBA PDF
               </div>
+
+              <!-- Action toolbar — icon-only ghost buttons -->
+              <div class="apm-toolbar">
+                <button class="apm-tool-btn" @click="retryMessage(i)" title="Retry this question" aria-label="Retry">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-3.67"/></svg>
+                </button>
+                <button
+                  class="apm-tool-btn"
+                  :class="{ 'apm-tool-btn--helpful': feedback[i] === 'helpful' }"
+                  @click="giveFeedback(i, 'helpful')"
+                  title="Helpful"
+                  aria-label="Mark as helpful"
+                >
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z"/><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>
+                </button>
+                <button
+                  class="apm-tool-btn"
+                  :class="{ 'apm-tool-btn--unhelpful': feedback[i] === 'unhelpful' }"
+                  @click="giveFeedback(i, 'unhelpful')"
+                  title="Unhelpful"
+                  aria-label="Mark as unhelpful"
+                >
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z"/><path d="M17 2h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"/></svg>
+                </button>
+                <button
+                  class="apm-tool-btn"
+                  :class="{ 'apm-tool-btn--copied': copiedIdx === i }"
+                  @click="copyAsMarkdown(msg.content, i)"
+                  :title="copiedIdx === i ? 'Copied!' : 'Copy as Markdown'"
+                  aria-label="Copy as Markdown"
+                >
+                  <svg v-if="copiedIdx !== i" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                  <svg v-else width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+                </button>
+              </div>
             </div>
+
           </template>
 
           <!-- Loading -->
           <div v-if="loading" class="apm-row apm-row--assistant">
-            <div class="apm-bubble apm-bubble--loading">
+            <div class="apm-answer apm-answer--loading">
               <span class="ap-dots">Thinking<span>.</span><span>.</span><span>.</span></span>
             </div>
           </div>
@@ -198,6 +272,12 @@
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
             {{ error }}
           </div>
+        </div>
+
+        <!-- ── Intro text (empty state — above context chip / footer) ──────── -->
+        <div v-if="messages.length === 0 && !loading && !error" class="apb-intro apb-intro--static">
+          <p class="apb-intro-main">Ask questions about EBA content and get help with interpretation.</p>
+          <p class="apb-intro-tip">Tip: press <kbd>Ctrl</kbd>+<kbd>K</kbd> to open Ask AI from anywhere on the wiki.</p>
         </div>
 
         <!-- ── Page context chip ─────────────────────────────────────────── -->
@@ -286,6 +366,9 @@ const showDropdown  = ref(false)
 const loading       = ref(false)
 const error         = ref('')
 const question      = ref('')
+const sourcesOpen   = ref({})   // { [msgIndex]: boolean } — which sources sections are expanded
+const feedback      = ref({})   // { [msgIndex]: 'helpful'|'unhelpful'|null }
+const copiedIdx     = ref(-1)   // index of the assistant message whose copy button is active
 
 // ─── Template refs ────────────────────────────────────────────────────────────
 const panelRef    = ref(null)
@@ -560,6 +643,7 @@ async function submit() {
       role:      'assistant',
       content:   rawAnswer,
       hedging:   detectHedging(rawAnswer),
+      sources:   Array.isArray(data.sources) ? data.sources : [],
       timestamp: new Date().toISOString(),
     })
   } catch (err) {
@@ -711,6 +795,41 @@ function detectHedging(md) {
     'not enough information', 'please specify', 'please include the eba',
     'i need more information', 'clarify which eba', 'specify which eba',
   ].some(p => lower.includes(p))
+}
+
+// ─── Sources toggle ───────────────────────────────────────────────────────────
+function toggleSources(i) {
+  sourcesOpen.value = { ...sourcesOpen.value, [i]: !sourcesOpen.value[i] }
+}
+
+// ─── Feedback ─────────────────────────────────────────────────────────────────
+function giveFeedback(i, val) {
+  feedback.value = { ...feedback.value, [i]: feedback.value[i] === val ? null : val }
+}
+
+// ─── Copy as Markdown ─────────────────────────────────────────────────────────
+async function copyAsMarkdown(content, i) {
+  try {
+    await navigator.clipboard.writeText(content)
+    copiedIdx.value = i
+    setTimeout(() => { if (copiedIdx.value === i) copiedIdx.value = -1 }, 2000)
+  } catch { /* silent */ }
+}
+
+// ─── Retry ────────────────────────────────────────────────────────────────────
+function retryMessage(i) {
+  const idx = chats.value.findIndex(c => c.id === activeChatId.value)
+  if (idx === -1) return
+  const rawMsgs = chats.value[idx].messages
+  // i is the assistant message index; the preceding user message is at i-1
+  const userMsg = rawMsgs[i - 1]
+  if (!userMsg || userMsg.role !== 'user') return
+  // Trim the chat back to just before that user message and re-submit
+  chats.value[idx] = { ...chats.value[idx], messages: rawMsgs.slice(0, i - 1) }
+  chats.value = [...chats.value]
+  saveChats()
+  question.value = userMsg.content
+  nextTick(() => submit())
 }
 
 // ─── Lifecycle ────────────────────────────────────────────────────────────────
@@ -1137,46 +1256,158 @@ onUnmounted(() => {
   color:         var(--vp-c-text-1);
   border-radius: 12px 12px 4px 12px;
 }
-.apm-row--assistant .apm-bubble {
-  background:    var(--vp-c-bg-soft);
-  border:        1px solid var(--vp-c-divider);
-  color:         var(--vp-c-text-1);
-  border-radius: 12px 12px 12px 4px;
+/* ── Intro text ──────────────────────────────────────────────────────────────── */
+/* --inline  : first item inside scroll body (shown once messages exist)         */
+/* --static  : outside scroll body above context chip (shown when chat is empty) */
+.apb-intro          { flex-shrink: 0; }
+.apb-intro--inline  { padding: 0 0 0.35rem; }
+.apb-intro--static  { padding: 0 0.75rem 0.45rem; }
+
+.apb-intro-main {
+  margin:      0 0 0.3rem;
+  font-size:   0.82rem;
+  font-weight: 400;
+  color:       #1A2C44;
+  line-height: 1.45;
+}
+.apb-intro-tip {
+  margin:      0;
+  font-size:   0.82rem;
+  font-weight: 400;
+  color:       #1A2C44;
+  line-height: 1.45;
+}
+.apb-intro-tip kbd {
+  display:        inline-block;
+  padding:        0.06em 0.38em;
+  font-size:      0.72rem;
+  font-family:    var(--vp-font-family-mono);
+  color:          #1A2C44;
+  background:     var(--vp-c-bg-mute);
+  border:         1px solid var(--vp-c-divider);
+  border-bottom:  2px solid var(--vp-c-divider);
+  border-radius:  3px;
+  vertical-align: middle;
 }
 
-/* Markdown content inside assistant bubble */
-.apm-row--assistant .apm-bubble :deep(p)     { margin: 0 0 0.5em; }
-.apm-row--assistant .apm-bubble :deep(p:last-child) { margin: 0; }
-.apm-row--assistant .apm-bubble :deep(ul),
-.apm-row--assistant .apm-bubble :deep(ol)    { margin: 0.3em 0 0.4em 1.25em; padding: 0; }
-.apm-row--assistant .apm-bubble :deep(li)    { margin: 0.15em 0; }
-.apm-row--assistant .apm-bubble :deep(strong){ font-weight: 700; }
-.apm-row--assistant .apm-bubble :deep(h2),
-.apm-row--assistant .apm-bubble :deep(h3)    { font-size: 0.88rem; font-weight: 700; margin: 0.5em 0 0.2em; }
-.apm-row--assistant .apm-bubble :deep(code)  {
+/* ── Assistant answer (no bubble — plain rendered content) ───────────────────── */
+.apm-answer {
+  width:       100%;
+  font-size:   0.855rem;
+  line-height: 1.58;
+  color:       var(--vp-c-text-1);
+  word-wrap:   break-word;
+}
+
+.apm-answer :deep(p)           { margin: 0 0 0.5em; }
+.apm-answer :deep(p:last-child){ margin: 0; }
+.apm-answer :deep(ul),
+.apm-answer :deep(ol)          { margin: 0.3em 0 0.4em 1.25em; padding: 0; }
+.apm-answer :deep(li)          { margin: 0.15em 0; }
+.apm-answer :deep(strong)      { font-weight: 700; }
+.apm-answer :deep(h2),
+.apm-answer :deep(h3)          { font-size: 0.88rem; font-weight: 700; margin: 0.5em 0 0.2em; }
+.apm-answer :deep(code) {
   font-family:   var(--vp-font-family-mono);
   font-size:     0.82em;
   background:    var(--vp-c-bg-mute);
   padding:       0.1em 0.35em;
   border-radius: 3px;
 }
-.apm-row--assistant .apm-bubble :deep(pre) {
+.apm-answer :deep(pre) {
   background:    var(--vp-c-bg-mute);
   padding:       0.6em 0.8em;
   border-radius: 6px;
   overflow-x:    auto;
   margin:        0.4em 0;
 }
-.apm-row--assistant .apm-bubble :deep(pre code) {
-  background: none;
-  padding:    0;
-}
-.apm-row--assistant .apm-bubble :deep(a) {
+.apm-answer :deep(pre code) { background: none; padding: 0; }
+.apm-answer :deep(a) {
   color:           var(--vp-c-brand-1);
   text-decoration: underline;
 }
 
-/* Loading dots inside assistant bubble */
+/* Loading state reuses .apm-answer */
+.apm-answer--loading { min-width: 72px; }
+
+/* ── Sources collapsible ─────────────────────────────────────────────────────── */
+.apm-sources {
+  margin-top: 0.4rem;
+  width:      100%;
+}
+
+.apm-sources-toggle {
+  display:     flex;
+  align-items: center;
+  gap:         0.3rem;
+  background:  none;
+  border:      none;
+  padding:     0.2rem 0;
+  font-size:   0.77rem;
+  color:       var(--vp-c-brand-1);
+  cursor:      pointer;
+  transition:  opacity 0.12s;
+}
+.apm-sources-toggle:hover { opacity: 0.75; }
+
+.apm-sources-chevron {
+  transition: transform 0.18s;
+  flex-shrink: 0;
+}
+.apm-sources-chevron--open { transform: rotate(180deg); }
+
+.apm-sources-list {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.1rem;
+  margin-top:     0.2rem;
+  padding:        0.1rem 0 0.1rem 0.15rem;
+}
+
+.apm-source-link {
+  display:         flex;
+  align-items:     center;
+  gap:             0.4rem;
+  font-size:       0.78rem;
+  color:           var(--vp-c-brand-1);
+  text-decoration: none;
+  padding:         0.15rem 0;
+  transition:      color 0.12s;
+}
+.apm-source-link:hover { text-decoration: underline; }
+.apm-source-link svg   { flex-shrink: 0; opacity: 0.6; }
+
+/* ── Action toolbar — ghost icon-only buttons ────────────────────────────────── */
+.apm-toolbar {
+  display:     flex;
+  align-items: center;
+  gap:         0.05rem;
+  margin-top:  0.3rem;
+}
+
+.apm-tool-btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           28px;
+  height:          28px;
+  padding:         0;
+  border:          none;
+  border-radius:   5px;
+  background:      none;
+  color:           var(--vp-c-text-3);
+  cursor:          pointer;
+  opacity:         0.45;
+  transition:      opacity 0.15s, color 0.15s;
+}
+.apm-tool-btn:hover              { opacity: 1; color: var(--vp-c-text-1); }
+.apm-tool-btn--helpful           { color: var(--vp-c-green-1, #22863a); opacity: 0.75; }
+.apm-tool-btn--helpful:hover     { opacity: 1; }
+.apm-tool-btn--unhelpful         { color: var(--vp-c-red-1, #e53e3e);   opacity: 0.75; }
+.apm-tool-btn--unhelpful:hover   { opacity: 1; }
+.apm-tool-btn--copied            { color: var(--vp-c-brand-1);          opacity: 1;    }
+
+/* Loading dots (shared by both bubble and answer contexts) */
 .apm-bubble--loading { min-width: 72px; }
 .ap-dots span {
   display:         inline-block;

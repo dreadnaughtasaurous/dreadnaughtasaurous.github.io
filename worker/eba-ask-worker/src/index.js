@@ -1402,7 +1402,10 @@ If the question is outside EBA coverage (WorkCover, unfair dismissal, Fair Work 
 // value for factual, source-grounded tasks on all four models in the chain.
 function buildMessages(question, pages, history = [], style = 'detailed') {
   const context = pages
-    .map((p, i) => `--- Source ${i + 1} (${p.path}) ---\n${p.text}`)
+    .map((p, i) => {
+      const url = `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '')}`
+      return `--- Source ${i + 1} ---\nURL: ${url}\n${p.text}`
+    })
     .join('\n\n');
 
   // Build the messages array:
@@ -1434,6 +1437,7 @@ function buildMessages(question, pages, history = [], style = 'detailed') {
           `- Then write **Explanation:** followed by the clause detail.\n` +
           `- Only include **Conditions:** if the answer depends on employment type, classification, or hours worked. Skip it if the answer is the same for everyone.\n` +
           `- Do NOT include a Sources section. Do NOT write "Sources:" anywhere.\n` +
+          `- When you refer to a specific clause by name, hyperlink it using the URL from its source block: [Clause 49 – Overtime](URL). Only link clauses you are directly referencing.\n` +
           `- Bold all clause numbers: **Clause 49**, not Clause 49.\n` +
           `- Bold all rates and dollar amounts: **250%**, **$45.60**.\n` +
           `- Use - bullet lists, never numbered lists inside Explanation or Conditions.\n` +
@@ -1446,6 +1450,20 @@ function buildMessages(question, pages, history = [], style = 'detailed') {
     ...historyMessages,
     userMessage,
   ]
+}
+
+// ─── PATH → DISPLAY TITLE ────────────────────────────────────────────────────
+// Converts a raw file path like 'ebas/nurses-midwives/hours-of-work/49-overtime.md'
+// into a human-readable title 'Clause 49 – Overtime' for the sources list.
+function pathToTitle(path) {
+  const slug = path.replace('.md', '').split('/').pop()
+  const m = slug.match(/^(\d+[a-z]?)-(.+)$/)
+  if (m) {
+    const words = m[2].replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+    return `Clause ${m[1]} \u2013 ${words}`
+  }
+  // Fallback for index pages or unusual slugs
+  return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
 }
 
 // Tier 1: Cerebras — llama3.1-8b — 1,000,000 tokens/day free
@@ -1818,7 +1836,12 @@ export default {
     }
 
     // Sources derived from the fetched pages — used by both response paths.
-    const sources = pages.map(p => `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '.html')}`);
+    // Returned as {url, title} objects so the frontend can render linked titles.
+    // Uses clean URLs (no .html) matching VitePress cleanUrls:true configuration.
+    const sources = pages.map(p => ({
+      url:   `https://dreadnaughtasaurous.github.io/${p.path.replace('.md', '')}`,
+      title: pathToTitle(p.path),
+    }));
 
     // ── Streaming branch ─────────────────────────────────────────────────────
     // When the client requests stream:true (SearchModal inline AI answers), return
