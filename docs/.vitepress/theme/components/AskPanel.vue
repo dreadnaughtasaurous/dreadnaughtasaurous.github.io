@@ -95,11 +95,7 @@
 
         <!-- ── Disclaimer ──────────────────────────────────────────────────── -->
         <div class="ask-panel-disclaimer" role="note">
-          Responses are generated using AI and may contain mistakes.
-          <template v-if="activeChat?.scope === 'page' && activeChat?.pageTitle">
-            <span class="apd-sep-dot" aria-hidden="true">·</span>
-            <a :href="activeChat.pageUrl" class="apd-ctx-link" @click.prevent="navigateToPage">{{ activeChat.pageTitle }}</a>
-          </template>
+          Responses are generated using AI and may contain mistakes. 
         </div>
 
         <!-- ── Context filters ────────────────────────────────────────────── -->
@@ -202,6 +198,23 @@
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
             {{ error }}
           </div>
+        </div>
+
+        <!-- ── Page context chip ─────────────────────────────────────────── -->
+        <!-- Lives outside the footer so it floats above the input without
+             altering the input box geometry or footer border alignment.    -->
+        <div
+          v-if="activeChat?.scope === 'page' && activeChat?.pageTitle"
+          class="ask-panel-context"
+        >
+          <svg class="apc-icon" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/>
+          </svg>
+          <a :href="activeChat.pageUrl" class="apc-link" :title="activeChat.pageTitle" @click.prevent="navigateToPage">{{ activeChat.pageTitle }}</a>
+          <button class="apc-clear" @click="clearPageContext" aria-label="Dismiss selection">
+            <svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            <span class="apc-tip" aria-hidden="true">Dismiss selection</span>
+          </button>
         </div>
 
         <!-- ── Footer / input ──────────────────────────────────────────────── -->
@@ -486,6 +499,16 @@ function navigateToPage() {
     router.go(activeChat.value.pageUrl)
     close()
   }
+}
+
+// Dismiss the page context chip — switches the active chat to wiki-wide scope
+// so the user can ask general questions without closing the panel.
+function clearPageContext() {
+  const idx = chats.value.findIndex(c => c.id === activeChatId.value)
+  if (idx === -1) return
+  chats.value[idx] = { ...chats.value[idx], scope: 'wiki', pageUrl: '', pageTitle: '' }
+  chats.value = [...chats.value]
+  saveChats()
 }
 
 // ─── Submit ───────────────────────────────────────────────────────────────────
@@ -1045,13 +1068,6 @@ onUnmounted(() => {
   flex-shrink:   0;
   line-height:   1.4;
 }
-.apd-sep-dot  { opacity: 0.5; }
-.apd-ctx-link {
-  color:           var(--vp-c-brand-1);
-  text-decoration: none;
-  font-weight:     500;
-}
-.apd-ctx-link:hover { text-decoration: underline; }
 
 /* ── Messages body ───────────────────────────────────────────────────────────── */
 .ask-panel-body {
@@ -1300,12 +1316,85 @@ onUnmounted(() => {
   line-height: 1.4;
 }
 
+/* ── Page context chip ────────────────────────────────────────────────────────── */
+/* margin: 0 0.75rem aligns chip edges with the textarea inside the footer.
+   margin-bottom: 0.45rem gives float clearance above the footer border-top,
+   creating the illusion of hovering above the input box.                          */
+.ask-panel-context {
+  display:       flex;
+  align-items:   center;
+  gap:           0.4rem;
+  margin:        0 0.75rem 0.45rem;
+  padding:       0.38rem 0.55rem;
+  background:    var(--vp-c-bg-soft);
+  border:        1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  box-shadow:    0 2px 8px rgba(0, 0, 0, 0.07), 0 1px 2px rgba(0, 0, 0, 0.04);
+  flex-shrink:   0;
+}
+
+.apc-icon {
+  flex-shrink: 0;
+  color:       var(--vp-c-text-3);
+}
+
+.apc-link {
+  flex:            1;
+  min-width:       0;
+  font-size:       0.78rem;
+  font-weight:     500;
+  color:           var(--vp-c-brand-1);
+  white-space:     nowrap;
+  overflow:        hidden;
+  text-overflow:   ellipsis;
+  text-decoration: none;
+  transition:      color 0.12s;
+}
+.apc-link:hover { color: var(--vp-c-brand-1); text-decoration: underline; }
+
+.apc-clear {
+  position:        relative;
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  flex-shrink:     0;
+  width:           18px;
+  height:          18px;
+  border:          none;
+  background:      none;
+  color:           var(--vp-c-text-3);
+  cursor:          pointer;
+  padding:         0;
+  border-radius:   4px;
+  margin-left:     auto;
+  transition:      color 0.12s, background 0.12s;
+}
+.apc-clear:hover { color: var(--vp-c-text-1); background: var(--vp-c-bg-mute); }
+
+.apc-tip {
+  position:       absolute;
+  bottom:         calc(100% + 6px);
+  right:          0;
+  background:     var(--vp-c-bg-inverse, #1e1e20);
+  color:          var(--vp-c-text-inverse, #ffffff);
+  font-size:      0.68rem;
+  font-weight:    500;
+  white-space:    nowrap;
+  padding:        0.25rem 0.5rem;
+  border-radius:  5px;
+  pointer-events: none;
+  opacity:        0;
+  transition:     opacity 0.15s;
+  z-index:        10;
+}
+.apc-clear:hover .apc-tip { opacity: 1; }
+
 /* ── Footer / input ───────────────────────────────────────────────────────────── */
 .ask-panel-footer {
   display:     flex;
   align-items: flex-end;
   gap:         0.5rem;
-  padding:     0.6rem 0.75rem;
+  padding:     0.55rem 0.75rem 0.6rem;
   border-top:  1px solid var(--vp-c-divider);
   flex-shrink: 0;
   background:  var(--vp-c-bg);
