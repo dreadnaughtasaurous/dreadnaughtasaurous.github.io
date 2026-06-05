@@ -69,7 +69,7 @@ head: [
          text: 'More',
          items: [
            { text: '🏷️ Topics',      link: '/topics/' },
-           { text: '❓ How to Search', link: '/about/how-to-search/' },
+           { text: '❓ How to Use', link: '/about/how-to-use/' },
            { text: '🗄️ Archive',    link: '/archive/' },
            { text: '📋 Changelog',  link: '/changelog' },
            { text: '📊 Admin Dashboard', link: '/admin/analytics' }

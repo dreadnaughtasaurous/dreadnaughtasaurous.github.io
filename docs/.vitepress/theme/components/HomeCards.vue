@@ -12,7 +12,7 @@
           <a href="/pay-rates" class="home-btn home-btn-primary">💰 Pay Rates</a>
           <a href="/topics/" class="home-btn home-btn-secondary">🏷️ Browse by Topic</a>
           <a href="/for-you/" class="home-btn home-btn-secondary">✨ For You</a>
-          <a href="/about/how-to-search" class="home-btn home-btn-secondary">🔍 How to Search</a>
+          <a href="/about/how-to-use" class="home-btn home-btn-secondary">🔍 How to Use</a>
         </div>
       </div>
       <div class="home-hero-image">
