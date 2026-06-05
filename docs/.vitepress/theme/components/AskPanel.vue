@@ -187,6 +187,7 @@
                 <span>Be specific — name the entitlement, not the topic</span>
               </div>
             </div>
+            <p class="apb-empty-sub apb-empty-tip">Press <kbd>Ctrl</kbd>+<kbd>K</kbd> to open Ask AI from anywhere on the wiki.</p>
           </div>
 
           <!-- Message bubbles -->
@@ -284,12 +285,6 @@
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
             {{ error }}
           </div>
-        </div>
-
-        <!-- ── Intro text (empty state — above context chip / footer) ──────── -->
-        <div v-if="messages.length === 0 && !loading && !error" class="apb-intro apb-intro--static">
-          <p class="apb-intro-main">Ask questions about EBA content and get help with interpretation.</p>
-          <p class="apb-intro-tip">Tip: press <kbd>Ctrl</kbd>+<kbd>K</kbd> to open Ask AI from anywhere on the wiki.</p>
         </div>
 
         <!-- ── Page context chip ─────────────────────────────────────────── -->
@@ -1315,7 +1310,23 @@ onUnmounted(() => {
 /* --static  : outside scroll body above context chip (shown when chat is empty) */
 .apb-intro          { flex-shrink: 0; }
 .apb-intro--inline  { padding: 0 0 0.35rem; }
-.apb-intro--static  { padding: 0 0.75rem 0.45rem; }
+.apb-intro--static  { padding: 0 0.75rem 0.45rem; } /* unused — kept for safety */
+
+.apb-empty-tip {
+  margin-top: 0.55rem;
+}
+.apb-empty-tip kbd {
+  display:        inline-block;
+  padding:        0.06em 0.38em;
+  font-size:      0.7rem;
+  font-family:    var(--vp-font-family-mono);
+  color:          var(--vp-c-text-3);
+  background:     var(--vp-c-bg-mute);
+  border:         1px solid var(--vp-c-divider);
+  border-bottom:  2px solid var(--vp-c-divider);
+  border-radius:  3px;
+  vertical-align: middle;
+}
 
 .apb-intro-main {
   margin:      0 0 0.3rem;
