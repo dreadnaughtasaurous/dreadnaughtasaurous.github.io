@@ -41,8 +41,70 @@
 }
 
 /* =============================================
+   Design Tokens
+   ─────────────────────────────────────────────
+   Single source of truth for the wiki's visual
+   scale. Reference these rather than hard-coding
+   values — changes propagate everywhere.
+
+   Stripe-inspired: one radius scale, one shadow
+   scale, one focus ring definition.
+   ============================================= */
+
+:root {
+  /* ── Border radius ── */
+  --wiki-radius-sm:  4px;   /* chips, badges, code tags           */
+  --wiki-radius-md:  6px;   /* buttons, inputs, dropdowns         */
+  --wiki-radius-lg:  8px;   /* cards, panels, tooltips            */
+  --wiki-radius-xl:  12px;  /* modals, large floating surfaces    */
+
+  /* ── Shadows ── */
+  --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05);
+  --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.09), 0 2px 4px rgba(0,0,0,0.06);
+  --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.12), 0 2px 6px rgba(0,0,0,0.07);
+
+  /* ── Focus ring ── */
+  /* outline (not box-shadow) so it respects border-radius natively  */
+  /* in modern browsers AND remains visible in Windows High Contrast. */
+  --wiki-focus-color:  var(--vp-c-brand-1);
+  --wiki-focus-width:  2px;
+  --wiki-focus-offset: 2px;
+}
+
+.dark {
+  --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.22), 0 1px 2px rgba(0,0,0,0.15);
+  --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.38), 0 2px 4px rgba(0,0,0,0.22);
+  --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.55), 0 2px 6px rgba(0,0,0,0.28);
+}
+
+/* =============================================
    Pay Rates Page — Pay Card Components
    ============================================= */
+
+/* =============================================
+   Global Focus Ring
+   ─────────────────────────────────────────────
+   Consistent, brand-coloured `:focus-visible`
+   ring applied to all interactive elements
+   within wiki-owned layout regions.
+
+   Scoped to .home-wrapper, .vp-doc, and
+   .eip-root — avoids fighting VitePress nav
+   and sidebar which manage their own rings.
+
+   Components that implement their own
+   focus treatment (SearchModal filter selects,
+   toggle switches) keep their scoped rules —
+   these do not conflict because specificity
+   is equal and declaration order wins.
+   ============================================= */
+
+.home-wrapper :focus-visible,
+.vp-doc :focus-visible,
+.eip-root :focus-visible {
+  outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
+  outline-offset: var(--wiki-focus-offset);
+}
 
 .pay-card {
   border: 1px solid var(--vp-c-divider);
@@ -50,15 +112,16 @@
   padding: 1rem 1.2rem;
   margin: 1rem 0;
   background: var(--vp-c-bg-soft);
-  transition: box-shadow 0.15s;
+  transition: box-shadow 0.15s, transform 0.15s;
 }
 
 .pay-card:hover {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: var(--wiki-shadow-lift);
+  transform: translateY(-1px);
 }
 
 .dark .pay-card:hover {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: var(--wiki-shadow-lift);
 }
 
 .pay-card h3 {
@@ -564,16 +627,17 @@
   border: 1px solid var(--vp-c-divider);
   border-radius: 10px;
   padding: 1.125rem 1.25rem 1rem;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
 }
 
 .eba-entry:hover {
   border-color: var(--entry-accent, var(--vp-c-brand-1));
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.07);
+  box-shadow: var(--wiki-shadow-lift);
+  transform: translateY(-1px);
 }
 
 .dark .eba-entry:hover {
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+  box-shadow: var(--wiki-shadow-lift);
 }
 
 .eba-entry-header {
@@ -1758,11 +1822,16 @@ html {
   border-radius: 0;
 }
 
-.vp-doc .gloss-term:hover,
-.vp-doc .gloss-term:focus-visible {
+.vp-doc .gloss-term:hover {
   background-color: var(--vp-c-brand-soft);
   border-radius: 2px;
-  outline: none;
+}
+
+.vp-doc .gloss-term:focus-visible {
+  background-color: var(--vp-c-brand-soft);
+  border-radius:  2px;
+  outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
+  outline-offset: var(--wiki-focus-offset);
 }
 
 /* Tooltip card — teleported to <body> so it is never clipped by overflow:hidden */
