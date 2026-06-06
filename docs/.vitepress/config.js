@@ -24,6 +24,7 @@ head: [
     // data file, not an ES module, so modulepreload does not apply.
     // The WASM bundle (~500KB) is intentionally excluded — it is fetched lazily
     // by pagefind.init() only when the user first opens search.
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css' }],
     ['link', { rel: 'modulepreload', href: '/pagefind/pagefind.js' }],
     ['link', { rel: 'prefetch', href: '/pagefind/pagefind-entry.json', as: 'fetch', crossorigin: 'anonymous' }],
   ],

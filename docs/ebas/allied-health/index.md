@@ -10,40 +10,4 @@ topics: []
 AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
 </div>
 
-# Allied Health Professionals (Victorian Public Sector) 2021-2026
-
----
-
-<FileAttachment
-  href="/attachments/allied-health/allied-health-eba-2021-2026.pdf"
-  label="Enterprise Bargaining Agreement"
-  description="Allied Health EBA 2021–2026"
-/>
-
-|  |  |
-|---|---|
-| **Full title** | Allied Health Professionals (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2026 |
-| **Coverage** | Allied Health Professionals (AHP1, AHP2 and AHP3 classifications) employed by the Victorian public sector employers listed at Appendix 1 |
-| **Commencement** | 22 December 2022 (as ordered by the Fair Work Commission Full Bench on 20 December 2022 in [2022] FWCFB 239) |
-| **Nominal expiry** | 28 February 2026 |
-| **Employer representative** | Victorian Hospitals' Industrial Association (VHIA) |
-| **Employee representative** | Health Services Union, Victoria No. 3 Branch, trading as the Victorian Allied Health Professionals Association (VAHPA) |
-| **Fair Work reference** | AE518601 ([2022] FWCFB 239, ODN AG2022/5276) |
-
----
-
-- [Part A - Preliminary](preliminary/)
-- [Part B - Consultation, Dispute Resolution and Discipline](consultation-disputes/)
-- [Part C - Types of Employment and Termination of Employment](employment/)
-- [Part D - Wages](wages/)
-- [Part E - Allowances and Reimbursements](allowances/)
-- [Part F - Hours of Work and Related Matters](hours-of-work/)
-- [Part G - Public Holidays, Leave and Related Matters](leave/)
-- [Part H - Education and Professional Development](education-pd/)
-- [Part I - Union Matters and Best Practice Employment Commitment](union-matters/)
-- [Part J - Classifications and Staffing](classification-staffing/)
-- [Part K - Workplace Rights](workplace-rights/)
-- [Part L - Occupational Health and Safety](ohs/)
-- [Appendices](appendices/) - employer list, pay/allowance rates, forms and templates
-
-
+<EBAIndexPage />

@@ -30,6 +30,7 @@ import ForYou          from './components/ForYou.vue'
 import EBAStatusStrip  from './components/EBAStatusStrip.vue'
 import EBAExplorer     from './components/EBAExplorer.vue'
 import EBABrowseGrid   from './components/EBABrowseGrid.vue'
+import EBAIndexPage    from './components/EBAIndexPage.vue'
 
 export default {
   extends: DefaultTheme,
@@ -133,6 +134,7 @@ export default {
     app.component('EBAStatusStrip',        EBAStatusStrip)
     app.component('EBAExplorer',           EBAExplorer)
     app.component('EBABrowseGrid',         EBABrowseGrid)
+    app.component('EBAIndexPage',          EBAIndexPage)
 
     // ── Clause Panel — router interception ─────────────────────────────────
     // onBeforeRouteChange fires inside VitePress's router before any navigation
