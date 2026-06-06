@@ -1970,7 +1970,7 @@ async function initPagefind() {
       pagefind = await new Function('path', 'return import(path)')(importPath)
       await pagefind.init()
       await pagefind.options({
-        ranking: { pageLength: 0.6, termFrequency: 0.8, termSimilarity: 0.9, termSaturation: 1.6 }
+        ranking: { pageLength: 0.72, termFrequency: 1.0, termSimilarity: 0.9, termSaturation: 1.3 }
       })
     } catch {
       console.warn('Pagefind not available — run npm run docs:index first.')
@@ -2623,7 +2623,7 @@ async function doSearch() {
     : cleanQuery || null
 
   try {
-    const search = await pagefind.search(pfQuery, { filters })
+    const search = await pagefind.search(pfQuery, { filters, excerptLength: 45 })
 
     // ── Show skeleton cards immediately — count is known from stubs ───────
     // Stubs are available instantly; .data() calls happen below.
@@ -2741,7 +2741,7 @@ async function runFuzzyFallback(originalQuery, filters) {
     const stem      = lastWord.slice(0, len)
     const candidate = [...words.slice(0, -1), stem].join(' ')
     try {
-      const search = await pagefind.search(candidate, { filters })
+      const search = await pagefind.search(candidate, { filters, excerptLength: 45 })
       if (search.results.length > 0) {
         const settled = await Promise.allSettled(search.results.slice(0, 8).map(r => r.data()))
         const data    = settled.filter(s => s.status === 'fulfilled').map(s => s.value)
