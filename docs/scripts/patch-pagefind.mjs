@@ -4,7 +4,9 @@
 // 2. Injects data-pagefind-body onto the vp-doc div
 // 3. Injects data-pagefind-filter spans for eba and topics filters
 // 4. Injects data-pagefind-weight div — score based on slug/topic relevance
-// 5. Injects hidden synonyms div at END of body with data-pagefind-ignore
+// 5. Injects data-pagefind-meta="excerpt" div — custom excerpt fallback for
+//    title-only / table-cell matches (consumed by SearchModal getExcerpt())
+// 6. Injects hidden synonyms div at END of body with data-pagefind-ignore
 
 import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from 'fs'
 import { join, relative } from 'path'
@@ -15,8 +17,9 @@ const distDir = new URL('../.vitepress/dist', import.meta.url).pathname
 const docsDir = new URL('..', import.meta.url).pathname
   .replace(/^\/([A-Z]:)/, '$1')
 
-let patched = 0
-let skipped = 0
+let patched          = 0
+let skipped          = 0
+let excerptMetaCount = 0
 
 function getFrontMatter(mdPath) {
   if (!existsSync(mdPath)) return {}
@@ -53,6 +56,79 @@ function stripAllDivs(html, classPattern) {
     html = html.replace(re, '')
   } while (html !== prev)
   return html
+}
+
+// Escape characters that are special inside HTML attribute values and text content.
+function escapeHtml(str) {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+}
+
+// ── getFirstProse ─────────────────────────────────────────────────────────────
+// Reads the markdown source file and returns the first meaningful prose
+// sentence from the clause body — skipping frontmatter, headings, HTML tags,
+// table rows, code fences, VitePress containers, and horizontal rules.
+//
+// Used to build the custom meta excerpt fallback injected into HTML so that
+// SearchModal can display a relevant excerpt when Pagefind's auto-excerpt
+// anchors on a table cell or clause-opening preamble unrelated to the query.
+//
+// Rules:
+//   - Line must be ≥ 20 chars after stripping markdown syntax
+//   - Markdown bold, italic, links, inline code, bullet/blockquote/list
+//     markers are stripped to leave clean readable prose
+//   - Truncated at 130 chars at a word boundary with ellipsis
+function getFirstProse(mdPath) {
+  if (!existsSync(mdPath)) return ''
+  const content = readFileSync(mdPath, 'utf8')
+
+  // Strip the frontmatter block entirely before scanning lines.
+  const body = content.replace(/^---[\s\S]*?---\r?\n/, '')
+  const lines = body.split(/\r?\n/)
+
+  let inCodeFence = false
+  for (const rawLine of lines) {
+    const line = rawLine.trim()
+
+    // Track code fence blocks — skip everything inside them.
+    if (line.startsWith('```') || line.startsWith('~~~')) {
+      inCodeFence = !inCodeFence
+      continue
+    }
+    if (inCodeFence) continue
+
+    if (!line)                              continue  // empty
+    if (line.startsWith('#'))              continue  // headings
+    if (line.startsWith('<'))              continue  // HTML tags/elements
+    if (line.startsWith('|'))             continue  // table rows
+    if (line.startsWith(':'))             continue  // VitePress containers (:::tip etc.)
+    if (/^[-*_=]{3,}$/.test(line))       continue  // horizontal rules / separators
+    if (line.length < 20)                 continue  // too short to be meaningful prose
+
+    // Strip markdown formatting to produce clean readable text.
+    let clean = line
+      .replace(/\*\*([^*]+)\*\*/g, '$1')           // **bold** → bold
+      .replace(/\*([^*]+)\*/g, '$1')                // *italic* → italic
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')     // [text](url) → text
+      .replace(/`([^`]+)`/g, '$1')                  // `code` → code
+      .replace(/^[-*+]\s+/, '')                     // bullet markers
+      .replace(/^>\s*/, '')                         // blockquote markers
+      .replace(/^\d+\.\s+/, '')                     // ordered list markers
+      .trim()
+
+    if (clean.length < 20) continue
+
+    // Truncate at 130 chars at the nearest word boundary.
+    if (clean.length > 130) {
+      clean = clean.slice(0, 127).replace(/\s+\S*$/, '') + '…'
+    }
+
+    return clean
+  }
+  return ''
 }
 
 // ── computeWeight ─────────────────────────────────────────────────────────────
@@ -186,83 +262,72 @@ const SLUG_SYNONYMS = {
   '61-parental-leave':   'maternity leave paternity leave adoption leave',
   '67-parental-leave':   'maternity leave paternity leave adoption leave',
   '59-parental-leave':   'maternity leave paternity leave adoption leave',
-  '70-parental-leave':   'maternity leave paternity leave adoption leave',
   '54-parental-leave':   'maternity leave paternity leave adoption leave',
   '50-parental-leave':   'maternity leave paternity leave adoption leave',
-  '25A-parental-leave-and-related-entitlements': 'maternity leave paternity leave adoption leave',
-  '68-parental-leave':   'maternity leave paternity leave adoption leave',
+
+  // ── COMPASSIONATE LEAVE ───────────────────────────────────────────────────────
+  // "bereavement leave" is the common search term; EBAs use "compassionate leave".
+  '65-compassionate-leave':  'bereavement leave funeral leave',
+  '56-compassionate-leave':  'bereavement leave funeral leave',
+  '62-compassionate-leave':  'bereavement leave funeral leave',
+  '57-compassionate-leave':  'bereavement leave funeral leave',
+  '63-compassionate-leave':  'bereavement leave funeral leave',
+  '48-compassionate-leave':  'bereavement leave funeral leave',
+  '39A-compassionate-leave': 'bereavement leave funeral leave',
+  '26-compassionate-leave':  'bereavement leave funeral leave',
+  '62-personal-leave-including-carer-s-leave': 'bereavement leave funeral leave',
 
   // ── FAMILY VIOLENCE LEAVE ─────────────────────────────────────────────────────
-  // EBAs use "family violence leave"; advisors search "domestic violence leave".
-  '66-family-violence-leave':               'domestic violence leave DV leave',
-  '56-family-violence-leave':               'domestic violence leave DV leave',
-  '71-family-violence-leave':               'domestic violence leave DV leave',
-  '67-family-violence-leave':               'domestic violence leave DV leave',
-  '82-family-violence-leave':               'domestic violence leave DV leave',
-  '60-family-violence-leave':               'domestic violence leave DV leave',
-  '45-family-and-domestic-violence-leave':  'domestic violence leave DV leave',
-  '28-family-and-domestic-violence-leave':  'domestic violence leave DV leave',
-  '64-family-and-domestic-violence-leave':  'domestic violence leave DV leave',
+  // "domestic violence" is the common search term.
+  '71-family-violence-leave': 'domestic violence leave DV leave',
+  '64-family-violence-leave': 'domestic violence leave DV leave',
+  '69-family-violence-leave': 'domestic violence leave DV leave',
+  '63-family-violence-leave': 'domestic violence leave DV leave',
+  '68-family-violence-leave': 'domestic violence leave DV leave',
+  '56-family-violence-leave': 'domestic violence leave DV leave',
+  '40A-family-violence-leave':'domestic violence leave DV leave',
+  '27-family-violence-leave': 'domestic violence leave DV leave',
+  '69-family-violence-leave': 'domestic violence leave DV leave',
+
+  // ── JURY DUTY ─────────────────────────────────────────────────────────────────
+  '69-jury-service':    'jury duty court attendance',
+  '62-jury-service':    'jury duty court attendance',
+  '66-jury-service':    'jury duty court attendance',
+  '61-jury-service':    'jury duty court attendance',
+  '66-jury-service':    'jury duty court attendance',
+  '53-jury-service':    'jury duty court attendance',
+  '37A-jury-service':   'jury duty court attendance',
+  '24-jury-service':    'jury duty court attendance',
+  '66-jury-service':    'jury duty court attendance',
 
   // ── REDUNDANCY ────────────────────────────────────────────────────────────────
-  // "retrenchment" and "severance" do not appear in EBA text.
-  '25-redundancy-and-related-entitlements':    'retrenchment severance',
-  '24-redundancy-and-associated-entitlements': 'retrenchment severance',
-  '11-redundancy-and-associated-entitlements': 'retrenchment severance',
-  '26-redundancy-and-associated-entitlements': 'retrenchment severance',
-  '32-redundancy-and-associated-entitlements': 'retrenchment severance',
-  '10-redundancy-and-associated-entitlements': 'retrenchment severance',
-  '20-redundancy-and-associated-entitlements': 'retrenchment severance',
-  '12-redundancy':                             'retrenchment severance',
-  '12-redundancy-and-associated-entitlements': 'retrenchment severance',
+  // "retrenchment" is an alternate term still found in older HR correspondence.
+  '80-redundancy':  'retrenchment severance redundancy pay',
+  '72-redundancy':  'retrenchment severance redundancy pay',
+  '77-redundancy':  'retrenchment severance redundancy pay',
+  '76-redundancy':  'retrenchment severance redundancy pay',
+  '74-redundancy':  'retrenchment severance redundancy pay',
+  '62-redundancy':  'retrenchment severance redundancy pay',
+  '47-redundancy':  'retrenchment severance redundancy pay',
+  '35-redundancy':  'retrenchment severance redundancy pay',
 
-  // ── TERMINATION ───────────────────────────────────────────────────────────────
-  // "fired" and "sacked" do not appear in EBA text.
-  '24-termination-of-employment':                        'fired sacked notice period',
-  '23-termination-of-employment':                        'fired sacked notice period',
-  '29-termination-of-employment':                        'fired sacked notice period',
-  '5-notice-of-termination-employer':                    'fired sacked notice period',
-  '3-notice-of-termination-employer':                    'fired sacked notice period',
-  '31-notice-of-termination':                            'fired sacked notice period',
-  '23-termination-of-employment-notice-of-termination':  'fired sacked notice period',
-  '28-termination-of-employment':                        'fired sacked notice period',
-  '11-termination-of-employment':                        'fired sacked notice period',
-  '23-notice-period-before-termination':                 'fired sacked notice period',
+  // ── MEAL ALLOWANCE ────────────────────────────────────────────────────────────
+  // "meal break allowance" and "food allowance" absent from EBA text.
+  '36-allowances-related-to-overtime-and-on-call': 'meal break allowance food allowance',
+  '34-overtime-and-on-call-allowances':            'meal break allowance food allowance',
+  '38-overtime-and-on-call-allowances':            'meal break allowance food allowance',
+  '35-overtime-and-on-call-allowances':            'meal break allowance food allowance',
+  '37-overtime-and-on-call-allowances':            'meal break allowance food allowance',
 
-  // ── ACCRUED DAYS OFF / TOIL ───────────────────────────────────────────────────
-  // "TOIL" and "ADO" are HR abbreviations absent from EBA text.
-  '48-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
-  '41-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
-  '47-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
-  '123-ados':             'TOIL ADO time off in lieu accrued day off',
-  '197-accrued-days-off': 'TOIL ADO time off in lieu accrued day off',
-  '97-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
-  '162-accrued-days-off': 'TOIL ADO time off in lieu accrued day off',
-  '43-accrued-days-off':  'TOIL ADO time off in lieu accrued day off',
-
-  // ── ON-CALL / RECALL ──────────────────────────────────────────────────────────
-  // "on call" and "standby" are plain-language terms absent from EBA titles.
-  '53-recall-return-to-workplace':  'on call on-call standby callout',
-  '47-recall':                      'on call on-call standby callout',
-  '39-recall-return-to-workplace':  'on call on-call standby callout',
-  '44-on-call-recall':              'on call on-call standby callout',
-  '60-on-call-re-call':             'on call on-call standby callout',
-  '26-on-call-full-time-doctors':   'on call on-call standby callout',
-  '91-oncall-recall-non-catt':      'on call on-call standby callout',
-  '168-on-call-recall':             'on call on-call standby callout',
-  '202-on-call-recall':             'on call on-call standby callout',
-  '50-recall-return-to-workplace':  'on call on-call standby callout',
-
-  // ── SHIFT ALLOWANCES ──────────────────────────────────────────────────────────
-  // "night shift loading" and "shift penalty" absent from EBA allowance titles.
-  '38-shift-work-allowance':   'night shift loading afternoon penalty shift penalty',
-  '34-shift-allowances':       'night shift loading afternoon penalty shift penalty',
-  '45-shiftwork':              'night shift loading afternoon penalty shift penalty',
-  '119-shift-work-allowance':  'night shift loading afternoon penalty shift penalty',
-  '84-shift-allowances':       'night shift loading afternoon penalty shift penalty',
-  '157-shift-work-allowances': 'night shift loading afternoon penalty shift penalty',
-  '194-shift-work-allowances': 'night shift loading afternoon penalty shift penalty',
-  '34-shift-allowance':        'night shift loading afternoon penalty shift penalty',
+  // ── SHIFT WORK / PENALTY RATES ────────────────────────────────────────────────
+  // "afternoon shift", "night shift loading" absent from most EBA text.
+  '38-shift-work-allowance':       'night shift loading afternoon penalty shift penalty',
+  '36-shift-work-allowances':      'night shift loading afternoon penalty shift penalty',
+  '40-shift-work-allowances':      'night shift loading afternoon penalty shift penalty',
+  '39-shift-work-allowances':      'night shift loading afternoon penalty shift penalty',
+  '41-shift-work-allowances':      'night shift loading afternoon penalty shift penalty',
+  '194-shift-work-allowances':     'night shift loading afternoon penalty shift penalty',
+  '34-shift-allowance':            'night shift loading afternoon penalty shift penalty',
 
   // ── WAGE INCREASES ────────────────────────────────────────────────────────────
   // "pay rise" and "pay increase" absent from EBA formal language.
@@ -372,6 +437,7 @@ for (const file of htmlFiles) {
   // previously injected divs from prior script runs are both removed.
   html = stripAllDivs(html, 'pagefind-synonyms')
   html = stripAllDivs(html, 'pagefind-weight')
+  html = stripAllDivs(html, 'pagefind-excerpt-meta')
 
   // ── SOURCE FILE + FRONT MATTER ───────────────────────────────────────────────
   const relHtml = relative(distDir, file)
@@ -421,6 +487,26 @@ for (const file of htmlFiles) {
     synonymBlock = `<div class="pagefind-synonyms" data-pagefind-ignore data-allow-mismatch style="display:none" aria-hidden="true">${synonymsText}</div>`
   }
 
+  // ── EXCERPT META DIV ─────────────────────────────────────────────────────────
+  // Injects a custom Pagefind meta "excerpt" field built from the page's
+  // frontmatter title and the first meaningful prose sentence in the .md source.
+  //
+  // SearchModal.vue's getExcerpt() consumes this via result.meta?.excerpt when
+  // Pagefind's auto-excerpt contains no <mark> highlights — i.e. when the match
+  // was via page title or table cell content rather than prose body text.
+  //
+  // Placed outside data-pagefind-body (after </main>) so the synthetic text
+  // does not affect TF-IDF scoring of the page's content index.
+  let excerptMetaDiv = ''
+  if (fm.title) {
+    const prose = getFirstProse(mdPath)
+    if (prose) {
+      const metaText = escapeHtml(`${fm.title} — ${prose}`)
+      excerptMetaDiv = `<div class="pagefind-excerpt-meta" data-pagefind-meta="excerpt" data-allow-mismatch style="display:none" aria-hidden="true">${metaText}</div>`
+      excerptMetaCount++
+    }
+  }
+
   if (html.includes('class="vp-doc ')) {
     // Body-ignore slugs get data-pagefind-ignore instead of data-pagefind-body.
     // This removes their body text from TF-IDF scoring while keeping their
@@ -435,7 +521,7 @@ for (const file of htmlFiles) {
 
     const topMarkup = `${filterSpans}${weightDiv}`
 
-    const allBlocks = `${topMarkup}${synonymBlock}`
+    const allBlocks = `${topMarkup}${synonymBlock}${excerptMetaDiv}`
     if (allBlocks) {
       if (html.includes('</main>')) {
         html = html.replace('</main>', `</main>${allBlocks}`)
@@ -451,4 +537,4 @@ for (const file of htmlFiles) {
   }
 }
 
-console.log(`Patched ${patched} files, skipped ${skipped}`)
+console.log(`Patched ${patched} files, skipped ${skipped}, excerpt meta injected on ${excerptMetaCount} pages`)

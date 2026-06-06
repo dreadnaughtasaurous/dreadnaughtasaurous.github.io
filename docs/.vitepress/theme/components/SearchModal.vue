@@ -510,7 +510,7 @@
                       <span v-if="result.meta?.section && result.meta?.clause" class="breadcrumb-sep">›</span>
                       <span v-if="result.meta?.clause" class="breadcrumb-clause">{{ result.meta.clause }}</span>
                     </div>
-                    <p v-if="result.excerpt" class="result-excerpt" v-html="cleanExcerpt(result.excerpt)"></p>
+                    <p v-if="result.excerpt || result.meta?.excerpt" class="result-excerpt" v-html="cleanExcerpt(getExcerpt(result))"></p>
                   </a>
                 </div>
                 <!-- ── Ask AI suggestions (zero results) ────────────────────── -->
@@ -696,7 +696,7 @@
                     <span v-if="result.meta?.section && result.meta?.clause" class="breadcrumb-sep">›</span>
                     <span v-if="result.meta?.clause" class="breadcrumb-clause">{{ result.meta.clause }}</span>
                   </div>
-                  <div v-if="result.excerpt" class="result-excerpt" v-html="cleanExcerpt(result.excerpt)"></div>
+                  <div v-if="result.excerpt || result.meta?.excerpt" class="result-excerpt" v-html="cleanExcerpt(getExcerpt(result))"></div>
                   <div v-if="result.filters?.topics?.length" class="result-topics">
                     <span v-for="t in result.filters.topics" :key="t" class="result-tag">{{ t }}</span>
                   </div>
@@ -780,7 +780,7 @@
           <span v-if="previewResult.meta?.section && previewResult.meta?.clause" class="breadcrumb-sep">›</span>
           <span v-if="previewResult.meta?.clause" class="breadcrumb-clause">{{ previewResult.meta.clause }}</span>
         </div>
-        <div v-if="previewResult.excerpt" class="preview-excerpt" v-html="cleanExcerpt(previewResult.excerpt)"></div>
+        <div v-if="previewResult.excerpt || previewResult.meta?.excerpt" class="preview-excerpt" v-html="cleanExcerpt(getExcerpt(previewResult))"></div>
         <div v-if="previewResult.filters?.topics?.length" class="preview-topics">
           <span v-for="t in previewResult.filters.topics" :key="t" class="result-tag">{{ t }}</span>
         </div>
@@ -1743,6 +1743,22 @@ function cleanExcerpt(raw) {
   text = text.replace(/\s+/g, ' ').trim()
   if (text.length > 300) text = text.slice(0, 300).replace(/\s\S*$/, '') + '…'
   return text
+}
+
+// ─── Excerpt selector ────────────────────────────────────────────────────────
+// Pagefind's auto-excerpt contains <mark> tags when the searched terms were
+// found in indexed prose body text. When terms matched only via page title or
+// table cells (no <mark> present), the auto-excerpt defaults to whatever prose
+// is nearest the top of the page — often a clause exclusion or preamble
+// unrelated to the query (the "DON" case in the Nurses overtime clause).
+//
+// In those cases fall back to result.meta?.excerpt — the custom field injected
+// by patch-pagefind.mjs: "<frontmatter title> — <first prose sentence>".
+// This provides a stable, always-relevant excerpt at the cost of no highlights.
+// When marks are present we return the auto-excerpt unchanged so highlights work.
+function getExcerpt(result) {
+  if (result?.excerpt && /<mark>/i.test(result.excerpt)) return result.excerpt
+  return result?.meta?.excerpt || result?.excerpt || ''
 }
 
 // ─── Preview pane ────────────────────────────────────────────────────────────
