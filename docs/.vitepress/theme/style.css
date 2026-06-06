@@ -53,28 +53,61 @@
 
 :root {
   /* ── Border radius ── */
-  --wiki-radius-sm:  4px;   /* chips, badges, code tags           */
-  --wiki-radius-md:  6px;   /* buttons, inputs, dropdowns         */
-  --wiki-radius-lg:  8px;   /* cards, panels, tooltips            */
-  --wiki-radius-xl:  12px;  /* modals, large floating surfaces    */
+  --wiki-radius-sm:    4px;   /* chips, badges, code tags           */
+  --wiki-radius-md:    6px;   /* buttons, icons, small controls     */
+  --wiki-radius-lg:    8px;   /* cards, panels, tooltips            */
+  --wiki-radius-input: 10px;  /* text inputs, textareas, dropdowns  */
+  --wiki-radius-xl:    12px;  /* modals, large floating surfaces    */
 
   /* ── Shadows ── */
   --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05);
   --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.09), 0 2px 4px rgba(0,0,0,0.06);
   --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.12), 0 2px 6px rgba(0,0,0,0.07);
 
+  /* ── Motion ── */
+  /* Single micro-interaction duration used across all interactive surfaces. */
+  --wiki-transition: 0.15s;
+
   /* ── Focus ring ── */
-  /* outline (not box-shadow) so it respects border-radius natively  */
-  /* in modern browsers AND remains visible in Windows High Contrast. */
   --wiki-focus-color:  var(--vp-c-brand-1);
   --wiki-focus-width:  2px;
   --wiki-focus-offset: 2px;
+
+  /* ── EBAIndexPage semantic alias tokens ─────────────────────────────────────
+     EBAIndexPage.vue uses a --color-* / --border-radius-* namespace that pre-dates
+     the --wiki-* token system. These aliases bridge the gap without requiring
+     changes to that component. They must be defined here (not in the component's
+     scoped style) because scoped :root rules don't cascade globally.           */
+  --border-radius-sm: var(--wiki-radius-sm);
+  --border-radius-md: var(--wiki-radius-md);
+  --border-radius-lg: var(--wiki-radius-lg);
+
+  --color-text-primary:   var(--vp-c-text-1);
+  --color-text-secondary: var(--vp-c-text-2);
+  --color-text-tertiary:  var(--vp-c-text-3);
+  --color-text-success:   #059669;
+  --color-text-warning:   #D97706;
+  --color-text-danger:    #3B82F6;
+  --color-text-info:      #7C3AED;
+
+  --color-background-primary:   var(--vp-c-bg);
+  --color-background-secondary: var(--vp-c-bg-soft);
+  --color-background-success:   #05966918;
+  --color-background-warning:   #D9770618;
+  --color-background-danger:    #3B82F618;
+  --color-background-info:      #7C3AED18;
+
+  --color-border-tertiary:  var(--vp-c-divider);
+  --color-border-secondary: var(--vp-c-divider);
 }
 
 .dark {
   --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.22), 0 1px 2px rgba(0,0,0,0.15);
   --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.38), 0 2px 4px rgba(0,0,0,0.22);
   --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.55), 0 2px 6px rgba(0,0,0,0.28);
+
+  /* Semantic status colours are intentionally kept at the same values in dark  */
+  /* mode — they are low-opacity tint badges and read adequately on dark bg.   */
 }
 
 /* =============================================

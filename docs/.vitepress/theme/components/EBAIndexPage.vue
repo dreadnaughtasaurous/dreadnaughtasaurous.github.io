@@ -367,11 +367,12 @@ function openSearch() {
   display: flex;
   align-items: center;
   gap: 13px;
-  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
 }
 .eip-quick-card:hover {
   border-color: var(--color-border-secondary);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  box-shadow:   var(--wiki-shadow-lift);
+  transform:    translateY(-1px);
 }
 .eip-quick-icon-wrap {
   width: 38px;
@@ -410,12 +411,13 @@ function openSearch() {
   border-bottom: 0.5px solid var(--color-border-tertiary);
   position: relative;
   background: var(--color-background-primary);
-  transition: box-shadow 0.18s ease;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 .eip-part:first-child { border-top: 0.5px solid var(--color-border-tertiary); }
 .eip-part:hover {
-  box-shadow: 0 2px 16px rgba(0,0,0,0.09);
-  z-index: 1;
+  box-shadow: var(--wiki-shadow-lift);
+  z-index:    1;
+  transform:  translateY(-1px);
 }
 .eip-part:hover .eip-chevron {
   opacity: 1;
@@ -458,7 +460,7 @@ function openSearch() {
   color: var(--color-text-tertiary);
   flex-shrink: 0;
   opacity: 0;
-  transition: opacity 0.12s ease, transform 0.12s ease;
+  transition: opacity 0.15s ease, transform 0.15s ease;
 }
 
 /* ── Coverage ─────────────────────────────────────────────────────────────── */

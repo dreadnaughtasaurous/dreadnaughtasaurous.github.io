@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <Teleport to="body">
 
     <!-- Mobile backdrop -->
@@ -283,7 +283,13 @@
           <!-- Error -->
           <div v-if="error" class="apb-error">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-            {{ error }}
+            <span class="apb-error-msg">{{ error }}</span>
+            <button
+              v-if="messages.length > 0"
+              class="apb-retry-btn"
+              @click="retryMessage(messages.length - 1)"
+              aria-label="Retry last question"
+            >Try again</button>
           </div>
         </div>
 
@@ -1099,13 +1105,13 @@ onUnmounted(() => {
   padding:       0.3rem 0.45rem 0.3rem 0.3rem;
   border:        none;
   background:    none;
-  border-radius: 7px;
+  border-radius: 6px;
   cursor:        pointer;
   color:         var(--vp-c-text-1);
   font-size:     0.875rem;
   font-weight:   600;
   max-width:     240px;
-  transition:    background 0.12s;
+  transition:    background 0.15s;
 }
 .ask-panel-chat-btn:hover   { background: var(--vp-c-bg-soft); }
 .aph-sparkle                { flex-shrink: 0; color: var(--vp-c-brand-1); }
@@ -1134,7 +1140,7 @@ onUnmounted(() => {
   border-radius:   7px;
   cursor:          pointer;
   color:           var(--vp-c-text-2);
-  transition:      background 0.12s, color 0.12s;
+  transition:      background 0.15s, color 0.15s;
 }
 .aph-btn:hover              { background: var(--vp-c-bg-mute); color: var(--vp-c-text-1); }
 .aph-btn--close:hover       { background: color-mix(in srgb, var(--vp-c-red-soft, #fef2f2) 60%, transparent); color: var(--vp-c-red-1, #e53e3e); }
@@ -1167,7 +1173,7 @@ onUnmounted(() => {
   cursor:      pointer;
   color:       var(--vp-c-text-1);
   font-size:   0.845rem;
-  transition:  background 0.1s;
+  transition:  background 0.15s;
 }
 .apd-item:hover                           { background: var(--vp-c-bg-soft); }
 .apd-item--active                         { font-weight: 600; }
@@ -1193,7 +1199,7 @@ onUnmounted(() => {
   color:           var(--vp-c-text-1);
   padding:         0;
   opacity:         0;
-  transition:      opacity 0.12s, color 0.12s, background 0.12s;
+  transition:      opacity 0.15s, color 0.15s, background 0.15s;
 }
 .apd-item:hover .apd-delete-btn { opacity: 1; }
 .apd-delete-btn:hover           { color: var(--vp-c-red-1, #e53e3e); background: color-mix(in srgb, var(--vp-c-red-soft, #fef2f2) 60%, transparent); }
@@ -1216,7 +1222,7 @@ onUnmounted(() => {
   cursor:      pointer;
   color:       var(--vp-c-text-2);
   font-size:   0.845rem;
-  transition:  background 0.1s, color 0.1s;
+  transition:  background 0.15s, color 0.15s;
 }
 .apd-action:hover             { background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); }
 .apd-action--danger           { color: var(--vp-c-red-1, #e53e3e); }
@@ -1332,14 +1338,14 @@ onUnmounted(() => {
   margin:      0 0 0.3rem;
   font-size:   0.82rem;
   font-weight: 400;
-  color:       #1A2C44;
+  color:       var(--vp-c-text-1);
   line-height: 1.45;
 }
 .apb-intro-tip {
   margin:      0;
   font-size:   0.82rem;
   font-weight: 400;
-  color:       #1A2C44;
+  color:       var(--vp-c-text-1);
   line-height: 1.45;
 }
 .apb-intro-tip kbd {
@@ -1347,7 +1353,7 @@ onUnmounted(() => {
   padding:        0.06em 0.38em;
   font-size:      0.72rem;
   font-family:    var(--vp-font-family-mono);
-  color:          #1A2C44;
+  color:          var(--vp-c-text-1);
   background:     var(--vp-c-bg-mute);
   border:         1px solid var(--vp-c-divider);
   border-bottom:  2px solid var(--vp-c-divider);
@@ -1411,7 +1417,7 @@ onUnmounted(() => {
   font-size:   0.77rem;
   color:       var(--vp-c-brand-1);
   cursor:      pointer;
-  transition:  opacity 0.12s;
+  transition:  opacity 0.15s;
 }
 .apm-sources-toggle:hover { opacity: 0.75; }
 
@@ -1437,7 +1443,7 @@ onUnmounted(() => {
   color:           var(--vp-c-brand-1);
   text-decoration: none;
   padding:         0.15rem 0;
-  transition:      color 0.12s;
+  transition:      color 0.15s;
 }
 .apm-source-link:hover { text-decoration: underline; }
 .apm-source-link svg   { flex-shrink: 0; opacity: 0.6; }
@@ -1502,6 +1508,7 @@ onUnmounted(() => {
 .apb-error {
   display:       flex;
   align-items:   flex-start;
+  flex-wrap:     wrap;
   gap:           0.45rem;
   padding:       0.55rem 0.75rem;
   border-radius: 8px;
@@ -1510,6 +1517,21 @@ onUnmounted(() => {
   font-size:     0.845rem;
   line-height:   1.45;
 }
+.apb-error-msg { flex: 1; min-width: 0; }
+.apb-retry-btn {
+  background:    none;
+  border:        1px solid currentColor;
+  border-radius: 4px;
+  color:         inherit;
+  font-size:     0.78rem;
+  font-weight:   500;
+  padding:       0.15rem 0.5rem;
+  cursor:        pointer;
+  white-space:   nowrap;
+  flex-shrink:   0;
+  transition:    opacity 0.15s;
+}
+.apb-retry-btn:hover { opacity: 0.75; }
 
 /* ── Context filter bar ──────────────────────────────────────────────────────── */
 .ask-panel-filters {
@@ -1537,8 +1559,13 @@ onUnmounted(() => {
   min-width:     0;
   transition:    border-color 0.15s, background 0.15s, color 0.15s;
 }
-.apf-pill:hover,
-.apf-pill:focus-within { border-color: var(--vp-c-brand-1); color: var(--vp-c-text-1); }
+.apf-pill:hover        { border-color: var(--vp-c-brand-1); color: var(--vp-c-text-1); }
+.apf-pill:focus-within {
+  border-color:   var(--vp-c-brand-1);
+  color:          var(--vp-c-text-1);
+  outline:        2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
 
 .apf-pill--active {
   border-color: var(--vp-c-brand-1);
@@ -1569,7 +1596,6 @@ onUnmounted(() => {
   font-family:        inherit;
   font-weight:        500;
   cursor:             pointer;
-  outline:            none;
   padding:            0 14px 0 0;
   margin:             0;
   max-width:          150px;
@@ -1599,7 +1625,7 @@ onUnmounted(() => {
   flex-shrink:     0;
   margin-left:     0.08rem;
   opacity:         0.65;
-  transition:      opacity 0.12s, background 0.12s;
+  transition:      opacity 0.15s, background 0.15s;
 }
 .apf-clear:hover { opacity: 1; background: color-mix(in srgb, currentColor 12%, transparent); }
 
@@ -1644,7 +1670,7 @@ onUnmounted(() => {
   overflow:        hidden;
   text-overflow:   ellipsis;
   text-decoration: none;
-  transition:      color 0.12s;
+  transition:      color 0.15s;
 }
 .apc-link:hover { color: var(--vp-c-brand-1); text-decoration: underline; }
 
@@ -1663,7 +1689,7 @@ onUnmounted(() => {
   padding:         0;
   border-radius:   4px;
   margin-left:     auto;
-  transition:      color 0.12s, background 0.12s;
+  transition:      color 0.15s, background 0.15s;
 }
 .apc-clear:hover { color: var(--vp-c-text-1); background: var(--vp-c-bg-mute); }
 
@@ -1713,6 +1739,7 @@ onUnmounted(() => {
   transition:    border-color 0.15s, background 0.15s;
 }
 .ap-input:focus         { border-color: var(--vp-c-brand-1); background: var(--vp-c-bg); }
+.ap-input:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
 .ap-input::placeholder  { color: var(--vp-c-text-3); }
 .ap-input:disabled      { opacity: 0.55; cursor: not-allowed; }
 
@@ -1732,6 +1759,16 @@ onUnmounted(() => {
 }
 .ap-send-btn:hover:not(:disabled) { background: var(--vp-c-brand-2, var(--vp-c-brand-1)); filter: brightness(1.1); }
 .ap-send-btn:disabled             { opacity: 0.38; cursor: not-allowed; }
+
+/* ── Panel-wide keyboard focus ring ─────────────────────────────────────────── */
+/* Covers all interactive elements in AskPanel not handled by individual rules.  */
+/* Vue's scoped attribute hash scopes this to the component automatically.       */
+button:focus-visible,
+a:focus-visible,
+[tabindex="0"]:focus-visible {
+  outline:        2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
 
 /* ── Transitions ─────────────────────────────────────────────────────────────── */
 /* Desktop: slide in from right */
