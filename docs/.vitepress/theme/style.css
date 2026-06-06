@@ -1844,3 +1844,44 @@ html {
      0%, 15%, 85%, 100% { opacity: 1; }
      40%, 60%           { opacity: 0; }
    }
+
+/* =============================================
+   EBA Ambient Sidebar Glow
+   =============================================
+   --eba-sidebar-glow is set dynamically by applyEbaSidebarGlow() in index.js.
+   It is an rgba() value at low opacity derived from the current EBA's brand
+   colour, or 'transparent' on non-EBA pages.
+
+   Implemented with filter: drop-shadow() on .VPSidebar rather than
+   box-shadow for two reasons:
+     1. .VPSidebar has overflow-y: auto, which in CSS also clamps overflow-x —
+        a standard box-shadow bleeding to the right would be clipped.
+     2. filter is a post-processing effect applied after paint. It is never
+        clipped by overflow, and it renders at the sidebar's own z-index level,
+        so the glow appears above .VPContent regardless of stacking order.
+
+   drop-shadow() takes: offset-x offset-y blur color (no spread parameter).
+   ============================================= */
+
+.VPSidebar {
+  filter: drop-shadow(4px 0 16px var(--eba-sidebar-glow, transparent));
+  transition: filter 0.4s ease;
+}
+
+/* High contrast: suppress — serves no informational purpose and could
+   add visual noise against a high-contrast background. */
+[data-high-contrast] .VPSidebar {
+  filter: none !important;
+  transition: none !important;
+}
+
+/* Reading mode: sidebar is hidden — rule is moot but explicit for clarity. */
+[data-reading-mode] .VPSidebar {
+  filter: none !important;
+}
+
+@media print {
+  .VPSidebar {
+    filter: none !important;
+  }
+}

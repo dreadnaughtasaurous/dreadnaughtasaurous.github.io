@@ -31,6 +31,30 @@ import EBAStatusStrip  from './components/EBAStatusStrip.vue'
 import EBAExplorer     from './components/EBAExplorer.vue'
 import EBABrowseGrid   from './components/EBABrowseGrid.vue'
 import EBAIndexPage    from './components/EBAIndexPage.vue'
+import { EBA_REGISTRY } from './eba-registry.js'
+
+// ── EBA Ambient Sidebar Glow ───────────────────────────────────────────────
+// Converts a 6-digit hex colour string (e.g. '#E11D48') to an rgba() string
+// at the given opacity. Used to derive the shadow colour from EBA_REGISTRY.
+function hexToRgba(hex, alpha) {
+  const r = parseInt(hex.slice(1, 3), 16)
+  const g = parseInt(hex.slice(3, 5), 16)
+  const b = parseInt(hex.slice(5, 7), 16)
+  return `rgba(${r}, ${g}, ${b}, ${alpha})`
+}
+
+// Sets --eba-sidebar-glow on :root based on the EBA slug found in `path`.
+// Called on every route change and on initial page load.
+// On non-EBA pages (home, about, etc.) the property is set to 'transparent',
+// which means the CSS shadow renders as nothing — no visible effect.
+function applyEbaSidebarGlow(path) {
+  if (typeof document === 'undefined') return
+  const parts = path.split('/').filter(Boolean)
+  const slug  = parts[0] === 'ebas' && parts[1] ? parts[1] : null
+  const entry = slug ? EBA_REGISTRY.find(e => e.slug === slug) : null
+  const value = entry ? hexToRgba(entry.color, 0.09) : 'transparent'
+  document.documentElement.style.setProperty('--eba-sidebar-glow', value)
+}
 
 export default {
   extends: DefaultTheme,
@@ -508,6 +532,19 @@ export default {
       // the .vp-doc content is replaced on each route change so the
       // DOM walker must run fresh against the new page's tables.
       requestAnimationFrame(() => highlightActivePayColumns())
+      applyEbaSidebarGlow(path)
+    }
+  // ── EBA Ambient Sidebar Glow — initial page load ───────────────────────
+    // onAfterRouteChanged only fires on SPA navigation. For direct URL loads
+    // (bookmarks, external links, browser refresh) we apply the glow once
+    // the DOM is ready using the standard readyState pattern.
+    if (typeof window !== 'undefined') {
+      const initGlow = () => applyEbaSidebarGlow(window.location.pathname)
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initGlow)
+      } else {
+        initGlow()
+      }
     }
   }
 }
