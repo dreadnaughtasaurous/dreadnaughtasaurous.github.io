@@ -64,6 +64,23 @@
                 <circle cx="12" cy="12" r="3"/>
               </svg>
             </button>
+            <!-- Copy search link — only shown when there is an active query/filter to share -->
+            <button
+              v-if="query.trim() || selectedEba || selectedTopic"
+              class="copy-link-btn"
+              :class="{ 'copy-link-btn--copied': urlCopied }"
+              @click="copySearchLink"
+              :aria-label="urlCopied ? 'Link copied!' : 'Copy search link'"
+              :title="urlCopied ? 'Link copied!' : 'Copy search link'"
+            >
+              <svg v-if="!urlCopied" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+                <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+              </svg>
+              <svg v-else width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <polyline points="20 6 9 17 4 12"/>
+              </svg>
+            </button>
             <button class="close-btn" @click="close" aria-label="Close search">
               <kbd>Esc</kbd>
             </button>
@@ -779,7 +796,7 @@
 <script setup>
 import { ref, computed, watch, onMounted, onUnmounted, nextTick } from 'vue'
 import { topicList } from '../../generated/topic-list.mjs'
-import { ebaColors, ebaList, ebaSlugLabels } from '../eba-registry.js'
+import { ebaColors, ebaList, ebaSlugLabels, EBA_REGISTRY } from '../eba-registry.js'
 
 // ─── AI Worker URL ────────────────────────────────────────────────────────────
 const AI_WORKER_URL = 'https://eba-ask-worker.irresistibl.workers.dev'
@@ -870,6 +887,7 @@ const resultsNewTab     = ref(false)    // open result <a> tags with target="_bl
 const compactResults    = ref(false)    // hides excerpts + topic tags in result cards
 const previewEnabled    = ref(true)     // floating preview pane on hover/focus (default on)
 const analyticsEnabled  = ref(true)     // POST to analytics worker on search (default on)
+const urlCopied         = ref(false)    // true for 2 s after copy-link — drives ✓ icon state
 
 // ─── Saved searches (localStorage — persists across sessions) ─────────────────
 // Each entry: { id: string, label: string, query: string, eba: string, topic: string }
@@ -895,6 +913,11 @@ function loadRecentlyViewed() {
 }
 
 // ─── EBA slug → full canonical name (for ebaStyle() on recently viewed rows) ──
+// ─── EBA full name → URL slug ─────────────────────────────────────────────────
+// Reverse of EBA_SLUG_MAP. Used by buildShareUrl() to produce clean short slugs
+// (e.g. 'nurses-midwives') instead of encoding the full EBA name in the URL.
+const ebaNameToSlug = Object.fromEntries(EBA_REGISTRY.map(e => [e.name, e.slug]))
+
 const EBA_SLUG_TO_FULL_NAME = {
   'allied-health':        'Allied Health Professionals 2021-2026',
   'biomedical-engineers': 'Biomedical Engineers 2025-2028',
@@ -1963,6 +1986,13 @@ onMounted(() => {
   loadRecentlyViewed()
   loadHistoryOptIn()   // must run before the sessionStorage recent fallback below
   loadSettings()       // reads display, privacy, and default EBA preference keys
+
+  // Auto-open if the page URL contains search params — handles shared links
+  // (e.g. /?q=overtime&eba=nurses-midwives pasted into an email or Jira comment).
+  if (typeof window !== 'undefined') {
+    const p = new URLSearchParams(window.location.search)
+    if (p.has('q') || p.has('eba') || p.has('topic')) nextTick(() => openModal())
+  }
   // Guard: when opted in, loadHistoryOptIn() already seeded recentSearches from
   // localStorage. Skip the sessionStorage read to avoid overwriting it.
   try {
@@ -2020,6 +2050,10 @@ function openModal() {
   open.value = true
   nextTick(() => {
     loadPersistedState()
+    // URL params override sessionStorage — consume them now, strip from URL.
+    // If URL had params but sessionStorage was empty (loadPersistedState didn't
+    // fire doSearch), queue a search so results appear immediately.
+    if (readUrlParams()) nextTick(() => doSearch())
     if (!isMobileSheet.value) inputRef.value?.focus()
   })
 }
@@ -2046,6 +2080,48 @@ function restoreEbaContext() {
     selectedEba.value = eba
     _pendingEbaFlash  = true   // consumed by watch(open) once the DOM exists
   } catch { /* corrupt entry — degrade silently */ }
+}
+
+// ─── URL param state ──────────────────────────────────────────────────────────
+
+// readUrlParams() — reads ?q=, ?eba=, ?topic= from the current URL, applies them
+// to reactive state (overriding sessionStorage), then strips the params via
+// history.replaceState so they are consumed exactly once per navigation.
+// Returns true when any param was found.
+function readUrlParams() {
+  if (typeof window === 'undefined') return false
+  const params = new URLSearchParams(window.location.search)
+  const q      = params.get('q')
+  const eba    = params.get('eba')
+  const topic  = params.get('topic')
+  if (!q && !eba && !topic) return false
+  if (q)     query.value         = q
+  if (eba)   selectedEba.value   = EBA_SLUG_MAP[eba] ?? eba
+  if (topic) selectedTopic.value = topic
+  // Strip params — consumed once; should not re-apply on next openModal() call.
+  const clean = window.location.pathname + window.location.hash
+  window.history.replaceState({}, '', clean)
+  return true
+}
+
+// buildShareUrl() — constructs a shareable URL encoding the current search state.
+// Always points to the site root (/) so the link works from any page in the wiki.
+function buildShareUrl() {
+  const params = new URLSearchParams()
+  if (query.value.trim())  params.set('q',     query.value.trim())
+  if (selectedEba.value)   params.set('eba',   ebaNameToSlug[selectedEba.value] ?? selectedEba.value)
+  if (selectedTopic.value) params.set('topic', selectedTopic.value)
+  const qs = params.toString()
+  return `${window.location.origin}/${qs ? '?' + qs : ''}`
+}
+
+// copySearchLink() — copies the shareable URL to clipboard; shows ✓ for 2 s.
+async function copySearchLink() {
+  try {
+    await navigator.clipboard.writeText(buildShareUrl())
+    urlCopied.value = true
+    setTimeout(() => { urlCopied.value = false }, 2000)
+  } catch { /* clipboard API blocked — degrade silently */ }
 }
 
 watch(open, async (val) => {
@@ -3350,6 +3426,26 @@ function clearFilters() {
   background: var(--vp-c-brand-soft);
   transform:  rotate(60deg);
 }
+
+/* ── Copy search link button ─────────────────────────────────────────────────── */
+.copy-link-btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           28px;
+  height:          28px;
+  flex-shrink:     0;
+  padding:         0;
+  border:          none;
+  background:      transparent;
+  color:           var(--vp-c-text-3);
+  cursor:          pointer;
+  border-radius:   6px;
+  transition:      color 0.15s, background 0.15s;
+}
+.copy-link-btn:hover            { color: var(--vp-c-text-1); background: var(--vp-c-bg-mute); }
+.copy-link-btn--copied          { color: #16a34a; }
+.dark .copy-link-btn--copied    { color: #4ade80; }
 
 /* ── Settings panel slide transition ─────────────────────────────────────────── */
 .settings-panel-enter-active,
