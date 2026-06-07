@@ -1,4 +1,7 @@
 // eba-ask-worker/src/index.js
+// v13: Adds passageContext — highlighted clause text sent from the selection tooltip.
+//      Injected into contextualQuestion immediately before the user's question so
+//      all four provider tiers receive grounding context for the specific passage.
 // v12: Adds filterEba and filterEmploymentType scope constraints from AskPanel.
 //      Both fields are injected into contextualQuestion as a [Scope] prefix so
 //      all four provider tiers and the SSE stream receive the constraint.
@@ -1728,7 +1731,7 @@ export default {
       return new Response('Method not allowed', { status: 405, headers: corsHeaders(origin) });
     }
 
-    let question, contentHash, sourcePath, history, style, scope, pageTitle, stream, filterEba, filterEmploymentType
+    let question, contentHash, sourcePath, history, style, scope, pageTitle, passageContext, stream, filterEba, filterEmploymentType
     try {
       const body   = await request.json()
       question     = (body.question || '').trim()
@@ -1738,6 +1741,7 @@ export default {
       style        = body.style === 'concise' ? 'concise' : 'detailed'
       scope        = body.scope === 'page' ? 'page' : 'wiki'
       pageTitle    = typeof body.pageTitle === 'string' ? body.pageTitle.trim() : ''
+      passageContext = typeof body.passageContext === 'string' ? body.passageContext.trim().slice(0, 500) : ''
       stream       = body.stream === true
       filterEba            = typeof body.filterEba === 'string'            ? body.filterEba.trim()            : ''
       filterEmploymentType = typeof body.filterEmploymentType === 'string' ? body.filterEmploymentType.trim() : ''
@@ -1762,9 +1766,17 @@ export default {
       ? `[Scope — answer must apply specifically to: ${scopeParts.join(' · ')}]\n\n`
       : ''
 
+    // passageContext: highlighted text from the selection tooltip.
+    // Placed immediately before the question so small models (Cerebras, Cloudflare AI)
+    // weight it at peak attention. Capped at 500 chars server-side; not cached
+    // (no contentHash is ever sent with passage-context requests).
+    const passageBlock = passageContext
+      ? `[The user highlighted this specific passage from the clause: "${passageContext}"]\n\n`
+      : ''
+
     const contextualQuestion = (scope === 'page' && pageTitle)
-      ? `[Viewing: ${pageTitle}]\n\n${scopePrefix}${question}`
-      : `${scopePrefix}${question}`
+      ? `[Viewing: ${pageTitle}]\n\n${scopePrefix}${passageBlock}${question}`
+      : `${scopePrefix}${passageBlock}${question}`
 
     if (!question || question.length < 5) {
       return jsonResponse({ error: 'Question is too short.' }, 400, origin);
