@@ -546,5 +546,124 @@ export default {
         initGlow()
       }
     }
+
+    // ── Text selection tooltip ─────────────────────────────────────────────
+    // When a user selects text on a clause page (/ebas/ path, ≥ 5 path parts),
+    // a floating "Ask AI about this ↗" button appears above the selection.
+    // Clicking it dispatches open-ask-panel with the selection as passageContext.
+    //
+    // Design notes:
+    //   - Only fires on clause pages (parts[1] === 'ebas' && parts.length >= 5)
+    //   - Only fires when selection is inside .vp-doc (not nav, sidebar, panel)
+    //   - Only fires when selection >= 20 characters (filters accidental clicks)
+    //   - 300ms debounce on mouseup filters double-click flash-selections
+    //   - Suppressed on mobile (< 900px) — bottom sheet + touch selection handles
+    //     make tooltip positioning unreliable on iOS/Android
+    //   - Tooltip is a singleton <div> appended once to document.body
+    //   - Hides on: scroll, Escape, mousedown outside, or when AskPanel opens
+    if (typeof window !== 'undefined') {
+      let _selTimer   = null
+      let _tooltip    = null
+      const TOOLTIP_W = 168   // approximate px width of the rendered button
+      const TOOLTIP_H = 34    // approximate px height
+      const MARGIN    = 8     // minimum distance from viewport edge
+
+      function createTooltip() {
+        if (_tooltip) return _tooltip
+        _tooltip = document.createElement('div')
+        _tooltip.id = 'eba-selection-tooltip'
+        _tooltip.setAttribute('role', 'tooltip')
+        const btn = document.createElement('button')
+        btn.className  = 'est-btn'
+        btn.type       = 'button'
+        btn.textContent = 'Ask AI about this \u2197'
+        btn.addEventListener('click', onTooltipClick)
+        _tooltip.appendChild(btn)
+        document.body.appendChild(_tooltip)
+        return _tooltip
+      }
+
+      function showTooltip(rect) {
+        const t = createTooltip()
+        // Horizontal: centre over selection, clamped to viewport
+        let x = rect.left + rect.width / 2 - TOOLTIP_W / 2
+        x = Math.max(MARGIN, Math.min(x, window.innerWidth - TOOLTIP_W - MARGIN))
+        // Vertical: above the selection if room, else below
+        const y = rect.top - TOOLTIP_H - 8 > MARGIN
+          ? rect.top - TOOLTIP_H - 8
+          : rect.bottom + 8
+        t.style.left = x + 'px'
+        t.style.top  = y + 'px'
+        t.classList.add('est--visible')
+      }
+
+      function hideTooltip() {
+        _tooltip?.classList.remove('est--visible')
+      }
+
+      function onTooltipClick() {
+        const sel  = window.getSelection()
+        const text = sel ? sel.toString().trim() : ''
+        hideTooltip()
+        if (!text) return
+        // Derive page URL and title from live DOM — no Vue dependency needed
+        const path  = window.location.pathname.replace(/\/$/, '').replace(/\.html$/, '')
+        const h1    = document.querySelector('.vp-doc h1')
+        const title = h1 ? h1.textContent.trim() : (document.title || '').replace(/\s*\|\s*EBAdb\s*$/i, '').trim()
+        sel.removeAllRanges()   // clear the highlight so it doesn't look stale
+        window.dispatchEvent(new CustomEvent('open-ask-panel', {
+          detail: {
+            scope:          'page',
+            pageUrl:        path,
+            pageTitle:      title,
+            passageContext: text.slice(0, 500),
+          }
+        }))
+      }
+
+      function onMouseUp() {
+        // Suppress on mobile widths — touch selection handles interfere
+        if (window.innerWidth < 900) { hideTooltip(); return }
+        clearTimeout(_selTimer)
+        _selTimer = setTimeout(() => {
+          // Clause page guard: /ebas/<eba>/<section>/<clause> = 5+ parts
+          const parts = window.location.pathname
+            .replace(/\/$/, '').replace(/\.html$/, '').split('/')
+          if (!(parts.length >= 5 && parts[1] === 'ebas')) { hideTooltip(); return }
+
+          const sel = window.getSelection()
+          if (!sel || sel.rangeCount === 0) { hideTooltip(); return }
+          const text = sel.toString().trim()
+          if (text.length < 20) { hideTooltip(); return }
+
+          // Selection must be inside .vp-doc to avoid triggering from panels/nav
+          const range     = sel.getRangeAt(0)
+          const container = range.commonAncestorContainer
+          const el = container.nodeType === Node.TEXT_NODE
+            ? container.parentElement
+            : container
+          if (!el || !el.closest('.vp-doc')) { hideTooltip(); return }
+
+          showTooltip(range.getBoundingClientRect())
+        }, 300)
+      }
+
+      function onKeyDown(e) {
+        if (e.key === 'Escape') hideTooltip()
+      }
+
+      function onMouseDown(e) {
+        // Hide when the user clicks outside the tooltip (but not on it)
+        if (_tooltip && !_tooltip.contains(e.target)) hideTooltip()
+      }
+
+      document.addEventListener('mouseup',   onMouseUp)
+      document.addEventListener('mousedown',  onMouseDown)
+      document.addEventListener('keydown',    onKeyDown)
+      // scroll: capture phase catches scrolls inside nested scrollable divs too
+      document.addEventListener('scroll',     hideTooltip, { passive: true, capture: true })
+      // Hide when the AskPanel opens from any other trigger (Ctrl+K, DocToolbar, etc.)
+      window.addEventListener('open-ask-panel', hideTooltip)
+    }
   }
 }

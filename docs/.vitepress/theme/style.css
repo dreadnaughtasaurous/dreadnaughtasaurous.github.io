@@ -2054,3 +2054,51 @@ html {
     filter: none !important;
   }
 }
+
+/* ── Text selection tooltip ─────────────────────────────────────────────────────
+   Singleton <div id="eba-selection-tooltip"> created by index.js when the user
+   selects text on a clause page. Positions itself above the selection via inline
+   style.left/style.top set in JS. Only visible when .est--visible is applied.
+   ─────────────────────────────────────────────────────────────────────────────── */
+#eba-selection-tooltip {
+  position:       fixed;
+  z-index:        9990;   /* below ClausePanel (9999) and SearchModal (9998) */
+  pointer-events: none;
+  opacity:        0;
+  transform:      translateY(4px);
+  transition:     opacity 0.15s ease, transform 0.15s ease;
+}
+#eba-selection-tooltip.est--visible {
+  pointer-events: auto;
+  opacity:        1;
+  transform:      translateY(0);
+}
+
+.est-btn {
+  display:         inline-flex;
+  align-items:     center;
+  gap:             4px;
+  padding:         6px 13px;
+  background:      var(--vp-c-brand-1);
+  color:           white;
+  border:          none;
+  border-radius:   8px;
+  font-size:       13px;
+  font-weight:     500;
+  font-family:     var(--vp-font-family-base);
+  white-space:     nowrap;
+  cursor:          pointer;
+  box-shadow:      0 3px 10px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.12);
+  transition:      filter 0.12s, transform 0.1s;
+  line-height:     1;
+}
+.est-btn:hover  { filter: brightness(1.1); }
+.est-btn:active { transform: scale(0.97); }
+
+/* Suppress in high-contrast mode — the brand colour may not meet contrast ratio */
+[data-high-contrast] #eba-selection-tooltip { display: none !important; }
+
+/* Never print */
+@media print {
+  #eba-selection-tooltip { display: none !important; }
+}

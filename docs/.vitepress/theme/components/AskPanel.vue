@@ -310,6 +310,24 @@
           </button>
         </div>
 
+        <!-- ── Passage context chip ──────────────────────────────────────── -->
+        <!-- Shown when the user opened the panel via the text-selection      -->
+        <!-- tooltip. Displays a truncated preview of the highlighted text.   -->
+        <div
+          v-if="passageContext"
+          class="ask-panel-passage"
+          :title="passageContext"
+        >
+          <svg class="app-icon" width="11" height="11" viewBox="0 0 24 24" fill="currentColor" overflow="visible" aria-hidden="true">
+            <path d="M9.983 3v7.391c0 5.704-3.731 9.57-8.983 10.609l-.995-2.151c2.432-.917 3.995-3.638 3.995-5.849h-4v-10h9.983zm14.017 0v7.391c0 5.704-3.748 9.571-9 10.609l-.996-2.151c2.433-.917 3.996-3.638 3.996-5.849h-3.983v-10h9.983z"/>
+          </svg>
+          <span class="app-text">{{ passageContext.length > 60 ? passageContext.slice(0, 57) + '\u2026' : passageContext }}</span>
+          <button class="apc-clear" @click="clearPassageContext" aria-label="Dismiss passage context">
+            <svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            <span class="apc-tip" aria-hidden="true">Dismiss passage</span>
+          </button>
+        </div>
+
         <!-- ── Footer / input ──────────────────────────────────────────────── -->
         <div class="ask-panel-footer">
           <textarea
@@ -394,6 +412,7 @@ const dropdownRef  = ref(null)
 // Shape: Array<{
 //   id: string, title: string, scope: 'page'|'wiki',
 //   pageUrl: string, pageTitle: string,
+//   passageContext: string,
 //   createdAt: string,
 //   filterEba: string, filterEmploymentType: string,
 //   messages: Array<{ role: 'user'|'assistant', content: string, hedging?: boolean, timestamp: string }>
@@ -431,6 +450,19 @@ const filterEmploymentType = computed({
   },
 })
 
+// Writable computed for the highlighted passage attached to the active chat.
+// Getting/setting mirrors the filterEba pattern so Vue reactivity is guaranteed.
+const passageContext = computed({
+  get: () => activeChat.value?.passageContext ?? '',
+  set: (val) => {
+    const idx = chats.value.findIndex(c => c.id === activeChatId.value)
+    if (idx === -1) return
+    chats.value[idx] = { ...chats.value[idx], passageContext: val }
+    chats.value = [...chats.value]
+    saveChats()
+  },
+})
+
 // ─── Router (used for page navigation from context badge link) ────────────────
 const router = useRouter()
 
@@ -462,13 +494,14 @@ function saveChats() {
 }
 
 // ─── Chat management ──────────────────────────────────────────────────────────
-function createChat(pageUrl = '', pageTitle = '', scope = 'wiki') {
+function createChat(pageUrl = '', pageTitle = '', scope = 'wiki', passageContext = '') {
   const chat = {
     id:                   genId(),
     title:                'New chat',
     scope,
     pageUrl,
     pageTitle,
+    passageContext,
     createdAt:            new Date().toISOString(),
     filterEba:            '',
     filterEmploymentType: '',
@@ -552,21 +585,32 @@ function deleteChat(id) {
 // ─── Panel open / close ───────────────────────────────────────────────────────
 function openPanel(detail = {}) {
   const {
-    question: pendingQ = '',
-    pageUrl   = '',
-    pageTitle = '',
-    scope     = 'wiki',
+    question:       pendingQ       = '',
+    pageUrl                        = '',
+    pageTitle                      = '',
+    scope                          = 'wiki',
+    passageContext: incomingPassage = '',
   } = detail
 
   // Decide whether to continue the current chat or start a new one.
   // Start fresh when: no chat exists, OR context has changed
   // (different page, or switching between page/wiki scope).
-  const cur       = activeChat.value
+  const cur        = activeChat.value
   const needsFresh = !activeChatId.value || !cur ||
     (scope === 'page' && cur.pageUrl !== pageUrl) ||
     (scope === 'wiki' && cur.scope  === 'page')
 
-  if (needsFresh) createChat(pageUrl, pageTitle, scope)
+  if (needsFresh) {
+    createChat(pageUrl, pageTitle, scope, incomingPassage)
+  } else if (incomingPassage) {
+    // Same chat, new passage selection — update it without resetting history
+    const idx = chats.value.findIndex(c => c.id === activeChatId.value)
+    if (idx !== -1) {
+      chats.value[idx] = { ...chats.value[idx], passageContext: incomingPassage }
+      chats.value = [...chats.value]
+      saveChats()
+    }
+  }
 
   question.value = ''
   error.value    = ''
@@ -619,6 +663,12 @@ function navigateToPage() {
   }
 }
 
+// Dismiss the passage context chip — removes the highlighted selection so
+// subsequent questions are no longer anchored to it.
+function clearPassageContext() {
+  passageContext.value = ''
+}
+
 // Dismiss the page context chip — switches the active chat to wiki-wide scope
 // so the user can ask general questions without closing the panel.
 function clearPageContext() {
@@ -662,6 +712,12 @@ async function submit() {
     // Page-scoped: send sourcePath so the worker retrieves the right clause
     if (activeChat.value?.scope === 'page' && activeChat.value?.pageUrl) {
       body.sourcePath = activeChat.value.pageUrl.replace(/\/$/, '').replace(/\.html$/, '')
+    }
+    // Passage context: send highlighted text so the worker injects it into
+    // the AI's contextualQuestion. Persists for the life of the chat until
+    // the user dismisses it via the × button on the passage chip.
+    if (activeChat.value?.passageContext) {
+      body.passageContext = activeChat.value.passageContext
     }
 
     const res = await fetch(AI_WORKER_URL, {
@@ -1710,6 +1766,40 @@ onUnmounted(() => {
   z-index:        10;
 }
 .apc-clear:hover .apc-tip { opacity: 1; }
+
+/* ── Passage context chip ────────────────────────────────────────────────────────
+   Visually paired with .ask-panel-context above it. Uses the same margin geometry
+   so both chips align flush with the textarea inside the footer. The quote icon
+   and italic text signal "this is selected EBA text, not a page title".          */
+.ask-panel-passage {
+  display:       flex;
+  align-items:   center;
+  gap:           0.4rem;
+  margin:        0 0.75rem 0.45rem;
+  padding:       0.38rem 0.55rem;
+  background:    color-mix(in srgb, var(--vp-c-brand-1) 6%, var(--vp-c-bg-soft));
+  border:        1px solid color-mix(in srgb, var(--vp-c-brand-1) 18%, var(--vp-c-divider));
+  border-radius: 8px;
+  box-shadow:    0 2px 8px rgba(0, 0, 0, 0.07), 0 1px 2px rgba(0, 0, 0, 0.04);
+  flex-shrink:   0;
+}
+
+.app-icon {
+  flex-shrink: 0;
+  color:       var(--vp-c-brand-1);
+  opacity:     0.75;
+}
+
+.app-text {
+  flex:          1;
+  min-width:     0;
+  font-size:     0.78rem;
+  font-style:    italic;
+  color:         var(--vp-c-text-2);
+  white-space:   nowrap;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+}
 
 /* ── Footer / input ───────────────────────────────────────────────────────────── */
 .ask-panel-footer {
