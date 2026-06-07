@@ -101,7 +101,7 @@
             </button>
           </div>
 
-          <!-- ─── Settings panel — slides in below header, above tab bar ─────────────────
+          <!-- ─── Settings panel — slides in below header ─────────────────────────────────
                Extensible: append new .settings-row blocks inside the panel div below.
                Sections: Search behaviour · Display · Privacy
           ──────────────────────────────────────────────────────────────────────────────── -->
@@ -157,16 +157,6 @@
 
               <!-- ── Privacy ───────────────────────────────────────────────────────────── -->
               <div class="settings-section-head">Privacy</div>
-
-              <div class="settings-row">
-                <span class="settings-row-label">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                  Remember searches between visits
-                </span>
-                <button class="settings-toggle" :class="{ 'settings-toggle--on': historyOptIn }" @click="toggleHistoryOptIn" role="switch" :aria-checked="String(historyOptIn)" aria-label="Remember search history between visits">
-                  <span class="settings-toggle-knob"></span>
-                </button>
-              </div>
 
               <div class="settings-row">
                 <span class="settings-row-label">
@@ -549,31 +539,6 @@
               <!-- ── New idle state: Recently Viewed + Bookmarks + Suggested ── -->
               <div v-else-if="query.length <= 1 && !selectedEba && !selectedTopic" class="idle-state">
 
-                <!-- ── One-time consent prompt ──────────────────────────────────
-                     Shown only until the user makes a choice (Yes or No).
-                     Accepting also flips the 'Remember searches' toggle in the
-                     gear settings panel to ON, because acceptHistoryOptIn() sets
-                     historyOptIn = true and writes to localStorage.
-                ─────────────────────────────────────────────────────────────── -->
-                <div
-                  v-if="!historyPromptSeen && !historyOptIn"
-                  class="qa-history-prompt"
-                  role="alertdialog"
-                  aria-label="Remember searches prompt"
-                >
-                  <div class="qa-history-prompt-body">
-                    <svg class="qa-history-prompt-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                    <div class="qa-history-prompt-text">
-                      <span class="qa-history-prompt-title">Remember your searches between visits?</span>
-                      <span class="qa-history-prompt-sub">Your search history is saved locally on this device only — never sent anywhere.</span>
-                    </div>
-                  </div>
-                  <div class="qa-history-prompt-actions">
-                    <button class="qa-history-prompt-yes" @click="acceptHistoryOptIn">Yes, remember my searches</button>
-                    <button class="qa-history-prompt-no" @click="declineHistoryOptIn">No thanks</button>
-                  </div>
-                </div>
-
                 <!-- Recently viewed -->
                 <div v-if="recentlyViewed.length > 0" class="idle-section">
                   <div class="idle-section-header">Recently viewed</div>
@@ -752,7 +717,7 @@
                Uses the existing .op-hint chip style — no new CSS class needed
                for the chips themselves.
           ───────────────────────────────────────────────────────────────────── -->
-          <div v-if="activeTab === 'search' && !inlineAnswer" class="search-footer-hint">
+          <div v-if="!inlineAnswer" class="search-footer-hint">
             Try
             <code class="op-hint">eba:nurses-midwives</code>
             <code class="op-hint">topic:wages</code>
@@ -841,15 +806,10 @@ const SESSION_QUERY_KEY       = 'eba-search-last-query'
 const SESSION_EBA_KEY         = 'eba-search-last-eba'
 const SESSION_TOPIC_KEY       = 'eba-search-last-topic'
 const SESSION_SCROLL_KEY      = 'eba-search-last-scroll'
-const SESSION_RECENT_KEY      = 'eba-search-recent'
-const LOCAL_SAVED_KEY         = 'eba-search-saved'
 const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
 const LOCAL_RECENTLY_VIEWED_KEY = 'eba-recently-viewed'  // Array<{path,title,eba,timestamp}> max 4
 const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
 const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
-const LOCAL_HISTORY_OPT_IN_KEY = 'eba-history-persist'      // '1' when cross-session history opted in
-const LOCAL_HISTORY_PROMPT_KEY = 'eba-history-prompt-seen'  // '1' once one-time consent prompt dismissed
-const LOCAL_HISTORY_KEY        = 'eba-search-history'       // JSON string[] of persisted queries
 const LOCAL_DEFAULT_EBA_KEY    = 'eba-default-eba'          // Pre-selected EBA on every modal open
 const LOCAL_NEW_TAB_KEY        = 'eba-results-new-tab'      // 'true' when results open in new tab
 const LOCAL_COMPACT_KEY        = 'eba-compact-results'      // 'true' when compact result density is on
@@ -919,10 +879,6 @@ const hintIndex   = ref(-1)
 // hintStyle: Teleport position; set reactively when the hint list opens
 const hintStyle   = ref({})
 
-// ─── Recent searches (sessionStorage — session-scoped; localStorage when opted in) ─
-const recentSearches    = ref([])
-const historyOptIn      = ref(false)   // true when cross-session history is opted in
-const historyPromptSeen = ref(false)   // true once the one-time consent prompt is dismissed
 const showSettingsPanel  = ref(false)   // true when the gear settings panel is expanded
 
 // ─── General settings refs ────────────────────────────────────────────────────
@@ -932,10 +888,6 @@ const compactResults    = ref(false)    // hides excerpts + topic tags in result
 const previewEnabled    = ref(true)     // floating preview pane on hover/focus (default on)
 const analyticsEnabled  = ref(true)     // POST to analytics worker on search (default on)
 const urlCopied         = ref(false)    // true for 2 s after copy-link — drives ✓ icon state
-
-// ─── Saved searches (localStorage — persists across sessions) ─────────────────
-// Each entry: { id: string, label: string, query: string, eba: string, topic: string }
-const savedSearches = ref([])
 
 // ─── Bookmarks (localStorage — persists across sessions) ──────────────────────
 // Each entry: { id: string, url: string, title: string, eba: string, note: string, savedAt: string }
@@ -983,7 +935,7 @@ const visibleCount = ref(5)
 
 const visibleResults = computed(() => results.value.slice(0, visibleCount.value))
 
-// ─── Inline AI answer state (Issue 4) ─────────────────────────────────────────
+// ─── Inline AI answer state ───────────────────────────────────────────────────
 // When the user clicks an "Ask AI Assistant" suggestion, the answer streams in
 // here — inside the SearchModal — rather than launching the side panel.
 const inlineAnswer        = ref(false)   // controls the answer view
@@ -1128,27 +1080,6 @@ function srcToLabel(src) {
     .replace(/\b\w/g, c => c.toUpperCase())
 }
 
-// ─── Most Viewed Clauses (analytics worker — site-wide, cached 5 min) ─────────
-// Fetched from GET /top-pages on first openModal() each session.
-// Shape: Array<{ path: string, title: string, eba: string, count: number }>
-// Degrades silently — section simply doesn't render if worker is unreachable.
-const mostViewedClauses     = ref([])
-const mostViewedLoading     = ref(false)
-const mostViewedError       = ref(false)
-const MOST_VIEWED_CACHE_KEY = 'eba-most-viewed-cache'
-const MOST_VIEWED_TTL_MS    = 5 * 60 * 1000  // 5 minutes — matches worker Cache-Control
-
-// ─── Trending Topics (analytics worker — past 7 days, cached 1 hour) ──────────
-// Fetched from GET /trending-topics on first openModal() each session.
-// Shape: Array<{ topic: string, count: number }>
-// Maps topic slug → quickAccessShortcuts entry so the chip fires fireShortcut().
-// Degrades silently — section simply doesn't render if worker is unreachable
-// or returns an empty array (e.g. no topic-filter searches in the past 7 days).
-const trendingTopics      = ref([])
-const trendingLoading     = ref(false)
-const TRENDING_CACHE_KEY  = 'eba-trending-topics-cache'
-const TRENDING_TTL_MS     = 60 * 60 * 1000  // 1 hour — matches worker Cache-Control
-
 function loadBookmarks() {
   try {
     const raw = localStorage.getItem(LOCAL_BOOKMARKS_KEY)
@@ -1156,124 +1087,10 @@ function loadBookmarks() {
   } catch { /* corrupt storage — degrade silently */ }
 }
 
-// ─── Most Viewed Clauses fetch ────────────────────────────────────────────────
-// Called on every openModal(). Returns immediately from sessionStorage cache
-// if data was fetched within the last 5 minutes.
-// The worker already has Cache-Control: public, max-age=300 so Cloudflare edge
-// handles deduplication across simultaneous users; sessionStorage handles it
-// for repeated opens within the same browser tab.
-async function fetchMostViewed() {
-  // Check sessionStorage cache first — avoid re-fetching within the TTL window
-  try {
-    const cached = sessionStorage.getItem(MOST_VIEWED_CACHE_KEY)
-    if (cached) {
-      const { data, ts } = JSON.parse(cached)
-      if (Date.now() - ts < MOST_VIEWED_TTL_MS && Array.isArray(data)) {
-        mostViewedClauses.value = data   // may be empty array — that's fine, section won't render
-        return
-      }
-    }
-  } catch { /* corrupt cache entry — fall through to fresh fetch */ }
-
-  mostViewedLoading.value = true
-  mostViewedError.value   = false
-  try {
-    const res = await fetch(ANALYTICS_WORKER_URL + '/top-pages')
-    if (!res.ok) throw new Error(`Worker ${res.status}`)
-    const data = await res.json()
-    if (Array.isArray(data)) {
-      mostViewedClauses.value = data
-      // Cache in sessionStorage with timestamp so repeated opens skip the fetch
-      try {
-        sessionStorage.setItem(MOST_VIEWED_CACHE_KEY, JSON.stringify({ data, ts: Date.now() }))
-      } catch { /* storage quota exceeded — skip cache, not critical */ }
-    }
-  } catch {
-    // Worker unreachable or returned an error — degrade silently, section hidden
-    mostViewedError.value = true
-  } finally {
-    mostViewedLoading.value = false
-  }
-}
-
-// ─── Trending Topics fetch ────────────────────────────────────────────────────
-// Mirrors fetchMostViewed exactly. sessionStorage cache prevents re-fetching
-// within the 1-hour TTL window — aligns with the worker's Cache-Control header.
-async function fetchTrendingTopics() {
-  try {
-    const cached = sessionStorage.getItem(TRENDING_CACHE_KEY)
-    if (cached) {
-      const { data, ts } = JSON.parse(cached)
-      if (Date.now() - ts < TRENDING_TTL_MS && Array.isArray(data)) {
-        trendingTopics.value = data
-        return
-      }
-    }
-  } catch { /* corrupt cache — fall through to fresh fetch */ }
-
-  trendingLoading.value = true
-  try {
-    const res = await fetch(ANALYTICS_WORKER_URL + '/trending-topics')
-    if (!res.ok) throw new Error(`Worker ${res.status}`)
-    const data = await res.json()
-    console.log('[trending]', data)   // ← correct position
-    if (Array.isArray(data)) {
-      trendingTopics.value = data
-      try {
-        sessionStorage.setItem(TRENDING_CACHE_KEY, JSON.stringify({ data, ts: Date.now() }))
-      } catch { /* quota exceeded — skip cache */ }
-    }
-  } catch {
-    trendingTopics.value = []
-  } finally {
-    trendingLoading.value = false
-  }
-}
-
 let searchTimer           = null
 let pagefind              = null
 let pagefindInitPromise   = null    // deduplicates concurrent init calls from hover + focus
 let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
-
-// ─── Quick Access shortcuts ───────────────────────────────────────────────────
-const quickAccessShortcuts = [
-  { icon: '⏱️', label: 'Overtime & Penalty Rates', topic: 'overtime',    query: '' },
-  { icon: '📅', label: 'Leave Entitlements',        topic: 'leave',       query: '' },
-  { icon: '💵', label: 'Wage Rates',                topic: 'wages',       query: '' },
-  { icon: '💰', label: 'Allowances',                topic: 'allowances',  query: '' },
-  { icon: '📋', label: 'Termination & Redundancy',  topic: 'termination', query: '' },
-]
-
-// ─── Trending topics display map + computed ───────────────────────────────────
-// TOPIC_DISPLAY provides curated labels for the 13 core taxonomy slugs.
-// The ?? fallback in trendingShortcuts auto-formats any slug outside this map
-// (kebab-case → Title Case) so future topics surface without a code change.
-const TOPIC_DISPLAY = {
-  'allowances':               'Allowances',
-  'classification':           'Classification',
-  'consultation':             'Consultation',
-  'dispute-resolution':       'Dispute Resolution',
-  'employment-types':         'Employment Types',
-  'hours-of-work':            'Hours of Work',
-  'leave':                    'Leave Entitlements',
-  'overtime':                 'Overtime',
-  'penalty-rates':            'Penalty Rates',
-  'professional-development': 'Professional Development',
-  'termination':              'Termination & Redundancy',
-  'wages':                    'Wage Rates',
-  'workload':                 'Workload',
-}
-
-const trendingShortcuts = computed(() => {
-  return trendingTopics.value
-    .filter(t => t.topic)
-    .slice(0, 3)
-    .map(t => ({
-      topic: t.topic,
-      query: '',
-      label: TOPIC_DISPLAY[t.topic] ?? t.topic.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
-    }))
-})
 
 // ─── Smart suggestions: three-dictionary scoring engine ───────────────────────
 // Runs when results === 0 OR (results <= 2 AND query >= 4 chars).
@@ -1496,12 +1313,6 @@ function logSearch(tab, query, eba, topic, resultCount) {
   } catch { /* silently ignore */ }
 }
 
-function fireShortcut(shortcut) {
-  selectedTopic.value = shortcut.topic
-  query.value         = shortcut.query
-  doSearch()
-}
-
 // ─── EBA colour map ───────────────────────────────────────────────────────────
 // ebaColors — imported from eba-registry.js
 
@@ -1511,162 +1322,9 @@ function ebaStyle(ebaName) {
   return { color: c.color, backgroundColor: c.bg, borderColor: c.color + '40' }
 }
 
-// ebaList, ebaSlugLabels — imported from eba-registry.js
-
-// ─── Employment types ─────────────────────────────────────────────────────────
-const employmentTypes = [
-  'Full-time',
-  'Part-time',
-  'Casual',
-  'Fixed-term',
-]
-
-// ─── Saved searches logic ─────────────────────────────────────────────────────
-
-const isCurrentQuerySaved = computed(() => {
-  const q = query.value.trim()
-  const e = selectedEba.value
-  const t = selectedTopic.value
-  return savedSearches.value.some(s => s.query === q && s.eba === e && s.topic === t)
-})
-
-// ─── Ask AI character counters ────────────────────────────────────────────────
-// One computed per targeted field. Each returns the trimmed character count so
-// whitespace-only entries don't game the threshold. The template uses these to
-// drive both the counter display and the submit button appearance class.
-//
-// Thresholds (shared across all three modes):
-//   0–19  → 'too-short'  (grey)
-//   20–49 → 'good-start' (amber)
-//   50+   → 'good'       (green)
-const CHAR_THRESHOLD_MIN  = 20   // below this: too short
-const CHAR_THRESHOLD_GOOD = 50   // at or above this: good length
-
-function charCountState(len) {
-  if (len < CHAR_THRESHOLD_MIN)  return 'too-short'
-  if (len < CHAR_THRESHOLD_GOOD) return 'good-start'
-  return 'good'
-}
-
-// Linear opacity ramp: 0.45 at 0 chars → 1.0 at CHAR_THRESHOLD_GOOD (50).
-// Clamped so it never goes below 0.45 or above 1.0.
-// Applied as an inline :style on each submit button so the brand colour is
-// preserved at all lengths — only presence/confidence is communicated, not colour.
-function askBtnOpacity(len) {
-  const MIN_OPACITY = 0.2
-  const t = Math.min(len / CHAR_THRESHOLD_GOOD, 1)
-  return (MIN_OPACITY + t * (1 - MIN_OPACITY)).toFixed(2)
-}
-
-function buildSavedLabel() {
-  const parts = []
-  if (query.value.trim()) parts.push(`"${query.value.trim()}"`)
-  if (selectedEba.value)  parts.push(selectedEba.value.split(' ')[0])
-  if (selectedTopic.value) parts.push(selectedTopic.value)
-  return parts.join(' · ') || 'Search'
-}
-
-function toggleSaveSearch() {
-  const q = query.value.trim()
-  const e = selectedEba.value
-  const t = selectedTopic.value
-  const existing = savedSearches.value.find(s => s.query === q && s.eba === e && s.topic === t)
-  if (existing) {
-    savedSearches.value = savedSearches.value.filter(s => s.id !== existing.id)
-  } else {
-    const entry = { id: Date.now().toString(), label: buildSavedLabel(), query: q, eba: e, topic: t }
-    savedSearches.value = [entry, ...savedSearches.value].slice(0, 10)
-  }
-  persistSavedSearches()
-}
-
-function removeSavedSearch(id) {
-  savedSearches.value = savedSearches.value.filter(s => s.id !== id)
-  persistSavedSearches()
-}
-
-function clearAllSavedSearches() {
-  savedSearches.value = []
-  try { localStorage.removeItem(LOCAL_SAVED_KEY) } catch { /* ignore */ }
-}
-
-function useSavedSearch(saved) {
-  query.value         = saved.query
-  selectedEba.value   = saved.eba
-  selectedTopic.value = saved.topic
-  doSearch()
-  nextTick(() => inputRef.value?.focus())
-}
-
-function persistSavedSearches() {
-  try { localStorage.setItem(LOCAL_SAVED_KEY, JSON.stringify(savedSearches.value)) } catch { /* ignore */ }
-}
-
-function loadSavedSearches() {
-  try {
-    const raw = localStorage.getItem(LOCAL_SAVED_KEY)
-    if (raw) savedSearches.value = JSON.parse(raw)
-  } catch { /* ignore */ }
-}
-
-// ─── Cross-session history opt-in ─────────────────────────────────────────────
-// loadHistoryOptIn: called once in onMounted, before the sessionStorage fallback.
-//   Reads preference + prompt-seen flag. If opted in, seeds recentSearches from
-//   localStorage so history is available before the user types anything.
-function loadHistoryOptIn() {
-  try {
-    historyOptIn.value      = localStorage.getItem(LOCAL_HISTORY_OPT_IN_KEY) === '1'
-    historyPromptSeen.value = localStorage.getItem(LOCAL_HISTORY_PROMPT_KEY) === '1'
-    if (historyOptIn.value) {
-      const raw = localStorage.getItem(LOCAL_HISTORY_KEY)
-      if (raw) recentSearches.value = JSON.parse(raw)
-    }
-  } catch { /* degrade silently */ }
-}
-
-// toggleHistoryOptIn: fired by the gear settings panel toggle switch.
-//   Turning ON seeds localStorage from current session searches.
-//   Turning OFF removes the history data but keeps the prompt dismissed
-//   (the user made an explicit gear choice — the banner should not re-appear).
-function toggleHistoryOptIn() {
-  historyOptIn.value      = !historyOptIn.value
-  historyPromptSeen.value = true   // gear interaction always suppresses the one-time banner
-  try {
-    localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1')
-    if (historyOptIn.value) {
-      localStorage.setItem(LOCAL_HISTORY_OPT_IN_KEY, '1')
-      if (recentSearches.value.length > 0) {
-        localStorage.setItem(LOCAL_HISTORY_KEY, JSON.stringify(recentSearches.value))
-      }
-    } else {
-      localStorage.removeItem(LOCAL_HISTORY_OPT_IN_KEY)
-      localStorage.removeItem(LOCAL_HISTORY_KEY)
-    }
-  } catch { /* silently ignore */ }
-}
-
-// acceptHistoryOptIn / declineHistoryOptIn: fired by the one-time consent banner.
-function acceptHistoryOptIn() {
-  historyOptIn.value      = true
-  historyPromptSeen.value = true
-  try {
-    localStorage.setItem(LOCAL_HISTORY_OPT_IN_KEY, '1')
-    localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1')
-    if (recentSearches.value.length > 0) {
-      localStorage.setItem(LOCAL_HISTORY_KEY, JSON.stringify(recentSearches.value))
-    }
-  } catch { /* silently ignore */ }
-}
-
-function declineHistoryOptIn() {
-  historyPromptSeen.value = true
-  try { localStorage.setItem(LOCAL_HISTORY_PROMPT_KEY, '1') } catch { /* ignore */ }
-}
-
 // ─── General settings ─────────────────────────────────────────────────────────
 // saveSetting: shared one-liner for all preference writes.
-// loadSettings: called once in onMounted. Reads all 6 preference keys and also
-//   primes activeTab so the right tab opens on the first modal open of the page.
+// loadSettings: called once in onMounted. Reads all preference keys.
 //   previewEnabled and analyticsEnabled default to true — stored only when explicitly
 //   toggled off, so we use !== 'false' rather than === 'true'.
 function saveSetting(key, value) {
@@ -1762,18 +1420,6 @@ function renderMarkdown(md) {
   return html
 }
 
-// ─── AI confidence heuristic ──────────────────────────────────────────────────
-// Runs against the raw markdown string (before HTML rendering) and returns true
-// when the model's answer contains language that signals genuine uncertainty
-// about clause applicability — not just careful professional phrasing.
-//
-// Design intent: conservative. Phrases that also appear in EBA source text
-// (e.g. "generally", "typically", "may be entitled") are deliberately excluded
-// to avoid over-firing. Only phrases that a model uses when hedging its OWN
-// answer are included.
-//
-// Called once per assistant turn in submitAsk() — result stored as turn.hedging
-// so the template can key off it without re-running on every render.
 // ─── Excerpt cleaner ─────────────────────────────────────────────────────────
 function cleanExcerpt(raw) {
   if (!raw) return ''
@@ -1928,13 +1574,9 @@ function loadPersistedState() {
     const savedQuery  = sessionStorage.getItem(SESSION_QUERY_KEY)  || ''
     const savedEba    = sessionStorage.getItem(SESSION_EBA_KEY)    || ''
     const savedTopic  = sessionStorage.getItem(SESSION_TOPIC_KEY)  || ''
-    const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
     if (savedQuery)  query.value         = savedQuery
     if (savedEba)    selectedEba.value   = savedEba
     if (savedTopic)  selectedTopic.value = savedTopic
-    // When opted in, recentSearches was already loaded from localStorage by
-    // loadHistoryOptIn() in onMounted. Skip the sessionStorage overwrite.
-    if (savedRecent && !historyOptIn.value) recentSearches.value = JSON.parse(savedRecent)
     // Apply default EBA whenever the modal opens with no active EBA filter.
     if (defaultEba.value && !selectedEba.value) {
       selectedEba.value = defaultEba.value
@@ -1969,33 +1611,6 @@ function persistState() {
       sessionStorage.removeItem(SESSION_EBA_CONTEXT_KEY)
     }
   } catch { /* silently ignore */ }
-}
-
-// ─── Recent searches ──────────────────────────────────────────────────────────
-function addToRecentSearches(term) {
-  if (!term || term.trim().length < 3) return
-  try {
-    const trimmed = term.trim()
-    const cap     = historyOptIn.value ? 20 : 5
-    const updated = [trimmed, ...recentSearches.value.filter(r => r !== trimmed)].slice(0, cap)
-    recentSearches.value = updated
-    sessionStorage.setItem(SESSION_RECENT_KEY, JSON.stringify(updated))
-    if (historyOptIn.value) localStorage.setItem(LOCAL_HISTORY_KEY, JSON.stringify(updated))
-  } catch { /* silently ignore */ }
-}
-
-function clearRecentSearches() {
-  recentSearches.value = []
-  try {
-    sessionStorage.removeItem(SESSION_RECENT_KEY)
-    if (historyOptIn.value) localStorage.removeItem(LOCAL_HISTORY_KEY)
-  } catch { /* ignore */ }
-}
-
-function useRecentSearch(term) {
-  query.value = term
-  doSearch()
-  nextTick(() => inputRef.value?.focus())
 }
 
 // ─── Keyboard navigation ──────────────────────────────────────────────────────
@@ -2119,11 +1734,9 @@ async function initPagefind() {
 }
 
 onMounted(() => {
-  loadSavedSearches()
   loadBookmarks()
   loadRecentlyViewed()
-  loadHistoryOptIn()   // must run before the sessionStorage recent fallback below
-  loadSettings()       // reads display, privacy, and default EBA preference keys
+  loadSettings()
 
   // Auto-open if the page URL contains search params — handles shared links
   // (e.g. /?q=overtime&eba=nurses-midwives pasted into an email or Jira comment).
@@ -2131,15 +1744,6 @@ onMounted(() => {
     const p = new URLSearchParams(window.location.search)
     if (p.has('q') || p.has('eba') || p.has('topic')) nextTick(() => openModal())
   }
-  // Guard: when opted in, loadHistoryOptIn() already seeded recentSearches from
-  // localStorage. Skip the sessionStorage read to avoid overwriting it.
-  try {
-    if (!historyOptIn.value) {
-      const savedRecent = sessionStorage.getItem(SESSION_RECENT_KEY)
-      if (savedRecent) recentSearches.value = JSON.parse(savedRecent)
-    }
-  } catch { /* silently ignore */ }
-
   // Phase 1: queue background preload of pagefind assets.
   // modulepreload for pagefind.js — parses the module into the registry.
   // prefetch for pagefind-entry.json — downloads the JSON index into cache.
@@ -3054,15 +2658,8 @@ function buildHighlightUrl(result) {
 
 // ─── Result click handler ─────────────────────────────────────────────────────
 function handleResultClick(result) {
-  addToRecentSearches(query.value)
   persistState()
   close()
-}
-
-function clearFilters() {
-  selectedEba.value   = ''
-  selectedTopic.value = ''
-  doSearch()
 }
 
 </script>
@@ -3167,12 +2764,6 @@ function clearFilters() {
 .filter-group:focus-within > label {
   color: var(--vp-c-brand-1);
 }
-.clear-btn {
-  padding: 0.35rem 0.75rem; font-size: 0.8rem; border-radius: 6px;
-  border: 1px solid var(--vp-c-divider); background: var(--vp-c-bg);
-  color: var(--vp-c-text-2); cursor: pointer; align-self: flex-end;
-}
-.clear-btn:hover { background: var(--vp-c-bg-muted); }
 
 /* ── Body ── */
 .search-body { flex: 1; overflow-y: auto; padding: 0.75rem 1rem; }
@@ -3181,307 +2772,9 @@ function clearFilters() {
 .fuzzy-suggestion { font-size: 0.82rem; color: var(--vp-c-text-3); margin-top: 0.75rem; margin-bottom: 0.5rem; }
 .fuzzy-results { opacity: 0.92; }
 
-/* ── Quick Access ── */
-.quick-access { padding: 0.25rem 0; }
-.qa-section { margin-bottom: 1.25rem; }
-.qa-section-header {
-  display: flex; align-items: center; gap: 0.4rem;
-  font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.07em; color: var(--vp-c-text-3); margin-bottom: 0.6rem;
-}
-.qa-clear-recent {
-  margin-left: auto; background: none; border: none;
-  font-size: 0.7rem; color: var(--vp-c-text-3); cursor: pointer;
-  text-decoration: underline; text-transform: none; letter-spacing: 0; font-weight: 400;
-}
-.qa-clear-recent:hover { color: var(--vp-c-text-2); }
-.qa-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-
-/* ── Recent search chips (pill style — unchanged) ── */
-.qa-chip {
-  padding: 0.25rem 0.65rem; border-radius: 6px;
-  border: 1px solid var(--vp-c-divider); background: var(--vp-c-bg-soft);
-  font-size: 0.78rem; color: var(--vp-c-text-2); cursor: pointer;
-  transition: border-color 0.15s, color 0.15s;
-}
-.qa-chip:hover { border-color: var(--vp-c-brand); color: var(--vp-c-brand-1); }
-
-/* ── Saved search chips (inline-code style) ── */
-.qa-chip-saved {
-  display: inline-flex; align-items: center;
-  padding: 0; overflow: hidden;
-  border-radius: 4px;
-  border: 1px solid var(--vp-c-divider);
-  background: var(--vp-c-bg-soft);
-  font-family: var(--vp-font-family-mono, ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace);
-}
-.qa-chip-saved .qa-chip-label {
-  display: flex; align-items: center; gap: 0.3rem;
-  padding: 0.15rem 0.45rem 0.15rem 0.55rem;
-  font-size: 0.78rem; color: var(--vp-c-text-2);
-  background: none; border: none; cursor: pointer;
-  transition: color 0.15s;
-  font-family: inherit;
-}
-.qa-chip-saved .qa-chip-label svg { color: #F59E0B; flex-shrink: 0; }
-.qa-chip-saved .qa-chip-label:hover { color: var(--vp-c-brand-1); }
-.qa-chip-saved .qa-chip-remove {
-  display: flex; align-items: center; justify-content: center;
-  width: 20px; height: 100%; padding: 0 3px;
-  font-size: 0.82rem; line-height: 1;
-  background: none; border: none; border-left: 1px solid var(--vp-c-divider);
-  color: var(--vp-c-text-3); cursor: pointer;
-  transition: background 0.12s, color 0.12s;
-  font-family: inherit;
-}
-.qa-chip-saved .qa-chip-remove:hover { background: var(--vp-c-danger-soft); color: var(--vp-c-danger-1); }
-
-.qa-shortcuts { display: flex; flex-direction: column; gap: 0.35rem; }
-.qa-shortcut {
-  display: flex; align-items: center; gap: 0.6rem;
-  padding: 0.6rem 0.85rem; border-radius: 8px;
-  border: 1px solid var(--vp-c-divider); background: var(--vp-c-bg-soft);
-  cursor: pointer; transition: border-color 0.15s, background 0.15s; text-align: left;
-}
-.qa-shortcut:hover { border-color: var(--vp-c-brand); background: var(--vp-c-bg-elv); }
-.qa-shortcut-icon { font-size: 1rem; flex-shrink: 0; }
-.qa-shortcut-label { flex: 1; font-size: 0.875rem; font-weight: 500; color: var(--vp-c-text-1); }
-.qa-shortcut-arrow { flex-shrink: 0; color: var(--vp-c-text-3); transition: transform 0.15s; }
-.qa-shortcut:hover .qa-shortcut-arrow { transform: translateX(3px); color: var(--vp-c-brand); }
-
-/* Trending topic chips — reuse qa-chip base, add a brand accent */
-.qa-chip-trending {
-  border-color: var(--vp-c-brand-2, #a855f7);
-  color: var(--vp-c-brand-1);
-}
-.qa-chip-trending:hover {
-  background: var(--vp-c-brand-soft);
-  border-color: var(--vp-c-brand-1);
-}
-
-/* Skeleton chip for trending loading state */
-.qa-chip--skeleton {
-  width: 96px;
-  pointer-events: none;
-  background: var(--vp-c-bg-elv);
-  border-color: transparent;
-  animation: qa-shimmer 1.4s ease-in-out infinite;
-}
-@keyframes qa-shimmer {
-  0%, 100% { opacity: 0.35; }
-  50%       { opacity: 0.75; }
-}
-
-.search-hint-small { font-size: 0.75rem; color: var(--vp-c-text-3); text-align: center; margin-top: 0.5rem; }
-
-/* ── Most Viewed Clauses ── */
-.qa-most-viewed-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-}
-
-.qa-most-viewed-card {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  padding: 0.5rem 0.7rem;
-  border-radius: 7px;
-  border: 1px solid var(--vp-c-divider);
-  border-left: 3px solid var(--vp-c-brand);
-  background: var(--vp-c-bg-soft);
-  text-decoration: none;
-  transition: border-color 0.15s, background 0.15s;
-}
-
-.qa-most-viewed-card:hover {
-  background: var(--vp-c-bg-elv);
-  border-color: var(--vp-c-brand);
-  border-left-color: var(--vp-c-brand);
-}
-
-.qa-most-viewed-rank {
-  flex-shrink: 0;
-  width: 1.1rem;
-  font-size: 0.68rem;
-  font-weight: 700;
-  color: var(--vp-c-brand);
-  text-align: center;
-  opacity: 0.65;
-  font-variant-numeric: tabular-nums;
-}
-
-.qa-most-viewed-body {
-  flex: 1;
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.1rem;
-}
-
-.qa-most-viewed-title {
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: var(--vp-c-text-1);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  line-height: 1.3;
-  transition: color 0.15s;
-}
-
-.qa-most-viewed-card:hover .qa-most-viewed-title {
-  color: var(--vp-c-brand-1);
-}
-
-.qa-most-viewed-eba {
-  font-size: 0.69rem;
-  color: var(--vp-c-text-3);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.qa-most-viewed-arrow {
-  flex-shrink: 0;
-  color: var(--vp-c-text-3);
-  transition: transform 0.15s, color 0.15s;
-}
-
-.qa-most-viewed-card:hover .qa-most-viewed-arrow {
-  transform: translateX(3px);
-  color: var(--vp-c-brand);
-}
-
-/* ── Most Viewed loading skeleton ── */
-.qa-most-viewed-card--skeleton {
-  pointer-events: none;
-  border-left-color: var(--vp-c-divider);
-  animation: none;
-}
-
-.qa-skeleton-rank {
-  flex-shrink: 0;
-  width: 1.1rem;
-  height: 0.7rem;
-  border-radius: 3px;
-  background: var(--vp-c-divider);
-  animation: qa-skeleton-pulse 1.5s ease-in-out infinite;
-}
-
-.qa-skeleton-body {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-}
-
-.qa-skeleton-line {
-  display: block;
-  border-radius: 3px;
-  background: var(--vp-c-divider);
-  animation: qa-skeleton-pulse 1.5s ease-in-out infinite;
-}
-
-.qa-skeleton-title { height: 0.7rem; width: 65%; }
-.qa-skeleton-eba   { height: 0.55rem; width: 38%; animation-delay: 0.25s; }
-
 @keyframes qa-skeleton-pulse {
   0%, 100% { opacity: 1;   }
   50%       { opacity: 0.35; }
-}
-
-/* ── Bookmark count badge in section header ── */
-.qa-bookmark-count {
-  margin-left: 0.2rem;
-  font-size: 0.65rem;
-  font-weight: 700;
-  color: var(--vp-c-bg);
-  background: #F59E0B;
-  border-radius: 999px;
-  padding: 0.05rem 0.4rem;
-  line-height: 1.5;
-}
-
-/* ── Bookmark card list — vertical stack, one card per bookmark ── */
-.qa-bookmark-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
-}
-
-.qa-bookmark-card {
-  display: block;
-  text-decoration: none;
-  padding: 0.55rem 0.7rem;
-  border-radius: 7px;
-  border: 1px solid var(--vp-c-divider);
-  border-left: 3px solid #F59E0B;
-  background: var(--vp-c-bg-soft);
-  transition: border-color 0.15s, background 0.15s;
-}
-
-.qa-bookmark-card:hover {
-  background: var(--vp-c-bg-elv);
-  border-color: var(--vp-c-brand);
-  border-left-color: #F59E0B;
-}
-
-.qa-bookmark-card-top {
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-}
-
-.qa-bookmark-card-icon {
-  color: #F59E0B;
-  flex-shrink: 0;
-}
-
-.qa-bookmark-card-title {
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: var(--vp-c-brand);
-  line-height: 1.35;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.qa-bookmark-card:hover .qa-bookmark-card-title {
-  color: var(--vp-c-brand-1);
-}
-
-.qa-bookmark-card-eba {
-  font-size: 0.7rem;
-  color: var(--vp-c-text-3);
-  margin-top: 0.15rem;
-  margin-left: 1.35rem;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.qa-bookmark-card-note {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.3rem;
-  margin-top: 0.35rem;
-  margin-left: 1.35rem;
-  font-size: 0.75rem;
-  font-style: italic;
-  color: #B45309;
-  line-height: 1.45;
-}
-
-.dark .qa-bookmark-card-note {
-  color: #FCD34D;
-}
-
-.qa-bookmark-card-note svg {
-  flex-shrink: 0;
-  margin-top: 0.15rem;
-  opacity: 0.7;
 }
 
 /* ── Search result skeleton shimmer ── */
@@ -3778,89 +3071,6 @@ function clearFilters() {
   pointer-events: none;
 }
 .settings-toggle--on .settings-toggle-knob { transform: translateX(14px); }
-
-/* ── Recent searches: persist (lock) icon ───────────────────────────────────── */
-.recent-persist-icon {
-  color:        var(--vp-c-brand-1);
-  opacity:      0.7;
-  flex-shrink:  0;
-  margin-right: auto;   /* pushes the Clear button to the far right */
-}
-
-/* ── One-time consent banner ─────────────────────────────────────────────────── */
-.qa-history-prompt {
-  border:        1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background:    var(--vp-c-bg-soft);
-  padding:       0.6rem 0.75rem;
-  display:       flex;
-  flex-direction: column;
-  gap:           0.55rem;
-}
-
-.qa-history-prompt-body {
-  display:     flex;
-  align-items: flex-start;
-  gap:         0.5rem;
-}
-
-.qa-history-prompt-icon {
-  flex-shrink: 0;
-  margin-top:  0.1rem;
-  color:       var(--vp-c-text-3);
-}
-
-.qa-history-prompt-text {
-  display:        flex;
-  flex-direction: column;
-  gap:            0.15rem;
-}
-
-.qa-history-prompt-title {
-  font-size:   0.8rem;
-  font-weight: 600;
-  color:       var(--vp-c-text-1);
-  line-height: 1.35;
-}
-
-.qa-history-prompt-sub {
-  font-size:   0.72rem;
-  color:       var(--vp-c-text-3);
-  line-height: 1.3;
-}
-
-.qa-history-prompt-actions {
-  display: flex;
-  gap:     0.5rem;
-}
-
-.qa-history-prompt-yes {
-  padding:       0.28rem 0.7rem;
-  border-radius: 5px;
-  font-size:     0.75rem;
-  font-weight:   600;
-  cursor:        pointer;
-  border:        1px solid var(--vp-c-brand-1);
-  background:    var(--vp-c-brand-soft);
-  color:         var(--vp-c-brand-1);
-  transition:    filter 0.15s;
-}
-.qa-history-prompt-yes:hover { filter: brightness(1.1); }
-
-.qa-history-prompt-no {
-  padding:       0.28rem 0.6rem;
-  border-radius: 5px;
-  font-size:     0.75rem;
-  cursor:        pointer;
-  border:        1px solid var(--vp-c-divider);
-  background:    transparent;
-  color:         var(--vp-c-text-3);
-  transition:    color 0.15s, border-color 0.15s;
-}
-.qa-history-prompt-no:hover {
-  color:        var(--vp-c-text-2);
-  border-color: var(--vp-c-text-3);
-}
 
 /* ── Settings section heading ────────────────────────────────────────────────── */
 .settings-section-head {
