@@ -780,10 +780,29 @@
           <span v-if="previewResult.meta?.section && previewResult.meta?.clause" class="breadcrumb-sep">›</span>
           <span v-if="previewResult.meta?.clause" class="breadcrumb-clause">{{ previewResult.meta.clause }}</span>
         </div>
-        <div v-if="previewResult.excerpt || previewResult.meta?.excerpt" class="preview-excerpt" v-html="cleanExcerpt(getExcerpt(previewResult))"></div>
-        <div v-if="previewResult.filters?.topics?.length" class="preview-topics">
-          <span v-for="t in previewResult.filters.topics" :key="t" class="result-tag">{{ t }}</span>
+        <!-- Loading shimmer — shown during debounce + fetch -->
+        <div v-if="previewLoading" class="preview-shimmer" aria-hidden="true">
+          <div class="preview-shimmer-line" style="width: 90%"></div>
+          <div class="preview-shimmer-line" style="width: 70%"></div>
+          <div class="preview-shimmer-line" style="width: 80%"></div>
+          <div class="preview-shimmer-line" style="width: 60%"></div>
+          <div class="preview-shimmer-line" style="width: 75%"></div>
         </div>
+
+        <!-- Fetched clause content — replaces excerpt once loaded -->
+        <div
+          v-else-if="previewHtml"
+          class="preview-content vp-doc"
+          v-html="previewHtml"
+        ></div>
+
+        <!-- Fallback: Pagefind excerpt (dev mode or fetch error) -->
+        <template v-else>
+          <div v-if="previewResult.excerpt || previewResult.meta?.excerpt" class="preview-excerpt" v-html="cleanExcerpt(getExcerpt(previewResult))"></div>
+          <div v-if="previewResult.filters?.topics?.length" class="preview-topics">
+            <span v-for="t in previewResult.filters.topics" :key="t" class="result-tag">{{ t }}</span>
+          </div>
+        </template>
         <a :href="buildHighlightUrl(previewResult)" class="preview-open-link" @click="handleResultClick(previewResult)">
           Open page
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
@@ -860,6 +879,16 @@ const previewVisible = ref(false)
 const previewStyle   = ref({})
 let previewHideTimer = null
 let previewKeep      = false
+
+// ─── Preview page fetch ───────────────────────────────────────────────────────
+// previewHtml:    fetched .vp-doc innerHTML; null until a fetch completes
+// previewLoading: true while the debounced fetch is in-flight
+// previewCache:   session-scoped Map<url → html> so re-hovering costs nothing
+// previewFetchTimer: debounce handle; cancelled on fast mouse-out
+const previewHtml    = ref(null)
+const previewLoading = ref(false)
+const previewCache   = new Map()
+let   previewFetchTimer = null
 
 // ─── Fuzzy fallback ───────────────────────────────────────────────────────────
 const fuzzyResults  = ref([])
@@ -1765,16 +1794,17 @@ function getExcerpt(result) {
 function setPreview(result, event) {
   if (!previewEnabled.value) return
   clearTimeout(previewHideTimer)
+  clearTimeout(previewFetchTimer)
   previewKeep = false
   if (window.innerWidth < 900) return
   const modal = modalRef.value?.getBoundingClientRect()
   if (!modal) return
   const left  = modal.right + 12
   const right = window.innerWidth - left
-  if (right < 240) return
+  if (right < 280) return
   const card  = event?.currentTarget?.getBoundingClientRect?.() ?? null
-  const top   = card ? Math.min(card.top, window.innerHeight - 360) : modal.top
-  const width = Math.min(280, right - 16)
+  const top   = card ? Math.min(card.top, window.innerHeight - 400) : modal.top
+  const width = Math.min(380, right - 16)
   previewStyle.value = {
     left:      `${left}px`,
     top:       `${Math.max(80, top)}px`,
@@ -1783,16 +1813,93 @@ function setPreview(result, event) {
   }
   previewResult.value  = result
   previewVisible.value = true
+
+  // Reset fetch state for this card
+  previewHtml.value    = null
+  previewLoading.value = false
+
+  // Cache hit — no network needed
+  const url = result.url
+  if (previewCache.has(url)) {
+    previewHtml.value = previewCache.get(url)
+    return
+  }
+
+  // Debounce: only fetch if user hovers > 200ms — prevents flood on fast scanning
+  previewLoading.value = true
+  previewFetchTimer = setTimeout(() => fetchPreviewHtml(url), 200)
 }
 
 function clearPreview() {
   if (previewKeep) return
+  clearTimeout(previewFetchTimer)
   previewHideTimer = setTimeout(() => {
     if (!previewKeep) {
       previewVisible.value = false
       previewResult.value  = null
+      previewHtml.value    = null
+      previewLoading.value = false
     }
   }, 120)
+}
+
+// ─── Preview page fetch ───────────────────────────────────────────────────────
+// Fetches the full clause page HTML and extracts .vp-doc content.
+// Mirrors the ClausePanel.vue fetchClause() pattern exactly.
+// Degrades silently on failure — the preview falls back to the Pagefind excerpt.
+async function fetchPreviewHtml(url) {
+  // Guard: if the user moved away before the 200ms debounce fired, abort
+  if (!previewVisible.value || previewResult.value?.url !== url) {
+    previewLoading.value = false
+    return
+  }
+  try {
+    const fetchUrl = url.replace(/\/$/, '').replace(/\.html$/, '')
+    const res      = await fetch(fetchUrl)
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+
+    const parser = new DOMParser()
+    const doc    = parser.parseFromString(await res.text(), 'text/html')
+    const vpDoc  = doc.querySelector('.vp-doc')
+
+    if (!vpDoc) {
+      // Dev mode: VitePress serves a JS shell — no static HTML to extract.
+      // Degrade silently; the Pagefind excerpt fallback will show instead.
+      previewLoading.value = false
+      return
+    }
+
+    // Strip elements that don't belong in the preview pane
+    vpDoc.querySelectorAll([
+      '[class*="vp-nolebase-git-changelog"]',
+      '.related-clauses-panel',
+      '.legislation-panel',
+      '.doc-toolbar',
+    ].join(',')).forEach(el => el.remove())
+
+    // Remove trailing Changelog H2
+    const allH2s = [...vpDoc.querySelectorAll('h2')]
+    const lastH2 = allH2s[allH2s.length - 1]
+    if (lastH2 && /changelog/i.test(lastH2.textContent)) lastH2.remove()
+
+    // Remove the page H1 — already shown in the preview header
+    vpDoc.querySelector('h1')?.remove()
+
+    const html = vpDoc.innerHTML
+
+    // Guard: result may have changed while the fetch was in-flight
+    if (previewResult.value?.url !== url) {
+      previewLoading.value = false
+      return
+    }
+
+    previewCache.set(url, html)
+    previewHtml.value    = html
+    previewLoading.value = false
+  } catch {
+    // Any network or parse error: degrade silently, show Pagefind excerpt
+    previewLoading.value = false
+  }
 }
 
 function keepPreview() {
@@ -4478,6 +4585,64 @@ function clearFilters() {
   line-height: 1.5;
   padding:     0.3rem 0.25rem 0;
   border-top:  1px solid var(--vp-c-divider);
+}
+
+/* ── Preview rendered clause content ─────────────────────────────────────────
+   Reuses VitePress's global .vp-doc class for base styles, then scales
+   everything down to fit the narrower pane. Links are pointer-events:none
+   because the preview is read-only — use "Open page" to navigate.
+──────────────────────────────────────────────────────────────────────────── */
+.preview-content.vp-doc {
+  font-size:   0.78rem;
+  line-height: 1.6;
+  color:       var(--vp-c-text-2);
+}
+.preview-content.vp-doc :deep(h1) { display: none; }
+.preview-content.vp-doc :deep(h2) { font-size: 0.82rem; font-weight: 700; margin: 0.65rem 0 0.25rem; padding-top: 0; border-top: none; }
+.preview-content.vp-doc :deep(h3) { font-size: 0.78rem; font-weight: 600; margin: 0.45rem 0 0.2rem; }
+.preview-content.vp-doc :deep(h4) { font-size: 0.76rem; font-weight: 600; margin: 0.35rem 0 0.15rem; }
+.preview-content.vp-doc :deep(p)  { margin: 0 0 0.45rem; }
+.preview-content.vp-doc :deep(ul),
+.preview-content.vp-doc :deep(ol) { margin: 0.2rem 0 0.45rem 1rem; padding: 0; }
+.preview-content.vp-doc :deep(li) { margin: 0.1rem 0; }
+.preview-content.vp-doc :deep(table) {
+  border-collapse: collapse; font-size: 0.73rem; width: 100%; margin: 0.45rem 0;
+}
+.preview-content.vp-doc :deep(th),
+.preview-content.vp-doc :deep(td) {
+  border: 1px solid var(--vp-c-divider); padding: 0.2rem 0.4rem; text-align: left;
+}
+.preview-content.vp-doc :deep(th) { background: var(--vp-c-bg-soft); font-weight: 600; }
+.preview-content.vp-doc :deep(a)  { color: var(--vp-c-brand-1); text-decoration: none; pointer-events: none; }
+.preview-content.vp-doc :deep(strong) { font-weight: 700; color: var(--vp-c-text-1); }
+.preview-content.vp-doc :deep(.custom-block) {
+  padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; margin: 0.4rem 0;
+}
+
+/* ── Preview loading shimmer ─────────────────────────────────────────────────
+   Animated placeholder shown during the 200ms debounce + fetch period.
+──────────────────────────────────────────────────────────────────────────── */
+.preview-shimmer {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.5rem;
+  padding:        0.1rem 0;
+}
+.preview-shimmer-line {
+  height:          0.65rem;
+  border-radius:   4px;
+  background:      linear-gradient(
+    90deg,
+    var(--vp-c-bg-soft) 25%,
+    var(--vp-c-bg-mute) 50%,
+    var(--vp-c-bg-soft) 75%
+  );
+  background-size: 200% 100%;
+  animation:       preview-shimmer-move 1.4s infinite;
+}
+@keyframes preview-shimmer-move {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
 }
 
 </style>
