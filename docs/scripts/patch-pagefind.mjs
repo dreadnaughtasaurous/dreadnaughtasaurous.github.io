@@ -142,9 +142,10 @@ function getFirstProse(mdPath) {
 // Tier  Weight  Page type
 // ─────────────────────────────────────────────────────────────────────────────
 //  1      12    Wage/appendix tables — HR advisors hunt these for dollar figures
-//  2      10    Primary numbered clause whose slug directly matches its topic
+//  2      10    Primary numbered clause whose slug directly matches its topic,
+//               confirmed by a slug-specificity ratio ≥ 0.30 (see below)
 //  3       7    Named section-index (no leading digit, not preliminary)
-//  4       6    General numbered clause — tagged but no direct slug-topic match
+//  4       6    General numbered clause — tagged but no primary slug-topic match
 //  5       3    Preliminary / definitions / procedural reference pages
 // ─────────────────────────────────────────────────────────────────────────────
 //
@@ -190,6 +191,26 @@ const PRELIMINARY_PATTERNS = [
   // are never the primary answer when an advisor searches for an entitlement.
   // Weight 3 prevents them outranking primary leave clauses via TF-IDF.
   /transition.to.retirement/,
+  // ── G2: Subsidiary overtime consequence clauses ───────────────────────────────
+  // "Rest period after overtime" and "ten hour break" pages describe a mandatory
+  // rest entitlement triggered BY overtime — they are not overtime clauses.
+  // Their body text references overtime conditions extensively, causing TF-IDF
+  // contamination. Weight 3 + full body suppression (BODY_IGNORE_PATTERNS) is
+  // the combined defence. Pattern coverage ensures future EBAs are caught
+  // automatically without needing explicit slug entries.
+  /rest.period.after.overtime/,
+  /rest.period.after.excessive/,
+  /ten.hour.break/,
+  // ── F2: Subsidiary leave clauses ─────────────────────────────────────────────
+  // "Cashing out" clauses are procedural sub-clauses of the parent leave clause.
+  // They match "annual leave" queries via TF-IDF but should never outrank the
+  // primary annual leave clause. Weight 3 ensures they appear well below it.
+  /cashing.out/,
+  // RCH-specific Mental Health schedule pages (e.g. 211-conversion-of-unused-
+  // sick-leave-to-annual-leave) contain formal sick-leave terminology in their
+  // title and body but are narrow sub-schedules for a single hospital.
+  // Weight 3 prevents them surfacing above cross-EBA primary clauses.
+  /conversion.of.unused/,
 ]
 
 // Section-index slugs — no leading digit, not preliminary.
@@ -351,6 +372,10 @@ const SLUG_SYNONYMS = {
 // transition-to-retirement: contains "LSL" 8-12 times as EBA drafting language
 // for preserved LSL calculations — not because the page is about LSL.
 const BODY_IGNORE_SLUGS = new Set([
+  // ── Transition to retirement ──────────────────────────────────────────────────
+  // These pages reference LSL extensively in EBA drafting language for preserved
+  // LSL calculations — not because the page is about LSL. Body suppression
+  // prevents TF-IDF contamination of primary LSL clause searches.
   '27-transition-to-retirement',   // allied-health
   '25-transition-to-retirement',   // biomedical-engineers
   '32-transition-to-retirement',   // doctors-in-training
@@ -359,7 +384,63 @@ const BODY_IGNORE_SLUGS = new Set([
   '27A-transition-to-retirement',  // mental-health
   '20-transition-to-retirement',   // mspp
   '24-transition-to-retirement',   // nurses-midwives
+
+  // ── Rest period after overtime / ten hour break ───────────────────────────────
+  // These pages describe a consequence of overtime (a mandatory rest period) and
+  // reference "overtime" heavily in their body text. This causes them to outrank
+  // primary overtime clauses for broad "overtime" queries via TF-IDF dominance —
+  // confirmed by diagnostic testing where weight changes alone were insufficient.
+  //
+  // Body suppression means these pages remain findable by their title
+  // (e.g. searching "ten hour break" or "rest period after overtime" still works)
+  // but no longer pollute broad single-word "overtime" searches.
+  '55-rest-period-after-overtime-recall-ten-hour-break',  // allied-health
+  '48-rest-period-after-overtime-recall-ten-hour-break',  // biomedical-engineers
+  '131-ten-hour-break',                                   // mental-health (health-professionals stream)
+  '93-ten-hour-break-between-overtime-recall',            // mental-health (rpn-pen-mho stream)
+  '53-rest-period-after-overtime-recall',                 // nurses-midwives
+  '54-rest-period-after-excessive-hours',                 // nurses-midwives
+
+  // ── Cashing out of annual leave ───────────────────────────────────────────────
+  // These pages define the cashing-out procedure and mention "annual leave"
+  // extensively — EBA text must define the leave being cashed, calculate balances,
+  // and set conditions, all of which repeat "annual leave" many times.
+  //
+  // PRELIMINARY_PATTERNS already assigns these weight 3 (vs primary clause weight
+  // 10), but diagnostic testing confirmed the TF-IDF gap exceeds the 3.33× weight
+  // advantage. Body suppression is the correct additional lever: these pages remain
+  // findable when searching "cashing out annual leave" (title match) but no longer
+  // dominate a general "annual leave" search.
+  '60-cashing-out-of-annual-leave',  // allied-health
+  '52-cashing-out-of-annual-leave',  // biomedical-engineers
+  '59-cashing-out-of-annual-leave',  // nurses-midwives
 ])
+
+// ── BODY-IGNORE PATTERNS ──────────────────────────────────────────────────────
+// Regex patterns that extend BODY_IGNORE_SLUGS with class-based coverage.
+// Where BODY_IGNORE_SLUGS requires an exact slug, these patterns match any
+// slug that fits a known problematic class — so future EBAs are suppressed
+// automatically without needing manual slug additions.
+//
+// Convention: use . as a wildcard between words (matches hyphens in slug strings).
+// All patterns are tested against the lowercase slug.
+//
+// Pair each pattern with a matching entry in PRELIMINARY_PATTERNS (weight 3)
+// for defence in depth: body suppressed AND weight reduced.
+const BODY_IGNORE_PATTERNS = [
+  // Transition to retirement — also named explicitly in BODY_IGNORE_SLUGS;
+  // pattern here catches any variant added by a future EBA.
+  /transition.to.retirement/,
+  // Rest period / ten hour break after overtime or excessive hours.
+  // These describe a consequence of overtime, not overtime itself.
+  /rest.period.after.overtime/,
+  /rest.period.after.excessive/,
+  /ten.hour.break/,
+  // Cashing out of leave — procedure clauses that saturate "annual leave" TF-IDF.
+  /cashing.out.of.annual.leave/,
+  // Conversion procedures (e.g. RCH sick-leave-to-annual-leave sub-schedules).
+  /conversion.of.unused/,
+]
 
 function computeWeight(slug, topics) {
   const slugNorm = slug.toLowerCase()
@@ -390,18 +471,54 @@ function computeWeight(slug, topics) {
     .map(t => t.trim().toLowerCase())
     .filter(t => t.length > 0)
 
+  // ── F1: Slug specificity ratio ────────────────────────────────────────────────
+  // Extract content words from the slug by stripping the leading clause number
+  // and splitting on hyphens. Short connector words (≤2 chars, e.g. "of", "to",
+  // "in", "s") are filtered out — they are not meaningful for specificity scoring.
+  //
+  // The ratio measures what fraction of a slug's meaningful words are covered
+  // by the topic words. A high ratio (≥0.30) means this slug IS primarily about
+  // the topic → primary clause → weight 10. A low ratio means the topic word
+  // appears incidentally inside a longer subsidiary clause → weight 6.
+  //
+  // Calibration examples (threshold 0.30):
+  //   52-overtime                              → 1/1 = 1.00 → weight 10 ✓ (primary)
+  //   55-rest-period-after-overtime-recall-... → 1/8 = 0.13 → weight  6 ✓ (subsidiary)
+  //   57-annual-leave                          → 1/2 = 0.50 → weight 10 ✓ (primary)
+  //   59-cashing-out-of-annual-leave           → 1/4 = 0.25 → weight  6 ✓ (subsidiary)
+  //   54-personal-carer-s-leave                → 1/3 = 0.33 → weight 10 ✓ (primary)
+  //   33-allowances-related-to-overtime        → 1/3 = 0.33 → weight 10 ✓ (primary allowance)
+  const slugContentWords = slugNorm
+    .replace(/^\d+[a-z]?-/, '')   // strip leading clause number (e.g. "52-", "38A-")
+    .split('-')
+    .filter(w => w.length > 2)    // drop connectors: "of", "to", "in", "s", "at"
+
   for (const topic of topicList) {
     // Split hyphenated topic into words; ignore short connectors (≤2 chars)
     const topicWords = topic.split(/[-\s]+/).filter(w => w.length > 2)
     if (topicWords.length === 0) continue
 
-    // ALL topic words must appear in the slug → this page IS the primary page
-    // for that topic (e.g. 52-overtime.md tagged overtime → weight 10)
+    // ALL topic words must appear in the full slug — necessary condition.
     const allMatch = topicWords.every(word => slugNorm.includes(word))
-    if (allMatch) return 10
+    if (!allMatch) continue
+
+    // Specificity: count slug content words covered by any topic word.
+    // Bi-directional substring match handles plurals and compound words
+    // (e.g. slug word "allowance" is covered by topic word "allowances").
+    const matchCount = slugContentWords.filter(w =>
+      topicWords.some(tw => w.includes(tw) || tw.includes(w))
+    ).length
+
+    const specificity = slugContentWords.length > 0
+      ? matchCount / slugContentWords.length
+      : 1  // no content words after stripping number → treat as full match
+
+    if (specificity >= 0.30) return 10
+    // allMatch was true but specificity is low → topic word appears incidentally
+    // in a longer subsidiary clause. Fall through to weight 6.
   }
 
-  // Tagged but no direct slug-topic match → general supporting clause
+  // Tagged but no primary slug-topic match → general supporting clause
   return 6
 }
 
@@ -508,12 +625,16 @@ for (const file of htmlFiles) {
   }
 
   if (html.includes('class="vp-doc ')) {
-    // Body-ignore slugs get data-pagefind-ignore instead of data-pagefind-body.
-    // This removes their body text from TF-IDF scoring while keeping their
-    // page title indexed via the <title> tag outside vp-doc.
-    const pagefindBodyAttr = BODY_IGNORE_SLUGS.has(slug)
-      ? 'data-pagefind-ignore'
-      : 'data-pagefind-body'
+    // Body-ignore slugs and patterns get data-pagefind-ignore instead of
+    // data-pagefind-body. This removes body text from TF-IDF scoring while
+    // keeping the page title indexed (via <title> outside vp-doc) so the
+    // page remains findable when searched directly by its own name.
+    // BODY_IGNORE_SLUGS: exact named slugs (confirmed problem pages).
+    // BODY_IGNORE_PATTERNS: regex class coverage (catches future EBAs automatically).
+    const pagefindBodyAttr = (
+      BODY_IGNORE_SLUGS.has(slug) ||
+      BODY_IGNORE_PATTERNS.some(re => re.test(slug.toLowerCase()))
+    ) ? 'data-pagefind-ignore' : 'data-pagefind-body'
     html = html.replace(
       /class="vp-doc ([^"]*)"/,
       `class="vp-doc $1" ${pagefindBodyAttr}`

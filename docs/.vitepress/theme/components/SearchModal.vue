@@ -2449,6 +2449,45 @@ function parseQuery(raw) {
   return { cleanQuery, operators: ops }
 }
 
+// ─── Title-match relevance scorer ─────────────────────────────────────────────
+// Rates how strongly a result's page title matches the active query words.
+// Called by doSearch() to apply a second-pass sort on top of Pagefind's TF-IDF.
+//
+// Two components:
+//   specificity — fraction of meaningful title words that ARE query words.
+//                 High specificity = this page IS the topic, not just references it.
+//                 "Overtime" for query "overtime"                    → 1.00
+//                 "Rest Period After Overtime/Recall - Ten Hour Break" → 0.13
+//   allPresent  — bonus (+1) when every query word appears in the title.
+//
+// Returns 0 when queryWords is empty or no title match exists — safe no-op
+// when called during filter-only searches.
+function computeTitleScore(result, queryWords) {
+  if (!queryWords.length) return 0
+  const rawTitle = result.meta?.title || ''
+  if (!rawTitle) return 0
+  const title = rawTitle.toLowerCase()
+
+  // Strip leading clause number ("49. ", "38D. ") — not a meaningful content word.
+  const titleContent = title.replace(/^\d+[a-z]*[.\s]+/i, '')
+  // Split on whitespace, slashes, hyphens, punctuation; keep words ≥ 3 chars.
+  const titleWords = titleContent.split(/[\s/\-,().]+/).filter(w => w.length >= 3)
+  if (titleWords.length === 0) return 0
+
+  // Count query words found in the title (whole-word prefix match).
+  const matchCount = queryWords.filter(qw => {
+    const escaped = qw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    return new RegExp(`\\b${escaped}`, 'i').test(title)
+  }).length
+
+  if (matchCount === 0) return 0
+
+  const specificity = matchCount / titleWords.length
+  const allPresent  = (matchCount === queryWords.length) ? 1 : 0
+
+  return (specificity * 2) + allPresent
+}
+
 // ─── Computed: reactively parse operators as user types ───────────────────────
 // Used by the pills row in the template. Does NOT re-run search — doSearch()
 // reads the same parser output when it fires.
@@ -2821,10 +2860,68 @@ async function doSearch() {
     }
 
     skeletonCount.value = 0
-    results.value = [
-      ...filtered.filter(r => exactIds.has(r.url)),
-      ...filtered.filter(r => !exactIds.has(r.url)),
-    ]
+
+    // ── Title-match re-ranking ────────────────────────────────────────────
+    // Pagefind's TF-IDF can be dominated by subsidiary clauses that heavily
+    // reference their parent topic in body text (e.g. "Cashing Out of Annual
+    // Leave" mentioning "annual leave" 15+ times outranking "Annual Leave").
+    //
+    // This second-pass sort uses computeTitleScore() to promote pages whose
+    // titles ARE the query topic above pages that merely discuss it.
+    //
+    // Sort priority (descending):
+    //   1. Exact phrase matches (exactIds) — always floated to the top
+    //   2. Title relevance score          — higher specificity wins
+    //   3. Pagefind's original TF-IDF     — stable tiebreaker for equal scores
+    //      (JavaScript Array.sort is stable; equal scores preserve entry order)
+    //
+    // Skipped for filter-only searches (no cleanQuery to extract words from)
+    // and for very short queries where title scoring would be unreliable.
+    if (!isFilterOnly && cleanQuery.trim().length >= 2) {
+      const queryWords = cleanQuery.toLowerCase()
+        .split(/\s+/)
+        .filter(w => w.length >= 3)
+
+      if (queryWords.length > 0) {
+        filtered.sort((a, b) => {
+          const aExact = exactIds.has(a.url) ? 1 : 0
+          const bExact = exactIds.has(b.url) ? 1 : 0
+          if (aExact !== bExact) return bExact - aExact
+          return computeTitleScore(b, queryWords) - computeTitleScore(a, queryWords)
+        })
+      }
+    }
+
+    // ── G3: Result diversification ────────────────────────────────────────
+    // Prevents any single EBA monopolising top positions for broad queries.
+    // For the first DIVERSITY_WINDOW results, each EBA is capped at
+    // MAX_PER_EBA appearances. Results beyond the cap are appended after
+    // the diverse top slice in their original sorted order.
+    //
+    // Skipped when:
+    //   - An EBA filter is active — user explicitly wants single-EBA results
+    //   - Filter-only search — no query to diversify against
+    //   - Result set is too small to be worth reordering
+    const MAX_PER_EBA      = 2
+    const DIVERSITY_WINDOW = 8
+    if (!isFilterOnly && !activeEba && filtered.length > MAX_PER_EBA) {
+      const ebaCounts = {}
+      const topSlice  = []
+      const spillover = []
+      for (const r of filtered) {
+        const eba   = r.filters?.eba?.[0] || '__unknown__'
+        const count = ebaCounts[eba] || 0
+        if (topSlice.length < DIVERSITY_WINDOW && count < MAX_PER_EBA) {
+          topSlice.push(r)
+          ebaCounts[eba] = count + 1
+        } else {
+          spillover.push(r)
+        }
+      }
+      filtered = [...topSlice, ...spillover]
+    }
+
+    results.value = filtered
 
     // ── Smart suggestions ─────────────────────────────────────────────────
     // Always build when query is long enough — panel is a persistent refinement
