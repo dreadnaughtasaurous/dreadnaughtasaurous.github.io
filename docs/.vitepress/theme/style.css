@@ -53,25 +53,47 @@
 
 :root {
   /* ── Border radius ── */
-  --wiki-radius-sm:    4px;   /* chips, badges, code tags           */
-  --wiki-radius-md:    6px;   /* buttons, icons, small controls     */
-  --wiki-radius-lg:    8px;   /* cards, panels, tooltips            */
-  --wiki-radius-input: 10px;  /* text inputs, textareas, dropdowns  */
-  --wiki-radius-xl:    12px;  /* modals, large floating surfaces    */
+  --wiki-radius-sm:   4px;     /* chips, badges, code tags           */
+  --wiki-radius-md:   6px;     /* buttons, icons, small controls     */
+  --wiki-radius-lg:   8px;     /* cards, panels, tooltips            */
+  --wiki-radius-xl:   12px;    /* modals, large floating surfaces    */
+  --wiki-radius-pill: 9999px;  /* full-pill: badges, chips, search CTAs */
 
-  /* ── Shadows ── */
-  --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05);
-  --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.09), 0 2px 4px rgba(0,0,0,0.06);
-  --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.12), 0 2px 6px rgba(0,0,0,0.07);
+  /* ── Type scale ─────────────────────────────────────────────────────────────
+     Five named steps on a ~1.25 ratio. Use these everywhere — do not add
+     one-off font-size values outside this scale.
+       xs   → minimum legible: fact labels, kbd hints
+       sm   → metadata, secondary labels, chips, tooltips
+       base → body text, card titles, standard UI
+       lg   → section sub-headings, prominent labels
+       xl   → page-level titles (eip-title, card display)               */
+  --wiki-text-xs:   0.6875rem;  /* 11px */
+  --wiki-text-sm:   0.8125rem;  /* 13px */
+  --wiki-text-base: 0.9375rem;  /* 15px */
+  --wiki-text-lg:   1.0625rem;  /* 17px */
+  --wiki-text-xl:   1.25rem;    /* 20px */
+
+  /* ── Shadows ─────────────────────────────────────────────────────────────────
+     Second layer carries a faint brand-violet warmth so shadows feel grounded
+     in the product rather than generic grey. Opacity is sub-perceptual on most
+     screens; it reads as "warm" rather than "purple."                          */
+  --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.07),  0 1px 2px  rgba(80,40,180,0.04);
+  --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.09), 0 2px 4px  rgba(80,40,180,0.06);
+  --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.12), 0 4px 8px  rgba(80,40,180,0.07);
 
   /* ── Motion ── */
-  /* Single micro-interaction duration used across all interactive surfaces. */
   --wiki-transition: 0.15s;
 
   /* ── Focus ring ── */
   --wiki-focus-color:  var(--vp-c-brand-1);
   --wiki-focus-width:  2px;
   --wiki-focus-offset: 2px;
+
+  /* ── Danger colour ──────────────────────────────────────────────────────────
+     Defined as a standalone token so the disclaimer and any future danger UI
+     resolve through the same source of truth.                                  */
+  --wiki-c-danger:    #c0392b;
+  --wiki-c-danger-bg: rgba(192, 57, 43, 0.06);
 
   /* ── EBAIndexPage semantic alias tokens ─────────────────────────────────────
      EBAIndexPage.vue uses a --color-* / --border-radius-* namespace that pre-dates
@@ -87,24 +109,32 @@
   --color-text-tertiary:  var(--vp-c-text-3);
   --color-text-success:   #059669;
   --color-text-warning:   #D97706;
-  --color-text-danger:    #3B82F6;
+  --color-text-danger:    var(--wiki-c-danger);  /* red — was incorrectly #3B82F6 (blue) */
   --color-text-info:      #7C3AED;
 
   --color-background-primary:   var(--vp-c-bg);
   --color-background-secondary: var(--vp-c-bg-soft);
   --color-background-success:   #05966918;
   --color-background-warning:   #D9770618;
-  --color-background-danger:    #3B82F618;
+  --color-background-danger:    var(--wiki-c-danger-bg);  /* red tint — was blue tint */
   --color-background-info:      #7C3AED18;
 
+  /* --color-border-secondary is intentionally distinct from tertiary:
+     tertiary = default divider colour; secondary = hover/active border.
+     color-mix() blends 30% brand into the divider for a perceptible but
+     non-jarring transition on card hover states.                             */
   --color-border-tertiary:  var(--vp-c-divider);
-  --color-border-secondary: var(--vp-c-divider);
+  --color-border-secondary: color-mix(in srgb, var(--vp-c-divider) 70%, var(--vp-c-brand-1));
 }
 
 .dark {
-  --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.22), 0 1px 2px rgba(0,0,0,0.15);
-  --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.38), 0 2px 4px rgba(0,0,0,0.22);
-  --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.55), 0 2px 6px rgba(0,0,0,0.28);
+  --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.22),  0 1px 2px  rgba(80,40,180,0.08);
+  --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.38), 0 2px 4px  rgba(80,40,180,0.12);
+  --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.55), 0 4px 8px  rgba(80,40,180,0.14);
+
+  /* Danger token: brighter red reads adequately on dark backgrounds */
+  --wiki-c-danger:    #e05252;
+  --wiki-c-danger-bg: rgba(224, 82, 82, 0.10);
 
   /* Semantic status colours are intentionally kept at the same values in dark  */
   /* mode — they are low-opacity tint badges and read adequately on dark bg.   */
@@ -137,6 +167,53 @@
 .eip-root :focus-visible {
   outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
   outline-offset: var(--wiki-focus-offset);
+}
+
+/* =============================================
+   Heading letter-spacing
+   ─────────────────────────────────────────────
+   Larger text tracks tighter for premium display
+   feel. Applied to the two highest heading levels
+   across all clause pages and the homepage title.
+   ============================================= */
+
+.vp-doc h1,
+.vp-doc h2,
+.home-title {
+  letter-spacing: -0.018em;
+}
+
+/* =============================================
+   Expanded focus ring coverage
+   ─────────────────────────────────────────────
+   The global rule above covers .vp-doc and
+   .home-wrapper. These elements sit outside
+   those scopes and need explicit rules so they
+   receive the brand focus ring rather than the
+   browser default blue outline.
+   ============================================= */
+
+.pay-tab-btn:focus-visible,
+.home-btn:focus-visible,
+.home-ref-item:focus-visible,
+.eip-search-cta:focus-visible,
+.eip-part:focus-visible {
+  outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
+  outline-offset: var(--wiki-focus-offset);
+}
+
+/* =============================================
+   Tabular numerics — monetary / rate data
+   ─────────────────────────────────────────────
+   Ensures digit columns align in table cells.
+   Already applied to pay-table rate columns
+   via .pt-rate; this extends it to all td so
+   inline wage figures in standard markdown
+   tables also align correctly.
+   ============================================= */
+
+.vp-doc td {
+  font-variant-numeric: tabular-nums;
 }
 
 .pay-card {
@@ -201,7 +278,7 @@
   background: var(--vp-c-default-soft);
   color: var(--vp-c-text-2);
   padding: 0.2rem 0.6rem;
-  border-radius: 999px;
+  border-radius: var(--wiki-radius-pill);
   font-size: 0.78rem;
   font-weight: 500;
   margin-right: 0.3rem;
@@ -516,6 +593,7 @@
   color: var(--vp-c-text-1);
   margin-bottom: 0.75rem;
   line-height: 1.2;
+  letter-spacing: -0.02em;
   border: none;
 }
 
@@ -540,7 +618,7 @@
   font-size: 0.9rem;
   font-weight: 500;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s;
+  transition: background 0.15s, color 0.15s, box-shadow 0.15s, transform 0.15s;
 }
 
 .home-btn-primary {
@@ -550,6 +628,8 @@
 
 .home-btn-primary:hover {
   background: var(--vp-c-brand-2);
+  box-shadow: var(--wiki-shadow-lift);
+  transform: translateY(-1px);
   text-decoration: none;
 }
 
@@ -561,6 +641,8 @@
 
 .home-btn-secondary:hover {
   background: var(--vp-c-bg-muted);
+  box-shadow: var(--wiki-shadow-lift);
+  transform: translateY(-1px);
   text-decoration: none;
 }
 
@@ -607,27 +689,21 @@
   height: 220px;
   object-fit: contain;
   filter:
-    drop-shadow(-16px 0 28px rgba(219, 27, 82, 0.45))
-    drop-shadow(-8px 0 18px rgba(219, 27, 82, 0.3))
-    drop-shadow(0 0 28px rgba(160, 27, 96, 0.25))
-    drop-shadow(8px 0 18px rgba(69, 45, 111, 0.3))
-    drop-shadow(16px 0 28px rgba(69, 45, 111, 0.45));
-  transition: filter 0.3s;
+    drop-shadow(-12px 0 24px rgba(219, 27, 82, 0.35))
+    drop-shadow(12px 0 24px rgba(69, 45, 111, 0.35));
+  transition: filter 0.4s ease;
 }
 
 .home-hero-image .image-src:hover {
   filter:
-    drop-shadow(-18px 0 34px rgba(219, 27, 82, 0.58))
-    drop-shadow(-9px 0 22px rgba(219, 27, 82, 0.4))
-    drop-shadow(0 0 34px rgba(160, 27, 96, 0.35))
-    drop-shadow(9px 0 22px rgba(69, 45, 111, 0.4))
-    drop-shadow(18px 0 34px rgba(69, 45, 111, 0.58));
+    drop-shadow(-14px 0 30px rgba(219, 27, 82, 0.50))
+    drop-shadow(14px 0 30px rgba(69, 45, 111, 0.50));
 }
 
 /* Section labels */
 .home-section-label {
-  font-size: 0.72rem;
-  font-weight: 700;
+  font-size: var(--wiki-text-xs);
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--vp-c-text-2);
@@ -658,7 +734,7 @@
   flex-direction: column;
   background: var(--vp-c-bg-soft);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
+  border-radius: var(--wiki-radius-xl);
   padding: 1.125rem 1.25rem 1rem;
   transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
 }
@@ -716,9 +792,8 @@
 .eba-entry-period {
   display: block;
   font-size: 0.72rem;
-  color: var(--vp-c-text-2);
+  color: var(--vp-c-text-3);
   line-height: 1.2;
-  opacity: 0.7;
 }
 
 .eba-entry-links {
@@ -776,13 +851,15 @@
   color: var(--vp-c-text-1);
   text-decoration: none;
   border-radius: 6px;
-  transition: background 0.15s, color 0.15s;
+  transition: background 0.15s, color 0.15s, box-shadow 0.15s, transform 0.15s;
   white-space: nowrap;
 }
 
 .home-ref-item:hover {
   background: var(--vp-c-bg-mute);
   color: var(--vp-c-brand-1);
+  box-shadow: var(--wiki-shadow-card);
+  transform: translateY(-1px);
   text-decoration: none;
 }
 
@@ -806,20 +883,20 @@
   margin: 2rem 0 1rem;
   max-width: 860px;
   padding: 1rem 1.25rem;
-  border: 1px solid #f5c6cb;
-  border-left: 4px solid #c0392b;
+  border: 1px solid color-mix(in srgb, var(--wiki-c-danger) 25%, transparent);
+  border-left: 4px solid var(--wiki-c-danger);
   border-radius: 6px;
-  background-color: #fff5f5;
-  color: #7b1d1d;
+  background-color: var(--wiki-c-danger-bg);
+  color: color-mix(in srgb, var(--wiki-c-danger) 80%, var(--vp-c-text-1));
   font-size: 0.875rem;
   line-height: 1.6;
 }
 
 .home-disclaimer strong {
   display: block;
-  font-size: 0.9rem;
+  font-size: var(--wiki-text-base);
   margin-bottom: 0.4rem;
-  color: #c0392b;
+  color: var(--wiki-c-danger);
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
@@ -827,17 +904,6 @@
 .home-disclaimer p {
   margin: 0;
   max-width: 100%;
-}
-
-.dark .home-disclaimer {
-  background-color: #2d1515;
-  border-color: #7b2d2d;
-  border-left-color: #e05252;
-  color: #f5c6cb;
-}
-
-.dark .home-disclaimer strong {
-  color: #e05252;
 }
 
 /* Responsive — collapse to single column on tablet */
@@ -1401,6 +1467,7 @@ display: none !important;
 
 html {
   scrollbar-gutter: stable;
+  scroll-behavior: smooth;  /* smooth in-page anchor jumps; overridden by [data-reduced-motion] below */
 }
 
 /* ============================================================

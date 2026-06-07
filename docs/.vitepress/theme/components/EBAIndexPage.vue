@@ -242,7 +242,7 @@ function openSearch() {
 .eip-badge {
   font-size: 11px;
   font-weight: 500;
-  border-radius: 20px;
+  border-radius: var(--wiki-radius-pill);
   padding: 4px 12px;
   white-space: nowrap;
   letter-spacing: 0.01em;
@@ -289,7 +289,7 @@ function openSearch() {
   padding: 13px 16px;
 }
 .eip-fact-label {
-  font-size: 10px;
+  font-size: var(--wiki-text-xs);
   font-weight: 500;
   color: var(--color-text-tertiary);
   letter-spacing: 0.09em;
@@ -313,7 +313,7 @@ function openSearch() {
   align-items: center;
   gap: 10px;
   border: 1px solid var(--color-border-tertiary);
-  border-radius: 9999px;
+  border-radius: var(--wiki-radius-pill);
   padding: 11px 20px;
   background: var(--color-background-primary);
   cursor: pointer;
@@ -341,12 +341,14 @@ function openSearch() {
 /* ── Sections ─────────────────────────────────────────────────────────────── */
 .eip-section { margin-top: 32px; }
 .eip-label {
-  font-size: 10px;
+  font-size: var(--wiki-text-xs);
   font-weight: 500;
   color: var(--color-text-tertiary);
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--color-border-tertiary);
   display: block;
 }
 
@@ -377,7 +379,7 @@ function openSearch() {
 .eip-quick-icon-wrap {
   width: 38px;
   height: 38px;
-  border-radius: 9px;
+  border-radius: var(--wiki-radius-lg);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -390,7 +392,7 @@ function openSearch() {
 }
 .eip-quick-name {
   font-size: 13px;
-  font-weight: 500;
+  font-weight: 600;
   color: var(--color-text-primary);
   line-height: 1.3;
 }
@@ -493,7 +495,7 @@ function openSearch() {
 .eip-chip {
   font-size: 12px;
   font-weight: 500;
-  border-radius: 20px;
+  border-radius: var(--wiki-radius-pill);
   padding: 4px 13px;
 }
 .eip-chip-muted {
