@@ -42,7 +42,7 @@
               ref="inputRef"
               v-model="query"
               type="search"
-              placeholder="Search the EBA's or ask a question"
+              placeholder="Search across agreements or ask a question"
               class="search-input"
               @input="warmupSearch(); debouncedSearch()"
               @keydown.enter="operatorHint && hintIndex >= 0 ? acceptHint(operatorHint.items[hintIndex]) : operatorCheatsheet && hintIndex >= 0 ? insertOperator(CHEATSHEET_OPS[hintIndex].prefix) : null"
