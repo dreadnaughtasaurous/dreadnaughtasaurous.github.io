@@ -4757,6 +4757,11 @@ function clearFilters() {
 .preview-content.vp-doc :deep(th) { background: var(--vp-c-bg-soft); font-weight: 600; }
 .preview-content.vp-doc :deep(a)  { color: var(--vp-c-brand-1); text-decoration: none; pointer-events: none; }
 .preview-content.vp-doc :deep(strong) { font-weight: 700; color: var(--vp-c-text-1); }
+.preview-content.vp-doc :deep(blockquote) {
+  font-size: 0.78rem; margin: 0.35rem 0; padding: 0.25rem 0.6rem;
+  border-left: 3px solid var(--vp-c-divider); color: var(--vp-c-text-2);
+}
+.preview-content.vp-doc :deep(blockquote p) { margin: 0; }
 .preview-content.vp-doc :deep(.custom-block) {
   padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; margin: 0.4rem 0;
 }
