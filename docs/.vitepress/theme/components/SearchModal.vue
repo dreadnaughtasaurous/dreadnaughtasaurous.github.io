@@ -50,7 +50,22 @@
               @keydown.up.prevent="(operatorHint || operatorCheatsheet) ? (hintIndex = Math.max(hintIndex - 1, -1)) : null"
               @keydown.esc="operatorHint ? dismissHint() : operatorCheatsheet ? dismissCheatsheet() : close()"
               autocomplete="off"
+            
             />
+            <!-- Clear query button — only visible when input has content -->
+            <button
+              v-if="query.trim()"
+              class="clear-query-btn"
+              @click="clearQuery"
+              aria-label="Clear search"
+              title="Clear search"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <line x1="18" y1="6" x2="6" y2="18"/>
+                <line x1="6" y1="6" x2="18" y2="18"/>
+              </svg>
+            </button>
+            
             <!-- Gear button — opens the extensible settings panel -->
             <button
               class="settings-gear-btn"
@@ -2719,6 +2734,15 @@ function warmupSearch() {
   pagefind.search(fragment.slice(0, 3)).catch(() => {})
 }
 
+// ── Clear query button ────────────────────────────────────────────────────
+// Resets the query input, triggers a fresh (empty) search so the Quick
+// Access panel is shown, and returns focus to the input.
+function clearQuery() {
+  query.value = ''
+  debouncedSearch()
+  nextTick(() => inputRef.value?.focus())
+}
+
 function debouncedSearch() {
   clearTimeout(searchTimer)
   // Adaptive debounce: shorter delay for longer queries where Pagefind
@@ -3645,6 +3669,27 @@ function clearFilters() {
   color:      var(--vp-c-brand-1);
   background: var(--vp-c-brand-soft);
   transform:  rotate(60deg);
+}
+
+/* ── Clear query button ── */
+.clear-query-btn {
+  flex-shrink:      0;
+  display:          flex;
+  align-items:      center;
+  justify-content:  center;
+  width:            26px;
+  height:           26px;
+  padding:          0;
+  background:       none;
+  border:           none;
+  border-radius:    50%;
+  color:            var(--vp-c-text-3);
+  cursor:           pointer;
+  transition:       color 0.12s, background 0.12s;
+}
+.clear-query-btn:hover {
+  color:      var(--vp-c-text-1);
+  background: var(--vp-c-bg-mute);
 }
 
 /* ── Copy search link button ─────────────────────────────────────────────────── */
