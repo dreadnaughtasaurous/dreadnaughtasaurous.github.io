@@ -62,6 +62,7 @@
           class="dst-btn"
           :disabled="mdLoading"
           title="View this page as plain text"
+          data-tour="view-as-markdown-btn"
           @click="handleMarkdown"
         >
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"

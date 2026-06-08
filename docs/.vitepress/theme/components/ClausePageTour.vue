@@ -122,9 +122,10 @@ function getToolbarBtn(role) {
   const bar  = document.querySelector('.dst-bar')
   if (!bar) return null
   const btns = bar.querySelectorAll('button')
-  if (role === 'ask-this-page-btn') return btns[0] ?? null
-  if (role === 'copy-btn')          return btns[1] ?? null
-  if (role === 'bookmark-btn')      return btns[3] ?? null
+  if (role === 'ask-this-page-btn')    return btns[0] ?? null
+  if (role === 'copy-btn')             return btns[1] ?? null
+  if (role === 'view-as-markdown-btn') return btns[2] ?? null
+  if (role === 'bookmark-btn')         return btns[3] ?? null
   return null
 }
 
@@ -133,11 +134,11 @@ function getToolbarBtn(role) {
 // caretHint: preferred tooltip placement relative to target.
 const steps = [
   {
-    target: '.VPDocAside',
-    headline: 'On this page',
-    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6h13"/><path d="M8 12h13"/><path d="M8 18h13"/><path d="M3 6h.01"/><path d="M3 12h.01"/><path d="M3 18h.01"/></svg>`,
-    copy: 'The right sidebar shows an outline of this clause\'s sections. Click any heading to jump directly to it — useful on long clauses with multiple subclauses.',
-    caretHint: 'left',
+    target: () => getToolbarBtn('ask-this-page-btn'),
+    headline: 'Ask AI about this clause',
+    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>`,
+    copy: 'Opens a sliding AI panel scoped to this specific clause. Ask anything in plain English — about entitlements, conditions, or exceptions — and the AI answers using the EBA text. No need to specify which clause or EBA you mean.',
+    caretHint: 'bottom',
   },
   {
     target: () => getToolbarBtn('copy-btn'),
@@ -147,18 +148,26 @@ const steps = [
     caretHint: 'bottom',
   },
   {
-    target: () => getToolbarBtn('bookmark-btn'),
-    headline: 'Bookmark this clause',
-    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>`,
-    copy: 'Save clauses you refer to often. Bookmarks persist across sessions and appear in the search modal\'s Quick Access panel. You can add a personal note to each bookmark.',
+    target: () => getToolbarBtn('view-as-markdown-btn'),
+    headline: 'View as Markdown',
+    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="16" y2="17"/></svg>`,
+    copy: 'Opens the raw source text of this clause page in a lightbox overlay. Useful for copying clean plain text, checking clause formatting, or grabbing the exact Markdown to use elsewhere.',
     caretHint: 'bottom',
   },
   {
-    target: () => getToolbarBtn('ask-this-page-btn'),
-    headline: 'Ask AI about this clause',
-    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>`,
-    copy: 'Opens the Ask AI tab pre-loaded with a question about this specific clause. The AI knows which clause you are reading and can answer questions about it directly.',
+    target: () => getToolbarBtn('bookmark-btn'),
+    headline: 'Bookmark this clause',
+    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>`,
+    copy: 'Save clauses you refer to frequently. Bookmarks persist in your browser across sessions and can include a personal note — handy for recording your interpretation or a reminder to verify with your team.',
     caretHint: 'bottom',
+  },
+  {
+    target: '.VPDocAsideOutline.has-outline',
+    headline: 'On this page',
+    icon: `<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6h13"/><path d="M8 12h13"/><path d="M8 18h13"/><path d="M3 6h.01"/><path d="M3 12h.01"/><path d="M3 18h.01"/></svg>`,
+    copy: 'The right sidebar shows an outline of this clause\'s sections. Click any heading to jump directly to it — useful on long clauses with multiple subclauses.',
+    caretHint: 'left',
+    skipIfMissing: true,
   },
   {
     target: '.related-clauses-panel',
