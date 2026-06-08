@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <ClientOnly>
     <!--
       ClausePanel.vue
@@ -56,12 +56,18 @@
             <!-- Current clause title -->
             <div class="cp-title-block">
               <span class="cp-eyebrow">Referenced clause</span>
-              <span class="cp-title">{{ currentEntry?.title || 'Loading…' }}</span>
-              <span
-                v-if="currentEntry?.eba"
-                class="cp-eba-badge"
-                :style="ebaBadgeStyle(currentEntry.eba)"
-              >{{ currentEntry.eba }}</span>
+              <template v-if="loading && !currentEntry">
+                <div class="cp-skel cp-skel--title" aria-hidden="true"></div>
+                <div class="cp-skel cp-skel--badge" aria-hidden="true"></div>
+              </template>
+              <template v-else>
+                <span class="cp-title">{{ currentEntry?.title || '' }}</span>
+                <span
+                  v-if="currentEntry?.eba"
+                  class="cp-eba-badge"
+                  :style="ebaBadgeStyle(currentEntry.eba)"
+                >{{ currentEntry.eba }}</span>
+              </template>
             </div>
           </div>
 
@@ -84,9 +90,14 @@
         <!-- ── Body ───────────────────────────────────────────────────── -->
         <div class="cp-body" ref="bodyRef">
 
-          <div v-if="loading" class="cp-loading" aria-live="polite">
-            <span class="cp-spinner" aria-hidden="true"></span>
-            Loading clause…
+          <div v-if="loading" class="cp-skeleton-body" aria-live="polite" aria-busy="true">
+            <div class="cp-skel cp-skel--h1"></div>
+            <div class="cp-skel cp-skel--line cp-skel--w-full"></div>
+            <div class="cp-skel cp-skel--line cp-skel--w-88"></div>
+            <div class="cp-skel cp-skel--line cp-skel--w-72"></div>
+            <div class="cp-skel cp-skel--line cp-skel--w-94"></div>
+            <div class="cp-skel cp-skel--line cp-skel--w-60"></div>
+            <div class="cp-skel cp-skel--line cp-skel--w-80"></div>
           </div>
 
           <div v-else-if="error" class="cp-error" role="alert">
@@ -559,27 +570,33 @@ onUnmounted(() => {
   padding: 0 20px 20px;
 }
 
-/* ── Loading ──────────────────────────────────────────────────────────────── */
-.cp-loading {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 2.5rem 0;
-  font-size: 0.88rem;
-  color: var(--vp-c-text-2);
+/* ── Skeleton ─────────────────────────────────────────────────────────────── */
+.cp-skel {
+  border-radius: 5px;
+  background: linear-gradient(
+    90deg,
+    var(--vp-c-bg-soft) 25%,
+    var(--vp-c-bg-mute) 50%,
+    var(--vp-c-bg-soft) 75%
+  );
+  background-size: 200% 100%;
+  animation: cp-shimmer 1.5s ease-in-out infinite;
 }
-
-.cp-spinner {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  border: 2px solid var(--vp-c-divider);
-  border-top-color: #4A2A72;
-  border-radius: 50%;
-  animation: cp-spin 0.7s linear infinite;
-  flex-shrink: 0;
+@keyframes cp-shimmer {
+  0%   { background-position:  200% 0; }
+  100% { background-position: -200% 0; }
 }
-@keyframes cp-spin { to { transform: rotate(360deg); } }
+.cp-skel--title   { height: 16px; width: 68%; border-radius: 4px; margin-bottom: 2px; }
+.cp-skel--badge   { height: 18px; width: 110px; border-radius: 4px; }
+.cp-skeleton-body { padding-top: 16px; display: flex; flex-direction: column; gap: 10px; }
+.cp-skel--h1      { height: 22px; width: 55%; }
+.cp-skel--line    { height: 13px; }
+.cp-skel--w-full  { width: 100%; }
+.cp-skel--w-88    { width: 88%; }
+.cp-skel--w-72    { width: 72%; }
+.cp-skel--w-94    { width: 94%; }
+.cp-skel--w-60    { width: 60%; }
+.cp-skel--w-80    { width: 80%; }
 
 /* ── Error ────────────────────────────────────────────────────────────────── */
 .cp-error {

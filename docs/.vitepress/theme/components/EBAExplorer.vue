@@ -1,4 +1,4 @@
-<script setup>
+﻿<script setup>
 import { ref, onMounted } from 'vue'
 import { EBA_REGISTRY, getEBAStatus } from '../eba-registry.js'
 
@@ -36,12 +36,14 @@ const STATUS_COLOR = {
 const ebas   = EBA_REGISTRY.filter(e => !e.archived)
 const active = ref(ebas[0])
 
-const counts = ref({})
+const counts        = ref({})
+const countsLoading = ref(true)
 onMounted(async () => {
   try {
     const r = await fetch('/clause-counts.json')
     if (r.ok) counts.value = await r.json()
   } catch {}
+  countsLoading.value = false
 })
 
 function topicCount(topic) {
@@ -99,16 +101,22 @@ function openTopic(topic) {
           @click="openTopic(t.topic)"
         >
           {{ t.label }}
-          <span v-if="topicCount(t.topic)" class="ee-pill-count">
+          <span v-if="countsLoading" class="ee-skeleton ee-skel-count" aria-hidden="true"></span>
+          <span v-else-if="topicCount(t.topic)" class="ee-pill-count">
             {{ topicCount(t.topic) }}
           </span>
         </button>
       </div>
 
       <!-- Stats strip -->
-      <div v-if="totalCount()" class="ee-stats">
-        <span>{{ totalCount() }} clauses in this agreement</span>
-        <span class="ee-stats-hint">Select a topic to filter search results</span>
+      <div v-if="countsLoading || totalCount()" class="ee-stats">
+        <template v-if="countsLoading">
+          <span class="ee-skeleton ee-skel-stats-line" aria-hidden="true"></span>
+        </template>
+        <template v-else>
+          <span>{{ totalCount() }} clauses in this agreement</span>
+          <span class="ee-stats-hint">Select a topic to filter search results</span>
+        </template>
       </div>
 
       <!-- Footer links -->
@@ -293,6 +301,26 @@ function openTopic(topic) {
   text-decoration: none;
 }
 .ee-footer-link:hover { text-decoration: underline; }
+
+/* ── Skeleton ────────────────────────────────────────────────────── */
+.ee-skeleton {
+  display: inline-block;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    var(--vp-c-bg-soft) 25%,
+    var(--vp-c-bg-mute) 50%,
+    var(--vp-c-bg-soft) 75%
+  );
+  background-size: 200% 100%;
+  animation: ee-shimmer 1.5s ease-in-out infinite;
+}
+.ee-skel-count      { width: 28px; height: 14px; vertical-align: middle; margin-left: 0.25rem; }
+.ee-skel-stats-line { width: 180px; height: 14px; border-radius: 5px; }
+@keyframes ee-shimmer {
+  0%   { background-position:  200% 0; }
+  100% { background-position: -200% 0; }
+}
 
 /* ── Mobile: stack vertically ────────────────────────────────────── */
 @media (max-width: 640px) {

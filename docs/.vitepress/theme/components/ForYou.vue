@@ -1,4 +1,4 @@
-<script setup>
+﻿<script setup>
 /**
  * ForYou.vue
  *
@@ -226,7 +226,18 @@ const isLoading = computed(() => catalogLoading.value || trendingLoading.value)
       <div v-for="n in 4" :key="n" class="fy-section">
         <div class="fy-skeleton fy-skeleton--heading"></div>
         <div class="fy-grid">
-          <div v-for="c in 3" :key="c" class="fy-skeleton fy-skeleton--card"></div>
+          <div v-for="c in 3" :key="c" class="fy-skel-card">
+            <div class="fy-skeleton fy-skel-pill"></div>
+            <div class="fy-skeleton fy-skel-title fy-skel-title--1"></div>
+            <div class="fy-skeleton fy-skel-title fy-skel-title--2"></div>
+            <div class="fy-skeleton fy-skel-section"></div>
+            <div class="fy-skel-topics">
+              <div class="fy-skeleton fy-skel-topic"></div>
+              <div class="fy-skeleton fy-skel-topic fy-skel-topic--2"></div>
+              <div class="fy-skeleton fy-skel-topic fy-skel-topic--3"></div>
+            </div>
+            <div class="fy-skeleton fy-skel-context"></div>
+          </div>
         </div>
       </div>
     </template>
@@ -480,7 +491,25 @@ const isLoading = computed(() => catalogLoading.value || trendingLoading.value)
 }
 
 .fy-skeleton--heading { height: 22px; width: 200px; margin-bottom: 0.85rem; }
-.fy-skeleton--card    { height: 145px; }
+.fy-skel-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+}
+.fy-skel-pill     { height: 18px; width: 72px; border-radius: 4px; }
+.fy-skel-title    { height: 13px; border-radius: 4px; }
+.fy-skel-title--1 { width: 85%; }
+.fy-skel-title--2 { width: 62%; }
+.fy-skel-section  { height: 11px; width: 55%; border-radius: 4px; }
+.fy-skel-topics   { display: flex; gap: 0.28rem; }
+.fy-skel-topic    { height: 16px; width: 52px; border-radius: 4px; }
+.fy-skel-topic--2 { width: 62px; }
+.fy-skel-topic--3 { width: 44px; }
+.fy-skel-context  { height: 10px; width: 48%; border-radius: 4px; }
 
 @keyframes fy-shimmer {
   0%   { background-position:  200% 0; }
