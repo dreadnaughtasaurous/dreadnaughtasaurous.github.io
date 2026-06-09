@@ -4,20 +4,4 @@ eba: 'Allied Health Professionals 2021-2026'
 topics: ['consultation', 'disputes']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-AHP allied health professional physiotherapist OT occupational therapist social worker podiatrist radiographer speech pathologist dietitian pharmacist orthotist prosthetist genetic counsellor medical physicist clinical perfusionist audiologist
-</div>
-
-# Part B – Consultation, Dispute Resolution and Discipline
-
-
-- [13. Consultation](./consultation-disputes/13-consultation/)
-- [13A. Consultation about Changes to Rosters or Hours of Work](./consultation-disputes/13A-consultation-about-changes-to-rosters-or-hours-of/)
-- [14. Dispute Resolution Procedure](./consultation-disputes/14-dispute-resolution-procedure/)
-- [14A. Independent Dispute Resolution Panel](./consultation-disputes/14A-independent-dispute-resolution-panel/)
-- [15. Performance Management](./consultation-disputes/15-performance-management/)
-- [16. Managing Conduct and Performance](./consultation-disputes/16-managing-conduct-and-performance/)
-
-
+<SectionIndex />
