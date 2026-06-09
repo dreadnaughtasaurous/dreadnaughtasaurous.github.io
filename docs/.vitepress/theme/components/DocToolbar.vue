@@ -24,7 +24,7 @@
           Ask about this page
         </button>
 
-        <span class="dst-sep" aria-hidden="true">|</span>
+        <span class="dst-sep" aria-hidden="true"></span>
 
         <!-- Copy page contents -->
         <button
@@ -55,7 +55,7 @@
           {{ copyLabel }}
         </button>
 
-        <span class="dst-sep" aria-hidden="true">|</span>
+        <span class="dst-sep" aria-hidden="true"></span>
 
         <!-- View as Markdown -->
         <button
@@ -75,7 +75,7 @@
           {{ mdLoading ? 'Loading…' : 'View as Markdown' }}
         </button>
 
-        <span class="dst-sep" aria-hidden="true">|</span>
+        <span class="dst-sep" aria-hidden="true"></span>
 
         <!-- Bookmark this page -->
         <button
@@ -484,16 +484,19 @@ if (typeof window !== 'undefined') {
   transition:    color 0.15s;
 }
 
-.dst-btn:hover:not(:disabled) { color: var(--vp-c-brand-1); }
+.dst-btn:hover:not(:disabled) { color: var(--eba-accent-color, var(--vp-c-brand-1)); }
 .dst-btn:disabled              { opacity: 0.5; cursor: default; }
 .dst-btn:focus-visible         { outline: 2px solid var(--vp-c-brand); outline-offset: 2px; }
 
 .dst-sep {
-  font-size:   0.75rem;
-  color:       var(--vp-c-divider);
-  padding:     0 0.1rem;
-  user-select: none;
-  line-height: 1;
+  width:       1px;
+  height:      12px;
+  background:  var(--vp-c-text-3);
+  opacity:     0.35;
+  margin:      0 0.3rem;
+  flex-shrink: 0;
+  font-size:   0;
+  overflow:    hidden;
 }
 
 /* Copy success / error states */

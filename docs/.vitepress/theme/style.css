@@ -178,9 +178,12 @@
    ============================================= */
 
 .vp-doc h1,
-.vp-doc h2,
 .home-title {
-  letter-spacing: -0.018em;
+  letter-spacing: -0.028em;
+}
+
+.vp-doc h2 {
+  letter-spacing: -0.022em;
 }
 
 /* =============================================
