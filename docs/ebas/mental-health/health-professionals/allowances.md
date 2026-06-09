@@ -4,23 +4,4 @@ eba: 'Mental Health Services 2024-2028'
 topics: ['allowances']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
-</div>
-
-# Allowances
-
-
-- [114. Damaged clothing allowance](./allowances/114-damaged-clothing-allowance/)
-- [115. Higher duties allowance](./allowances/115-higher-duties-allowance/)
-- [116. Meal allowance](./allowances/116-meal-allowance/)
-- [117. Qualification Allowance](./allowances/117-qualification-allowance/)
-- [118. Higher Education Recognition Allowance](./allowances/118-higher-education-recognition-allowance/)
-- [119. Shift work allowance](./allowances/119-shift-work-allowance/)
-- [120. Sole allowance](./allowances/120-sole-allowance/)
-- [121. Uniform allowance](./allowances/121-uniform-allowance/)
-- [121A. Change of Ward Allowance](./allowances/121A-change-of-ward-allowance/)
-
-
+<SectionIndex />

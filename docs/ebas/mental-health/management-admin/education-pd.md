@@ -4,20 +4,4 @@ eba: 'Mental Health Services 2024-2028'
 topics: ['education']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-mental health worker psychiatric nurse mental health nurse community mental health AMHS authorised mental health practitioner psychosocial disability support
-</div>
-
-# Education & Professional Development
-
-
-- [214. Study Leave](./education-pd/214-study-leave/)
-- [215. Examination Leave](./education-pd/215-examination-leave/)
-- [216. Staff Appraisal](./education-pd/216-staff-appraisal/)
-- [217. Individual Performance Measures - Royal Children's Hospital](./education-pd/217-individual-performance-measures-royal-children-s/)
-- [218. Professional Development Leave - Royal Children's Hospital](./education-pd/218-professional-development-leave-royal-children-s/)
-- [219. Education and Training - Royal Children's Hospital](./education-pd/219-education-and-training-royal-children-s-hospital/)
-
-
+<SectionIndex />
