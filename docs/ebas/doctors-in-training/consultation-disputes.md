@@ -4,24 +4,4 @@ eba: 'Doctors in Training 2022-2026'
 topics: ['consultation', 'disputes']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="5" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
-</div>
-
-# Part B – Consultation, Dispute Resolution, Discipline and Flexible Working Arrangements
-
-
-- [10. Consultation](./consultation-disputes/10-consultation/)
-- [10A. Consultation about changes to rosters or hours of work](./consultation-disputes/10A-consultation-about-changes-to-rosters-or-hours-of-work/)
-- [11. Redundancy and Associated Entitlements](./consultation-disputes/11-redundancy-and-associated-entitlements/)
-- [12. Dispute Resolution Procedure](./consultation-disputes/12-dispute-resolution-procedure/)
-- [13. Managing Conduct and Performance (Discipline)](./consultation-disputes/13-managing-conduct-and-performance-discipline/)
-- [13A. Performance Management](./consultation-disputes/13A-performance-management/)
-- [14. Prevention and Management of Workplace Bullying](./consultation-disputes/14-prevention-and-management-of-workplace-bullying/)
-- [15. Flexible Working Arrangements](./consultation-disputes/15-flexible-working-arrangements/)
-- [16. Individual Flexibility Arrangements](./consultation-disputes/16-individual-flexibility-arrangements/)
-- [16A. Climate Change Mitigation and Sustainability](./consultation-disputes/16A-climate-change-mitigation-and-sustainability/)
-
-
+<SectionIndex />

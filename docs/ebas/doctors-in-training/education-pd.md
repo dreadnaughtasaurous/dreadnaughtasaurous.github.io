@@ -4,18 +4,4 @@ eba: 'Doctors in Training 2022-2026'
 topics: ['education']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
-</div>
-
-# Part F – Education and Professional Development
-
-
-- [47. Continuing medical education allowance](./education-pd/47-continuing-medical-education-allowance/)
-- [48. Internal Training](./education-pd/48-internal-training/)
-- [49. Examination leave](./education-pd/49-examination-leave/)
-- [50. Conference/seminar leave](./education-pd/50-conference-seminar-leave/)
-
-
+<SectionIndex />

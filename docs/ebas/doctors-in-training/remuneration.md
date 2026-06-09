@@ -4,21 +4,4 @@ eba: 'Doctors in Training 2022-2026'
 topics: ['remuneration']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor trainee doctor prevocational postgraduate year PGY1 PGY2
-</div>
-
-# Part E – Remuneration and Related Matters
-
-
-- [42. Remuneration and remuneration increases](./remuneration/42-remuneration-and-remuneration-increases/)
-- [42A. Employee Records](./remuneration/42A-employee-records/)
-- [42B. Daylight Saving](./remuneration/42B-daylight-saving/)
-- [43. Superannuation](./remuneration/43-superannuation/)
-- [44. Salary packaging](./remuneration/44-salary-packaging/)
-- [45. Workers compensation make-up pay](./remuneration/45-workers-compensation-make-up-pay/)
-- [46. Recovery of Overpayments](./remuneration/46-recovery-of-overpayments/)
-
-
+<SectionIndex />
