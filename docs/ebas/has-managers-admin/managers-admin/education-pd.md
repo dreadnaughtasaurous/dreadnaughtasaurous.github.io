@@ -4,18 +4,4 @@ eba: 'Health Allied & Managers Admin 2021-2025'
 topics: ['education']
 ---
 
-<div class="pagefind-weight" data-pagefind-weight="10" style="display:none" aria-hidden="true">
-</div>
-<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
-HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
-</div>
-
-# Education & Professional Development
-
-
-- [12. Study Leave](./education-pd/12-study-leave/)
-- [13. Examination Leave](./education-pd/13-examination-leave/)
-- [14. Education and Training](./education-pd/14-education-and-training/)
-- [15. Professional Development Leave](./education-pd/15-professional-development-leave/)
-
-
+<SectionIndex />
