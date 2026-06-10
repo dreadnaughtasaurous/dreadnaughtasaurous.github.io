@@ -66,6 +66,16 @@
               </svg>
             </button>
             
+            <!-- Search mode toggle — ~ fuzzy (default) / = exact phrase ── -->
+            <button
+              class="search-mode-btn"
+              :class="{ 'search-mode-btn--exact': searchMode === 'exact' }"
+              @click="toggleSearchMode"
+              :title="searchMode === 'fuzzy' ? 'Toggle exact search' : 'Toggle fuzzy search'"
+              :aria-label="searchMode === 'fuzzy' ? 'Toggle exact search' : 'Toggle fuzzy search'"
+              :aria-pressed="String(searchMode === 'exact')"
+            >{{ searchMode === 'fuzzy' ? '~' : '=' }}</button>
+
             <!-- Gear button — opens the extensible settings panel -->
             <button
               class="settings-gear-btn"
@@ -815,6 +825,7 @@ const LOCAL_NEW_TAB_KEY        = 'eba-results-new-tab'      // 'true' when resul
 const LOCAL_COMPACT_KEY        = 'eba-compact-results'      // 'true' when compact result density is on
 const LOCAL_PREVIEW_KEY        = 'eba-preview-pane'         // 'false' to disable floating preview
 const LOCAL_ANALYTICS_KEY      = 'eba-analytics-enabled'    // 'false' to opt out of search logging
+const LOCAL_SEARCH_MODE_KEY    = 'eba-search-mode'          // 'exact' for phrase mode; default 'fuzzy'
 
 // ─── Core state ───────────────────────────────────────────────────────────────
 const open                = ref(false)
@@ -887,6 +898,7 @@ const resultsNewTab     = ref(false)    // open result <a> tags with target="_bl
 const compactResults    = ref(false)    // hides excerpts + topic tags in result cards
 const previewEnabled    = ref(true)     // floating preview pane on hover/focus (default on)
 const analyticsEnabled  = ref(true)     // POST to analytics worker on search (default on)
+const searchMode        = ref('fuzzy')  // 'fuzzy' | 'exact' — toggled by the ~/= button
 const urlCopied         = ref(false)    // true for 2 s after copy-link — drives ✓ icon state
 
 // ─── Bookmarks (localStorage — persists across sessions) ──────────────────────
@@ -1338,11 +1350,13 @@ function loadSettings() {
     const cr = localStorage.getItem(LOCAL_COMPACT_KEY)
     const pp = localStorage.getItem(LOCAL_PREVIEW_KEY)
     const ae = localStorage.getItem(LOCAL_ANALYTICS_KEY)
+    const sm = localStorage.getItem(LOCAL_SEARCH_MODE_KEY)
     if (de !== null) defaultEba.value       = de
     if (nt !== null) resultsNewTab.value    = nt === 'true'
     if (cr !== null) compactResults.value   = cr === 'true'
     if (pp !== null) previewEnabled.value   = pp !== 'false'
     if (ae !== null) analyticsEnabled.value = ae !== 'false'
+    if (sm === 'fuzzy' || sm === 'exact')   searchMode.value = sm
   } catch { /* degrade silently */ }
 }
 
@@ -1353,6 +1367,11 @@ function setDefaultEba(val) {
   if (query.value.trim().length >= 2) doSearch()   // re-filter live results if a query is active
 }
 
+function toggleSearchMode() {
+  searchMode.value = searchMode.value === 'fuzzy' ? 'exact' : 'fuzzy'
+  saveSetting(LOCAL_SEARCH_MODE_KEY, searchMode.value)
+  if (query.value.trim().length >= 2) doSearch()
+}
 function toggleResultsNewTab()    { resultsNewTab.value    = !resultsNewTab.value;    saveSetting(LOCAL_NEW_TAB_KEY,   resultsNewTab.value)    }
 function toggleCompactResults()   { compactResults.value   = !compactResults.value;   saveSetting(LOCAL_COMPACT_KEY,   compactResults.value)   }
 function togglePreviewEnabled()   { previewEnabled.value   = !previewEnabled.value;   saveSetting(LOCAL_PREVIEW_KEY,   previewEnabled.value)   }
@@ -2408,9 +2427,16 @@ async function doSearch() {
   // ── Build the Pagefind query string ───────────────────────────────────────
   // If clause: operator present, prepend the clause number to the clean query
   // so Pagefind scores title matches (which contain the clause number) very highly.
-  const pfQuery = operators.clause
+  // In exact mode, wrap the clean query in quotes to force Pagefind phrase matching.
+  // Guards: skip when clause: operator is active (it targets title tokens, not prose phrases),
+  // when pfQuery is null (filter-only search), or when the user already typed quotes manually.
+  let pfQuery = operators.clause
     ? [operators.clause, cleanQuery].filter(Boolean).join(' ')
     : cleanQuery || null
+  if (searchMode.value === 'exact' && pfQuery && !operators.clause) {
+    const alreadyQuoted = pfQuery.startsWith('"') && pfQuery.endsWith('"')
+    if (!alreadyQuoted) pfQuery = `"${pfQuery}"`
+  }
 
   try {
     const search = await pagefind.search(pfQuery, { filters, excerptLength: 45 })
@@ -2559,7 +2585,7 @@ async function doSearch() {
       ? buildSuggestions(query.value, results.value.length, operators)
       : []
 
-    if (results.value.length === 0 && cleanQuery.trim().length > 3) {
+    if (results.value.length === 0 && cleanQuery.trim().length > 3 && searchMode.value !== 'exact') {
       await runFuzzyFallback(cleanQuery.trim(), filters)
     }
 
@@ -2983,6 +3009,38 @@ function handleResultClick(result) {
 .clear-query-btn:hover {
   color:      var(--vp-c-text-1);
   background: var(--vp-c-bg-mute);
+}
+
+/* ── Search mode toggle (~ fuzzy / = exact) ─────────────────────────────────── */
+.search-mode-btn {
+  flex-shrink:     0;
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           26px;
+  height:          26px;
+  padding:         0;
+  background:      none;
+  border:          none;
+  border-radius:   5px;
+  color:           var(--vp-c-text-3);
+  cursor:          pointer;
+  font-family:     var(--vp-font-family-mono);
+  font-size:       1.1rem;
+  font-weight:     700;
+  line-height:     1;
+  transition:      color 0.15s, background 0.15s;
+}
+.search-mode-btn:hover {
+  color:      var(--vp-c-text-1);
+  background: var(--vp-c-bg-mute);
+}
+.search-mode-btn--exact {
+  color:      var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+.search-mode-btn--exact:hover {
+  background: var(--vp-c-brand-soft);
 }
 
 /* ── Copy search link button ─────────────────────────────────────────────────── */
