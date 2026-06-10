@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <ClientOnly>
 
     <!-- ─────────────────────────────────────────────────────────────────────
@@ -471,22 +471,23 @@ if (typeof window !== 'undefined') {
   display:       inline-flex;
   align-items:   center;
   gap:           0.3rem;
-  font-size:     0.78rem;
+  font-size:     var(--wiki-text-sm);
   font-family:   inherit;
   color:         var(--vp-c-text-2);
   background:    none;
   border:        none;
   padding:       0.1rem 0.3rem;
-  border-radius: 3px;
+  border-radius: var(--wiki-radius-sm);
   cursor:        pointer;
   line-height:   1;
   white-space:   nowrap;
-  transition:    color 0.15s;
+  transition:    color var(--wiki-transition);
 }
 
-.dst-btn:hover:not(:disabled) { color: var(--eba-accent-color, var(--vp-c-brand-1)); }
+.dst-btn:hover:not(:disabled)  { color: var(--eba-accent-color, var(--vp-c-brand-1)); }
+.dst-btn:active:not(:disabled) { transform: scale(0.95); opacity: 0.8; }
 .dst-btn:disabled              { opacity: 0.5; cursor: default; }
-.dst-btn:focus-visible         { outline: 2px solid var(--vp-c-brand); outline-offset: 2px; }
+.dst-btn:focus-visible         { outline: var(--wiki-focus-width) solid var(--wiki-focus-color); outline-offset: var(--wiki-focus-offset); }
 
 .dst-sep {
   width:       1px;
@@ -557,27 +558,27 @@ if (typeof window !== 'undefined') {
 }
 
 .bm-dialog-clause-title { font-size: 0.82rem; font-weight: 600; color: var(--vp-c-text-1); line-height: 1.4; }
-.bm-dialog-eba          { font-size: 0.72rem; color: var(--vp-c-text-3); font-style: italic; white-space: nowrap; }
+.bm-dialog-eba          { font-size: var(--wiki-text-xs); color: var(--vp-c-text-3); font-style: italic; white-space: nowrap; }
 
 .bm-dialog-label {
-  display: block; font-size: 0.72rem; font-weight: 700;
+  display: block; font-size: var(--wiki-text-xs); font-weight: 700;
   text-transform: uppercase; letter-spacing: 0.06em;
   color: var(--vp-c-text-3); margin-bottom: 0.35rem;
 }
-.bm-dialog-label-hint { font-size: 0.68rem; font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--vp-c-text-3); margin-left: 0.25rem; }
+.bm-dialog-label-hint { font-size: var(--wiki-text-xs); font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--vp-c-text-3); margin-left: 0.25rem; }
 
 .bm-dialog-textarea {
   width: 100%; box-sizing: border-box; padding: 0.5rem 0.65rem;
   font-size: 0.82rem; line-height: 1.5; color: var(--vp-c-text-1);
   background: var(--vp-c-bg); border: 1px solid var(--vp-c-divider);
-  border-radius: 6px; resize: vertical; font-family: inherit; transition: border-color 0.15s;
+  border-radius: var(--wiki-radius-md); resize: vertical; font-family: inherit; transition: border-color var(--wiki-transition);
 }
-.bm-dialog-textarea:focus       { outline: none; border-color: var(--vp-c-brand); }
+.bm-dialog-textarea:focus-visible { outline: var(--wiki-focus-width) solid var(--wiki-focus-color); outline-offset: var(--wiki-focus-offset); border-color: var(--wiki-focus-color); }
 .bm-dialog-textarea::placeholder { color: var(--vp-c-text-3); }
 
 .bm-dialog-charcount {
-  font-size: 0.68rem; color: var(--vp-c-text-3);
-  text-align: right; margin-top: 0.2rem; margin-bottom: 0.9rem; transition: color 0.15s;
+  font-size: var(--wiki-text-xs); color: var(--vp-c-text-3);
+  text-align: right; margin-top: 0.2rem; margin-bottom: 0.9rem; transition: color var(--wiki-transition);
 }
 .bm-dialog-charcount.warn { color: #D97706; }
 
@@ -585,14 +586,14 @@ if (typeof window !== 'undefined') {
 .bm-dialog-actions-right { display: flex; align-items: center; gap: 0.5rem; margin-left: auto; }
 
 .bm-dialog-cancel {
-  padding: 0.35rem 0.75rem; font-size: 0.8rem; border-radius: 6px;
+  padding: 0.35rem 0.75rem; font-size: var(--wiki-text-sm); border-radius: var(--wiki-radius-md);
   border: 1px solid var(--vp-c-divider); background: var(--vp-c-bg);
   color: var(--vp-c-text-2); cursor: pointer; transition: background 0.12s;
 }
 .bm-dialog-cancel:hover { background: var(--vp-c-bg-mute); }
 
 .bm-dialog-save {
-  padding: 0.35rem 0.85rem; font-size: 0.8rem; font-weight: 600; border-radius: 6px;
+  padding: 0.35rem 0.85rem; font-size: var(--wiki-text-sm); font-weight: 600; border-radius: var(--wiki-radius-md);
   border: none; background: var(--vp-c-brand); color: #fff; cursor: pointer;
   transition: filter 0.12s, transform 0.12s;
 }
@@ -600,15 +601,15 @@ if (typeof window !== 'undefined') {
 .bm-dialog-save:active { transform: scale(0.96); }
 
 .bm-dialog-remove {
-  padding: 0.35rem 0.75rem; font-size: 0.78rem; border-radius: 6px;
+  padding: 0.35rem 0.75rem; font-size: var(--wiki-text-sm); border-radius: var(--wiki-radius-md);
   border: 1px solid var(--vp-c-danger-1, #cb2431);
   background: transparent; color: var(--vp-c-danger-1, #cb2431);
   cursor: pointer; transition: background 0.12s;
 }
 .bm-dialog-remove:hover { background: var(--vp-c-danger-soft, #fff5f5); }
 
-.bm-dialog-hint { font-size: 0.68rem; color: var(--vp-c-text-3); text-align: center; margin-top: 0.75rem; margin-bottom: 0; }
-.bm-dialog-hint kbd { font-size: 0.68rem; padding: 0.05rem 0.3rem; border: 1px solid var(--vp-c-divider); border-radius: 3px; background: var(--vp-c-bg-soft); }
+.bm-dialog-hint { font-size: var(--wiki-text-xs); color: var(--vp-c-text-3); text-align: center; margin-top: 0.75rem; margin-bottom: 0; }
+.bm-dialog-hint kbd { font-size: var(--wiki-text-xs); padding: 0.05rem 0.3rem; border: 1px solid var(--vp-c-divider); border-radius: var(--wiki-radius-sm); background: var(--vp-c-bg-soft); }
 
 /* Transition */
 .bm-fade-enter-active, .bm-fade-leave-active { transition: opacity 0.18s ease, transform 0.18s ease; }

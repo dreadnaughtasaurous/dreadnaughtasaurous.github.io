@@ -1,4 +1,4 @@
-/* =============================================
+﻿/* =============================================
    EBA Wiki — Custom Global Styles
    ============================================= */
 
@@ -58,6 +58,12 @@
   --wiki-radius-lg:   8px;     /* cards, panels, tooltips            */
   --wiki-radius-xl:   12px;    /* modals, large floating surfaces    */
   --wiki-radius-pill: 9999px;  /* full-pill: badges, chips, search CTAs */
+
+  /* ── Color scheme ─────────────────────────────────────────────────────────
+     Tells the browser the OS preference before JS sets the .dark class.
+     Eliminates the white flash on first dark-mode load. Also applies OS
+     dark chrome to native scrollbars, select dropdowns, and form inputs. */
+  color-scheme: light dark;
 
   /* ── Type scale ─────────────────────────────────────────────────────────────
      Five named steps on a ~1.25 ratio. Use these everywhere — do not add
@@ -221,11 +227,11 @@
 
 .pay-card {
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: var(--wiki-radius-lg);
   padding: 1rem 1.2rem;
   margin: 1rem 0;
   background: var(--vp-c-bg-soft);
-  transition: box-shadow 0.15s, transform 0.15s;
+  transition: box-shadow var(--wiki-transition), transform var(--wiki-transition);
 }
 
 .pay-card:hover {
@@ -262,12 +268,12 @@
   background: var(--vp-c-brand-soft);
   color: var(--vp-c-brand-1);
   padding: 0.3rem 0.65rem;
-  border-radius: 4px;
+  border-radius: var(--wiki-radius-sm);
   font-size: 0.8rem;
   font-weight: 500;
   text-decoration: none;
   border: 1px solid var(--vp-c-brand-2);
-  transition: background 0.15s;
+  transition: background var(--wiki-transition);
 }
 
 .pay-card .pay-card-links a:hover {
@@ -282,7 +288,7 @@
   color: var(--vp-c-text-2);
   padding: 0.2rem 0.6rem;
   border-radius: var(--wiki-radius-pill);
-  font-size: 0.78rem;
+  font-size: var(--wiki-text-sm);
   font-weight: 500;
   margin-right: 0.3rem;
 }
@@ -304,7 +310,7 @@
   border-left: 4px solid var(--vp-c-default-3);
   background-color: var(--vp-c-default-soft);
   padding: 12px 16px;
-  border-radius: 4px;
+  border-radius: var(--wiki-radius-sm);
   margin: 1rem 0;
 }
 
@@ -451,7 +457,7 @@
   -webkit-overflow-scrolling: touch;
   margin: 1.2rem 0;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: var(--wiki-radius-lg);
 }
 
 .pay-table-wrap table {
@@ -596,7 +602,6 @@
   color: var(--vp-c-text-1);
   margin-bottom: 0.75rem;
   line-height: 1.2;
-  letter-spacing: -0.02em;
   border: none;
 }
 
@@ -617,11 +622,11 @@
 .home-btn {
   display: inline-block;
   padding: 0.5rem 1.25rem;
-  border-radius: 6px;
+  border-radius: var(--wiki-radius-md);
   font-size: 0.9rem;
   font-weight: 500;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s, box-shadow 0.15s, transform 0.15s;
+  transition: background var(--wiki-transition), color var(--wiki-transition), box-shadow var(--wiki-transition), transform var(--wiki-transition);
 }
 
 .home-btn-primary {
@@ -760,7 +765,7 @@
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  border-radius: 8px;
+  border-radius: var(--wiki-radius-lg);
   width: 40px;
   height: 40px;
   margin-bottom: 0.875rem;
@@ -784,7 +789,7 @@
   text-decoration: none;
   line-height: 1.35;
   min-height: 2.7rem;
-  transition: color 0.15s;
+  transition: color var(--wiki-transition);
 }
 
 .eba-entry-title:hover {
@@ -794,7 +799,7 @@
 
 .eba-entry-period {
   display: block;
-  font-size: 0.72rem;
+  font-size: var(--wiki-text-xs);
   color: var(--vp-c-text-3);
   line-height: 1.2;
 }
@@ -839,7 +844,7 @@
   gap: 0.25rem;
   padding: 0.5rem;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: var(--wiki-radius-lg);
   background: var(--vp-c-bg-soft);
   margin-bottom: 2rem;
 }
@@ -854,7 +859,7 @@
   color: var(--vp-c-text-1);
   text-decoration: none;
   border-radius: 6px;
-  transition: background 0.15s, color 0.15s, box-shadow 0.15s, transform 0.15s;
+  transition: background var(--wiki-transition), color var(--wiki-transition), box-shadow var(--wiki-transition), transform var(--wiki-transition);
   white-space: nowrap;
 }
 
@@ -870,7 +875,7 @@
   display: inline-flex;
   align-items: center;
   color: var(--vp-c-text-2);
-  transition: color 0.15s;
+  transition: color var(--wiki-transition);
 }
 
 .home-ref-icon svg {
@@ -888,7 +893,7 @@
   padding: 1rem 1.25rem;
   border: 1px solid color-mix(in srgb, var(--wiki-c-danger) 25%, transparent);
   border-left: 4px solid var(--wiki-c-danger);
-  border-radius: 6px;
+  border-radius: var(--wiki-radius-md);
   background-color: var(--wiki-c-danger-bg);
   color: color-mix(in srgb, var(--wiki-c-danger) 80%, var(--vp-c-text-1));
   font-size: 0.875rem;
@@ -1553,7 +1558,7 @@ html {
 
 .search-highlight {
   background-color: #fef08a;
-  border-radius: 3px;
+  border-radius: var(--wiki-radius-sm);
   animation: search-highlight-fade 3s ease-out forwards;
   /* Small box-decoration to make the highlight visible on inline elements
      (e.g. text inside a <td> or <li>) without disrupting layout */
@@ -1945,7 +1950,7 @@ html {
   max-width: calc(100vw - 16px);
   background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: var(--wiki-radius-lg);
   padding: 12px 14px 10px;
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.13), 0 1px 4px rgba(0, 0, 0, 0.06);
   pointer-events: auto;  /* allows mouse to move from term into card */
@@ -1964,7 +1969,7 @@ html {
 }
 
 .gloss-tt-def {
-  font-size: 0.8rem;
+  font-size: var(--wiki-text-sm);
   line-height: 1.55;
   color: var(--vp-c-text-1);
   margin: 0;
@@ -1978,7 +1983,7 @@ html {
   color: var(--vp-c-brand-1);
   text-decoration: none;
   opacity: 0.8;
-  transition: opacity 0.15s;
+  transition: opacity var(--wiki-transition);
 }
 
 .gloss-tt-link:hover {
@@ -2069,7 +2074,7 @@ html {
   pointer-events: none;
   opacity:        0;
   transform:      translateY(4px);
-  transition:     opacity 0.15s ease, transform 0.15s ease;
+  transition:     opacity var(--wiki-transition) ease, transform var(--wiki-transition) ease;
 }
 #eba-selection-tooltip.est--visible {
   pointer-events: auto;
@@ -2085,7 +2090,7 @@ html {
   background:      var(--vp-c-brand-1);
   color:           white;
   border:          none;
-  border-radius:   8px;
+  border-radius:   var(--wiki-radius-lg);
   font-size:       13px;
   font-weight:     500;
   font-family:     var(--vp-font-family-base);
@@ -2104,4 +2109,79 @@ html {
 /* Never print */
 @media print {
   #eba-selection-tooltip { display: none !important; }
+}
+
+/* ── J: <kbd> key-cap styling ─────────────────────────────────
+   Applies to all <kbd> elements in .vp-doc content. The heavier
+   border-bottom-width creates the physical keycap depth illusion
+   used by Stripe, GitHub, and MDN. vertical-align nudges the cap
+   to sit on the text baseline cleanly.
+   ──────────────────────────────────────────────────────────── */
+
+.vp-doc kbd {
+  display:             inline-block;
+  padding:             0.1em 0.4em;
+  font-family:         var(--vp-font-family-mono);
+  font-size:           0.85em;
+  line-height:         1.4;
+  color:               var(--vp-c-text-2);
+  background:          var(--vp-c-bg-soft);
+  border:              1px solid var(--vp-c-divider);
+  border-bottom-width: 2px;
+  border-radius:       var(--wiki-radius-sm);
+  white-space:         nowrap;
+  vertical-align:      -0.05em;
+}
+
+/* ── O: EBA browse-grid icon lifts on card hover ──────────────
+   Coordinates the icon's filter + scale with the card border-
+   colour change that already fires on .eba-entry:hover.
+   The transition is added to .eba-icon directly so it animates
+   both in and out. filter+transform together = GPU composited,
+   so no layout thrash.
+   ──────────────────────────────────────────────────────────── */
+
+.eba-icon {
+  transition: background-color var(--wiki-transition),
+              filter           var(--wiki-transition),
+              transform        var(--wiki-transition);
+}
+
+.eba-entry:hover .eba-icon {
+  filter:    brightness(1.12) saturate(1.15);
+  transform: scale(1.06);
+}
+
+/* Suppress filter in high-contrast mode — brightness changes
+   can break carefully-set contrast ratios on icon fills.      */
+[data-high-contrast] .eba-entry:hover .eba-icon {
+  filter:    none;
+  transform: none;
+}
+
+/* ── P: Section label brand pip ───────────────────────────────
+   A 5×5px brand square before .home-section-label and
+   .si-root .si-label. Mirrors Stripe's sidebar group-label
+   treatment. opacity:0.65 keeps it as an accent, not a
+   dominant element.
+   ──────────────────────────────────────────────────────────── */
+
+.home-section-label::before,
+.si-root .si-label::before {
+  content:        '';
+  display:        inline-block;
+  width:          5px;
+  height:         5px;
+  background:     var(--vp-c-brand-1);
+  border-radius:  1px;
+  margin-right:   7px;
+  vertical-align: 1px;
+  opacity:        0.65;
+  flex-shrink:    0;
+}
+
+/* Suppress in high-contrast mode — decorative flourish */
+[data-high-contrast] .home-section-label::before,
+[data-high-contrast] .si-root .si-label::before {
+  display: none;
 }

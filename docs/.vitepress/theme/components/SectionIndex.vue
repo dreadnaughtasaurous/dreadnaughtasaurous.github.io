@@ -1,4 +1,4 @@
-<script setup>
+﻿<script setup>
 /**
  * SectionIndex.vue
  * ─────────────────────────────────────────────────────────────────────────────
@@ -195,14 +195,13 @@ const label = computed(() => {
 /* ── Hero strip ───────────────────────────────────────────────────────────── */
 /* Styling mirrors eip-hero from EBAIndexPage.vue exactly:
    - 3px solid left border (EBA colour, applied inline)
-   - 0.5px tertiary borders on the other three sides
    - Left corners are square so the accent border reads as a full-height bar
    - Right corners are rounded at border-radius-md (6px)                      */
 .si-hero {
   border-left:   3px solid transparent;
-  border-top:    0.5px solid var(--color-border-tertiary);
-  border-right:  0.5px solid var(--color-border-tertiary);
-  border-bottom: 0.5px solid var(--color-border-tertiary);
+  border-top:    1px solid var(--color-border-tertiary);
+  border-right:  1px solid var(--color-border-tertiary);
+  border-bottom: 1px solid var(--color-border-tertiary);
   border-radius: 0 var(--border-radius-md) var(--border-radius-md) 0;
   padding:       20px 22px;
   display:       flex;
@@ -255,7 +254,7 @@ const label = computed(() => {
   font-weight:    500;
   color:          var(--color-text-tertiary);
   background:     var(--vp-c-bg);
-  border:         0.5px solid var(--color-border-tertiary);
+  border:         1px solid var(--color-border-tertiary);
   border-radius:  var(--wiki-radius-pill);
   padding:        4px 12px;
   white-space:    nowrap;
@@ -279,7 +278,7 @@ const label = computed(() => {
   align-items:   center;
   gap:           12px;
   padding:       15px 16px;
-  border:        0.5px solid var(--color-border-tertiary);
+  border:        1px solid var(--color-border-tertiary);
   border-radius: var(--border-radius-md);
   background:    var(--color-background-primary);
   box-shadow:    var(--wiki-shadow-card);
@@ -324,7 +323,7 @@ const label = computed(() => {
   align-items:   center;
   gap:           13px;
   padding:       15px 18px;
-  border-bottom: 0.5px solid var(--color-border-tertiary);
+  border-bottom: 1px solid var(--color-border-tertiary);
   position:      relative;
   background:    var(--color-background-primary);
   transition:    box-shadow 0.15s ease, transform 0.15s ease;
@@ -393,7 +392,7 @@ const label = computed(() => {
   font-weight:   500;
   color:         var(--color-text-tertiary);
   background:    var(--vp-c-bg-soft);
-  border:        0.5px solid var(--color-border-tertiary);
+  border:        1px solid var(--color-border-tertiary);
   border-radius: var(--wiki-radius-sm);
   padding:       1px 7px;
   line-height:   1.6;
