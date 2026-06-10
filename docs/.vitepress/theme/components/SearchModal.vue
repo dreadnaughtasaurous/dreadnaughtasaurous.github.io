@@ -796,10 +796,12 @@
         </div>
 
         <!-- Fetched clause content — replaces excerpt once loaded -->
+        <!-- highlightedPreviewHtml is a computed that wraps matched query terms      -->
+        <!-- in <mark class="preview-mark"> tags before binding, so keywords glow.    -->
         <div
           v-else-if="previewHtml"
           class="preview-content vp-doc"
-          v-html="previewHtml"
+          v-html="highlightedPreviewHtml"
         ></div>
 
         <!-- Fallback: Pagefind excerpt (dev mode or fetch error) -->
@@ -1494,6 +1496,106 @@ function getExcerpt(result) {
   if (result?.excerpt && /<mark>/i.test(result.excerpt)) return result.excerpt
   return result?.meta?.excerpt || result?.excerpt || ''
 }
+
+// ─── Preview keyword highlighting ────────────────────────────────────────────
+// Analyses the raw query and searchMode to produce two highlight target lists:
+//
+//   phrases — exact substrings that must match as a contiguous sequence.
+//             Sourced from: "quoted" operators + the whole clean query when
+//             the exact toggle is ON.
+//
+//   words   — individual tokens (case-insensitive word match).
+//             Sourced from: bare tokens in cleanQuery, minus excluded (-word)
+//             tokens which must never be highlighted.
+//             Also includes the clause: number when that operator was used.
+//
+// extractHighlightTargets delegates all query parsing to parseQuery() so
+// operators (eba:, topic:, clause:, -exclude, "phrase") are handled in exactly
+// one place and the highlight logic always stays in sync with search behaviour.
+function extractHighlightTargets(rawQuery, mode) {
+  const { cleanQuery, operators } = parseQuery(rawQuery)
+
+  // Strip literal quote chars from cleanQuery to get bare search text.
+  // parseQuery intentionally keeps "..." in cleanQuery for Pagefind; we
+  // don't want the quote chars appearing in our highlight regex.
+  const bareClean = cleanQuery.replace(/"/g, '').replace(/\s{2,}/g, ' ').trim()
+
+  // ── Phrases ────────────────────────────────────────────────────────────────
+  // Start with any "quoted" operator phrases the user typed explicitly.
+  const phrases = [...operators.phrases]
+
+  // Exact mode (toggle or =prefix): the whole bare query becomes a single phrase.
+  // Guard: skip if bareClean is already one of the quoted phrases (no duplication).
+  if (mode === 'exact' && bareClean && !phrases.includes(bareClean)) {
+    phrases.push(bareClean)
+  }
+
+  // ── Words ──────────────────────────────────────────────────────────────────
+  // Individual word tokens from the bare clean query.
+  // Excluded words (-casual) are silently dropped — they are filters, not targets.
+  const excludeSet = new Set(operators.exclude.map(w => w.toLowerCase()))
+  const words = bareClean
+    .split(/\s+/)
+    .filter(t => t.length >= 2)
+    .filter(t => !excludeSet.has(t.toLowerCase()))
+
+  // clause: number added as a word token (e.g. clause:42 → highlight '42' in preview)
+    if (operators.clause && !words.includes(operators.clause)) {
+      words.push(operators.clause)
+    }
+
+    // ── Phrase-constituent deduplication ──────────────────────────────────────
+    // Problem: if "change of shift allowance" is a phrase target, the words array
+    // still contains ['change', 'of', 'shift', 'allowance']. Those word tokens
+    // match independently throughout the preview — 'shift' fires on every mention
+    // of "shift" in the clause, not just inside the exact phrase. The greedy-left
+    // alternation only prevents double-highlighting *inside* the phrase match; it
+    // does not suppress the word token from matching at other locations in the text.
+    //
+    // Fix: remove any word that appears as a whole token inside any active phrase.
+    // "annual leave" + "overtime" → 'annual' and 'leave' removed, 'overtime' kept.
+    // "change of shift allowance" → all four words removed; only phrase highlighted.
+    // No phrases active → filteredWords === words (no change to fuzzy behaviour).
+    const filteredWords = phrases.length
+      ? words.filter(w => {
+          const esc = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+          const tokenRe = new RegExp(`(?:^|\\s)${esc}(?:\\s|$)`, 'i')
+          return !phrases.some(p => tokenRe.test(p))
+        })
+      : words
+
+    return { phrases, words: filteredWords }
+  }
+
+// Wraps matched terms in <mark class="preview-mark"> inside an HTML string.
+// Uses a tag-aware regex so HTML attribute values are never corrupted.
+//
+// Phrases are placed BEFORE words in the alternation and sorted longest-first.
+// Because regex alternation is greedy-left (first branch wins), this means a
+// phrase match consumes its constituent words — preventing double-highlighting
+// of e.g. "annual" and "leave" when "annual leave" is also a phrase target.
+function highlightTermsInHtml(html, phrases, words) {
+  if (!html) return html
+  const allTerms = [
+    ...phrases
+      .sort((a, b) => b.length - a.length)           // longest phrase first
+      .map(p => p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')),
+    ...words
+      .map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')),
+  ]
+  if (!allTerms.length) return html
+  const re = new RegExp(`(<[^>]*>)|(${allTerms.join('|')})`, 'gi')
+  return html.replace(re, (match, tag) => tag ? tag : `<mark class="preview-mark">${match}</mark>`)
+}
+
+// Reactive computed: rebuilds whenever previewHtml, query, or searchMode changes.
+// previewCache stores raw HTML (no marks), so re-highlighting on mode/query
+// change costs only the regex pass — no network request.
+const highlightedPreviewHtml = computed(() => {
+  if (!previewHtml.value) return null
+  const { phrases, words } = extractHighlightTargets(query.value, searchMode.value)
+  return highlightTermsInHtml(previewHtml.value, phrases, words)
+})
 
 // ─── Preview pane ────────────────────────────────────────────────────────────
 function setPreview(result, event) {
@@ -4230,6 +4332,19 @@ function handleResultClick(result) {
   border-left: 3px solid var(--vp-c-divider); color: var(--vp-c-text-2);
 }
 .preview-content.vp-doc :deep(blockquote p) { margin: 0; }
+
+.preview-content.vp-doc :deep(mark.preview-mark) {
+  background:    var(--vp-c-yellow-soft, #fef9c3);
+  color:         inherit;
+  border-radius: 2px;
+  padding:       0 1px;
+}
+/* Dark mode: use a warmer amber so the mark stays visible on dark backgrounds */
+.dark .preview-content.vp-doc :deep(mark.preview-mark) {
+  background: rgba(250, 200, 50, 0.25);
+  color:      inherit;
+}
+
 .preview-content.vp-doc :deep(.custom-block) {
   padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; margin: 0.4rem 0;
 }
