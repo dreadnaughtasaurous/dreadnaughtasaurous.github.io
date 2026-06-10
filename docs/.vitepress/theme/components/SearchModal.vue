@@ -502,8 +502,8 @@
                     @keydown.esc="inputRef?.focus()"
                     @mouseenter="setPreview(result, $event)"
                     @mouseleave="clearPreview"
-                    @focus="setPreview(result, $event)"
-                    @blur="clearPreview"
+                    @focus="setPreview(result, $event); onResultCardFocus(result.url, $event)"
+                    @blur="clearPreview(); onResultCardBlur()"
                   >
                     <div class="result-top">
                       <span class="result-title">{{ result.meta?.title || result.url }}</span>
@@ -661,8 +661,8 @@
                   @keydown.esc="inputRef?.focus()"
                   @mouseenter="setPreview(result, $event)"
                   @mouseleave="clearPreview"
-                  @focus="setPreview(result, $event)"
-                  @blur="clearPreview"
+                  @focus="setPreview(result, $event); onResultCardFocus(result.url, $event)"
+                  @blur="clearPreview(); onResultCardBlur()"
                 >
                   <div class="result-top">
                     <span class="result-title">{{ result.meta?.title || result.url }}</span>
@@ -685,6 +685,13 @@
                   <div v-if="result.filters?.topics?.length" class="result-topics">
                     <span v-for="t in result.filters.topics" :key="t" class="result-tag">{{ t }}</span>
                   </div>
+                  <!-- Match counter badge — shown when this card is focused and has ≥2 marks -->
+                  <span
+                    v-if="activeCardUrl === result.url && cardMarkCount > 1"
+                    class="match-counter"
+                    aria-live="polite"
+                    :aria-label="`Match ${activeMatchIndex + 1} of ${cardMarkCount}`"
+                  >{{ activeMatchIndex + 1 }}<span class="match-counter-sep">/</span>{{ cardMarkCount }}</span>
                 </a>
 
                 <!-- View more results -->
@@ -956,6 +963,14 @@ const visibleCount = ref(5)
 
 const visibleResults = computed(() => results.value.slice(0, visibleCount.value))
 
+// ─── Match cycling state ──────────────────────────────────────────────────────
+// Tracks the focused result card and which <mark> within its excerpt is active.
+// Reset on blur, new search query, and modal close.
+const focusedCardEl    = ref(null)  // DOM element of the focused result card
+const activeCardUrl    = ref('')    // result.url of the focused card (unique key)
+const activeMatchIndex = ref(-1)    // 0-based index of the lit <mark> (-1 = none)
+const cardMarkCount    = ref(0)     // total <mark> elements in the focused card
+
 // ─── Inline AI answer state ───────────────────────────────────────────────────
 // When the user clicks an "Ask AI Assistant" suggestion, the answer streams in
 // here — inside the SearchModal — rather than launching the side panel.
@@ -971,6 +986,7 @@ const inlineAnswerError   = ref('')      // set on stream / fetch failure
 watch([query, selectedEba, selectedTopic], () => {
   visibleCount.value = 5
   if (inlineAnswer.value) closeInlineAnswer()
+  onResultCardBlur()
 })
 
 // ─── Client-side AI question suggestions ──────────────────────────────────────
@@ -1654,6 +1670,47 @@ function focusResult(index) {
   })
 }
 
+// ─── Match cycling ────────────────────────────────────────────────────────────
+
+// onResultCardFocus — called when any result card receives keyboard focus.
+// Waits one tick (so the :focus-visible CSS has reflowed the unclamped excerpt)
+// then finds all <mark> elements, highlights the first one, and stores state.
+function onResultCardFocus(resultUrl, event) {
+  focusedCardEl.value = event.currentTarget
+  activeCardUrl.value = resultUrl
+  nextTick(() => {
+    const marks = [...(focusedCardEl.value?.querySelectorAll('mark') ?? [])]
+    cardMarkCount.value = marks.length
+    marks.forEach((m, i) => m.classList.toggle('mark--active', i === 0))
+    activeMatchIndex.value = marks.length > 0 ? 0 : -1
+  })
+}
+
+// onResultCardBlur — strips mark--active styling and clears all cycling state.
+function onResultCardBlur() {
+  focusedCardEl.value?.querySelectorAll('mark.mark--active')
+    .forEach(m => m.classList.remove('mark--active'))
+  focusedCardEl.value  = null
+  activeCardUrl.value  = ''
+  activeMatchIndex.value = -1
+  cardMarkCount.value  = 0
+}
+
+// cycleMatch — advances the active <mark> by delta (+1 or -1), wrapping at ends.
+// Skips gracefully when there are 0 or 1 marks (nothing to cycle).
+function cycleMatch(delta) {
+  if (!focusedCardEl.value) return
+  const marks = [...focusedCardEl.value.querySelectorAll('mark')]
+  if (marks.length < 2) return
+  marks[activeMatchIndex.value]?.classList.remove('mark--active')
+  activeMatchIndex.value = (activeMatchIndex.value + delta + marks.length) % marks.length
+  const mark = marks[activeMatchIndex.value]
+  mark.classList.add('mark--active')
+  // scrollIntoView uses 'nearest' so the results container scrolls only as much
+  // as needed — it won't yank the card to the top of the viewport.
+  mark.scrollIntoView({ block: 'nearest', behavior: 'smooth' })
+}
+
 // focusIdleRow — DOM-position-aware navigation for .idle-row items in idle state.
 // Pressing ↑ from the first row returns focus to the search input (better UX than
 // staying stuck at row 0).
@@ -1969,6 +2026,26 @@ function onKeydown(e) {
       applyEbaShortcut(EBA_SHORTCUT_LIST[parseInt(codeMatch[1], 10) - 1])
     }
   }
+
+  // ── ArrowLeft / ArrowRight: cycle marks within the focused result card ─────
+  // Only fires when the modal is open, no operator dropdown is showing, and a
+  // result card (not the input) is the active element. This lets the input field
+  // still use ←/→ to move its text cursor normally.
+  if (
+    open.value &&
+    !operatorHint.value &&
+    !operatorCheatsheet.value &&
+    document.activeElement?.classList.contains('result-card')
+  ) {
+    if (e.code === 'ArrowLeft') {
+      e.preventDefault()
+      cycleMatch(-1)
+    }
+    if (e.code === 'ArrowRight') {
+      e.preventDefault()
+      cycleMatch(1)
+    }
+  }
 }
 onMounted(() => {
   updateMobileSheet()
@@ -1998,6 +2075,7 @@ onUnmounted(() => {
 
 function close() {
   persistState()
+  onResultCardBlur()
   open.value              = false
   showSettingsPanel.value = false
   previewVisible.value    = false
@@ -2890,6 +2968,7 @@ function handleResultClick(result) {
   border-radius: 8px; border: 1px solid var(--vp-c-divider);
   background: var(--vp-c-bg-soft);
   transition: border-color 0.15s, background 0.15s; outline: none;
+  position: relative; /* required by .match-counter absolute positioning */
 }
 .result-card:hover,
 .result-card:focus-visible,
@@ -2920,10 +2999,50 @@ function handleResultClick(result) {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* When a card is keyboard-focused, remove the 3-line clamp so all marks are
+   visible and reachable via ←/→ cycling. Returns to clamped on blur via CSS. */
+.result-card:focus-visible .result-excerpt {
+  display:           block;
+  -webkit-line-clamp: unset;
+  line-clamp:        unset;
+  overflow:          visible;
+}
+
 .result-excerpt :deep(mark),
 .preview-excerpt :deep(mark) {
   background: oklch(0.88 0.1 75 / 0.45);
   color: inherit; border-radius: 2px; padding: 0 2px;
+}
+
+/* Active mark — visually distinct from passive marks during cycling */
+.result-excerpt :deep(mark.mark--active) {
+  background: oklch(0.78 0.18 70 / 0.72);
+  outline:    1.5px solid oklch(0.58 0.20 70 / 0.7);
+  border-radius: 2px;
+}
+
+/* Match counter badge — absolute top-right of the focused card */
+.match-counter {
+  position:       absolute;
+  top:            0.5rem;
+  right:          0.5rem;
+  font-size:      0.65rem;
+  font-family:    var(--vp-font-family-mono);
+  font-weight:    600;
+  color:          var(--vp-c-text-3);
+  background:     var(--vp-c-bg-mute);
+  border:         1px solid var(--vp-c-divider);
+  border-radius:  4px;
+  padding:        0.1rem 0.4rem;
+  line-height:    1.4;
+  pointer-events: none;
+  user-select:    none;
+  white-space:    nowrap;
+}
+.match-counter-sep {
+  margin:  0 0.15rem;
+  opacity: 0.4;
 }
 .result-topics { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-top: 0.4rem; }
 .result-tag {
