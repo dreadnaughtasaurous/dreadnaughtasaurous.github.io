@@ -52,20 +52,6 @@
               autocomplete="off"
             
             />
-            <!-- Clear query button — only visible when input has content -->
-            <button
-              v-if="query.trim()"
-              class="clear-query-btn"
-              @click="clearQuery"
-              aria-label="Clear search"
-              title="Clear search"
-            >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <line x1="18" y1="6" x2="6" y2="18"/>
-                <line x1="6" y1="6" x2="18" y2="18"/>
-              </svg>
-            </button>
-            
             <!-- Search mode toggle — ~ fuzzy (default) / = exact phrase ── -->
             <button
               class="search-mode-btn"
@@ -106,8 +92,17 @@
                 <polyline points="20 6 9 17 4 12"/>
               </svg>
             </button>
-            <button class="close-btn" @click="close" aria-label="Close search">
-              <kbd>Esc</kbd>
+            <!-- Clear query button — always visible at the far right of the input bar.
+                 Inactive (opacity 0.35, pointer-events off) when input is empty.
+                 Active (opacity 1.0, pointer-events on) when the user has typed a query. -->
+            <button
+              class="clear-query-btn"
+              :class="{ 'clear-query-btn--active': query.trim() }"
+              @click="clearQuery"
+              aria-label="Clear search"
+              title="Clear search"
+            >
+              <span class="vpi-delete" aria-hidden="true"></span>
             </button>
           </div>
 
@@ -727,12 +722,26 @@
                Uses the existing .op-hint chip style — no new CSS class needed
                for the chips themselves.
           ───────────────────────────────────────────────────────────────────── -->
-          <div v-if="!inlineAnswer" class="search-footer-hint">
-            Try
-            <code class="op-hint">eba:nurses-midwives</code>
-            <code class="op-hint">topic:wages</code>
-            <code class="op-hint">"exact phrase"</code>
-            <code class="op-hint">-exclude</code>
+          <div v-if="!inlineAnswer" class="search-footer-hint" aria-hidden="true">
+            <span class="sfh-item">
+              <kbd class="sfh-key">↑</kbd><kbd class="sfh-key">↓</kbd>
+              <span class="sfh-label">to navigate</span>
+            </span>
+            <span class="sfh-sep"></span>
+            <span class="sfh-item">
+              <kbd class="sfh-key sfh-key--wide">↵</kbd>
+              <span class="sfh-label">to select</span>
+            </span>
+            <span class="sfh-sep"></span>
+            <span class="sfh-item">
+              <kbd class="sfh-key">←</kbd><kbd class="sfh-key">→</kbd>
+              <span class="sfh-label">to cycle matches</span>
+            </span>
+            <span class="sfh-sep"></span>
+            <span class="sfh-item">
+              <kbd class="sfh-key sfh-key--wide">esc</kbd>
+              <span class="sfh-label">to close</span>
+            </span>
           </div>
 
         </div>
@@ -2759,12 +2768,6 @@ function handleResultClick(result) {
   font-size: 1rem; color: var(--vp-c-text-1); outline: none;
 }
 .search-input::placeholder { color: var(--vp-c-text-3); }
-.close-btn {
-  background: none; border: 1px solid var(--vp-c-divider);
-  border-radius: 4px; padding: 0.125rem 0.4rem;
-  font-size: 0.75rem; color: var(--vp-c-text-3); cursor: pointer;
-}
-.close-btn:hover { color: var(--vp-c-text-1); }
 
 /* ── Filters ── */
 .search-filters {
@@ -2983,32 +2986,49 @@ function handleResultClick(result) {
   border-radius:   6px;
   transition:      color 0.15s, background 0.15s, transform 0.25s ease;
 }
-.settings-gear-btn:hover  { color: var(--vp-c-text-1); background: var(--vp-c-bg-mute); }
+.settings-gear-btn:hover  { color: var(--vp-c-text-1); }
 .settings-gear-btn--active {
   color:      var(--vp-c-brand-1);
   background: var(--vp-c-brand-soft);
   transform:  rotate(60deg);
 }
 
-/* ── Clear query button ── */
+/* ── Clear query button ────────────────────────────────────────────────────────
+   Always visible at the far right of the search input bar.
+   Inactive: 35% opacity, pointer-events disabled — recedes without disappearing.
+   Active: full opacity when the user has typed a query; hover brightens the icon
+   only — no background fill, matching the no-chrome aesthetic of the gear button.
+──────────────────────────────────────────────────────────────────────────────── */
 .clear-query-btn {
-  flex-shrink:      0;
-  display:          flex;
-  align-items:      center;
-  justify-content:  center;
-  width:            26px;
-  height:           26px;
-  padding:          0;
-  background:       none;
-  border:           none;
-  border-radius:    50%;
-  color:            var(--vp-c-text-3);
-  cursor:           pointer;
-  transition:       color 0.12s, background 0.12s;
+  flex-shrink:     0;
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           26px;
+  height:          26px;
+  padding:         0;
+  background:      none;
+  border:          none;
+  border-radius:   50%;
+  color:           var(--vp-c-text-3);
+  opacity:         0.35;
+  cursor:          default;
+  pointer-events:  none;
+  transition:      opacity 0.15s, color 0.15s;
 }
-.clear-query-btn:hover {
-  color:      var(--vp-c-text-1);
-  background: var(--vp-c-bg-mute);
+.clear-query-btn--active {
+  opacity:        1;
+  cursor:         pointer;
+  pointer-events: auto;
+}
+.clear-query-btn--active:hover {
+  color: var(--vp-c-text-1);
+}
+.clear-query-btn .vpi-delete {
+  display:     block;
+  width:       16px;
+  height:      16px;
+  flex-shrink: 0;
 }
 
 /* ── Search mode toggle (~ fuzzy / = exact) ─────────────────────────────────── */
@@ -3510,13 +3530,78 @@ function handleResultClick(result) {
 .view-more-btn:focus-visible   { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
 
 /* ── Operator hint footer bar ────────────────────────────────────────────────── */
+/* ── Keyboard-hint footer bar ─────────────────────────────────────────────────
+   Dark pill spanning the modal footer. Matches FMHY search footer aesthetic.
+   aria-hidden on the element — purely visual, screen readers ignore it.
+──────────────────────────────────────────────────────────────────────────────── */
 .search-footer-hint {
-  flex-shrink:   0;
-  padding:       0.55rem 0;
-  border-top:    1px solid var(--vp-c-divider);
-  font-size:     0.72rem;
-  color:         var(--vp-c-text-3);
-  text-align:    center;
+  flex-shrink:     0;
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  gap:             0.5rem;
+  padding:         0.5rem 1rem;
+  margin:          0 0.75rem 0.6rem;
+  border-radius:   8px;
+  background:      var(--vp-c-bg-elv, #1e1e20);
+  border:          1px solid var(--vp-c-divider);
+}
+
+/* Dark mode: use a near-black background; light mode: use a soft grey */
+.dark .search-footer-hint {
+  background: rgba(255,255,255,0.04);
+}
+
+.sfh-item {
+  display:     flex;
+  align-items: center;
+  gap:         0.2rem;
+}
+
+/* Individual keycap */
+.sfh-key {
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  min-width:       1.35rem;
+  height:          1.35rem;
+  padding:         0 0.3rem;
+  border-radius:   4px;
+  border:          1px solid var(--vp-c-divider);
+  background:      var(--vp-c-bg-soft);
+  font-family:     var(--vp-font-family-mono);
+  font-size:       0.68rem;
+  font-weight:     600;
+  color:           var(--vp-c-text-1);
+  line-height:     1;
+  letter-spacing:  0;
+}
+
+.sfh-key--wide {
+  min-width: 2rem;
+  font-size: 0.62rem;
+  text-transform: lowercase;
+}
+
+.sfh-label {
+  font-size:   0.68rem;
+  color:       var(--vp-c-text-3);
+  white-space: nowrap;
+  margin-left: 0.15rem;
+}
+
+/* Thin vertical divider between hint groups */
+.sfh-sep {
+  width:        1px;
+  height:       0.85rem;
+  background:   var(--vp-c-divider);
+  flex-shrink:  0;
+  margin:       0 0.15rem;
+}
+
+/* Hide on small mobile — not enough horizontal room */
+@media (max-width: 480px) {
+  .search-footer-hint { display: none; }
 }
 
 /* Advanced search idle-row hint — right-aligned operator preview chips */
@@ -3664,10 +3749,6 @@ function handleResultClick(result) {
     background: var(--vp-c-divider);
     border-radius: 999px;
     margin: 10px auto 6px;
-  }
-
-  .close-btn {
-    display: none;
   }
 
   .search-body {
