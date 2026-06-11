@@ -1,5 +1,5 @@
 ---
-title: Austin Health EBA Wiki
+title: EBA Wiki
 layout: page
 ---
 

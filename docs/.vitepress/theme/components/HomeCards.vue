@@ -3,7 +3,7 @@
 
     <div class="home-hero">
       <div class="home-hero-text">
-        <h1 class="home-title">Austin Health EBA Wiki</h1>
+        <h1 class="home-title">EBAdb</h1>
         <p class="home-subtitle">
           This is a fork of <a href="https://tebooth92.github.io/eba/" target="_blank" rel="noopener noreferrer">@tebooth92's</a> searchable reference for the eight Enterprise Agreements covering the Victorian public health sector.
           Use the search bar above, browse by EBA below, or explore by topic.
