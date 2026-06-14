@@ -1,8 +1,6 @@
 <template>
   <!-- Trigger button for navbar -->
-  <!-- pointerenter: pre-warms pagefind on desktop hover before the click lands  -->
-  <!-- focus: pre-warms pagefind when user Tabs to the button via keyboard        -->
-  <!-- Both call initPagefind() which deduplicates via pagefindInitPromise        -->
+
   <button
     class="search-trigger"
     @click="openModal"
@@ -92,9 +90,7 @@
                 <polyline points="20 6 9 17 4 12"/>
               </svg>
             </button>
-            <!-- Clear query button — always visible at the far right of the input bar.
-                 Inactive (opacity 0.35, pointer-events off) when input is empty.
-                 Active (opacity 1.0, pointer-events on) when the user has typed a query. -->
+
             <button
               class="clear-query-btn"
               :class="{ 'clear-query-btn--active': query.trim() }"
@@ -106,10 +102,7 @@
             </button>
           </div>
 
-          <!-- ─── Settings panel — slides in below header ─────────────────────────────────
-               Extensible: append new .settings-row blocks inside the panel div below.
-               Sections: Search behaviour · Display · Privacy
-          ──────────────────────────────────────────────────────────────────────────────── -->
+          <!-- Settings panel -->
           <Transition name="settings-panel">
             <div v-if="showSettingsPanel" class="search-settings-panel" role="region" aria-label="Search settings">
 
@@ -299,12 +292,6 @@
               </div>
             </div>
 
-            <!-- ─── Unified active filters bar ────────────────────────────────
-                 Shown whenever any filter is active — dropdown OR typed operator.
-                 Positioned here (inside the search tab template, below the filter
-                 dropdowns, above the results body) so it is always visible,
-                 including when no query has been typed yet.
-            ─────────────────────────────────────────────────────────────────── -->
             <div
               v-if="parsedOperators.hasPills || selectedEba || selectedTopic"
               class="operator-pills-row"
@@ -428,9 +415,6 @@
                 </div>
               </div>
 
-              <!-- Skeleton shimmer cards — shown while Pagefind stubs are resolving -->
-              <!-- skeletonCount is set immediately after pagefind.search() returns,  -->
-              <!-- before the slower .data() Promise.all completes.                    -->
               <div v-else-if="loading || skeletonCount > 0" class="search-results search-results--skeleton" aria-busy="true" aria-label="Loading search results">
                 <div class="result-count-skeleton"></div>
                 <div
@@ -724,11 +708,6 @@
 
           </div>
 
-          <!-- ── Operator hint footer bar ──────────────────────────────────────
-               Shown on the Search tab only (not Ask AI, not inline answer view).
-               Uses the existing .op-hint chip style — no new CSS class needed
-               for the chips themselves.
-          ───────────────────────────────────────────────────────────────────── -->
           <div v-if="!inlineAnswer" class="search-footer-hint" aria-hidden="true">
             <span class="sfh-item">
               <kbd class="sfh-key">↑</kbd><kbd class="sfh-key">↓</kbd>
@@ -795,9 +774,6 @@
           <div class="preview-shimmer-line" style="width: 75%"></div>
         </div>
 
-        <!-- Fetched clause content — replaces excerpt once loaded -->
-        <!-- highlightedPreviewHtml is a computed that wraps matched query terms      -->
-        <!-- in <mark class="preview-mark"> tags before binding, so keywords glow.    -->
         <div
           v-else-if="previewHtml"
           class="preview-content vp-doc"
@@ -859,11 +835,6 @@ const modalRef            = ref(null)
 const resultsContainerRef = ref(null)
 
 // ─── Mobile bottom-sheet state ────────────────────────────────────────────────
-// isMobileSheet: true when viewport < 768px — drives the sheet CSS class and
-// the dynamic transition name ('sheet' vs 'modal').
-// viewportHeight: tracks window.visualViewport.height reactively so the sheet
-// shrinks correctly when the soft keyboard opens on iOS/Android.
-// NOTE: visualViewport is not available during SSR — guard with typeof window.
 const isMobileSheet  = ref(false)
 const viewportHeight = ref(0)
 
@@ -885,10 +856,6 @@ let previewHideTimer = null
 let previewKeep      = false
 
 // ─── Preview page fetch ───────────────────────────────────────────────────────
-// previewHtml:    fetched .vp-doc innerHTML; null until a fetch completes
-// previewLoading: true while the debounced fetch is in-flight
-// previewCache:   session-scoped Map<url → html> so re-hovering costs nothing
-// previewFetchTimer: debounce handle; cancelled on fast mouse-out
 const previewHtml    = ref(null)
 const previewLoading = ref(false)
 const previewCache   = new Map()
@@ -903,7 +870,6 @@ const fuzzyLoading  = ref(false)
 const suggestions = ref([])
 
 // ─── Operator hint autocomplete ───────────────────────────────────────────────
-// hintIndex: which item in the hint list is keyboard-highlighted (-1 = none)
 const hintIndex   = ref(-1)
 // hintStyle: Teleport position; set reactively when the hint list opens
 const hintStyle   = ref({})
@@ -920,15 +886,9 @@ const searchMode        = ref('fuzzy')  // 'fuzzy' | 'exact' — toggled by the 
 const urlCopied         = ref(false)    // true for 2 s after copy-link — drives ✓ icon state
 
 // ─── Bookmarks (localStorage — persists across sessions) ──────────────────────
-// Each entry: { id: string, url: string, title: string, eba: string, note: string, savedAt: string }
-// Loaded once on mount and kept in sync via the 'eba-bookmarks-updated' CustomEvent
-// dispatched by BookmarkButton.vue whenever a bookmark is added, edited, or removed.
 const bookmarks = ref([])
 
 // ─── Recently viewed (localStorage — persists across sessions) ────────────────
-// Written by index.js onAfterRouteChanged into 'eba-recently-viewed'.
-// Shape: Array<{ path: string, title: string, eba: string, timestamp: string }>
-// Max 4 entries, deduped by path, most-recent first.
 const recentlyViewed = ref([])
 
 function loadRecentlyViewed() {
@@ -939,9 +899,6 @@ function loadRecentlyViewed() {
 }
 
 // ─── EBA slug → full canonical name (for ebaStyle() on recently viewed rows) ──
-// ─── EBA full name → URL slug ─────────────────────────────────────────────────
-// Reverse of EBA_SLUG_MAP. Used by buildShareUrl() to produce clean short slugs
-// (e.g. 'nurses-midwives') instead of encoding the full EBA name in the URL.
 const ebaNameToSlug = Object.fromEntries(EBA_REGISTRY.map(e => [e.name, e.slug]))
 
 const EBA_SLUG_TO_FULL_NAME = {
@@ -966,16 +923,12 @@ const visibleCount = ref(5)
 const visibleResults = computed(() => results.value.slice(0, visibleCount.value))
 
 // ─── Match cycling state ──────────────────────────────────────────────────────
-// Tracks the focused result card and which <mark> within its excerpt is active.
-// Reset on blur, new search query, and modal close.
 const focusedCardEl    = ref(null)  // DOM element of the focused result card
 const activeCardUrl    = ref('')    // result.url of the focused card (unique key)
 const activeMatchIndex = ref(-1)    // 0-based index of the lit <mark> (-1 = none)
 const cardMarkCount    = ref(0)     // total <mark> elements in the focused card
 
 // ─── Inline AI answer state ───────────────────────────────────────────────────
-// When the user clicks an "Ask AI Assistant" suggestion, the answer streams in
-// here — inside the SearchModal — rather than launching the side panel.
 const inlineAnswer        = ref(false)   // controls the answer view
 const inlineQuestion      = ref('')      // the question being answered
 const inlineAnswerText    = ref('')      // accumulates streamed tokens
@@ -983,8 +936,6 @@ const inlineAnswerLoading = ref(false)   // true while the stream is open
 const inlineAnswerSources = ref([])      // populated from the terminal SSE event
 const inlineAnswerError   = ref('')      // set on stream / fetch failure
 
-// Reset visible count on every new search so "View more" resets automatically.
-// Also exit the inline answer view — typing a new query returns to results.
 watch([query, selectedEba, selectedTopic], () => {
   visibleCount.value = 5
   if (inlineAnswer.value) closeInlineAnswer()
@@ -992,9 +943,6 @@ watch([query, selectedEba, selectedTopic], () => {
 })
 
 // ─── Client-side AI question suggestions ──────────────────────────────────────
-// Five templates derived from the clean query — no API call needed.
-// Appear below results (when results exist) and in the zero-result state.
-// Max 5 suggestions; hidden when the clean query is < 3 characters.
 const aiSuggestions = computed(() => {
   const q = parseQuery(query.value).cleanQuery.trim()
   if (!q || q.length < 3) return []
@@ -1010,9 +958,6 @@ const aiSuggestions = computed(() => {
 })
 
 // ─── Inline AI answer — stream the answer inside the SearchModal ────
-// Uses the same worker, system prompt, and detailed-style instructions as the
-// retired Ask AI tab, but renders progressively via SSE (stream:true). Falls
-// back to a single non-streaming request if no streaming provider can start.
 async function askInline(questionText) {
   const q = (questionText || '').trim()
   if (!q) return
@@ -1024,10 +969,8 @@ async function askInline(questionText) {
   inlineAnswerError.value   = ''
   inlineAnswerLoading.value = true
 
-  // Scroll the body to the top so the answer is in view as it streams
   nextTick(() => { if (resultsContainerRef.value) resultsContainerRef.value.scrollTop = 0 })
 
-  // Log the Ask AI submission to analytics (mirrors the keyword-search beacon)
   try { logSearch('ask', q, selectedEba.value, selectedTopic.value, 0) } catch { /* non-fatal */ }
 
   try {
@@ -1042,8 +985,6 @@ async function askInline(questionText) {
     const decoder = new TextDecoder()
     let buffer = ''
 
-    // Read the SSE stream. Events are separated by a blank line (\n\n);
-    // each event is a single `data: {json}` line emitted by handleStreaming().
     while (true) {
       const { done, value } = await reader.read()
       if (done) break
@@ -1068,7 +1009,7 @@ async function askInline(questionText) {
       }
     }
   } catch (err) {
-    // Fallback: if streaming never produced text, try one non-streaming request
+
     if (!inlineAnswerText.value) {
       try {
         const res2 = await fetch(AI_WORKER_URL, {
@@ -1132,10 +1073,6 @@ let pagefindInitPromise   = null    // deduplicates concurrent init calls from h
 let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
 
 // ─── Smart suggestions: three-dictionary scoring engine ───────────────────────
-// Runs when results === 0 OR (results <= 2 AND query >= 4 chars).
-// Returns up to 2 scored suggestion objects, highest score first.
-// Each suggestion has: { type: 'eba'|'topic'|'rewrite', label, action }
-// ─── EBA keyword dictionary ───────────────────────────────────────────────────
 const SUGGESTION_EBA_MAP = [
   // Nurses & Midwives
   { keywords: ['nurse','nurses','nursing','midwife','midwives','midwifery','nm','enrolled','en ','rn ','registered nurse','ward','icu','nicu','theatre','maternity','obstetric','neonatal','pediatric','paediatric'], eba: 'Nurses and Midwives 2024-2028' },
@@ -1203,9 +1140,6 @@ const SUGGESTION_REWRITES = [
 ]
 
 // ─── Stream label for nested EBAs ────────────────────────────────────────────
-// Returns the humanised stream label for has-managers-admin and mental-health
-// result cards (e.g. 'common-terms' → 'Common Terms'), or null for all others.
-// Derives from result.url — no Pagefind meta change required.
 const NESTED_EBA_FOLDERS = new Set(['has-managers-admin', 'mental-health'])
 
 function getResultStream(result) {
@@ -1219,9 +1153,6 @@ function getResultStream(result) {
 }
 
 // ─── Scoring engine ───────────────────────────────────────────────────────────
-// Scores a candidate against a list of keyword strings. Returns 0–100.
-// Multi-word keywords score higher (more specific match).
-// Substring matches score lower than whole-word matches.
 function _scoreKeywords(lowerQuery, keywords) {
   let best = 0
   for (const kw of keywords) {
@@ -1353,7 +1284,6 @@ function logSearch(tab, query, eba, topic, resultCount) {
 }
 
 // ─── EBA colour map ───────────────────────────────────────────────────────────
-// ebaColors — imported from eba-registry.js
 
 function ebaStyle(ebaName) {
   const c = ebaColors[ebaName]
@@ -1362,10 +1292,6 @@ function ebaStyle(ebaName) {
 }
 
 // ─── General settings ─────────────────────────────────────────────────────────
-// saveSetting: shared one-liner for all preference writes.
-// loadSettings: called once in onMounted. Reads all preference keys.
-//   previewEnabled and analyticsEnabled default to true — stored only when explicitly
-//   toggled off, so we use !== 'false' rather than === 'true'.
 function saveSetting(key, value) {
   try { localStorage.setItem(key, String(value)) } catch { /* ignore */ }
 }
@@ -1482,80 +1408,33 @@ function cleanExcerpt(raw) {
 }
 
 // ─── Excerpt selector ────────────────────────────────────────────────────────
-// Pagefind's auto-excerpt contains <mark> tags when the searched terms were
-// found in indexed prose body text. When terms matched only via page title or
-// table cells (no <mark> present), the auto-excerpt defaults to whatever prose
-// is nearest the top of the page — often a clause exclusion or preamble
-// unrelated to the query (the "DON" case in the Nurses overtime clause).
-//
-// In those cases fall back to result.meta?.excerpt — the custom field injected
-// by patch-pagefind.mjs: "<frontmatter title> — <first prose sentence>".
-// This provides a stable, always-relevant excerpt at the cost of no highlights.
-// When marks are present we return the auto-excerpt unchanged so highlights work.
 function getExcerpt(result) {
   if (result?.excerpt && /<mark>/i.test(result.excerpt)) return result.excerpt
   return result?.meta?.excerpt || result?.excerpt || ''
 }
 
 // ─── Preview keyword highlighting ────────────────────────────────────────────
-// Analyses the raw query and searchMode to produce two highlight target lists:
-//
-//   phrases — exact substrings that must match as a contiguous sequence.
-//             Sourced from: "quoted" operators + the whole clean query when
-//             the exact toggle is ON.
-//
-//   words   — individual tokens (case-insensitive word match).
-//             Sourced from: bare tokens in cleanQuery, minus excluded (-word)
-//             tokens which must never be highlighted.
-//             Also includes the clause: number when that operator was used.
-//
-// extractHighlightTargets delegates all query parsing to parseQuery() so
-// operators (eba:, topic:, clause:, -exclude, "phrase") are handled in exactly
-// one place and the highlight logic always stays in sync with search behaviour.
 function extractHighlightTargets(rawQuery, mode) {
   const { cleanQuery, operators } = parseQuery(rawQuery)
 
-  // Strip literal quote chars from cleanQuery to get bare search text.
-  // parseQuery intentionally keeps "..." in cleanQuery for Pagefind; we
-  // don't want the quote chars appearing in our highlight regex.
   const bareClean = cleanQuery.replace(/"/g, '').replace(/\s{2,}/g, ' ').trim()
 
-  // ── Phrases ────────────────────────────────────────────────────────────────
-  // Start with any "quoted" operator phrases the user typed explicitly.
   const phrases = [...operators.phrases]
 
-  // Exact mode (toggle or =prefix): the whole bare query becomes a single phrase.
-  // Guard: skip if bareClean is already one of the quoted phrases (no duplication).
   if (mode === 'exact' && bareClean && !phrases.includes(bareClean)) {
     phrases.push(bareClean)
   }
 
-  // ── Words ──────────────────────────────────────────────────────────────────
-  // Individual word tokens from the bare clean query.
-  // Excluded words (-casual) are silently dropped — they are filters, not targets.
   const excludeSet = new Set(operators.exclude.map(w => w.toLowerCase()))
   const words = bareClean
     .split(/\s+/)
     .filter(t => t.length >= 2)
     .filter(t => !excludeSet.has(t.toLowerCase()))
 
-  // clause: number added as a word token (e.g. clause:42 → highlight '42' in preview)
     if (operators.clause && !words.includes(operators.clause)) {
       words.push(operators.clause)
     }
 
-    // ── Phrase-constituent deduplication ──────────────────────────────────────
-    // Problem: if "change of shift allowance" is a phrase target, the words array
-    // still contains ['change', 'of', 'shift', 'allowance']. Those word tokens
-    // match independently throughout the preview — 'shift' fires on every mention
-    // of "shift" in the clause, not just inside the exact phrase. The greedy-left
-    // alternation only prevents double-highlighting *inside* the phrase match; it
-    // does not suppress the word token from matching at other locations in the text.
-    //
-    // Fix: remove any word that appears as a whole token inside any active phrase.
-    // "annual leave" + "overtime" → 'annual' and 'leave' removed, 'overtime' kept.
-    // "change of shift allowance" → all four words removed; only phrase highlighted.
-    // No phrases active → filteredWords === words (no change to fuzzy behaviour).
     const filteredWords = phrases.length
       ? words.filter(w => {
           const esc = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
@@ -1567,13 +1446,6 @@ function extractHighlightTargets(rawQuery, mode) {
     return { phrases, words: filteredWords }
   }
 
-// Wraps matched terms in <mark class="preview-mark"> inside an HTML string.
-// Uses a tag-aware regex so HTML attribute values are never corrupted.
-//
-// Phrases are placed BEFORE words in the alternation and sorted longest-first.
-// Because regex alternation is greedy-left (first branch wins), this means a
-// phrase match consumes its constituent words — preventing double-highlighting
-// of e.g. "annual" and "leave" when "annual leave" is also a phrase target.
 function highlightTermsInHtml(html, phrases, words) {
   if (!html) return html
   const allTerms = [
@@ -1588,9 +1460,6 @@ function highlightTermsInHtml(html, phrases, words) {
   return html.replace(re, (match, tag) => tag ? tag : `<mark class="preview-mark">${match}</mark>`)
 }
 
-// Reactive computed: rebuilds whenever previewHtml, query, or searchMode changes.
-// previewCache stores raw HTML (no marks), so re-highlighting on mode/query
-// change costs only the regex pass — no network request.
 const highlightedPreviewHtml = computed(() => {
   if (!previewHtml.value) return null
   const { phrases, words } = extractHighlightTargets(query.value, searchMode.value)
@@ -1651,11 +1520,8 @@ function clearPreview() {
 }
 
 // ─── Preview page fetch ───────────────────────────────────────────────────────
-// Fetches the full clause page HTML and extracts .vp-doc content.
-// Mirrors the ClausePanel.vue fetchClause() pattern exactly.
-// Degrades silently on failure — the preview falls back to the Pagefind excerpt.
 async function fetchPreviewHtml(url) {
-  // Guard: if the user moved away before the 200ms debounce fired, abort
+
   if (!previewVisible.value || previewResult.value?.url !== url) {
     previewLoading.value = false
     return
@@ -1670,13 +1536,11 @@ async function fetchPreviewHtml(url) {
     const vpDoc  = doc.querySelector('.vp-doc')
 
     if (!vpDoc) {
-      // Dev mode: VitePress serves a JS shell — no static HTML to extract.
-      // Degrade silently; the Pagefind excerpt fallback will show instead.
+
       previewLoading.value = false
       return
     }
 
-    // Strip elements that don't belong in the preview pane
     vpDoc.querySelectorAll([
       '[class*="vp-nolebase-git-changelog"]',
       '.related-clauses-panel',
@@ -1684,17 +1548,14 @@ async function fetchPreviewHtml(url) {
       '.doc-toolbar',
     ].join(',')).forEach(el => el.remove())
 
-    // Remove trailing Changelog H2
     const allH2s = [...vpDoc.querySelectorAll('h2')]
     const lastH2 = allH2s[allH2s.length - 1]
     if (lastH2 && /changelog/i.test(lastH2.textContent)) lastH2.remove()
 
-    // Remove the page H1 — already shown in the preview header
     vpDoc.querySelector('h1')?.remove()
 
     const html = vpDoc.innerHTML
 
-    // Guard: result may have changed while the fetch was in-flight
     if (previewResult.value?.url !== url) {
       previewLoading.value = false
       return
@@ -1704,7 +1565,7 @@ async function fetchPreviewHtml(url) {
     previewHtml.value    = html
     previewLoading.value = false
   } catch {
-    // Any network or parse error: degrade silently, show Pagefind excerpt
+
     previewLoading.value = false
   }
 }
@@ -1798,8 +1659,6 @@ function onResultCardBlur() {
   cardMarkCount.value  = 0
 }
 
-// cycleMatch — advances the active <mark> by delta (+1 or -1), wrapping at ends.
-// Skips gracefully when there are 0 or 1 marks (nothing to cycle).
 function cycleMatch(delta) {
   if (!focusedCardEl.value) return
   const marks = [...focusedCardEl.value.querySelectorAll('mark')]
@@ -1808,14 +1667,10 @@ function cycleMatch(delta) {
   activeMatchIndex.value = (activeMatchIndex.value + delta + marks.length) % marks.length
   const mark = marks[activeMatchIndex.value]
   mark.classList.add('mark--active')
-  // scrollIntoView uses 'nearest' so the results container scrolls only as much
-  // as needed — it won't yank the card to the top of the viewport.
+
   mark.scrollIntoView({ block: 'nearest', behavior: 'smooth' })
 }
 
-// focusIdleRow — DOM-position-aware navigation for .idle-row items in idle state.
-// Pressing ↑ from the first row returns focus to the search input (better UX than
-// staying stuck at row 0).
 function focusIdleRow(el, delta) {
   nextTick(() => {
     const rows = [...(resultsContainerRef.value?.querySelectorAll('.idle-row') ?? [])]
@@ -1828,10 +1683,6 @@ function focusIdleRow(el, delta) {
   })
 }
 
-// trapFocus — keeps Tab/Shift+Tab cycling within the modal so the EBA and topic
-// filter <select> elements are always reachable without the focus escaping.
-// Queries only visible elements (offsetWidth/Height check) so hidden settings-panel
-// items are excluded when the panel is closed.
 function trapFocus(e) {
   if (e.key !== 'Tab') return
   const modal = modalRef.value
@@ -1854,36 +1705,18 @@ function trapFocus(e) {
 }
 
 // ─── Pagefind prefetch + lazy init ───────────────────────────────────────────
-// Two-phase strategy:
-//   Phase 1 (onMounted): inject <link rel="prefetch"> tags so the browser
-//     queues a background fetch of pagefind.js and pagefind-entry.json into
-//     the HTTP cache. No module evaluation, no wasm. Zero blocking cost.
-//   Phase 2 (initPagefind): called from pointerenter/focus on the trigger
-//     button, or from openModal() as a guaranteed fallback. Performs the
-//     dynamic import() and pagefind.init() — both hit the HTTP cache because
-//     Phase 1 completed during idle time.
-//
-// pagefindInitPromise deduplicates concurrent callers (hover fires, then
-// focus fires 30ms later before the import resolves — both await the same
-// Promise rather than spawning two parallel imports).
 
 function prefetchPagefind() {
-  // Belt-and-suspenders: config.js already injects these tags at build time
-  // into every page's static <head>. This function is a runtime fallback for
-  // SPA navigations (VitePress swaps the <head> on client-side route changes)
-  // and for any environment where the build-time head injection didn't run
-  // (e.g. local dev without a production build).
+
   if (typeof document === 'undefined') return
-  // pagefind.js: inject as modulepreload so the browser parses the ES module
-  // into the module registry (not just downloads it). Deduplicates against
-  // the build-time tag config.js already injected into the static <head>.
+
   if (!document.querySelector('link[rel="modulepreload"][href="/pagefind/pagefind.js"]')) {
     const ml = document.createElement('link')
     ml.rel  = 'modulepreload'
     ml.href = '/pagefind/pagefind.js'
     document.head.appendChild(ml)
   }
-  // pagefind-entry.json: prefetch only (JSON data file, not an ES module).
+
   if (!document.querySelector('link[rel="prefetch"][href="/pagefind/pagefind-entry.json"]')) {
     const pf = document.createElement('link')
     pf.rel         = 'prefetch'
@@ -1895,10 +1728,9 @@ function prefetchPagefind() {
 }
 
 async function initPagefind() {
-  // Already initialised — nothing to do.
+
   if (pagefind) return
 
-  // Deduplicate: if another caller already started the init, await their Promise.
   if (pagefindInitPromise) {
     await pagefindInitPromise
     return
@@ -1924,36 +1756,26 @@ onMounted(() => {
   loadBookmarks()
   loadRecentlyViewed()
   loadSettings()
-
-  // Auto-open if the page URL contains search params — handles shared links
-  // (e.g. /?q=overtime&eba=nurses-midwives pasted into an email or Jira comment).
+  updateMobileSheet()
   if (typeof window !== 'undefined') {
+    if (window.visualViewport) window.visualViewport.addEventListener('resize', onVisualViewportResize)
     const p = new URLSearchParams(window.location.search)
     if (p.has('q') || p.has('eba') || p.has('topic')) nextTick(() => openModal())
-  }
-  // Phase 1: queue background preload of pagefind assets.
-  // modulepreload for pagefind.js — parses the module into the registry.
-  // prefetch for pagefind-entry.json — downloads the JSON index into cache.
-  prefetchPagefind()
-
-  // Phase 2: full idle-time init — import() + pagefind.init() + WASM fetch.
-  // Fires during the browser's first idle window after the page is interactive
-  // (typically 1–3 s after load). By the time the user presses Ctrl+K,
-  // Pagefind is fully initialised and pagefind.search() can be called with
-  // zero async startup cost.
-  // pagefindInitPromise deduplication means this is a no-op if pointerenter
-  // or openModal() already fired initPagefind() first.
-  // Safari <16.4 does not support requestIdleCallback — setTimeout(2000) fallback.
-  if (typeof window !== 'undefined') {
+    // Idle-time init; Safari <16.4 fallback to setTimeout.
     if ('requestIdleCallback' in window) {
       requestIdleCallback(() => initPagefind(), { timeout: 3000 })
     } else {
       setTimeout(() => initPagefind(), 2000)
     }
   }
+  prefetchPagefind()
+  window.addEventListener('resize', updateMobileSheet)
+  window.addEventListener('keydown', onKeydown)
+  window.addEventListener('open-search', openFromExternal)
+  window.addEventListener('close-search', close)
+  window.addEventListener('eba-bookmarks-updated', loadBookmarks)
 })
 
-// Called by RelatedClauses.vue "See all related pages" button via custom DOM event.
 function openFromExternal(e) {
   const detail = e?.detail ?? {}
   const { eba = '', topic = '' } = detail
@@ -1971,43 +1793,29 @@ function openFromExternal(e) {
 function openModal() {
   restoreEbaContext()   // must run before open.value = true so _pendingEbaFlash is set
                         // before watch(open) fires and checks it
-  // Guaranteed fallback: if the user opened the modal via Ctrl+K or the mobile
-  // tap path (no pointerenter/focus pre-warm), initPagefind() starts now.
-  // It deduplicates against any in-flight init from the hover/focus path.
+
   initPagefind()
   loadRecentlyViewed()   // refresh from localStorage so newly-visited pages appear
   open.value = true
   nextTick(() => {
     loadPersistedState()
-    // URL params override sessionStorage — consume them now, strip from URL.
-    // If URL had params but sessionStorage was empty (loadPersistedState didn't
-    // fire doSearch), queue a search so results appear immediately.
+
     if (readUrlParams()) nextTick(() => doSearch())
     if (!isMobileSheet.value) inputRef.value?.focus()
   })
 }
 
 // ─── TTL-gated EBA context restore ───────────────────────────────────────────
-// Silently pre-populates the EBA filter if the advisor closed the modal within
-// the last 30 seconds. Does NOT trigger a search — the user types their own
-// next query with the filter already set. Fires only when no EBA filter is
-// already active (loadPersistedState may have set one via the query-restore path).
-// NOTE: does not attempt to flash the select here — the entire modal DOM is
-// destroyed/recreated via v-if="open", so #eba-filter does not exist yet when
-// this function runs inside nextTick(). Instead, _pendingEbaFlash signals
-// watch(open) to fire the flash after the element is guaranteed to exist.
 function restoreEbaContext() {
   try {
     const raw = sessionStorage.getItem(SESSION_EBA_CONTEXT_KEY)
     if (!raw) return
     const { eba, ts } = JSON.parse(raw)
     if (!eba || (Date.now() - ts) > EBA_CONTEXT_TTL_MS) return
-    // Guard: if a *different* EBA is already set (e.g. openFromExternal set one),
-    // do not overwrite it. But if selectedEba already matches (because close() does
-    // not clear it), still fire the flash — that is the normal return path.
+
     if (selectedEba.value && selectedEba.value !== eba) return
     selectedEba.value = eba
-    _pendingEbaFlash  = true   // consumed by watch(open) once the DOM exists
+    _pendingEbaFlash  = true
   } catch { /* corrupt entry — degrade silently */ }
 }
 
@@ -2027,14 +1835,12 @@ function readUrlParams() {
   if (q)     query.value         = q
   if (eba)   selectedEba.value   = EBA_SLUG_MAP[eba] ?? eba
   if (topic) selectedTopic.value = topic
-  // Strip params — consumed once; should not re-apply on next openModal() call.
+
   const clean = window.location.pathname + window.location.hash
   window.history.replaceState({}, '', clean)
   return true
 }
 
-// buildShareUrl() — constructs a shareable URL encoding the current search state.
-// Always points to the site root (/) so the link works from any page in the wiki.
 function buildShareUrl() {
   const params = new URLSearchParams()
   if (query.value.trim())  params.set('q',     query.value.trim())
@@ -2044,7 +1850,6 @@ function buildShareUrl() {
   return `${window.location.origin}/${qs ? '?' + qs : ''}`
 }
 
-// copySearchLink() — copies the shareable URL to clipboard; shows ✓ for 2 s.
 async function copySearchLink() {
   try {
     await navigator.clipboard.writeText(buildShareUrl())
@@ -2058,9 +1863,7 @@ watch(open, async (val) => {
     await nextTick()
     if (!isMobileSheet.value) inputRef.value?.focus()
     document.body.style.overflow = 'hidden'
-    // Fire the EBA filter flash if restoreEbaContext() requested it.
-    // By the time watch(open) runs after await nextTick(), the v-if="open"
-    // DOM subtree is fully inserted and #eba-filter is guaranteed to exist.
+
     if (_pendingEbaFlash) {
       _pendingEbaFlash = false
       ebaFilterFlash.value = true
@@ -2074,8 +1877,6 @@ watch(open, async (val) => {
 })
 
 // ─── EBA shortcut index (Alt+1 through Alt+9) ────────────────────────────────
-// Order matches ebaList exactly — index 0 = Alt+1, index 8 = Alt+9.
-// Kept here so it is co-located with the keyboard handler that uses it.
 const EBA_SHORTCUT_LIST = [
   'Allied Health Professionals 2021-2026',
   'Biomedical Engineers 2025-2028',
@@ -2089,14 +1890,12 @@ const EBA_SHORTCUT_LIST = [
 ]
 
 function applyEbaShortcut(ebaName) {
-  // Toggle: if the shortcut EBA is already active, clear it; otherwise set it.
+
   const newValue = selectedEba.value === ebaName ? '' : ebaName
   selectedEba.value = newValue
 
-  // If there is already a query, re-run search with the new filter
   if (query.value.trim().length > 0) doSearch()
 
-  // Brief flash on the EBA filter element so the user gets visual confirmation
   ebaFilterFlash.value = true
   setTimeout(() => { ebaFilterFlash.value = false }, 400)
 }
@@ -2104,7 +1903,7 @@ function applyEbaShortcut(ebaName) {
 function onKeydown(e) {
   if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
     e.preventDefault()
-    // Close the search modal if it is open, then open the Ask AI panel.
+
     if (open.value) close()
     window.dispatchEvent(new CustomEvent('open-ask-panel'))
   }
@@ -2114,13 +1913,7 @@ function onKeydown(e) {
   }
   if (e.key === 'Escape' && open.value) close()
 
-  // ── Shift+F1–F9: EBA filter shortcuts — only fire when modal is open ──────
-  // Alt+digit is consumed by Firefox at the OS level. Ctrl+digit switches browser
-  // tabs. Shift+digit interferes with typing in the search input.
-  // Shift+F1–F9 reaches the window keydown listener cleanly in all browsers and
-  // does not conflict with any browser UI. The only known conflict is DevTools
-  // internal shortcuts, but DevTools is never open during normal wiki use.
-  // No isTyping() guard needed — Shift+F-key never inserts characters anywhere.
+  // ── Shift+F1–F9: EBA filter shortcuts ───────────────────────────────────────
   if (e.shiftKey && !e.ctrlKey && !e.metaKey && !e.altKey && open.value) {
     const codeMatch = e.code.match(/^F([1-9])$/)
     if (codeMatch) {
@@ -2129,10 +1922,7 @@ function onKeydown(e) {
     }
   }
 
-  // ── ArrowLeft / ArrowRight: cycle marks within the focused result card ─────
-  // Only fires when the modal is open, no operator dropdown is showing, and a
-  // result card (not the input) is the active element. This lets the input field
-  // still use ←/→ to move its text cursor normally.
+  // ── ArrowLeft/Right: cycle marks on the focused result card ─────────────────
   if (
     open.value &&
     !operatorHint.value &&
@@ -2149,21 +1939,7 @@ function onKeydown(e) {
     }
   }
 }
-onMounted(() => {
-  updateMobileSheet()
-  window.addEventListener('resize', updateMobileSheet)
-  if (typeof window !== 'undefined' && window.visualViewport) {
-    window.visualViewport.addEventListener('resize', onVisualViewportResize)
-  }
-  window.addEventListener('keydown', onKeydown)
-  window.addEventListener('open-search', openFromExternal)
-  // close-search: dispatched by GuidedTour.vue to close the modal without
-  // simulating Escape (which would trigger the tour's own Escape handler).
-  window.addEventListener('close-search', close)
-  // Keep bookmark list fresh when BookmarkButton.vue saves/removes a bookmark
-  // while the modal is open (e.g. user bookmarks a page, then opens the modal).
-  window.addEventListener('eba-bookmarks-updated', loadBookmarks)
-})
+
 onUnmounted(() => {
   window.removeEventListener('resize', updateMobileSheet)
   if (typeof window !== 'undefined' && window.visualViewport) {
@@ -2212,10 +1988,6 @@ const EBA_SLUG_MAP = {
 }
 
 // ─── Advanced search: query parser ───────────────────────────────────────────
-// Accepts the raw value from the search input and returns:
-//   cleanQuery  — the string to pass to pagefind.search() (operators stripped)
-//   operators   — structured object with resolved filter values, exclude list, etc.
-//   hasPills    — true when any operator was found (drives pill row visibility)
 function parseQuery(raw) {
   let working   = raw
   const ops = {
@@ -2228,14 +2000,11 @@ function parseQuery(raw) {
     hasPills: false,
   }
 
-  // 1. Extract quoted phrases — keep them in cleanQuery verbatim (Pagefind handles them natively)
-  //    but also record them so we can show phrase pills.
   working = working.replace(/"([^"]+)"/g, (match, phrase) => {
     if (phrase.trim().length > 0) ops.phrases.push(phrase.trim())
     return match // keep in working string — Pagefind understands "..."
   })
 
-  // 2. eba: operator
   working = working.replace(/\beba:(\S+)/gi, (_, slug) => {
     const resolved = EBA_SLUG_MAP[slug.toLowerCase()]
     if (resolved) {
@@ -2254,21 +2023,16 @@ function parseQuery(raw) {
     return ''
   })
 
-  // 4. clause: operator
   working = working.replace(/\bclause:(\w+)/gi, (_, num) => {
     ops.clause = num
     return ''
   })
 
-  // 5. -exclude operator — words prefixed with a hyphen (not part of a quoted phrase)
-  //    Only match bare -word tokens, not hyphens inside words (e.g. part-time).
-  //    We look for a hyphen preceded by a word boundary or start/space.
   working = working.replace(/(?:^|\s)-([a-zA-Z]\w*)/g, (_, word) => {
     ops.exclude.push(word.toLowerCase())
     return ' '
   })
 
-  // 6. Clean up the remaining query string
   const cleanQuery = working.replace(/\s{2,}/g, ' ').trim()
 
   ops.hasPills = !!(ops.eba || ops.topic || ops.clause || ops.exclude.length || ops.phrases.length)
@@ -2277,31 +2041,17 @@ function parseQuery(raw) {
 }
 
 // ─── Title-match relevance scorer ─────────────────────────────────────────────
-// Rates how strongly a result's page title matches the active query words.
-// Called by doSearch() to apply a second-pass sort on top of Pagefind's TF-IDF.
-//
-// Two components:
-//   specificity — fraction of meaningful title words that ARE query words.
-//                 High specificity = this page IS the topic, not just references it.
-//                 "Overtime" for query "overtime"                    → 1.00
-//                 "Rest Period After Overtime/Recall - Ten Hour Break" → 0.13
-//   allPresent  — bonus (+1) when every query word appears in the title.
-//
-// Returns 0 when queryWords is empty or no title match exists — safe no-op
-// when called during filter-only searches.
 function computeTitleScore(result, queryWords) {
   if (!queryWords.length) return 0
   const rawTitle = result.meta?.title || ''
   if (!rawTitle) return 0
   const title = rawTitle.toLowerCase()
 
-  // Strip leading clause number ("49. ", "38D. ") — not a meaningful content word.
   const titleContent = title.replace(/^\d+[a-z]*[.\s]+/i, '')
-  // Split on whitespace, slashes, hyphens, punctuation; keep words ≥ 3 chars.
+
   const titleWords = titleContent.split(/[\s/\-,().]+/).filter(w => w.length >= 3)
   if (titleWords.length === 0) return 0
 
-  // Count query words found in the title (whole-word prefix match).
   const matchCount = queryWords.filter(qw => {
     const escaped = qw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
     return new RegExp(`\\b${escaped}`, 'i').test(title)
@@ -2316,14 +2066,11 @@ function computeTitleScore(result, queryWords) {
 }
 
 // ─── Computed: reactively parse operators as user types ───────────────────────
-// Used by the pills row in the template. Does NOT re-run search — doSearch()
-// reads the same parser output when it fires.
 const parsedOperators = computed(() => {
   return parseQuery(query.value).operators
 })
 
 // ─── Pill: EBA brand colour style ────────────────────────────────────────────
-// EBA operator pills use the EBA's own brand colour (Option A).
 function opPillEbaStyle(resolvedEbaName) {
   const c = ebaColors[resolvedEbaName]
   if (!c) return {}
@@ -2335,16 +2082,6 @@ function opPillEbaStyle(resolvedEbaName) {
 }
 
 // ─── Operator hint autocomplete ───────────────────────────────────────────────
-// Detects whether the tail of the raw query is an incomplete eba: or topic:
-// token (i.e. the last whitespace-delimited token starts with eba: or topic:
-// and the user has not yet moved on by typing a space after a valid value).
-//
-// Returns null when no hint should show, or an object:
-//   { type: 'eba'|'topic', fragment: string, items: Array }
-//
-// For eba: — items is one entry per unique EBA, using the canonical (shortest)
-//   slug as the primary label, full EBA name as secondary text.
-// For topic: — items is the filtered topicList array (plain strings).
 const operatorHint = computed(() => {
   const raw   = query.value
   if (!raw) return null
@@ -2358,8 +2095,6 @@ const operatorHint = computed(() => {
   if (ebaMatch) {
     const fragment = ebaMatch[1].toLowerCase()
 
-    // Build one row per EBA: pick the canonical slug (shortest key that maps
-    // to this EBA name) so the hint always shows the most natural alias.
     const seen      = new Map()  // fullName → canonicalSlug
     for (const [slug, fullName] of Object.entries(EBA_SLUG_MAP)) {
       if (!seen.has(fullName) || slug.length < seen.get(fullName).length) {
@@ -2402,9 +2137,6 @@ const CHEATSHEET_OPS = [
 ]
 
 // ─── Operator cheatsheet — triggered by a bare ':' as the last query token ───
-// Shows when operatorHint is null (no specific eba:/topic: prefix yet typed)
-// and the last whitespace-delimited token is exactly ':'. Gives a one-click
-// insert surface for all five operators without requiring any documentation.
 const operatorCheatsheet = computed(() => {
   if (operatorHint.value !== null)  return false   // specific hint takes priority
   const raw = query.value
@@ -2414,9 +2146,6 @@ const operatorCheatsheet = computed(() => {
 })
 
 // ─── Position the hint dropdown below the search input ───────────────────────
-// Called reactively via a watch on operatorHint — positions the Teleported
-// dropdown using the input element's bounding rect, same pattern as the
-// floating preview pane. Must be called after nextTick so the DOM is ready.
 function positionHint() {
   if (!inputRef.value) return
   const rect          = inputRef.value.getBoundingClientRect()
@@ -2430,8 +2159,6 @@ function positionHint() {
 }
 
 // ─── Complete an operator hint item into the query ────────────────────────────
-// Replaces the incomplete tail token with the completed value and a trailing
-// space, then fires debouncedSearch() so the new operator takes effect.
 function acceptHint(item) {
   const tokens    = query.value.split(/\s+/)
   const prefix    = tokens.slice(0, -1)   // everything before the tail token
@@ -2454,9 +2181,6 @@ function dismissHint() {
 }
 
 // ─── Insert an operator prefix from the cheatsheet ───────────────────────────
-// Replaces the bare ':' tail token with the chosen prefix (e.g. 'eba:'), then
-// focuses the input so the user continues typing. For eba: and topic:, the
-// existing operatorHint autocomplete takes over immediately after insertion.
 function insertOperator(prefix) {
   const tokens = query.value.split(/\s+/)
   tokens[tokens.length - 1] = prefix
@@ -2483,22 +2207,21 @@ watch([operatorHint, operatorCheatsheet], ([hint, sheet]) => {
 })
 
 // ─── Dismiss an operator token from the raw query string ─────────────────────
-// Removes the token text from query.value, then re-runs search.
 function dismissOperator(type, value) {
   let q = query.value
   if (type === 'eba') {
-    // Remove eba:<anything> token
+
     q = q.replace(/\beba:\S+/gi, '')
   } else if (type === 'topic') {
     q = q.replace(/\btopic:\S+/gi, '')
   } else if (type === 'clause') {
     q = q.replace(/\bclause:\w+/gi, '')
   } else if (type === 'exclude') {
-    // Remove -word token (preceded by space or start)
+
     const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
     q = q.replace(new RegExp(`(?:^|\\s)-${escaped}(?=\\s|$)`, 'gi'), ' ')
   } else if (type === 'phrase') {
-    // Remove "phrase" token
+
     const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
     q = q.replace(new RegExp(`"${escaped}"`, 'g'), '')
   }
@@ -2508,9 +2231,6 @@ function dismissOperator(type, value) {
 }
 
 // ─── Dismiss a single dropdown filter ────────────────────────────────────────
-// Called by the dropdown EBA/topic pills in the unified active filters bar.
-// Clears the relevant ref and re-runs search, mirroring dismissOperator() but
-// for selectedEba/selectedTopic rather than query string tokens.
 function dismissDropdown(type) {
   if (type === 'eba')   selectedEba.value   = ''
   if (type === 'topic') selectedTopic.value = ''
@@ -2520,7 +2240,7 @@ function dismissDropdown(type) {
 
 // ─── Clear all operator tokens from the query string ─────────────────────────
 function clearAllOperators() {
-  // Strip all operator tokens from the query string
+
   let q = query.value
   q = q.replace(/\beba:\S+/gi, '')
   q = q.replace(/\btopic:\S+/gi, '')
@@ -2528,7 +2248,7 @@ function clearAllOperators() {
   q = q.replace(/(?:^|\s)-[a-zA-Z]\w*/g, ' ')
   q = q.replace(/"[^"]*"/g, '')
   query.value = q.replace(/\s{2,}/g, ' ').trim()
-  // Also clear the dropdown filters — "Clear all" means everything
+
   selectedEba.value   = ''
   selectedTopic.value = ''
   doSearch()
@@ -2536,10 +2256,6 @@ function clearAllOperators() {
 }
 
 // ─── Search ───────────────────────────────────────────────────────────────────
-// Pre-warms Pagefind's internal chunk cache on the first keystroke, before the
-// debounce window expires. Uses only the first 3 characters so the fetch is fast
-// and targets the same chunks doSearch() will need. Fire-and-forget — no state
-// changes, no error handling required.
 function warmupSearch() {
   const fragment = query.value.trim()
   if (!pagefind || fragment.length < 2) return
@@ -2557,9 +2273,7 @@ function clearQuery() {
 
 function debouncedSearch() {
   clearTimeout(searchTimer)
-  // Adaptive debounce: shorter delay for longer queries where Pagefind
-  // chunk cache is likely warm; longer delay for short fragments to avoid
-  // firing on every intermediate keystroke from slower typists.
+
   const len   = query.value.trim().length
   const delay = len >= 6 ? 120 : len >= 3 ? 220 : 380
   searchTimer = setTimeout(doSearch, delay)
@@ -2570,14 +2284,9 @@ async function doSearch() {
   fuzzyQuery.value   = ''
   suggestions.value  = []
 
-  // ── Parse advanced operators out of the raw query ──────────────────────────
   const { cleanQuery, operators } = parseQuery(query.value)
 
-  // ── Promote eba: and topic: operators into their dropdown equivalents ──────
-  // When the user types eba:<slug> or topic:<value> and it resolves, we sync
-  // the corresponding dropdown ref and strip the token from the query string.
-  // This makes both operators fast-fill shortcuts for the dropdowns rather than
-  // parallel filters, eliminating any dual-source scenario.
+  // Promote eba:/topic: operators to dropdown equivalents
   let needsReparse = false
   if (operators.eba && operators.eba !== selectedEba.value) {
     selectedEba.value = operators.eba
@@ -2594,7 +2303,6 @@ async function doSearch() {
     Object.assign(operators, reparsed.operators)
   }
 
-  // Guard: nothing to search
   if (!pagefind || (cleanQuery.length < 2 && !operators.clause && !selectedEba.value && !selectedTopic.value)) {
     results.value = []
     return
@@ -2603,22 +2311,14 @@ async function doSearch() {
   loading.value    = true
   skeletonCount.value = 0   // reset before new search
 
-  // ── Build Pagefind filter object ───────────────────────────────────────────
-  // Dropdown values take precedence over operator values when both are set,
-  // because the user explicitly chose from the dropdown. Operator fills the
-  // gap when the dropdown is on "All EBAs" / "All Topics".
+  // Build filter object
   const filters = {}
   const activeEba   = selectedEba.value   || null
   const activeTopic = selectedTopic.value || null
   if (activeEba)   filters.eba    = activeEba
   if (activeTopic) filters.topics = activeTopic
 
-  // ── Build the Pagefind query string ───────────────────────────────────────
-  // If clause: operator present, prepend the clause number to the clean query
-  // so Pagefind scores title matches (which contain the clause number) very highly.
-  // In exact mode, wrap the clean query in quotes to force Pagefind phrase matching.
-  // Guards: skip when clause: operator is active (it targets title tokens, not prose phrases),
-  // when pfQuery is null (filter-only search), or when the user already typed quotes manually.
+  // Build Pagefind query string
   let pfQuery = operators.clause
     ? [operators.clause, cleanQuery].filter(Boolean).join(' ')
     : cleanQuery || null
@@ -2630,19 +2330,11 @@ async function doSearch() {
   try {
     const search = await pagefind.search(pfQuery, { filters, excerptLength: 45 })
 
-    // ── Show skeleton cards immediately — count is known from stubs ───────
-    // Stubs are available instantly; .data() calls happen below.
-    // Setting skeletonCount here and clearing loading lets Vue render the
-    // shimmer grid before the slower per-card data fetches complete.
     const stubSlice = search.results.slice(0, 12)
     skeletonCount.value = stubSlice.length
     loading.value       = false
 
-    // ── Exact phrase boost ────────────────────────────────────────────────
-    // Sources, in priority order:
-    //   1. Quoted phrases from the operator parser  ("annual leave")
-    //   2. The cleanQuery itself, when multi-word   (ordinary multi-word search)
-    // All phrase searches run in parallel. exactIds is the union of all hits.
+    // Exact phrase boost — run in parallel
     let exactIds = new Set()
     const phraseQueries = [
       // Operator phrases — already quoted by the user
@@ -2673,7 +2365,6 @@ async function doSearch() {
       .filter(s => s.status === 'fulfilled')
       .map(s => s.value)
 
-    // ── Filter-only sort (unchanged from original) ─────────────────────────
     const isFilterOnly = !cleanQuery.trim() && !operators.clause && (activeTopic || activeEba)
     if (isFilterOnly && activeTopic) {
       const topic = activeTopic.toLowerCase().replace(/-/g, ' ')
@@ -2687,10 +2378,7 @@ async function doSearch() {
       allResults.sort((a, b) => score(b) - score(a))
     }
 
-    // ── Post-filter: apply -exclude words ─────────────────────────────────
-    // Pagefind has no native NOT. We remove any result whose title or excerpt
-    // contains an excluded word. This operates on the returned excerpt only,
-    // not the full page text, but is accurate enough to be useful.
+    // Post-filter: -exclude words
     let filtered = allResults
     if (operators.exclude.length > 0) {
       filtered = allResults.filter(r => {
@@ -2704,22 +2392,7 @@ async function doSearch() {
 
     skeletonCount.value = 0
 
-    // ── Title-match re-ranking ────────────────────────────────────────────
-    // Pagefind's TF-IDF can be dominated by subsidiary clauses that heavily
-    // reference their parent topic in body text (e.g. "Cashing Out of Annual
-    // Leave" mentioning "annual leave" 15+ times outranking "Annual Leave").
-    //
-    // This second-pass sort uses computeTitleScore() to promote pages whose
-    // titles ARE the query topic above pages that merely discuss it.
-    //
-    // Sort priority (descending):
-    //   1. Exact phrase matches (exactIds) — always floated to the top
-    //   2. Title relevance score          — higher specificity wins
-    //   3. Pagefind's original TF-IDF     — stable tiebreaker for equal scores
-    //      (JavaScript Array.sort is stable; equal scores preserve entry order)
-    //
-    // Skipped for filter-only searches (no cleanQuery to extract words from)
-    // and for very short queries where title scoring would be unreliable.
+    // Title-match re-ranking
     if (!isFilterOnly && cleanQuery.trim().length >= 2) {
       const queryWords = cleanQuery.toLowerCase()
         .split(/\s+/)
@@ -2735,16 +2408,7 @@ async function doSearch() {
       }
     }
 
-    // ── G3: Result diversification ────────────────────────────────────────
-    // Prevents any single EBA monopolising top positions for broad queries.
-    // For the first DIVERSITY_WINDOW results, each EBA is capped at
-    // MAX_PER_EBA appearances. Results beyond the cap are appended after
-    // the diverse top slice in their original sorted order.
-    //
-    // Skipped when:
-    //   - An EBA filter is active — user explicitly wants single-EBA results
-    //   - Filter-only search — no query to diversify against
-    //   - Result set is too small to be worth reordering
+    // Result diversification (MAX_PER_EBA per EBA in top DIVERSITY_WINDOW)
     const MAX_PER_EBA      = 2
     const DIVERSITY_WINDOW = 8
     if (!isFilterOnly && !activeEba && filtered.length > MAX_PER_EBA) {
@@ -2766,10 +2430,6 @@ async function doSearch() {
 
     results.value = filtered
 
-    // ── Smart suggestions ─────────────────────────────────────────────────
-    // Always build when query is long enough — panel is a persistent refinement
-    // tool. Pass operators so eba:/topic: tokens suppress the same filter type
-    // as dropdown suppression — no point suggesting what the user already typed.
     suggestions.value = cleanQuery.trim().length >= 4
       ? buildSuggestions(query.value, results.value.length, operators)
       : []
@@ -2778,14 +2438,11 @@ async function doSearch() {
       await runFuzzyFallback(cleanQuery.trim(), filters)
     }
 
-    // Log the clean query (without operators) for analytics — operators are
-    // implicit in the eba/topic values we already log.
     logSearch('search', cleanQuery || query.value, activeEba || '', activeTopic || '', results.value.length)
   } catch (err) {
     results.value       = []
     skeletonCount.value = 0
-    // ── Telemetry: Pagefind hard failure ──────────────────────────────────
-    // Console for devtools visibility; analytics worker for operational dashboards.
+
     console.error('[SearchModal] Pagefind search failed:', err)
     try {
       logSearch('search_error', query.value, activeEba || '', activeTopic || '', -1)
@@ -2818,23 +2475,17 @@ async function runFuzzyFallback(originalQuery, filters) {
 }
 
 // ─── Highlight URL builder ────────────────────────────────────────────────────
-// Word priority (highest → lowest):
-//   1. Quoted phrase words — most precise, user explicitly grouped these
-//   2. cleanQuery words    — what Pagefind actually searched
-//   3. fuzzyQuery words    — stem that matched when cleanQuery returned zero
-// Excerpt is NOT used — it contains surrounding context words, not intent words.
 function buildHighlightUrl(result) {
   const baseUrl = result.url
   if (!baseUrl) return baseUrl ?? ''
 
-  // ── Collect words from each source in priority order ─────────────────────
   const seen  = new Set()
   const words = []
 
   function addWords(str) {
     if (!str) return
     str.trim().split(/\s+/).forEach(w => {
-      // Strip punctuation, require ≥ 3 alphanumeric chars
+
       const clean = w.replace(/[^a-zA-Z0-9]/g, '')
       if (clean.length >= 3 && !seen.has(clean.toLowerCase())) {
         seen.add(clean.toLowerCase())
@@ -2843,23 +2494,18 @@ function buildHighlightUrl(result) {
     })
   }
 
-  // 1. Quoted phrase words (strip surrounding quotes, split on spaces)
   const { operators } = parseQuery(query.value)
   operators.phrases.forEach(phrase => addWords(phrase))
 
-  // 2. cleanQuery words
   const { cleanQuery } = parseQuery(query.value)
   addWords(cleanQuery)
 
-  // 3. Fuzzy stem words (only when fuzzy fallback is active for this result)
   if (fuzzyQuery.value && fuzzyResults.value.some(r => r.url === result.url)) {
     addWords(fuzzyQuery.value)
   }
 
   if (words.length === 0) return baseUrl
 
-  // Cap at 6 words — enough for precise node scoring, short enough to stay
-  // under URL length limits even on long clause page paths.
   const phrase = words.slice(0, 6).join(' ')
 
   try {
@@ -3214,12 +2860,7 @@ function handleResultClick(result) {
   transform:  rotate(60deg);
 }
 
-/* ── Clear query button ────────────────────────────────────────────────────────
-   Always visible at the far right of the search input bar.
-   Inactive: 35% opacity, pointer-events disabled — recedes without disappearing.
-   Active: full opacity when the user has typed a query; hover brightens the icon
-   only — no background fill, matching the no-chrome aesthetic of the gear button.
-──────────────────────────────────────────────────────────────────────────────── */
+/* Clear query button */
 .clear-query-btn {
   flex-shrink:     0;
   display:         flex;
@@ -3496,12 +3137,7 @@ function handleResultClick(result) {
   border:        1px solid var(--vp-c-divider);
 }
 
-/* ── Bookmark-row modifier ──────────────────────────────────────────────────
-   Applied only to bookmark entries in the idle state. Switches alignment to
-   flex-start so the icon and EBA pill sit at the top of the row when a note
-   is present on the second line, and colours the icon amber to match the
-   BookmarkButton active state.
-────────────────────────────────────────────────────────────────────────── */
+/* Bookmark-row modifier */
 .idle-row--bm {
   align-items: flex-start;
 }
@@ -3751,10 +3387,7 @@ function handleResultClick(result) {
 .view-more-btn:focus-visible   { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
 
 /* ── Operator hint footer bar ────────────────────────────────────────────────── */
-/* ── Keyboard-hint footer bar ─────────────────────────────────────────────────
-   Dark pill spanning the modal footer. Matches FMHY search footer aesthetic.
-   aria-hidden on the element — purely visual, screen readers ignore it.
-──────────────────────────────────────────────────────────────────────────────── */
+/* Keyboard-hint footer bar */
 .search-footer-hint {
   flex-shrink:     0;
   display:         flex;
@@ -4299,11 +3932,7 @@ function handleResultClick(result) {
   border-top:  1px solid var(--vp-c-divider);
 }
 
-/* ── Preview rendered clause content ─────────────────────────────────────────
-   Reuses VitePress's global .vp-doc class for base styles, then scales
-   everything down to fit the narrower pane. Links are pointer-events:none
-   because the preview is read-only — use "Open page" to navigate.
-──────────────────────────────────────────────────────────────────────────── */
+/* Preview rendered clause content */
 .preview-content.vp-doc {
   font-size:   0.78rem;
   line-height: 1.6;
@@ -4349,9 +3978,7 @@ function handleResultClick(result) {
   padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; margin: 0.4rem 0;
 }
 
-/* ── Preview loading shimmer ─────────────────────────────────────────────────
-   Animated placeholder shown during the 200ms debounce + fetch period.
-──────────────────────────────────────────────────────────────────────────── */
+/* Preview loading shimmer */
 .preview-shimmer {
   display:        flex;
   flex-direction: column;

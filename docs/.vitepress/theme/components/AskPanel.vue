@@ -366,7 +366,6 @@ const MAX_CHATS        = 10
 const MAX_HIST_PAIRS   = 3   // up to 3 user+assistant pairs sent as history
 
 // ─── Filter option lists ───────────────────────────────────────────────────────
-// Values must match the ebaColors key names used in SearchModal / the worker.
 const EBA_OPTIONS = [
   { value: '',                                            label: 'All EBAs'            },
   { value: 'Allied Health Professionals 2021-2026',       label: 'Allied Health'        },
@@ -409,14 +408,6 @@ const titleAreaRef = ref(null)
 const dropdownRef  = ref(null)
 
 // ─── Chat data ─────────────────────────────────────────────────────────────────
-// Shape: Array<{
-//   id: string, title: string, scope: 'page'|'wiki',
-//   pageUrl: string, pageTitle: string,
-//   passageContext: string,
-//   createdAt: string,
-//   filterEba: string, filterEmploymentType: string,
-//   messages: Array<{ role: 'user'|'assistant', content: string, hedging?: boolean, timestamp: string }>
-// }>
 const chats        = ref([])
 const activeChatId = ref(null)
 
@@ -949,21 +940,10 @@ onUnmounted(() => {
 })
 </script>
 
-<!-- ══ Global styles (non-scoped) ══════════════════════════════════════════════
-     These rules style the "Ask AI" nav button injected by index.js.
-     They must be non-scoped to escape the component's CSS isolation.
-     The panel itself is a fixed overlay; no layout condensing is applied.
-════════════════════════════════════════════════════════════════════════════════ -->
+<!-- Global styles (non-scoped): Ask AI nav button -->
 <style>
-/* ── Page condensing (desktop only) ─────────────────────────────────────────────
-   Reduce the WIDTH of the content and the fixed nav bar rather than adding a
-   right margin. margin-right on a width:100% element pushes total width past the
-   viewport and causes the horizontal overflow we saw. Constraining width keeps
-   everything inside the viewport and genuinely condenses the reading column.
-   The panel (position:fixed, right:0) then occupies the freed-up right strip.
-   Only applies >=900px; below that the panel is a bottom sheet and nothing moves. */
-/* Panel is a fixed overlay — page content and nav bar are intentionally
-   left at full width. The panel slides in over the top of the content. */
+
+/* Panel: fixed overlay, slides over content. */
 
 /* ── Ask AI nav button (rendered inline in index.js Layout) ─────────────────── */
 .ask-ai-nav-btn {
@@ -1000,7 +980,7 @@ onUnmounted(() => {
 /* Allow the small outer star paths to animate outside the SVG bounding box */
 .ask-nav-sparkle-svg { overflow: visible; }
 
-/* Small blinking stars — alternate timing creates a twinkling effect */
+/* Small blinking stars */
 .ask-nav-star-sm {
   animation: ask-nav-star-blink 2.8s ease-in-out infinite;
 }
@@ -1090,8 +1070,7 @@ onUnmounted(() => {
 }
 </style>
 
-
-<!-- ══ Scoped styles ═══════════════════════════════════════════════════════════ -->
+<!-- Scoped styles -->
 <style scoped>
 /* ── Panel shell ─────────────────────────────────────────────────────────────── */
 .ask-panel {
@@ -1850,9 +1829,7 @@ onUnmounted(() => {
 .ap-send-btn:hover:not(:disabled) { background: var(--vp-c-brand-2, var(--vp-c-brand-1)); filter: brightness(1.1); }
 .ap-send-btn:disabled             { opacity: 0.38; cursor: not-allowed; }
 
-/* ── Panel-wide keyboard focus ring ─────────────────────────────────────────── */
-/* Covers all interactive elements in AskPanel not handled by individual rules.  */
-/* Vue's scoped attribute hash scopes this to the component automatically.       */
+/* Panel-wide keyboard focus ring */
 button:focus-visible,
 a:focus-visible,
 [tabindex="0"]:focus-visible {
