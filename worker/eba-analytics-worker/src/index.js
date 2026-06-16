@@ -19,6 +19,12 @@
 //   - Session IDs are client-generated random ULIDs (not cookies)
 //   - Referrers normalised: internal path stored as-is; external → "external"
 //   - All KV writes use expirationTtl of 90 days (7,776,000 seconds)
+//
+// Subrequest strategy:
+//   Event data is stored as KV *metadata* as well as the value body.
+//   handleGetAnalytics reads metadata from list() only — zero get() calls.
+//   This keeps subrequests at 3 per invocation (one list per namespace)
+//   regardless of how many entries exist, avoiding the 1000-subrequest cap.
 // =============================================================================
 
 const TTL_90_DAYS = 7_776_000
@@ -31,9 +37,6 @@ const CORS_ORIGINS = [
 
 // -----------------------------------------------------------------------------
 // ULID — lightweight unique ID generator (no dependencies)
-// Used to generate unique KV keys for each event.
-// Format: timestamp prefix (10 chars) + random suffix (16 chars) = 26 chars
-// Lexicographically sortable by time, which lets us list KV keys in order.
 // -----------------------------------------------------------------------------
 function ulid() {
   const CHARS = '0123456789ABCDEFGHJKMNPQRSTVWXYZ'
@@ -52,14 +55,10 @@ function ulid() {
 
 // -----------------------------------------------------------------------------
 // User-Agent parser
-// Extracts browser name and device type from the raw UA string.
-// The raw UA string is NEVER stored — only the two derived values below.
-// Returns: { browser: string, device: 'mobile'|'tablet'|'desktop' }
 // -----------------------------------------------------------------------------
 function parseUA(ua) {
   if (!ua) return { browser: 'Unknown', device: 'desktop' }
 
-  // Device type — order matters: tablet check before mobile
   let device = 'desktop'
   if (/tablet|ipad|playbook|silk/i.test(ua)) {
     device = 'tablet'
@@ -67,7 +66,6 @@ function parseUA(ua) {
     device = 'mobile'
   }
 
-  // Browser name — order matters: Edge before Chrome, Chrome before Safari
   let browser = 'Other'
   if (/edg\//i.test(ua))            browser = 'Edge'
   else if (/opr\//i.test(ua))       browser = 'Opera'
@@ -81,9 +79,6 @@ function parseUA(ua) {
 
 // -----------------------------------------------------------------------------
 // Referrer normaliser
-// Keeps internal wiki paths (e.g. /ebas/allied-health/allowances/33-foo)
-// Collapses all external referrers to the string "external"
-// Never stores full external URLs
 // -----------------------------------------------------------------------------
 function normaliseReferrer(ref) {
   if (!ref) return ''
@@ -94,18 +89,16 @@ function normaliseReferrer(ref) {
       'localhost',
     ]
     if (internalHosts.some(h => url.hostname.includes(h))) {
-      // Return path only — strip query strings and hashes
       return url.pathname
     }
     return 'external'
   } catch {
-    // If URL parsing fails, treat as internal relative path
     return ref.startsWith('/') ? ref : 'external'
   }
 }
 
 // -----------------------------------------------------------------------------
-// Date helpers — all dates in YYYY-MM-DD (UTC) for KV key bucketing
+// Date helpers
 // -----------------------------------------------------------------------------
 function todayUTC() {
   return new Date().toISOString().slice(0, 10)
@@ -135,7 +128,6 @@ function jsonResponse(data, status = 200, origin = '') {
 
 // -----------------------------------------------------------------------------
 // Auth check for GET /analytics
-// Validates Bearer token against the ADMIN_TOKEN Worker secret
 // -----------------------------------------------------------------------------
 function isAuthorised(request, env) {
   const auth = request.headers.get('Authorization') || ''
@@ -143,13 +135,36 @@ function isAuthorised(request, env) {
   return token === env.ADMIN_TOKEN
 }
 
+// -----------------------------------------------------------------------------
+// ← NEW: listAllMetadata — reads all entries from a KV namespace using only
+// list() calls (no get() calls). Each page costs 1 subrequest; a namespace
+// with 5000 entries uses 5 subrequests instead of 5000.
+// Only entries written after this deploy will have metadata; older entries
+// are silently skipped (their metadata field will be null).
+// -----------------------------------------------------------------------------
+async function listAllMetadata(namespace) {
+  const items = []
+  let cursor
+  do {
+    const opts = { limit: 1000 }
+    if (cursor) opts.cursor = cursor
+    const result = await namespace.list(opts)
+    for (const key of result.keys) {
+      if (key.metadata) items.push(key.metadata)
+    }
+    cursor = result.list_complete ? undefined : result.cursor
+  } while (cursor)
+  return items
+}
+
 // =============================================================================
 // ROUTE HANDLERS
 // =============================================================================
 
 // -----------------------------------------------------------------------------
-// POST /log — existing search / Ask AI event logger (backward-compatible)
-// Payload: { tab, query, eba, topic, resultCount }
+// POST /log — search / Ask AI event logger
+// ← CHANGED: put() now includes metadata so handleGetAnalytics can use
+//   listAllMetadata() instead of individual get() calls.
 // -----------------------------------------------------------------------------
 async function handleLogSearch(request, env, origin) {
   let body
@@ -174,13 +189,26 @@ async function handleLogSearch(request, env, origin) {
     timestamp: new Date().toISOString(),
   }
 
-  await env.EBA_ANALYTICS.put(key, JSON.stringify(entry), { expirationTtl: TTL_90_DAYS })
+  // ← CHANGED: metadata added — keeps payload under 1024-byte KV metadata limit
+  await env.EBA_ANALYTICS.put(key, JSON.stringify(entry), {
+    expirationTtl: TTL_90_DAYS,
+    metadata: {
+      tab:         entry.tab,
+      query:       entry.query.slice(0, 200),
+      eba:         entry.eba,
+      topic:       entry.topic,
+      resultCount: entry.resultCount,
+      browser:     entry.browser,
+      device:      entry.device,
+      timestamp:   entry.timestamp,
+    },
+  })
   return jsonResponse({ ok: true }, 200, origin)
 }
 
 // -----------------------------------------------------------------------------
-// POST /log/pageview — new page view event logger
-// Payload: { path, eba, section, title, sessionId, referrer }
+// POST /log/pageview — page view event logger
+// ← CHANGED: put() now includes metadata
 // -----------------------------------------------------------------------------
 async function handleLogPageview(request, env, origin) {
   let body
@@ -195,26 +223,38 @@ async function handleLogPageview(request, env, origin) {
   const key = `pv:${date}:${ulid()}`
 
   const entry = {
-    path: path.slice(0, 300),
+    path:      path.slice(0, 300),
     eba,
     section,
-    title: title.slice(0, 200),
+    title:     title.slice(0, 200),
     sessionId,
-    referrer: normaliseReferrer(referrer),
+    referrer:  normaliseReferrer(referrer),
     browser,
     device,
     timestamp: new Date().toISOString(),
   }
 
-  await env.EBA_PAGEVIEWS.put(key, JSON.stringify(entry), { expirationTtl: TTL_90_DAYS })
+  // ← CHANGED: metadata added — path/title capped shorter to stay under 1024 bytes
+  await env.EBA_PAGEVIEWS.put(key, JSON.stringify(entry), {
+    expirationTtl: TTL_90_DAYS,
+    metadata: {
+      path:      entry.path.slice(0, 150),
+      eba:       entry.eba,
+      section:   entry.section.slice(0, 80),
+      title:     entry.title.slice(0, 150),
+      sessionId: entry.sessionId,
+      referrer:  entry.referrer,
+      browser:   entry.browser,
+      device:    entry.device,
+      timestamp: entry.timestamp,
+    },
+  })
   return jsonResponse({ ok: true }, 200, origin)
 }
 
 // -----------------------------------------------------------------------------
 // POST /log/session — session upsert
-// Payload: { sessionId, pageCount, started, lastSeen }
-// Creates a new session record or overwrites the existing one for this sessionId.
-// The client sends this on every page navigation with its current page count.
+// ← CHANGED: put() now includes metadata
 // -----------------------------------------------------------------------------
 async function handleLogSession(request, env, origin) {
   let body
@@ -225,8 +265,6 @@ async function handleLogSession(request, env, origin) {
 
   const ua = request.headers.get('User-Agent') || ''
   const { browser, device } = parseUA(ua)
-
-  // Key is the sessionId itself so upserts overwrite the same record
   const key = `sess:${sessionId}`
 
   const entry = {
@@ -238,228 +276,212 @@ async function handleLogSession(request, env, origin) {
     device,
   }
 
-  // Sessions expire 90 days after the last write
-  await env.EBA_SESSIONS.put(key, JSON.stringify(entry), { expirationTtl: TTL_90_DAYS })
+  // ← CHANGED: metadata added
+  await env.EBA_SESSIONS.put(key, JSON.stringify(entry), {
+    expirationTtl: TTL_90_DAYS,
+    metadata: {
+      sessionId: entry.sessionId,
+      pageCount: entry.pageCount,
+      started:   entry.started,
+      lastSeen:  entry.lastSeen,
+      browser:   entry.browser,
+      device:    entry.device,
+    },
+  })
   return jsonResponse({ ok: true }, 200, origin)
 }
 
 // -----------------------------------------------------------------------------
 // GET /analytics — aggregated dashboard data (requires Bearer token)
-// Returns a single JSON object consumed by AnalyticsDashboard.vue
+// ← CHANGED: uses listAllMetadata() — zero get() calls, subrequests = 3
 // -----------------------------------------------------------------------------
 async function handleGetAnalytics(request, env, origin) {
   if (!isAuthorised(request, env)) {
     return jsonResponse({ error: 'Unauthorised' }, 401, origin)
   }
 
-  // ── Fetch all keys from each namespace ──────────────────────────────────────
-  // KV list() returns up to 1000 keys per call. For our scale (7-15 users,
-  // 90-day window) this will never exceed one page. If it ever does,
-  // the dashboard will silently show the most recent 1000 entries per namespace.
+  try {
+    // ← CHANGED: listAllMetadata replaces list() + Promise.all(get())
+    // Subrequest cost: 1 per 1000 entries per namespace (typically 1 each = 3 total)
+    const [searches, pageviews, sessions] = await Promise.all([
+      listAllMetadata(env.EBA_ANALYTICS),
+      listAllMetadata(env.EBA_PAGEVIEWS),
+      listAllMetadata(env.EBA_SESSIONS),
+    ])
 
-  const [searchList, pageviewList, sessionList] = await Promise.all([
-    env.EBA_ANALYTICS.list(),
-    env.EBA_PAGEVIEWS.list(),
-    env.EBA_SESSIONS.list(),
-  ])
+    // ── Meta KPIs ──────────────────────────────────────────────────────────────
+    const totalSearch       = searches.filter(e => e.tab === 'search').length
+    const totalAsk          = searches.filter(e => e.tab === 'ask').length
+    const totalSearchErrors = searches.filter(e => e.tab === 'search_error').length
+    const totalPageviews    = pageviews.length
+    const uniqueSessions    = sessions.length
+    const avgPagesPerSession = uniqueSessions > 0
+      ? (sessions.reduce((sum, s) => sum + (s.pageCount || 1), 0) / uniqueSessions).toFixed(1)
+      : '0'
 
-  // ── Fetch all values in parallel ────────────────────────────────────────────
-  const [searchEntries, pageviewEntries, sessionEntries] = await Promise.all([
-    Promise.all(searchList.keys.map(k => env.EBA_ANALYTICS.get(k.name, 'json'))),
-    Promise.all(pageviewList.keys.map(k => env.EBA_PAGEVIEWS.get(k.name, 'json'))),
-    Promise.all(sessionList.keys.map(k => env.EBA_SESSIONS.get(k.name, 'json'))),
-  ])
+    const meta = {
+      totalEntries: searches.length,
+      totalSearch,
+      totalAsk,
+      totalSearchErrors,
+      totalPageviews,
+      uniqueSessions,
+      avgPagesPerSession: Number(avgPagesPerSession),
+    }
 
-  // Filter nulls (keys that expired between list and get)
-  const searches  = searchEntries.filter(Boolean)
-  const pageviews = pageviewEntries.filter(Boolean)
-  const sessions  = sessionEntries.filter(Boolean)
+    // ── Top 20 search queries ──────────────────────────────────────────────────
+    const queryMap = {}
+    for (const e of searches) {
+      if (e.tab === 'search_error') continue
+      const k = `${e.tab}||${e.query.toLowerCase()}`
+      if (!queryMap[k]) queryMap[k] = { query: e.query, tab: e.tab, count: 0, zeroResultCount: 0 }
+      queryMap[k].count++
+      if (e.resultCount === 0) queryMap[k].zeroResultCount++
+    }
+    const top20 = Object.values(queryMap)
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 20)
 
-  // ── Meta KPIs ────────────────────────────────────────────────────────────────
-  const totalSearch       = searches.filter(e => e.tab === 'search').length
-  const totalAsk          = searches.filter(e => e.tab === 'ask').length
-  const totalSearchErrors = searches.filter(e => e.tab === 'search_error').length
-  const totalPageviews    = pageviews.length
-  const uniqueSessions    = sessions.length
-  const avgPagesPerSession = uniqueSessions > 0
-    ? (sessions.reduce((sum, s) => sum + (s.pageCount || 1), 0) / uniqueSessions).toFixed(1)
-    : '0'
+    // ── Zero-result queries ────────────────────────────────────────────────────
+    const zeroResult = Object.values(queryMap)
+      .filter(q => q.zeroResultCount > 0)
+      .sort((a, b) => b.zeroResultCount - a.zeroResultCount)
+      .slice(0, 20)
 
-  const meta = {
-    totalEntries: searches.length,
-    totalSearch,
-    totalAsk,
-    totalSearchErrors,
-    totalPageviews,
-    uniqueSessions,
-    avgPagesPerSession: Number(avgPagesPerSession),
+    // ── Time series — searches + pageviews per day, last 30 days ──────────────
+    const last30 = []
+    for (let i = 29; i >= 0; i--) {
+      const d = new Date()
+      d.setUTCDate(d.getUTCDate() - i)
+      last30.push(d.toISOString().slice(0, 10))
+    }
+
+    const searchByDay   = {}
+    const pageviewByDay = {}
+    last30.forEach(d => { searchByDay[d] = 0; pageviewByDay[d] = 0 })
+
+    for (const e of searches) {
+      const day = (e.timestamp || '').slice(0, 10)
+      if (searchByDay[day] !== undefined) searchByDay[day]++
+    }
+    for (const e of pageviews) {
+      const day = (e.timestamp || '').slice(0, 10)
+      if (pageviewByDay[day] !== undefined) pageviewByDay[day]++
+    }
+
+    const timeSeries = last30.map(day => ({
+      day,
+      searches:  searchByDay[day],
+      pageviews: pageviewByDay[day],
+    }))
+
+    // ── Top 20 pages ───────────────────────────────────────────────────────────
+    const pageMap = {}
+    for (const e of pageviews) {
+      const k = e.path
+      if (!pageMap[k]) pageMap[k] = { path: e.path, eba: e.eba, section: e.section, title: e.title, count: 0 }
+      pageMap[k].count++
+    }
+    const topPages = Object.values(pageMap)
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 20)
+
+    // ── EBA breakdown by page views ────────────────────────────────────────────
+    const ebaMap = {}
+    for (const e of pageviews) {
+      if (!e.eba) continue
+      ebaMap[e.eba] = (ebaMap[e.eba] || 0) + 1
+    }
+    const ebaBreakdown = Object.entries(ebaMap)
+      .map(([eba, count]) => ({ eba, count }))
+      .sort((a, b) => b.count - a.count)
+
+    // ── Section breakdown by page views ───────────────────────────────────────
+    const sectionMap = {}
+    for (const e of pageviews) {
+      if (!e.section) continue
+      sectionMap[e.section] = (sectionMap[e.section] || 0) + 1
+    }
+    const sectionBreakdown = Object.entries(sectionMap)
+      .map(([section, count]) => ({ section, count }))
+      .sort((a, b) => b.count - a.count)
+
+    // ── Browser breakdown ──────────────────────────────────────────────────────
+    const browserMap = {}
+    for (const e of [...searches, ...pageviews]) {
+      if (!e.browser) continue
+      browserMap[e.browser] = (browserMap[e.browser] || 0) + 1
+    }
+    const browserBreakdown = Object.entries(browserMap)
+      .map(([browser, count]) => ({ browser, count }))
+      .sort((a, b) => b.count - a.count)
+
+    // ── Device breakdown ───────────────────────────────────────────────────────
+    const deviceMap = {}
+    for (const e of [...searches, ...pageviews]) {
+      if (!e.device) continue
+      deviceMap[e.device] = (deviceMap[e.device] || 0) + 1
+    }
+    const deviceBreakdown = Object.entries(deviceMap)
+      .map(([device, count]) => ({ device, count }))
+      .sort((a, b) => b.count - a.count)
+
+    // ── EBA filter usage ───────────────────────────────────────────────────────
+    const ebaFilterMap = {}
+    for (const e of searches) {
+      if (!e.eba) continue
+      ebaFilterMap[e.eba] = (ebaFilterMap[e.eba] || 0) + 1
+    }
+    const ebaFilterBreakdown = Object.entries(ebaFilterMap)
+      .map(([eba, count]) => ({ eba, count }))
+      .sort((a, b) => b.count - a.count)
+
+    // ── Topic filter usage ─────────────────────────────────────────────────────
+    const topicMap = {}
+    for (const e of searches) {
+      if (!e.topic) continue
+      topicMap[e.topic] = (topicMap[e.topic] || 0) + 1
+    }
+    const topicBreakdown = Object.entries(topicMap)
+      .map(([topic, count]) => ({ topic, count }))
+      .sort((a, b) => b.count - a.count)
+
+    return jsonResponse({
+      meta,
+      top20,
+      zeroResult,
+      timeSeries,
+      topPages,
+      ebaBreakdown,
+      sectionBreakdown,
+      browserBreakdown,
+      deviceBreakdown,
+      ebaFilterBreakdown,
+      topicBreakdown,
+    }, 200, origin)
+
+  } catch (err) {
+    return jsonResponse({ error: `Analytics error: ${err.message}` }, 500, origin)
   }
-
-  // ── Top 20 search queries ────────────────────────────────────────────────────
-  // search_error events are excluded — they carry resultCount:-1 (sentinel) and
-  // should not pollute query frequency or zero-result tables.
-  const queryMap = {}
-  for (const e of searches) {
-    if (e.tab === 'search_error') continue
-    const k = `${e.tab}||${e.query.toLowerCase()}`
-    if (!queryMap[k]) queryMap[k] = { query: e.query, tab: e.tab, count: 0, zeroResultCount: 0 }
-    queryMap[k].count++
-    if (e.resultCount === 0) queryMap[k].zeroResultCount++
-  }
-  const top20 = Object.values(queryMap)
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 20)
-
-  // ── Zero-result queries ──────────────────────────────────────────────────────
-  const zeroResult = Object.values(queryMap)
-    .filter(q => q.zeroResultCount > 0)
-    .sort((a, b) => b.zeroResultCount - a.zeroResultCount)
-    .slice(0, 20)
-
-  // ── Time series — searches + pageviews per day, last 30 days ────────────────
-  const last30 = []
-  for (let i = 29; i >= 0; i--) {
-    const d = new Date()
-    d.setUTCDate(d.getUTCDate() - i)
-    last30.push(d.toISOString().slice(0, 10))
-  }
-
-  const searchByDay   = {}
-  const pageviewByDay = {}
-  last30.forEach(d => { searchByDay[d] = 0; pageviewByDay[d] = 0 })
-
-  for (const e of searches) {
-    const day = (e.timestamp || '').slice(0, 10)
-    if (searchByDay[day] !== undefined) searchByDay[day]++
-  }
-  for (const e of pageviews) {
-    const day = (e.timestamp || '').slice(0, 10)
-    if (pageviewByDay[day] !== undefined) pageviewByDay[day]++
-  }
-
-  const timeSeries = last30.map(day => ({
-    day,
-    searches: searchByDay[day],
-    pageviews: pageviewByDay[day],
-  }))
-
-  // ── Top 20 pages ─────────────────────────────────────────────────────────────
-  const pageMap = {}
-  for (const e of pageviews) {
-    const k = e.path
-    if (!pageMap[k]) pageMap[k] = { path: e.path, eba: e.eba, section: e.section, title: e.title, count: 0 }
-    pageMap[k].count++
-  }
-  const topPages = Object.values(pageMap)
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 20)
-
-  // ── EBA breakdown by page views ──────────────────────────────────────────────
-  const ebaMap = {}
-  for (const e of pageviews) {
-    if (!e.eba) continue
-    ebaMap[e.eba] = (ebaMap[e.eba] || 0) + 1
-  }
-  const ebaBreakdown = Object.entries(ebaMap)
-    .map(([eba, count]) => ({ eba, count }))
-    .sort((a, b) => b.count - a.count)
-
-  // ── Section breakdown by page views ─────────────────────────────────────────
-  const sectionMap = {}
-  for (const e of pageviews) {
-    if (!e.section) continue
-    sectionMap[e.section] = (sectionMap[e.section] || 0) + 1
-  }
-  const sectionBreakdown = Object.entries(sectionMap)
-    .map(([section, count]) => ({ section, count }))
-    .sort((a, b) => b.count - a.count)
-
-  // ── Browser breakdown ────────────────────────────────────────────────────────
-  // Combines browser data across all three event types for a full picture
-  const browserMap = {}
-  for (const e of [...searches, ...pageviews]) {
-    if (!e.browser) continue
-    browserMap[e.browser] = (browserMap[e.browser] || 0) + 1
-  }
-  const browserBreakdown = Object.entries(browserMap)
-    .map(([browser, count]) => ({ browser, count }))
-    .sort((a, b) => b.count - a.count)
-
-  // ── Device breakdown ─────────────────────────────────────────────────────────
-  const deviceMap = {}
-  for (const e of [...searches, ...pageviews]) {
-    if (!e.device) continue
-    deviceMap[e.device] = (deviceMap[e.device] || 0) + 1
-  }
-  const deviceBreakdown = Object.entries(deviceMap)
-    .map(([device, count]) => ({ device, count }))
-    .sort((a, b) => b.count - a.count)
-
-  // ── EBA filter usage (from search events) ───────────────────────────────────
-  const ebaFilterMap = {}
-  for (const e of searches) {
-    if (!e.eba) continue
-    ebaFilterMap[e.eba] = (ebaFilterMap[e.eba] || 0) + 1
-  }
-  const ebaFilterBreakdown = Object.entries(ebaFilterMap)
-    .map(([eba, count]) => ({ eba, count }))
-    .sort((a, b) => b.count - a.count)
-
-  // ── Topic filter usage (from search events) ──────────────────────────────────
-  const topicMap = {}
-  for (const e of searches) {
-    if (!e.topic) continue
-    topicMap[e.topic] = (topicMap[e.topic] || 0) + 1
-  }
-  const topicBreakdown = Object.entries(topicMap)
-    .map(([topic, count]) => ({ topic, count }))
-    .sort((a, b) => b.count - a.count)
-
-  return jsonResponse({
-    meta,
-    top20,
-    zeroResult,
-    timeSeries,
-    topPages,
-    ebaBreakdown,
-    sectionBreakdown,
-    browserBreakdown,
-    deviceBreakdown,
-    ebaFilterBreakdown,
-    topicBreakdown,
-  }, 200, origin)
 }
 
 // -----------------------------------------------------------------------------
 // GET /top-pages — public, no auth required
-// Returns the top 5 most-viewed clause pages for the SearchModal Quick Access panel.
-// Reads from EBA_PAGEVIEWS, filters to /ebas/ paths only, aggregates by path,
-// and returns: Array<{ path, title, eba, count }>
-// Response is safe to expose publicly — contains no user-identifying data.
-// Cache-Control: public, max-age=300 — allows Cloudflare edge to cache for 5 min,
-// reducing KV reads across many simultaneous users.
+// ← CHANGED: uses listAllMetadata() — zero get() calls
 // -----------------------------------------------------------------------------
 async function handleGetTopPages(request, env, origin) {
   try {
-    const list = await env.EBA_PAGEVIEWS.list({ prefix: 'pv:' })
+    const allPageviews = await listAllMetadata(env.EBA_PAGEVIEWS)
 
-    // Fetch all pageview records in parallel
-    const entries = await Promise.all(
-      list.keys.map(k => env.EBA_PAGEVIEWS.get(k.name, 'json'))
-    )
-
-    // Aggregate view counts per path — clause pages only
-    // Each entry shape: { path, eba, section, title, sessionId, referrer, browser, device, timestamp }
     const pageMap = {}
-    for (const entry of entries) {
+    for (const entry of allPageviews) {
       if (!entry || !entry.path) continue
-      if (!entry.path.startsWith('/ebas/')) continue   // exclude home, admin, search pages
+      if (!entry.path.startsWith('/ebas/')) continue
       const k = entry.path
       if (!pageMap[k]) {
         pageMap[k] = { path: entry.path, title: entry.title || '', eba: entry.eba || '', count: 0 }
       }
       pageMap[k].count++
-      // Keep the most recent non-empty title (titles can vary slightly if the page was renamed)
       if (entry.title) pageMap[k].title = entry.title.replace(/\s*\|.*$/, '').trim()
     }
 
@@ -482,32 +504,21 @@ async function handleGetTopPages(request, env, origin) {
 
 // -----------------------------------------------------------------------------
 // GET /trending-topics — public, no auth required
-// Returns the top 3 most-used topic filter values from the past 7 days.
-// Reads from EBA_ANALYTICS (search events), counts by the `topic` field,
-// and returns: Array<{ topic: string, count: number }>
-// Only entries where topic is a non-empty string are counted.
-// Entries older than 7 days (by ISO timestamp) are excluded.
-// Response: Cache-Control: public, max-age=3600 — 1 hour edge cache.
-// "Trending this week" doesn't need sub-minute freshness.
+// ← CHANGED: uses listAllMetadata() — zero get() calls
 // -----------------------------------------------------------------------------
 async function handleGetTrendingTopics(request, env, origin) {
   try {
-    const list = await env.EBA_ANALYTICS.list({ prefix: 'search:' })
+    const allSearches = await listAllMetadata(env.EBA_ANALYTICS)
 
-    const entries = await Promise.all(
-      list.keys.map(k => env.EBA_ANALYTICS.get(k.name, 'json'))
-    )
-
-    // 7-day window — UTC midnight 7 days ago
     const cutoff = new Date()
     cutoff.setUTCDate(cutoff.getUTCDate() - 7)
     const cutoffISO = cutoff.toISOString()
 
     const topicMap = {}
-    for (const entry of entries) {
+    for (const entry of allSearches) {
       if (!entry || !entry.topic) continue
-      if (entry.tab === 'search_error') continue        // exclude error sentinels
-      if (entry.timestamp && entry.timestamp < cutoffISO) continue  // outside 7-day window
+      if (entry.tab === 'search_error') continue
+      if (entry.timestamp && entry.timestamp < cutoffISO) continue
       const t = entry.topic.trim()
       if (!t) continue
       topicMap[t] = (topicMap[t] || 0) + 1
@@ -532,14 +543,11 @@ async function handleGetTrendingTopics(request, env, origin) {
 }
 
 // -----------------------------------------------------------------------------
-// GET /trending?days=7&limit=12 — public, no auth required
-// Returns the top N most-viewed EBA clause pages over the last N days.
-// Uses date-scoped KV key prefixes (pv:YYYY-MM-DD:) to read only the relevant
-// time window rather than all historical data. Handles KV cursor pagination so
-// results are accurate even when a date bucket exceeds 1000 entries.
-// Response: Cache-Control: public, max-age=300 — 5-min Cloudflare edge cache
-// reduces KV reads under concurrent load (e.g. multiple users loading the
-// For You page simultaneously).
+// GET /trending — public, no auth required
+// This handler uses date-scoped KV key prefixes and already handles pagination,
+// so it keeps its existing list()+get() pattern but batches gets in 50s.
+// It is NOT converted to the metadata pattern because it already correctly
+// limits its key set to a bounded date window.
 // -----------------------------------------------------------------------------
 async function handleGetTrending(request, env, origin) {
   try {
@@ -547,8 +555,6 @@ async function handleGetTrending(request, env, origin) {
     const days  = Math.min(parseInt(url.searchParams.get('days')  || '7',  10), 30)
     const limit = Math.min(parseInt(url.searchParams.get('limit') || '12', 10), 50)
 
-    // ── Build date prefixes for the last N days ─────────────────────────────
-    // e.g. days=3 → ['pv:2025-06-03:', 'pv:2025-06-02:', 'pv:2025-06-01:']
     const prefixes = []
     for (let i = 0; i < days; i++) {
       const d = new Date()
@@ -556,9 +562,6 @@ async function handleGetTrending(request, env, origin) {
       prefixes.push('pv:' + d.toISOString().slice(0, 10) + ':')
     }
 
-    // ── List all KV keys matching each date prefix ──────────────────────────
-    // KV list() returns key names only — values are fetched separately below.
-    // Cursor pagination handles buckets with >1000 entries.
     const allKeys = []
     for (const prefix of prefixes) {
       let cursor = undefined
@@ -571,11 +574,8 @@ async function handleGetTrending(request, env, origin) {
       } while (cursor)
     }
 
-    // ── Batch-get values and aggregate by path ──────────────────────────────
-    // Processes in batches of 50 concurrent KV reads to stay within
-    // Workers CPU and subrequest limits.
     const pathCounts = {}
-    const pathMeta   = {}  // path → { title, eba } for the response payload
+    const pathMeta   = {}
     const BATCH      = 50
 
     for (let i = 0; i < allKeys.length; i += BATCH) {
@@ -585,14 +585,11 @@ async function handleGetTrending(request, env, origin) {
       )
       for (const v of values) {
         if (!v || !v.path) continue
-        // Exclude non-clause pages (home, admin, search, /for-you/, etc.)
-        // A valid clause page path has at least: /ebas/<eba>/<clause>
         const parts = v.path.split('/').filter(Boolean)
         if (parts[0] !== 'ebas' || parts.length < 3) continue
 
         pathCounts[v.path] = (pathCounts[v.path] || 0) + 1
         if (!pathMeta[v.path]) {
-          // Strip " | EBAdb" suffix from page titles (added by the browser)
           pathMeta[v.path] = {
             title: (v.title || '').replace(/\s*\|.*$/, '').trim(),
             eba:   v.eba || '',
@@ -601,7 +598,6 @@ async function handleGetTrending(request, env, origin) {
       }
     }
 
-    // ── Sort descending, trim to limit, format response ─────────────────────
     const trending = Object.entries(pathCounts)
       .sort((a, b) => b[1] - a[1])
       .slice(0, limit)
@@ -639,33 +635,17 @@ export default {
     const url    = new URL(request.url)
     const method = request.method.toUpperCase()
 
-    // Handle CORS preflight
     if (method === 'OPTIONS') {
       return new Response(null, { status: 204, headers: corsHeaders(origin) })
     }
 
-    // Route dispatch
-    if (method === 'POST' && url.pathname === '/log') {
-      return handleLogSearch(request, env, origin)
-    }
-    if (method === 'POST' && url.pathname === '/log/pageview') {
-      return handleLogPageview(request, env, origin)
-    }
-    if (method === 'POST' && url.pathname === '/log/session') {
-      return handleLogSession(request, env, origin)
-    }
-    if (method === 'GET' && url.pathname === '/top-pages') {
-      return handleGetTopPages(request, env, origin)
-    }
-    if (method === 'GET' && url.pathname === '/trending-topics') {
-      return handleGetTrendingTopics(request, env, origin)
-    }
-    if (method === 'GET' && url.pathname === '/trending') {
-      return handleGetTrending(request, env, origin)
-    }
-    if (method === 'GET' && url.pathname === '/analytics') {
-      return handleGetAnalytics(request, env, origin)
-    }
+    if (method === 'POST' && url.pathname === '/log')           return handleLogSearch(request, env, origin)
+    if (method === 'POST' && url.pathname === '/log/pageview')  return handleLogPageview(request, env, origin)
+    if (method === 'POST' && url.pathname === '/log/session')   return handleLogSession(request, env, origin)
+    if (method === 'GET'  && url.pathname === '/top-pages')     return handleGetTopPages(request, env, origin)
+    if (method === 'GET'  && url.pathname === '/trending-topics') return handleGetTrendingTopics(request, env, origin)
+    if (method === 'GET'  && url.pathname === '/trending')      return handleGetTrending(request, env, origin)
+    if (method === 'GET'  && url.pathname === '/analytics')     return handleGetAnalytics(request, env, origin)
 
     return jsonResponse({ error: 'Not found' }, 404, origin)
   },
