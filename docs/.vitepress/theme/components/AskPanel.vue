@@ -462,9 +462,41 @@ function genId() {
   return 'chat_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 7)
 }
 
-function truncateTitle(text, max = 48) {
-  const t = (text || '').trim()
-  return t.length > max ? t.slice(0, max) + '…' : t || 'New chat'
+function generateTitle(text) {
+  if (!text) return 'New chat'
+
+  // Normalise whitespace and strip trailing punctuation
+  let t = text.trim().replace(/\s+/g, ' ').replace(/[?!.]+$/, '')
+
+  // Strip leading question openers — longest phrases first so compound
+  // openers like "how much" are caught before single-word fallbacks like "how"
+  const OPENERS = [
+    /^(tell me about|can you explain|can you tell me|do you know)\s+/i,
+    /^(what is|what are|what does|what do|what would|what will|what should)\s+/i,
+    /^(how much|how many|how long|how do|how does|how is|how are)\s+/i,
+    /^(is there|is a|is an|are there|are a|does a|does an|do all|do i)\s+/i,
+    /^(is|are|can|does|do|will|would|should|when|where|who|which|why|how|what)\s+/i,
+  ]
+  for (const re of OPENERS) t = t.replace(re, '')
+
+  // Passive-voice cut: strip " is/are/was/were + any past-participle (-ed) + everything after"
+  // This surfaces the grammatical subject as the title topic.
+  // e.g. "personal leave is provided to a full-time officer" → "personal leave"
+  //      "notice is required before changing the roster"    → "notice" (falls back below)
+  const passiveCut = t.replace(/\s+(is|are|was|were)\s+\w+ed\b.*/i, '').trim()
+
+  // Only use the passive cut if it leaves at least 2 words — a single-word
+  // result (e.g. "notice") isn't informative enough, so fall back to the
+  // opener-stripped version in that case.
+  const candidate = passiveCut.split(' ').filter(Boolean).length >= 2
+    ? passiveCut
+    : t
+
+  // Take first 4 words and capitalise the first letter
+  const words = candidate.split(' ').filter(Boolean).slice(0, 4)
+  if (!words.length) return 'New chat'
+  const title = words.join(' ')
+  return title.charAt(0).toUpperCase() + title.slice(1)
 }
 
 // ─── Persistence ──────────────────────────────────────────────────────────────
@@ -513,7 +545,7 @@ function addMessage(msg) {
   }
   // Update chat title from the first user message
   if (msg.role === 'user' && chats.value[idx].title === 'New chat') {
-    chats.value[idx] = { ...chats.value[idx], title: truncateTitle(msg.content) }
+    chats.value[idx] = { ...chats.value[idx], title: generateTitle(msg.content) }
   }
   // Trigger reactivity
   chats.value = [...chats.value]
