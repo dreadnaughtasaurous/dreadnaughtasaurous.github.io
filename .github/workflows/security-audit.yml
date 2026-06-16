@@ -32,5 +32,5 @@ jobs:
         # --audit-level=high means the workflow only FAILS for high or critical
         # severity vulnerabilities. Low/moderate issues are reported but won't
         # block your push. For a static wiki this is the right threshold.
-        run: npm audit --audit-level=high
+        run: npm audit --audit-level=high --omit=dev
         working-directory: docs
