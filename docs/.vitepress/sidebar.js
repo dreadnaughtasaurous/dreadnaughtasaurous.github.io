@@ -479,14 +479,14 @@ const sidebar = [
         { text: '44. On Call / Recall', link: '/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall' },
         { text: '45. Shiftwork', link: '/ebas/has-managers-admin/common-terms/allowances/45-shiftwork' }
       ] },
-        { text: 'Classification Staffing', link: '/ebas/has-managers-admin/common-terms/classification-staffing', collapsed: true, items: [
+        { text: 'Classification and Staffing', link: '/ebas/has-managers-admin/common-terms/classification-staffing', collapsed: true, items: [
         { text: '75. Classifications', link: '/ebas/has-managers-admin/common-terms/classification-staffing/75-classifications' },
         { text: '76. Flexibility', link: '/ebas/has-managers-admin/common-terms/classification-staffing/76-flexibility' },
         { text: '77. Secure Employment', link: '/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment' },
         { text: '78. Workload Management', link: '/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management' },
         { text: '79. Requests for Flexible Working Arrangements', link: '/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements' }
       ] },
-        { text: 'Consultation Disputes', link: '/ebas/has-managers-admin/common-terms/consultation-disputes', collapsed: true, items: [
+        { text: 'Consultation, Dispute Resolution and Discipline', link: '/ebas/has-managers-admin/common-terms/consultation-disputes', collapsed: true, items: [
         { text: '16. Consultation', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation' },
         { text: '17. Dispute Resolution Procedure', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure' },
         { text: '18. Managing Conduct and Performance', link: '/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance' }
@@ -586,7 +586,7 @@ const sidebar = [
         { text: '20. Patient Transport Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance' },
         { text: '21. Security Officer Certificate Allowance', link: '/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance' }
       ] },
-        { text: 'Classification Staffing', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing', collapsed: true, items: [
+        { text: 'Classification and Staffing', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing', collapsed: true, items: [
         { text: '34. Transition to New Instrument Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure' },
         { text: '35. Transition to New Theatre Technician Structure', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure' },
         { text: '36. Transition of All Other Employees', link: '/ebas/has-managers-admin/health-allied-services/classification-staffing/36-transition-of-all-other-employees' },
@@ -643,7 +643,7 @@ const sidebar = [
         { text: '5. Higher Duties', link: '/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties' },
         { text: '6. Removal Expenses', link: '/ebas/has-managers-admin/managers-admin/allowances/6-removal-expenses' }
       ] },
-        { text: 'Classification Staffing', link: '/ebas/has-managers-admin/managers-admin/classification-staffing', collapsed: true, items: [
+        { text: 'Classification and Staffing', link: '/ebas/has-managers-admin/managers-admin/classification-staffing', collapsed: true, items: [
         { text: '16. Worker Wellbeing and Employment Support Officers', link: '/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers' },
         { text: "17. Translation Of Managers and Administrative Workers (Royal Children's Hospital & Royal Women's Hospital only)", link: '/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers' }
       ] },
@@ -803,7 +803,7 @@ const sidebar = [
         { text: '35. Travelling and Reimbursement', link: '/ebas/mental-health/common-terms/allowances/35-travelling-and-reimbursement' },
         { text: '36. Right to Disconnect', link: '/ebas/mental-health/common-terms/allowances/36-right-to-disconnect' }
       ] },
-        { text: 'Consultation Disputes', link: '/ebas/mental-health/common-terms/consultation-disputes', collapsed: true, items: [
+        { text: 'Consultation, Dispute Resolution and Discipline', link: '/ebas/mental-health/common-terms/consultation-disputes', collapsed: true, items: [
         { text: '18. Consultation', link: '/ebas/mental-health/common-terms/consultation-disputes/18-consultation' },
         { text: '18A. Central Building Consultative Committee', link: '/ebas/mental-health/common-terms/consultation-disputes/18a-central-building-consultative-committee' },
         { text: '19. Consultation About Changes to Rosters or Hours or Work', link: '/ebas/mental-health/common-terms/consultation-disputes/19-consultation-about-changes-to-rosters-or-hours-or-work' },
@@ -925,7 +925,7 @@ const sidebar = [
         { text: '86. Uniform and Laundry Allowance', link: '/ebas/mental-health/rpn-pen-mho/allowances/86-uniform-and-laundry-allowance' },
         { text: '87. Senior Allowance - MHO', link: '/ebas/mental-health/rpn-pen-mho/allowances/87-senior-allowance-mho' }
       ] },
-        { text: 'Classification Staffing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing', collapsed: true, items: [
+        { text: 'Classification and Staffing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing', collapsed: true, items: [
         { text: '101. Staffing', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/101-staffing' },
         { text: '102. Workload Management', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/102-workload-management' },
         { text: '102A. Staff Replacement', link: '/ebas/mental-health/rpn-pen-mho/classification-staffing/102A-staff-replacement' },
@@ -989,7 +989,7 @@ const sidebar = [
         { text: '121. Uniform Allowance', link: '/ebas/mental-health/health-professionals/allowances/121-uniform-allowance' },
         { text: '121A. Change of Ward Allowance', link: '/ebas/mental-health/health-professionals/allowances/121A-change-of-ward-allowance' }
       ] },
-        { text: 'Classification Staffing', link: '/ebas/mental-health/health-professionals/classification-staffing', collapsed: true, items: [
+        { text: 'Classification and Staffing', link: '/ebas/mental-health/health-professionals/classification-staffing', collapsed: true, items: [
         { text: '143. Classifications and Wages', link: '/ebas/mental-health/health-professionals/classification-staffing/143-classifications-and-wages' },
         { text: '143A. Wages Review', link: '/ebas/mental-health/health-professionals/classification-staffing/143A-wages-review' },
         { text: '144. Notification of Classification', link: '/ebas/mental-health/health-professionals/classification-staffing/144-notification-of-classification' },
@@ -1086,7 +1086,7 @@ const sidebar = [
         { text: '195. Removal Expenses', link: '/ebas/mental-health/management-admin/allowances/195-removal-expenses' },
         { text: '196. Travelling Allowances', link: '/ebas/mental-health/management-admin/allowances/196-travelling-allowances' }
       ] },
-        { text: 'Classification Staffing', link: '/ebas/mental-health/management-admin/classification-staffing', collapsed: true, items: [
+        { text: 'Classification and Staffing', link: '/ebas/mental-health/management-admin/classification-staffing', collapsed: true, items: [
         { text: '221. Classifications', link: '/ebas/mental-health/management-admin/classification-staffing/221-classifications' },
         { text: '222. Chief Executive Officers', link: '/ebas/mental-health/management-admin/classification-staffing/222-chief-executive-officers' }
       ] },
