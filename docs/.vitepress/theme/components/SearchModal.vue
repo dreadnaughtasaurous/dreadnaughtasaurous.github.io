@@ -528,6 +528,30 @@
               <!-- ── New idle state: Recently Viewed + Bookmarks + Suggested ── -->
               <div v-else-if="query.length <= 1 && !selectedEba && !selectedTopic" class="idle-state">
 
+                <!-- Recent searches -->
+                <div v-if="recentSearches.length > 0" class="idle-section">
+                  <div class="idle-section-header">
+                    Recent Searches
+                    <button class="op-pills-clear" @click="clearRecentSearches">Clear all</button>
+                  </div>
+                  <div class="recent-search-pills">
+                    <div
+                      v-for="term in recentSearches"
+                      :key="term"
+                      class="recent-item-wrapper"
+                    >
+                      <button class="recent-item" @click="runRecentSearch(term)">{{ term }}</button>
+                      <button
+                        class="recent-delete-btn"
+                        title="Remove search"
+                        @click.stop="removeRecentSearch(term)"
+                      >
+                        <span class="vpi-delete delete-icon-mini" aria-hidden="true"></span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+
                 <!-- Recently viewed -->
                 <div v-if="recentlyViewed.length > 0" class="idle-section">
                   <div class="idle-section-header">Recently viewed</div>
@@ -812,6 +836,7 @@ const SESSION_TOPIC_KEY       = 'eba-search-last-topic'
 const SESSION_SCROLL_KEY      = 'eba-search-last-scroll'
 const LOCAL_BOOKMARKS_KEY     = 'eba-bookmarks'
 const LOCAL_RECENTLY_VIEWED_KEY = 'eba-recently-viewed'  // Array<{path,title,eba,timestamp}> max 4
+const LOCAL_RECENT_SEARCHES_KEY = 'eba-search-recent-queries'  // Array<string> max 5, localStorage
 const SESSION_EBA_CONTEXT_KEY = 'eba-search-eba-context'   // TTL-gated EBA pre-population
 const EBA_CONTEXT_TTL_MS      = 30_000                     // 30 seconds
 const LOCAL_DEFAULT_EBA_KEY    = 'eba-default-eba'          // Pre-selected EBA on every modal open
@@ -896,6 +921,44 @@ function loadRecentlyViewed() {
     const raw = localStorage.getItem(LOCAL_RECENTLY_VIEWED_KEY)
     if (raw) recentlyViewed.value = JSON.parse(raw)
   } catch { /* degrade silently */ }
+}
+
+// Recent searches (localStorage - pill list, persists across sessions)
+const recentSearches = ref([])
+
+function loadRecentSearches() {
+  try {
+    const raw = localStorage.getItem(LOCAL_RECENT_SEARCHES_KEY)
+    if (raw) recentSearches.value = JSON.parse(raw)
+  } catch { /* degrade silently */ }
+}
+
+function saveRecentSearch(term) {
+  const trimmed = (term || '').trim()
+  if (trimmed.length < 2) return
+  const deduped = recentSearches.value.filter(q => q.toLowerCase() !== trimmed.toLowerCase())
+  recentSearches.value = [trimmed, ...deduped].slice(0, 5)
+  try {
+    localStorage.setItem(LOCAL_RECENT_SEARCHES_KEY, JSON.stringify(recentSearches.value))
+  } catch { /* localStorage unavailable or full - degrade silently */ }
+}
+
+function removeRecentSearch(term) {
+  recentSearches.value = recentSearches.value.filter(q => q !== term)
+  try {
+    localStorage.setItem(LOCAL_RECENT_SEARCHES_KEY, JSON.stringify(recentSearches.value))
+  } catch { /* degrade silently */ }
+}
+
+function clearRecentSearches() {
+  recentSearches.value = []
+  try { localStorage.removeItem(LOCAL_RECENT_SEARCHES_KEY) } catch { /* degrade silently */ }
+}
+
+function runRecentSearch(term) {
+  query.value = term
+  debouncedSearch()
+  nextTick(() => inputRef.value?.focus())
 }
 
 // ─── EBA slug → full canonical name (for ebaStyle() on recently viewed rows) ──
@@ -1068,6 +1131,7 @@ function loadBookmarks() {
 }
 
 let searchTimer           = null
+let historyTimer          = null
 let pagefind              = null
 let pagefindInitPromise   = null    // deduplicates concurrent init calls from hover + focus
 let _pendingEbaFlash      = false   // set by restoreEbaContext(); consumed by watch(open)
@@ -1755,6 +1819,7 @@ async function initPagefind() {
 onMounted(() => {
   loadBookmarks()
   loadRecentlyViewed()
+  loadRecentSearches()
   loadSettings()
   updateMobileSheet()
   if (typeof window !== 'undefined') {
@@ -2277,6 +2342,15 @@ function debouncedSearch() {
   const len   = query.value.trim().length
   const delay = len >= 6 ? 120 : len >= 3 ? 220 : 380
   searchTimer = setTimeout(doSearch, delay)
+
+  // Recent searches use a separate, longer debounce so only a query the
+  // user has actually paused on gets saved — not every intermediate
+  // keystroke the fast live-search debounce above reacts to.
+  clearTimeout(historyTimer)
+  historyTimer = setTimeout(() => {
+    const { cleanQuery } = parseQuery(query.value)
+    saveRecentSearch(cleanQuery || query.value)
+  }, 900)
 }
 
 async function doSearch() {
@@ -3177,6 +3251,69 @@ function handleResultClick(result) {
 
 .dark .idle-row-note {
   color: #FCD34D;           /* amber-300 — legible on dark backgrounds */
+}
+
+/* Recent searches */
+.recent-search-pills {
+  display:   flex;
+  flex-wrap: wrap;
+  gap:       0.4rem;
+  padding:   0.3rem 1rem 0.5rem;
+}
+
+.recent-item-wrapper {
+  display:       flex;
+  align-items:   center;
+  background:    var(--vp-c-bg-mute);
+  border-radius: 6px;
+  opacity:       0.6;
+  transition:    opacity 0.15s;
+}
+
+.recent-item-wrapper:hover {
+  opacity: 1;
+}
+
+.recent-item {
+  background:    none;
+  border:        none;
+  padding:       0.28rem 0.2rem 0.28rem 0.6rem;
+  font-size:     0.78rem;
+  color:         var(--vp-c-text-2);
+  cursor:        pointer;
+  max-width:     14rem;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  white-space:   nowrap;
+}
+
+.recent-item-wrapper:hover .recent-item {
+  color: var(--vp-c-text-1);
+}
+
+.recent-delete-btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  background:      none;
+  border:          none;
+  padding:         0.3rem 0.5rem 0.3rem 0.25rem;
+  cursor:          pointer;
+  color:           var(--vp-c-text-3);
+  border-radius:   0 6px 6px 0;
+}
+
+.recent-delete-btn .delete-icon-mini {
+  width:  10px;
+  height: 10px;
+}
+
+.recent-delete-btn:hover {
+  color: #DC2626;
+}
+
+.dark .recent-delete-btn:hover {
+  color: #F87171;
 }
 
 /* ── Ask AI suggestions section ─────────────────────────────────────────────── */
