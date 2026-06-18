@@ -102,11 +102,15 @@ export default {
 
       // AccessibilityControls is placed in nav-bar-content-after.
       // VitePress renders this slot at the far right of .VPNavBarExtra.
-      // The actual visual order (dark mode → Aa → book → GitHub) is achieved
-      // via CSS flex `order` rules in style.css targeting .VPNavBarExtra children:
-      //   .appearance    → order: 1
+      // The actual visual order (Aa → book → GitHub) is achieved via CSS
+      // flex `order` rules in style.css targeting .VPNavBarExtra children:
       //   .a11y-controls → order: 2
       //   .social-links  → order: 3
+      //
+      // Note: the dark-mode switch (Light/Dark/AMOLED) is NOT handled here.
+      // ThemeSwitch.vue replaces VitePress's native VPSwitchAppearance.vue
+      // entirely via a Vite resolve.alias in config.js — see that file.
+      // It is never manually imported or slotted into this Layout.
       'nav-bar-content-after': () => h(AccessibilityControls),
 
       // sidebar-nav-before: injected at the very top of .VPSidebar, above all

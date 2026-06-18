@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { fileURLToPath } from 'node:url'
 import sidebar from './sidebar.js'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 
@@ -15,6 +16,10 @@ head: [
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    // AMOLED theme anti-flash: reads eba-theme-mode and sets
+    // data-theme-amoled before first paint so AMOLED users don't
+    // see a flash of regular dark-grey before the pure-black CSS loads.
+    ['script', {}, "(function(){try{if(localStorage.getItem('eba-theme-mode')==='amoled'){document.documentElement.setAttribute('data-theme-amoled','')}}catch(e){}})()"],
     // ── Pagefind preload ───────────────────────────────────────────────────────
     // pagefind.js: modulepreload downloads AND parses the ES module into the
     // browser's module registry during idle time. When initPagefind() later calls
@@ -31,6 +36,22 @@ head: [
 
   // Tell Vite not to bundle pagefind — it's generated post-build
   vite: {
+    resolve: {
+      alias: [
+        {
+          // Overrides VitePress's native dark-mode switch with our own
+          // Light/Dark/AMOLED dropdown. VPNavBarAppearance.vue,
+          // VPNavBarExtra.vue, and VPNavScreenAppearance.vue all import
+          // VPSwitchAppearance.vue via this exact relative specifier —
+          // aliasing it replaces the rendered component everywhere
+          // VitePress would normally show the native switch (desktop nav
+          // bar AND the mobile hamburger nav screen), with no CSS hiding
+          // or flex-order rules needed at all.
+          find: './VPSwitchAppearance.vue',
+          replacement: fileURLToPath(new URL('./theme/components/ThemeSwitch.vue', import.meta.url)),
+        },
+      ],
+    },
     plugins: [
       GitChangelog({
         repoURL: () => 'https://github.com/dreadnaughtasaurous/dreadnaughtasaurous.github.io',

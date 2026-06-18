@@ -1,4 +1,4 @@
-﻿/* =============================================
+/* =============================================
    EBA Wiki — Custom Global Styles
    ============================================= */
 
@@ -1371,22 +1371,21 @@ display: none !important;
 }
 
 /* ============================================================
-   Accessibility Controls — Nav Bar Flex Order
+   Nav Bar Flex Order
    ============================================================
    VitePress renders .VPNavBarExtra as a flex row containing:
-     .appearance   (dark mode toggle)  — DOM position 1
-     .social-links (GitHub icon)       — DOM position 2
-     [nav-bar-content-after slot]      — DOM position 3
+     .appearance   (now OUR ThemeSwitch.vue, via the Vite alias in
+                    config.js — see vite.resolve.alias. No longer the
+                    native VitePress switch, and no CSS hiding or
+                    reordering needed for it any more) — DOM position 1
+     .social-links (GitHub icon)                        — DOM position 2
+     [nav-bar-content-after slot: AccessibilityControls] — DOM position 3
 
-   The slot content lands AFTER the GitHub icon in the DOM.
-   We use CSS flex `order` to resequence the visual rendering
-   without touching VitePress internals:
-     dark mode (order 1) → our controls (order 2) → GitHub (order 3)
-
-   Note: .VPNavBarExtra uses display:flex with no explicit order
-   set on its children, so all default to order:0. Assigning
-   order:3 to .social-links and order:2 to .a11y-controls is
-   sufficient — .appearance stays at order:0 (renders first).
+   The slot content lands AFTER the GitHub icon in the DOM. We use CSS
+   flex `order` to resequence the visual rendering for AccessibilityControls
+   only — the dark-mode switch is positioned correctly automatically,
+   since it now occupies VitePress's own native slot rather than ours:
+     theme switch (order 0, default) → our controls (order 2) → GitHub (order 3)
    ============================================================ */
 
 .VPNavBarExtra {
@@ -1399,66 +1398,26 @@ display: none !important;
   order: 3;
 }
 
-/* Our accessibility controls — between dark mode and GitHub */
+/* Our accessibility controls — between the theme switch and GitHub */
 .VPNavBarExtra .a11y-controls {
   order: 2;
 }
 
-/* Dark mode toggle — stays at default (renders first) */
-.VPNavBarExtra .appearance {
-  order: 1;
-}
+/* ============================================================
+   AMOLED Theme Override
+   ============================================================
+   Applied via data-theme-amoled on <html> (always alongside .dark —
+   set together by ThemeSwitch.vue's applyMode()). Forces true black
+   backgrounds for AMOLED/OLED screens, following the same "override
+   VitePress CSS variables at the root" technique already used by the
+   High Contrast Mode block above.
+   ============================================================ */
 
-/* Hover hint tooltip — target the button directly, not the wrapper */
-.VPSwitchAppearance {
-  position: relative;
-}
-.VPSwitchAppearance::after {
-  content:        'Toggles dark mode';
-  position:       absolute;
-  top:            calc(100% + 10px);
-  left:           50%;
-  transform:      translateX(-50%);
-  padding:        0.4rem 0.7rem;
-  background:     var(--vp-c-bg-elv);
-  border:         1px solid var(--vp-c-divider);
-  border-radius:  6px;
-  box-shadow:     0 4px 16px rgba(0, 0, 0, 0.12);
-  font-size:      0.76rem;
-  font-weight:    500;
-  white-space:    nowrap;
-  color:          var(--vp-c-text-1);
-  opacity:        0;
-  visibility:     hidden;
-  pointer-events: none;
-  transition:     opacity 0.15s, visibility 0.15s;
-  z-index:        9999;
-}
-.VPSwitchAppearance::before {
-  content:        '';
-  position:       absolute;
-  top:            calc(100% + 5px);
-  left:           50%;
-  width:          8px;
-  height:         8px;
-  background:     var(--vp-c-bg-elv);
-  border-top:     1px solid var(--vp-c-divider);
-  border-left:    1px solid var(--vp-c-divider);
-  transform:      translateX(-50%) rotate(45deg);
-  opacity:        0;
-  visibility:     hidden;
-  pointer-events: none;
-  transition:     opacity 0.15s, visibility 0.15s;
-  z-index:        10000;
-}
-.VPSwitchAppearance:hover::after,
-.VPSwitchAppearance:hover::before {
-  opacity:    1;
-  visibility: visible;
-}
-@media (max-width: 767px) {
-  .VPSwitchAppearance::after,
-  .VPSwitchAppearance::before { display: none; }
+.dark[data-theme-amoled] {
+  --vp-c-bg:      #000000;
+  --vp-c-bg-soft: #0a0a0a;
+  --vp-c-bg-elv:  #0a0a0a;
+  --vp-c-bg-alt:  #000000;
 }
 
 
