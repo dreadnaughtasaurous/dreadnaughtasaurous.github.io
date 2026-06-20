@@ -217,11 +217,11 @@ const steps = [
   
   {
     // On mobile the appearance toggle is inside the hamburger menu.
-    target: '.VPNavBar .VPSwitch.VPSwitchAppearance',
+    target: '.VPNavBar .theme-switch-wrap',
     targetPad: 4,
     mobileTarget: '.VPNavBarHamburger',
     mobileOpensMenu: true,
-    mobileSecondaryTarget: '.VPNavScreen .VPSwitch.VPSwitchAppearance',
+    mobileSecondaryTarget: '.VPNavScreen .theme-switch-wrap',
     headline: 'Dark mode',
     icon: `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`,
     copy: 'Toggle between light and dark mode. On desktop it\'s the sun/moon icon in the nav bar. On mobile, open the <strong>menu</strong> (top-right) to find it.',
