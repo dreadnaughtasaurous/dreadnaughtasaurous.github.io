@@ -1,0 +1,18 @@
+{
+  "EBA Clause Frontmatter": {
+    "prefix": "ebafm",
+    "body": [
+      "---",
+      "title: '${1:N}. ${2:Clause Title}'",
+      "eba: 'Health Allied & Managers Admin 2025-2027'",
+      "topics: ['${3:topic1}']",
+      "synonyms: ['${4:everyday term}']",
+      "---",
+      "",
+      "# ${1}. ${2}",
+      "",
+      "$0"
+    ],
+    "description": "HAS Managers & Admin 2025-2027 clause frontmatter"
+  }
+}
