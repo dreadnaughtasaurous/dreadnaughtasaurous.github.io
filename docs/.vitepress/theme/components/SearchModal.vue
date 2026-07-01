@@ -1204,7 +1204,7 @@ const SUGGESTION_REWRITES = [
 ]
 
 // ─── Stream label for nested EBAs ────────────────────────────────────────────
-const NESTED_EBA_FOLDERS = new Set(['has-managers-admin', 'mental-health'])
+const NESTED_EBA_FOLDERS = new Set(['has-managers-admin-2025-2027', 'mental-health'])
 
 function getResultStream(result) {
   if (!result?.url) return null
