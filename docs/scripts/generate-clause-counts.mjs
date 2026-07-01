@@ -14,7 +14,7 @@ const OUT  = join(DOCS, 'public', 'clause-counts.json')
 
 const EBA_SLUGS = [
   'allied-health', 'biomedical-engineers', 'childrens-services',
-  'doctors-in-training', 'has-managers-admin', 'medical-specialists',
+  'doctors-in-training', 'has-managers-admin-2025-2027', 'medical-specialists',
   'mental-health', 'mspp', 'nurses-midwives',
 ]
 

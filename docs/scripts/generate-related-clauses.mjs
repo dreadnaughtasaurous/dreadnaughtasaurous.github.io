@@ -49,7 +49,7 @@ const EBA_FOLDERS = [
   'biomedical-engineers',
   'childrens-services',
   'doctors-in-training',
-  'has-managers-admin',
+  'has-managers-admin-2025-2027',
   'mspp',
   'medical-specialists',
   'mental-health',

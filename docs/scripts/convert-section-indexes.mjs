@@ -39,7 +39,7 @@ const EBAS_DIR  = join(DOCS_DIR, 'ebas')
 
 const ALL_EBA_SLUGS = [
   'allied-health', 'biomedical-engineers', 'childrens-services',
-  'doctors-in-training', 'has-managers-admin', 'medical-specialists',
+  'doctors-in-training', 'has-managers-admin-2025-2027', 'medical-specialists',
   'mental-health', 'mspp', 'nurses-midwives',
 ]
 
