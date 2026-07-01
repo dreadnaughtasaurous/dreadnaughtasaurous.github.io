@@ -45,7 +45,7 @@ const EBA_COLORS = {
   'biomedical-engineers': { color: '#4F46E5', bg: '#4F46E51A', label: 'Biomedical Engineers' },
   'childrens-services':   { color: '#DB2777', bg: '#DB27771A', label: "Children's Services" },
   'doctors-in-training':  { color: '#D97706', bg: '#D977061A', label: 'Doctors in Training' },
-  'has-managers-admin':   { color: '#3B82F6', bg: '#3B82F61A', label: 'HAS Managers & Admin' },
+  'has-managers-admin-2025-2027': { color: '#3B82F6', bg: '#3B82F61A', label: 'HAS Managers & Admin' },
   'mspp':                 { color: '#059669', bg: '#0596691A', label: 'Med Scientists & Pharm' },
   'medical-specialists':  { color: '#0891B2', bg: '#0891B21A', label: 'Medical Specialists' },
   'mental-health':        { color: '#7C3AED', bg: '#7C3AED1A', label: 'Mental Health' },
