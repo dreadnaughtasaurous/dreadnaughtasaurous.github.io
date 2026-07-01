@@ -8,7 +8,7 @@
     "docs:related": "node scripts/generate-related-clauses.mjs",
     "docs:legislation": "node scripts/link-legislation.mjs",
     "docs:preview": "vitepress preview .",
-    "docs:index": "vitepress build . && node scripts/patch-pagefind.mjs && pagefind --site .vitepress/dist --output-path .vitepress/dist/pagefind"
+    "docs:index": "vitepress build . && node scripts/generate-page-catalog.mjs && node scripts/patch-pagefind.mjs && pagefind --site .vitepress/dist --output-path .vitepress/dist/pagefind"
   },
   "devDependencies": {
     "@nolebase/vitepress-plugin-git-changelog": "^2.18.2",
