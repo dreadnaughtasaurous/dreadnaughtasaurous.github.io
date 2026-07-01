@@ -1138,157 +1138,195 @@ const EBA_PAGE_MAP = [
     paths: ['ebas/mental-health.md']
   },
 
-  // ── HAS / MANAGERS / ADMIN ────────────────────────────────────────────────
+  // ── HAS MANAGERS & ADMIN ─────────────────────────────────────────────────
+  // Folder confirmed via Get-ChildItem: ebas/has-managers-admin-2025-2027/
+  // Three sub-streams: common-terms (all employees), health-allied-services,
+  // managers-admin. Paths verified from full recursive listing (July 2026).
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager', 'ward clerk', 'receptionist', 'scheduler', 'booking', 'pmo', 'project manager', 'operations manager'],
     topic: ['overtime'],
     paths: [
-      'ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime.md',
-      'ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime.md',
+      'ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/20-overtime.md',
+      'ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/6-overtime.md',
     ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['public holiday', 'holiday'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/69-public-holidays.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['overtime', 'public holiday', 'holiday'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['overtime in lieu', 'time in lieu', 'toil'],
     paths: [
-      'ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime.md',
-      'ebas/has-managers-admin/common-terms/leave/69-public-holidays.md',
+      'ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/21-overtime-in-lieu.md',
+      'ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/7-overtime-in-lieu.md',
     ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['public holiday', 'holiday'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/73-public-holidays.md']
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
     topic: ['wage', 'salary', 'pay rate', 'pay'],
     paths: [
-      'ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases.md',
-      'ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services.md',
+      'ebas/has-managers-admin-2025-2027/common-terms/wages/31-wages-and-allowances.md',
+      'ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services.md',
+      'ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers.md',
     ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['annual leave'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/53-annual-leave.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['allowance'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/schedules/2c-allowances-health-allied-services.md',
+      'ebas/has-managers-admin-2025-2027/schedules/3c-allowances-managers-and-administrative-workers.md',
+    ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['personal leave', 'sick leave', 'carer'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/55-personal-leave.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['higher duties', 'hda'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/health-allied-services/allowances/5-higher-duties.md',
+      'ebas/has-managers-admin-2025-2027/managers-admin/allowances/2-higher-duties.md',
+    ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['parental leave', 'maternity', 'paternity'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/59-parental-leave.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['recall', 'call back'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/common-terms/allowances/46-recall.md',
+      'ebas/has-managers-admin-2025-2027/common-terms/allowances/47-rest-period-after-overtime-recall.md',
+    ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['long service leave'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/61-long-service-leave.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['shift', 'shiftwork'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/allowances/48-shiftwork.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['family violence'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/67-family-violence-leave.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['weekend', 'saturday', 'sunday', 'penalty rate'],
+    paths: ['ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/19-weekend-work.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['compassionate leave', 'bereavement'],
-    paths: ['ebas/has-managers-admin/common-terms/leave/56-compassionate-leave.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
     topic: ['hours', 'hours of work', 'ordinary hours'],
-    paths: ['ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work.md']
+    paths: [
+      'ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/17-hours-of-work.md',
+      'ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/4-hours-of-work.md',
+    ]
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['manager hours', 'manager hours of work'],
-    paths: ['ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['roster', 'rostered'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/51-rosters.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['on call', 'on-call', 'recall', 'call back'],
-    paths: ['ebas/has-managers-admin/common-terms/allowances/44-on-call-recall.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['annual leave'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/56-annual-leave.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['roster'],
-    paths: ['ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['personal leave', 'sick leave', 'carer'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/58-personal-leave.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['shift', 'saturday', 'sunday', 'weekend', 'penalty rate'],
-    paths: ['ebas/has-managers-admin/health-allied-services/hours-of-work/24-weekend-work.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['parental leave', 'maternity', 'paternity'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/62-parental-leave.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['accrued day off', 'ado'],
-    paths: ['ebas/has-managers-admin/common-terms/hours-of-work/47-accrued-days-off.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['long service leave'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/64-long-service-leave.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['break', 'meal break'],
-    paths: ['ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['compassionate leave', 'bereavement'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/60-compassionate-leave.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['allowance', 'shift allowance'],
-    paths: ['ebas/has-managers-admin/common-terms/allowances/45-shiftwork.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['family violence'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/leave/69-family-and-domestic-violence-leave.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['higher duties', 'higher duty', 'in charge'],
-    paths: ['ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['classification', 'grade'],
-    paths: ['ebas/has-managers-admin/common-terms/classification-staffing/75-classifications.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['professional development', 'study leave', 'education'],
-    paths: ['ebas/has-managers-admin/managers-admin/education-pd/12-study-leave.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['superannuation', 'super'],
-    paths: ['ebas/has-managers-admin/common-terms/wages/31-superannuation.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['salary packaging', 'salary sacrifice'],
-    paths: ['ebas/has-managers-admin/common-terms/wages/32-salary-packaging.md']
-  },
-  {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
     topic: ['redundancy'],
-    paths: ['ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements.md']
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/employment/29-redundancy-and-associated-entitlements.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['notice', 'termination'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/employment/28-notice-period-before-termination.md']
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
     topic: ['dispute'],
-    paths: ['ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure.md']
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/19-dispute-resolution-procedure.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
-    topic: ['flexible working', 'flexible arrangement'],
-    paths: ['ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements.md']
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['consultation', 'change management', 'restructure'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/17-consultation.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['classification', 'grade'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services.md',
+      'ebas/has-managers-admin-2025-2027/schedules/3d-classification-structure-managers-and-administrative-workers.md',
+    ]
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['full time', 'part time', 'casual', 'employment type'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/common-terms/employment/22-full-time-employment.md',
+      'ebas/has-managers-admin-2025-2027/common-terms/employment/23-regular-part-time-employment.md',
+      'ebas/has-managers-admin-2025-2027/common-terms/employment/25-casual-employment.md',
+    ]
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['superannuation', 'super'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/wages/35-superannuation.md']
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['salary packaging', 'salary sacrifice'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/wages/36-salary-packaging.md']
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['professional development', 'pd leave', 'study leave'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/managers-admin/education-pd/11-professional-development-leave.md',
+      'ebas/has-managers-admin-2025-2027/managers-admin/education-pd/8-study-leave.md',
+    ]
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['flexible working', 'flexible arrangement', 'working from home', 'wfh'],
+    paths: [
+      'ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/82-requests-for-flexible-working-arrangements.md',
+      'ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/83-working-from-home.md',
+    ]
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
+    topic: ['workload', 'staffing'],
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/81-workload-management.md']
+  },
+  {
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager'],
     topic: ['ohs', 'occupational health', 'safety'],
-    paths: ['ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety.md']
+    paths: ['ebas/has-managers-admin-2025-2027/common-terms/ohs/84-occupational-health-safety.md']
   },
   {
-    keywords: ['has', 'health administrative', 'health allied services', 'administrative services', 'admin', 'clerical', 'manager', 'food services', 'cleaning', 'security'],
+    keywords: ['manager', 'managers', 'admin', 'administration', 'administrative', 'clerical', 'has ', 'health admin', 'health manager', 'ward clerk', 'receptionist', 'scheduler', 'booking', 'pmo', 'project manager', 'operations manager'],
     topic: [],
-    paths: ['ebas/has-managers-admin.md']
+    paths: ['ebas/has-managers-admin-2025-2027/index.md']
   },
-
 ];
 
 // ─── PATH SCORING ─────────────────────────────────────────────────────────────
