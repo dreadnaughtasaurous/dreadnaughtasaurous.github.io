@@ -25,6 +25,7 @@ const OUTPUT    = join(DOCS_DIR, 'public', 'page-catalog.json')
 function walkDir(dir) {
   const results = []
   for (const entry of readdirSync(dir)) {
+    if (entry === 'archive') continue  // archived agreements excluded from the recommendation catalog
     const full = join(dir, entry)
     if (statSync(full).isDirectory()) {
       results.push(...walkDir(full))
