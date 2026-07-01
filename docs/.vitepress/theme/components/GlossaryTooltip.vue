@@ -61,9 +61,9 @@ const EBA_META = {
     name:     'Doctors in Training 2022–2026',
     defsPage: '/ebas/doctors-in-training/preliminary/3-definitions',
   },
-  'has-managers-admin': {
+  'has-managers-admin-2021-2025': {
     file:     '/glossary/has-managers-admin.json',
-    name:     'Health & Allied Services, Managers & Admin 2021–2025',
+    name:     'Health & Allied Services, Managers & Admin 2021–2025 (Archived)',
     defsPage: '/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/6-definitions',
   },
   'has-managers-admin-2025-2027': {
@@ -131,7 +131,11 @@ async function loadGlossary(eba) {
 function ebaFromPath(path) {
   const parts = path.replace(/\.html$/, '').replace(/\/$/, '').split('/')
   const idx   = parts.indexOf('ebas')
-  return idx !== -1 && parts[idx + 1] ? parts[idx + 1] : null
+  if (idx === -1) return null
+  // Archived agreements live at /ebas/archive/<slug>/... — the real slug is
+  // one segment further in than for a live agreement at /ebas/<slug>/...
+  if (parts[idx + 1] === 'archive') return parts[idx + 2] ?? null
+  return parts[idx + 1] ?? null
 }
 
 // Returns true on an EBA's own definitions page — the walker is suppressed there
