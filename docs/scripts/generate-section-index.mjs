@@ -28,10 +28,24 @@ const DOCS_DIR  = join(__dirname, '..')
 const EBAS_DIR  = join(DOCS_DIR, 'ebas')
 const OUT       = join(DOCS_DIR, 'generated', 'section-index-data.js')
 
-const EBA_SLUGS = [
-  'allied-health', 'biomedical-engineers', 'childrens-services',
-  'doctors-in-training', 'has-managers-admin', 'medical-specialists',
-  'mental-health', 'mspp', 'nurses-midwives',
+// Each entry's `folder` is the path under docs/ebas/ to scan — also used as
+// the URL prefix and the section-index-data.js key prefix. `registrySlug` is
+// only needed when the on-disk folder path no longer matches the EBA's slug
+// in eba-registry.js — currently true only for the archived agreement, whose
+// folder was moved under archive/<slug-year>/ but whose registry `slug` field
+// was deliberately left unchanged so colour lookups keep working everywhere
+// else. If registrySlug is omitted it defaults to folder.
+const EBA_SOURCES = [
+  { folder: 'allied-health' },
+  { folder: 'biomedical-engineers' },
+  { folder: 'childrens-services' },
+  { folder: 'doctors-in-training' },
+  { folder: 'archive/has-managers-admin-2021-2025', registrySlug: 'has-managers-admin-2021-2025' },
+  { folder: 'has-managers-admin-2025-2027', registrySlug: 'has-managers-admin' },
+  { folder: 'medical-specialists' },
+  { folder: 'mental-health' },
+  { folder: 'mspp' },
+  { folder: 'nurses-midwives' },
 ]
 
 // ── Frontmatter parser ────────────────────────────────────────────────────────
@@ -128,6 +142,18 @@ function getSectionLabel(sectionSlug, type) {
   return SECTION_LABELS[sectionSlug] ?? 'Clauses'
 }
 
+// ── Locate the index/meta file for a section or stream directory ─────────────
+// Two conventions must be supported side by side:
+//   • Sibling file : parentDir/<name>.md        (old agreements, e.g. has-managers-admin)
+//   • Nested index : parentDir/<name>/index.md  (has-managers-admin-2025-2027 onward)
+function findIndexFile(parentDir, name) {
+  const siblingPath = join(parentDir, `${name}.md`)
+  if (existsSync(siblingPath)) return siblingPath
+  const nestedPath = join(parentDir, name, 'index.md')
+  if (existsSync(nestedPath)) return nestedPath
+  return null
+}
+
 // ── Directory type detection ──────────────────────────────────────────────────
 // A directory is "stream" if it contains any subdirectories (i.e. its children
 // are subsection folders, not leaf clause files).
@@ -164,18 +190,15 @@ function buildClauses(dir, urlBase) {
 // Children are the .md / dir pairs one level inside the stream directory.
 // Each child entry carries its title and a computed clause count.
 function buildChildren(dir, urlBase) {
-  const entries  = readdirSync(dir, { withFileTypes: true })
-  const dirNames = new Set(entries.filter(e => e.isDirectory()).map(e => e.name))
-  const mdFiles  = entries.filter(
-    e => e.isFile() && e.name.endsWith('.md') && e.name !== 'index.md'
-  )
+  const entries = readdirSync(dir, { withFileTypes: true })
 
-  // Only include .md files that have a matching subdirectory
-  return mdFiles
-    .filter(e => dirNames.has(e.name.replace(/\.md$/, '')))
+  return entries
+    .filter(e => e.isDirectory())
     .map(e => {
-      const slug    = e.name.replace(/\.md$/, '')
-      const content = readFileSync(join(dir, e.name), 'utf-8')
+      const slug   = e.name
+      const mdPath = findIndexFile(dir, slug)
+      if (!mdPath) return null
+      const content = readFileSync(mdPath, 'utf-8')
       const fm      = parseFrontmatter(content)
       return {
         title:       String(fm.title || slug),
@@ -183,6 +206,7 @@ function buildChildren(dir, urlBase) {
         clauseCount: countLeafClauses(join(dir, slug)),
       }
     })
+    .filter(Boolean)
 }
 
 // ── Recursively find all .md / dir pairs within a directory ──────────────────
@@ -190,27 +214,23 @@ function buildChildren(dir, urlBase) {
 // keyBase  : dot-path key being built (e.g. "has-managers-admin/common-terms")
 // urlBase  : URL prefix being built   (e.g. "/ebas/has-managers-admin/common-terms/")
 function findPairs(parentDir, keyBase, urlBase) {
-  const pairs    = []
-  const entries  = readdirSync(parentDir, { withFileTypes: true })
-  const dirNames = new Set(entries.filter(e => e.isDirectory()).map(e => e.name))
+  const pairs   = []
+  const entries = readdirSync(parentDir, { withFileTypes: true })
 
   for (const e of entries) {
-    if (!e.isFile() || !e.name.endsWith('.md') || e.name === 'index.md') continue
-    const slug = e.name.replace(/\.md$/, '')
-    if (!dirNames.has(slug)) continue  // no paired directory — skip
+    if (!e.isDirectory()) continue
+    const slug    = e.name
+    const dirPath = join(parentDir, slug)
+    const mdPath  = findIndexFile(parentDir, slug)
+    if (!mdPath) continue  // no sibling .md and no nested index.md — skip
 
     const key     = `${keyBase}/${slug}`
     const nextUrl = `${urlBase}${slug}/`
 
-    pairs.push({
-      mdPath:  join(parentDir, e.name),
-      dirPath: join(parentDir, slug),
-      key,
-      urlBase: nextUrl,
-    })
+    pairs.push({ mdPath, dirPath, key, urlBase: nextUrl })
 
     // Recurse so nested EBA streams produce entries for their children too
-    pairs.push(...findPairs(join(parentDir, slug), key, nextUrl))
+    pairs.push(...findPairs(dirPath, key, nextUrl))
   }
 
   return pairs
@@ -223,14 +243,15 @@ const output        = {}
 let   totalSections = 0
 let   totalStreams   = 0
 
-for (const slug of EBA_SLUGS) {
-  const ebaDir = join(EBAS_DIR, slug)
+for (const source of EBA_SOURCES) {
+  const { folder, registrySlug = folder } = source
+  const ebaDir = join(EBAS_DIR, folder)
   if (!existsSync(ebaDir)) {
-    console.warn(`  ⚠  EBA folder not found, skipping: ${slug}`)
+    console.warn(`  ⚠  EBA folder not found, skipping: ${folder}`)
     continue
   }
 
-  const pairs = findPairs(ebaDir, slug, `/ebas/${slug}/`)
+  const pairs = findPairs(ebaDir, folder, `/ebas/${folder}/`)
 
   for (const { mdPath, dirPath, key, urlBase } of pairs) {
     const content = readFileSync(mdPath, 'utf-8')
@@ -246,7 +267,7 @@ for (const slug of EBA_SLUGS) {
         title:       String(fm.title       || key),
         description: fm.description ? String(fm.description) : null,
         eba:         String(fm.eba         || ''),
-        ebaSlug:     slug,
+        ebaSlug:     registrySlug,
         clauseCount: clauses.length,
         clauses,
       }
@@ -259,7 +280,7 @@ for (const slug of EBA_SLUGS) {
         title:       String(fm.title       || key),
         description: fm.description ? String(fm.description) : null,
         eba:         String(fm.eba         || ''),
-        ebaSlug:     slug,
+        ebaSlug:     registrySlug,
         childCount:  children.length,
         children,
       }

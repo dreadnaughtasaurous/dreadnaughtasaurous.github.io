@@ -170,7 +170,7 @@ export default {
     "type": "section",
     "label": "Appendices",
     "title": "Appendices",
-    "description": null,
+    "description": "Reference lists, pay tables, allowance rates, and templates attached to this EBA.",
     "eba": "Allied Health Professionals 2021-2026",
     "ebaSlug": "allied-health",
     "clauseCount": 6,
@@ -1356,7 +1356,7 @@ export default {
     "type": "section",
     "label": "Appendices",
     "title": "Appendices",
-    "description": null,
+    "description": "Reference lists, pay tables, allowance rates, and templates attached to this EBA.",
     "eba": "Biomedical Engineers 2025-2028",
     "ebaSlug": "biomedical-engineers",
     "clauseCount": 4,
@@ -2565,7 +2565,7 @@ export default {
     "type": "section",
     "label": "Schedules",
     "title": "Schedules",
-    "description": null,
+    "description": "Reference tables and templates attached to the Children''s Services Award 2010.",
     "eba": "Children''s Services Award 2010",
     "ebaSlug": "childrens-services",
     "clauseCount": 9,
@@ -2886,7 +2886,7 @@ export default {
     "type": "section",
     "label": "Appendices",
     "title": "Appendices",
-    "description": null,
+    "description": "Reference lists, pay tables, allowance rates, and templates attached to this EBA.",
     "eba": "Doctors in Training 2022-2026",
     "ebaSlug": "doctors-in-training",
     "clauseCount": 5,
@@ -3731,80 +3731,80 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms": {
+  "archive/has-managers-admin-2021-2025/common-terms": {
     "type": "stream",
     "label": "Subsections",
     "title": "Section 1 – Common Terms",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "childCount": 10,
     "children": [
       {
         "title": "Allowances",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/",
         "clauseCount": 9
       },
       {
         "title": "Classification Staffing",
-        "path": "/ebas/has-managers-admin/common-terms/classification-staffing/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/classification-staffing/",
         "clauseCount": 5
       },
       {
         "title": "Consultation Disputes",
-        "path": "/ebas/has-managers-admin/common-terms/consultation-disputes/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/consultation-disputes/",
         "clauseCount": 3
       },
       {
         "title": "Employment Types",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/",
         "clauseCount": 9
       },
       {
         "title": "Hours Of Work",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/",
         "clauseCount": 7
       },
       {
         "title": "Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/",
         "clauseCount": 17
       },
       {
         "title": "Occupational Health & Safety",
-        "path": "/ebas/has-managers-admin/common-terms/ohs/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/ohs/",
         "clauseCount": 3
       },
       {
         "title": "Preliminary",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/",
         "clauseCount": 14
       },
       {
         "title": "Union Matters",
-        "path": "/ebas/has-managers-admin/common-terms/union-matters/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/union-matters/",
         "clauseCount": 5
       },
       {
         "title": "Wages",
-        "path": "/ebas/has-managers-admin/common-terms/wages/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/",
         "clauseCount": 9
       }
     ]
   },
-  "has-managers-admin/common-terms/allowances": {
+  "archive/has-managers-admin-2021-2025/common-terms/allowances": {
     "type": "section",
     "label": "Clauses",
     "title": "Allowances",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 9,
     "clauses": [
       {
         "displayNumber": "37",
         "title": "37. Lead Apron Allowance",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/37-lead-apron-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/37-lead-apron-allowance/",
         "topics": [
           "allowances"
         ],
@@ -3813,14 +3813,14 @@ export default {
       {
         "displayNumber": "38",
         "title": "38. Supported Wage System for Employees with a Disability",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/38-supported-wage-system-for-employees-with-a/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/38-supported-wage-system-for-employees-with-a/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "39",
         "title": "39. Meal Allowances",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/39-meal-allowances/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/39-meal-allowances/",
         "topics": [
           "allowances"
         ],
@@ -3829,7 +3829,7 @@ export default {
       {
         "displayNumber": "40",
         "title": "40. Telephone Allowance",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/40-telephone-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/40-telephone-allowance/",
         "topics": [
           "allowances"
         ],
@@ -3838,7 +3838,7 @@ export default {
       {
         "displayNumber": "41",
         "title": "41. Travelling Allowance",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/41-travelling-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/41-travelling-allowance/",
         "topics": [
           "allowances"
         ],
@@ -3847,7 +3847,7 @@ export default {
       {
         "displayNumber": "42",
         "title": "42. Uniforms and Protective Clothing",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/42-uniforms-and-protective-clothing/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/42-uniforms-and-protective-clothing/",
         "topics": [
           "allowances",
           "uniforms"
@@ -3857,7 +3857,7 @@ export default {
       {
         "displayNumber": "43",
         "title": "43. Childcare Reimbursement",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/43-childcare-reimbursement/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/43-childcare-reimbursement/",
         "topics": [
           "allowances",
           "childcare"
@@ -3867,7 +3867,7 @@ export default {
       {
         "displayNumber": "44",
         "title": "44. On Call / Recall",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/44-on-call-recall/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/44-on-call-recall/",
         "topics": [
           "hours",
           "on-call",
@@ -3878,7 +3878,7 @@ export default {
       {
         "displayNumber": "45",
         "title": "45. Shiftwork",
-        "path": "/ebas/has-managers-admin/common-terms/allowances/45-shiftwork/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/allowances/45-shiftwork/",
         "topics": [
           "hours",
           "shift-work",
@@ -3888,19 +3888,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms/classification-staffing": {
+  "archive/has-managers-admin-2021-2025/common-terms/classification-staffing": {
     "type": "section",
     "label": "Clauses",
     "title": "Classification Staffing",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 5,
     "clauses": [
       {
         "displayNumber": "75",
         "title": "75. Classifications",
-        "path": "/ebas/has-managers-admin/common-terms/classification-staffing/75-classifications/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/classification-staffing/75-classifications/",
         "topics": [
           "classifications"
         ],
@@ -3909,14 +3909,14 @@ export default {
       {
         "displayNumber": "76",
         "title": "76. Flexibility",
-        "path": "/ebas/has-managers-admin/common-terms/classification-staffing/76-flexibility/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/classification-staffing/76-flexibility/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "77",
         "title": "77. Secure Employment",
-        "path": "/ebas/has-managers-admin/common-terms/classification-staffing/77-secure-employment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/classification-staffing/77-secure-employment/",
         "topics": [
           "employment"
         ],
@@ -3925,7 +3925,7 @@ export default {
       {
         "displayNumber": "78",
         "title": "78. Workload Management",
-        "path": "/ebas/has-managers-admin/common-terms/classification-staffing/78-workload-management/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/classification-staffing/78-workload-management/",
         "topics": [
           "staffing",
           "workload"
@@ -3935,7 +3935,7 @@ export default {
       {
         "displayNumber": "79",
         "title": "79. Requests For Flexible Working Arrangements",
-        "path": "/ebas/has-managers-admin/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/classification-staffing/79-requests-for-flexible-working-arrangements/",
         "topics": [
           "flexible-work"
         ],
@@ -3943,19 +3943,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms/consultation-disputes": {
+  "archive/has-managers-admin-2021-2025/common-terms/consultation-disputes": {
     "type": "section",
     "label": "Clauses",
     "title": "Consultation Disputes",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 3,
     "clauses": [
       {
         "displayNumber": "16",
         "title": "16. Consultation",
-        "path": "/ebas/has-managers-admin/common-terms/consultation-disputes/16-consultation/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/consultation-disputes/16-consultation/",
         "topics": [
           "consultation"
         ],
@@ -3964,7 +3964,7 @@ export default {
       {
         "displayNumber": "17",
         "title": "17. Dispute Resolution Procedure",
-        "path": "/ebas/has-managers-admin/common-terms/consultation-disputes/17-dispute-resolution-procedure/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/consultation-disputes/17-dispute-resolution-procedure/",
         "topics": [
           "disputes"
         ],
@@ -3973,7 +3973,7 @@ export default {
       {
         "displayNumber": "18",
         "title": "18. Managing Conduct and Performance",
-        "path": "/ebas/has-managers-admin/common-terms/consultation-disputes/18-managing-conduct-and-performance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/consultation-disputes/18-managing-conduct-and-performance/",
         "topics": [
           "discipline"
         ],
@@ -3981,19 +3981,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms/employment-types": {
+  "archive/has-managers-admin-2021-2025/common-terms/employment-types": {
     "type": "section",
     "label": "Clauses",
     "title": "Employment Types",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 9,
     "clauses": [
       {
         "displayNumber": "19",
         "title": "19. Types of Employment",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/19-types-of-employment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/19-types-of-employment/",
         "topics": [
           "employment"
         ],
@@ -4002,7 +4002,7 @@ export default {
       {
         "displayNumber": "20",
         "title": "20. Full Time Employment",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/20-full-time-employment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/20-full-time-employment/",
         "topics": [
           "employment"
         ],
@@ -4011,7 +4011,7 @@ export default {
       {
         "displayNumber": "21",
         "title": "21. Regular Part-Time Employment",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/21-regular-part-time-employment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/21-regular-part-time-employment/",
         "topics": [
           "employment"
         ],
@@ -4020,14 +4020,14 @@ export default {
       {
         "displayNumber": "22",
         "title": "22. Part-Time Review of Hours",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/22-part-time-review-of-hours/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/22-part-time-review-of-hours/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "23",
         "title": "23. Casual Employment",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/23-casual-employment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/23-casual-employment/",
         "topics": [
           "employment"
         ],
@@ -4036,7 +4036,7 @@ export default {
       {
         "displayNumber": "24",
         "title": "24. Casual Conversion",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/24-casual-conversion/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/24-casual-conversion/",
         "topics": [
           "employment",
           "casual-conversion"
@@ -4046,7 +4046,7 @@ export default {
       {
         "displayNumber": "25",
         "title": "25. Fixed Term Employment",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/25-fixed-term-employment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/25-fixed-term-employment/",
         "topics": [
           "employment"
         ],
@@ -4055,7 +4055,7 @@ export default {
       {
         "displayNumber": "26",
         "title": "26. Redundancy and Associated Entitlements",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/26-redundancy-and-associated-entitlements/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/26-redundancy-and-associated-entitlements/",
         "topics": [
           "employment",
           "redundancy"
@@ -4065,25 +4065,25 @@ export default {
       {
         "displayNumber": "27",
         "title": "27. Transition to Retirement",
-        "path": "/ebas/has-managers-admin/common-terms/employment-types/27-transition-to-retirement/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/employment-types/27-transition-to-retirement/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/common-terms/hours-of-work": {
+  "archive/has-managers-admin-2021-2025/common-terms/hours-of-work": {
     "type": "section",
     "label": "Clauses",
     "title": "Hours Of Work",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 7,
     "clauses": [
       {
         "displayNumber": "46",
         "title": "46. Minimum Engagement",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/46-minimum-engagement/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/46-minimum-engagement/",
         "topics": [
           "hours",
           "overtime"
@@ -4093,14 +4093,14 @@ export default {
       {
         "displayNumber": "47",
         "title": "47. Accrued Days Off",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/47-accrued-days-off/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/47-accrued-days-off/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "48",
         "title": "48. Rosters",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/48-rosters/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/48-rosters/",
         "topics": [
           "hours",
           "rosters"
@@ -4110,7 +4110,7 @@ export default {
       {
         "displayNumber": "49",
         "title": "49. Daylight Saving",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/49-daylight-saving/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/49-daylight-saving/",
         "topics": [
           "hours",
           "shift-work"
@@ -4120,7 +4120,7 @@ export default {
       {
         "displayNumber": "50",
         "title": "50. Meal Breaks",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/50-meal-breaks/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/50-meal-breaks/",
         "topics": [
           "hours",
           "breaks"
@@ -4130,7 +4130,7 @@ export default {
       {
         "displayNumber": "51",
         "title": "51. Rest Breaks",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/51-rest-breaks/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/51-rest-breaks/",
         "topics": [
           "hours",
           "breaks"
@@ -4140,7 +4140,7 @@ export default {
       {
         "displayNumber": "52",
         "title": "52. Reasonable Additional Hours",
-        "path": "/ebas/has-managers-admin/common-terms/hours-of-work/52-reasonable-additional-hours/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/hours-of-work/52-reasonable-additional-hours/",
         "topics": [
           "hours"
         ],
@@ -4148,19 +4148,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms/leave": {
+  "archive/has-managers-admin-2021-2025/common-terms/leave": {
     "type": "section",
     "label": "Clauses",
     "title": "Leave",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 17,
     "clauses": [
       {
         "displayNumber": "53",
         "title": "53. Annual Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/53-annual-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/53-annual-leave/",
         "topics": [
           "leave",
           "annual-leave"
@@ -4170,7 +4170,7 @@ export default {
       {
         "displayNumber": "54",
         "title": "54. Purchased Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/54-purchased-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/54-purchased-leave/",
         "topics": [
           "leave",
           "annual-leave",
@@ -4181,7 +4181,7 @@ export default {
       {
         "displayNumber": "55",
         "title": "55. Personal Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/55-personal-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/55-personal-leave/",
         "topics": [
           "leave",
           "personal-leave"
@@ -4191,7 +4191,7 @@ export default {
       {
         "displayNumber": "56",
         "title": "56. Compassionate Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/56-compassionate-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/56-compassionate-leave/",
         "topics": [
           "leave",
           "compassionate-leave"
@@ -4201,7 +4201,7 @@ export default {
       {
         "displayNumber": "57",
         "title": "57. Pre-Natal Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/57-pre-natal-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/57-pre-natal-leave/",
         "topics": [
           "parental-leave"
         ],
@@ -4210,7 +4210,7 @@ export default {
       {
         "displayNumber": "58",
         "title": "58. Pre-Adoption Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/58-pre-adoption-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/58-pre-adoption-leave/",
         "topics": [
           "leave",
           "parental-leave"
@@ -4220,7 +4220,7 @@ export default {
       {
         "displayNumber": "59",
         "title": "59. Parental Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/59-parental-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/59-parental-leave/",
         "topics": [
           "leave",
           "parental-leave"
@@ -4230,7 +4230,7 @@ export default {
       {
         "displayNumber": "60",
         "title": "60. Breastfeeding",
-        "path": "/ebas/has-managers-admin/common-terms/leave/60-breastfeeding/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/60-breastfeeding/",
         "topics": [
           "breaks",
           "flexible-work"
@@ -4240,7 +4240,7 @@ export default {
       {
         "displayNumber": "61",
         "title": "61. Long Service Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/61-long-service-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/61-long-service-leave/",
         "topics": [
           "leave",
           "long-service-leave"
@@ -4250,7 +4250,7 @@ export default {
       {
         "displayNumber": "62",
         "title": "62. Leave to Engage in Voluntary Emergency Management Activities",
-        "path": "/ebas/has-managers-admin/common-terms/leave/62-leave-to-engage-in-voluntary-emergency/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/62-leave-to-engage-in-voluntary-emergency/",
         "topics": [
           "leave"
         ],
@@ -4259,7 +4259,7 @@ export default {
       {
         "displayNumber": "63",
         "title": "63. Jury Service Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/63-jury-service-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/63-jury-service-leave/",
         "topics": [
           "leave"
         ],
@@ -4268,14 +4268,14 @@ export default {
       {
         "displayNumber": "64",
         "title": "64. Absences on Defence Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/64-absences-on-defence-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/64-absences-on-defence-leave/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "65",
         "title": "65. Special Disaster Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/65-special-disaster-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/65-special-disaster-leave/",
         "topics": [
           "leave"
         ],
@@ -4284,7 +4284,7 @@ export default {
       {
         "displayNumber": "66",
         "title": "66. Excessive Leave Accrual",
-        "path": "/ebas/has-managers-admin/common-terms/leave/66-excessive-leave-accrual/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/66-excessive-leave-accrual/",
         "topics": [
           "leave",
           "annual-leave"
@@ -4294,7 +4294,7 @@ export default {
       {
         "displayNumber": "67",
         "title": "67. Family Violence Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/67-family-violence-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/67-family-violence-leave/",
         "topics": [
           "leave",
           "family-violence-leave"
@@ -4304,7 +4304,7 @@ export default {
       {
         "displayNumber": "68",
         "title": "68. Cultural and Ceremonial Leave",
-        "path": "/ebas/has-managers-admin/common-terms/leave/68-cultural-and-ceremonial-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/68-cultural-and-ceremonial-leave/",
         "topics": [
           "leave",
           "ceremonial-leave"
@@ -4314,7 +4314,7 @@ export default {
       {
         "displayNumber": "69",
         "title": "69. Public Holidays",
-        "path": "/ebas/has-managers-admin/common-terms/leave/69-public-holidays/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/69-public-holidays/",
         "topics": [
           "public-holidays"
         ],
@@ -4322,19 +4322,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms/ohs": {
+  "archive/has-managers-admin-2021-2025/common-terms/ohs": {
     "type": "section",
     "label": "Clauses",
     "title": "Occupational Health & Safety",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 3,
     "clauses": [
       {
         "displayNumber": "80",
         "title": "80. Occupational Health & Safety",
-        "path": "/ebas/has-managers-admin/common-terms/ohs/80-occupational-health-safety/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/ohs/80-occupational-health-safety/",
         "topics": [
           "ohs"
         ],
@@ -4343,7 +4343,7 @@ export default {
       {
         "displayNumber": "81",
         "title": "81. OH&S Department Placement",
-        "path": "/ebas/has-managers-admin/common-terms/ohs/81-oh-s-department-placement/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/ohs/81-oh-s-department-placement/",
         "topics": [
           "ohs"
         ],
@@ -4352,32 +4352,32 @@ export default {
       {
         "displayNumber": "82",
         "title": "82. Fitness for Work",
-        "path": "/ebas/has-managers-admin/common-terms/ohs/82-fitness-for-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/ohs/82-fitness-for-work/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/common-terms/preliminary": {
+  "archive/has-managers-admin-2021-2025/common-terms/preliminary": {
     "type": "section",
     "label": "Clauses",
     "title": "Preliminary",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 14,
     "clauses": [
       {
         "displayNumber": "1",
         "title": "1. Agreement Title",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/1-agreement-title/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/1-agreement-title/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "3",
         "title": "3. Arrangement of the Agreement",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/3-arrangement-of-the-agreement/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/3-arrangement-of-the-agreement/",
         "topics": [
           "preliminary"
         ],
@@ -4386,7 +4386,7 @@ export default {
       {
         "displayNumber": "4",
         "title": "4. Application of this Section",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/4-application-of-this-section/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/4-application-of-this-section/",
         "topics": [
           "preliminary"
         ],
@@ -4395,7 +4395,7 @@ export default {
       {
         "displayNumber": "5",
         "title": "5. Incidence Coverage",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/5-incidence-coverage/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/5-incidence-coverage/",
         "topics": [
           "preliminary"
         ],
@@ -4404,7 +4404,7 @@ export default {
       {
         "displayNumber": "6",
         "title": "6. Definitions",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/6-definitions/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/6-definitions/",
         "topics": [
           "preliminary"
         ],
@@ -4413,7 +4413,7 @@ export default {
       {
         "displayNumber": "7",
         "title": "7. Commencement Date and Period of Operation",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/7-commencement-date-and-period-of-operation/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/7-commencement-date-and-period-of-operation/",
         "topics": [
           "preliminary"
         ],
@@ -4422,7 +4422,7 @@ export default {
       {
         "displayNumber": "8",
         "title": "8. Relationship to Previous Industrial Instruments",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/8-relationship-to-previous-industrial-instruments/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/8-relationship-to-previous-industrial-instruments/",
         "topics": [
           "preliminary"
         ],
@@ -4431,7 +4431,7 @@ export default {
       {
         "displayNumber": "9",
         "title": "9. No Extra Claims",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/9-no-extra-claims/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/9-no-extra-claims/",
         "topics": [
           "preliminary"
         ],
@@ -4440,14 +4440,14 @@ export default {
       {
         "displayNumber": "10",
         "title": "10. Best Practice Employment Commitment",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/10-best-practice-employment-commitment/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/10-best-practice-employment-commitment/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "11",
         "title": "11. Anti-Discrimination",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/11-anti-discrimination/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/11-anti-discrimination/",
         "topics": [
           "preliminary",
           "discrimination"
@@ -4457,14 +4457,14 @@ export default {
       {
         "displayNumber": "12",
         "title": "12. Multi-Cultural Awareness",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/12-multi-cultural-awareness/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/12-multi-cultural-awareness/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "13",
         "title": "13. Individual Flexibility Arrangement",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/13-individual-flexibility-arrangement/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/13-individual-flexibility-arrangement/",
         "topics": [
           "flexible-work"
         ],
@@ -4473,7 +4473,7 @@ export default {
       {
         "displayNumber": "14",
         "title": "14. Police Check Certificate",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/14-police-check-certificate/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/14-police-check-certificate/",
         "topics": [
           "screening"
         ],
@@ -4482,7 +4482,7 @@ export default {
       {
         "displayNumber": "15",
         "title": "15. Working with Children Check",
-        "path": "/ebas/has-managers-admin/common-terms/preliminary/15-working-with-children-check/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/15-working-with-children-check/",
         "topics": [
           "screening"
         ],
@@ -4490,19 +4490,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/common-terms/union-matters": {
+  "archive/has-managers-admin-2021-2025/common-terms/union-matters": {
     "type": "section",
     "label": "Clauses",
     "title": "Union Matters",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 5,
     "clauses": [
       {
         "displayNumber": "70",
         "title": "70. Union Matters",
-        "path": "/ebas/has-managers-admin/common-terms/union-matters/70-union-matters/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/union-matters/70-union-matters/",
         "topics": [
           "union-matters"
         ],
@@ -4511,7 +4511,7 @@ export default {
       {
         "displayNumber": "71",
         "title": "71. Paid Union Meetings",
-        "path": "/ebas/has-managers-admin/common-terms/union-matters/71-paid-union-meetings/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/union-matters/71-paid-union-meetings/",
         "topics": [
           "union-matters"
         ],
@@ -4520,7 +4520,7 @@ export default {
       {
         "displayNumber": "72",
         "title": "72. Payroll Deduction of Union Dues",
-        "path": "/ebas/has-managers-admin/common-terms/union-matters/72-payroll-deduction-of-union-dues/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/union-matters/72-payroll-deduction-of-union-dues/",
         "topics": [
           "union-matters"
         ],
@@ -4529,32 +4529,32 @@ export default {
       {
         "displayNumber": "73",
         "title": "73. Access to Computers",
-        "path": "/ebas/has-managers-admin/common-terms/union-matters/73-access-to-computers/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/union-matters/73-access-to-computers/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "74",
         "title": "74. Statewide Industry Panel",
-        "path": "/ebas/has-managers-admin/common-terms/union-matters/74-statewide-industry-panel/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/union-matters/74-statewide-industry-panel/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/common-terms/wages": {
+  "archive/has-managers-admin-2021-2025/common-terms/wages": {
     "type": "section",
     "label": "Clauses",
     "title": "Wages",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 9,
     "clauses": [
       {
         "displayNumber": "28",
         "title": "28. Salary and Allowances Increases",
-        "path": "/ebas/has-managers-admin/common-terms/wages/28-salary-and-allowances-increases/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/28-salary-and-allowances-increases/",
         "topics": [
           "allowances",
           "wages"
@@ -4564,7 +4564,7 @@ export default {
       {
         "displayNumber": "29",
         "title": "29. Payment of Wages",
-        "path": "/ebas/has-managers-admin/common-terms/wages/29-payment-of-wages/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/29-payment-of-wages/",
         "topics": [
           "wages"
         ],
@@ -4573,14 +4573,14 @@ export default {
       {
         "displayNumber": "30",
         "title": "30. Recovery of Overpayments",
-        "path": "/ebas/has-managers-admin/common-terms/wages/30-recovery-of-overpayments/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/30-recovery-of-overpayments/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "31",
         "title": "31. Superannuation",
-        "path": "/ebas/has-managers-admin/common-terms/wages/31-superannuation/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/31-superannuation/",
         "topics": [
           "superannuation"
         ],
@@ -4589,7 +4589,7 @@ export default {
       {
         "displayNumber": "32",
         "title": "32. Salary Packaging",
-        "path": "/ebas/has-managers-admin/common-terms/wages/32-salary-packaging/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/32-salary-packaging/",
         "topics": [
           "wages",
           "salary-packaging"
@@ -4599,7 +4599,7 @@ export default {
       {
         "displayNumber": "33",
         "title": "33. Accident Pay",
-        "path": "/ebas/has-managers-admin/common-terms/wages/33-accident-pay/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/33-accident-pay/",
         "topics": [
           "accident-pay"
         ],
@@ -4608,7 +4608,7 @@ export default {
       {
         "displayNumber": "34",
         "title": "34. Trainees",
-        "path": "/ebas/has-managers-admin/common-terms/wages/34-trainees/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/34-trainees/",
         "topics": [
           "training"
         ],
@@ -4617,95 +4617,95 @@ export default {
       {
         "displayNumber": "35",
         "title": "35. Juniors",
-        "path": "/ebas/has-managers-admin/common-terms/wages/35-juniors/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/35-juniors/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "36",
         "title": "36. Employee Records",
-        "path": "/ebas/has-managers-admin/common-terms/wages/36-employee-records/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/common-terms/wages/36-employee-records/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services": {
+  "archive/has-managers-admin-2021-2025/health-allied-services": {
     "type": "stream",
     "label": "Subsections",
     "title": "Section 2 – Health & Allied Services",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "childCount": 9,
     "children": [
       {
         "title": "Allowances",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/",
         "clauseCount": 13
       },
       {
         "title": "Classification Staffing",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/",
         "clauseCount": 14
       },
       {
         "title": "Education & Professional Development",
-        "path": "/ebas/has-managers-admin/health-allied-services/education-pd/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/education-pd/",
         "clauseCount": 3
       },
       {
         "title": "Employment Types",
-        "path": "/ebas/has-managers-admin/health-allied-services/employment-types/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/employment-types/",
         "clauseCount": 2
       },
       {
         "title": "Hours Of Work",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/",
         "clauseCount": 8
       },
       {
         "title": "Preliminary",
-        "path": "/ebas/has-managers-admin/health-allied-services/preliminary/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/preliminary/",
         "clauseCount": 3
       },
       {
         "title": "Union Matters",
-        "path": "/ebas/has-managers-admin/health-allied-services/union-matters/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/union-matters/",
         "clauseCount": 1
       },
       {
         "title": "Wages",
-        "path": "/ebas/has-managers-admin/health-allied-services/wages/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/wages/",
         "clauseCount": 2
       },
       {
         "title": "Workplace Rights",
-        "path": "/ebas/has-managers-admin/health-allied-services/workplace-rights/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/workplace-rights/",
         "clauseCount": 2
       }
     ]
   },
-  "has-managers-admin/health-allied-services/allowances": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/allowances": {
     "type": "section",
     "label": "Clauses",
     "title": "Allowances",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 13,
     "clauses": [
       {
         "displayNumber": "9",
         "title": "9. Higher Duties",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/9-higher-duties/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/9-higher-duties/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "10",
         "title": "10. In Charge Allowances",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/10-in-charge-allowances/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/10-in-charge-allowances/",
         "topics": [
           "allowances"
         ],
@@ -4714,7 +4714,7 @@ export default {
       {
         "displayNumber": "11",
         "title": "11. Nauseous Work Allowance",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/11-nauseous-work-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/11-nauseous-work-allowance/",
         "topics": [
           "allowances"
         ],
@@ -4723,7 +4723,7 @@ export default {
       {
         "displayNumber": "12",
         "title": "12. Seniors Allowance",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/12-seniors-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/12-seniors-allowance/",
         "topics": [
           "allowances"
         ],
@@ -4732,7 +4732,7 @@ export default {
       {
         "displayNumber": "13",
         "title": "13. Tool Allowance (Chefs and Cooks Only)",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/13-tool-allowance-chefs-and-cooks-only/",
         "topics": [
           "allowances"
         ],
@@ -4741,7 +4741,7 @@ export default {
       {
         "displayNumber": "14",
         "title": "14. Certificate Allowance - Pathology Technicians",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/14-certificate-allowance-pathology-technicians/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/14-certificate-allowance-pathology-technicians/",
         "topics": [
           "allowances"
         ],
@@ -4750,14 +4750,14 @@ export default {
       {
         "displayNumber": "15",
         "title": "15. Cooking Trade Proficiency Payments",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/15-cooking-trade-proficiency-payments/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/15-cooking-trade-proficiency-payments/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "16",
         "title": "16. Educational Incentive Allowance",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/16-educational-incentive-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/16-educational-incentive-allowance/",
         "topics": [
           "allowances",
           "education"
@@ -4767,14 +4767,14 @@ export default {
       {
         "displayNumber": "17",
         "title": "17. Reimbursement Of Expenses (DHSV)",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/17-reimbursement-of-expenses-dhsv/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "18",
         "title": "18. Tow Motor Driver Allowance",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/18-tow-motor-driver-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/18-tow-motor-driver-allowance/",
         "topics": [
           "allowances"
         ],
@@ -4783,14 +4783,14 @@ export default {
       {
         "displayNumber": "19",
         "title": "19. Code Black and/or Code Grey Response",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/19-code-black-and-or-code-grey-response/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/19-code-black-and-or-code-grey-response/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "20",
         "title": "20. Patient Transport Officer Certificate Allowance",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/20-patient-transport-officer-certificate-allowance/",
         "topics": [
           "allowances"
         ],
@@ -4799,7 +4799,7 @@ export default {
       {
         "displayNumber": "21",
         "title": "21. Security Officer Certificate Allowance",
-        "path": "/ebas/has-managers-admin/health-allied-services/allowances/21-security-officer-certificate-allowance/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/allowances/21-security-officer-certificate-allowance/",
         "topics": [
           "allowances"
         ],
@@ -4807,40 +4807,40 @@ export default {
       }
     ]
   },
-  "has-managers-admin/health-allied-services/classification-staffing": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing": {
     "type": "section",
     "label": "Clauses",
     "title": "Classification Staffing",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 14,
     "clauses": [
       {
         "displayNumber": "34",
         "title": "34. Transition to New Instrument Technician Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/34-transition-to-new-instrument-technician-structure/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "35",
         "title": "35. Transition to New Theatre Technician Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/35-transition-to-new-theatre-technician-structure/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "36",
         "title": "36. Transition of All Other Employees",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/36-transition-of-all-other-employees/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/36-transition-of-all-other-employees/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "37",
         "title": "37. Introduction of Revised Food Services Classification Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/37-introduction-of-revised-food-services-classification/",
         "topics": [
           "classifications"
         ],
@@ -4849,7 +4849,7 @@ export default {
       {
         "displayNumber": "38",
         "title": "38. Introduction of Revised General Services Classification Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/38-introduction-of-revised-general-services-classification/",
         "topics": [
           "classifications"
         ],
@@ -4858,28 +4858,28 @@ export default {
       {
         "displayNumber": "39",
         "title": "39. Introduction of Revised Pathology Collector Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/39-introduction-of-revised-pathology-collector-structure/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "40",
         "title": "40. Introduction of Revised Allied Health Assistant Classification Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/40-introduction-of-revised-allied-health-assistant/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "41",
         "title": "41. Introduction of Revised Health Care Worker Classification Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/41-introduction-of-revised-health-care-worker/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "42",
         "title": "42. Dental Assistants Working in Mobile Dental Programs",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/42-dental-assistants-working-in-mobile-dental-programs/",
         "topics": [
           "travel"
         ],
@@ -4888,60 +4888,60 @@ export default {
       {
         "displayNumber": "43",
         "title": "43. Wage Skill Group 1 Translation",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/43-wage-skill-group-1-translation/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/43-wage-skill-group-1-translation/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "44",
         "title": "44. Introduction of Lifestyle Assistant and Complimentary Therapies Worker Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/44-introduction-of-lifestyle-assistant-and-complimentary/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "45",
         "title": "45. Dual Part-Time Appointments",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/45-dual-part-time-appointments/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/45-dual-part-time-appointments/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "46",
         "title": "46. Clinical Services Enhancement Job Rotation",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/46-clinical-services-enhancement-job-rotation/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/46-clinical-services-enhancement-job-rotation/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "47",
         "title": "47. Review of Pharmacy Technician Structure",
-        "path": "/ebas/has-managers-admin/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/classification-staffing/47-review-of-pharmacy-technician-structure/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services/education-pd": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/education-pd": {
     "type": "section",
     "label": "Clauses",
     "title": "Education & Professional Development",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 3,
     "clauses": [
       {
         "displayNumber": "30",
         "title": "30. Staff Appraisal",
-        "path": "/ebas/has-managers-admin/health-allied-services/education-pd/30-staff-appraisal/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/education-pd/30-staff-appraisal/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "31",
         "title": "31. Study Leave",
-        "path": "/ebas/has-managers-admin/health-allied-services/education-pd/31-study-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/education-pd/31-study-leave/",
         "topics": [
           "leave",
           "study-leave",
@@ -4952,25 +4952,25 @@ export default {
       {
         "displayNumber": "32",
         "title": "32. Technology in Cleaning",
-        "path": "/ebas/has-managers-admin/health-allied-services/education-pd/32-technology-in-cleaning/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/education-pd/32-technology-in-cleaning/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services/employment-types": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/employment-types": {
     "type": "section",
     "label": "Clauses",
     "title": "Employment Types",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 2,
     "clauses": [
       {
         "displayNumber": "5",
         "title": "5. Notice of Termination - Employer",
-        "path": "/ebas/has-managers-admin/health-allied-services/employment-types/5-notice-of-termination-employer/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/employment-types/5-notice-of-termination-employer/",
         "topics": [
           "employment",
           "termination"
@@ -4980,7 +4980,7 @@ export default {
       {
         "displayNumber": "6",
         "title": "6. Notice of Termination - Employee",
-        "path": "/ebas/has-managers-admin/health-allied-services/employment-types/6-notice-of-termination-employee/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/employment-types/6-notice-of-termination-employee/",
         "topics": [
           "employment",
           "termination"
@@ -4989,19 +4989,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/health-allied-services/hours-of-work": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work": {
     "type": "section",
     "label": "Clauses",
     "title": "Hours Of Work",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 8,
     "clauses": [
       {
         "displayNumber": "22",
         "title": "22. Hours of Work",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/22-hours-of-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/22-hours-of-work/",
         "topics": [
           "hours"
         ],
@@ -5010,7 +5010,7 @@ export default {
       {
         "displayNumber": "23",
         "title": "23. Rosters (DHSV)",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/23-rosters-dhsv/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/23-rosters-dhsv/",
         "topics": [
           "hours",
           "rosters"
@@ -5020,14 +5020,14 @@ export default {
       {
         "displayNumber": "24",
         "title": "24. Weekend Work",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/24-weekend-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/24-weekend-work/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "25",
         "title": "25. Overtime",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/25-overtime/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/25-overtime/",
         "topics": [
           "hours",
           "overtime"
@@ -5037,7 +5037,7 @@ export default {
       {
         "displayNumber": "26",
         "title": "26. Overtime In Lieu",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/26-overtime-in-lieu/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/26-overtime-in-lieu/",
         "topics": [
           "hours",
           "overtime"
@@ -5047,39 +5047,39 @@ export default {
       {
         "displayNumber": "27",
         "title": "27. Make Up Time",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/27-make-up-time/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/27-make-up-time/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "28",
         "title": "28. Wash-Up Time",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/28-wash-up-time/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/28-wash-up-time/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "29",
         "title": "29. Promotion of Local Workforce",
-        "path": "/ebas/has-managers-admin/health-allied-services/hours-of-work/29-promotion-of-local-workforce/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/29-promotion-of-local-workforce/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services/preliminary": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/preliminary": {
     "type": "section",
     "label": "Clauses",
     "title": "Preliminary",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 3,
     "clauses": [
       {
         "displayNumber": "2",
         "title": "2. Application of Section 2",
-        "path": "/ebas/has-managers-admin/health-allied-services/preliminary/2-application-of-section-2/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/preliminary/2-application-of-section-2/",
         "topics": [
           "preliminary"
         ],
@@ -5088,7 +5088,7 @@ export default {
       {
         "displayNumber": "3",
         "title": "3. Definitions",
-        "path": "/ebas/has-managers-admin/health-allied-services/preliminary/3-definitions/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/preliminary/3-definitions/",
         "topics": [
           "preliminary"
         ],
@@ -5097,68 +5097,68 @@ export default {
       {
         "displayNumber": "4",
         "title": "4. Performance Management (DHSV)",
-        "path": "/ebas/has-managers-admin/health-allied-services/preliminary/4-performance-management-dhsv/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/preliminary/4-performance-management-dhsv/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services/union-matters": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/union-matters": {
     "type": "section",
     "label": "Clauses",
     "title": "Union Matters",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 1,
     "clauses": [
       {
         "displayNumber": "33",
         "title": "33. Workforce Skills, Capability and Mobility",
-        "path": "/ebas/has-managers-admin/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/union-matters/33-workforce-skills-capability-and-mobility/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services/wages": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/wages": {
     "type": "section",
     "label": "Clauses",
     "title": "Wages",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 2,
     "clauses": [
       {
         "displayNumber": "7",
         "title": "7. Experience Payments",
-        "path": "/ebas/has-managers-admin/health-allied-services/wages/7-experience-payments/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/wages/7-experience-payments/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "8",
         "title": "8. Apprentices",
-        "path": "/ebas/has-managers-admin/health-allied-services/wages/8-apprentices/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/wages/8-apprentices/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/health-allied-services/workplace-rights": {
+  "archive/has-managers-admin-2021-2025/health-allied-services/workplace-rights": {
     "type": "section",
     "label": "Clauses",
     "title": "Workplace Rights",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 2,
     "clauses": [
       {
         "displayNumber": "48",
         "title": "48. Staffing Flexibility (DHSV)",
-        "path": "/ebas/has-managers-admin/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/workplace-rights/48-staffing-flexibility-dhsv/",
         "topics": [
           "staffing"
         ],
@@ -5167,66 +5167,66 @@ export default {
       {
         "displayNumber": "49",
         "title": "49. Amenities",
-        "path": "/ebas/has-managers-admin/health-allied-services/workplace-rights/49-amenities/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/health-allied-services/workplace-rights/49-amenities/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/managers-admin": {
+  "archive/has-managers-admin-2021-2025/managers-admin": {
     "type": "stream",
     "label": "Subsections",
     "title": "Section 3 – Managers and Administrative Workers",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "childCount": 6,
     "children": [
       {
         "title": "Allowances",
-        "path": "/ebas/has-managers-admin/managers-admin/allowances/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/allowances/",
         "clauseCount": 2
       },
       {
         "title": "Classification Staffing",
-        "path": "/ebas/has-managers-admin/managers-admin/classification-staffing/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/classification-staffing/",
         "clauseCount": 2
       },
       {
         "title": "Education & Professional Development",
-        "path": "/ebas/has-managers-admin/managers-admin/education-pd/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/education-pd/",
         "clauseCount": 4
       },
       {
         "title": "Employment Types",
-        "path": "/ebas/has-managers-admin/managers-admin/employment-types/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/employment-types/",
         "clauseCount": 2
       },
       {
         "title": "Hours Of Work",
-        "path": "/ebas/has-managers-admin/managers-admin/hours-of-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/",
         "clauseCount": 5
       },
       {
         "title": "Preliminary",
-        "path": "/ebas/has-managers-admin/managers-admin/preliminary/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/preliminary/",
         "clauseCount": 1
       }
     ]
   },
-  "has-managers-admin/managers-admin/allowances": {
+  "archive/has-managers-admin-2021-2025/managers-admin/allowances": {
     "type": "section",
     "label": "Clauses",
     "title": "Allowances",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 2,
     "clauses": [
       {
         "displayNumber": "5",
         "title": "5. Higher Duties",
-        "path": "/ebas/has-managers-admin/managers-admin/allowances/5-higher-duties/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/allowances/5-higher-duties/",
         "topics": [
           "wages",
           "higher-duties"
@@ -5236,50 +5236,50 @@ export default {
       {
         "displayNumber": "6",
         "title": "6. Removal Expenses",
-        "path": "/ebas/has-managers-admin/managers-admin/allowances/6-removal-expenses/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/allowances/6-removal-expenses/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/managers-admin/classification-staffing": {
+  "archive/has-managers-admin-2021-2025/managers-admin/classification-staffing": {
     "type": "section",
     "label": "Clauses",
     "title": "Classification Staffing",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 2,
     "clauses": [
       {
         "displayNumber": "16",
         "title": "16. Worker Wellbeing and Employment Support Officers",
-        "path": "/ebas/has-managers-admin/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/classification-staffing/16-worker-wellbeing-and-employment-support-officers/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "17",
         "title": "17. Translation of Managers and Administrative Workers (Royal Children’s Hospital & Royal Women’s Hospital only)",
-        "path": "/ebas/has-managers-admin/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers/",
         "topics": [],
         "summary": null
       }
     ]
   },
-  "has-managers-admin/managers-admin/education-pd": {
+  "archive/has-managers-admin-2021-2025/managers-admin/education-pd": {
     "type": "section",
     "label": "Clauses",
     "title": "Education & Professional Development",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 4,
     "clauses": [
       {
         "displayNumber": "12",
         "title": "12. Study Leave",
-        "path": "/ebas/has-managers-admin/managers-admin/education-pd/12-study-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/education-pd/12-study-leave/",
         "topics": [
           "leave",
           "study-leave"
@@ -5289,7 +5289,7 @@ export default {
       {
         "displayNumber": "13",
         "title": "13. Examination Leave",
-        "path": "/ebas/has-managers-admin/managers-admin/education-pd/13-examination-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/education-pd/13-examination-leave/",
         "topics": [
           "leave"
         ],
@@ -5298,7 +5298,7 @@ export default {
       {
         "displayNumber": "14",
         "title": "14. Education and Training",
-        "path": "/ebas/has-managers-admin/managers-admin/education-pd/14-education-and-training/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/education-pd/14-education-and-training/",
         "topics": [
           "education"
         ],
@@ -5307,7 +5307,7 @@ export default {
       {
         "displayNumber": "15",
         "title": "15. Professional Development Leave",
-        "path": "/ebas/has-managers-admin/managers-admin/education-pd/15-professional-development-leave/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/education-pd/15-professional-development-leave/",
         "topics": [
           "professional-development"
         ],
@@ -5315,19 +5315,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/managers-admin/employment-types": {
+  "archive/has-managers-admin-2021-2025/managers-admin/employment-types": {
     "type": "section",
     "label": "Clauses",
     "title": "Employment Types",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 2,
     "clauses": [
       {
         "displayNumber": "3",
         "title": "3. Notice of Termination - Employer",
-        "path": "/ebas/has-managers-admin/managers-admin/employment-types/3-notice-of-termination-employer/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/employment-types/3-notice-of-termination-employer/",
         "topics": [
           "employment",
           "termination"
@@ -5337,7 +5337,7 @@ export default {
       {
         "displayNumber": "4",
         "title": "4. Notice of Termination - Employee",
-        "path": "/ebas/has-managers-admin/managers-admin/employment-types/4-notice-of-termination-employee/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/employment-types/4-notice-of-termination-employee/",
         "topics": [
           "employment",
           "termination"
@@ -5346,19 +5346,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/managers-admin/hours-of-work": {
+  "archive/has-managers-admin-2021-2025/managers-admin/hours-of-work": {
     "type": "section",
     "label": "Clauses",
     "title": "Hours Of Work",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 5,
     "clauses": [
       {
         "displayNumber": "7",
         "title": "7. Hours of Work",
-        "path": "/ebas/has-managers-admin/managers-admin/hours-of-work/7-hours-of-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/7-hours-of-work/",
         "topics": [
           "hours"
         ],
@@ -5367,7 +5367,7 @@ export default {
       {
         "displayNumber": "8",
         "title": "8. Roster",
-        "path": "/ebas/has-managers-admin/managers-admin/hours-of-work/8-roster/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/8-roster/",
         "topics": [
           "hours",
           "rosters"
@@ -5377,14 +5377,14 @@ export default {
       {
         "displayNumber": "9",
         "title": "9. Weekend Work",
-        "path": "/ebas/has-managers-admin/managers-admin/hours-of-work/9-weekend-work/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/9-weekend-work/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "10",
         "title": "10. Overtime",
-        "path": "/ebas/has-managers-admin/managers-admin/hours-of-work/10-overtime/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/10-overtime/",
         "topics": [
           "hours",
           "overtime"
@@ -5394,7 +5394,7 @@ export default {
       {
         "displayNumber": "11",
         "title": "11. Overtime In Lieu",
-        "path": "/ebas/has-managers-admin/managers-admin/hours-of-work/11-overtime-in-lieu/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/11-overtime-in-lieu/",
         "topics": [
           "hours",
           "overtime"
@@ -5403,19 +5403,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/managers-admin/preliminary": {
+  "archive/has-managers-admin-2021-2025/managers-admin/preliminary": {
     "type": "section",
     "label": "Clauses",
     "title": "Preliminary",
     "description": null,
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 1,
     "clauses": [
       {
         "displayNumber": "2",
         "title": "2. Application of Section 3",
-        "path": "/ebas/has-managers-admin/managers-admin/preliminary/2-application-of-section-3/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/managers-admin/preliminary/2-application-of-section-3/",
         "topics": [
           "preliminary"
         ],
@@ -5423,19 +5423,19 @@ export default {
       }
     ]
   },
-  "has-managers-admin/schedules": {
+  "archive/has-managers-admin-2021-2025/schedules": {
     "type": "section",
     "label": "Schedules",
     "title": "Schedules",
-    "description": null,
+    "description": "Reference tables and role descriptions attached to the agreement.",
     "eba": "Health Allied & Managers Admin 2021-2025",
-    "ebaSlug": "has-managers-admin",
+    "ebaSlug": "has-managers-admin-2021-2025",
     "clauseCount": 13,
     "clauses": [
       {
         "displayNumber": "1A",
         "title": "Schedule 1A - Employers Covered",
-        "path": "/ebas/has-managers-admin/schedules/1a-employers-covered/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/1a-employers-covered/",
         "topics": [
           "coverage"
         ],
@@ -5444,7 +5444,7 @@ export default {
       {
         "displayNumber": "1B",
         "title": "Schedule 1B – Supported Wage System for Employees with a Disability",
-        "path": "/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/1b-supported-wage-system-for-employees-with-a-disability/",
         "topics": [
           "disability"
         ],
@@ -5453,7 +5453,7 @@ export default {
       {
         "displayNumber": "2B",
         "title": "Schedule 2B - Wage Rates (Health & Allied Services)",
-        "path": "/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/2b-wage-rates-health-allied-services/",
         "topics": [
           "pay-rates",
           "wages",
@@ -5468,7 +5468,7 @@ export default {
       {
         "displayNumber": "2C",
         "title": "Schedule 2C - Allowances (Health & Allied Services)",
-        "path": "/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/2c-allowances-health-allied-services/",
         "topics": [
           "allowances",
           "remuneration",
@@ -5482,7 +5482,7 @@ export default {
       {
         "displayNumber": "2D",
         "title": "Schedule 2D – Classification Structure",
-        "path": "/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/2d-classification-structure-health-allied-services/",
         "topics": [
           "classifications"
         ],
@@ -5491,7 +5491,7 @@ export default {
       {
         "displayNumber": "3B",
         "title": "Schedule 3B - Wage Rates (Managers and Administrative Workers)",
-        "path": "/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3b-wage-rates-managers-and-administrative-workers/",
         "topics": [
           "pay-rates",
           "wages",
@@ -5506,7 +5506,7 @@ export default {
       {
         "displayNumber": "3C",
         "title": "Schedule 3C - Allowances (Managers and Administrative Workers)",
-        "path": "/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3c-allowances-managers-and-administrative-workers/",
         "topics": [
           "allowances",
           "remuneration",
@@ -5519,7 +5519,7 @@ export default {
       {
         "displayNumber": "3D",
         "title": "Schedule 3D – Classification Structure (Managers and Administrative Workers)",
-        "path": "/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3d-classification-structure-managers-and-administrative-workers/",
         "topics": [
           "classifications"
         ],
@@ -5528,36 +5528,1909 @@ export default {
       {
         "displayNumber": "3E",
         "title": "Schedule 3E – Workplace Trainer/Careers Advisor",
-        "path": "/ebas/has-managers-admin/schedules/3e-workplace-trainer-careers-advisor/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3e-workplace-trainer-careers-advisor/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "3F",
         "title": "Schedule 3F – Worker Wellbeing Officer",
-        "path": "/ebas/has-managers-admin/schedules/3f-worker-wellbeing-officer/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3f-worker-wellbeing-officer/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "3G",
         "title": "Schedule 3G – Aboriginal Employment Support Officer",
-        "path": "/ebas/has-managers-admin/schedules/3g-aboriginal-employment-support-officer/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3g-aboriginal-employment-support-officer/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "3H",
         "title": "Schedule 3H – Disability Employment Support Officer",
-        "path": "/ebas/has-managers-admin/schedules/3h-disability-employment-support-officer/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3h-disability-employment-support-officer/",
         "topics": [],
         "summary": null
       },
       {
         "displayNumber": "3I",
         "title": "Schedule 3I – Veteran Employment Support Officer",
-        "path": "/ebas/has-managers-admin/schedules/3i-veteran-employment-support-officer/",
+        "path": "/ebas/archive/has-managers-admin-2021-2025/schedules/3i-veteran-employment-support-officer/",
         "topics": [],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms": {
+    "type": "stream",
+    "label": "Subsections",
+    "title": "Section 1 – Common Terms",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "childCount": 10,
+    "children": [
+      {
+        "title": "Allowances",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/",
+        "clauseCount": 9
+      },
+      {
+        "title": "Part I - Classification and Staffing",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/",
+        "clauseCount": 6
+      },
+      {
+        "title": "Part B - Consultation, Dispute Resolution and Discipline",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/",
+        "clauseCount": 4
+      },
+      {
+        "title": "Part C - Types of Employment and Termination of Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/",
+        "clauseCount": 10
+      },
+      {
+        "title": "Part F - Hours of Work and Related Matters",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/",
+        "clauseCount": 7
+      },
+      {
+        "title": "Part G - Leave and Public Holidays",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/",
+        "clauseCount": 18
+      },
+      {
+        "title": "Part J - Occupational Health and Safety and Related Matters",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/ohs/",
+        "clauseCount": 4
+      },
+      {
+        "title": "Part A - General Terms",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/",
+        "clauseCount": 15
+      },
+      {
+        "title": "Part H - Union and Other Resources",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/union-matters/",
+        "clauseCount": 4
+      },
+      {
+        "title": "Part D - Wages",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/",
+        "clauseCount": 9
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/allowances": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Allowances",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 9,
+    "clauses": [
+      {
+        "displayNumber": "40",
+        "title": "40. Lead Apron Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/40-lead-apron-allowance/",
+        "topics": [
+          "allowances",
+          "lead-apron"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "41",
+        "title": "41. Supported Wage System for Employees with a Disability",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/41-supported-wage-system-for-employees-with-a-disability/",
+        "topics": [
+          "supported-wage",
+          "disability"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "42",
+        "title": "42. Travelling & Reimbursements",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/42-travelling-reimbursements/",
+        "topics": [
+          "travel",
+          "reimbursements",
+          "vehicle-allowance"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "43",
+        "title": "43. Uniforms and Protective Clothing",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/43-uniforms-and-protective-clothing/",
+        "topics": [
+          "uniforms",
+          "protective-clothing",
+          "allowances"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "44",
+        "title": "44. Childcare Reimbursement",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/44-childcare-reimbursement/",
+        "topics": [
+          "childcare",
+          "reimbursement",
+          "overtime"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "45",
+        "title": "45. Allowances Related to Overtime",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/45-allowances-related-to-overtime/",
+        "topics": [
+          "allowances",
+          "overtime",
+          "meal-allowance",
+          "on-call"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "46",
+        "title": "46. Recall",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/46-recall/",
+        "topics": [
+          "overtime",
+          "allowances"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "47",
+        "title": "47. Rest Period after Overtime/Recall",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/47-rest-period-after-overtime-recall/",
+        "topics": [
+          "overtime",
+          "hours-of-work",
+          "breaks"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "48",
+        "title": "48. Shiftwork",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/allowances/48-shiftwork/",
+        "topics": [
+          "allowances",
+          "shiftwork",
+          "hours-of-work"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/classification-staffing": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part I - Classification and Staffing",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 6,
+    "clauses": [
+      {
+        "displayNumber": "78",
+        "title": "78. Classifications",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/78-classifications/",
+        "topics": [
+          "classifications"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "79",
+        "title": "79. Flexibility",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/79-flexibility/",
+        "topics": [
+          "flexibility"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "80",
+        "title": "80. Secure Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/80-secure-employment/",
+        "topics": [
+          "secure-employment"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "81",
+        "title": "81. Workload Management",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/81-workload-management/",
+        "topics": [
+          "workload-management"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "82",
+        "title": "82. Requests For Flexible Working Arrangements",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/82-requests-for-flexible-working-arrangements/",
+        "topics": [
+          "flexible-working-arrangements"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "83",
+        "title": "83. Working from Home",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/83-working-from-home/",
+        "topics": [
+          "working-from-home"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/consultation-disputes": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part B - Consultation, Dispute Resolution and Discipline",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 4,
+    "clauses": [
+      {
+        "displayNumber": "17",
+        "title": "17. Consultation",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/17-consultation/",
+        "topics": [
+          "consultation"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "18",
+        "title": "18. Consultation about Changes to Rosters or Hours of Work",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/18-consultation-about-changes-to-rosters-or-hours-of-work/",
+        "topics": [
+          "consultation",
+          "rosters",
+          "hours-of-work"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "19",
+        "title": "19. Dispute Resolution Procedure",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/19-dispute-resolution-procedure/",
+        "topics": [
+          "dispute-resolution",
+          "grievances"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "20",
+        "title": "20. Managing Conduct and Performance",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/20-managing-conduct-and-performance/",
+        "topics": [
+          "discipline",
+          "performance-management",
+          "conduct"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/employment": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part C - Types of Employment and Termination of Employment",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 10,
+    "clauses": [
+      {
+        "displayNumber": "21",
+        "title": "21. Types of Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/21-types-of-employment-and-termination-of-employment/",
+        "topics": [
+          "employment-types"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "22",
+        "title": "22. Full Time Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/22-full-time-employment/",
+        "topics": [
+          "employment-types",
+          "full-time"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "23",
+        "title": "23. Regular Part-Time Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/23-regular-part-time-employment/",
+        "topics": [
+          "employment",
+          "part-time"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "24",
+        "title": "24. Part-Time Review of Hours",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/24-part-time-review-of-hours/",
+        "topics": [
+          "employment",
+          "part-time",
+          "review-of-hours"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "25",
+        "title": "25. Casual Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/25-casual-employment/",
+        "topics": [
+          "employment",
+          "casual"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "26",
+        "title": "26. Casual Conversion",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/26-casual-conversion/",
+        "topics": [
+          "employment",
+          "casual",
+          "casual-conversion"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "27",
+        "title": "27. Fixed Term Employment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/27-fixed-term-employment/",
+        "topics": [
+          "employment",
+          "fixed-term"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "28",
+        "title": "28. Notice Period Before Termination",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/28-notice-period-before-termination/",
+        "topics": [
+          "termination",
+          "notice-period"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "29",
+        "title": "29. Redundancy and Associated Entitlements",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/29-redundancy-and-associated-entitlements/",
+        "topics": [
+          "redundancy",
+          "severance",
+          "redeployment"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "30",
+        "title": "30. Transition to Retirement",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/employment/30-transition-to-retirement/",
+        "topics": [
+          "retirement",
+          "flexible-working"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/hours-of-work": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part F - Hours of Work and Related Matters",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 7,
+    "clauses": [
+      {
+        "displayNumber": "49",
+        "title": "49. Minimum Engagement",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/49-minimum-engagement/",
+        "topics": [
+          "hours-of-work",
+          "minimum-engagement"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "50",
+        "title": "50. Accrued Days Off",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/50-accrued-days-off/",
+        "topics": [
+          "hours-of-work",
+          "leave",
+          "accrued-days-off"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "51",
+        "title": "51. Rosters",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/51-rosters/",
+        "topics": [
+          "rosters",
+          "hours-of-work"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "52",
+        "title": "52. Daylight Saving",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/52-daylight-saving/",
+        "topics": [
+          "daylight-saving",
+          "hours-of-work",
+          "overtime"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "53",
+        "title": "53. Breaks",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/53-breaks/",
+        "topics": [
+          "breaks",
+          "meal-breaks",
+          "rest-breaks"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "54",
+        "title": "54. Reasonable Additional Hours",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/54-reasonable-additional-hours/",
+        "topics": [
+          "overtime",
+          "hours-of-work"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "55",
+        "title": "55. Right to Disconnect",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/hours-of-work/55-right-to-disconnect/",
+        "topics": [
+          "right-to-disconnect",
+          "hours-of-work",
+          "work-life-balance"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/leave": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part G - Leave and Public Holidays",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 18,
+    "clauses": [
+      {
+        "displayNumber": "56",
+        "title": "56. Annual Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/56-annual-leave/",
+        "topics": [
+          "leave",
+          "annual-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "57",
+        "title": "57. Purchased Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/57-purchased-leave/",
+        "topics": [
+          "leave",
+          "purchased-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "58",
+        "title": "58. Personal leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/58-personal-leave/",
+        "topics": [
+          "leave",
+          "personal-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "59",
+        "title": "59. Casual Employment – Caring Responsibilities",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/59-casual-employment-caring-responsibilities/",
+        "topics": [
+          "leave",
+          "casual-employment",
+          "carer-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "60",
+        "title": "60. Compassionate Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/60-compassionate-leave/",
+        "topics": [
+          "leave",
+          "compassionate-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "61",
+        "title": "61. Pre-Natal Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/61-pre-natal-leave/",
+        "topics": [
+          "leave",
+          "pre-natal-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "62",
+        "title": "62. Parental Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/62-parental-leave/",
+        "topics": [
+          "leave",
+          "parental-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "63",
+        "title": "63. Breastfeeding",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/63-breast-feeding/",
+        "topics": [
+          "leave",
+          "breastfeeding"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "64",
+        "title": "64. Long Service Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/64-long-service-leave/",
+        "topics": [
+          "leave",
+          "long-service-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "65",
+        "title": "65. Leave to Engage in Voluntary Emergency Management Activities",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/65-leave-to-engage-in-voluntary-emergency-management-activities/",
+        "topics": [
+          "emergency-management-leave",
+          "community-service-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "66",
+        "title": "66. Jury Service Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/66-jury-service-leave/",
+        "topics": [
+          "jury-service-leave",
+          "community-service-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "67",
+        "title": "67. Absences on Defence Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/67-absences-on-defence-leave/",
+        "topics": [
+          "defence-leave",
+          "reserve-service"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "68",
+        "title": "68. Special Disaster Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/68-special-disaster-leave/",
+        "topics": [
+          "special-disaster-leave",
+          "emergency-leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "69",
+        "title": "69. Family and Domestic Violence Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/69-family-and-domestic-violence-leave/",
+        "topics": [
+          "family-and-domestic-violence-leave",
+          "paid-leave",
+          "employee-support"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "70",
+        "title": "70. Cultural and Ceremonial Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/70-cultural-and-ceremonial-leave/",
+        "topics": [
+          "cultural-leave",
+          "ceremonial-leave",
+          "naidoc",
+          "first-nations"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "71",
+        "title": "71. Reproductive Health Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/71-reproductive-health-leave/",
+        "topics": [
+          "reproductive-health-leave",
+          "leave",
+          "health"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "72",
+        "title": "72. Gender Affirmation",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/72-gender-affirmation/",
+        "topics": [
+          "gender-affirmation",
+          "leave"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "73",
+        "title": "73. Public Holidays",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/leave/73-public-holidays/",
+        "topics": [
+          "public-holidays",
+          "leave",
+          "penalty-rates"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/ohs": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part J - Occupational Health and Safety and Related Matters",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 4,
+    "clauses": [
+      {
+        "displayNumber": "84",
+        "title": "84. Occupational Health & Safety",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/ohs/84-occupational-health-safety/",
+        "topics": [
+          "occupational-health-and-safety",
+          "workplace-safety",
+          "health-and-safety-representatives",
+          "workers-compensation"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "85",
+        "title": "85. OH&S Department Placement",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/ohs/85-ohs-department-placement/",
+        "topics": [
+          "occupational-health-and-safety",
+          "department-placement",
+          "health-and-safety-representatives"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "86",
+        "title": "86. Fitness for Work",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/ohs/86-fitness-for-work/",
+        "topics": [
+          "fitness-for-work",
+          "occupational-health-and-safety",
+          "medical-assessment"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "87",
+        "title": "87. Reasonable Adjustments for Employees with a Disability",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/ohs/87-reasonable-adjustments-for-employees-with-a-disability/",
+        "topics": [
+          "reasonable-adjustments",
+          "disability",
+          "equal-opportunity"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/preliminary": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part A - General Terms",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 15,
+    "clauses": [
+      {
+        "displayNumber": "1",
+        "title": "1. Agreement Title",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/1-agreement-title/",
+        "topics": [],
+        "summary": null
+      },
+      {
+        "displayNumber": "3",
+        "title": "3. Arrangement of the Agreement",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/3-arrangement-of-the-agreement/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "4",
+        "title": "4. Application of this Section",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/4-application-of-this-section/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "5",
+        "title": "5. Incidence & Coverage",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/5-incident-coverage/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "6",
+        "title": "6. Definitions",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/6-definitions/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "7",
+        "title": "7. Commencement Date and Period of Operation",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/7-commencement-date-and-period-of-operation/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "8",
+        "title": "8. Relationship to Previous Industrial Instruments",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/8-relationship-to-previous-industrial-instruments/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "9",
+        "title": "9. No Extra Claims",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/9-no-extra-claims/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "10",
+        "title": "10. Central Implementation Committee",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/10-central-implementation-committee/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "11",
+        "title": "11. Section 2 Employees – Wage Review",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/11-section-2-employees-wage-review/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "12",
+        "title": "12. Anti-Discrimination",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/12-anti-discrimination/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "13",
+        "title": "13. Multi-cultural awareness",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/13-multi-cultural-awareness/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "14",
+        "title": "14. Individual Flexibility Arrangement",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/14-individual-flexibility-arrangement/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "15",
+        "title": "15. Police Check/Certificate",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/15-police-check-certificate/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "16",
+        "title": "16. Working with Children Check",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/preliminary/16-working-with-children-check/",
+        "topics": [
+          "preliminary"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/union-matters": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part H - Union and Other Resources",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 4,
+    "clauses": [
+      {
+        "displayNumber": "74",
+        "title": "74. Union Matters",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/union-matters/74-union-matters/",
+        "topics": [
+          "union-matters",
+          "delegates",
+          "union-training"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "75",
+        "title": "75. Payroll Deduction of Union Dues",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/union-matters/75-payroll-deduction-of-union-dues/",
+        "topics": [
+          "union-dues",
+          "payroll-deductions"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "76",
+        "title": "76. Access to Computers",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/union-matters/76-access-to-computers/",
+        "topics": [
+          "computer-access",
+          "information-technology"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "77",
+        "title": "77. Workforce Skills, Capability and Mobility",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/union-matters/77-workforce-skills-capability-and-mobility/",
+        "topics": [
+          "workforce-skills",
+          "capability",
+          "mobility"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/common-terms/wages": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part D - Wages",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 9,
+    "clauses": [
+      {
+        "displayNumber": "31",
+        "title": "31. Wages and Allowances",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/31-wages-and-allowances/",
+        "topics": [
+          "wages",
+          "allowances",
+          "wage-increases"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "32",
+        "title": "32. Once-off Cash Payment",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/32-once-off-cash-payment/",
+        "topics": [
+          "wages",
+          "cash-payment",
+          "bonus"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "33",
+        "title": "33. Payment of Wages, Employee Records and Related Matters",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/33-payment-of-wages-employee-records-and-related-matters/",
+        "topics": [
+          "wages",
+          "records"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "34",
+        "title": "34. Recovery of Overpayments",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/34-recovery-of-overpayments/",
+        "topics": [
+          "wages"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "35",
+        "title": "35. Superannuation",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/35-superannuation/",
+        "topics": [
+          "superannuation",
+          "wages"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "36",
+        "title": "36. Salary Packaging",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/36-salary-packaging/",
+        "topics": [
+          "wages",
+          "salary-packaging"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "37",
+        "title": "37. Accident Pay",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/37-accident-pay/",
+        "topics": [
+          "accident-pay",
+          "wages"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "38",
+        "title": "38. Trainees",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/38-trainees/",
+        "topics": [
+          "trainees",
+          "employment"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "39",
+        "title": "39. Juniors",
+        "path": "/ebas/has-managers-admin-2025-2027/common-terms/wages/39-juniors/",
+        "topics": [
+          "juniors",
+          "wages"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services": {
+    "type": "stream",
+    "label": "Subsections",
+    "title": "Section 2 – Health & Allied Services",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "childCount": 7,
+    "children": [
+      {
+        "title": "Part C - Allowances and Reimbursements",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/",
+        "clauseCount": 12
+      },
+      {
+        "title": "Part F - Classification and Staffing",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/",
+        "clauseCount": 7
+      },
+      {
+        "title": "Part E - Education and Professional Development",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/education-pd/",
+        "clauseCount": 3
+      },
+      {
+        "title": "Part D - Hours of Work and Related Matters",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/",
+        "clauseCount": 7
+      },
+      {
+        "title": "Part A - General Terms",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/preliminary/",
+        "clauseCount": 2
+      },
+      {
+        "title": "Part B - Wages",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/wages/",
+        "clauseCount": 2
+      },
+      {
+        "title": "Part G - Workplace Rights",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/workplace-rights/",
+        "clauseCount": 2
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/allowances": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part C - Allowances and Reimbursements",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 12,
+    "clauses": [
+      {
+        "displayNumber": "5",
+        "title": "5. Higher Duties",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/5-higher-duties/",
+        "topics": [
+          "allowances",
+          "higher-duties"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "6",
+        "title": "6. In Charge Allowances",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/6-in-charge-allowances/",
+        "topics": [
+          "allowances",
+          "in-charge-allowance"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "7",
+        "title": "7. Nauseous Work Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/7-nauseous-work-allowance/",
+        "topics": [
+          "allowances",
+          "nauseous-work-allowance"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "8",
+        "title": "8. Seniors Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/8-seniors-allowance/",
+        "topics": [
+          "allowances",
+          "seniors-allowance"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "9",
+        "title": "9. Tool Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/9-tool-allowance/",
+        "topics": [
+          "allowances",
+          "tool-allowance"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "10",
+        "title": "10. Certificate Allowance – Pathology Technicians",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/10-certificate-allowance-pathology-technicians/",
+        "topics": [
+          "allowances",
+          "certificate-allowance",
+          "pathology-technicians"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "11",
+        "title": "11. Cooking Trade Proficiency Payments",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/11-cooking-trade-proficiency-payments/",
+        "topics": [
+          "allowances",
+          "apprentices",
+          "cooking-trade-proficiency"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "12",
+        "title": "12. Educational Incentive",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/12-educational-incentive/",
+        "topics": [
+          "educational-incentive",
+          "allowances",
+          "professional-development"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "13",
+        "title": "13. Tow Motor Driver Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/13-tow-motor-driver-allowance/",
+        "topics": [
+          "tow-motor-driver-allowance",
+          "allowances"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "14",
+        "title": "14. Code Black and/or Code Grey Response",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/14-code-black-and-or-code-grey-response/",
+        "topics": [
+          "code-black",
+          "code-grey",
+          "security-response"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "15",
+        "title": "15. Patient Transport Officer Certificate Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/15-patient-transport-officer-certificate-allowance/",
+        "topics": [
+          "patient-transport-officer-certificate-allowance",
+          "allowances"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "16",
+        "title": "16. Security Officer Certificate Allowance",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/allowances/16-security-officer-certificate-allowance/",
+        "topics": [
+          "security-officer-certificate-allowance",
+          "allowances"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/classification-staffing": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part F - Classification and Staffing",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 7,
+    "clauses": [
+      {
+        "displayNumber": "27",
+        "title": "27. Transition of All Other Employees",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/27-transition-of-all-other-employees/",
+        "topics": [
+          "classification",
+          "transition"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "28",
+        "title": "28. Review of Second Cook and Chef Structure",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/28-review-of-second-cook-and-chef-structure/",
+        "topics": [
+          "classification-review",
+          "cooks",
+          "chefs"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "29",
+        "title": "29. Allied Health Assistant Review",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/29-allied-health-assistant-review/",
+        "topics": [
+          "classification-review",
+          "allied-health-assistants"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "30",
+        "title": "30. Dental Assistants Working in Mobile Dental Programs",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/30-dental-assistants-working-in-mobile-dental-programs/",
+        "topics": [
+          "mobile-dental-programs",
+          "dental-assistants"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "31",
+        "title": "31. Dual Part-Time Appointments",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/31-dual-part-time-appointments/",
+        "topics": [
+          "part-time-employment",
+          "dual-appointments"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "32",
+        "title": "32. Clinical Services Enhancement/Job Rotation",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/32-clinical-services-enhancement-job-rotation/",
+        "topics": [
+          "job-rotation",
+          "clinical-services",
+          "dental-assistants"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "33",
+        "title": "33. Review of Pharmacy Technician Structure",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/33-review-of-pharmacy-technician-structure/",
+        "topics": [
+          "classification-review",
+          "pharmacy-technicians"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/education-pd": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part E - Education and Professional Development",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 3,
+    "clauses": [
+      {
+        "displayNumber": "24",
+        "title": "24. Staff Appraisal",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/education-pd/24-staff-appraisal/",
+        "topics": [
+          "staff-appraisal",
+          "performance-appraisal"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "25",
+        "title": "25. Study Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/education-pd/25-study-leave/",
+        "topics": [
+          "study-leave",
+          "professional-development"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "26",
+        "title": "26. Technology in cleaning",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/education-pd/26-technology-in-cleaning/",
+        "topics": [
+          "cleaning",
+          "technology",
+          "infection-control"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/hours-of-work": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part D - Hours of Work and Related Matters",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 7,
+    "clauses": [
+      {
+        "displayNumber": "17",
+        "title": "17. Hours of Work",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/17-hours-of-work/",
+        "topics": [
+          "hours-of-work"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "18",
+        "title": "18. Rosters (OHV)",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/18-rosters-ohv/",
+        "topics": [
+          "rosters"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "19",
+        "title": "19. Weekend Work",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/19-weekend-work/",
+        "topics": [
+          "weekend-work",
+          "penalty-rates"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "20",
+        "title": "20. Overtime",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/20-overtime/",
+        "topics": [
+          "overtime"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "21",
+        "title": "21. Overtime In Lieu",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/21-overtime-in-lieu/",
+        "topics": [
+          "overtime-in-lieu"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "22",
+        "title": "22. Make Up Time",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/22-make-up-time/",
+        "topics": [
+          "make-up-time"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "23",
+        "title": "23. Promotion of Local Workforce",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/hours-of-work/23-promotion-of-local-workforce/",
+        "topics": [
+          "local-workforce"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/preliminary": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part A - General Terms",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 2,
+    "clauses": [
+      {
+        "displayNumber": "1",
+        "title": "1. Application of Section 2",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/preliminary/1-application-of-section-2/",
+        "topics": [
+          "application",
+          "section-2"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "2",
+        "title": "2. Definitions",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/preliminary/2-definitions/",
+        "topics": [
+          "definitions",
+          "section-2"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/wages": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part B - Wages",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 2,
+    "clauses": [
+      {
+        "displayNumber": "3",
+        "title": "3. Experience Payments",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/wages/3-experience-payments/",
+        "topics": [
+          "wages",
+          "experience-payments"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "4",
+        "title": "4. Apprentices",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/wages/4-apprentices/",
+        "topics": [
+          "wages",
+          "apprentices"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/health-allied-services/workplace-rights": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part G - Workplace Rights",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 2,
+    "clauses": [
+      {
+        "displayNumber": "34",
+        "title": "34. Staffing Flexibility (OHV)",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/workplace-rights/34-staffing-flexibility-ohv/",
+        "topics": [
+          "staffing-flexibility",
+          "dental-assistants",
+          "ohv"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "35",
+        "title": "35. Amenities",
+        "path": "/ebas/has-managers-admin-2025-2027/health-allied-services/workplace-rights/35-amenities/",
+        "topics": [
+          "amenities",
+          "facilities",
+          "accommodation"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/managers-admin": {
+    "type": "stream",
+    "label": "Subsections",
+    "title": "Section 3 – Managers and Administrative Workers",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "childCount": 5,
+    "children": [
+      {
+        "title": "Part B - Allowances and Reimbursements",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/allowances/",
+        "clauseCount": 2
+      },
+      {
+        "title": "Part E - Classification and Staffing",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/classification-staffing/",
+        "clauseCount": 1
+      },
+      {
+        "title": "Part D - Education and Professional Development",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/education-pd/",
+        "clauseCount": 4
+      },
+      {
+        "title": "Part C - Hours of Work and Related Matters",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/",
+        "clauseCount": 4
+      },
+      {
+        "title": "Part A - General Terms",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/preliminary/",
+        "clauseCount": 1
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/managers-admin/allowances": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part B - Allowances and Reimbursements",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 2,
+    "clauses": [
+      {
+        "displayNumber": "2",
+        "title": "2. Higher Duties",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/allowances/2-higher-duties/",
+        "topics": [
+          "allowances",
+          "higher-duties"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3",
+        "title": "3. Removal Expenses",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/allowances/3-removal-expenses/",
+        "topics": [
+          "allowances",
+          "removal-expenses"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/managers-admin/classification-staffing": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part E - Classification and Staffing",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 1,
+    "clauses": [
+      {
+        "displayNumber": "12",
+        "title": "12. Worker Wellbeing and Employment Support Officers",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/classification-staffing/12-worker-wellbeing-and-employment-support-officers/",
+        "topics": [
+          "classification",
+          "worker-wellbeing",
+          "employment-support-officers"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/managers-admin/education-pd": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part D - Education and Professional Development",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 4,
+    "clauses": [
+      {
+        "displayNumber": "8",
+        "title": "8. Study Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/education-pd/8-study-leave/",
+        "topics": [
+          "study-leave",
+          "education"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "9",
+        "title": "9. Examination Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/education-pd/9-examination-leave/",
+        "topics": [
+          "examination-leave",
+          "education"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "10",
+        "title": "10. Education and Training",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/education-pd/10-education-and-training/",
+        "topics": [
+          "education",
+          "training"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "11",
+        "title": "11. Professional Development Leave",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/education-pd/11-professional-development-leave/",
+        "topics": [
+          "professional-development-leave",
+          "education"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/managers-admin/hours-of-work": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part C - Hours of Work and Related Matters",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 4,
+    "clauses": [
+      {
+        "displayNumber": "4",
+        "title": "4. Hours of Work",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/4-hours-of-work/",
+        "topics": [
+          "hours-of-work",
+          "12-hour-shifts"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "5",
+        "title": "5. Weekend Work",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/5-weekend-work/",
+        "topics": [
+          "weekend-work",
+          "penalty-rates"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "6",
+        "title": "6. Overtime",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/6-overtime/",
+        "topics": [
+          "overtime",
+          "penalty-rates"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "7",
+        "title": "7. Overtime In Lieu",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/hours-of-work/7-overtime-in-lieu/",
+        "topics": [
+          "overtime",
+          "time-off-in-lieu"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/managers-admin/preliminary": {
+    "type": "section",
+    "label": "Clauses",
+    "title": "Part A - General Terms",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 1,
+    "clauses": [
+      {
+        "displayNumber": "1",
+        "title": "1. Application of Section 3",
+        "path": "/ebas/has-managers-admin-2025-2027/managers-admin/preliminary/1-application-of-section-3/",
+        "topics": [
+          "application",
+          "section-3"
+        ],
+        "summary": null
+      }
+    ]
+  },
+  "has-managers-admin-2025-2027/schedules": {
+    "type": "section",
+    "label": "Schedules",
+    "title": "Schedules",
+    "description": null,
+    "eba": "Health Allied & Managers Admin 2025-2027",
+    "ebaSlug": "has-managers-admin",
+    "clauseCount": 13,
+    "clauses": [
+      {
+        "displayNumber": "1A",
+        "title": "SCHEDULE 1A – EMPLOYERS COVERED",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/1a-employers-covered/",
+        "topics": [
+          "employers-covered"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "1B",
+        "title": "SCHEDULE 1B – SUPPORTED WAGE SYSTEM FOR EMPLOYEES WITH A DISABILITY",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/1b-supported-wage-system-for-employees-with-a-disability/",
+        "topics": [
+          "supported-wage-system",
+          "disability"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "2B",
+        "title": "Schedule 2B - Wage Rates (Health & Allied Services)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services/",
+        "topics": [
+          "wage-rates",
+          "health-allied-services",
+          "dental-assistants"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "2C",
+        "title": "Schedule 2C - Allowances (Health & Allied Services)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/2c-allowances-health-allied-services/",
+        "topics": [
+          "allowances",
+          "section-2",
+          "health-and-allied-services",
+          "dental-assistants"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "2D",
+        "title": "Schedule 2D – Classification Structure",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services/",
+        "topics": [
+          "classifications",
+          "health-allied-services",
+          "dental-assistants"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3B",
+        "title": "Schedule 3B – Wage Rates (Managers and Administrative Workers)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers/",
+        "topics": [
+          "wage-rates",
+          "managers-administrative-workers"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3C",
+        "title": "Schedule 3C – Allowances",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3c-allowances-managers-and-administrative-workers/",
+        "topics": [
+          "allowances",
+          "managers-and-administrative-workers"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3D",
+        "title": "SCHEDULE 3D – CLASSIFICATION STRUCTURE",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3d-classification-structure-managers-and-administrative-workers/",
+        "topics": [
+          "classification-structure",
+          "managers-and-administrative-workers"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3E",
+        "title": "Schedule 3E - Workplace Trainer/Careers Advisor (Managers and Administrative Workers)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3e-workplace-trainer-careers-advisor/",
+        "topics": [
+          "workplace-training",
+          "career-advice",
+          "education-and-training"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3F",
+        "title": "Schedule 3F - Worker Wellbeing Officer (Managers and Administrative Workers)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3f-worker-wellbeing-officer/",
+        "topics": [
+          "worker-wellbeing",
+          "mental-health",
+          "workplace-health-and-safety"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3G",
+        "title": "Schedule 3G - Aboriginal Employment Support Officer (Managers and Administrative Workers)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3g-aboriginal-employment-support-officer/",
+        "topics": [
+          "aboriginal-employment",
+          "employment-support",
+          "workforce-diversity"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3H",
+        "title": "Schedule 3H - Disability Employment Support Officer (Managers and Administrative Workers)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3h-disability-employment-support-officer/",
+        "topics": [
+          "disability-employment",
+          "employment-support",
+          "workforce-diversity"
+        ],
+        "summary": null
+      },
+      {
+        "displayNumber": "3I",
+        "title": "Schedule 3I - Veteran Employment Support Officer (Managers and Administrative Workers)",
+        "path": "/ebas/has-managers-admin-2025-2027/schedules/3i-veteran-employment-support-officer/",
+        "topics": [
+          "veteran-employment",
+          "employment-support",
+          "workforce-diversity"
+        ],
         "summary": null
       }
     ]
@@ -5693,7 +7566,7 @@ export default {
     "type": "section",
     "label": "Appendices",
     "title": "Appendices",
-    "description": null,
+    "description": "Reference lists, pay tables, allowance rates, and templates attached to this EBA.",
     "eba": "Medical Specialists 2022-2026",
     "ebaSlug": "medical-specialists",
     "clauseCount": 7,
@@ -8933,7 +10806,7 @@ export default {
     "type": "section",
     "label": "Schedules",
     "title": "Schedules",
-    "description": null,
+    "description": "Reference tables and templates attached to the agreement. Click a schedule to view.",
     "eba": "Mental Health Services 2024-2028",
     "ebaSlug": "mental-health",
     "clauseCount": 11,
@@ -10309,7 +12182,7 @@ export default {
     "type": "section",
     "label": "Schedules",
     "title": "Schedules",
-    "description": null,
+    "description": "Reference tables, classification descriptors, pay and allowance rates, and hospital-specific agreements attached to this EBA.",
     "eba": "Medical Scientists, Pharm & Psych 2021-2025",
     "ebaSlug": "mspp",
     "clauseCount": 16,
@@ -10761,7 +12634,7 @@ export default {
     "type": "section",
     "label": "Appendices",
     "title": "Appendices",
-    "description": null,
+    "description": "Reference tables and templates attached to the agreement. Click an appendix to view.",
     "eba": "Nurses and Midwives 2024-2028",
     "ebaSlug": "nurses-midwives",
     "clauseCount": 9,

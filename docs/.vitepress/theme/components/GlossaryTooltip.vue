@@ -64,8 +64,12 @@ const EBA_META = {
   'has-managers-admin': {
     file:     '/glossary/has-managers-admin.json',
     name:     'Health & Allied Services, Managers & Admin 2021–2025',
-    // ⚠ Verify this path against your actual sidebar before deploying
-    defsPage: '/ebas/has-managers-admin/common-terms/preliminary/6-definitions',
+    defsPage: '/ebas/archive/has-managers-admin-2021-2025/common-terms/preliminary/6-definitions',
+  },
+  'has-managers-admin-2025-2027': {
+    file:     '/glossary/has-managers-admin-2025-2027.json',
+    name:     'Health & Allied Services, Managers & Admin 2025–2027',
+    defsPage: '/ebas/has-managers-admin-2025-2027/common-terms/preliminary/6-definitions',
   },
   'mspp': {
     file:     '/glossary/mspp.json',

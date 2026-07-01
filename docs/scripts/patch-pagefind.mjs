@@ -580,8 +580,12 @@ for (const file of htmlFiles) {
     .join(' ')
 
   // ── FILTER SPANS ─────────────────────────────────────────────────────────────
+  // Archived agreements are excluded from filter spans entirely so they cannot
+  // appear in the EBA filter dropdown's underlying Pagefind facet counts, and
+  // cannot surface via filtered search even if data-pagefind-ignore is bypassed.
+  const isArchivedSlugPath = relative(distDir, file).replace(/\\/g, '/').startsWith('ebas/archive/')
   let filterSpans = ''
-  if (fm.eba) {
+  if (fm.eba && !isArchivedSlugPath) {
     filterSpans += `<span data-pagefind-filter="eba" data-pagefind-ignore data-allow-mismatch style="display:none">${fm.eba}</span>`
   }
   if (fm.topics && fm.topics.length > 0) {
@@ -624,6 +628,20 @@ for (const file of htmlFiles) {
     }
   }
 
+  // Archived pages get data-pagefind-ignore on <html> itself. Without this,
+  // Pagefind falls back to indexing the entire <body> for any page that has
+  // no data-pagefind-body element anywhere on it — which is exactly what an
+  // archived page looks like once vp-doc is marked ignore-only. That fallback
+  // was why archived content kept surfacing in search despite vp-doc being
+  // excluded.
+  const isFullyArchived = relHtml.replace(/\\/g, '/').startsWith('ebas/archive/')
+  if (isFullyArchived && /<html\b[^>]*>/.test(html)) {
+    html = html.replace(/<html\b([^>]*)>/, (m, attrs) => {
+      if (/data-pagefind-ignore/.test(attrs)) return m
+      return `<html${attrs} data-pagefind-ignore>`
+    })
+  }
+
   if (html.includes('class="vp-doc ')) {
     // Body-ignore slugs and patterns get data-pagefind-ignore instead of
     // data-pagefind-body. This removes body text from TF-IDF scoring while
@@ -631,7 +649,9 @@ for (const file of htmlFiles) {
     // page remains findable when searched directly by its own name.
     // BODY_IGNORE_SLUGS: exact named slugs (confirmed problem pages).
     // BODY_IGNORE_PATTERNS: regex class coverage (catches future EBAs automatically).
+    const isArchivedPath = relHtml.replace(/\\/g, '/').startsWith('ebas/archive/')
     const pagefindBodyAttr = (
+      isArchivedPath ||
       BODY_IGNORE_SLUGS.has(slug) ||
       BODY_IGNORE_PATTERNS.some(re => re.test(slug.toLowerCase()))
     ) ? 'data-pagefind-ignore' : 'data-pagefind-body'

@@ -372,7 +372,7 @@ const EBA_OPTIONS = [
   { value: 'Biomedical Engineers 2025-2028',              label: 'Biomedical Engineers' },
   { value: "Children's Services Award 2010",              label: "Children's Services"  },
   { value: 'Doctors in Training 2022-2026',               label: 'Doctors in Training'  },
-  { value: 'Health Allied Managers Admin 2021-2025',      label: 'HAS Managers & Admin' },
+  { value: 'Health Allied & Managers Admin 2025-2027',    label: 'HAS Managers & Admin' },
   { value: 'Medical Specialists 2022-2026',               label: 'Medical Specialists'  },
   { value: 'Mental Health Services 2024-2028',            label: 'Mental Health'        },
   { value: 'Medical Scientists, Pharm & Psych 2021-2025', label: 'Medical Scientists'   },

@@ -1,7 +1,7 @@
 /* =============================================
    EBA Wiki — Custom Global Styles
    ============================================= */
-
+ 
 /* ============================================================
    OpenDyslexic — self-hosted web font declarations
    ============================================================
@@ -10,7 +10,7 @@
    cost for users who never activate this feature.
    font-display: swap prevents invisible text during load.
    ============================================================ */
-
+ 
 @font-face {
   font-family: 'OpenDyslexic';
   src: url('/fonts/OpenDyslexic-Regular.woff2') format('woff2');
@@ -39,18 +39,18 @@
   font-style:  italic;
   font-display: swap;
 }
-
+ 
 /* =============================================
    Design Tokens
    ─────────────────────────────────────────────
    Single source of truth for the wiki's visual
    scale. Reference these rather than hard-coding
    values — changes propagate everywhere.
-
+ 
    Stripe-inspired: one radius scale, one shadow
    scale, one focus ring definition.
    ============================================= */
-
+ 
 :root {
   /* ── Border radius ── */
   --wiki-radius-sm:   4px;     /* chips, badges, code tags           */
@@ -58,13 +58,13 @@
   --wiki-radius-lg:   8px;     /* cards, panels, tooltips            */
   --wiki-radius-xl:   12px;    /* modals, large floating surfaces    */
   --wiki-radius-pill: 9999px;  /* full-pill: badges, chips, search CTAs */
-
+ 
   /* ── Color scheme ─────────────────────────────────────────────────────────
      Tells the browser the OS preference before JS sets the .dark class.
      Eliminates the white flash on first dark-mode load. Also applies OS
      dark chrome to native scrollbars, select dropdowns, and form inputs. */
   color-scheme: light dark;
-
+ 
   /* ── Type scale ─────────────────────────────────────────────────────────────
      Five named steps on a ~1.25 ratio. Use these everywhere — do not add
      one-off font-size values outside this scale.
@@ -78,7 +78,7 @@
   --wiki-text-base: 0.9375rem;  /* 15px */
   --wiki-text-lg:   1.0625rem;  /* 17px */
   --wiki-text-xl:   1.25rem;    /* 20px */
-
+ 
   /* ── Shadows ─────────────────────────────────────────────────────────────────
      Second layer carries a faint brand-violet warmth so shadows feel grounded
      in the product rather than generic grey. Opacity is sub-perceptual on most
@@ -86,21 +86,21 @@
   --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.07),  0 1px 2px  rgba(80,40,180,0.04);
   --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.09), 0 2px 4px  rgba(80,40,180,0.06);
   --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.12), 0 4px 8px  rgba(80,40,180,0.07);
-
+ 
   /* ── Motion ── */
   --wiki-transition: 0.15s;
-
+ 
   /* ── Focus ring ── */
   --wiki-focus-color:  var(--vp-c-brand-1);
   --wiki-focus-width:  2px;
   --wiki-focus-offset: 2px;
-
+ 
   /* ── Danger colour ──────────────────────────────────────────────────────────
      Defined as a standalone token so the disclaimer and any future danger UI
      resolve through the same source of truth.                                  */
   --wiki-c-danger:    #c0392b;
   --wiki-c-danger-bg: rgba(192, 57, 43, 0.06);
-
+ 
   /* ── EBAIndexPage semantic alias tokens ─────────────────────────────────────
      EBAIndexPage.vue uses a --color-* / --border-radius-* namespace that pre-dates
      the --wiki-* token system. These aliases bridge the gap without requiring
@@ -109,7 +109,7 @@
   --border-radius-sm: var(--wiki-radius-sm);
   --border-radius-md: var(--wiki-radius-md);
   --border-radius-lg: var(--wiki-radius-lg);
-
+ 
   --color-text-primary:   var(--vp-c-text-1);
   --color-text-secondary: var(--vp-c-text-2);
   --color-text-tertiary:  var(--vp-c-text-3);
@@ -117,14 +117,14 @@
   --color-text-warning:   #D97706;
   --color-text-danger:    var(--wiki-c-danger);  /* red — was incorrectly #3B82F6 (blue) */
   --color-text-info:      #7C3AED;
-
+ 
   --color-background-primary:   var(--vp-c-bg);
   --color-background-secondary: var(--vp-c-bg-soft);
   --color-background-success:   #05966918;
   --color-background-warning:   #D9770618;
   --color-background-danger:    var(--wiki-c-danger-bg);  /* red tint — was blue tint */
   --color-background-info:      #7C3AED18;
-
+ 
   /* --color-border-secondary is intentionally distinct from tertiary:
      tertiary = default divider colour; secondary = hover/active border.
      color-mix() blends 30% brand into the divider for a perceptible but
@@ -132,49 +132,49 @@
   --color-border-tertiary:  var(--vp-c-divider);
   --color-border-secondary: color-mix(in srgb, var(--vp-c-divider) 70%, var(--vp-c-brand-1));
 }
-
+ 
 .dark {
   --wiki-shadow-card:     0 1px 3px rgba(0,0,0,0.22),  0 1px 2px  rgba(80,40,180,0.08);
   --wiki-shadow-lift:     0 4px 12px rgba(0,0,0,0.38), 0 2px 4px  rgba(80,40,180,0.12);
   --wiki-shadow-elevated: 0 8px 24px rgba(0,0,0,0.55), 0 4px 8px  rgba(80,40,180,0.14);
-
+ 
   /* Danger token: brighter red reads adequately on dark backgrounds */
   --wiki-c-danger:    #e05252;
   --wiki-c-danger-bg: rgba(224, 82, 82, 0.10);
-
+ 
   /* Semantic status colours are intentionally kept at the same values in dark  */
   /* mode — they are low-opacity tint badges and read adequately on dark bg.   */
 }
-
+ 
 /* =============================================
    Pay Rates Page — Pay Card Components
    ============================================= */
-
+ 
 /* =============================================
    Global Focus Ring
    ─────────────────────────────────────────────
    Consistent, brand-coloured `:focus-visible`
    ring applied to all interactive elements
    within wiki-owned layout regions.
-
+ 
    Scoped to .home-wrapper, .vp-doc, and
    .eip-root — avoids fighting VitePress nav
    and sidebar which manage their own rings.
-
+ 
    Components that implement their own
    focus treatment (SearchModal filter selects,
    toggle switches) keep their scoped rules —
    these do not conflict because specificity
    is equal and declaration order wins.
    ============================================= */
-
+ 
 .home-wrapper :focus-visible,
 .vp-doc :focus-visible,
 .eip-root :focus-visible {
   outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
   outline-offset: var(--wiki-focus-offset);
 }
-
+ 
 /* =============================================
    Heading letter-spacing
    ─────────────────────────────────────────────
@@ -182,16 +182,16 @@
    feel. Applied to the two highest heading levels
    across all clause pages and the homepage title.
    ============================================= */
-
+ 
 .vp-doc h1,
 .home-title {
   letter-spacing: -0.028em;
 }
-
+ 
 .vp-doc h2 {
   letter-spacing: -0.022em;
 }
-
+ 
 /* =============================================
    Expanded focus ring coverage
    ─────────────────────────────────────────────
@@ -201,7 +201,7 @@
    receive the brand focus ring rather than the
    browser default blue outline.
    ============================================= */
-
+ 
 .pay-tab-btn:focus-visible,
 .home-btn:focus-visible,
 .home-ref-item:focus-visible,
@@ -210,7 +210,7 @@
   outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
   outline-offset: var(--wiki-focus-offset);
 }
-
+ 
 /* =============================================
    Tabular numerics — monetary / rate data
    ─────────────────────────────────────────────
@@ -220,11 +220,11 @@
    inline wage figures in standard markdown
    tables also align correctly.
    ============================================= */
-
+ 
 .vp-doc td {
   font-variant-numeric: tabular-nums;
 }
-
+ 
 .pay-card {
   border: 1px solid var(--vp-c-divider);
   border-radius: var(--wiki-radius-lg);
@@ -233,16 +233,16 @@
   background: var(--vp-c-bg-soft);
   transition: box-shadow var(--wiki-transition), transform var(--wiki-transition);
 }
-
+ 
 .pay-card:hover {
   box-shadow: var(--wiki-shadow-lift);
   transform: translateY(-1px);
 }
-
+ 
 .dark .pay-card:hover {
   box-shadow: var(--wiki-shadow-lift);
 }
-
+ 
 .pay-card h3 {
   margin: 0 0 0.15rem 0;
   font-size: 1rem;
@@ -250,19 +250,19 @@
   border: none;
   padding: 0;
 }
-
+ 
 .pay-card .pay-card-sub {
   font-size: 0.82rem;
   color: var(--vp-c-text-2);
   margin: 0 0 0.6rem 0;
 }
-
+ 
 .pay-card .pay-card-links {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
 }
-
+ 
 .pay-card .pay-card-links a {
   display: inline-block;
   background: var(--vp-c-brand-soft);
@@ -275,12 +275,12 @@
   border: 1px solid var(--vp-c-brand-2);
   transition: background var(--wiki-transition);
 }
-
+ 
 .pay-card .pay-card-links a:hover {
   background: var(--vp-c-brand-2);
   text-decoration: none;
 }
-
+ 
 /* Pill badges */
 .pill {
   display: inline-block;
@@ -292,20 +292,20 @@
   font-weight: 500;
   margin-right: 0.3rem;
 }
-
+ 
 .pill-eba {
   background: var(--vp-c-brand-soft);
   color: var(--vp-c-brand-1);
 }
-
+ 
 .clause-meta {
   margin-bottom: 1rem;
 }
-
+ 
 /* =============================================
    Custom container: note (mirrors MkDocs style)
    ============================================= */
-
+ 
 .vp-doc .custom-block.note {
   border-left: 4px solid var(--vp-c-default-3);
   background-color: var(--vp-c-default-soft);
@@ -313,13 +313,13 @@
   border-radius: var(--wiki-radius-sm);
   margin: 1rem 0;
 }
-
+ 
 .vp-doc .custom-block.note .custom-block-title {
   color: var(--vp-c-text-1);
   font-weight: 600;
   margin-bottom: 0.4rem;
 }
-
+ 
 /* Make info admonition float right like MkDocs inline end style */
 .vp-doc .custom-block.info.inline-end {
   float: right;
@@ -327,7 +327,7 @@
   margin: 0 0 1rem 1.5rem;
   font-size: 0.85rem;
 }
-
+ 
 @media (max-width: 640px) {
   .vp-doc .custom-block.info.inline-end {
     float: none;
@@ -335,15 +335,15 @@
     margin: 1rem 0;
   }
 }
-
+ 
 /* =============================================
    PayTable component — tabbed year switching
    ============================================= */
-
+ 
 .pay-table-tabs {
   margin: 1.2rem 0;
 }
-
+ 
 .pay-tab-bar {
   display: flex;
   flex-wrap: wrap;
@@ -352,7 +352,7 @@
   margin-bottom: 0;
   border-bottom: none;
 }
-
+ 
 .pay-tab-btn {
   padding: 0.35rem 0.85rem;
   font-size: 0.83rem;
@@ -365,12 +365,12 @@
   cursor: pointer;
   transition: background 0.15s, color 0.15s;
 }
-
+ 
 .pay-tab-btn:hover {
   background: var(--vp-c-default-soft);
   color: var(--vp-c-text-1);
 }
-
+ 
 .pay-tab-btn.active {
   background: var(--vp-c-bg);
   color: var(--vp-c-brand-1);
@@ -380,9 +380,9 @@
   position: relative;
   z-index: 1;
 }
-
+ 
 /* ── Currently-active rate tab (auto-detected from today's date) ── */
-
+ 
 /* The indicator dot badge inside the tab button */
 .pay-tab-current-badge {
   display: inline-block;
@@ -393,65 +393,65 @@
   color: var(--vp-c-brand-1);
   opacity: 0.85;
 }
-
+ 
 /* Tab button that holds the current real-world rate —
    a bottom border accent that is visible whether or not this tab is .active */
 .pay-tab-btn--current {
   border-bottom: 3px solid var(--vp-c-brand-1);
 }
-
+ 
 /* When the current tab is also the selected (active) tab,
    keep the bottom border brand-coloured instead of bg-coloured */
 .pay-tab-btn--current.active {
   border-bottom-color: var(--vp-c-brand-1);
 }
-
+ 
 /* Dark mode: slightly softer brand accent so it doesn't burn */
 .dark .pay-tab-btn--current {
   border-bottom-color: var(--vp-c-brand-2);
 }
-
+ 
 .dark .pay-tab-current-badge {
   color: var(--vp-c-brand-2);
 }
-
+ 
 /* ── Wide pay table — currently-active rate column highlight ── */
-
+ 
 /* Header cell of the active column */
 .vp-doc .pay-table-wrap th.pt-col-current {
   background: var(--vp-c-brand-soft);
   color: var(--vp-c-brand-1);
   position: relative;
 }
-
+ 
 /* Body cells of the active column */
 .vp-doc .pay-table-wrap td.pt-col-current {
   background: color-mix(in srgb, var(--vp-c-brand-1) 6%, transparent);
   font-weight: 600;
   color: var(--vp-c-text-1);
 }
-
+ 
 /* Dark mode — slightly stronger tint since dark backgrounds absorb colour */
 .dark .vp-doc .pay-table-wrap th.pt-col-current {
   background: color-mix(in srgb, var(--vp-c-brand-1) 20%, var(--vp-c-bg-soft));
   color: var(--vp-c-brand-2);
 }
-
+ 
 .dark .vp-doc .pay-table-wrap td.pt-col-current {
   background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
 }
-
+ 
 /* Group rows (isGroup / pt-group) span the full width and have their own
    background. Don't tint them — it would look odd on a section header. */
 .vp-doc .pay-table-wrap tr.pt-group td.pt-col-current {
   background: var(--vp-c-default-soft);
   font-weight: 600;
 }
-
+ 
 /* =============================================
    Pay Table — shared wrapper (raw HTML tables)
    ============================================= */
-
+ 
 .pay-table-wrap {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
@@ -459,24 +459,24 @@
   border: 1px solid var(--vp-c-divider);
   border-radius: var(--wiki-radius-lg);
 }
-
+ 
 .pay-table-wrap table {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
   border-radius: 0;
   min-width: 480px;
 }
-
+ 
 /* Remove double border from VitePress default table styles */
 .vp-doc .pay-table-wrap table {
   display: table;
   width: 100%;
 }
-
+ 
 .vp-doc .pay-table-wrap tr:last-child td {
   border-bottom: none;
 }
-
+ 
 /* Group header rows */
 .vp-doc .pay-table-wrap tr.pt-group td {
   background: var(--vp-c-default-soft);
@@ -486,14 +486,14 @@
   letter-spacing: 0.03em;
   padding: 0.4rem 0.75rem;
 }
-
+ 
 /* Classification column */
 .vp-doc .pay-table-wrap td.pt-class,
 .vp-doc .pay-table-wrap th.pt-class {
   text-align: left;
   min-width: 200px;
 }
-
+ 
 /* Pay code column */
 .vp-doc .pay-table-wrap td.pt-code,
 .vp-doc .pay-table-wrap th.pt-code {
@@ -504,7 +504,7 @@
   font-size: 0.85rem;
   font-family: monospace;
 }
-
+ 
 /* Rate columns */
 .vp-doc .pay-table-wrap td.pt-rate,
 .vp-doc .pay-table-wrap th.pt-rate {
@@ -513,7 +513,7 @@
   min-width: 90px;
   font-variant-numeric: tabular-nums;
 }
-
+ 
 /* Header styling */
 .vp-doc .pay-table-wrap thead th {
   background: var(--vp-c-bg-soft);
@@ -521,35 +521,35 @@
   font-weight: 600;
   border-bottom: 2px solid var(--vp-c-divider);
 }
-
+ 
 /* Override VitePress default table top margin inside pay tables */
 .vp-doc .pay-table-wrap table {
   margin-top: 0 !important;
   display: table;
 }
-
+ 
 /* Wide pay tables — horizontal scroll on small screens */
 .vp-doc .pay-table-wide {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin: 1rem 0;
 }
-
+ 
 .vp-doc .pay-table-wide table {
   min-width: 900px;
 }
-
+ 
 /* =============================================
    Sticky header row for tall pay tables
    ============================================= */
-
+ 
 .pay-table-wrap {
   max-height: 600px;   /* Cap height — user scrolls inside */
   overflow-y: auto;
   overflow-x: auto;
   position: relative;
 }
-
+ 
 .vp-doc .pay-table-wrap thead th {
   position: sticky;
   top: 0;
@@ -557,12 +557,12 @@
   background: var(--vp-c-bg-soft);
   box-shadow: 0 1px 0 var(--vp-c-divider);
 }
-
+ 
 /* =============================================
    Allow header text to wrap in pay tables
    (overrides white-space: nowrap on th.pt-rate)
    ============================================= */
-
+ 
 .vp-doc .pay-table-wrap thead th.pt-rate {
   white-space: normal;
   word-break: break-word;
@@ -570,17 +570,17 @@
   max-width: 110px;
   text-align: center;
 }
-
+ 
 /* =============================================
    Homepage — Hero & Card Grid
    ============================================= */
-
+ 
 .home-wrapper {
   max-width: 1152px;
   margin: 0 auto;
   padding: 2.5rem 1.5rem 4rem;
 }
-
+ 
 /* Two-column hero — text left, image right */
 .home-hero {
   display: flex;
@@ -590,12 +590,12 @@
   padding: 2.5rem 0 2.5rem;
   margin-bottom: 2rem;
 }
-
+ 
 .home-hero-text {
   flex: 1;
   min-width: 0;
 }
-
+ 
 .home-title {
   font-size: clamp(1.8rem, 4vw, 2.8rem);
   font-weight: 700;
@@ -604,7 +604,7 @@
   line-height: 1.2;
   border: none;
 }
-
+ 
 .home-subtitle {
   font-size: 1rem;
   color: var(--vp-c-text-2);
@@ -612,13 +612,13 @@
   margin: 0 0 1.5rem;
   line-height: 1.7;
 }
-
+ 
 .home-hero-actions {
   display: flex;
   gap: 0.75rem;
   flex-wrap: wrap;
 }
-
+ 
 .home-btn {
   display: inline-block;
   padding: 0.5rem 1.25rem;
@@ -628,32 +628,32 @@
   text-decoration: none;
   transition: background var(--wiki-transition), color var(--wiki-transition), box-shadow var(--wiki-transition), transform var(--wiki-transition);
 }
-
+ 
 .home-btn-primary {
   background: var(--vp-c-brand-1);
   color: #fff;
 }
-
+ 
 .home-btn-primary:hover {
   background: var(--vp-c-brand-2);
   box-shadow: var(--wiki-shadow-lift);
   transform: translateY(-1px);
   text-decoration: none;
 }
-
+ 
 .home-btn-secondary {
   background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-1);
   border: 1px solid var(--vp-c-divider);
 }
-
+ 
 .home-btn-secondary:hover {
   background: var(--vp-c-bg-muted);
   box-shadow: var(--wiki-shadow-lift);
   transform: translateY(-1px);
   text-decoration: none;
 }
-
+ 
 /* Image column */
 .home-hero-image {
   flex-shrink: 0;
@@ -662,7 +662,7 @@
   justify-content: center;
   align-items: center;
 }
-
+ 
 /* Matches FMHY .image-container */
 .home-hero-image .image-container {
   position: relative;
@@ -672,7 +672,7 @@
   width: 280px;
   height: 280px;
 }
-
+ 
 /* Ambient backlight glow behind the image — soft radial gradient */
 .home-hero-image .image-bg {
   position: absolute;
@@ -689,7 +689,7 @@
   z-index: 0;
   transition: opacity 0.3s;
 }
-
+ 
 .home-hero-image .image-src {
   position: relative;
   z-index: 1;
@@ -701,13 +701,13 @@
     drop-shadow(12px 0 24px rgba(69, 45, 111, 0.35));
   transition: filter 0.4s ease;
 }
-
+ 
 .home-hero-image .image-src:hover {
   filter:
     drop-shadow(-14px 0 30px rgba(219, 27, 82, 0.50))
     drop-shadow(14px 0 30px rgba(69, 45, 111, 0.50));
 }
-
+ 
 /* Section labels */
 .home-section-label {
   font-size: var(--wiki-text-xs);
@@ -719,7 +719,7 @@
   padding-bottom: 0.4rem;
   border-bottom: 1px solid var(--vp-c-divider);
 }
-
+ 
 /* ─────────────────────────────────────────────────────────────
    EBA Grid — Stripe-style directory layout
    3-column grid; each entry = coloured icon pill + title link
@@ -732,7 +732,7 @@
   gap: 1.25rem;
   margin-bottom: 1.5rem;
 }
-
+ 
 /* ── Option B: grey card + coloured left border accent ──────────
    The border-left colour is driven by the CSS custom property
    --entry-accent, set inline from each card's color value in
@@ -746,21 +746,21 @@
   padding: 1.125rem 1.25rem 1rem;
   transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
 }
-
+ 
 .eba-entry:hover {
   border-color: var(--entry-accent, var(--vp-c-brand-1));
   box-shadow: var(--wiki-shadow-lift);
   transform: translateY(-1px);
 }
-
+ 
 .dark .eba-entry:hover {
   box-shadow: var(--wiki-shadow-lift);
 }
-
+ 
 .eba-entry-header {
   margin-bottom: 0.75rem;
 }
-
+ 
 .eba-icon {
   display: inline-flex;
   justify-content: center;
@@ -771,16 +771,16 @@
   margin-bottom: 0.875rem;
   transition: background-color 0.2s;
 }
-
+ 
 .eba-icon svg {
   width: 20px;
   height: 20px;
 }
-
+ 
 .eba-entry-meta {
   margin-bottom: 0.875rem;
 }
-
+ 
 .eba-entry-title {
   display: block;
   font-size: 0.9375rem;
@@ -791,19 +791,19 @@
   min-height: 2.7rem;
   transition: color var(--wiki-transition);
 }
-
+ 
 .eba-entry-title:hover {
   color: var(--vp-c-brand-1);
   text-decoration: none;
 }
-
+ 
 .eba-entry-period {
   display: block;
   font-size: var(--wiki-text-xs);
   color: var(--vp-c-text-3);
   line-height: 1.2;
 }
-
+ 
 .eba-entry-links {
   list-style: none;
   margin: 0;
@@ -812,12 +812,12 @@
   border-top: 1px solid var(--vp-c-divider);
   margin-top: auto;
 }
-
+ 
 .eba-entry-links li {
   margin: 0;
   padding: 0;
 }
-
+ 
 .eba-entry-links a {
   display: block;
   font-size: 0.8125rem;
@@ -827,12 +827,12 @@
   line-height: 1.4;
   transition: color 0.15s;
 }
-
+ 
 .eba-entry-links a:hover {
   color: var(--vp-c-brand-2);
   text-decoration: underline;
 }
-
+ 
 /* ─────────────────────────────────────────────────────────────
    Reference Bar — compact horizontal strip replacing the ref card grid.
    Pill-button style; background-on-hover only.
@@ -848,7 +848,7 @@
   background: var(--vp-c-bg-soft);
   margin-bottom: 2rem;
 }
-
+ 
 .home-ref-item {
   display: inline-flex;
   align-items: center;
@@ -862,7 +862,7 @@
   transition: background var(--wiki-transition), color var(--wiki-transition), box-shadow var(--wiki-transition), transform var(--wiki-transition);
   white-space: nowrap;
 }
-
+ 
 .home-ref-item:hover {
   background: var(--vp-c-bg-mute);
   color: var(--vp-c-brand-1);
@@ -870,23 +870,23 @@
   transform: translateY(-1px);
   text-decoration: none;
 }
-
+ 
 .home-ref-icon {
   display: inline-flex;
   align-items: center;
   color: var(--vp-c-text-2);
   transition: color var(--wiki-transition);
 }
-
+ 
 .home-ref-icon svg {
   width: 14px;
   height: 14px;
 }
-
+ 
 .home-ref-item:hover .home-ref-icon {
   color: var(--vp-c-brand-1);
 }
-
+ 
 .home-disclaimer {
   margin: 2rem 0 1rem;
   max-width: 860px;
@@ -899,7 +899,7 @@
   font-size: 0.875rem;
   line-height: 1.6;
 }
-
+ 
 .home-disclaimer strong {
   display: block;
   font-size: var(--wiki-text-base);
@@ -908,64 +908,64 @@
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-
+ 
 .home-disclaimer p {
   margin: 0;
   max-width: 100%;
 }
-
+ 
 /* Responsive — collapse to single column on tablet */
 @media (max-width: 768px) {
   .home-hero {
     flex-direction: column-reverse;
     text-align: center;
   }
-
+ 
   .home-subtitle {
     margin: 0 auto 1.5rem;
   }
-
+ 
   .home-hero-actions {
     justify-content: center;
   }
-
+ 
   .home-hero-image {
     width: 200px;
   }
-
+ 
   .home-hero-image .image-container {
     width: 200px;
     height: 200px;
   }
-
+ 
   .home-hero-image .image-src {
     width: 160px;
     height: 160px;
   }
-
+ 
   .eba-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
   }
 }
-
+ 
 @media (max-width: 480px) {
   .eba-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
 }
-
+ 
 /* Navbar logo size */
 .VPNavBarTitle .logo {
   height: 60px;
   width: auto;
 }
-
+ 
 /* ============================================================
    Sticky table headers — site-wide, for markdown tables
    rendered by VitePress inside .vp-doc.
-
+ 
    HOW IT WORKS:
    - VitePress wraps markdown tables in a <div class="vp-doc">
      but does NOT add a scroll-container div around them.
@@ -983,7 +983,7 @@
      the :not() selector — they already have their own working
      sticky header implementation above.
    ============================================================ */
-
+ 
 .vp-doc table:not(.pay-table-wrap table) {
   display: block;
   max-height: 70vh;
@@ -991,7 +991,7 @@
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
-
+ 
 .vp-doc table:not(.pay-table-wrap table) thead th {
   position: sticky;
   top: 0;
@@ -999,40 +999,40 @@
   background-color: var(--vp-c-bg-soft);
   box-shadow: 0 1px 0 var(--vp-c-divider);
 }
-
+ 
 /* ── Related Clauses Panel — position and overflow fixes ────────────────────
    The panel is teleported into .vp-doc > div as the last child, after the
    changelog plugin. We make .vp-doc > div a flex column and push the
    changelog to order: 99 so our panel (order: 2) appears before it.
    Clause content elements have no order set, defaulting to 0, so they
    remain first. overflow: visible prevents tooltip clipping.                 */
-
+ 
 .VPDoc .content-container {
   overflow: visible !important;
 }
-
+ 
 .vp-doc > div {
   display: flex;
   flex-direction: column;
 }
-
+ 
 /* Push the changelog plugin and its preceding H2 heading to the very end.
    The H2 "Changelog" is a direct sibling immediately before the changelog
    container — we target it with the adjacent sibling combinator.           */
 .vp-doc > div > [class*="vp-nolebase-git-changelog"] {
   order: 99;
 }
-
+ 
 .vp-doc > div > [class*="vp-nolebase-git-changelog"] + * {
   order: 99;
 }
-
+ 
 /* Target the H2 that sits immediately before the changelog container.
    CSS has no "previous sibling" selector, so we use :has() instead.   */
 .vp-doc > div:has(> [class*="vp-nolebase-git-changelog"]) > h2:last-of-type {
   order: 98;
 }
-
+ 
 /* Pull our panels before the changelog.
 related-clauses-panel: order 2 (rendered first)
 legislation-panel:     order 3 (rendered below related clauses)        */
@@ -1050,23 +1050,23 @@ order: 3;
    We use em-based sizes so headings, tables, and custom containers all
    scale proportionally with the body text.
    ============================================================ */
-
+ 
 /* ── Font size: set on <html> so all rem-based content scales globally ──────
    VitePress content (clause pages, homepage text, disclaimers, nav labels)
    uses rem/em units and inherits this scale automatically.
    Nav bar height, sidebar widths, and elements with hardcoded px values are
    unaffected — they do not inherit font-size from <html>.                   */
-
+ 
 /* Large — 112% base (approx 16px → 18px) */
 [data-font-size="large"] {
   font-size: 112%;
 }
-
+ 
 /* Extra Large — 125% base (approx 16px → 20px) */
 [data-font-size="xl"] {
   font-size: 125%;
 }
-
+ 
 /* Increase line-height for comfort at enlarged sizes.
    Scoped to content areas — avoids disrupting nav/sidebar layout metrics.  */
 [data-font-size="large"] .vp-doc h1,
@@ -1089,77 +1089,77 @@ order: 3;
 [data-font-size="xl"]    .eba-entry-links a {
   line-height: 1.75;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — Reading Mode
    ============================================================
    Applied by AccessibilityControls.vue via data-reading-mode on <html>.
    Hides distracting UI chrome and reflows the content column to a
    comfortable reading width, centred in the available space.
-
+ 
    Elements hidden in reading mode:
      - .VPSidebar              — left navigation panel
      - .doc-toolbar            — AskThisPage + CopyButton row
      - .related-clauses-panel  — doc-after slot panel
      - [class*="vp-nolebase-git-changelog"]  — git changelog at page bottom
      - h2:last-of-type (in .vp-doc > div)    — "Changelog" heading above it
-
+ 
    Elements KEPT visible:
      - Top nav bar (.VPNav)         — so the user can still navigate
      - Dark mode toggle             — part of nav, stays
      - VPDocAsideOutline            — "On This Page" outline (still useful)
      - All textual + visual content inside .vp-doc
    ============================================================ */
-
+ 
 /* Hide the left sidebar — content reflows to fill the space */
 [data-reading-mode] .VPSidebar {
   display: none !important;
 }
-
+ 
 /* Hide the doc toolbar (AskThisPage + CopyButton) */
 [data-reading-mode] .doc-toolbar {
   display: none !important;
 }
-
+ 
 /* Hide the Related Clauses panel and Legislation panel */
 [data-reading-mode] .related-clauses-panel,
 [data-reading-mode] .legislation-panel {
 display: none !important;
 }
-
+ 
 /* Hide the git changelog container */
 [data-reading-mode] .vp-doc > div > [class*="vp-nolebase-git-changelog"] {
   display: none !important;
 }
-
+ 
 /* Hide the "Changelog" H2 heading that sits above the changelog */
 [data-reading-mode] .vp-doc > div:has(> [class*="vp-nolebase-git-changelog"]) > h2:last-of-type {
   display: none !important;
 }
-
+ 
 /* ── Reading mode layout reflow ──────────────────────────────────────────────
    When the sidebar disappears, VitePress normally leaves the content column
    positioned as if the sidebar were still there (the layout uses fixed left
    padding). We override the content container to fill the available width,
    then apply a comfortable max-width and auto margins to centre it.
-
+ 
    72ch ≈ 72 characters wide — the typographic sweet spot for body text
    readability, matching what tools like iA Writer and Apple Books use.     */
-
+ 
 [data-reading-mode] .VPDoc {
   padding-left:  0 !important;
 }
-
+ 
 [data-reading-mode] .VPDoc .content {
   max-width:  none !important;
   padding:    0 1.5rem !important;
 }
-
+ 
 [data-reading-mode] .VPDoc .content-container {
   max-width:  72ch !important;
   margin:     0 auto !important;
 }
-
+ 
 /* On narrow mobile screens, the sidebar is already hidden by VitePress;
    remove any margin that would otherwise push content off-centre.         */
 @media (max-width: 768px) {
@@ -1167,7 +1167,7 @@ display: none !important;
     padding: 0 1rem !important;
   }
 }
-
+ 
 /* ============================================================
    Mobile Bottom Nav — page content clearance
    ============================================================
@@ -1183,7 +1183,7 @@ display: none !important;
     padding-bottom: calc(72px + env(safe-area-inset-bottom)) !important;
   }
 }
-
+ 
 /* ── Reading mode — smooth transition ────────────────────────────────────────
    Animate the content reflow so it doesn't feel like a hard jump.          */
 .VPDoc,
@@ -1191,14 +1191,14 @@ display: none !important;
 .VPDoc .content-container {
   transition: max-width 0.25s ease, padding 0.25s ease, margin 0.25s ease;
 }
-
+ 
 /* ── Reading mode — subtle indicator in the nav bar ─────────────────────────
    When reading mode is active, add a thin brand-coloured bottom border on
    the nav bar so the user can tell at a glance that a mode is active.      */
 [data-reading-mode] .VPNav {
   border-bottom: 2px solid var(--vp-c-brand-1) !important;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — Line Spacing
    ============================================================
@@ -1206,7 +1206,7 @@ display: none !important;
    VitePress default line-height is approximately 1.7 — we treat
    that as "normal" (no attribute set).
    ============================================================ */
-
+ 
 [data-line-spacing="compact"] .vp-doc p,
 [data-line-spacing="compact"] .vp-doc li,
 [data-line-spacing="compact"] .vp-doc td,
@@ -1216,7 +1216,7 @@ display: none !important;
 [data-line-spacing="compact"] .eba-entry-links a {
   line-height: 1.5;
 }
-
+ 
 [data-line-spacing="relaxed"] .vp-doc p,
 [data-line-spacing="relaxed"] .vp-doc li,
 [data-line-spacing="relaxed"] .vp-doc td,
@@ -1226,7 +1226,7 @@ display: none !important;
 [data-line-spacing="relaxed"] .eba-entry-links a {
   line-height: 2.0;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — Wide Letter Spacing
    ============================================================
@@ -1234,7 +1234,7 @@ display: none !important;
    0.04em is a comfortable WCAG-friendly spacing increase for
    users with dyslexia or low vision without breaking layout.
    ============================================================ */
-
+ 
 [data-letter-spacing="wide"] .vp-doc p,
 [data-letter-spacing="wide"] .vp-doc li,
 [data-letter-spacing="wide"] .vp-doc td,
@@ -1252,7 +1252,7 @@ display: none !important;
 [data-letter-spacing="wide"] .home-disclaimer p {
   letter-spacing: 0.04em;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — OpenDyslexic Font
    ============================================================
@@ -1263,14 +1263,14 @@ display: none !important;
    font-family name from cdnfonts: 'Open Dyslexic'
    Code and pre blocks are intentionally excluded.
    ============================================================ */
-
+ 
 /* Global application — applies to the entire page including homepage and nav.
    Code and monospace blocks are explicitly excluded (OpenDyslexic reads poorly
    in code contexts and users do not expect it there).                          */
 [data-dyslexic-font] body {
   font-family: 'OpenDyslexic', sans-serif !important;
 }
-
+ 
 [data-dyslexic-font] code,
 [data-dyslexic-font] pre,
 [data-dyslexic-font] kbd,
@@ -1278,7 +1278,7 @@ display: none !important;
 [data-dyslexic-font] .vp-doc pre {
   font-family: var(--vp-font-family-mono, ui-monospace, monospace) !important;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — Link Highlighting
    ============================================================
@@ -1286,7 +1286,7 @@ display: none !important;
    Helps users with colour-vision differences distinguish links
    from body text by adding a visible, weighted underline.
    ============================================================ */
-
+ 
 [data-link-highlight] .vp-doc a,
 [data-link-highlight] .home-wrapper a {
   text-decoration:           underline !important;
@@ -1294,7 +1294,7 @@ display: none !important;
   text-decoration-thickness: 2px !important;
   font-weight:               600 !important;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — Reduced Motion
    ============================================================
@@ -1304,7 +1304,7 @@ display: none !important;
    actively requested it inside the wiki.
    Uses 0.01ms (not 0) to preserve JS transitionend callbacks.
    ============================================================ */
-
+ 
 [data-reduced-motion] *,
 [data-reduced-motion] *::before,
 [data-reduced-motion] *::after {
@@ -1313,7 +1313,7 @@ display: none !important;
   animation-iteration-count:  1      !important;
   scroll-behavior:            auto   !important;
 }
-
+ 
 /* ============================================================
    Accessibility Controls — High Contrast Mode
    ============================================================
@@ -1322,14 +1322,14 @@ display: none !important;
    because all VitePress colour tokens inherit from :root / .dark,
    overriding them here cascades through the entire UI without
    needing per-element rules.
-
+ 
    Light mode target: #000000 text on #ffffff background (21:1)
    Dark mode target:  #ffffff text on #000000 background (21:1)
-
+ 
    Brand colours are replaced with accessible blue (#005fcc light,
    #7cb9ff dark) which pass WCAG AA on their respective backgrounds.
    ============================================================ */
-
+ 
 /* ── Light mode ── */
 [data-high-contrast]:not(.dark) {
   --vp-c-text-1:  #000000;
@@ -1344,12 +1344,12 @@ display: none !important;
   --vp-c-brand-2: #004faa;
   --vp-c-brand-soft: #ddeeff;
 }
-
+ 
 [data-high-contrast]:not(.dark) .vp-doc a {
   color:           #005fcc !important;
   text-decoration: underline !important;
 }
-
+ 
 /* ── Dark mode ── */
 [data-high-contrast].dark {
   --vp-c-text-1:  #ffffff;
@@ -1364,12 +1364,12 @@ display: none !important;
   --vp-c-brand-2: #5ca3ff;
   --vp-c-brand-soft: rgba(124, 185, 255, 0.15);
 }
-
+ 
 [data-high-contrast].dark .vp-doc a {
   color:           #7cb9ff !important;
   text-decoration: underline !important;
 }
-
+ 
 /* ============================================================
    Nav Bar Flex Order
    ============================================================
@@ -1380,29 +1380,29 @@ display: none !important;
                     reordering needed for it any more) — DOM position 1
      .social-links (GitHub icon)                        — DOM position 2
      [nav-bar-content-after slot: AccessibilityControls] — DOM position 3
-
+ 
    The slot content lands AFTER the GitHub icon in the DOM. We use CSS
    flex `order` to resequence the visual rendering for AccessibilityControls
    only — the dark-mode switch is positioned correctly automatically,
    since it now occupies VitePress's own native slot rather than ours:
      theme switch (order 0, default) → our controls (order 2) → GitHub (order 3)
    ============================================================ */
-
+ 
 .VPNavBarExtra {
   display: flex;
   align-items: center;
 }
-
+ 
 /* GitHub icon — pushed to the end */
 .VPNavBarExtra .social-links {
   order: 3;
 }
-
+ 
 /* Our accessibility controls — between the theme switch and GitHub */
 .VPNavBarExtra .a11y-controls {
   order: 2;
 }
-
+ 
 /* ============================================================
    AMOLED Theme Override
    ============================================================
@@ -1412,16 +1412,16 @@ display: none !important;
    VitePress CSS variables at the root" technique already used by the
    High Contrast Mode block above.
    ============================================================ */
-
+ 
 .dark[data-theme-amoled] {
   --vp-c-bg:      #000000;
   --vp-c-bg-soft: #0a0a0a;
   --vp-c-bg-elv:  #0a0a0a;
   --vp-c-bg-alt:  #000000;
 }
-
-
-
+ 
+ 
+ 
 /* ============================================================
    Clause Panel — body scroll-lock support
    ============================================================
@@ -1431,12 +1431,12 @@ display: none !important;
    particularly important on Windows where the scrollbar gutter
    disappears when overflow:hidden is set.
    ============================================================ */
-
+ 
 html {
   scrollbar-gutter: stable;
   scroll-behavior: smooth;  /* smooth in-page anchor jumps; overridden by [data-reduced-motion] below */
 }
-
+ 
 /* ============================================================
    Clause Panel — .vp-doc content inside the panel
    ============================================================
@@ -1444,7 +1444,7 @@ html {
    class "cp-content vp-doc". VitePress's default .vp-doc styles
    apply automatically. These overrides handle the few cases
    where default styles don't suit the narrower panel context:
-
+ 
    1. Tables: allow horizontal scroll rather than overflowing
       the panel width.
    2. Custom containers (:::tip, :::warning, :::danger): reduce
@@ -1452,31 +1452,31 @@ html {
    3. Code blocks: standard pre/code styles apply — no change
       needed, they scroll horizontally within their block.
    ============================================================ */
-
+ 
 /* Allow wide tables to scroll within the panel rather than overflow it */
 .clause-panel .cp-content .vp-doc table {
   display: block;
   overflow-x: auto;
   max-width: 100%;
 }
-
+ 
 /* Tighten custom container padding for the narrower panel column */
 .clause-panel .cp-content .custom-block {
   padding: 0.75rem 1rem;
 }
-
+ 
 /* ============================================================
    Clause Panel — reading mode compatibility
    ============================================================
    Reading mode hides .VPSidebar and reflows .content-container.
    The clause panel is position:fixed so it is unaffected by
    the reflow. No special rules needed — it just works.
-
+ 
    However, the panel must remain accessible (z-index:60) even
    when reading mode is active, which it does by default since
    reading mode does not modify z-index on fixed elements.
    ============================================================ */
-
+ 
 /* ============================================================
    Doc Toolbar — button group alignment on non-/ebas/ pages
    ============================================================
@@ -1486,11 +1486,11 @@ html {
    so the buttons remain right-aligned regardless of whether the
    breadcrumb is present.
    ============================================================ */
-
+ 
 .doc-toolbar > div:last-child {
   margin-left: auto;
 }
-
+ 
 /* ============================================================
    Search Highlight — jump-to-passage animation
    ============================================================
@@ -1498,23 +1498,23 @@ html {
    result is clicked. The engine finds the best-matching text
    node in .vp-doc, wraps it (or adds the class directly for
    complex elements), then removes it after 3.5 seconds.
-
+ 
    Animation: 0.5s hold at full yellow → 2.5s fade to transparent.
    Total visible duration: 3s. DOM cleanup fires at 3.5s.
-
+ 
    The yellow is intentionally close to browser Ctrl+F highlight
    colour so users instantly recognise what it means.
-
+ 
    Dark mode: a slightly warmer, more muted amber so the yellow
    does not create harsh contrast against dark backgrounds.
    ============================================================ */
-
+ 
 @keyframes search-highlight-fade {
   0%   { background-color: #fef08a; }   /* yellow — hold */
   15%  { background-color: #fef08a; }   /* 0.5s hold at full yellow */
   100% { background-color: transparent; } /* fade out over remaining 2.5s */
 }
-
+ 
 .search-highlight {
   background-color: #fef08a;
   border-radius: var(--wiki-radius-sm);
@@ -1524,25 +1524,25 @@ html {
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
-
+ 
 /* Dark mode — slightly warmer amber to avoid harsh contrast */
 .dark .search-highlight {
   animation-name: search-highlight-fade-dark;
 }
-
+ 
 @keyframes search-highlight-fade-dark {
   0%   { background-color: #ca8a04; }
   15%  { background-color: #ca8a04; }
   100% { background-color: transparent; }
 }
-
+ 
 /* ============================================================
    Print stylesheet — @media print
    ============================================================
    Triggered by Ctrl+P (native browser behaviour — no JS needed).
    Goal: strip all wiki chrome and render only the clause content
    as a clean, single-column document suitable for A4/Letter paper.
-
+ 
    What is hidden:
      - .VPNav / .VPNavBar       — top navigation bar
      - .VPSidebar               — left navigation panel
@@ -1557,25 +1557,25 @@ html {
      - .kb-overlay              — keyboard help overlay if open
      - .VPBackdrop              — any backdrop overlay
      - .a11y-controls           — accessibility controls in nav
-
+ 
    What is kept:
      - All .vp-doc content (headings, paragraphs, tables, callouts)
      - FileAttachment badges (styled down to plain text)
-
+ 
    Page setup:
      - @page sets 20mm margins on all sides (A4 / Letter safe)
      - orphans / widows: 3 prevents single-line stranding
      - page-break-inside: avoid on tables, callout blocks, and
        custom containers so they don't split across page breaks
    ============================================================ */
-
+ 
 @media print {
-
+ 
   /* ── Page margins ───────────────────────────────────────────────────────── */
   @page {
     margin: 20mm;
   }
-
+ 
   /* ── Force white background / black text for all elements ──────────────── */
   *,
   *::before,
@@ -1585,7 +1585,7 @@ html {
     box-shadow: none !important;
     text-shadow: none !important;
   }
-
+ 
   /* ── Hide all chrome ────────────────────────────────────────────────────── */
   .VPNav,
   .VPNavBar,
@@ -1608,7 +1608,7 @@ html {
   .mobile-nav {
     display: none !important;
   }
-
+ 
   /* ── Layout reflow — remove VitePress sidebar offsets ──────────────────── */
   /* VitePress applies left padding/margin to .VPDoc to account for the
      sidebar. In print there is no sidebar, so we reset all of it.          */
@@ -1616,26 +1616,26 @@ html {
     padding: 0 !important;
     margin: 0 !important;
   }
-
+ 
   .VPDoc .content {
     max-width: none !important;
     padding: 0 !important;
     margin: 0 !important;
   }
-
+ 
   .VPDoc .content-container {
     max-width: 100% !important;
     margin: 0 !important;
     padding: 0 !important;
   }
-
+ 
   /* Also ensure the outer VPPage wrapper doesn't add offsets */
   .VPPage,
   #VPContent {
     padding: 0 !important;
     margin: 0 !important;
   }
-
+ 
   /* ── Typography ─────────────────────────────────────────────────────────── */
   /* Use a print-safe font stack. VitePress defaults to Inter (sans-serif)
      which is fine for screen; for print, a serif stack reads better in
@@ -1645,11 +1645,11 @@ html {
     line-height: 1.6 !important;
     font-family: system-ui, Arial, sans-serif !important;
   }
-
+ 
   .vp-doc h1 { font-size: 20pt !important; margin-bottom: 6pt !important; }
   .vp-doc h2 { font-size: 15pt !important; margin-top: 14pt !important; }
   .vp-doc h3 { font-size: 12pt !important; margin-top: 10pt !important; }
-
+ 
   /* ── Links ──────────────────────────────────────────────────────────────── */
   /* Internal wiki links (/ebas/...) are meaningless on paper — strip them.
      External links get their URL appended so the reader can find the source. */
@@ -1657,7 +1657,7 @@ html {
     text-decoration: none !important;
     color: black !important;
   }
-
+ 
   .vp-doc a[href^="http"]::after,
   .vp-doc a[href^="https"]::after {
     content: " (" attr(href) ")";
@@ -1665,7 +1665,7 @@ html {
     color: #555 !important;
     word-break: break-all;
   }
-
+ 
   /* ── Tables ─────────────────────────────────────────────────────────────── */
   /* Undo the sticky/scrollable table styles applied for screen viewing.
      On paper, tables should flow naturally and not be clipped.              */
@@ -1677,29 +1677,29 @@ html {
     border-collapse: collapse !important;
     font-size: 9pt !important;
   }
-
+ 
   .vp-doc thead {
     display: table-header-group !important; /* repeat header on each page */
     position: static !important;
   }
-
+ 
   .vp-doc th,
   .vp-doc td {
     border: 1px solid #999 !important;
     padding: 4pt 6pt !important;
     background: white !important;
   }
-
+ 
   .vp-doc th {
     background: #f0f0f0 !important;
     font-weight: 700 !important;
   }
-
+ 
   /* Avoid tables splitting awkwardly across page breaks */
   .vp-doc tr {
     page-break-inside: avoid;
   }
-
+ 
   /* ── Custom containers (tip / warning / danger / details) ──────────────── */
   .vp-doc .custom-block {
     border: 1px solid #999 !important;
@@ -1709,7 +1709,7 @@ html {
     page-break-inside: avoid;
     background: white !important;
   }
-
+ 
   /* ── Code blocks ────────────────────────────────────────────────────────── */
   .vp-doc pre,
   .vp-doc code {
@@ -1719,14 +1719,14 @@ html {
     white-space: pre-wrap !important;
     word-break: break-all !important;
   }
-
+ 
   /* ── Orphan / widow control ─────────────────────────────────────────────── */
   .vp-doc p,
   .vp-doc li {
     orphans: 3;
     widows: 3;
   }
-
+ 
   /* Keep headings with their following content — prevents a heading
      appearing at the bottom of a page with its paragraph on the next.     */
   .vp-doc h1,
@@ -1737,7 +1737,7 @@ html {
     orphans: 3;
     widows: 3;
   }
-
+ 
   /* ── FileAttachment badges ──────────────────────────────────────────────── */
   /* The styled badge looks odd in print — simplify to a plain inline link.  */
   .file-attachment {
@@ -1746,7 +1746,7 @@ html {
     padding: 0 !important;
     background: none !important;
   }
-
+ 
   /* ── Blockquotes (> **Note:** style) ────────────────────────────────────── */
   .vp-doc blockquote {
     border-left: 4px solid #999 !important;
@@ -1754,29 +1754,29 @@ html {
     color: #333 !important;
     font-style: italic !important;
   }
-
+ 
   /* ── PayTable tabs — show all years, not just the active one ───────────── */
   /* The tab switcher UI is meaningless in print. Show all pay year tables
      stacked, each with its year as a visible heading.                       */
   .pay-tab-bar {
     display: none !important;
   }
-
+ 
   .pay-tab-panel {
     display: block !important;
   }
-
+ 
   /* ── Accessibility feature resets ───────────────────────────────────────────
      These rules ensure that user accessibility preferences do not produce
      unexpected output on paper. Each is reverted to the most print-appropriate
      value regardless of what the user had active on screen.                   */
-
+ 
   /* OpenDyslexic: revert to print-safe system stack (web fonts may not render
      in print contexts and OpenDyslexic at 11pt on paper is not recommended) */
   [data-dyslexic-font] body {
     font-family: system-ui, Arial, sans-serif !important;
   }
-
+ 
   /* High contrast: ensure black text on white — no custom property overrides
      in print context since the browser already targets black-on-white          */
   [data-high-contrast] .vp-doc,
@@ -1788,12 +1788,12 @@ html {
     color:           black     !important;
     text-decoration: underline !important;
   }
-
+ 
   /* Letter spacing: acceptable in print, leave active (no override needed)   */
   /* Line spacing: beneficial in print, leave active (no override needed)     */
   /* Reduced motion: irrelevant in print context (transitions do not apply)   */
 }
-
+ 
 /* ============================================================
    SidebarFilter — DOM-based tree filter
    ============================================================
@@ -1802,19 +1802,19 @@ html {
    This rule does the actual hiding. It must be global (not scoped)
    because it targets VitePress-owned DOM nodes that our component
    cannot reach with Vue scoped styles.
-
+ 
    .VPSidebar .sf-wrap padding is now set inside the component's
    own scoped styles (padding: 16px 16px 10px 16px) so no
    external override is needed here.
-
+ 
    In reading mode the entire sidebar is hidden, so sf-hidden
    nodes go with it automatically.
    ============================================================ */
-
+ 
 /* ── SidebarFilter — CSS-driven filter mode ──────────────────────────────────
    When .sf-active is on the nav, we flip visibility using CSS alone.
    No collapsed state is touched — no animation conflicts with VitePress.
-
+ 
    Filter mode rules:
    1. All .group divs hidden by default
    2. Groups with .sf-match are shown
@@ -1823,17 +1823,17 @@ html {
    5. Level-2 items with .sf-match are shown
    6. Level-1 section headers always shown (provide context for visible clauses)
    ──────────────────────────────────────────────────────────────────────────── */
-
+ 
 /* 1. Hide all groups when filter is active */
 .VPSidebar .nav.sf-active .group {
   display: none !important;
 }
-
+ 
 /* 2. Show groups that have matches */
 .VPSidebar .nav.sf-active .group.sf-match {
   display: block !important;
 }
-
+ 
 /* 3. Force-show all .items containers inside matching groups
       (overrides VitePress's collapsed height:0 transition) */
 .VPSidebar .nav.sf-active .group.sf-match .items {
@@ -1841,19 +1841,19 @@ html {
   height: auto !important;
   overflow: visible !important;
 }
-
+ 
 /* 4. Hide all level-2 and level-3 clause items inside matching groups */
 .VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-2,
 .VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-3 {
   display: none !important;
 }
-
+ 
 /* 5. Show matching level-2 and level-3 clause items */
 .VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-2.sf-match,
 .VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-3.sf-match {
   display: block !important;
 }
-
+ 
 /* 6. Always show level-0 (EBA name); only show level-1 sections that have matches */
 .VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-0 {
   display: block !important;
@@ -1864,18 +1864,18 @@ html {
 .VPSidebar .nav.sf-active .group.sf-match .VPSidebarItem.level-1.sf-match {
   display: block !important;
 }
-
+ 
 /* Highlight matched text in sidebar filter results */
 .VPSidebar mark.sf-highlight {
   background: transparent;
   color: var(--vp-c-brand-1);
   font-weight: 700;
 }
-
+ 
 /* =============================================
    Inline Glossary — Term Highlights & Tooltip
    ============================================= */
-
+ 
 /* Dashed underline marking a defined term in clause text */
 .vp-doc .gloss-term {
   border-bottom: 1.5px dashed var(--vp-c-brand-2);
@@ -1888,19 +1888,19 @@ html {
   display: inline;
   border-radius: 0;
 }
-
+ 
 .vp-doc .gloss-term:hover {
   background-color: var(--vp-c-brand-soft);
   border-radius: 2px;
 }
-
+ 
 .vp-doc .gloss-term:focus-visible {
   background-color: var(--vp-c-brand-soft);
   border-radius:  2px;
   outline:        var(--wiki-focus-width) solid var(--wiki-focus-color);
   outline-offset: var(--wiki-focus-offset);
 }
-
+ 
 /* Tooltip card — teleported to <body> so it is never clipped by overflow:hidden */
 .gloss-tooltip {
   position: fixed;
@@ -1914,11 +1914,11 @@ html {
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.13), 0 1px 4px rgba(0, 0, 0, 0.06);
   pointer-events: auto;  /* allows mouse to move from term into card */
 }
-
+ 
 .dark .gloss-tooltip {
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.45), 0 1px 4px rgba(0, 0, 0, 0.2);
 }
-
+ 
 .gloss-tt-term {
   font-size: 0.8125rem;
   font-weight: 700;
@@ -1926,14 +1926,14 @@ html {
   margin-bottom: 5px;
   line-height: 1.3;
 }
-
+ 
 .gloss-tt-def {
   font-size: var(--wiki-text-sm);
   line-height: 1.55;
   color: var(--vp-c-text-1);
   margin: 0;
 }
-
+ 
 .gloss-tt-link {
   display: inline-block;
   margin-top: 8px;
@@ -1944,18 +1944,18 @@ html {
   opacity: 0.8;
   transition: opacity var(--wiki-transition);
 }
-
+ 
 .gloss-tt-link:hover {
   opacity: 1;
   text-decoration: underline;
 }
-
+ 
 @media print {
   .sf-wrap { display: none !important; }
   .gloss-term { border-bottom: none !important; }
   .gloss-tooltip { display: none !important; }
 }
-
+ 
 /* ── Ask AI nav button — sparkle icon animations (global)
       These mirror the scoped rules in SearchModal.vue but must live here
       so they apply to the navbar icon, which is rendered by index.js
@@ -1975,19 +1975,19 @@ html {
      fill: currentColor;
      opacity: 0.5;
    }
-
+ 
    @keyframes star-blink {
      0%, 15%, 85%, 100% { opacity: 1; }
      40%, 60%           { opacity: 0; }
    }
-
+ 
 /* =============================================
    EBA Ambient Sidebar Glow
    =============================================
    --eba-sidebar-glow is set dynamically by applyEbaSidebarGlow() in index.js.
    It is an rgba() value at low opacity derived from the current EBA's brand
    colour, or 'transparent' on non-EBA pages.
-
+ 
    Implemented with filter: drop-shadow() on .VPSidebar rather than
    box-shadow for two reasons:
      1. .VPSidebar has overflow-y: auto, which in CSS also clamps overflow-x —
@@ -1995,33 +1995,33 @@ html {
      2. filter is a post-processing effect applied after paint. It is never
         clipped by overflow, and it renders at the sidebar's own z-index level,
         so the glow appears above .VPContent regardless of stacking order.
-
+ 
    drop-shadow() takes: offset-x offset-y blur color (no spread parameter).
    ============================================= */
-
+ 
 .VPSidebar {
   filter: drop-shadow(4px 0 16px var(--eba-sidebar-glow, transparent));
   transition: filter 0.4s ease;
 }
-
+ 
 /* High contrast: suppress — serves no informational purpose and could
    add visual noise against a high-contrast background. */
 [data-high-contrast] .VPSidebar {
   filter: none !important;
   transition: none !important;
 }
-
+ 
 /* Reading mode: sidebar is hidden — rule is moot but explicit for clarity. */
 [data-reading-mode] .VPSidebar {
   filter: none !important;
 }
-
+ 
 @media print {
   .VPSidebar {
     filter: none !important;
   }
 }
-
+ 
 /* ── Text selection tooltip ─────────────────────────────────────────────────────
    Singleton <div id="eba-selection-tooltip"> created by index.js when the user
    selects text on a clause page. Positions itself above the selection via inline
@@ -2040,7 +2040,7 @@ html {
   opacity:        1;
   transform:      translateY(0);
 }
-
+ 
 .est-btn {
   display:         inline-flex;
   align-items:     center;
@@ -2061,22 +2061,22 @@ html {
 }
 .est-btn:hover  { filter: brightness(1.1); }
 .est-btn:active { transform: scale(0.97); }
-
+ 
 /* Suppress in high-contrast mode — the brand colour may not meet contrast ratio */
 [data-high-contrast] #eba-selection-tooltip { display: none !important; }
-
+ 
 /* Never print */
 @media print {
   #eba-selection-tooltip { display: none !important; }
 }
-
+ 
 /* ── J: <kbd> key-cap styling ─────────────────────────────────
    Applies to all <kbd> elements in .vp-doc content. The heavier
    border-bottom-width creates the physical keycap depth illusion
    used by Stripe, GitHub, and MDN. vertical-align nudges the cap
    to sit on the text baseline cleanly.
    ──────────────────────────────────────────────────────────── */
-
+ 
 .vp-doc kbd {
   display:             inline-block;
   padding:             0.1em 0.4em;
@@ -2091,7 +2091,7 @@ html {
   white-space:         nowrap;
   vertical-align:      -0.05em;
 }
-
+ 
 /* ── O: EBA browse-grid icon lifts on card hover ──────────────
    Coordinates the icon's filter + scale with the card border-
    colour change that already fires on .eba-entry:hover.
@@ -2099,32 +2099,32 @@ html {
    both in and out. filter+transform together = GPU composited,
    so no layout thrash.
    ──────────────────────────────────────────────────────────── */
-
+ 
 .eba-icon {
   transition: background-color var(--wiki-transition),
               filter           var(--wiki-transition),
               transform        var(--wiki-transition);
 }
-
+ 
 .eba-entry:hover .eba-icon {
   filter:    brightness(1.12) saturate(1.15);
   transform: scale(1.06);
 }
-
+ 
 /* Suppress filter in high-contrast mode — brightness changes
    can break carefully-set contrast ratios on icon fills.      */
 [data-high-contrast] .eba-entry:hover .eba-icon {
   filter:    none;
   transform: none;
 }
-
+ 
 /* ── P: Section label brand pip ───────────────────────────────
    A 5×5px brand square before .home-section-label and
    .si-root .si-label. Mirrors Stripe's sidebar group-label
    treatment. opacity:0.65 keeps it as an accent, not a
    dominant element.
    ──────────────────────────────────────────────────────────── */
-
+ 
 .home-section-label::before,
 .si-root .si-label::before {
   content:        '';
@@ -2138,7 +2138,7 @@ html {
   opacity:        0.65;
   flex-shrink:    0;
 }
-
+ 
 /* Suppress in high-contrast mode — decorative flourish */
 [data-high-contrast] .home-section-label::before,
 [data-high-contrast] .si-root .si-label::before {

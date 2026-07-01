@@ -969,7 +969,7 @@ const EBA_SLUG_TO_FULL_NAME = {
   'biomedical-engineers': 'Biomedical Engineers 2025-2028',
   'childrens-services':   "Children's Services Award 2010",
   'doctors-in-training':  'Doctors in Training 2022-2026',
-  'has-managers-admin':   'Health Allied & Managers Admin 2021-2025',
+  'has-managers-admin':   'Health Allied & Managers Admin 2025-2027',
   'medical-specialists':  'Medical Specialists 2022-2026',
   'mental-health':        'Mental Health Services 2024-2028',
   'mspp':                 'Medical Scientists, Pharm & Psych 2021-2025',
@@ -1151,7 +1151,7 @@ const SUGGESTION_EBA_MAP = [
   // Mental Health
   { keywords: ['mental health','mental','psychiatric','psychiatry','psychosocial','mho','mental health officer','rpn','registered psychiatric','community mental','acute mental','forensic','inpatient mental'], eba: 'Mental Health Services 2024-2028' },
   // HAS Managers & Admin
-  { keywords: ['manager','managers','admin','administration','administrative','clerical','has ','health admin','health manager','ward clerk','receptionist','scheduler','booking','pmo','project manager','operations manager'], eba: 'Health Allied & Managers Admin 2021-2025' },
+  { keywords: ['manager','managers','admin','administration','administrative','clerical','has ','health admin','health manager','ward clerk','receptionist','scheduler','booking','pmo','project manager','operations manager'], eba: 'Health Allied & Managers Admin 2025-2027' },
   // Biomedical Engineers
   { keywords: ['biomedical','engineer','engineers','biomedical engineer','bme','equipment maintenance','clinical engineer','medical equipment'], eba: 'Biomedical Engineers 2025-2028' },
   // Children's Services
@@ -1947,7 +1947,7 @@ const EBA_SHORTCUT_LIST = [
   'Biomedical Engineers 2025-2028',
   "Children's Services Award 2010",
   'Doctors in Training 2022-2026',
-  'Health Allied & Managers Admin 2021-2025',
+  'Health Allied & Managers Admin 2025-2027',
   'Medical Specialists 2022-2026',
   'Mental Health Services 2024-2028',
   'Medical Scientists, Pharm & Psych 2021-2025',
@@ -2035,9 +2035,11 @@ const EBA_SLUG_MAP = {
   'allied':               'Allied Health Professionals 2021-2026',
   'mental-health':        'Mental Health Services 2024-2028',
   'mental':               'Mental Health Services 2024-2028',
-  'has':                  'Health Allied & Managers Admin 2021-2025',
-  'has-managers-admin':   'Health Allied & Managers Admin 2021-2025',
-  'managers-admin':       'Health Allied & Managers Admin 2021-2025',
+  'has':                       'Health Allied & Managers Admin 2025-2027',
+  'has-managers-admin':        'Health Allied & Managers Admin 2025-2027',
+  'managers-admin':            'Health Allied & Managers Admin 2025-2027',
+  'has-2021-2025':             'Health Allied & Managers Admin 2021-2025',
+  'has-managers-admin-2021-2025': 'Health Allied & Managers Admin 2021-2025',
   'medical-scientists':   'Medical Scientists, Pharm & Psych 2021-2025',
   'mspp':                 'Medical Scientists, Pharm & Psych 2021-2025',
   'medical-specialists':  'Medical Specialists 2022-2026',

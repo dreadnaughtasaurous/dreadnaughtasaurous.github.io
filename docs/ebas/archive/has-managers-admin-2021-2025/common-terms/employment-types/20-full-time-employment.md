@@ -1,0 +1,22 @@
+---
+title: '20. Full Time Employment'
+eba: 'Health Allied & Managers Admin 2021-2025'
+topics: ['employment']
+---
+<span data-pagefind-meta="clause:Clause 20" style="display:none"></span>
+<span data-pagefind-meta="section:Types of Employment" style="display:none"></span>
+<span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
+</div>
+
+# 20. Full Time Employment
+
+**20.1** A full-time Employee is one who is ready, willing and available to work a full week of 38 hours, or an average of 38 hours as per [clause 22](/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/22-hours-of-work) of Section 2 and [clause 7](/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/7-hours-of-work) of Section 3 (Hours of Work) at the times and during the hours that are mutually agreed upon, or in the absence of such agreement, as prescribed by the Employer.
+
+**20.2** Subject to the provisions of [clause 22](/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/22-hours-of-work) of Section 2 and [clause 7](/ebas/archive/has-managers-admin-2021-2025/managers-admin/hours-of-work/7-hours-of-work) of Section 3 (Hours of Work) a full-time Employee will be paid the full weekly wage for their classification irrespective of the number of hours worked not exceeding 38, or an average of 38 per week.
+
+Plain language terms: full-time, FT.
+
+

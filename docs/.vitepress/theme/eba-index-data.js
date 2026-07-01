@@ -783,7 +783,7 @@ export const EBA_INDEX_DATA = {
 
   },
 
-  'has-managers-admin': {
+  'has-managers-admin-2021-2025': {
 
     commencement:  '2022-04-20',
     fullTitle:     'Health and Allied Services, Managers and Administrative Workers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2021-2025',
@@ -797,13 +797,13 @@ export const EBA_INDEX_DATA = {
 
     coverageClassifications: [],
     coverageDesc:            'Health and allied services employees, dental assistants, managers and administrative workers — Victorian public health sector (Schedule 1A)',
-    coverageAppendix:        '/ebas/has-managers-admin/schedules/',
+    coverageAppendix:        '/ebas/archive/has-managers-admin-2021-2025/schedules/',
 
     parts: [
       {
         label:       'Section 1',
         title:       'Common Terms',
-        path:        '/ebas/has-managers-admin/common-terms/',
+        path:        '/ebas/archive/has-managers-admin-2021-2025/common-terms/',
         icon:        'ti-files',
         highlight:   true,
         description: 'Provisions applicable to all employees — general conditions, hours, leave and dispute resolution.',
@@ -811,7 +811,7 @@ export const EBA_INDEX_DATA = {
       {
         label:       'Section 2',
         title:       'Health & Allied Services Employees and Dental Assistants',
-        path:        '/ebas/has-managers-admin/health-allied-services/',
+        path:        '/ebas/archive/has-managers-admin-2021-2025/health-allied-services/',
         icon:        'ti-stethoscope',
         highlight:   true,
         description: 'Specific conditions, classifications and wage rates for health and allied services employees and dental assistants.',
@@ -819,7 +819,7 @@ export const EBA_INDEX_DATA = {
       {
         label:       'Section 3',
         title:       'Managers and Administrative Workers',
-        path:        '/ebas/has-managers-admin/managers-admin/',
+        path:        '/ebas/archive/has-managers-admin-2021-2025/managers-admin/',
         icon:        'ti-briefcase',
         highlight:   true,
         description: 'Specific conditions, classifications and wage rates for managers and administrative workers.',
@@ -827,17 +827,76 @@ export const EBA_INDEX_DATA = {
       {
         label:       'Schedules',
         title:       'Schedules',
-        path:        '/ebas/has-managers-admin/schedules/',
+        path:        '/ebas/archive/has-managers-admin-2021-2025/schedules/',
         icon:        'ti-paperclip',
         description: 'Employer list, classification structure, pay and allowance rates.',
       },
     ],
 
     quickAccess: [
-      { label: 'Common terms',              sub: 'Section 1 · All employees',          path: '/ebas/has-managers-admin/common-terms/',        icon: 'ti-clipboard-list' },
-      { label: 'Health & Allied Services',  sub: 'Section 2',                          path: '/ebas/has-managers-admin/health-allied-services/', icon: 'ti-stethoscope' },
-      { label: 'Managers & Admin',          sub: 'Section 3',                          path: '/ebas/has-managers-admin/managers-admin/',        icon: 'ti-briefcase' },
-      { label: 'Pay rates & schedules',     sub: 'Schedules',                          path: '/ebas/has-managers-admin/schedules/',             icon: 'ti-currency-dollar' },
+      { label: 'Common terms',              sub: 'Section 1 · All employees',          path: '/ebas/archive/has-managers-admin-2021-2025/common-terms/',        icon: 'ti-clipboard-list' },
+      { label: 'Health & Allied Services',  sub: 'Section 2',                          path: '/ebas/archive/has-managers-admin-2021-2025/health-allied-services/', icon: 'ti-stethoscope' },
+      { label: 'Managers & Admin',          sub: 'Section 3',                          path: '/ebas/archive/has-managers-admin-2021-2025/managers-admin/',        icon: 'ti-briefcase' },
+      { label: 'Pay rates & schedules',     sub: 'Schedules',                          path: '/ebas/archive/has-managers-admin-2021-2025/schedules/',             icon: 'ti-currency-dollar' },
+    ],
+
+  },
+
+  'has-managers-admin': {
+
+    commencement:  '2026-07-01',
+    fullTitle:     'Health and Allied Services, Managers and Administrative Workers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2025-2027',
+    agreementType: 'Single-interest employers enterprise agreement',
+    fwcRef:        'AE533226',
+    fwcDecision:   '[2026] FWCA 1632',
+    fwcOdn:        'AG2026/1323',
+
+    employerRep: "Victorian Hospitals' Industrial Association (VHIA)",
+    employeeRep: 'Health Services Union (HSU)',
+
+    coverageClassifications: [],
+    coverageDesc:            'Health and allied services employees, dental assistants, managers and administrative workers — Victorian public health sector (Schedule 1A, 77 employers)',
+    coverageAppendix:        '/ebas/has-managers-admin-2025-2027/schedules/',
+
+    parts: [
+      {
+        label:       'Section 1',
+        title:       'Common Terms',
+        path:        '/ebas/has-managers-admin-2025-2027/common-terms/',
+        icon:        'ti-files',
+        highlight:   true,
+        description: 'Provisions applicable to all employees — general conditions, hours, leave and dispute resolution.',
+      },
+      {
+        label:       'Section 2',
+        title:       'Health & Allied Services Employees and Dental Assistants',
+        path:        '/ebas/has-managers-admin-2025-2027/health-allied-services/',
+        icon:        'ti-stethoscope',
+        highlight:   true,
+        description: 'Specific conditions, classifications and wage rates for health and allied services employees and dental assistants.',
+      },
+      {
+        label:       'Section 3',
+        title:       'Managers and Administrative Workers',
+        path:        '/ebas/has-managers-admin-2025-2027/managers-admin/',
+        icon:        'ti-briefcase',
+        highlight:   true,
+        description: 'Specific conditions, classifications and wage rates for managers and administrative workers.',
+      },
+      {
+        label:       'Schedules',
+        title:       'Schedules',
+        path:        '/ebas/has-managers-admin-2025-2027/schedules/',
+        icon:        'ti-paperclip',
+        description: 'Employer list, classification structure, pay and allowance rates.',
+      },
+    ],
+
+    quickAccess: [
+      { label: 'Common terms',             sub: 'Section 1 · All employees', path: '/ebas/has-managers-admin-2025-2027/common-terms/',         icon: 'ti-clipboard-list' },
+      { label: 'Health & Allied Services', sub: 'Section 2',                 path: '/ebas/has-managers-admin-2025-2027/health-allied-services/', icon: 'ti-stethoscope' },
+      { label: 'Managers & Admin',         sub: 'Section 3',                 path: '/ebas/has-managers-admin-2025-2027/managers-admin/',         icon: 'ti-briefcase' },
+      { label: 'Pay rates & schedules',    sub: 'Schedules',                 path: '/ebas/has-managers-admin-2025-2027/schedules/',              icon: 'ti-currency-dollar' },
     ],
 
   },

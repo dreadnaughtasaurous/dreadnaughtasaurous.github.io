@@ -1,0 +1,26 @@
+---
+title: '13. Examination Leave'
+eba: 'Health Allied & Managers Admin 2021-2025'
+topics: ['leave']
+---
+<span data-pagefind-meta="clause:Clause 13" style="display:none"></span>
+<span data-pagefind-meta="section:Education & Professional Development" style="display:none"></span>
+<span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
+</div>
+
+# 13. Examination Leave
+
+*This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.*
+
+**13.1** An Employee will be granted leave on full pay in order to attend examinations necessary to obtain higher qualifications in such courses as are undertaken with the knowledge and approval of the Employer.
+
+**13.2** The amount of leave will be such as to allow the Employee to proceed to and from the place of examinations and in addition allow three clear working days other than a Saturday or a Sunday for pre-examination study if this is so desired.
+
+**13.3** Any leave granted under the provisions of this clause will be in addition to annual leave granted pursuant to [clause 53](/ebas/archive/has-managers-admin-2021-2025/common-terms/leave/53-annual-leave) (Annual Leave).
+
+**13.4** Leave with pay granted under the provisions of this clause will not exceed six clear working days per year.
+
+Plain language terms: exam leave.

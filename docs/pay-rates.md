@@ -53,12 +53,12 @@ Quick-reference page linking to every wage rate, allowance, and payment schedule
 
 <div class="pay-card">
   <h3>Health and Allied Services, Managers and Administrative Workers</h3>
-  <p class="pay-card-sub">Victorian Public Sector, 2021–2025 · Salary Circular 858</p>
+  <p class="pay-card-sub">Victorian Public Sector, 2025–2027 · Salary Circular 858</p>
   <div class="pay-card-links">
-    <a href="./ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services">HAS Wage Rates · Schedule 2B</a>
-    <a href="./ebas/has-managers-admin/schedules/2c-allowances-health-allied-services">HAS Allowances · Schedule 2C</a>
-    <a href="./ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers">M&amp;A Wage Rates · Schedule 3B</a>
-    <a href="./ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers">M&amp;A Allowances · Schedule 3C</a>
+    <a href="./ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services">HAS Wage Rates · Schedule 2B</a>
+    <a href="./ebas/has-managers-admin-2025-2027/schedules/2c-allowances-health-allied-services">HAS Allowances · Schedule 2C</a>
+    <a href="./ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers">M&amp;A Wage Rates · Schedule 3B</a>
+    <a href="./ebas/has-managers-admin-2025-2027/schedules/3c-allowances-managers-and-administrative-workers">M&amp;A Allowances · Schedule 3C</a>
   </div>
 </div>
 

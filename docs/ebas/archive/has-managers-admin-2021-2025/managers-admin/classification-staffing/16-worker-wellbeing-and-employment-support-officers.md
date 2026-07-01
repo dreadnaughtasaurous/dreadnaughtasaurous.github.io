@@ -1,0 +1,23 @@
+---
+title: '16. Worker Wellbeing and Employment Support Officers'
+eba: 'Health Allied & Managers Admin 2021-2025'
+topics: []
+---
+<span data-pagefind-meta="clause:Clause 16" style="display:none"></span>
+<span data-pagefind-meta="section:Classification & Staffing" style="display:none"></span>
+<span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative clerical officer administration health manager patient services officer
+</div>
+
+# 16. Worker Wellbeing and Employment Support Officers
+
+**16.1** From commencement of this Agreement, the role of:
+
+- **(a)** Worker Wellbeing Officers will be introduced in accordance with [Schedule 3F](/ebas/archive/has-managers-admin-2021-2025/schedules/3f-worker-wellbeing-officer);
+- **(b)** Aboriginal Employment Support Officers will be introduced in accordance with [Schedule 3G](/ebas/archive/has-managers-admin-2021-2025/schedules/3g-aboriginal-employment-support-officer);
+- **(c)** Disability Employment Support Officers will be introduced in accordance with [Schedule 3H](/ebas/archive/has-managers-admin-2021-2025/schedules/3h-disability-employment-support-officer); and
+- **(d)** Veteran Employment Support Officers will be introduced in accordance with Employees who perform the roles listed in subclause 16.1 will be classified under as Grade 3 under Part 1 or Part 2 of [Schedule 3D](/ebas/archive/has-managers-admin-2021-2025/schedules/3d-classification-structure-managers-and-administrative-workers) (as applicable).
+
+Plain language terms: wellbeing officer, support officer.

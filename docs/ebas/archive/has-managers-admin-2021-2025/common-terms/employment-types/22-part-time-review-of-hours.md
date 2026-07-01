@@ -1,0 +1,34 @@
+---
+title: '22. Part-Time Review of Hours'
+eba: 'Health Allied & Managers Admin 2021-2025'
+topics: []
+---
+<span data-pagefind-meta="clause:Clause 22" style="display:none"></span>
+<span data-pagefind-meta="section:Types of Employment" style="display:none"></span>
+<span data-pagefind-filter="eba:Health Allied & Managers Admin 2021-2025" style="display:none"></span>
+
+<div class="pagefind-synonyms" style="display:none" aria-hidden="true">
+HAS HASMA health administrative services manager administrative worker clerical officer administration health manager patient services officer
+</div>
+
+# 22. Part-Time Review of Hours
+
+**22.1** Where over a period of 26 weeks or more a part-time Employee regularly and systematically works more than their contracted hours, the Employer or the Employee may request in writing a contract reflecting that the Employee’s hours have increased on a permanent basis. Such a request will not be unreasonably refused by either party.
+
+**22.2** Where the Employer makes the request under [subclause 22.1](/ebas/archive/has-managers-admin-2021-2025/health-allied-services/hours-of-work/22-hours-of-work), at the time of making the request the Employer will also notify the Employee in writing of their obligations under this subclause.
+
+**22.3** An Employee will not be considered to be regularly and systematically rostered if the shifts the Employee has been working are replacing an absent Employee (for example parental leave, long service leave, workers’ compensation or personal leave) or a temporary flexible work arrangement.
+
+**22.4** A written response will be provided no later than 21 days from the date of a request (by either an Employee or Employer).
+
+**22.5** Where the request is refused:
+
+- **(a)** the written response will include reasons for the refusal.
+- **(b)** an Employee may request that the Employer provides any evidence relied upon in making a determination under this clause.
+- **(c)** where a dispute arises in relation to the response by either an Employer or an Employee, it will be dealt with in accordance with [Clause 17](/ebas/archive/has-managers-admin-2021-2025/managers-admin/classification-staffing/17-translation-of-managers-and-administrative-workers) (Dispute Resolution Procedure).
+
+**22.6** Where the request is granted:
+
+- **(a)** the Employee will be provided with a Letter of Appointment setting out the revised employment arrangements.
+
+

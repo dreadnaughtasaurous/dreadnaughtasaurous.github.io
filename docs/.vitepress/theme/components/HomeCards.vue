@@ -149,12 +149,12 @@ const ebaCards = [
   },
   {
     icon: icons.briefcase,     color: '#3B82F6', bg: '#3B82F61A',
-    title: 'Health Allied & Managers Admin',                  period: '2021–2025',
-    link: '/ebas/has-managers-admin',
+    title: 'Health Allied & Managers Admin',                  period: '2025–2027',
+    link: '/ebas/has-managers-admin-2025-2027',
     quickLinks: [
-      { label: 'HAS Wage Rates',      path: '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services' },
-      { label: 'M&A Wage Rates', path: '/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers' },
-      { label: 'Leave',      path: '/ebas/has-managers-admin/common-terms/leave' },
+      { label: 'HAS Wage Rates',      path: '/ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services' },
+      { label: 'M&A Wage Rates', path: '/ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers' },
+      { label: 'Leave',      path: '/ebas/has-managers-admin-2025-2027/common-terms/leave' },
     ],
   },
   {

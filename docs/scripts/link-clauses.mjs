@@ -45,6 +45,9 @@ const SKIP_CLAUSE_REFS = {
   'childrens-services': new Set([
     'clause 102(3)',
   ]),
+  'has-managers-admin-2025-2027': new Set([
+    'clause 33A',
+  ]),
 }
 
 // ─── File-scoped label overrides ──────────────────────────────────────────────
@@ -56,26 +59,42 @@ const FILE_OVERRIDES = {
 
 // ─── Multi-stream EBA configuration ───────────────────────────────────────────
 const STREAM_EBAS = {
-  'has-managers-admin': ['common-terms', 'health-allied-services', 'managers-admin', 'schedules'],
+  'has-managers-admin-2025-2027': ['common-terms', 'health-allied-services', 'managers-admin', 'schedules'],
+  'has-managers-admin-2021-2025': ['common-terms', 'health-allied-services', 'managers-admin', 'schedules'],
   'mental-health':      ['common-terms', 'rpn-pen-mho', 'health-professionals', 'management-admin', 'support-services', 'schedules'],
 }
 
 // ─── Manual alias maps ────────────────────────────────────────────────────────
 const MANUAL_ALIASES = {
-  'has-managers-admin': {
-    'Schedule 1A': '/ebas/has-managers-admin/schedules/1a-employers-covered',
-    'Schedule 1B': '/ebas/has-managers-admin/schedules/1b-supported-wage-system-for-employees-with-a-disability',
-    'Schedule 2B': '/ebas/has-managers-admin/schedules/2b-wage-rates-health-allied-services',
-    'Schedule 2C': '/ebas/has-managers-admin/schedules/2c-allowances-health-allied-services',
-    'Schedule 2D': '/ebas/has-managers-admin/schedules/2d-classification-structure-health-allied-services',
-    'Schedule 3B': '/ebas/has-managers-admin/schedules/3b-wage-rates-managers-and-administrative-workers',
-    'Schedule 3C': '/ebas/has-managers-admin/schedules/3c-allowances-managers-and-administrative-workers',
-    'Schedule 3D': '/ebas/has-managers-admin/schedules/3d-classification-structure-managers-and-administrative-workers',
-    'Schedule 3E': '/ebas/has-managers-admin/schedules/3e-workplace-trainer-careers-advisor',
-    'Schedule 3F': '/ebas/has-managers-admin/schedules/3f-worker-wellbeing-officer',
-    'Schedule 3G': '/ebas/has-managers-admin/schedules/3g-aboriginal-employment-support-officer',
-    'Schedule 3H': '/ebas/has-managers-admin/schedules/3h-disability-employment-support-officer',
-    'Schedule 3I': '/ebas/has-managers-admin/schedules/3i-veteran-employment-support-officer',
+  'has-managers-admin-2021-2025': {
+    'Schedule 1A': '/ebas/archive/has-managers-admin-2021-2025/schedules/1a-employers-covered',
+    'Schedule 1B': '/ebas/archive/has-managers-admin-2021-2025/schedules/1b-supported-wage-system-for-employees-with-a-disability',
+    'Schedule 2B': '/ebas/archive/has-managers-admin-2021-2025/schedules/2b-wage-rates-health-allied-services',
+    'Schedule 2C': '/ebas/archive/has-managers-admin-2021-2025/schedules/2c-allowances-health-allied-services',
+    'Schedule 2D': '/ebas/archive/has-managers-admin-2021-2025/schedules/2d-classification-structure-health-allied-services',
+    'Schedule 3B': '/ebas/archive/has-managers-admin-2021-2025/schedules/3b-wage-rates-managers-and-administrative-workers',
+    'Schedule 3C': '/ebas/archive/has-managers-admin-2021-2025/schedules/3c-allowances-managers-and-administrative-workers',
+    'Schedule 3D': '/ebas/archive/has-managers-admin-2021-2025/schedules/3d-classification-structure-managers-and-administrative-workers',
+    'Schedule 3E': '/ebas/archive/has-managers-admin-2021-2025/schedules/3e-workplace-trainer-careers-advisor',
+    'Schedule 3F': '/ebas/archive/has-managers-admin-2021-2025/schedules/3f-worker-wellbeing-officer',
+    'Schedule 3G': '/ebas/archive/has-managers-admin-2021-2025/schedules/3g-aboriginal-employment-support-officer',
+    'Schedule 3H': '/ebas/archive/has-managers-admin-2021-2025/schedules/3h-disability-employment-support-officer',
+    'Schedule 3I': '/ebas/archive/has-managers-admin-2021-2025/schedules/3i-veteran-employment-support-officer',
+  },
+  'has-managers-admin-2025-2027': {
+    'Schedule 1A': '/ebas/has-managers-admin-2025-2027/schedules/1a-employers-covered',
+    'Schedule 1B': '/ebas/has-managers-admin-2025-2027/schedules/1b-supported-wage-system-for-employees-with-a-disability',
+    'Schedule 2B': '/ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services',
+    'Schedule 2C': '/ebas/has-managers-admin-2025-2027/schedules/2c-allowances-health-allied-services',
+    'Schedule 2D': '/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services',
+    'Schedule 3B': '/ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers',
+    'Schedule 3C': '/ebas/has-managers-admin-2025-2027/schedules/3c-allowances-managers-and-administrative-workers',
+    'Schedule 3D': '/ebas/has-managers-admin-2025-2027/schedules/3d-classification-structure-managers-and-administrative-workers',
+    'Schedule 3E': '/ebas/has-managers-admin-2025-2027/schedules/3e-workplace-trainer-careers-advisor',
+    'Schedule 3F': '/ebas/has-managers-admin-2025-2027/schedules/3f-worker-wellbeing-officer',
+    'Schedule 3G': '/ebas/has-managers-admin-2025-2027/schedules/3g-aboriginal-employment-support-officer',
+    'Schedule 3H': '/ebas/has-managers-admin-2025-2027/schedules/3h-disability-employment-support-officer',
+    'Schedule 3I': '/ebas/has-managers-admin-2025-2027/schedules/3i-veteran-employment-support-officer',
   },
   'mental-health': {
     'Schedule 1':  '/ebas/mental-health/schedules/01-list-of-employers',
@@ -96,8 +115,7 @@ const MANUAL_ALIASES = {
 }
 
 // ─── Step 1: Build slug maps ───────────────────────────────────────────────────
-function buildSlugMap(ebaFolder) {
-  const ebaPath = join(EBAS_ROOT, ebaFolder)
+function buildSlugMap(ebaFolder, ebaPath) {
   const streams = STREAM_EBAS[ebaFolder]
   const isMulti = !!streams
 
@@ -396,21 +414,40 @@ function processFile(filePath, slugMapResult, ebaFolder) {
 }
 
 // ─── Step 6: Walk EBA folders ─────────────────────────────────────────────────
-const ebaFolders = readdirSync(EBAS_ROOT).filter(f => {
-  if (EBA_FILTER) return f === EBA_FILTER
-  return statSync(join(EBAS_ROOT, f)).isDirectory()
-})
+// 'archive/' is not itself an EBA — its subfolders are archived agreements and
+// must be processed under their own key (e.g. 'has-managers-admin-2021-2025')
+// so STREAM_EBAS/MANUAL_ALIASES/SKIP_LABELS/SKIP_CLAUSE_REFS resolve correctly,
+// while the physical scan path still points into archive/<subfolder>.
+const topLevelEntries = readdirSync(EBAS_ROOT).filter(f =>
+  statSync(join(EBAS_ROOT, f)).isDirectory()
+)
 
-for (const ebaFolder of ebaFolders) {
-  const slugMapResult = buildSlugMap(ebaFolder)
-  const ebaPath       = join(EBAS_ROOT, ebaFolder)
+const ebaTargets = []
+for (const entry of topLevelEntries) {
+  if (entry === 'archive') {
+    const archiveRoot = join(EBAS_ROOT, 'archive')
+    for (const sub of readdirSync(archiveRoot)) {
+      if (!statSync(join(archiveRoot, sub)).isDirectory()) continue
+      ebaTargets.push({ ebaKey: sub, ebaPath: join(archiveRoot, sub) })
+    }
+    continue
+  }
+  ebaTargets.push({ ebaKey: entry, ebaPath: join(EBAS_ROOT, entry) })
+}
+
+const filteredTargets = EBA_FILTER
+  ? ebaTargets.filter(t => t.ebaKey === EBA_FILTER)
+  : ebaTargets
+
+for (const { ebaKey, ebaPath } of filteredTargets) {
+  const slugMapResult = buildSlugMap(ebaKey, ebaPath)
 
   function walkAndProcess(dir) {
     for (const entry of readdirSync(dir)) {
       const full = join(dir, entry)
       const stat = statSync(full)
       if (stat.isDirectory()) walkAndProcess(full)
-      else if (entry.endsWith('.md')) processFile(full, slugMapResult, ebaFolder)
+      else if (entry.endsWith('.md')) processFile(full, slugMapResult, ebaKey)
     }
   }
 
