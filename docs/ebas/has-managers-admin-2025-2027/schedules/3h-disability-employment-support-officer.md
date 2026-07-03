@@ -7,7 +7,7 @@ synonyms: ['disability employment officer', 'disability workforce support', 'dis
 
 # Schedule 3H - Disability Employment Support Officer (Managers and Administrative Workers)
 
-**1. The Role**
+## 1. The Role
 
 **1.1** A Disability Employment Support Officer will be responsible for promoting the achievement of a two per cent Disability Employment Target and the prioritisation of focus areas set out in the DH Disability Employment Strategy 2018-2020:
 - **(a)** Profile and Leadership
@@ -16,7 +16,7 @@ synonyms: ['disability employment officer', 'disability workforce support', 'dis
 - **(d)** Inclusive Workplaces
 - **(e)** Retention
 
-**2. Duties**
+## 2. Duties
 
 Duties include:
 
@@ -26,7 +26,7 @@ Duties include:
 
 **2.3** Networking with the local Disability community, Disability community organisations, high schools, TAFE and University.
 
-**3. Qualifications/Experience**
+## 3. Qualifications/Experience
 
 Required qualifications and experience for this role is as follows:
 

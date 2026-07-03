@@ -7,7 +7,7 @@ synonyms: ['jury duty', 'court attendance', 'jury leave']
 
 # 66. Jury Service Leave
 
->**NOTE:** Payments to Employees (other than casuals) for Jury Service is provided for in the NES. This clause contains supplementary terms. The Juries Act 2000 (Vic) provides further terms, including those that apply to casuals.
+>**Note:** Payments to Employees (other than casuals) for Jury Service is provided for in the NES. This clause contains supplementary terms. *The Juries Act 2000* (Vic) provides further terms, including those that apply to casuals.
 
 **66.1** An Employee required to attend for jury service during their ordinary working hours will be reimbursed by the Employer an amount equal to the difference between:
 

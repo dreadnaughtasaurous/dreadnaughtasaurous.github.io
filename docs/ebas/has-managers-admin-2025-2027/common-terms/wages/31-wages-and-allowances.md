@@ -9,7 +9,7 @@ synonyms: ['pay rates', 'pay rise', 'salary increases', 'allowance rates']
 
 **31.1** The wages over the life of the Agreement are contained in Schedules 2B and 3B.
 
-**31.2 The allowance rates over the life of the Agreement are contained in Schedules 2C and 3C.**
+**31.2** The allowance rates over the life of the Agreement are contained in Schedules 2C and 3C.
 
 **31.3** Health and Allied Services Employees, Dental Assistants, and Manager and Administrative Workers Grade 1A – Grade 5 (inclusive) will be entitled to the following increases:
 - **(a)** from the FFPPOA 16 December 2025:

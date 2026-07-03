@@ -7,7 +7,7 @@ synonyms: ['fixed term contract', 'temporary contract']
 
 # 27. Fixed Term Employment
 
-Fixed term contracts entered into after 6 December 2023 are subject to this clause and Part 2-9, Division 5 of the Act. Where there is any inconsistency between this clause and the Act, the terms of the Act will prevail.
+*Fixed term contracts entered into after 6 December 2023 are subject to this clause and Part 2-9, Division 5 of the Act. Where there is any inconsistency between this clause and the Act, the terms of the Act will prevail.*
 
 **27.1** A fixed term Employee is an Employee who is employed:
 - **(a)** for a specified period of time, which period is known at the commencement of the contract, or
@@ -45,7 +45,8 @@ which in each case can be terminated earlier than the relevant expiration date i
 - **(b)** Long term WorkCover replacement;
 - **(c)** Special Projects or a body of work with clear parameters determined in advance by the Employer with the intent to deliver a specified outcome within an anticipated timeframe;
 - **(d)** Backfill including for extended leave (such as Parental Leave and Long Service Leave), to support flexible working arrangements, temporary assignment or secondment
-*Note: In this context, backfill to support flexible working arrangements does not refer to the Employee on the flexible working arrangement, but instead to an arrangement to work hours that arise from a flexible work arrangement that includes a temporary reduction in hours.*
+
+  >**Note:** In this context, backfill to support flexible working arrangements does not refer to the Employee on the flexible working arrangement, but instead to an arrangement to work hours that arise from a flexible work arrangement that includes a temporary reduction in hours.
 
 **27.5** If an Employer and Employee enter into a fixed term contract which is not permitted under this Agreement, the term of the contract that provides that it will terminate at the end of an identifiable period is taken to have no effect, and the validity of the contract will otherwise not be affected.
 
@@ -56,4 +57,5 @@ which in each case can be terminated earlier than the relevant expiration date i
 - **(d)** An Employer may terminate a fixed term Employee in accordance with [subclauses 20.5(a)(i)(E)](/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/20-managing-conduct-and-performance) (Managing Conduct and Performance – termination on notice), 20.5(a)(ii)(A) (Managing Conduct and Performance – termination for serious misconduct) or 28.1(f) (Notice Period Before Termination / serious misconduct).
 
 **27.7 Disputes under this clause**
+
 All disputes raised under this clause 27 are to be dealt with in accordance with [clause 19](/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/19-dispute-resolution-procedure) (Dispute Resolution Procedure).

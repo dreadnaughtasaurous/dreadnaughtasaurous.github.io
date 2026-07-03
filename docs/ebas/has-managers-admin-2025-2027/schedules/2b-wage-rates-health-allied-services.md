@@ -7,7 +7,7 @@ synonyms: ['pay rates', 'wages', 'salary rates', 'classification rates']
 
 # Schedule 2B - Wage Rates (Health & Allied Services)
 
-## PART 1: WAGE RATES FOR HEALTH AND ALLIED SERVICES EMPLOYEES
+## Part 1: Wage Rates for Health and Allied Services Employees
 
 The following weekly rates of pay apply only to Health and Allied Services Employees (whose employment is covered by the classifications set out in Part 1 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement).
 
@@ -104,9 +104,9 @@ The following weekly rates of pay apply only to Health and Allied Services Emplo
 | Theatre Technician Grade 5 | IN11 | 7 | $1,575.81 | $1,575.81 | $1,638.84 | $1,704.39 |
 | Liver Transplant Technologist (Austin Health only) | IN12 | 8 | $1,921.61 | $1,921.61 | $1,998.47 | $2,078.41 |
 
-## PART 2: WAGE RATES FOR DENTAL ASSISTANTS
+## Part 2: Wage Rates for Dental Assistants
 
-Table A: Dental Assistants employed by OHV
+### Table A: Dental Assistants employed by OHV
 
 The following annual salaries apply only to Dental Assistants (whose employment is covered by the classifications set out in Part 2 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement and who are employed by OHV. The rates specified are inclusive of annual leave loading, allowances (other than shift allowances), additional payments and extra payments associated with the function performed. Authorised overtime and shift allowances are paid separately.
 
@@ -125,9 +125,9 @@ The following annual salaries apply only to Dental Assistants (whose employment 
 | Grade 4 – Senior Dental Assistant | By appointment only | 4.1 | $76,015.68 | $76,015.68 | $79,056.31 | $79,056.31 | $79,056.31 | $82,218.56 |
 | Grade 4 – Senior Dental Assistant | By appointment only | 4.2 | $78,730.60 | $78,730.60 | $81,879.82 | $81,879.82 | $81,879.82 | $85,155.02 |
 
-Table B: Dental Assistants employed by Employers other than OHV
+### Table B: Dental Assistants employed by Employers other than OHV
 
-The following weekly rates of pay apply only to Dental Assistants (whose employment is covered by the classifications set out in Part 2 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement and who are employed by an Employer other than OHV).
+The following weekly rates of pay apply only to Dental Assistants (whose employment is covered by the classifications set out in Part 2 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement and who are employed by an Employer **other than** OHV).
 
 | Classification |  | Pay code | Level | FFPPOA 16 Dec 2025 | FFPPOA 1 July 2026 | FFPPOA 16 Dec 2026 | FFPPOA 1 Jan 2027 | FFPPOA 1 July 2027 | FFPPOA 16 Dec 2027 |
 |---|---|---|---|---|---|---|---|---|---|

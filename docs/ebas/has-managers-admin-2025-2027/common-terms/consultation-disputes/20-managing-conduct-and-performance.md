@@ -19,6 +19,7 @@ topics: ['discipline', 'performance-management', 'conduct']
 - **(c)** An Employee will be provided a reasonable opportunity to be represented at any time (including by a Union) with respect to all matters set out in this clause.
 - **(d)** The Employer will notify the Employee in accordance with subclause **20.3(b)** as soon as practicable following the Employer becoming aware of the alleged concerns at subclause **20.1(a)**.
 - **(e) Exception – Employees who have not completed a minimum period of employment with their Employer**
+
   Where an Employee has not completed a period of employment with their Employer of at least the minimum employment period defined at section 383 of the Act (six months continuous service as defined within the Act unless amended) and the Employer is considering the termination of the Employee's employment, the Employer will:
   - **(i)** provide the concerns in writing to the Employee as soon as practicable following the Employer becoming aware of the alleged concerns;
   - **(ii)** advise the Employee of their right to have a representative, including a Union representative;
@@ -41,7 +42,7 @@ topics: ['discipline', 'performance-management', 'conduct']
   - **(iv)** being intoxicated at work;
   - **(v)** refusing to carry out a lawful and reasonable instruction that is consistent with the Employee's contract of employment.
   
-  Subclauses **20.2(d)(iii)-(v)** do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conducted that made employment in the period of notice unreasonable.
+  Subclauses 20.2(d)(iii)-(v) do not apply if the Employee is able to show that, in the circumstances, the conduct engaged in by the Employee was not conducted that made employment in the period of notice unreasonable.
 
 **20.3 Investigative procedure**
 - **(a)** The purpose of an investigative procedure is to conclude whether, on balance, concerns regarding conduct or performance are well-founded and supported by evidence. An investigation procedure must be fair including proper regard to procedural fairness.
@@ -80,6 +81,7 @@ topics: ['discipline', 'performance-management', 'conduct']
 - **(c)** If after any warning or counselling, a period of 12 months elapses (as relevant) without the Employee repeating a course of Conduct for which the preceding warning or counselling was given, the Employer cannot rely on the preceding warning or counselling for the purpose of issuing a further warning.
 
 **20.6 Disputes**
+
 A dispute over this clause is to be dealt with in accordance with the Dispute Resolution Procedure of this Agreement.
 
 **20.7 Performance Management**

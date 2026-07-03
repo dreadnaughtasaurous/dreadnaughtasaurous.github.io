@@ -7,7 +7,7 @@ synonyms: ['pay rates', 'wages', 'salary rates']
 
 # Schedule 3B – Wage Rates (Managers and Administrative Workers)
 
-## PART 1: Managers and Administrative Workers (other than Royal Women’s Hospital and Royal Children’s Hospital)
+## Part 1: Managers and Administrative Workers (other than Royal Women’s Hospital and Royal Children’s Hospital)
 
 The following weekly rates of pay apply only to Managers and Administrative Workers whose employment is covered by the classifications set out in Part 1 of [Schedule 3D](/ebas/has-managers-admin-2025-2027/schedules/3d-classification-structure-managers-and-administrative-workers) of this Agreement.
 
@@ -45,7 +45,7 @@ The following weekly rates of pay apply only to Managers and Administrative Work
 | Grade 9 | HS9 | $2,941.89 | $3,030.14 | $3,121.05 |
 | Grade 10 | HS10 | $3,193.52 | $3,289.32 | $3,388.00 |
 
-## PART 2: Managers and Administrative Officers – Royal Women’s Hospital and Royal Children’s Hospital
+## Part 2: Managers and Administrative Officers – Royal Women’s Hospital and Royal Children’s Hospital
 
 The following weekly rates of pay apply only to Managers and Administrative Workers who are employed either by Royal Women’s Hospital or the Royal Children’s Hospital whose employment is covered by the classifications set in Part 2 of [Schedule 3D](/ebas/has-managers-admin-2025-2027/schedules/3d-classification-structure-managers-and-administrative-workers) of this Agreement.
 

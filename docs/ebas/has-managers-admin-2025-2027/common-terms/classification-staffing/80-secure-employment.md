@@ -8,7 +8,7 @@ synonyms: ['job security']
 # 80. Secure Employment
 
 **80.1 Supplementary Labour**
-- **(a)** For the purposes of this subclause 80.1, Supplementary Labour means individuals who are engaged by a third-party organisation (such as contractors, employees of contractors and employees of labour hire businesses) assigned to perform work at the Employer's workplace, but who are not employed directly by the Employer.
+- **(a)** For the purposes of this subclause 80.1, **Supplementary Labour** means individuals who are engaged by a third-party organisation (such as contractors, employees of contractors and employees of labour hire businesses) assigned to perform work at the Employer's workplace, but who are not employed directly by the Employer.
 - **(b)** The Employer acknowledges the positive impact that secure employment has on Employees and the provision of quality services to the Victorian community.
 - **(c)** The Employer will give preference to ongoing forms of employment over casual and fixed term arrangements wherever possible. Supplementary Labour should not be used to undermine the job security of direct Employees and should only be relied on in limited circumstances.
 - **(d)** Limiting the use of Supplementary Labour is consistent with the commitment to maintain public sector employment. Each Employer will seek to maximise its use of part- time and full-time Employees in meeting its staffing needs.

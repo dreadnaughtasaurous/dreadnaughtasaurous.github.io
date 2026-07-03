@@ -7,7 +7,7 @@ synonyms: ['sick leave', 'carer leave', 'personal leave']
 
 # 58. Personal leave
 
-This clause does not apply to casual Employees. The entitlements of casual Employees are set out in [clause 59](/ebas/has-managers-admin-2025-2027/common-terms/leave/59-casual-employment-caring-responsibilities) (Casual Employment – Caring Responsibilities).
+*This clause does not apply to casual Employees. The entitlements of casual Employees are set out in [clause 59](/ebas/has-managers-admin-2025-2027/common-terms/leave/59-casual-employment-caring-responsibilities) (Casual Employment – Caring Responsibilities).*
 
 **58.1 Amount of Paid Personal Leave**
 - **(a)** Paid personal leave accrues progressively during a year of service according to the Employee's ordinary hours of work (excluding overtime) and accumulates from year to year.
@@ -23,14 +23,16 @@ This clause does not apply to casual Employees. The entitlements of casual Emplo
 
 **58.3 Access to Paid Personal Leave**
 - **(a)** Subject to the conditions set out in this clause, an Employee may take paid personal leave if the leave is taken:
-  - **(i)** due to personal illness or injury (sick leave); or
+  - **(i)** due to personal illness or injury (**sick leave**); or
   - **(ii)** to care for or support a member of the Employee's Immediate Family or household because of:
     - **(A)** a personal illness or injury affecting them; or
-    - **(B)** an unexpected emergency affecting them (carer's leave).
+    - **(B)** an unexpected emergency affecting them (**carer's leave**).
 - **(b)** In normal circumstances an Employee must not take carer's leave under this clause where another person has taken leave on the same occasion to care for the same person, unless the family or household member also requires the Employee's care or support.
 
 **58.4 Sick leave**
-- **(a) General** An Employee may take personal leave for the reasons described at subclause 58.3 above and 58.4(b) below.
+- **(a) General** 
+
+  An Employee may take personal leave for the reasons described at subclause 58.3 above and 58.4(b) below.
 - **(b) Personal Leave to Attend Registered Health Practitioner Appointments**
   - **(i)** Employees who are required to be absent from rostered ordinary shifts on account of attending a registered health practitioner for an appointment for:
     - **(A)** Treatment,
@@ -47,14 +49,18 @@ This clause does not apply to casual Employees. The entitlements of casual Emplo
     - **(A)** a medical certificate from a registered health practitioner; or
     - **(B)** a statutory declaration signed by the Employee with respect to absences on three occasions in any one year not exceeding three consecutive working days each.
   - **(ii)** Evidence requirements for sick leave taken in accordance with subclause 58.4(b) is dealt with at subclause 58.4(b)(ii).
-- **(d) Exception to evidence requirement – single day absences** An Employee may be absent for a single day without evidence of personal illness or injury as required at subclause 58.4(c) above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at subclause 58.4(e) below.
+- **(d) Exception to evidence requirement – single day absences** 
+
+  An Employee may be absent for a single day without evidence of personal illness or injury as required at subclause 58.4(c) above, on not more than five occasions per year of service. However, an Employee will not be entitled to this benefit if the Employee fails to notify the Employer pursuant to health service procedure of the single day absence as set out at subclause 58.4(e) below.
 - **(e) Notice requirements**
   - **(i)** An Employee should inform the Employer of their absence no less than 1.5 hours prior to the commencement of the rostered shift or as soon as reasonably practicable to allow the Employer to take necessary steps to assess the impact the absence has on service delivery, patient care and workload.
   - **(ii)** The notice must advise the Employer of the period, or expected period, of the leave.
   - **(iii)** The Employer will inform Employees of the procedure for notification by Employees of their inability to attend work due to illness or injury. All such notifications will be registered, detailing the time and name of the Employee.
 
 **58.5 Carer's leave**
-- **(a) Evidence requirements** The Employee must, if required by the Employer, establish by production of a statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either:
+- **(a) Evidence requirements** 
+
+  The Employee must, if required by the Employer, establish by production of a statutory declaration or other evidence that would satisfy a reasonable person, that a member of the Employee's immediate family or household has either:
   - **(i)** an illness or injury; or
   - **(ii)** an unexpected emergency,
   that requires their care or support. In the case of an unexpected emergency, the Employee will identify the nature of the emergency. An 'unexpected emergency' includes providing care or support to a member experiencing family violence.
@@ -69,7 +75,8 @@ This clause does not apply to casual Employees. The entitlements of casual Emplo
   - **(ii)** The Employer and the Employee will agree on the period. In the absence of agreement, the Employee is entitled to take up to two (2) days' unpaid carer's leave per occasion, provided the notice and evidentiary requirements are met.
 
 **58.6 Personal Leave on a Public Holiday**
-See also [clause 73](/ebas/has-managers-admin-2025-2027/common-terms/leave/73-public-holidays) (Public Holidays)
+
+*See also [clause 73](/ebas/has-managers-admin-2025-2027/common-terms/leave/73-public-holidays) (Public Holidays)*
 
 If the period during which an Employee takes paid personal leave includes a day or part day that is a public holiday in the place where the Employee is based for work purposes, the Employee is taken not to be on paid personal leave on that public holiday.
 
@@ -81,7 +88,7 @@ If the period during which an Employee takes paid personal leave includes a day 
 - **(b)** An Employee must produce a written statement from their previous employer specifying the amount of accumulated personal leave at the time of termination, as soon as reasonably practicable following termination, however, an Employer cannot rely on an Employee's delay in providing a written statement in refusing to grant portability of Personal Leave in accordance with this clause.
 - **(c)** Where an Employee remains engaged on casual bank/or as a casual Employee with their previous employer, the Employee must provide evidence that their previous employer has removed any and all personal leave accrual prior to the new employer providing a benefit under this clause.
 - **(d)** Provided further that where any Employee for the sole purpose of undertaking a course of study related to their employment, is, with the written approval of the Employer, absent without pay for up to but not exceeding 52 weeks, such absence will not be deemed to have broken continuity of service but will not be counted as service for the purpose of establishing entitlement to personal leave portability.
-- **(e)** For the purpose of this subclause, the allowable period of absence means in respect of any period of absence from employment between engagement with one Employer and another or re-engagement with the same Employer that does not exceed five weeks in addition to the total period of annual leave and long service leave which the Employee actually receives on termination or for which they are paid in lieu.
+- **(e)** For the purpose of this subclause, the **allowable period of absence** means in respect of any period of absence from employment between engagement with one Employer and another or re-engagement with the same Employer that does not exceed five weeks in addition to the total period of annual leave and long service leave which the Employee actually receives on termination or for which they are paid in lieu.
 
 **58.8 Personal Leave and additional shifts above ordinary hours**
 - **(a)** No payment of personal leave will be made to an Employee where the shift or hours not worked due to illness or injury are in addition to an Employee's ordinary hours of work.

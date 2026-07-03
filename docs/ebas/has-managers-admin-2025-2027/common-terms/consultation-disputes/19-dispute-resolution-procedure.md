@@ -12,7 +12,7 @@ synonyms: ['disputes', 'grievance procedure']
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months' parental leave); or
   - **(ii)** the NES.
-- **(c)** A Party for the purposes of this clause is the Employee/s or the Employer that are subject to the dispute, as the context requires.
+- **(c)** A **Party** for the purposes of this clause is the Employee/s or the Employer that are subject to the dispute, as the context requires.
 - **(d)** A Party to the dispute may choose to be represented at any stage by a representative, including the HWU or employer organisation. A representative, including the HWU or employer organisation on behalf of an Employer, may initiate a dispute.
 
 **19.2 Obligations**
@@ -40,6 +40,7 @@ synonyms: ['disputes', 'grievance procedure']
 - **(c)** If a dispute cannot be resolved at the workplace it may be referred by a Party to the dispute or representative to the Commission for conciliation and, if the matter in dispute remains unresolved, arbitration.
 
 **19.5 Disputes of a collective character**
+
 Disputes of a collective character may be dealt with more expeditiously by an early reference to the Commission. However, no dispute of a collective character may be referred to the Commission directly without a genuine attempt to resolve the dispute at the workplace level.
 
 **19.6 Conciliation**

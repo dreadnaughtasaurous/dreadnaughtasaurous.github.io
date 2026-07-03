@@ -7,7 +7,7 @@ synonyms: ['domestic violence leave', 'family violence leave', 'fdv leave']
 
 # 69. Family and Domestic Violence Leave
 
->**NOTE:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [clause 6](/ebas/has-managers-admin-2025-2027/common-terms/preliminary/6-definitions) (Definitions).
+>**Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [clause 6](/ebas/has-managers-admin-2025-2027/common-terms/preliminary/6-definitions) (Definitions).
 
 **69.1 General Principle**
 
@@ -21,7 +21,7 @@ Therefore, the Employer is committed to providing support to Employees that expe
   - **(i)** violent, threatening or abusive behaviour by a close relative of a person, a member of a person's household, or a current or former intimate partner of a person, that:
     - **(A)** seeks to coerce or control the person; and
     - **(B)** causes the person harm or to be fearful.
-  - **(ii)** without limiting 69.2(a)(i), includes physical, sexual, financial, verbal, or emotional abuse by a family member as defined by the Family Violence Protection Act 2008 (Vic).
+  - **(ii)** without limiting 69.2(a)(i), includes physical, sexual, financial, verbal, or emotional abuse by a family member as defined by the *Family Violence Protection Act 2008* (Vic).
 - **(b)** **Affected Employee** means an Employee experiencing Family and Domestic Violence as defined.
 
 **69.3 Eligibility**
@@ -56,8 +56,8 @@ Leave for family and domestic violence purposes is available to all Employees, i
 **69.6 Payment for Leave**
 
 - **(a)** Where an Affected Employee takes a period of family and domestic violence leave under this clause 69, the Employer must pay the Employee, in relation to the period:
-  - **(i)** for an Employee other than a casual Employee - at the Employee's full rate of pay, worked out as if the Employee had not taken the period of leave;
-  - **(ii)** for a casual Employee - at the Employee's full rate of pay, worked out as if the Employee had worked the hours in the period for which the casual Employee was rostered.
+  - **(i)** **for an Employee other than a casual Employee** - at the Employee's full rate of pay, worked out as if the Employee had not taken the period of leave;
+  - **(ii)** **for a casual Employee** - at the Employee's full rate of pay, worked out as if the Employee had worked the hours in the period for which the casual Employee was rostered.
 - **(b)** Full rate of pay includes any applicable allowances, overtime payments or penalty rates.
 - **(c)** Without limiting subclause 69.6(a)(ii), a casual Employee is taken to have been rostered to work hours in a period if the Employee has accepted an offer by the Employer of work for those hours.
 - **(d)** Subclause 69.6(a)(ii) does not prevent a casual Employee from taking a period of family and domestic violence leave that does not include hours for which the casual Employee is rostered to work.

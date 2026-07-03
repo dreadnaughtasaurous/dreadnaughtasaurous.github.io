@@ -7,7 +7,7 @@ synonyms: ['paid study time']
 
 # 8. Study Leave
 
-This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.
+*This clause only applies to Managers and Administrative Workers not employed by Royal Women’s Hospital or Royal Children’s Hospital.*
 
 **8.1** Paid study leave will be available to full-time and part-time Employees of up to 4 hours per week for 26 weeks per annum, at the Employer’s discretion.
 

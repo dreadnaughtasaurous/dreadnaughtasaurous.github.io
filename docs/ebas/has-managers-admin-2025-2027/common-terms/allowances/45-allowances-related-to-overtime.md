@@ -8,26 +8,25 @@ synonyms: ['meal allowance', 'on call allowance', 'overtime allowances']
 # 45. Allowances Related to Overtime
 
 **45.1 Meal allowances**
-- **(a)**
-  **Meals where overtime worked beyond one hour**
+- **(a)** **Meals where overtime worked beyond one hour**
+
   An Employee who works overtime will in the circumstances described in subclause 45.1(b) receive either:
   - **(i)** where an Employer has its own cooking and dining facilities, an adequate meal; or
   - **(ii)** the relevant meal allowance as set out in Schedule 2C or Schedule 3C (as applicable).
-- **(b)**
-  **Qualification for meal or payment**
+- **(b)** **Qualification for meal or payment**
   - **(i)** The entitlement under subclause 45.1(a) arises where in addition to a shift an Employee is required to work more than:
     - **(A)** one hour beyond the usual finishing hour of work (Monday to Sunday inclusive) in which case the relevant allowance is 'Allowance A'; or
     - **(B)** four hours beyond the usual finishing hour of work (Monday to Sunday inclusive), in which case the relevant allowances are 'Allowance A' and 'Allowance B'.
   - **(ii)** The entitlement under subclause 45.1(a) arises where, on a rostered day off, an Employee is required to work more than:
     - **(A)** five hours overtime, in which case the relevant allowance is ‘Allowance A’; or
     - **(B)** nine hours overtime, in which case the relevant allowances are ‘Allowance A’ and ‘Allowance B’.
-- **(c)**
-  **Where provision does not apply**
+- **(c)** **Where provision does not apply**
+
   The allowances described at subclause 45.1(b)(i) and 45.1(b)(ii) are not payable where the Employee:
   - **(i)** receives an adequate meal as described at subclause 45.1(a)(i); or
   - **(ii)** could reasonably return home for a meal within the period allowed.
-- **(d)**
-  **Payment**
+- **(d)** **Payment**
+
   Claims for payment of an overtime meal allowance will be processed in the next ordinary pay.
 
 **45.2 On Call Allowance**

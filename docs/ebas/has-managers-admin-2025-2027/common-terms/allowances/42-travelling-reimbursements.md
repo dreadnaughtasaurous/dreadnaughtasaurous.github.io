@@ -12,9 +12,11 @@ synonyms: ['travel expenses', 'motor vehicle allowance', 'kilometre allowance']
 - **(b)** When an Employee is travelling whilst on duty, if the Employer cannot provide the appropriate transport, all reasonably incurred expenses in respect of fares, meals and accommodation will be met by the Employer on production of receipted accounts, or other evidence acceptable to the Employer.
 - **(c)** An Employee will not be entitled to reimbursement for work-related travelling expenses that exceed the mode of transport, meals or the standard of accommodation agreed for the purpose with the Employer.
 - **(d)** **Vehicle allowance**
+
   Where an Employer requires an Employee to use their own motor vehicle in the performance of their duties, such Employee will be paid the per kilometre vehicle allowances pursuant to Part 1 of Schedule 2C or Part 1 or 2 of Schedule 3C (as applicable).
 
 **42.2 Dental Assistants employed by OHV**
+
 *This subclause 42.2 only applies to Dental Assistants employed by OHV.*
 - **(a)** **Use of Own Vehicle**
   - **(i)** In accordance with the Employer's Reimbursement of Expenses policy, as varied from time to time, where an Employee is required to work at a location that involves travel using their own motor vehicle, and such travel is in excess of their nominated daily threshold, they will be entitled to claim travel expenses for the distance travelled in excess of the threshold.

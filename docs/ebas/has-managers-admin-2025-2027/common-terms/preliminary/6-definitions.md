@@ -11,7 +11,7 @@ synonyms: ['everyday term']
 
 - **(a)** **Act** means the Fair Work Act 2009 (Cth).
 - **(b)** **Adoption** includes the placement of a child (as defined in [clause 62.2](/ebas/has-managers-admin-2025-2027/common-terms/leave/62-parental-leave) (Parental Leave)) by permanent care order and includes kinship care where it is comparable to adoption, having regard for all the circumstances.
-- **(c)** **Agreement** means the Health and Allied Services, Managers and Administrative Workers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2025-2027.
+- **(c)** **Agreement** means the *Health and Allied Services, Managers and Administrative Workers (Victorian Public Sector) (Single Interest Employers) Enterprise Agreement 2025-2027*.
 - **(d)** **AIC** means the applicable agreement implementation committee continuing or established under [clause 74.10](/ebas/has-managers-admin-2025-2027/common-terms/union-matters/74-union-matters).
 - **(e)** **Base rate of pay** means the rate of pay payable to an Employee in accordance with [Schedule 2B](/ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services) and [Schedule 3B](/ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers) for their ordinary hours of work, but not including any incentive-based payments and bonuses, loadings, allowances, overtime, penalty rates or any other separately identifiable amounts.
 - **(f)** **Commission** means the Fair Work Commission or any successor body.

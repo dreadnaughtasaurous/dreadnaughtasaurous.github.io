@@ -7,7 +7,7 @@ synonyms: ['training officer', 'career advisor', 'workplace trainer']
 
 # Schedule 3E - Workplace Trainer/Careers Advisor (Managers and Administrative Workers)
 
-**1. The Role**
+## 1. The Role
 
 Guided by the WSCMC (see Section 2, [clause 77](/ebas/has-managers-admin-2025-2027/common-terms/union-matters/77-workforce-skills-capability-and-mobility)) / AIC, a Workplace Trainer/Careers Advisor will:
 
@@ -28,7 +28,7 @@ Guided by the WSCMC (see Section 2, [clause 77](/ebas/has-managers-admin-2025-20
 
 **1.7** Where relevant, participate in the redeployment process for Employees whose roles are made redundant (see [subclause 29.3](/ebas/has-managers-admin-2025-2027/health-allied-services/classification-staffing/29-allied-health-assistant-review)) and, in consultation with the return to work officer/coordinator, support injured Employees who cannot return to their pre-injury role (see [subclause 84.6](/ebas/has-managers-admin-2025-2027/common-terms/ohs/84-occupational-health-safety)).
 
-**2. Duties**
+## 2. Duties
 
 Duties include:
 
@@ -56,7 +56,7 @@ Duties include:
 
 **2.12** Offer internal job search support by assisting with resume building, job applications, and interview techniques.
 
-**3. Qualifications**
+## 3. Qualifications
 
 Required qualifications and experience for this role is as follows:
 
@@ -78,6 +78,6 @@ Desirable qualifications and experience for this role is as follows:
 - **(c)** UOC: Design and develop assessment tools, or equivalent.
 - **(d)** UOC: Undertake organisational training needs analysis, or equivalent.
 
-**4. Process for appointment**
+## 4. Process for appointment
 
 The Employer and the AIC will work together to develop a recruitment process. The Employer will appoint the position taking into account the advice of the AIC.

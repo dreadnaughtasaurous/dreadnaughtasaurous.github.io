@@ -7,9 +7,9 @@ synonyms: ['allowances', 'extra payments', 'shift allowance', 'meal allowance', 
 
 # Schedule 2C - Allowances (Health & Allied Services)
 
-## PART 1: HEALTH AND ALLIED SERVICES EMPLOYEES AND DENTAL ASSISTANTS (OTHER THAN OHV)
+## Part 1: Health and Allied Services Employees and Dental Assistants (other than OHV)
 
-The following allowances apply only to Health and Allied Services Employees (whose employment is covered by the classifications set out in Part 1 and Part 2 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement and who are employed by an Employer other than OHV).
+The following allowances apply only to Health and Allied Services Employees (whose employment is covered by the classifications set out in Part 1 and Part 2 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement and who are employed by an Employer **other than** OHV).
 
 ### Experience Payments - For all other classifications
 
@@ -100,7 +100,7 @@ The following allowances apply only to Health and Allied Services Employees (who
 | Certificate Allowance - Patient Transport Officer who holds Diploma of Paramedical Science Ambulance | $72.80 | $74.98 | $77.23 |
 | Certificate Allowance – Security Officer | $56.36 | $58.05 | $59.79 |
 
-## PART 2: DENTAL ASSISTANTS EMPLOYED BY OHV
+## Part 2: Dental Assistants Employed by OHV
 
 The following allowances apply only to Dental Assistants (whose employment is covered by the classifications set out in Part 2 of [Schedule 2D](/ebas/has-managers-admin-2025-2027/schedules/2d-classification-structure-health-allied-services) of this Agreement and who are employed by OHV).
 

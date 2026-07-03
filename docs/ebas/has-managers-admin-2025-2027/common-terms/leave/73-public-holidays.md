@@ -24,7 +24,7 @@ synonyms: ['public holiday', 'holiday pay', 'working on a public holiday', 'rost
     - **(G)** in relation to the refusal of a request – the amount of notice in advance of the public holiday given by the Employee when refusing the request; and
     - **(H)** any other relevant matter.
 - **(c)** **Payment for absence on public holiday**
-  - **(i)** Where a public holiday occurs on a day that a part-time or full-time Employee is rostered but not required to work, the Employee will:
+  - **(i)** Where a public holiday occurs on a day that a part-time or full-time Employee is **rostered but not required to work**, the Employee will:
     - **(A)** be paid an amount equal to the Employee's ordinary rate of pay for the hours the Employee would normally have worked on that day, and
     - **(B)** continue to accrue leave on the ordinary hours of work the Employee would normally have worked on that day.
   - **(ii)** For the purposes of subclause 73.1(c)(i), rostered but not required to work means the Employee was rostered to work on the day that the public holiday was observed but because of the public holiday, was not required to work.
@@ -73,12 +73,12 @@ Where in the State or Locality, public holidays are declared or prescribed on da
 
 **73.8 Public holidays occurring on a rostered day off**
 
-This clause does not apply to casual employees.
+*This clause does not apply to casual employees.*
 
 - **(a)** Subject to subclauses 73.8(c) and (d), a full-time or part-time Employee will receive a sum equal to 150% (based on 1/38th of the weekly salary set out in [Schedule 2B](/ebas/has-managers-admin-2025-2027/schedules/2b-wage-rates-health-allied-services) or [Schedule 3B](/ebas/has-managers-admin-2025-2027/schedules/3b-wage-rates-managers-and-administrative-workers)) for public holidays that occur on the Employee’s rostered day off, or, if the Employer and Employee so agree:
   - **(i)** the Employee may take one day and one half off in lieu within four weeks of the public holiday; or
   - **(ii)** have one and one half days added to their annual leave.
-- **(b)** For the purposes of subclause 73.8(a), rostered day off means a day in which the Employee is not rostered for duty for the relevant roster period.
+- **(b)** For the purposes of subclause 73.8(a), **rostered day off** means a day in which the Employee is not rostered for duty for the relevant roster period.
 - **(c)** An Employee who is not ordinarily required to work on the day on which a public holiday is observed will not be entitled to the rostered off benefit provided in subclause 73.8(a).
 - **(d)** In determining whether an Employee is ordinarily required to work on the day on which a public holiday is observed, the Employer will review the Employee’s roster pattern over the preceding six-month period. If the rosters show that the Employee has worked 50% or more of the days on which a particular public holiday falls, the Employee will be entitled to receive the rostered off benefit provided in subclause 73.8(a) for that public holiday.
 

@@ -7,7 +7,7 @@ synonyms: ['classification levels', 'admin grades', 'manager grades']
 
 # Schedule 3D - Classification Structure
 
-## PART 1: Managers and Administrative Workers (other than Royal Women's Hospital and Royal Children's Hospital)
+## Part 1: Managers and Administrative Workers (other than Royal Women's Hospital and Royal Children's Hospital)
 
 ### 1. Application
 
@@ -124,7 +124,7 @@ Positions at this level are regarded as:
 
 Positions at this Grade include the following (which will only be classified at this Grade):
 
-- **(a)** from FFPPOA 1 October 2018 – a qualified interpreter/translator where they are accredited by the National Accreditation Authority of Translators and Interpreters (NAATI) and are capable of interpreting into one other language.
+- **(a)** from FFPPOA 1 October 2018 – a qualified interpreter/translator where they are accredited by the National Accreditation Authority of Translators and Interpreters (**NAATI**) and are capable of interpreting into one other language.
 
 ### 5. Grade 3
 
@@ -133,35 +133,24 @@ Positions at this Grade include the following (which will only be classified at 
 Positions at this level are regarded as:
 
 - **(a)** senior supervisory positions overseeing a small to medium sized work group (relative to the size of the health service); or
-
 - **(b)** a specialist role within a particular technical or professional position; or
-
 - **(c)** administrators responsible for a specified activity recognised across the health service.
 
 **5.2 Work Level Standard**
 
 - **(a)** Positions require proficiency in the use of established technical or administrative processes through a number of years' experience in the field or a qualified tertiary graduate. They demonstrate supervisory or technical leadership for a distinct activity which may need to be coordinated with other activities. Positions require the ability to obtain co-operation and assistance in the administration of well-defined activities and/or to influence others in the achievement of set objectives.
-
 - **(b)** The broad parameters of the position are clearly defined, although judgement may be required to select from a range of standardised systems or techniques. Precedent or standard procedures or instructions generally exist for most work situations and policy guidelines may assist in the selection of the most suitable course of action.
-
 - **(c)** Supervisory positions independently organise and oversee the day-to-day activities of subordinate staff within clearly defined standards, budgets and time frames. Specialist positions provide sound technical advice to peers, and to more senior positions. All positions are responsible for recommending or accepting particular actions.
 
 **5.3 Typical Role/Duties (the list is indicative, not exhaustive)**
 
 - **(a)** Recruit and select permanent and temporary staff for general positions;
-
 - **(b)** Coordinate and submit consolidated reports;
-
 - **(c)** Implement controls and systems to ensure resources are fully utilised and health service policies are implemented;
-
 - **(d)** Develop and present training programs;
-
 - **(e)** Liaise with senior staff to obtain and present information;
-
 - **(f)** Allocate and control staff and resources to ensure activities of the work area are carried out efficiently and effectively;
-
 - **(g)** Monitor safe work practices and security standards to maintain a safe and secure environment;
-
 - **(h)** Assist staff with problems, and recommend action to be taken.
 
 **5.4 Positions Included at this Grade**
@@ -169,9 +158,7 @@ Positions at this level are regarded as:
 Positions at this Grade include the following (which will only be classified at this Grade):
 
 - **(a)** Workplace Trainer/Careers Advisor;
-
 - **(b)** a qualified interpreter/translator, where they are accredited by the National Accreditation Authority of Translators and Interpreters (NAATI) and are capable of interpreting/translating into two or more languages).
-
 - **(c)** a person performing work which involves the management of Dental Maintenance Technicians. Such a person would be responsible for administrative duties such as work allocation, training, rostering and guidance of relevant employees and may assist in the recruitment of employees.
 
 ### 6. Grade 4
@@ -181,35 +168,24 @@ Positions at this Grade include the following (which will only be classified at 
 Positions at this level are regarded as:
 
 - **(a)** middle management in control of a medium workforce; or
-
 - **(b)** administrators managing a function, or an experienced specialist role within a particular technical or professional discipline.
 
 **6.2 Work Level Standard**
 
 - **(a)** Positions require proficiency in the use of broad technical or administrative processes through a number of years of experience in the field or to be a tertiary graduate with a number of years' experience in the field. They require understanding and/or leadership across an activity, which may need coordination with other activities. Considerable persuasive skills are required for successful adoption of operational schedules and to gain cooperation of the workforce.
-
 - **(b)** The broad parameters of the job are well known but are often diverse and require judgement in selecting the appropriate action. Problems are generally manageable and solutions guided by precedent and practice.
-
 - **(c)** Management positions are accountable for the scheduling and implementation of major work programs within defined budgets and policy guidelines. Specialist jobs provide authoritative advice to peers and more senior positions in the discipline. As such all positions are predominantly responsible for the action undertaken.
 
 **6.3 Typical Role/Duties**
 
 - **(a)** Provide advice on techniques and procedures for occupational health and safety matters (including infection control);
-
 - **(b)** Undertake quality and risk management programs to ensure the achievement of required standards;
-
 - **(c)** Develop rosters for the cleaning of all wards and presentation of gardens involving up to 100 staff;
-
 - **(d)** Prepare reports on service delivery development and undertake special projects for the health service and Department of Human Services/Department of Health;
-
 - **(e)** Review the staff profile and adjust where necessary to maintain the integrity of reports and the internal staff profile, advise on funding available for staffing requirements;
-
 - **(f)** Oversee and contribute to the formulation, implementation and ongoing review of staff induction and training programs;
-
 - **(g)** Collaborate with senior management, Medical Officers, injured Employees, unions and rehabilitation providers to devise, plan and implement rehabilitation programs;
-
 - **(h)** Review existing computer software effectiveness with a view to enhancing its functionality and develop software to meet new requirements; (to be re-visited)
-
 - **(i)** Prepare and interpret financial budgets, annual returns and comparative monthly statements.
 
 ### 7. Grade 5
@@ -219,35 +195,24 @@ Positions at this level are regarded as:
 Positions at this level are:
 
 - **(a)** senior managers, professionals and specialists who are generally responsible for a significant operational area, function or department within a division or health care services unit; or
-
 - **(b)** multi-function manager of smaller health services providing a range of services across the agency.
 
 **7.2 Work Level Standard**
 
 - **(a)** A high degree of proficiency in the use of technical or administration processes through extensive experience would be typical at this level along with appropriate qualifications. Understanding and leadership across a number of activities within the major program require considerable coordination skills. It also requires persuasive ability to gain the commitment of peers and subordinates in the identification of action plans and managing progress where there are competing activities.
-
 - **(b)** Although work assignments apply familiar techniques and methods, there is also a requirement to recommend the modification or adaptation of techniques and methods that impact upon other areas of the agency. These activities require the detailed analysis of the major alternatives, including cost impact and implications for implementation prior to the presentation of well thought through action plans.
-
 - **(c)** Considerable latitude is provided to senior managers in the design of work programs, independent allocation of resources and control over budgets. Nonetheless, the position operates within the constraints of agency policy/procedure, Department of Human Services/Department of Health guidelines and professional standards. These positions are held accountable for significant projects or functions which involve a major requirement to make things happen, consistent with the established standards.
 
 **7.3 Typical Role/Duties**
 
 - **(a)** Plan operating budgets and resource requirements to accommodate expanded facilities and services;
-
 - **(b)** Investigate the supply needs of the organisation/s leading to the development of purchasing and inventory control programs required to achieve cost effective delivery schedule;
-
 - **(c)** Inspect suppliers, manufacturing and wholesale operations to ensure the achievement of minimum standards of hygiene, product quality, distribution and storage standards;
-
 - **(d)** Develop menus, oversee food preparation and presentation and manage food supply within budget limits for a medium health service;
-
 - **(e)** Manage a range of services within a small health service covering patient services, finance, personnel, gardening, building maintenance and community relations;
-
 - **(f)** Establish, manage and oversee consultative mechanisms and advise health service management on developing industrial and Employee-related issues;
-
 - **(g)** Represent and advocate on behalf of the health service at industrial relations tribunals and in labour negotiations;
-
 - **(h)** Conduct programmed audits into operational and financial procedures and the safeguarding of assets;
-
 - **(i)** Determine the performance of organisational units in the health service in respect of their financial planning, and control activities in compliance with management instructions, statements of policy and procedures, high standards of administrative practice and health service objectives.
 
 ### 8. Grade 6
@@ -257,33 +222,23 @@ Positions at this level are:
 Positions at this level are:
 
 - **(a)** senior managers of large divisions; or
-
 - **(b)** expert managers of complex/advanced functions with agency-wide application; or
-
 - **(c)** executives of smaller or district health services providing a range of services across the agency not employed pursuant to Health Executive Employment and Remuneration Policy (however titled or styled); or
-
 - **(d)** senior managers of a number of varied functions across the health service.
 
 **8.2 Work Level Standard**
 
 - **(a)** At this level, positions require specialised knowledge resulting from years of experience in health service management. Appropriate tertiary qualifications are typically required at this level. The knowledge required spans several disciplines and there is a requirement for integration of a range of associated operations as part of a major program delivery. There is a requirement for persuading others to adopt a particular course of action where there are competing objectives and priorities plus a variety of outcomes.
-
 - **(b)** Standard systems, methods and procedures are determined by positions at this level for adherence across a health service or group of specialised health care services. This requires extensive analytical skills in interpreting service needs, general guidelines, local conditions and the achievability of the desired results.
-
 - **(c)** Management positions typically follow operating precedent and procedure but there is latitude in the emphasis given across a range of projects or services. Similarly, positions have a role in the development of business plans, new operation targets and the apportionment of total resources, but there are others who are predominantly responsible for the determination of these aspects. Technical/professional positions are regarded by professional peers as expert in the disciplines covering a complete function where the advice rendered would only be challenged by other experts. In all cases, the position is held accountable for the integrity of the service/project/advice and the achievement of significant standards of performance benefiting the entire agency.
 
 **8.3 Typical Role/Duties**
 
 - **(a)** Prepare economic and demographic forecasts as part of an overall planning process to determine the future growth and services of the health service;
-
 - **(b)** Develop financial control systems, budget guidelines and reporting mechanisms so that the health service Executive and Board have a complete understanding of the financial viability, efficiency and future options for resource management;
-
 - **(c)** Direct and control a range of technical and engineering services covering plant, building and grounds maintenance, capital and minor works, plant and equipment assessment, energy management, and reticulation of electricity, water, gases;
-
 - **(d)** Direct and control a significant service function in a medium to large health service, determining staffing, training, supply and expenditure needs for the division;
-
 - **(e)** Oversee and direct the provision of a comprehensive patient food service, as well as an extensive non-patient service through varied on-site food service outlets, including staff cafeteria, coffee shop, bistro/snack bar;
-
 - **(f)** Advise and counsel management and senior staff on human resource issues, such as disciplinary matters, the identification of new work practices to reduce budget overruns, consultative strategies, training needs and management obligations.
 
 ### 9. Grade 7
@@ -293,29 +248,21 @@ Positions at this level are:
 Positions at this level are:
 
 - **(a)** executives of small health services administered with the assistance of a central or regional organisation not employed pursuant to Health Executive Employment and Remuneration Policy (however titled or styled); or
-
 - **(b)** the executive managing a number of smaller health services annexed to a medium to large regional health service not employed pursuant to Health Executive Employment and Remuneration Policy (however titled or styled); or
-
 - **(c)** manager in charge of a principal division/department of a medium to large health service.
 
 **9.2 Work Level Standard**
 
 - **(a)** At this level, the emphasis is on the management of a range of service support activities or the management of a major division in a medium sized health service. Appropriate tertiary qualifications are typically required at this level. Activities would embrace the planning, organising, directing and controlling of subordinate staff that in turn have specific technical responsibilities. This requires leadership to gain full integration of support activities affecting the total health service. Positions would require a specialised knowledge resulting from years of experience in administration and management as well as in their field of expertise.
-
 - **(b)** Operating policy and standards to be applied across the health service are established by positions at this level. A good understanding of the health system is required for the position to identify innovative solutions to complex matters affecting the whole of the service delivery.
-
 - **(c)** Direction of the work program is defined in terms of results to be achieved within agreed budgets, the effectiveness of outcomes being subject to ongoing executive, Board and/or Departmental review. Principal management positions within a medium to large health service would provide advice and report to executive positions. Executive positions independently managing small health services with a high degree of delegation would be accountable for the management, administration and operation of such small health services, but would seek advice from their professional peers within a larger health service.
 
 **9.3 Typical Role/Duties**
 
 - **(a)** Direct and control a range of services within a small health services covering industrial relations, personnel, finance, accounts, patient services, buildings and grounds maintenance, plus community relations;
-
 - **(b)** Prepare, manage and monitor the health service's budget including the examination of resource utilisation and redeployment of resources to areas to meet priority needs;
-
 - **(c)** Monitor budget and patient throughput targets and take remedial action to ensure that each small or annexed health service meets the conditions of its Health Service Agreement;
-
 - **(d)** Administer and control the financial management and accounting functions of the health service, resulting in guidance to management on the most efficient and effective manner in which the financial resources of the health service can be best utilised;
-
 - **(e)** Provide the management of the health service with information and data that will assist in establishing short, medium and long term goals to ensure that the future planning and direction of the agency is aimed at providing an optimum level of patient and community care.
 
 ### 10. Grade 8
@@ -325,31 +272,22 @@ Positions at this level are:
 Typically positions at this level operate at:
 
 - **(a)** the executive level not employed pursuant to Health Executive Employment and Remuneration Policy (however titled or styled); or
-
 - **(b)** Managers in control of a substantial division/department or facility in a large health service; or
 
 **10.2 Work level standards**
 
 - **(a)** At this level, the principal emphasis is management of major and large activities embracing the planning, organising, directing and controlling of subordinate staff that in turn have managerial responsibilities. This requires leadership at both a technical and human resource level to gain maximum integration of diverse activities affecting the total health service. Negotiation with external groups on difficult and sensitive health care and service delivery issues would be a regular feature of jobs at this level.
-
 - **(b)** In addition to setting the standards of service across the health service, this position is required to understand community and government needs in relation to health care. This provides the framework for positions at this level to create new services, establish new service standards or reallocate/redesign the ways in which such services are provided to the community.
-
 - **(c)** Direction of the work program is defined in terms of results to be achieved within agreed budgets but with methods being suggested and seldom specified in detail. Judgements on the effectiveness of outcomes are subject to ongoing review and there is a requirement to report to other executives and the Department of Human Services/Department of Health on major issues. Within this context, it is clearly the responsible manager in the areas of delegated accountability.
 
 **10.3 Typical Role/Duties**
 
 - **(a)** Develop and implement plans for future expansion of services and facilities to meet emerging community health needs and operating efficiency constraints;
-
 - **(b)** Direct and control subordinate managers in control of environmental services, linen services, engineering and technical services, human resources, supply, catering, patient services, management information services and public relations;
-
 - **(c)** Represent the health service in meetings with external professional organisations and the Department of Human Services/Department of Health in order to facilitate improved service standards and achievement of budget constraints;
-
 - **(d)** Authorise statutory and other reports as required by the Department of Human Services/Department of Health in relation to service delivery standards and budget status;
-
 - **(e)** Direct and control the full range of services for a small, independent health service, which may include an attached nursing home, including policy development and planning for the short and longer term development of the health services;
-
 - **(f)** Control the accounting and financial reporting functions of business, investment and operational units which are conducted independently of the hospital's operating and funding arrangements;
-
 - **(g)** Direct and control the management and operation of the Central Linen Service providing administrative direction, financial controls, capital replacement and development plans, as well as the determination of a cost structure for the supply of linen to metropolitan hospitals.
 
 ### 11. Grade 9
@@ -363,25 +301,17 @@ Positions at this level are:
 **11.2 Work Level Standards**
 
 - **(a)** At this level, a thorough understanding of health care administration and health care issues is required in order to manage large and complex services, obtain maximum productivity from a large workforce and integrate all aspects of health care. In addition to the direct management of all administrative support functions, positions at this level are required to directly influence clinical and clinical support service delivery. Negotiations at this level occur with professional specialists and significant community representatives in regard to service delivery, facilities and resource requirements.
-
 - **(b)** Because many of the issues are complex and require considerable interpretation, to the major health care issues, this position is required to develop proposals to identify the future plans for the health service and the nature of its services. Influencing factors are diverse and choice often requires a synthesis of opinions, detailed analysis of options and presentation of achievable plans. Support in the management of these issues may be provided, as appropriate, through the Chief Executive, Medical and Nursing Directors, or Executive managers, Department of Human Services/Department of Health representatives and expert consultants in specialist fields.
-
 - **(c)** The achievement of results is substantially vested in this position allowing considerable autonomy in the deployment of allocated resources and management of project plans. At the same time, there is limited freedom to initiate and commit the health service to new ventures without approval from the key stakeholders and Chief Executive/Board. Within the context of approved policy, the position can commit the organisation to major expenditure programs and can act as spokesperson in public forums.
 
 **11.3 Typical Role/Duties**
 
 - **(a)** Undertake major special projects that substantially reshape the future health care service for a major health service;
-
 - **(b)** Direct and control a comprehensive human resource function in a major or multi-faceted, multi-campus health service providing strategic advice to the Executive, and directing a range of activities including workforce planning; organisation and policy development; industrial relations; salary administration; occupational health and safety policy, training and procedures; rehabilitation and WorkCover claims management and representation; personnel administration; staff development and training; staff counselling and the selection, recruitment and termination of Employees;
-
 - **(c)** Manage the full range of administrative and support functions and services for a large health service, identify outcomes, resources and standards of operation and manage specific issues, to improve operating efficiency and effectiveness;
-
 - **(d)** Manage an executive relationship with unions which involves the identification of issues and strategies for the consultative involvement of staff through elected representatives, as well as the negotiation of disputes which may occur from time to time;
-
 - **(e)** Liaise and negotiate with Department of Human Services/Department of Health on health service-wide policy matters; including resources, health care delivery, capital works and other matters;
-
 - **(f)** Direct the health service's planning activities and provide leadership and overall guidance in both the administration and operation of a district hospital;
-
 - **(g)** Advise the Board of Management on matters of policy, financial planning, service needs and delivery, legal and statutory obligations and any other matters affecting the service delivery of a small-medium hospital.
 
 ### 12. Grade 10
@@ -393,21 +323,15 @@ Positions at this level are senior executives of a major health service or equiv
 **12.2 Work Level Standards**
 
 - **(a)** At this level, positions require a full understanding of public health care issues plus health system management. The management role covers all aspects of health care provided by a major health service including funding, standards of clinical practice and clinical support service delivery and long term planning of resources and future services. Negotiations at this level require skill to persuade the CEO and the Board of Management, executive representatives of the Department of Human Services/Department of Health and all levels of government plus community representation.
-
 - **(b)** A requirement at this level is to develop short, strategic plans to meet the requirements of the local community, match Department of Human Services/Department of Health standards and ensure appropriate standards of health care delivery. In developing proposals and implementation plans, positions at this level are provided with latitude but are required to ensure that all aspects are fully explored and acceptable to the key stakeholders.
-
 - **(c)** Broad operating policies are provided from the Executive and the Board and/or Department of Human Services/Department of Health along with an understood level of health care delivery for the local community. The allocation and organisation of all resources relating to principal functions are determined by positions at this level covering all aspects of the health service's activities. All executives at this level are held accountable for the achievement of the total health care delivery and service standards for the health service.
 
 **12.3 Typical Role/Duties**
 
 - **(a)** Develop, negotiate and implement budgets covering all aspects of the health service's activities;
-
 - **(b)** Set policy and procedures for the effective and efficient running of the health service and delivery of health care;
-
 - **(c)** Control and manage non-clinical services within a health service, as the senior executive, providing executive support and relief to the Chief Executive, and financial advice to the Board of Management;
-
 - **(d)** Develop and implement policies, programs and procedures for the health service;
-
 - **(e)** Managing a principal function the operations of a medium-sized or a large regional Hospital and ensure that resources are allocated appropriately in order to achieve targets within the budget parameters.
 
 ### 13. Grade 11
@@ -421,26 +345,19 @@ Positions at this level are:
 **13.2 Work Level Standard**
 
 - **(a)** At this level, positions require a thorough knowledge and expertise in health care issues and health service management. The management role covers all aspects of health care provided by large, regional health services, including funding, standards of clinical practice and clinical support service delivery and long term planning of resources and future services, or the management of significant non-clinical operations. Negotiations at this level require skill to persuade Boards of Management, Executive representatives of the Department of Human Services/Department of Health and government representation.
-
 - **(b)** At this level, positions are likely to be required to identify major health care trends and develop strategic plans to meet the community requirements, Department of Human Services/Department of Health standards and ensure appropriate standards of health care delivery. The management plans and health service delivery standards developed by this job would be regarded by peers and health care experts as innovative and applicable throughout the health industry.
-
 - **(c)** CEO positions at this level manage large health services, and are accountable for the full range of operations. The Board and/or the Department of Human Services/Department of Health provide broad operating policies, and positions would exercise judgement to achieve planned results.
-
 - **(d)** Senior executives would operate with considerable flexibility and autonomy in the determination of strategies, budget allocation and major projects undertaken according to Board delegations.
 
 **13.3 Typical Role/Duties**
 
 - **(a)** Develop, negotiate and implement budgets covering all aspects of the health service's activities.
-
 - **(b)** Direct and control the delivery and provision of health care services which may include providing primary and secondary care and administrative support to other health services.
-
 - **(c)** Initiate, develop and implement plans, policies and procedures designed to achieve high quality health and patient care.
-
 - **(d)** Develop short, medium and long term capital, resource and service delivery development plans and direction.
-
 - **(e)** Negotiate the Health Service's Funding Agreement with the Department of Human Services/Department of Health.
 
-## PART 2: Managers and Administrative Workers – Royal Women's Hospital and Royal Children's Hospital
+## Part 2: Managers and Administrative Workers – Royal Women's Hospital and Royal Children's Hospital
 
 ### 1. Overview
 
@@ -469,13 +386,9 @@ Administrative Workers Grade 1A are Employees who have limited experience in adm
 **2.2 Work Level Standard**
 
 - **(a)** Employees are expected to input and extract data, provide basic information and occasionally produce reports. They will be required to balance the operation of a number of clerical systems.
-
 - **(b)** The roles are required to analyse situation and or information, clearly and accurately communicate information. Discretion is limited and bound by existing system procedures and protocols. Outcomes are monitored by a supervisor or audited by a work system.
-
 - **(c)** The system content is factual, involving standard and predictable transactions. Roles may work within mixed teams and employees are expected to work cooperatively with others. Employees may rotate through a variety of tasks, as determined by managers, to provide varied work and achieve work area outcomes.
-
 - **(d)** Employees at this level may be asked, from time to time, to provide induction training for Employees at this level.
-
 - **(e)** These positions require a good understanding of hospital systems. Employees at this level are expected to understand hospital procedures, information requirements and protocols so they can be communicated and supportively to members of the public.
 
 ### 3. Grade 1
@@ -497,29 +410,19 @@ Positions at the Grade 2 level are regarded as base grade administrators or oper
 **4.2 Work Level Standard**
 
 - **(a)** Positions require knowledge associated with several years' experience or technical training. They require performance of related tasks within a defined area of activity which have clearly defined objectives. They require the ability to obtain cooperation to comply with technical and administrative arrangements, or to provide information and advice to members of the public consistent with organisational guidelines.
-
 - **(b)** There are established procedures for performing tasks. Positions are well defined, with standardised procedures, although the tasks performed may require the use of a number of accepted methods or systems. The most suitable course of action is selected from a limited range and effective choice is guided by precedent or rule and can be learned.
-
 - **(c)** The positions' progress is closely monitored against standards, targets or budgets, though there is limited flexibility in the means of achieving these. The positions report frequently on work progress and/or receive instructions which determine the work program and the standards to be achieved. The positions are required to analyse situations or information, clearly and accurately communicate information, or make recommendations to peers or immediate supervisors.
 
 **4.3 Typical Role/Duties**
 
 - **(a)** Prepare statistical reports and summaries and monitors and check accuracy of reports;
-
 - **(b)** Monitor daily billings and collections by cashiers and banking;
-
 - **(c)** Process standard claim forms, ensuring that all legislated procedural requirements are met;
-
 - **(d)** Train new Employees in basic clerical or administrative functions;
-
 - **(e)** Follow progress of invoices, orders or payments to ensure action occurs as specified in these documents;
-
 - **(f)** Undertake enquiries related to work area; for example the availability of ordered stock, the best available price for ordered items, overdue accounts;
-
 - **(g)** Maintain accurate and effective filing systems;
-
 - **(h)** Communicate with external organisations such as health insurance funds, Accident Compensation Commission, Veterans' Affairs, and WorkCover claims administration agents regarding payment of accounts;
-
 - **(i)** Prepare minutes and agendas, and co-ordinate meeting dates for committee meetings.
 
 **4.4 Positions Included at this Grade**
@@ -543,35 +446,24 @@ Positions at this Grade include the following (which will only be classified at 
 **5.1 Description**
 
 - **(a)** Positions at this level are regarded as supervisory positions coordinating a small specialised clerical work group; or
-
 - **(b)** as an entry level specialist role within a particular technical or professional area; or
-
 - **(c)** experienced operators within a specific activity.
 
 **5.2 Work Level Standard**
 
 - **(a)** Positions require technical/administrative training with several years' experience or equivalent work experience. They require supervisory or technical leadership within one or two activities which have well defined objectives. Good persuasive skills are required to obtain cooperation in the achievement of objectives or for the communication of technical or administrative information.
-
 - **(b)** Positions are well defined and procedures established and standardised, however there is a range of varied techniques and methods available to perform work. Selection of the most suitable courses of action is aided by rules, guides, procedures or precedent.
-
 - **(c)** Although the positions' work progress is closely monitored against standard, budgets or targets, there is some flexibility in the means for achieving these. The positions generally report frequently on progress and performance. Supervisory positions may share accountability for actions or decisions with peers or line management, while technical or professional specialists are one of a number of sources which analyse and provide advice or a specialised service.
 
 **5.3 Typical Role/Duties**
 
 - **(a)** Supervise the day to day activities of a small group of staff within a specified function (e.g. payroll, patient accounts);
-
 - **(b)** Liaise with immediate supervisor and middle management level positions to seek and provide information;
-
 - **(c)** Establish and maintain appropriate work patterns and procedures for the function supervised;
-
 - **(d)** Administer the function to ensure current legislation are understood and adhered to;
-
 - **(e)** Prepare accounts and reports for use by middle management;
-
 - **(f)** Liaise and consult with external agencies (e.g. Medicare, Health Insurance Funds, Transport Accident Commission, WorkCover) with regard to problem accounts and compensable claims;
-
 - **(g)** Negotiate with patients to obtain information and discuss problems in paying accounts and arrange payment procedures;
-
 - **(h)** Negotiate with suppliers for the purchase and delivery of hospital supplies.
 
 **5.4 Benchmark Descriptors**
@@ -595,7 +487,6 @@ Positions at this Grade include the following (which will only be classified at 
 Positions at this Grade include the following (which will only be classified at this Grade):
 
 - **(a)** from FFPPOA 1 October 2018 – Workplace Trainer/Careers Advisor.
-
 - **(b)** from FFPPOA 1 October 2018 – a qualified interpreter/translator, where they are accredited by the National Accreditation Authority of Translators and Interpreters (NAATI) and are capable of interpreting/translating into two or more languages).
 
 ### 6. Grade 4
@@ -603,33 +494,23 @@ Positions at this Grade include the following (which will only be classified at 
 **6.1 Description**
 
 - **(a)** Positions at this level are regarded as senior supervisory positions overseeing a small to medium sized work group; or
-
 - **(b)** administrators responsible for a specified activity recognised across the health service; or
-
 - **(c)** a specialist role within a particular technical or professional position.
 
 **6.2 Work Level Standard**
 
 - **(a)** Positions require proficiency in the use of established technical or administrative processes plus a number of years' experience in the field or a qualified tertiary graduate typically requiring a minimum of 2-3 years' work experience. They require supervisory or technical leadership for a distinct activity which may need to be coordinated with other activities. Good persuasive skills are required to actively ensure successful operation of the work group, for communication of technical or administrative information and to convince others in the achievement of specific objectives.
-
 - **(b)** The broad parameters of the position are clearly defined, although judgement may be required to select from a range of standardised systems or techniques. Precedent or standard procedures or instructions generally exist for most work situations and policy guidelines may assist in the selection of the most suitable course of action.
-
 - **(c)** Supervisory positions independently organise and oversee the day-to-day activities of subordinate staff within clearly defined standards, budgets and time frames. Specialist positions provide sound technical advice to peers, and to more senior positions. All positions are responsible for recommending or accepting particular actions.
 
 **6.3 Typical Role/Duties**
 
 - **(a)** Recruit and select permanent and temporary staff for general positions;
-
 - **(b)** Coordinate and prepare accounting, payroll or statistical records and submit consolidated reports;
-
 - **(c)** Implement controls and systems to ensure resources are fully utilised and health service policies are implemented;
-
 - **(d)** Liaise with hospital staff up to department head to obtain and present information;
-
 - **(e)** Allocate and control staff and resources to ensure activities of the work area are carried out efficiently and effectively;
-
 - **(f)** Monitor safe work practices and security standards to maintain a safe and secure environment;
-
 - **(g)** Assist staff with problems, and recommend action to be taken.
 
 **6.4 Benchmark Descriptors**
@@ -654,27 +535,18 @@ Positions at this level are regarded as an experienced specialist role within a 
 **7.2 Work Level Standard**
 
 - **(a)** Positions require proficiency in the use of established technical or administrative processes plus a number of years of experience in the field and are usually a tertiary graduate with a number of years' experience in the field. They require understanding and/or leadership across an activity, which may need coordination with other activities. Considerable persuasive skills are required for successful adoption of operational schedules and to gain cooperation of the workforce.
-
 - **(b)** The broad parameters of the job are well known but are often diverse and require judgement in selecting the appropriate action. Problems are generally manageable and solutions guided by precedent and practice.
-
 - **(c)** Management positions are accountable for the scheduling and implementation of major work programs within defined budgets and policy guidelines. Specialist jobs provide authoritative advice to peers and more senior positions in the discipline. As such all positions are predominantly responsible for the action undertaken.
 
 **7.3 Typical Role/Duties**
 
 - **(a)** Provide advice on techniques and procedures for infection control and safety matters;
-
 - **(b)** Carry out a quality assurance program to ensure the achievement of required standards of presentation, hygiene and cost of delivery;
-
 - **(c)** Prepare reports on service delivery development and undertake special projects for the health service and Department of Health;
-
 - **(d)** Review the staff establishment profile and adjust where necessary to maintain the integrity of Health Computing Service reports and the internal establishment profile, advise on funding available for staffing requirements. Direct and control the salary administration program;
-
 - **(e)** Oversee and contribute to the formulation, implementation and ongoing review of staff induction and training programs;
-
 - **(f)** Collaborate with Department Heads, Medical Officers, injured Employees, unions and rehabilitation providers to devise, plan and implement rehabilitation programs;
-
 - **(g)** Review existing computer software effectiveness with a view to enhancing its functionality and develop software to meet new requirements;
-
 - **(h)** In conjunction with the Finance Manager, prepare and interpret financial budgets, annual returns and comparative monthly statements.
 
 **7.4 Benchmark Descriptors**
@@ -697,25 +569,17 @@ Positions at this level are senior managers, professionals and specialists who a
 **8.2 Work Level Standard**
 
 - **(a)** A high degree of proficiency in the use of technical or administration processes plus extensive experience in the field spanning many years would be typical at this level. Understanding and leadership across a number of activities within the major program require considerable coordination skills. It also requires persuasive ability to gain the commitment of peers and subordinates in the identification of action plans and managing progress where there are competing activities. Specialist professional positions would typically require a minimum of 7-10 years' experience in this field.
-
 - **(b)** Although work assignments apply familiar techniques and methods, there is also a requirement to recommend the modification or adaptation of techniques and methods that impact upon other areas of the agency. These activities require the detailed analysis of the major alternatives, including cost impact and implications for implementation prior to the presentation of well thought through action plans.
-
 - **(c)** Considerable latitude is provided to senior managers in the design of work programs, independent allocation of resources and control over budgets. Nonetheless, the position operates within the constraints of agency policy/procedure, and professional standards. These positions are held accountable for significant projects or line functions which involve a major requirement to make things happen, consistent with the established standards.
 
 **8.3 Typical Role/Duties**
 
 - **(a)** Plan operating budgets and resource requirements;
-
 - **(b)** Investigate the supply needs of the organisation/s leading to the development of purchasing and inventory control programs required to achieve cost effective delivery schedule;
-
 - **(c)** Inspect suppliers, manufacturing and wholesale operations to ensure the achievement of minimum standards of hygiene, product quality, distribution and storage standards;
-
 - **(d)** Develop menus, oversee food preparation and presentation and manage food supply within budget limits for a medium institution;
-
 - **(e)** Represent and advocate on behalf of the health service at industrial relations tribunals and in labour negotiations;
-
 - **(f)** Conduct programmed audits into operational and financial procedures and the safeguarding of assets;
-
 - **(g)** Determine the performance of organisational units in the hospital in respect of their financial planning, and control activities in compliance with management instructions, statements of policy and procedures, high standards of administrative practice and hospital objectives.
 
 **8.4 Benchmark Descriptors**
@@ -731,31 +595,22 @@ Positions at this level are senior managers, professionals and specialists who a
 **9.1 Description**
 
 - **(a)** Positions at this level are senior heads of large divisions; or
-
 - **(b)** expert managers of complex/advanced sections with agency-wide application; or
-
 - **(c)** junior executives of small or distribution institutions providing a range of services across the agency; or
-
 - **(d)** senior managers of a number of varied functions across the agency.
 
 **9.2 Work Level Standard**
 
 - **(a)** At this level, positions require specialised knowledge resulting from very many years of experience in hospital or general industry administration, tertiary study and project management. The knowledge required spans several disciplines and there is a requirement for integration of a range of associated operations as part of a major program delivery. There is a requirement for persuading others to adopt a particular course of action where there are competing objectives and priorities plus a variety of outcomes.
-
 - **(b)** Standard systems, methods and procedures are determined by positions at this level for adherence. This requires extensive analytical skills in interpreting service needs, general guidelines, local conditions and the achievability of the desired results.
-
 - **(c)** Line management positions are bound by operating precedent and procedure but there is latitude in the emphasis given across a range of projects or services. Similarly, positions have a role in the development of business plans, new operation targets and the apportionment of total resources, but there are others who are predominantly responsible for the determination of these aspects. Technical/professional positions are regarded by professional peers as expert in the disciplines covering a complete function where the advice rendered would only be challenged by other experts. In all cases, the position is held accountable for the integrity of the service/project/advice and the achievement of significant standards of performance benefiting the entire agency.
 
 **9.3 Typical Role/Duties**
 
 - **(a)** Prepare economic and demographic forecasts as part of an overall planning process to determine the future growth and services of the health service;
-
 - **(b)** Develop financial control systems, budget guidelines and reporting mechanisms so that the Hospital Executive and Board have a complete understanding of the financial viability, efficiency and future options for resource management;
-
 - **(c)** Direct and control a range of technical and engineering services covering plant, building and grounds maintenance, capital and minor works, plant and equipment assessment, energy management, and reticulation of electricity, water, gases;
-
 - **(d)** Direct and control a significant service function determining staffing, training, supply and expenditure needs;
-
 - **(e)** Oversee and direct the provision of a comprehensive patient food service, as well as an extensive non-patient service through varied on-site food service outlets, including staff cafeteria, coffee shop, and bistro/snack bar.
 
 **9.4 Benchmark Descriptors:**

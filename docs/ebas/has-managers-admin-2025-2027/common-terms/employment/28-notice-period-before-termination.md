@@ -27,4 +27,5 @@ synonyms: ['notice period', 'resignation', 'termination of employment']
   - **(iv)** casual Employees.
 
 **28.2 Time off work during notice period**
+
 Where the Employer has given notice of termination to an Employee, an Employee must be allowed up to one day's time off without loss of pay for the purpose of seeking other employment. The time off will be taken at times that are convenient to the Employee after consultation with the Employer.

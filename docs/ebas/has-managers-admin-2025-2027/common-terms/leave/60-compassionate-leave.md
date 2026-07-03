@@ -14,7 +14,7 @@ synonyms: ['bereavement leave', 'funeral leave', 'compassionate leave']
     - **(B)** dies;
   - **(ii)** a child is stillborn, where the child would have been a member of the Employee's immediate family or household, if the child had been born alive; or
   - **(iii)** the Employee, or the Employee's spouse or de facto partner, has a miscarriage,
-  (a "permissible occasion").
+  (a "**permissible occasion**").
 - **(b)** If the permissible occasion is the contraction or development of a personal illness, or the sustaining of a personal injury, the Employee may take the compassionate leave for that occasion at any time while the illness or injury persists.
 
 **60.2 Employees other than casual Employees**
@@ -27,10 +27,12 @@ synonyms: ['bereavement leave', 'funeral leave', 'compassionate leave']
 - **(d)** An Employee may take unpaid additional compassionate leave by agreement with the Employer.
 
 **60.3 Casual Employees**
+
 Subject to the evidence requirements described below, a casual Employee is entitled to 2 days unpaid compassionate leave on each permissible occasion. Unpaid compassion leave under this subclause may be taken as:
 - **(a)** a single continuous period,
 - **(b)** two separate periods of one day each, or
 - **(c)** any separate periods to which the Employee and Employer agree.
 
 **60.4 Evidence – all Employees**
+
 Proof of the injury, illness or death must be provided that would satisfy a reasonable person, if requested.

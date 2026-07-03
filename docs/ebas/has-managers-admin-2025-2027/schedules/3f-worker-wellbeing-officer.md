@@ -7,14 +7,14 @@ synonyms: ['wellbeing officer', 'staff wellbeing', 'bullying and harassment supp
 
 # Schedule 3F - Worker Wellbeing Officer (Managers and Administrative Workers)
 
-**1. The Role**
+## 1. The Role
 
 **1.1** A Worker Wellbeing Officer will utilise the strategic framework prescribed in the DH strategy paper “Our pathway to change: eliminating bullying and harassment in healthcare” in the promotion of the following focus areas of:
 - **(a)** preventing workplace bullying and harassment
 - **(b)** supporting mental health and wellbeing
 - **(c)** preventing workplace injuries.
 
-**2. Duties**
+## 2. Duties
 
 Duties include:
 
@@ -24,7 +24,7 @@ Duties include:
 
 **2.3** Networking with the Safe Care Victoria and the Healthcare Worker Wellbeing Centre.
 
-**3. Qualifications/Experience**
+## 3. Qualifications/Experience
 
 Required qualifications and experience for this role is as follows:
 

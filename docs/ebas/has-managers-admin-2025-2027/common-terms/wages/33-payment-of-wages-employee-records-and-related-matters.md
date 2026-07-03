@@ -13,22 +13,19 @@ synonyms: ['payday', 'payslip', 'underpayment', 'termination pay']
 - **(c)** Any deductions from an Employee's pay must be in accordance with legislative requirements.
 
 **33.2 Employee Records**
-- **(a)**
-  **Payslip**
+- **(a)** **Payslip**
   - **(i)** The Act and FW Regulations set out an Employer's obligations with respect to pay slips, including but not limited to a requirement to specify:
     - **(A)** the period to which the pay slip relates;
     - **(B)** The amount of wages to which the Employee is entitled;
     - **(C)** If an amount was deducted from the gross amount of the payment, the name or the name and number of the fund or account into which the deduction was paid; and,
     - **(D)** the net amount for each payment.
   - **(ii)** To the extent reasonably practicable, payslips will record an Employee's accrued annual leave and personal leave.
-- **(b)**
-  **Records**
+- **(b)** **Records**
   - **(i)** The Act and FW Regulations set out an Employer's obligations with respect to record keeping including but not limited to:
     - **(A)** a requirement to keep a record that sets out any leave the Employee takes and the balance (if any) of the Employee's entitlement to that leave from time to time;
     - **(B)** the inspection and copying of an Employee record by the Employee or former Employee to whom the record relates; and
     - **(C)** the requirement to keep accurate Employee records.
-- **(c)**
-  **Copying and Inspection of Record**
+- **(c)** **Copying and Inspection of Record**
   - **(i)** After receiving a request from an Employee (or a former Employee) for a copy or inspection of their Employee record, the Employer must:
     - **(A)** If the Employee record is kept at the premises at which the Employee works:
       - **i.** make the copy available to the Employee at the premises within 3 business days, or

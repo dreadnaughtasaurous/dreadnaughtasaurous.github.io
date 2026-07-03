@@ -37,7 +37,7 @@ synonyms: ['flexible work request']
   - **(ii)** the Employer and the Employee have not reached such an agreement;
   - **(iii)** the Employer has had regard to the consequences of the refusal for the Employee; and
   - **(iv)** the refusal is on reasonable business grounds.
-    >Note: The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request.
+    >**Note:** The specific circumstances of the employer, including the nature and size of the enterprise carried on by the employer, are relevant to whether the employer has reasonable business grounds for refusing a request. For example, if the employer has only a small number of employees, there may be no capacity to change the working arrangements of other employees to accommodate the request.
 - **(c)** An Employee or Employer may choose to be represented at a meeting under clause 82.5(b)(i)(A) by a representative including a Union or employer organisation.
 - **(d)** The response must:
   - **(i)** state that the Employer grants the request;

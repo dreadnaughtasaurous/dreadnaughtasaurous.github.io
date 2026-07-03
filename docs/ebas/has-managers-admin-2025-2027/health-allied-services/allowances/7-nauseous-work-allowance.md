@@ -9,7 +9,7 @@ synonyms: ['dirty work allowance', 'nauseous allowance']
 
 This clause does not apply to casual Employees
 
-**7.1** For the purpose of this clause 7, an Eligible Employee is an employee employed in the following classifications:
+**7.1** For the purpose of this clause 7, an **Eligible Employee** is an employee employed in the following classifications:
 
 - Allied Health Assistant
 - Anaesthetic Technician

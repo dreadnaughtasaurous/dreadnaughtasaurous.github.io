@@ -7,7 +7,7 @@ synonyms: ['super', 'pension', 'retirement fund']
 
 # 35. Superannuation
 
-The subject of superannuation is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This clause is ancillary to and supplements those provisions.
+*The subject of superannuation is dealt with extensively by federal legislation which prescribes the obligations and entitlements regarding superannuation. This clause is ancillary to and supplements those provisions.*
 
 **35.1 Definitions**
 In this clause:
@@ -15,9 +15,11 @@ In this clause:
 - **(b) preferred superannuation fund** means a fund that meets the definition of a superannuation fund in the Superannuation Guarantee (Administration) Act 1992 (Cth).
 
 **35.2 Existing Employees**
+
 Employees will have the choice to nominate that the Employer contributions and their own contributions are made to the Employee's preferred superannuation fund (as defined above).
 
 **35.3 New Employees**
+
 The Employer will offer to make superannuation contributions on behalf of an Employee to:
 - **(a)** the Employee's preferred superannuation fund;
 - **(b)** Aware Super superannuation funds (or successor); or,
@@ -28,6 +30,7 @@ The Employer will offer to make superannuation contributions on behalf of an Emp
 - **(b)** If the Employee does not nominate a fund, and the ATO does not identify a stapled fund, the Employer will pay the Employee's superannuation contributions to the default fund.
 
 **35.5 Calculation of superannuation contributions**
+
 Superannuation contributions paid by the Employer will be calculated and paid on:
 - **(a)** ordinary time earnings as defined in the Superannuation Guarantee (Administration) Act 1992 (Cth) calculated on the Employee's pre-salary packaging earnings, and
 - **(b)** any additional amounts consistent with the trust deed of the superannuation fund; and
@@ -38,8 +41,9 @@ Superannuation contributions paid by the Employer will be calculated and paid on
 - **(b)** From 1 July 2026, the Employer will make superannuation contributions to the superannuation fund nominated by Employees on the same day Employees are paid their salaries and wages.
 
 **35.7 Superannuation during parental leave**
+
 The Employer will make superannuation contributions throughout any period of parental leave, paid or unpaid. Such contributions will be calculated as follows:
-- **(a)** The Employee's ordinary time earnings as defined in the Superannuation Guarantee (Administration) Act 1992 (Cth) calculated on the Employee's pre-salary packaging earnings and any additional amounts consistent with the trust deed of the superannuation fund over 26 full pay periods immediately prior to commencing parental leave and divided by 52 (Weekly Parental Leave Super Contribution);
+- **(a)** The Employee's ordinary time earnings as defined in the *Superannuation Guarantee (Administration) Act 1992* (Cth) calculated on the Employee's pre-salary packaging earnings and any additional amounts consistent with the trust deed of the superannuation fund over 26 full pay periods immediately prior to commencing parental leave and divided by 52 (Weekly Parental Leave Super Contribution);
 - **(b)** The Weekly Parental Leave Super Contribution will be paid during each week of Parental Leave (both paid and unpaid) save that:
   - **(i)** the Employee will receive a pro rata payment for a period less than one week; and
   - **(ii)** where, during the period of parental leave (either paid or unpaid), the Employee's rate of pay increases under clause 31, the Employee's pre-salary packaging earnings as calculated above will be increased accordingly from the relevant date and superannuation paid on the increased amount.

@@ -33,7 +33,7 @@ This clause is structured as follows:
 - **(r)** Communication during parental leave – organisational change: subclause 62.19; and
 - **(s)** Keeping in touch days: subclause 62.20.
 
-Other provisions associated with parental leave are also included in this Agreement. Specifically, prenatal leave at [clause 61](/ebas/has-managers-admin-2025-2027/common-terms/leave/61-pre-natal-leave), flexible working arrangements which includes the right to request to return from parental leave on a part-time basis at [clause 82](/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/82-requests-for-flexible-working-arrangements) and breastfeeding at [clause 63](/ebas/has-managers-admin-2025-2027/common-terms/leave/63-breast-feeding).
+Other provisions associated with parental leave are also included in this Agreement. Specifically, **prenatal leave** at [clause 61](/ebas/has-managers-admin-2025-2027/common-terms/leave/61-pre-natal-leave), **flexible working arrangements** which includes the right to request to return from parental leave on a part-time basis at [clause 82](/ebas/has-managers-admin-2025-2027/common-terms/classification-staffing/82-requests-for-flexible-working-arrangements) and **breastfeeding** at [clause 63](/ebas/has-managers-admin-2025-2027/common-terms/leave/63-breast-feeding).
 
 **62.2 Definitions**
 
@@ -82,7 +82,8 @@ For the purposes of this clause:
     - **(A)** the birth of a Child (including a Stillbirth) of the Eligible Employee or the Eligible Employee's Spouse or their legal surrogate; or
     - **(B)** the placement of a Child with the Eligible Employee for adoption; and
   - **(ii)** the Eligible Employee has or will have a responsibility for the care of the Child, or in the case of a Stillbirth, the Eligible Employee had or would have had a responsibility for the care of the Child if the Child had been born alive.
-- **(b)** Access to parental leave for an Employee whose Child is born by surrogate
+- **(b) Access to parental leave for an Employee whose Child is born by surrogate**
+
   An Employee whose Child is born through a surrogacy arrangement which complies with Part 4 of the Assisted Reproductive Treatment Act 2008 (Vic) (or successor instrument), is eligible to access the parental leave entitlements outlined in clause 62.3(a).
 - **(c)** Except as provided at subclause 62.4 (Flexible Unpaid Parental Leave), subclause 62.8 (Employer may require pregnant Employee to take Unpaid Parental Leave) subclause 62.5 (permitted work periods while Child is hospitalised) and subclause 62.20 (Keeping in Touch Days), the Eligible Employee must take the leave in a single continuous period.
 - **(d)** Subject to subclause 62.3(e), an Eligible Employee must start and end their period of Unpaid Parental Leave during the 24-month period starting on the date of birth, or placement, of the Child.
@@ -110,7 +111,7 @@ For the purposes of this clause:
     - **(A)** are born during the same multiple birth; or
     - **(B)** are both placed with the Eligible Employee for adoption and have the same day of placement; and
   - **(ii)** the Eligible Employee takes Flexible Unpaid Parental Leave in relation to the other Child.
-- **(h)** When giving notice of their intention to take Unpaid Parental Leave in accordance with subclause 62.7, an Employee must specify the total number of days, if any, to be taken as Flexible Unpaid Parental Leave (Flexible Days). If the Employer agrees, an Eligible Employee may change the total number of Flexible Days previously notified to the Employer in accordance with subclause 62.7 by:
+- **(h)** When giving notice of their intention to take Unpaid Parental Leave in accordance with subclause 62.7, an Employee must specify the total number of days, if any, to be taken as Flexible Unpaid Parental Leave (**Flexible Days**). If the Employer agrees, an Eligible Employee may change the total number of Flexible Days previously notified to the Employer in accordance with subclause 62.7 by:
   - **(i)** reducing the number of Flexible Days, including by reducing the number of flexible days to zero;
   - **(ii)** increasing the number of Flexible Days, but not so as to increase the maximum number of Flexible Days that the Employee is entitled to as stipulated in subclause 62.4(a).
 - **(i)** An Eligible Employee must give written notice of a Flexible Day on which the Employee will take Flexible Unpaid Parental Leave at least 4 weeks before that day or, if 4 weeks' is not practicable, as soon as practicable. If the Employer agrees, an Eligible Employee may change a day on which the Eligible Employee takes Flexible Unpaid Parental Leave from a day previously notified in accordance with this subclause 62.4(i).
@@ -122,8 +123,8 @@ For the purposes of this clause:
     - **(A)** the Child was born prematurely; or
     - **(B)** the Child developed a complication or contracted an illness during the Child's period of gestation or at birth; or
     - **(C)** the Child developed a complication or contracted an illness following the Child's birth; and
-  - **(ii)** an Eligible Employee, whether before or after the birth of the Child, gives notice in accordance with subclause 62.7 of the taking of a period of Unpaid Parental Leave (the original leave period) in relation to the Child;
-  then the Eligible Employee may agree with their Employer that the Eligible Employee will not take Unpaid Parental Leave for a period (the permitted work period) while the Child remains in hospital.
+  - **(ii)** an Eligible Employee, whether before or after the birth of the Child, gives notice in accordance with subclause 62.7 of the taking of a period of Unpaid Parental Leave (the **original leave period**) in relation to the Child;
+  then the Eligible Employee may agree with their Employer that the Eligible Employee will not take Unpaid Parental Leave for a period (the **permitted work period**) while the Child remains in hospital.
 - **(b)** If the Eligible Employee and Employer so agree, then the following rules have effect:
   - **(i)** the Eligible Employee is taken to not be taking Unpaid Parental Leave during the permitted work period;
   - **(ii)** the permitted work period does not break the continuity of the original leave period; and
@@ -143,21 +144,18 @@ For the purposes of this clause:
 - **(a)** An Eligible Employee commencing Unpaid Parental Leave is entitled to Paid Parental Leave on the following basis:
   - **(i)** a Primary Carer taking Unpaid Parental Leave will be entitled to 14 weeks' Paid Parental Leave, provided that the period of Unpaid Parental Leave is taken contemporaneously with the birth or placement of the Child, (subject to clause 62.5 in which case the Employee taking Unpaid Parental Leave may agree with the Employer that the Employee will not take Unpaid Parental Leave during the permitted work period while the Child remains hospitalised); and
   - **(ii)** a non-Primary Carer taking Unpaid Parental Leave will be entitled to two weeks' Paid Parental Leave.
-- **(b)**
-  **One entitlement per Employee**
+- **(b)** **One entitlement per Employee**
+
   An Eligible Employee is not entitled to receive both Primary Carer and non-Primary Carer Paid Parental Leave for the same birth or adoption event. For clarity, there can only be one Primary Carer and one non-Primary Carer in respect of a Child.
 - **(c)** Paid Parental Leave under this Agreement is in addition to any entitlement under a relevant Commonwealth Government paid parental leave scheme (subject to the requirements of any applicable legislation).
-- **(d)**
-  **Payment arrangements**
+- **(d)** **Payment arrangements**
   - **(i)** The Employer and Eligible Employee may agree in writing on the method of payment of Paid Parental Leave, including payment in smaller amounts over a longer period, and whether payments are made consecutively or concurrently with any relevant Commonwealth Government parental leave scheme.
   - **(ii)** Such arrangements may also include a voluntary contribution to superannuation.
-- **(e)**
-  **Timing of Payments**
+- **(e)** **Timing of Payments**
   - **(i)** The Eligible Employee must nominate a preferred payment arrangement at least four weeks prior to the expected date of birth or date of placement of the Child.
   - **(ii)** If no agreement is reached, Paid Parental leave will be paid during the ordinary pay periods corresponding with the period of the leave.
 - **(f)** Subject to [clause 64.2(b)(ii)](/ebas/has-managers-admin-2025-2027/common-terms/leave/64-long-service-leave) and 64.2(g) (in the case of long service leave), a period of paid parental leave at double pay does not affect the period of continuous service recognised. For example, an Employee taking seven (7) weeks at double pay will have 14 weeks of continuous service recognised.
-- **(g)**
-  **Interaction with Unpaid Parental Leave**
+- **(g)** **Interaction with Unpaid Parental Leave**
   The Paid Parental Leave prescribed by this subclause is concurrent with the relevant unpaid parental leave entitlement prescribed by the NES/this Agreement.
 
 **62.7 Notice and evidence requirements**
@@ -169,7 +167,7 @@ For the purposes of this clause:
 - **(b)** However, if the first or only period of leave covered by the notice is to be taken as Flexible Unpaid Parental Leave under subclause 62.4, the notice may be given at a later time if the Employer agrees.
 - **(c)** An Employee will not be in breach of subclause 62.7(a) if failure to give the stipulated notice is occasioned by the birth of the Child or placement occurring earlier than the expected date or in other compelling circumstances. In these circumstances the notice and evidence requirements of this clause should be provided as soon as reasonably practicable.
 - **(d)** If any of the leave covered by the notice is to be taken as a single continuous period under subclause 62.3, the notice must include the intended start and end dates of that leave.
-- **(e)** If any of the leave covered by the notice is to be taken as Flexible Unpaid Parental Leave, the notice must include the total number of days the Eligible Employee intends to take as Flexible Unpaid Parental Leave (Flexible Days).
+- **(e)** If any of the leave covered by the notice is to be taken as Flexible Unpaid Parental Leave, the notice must include the total number of days the Eligible Employee intends to take as Flexible Unpaid Parental Leave (**Flexible Days**).
 - **(f)** If any of the leave covered by the notice is to be taken as a single continuous period of leave under subclause 62.3, then at least four weeks before the intended start date specified in the notice, the Eligible Employee must confirm in writing the intended start and end dates of that leave, or advise the Employer of any changes to the intended start and end dates of that leave, unless it is not practicable to do so.
 - **(g)** The Employer may require an Eligible Employee who has given notice of their intention to take Unpaid Parental Leave to provide evidence which would satisfy a reasonable person of:
   - **(i)** in the case of birth-related leave:
@@ -209,8 +207,7 @@ Where the placement of the Child for adoption with an Eligible Employee does not
 
 **62.11 Special parental leave**
 
-- **(a)**
-  **Entitlement to unpaid special parental leave**
+- **(a)** **Entitlement to unpaid special parental leave**
   - **(i)** An Eligible Employee is entitled to a period of unpaid special parental leave if the Eligible Employee is not fit for work during that period because:
     - **(A)** of a pregnancy-related illness; or
     - **(B)** all of the following apply:
@@ -219,14 +216,12 @@ Where the placement of the Child for adoption with an Eligible Employee does not
   - **(ii)** An Eligible Employee who has an entitlement to paid personal leave may, in part or whole, take personal leave instead of unpaid special parental leave under this clause.
   - **(iii)** An Eligible Employee must give their Employer notice of the taking of unpaid special parental leave advising the period, or expected period, of the leave as soon as practicable.
   - **(iv)** Where the pregnancy ends more than 28 weeks from the expected date of birth of the Child (i.e. after a period of less than 12 weeks gestation), the Eligible Employee is entitled to access any paid and/or unpaid personal leave entitlements in accordance with the relevant personal leave provisions.
-- **(b)**
-  **Entitlement to paid special parental leave**
+- **(b)** **Entitlement to paid special parental leave**
   - **(i)** An Eligible Employee is entitled to a period of paid special parental leave if the child is Stillborn or dies within 24 months of birth.
   - **(ii)** Paid special parental leave is the amount of paid parental leave under subclause 62.6(a)(i) (plus superannuation) to which the Eligible Employee would have been entitled if the child had not been Stillborn or died.
   - **(iii)** An Employer must not, because of the Stillbirth or death, refuse to allow the Eligible Employee to take the paid special parental leave or cancel any part of that leave without being requested by the Employee to do so.
   - **(iv)** Paid special parental leave is in addition to any unpaid special leave taken under subclause 62.11(a).
-- **(c)**
-  **Notice and evidence requirements**
+- **(c)** **Notice and evidence requirements**
   - **(i)** The Eligible Employee must give notice of taking special parental leave under this clause to the Employer as soon as practicable by advising the Employer of the period or the expected period of the leave.
   - **(ii)** If an Eligible Employee takes leave under this clause the Employer may require the Eligible Employee to provide evidence that would satisfy a reasonable person of the matters referred to in subclause 62.11(a)(i) or 62.11(b)(i) or to provide a certificate from a registered medical practitioner.
 
@@ -246,43 +241,43 @@ Where the placement of the Child for adoption with an Eligible Employee does not
 **62.13 Right to request an extension of period of Unpaid Parental Leave beyond 12 months**
 
 - **(a)** An Eligible Employee who takes 12 months' Unpaid Parental Leave pursuant to subclause 62.3 may request the Employer to allow the Eligible Employee to extend the period of Unpaid Parental Leave by a further period of up to 12 months immediately following the end of the available parental leave.
-- **(b)**
-  **Request to be in writing**
+- **(b)** **Request to be in writing**
+  
   The request must be in writing and must be given to the Employer at least four weeks before the end of the available parental leave period.
-- **(c)**
-  **Response to be in writing**
+- **(c)** **Response to be in writing**
+  
   The Employer must give the Eligible Employee a written response to the request as soon as practicable, and not later than 21 days after the request is made. The response must:
   - **(i)** state that the Employer grants the request; or
   - **(ii)** if, following discussion between the Employer and the Eligible Employee, the parties agree to an extension of Unpaid Parental Leave for a period that differs from the period requested — that period; or
   - **(iii)** subject to the Employer meeting its obligations in subclause 62.13(d), state that the Employer refuses the request and include the matters set out in subclause 62.13(f).
-- **(d)**
-  **Refusal only in certain circumstances**
+- **(d)** **Refusal only in certain circumstances**
+  
   The Employer may only refuse the request if:
   - **(i)** the Employer has discussed the request with the Eligible Employee and genuinely tried to reach an agreement; or
   - **(ii)** the parties have not reached an agreement;
   - **(iii)** the Employer has had regard to the consequences of the refusal for the Eligible Employee; and
   - **(iv)** the refusal is on reasonable business grounds.
-- **(e)**
-  **Reasonable business grounds**
+- **(e)** **Reasonable business grounds**
+  
   Without limiting what are reasonable business grounds for the purpose of refusal by the Employer, reasonable business grounds for refusing a request include the following:
   - **(i)** that the extension would be too costly;
   - **(ii)** that there is no capacity to change the working arrangements of other Employees to accommodate the extension requested;
   - **(iii)** that it would be impractical to change the working arrangements of other Employees, or recruit new Employees, to accommodate the extension requested;
   - **(iv)** that the extension requested would be likely to result in a significant loss in efficiency or productivity; or
   - **(v)** that the extension requested would be likely to have a significant negative impact on customer service.
-- **(f)**
-  **Reasons for refusal to be specified**
+- **(f)** **Reasons for refusal to be specified**
+  
   If the Employer refuses the request, the written response must:
   - **(i)** include details of the reasons for the refusal, including the particular business grounds for refusing the request and an explanation of how the business grounds apply to the Eligible Employee's request; and
   - **(ii)** either:
     - **(A)** set out the extension of the period of Unpaid Parental Leave that the Employer would be willing to agree to; or
     - **(B)** state that there is no extension of the period that the Employer would be willing to agree to; and
   - **(iii)** set out the effect of sections 76B and 76C of the Act, which concern the process related to disputing a refusal to grant an extension request at the Commission.
-- **(g)**
-  **Disputes about extension requests**
+- **(g)** **Disputes about extension requests**
+  
   Disputes about extension request may be deal with under the dispute resolution procedure (clause 19) and section 76B of the Act.
-- **(h)**
-  **No extension beyond 24 months**
+- **(h)** **No extension beyond 24 months**
+  
   An Eligible Employee is not entitled to extend the period of Unpaid Parental Leave beyond 24 months after the date of birth or day of placement of the Child.
 
 **62.14 Reducing period of Unpaid Parental Leave**
@@ -296,12 +291,12 @@ If the Employer agrees, an Employee whose period of Unpaid Parental Leave has st
 
 **62.16 Transfer to a safe job**
 
-- **(a)** Where an Employee is pregnant and provides evidence that would satisfy a reasonable person that the Employee is fit for work but it is inadvisable for the Employee to continue in their present position for a stated period (the risk period) because of:
+- **(a)** Where an Employee is pregnant and provides evidence that would satisfy a reasonable person that the Employee is fit for work but it is inadvisable for the Employee to continue in their present position for a stated period (the **risk period**) because of:
   - **(i)** illness or risks arising out of the pregnancy, or
   - **(ii)** hazards connected with the position.
   the Employee must be transferred to an appropriate safe job if one is available for the risk period, with no other change to the Employee's terms and conditions of employment.
-- **(b)**
-  **Paid no safe job leave**
+- **(b)** **Paid no safe job leave**
+  
   If:
   - **(i)** subclause 62.16(a) applies to a pregnant Eligible Employee but there is no appropriate safe job available;
   - **(ii)** the Eligible Employee is entitled to Unpaid Parental Leave; and
@@ -314,8 +309,8 @@ If the Employer agrees, an Employee whose period of Unpaid Parental Leave has st
   - **(i)** not complied with the request from the Employer under subclause 62.16(e) above; or
   - **(ii)** provided a medical certificate stating that she is not fit for work.
   the Employer may require the Eligible Employee to take a period of Unpaid Parental Leave as soon as practicable. The Eligible Employee's entitlement to paid no safe job leave ends when this period of Unpaid Parental Leave starts.
-- **(g)**
-  **Unpaid no safe job leave**
+- **(g)** **Unpaid no safe job leave**
+  
   If:
   - **(i)** subclause 62.16(a) applies to a pregnant Employee but there is no appropriate safe job available;
   - **(ii)** the Employee will not be entitled to Unpaid Parental Leave as at the expected date of birth; and
@@ -335,8 +330,7 @@ If the Employer agrees, an Employee whose period of Unpaid Parental Leave has st
   - **(i)** the Eligible Employee or Eligible Employee's Spouse is pregnant; or
   - **(ii)** the Eligible Employee is or has been immediately absent on parental leave.
 - **(f)** The rights of the Employer in relation to engagement and re-engagement of casual Employees are not affected, other than in accordance with this clause.
-- **(g)**
-  **Stillbirth or death of child – cancelling leave or returning to work**
+- **(g)** **Stillbirth or death of child – cancelling leave or returning to work**
   - **(i)** In the event of a Stillbirth, or if a Child dies during the 24-month period starting on the Child's date of birth, then an Eligible Employee who is entitled to a period of Unpaid Parental Leave in relation to the Child may:
     - **(A)** before the period of leave starts, give their Employer written notice cancelling the leave; or
     - **(B)** if the period of leave has started, give their Employer written notice that the Eligible Employee wishes to return to work on a specified day (which must be at least 4 weeks after the date on which the Employer receives the notice).
@@ -344,8 +338,7 @@ If the Employer agrees, an Employee whose period of Unpaid Parental Leave has st
     - **(A)** if the action is taken under subclause 62.17(g)(i)(A), immediately after the cancellation of the leave; or
     - **(B)** if the action is taken under subclause 62.17(g)(i)(B), immediately before the specified day.
   - **(iii)** This subclause 62.17(g) does not limit subclause 62.14 (dealing with the Eligible Employee reducing the period of Unpaid Parental Leave with the agreement of the Employer).
-- **(h)**
-  **Employee who ceases to have responsibility for care of Child**
+- **(h)** **Employee who ceases to have responsibility for care of Child**
   - **(i)** This subclause applies to an Employee who has taken Unpaid Parental Leave in relation to a Child if the Employee ceases to have any responsibility for the care of the Child for a reason other than because:
     - **(A)** of a Stillbirth; or
     - **(B)** the Child dies during the 24-month period starting on the Child's date of birth.

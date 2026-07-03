@@ -7,7 +7,7 @@ synonyms: ['Aboriginal employment officer', 'First Nations employment support', 
 
 # Schedule 3G - Aboriginal Employment Support Officer (Managers and Administrative Workers)
 
-**1. The Role**
+## 1. The Role
 
 **1.1** An Aboriginal Employment Support Officer will be responsible for promoting the achievement of a two per cent Aboriginal Employment Target and the prioritisation of focus areas set out in the DH Aboriginal Employment Strategy 2016-2021:
 - **(a)** Profile and Leadership
@@ -17,7 +17,7 @@ synonyms: ['Aboriginal employment officer', 'First Nations employment support', 
 - **(e)** Induction
 - **(f)** Development
 
-**2. Duties**
+## 2. Duties
 
 Duties include:
 
@@ -27,7 +27,7 @@ Duties include:
 
 **2.3** Networking with the local Aboriginal community, Aboriginal community organisations, high schools, TAFE and University.
 
-**3. Qualifications/Experience**
+## 3. Qualifications/Experience
 
 Required qualifications and experience for this role is as follows:
 

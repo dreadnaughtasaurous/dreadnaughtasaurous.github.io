@@ -7,13 +7,15 @@ synonyms: ['buy leave', 'purchased leave']
 
 # 57. Purchased Leave
 
-This clause does not apply to casual Employees.
+*This clause does not apply to casual Employees.*
 
 **57.1** An Employee may apply to purchase up to 20 working days (pro-rated for part-time Employees) additional paid leave in a 12-month period at ordinary pay. The additional paid leave is purchased through salary deductions made over the whole year. The amount deducted will correspond with the amount of leave purchased.
 
 >**Examples:**
->**1)** An Employee who purchases an additional four (4) weeks leave will be paid 48/52 or 92.31% of their ordinary pay throughout the relevant 12 month period.
->**2)** An Employee who purchases an additional two (2) weeks leave will be paid 50/52 or 96.15% of their ordinary pay throughout the relevant 12 month period.
+>
+>**1.** An Employee who purchases an additional four (4) weeks leave will be paid 48/52 or 92.31% of their ordinary pay throughout the relevant 12 month period.
+>
+>**2.** An Employee who purchases an additional two (2) weeks leave will be paid 50/52 or 96.15% of their ordinary pay throughout the relevant 12 month period.
 
 **57.2** Where an Employee applies for additional leave pursuant to this clause the Employer will respond to such application within four (4) weeks.
 

@@ -14,5 +14,7 @@ synonyms: ['recall', 'call back']
 - **(d)** The time spent travelling to and from the place of duty will be deemed to be time worked.
 
 **46.2 Recall – No Return to Workplace**
+
 *Managers and Administrative Workers only*
+
 Where such recall to duty can be managed without the Employee having to return to their workplace, such as by telephone or computer, the Employee will be paid a minimum of 1 hour at the appropriate overtime rate for each occasion, provided that multiple recalls within a discrete hour will not attract additional payment.

@@ -7,7 +7,7 @@ synonyms: ['flexible staffing', 'Dental Therapist staffing', 'OHV staffing']
 
 # 34. Staffing Flexibility (OHV)
 
-This clause only applies to Dental Assistants employed by OHV.
+*This clause only applies to Dental Assistants employed by OHV.*
 
 **34.1** The Employer may direct an Employee to carry out duties that are incidental and peripheral to the work normally performed, where those duties are within the Employee’s skill, competence and training and are consistent with the classification structure.
 

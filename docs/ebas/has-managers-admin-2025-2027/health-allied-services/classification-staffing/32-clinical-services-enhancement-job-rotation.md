@@ -7,7 +7,7 @@ synonyms: ['rotation', 'clinical rotation', 'skill enhancement']
 
 # 32. Clinical Services Enhancement/Job Rotation
 
-This clause only applies to Dental Assistants employed by OHV.
+*This clause only applies to Dental Assistants employed by OHV.*
 
 **32.1** In order to achieve (or maximise) clinical delivery outcomes and priorities, an Employee will be available to transfer through all clinical areas as determined by operations/department/unit managers/clinical coordinators.
 

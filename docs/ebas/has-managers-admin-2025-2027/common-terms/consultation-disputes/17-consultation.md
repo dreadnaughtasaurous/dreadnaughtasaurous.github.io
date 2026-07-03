@@ -48,6 +48,7 @@ Under this clause 17:
 | **6.** | Employer to consider alternative proposal/s consistent with the obligation to consult and, if applicable, to arrange further meetings with Employees or HWU prior to advising of the outcome of consultation | Within 14 days of step 5 |
 
 **17.4 Change Impact Statement (Step 1)**
+
 - **(a)** Prior to Consultation required by this clause, the Employer will provide Affected Employee/s and the HWU with a written Change Impact Statement setting out all relevant information including:
   - **(i)** the details of the proposed change;
   - **(ii)** the reasons for the proposed change;
@@ -62,6 +63,7 @@ Under this clause 17:
 - **(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with clause **17.4** will be raised as soon as practicable and before step 2.
 
 **17.5 Employee / HWU response (step 2)**
+
 Following receipt of the change impact statement, affected Employees, the HWU and / or other nominated representative/s (if any) may respond in writing to any matter arising from the proposed change.
 
 **17.6 Meetings (step 3)**
@@ -72,12 +74,15 @@ Following receipt of the change impact statement, affected Employees, the HWU an
 - **(b)** To avoid doubt, the ‘first meeting’ at step 3 does not limit the number of meetings for consultation.
 
 **17.7 Employer response (step 4)**
+
 The Employer will give prompt and genuine consideration to matters arising from Consultation and will provide a written response to the Employees, the HWU and (where relevant) other representative/s.
 
 **17.8 Alternative proposal (step 5)**
+
 The affected Employee/s, the HWU and other representative/s (where relevant) may submit alternative proposal(s) which will take into account the intended objective and benefits of the proposal. Alternative proposals should be submitted in a timely manner so that unreasonable delay may be avoided.
 
 **17.9 Outcome of consultation (step 6)**
+
 The Employer will give prompt and genuine consideration to matters arising from Consultation, including an alternative proposal submitted under subclause **17.8**, and will advise the Affected Employees, the HWU and other nominated representative/s (if any) in writing of the outcome of Consultation including:
 - **(a)** whether the Employer intends to proceed with the change proposal;
 - **(b)** any amendment to the change proposal arising from consultation;
@@ -85,4 +90,5 @@ The Employer will give prompt and genuine consideration to matters arising from 
 - **(d)** a summary of how matters that have been raised by Affected Employees, the HWU and their representatives, including any alternative proposal, have been taken into account.
 
 **17.10 Consultation disputes**
+
 Any dispute regarding the obligations under this clause will be dealt with under the Dispute Resolution Procedure at [clause 19](/ebas/has-managers-admin-2025-2027/common-terms/consultation-disputes/19-dispute-resolution-procedure).

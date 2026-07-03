@@ -7,11 +7,11 @@ synonyms: ['veteran employment officer', 'ADF veteran support', 'veteran workfor
 
 # Schedule 3I - Veteran Employment Support Officer (Managers and Administrative Workers)
 
-**1. The Role**
+## 1. The Role
 
 **1.1** A Veteran Employment Support Officer will be responsible for promoting the achievement of the Veteran workforce target and the prioritisation of focus areas set out in the Public Sector Veteran Employment Strategy:
 
-**2. Duties**
+## 2. Duties
 
 Duties include:
 
@@ -21,7 +21,7 @@ Duties include:
 
 **2.3** Networking with the Australian Defence Force (ADF) Veteran community, Veteran service provider organisations, TAFE and University.
 
-**3. Qualifications/Experience**
+## 3. Qualifications/Experience
 
 Required qualifications and experience for this role is as follows:
 

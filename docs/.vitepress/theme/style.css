@@ -1754,7 +1754,7 @@ html {
     color: #333 !important;
     font-style: italic !important;
   }
- 
+
   /* ── PayTable tabs — show all years, not just the active one ───────────── */
   /* The tab switcher UI is meaningless in print. Show all pay year tables
      stacked, each with its year as a visible heading.                       */
@@ -2143,4 +2143,29 @@ html {
 [data-high-contrast] .home-section-label::before,
 [data-high-contrast] .si-root .si-label::before {
   display: none;
+}
+
+/* ============================================================
+   Suppress the h2 divider line when h2 immediately follows h1
+   ─────────────────────────────────────────────────────────────
+   VitePress's default .vp-doc h2 style adds a border-top divider
+   plus extra top margin/padding, intended to separate a new
+   section from preceding body text. When h2 is the first heading
+   after the page's h1 (no body text between them), that divider
+   renders as a stray line directly under the title.
+
+   IMPORTANT: DocToolbar.vue inserts <div id="doc-toolbar-anchor">
+   directly after the h1 via insertAdjacentElement('afterend', ...)
+   on every clause page. The real DOM order is:
+     h1 → #doc-toolbar-anchor → h2
+   NOT a plain h1 → h2 pair — so the selector must chain through
+   the anchor, not target h1 + h2 directly. Specificity here is
+   (0,1,3): higher than VitePress's default .vp-doc h2 (0,1,1),
+   so this wins the cascade without needing !important.
+   ============================================================ */
+
+.vp-doc h1 + #doc-toolbar-anchor + h2 {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 24px;
 }

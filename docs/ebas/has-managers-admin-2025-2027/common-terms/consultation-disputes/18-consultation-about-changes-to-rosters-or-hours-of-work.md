@@ -6,7 +6,7 @@ topics: ['consultation', 'rosters', 'hours-of-work']
 
 # 18. Consultation about Changes to Rosters or Hours of Work
 
-This clause 18 applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute a 'Major Change' in accordance with subclause **17.2(c)**.
+*This clause 18 applies where a change to regular rosters or ordinary hours of work (which may impact upon an Employee, particularly in relation to their family and caring responsibilities) does not constitute a 'Major Change' in accordance with subclause 17.2(c).*
 
 **18.1** Where an Employer proposes to change an Employee's regular roster or ordinary hours of work, the Employer must:
 - **(a)** notify the relevant Employees of the proposed change; and

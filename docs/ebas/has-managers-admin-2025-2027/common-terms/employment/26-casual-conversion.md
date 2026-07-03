@@ -24,7 +24,9 @@ synonyms: ['casual conversion', 'request conversion']
     - **(B)** for an Employee that has worked less than the equivalent of full-time hours or shifts in the period of six months before the request is made – to part-time employment that is consistent with the hours or shifts worked during that period; and
   - **(iii)** be given to the Employer.
 
-**26.2** The Employer must give the Employee a written response to the request made under clause 26.1 within 21 days after the request is given to the Employer, stating whether the Employer grants or refuses the request.
+**26.2 Employer must give a response** 
+
+The Employer must give the Employee a written response to the request made under clause 26.1 within 21 days after the request is given to the Employer, stating whether the Employer grants or refuses the request.
 
 **26.3 Refusals of requests**
 - **(a)** The Employer must not refuse the request unless:

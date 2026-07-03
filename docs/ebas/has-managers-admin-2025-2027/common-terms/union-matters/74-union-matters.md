@@ -32,7 +32,7 @@ The Employer will ensure that:
 
 **74.5 Delegates and HSRs**
 
->**NOTE:** Additional rights of HSRs are contained in the OHS Act.
+>**Note:** Additional rights of HSRs are contained in the OHS Act.
 
 - **(a)** In this subclause 74.5(a):
   - **(i) Representative** means a HWU Delegate, or HSR.
@@ -90,7 +90,7 @@ The Employer will, on application by the HWU, grant leave without loss of pay (i
 
 **74.9 Union Training**
 
->**NOTE:** an HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
+>**Note:** an HSR may be entitled to any training in accordance with the OHS Act rather than, or in addition to, this clause.
 
 - **(a)** Subject to the conditions in this subclause 74.9, Employees selected by the HWU to attend training courses on industrial relations and/or health and safety will be entitled to a maximum of five days’ paid leave per calendar year per Employee.
 - **(b)** Leave in excess of five days and up to ten days may be granted in a calendar year subject to the total leave being granted in that year and in the subsequent year not exceeding ten days.
