@@ -13,7 +13,7 @@ synonyms: ['fit for work', 'medical clearance', 'independent medical examination
 
 **86.2 Addressing concerns about Fitness for Work**
 - **(a)** In the event the Employee's manager forms a reasonable belief (as defined at subclause 86.2(b) below that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
-- **(b)** In this clause **reasonable belief** means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 86.2(b) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+- **(b)** In this clause **reasonable belief** means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 86.2(b) permits an Employer to act contrary to the [Health Records Act 2001 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/050).
 - **(c)** In this clause **treating medical practitioner** means a practitioner relevant to the fitness for work concern and may, where relevant, also include programs such as the ‘Mind Your Head’ program, or a psychologist.
 - **(d)** The Employer will:
   - **(i)** take all reasonable steps to give the Employee an opportunity to answer any concerns which are the subject of the reasonable belief;
@@ -49,7 +49,7 @@ Before attending an IME, the Employee may:
 
 **86.7 Relationship to WIRC**
 
-This clause 86 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the WIRC Act including the Employer's obligation to provide a safe work environment.
+This clause 86 does not apply to an injury that is the subject of an active WorkCover claim. Matters regarding an Employee's Fitness for Work regarding an injury that is the subject of a WorkCover claim shall be managed in accordance with the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) including the Employer's obligation to provide a safe work environment.
 
 **86.8 Safe Work Environment is paramount**
 

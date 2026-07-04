@@ -110,7 +110,7 @@ Service or prior Service during the following periods will be deemed to be conti
   - **(i)** an absence from work on any form of paid leave (e.g. annual leave, personal leave, long service leave and paid parental leave);
   - **(ii)** any interruption or ending of employment by the Employer if made with the intention of avoiding obligations in respect of long service leave or annual leave
   - **(iii)** any absence on account of illness or injury arising out of or in the course of the employment for a period during which an Employee is receiving compensation make-up pay under clause 30 (Compensation Make-Up Pay);
-  - **(iv)** any absence from employment on defence service in accordance with section 8 of the Defence Reserve Service (Protection) Act 2001 (Cth);
+  - **(iv)** any absence from employment on defence service in accordance with section 8 of the [Defence Reserve Service (Protection) Act 2001 (Cth)](https://www.legislation.gov.au/C2004A00776/latest);
   - **(v)** a period of absence on community service leave under the Act;
   - **(vi)** in the case of unpaid absences not otherwise referenced in this subclause: 
     - **(A)** any unpaid leave that is authorised in advance in writing by the Employer to count as service; or 

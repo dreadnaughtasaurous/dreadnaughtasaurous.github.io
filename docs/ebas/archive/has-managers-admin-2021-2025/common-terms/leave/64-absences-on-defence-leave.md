@@ -24,7 +24,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **64.2** An Employee will notify the Employer as soon as possible of the date they require absence on defence service. The Employee will give the Employer proof that the absence relates to defence service, the duration of such absence and the amount received for the relevant defence service period.
 
-**64.3** In this clause 'absence on defence service' has the meaning contained in section 24A of the *Defence Reserve Service (Protection) Act 2001 (Cth).*
+**64.3** In this clause 'absence on defence service' has the meaning contained in section 24A of the *[Defence Reserve Service (Protection) Act 2001 (Cth)](https://www.legislation.gov.au/C2004A00776/latest).*
 
 >**Example:** 
 >

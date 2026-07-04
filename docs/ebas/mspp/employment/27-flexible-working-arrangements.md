@@ -21,7 +21,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
   - **(ii)** regular casual Employee during a period of at least 12 months, and who has reasonable expectation of continuing employment by the Employer on a regular and systematic basis.
 - **(c)** The specified circumstances are the Employee:
   - **(i)** is the parent, or has responsibility for the care, of a child who is of school age or younger;
-  - **(ii)** is a carer within the meaning of the Carer Recognition Act 2010 caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
+  - **(ii)** is a carer within the meaning of the [Carer Recognition Act 2010 (Cth)](https://www.legislation.gov.au/C2010A00123/asmade) caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
   - **(iii)** has a disability;
   - **(iv)** is 55 or older;
   - **(v)** is experiencing violence from a member of the Employee’s family; or

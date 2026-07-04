@@ -25,7 +25,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 **96.3** The specified circumstances are the Employee:
 
 - **(a)** is the parent, or has responsibility for the care, of a child who is of school age or younger;
-- **(b)** is a carer within the meaning of the Carer Recognition Act 2010 (Cth) caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
+- **(b)** is a carer within the meaning of the [Carer Recognition Act 2010 (Cth)](https://www.legislation.gov.au/C2010A00123/asmade) caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
 - **(c)** has a disability;
 - **(d)** is 55 or older;
 - **(e)** is experiencing violence from a member of the Employee’s family; or

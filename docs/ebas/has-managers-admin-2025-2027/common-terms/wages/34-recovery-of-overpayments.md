@@ -13,7 +13,7 @@ Where a Health Service determines that an overpayment has occurred, the Health S
 - **(a)** the total amount of overpayment.
 - **(b)** the reason, if any, for the overpayment (i.e. incorrect application of an allowance),
 - **(c)** when the overpayments have occurred.
-- **(d)** the scope to enter into a repayment arrangement within the limits set by the *Financial Management Act 1994* (currently one tenth of the salary or wages, before any deductions),
+- **(d)** the scope to enter into a repayment arrangement within the limits set by the *[Financial Management Act 1994 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/financial-management-act-1994)* (currently one tenth of the salary or wages, before any deductions),
 
 **34.2 Dispute**
 

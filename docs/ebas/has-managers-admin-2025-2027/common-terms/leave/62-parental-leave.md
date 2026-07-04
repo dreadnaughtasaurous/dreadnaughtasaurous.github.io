@@ -84,7 +84,7 @@ For the purposes of this clause:
   - **(ii)** the Eligible Employee has or will have a responsibility for the care of the Child, or in the case of a Stillbirth, the Eligible Employee had or would have had a responsibility for the care of the Child if the Child had been born alive.
 - **(b) Access to parental leave for an Employee whose Child is born by surrogate**
 
-  An Employee whose Child is born through a surrogacy arrangement which complies with Part 4 of the Assisted Reproductive Treatment Act 2008 (Vic) (or successor instrument), is eligible to access the parental leave entitlements outlined in clause 62.3(a).
+  An Employee whose Child is born through a surrogacy arrangement which complies with Part 4 of the [Assisted Reproductive Treatment Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/assisted-reproductive-treatment-act-2008/030) (or successor instrument), is eligible to access the parental leave entitlements outlined in clause 62.3(a).
 - **(c)** Except as provided at subclause 62.4 (Flexible Unpaid Parental Leave), subclause 62.8 (Employer may require pregnant Employee to take Unpaid Parental Leave) subclause 62.5 (permitted work periods while Child is hospitalised) and subclause 62.20 (Keeping in Touch Days), the Eligible Employee must take the leave in a single continuous period.
 - **(d)** Subject to subclause 62.3(e), an Eligible Employee must start and end their period of Unpaid Parental Leave during the 24-month period starting on the date of birth, or placement, of the Child.
 - **(e)** If an Eligible Employee is pregnant and taking birth-related leave, the Eligible Employee can also start their period of Unpaid Parental Leave up to six weeks before the expected date of birth of the Child, or earlier if the Eligible Employee and the Employer agree. However, the period of Unpaid Parental Leave must still end during the 24-month period starting on the date of birth of the Child.
@@ -95,7 +95,7 @@ For the purposes of this clause:
 - **(a)** An Eligible Employee may take up to:
   - **(i)** 120 days, for a Child born or placed for adoption between 1 July 2025 and 30 June 2026;
   - **(ii)** 130 days, for a Child born or placed for adoption on or after 1 July 2026; or
-  - **(iii)** the maximum number of days as otherwise prescribed in the Fair Work Regulations 2009 (Cth),
+  - **(iii)** the maximum number of days as otherwise prescribed in the [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text),
   of their Unpaid Parental Leave entitlement under subclause 62.3 as Flexible Unpaid Parental Leave if the requirements of this subclause are satisfied in relation to the leave.
 - **(b)** An Eligible Employee may take Flexible Unpaid Parental Leave:
   - **(i)** during the 24-month period starting on the date of birth (including a Stillbirth) or day of placement of the Child; and
@@ -156,7 +156,7 @@ For the purposes of this clause:
   - **(ii)** If no agreement is reached, Paid Parental leave will be paid during the ordinary pay periods corresponding with the period of the leave.
 - **(f)** Subject to [clause 64.2(b)(ii)](/ebas/has-managers-admin-2025-2027/common-terms/leave/64-long-service-leave) and 64.2(g) (in the case of long service leave), a period of paid parental leave at double pay does not affect the period of continuous service recognised. For example, an Employee taking seven (7) weeks at double pay will have 14 weeks of continuous service recognised.
 - **(g)** **Interaction with Unpaid Parental Leave**
-  The Paid Parental Leave prescribed by this subclause is concurrent with the relevant unpaid parental leave entitlement prescribed by the NES/this Agreement.
+  The Paid Parental Leave prescribed by this subclause is concurrent with the relevant unpaid parental leave entitlement prescribed by the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources)/this Agreement.
 
 **62.7 Notice and evidence requirements**
 

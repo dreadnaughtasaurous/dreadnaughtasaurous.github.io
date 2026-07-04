@@ -54,7 +54,7 @@ The following meanings shall apply to the terms referred to below for the purpos
   - **(ii)** any interruption or ending of employment by the Employer if made with the intention of avoiding obligations in respect of long service leave or annual leave;
   - **(iii)** up to the FFPPOOA commencement of the Agreement, any absence on account of illness or injury arising out of or in the course of the employment of the Employee for a period during which an Employee is receiving accident make-up pay (see /ebas/biomedical-engineers/wages/32-accident-make-up-pay);
   - **(iv)** a period of absence on community service leave under the Act;
-  - **(v)** any absence from employment on defence service in accordance with section 8 of the Defence Reserve Service (Protection) Act 2001 (Cth);
+  - **(v)** any absence from employment on defence service in accordance with section 8 of the [Defence Reserve Service (Protection) Act 2001 (Cth)](https://www.legislation.gov.au/C2004A00776/latest);
   - **(vi)** in the case of casual employment:
     - **(A)** periods of Continuous Casual Employment with the current Employer (in a role covered by this Agreement); and
     - **(B)** prior Continuous Casual Employment of six months or more that was with one or more Employers, Institutions, or Statutory Bodies;

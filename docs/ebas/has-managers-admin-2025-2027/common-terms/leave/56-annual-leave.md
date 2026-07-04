@@ -19,7 +19,7 @@ synonyms: ['holiday leave', 'vacation']
     >**Example:** If a part-time Employee who works 24 hours in a week that includes a weekend, they would accrue a proportion of 3.8 hours as follows: 24/38 x 3.8 = 2.4 hours.
 - **(d)** An Employee's annual leave accrues progressively during a year of service according to the Employee's ordinary hours of work, and accrues from year to year.
 
-**56.2 Shiftworker Definition for NES Purposes**
+**56.2 Shiftworker Definition for [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources) Purposes**
 
 Notwithstanding the entitlement contained at clause 56.1, for the purposes of the NES a shiftworker is an Employee who is regularly rostered to work Sundays and public holidays.
 

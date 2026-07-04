@@ -16,7 +16,7 @@ mental health worker psychiatric nurse mental health nurse community mental heal
 # 45. Family and Domestic Violence Leave
 
 > **Note:**
-> family member is defined in section 8 of the Family Violence Protection Act 2008 and is broader than the definition of immediate family under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
+> family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of immediate family under the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **45.1 General Principles**
 

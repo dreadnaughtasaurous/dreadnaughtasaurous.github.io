@@ -15,7 +15,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 
 # 66. Family Violence Leave
 
-> **Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of Immediate Family in [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions)
+> **Note:** Family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of Immediate Family in [clause 4](/ebas/allied-health/preliminary/4-definitions) (Definitions)
 
 **66.1 General Principle**
 

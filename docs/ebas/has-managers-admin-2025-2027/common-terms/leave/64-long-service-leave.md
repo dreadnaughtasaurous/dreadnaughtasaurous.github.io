@@ -26,12 +26,12 @@ synonyms: ['long service leave', 'lsl']
   - **(iii) Group B Employee** means, for the purpose of this clause 64, an Employee employed in Part 1 of Schedule 3D in Grade 11
   - **(iv) Institution** means any Employer, hospital or benevolent home, community health centre, Society or Association:
     - **(A)** named in Schedule 1 of this Agreement; or
-    - **(B)** that was registered and subsidised pursuant to the *Health Services Act 1988* (Vic) or the former *Hospital and Charities Act 1958* (Vic); or
+    - **(B)** that was registered and subsidised pursuant to the *[Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188)* (Vic) or the former *Hospital and Charities Act 1958* (Vic); or
     - **(C)** the Cancer Institute constituted under the *Cancer Act 1958* (Vic); or
     - **(D)** the Fairfield Hospital Board; or
     - **(E)** the Bush Nursing Association.
     - **(F)** and successors thereto.
-  - **(v) LSL Act** means the *Long Service Leave Act 2018* (Vic).
+  - **(v) LSL Act** means the *[Long Service Leave Act 2018 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/long-service-leave-act-2018/006)* (Vic).
   - **(vi) Month** means a calendar month.
   - **(vii) Pay** means remuneration for an employee's normal weekly hours of work calculated at the employee's ordinary time rate of pay provided in Schedules 2B or 3B at the time the leave is taken or (if the Employee dies before the completion of leave so taken) as at the time of the Employee's death; and will include any allowances usually paid, and will also include the amount of any increase to the Employee's ordinary time rate of pay which occurred during the period of leave as from the date of such increase operates provided that where accommodation is made available to an Employee during his/her period of leave and where a deduction is made for the rental, such amount shall be deducted from the pay for the period of leave.
 
@@ -65,7 +65,7 @@ synonyms: ['long service leave', 'lsl']
     - **(A)** an absence from work on any form of paid leave (e.g. annual leave, personal leave, long service leave and paid parental leave);
     - **(B)** any interruption or ending of employment by the Employer if made with the intention of avoiding obligations in respect of long service leave or annual leave;
     - **(C)** any absence on account of illness or injury arising out of or in the course of the employment for a period during which an Employee is receiving accident pay (see clause 37);
-    - **(D)** any absence from employment on defence service in accordance with section 8 of the Defence Reserve Service (Protection) Act 2001 (Cth);
+    - **(D)** any absence from employment on defence service in accordance with section 8 of the [Defence Reserve Service (Protection) Act 2001 (Cth)](https://www.legislation.gov.au/C2004A00776/latest);
     - **(E)** a period of absence on community service leave under the Act;
     - **(F)** in the case of unpaid absences not otherwise referenced in this subclause, subject to clause 64.2(g):
       - **(i)** any unpaid leave that is authorised in advance in writing by the Employer to count as service; or

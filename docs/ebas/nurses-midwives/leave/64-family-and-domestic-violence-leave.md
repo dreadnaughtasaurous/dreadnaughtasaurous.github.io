@@ -15,7 +15,7 @@ nurse midwife nursing staff RN EN registered nurse enrolled nurse midwifery NUM 
 
 # 64. Family and Domestic Violence Leave
 
-> **Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of Immediate family in [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions).
+> **Note:** Family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of Immediate family in [clause 4](/ebas/nurses-midwives/preliminary/4-definitions) (Definitions).
 
 **64.1 General Principles**
 

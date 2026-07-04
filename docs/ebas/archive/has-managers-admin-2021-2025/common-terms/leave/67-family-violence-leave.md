@@ -16,7 +16,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 # 67. Family Violence Leave
 
 > **Note:**
-> Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [clause 6](/ebas/archive/has-managers-admin-2021-2025/managers-admin/allowances/6-removal-expenses) (Definitions).
+> Family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of immediate family in [clause 6](/ebas/archive/has-managers-admin-2021-2025/managers-admin/allowances/6-removal-expenses) (Definitions).
 
 **67.1 General Principle**
 

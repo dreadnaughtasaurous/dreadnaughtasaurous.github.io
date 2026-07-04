@@ -83,7 +83,7 @@ If the period during which an Employee takes paid personal leave includes a day 
 **58.7 Portability of Personal Leave**
 - **(a)** Where an Employee terminates their employment at a:
   - **(i)** Employer covered by this Agreement or;
-  - **(ii)** a community health centre registered pursuant to the Health Services Act 1988 (or the former Hospitals and Charities Act 1958)
+  - **(ii)** a community health centre registered pursuant to the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) (or the former Hospitals and Charities Act 1958)
   and commences employment with an Employer covered by this Agreement within the allowable period of absence, accumulated personal leave up to a maximum of 1,976 hours at the date of such termination will be credited to the Employee at their new employment as accumulated personal leave.
 - **(b)** An Employee must produce a written statement from their previous employer specifying the amount of accumulated personal leave at the time of termination, as soon as reasonably practicable following termination, however, an Employer cannot rely on an Employee's delay in providing a written statement in refusing to grant portability of Personal Leave in accordance with this clause.
 - **(c)** Where an Employee remains engaged on casual bank/or as a casual Employee with their previous employer, the Employee must provide evidence that their previous employer has removed any and all personal leave accrual prior to the new employer providing a benefit under this clause.

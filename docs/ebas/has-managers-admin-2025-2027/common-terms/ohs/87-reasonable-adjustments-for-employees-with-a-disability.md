@@ -9,7 +9,7 @@ synonyms: ['workplace adjustments', 'disability adjustments', 'reasonable accomm
 
 **87.1 Purpose**
 
-The purpose of this clause is to reflect the obligations of the EO Act with respect to reasonable adjustments for Employees with a disability. The obligations apply regardless of whether the disability is or has been the subject of a WorkCover claim.
+The purpose of this clause is to reflect the obligations of the [EO Act](https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010/032) with respect to reasonable adjustments for Employees with a disability. The obligations apply regardless of whether the disability is or has been the subject of a WorkCover claim.
 
 **87.2 Definitions**
 - **(a)** **Disability** has the same meaning as section 4 of the Equal Opportunity Act 2010 (Vic) (EO Act) and includes:

@@ -232,7 +232,7 @@ An employee with less than 3 months' work experience in the industry and who per
 **2.1 Existing Classification Structure — Security Officers**
 
 - **(a)** **Definitions**
-    - **(i)** For the purposes of this clause 2, **Minimum Qualification** means a minimum qualification standard for licensing in accordance with the *Private Security Act 2004* (Vic) which is equivalent to that of an:
+    - **(i)** For the purposes of this clause 2, **Minimum Qualification** means a minimum qualification standard for licensing in accordance with the *[Private Security Act 2004 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/private-security-act-2004)* (Vic) which is equivalent to that of an:
         - **A.** unarmed guard (Certificate II – Unarmed Guard), or where appropriate;
         - **B.** a control room operator (Certificate II – Control Room Operator)
     - **(ii)** For the purposes of this clause 2, **Security Officer Duties** includes, but is not limited to:

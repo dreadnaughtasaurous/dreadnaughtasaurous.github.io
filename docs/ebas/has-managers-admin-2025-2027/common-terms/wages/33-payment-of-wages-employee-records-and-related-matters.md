@@ -14,7 +14,7 @@ synonyms: ['payday', 'payslip', 'underpayment', 'termination pay']
 
 **33.2 Employee Records**
 - **(a)** **Payslip**
-  - **(i)** The Act and FW Regulations set out an Employer's obligations with respect to pay slips, including but not limited to a requirement to specify:
+  - **(i)** The Act and [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text) set out an Employer's obligations with respect to pay slips, including but not limited to a requirement to specify:
     - **(A)** the period to which the pay slip relates;
     - **(B)** The amount of wages to which the Employee is entitled;
     - **(C)** If an amount was deducted from the gross amount of the payment, the name or the name and number of the fund or account into which the deduction was paid; and,

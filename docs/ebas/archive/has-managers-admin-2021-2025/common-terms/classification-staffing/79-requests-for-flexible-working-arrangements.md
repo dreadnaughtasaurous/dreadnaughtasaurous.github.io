@@ -17,7 +17,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **79.2** The Employee
 - **(a)** is the parent, or has responsibility for the care, of a child who is of school age or younger;
-- **(b)** is a carer (within the meaning of the Carer Recognition Act 2010);
+- **(b)** is a carer (within the meaning of the [Carer Recognition Act 2010 (Cth)](https://www.legislation.gov.au/C2010A00123/asmade));
 - **(c)** has a disability;
 - **(d)** is 55 or older;
 - **(e)** is experiencing violence from a member of the Employee’s family; or

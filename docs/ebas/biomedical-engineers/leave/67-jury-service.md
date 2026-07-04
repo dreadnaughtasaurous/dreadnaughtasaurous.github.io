@@ -15,7 +15,7 @@ biomedical engineer BME biomedical engineering medical equipment hospital engine
 
 # 67. Jury Service
 
->**Note:** Payments to Employees (other than casuals) for Jury Service is provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources). This clause contains supplementary terms. The Juries Act 2000 (Vic) provides further terms, including those that apply to casuals.
+>**Note:** Payments to Employees (other than casuals) for Jury Service is provided for in the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources). This clause contains supplementary terms. The [Juries Act 2000 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/juries-act-2000/060) provides further terms, including those that apply to casuals.
 
 **67.1** An Employee required to attend for jury service during their ordinary working hours shall be reimbursed by the Employer an amount equal to the difference between:
 

@@ -21,7 +21,7 @@ AHP allied health professional physiotherapist OT occupational therapist social 
 **64.2 Addressing concerns about Fitness for Work**
 
 - **(a)** In the event an Employee’s manager forms a Reasonable Belief as defined at subclause 64.2(b) below that an Employee is unfit to perform their duties, the Employer will discuss their concerns with the Employee in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
-- **(b)** In this clause 64 **Reasonable Belief** means a belief a reasonable person would hold based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 64 permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+- **(b)** In this clause 64 **Reasonable Belief** means a belief a reasonable person would hold based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 64 permits an Employer to act contrary to the [Health Records Act 2001 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/050).
 - **(c)** In this clause 64 **Treating Medical Practitioner** may, where relevant, include a psychologist.
 - **(d)** The Employer will:
   - **(i)** take all reasonable steps to give the Employee an opportunity to address any concerns which are the subject of the Reasonable Belief;

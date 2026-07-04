@@ -27,7 +27,7 @@ synonyms: ['part time', 'regular part-time']
 
 **23.7** Payment in respect of any period of personal leave (where an Employee has an accumulated entitlement) will be made according to the ordinary hours the Employee would have worked on the day or days on which the leave was taken.
 
-**23.8** Any period of annual leave or personal leave will accrue according to the ordinary hours of work in accordance with the NES.
+**23.8** Any period of annual leave or personal leave will accrue according to the ordinary hours of work in accordance with the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 
 **23.9** Notwithstanding the above, a part-time Employee who is employed on a regular basis for four hours or less per week will be paid according to [clause 25](/ebas/has-managers-admin-2025-2027/common-terms/employment/25-casual-employment) (Casual Employment).
 

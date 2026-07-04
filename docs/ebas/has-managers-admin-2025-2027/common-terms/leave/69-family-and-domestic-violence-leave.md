@@ -7,7 +7,7 @@ synonyms: ['domestic violence leave', 'family violence leave', 'fdv leave']
 
 # 69. Family and Domestic Violence Leave
 
->**Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [clause 6](/ebas/has-managers-admin-2025-2027/common-terms/preliminary/6-definitions) (Definitions).
+>**Note:** Family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of immediate family in [clause 6](/ebas/has-managers-admin-2025-2027/common-terms/preliminary/6-definitions) (Definitions).
 
 **69.1 General Principle**
 

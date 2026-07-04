@@ -9,7 +9,7 @@ synonyms: []
 
 **16.1 Requirement to obtain and maintain Working with Children Check**
 
-Where an Employee is required to possess a Working with Children Check in accordance with the *Worker Screening Act 2020* (or its successor), it is a condition of the Employee's employment that they are required to obtain and maintain their own Working with Children Check.
+Where an Employee is required to possess a Working with Children Check in accordance with the *[Worker Screening Act 2020 (Vic)](https://www.legislation.vic.gov.au/as-made/acts/worker-screening-act-2020)* (or its successor), it is a condition of the Employee's employment that they are required to obtain and maintain their own Working with Children Check.
 
 **16.2 Dispute**
 

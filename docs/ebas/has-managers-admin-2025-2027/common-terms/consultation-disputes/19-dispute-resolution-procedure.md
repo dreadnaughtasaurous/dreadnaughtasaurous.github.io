@@ -11,7 +11,7 @@ synonyms: ['disputes', 'grievance procedure']
 - **(a)** For the purpose of this clause 19, a dispute includes a grievance.
 - **(b)** This dispute resolution procedure will apply to any dispute arising in relation to:
   - **(i)** this Agreement (for the avoidance of doubt, this includes a request for flexible working arrangements or a request for an additional 12 months' parental leave); or
-  - **(ii)** the NES.
+  - **(ii)** the [NES](https://www.fairwork.gov.au/employment-conditions/national-employment-standards#tools-and-resources).
 - **(c)** A **Party** for the purposes of this clause is the Employee/s or the Employer that are subject to the dispute, as the context requires.
 - **(d)** A Party to the dispute may choose to be represented at any stage by a representative, including the HWU or employer organisation. A representative, including the HWU or employer organisation on behalf of an Employer, may initiate a dispute.
 

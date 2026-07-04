@@ -16,7 +16,7 @@ synonyms: ['flexible work request']
 **82.3** The specified circumstances are if the Employee:
 - **(a)** is pregnant;
 - **(b)** is the parent, or has responsibility for the care, of a child who is of school age or younger;
-- **(c)** is a carer (within the meaning of the Carer Recognition Act 2010) including one who is caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
+- **(c)** is a carer (within the meaning of the [Carer Recognition Act 2010 (Cth)](https://www.legislation.gov.au/C2010A00123/asmade)) including one who is caring for someone who has a disability, a medical condition (including a terminal or chronic illness), a mental illness or is frail or aged;
 - **(d)** has a disability;
 - **(e)** is 55 or older;
 - **(f)** is experiencing family and domestic violence; or

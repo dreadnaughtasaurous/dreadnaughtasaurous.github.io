@@ -22,7 +22,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 **70A.2** A Doctor will notify the Employer as soon as possible of the date they require absence on defence service. The Doctor will give the Employer proof that the absence relates to defence service, the duration of such absence and the amount received for the relevant defence service period.
 
-**70A.3** In this clause '**absence on defence service**' has the meaning contained in section 24A of the *Defence Reserve Service (Protection) Act 2001 (Cth)*.
+**70A.3** In this clause '**absence on defence service**' has the meaning contained in section 24A of the *[Defence Reserve Service (Protection) Act 2001 (Cth)](https://www.legislation.gov.au/C2004A00776/latest)*.
 
 >**Example:** 
 >The Doctor is on Defence Service leave for the duration of a particular pay period. Were the Doctor not on Defence Service leave in that pay period they would have worked on the Sunday and Monday evening shift of each week of the pay period. The Doctor is entitled to payment as though at work for each of the Sunday and Monday evening shifts, less the amount of payment (not including reimbursements) from the Defence Service for the equivalent time of the Sunday and Monday evening shifts.

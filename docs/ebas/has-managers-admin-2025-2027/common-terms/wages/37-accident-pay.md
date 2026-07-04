@@ -11,7 +11,7 @@ synonyms: ['workers compensation', 'workcover top-up', 'accident make-up pay']
 
 **37.2 Definitions**
 
-For the purposes of this clause, Injury means any physical or mental injury within the meaning of the WIRC Act, and no injury will give rise to an entitlement to accident pay under this clause unless an entitlement exists under the WIRC Act.
+For the purposes of this clause, Injury means any physical or mental injury within the meaning of the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053), and no injury will give rise to an entitlement to accident pay under this clause unless an entitlement exists under the WIRC Act.
 
 **37.3 Accident Pay – Total Incapacity**
 - **(a)** Where an Employee is, or is determined to be, totally incapacitated within the meaning of the WIRC Act, the term accident pay means a weekly payment of an amount representing the difference between:

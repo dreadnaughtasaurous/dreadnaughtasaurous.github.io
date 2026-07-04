@@ -16,7 +16,7 @@ medical specialist consultant specialist doctor VMO visiting medical officer sta
 # 60. Family Violence Leave
 
 > **Note:**
-> Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [subclause 49.2](/ebas/medical-specialists/leave/49-personal-carer-s-leave).
+> Family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of immediate family in [subclause 49.2](/ebas/medical-specialists/leave/49-personal-carer-s-leave).
 
 **60.1 General Principle**
 

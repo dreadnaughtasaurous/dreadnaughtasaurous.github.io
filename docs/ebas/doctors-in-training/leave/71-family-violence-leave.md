@@ -15,7 +15,7 @@ DIT doctor intern resident registrar medical officer HMO RMO PHO junior doctor t
 
 # 71. Family Violence Leave
 
-> **Note:** Family member is defined in section 8 of the Family Violence Protection Act 2008 (Vic) and is broader than the definition of immediate family in [subclause 61.2](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave).
+> **Note:** Family member is defined in section 8 of the [Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008) and is broader than the definition of immediate family in [subclause 61.2](/ebas/doctors-in-training/leave/61-personal-sick-carer-s-leave).
 
 **71.1 General Principle**
 

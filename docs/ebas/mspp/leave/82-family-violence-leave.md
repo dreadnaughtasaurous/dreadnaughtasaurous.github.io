@@ -23,7 +23,7 @@ MSPP medical scientists pharmacists psychologists medical scientist pharmacist p
 
 **82.2 Definition of Family Violence**
 
-Family violence includes physical, sexual, financial, verbal or emotional abuse by a family member as defined by the *Family Violence Protection Act 2008 (Vic).*
+Family violence includes physical, sexual, financial, verbal or emotional abuse by a family member as defined by the *[Family Violence Protection Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008).*
 
 **82.3 Eligibility**
 

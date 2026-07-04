@@ -6,7 +6,7 @@ topics: ['consultation']
 
 # 17. Consultation
 
-*Nothing in this clause limits the Employer's obligations to consult with HSRs under the OHS Act.*
+*Nothing in this clause limits the Employer's obligations to consult with HSRs under the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045).*
 
 **17.1 Consultation regarding major change**
 - **(a)** Where an Employer proposes a Major Change that may have a Significant Effect on an Employee or Employees, the Employer will consult with the affected Employee/s, the HWU, and the Employee’s other chosen representative (where relevant) before any proposed change occurs.
@@ -59,7 +59,7 @@ Under this clause 17:
   - **(v)** measures the Employer is considering that may mitigate or avert the effects of the proposed change;
   - **(vi)** if relevant to the proposed change, the existing and proposed position descriptions, including new roles, those of the Affected Employees or managers where reporting lines change;
   - **(vii)** the right of an affected Employee to have a representative including a HWU representative at any time during the change process; and
-  - **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the Health Services Act 1988 (Vic) or other legislation.
+  - **(viii)** other written material relevant to the reasons for the proposed change (such as consultant reports), excluding material that is commercial in confidence or exposes the Employer to unreasonable legal risk or cannot be disclosed under the [Health Services Act 1988 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-services-act-1988/188) or other legislation.
 - **(b)** Any concerns by an Affected Employee or their representative regarding whether the Change Impact Statement complies with clause **17.4** will be raised as soon as practicable and before step 2.
 
 **17.5 Employee / HWU response (step 2)**

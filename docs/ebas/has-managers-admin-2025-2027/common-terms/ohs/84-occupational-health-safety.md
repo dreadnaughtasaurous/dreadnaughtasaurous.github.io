@@ -14,7 +14,7 @@ synonyms: ['workplace safety', 'ohs', 'health and safety', 'hsr', 'workcover', '
   - **(ii)** the correct use of all personal safety equipment;
   - **(iii)** compliance with duties for communicating occupational health and safety across languages; and
   - **(iv)** to the safety and good health of all Employees.
-- **(c)** The provisions of this Agreement will be read and interpreted in conjunction with the OHS Act as varied from time to time and the WIRC Act as varied from time to time, provided that where there is any inconsistency between a provision of this agreement and the aforementioned Victorian Acts, the Victorian Acts will prevail to the extent of any inconsistency.
+- **(c)** The provisions of this Agreement will be read and interpreted in conjunction with the [OHS Act](https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004/045) as varied from time to time and the [WIRC Act](https://www.legislation.vic.gov.au/in-force/acts/workplace-injury-rehabilitation-and-compensation-act-2013/053) as varied from time to time, provided that where there is any inconsistency between a provision of this agreement and the aforementioned Victorian Acts, the Victorian Acts will prevail to the extent of any inconsistency.
 - **(d)** The parties to the Agreement recognise that consultation with Employees and their representatives is crucial to achieving a healthy and safe work environment for health and allied services Employees. To this end, the Agreement recognises that Employers and Employees must cooperate to control and manage health and safety hazards in the workplace. Hazards include, but are not exclusive to:
   - **(i)** manual handling;
   - **(ii)** blood borne and other infectious diseases;

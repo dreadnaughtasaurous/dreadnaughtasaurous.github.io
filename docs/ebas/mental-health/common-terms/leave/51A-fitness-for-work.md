@@ -29,7 +29,7 @@ In this clause 51A, Treating Practitioner means any AHPRA Registered Health Prac
 **51A.3 Addressing concerns about Fitness for Work**
 
 - **(a)** In the event the Employee's manager forms a reasonable belief (as defined at subclause 51A.3(b) below) that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that Employees can safely undertake and sustain work.
-- **(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+- **(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause permits an Employer to act contrary to the [Health Records Act 2001 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/050).
 - **(c)** The Employer will:
   - **(i)** take all reasonable steps to give the Employee an opportunity to answer any concerns which are the subject of the reasonable belief (which will include the Employer outlining the concern in writing and offering to meet the Employee),
   - **(ii)** recognise the Employee's right to have a representative, including a Union representative, at any time when meeting with the Employer

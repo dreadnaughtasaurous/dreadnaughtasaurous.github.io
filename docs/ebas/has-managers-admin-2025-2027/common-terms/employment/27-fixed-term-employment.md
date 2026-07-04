@@ -38,7 +38,7 @@ which in each case can be terminated earlier than the relevant expiration date i
   - **(vi)** the Employee's position is partially or fully funded by government funding, which has been granted for a set period which is more than 2 years but is unlikely to be renewed;
   - **(vii)** the contract relates to a governance position that has a relevant time limit;
   - **(viii)** a modern award that covers the Employee otherwise allows for the use of a Fixed Term Contract; or
-  - **(ix)** the contract is of a kind prescribed by the FW Regulations.
+  - **(ix)** the contract is of a kind prescribed by the [Fair Work Regulations 2009 (Cth)](https://www.legislation.gov.au/F2009L02356/latest/text).
 
 **27.4** Examples of where fixed term employment may be appropriate include:
 - **(a)** Graduate positions;

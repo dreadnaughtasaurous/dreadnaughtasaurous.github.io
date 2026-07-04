@@ -189,6 +189,86 @@ const LEGISLATION_MAP = {
     url: 'https://www.legislation.gov.au/C2009A00055/latest/text',
     shortName: 'Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)',
   },
+  'Worker Screening Act 2020 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/as-made/acts/worker-screening-act-2020',
+    shortName: 'Worker Screening Act 2020 (Vic)',
+  },
+  'Worker Screening Act 2020': {
+    url: 'https://www.legislation.vic.gov.au/as-made/acts/worker-screening-act-2020',
+    shortName: 'Worker Screening Act 2020 (Vic)',
+  },
+  'Financial Management Act 1994 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/financial-management-act-1994',
+    shortName: 'Financial Management Act 1994 (Vic)',
+  },
+  'Financial Management Act 1994': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/financial-management-act-1994',
+    shortName: 'Financial Management Act 1994 (Vic)',
+  },
+  'Assisted Reproductive Treatment Act 2008 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/assisted-reproductive-treatment-act-2008/030',
+    shortName: 'Assisted Reproductive Treatment Act 2008 (Vic)',
+  },
+  'Assisted Reproductive Treatment Act 2008': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/assisted-reproductive-treatment-act-2008/030',
+    shortName: 'Assisted Reproductive Treatment Act 2008 (Vic)',
+  },
+  'Defence Reserve Service (Protection) Act 2001 (Cth)': {
+    url: 'https://www.legislation.gov.au/C2004A00776/latest',
+    shortName: 'Defence Reserve Service (Protection) Act 2001 (Cth)',
+  },
+  'Defence Reserve Service (Protection) Act 2001': {
+    url: 'https://www.legislation.gov.au/C2004A00776/latest',
+    shortName: 'Defence Reserve Service (Protection) Act 2001 (Cth)',
+  },
+  'Juries Act 2000 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/juries-act-2000/060',
+    shortName: 'Juries Act 2000 (Vic)',
+  },
+  'Juries Act 2000': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/juries-act-2000/060',
+    shortName: 'Juries Act 2000 (Vic)',
+  },
+  'Family Violence Protection Act 2008 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008',
+    shortName: 'Family Violence Protection Act 2008 (Vic)',
+  },
+  'Family Violence Protection Act 2008': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008',
+    shortName: 'Family Violence Protection Act 2008 (Vic)',
+  },
+  'Carer Recognition Act 2010 (Cth)': {
+    url: 'https://www.legislation.gov.au/C2010A00123/asmade',
+    shortName: 'Carer Recognition Act 2010 (Cth)',
+  },
+  'Carer Recognition Act 2010': {
+    url: 'https://www.legislation.gov.au/C2010A00123/asmade',
+    shortName: 'Carer Recognition Act 2010 (Cth)',
+  },
+  'Health Records Act 2001 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/050',
+    shortName: 'Health Records Act 2001 (Vic)',
+  },
+  'Health Records Act 2001': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/050',
+    shortName: 'Health Records Act 2001 (Vic)',
+  },
+  'Disability Services Act 1986 (Cth)': {
+    url: 'https://www.legislation.gov.au/C2004A03370/asmade/1986-12-09/text/original/pdf',
+    shortName: 'Disability Services Act 1986 (Cth)',
+  },
+  'Disability Services Act 1986': {
+    url: 'https://www.legislation.gov.au/C2004A03370/asmade/1986-12-09/text/original/pdf',
+    shortName: 'Disability Services Act 1986 (Cth)',
+  },
+  'Private Security Act 2004 (Vic)': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/private-security-act-2004',
+    shortName: 'Private Security Act 2004 (Vic)',
+  },
+  'Private Security Act 2004': {
+    url: 'https://www.legislation.vic.gov.au/in-force/acts/private-security-act-2004',
+    shortName: 'Private Security Act 2004 (Vic)',
+  },
 }
 
 // ─── Abbreviation patterns ────────────────────────────────────────────────────
@@ -317,12 +397,6 @@ function processFile(filePath) {
   const fileChanges = []
 
   // Per-file "already linked" tracking — keyed by URL, not pattern name.
-  // This is critical: multiple pattern variants can share the same URL
-  // (e.g. 'Superannuation Guarantee (Administration) Act 1992' and
-  // 'Superannuation Guarantee (Administration) Act 1992 (Cth)' both point
-  // to the same legislation.gov.au URL). Keying by URL means whichever
-  // variant fires first marks the URL as done, and all other variants
-  // for the same URL are skipped for the rest of the file.
   const linkedUrls = new Set()
 
   const newLines = body.split('\n').map((line, lineIdx) => {
@@ -333,17 +407,13 @@ function processFile(filePath) {
     let workingLine = line
 
     // ── Pass A: Full formal citation names ───────────────────────────────────
-    // Process in priority order (longest first). For each pattern, if we
-    // haven't linked this URL yet in this file AND the line isn't already
-    // linked to this URL, link the first occurrence on this line.
     for (const { name, url, shortName, regex } of FULL_PATTERNS) {
-      if (linkedUrls.has(url)) continue             // this URL already linked earlier in file
-      if (lineHasLinkTo(workingLine, url)) {        // this line already links to this URL
-        linkedUrls.add(url)                         // mark URL as done for this file
+      if (linkedUrls.has(url)) continue
+      if (lineHasLinkTo(workingLine, url)) {
+        linkedUrls.add(url)
         continue
       }
 
-      // Reset lastIndex because we're reusing the regex across calls
       regex.lastIndex = 0
       const match = regex.exec(workingLine)
       if (!match) continue
@@ -351,12 +421,10 @@ function processFile(filePath) {
       const before = workingLine.substring(0, match.index)
       const after  = workingLine.substring(match.index + match[0].length)
 
-      // Guard: don't link if we're already inside a Markdown link
       const opens  = (before.match(/\[/g) || []).length
       const closes = (before.match(/\]/g) || []).length
       if (opens > closes) continue
 
-      // Guard: don't re-link the display text of an existing link
       if (after.startsWith('](')) continue
 
       const replacement = `[${shortName}](${url})`
@@ -367,13 +435,9 @@ function processFile(filePath) {
     }
 
     // ── Pass B: Abbreviations ─────────────────────────────────────────────────
-    // Abbreviations share URLs with their full formal counterparts (e.g. "NES"
-    // and "National Employment Standards" both point to fairwork.gov.au).
-    // Because we key by URL, if the full form was already linked earlier in
-    // the file, the abbreviation will also be skipped — correct behaviour.
     for (const abbr of ABBREVIATIONS) {
-      if (linkedUrls.has(abbr.url)) continue        // this URL already linked in this file
-      if (lineHasLinkTo(workingLine, abbr.url)) {   // already linked on this line
+      if (linkedUrls.has(abbr.url)) continue
+      if (lineHasLinkTo(workingLine, abbr.url)) {
         linkedUrls.add(abbr.url)
         continue
       }

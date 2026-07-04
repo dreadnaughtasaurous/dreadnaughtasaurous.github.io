@@ -21,7 +21,7 @@ HAS HASMA health administrative services manager administrative worker clerical 
 
 **82.2 Addressing concerns about Fitness for Work**
 - **(a)** In the event the Employee's manager forms a reasonable belief (as defined at subclause 82.2(b) below that an Employee may be unfit to perform their duties, the Employer will act in a timely manner to promote physical, mental and emotional health so that employees can safely undertake and sustain work.
-- **(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 82.2(b) permits an Employer to act contrary to the Health Records Act 2001 (Vic).
+- **(b)** In this clause reasonable belief means a belief based on sufficient evidence that supports a conclusion on the balance of probabilities. Nothing in this clause 82.2(b) permits an Employer to act contrary to the [Health Records Act 2001 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001/050).
 - **(c)** In this clause treating medical practitioner may, where relevant, also include programs such as the ‘Mind Your Head’ program, or a psychologist.
 - **(d)** The Employer will:
   - **(i)** take all reasonable steps to give the Employee an opportunity to answer any concerns which are the subject of the reasonable belief;
