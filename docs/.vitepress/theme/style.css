@@ -52,6 +52,13 @@
    ============================================= */
  
 :root {
+  /* ── Brand typography ──────────────────────────────────────────────
+     Work Sans: headings, subheadings, signage.
+     Karla: body copy.
+     Arial: sanctioned fallback (native on Windows, no extra load).
+     ──────────────────────────────────────────────────────────────── */
+  --wiki-font-heading: 'Work Sans', Arial, sans-serif;
+  --wiki-font-body:    'Karla', Arial, sans-serif;
   /* ── Border radius ── */
   --wiki-radius-sm:   4px;     /* chips, badges, code tags           */
   --wiki-radius-md:   6px;     /* buttons, icons, small controls     */
@@ -1754,7 +1761,7 @@ html {
     color: #333 !important;
     font-style: italic !important;
   }
-
+ 
   /* ── PayTable tabs — show all years, not just the active one ───────────── */
   /* The tab switcher UI is meaningless in print. Show all pay year tables
      stacked, each with its year as a visible heading.                       */
@@ -2059,6 +2066,40 @@ html {
   transition:      filter 0.12s, transform 0.1s;
   line-height:     1;
 }
+
+/* =============================================
+   Brand Typography Overrides
+   ─────────────────────────────────────────────
+   Applies Work Sans to headings and Karla to
+   body copy across the whole site.
+   ============================================= */
+
+:root {
+  --vp-font-family-base: var(--wiki-font-body);
+}
+
+h1, h2, h3, h4, h5, h6,
+.VPNavBarTitle .title,
+.VPHero .name,
+.VPHero .text {
+  font-family: var(--wiki-font-heading);
+  font-weight: 700; /* Bold */
+}
+
+.VPHero .tagline {
+  font-family: var(--wiki-font-heading);
+  font-weight: 300; /* Light */
+}
+
+body, p, li, td, th, .vp-doc {
+  font-family: var(--wiki-font-body);
+  font-weight: 400; /* Regular */
+}
+
+em, i {
+  font-style: italic; /* Karla Regular Italic */
+}
+
 .est-btn:hover  { filter: brightness(1.1); }
 .est-btn:active { transform: scale(0.97); }
  
@@ -2143,29 +2184,4 @@ html {
 [data-high-contrast] .home-section-label::before,
 [data-high-contrast] .si-root .si-label::before {
   display: none;
-}
-
-/* ============================================================
-   Suppress the h2 divider line when h2 immediately follows h1
-   ─────────────────────────────────────────────────────────────
-   VitePress's default .vp-doc h2 style adds a border-top divider
-   plus extra top margin/padding, intended to separate a new
-   section from preceding body text. When h2 is the first heading
-   after the page's h1 (no body text between them), that divider
-   renders as a stray line directly under the title.
-
-   IMPORTANT: DocToolbar.vue inserts <div id="doc-toolbar-anchor">
-   directly after the h1 via insertAdjacentElement('afterend', ...)
-   on every clause page. The real DOM order is:
-     h1 → #doc-toolbar-anchor → h2
-   NOT a plain h1 → h2 pair — so the selector must chain through
-   the anchor, not target h1 + h2 directly. Specificity here is
-   (0,1,3): higher than VitePress's default .vp-doc h2 (0,1,1),
-   so this wins the cascade without needing !important.
-   ============================================================ */
-
-.vp-doc h1 + #doc-toolbar-anchor + h2 {
-  border-top: none;
-  padding-top: 0;
-  margin-top: 24px;
 }

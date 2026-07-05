@@ -29,6 +29,10 @@ head: [
     // data file, not an ES module, so modulepreload does not apply.
     // The WASM bundle (~500KB) is intentionally excluded — it is fetched lazily
     // by pagefind.init() only when the user first opens search.
+    // ── Brand fonts: Work Sans (headings) + Karla (body) ───────────────────
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400&family=Work+Sans:wght@300;500;700&display=swap' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css' }],
     ['link', { rel: 'modulepreload', href: '/pagefind/pagefind.js' }],
     ['link', { rel: 'prefetch', href: '/pagefind/pagefind-entry.json', as: 'fetch', crossorigin: 'anonymous' }],
